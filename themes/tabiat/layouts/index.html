@@ -1,0 +1,68 @@
+{{ define "main" }}
+<div class="home-page">
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <h1>🌲 Türkiye Doğal Alanlar Rehberi</h1>
+            <p class="subtitle">10.000+ milli park, tabiat parkı, kanyon, şelale ve doğal alan</p>
+
+            <!-- Arama (placeholder) -->
+            <div class="search-box">
+                <input type="text" placeholder="Alan adı veya il ara..." id="search-input">
+                <button>Ara</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Popüler İller -->
+    <section class="popular-provinces">
+        <div class="container">
+            <h2>Popüler İller</h2>
+            <div class="province-grid">
+                {{ $provinces := slice "Antalya" "Muğla" "İstanbul" "İzmir" "Konya" "Artvin" "Rize" "Trabzon" }}
+                {{ range $provinces }}
+                <a href="/iller/{{ . | urlize }}/" class="province-card">
+                    {{ . }}
+                </a>
+                {{ end }}
+            </div>
+        </div>
+    </section>
+
+    <!-- Son Eklenen Alanlar -->
+    <section class="recent-areas">
+        <div class="container">
+            <h2>Son Eklenen Alanlar</h2>
+            <div class="areas-grid">
+                {{ range first 12 (where .Site.RegularPages "Type" "alan") }}
+                <article class="area-card">
+                    <h3>
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    </h3>
+                    <p class="meta">📍 {{ .Params.il }}</p>
+                    <p class="type">{{ .Params.alan_turu | humanize }}</p>
+                </article>
+                {{ end }}
+            </div>
+            <div class="text-center">
+                <a href="/alanlar/" class="btn-primary">Tüm Alanlar</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Türlere Göre Keşfet -->
+    <section class="explore-by-type">
+        <div class="container">
+            <h2>Türlere Göre Keşfet</h2>
+            <div class="type-grid">
+                <a href="/turler/milli-park/" class="type-card">🏞️ Milli Parklar</a>
+                <a href="/turler/tabiat-parki/" class="type-card">🌲 Tabiat Parkları</a>
+                <a href="/turler/kanyon/" class="type-card">⛰️ Kanyonlar</a>
+                <a href="/turler/selalesi/" class="type-card">💧 Şelaleler</a>
+                <a href="/turler/gol/" class="type-card">🏔️ Göller</a>
+                <a href="/turler/magara/" class="type-card">🕳️ Mağaralar</a>
+            </div>
+        </div>
+    </section>
+</div>
+{{ end }}

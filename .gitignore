@@ -1,0 +1,49 @@
+# API Keys ve Secrets - KESİNLİKLE GitHub'a gitmesin!
+.env
+.env.local
+.env.production
+*.key
+secrets/
+config/secrets.json
+
+# Hugo
+public/
+resources/
+.hugo_build.lock
+
+# Node.js (content generation scripts)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Python (eğer script için Python kullanılırsa)
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.egg-info/
+
+# Geçici dosyalar
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Review queue ve temp data
+data/review-queue/*.json
+data/temp/
+data/cache/
+
+# Generated content (opsiyonel - eğer sadece scripti GitHub'da tutmak istersen)
+# content/alanlar/
+# content/iller/
+# content/turler/

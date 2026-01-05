@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "tr" }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>{{ block "title" . }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
+
+    {{ if .Description }}
+    <meta name="description" content="{{ .Description }}">
+    {{ else if .Site.Params.description }}
+    <meta name="description" content="{{ .Site.Params.description }}">
+    {{ end }}
+
+    {{ if .Keywords }}
+    <meta name="keywords" content="{{ delimit .Keywords ", " }}">
+    {{ end }}
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="{{ .Title }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ .Permalink }}">
+    {{ if .Params.images }}
+    <meta property="og:image" content="{{ index .Params.images 0 | absURL }}">
+    {{ end }}
+
+    <!-- Canonical -->
+    <link rel="canonical" href="{{ .Permalink }}">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+
+    {{ block "head" . }}{{ end }}
+</head>
+<body>
+    {{ block "header" . }}
+    <header class="site-header">
+        <div class="container">
+            <div class="header-content">
+                <a href="{{ .Site.BaseURL }}" class="logo">
+                    <h1>🌲 {{ .Site.Title }}</h1>
+                </a>
+                <nav class="main-nav">
+                    {{ range .Site.Menus.main }}
+                    <a href="{{ .URL }}">{{ .Name }}</a>
+                    {{ end }}
+                </nav>
+            </div>
+        </div>
+    </header>
+    {{ end }}
+
+    <main class="site-main">
+        {{ block "main" . }}{{ end }}
+    </main>
+
+    {{ block "footer" . }}
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-content">
+                <nav class="footer-nav">
+                    {{ range .Site.Menus.footer }}
+                    <a href="{{ .URL }}">{{ .Name }}</a>
+                    {{ end }}
+                </nav>
+                <p class="copyright">
+                    &copy; {{ now.Year }} {{ .Site.Title }}. Tüm hakları saklıdır.
+                </p>
+            </div>
+        </div>
+    </footer>
+    {{ end }}
+
+    {{ block "scripts" . }}{{ end }}
+</body>
+</html>

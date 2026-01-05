@@ -1,0 +1,32 @@
+{{ define "main" }}
+<div class="content-list">
+    <div class="container">
+        <header class="list-header">
+            <h1>{{ .Title }}</h1>
+            {{ if .Description }}
+            <p>{{ .Description }}</p>
+            {{ end }}
+        </header>
+
+        <div class="list-grid">
+            {{ range .Pages }}
+            <article class="list-item">
+                <h2>
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                </h2>
+                {{ if .Params.il }}
+                <p class="meta">📍 {{ .Params.il }}{{ if .Params.ilce }}, {{ .Params.ilce }}{{ end }}</p>
+                {{ end }}
+                {{ if .Description }}
+                <p class="excerpt">{{ .Description }}</p>
+                {{ end }}
+            </article>
+            {{ end }}
+        </div>
+
+        {{ if .Paginator }}
+        {{ template "_internal/pagination.html" . }}
+        {{ end }}
+    </div>
+</div>
+{{ end }}

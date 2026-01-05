@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "kaynak": "T.C. Tarım ve Orman Bakanlığı DKMP + Wikipedia",
+    "guncelleme_tarihi": "2024-01-01",
+    "toplam_sayi": 0,
+    "notlar": "Bu dosya örnek formattır. Script ile doldurulacak."
+  },
+  "alanlar": [
+    {
+      "id": "koprulu-kanyon-milli-parki",
+      "ad": "Köprülü Kanyon Milli Parkı",
+      "tur": "milli-park",
+      "il": "Antalya",
+      "ilce": "Manavgat",
+      "bolge": "akdeniz",
+      "koordinat": {
+        "lat": 37.2167,
+        "lon": 31.1333
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Köprülü_Kanyon_Milli_Parkı"
+      ],
+      "notlar": "Rafting için ünlü"
+    },
+    {
+      "id": "olimpos-beydaglari-milli-parki",
+      "ad": "Olimpos Beydağları Sahil Milli Parkı",
+      "tur": "milli-park",
+      "il": "Antalya",
+      "ilce": "Kemer",
+      "bolge": "akdeniz",
+      "koordinat": {
+        "lat": 36.4,
+        "lon": 30.5
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Olimpos_Beydağları_Sahil_Milli_Parkı"
+      ],
+      "notlar": "Yanartaş (Chimaera) içerir"
+    }
+  ]
+}

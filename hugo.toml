@@ -1,0 +1,124 @@
+baseURL = 'https://tabiatrehberi.com/'
+languageCode = 'tr-TR'
+title = 'Tabiat Rehberi - Türkiye Doğal Alanlar Ansiklopedisi'
+theme = 'tabiat'
+
+# Hugo ayarları
+paginate = 24
+enableRobotsTXT = true
+enableGitInfo = false
+enableEmoji = false
+
+# Çıktı formatları
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  term = ["HTML", "RSS"]
+
+# Taxonomies (kategorizasyon sistemi)
+[taxonomies]
+  il = 'iller'
+  tur = 'turler'
+  aktivite = 'aktiviteler'
+  bolge = 'bolgeler'
+  tag = 'tags'
+
+# Site parametreleri
+[params]
+  description = "Türkiye'deki milli parklar, tabiat parkları, kanyonlar, şelaleler ve tüm doğal alanlar için kapsamlı rehber ve ansiklopedi."
+  author = "Tabiat Rehberi"
+
+  # SEO
+  enableSEO = true
+  enableSchema = true
+  enableOpenGraph = true
+  enableTwitterCards = true
+
+  # Görsel ayarları
+  defaultImage = "/images/default-placeholder.jpg"
+  imageQuality = 85
+
+  # Kaynak politikası
+  showSources = true
+  showLastVerified = true
+  requireMinSources = 2
+
+  # Harita
+  defaultMapZoom = 12
+  mapProvider = "openstreetmap"
+
+# Markup ayarları (markdown)
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = 'monokai'
+    lineNos = false
+    noClasses = false
+
+# Sitemap
+[sitemap]
+  changefreq = 'weekly'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
+# Menü yapısı
+[menu]
+  [[menu.main]]
+    name = "Alanlar"
+    url = "/alanlar/"
+    weight = 1
+
+  [[menu.main]]
+    name = "İller"
+    url = "/iller/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Türler"
+    url = "/turler/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Aktiviteler"
+    url = "/aktiviteler/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Harita"
+    url = "/harita/"
+    weight = 5
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 6
+
+  [[menu.footer]]
+    name = "Hakkında"
+    url = "/hakkinda/"
+    weight = 1
+
+  [[menu.footer]]
+    name = "Veri Politikası"
+    url = "/veri-politikasi/"
+    weight = 2
+
+  [[menu.footer]]
+    name = "Gizlilik"
+    url = "/gizlilik/"
+    weight = 3
+
+  [[menu.footer]]
+    name = "İletişim"
+    url = "/iletisim/"
+    weight = 4
+
+# İçerik ayarları
+[content]
+  [content.alanlar]
+    requireSources = true
+    requireCoordinates = true
+    requireProvince = true

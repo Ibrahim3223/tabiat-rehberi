@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\n🚀 İlk commit - Tabiat Rehberi proje iskeleti\n\n- Hugo site yapısı ve tema \\(minimal, mobil uyumlu\\)\n- Content type''ları: alanlar, iller, türler, aktiviteler\n- Groq API ile otomatik içerik üretim sistemi\n- Master liste çekme \\(Wikipedia entegrasyonu\\)\n- Kaynak doğrulama ve kalite kontrol\n- Review queue sistemi\n- SEO ve schema.org desteği\n- .gitignore ile API key güvenliği\n- Kapsamlı dokümantasyon\n\n🤖 Generated with [Claude Code]\\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
+    ]
+  }
+}

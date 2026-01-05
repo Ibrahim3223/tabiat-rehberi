@@ -1,0 +1,9 @@
+name = "Tabiat"
+license = "MIT"
+description = "Tabiat Rehberi için özel minimal tema"
+homepage = "https://tabiatrehberi.com"
+min_version = "0.110.0"
+
+[author]
+  name = "Tabiat Rehberi"
+  homepage = "https://tabiatrehberi.com"

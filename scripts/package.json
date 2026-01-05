@@ -1,0 +1,23 @@
+{
+  "name": "tabiat-rehberi-generator",
+  "version": "1.0.0",
+  "description": "İçerik üretim scriptleri - Groq API ile otomatik sayfa oluşturma",
+  "type": "module",
+  "scripts": {
+    "fetch-lists": "node fetch-master-lists.js",
+    "generate": "node generate-content.js",
+    "generate:test": "node generate-content.js --test --limit=10",
+    "validate": "node validate-content.js",
+    "review-queue": "node show-review-queue.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "groq-sdk": "^0.3.2",
+    "axios": "^1.6.2",
+    "js-yaml": "^4.1.0",
+    "gray-matter": "^4.0.3"
+  },
+  "devDependencies": {},
+  "author": "Tabiat Rehberi",
+  "license": "MIT"
+}

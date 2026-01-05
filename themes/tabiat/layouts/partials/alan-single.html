@@ -1,0 +1,122 @@
+<div class="alan-page">
+    <!-- Hero Section -->
+    <div class="alan-hero">
+        {{ if .Params.images.hero.url }}
+        <img src="{{ .Params.images.hero.url }}" alt="{{ .Params.images.hero.alt }}" class="hero-image">
+        {{ end }}
+        <div class="hero-content">
+            <h1>{{ .Title }}</h1>
+            <p class="alan-location">📍 {{ .Params.il }}{{ if .Params.ilce }}, {{ .Params.ilce }}{{ end }}</p>
+        </div>
+    </div>
+
+    <!-- Hızlı Bilgiler Kartı -->
+    <div class="quick-info-card">
+        <h2>Hızlı Bilgiler</h2>
+        <div class="info-grid">
+            <div class="info-item">
+                <strong>Tür:</strong>
+                <span>{{ .Params.alan_turu | humanize }}</span>
+            </div>
+            <div class="info-item">
+                <strong>Bölge:</strong>
+                <span>{{ .Params.bolge | humanize }}</span>
+            </div>
+            {{ if .Params.ziyaret.en_iyi_donem }}
+            <div class="info-item">
+                <strong>En İyi Dönem:</strong>
+                <span>{{ .Params.ziyaret.en_iyi_donem | humanize }}</span>
+            </div>
+            {{ end }}
+            {{ if .Params.ziyaret.zorluk }}
+            <div class="info-item">
+                <strong>Zorluk:</strong>
+                <span>{{ .Params.ziyaret.zorluk | humanize }}</span>
+            </div>
+            {{ end }}
+        </div>
+
+        <!-- Aktiviteler -->
+        {{ if .Params.aktiviteler }}
+        <div class="aktiviteler">
+            <strong>Aktiviteler:</strong>
+            {{ range .Params.aktiviteler }}
+            <span class="tag">{{ . }}</span>
+            {{ end }}
+        </div>
+        {{ end }}
+    </div>
+
+    <!-- Giriş Bilgileri (KRİTİK) -->
+    {{ if .Params.giris }}
+    <div class="giris-bilgileri">
+        <h2>Giriş Ücreti & Saatleri</h2>
+
+        {{ if .Params.giris.dogrulanmadi }}
+        <div class="warning">
+            ⚠️ Bu bilgiler henüz resmi kaynaktan doğrulanmamıştır. Ziyaret öncesi ilgili kurumla iletişime geçmenizi öneririz.
+        </div>
+        {{ end }}
+
+        <table class="info-table">
+            <tr>
+                <th>Giriş Ücreti</th>
+                <td>
+                    {{ if .Params.giris.ucret }}
+                    Yetişkin: {{ .Params.giris.ucret.yetiskin | default "Bilinmiyor" }}<br>
+                    {{ if .Params.giris.ucret.cocuk }}Çocuk: {{ .Params.giris.ucret.cocuk }}<br>{{ end }}
+                    {{ if .Params.giris.ucret.arac }}Araç: {{ .Params.giris.ucret.arac }}{{ end }}
+                    {{ else }}
+                    Bilinmiyor
+                    {{ end }}
+                </td>
+            </tr>
+            <tr>
+                <th>Açılış Saatleri</th>
+                <td>
+                    {{ if .Params.giris.saatler }}
+                    {{ .Params.giris.saatler.acilis | default "Bilinmiyor" }} - {{ .Params.giris.saatler.kapanis | default "Bilinmiyor" }}
+                    {{ else }}
+                    Bilinmiyor
+                    {{ end }}
+                </td>
+            </tr>
+            {{ if .Params.giris.son_dogrulama }}
+            <tr>
+                <th>Son Doğrulama</th>
+                <td><small>{{ .Params.giris.son_dogrulama }}</small></td>
+            </tr>
+            {{ end }}
+        </table>
+    </div>
+    {{ end }}
+
+    <!-- Ana İçerik -->
+    <div class="alan-content">
+        {{ .Content }}
+    </div>
+
+    <!-- Kaynaklar -->
+    {{ if .Params.kaynaklar }}
+    <div class="kaynaklar">
+        <h2>Kaynaklar</h2>
+        <ul>
+            {{ range .Params.kaynaklar }}
+            <li>
+                <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>
+                <small>({{ .tip }})</small>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+    {{ end }}
+
+    <!-- Harita (Koordinat varsa) -->
+    {{ if and .Params.coordinates.lat .Params.coordinates.lon }}
+    <div class="map-container">
+        <h2>Konum</h2>
+        <p>Enlem: {{ .Params.coordinates.lat }}, Boylam: {{ .Params.coordinates.lon }}</p>
+        <p><a href="https://www.google.com/maps?q={{ .Params.coordinates.lat }},{{ .Params.coordinates.lon }}" target="_blank">Google Maps'te Aç</a></p>
+    </div>
+    {{ end }}
+</div>
