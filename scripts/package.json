@@ -5,6 +5,8 @@
   "type": "module",
   "scripts": {
     "fetch-lists": "node fetch-master-lists.js",
+    "add-manual": "node add-manual-area.js",
+    "import-csv": "node import-from-csv.js",
     "generate": "node generate-content.js",
     "generate:test": "node generate-content.js --test --limit=10",
     "validate": "node validate-content.js",

@@ -22,6 +22,9 @@ const OUTPUT_DIR = path.join(__dirname, '../data/master-lists');
 // Wikipedia API endpoint
 const WIKI_API = 'https://tr.wikipedia.org/w/api.php';
 
+// Axios default headers (403 hatasını önlemek için)
+axios.defaults.headers.common['User-Agent'] = 'TabiatRehberi/1.0 (https://tabiatrehberi.com; info@tabiatrehberi.com)';
+
 /**
  * Wikipedia'dan kategori içeriğini çeker
  */
@@ -33,16 +36,23 @@ async function fetchWikipediaCategory(categoryName, limit = 500) {
     list: 'categorymembers',
     cmtitle: `Kategori:${categoryName}`,
     cmlimit: limit,
-    format: 'json'
+    format: 'json',
+    origin: '*'  // CORS için
   };
 
   try {
-    const response = await axios.get(WIKI_API, { params });
+    const response = await axios.get(WIKI_API, {
+      params,
+      headers: {
+        'User-Agent': 'TabiatRehberi/1.0 (https://tabiatrehberi.com)',
+        'Accept': 'application/json'
+      }
+    });
     const members = response.data.query?.categorymembers || [];
     console.log(`  ✅ ${members.length} madde bulundu`);
     return members;
   } catch (error) {
-    console.error(`  ❌ Hata:`, error.message);
+    console.error(`  ❌ Hata:`, error.response?.status, error.message);
     return [];
   }
 }
@@ -57,11 +67,18 @@ async function fetchPageDetails(pageTitle) {
     prop: 'coordinates|pageprops|extracts',
     exintro: true,
     explaintext: true,
-    format: 'json'
+    format: 'json',
+    origin: '*'
   };
 
   try {
-    const response = await axios.get(WIKI_API, { params });
+    const response = await axios.get(WIKI_API, {
+      params,
+      headers: {
+        'User-Agent': 'TabiatRehberi/1.0 (https://tabiatrehberi.com)',
+        'Accept': 'application/json'
+      }
+    });
     const pages = response.data.query?.pages || {};
     const pageId = Object.keys(pages)[0];
 
@@ -136,12 +153,12 @@ function extractProvince(text, title) {
 }
 
 /**
- * Milli parkları çeker
+ * Genel kategori çekme fonksiyonu
  */
-async function fetchMilliParklar() {
-  console.log('\n🏞️  Milli Parklar çekiliyor...\n');
+async function fetchCategory(wikiCategory, outputFile, turKodu, turAdi) {
+  console.log(`\n${turAdi} çekiliyor...\n`);
 
-  const members = await fetchWikipediaCategory('Türkiye\'deki_milli_parklar');
+  const members = await fetchWikipediaCategory(wikiCategory);
   const alanlar = [];
 
   for (const member of members) {
@@ -157,7 +174,7 @@ async function fetchMilliParklar() {
     alanlar.push({
       id: slugify(member.title),
       ad: details.title,
-      tur: 'milli-park',
+      tur: turKodu,
       il: il,
       ilce: '',
       bolge: '',
@@ -178,70 +195,16 @@ async function fetchMilliParklar() {
 
   const output = {
     meta: {
-      kaynak: 'Wikipedia - Türkiye\'deki milli parklar kategorisi',
+      kaynak: `Wikipedia - ${wikiCategory}`,
       guncelleme_tarihi: new Date().toISOString().split('T')[0],
       toplam_sayi: alanlar.length
     },
     alanlar
   };
 
-  const outputPath = path.join(OUTPUT_DIR, 'milli-parklar.json');
+  const outputPath = path.join(OUTPUT_DIR, outputFile);
   fs.writeFileSync(outputPath, JSON.stringify(output, null, 2), 'utf-8');
-  console.log(`\n✅ ${alanlar.length} milli park kaydedildi: ${outputPath}\n`);
-}
-
-/**
- * Tabiat parklarını çeker
- */
-async function fetchTabiatParklari() {
-  console.log('\n🌲 Tabiat Parkları çekiliyor...\n');
-
-  const members = await fetchWikipediaCategory('Türkiye\'deki_tabiat_parkları');
-  const alanlar = [];
-
-  for (const member of members) {
-    if (member.title.startsWith('Kategori:')) continue;
-
-    console.log(`  📄 İşleniyor: ${member.title}`);
-    const details = await fetchPageDetails(member.title);
-
-    if (!details) continue;
-
-    const il = extractProvince(details.extract, details.title);
-
-    alanlar.push({
-      id: slugify(member.title),
-      ad: details.title,
-      tur: 'tabiat-parki',
-      il: il,
-      ilce: '',
-      bolge: '',
-      koordinat: {
-        lat: details.lat,
-        lon: details.lon
-      },
-      olasi_kaynaklar: [
-        'https://www.tarimorman.gov.tr/DKMP',
-        `https://tr.wikipedia.org/wiki/${encodeURIComponent(member.title)}`
-      ],
-      notlar: details.extract.substring(0, 200)
-    });
-
-    await new Promise(resolve => setTimeout(resolve, 500));
-  }
-
-  const output = {
-    meta: {
-      kaynak: 'Wikipedia - Türkiye\'deki tabiat parkları kategorisi',
-      guncelleme_tarihi: new Date().toISOString().split('T')[0],
-      toplam_sayi: alanlar.length
-    },
-    alanlar
-  };
-
-  const outputPath = path.join(OUTPUT_DIR, 'tabiat-parklari.json');
-  fs.writeFileSync(outputPath, JSON.stringify(output, null, 2), 'utf-8');
-  console.log(`\n✅ ${alanlar.length} tabiat parkı kaydedildi: ${outputPath}\n`);
+  console.log(`\n✅ ${alanlar.length} ${turAdi.toLowerCase()} kaydedildi: ${outputPath}\n`);
 }
 
 /**
@@ -249,7 +212,7 @@ async function fetchTabiatParklari() {
  */
 async function main() {
   console.log('🚀 Master Liste Çekme Başlatıldı\n');
-  console.log('=' .repeat(50));
+  console.log('=' .repeat(70));
 
   // Klasör yoksa oluştur
   if (!fs.existsSync(OUTPUT_DIR)) {
@@ -257,33 +220,49 @@ async function main() {
   }
 
   try {
-    await fetchMilliParklar();
-    await fetchTabiatParklari();
-
-    // Diğer kategoriler için placeholder'lar
-    console.log('\n📝 Diğer kategoriler için placeholder dosyalar oluşturuluyor...\n');
-
-    const otherCategories = [
-      'kanyonlar', 'selaleler', 'magaralar', 'goller',
-      'plajlar', 'yaylalar', 'ormanlik-alanlar',
-      'sulak-alanlar', 'kamp-alanlari', 'tabiat-anıtları'
+    // TÜM KATEGORİLER - Wikipedia'dan çekilecek
+    const categories = [
+      { wiki: 'Türkiye\'deki_milli_parklar', file: 'milli-parklar.json', kod: 'milli-park', ad: '🏞️  Milli Parklar' },
+      { wiki: 'Türkiye\'deki_tabiat_parkları', file: 'tabiat-parklari.json', kod: 'tabiat-parki', ad: '🌲 Tabiat Parkları' },
+      { wiki: 'Türkiye\'deki_tabiat_anıtları', file: 'tabiat-anıtları.json', kod: 'tabiat-aniti', ad: '🗿 Tabiat Anıtları' },
+      { wiki: 'Türkiye\'deki_kanyonlar', file: 'kanyonlar.json', kod: 'kanyon', ad: '⛰️  Kanyonlar' },
+      { wiki: 'Türkiye\'deki_şelaleler', file: 'selaleler.json', kod: 'selalesi', ad: '💧 Şelaleler' },
+      { wiki: 'Türkiye\'deki_mağaralar', file: 'magaralar.json', kod: 'magara', ad: '🕳️  Mağaralar' },
+      { wiki: 'Türkiye\'deki_göller', file: 'goller.json', kod: 'gol', ad: '🏔️  Göller' },
+      { wiki: 'Türkiye\'deki_plajlar', file: 'plajlar.json', kod: 'plaj', ad: '🏖️  Plajlar' },
+      { wiki: 'Türkiye\'deki_yaylalar', file: 'yaylalar.json', kod: 'yayla', ad: '🏔️  Yaylalar' },
+      { wiki: 'Türkiye\'nin_sulak_alanları', file: 'sulak-alanlar.json', kod: 'sulak-alan', ad: '🦆 Sulak Alanlar' },
     ];
 
-    for (const category of otherCategories) {
-      const filePath = path.join(OUTPUT_DIR, `${category}.json`);
+    for (const cat of categories) {
+      await fetchCategory(cat.wiki, cat.file, cat.kod, cat.ad);
+    }
+
+    // Ormanlık alanlar ve kamp alanları için placeholder (Wikipedia kategorisi yok)
+    console.log('\n📝 Diğer kategoriler için placeholder dosyalar oluşturuluyor...\n');
+
+    const placeholders = [
+      { file: 'ormanlik-alanlar.json', ad: 'Ormanlık Rekreasyon Alanları' },
+      { file: 'kamp-alanlari.json', ad: 'Resmi Kamp Alanları' }
+    ];
+
+    for (const placeholder of placeholders) {
+      const filePath = path.join(OUTPUT_DIR, placeholder.file);
       if (!fs.existsSync(filePath)) {
         fs.writeFileSync(filePath, JSON.stringify({
           meta: {
-            kaynak: 'Manuel eklenecek',
+            kaynak: 'Manuel veya alternatif kaynaklardan eklenecek',
             guncelleme_tarihi: new Date().toISOString().split('T')[0],
-            toplam_sayi: 0
+            toplam_sayi: 0,
+            notlar: `${placeholder.ad} için Wikipedia kategorisi bulunamadı. Resmi kaynaklardan manuel eklenecek.`
           },
           alanlar: []
         }, null, 2), 'utf-8');
+        console.log(`  📄 Placeholder oluşturuldu: ${placeholder.file}`);
       }
     }
 
-    console.log('\n' + '='.repeat(50));
+    console.log('\n' + '='.repeat(70));
     console.log('✅ Master liste çekme tamamlandı!');
     console.log(`📁 Çıktı klasörü: ${OUTPUT_DIR}\n`);
 
