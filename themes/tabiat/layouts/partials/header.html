@@ -1,0 +1,143 @@
+<header class="site-header" id="siteHeader">
+    <div class="header-container">
+        <!-- Logo -->
+        <a href="{{ .Site.BaseURL }}" class="logo" aria-label="Ana Sayfa">
+            <img src="/logo.png" alt="{{ .Site.Title }}" class="logo-img">
+            <div class="logo-text">
+                <span class="logo-title">Tabiat Rehberi</span>
+                <span class="logo-subtitle">Türkiye Doğal Alanlar</span>
+            </div>
+        </a>
+
+        <!-- Desktop Navigation -->
+        <nav class="main-nav" id="mainNav">
+            <a href="/alanlar/" class="nav-link">
+                <i data-lucide="compass" class="nav-icon"></i>
+                <span>Keşfet</span>
+            </a>
+            <a href="/turler/" class="nav-link">
+                <i data-lucide="layers" class="nav-icon"></i>
+                <span>Türler</span>
+            </a>
+            <a href="/iller/" class="nav-link">
+                <i data-lucide="map-pin" class="nav-icon"></i>
+                <span>İller</span>
+            </a>
+            <a href="/hakkinda/" class="nav-link">
+                <i data-lucide="info" class="nav-icon"></i>
+                <span>Hakkında</span>
+            </a>
+        </nav>
+
+        <!-- Search & Actions -->
+        <div class="header-actions">
+            <button class="search-toggle" id="searchToggle" aria-label="Arama">
+                <i data-lucide="search"></i>
+            </button>
+            <button class="mobile-menu-toggle" id="mobileMenuToggle" aria-label="Menü">
+                <i data-lucide="menu" class="menu-icon"></i>
+                <i data-lucide="x" class="close-icon"></i>
+            </button>
+        </div>
+    </div>
+
+    <!-- Mobile Menu -->
+    <div class="mobile-menu" id="mobileMenu">
+        <nav class="mobile-nav">
+            <a href="/alanlar/" class="mobile-nav-link">
+                <i data-lucide="compass"></i>
+                <span>Keşfet</span>
+            </a>
+            <a href="/turler/" class="mobile-nav-link">
+                <i data-lucide="layers"></i>
+                <span>Türler</span>
+            </a>
+            <a href="/iller/" class="mobile-nav-link">
+                <i data-lucide="map-pin"></i>
+                <span>İller</span>
+            </a>
+            <a href="/hakkinda/" class="mobile-nav-link">
+                <i data-lucide="info"></i>
+                <span>Hakkında</span>
+            </a>
+        </nav>
+    </div>
+
+    <!-- Search Overlay -->
+    <div class="search-overlay" id="searchOverlay">
+        <div class="search-overlay-content">
+            <form action="/arama/" method="get" class="search-form">
+                <i data-lucide="search" class="search-icon"></i>
+                <input type="text" name="q" placeholder="Alan adı, il veya tür ara..." class="search-input" id="searchInput">
+                <button type="button" class="search-close" id="searchClose">
+                    <i data-lucide="x"></i>
+                </button>
+            </form>
+            <div class="search-suggestions">
+                <span class="suggestion-label">Popüler aramalar:</span>
+                <a href="/alanlar/?q=milli+park" class="suggestion-tag">Milli Parklar</a>
+                <a href="/alanlar/?q=selale" class="suggestion-tag">Şelaleler</a>
+                <a href="/alanlar/?q=kanyon" class="suggestion-tag">Kanyonlar</a>
+                <a href="/iller/antalya/" class="suggestion-tag">Antalya</a>
+            </div>
+        </div>
+    </div>
+</header>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const header = document.getElementById('siteHeader');
+    const mobileMenuToggle = document.getElementById('mobileMenuToggle');
+    const mobileMenu = document.getElementById('mobileMenu');
+    const searchToggle = document.getElementById('searchToggle');
+    const searchOverlay = document.getElementById('searchOverlay');
+    const searchClose = document.getElementById('searchClose');
+    const searchInput = document.getElementById('searchInput');
+
+    // Sticky header on scroll
+    let lastScroll = 0;
+    window.addEventListener('scroll', () => {
+        const currentScroll = window.pageYOffset;
+
+        if (currentScroll > 100) {
+            header.classList.add('scrolled');
+        } else {
+            header.classList.remove('scrolled');
+        }
+
+        if (currentScroll > lastScroll && currentScroll > 200) {
+            header.classList.add('hidden');
+        } else {
+            header.classList.remove('hidden');
+        }
+
+        lastScroll = currentScroll;
+    });
+
+    // Mobile menu toggle
+    mobileMenuToggle.addEventListener('click', () => {
+        mobileMenu.classList.toggle('active');
+        mobileMenuToggle.classList.toggle('active');
+        document.body.classList.toggle('menu-open');
+    });
+
+    // Search toggle
+    searchToggle.addEventListener('click', () => {
+        searchOverlay.classList.add('active');
+        setTimeout(() => searchInput.focus(), 300);
+    });
+
+    searchClose.addEventListener('click', () => {
+        searchOverlay.classList.remove('active');
+    });
+
+    // Close search on escape
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') {
+            searchOverlay.classList.remove('active');
+            mobileMenu.classList.remove('active');
+            mobileMenuToggle.classList.remove('active');
+        }
+    });
+});
+</script>

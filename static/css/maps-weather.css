@@ -1,0 +1,168 @@
+/* Google Maps Butonları */
+.map-actions {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-3);
+    margin-top: var(--space-5);
+}
+
+.map-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--space-2);
+    padding: var(--space-3) var(--space-4);
+    background: linear-gradient(135deg, var(--forest-600), var(--forest-700));
+    color: var(--white);
+    border-radius: var(--radius-lg);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: var(--text-sm);
+    transition: all var(--transition-fast);
+    box-shadow: 0 2px 8px rgba(26, 71, 42, 0.15);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.map-button:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(26, 71, 42, 0.25);
+    background: linear-gradient(135deg, var(--forest-700), var(--forest-800));
+}
+
+.map-button svg {
+    width: 18px;
+    height: 18px;
+}
+
+.map-button-secondary {
+    background: linear-gradient(135deg, var(--gold-500), var(--gold-600));
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.map-button-secondary:hover {
+    background: linear-gradient(135deg, var(--gold-600), var(--gold-700));
+}
+
+@media (max-width: 768px) {
+    .map-actions {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Hava Durumu Widget */
+.weather-widget {
+    margin-top: var(--space-5);
+}
+
+.weather-header {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    margin-bottom: var(--space-3);
+    color: var(--forest-800);
+    font-weight: 600;
+    font-size: var(--text-sm);
+}
+
+.weather-header svg {
+    width: 18px;
+    height: 18px;
+}
+
+.weather-content {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.95));
+    border-radius: var(--radius-lg);
+    padding: var(--space-4);
+    border: 1px solid var(--gray-200);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.weather-loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--space-2);
+    padding: var(--space-4);
+    color: var(--gray-600);
+    font-size: var(--text-sm);
+}
+
+.weather-loading svg {
+    width: 18px;
+    height: 18px;
+}
+
+.weather-loading svg.spin {
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+.weather-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-4);
+}
+
+.weather-main {
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+}
+
+.weather-icon {
+    font-size: 48px;
+}
+
+.weather-temp {
+    font-size: var(--text-3xl);
+    font-weight: 700;
+    color: var(--forest-900);
+}
+
+.weather-details {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-1);
+    font-size: var(--text-sm);
+    color: var(--gray-700);
+}
+
+.weather-desc {
+    font-weight: 600;
+    color: var(--forest-800);
+    text-transform: capitalize;
+}
+
+.weather-extra {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-2);
+    margin-top: var(--space-3);
+    padding-top: var(--space-3);
+    border-top: 1px solid var(--gray-200);
+}
+
+.weather-item {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    font-size: var(--text-xs);
+    color: var(--gray-600);
+}
+
+.weather-item svg {
+    width: 16px;
+    height: 16px;
+}
+
+.weather-error {
+    padding: var(--space-4);
+    text-align: center;
+    color: var(--gray-600);
+    font-size: var(--text-sm);
+}

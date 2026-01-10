@@ -1,0 +1,15 @@
+{{- $pages := where .Site.RegularPages "Type" "alan" -}}
+[
+  {{- range $index, $page := $pages -}}
+    {{- if $index }},{{ end }}
+    {
+      "title": {{ $page.Title | jsonify }},
+      "url": {{ $page.Permalink | jsonify }},
+      "type": {{ $page.Params.alan_turu | default "Alan" | jsonify }},
+      "province": {{ $page.Params.il | jsonify }},
+      "district": {{ $page.Params.ilce | default "" | jsonify }},
+      "description": {{ $page.Description | jsonify }},
+      "image": {{ if $page.Params.images.hero.url }}{{ $page.Params.images.hero.url | jsonify }}{{ else }}""{{ end }}
+    }
+  {{- end -}}
+]

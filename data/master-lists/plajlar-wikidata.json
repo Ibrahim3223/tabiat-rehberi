@@ -1,0 +1,2600 @@
+{
+  "meta": {
+    "kaynak": "Wikidata SPARQL",
+    "qid": "Q40080",
+    "guncelleme_tarihi": "2026-01-07",
+    "toplam_sayi": 33
+  },
+  "alanlar": [
+    {
+      "id": "sarigerme",
+      "wikidata_id": "Q7424070",
+      "ad": "Sarıgerme",
+      "tur": "plaj",
+      "il": "Muğla",
+      "ilce": "Ortaca",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.7,
+        "lon": 28.68333333
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sarigerme%20Beach.jpg",
+          "filename": "Sarigerme Beach.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q7424070"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "bambus-plaji",
+      "wikidata_id": "Q49320110",
+      "ad": "Bambus Plajı",
+      "tur": "plaj",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.866388888,
+        "lon": 30.723333333
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49320110"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "didim-plaji",
+      "wikidata_id": "Q49320533",
+      "ad": "Didim Plajı",
+      "tur": "plaj",
+      "il": "Aydın",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.355,
+        "lon": 27.277777777
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49320533"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kleopatra-plaji",
+      "wikidata_id": "Q49321623",
+      "ad": "Kleopatra Plajı",
+      "tur": "plaj",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.55123,
+        "lon": 31.97628
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": "VII. Kleopatra",
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kleopatra%20beach.jpg",
+          "filename": "Kleopatra beach.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Kleopatra_Plaj%C4%B1",
+        "http://www.wikidata.org/entity/Q49321623"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kaputas-plaji",
+      "wikidata_id": "Q284093",
+      "ad": "Kaputaş Plajı",
+      "tur": "plaj",
+      "il": "Antalya",
+      "ilce": "Kaş",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.2292,
+        "lon": 29.4492
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/KAPUTA%C5%9E%20BEACH%20-%20panoramio%20-%20Haluk%20Comertel.jpg",
+          "filename": "KAPUTAŞ BEACH - panoramio - Haluk Comertel.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Kaputa%C5%9F_Plaj%C4%B1",
+        "http://www.wikidata.org/entity/Q284093"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "patara-plaji",
+      "wikidata_id": "Q6978175",
+      "ad": "Patara Plajı",
+      "tur": "plaj",
+      "il": "Antalya",
+      "ilce": "Kaş",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.269471,
+        "lon": 29.2923562
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Patara%20Beach%20%286877323636%29.jpg",
+          "filename": "Patara Beach (6877323636).jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Patara_Plaj%C4%B1",
+        "http://www.wikidata.org/entity/Q6978175"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kadinlar-plaji",
+      "wikidata_id": "Q49321358",
+      "ad": "Kadınlar Plajı",
+      "tur": "plaj",
+      "il": "Aydın",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.844722222,
+        "lon": 27.242777777
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49321358"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kumbahce-plaji",
+      "wikidata_id": "Q49321664",
+      "ad": "Kumbahçe Plajı",
+      "tur": "plaj",
+      "il": "Muğla",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.032222222,
+        "lon": 27.436944444
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49321664"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "konyaalti-plaji",
+      "wikidata_id": "Q2493895",
+      "ad": "Konyaaltı Plajı",
+      "tur": "plaj",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.865,
+        "lon": 30.644444444
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Konyaalt%C4%B1%20Plaj%C4%B1%20-%20panoramio.jpg",
+          "filename": "Konyaaltı Plajı - panoramio.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Konyaalt%C4%B1_Plaj%C4%B1",
+        "http://www.wikidata.org/entity/Q2493895"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kadinlar-plaji-kusadasi",
+      "wikidata_id": "Q6469476",
+      "ad": "Kadınlar Plajı Kuşadası",
+      "tur": "plaj",
+      "il": "Aydın",
+      "ilce": "Kuşadası",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.844708,
+        "lon": 27.242969
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kad%C4%B1nlar%20Denizi%20-%20Ku%C5%9Fadas%C4%B1%2002.jpg",
+          "filename": "Kadınlar Denizi - Kuşadası 02.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q6469476"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "buyuk-cakil-plaji",
+      "wikidata_id": "Q6006166",
+      "ad": "Büyük Çakıl Plajı",
+      "tur": "plaj",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_%C3%87ak%C4%B1l_Plaj%C4%B1",
+        "http://www.wikidata.org/entity/Q6006166"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kucuk-cakil-plaji",
+      "wikidata_id": "Q6010141",
+      "ad": "Küçük Çakıl Plajı",
+      "tur": "plaj",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk_%C3%87ak%C4%B1l_Plaj%C4%B1",
+        "http://www.wikidata.org/entity/Q6010141"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kumluk-plaji",
+      "wikidata_id": "Q49321665",
+      "ad": "Kumluk Plajı",
+      "tur": "plaj",
+      "il": "Muğla",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.725555555,
+        "lon": 27.686666666
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49321665"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kent-park",
+      "wikidata_id": "Q6019963",
+      "ad": "Kent Park",
+      "tur": "plaj",
+      "il": "Eskişehir",
+      "ilce": "Odunpazarı",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.773055555,
+        "lon": 30.549166666
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": 257552,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "2006-01-01",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kentpark%20G%C3%B6let...%20-%20panoramio.jpg",
+          "filename": "Kentpark Gölet... - panoramio.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Kent_Park",
+        "http://www.wikidata.org/entity/Q6019963"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "hastanealti-plaji",
+      "wikidata_id": "Q49320916",
+      "ad": "Hastanealtı Plajı",
+      "tur": "plaj",
+      "il": "Muğla",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.729166666,
+        "lon": 27.689722222
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49320916"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "inkumu",
+      "wikidata_id": "Q31188256",
+      "ad": "İnkumu",
+      "tur": "plaj",
+      "il": "Bartın",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.665543,
+        "lon": 32.223942
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": "https://www.inkumu.com/",
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/%C4%B0nkumu%20beach%2C%20in%202006.jpg",
+          "filename": "İnkumu beach, in 2006.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/%C4%B0nkumu",
+        "http://www.wikidata.org/entity/Q31188256",
+        "https://www.inkumu.com/"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "damlatas-plaji",
+      "wikidata_id": "Q49320494",
+      "ad": "Damlataş Plajı",
+      "tur": "plaj",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.544166666,
+        "lon": 31.985
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49320494"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "gumbet-plaji",
+      "wikidata_id": "Q49320872",
+      "ad": "Gümbet Plajı",
+      "tur": "plaj",
+      "il": "Muğla",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.031944444,
+        "lon": 27.402222222
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49320872"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "lara",
+      "wikidata_id": "Q1882784",
+      "ad": "Lara",
+      "tur": "plaj",
+      "il": "Antalya",
+      "ilce": "Muratpaşa",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.849211,
+        "lon": 30.812927
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Lara",
+        "http://www.wikidata.org/entity/Q1882784"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "bardakci-plaji",
+      "wikidata_id": "Q49320129",
+      "ad": "Bardakçı Plajı",
+      "tur": "plaj",
+      "il": "Muğla",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.029166666,
+        "lon": 27.418055555
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49320129"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kerpe-plaji",
+      "wikidata_id": "Q106889452",
+      "ad": "Kerpe Plajı",
+      "tur": "plaj",
+      "il": "Kocaeli",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.156360434,
+        "lon": 30.196511889
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Kerpe_Plaj%C4%B1",
+        "http://www.wikidata.org/entity/Q106889452"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "sfntu-gheorghe-beach",
+      "wikidata_id": "Q56008278",
+      "ad": "Sfântu Gheorghe Beach",
+      "tur": "plaj",
+      "il": "",
+      "ilce": "Tulcea",
+      "bolge": "",
+      "koordinat": {
+        "lat": 44.8912641,
+        "lon": 29.6219083
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q56008278"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "pasatarlasi-plaji",
+      "wikidata_id": "Q49322480",
+      "ad": "Paşatarlası Plajı",
+      "tur": "plaj",
+      "il": "Muğla",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.028055555,
+        "lon": 27.440833333
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49322480"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "taslik-plaji",
+      "wikidata_id": "Q49324963",
+      "ad": "Taşlık Plajı",
+      "tur": "plaj",
+      "il": "Muğla",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.721111111,
+        "lon": 27.687777777
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49324963"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "gunes-plaji",
+      "wikidata_id": "Q107357505",
+      "ad": "Güneş Plajı",
+      "tur": "plaj",
+      "il": "İstanbul",
+      "ilce": "Bakırköy",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.971388888,
+        "lon": 28.787777777
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/G%C3%BCne%C5%9F_Plaj%C4%B1",
+        "http://www.wikidata.org/entity/Q107357505"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "menekse-plaji",
+      "wikidata_id": "Q107357274",
+      "ad": "Menekşe Plajı",
+      "tur": "plaj",
+      "il": "İstanbul",
+      "ilce": "Küçükçekmece",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.978611111,
+        "lon": 28.7725
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Menek%C5%9Fe_Plaj%C4%B1",
+        "http://www.wikidata.org/entity/Q107357274"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kumsal-halk-plaji",
+      "wikidata_id": "Q49321668",
+      "ad": "Kumsal Halk Plajı",
+      "tur": "plaj",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.543333333,
+        "lon": 32.009722222
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49321668"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "lazbuku",
+      "wikidata_id": "Q118947462",
+      "ad": "Lazbükü",
+      "tur": "plaj",
+      "il": "Rize",
+      "ilce": "Fındıklı",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.319745449,
+        "lon": 41.242036987
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": "Karadeniz",
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Lazb%C3%BCk%C3%BC",
+        "http://www.wikidata.org/entity/Q118947462"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "uzunyali-plaji",
+      "wikidata_id": "Q49325113",
+      "ad": "Uzunyalı Plajı",
+      "tur": "plaj",
+      "il": "Muğla",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.846666666,
+        "lon": 28.259722222
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49325113"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "yenikoy-plaji",
+      "wikidata_id": "Q49325368",
+      "ad": "Yeniköy Plajı",
+      "tur": "plaj",
+      "il": "Bursa",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.396111111,
+        "lon": 28.381666666
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49325368"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "bagirganli-plaji",
+      "wikidata_id": "Q106889431",
+      "ad": "Bağırganlı Plajı",
+      "tur": "plaj",
+      "il": "Kocaeli",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.134373444,
+        "lon": 30.019220616
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Ba%C4%9F%C4%B1rganl%C4%B1_Plaj%C4%B1",
+        "http://www.wikidata.org/entity/Q106889431"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kadikoy-sahili",
+      "wikidata_id": "Q125299505",
+      "ad": "Kadıköy Sahili",
+      "tur": "plaj",
+      "il": "İstanbul",
+      "ilce": "Kadıköy",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.9917781,
+        "lon": 29.022903
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kadeikoey%2C%20Istanbul%20%28LRM%2020191214%20175533%29.jpg",
+          "filename": "Kadeikoey, Istanbul (LRM 20191214 175533).jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q125299505"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "cebeci-plaji",
+      "wikidata_id": "Q106889464",
+      "ad": "Cebeci Plajı",
+      "tur": "plaj",
+      "il": "Kocaeli",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.190222,
+        "lon": 30.254355
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Cebeci_Plaj%C4%B1",
+        "http://www.wikidata.org/entity/Q106889464"
+      ],
+      "notlar": "Wikidata - Plajlar",
+      "veri_kaynagi": "wikidata"
+    }
+  ]
+}

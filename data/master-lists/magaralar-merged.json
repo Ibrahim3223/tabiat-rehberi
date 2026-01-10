@@ -1,0 +1,7184 @@
+{
+  "meta": {
+    "kaynak": "Wikipedia + Wikidata + DKMP (merged)",
+    "guncelleme_tarihi": "2026-01-08",
+    "toplam_sayi": 293,
+    "wikipedia_sayi": 50,
+    "wikidata_sayi": 283,
+    "dkmp_sayi": 0
+  },
+  "alanlar": [
+    {
+      "id": "turkiyedeki-magaralar-listesi",
+      "ad": "Türkiye'deki mağaralar listesi",
+      "tur": "magara",
+      "il": "Adana",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/T%C3%BCrkiye'deki%20ma%C4%9Faralar%20listesi"
+      ],
+      "notlar": "Türkiye'de yaklaşık 40.000 adet mağara bulunmaktadır. Ülke topraklarının %40'ı mağara oluşumuna elverişli yapıdadır. Çoğunluğu Batı ve Orta Toroslar'da olmak üzere 1100 mağaranın incelenmesi tamamlanm",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "afyonkarahisar-buzluk-magarasi",
+      "ad": "Afyonkarahisar Buzluk Mağarası",
+      "tur": "magara",
+      "il": "Afyonkarahisar",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.9808,
+        "lon": 27.7475
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Afyonkarahisar%20Buzluk%20Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q26252345"
+      ],
+      "notlar": "Buzluk Mağarası, Sultandağı ilçesine bağlı Dereçine kasabasının güneyinde, Sultandağlarının 2.519 metre ile en yüksek yeri olan kuzeybatı zirvelerinde yer alan bir mağaradır. Yazın bile buz üretmesi i",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/StMarinaCaveSlivarovo.jpg",
+          "filename": "StMarinaCaveSlivarovo.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q26252345",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "akcakale-magarasi",
+      "ad": "Akçakale Mağarası",
+      "tur": "magara",
+      "il": "Gümüşhane",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ak%C3%A7akale%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Akçakale Mağarası Gümüşhane merkez Akçakale köyü sınırları içerisinde bulunmaktadır.\nŞehir merkezine 10 km mesafede olan Akçakale Mağarası Türkiye'de bulunan mağaralar içerisinde en büyüğü olduğu sanı",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "siklar-magarasi",
+      "ad": "Âşıklar Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "Antalya",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.53,
+        "lon": 31.98805556
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C3%82%C5%9F%C4%B1klar%20Ma%C4%9Faras%C4%B1",
+        "https://tr.wikipedia.org/wiki/%C3%82%C5%9F%C4%B1klar_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q794826"
+      ],
+      "notlar": "Âşıklar Mağarası, Antalya'nın Alanya ilçesinde bir mağaradır.\nAlanya yarımadasının, denize yakın yamacında iki girişli bir mağaradır. Cilvarda Burnu'na doğru teknenin kayalıklara yanaşmasından sonra k",
+      "wikidata_id": "Q794826",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "aynali-magara",
+      "ad": "Aynalı Mağara",
+      "tur": "magara",
+      "il": "Amasya",
+      "ilce": "Amasya",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.6717383,
+        "lon": 35.8425783
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Aynal%C4%B1%20Ma%C4%9Fara",
+        "https://tr.wikipedia.org/wiki/Aynal%C4%B1_Ma%C4%9Fara",
+        "http://www.wikidata.org/entity/Q116169871"
+      ],
+      "notlar": "Aynalı Mağara, Amasya'da bir mağaradır.\nZiyaret Beldesi yolu üzerinde şehir merkezine 3,3 kilometre uzaklıkta yer almaktadır. İşlenmiş Kaya mezarları yer almaktadır. Dört basamakla ulaşılan mezar, düz",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Amasya%20020.jpg",
+          "filename": "Amasya 020.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q116169871",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "aynaligol-magarasi",
+      "ad": "Aynalıgöl Mağarası",
+      "tur": "magara",
+      "il": "Aydın",
+      "ilce": "Aydıncık",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.1311,
+        "lon": 33.4025
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Aynal%C4%B1g%C3%B6l%20Ma%C4%9Faras%C4%B1",
+        "https://tr.wikipedia.org/wiki/Aynal%C4%B1g%C3%B6l_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q18125116"
+      ],
+      "notlar": "Gilindire veya Aynalıgöl Mağarası, Mersin'e bağlı Aydıncık ilçesinin 7,5 km güneydoğusunda, Sancak Burnu ile Kurtini Deresi arasında yer alan mağara. Bir çoban tarafından tesadüf eseri bulunuştur. Gir",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/31.Gilindire%20Cave%20Ayd%C4%B1nc%C4%B1k.jpg",
+          "filename": "31.Gilindire Cave Aydıncık.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q18125116",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "ayvaini-magarasi",
+      "ad": "Ayvaini Mağarası",
+      "tur": "magara",
+      "il": "Bursa",
+      "ilce": "Nilüfer",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.126111111,
+        "lon": 28.706944444
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ayvaini%20Ma%C4%9Faras%C4%B1",
+        "https://tr.wikipedia.org/wiki/Ayvaini_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q2975410"
+      ],
+      "notlar": "Ayvaini Mağarası, Uluabat Gölü'nün güney bölümünde yer alan mağaranın iki girişi vardır. Birinci giriş Bursa, Mustafakemalpaşa ilçesine bağlı Doğanalan'dan, diğer girişi yeraltı sularının yer üstüne ç",
+      "wikidata_id": "Q2975410",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "ballica-magarasi",
+      "ad": "Ballıca Mağarası",
+      "tur": "magara",
+      "il": "Tokat",
+      "ilce": "Pazar",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.2272,
+        "lon": 36.3014
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ball%C4%B1ca%20Ma%C4%9Faras%C4%B1",
+        "https://tr.wikipedia.org/wiki/Ball%C4%B1ca_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q4852313"
+      ],
+      "notlar": "Ballıca Mağarası, bilinen diğer adıyla İndere, Karadeniz Bölgesi'nde, Tokat'ın ismini de verdiği Ballıca köyünde bulunan mağaradır.\nOluşumu yaklaşık 3,4 milyon yıl önce başladığı tahmin edilen Ballıca",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ballica-magarasi%20109064.jpg",
+          "filename": "Ballica-magarasi 109064.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q4852313",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "buz-magarasi-halac-dogubayazit",
+      "ad": "Buz Mağarası (Halaç, Doğubayazıt)",
+      "tur": "magara",
+      "il": "Ağrı",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Buz%20Ma%C4%9Faras%C4%B1%20(Hala%C3%A7%2C%20Do%C4%9Fubayaz%C4%B1t)"
+      ],
+      "notlar": "Buz Mağarası, Ağrı ili, Doğubeyazıt ilçesi Hallaç Köyü'nün yaklaşık 3 kilometre kuzeydoğusunda Küçükağrı Dağı'nın güney eteğinde bulunmaktadır.\n5137 metre'lik Ağrı dağı'nın güney eteklerinde uzanan Do",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "cehennemagzi-magarasi",
+      "ad": "Cehennemağzı Mağarası",
+      "tur": "magara",
+      "il": "Kilis",
+      "ilce": "Zonguldak",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.316944444,
+        "lon": 31.449166666
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Cehennema%C4%9Fz%C4%B1%20Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q49319098"
+      ],
+      "notlar": "Cehennemağzı Mağarası, Zonguldak ili, Ereğli ilçesi merkezinde yer alan mağara. Antik dönemdeki adı Achelon Vadisi, Ayazma (kutsal su) olan alandadır. Yan yana üç mağaradan oluşur.\nBirinci mağaranın g",
+      "wikidata_id": "Q49319098",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "cennet-ve-cehennem-cokukleri",
+      "ad": "Cennet ve Cehennem Çökükleri",
+      "tur": "magara",
+      "il": "Van",
+      "ilce": "Silifke",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.4525,
+        "lon": 34.105555555
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Cennet%20ve%20Cehennem%20%C3%87%C3%B6k%C3%BCkleri",
+        "https://tr.wikipedia.org/wiki/Cennet_ve_Cehennem_%C3%87%C3%B6k%C3%BCkleri",
+        "http://www.wikidata.org/entity/Q474939"
+      ],
+      "notlar": "Cennet ve Cehennem Çökükleri veya Cennet ve Cehennem Obrukları, Silifke ilçe merkezine 25 km mesafede Antik Narlıkuyu Limanının 2 km kuzeybatısında, Korykos'un (Kızkalesi) 5 km batısında yer almaktadı",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/023%20Cennetobrugu.07.2006%20resize.JPG",
+          "filename": "023 Cennetobrugu.07.2006 resize.JPG",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q474939",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "cal-magarasi",
+      "ad": "Çal Mağarası",
+      "tur": "magara",
+      "il": "Kars",
+      "ilce": "Kayseri",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.543888888,
+        "lon": 36.545
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C3%87al%20Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q49319528"
+      ],
+      "notlar": "Çal Mağarası, Trabzon'un Düzköy ilçesinde bulunan bir mağaradır. 2000 yılında yapımı tamamlanan ve 2003'te halkın turizme açılan mağara, bazı kaynaklara göre 1116, bazı kaynaklara göre ise 1050 metre ",
+      "wikidata_id": "Q49319528",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "cimagil-magarasi",
+      "ad": "Çımağıl Mağarası",
+      "tur": "magara",
+      "il": "Bayburt",
+      "ilce": "Çorum",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.545833333,
+        "lon": 35.2775
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C3%87%C4%B1ma%C4%9F%C4%B1l%20Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q49319901"
+      ],
+      "notlar": "Çımağıl Mağarası veya Çimağıl Mağarası, Bayburt ilinin Merkez ilçesinde bulunan bir mağaradır. Bazı kaynaklara göre 110, bazı kaynaklara göre 600 metre, bazı kaynaklara göre ise 1010 uzunluğunda olan ",
+      "wikidata_id": "Q49319901",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "cimenici-magarasi",
+      "ad": "Çimeniçi Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C3%87imeni%C3%A7i%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Çimenini mağarası, Antalya'nın Alanya ilçesinde bir mağaradır.\nMağara, Alanya'nın doğusundaki Cebireas'ın güney eteğinde, Şıhlar mahallesi yakınlarında bulunur. Konya - Gazipaşa yolunun, Demirtaş buca",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "damlatas-magarasi-hatay",
+      "ad": "Damlataş Mağarası (Hatay)",
+      "tur": "magara",
+      "il": "Hatay",
+      "ilce": "Alanya",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.542330555,
+        "lon": 31.988222222
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Damlata%C5%9F%20Ma%C4%9Faras%C4%B1%20(Hatay)",
+        "https://tr.wikipedia.org/wiki/Damlata%C5%9F_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q1158600"
+      ],
+      "notlar": "Damlataş (Sincan) Mağarası, Hatay ili, Payas ilçesi, Sincan köyü yakınlarındaki karstik mağara. Nur dağları yamaçlarında, 542 m yükseklikte ve 95 m uzunluğundadır. Jura–Kratese yaşlı dolomit ile dolom",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Damlata%C5%9F.jpg",
+          "filename": "Damlataş.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q1158600",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "derya-magarasi",
+      "ad": "Derya Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Derya%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Derya Mağarası, Antalya'nın batı kıyısında Konyaaltı Caddesi ile deniz kıyısı arasında bulunan Atatürk Parkı'nın içinde bulunan bir mağaradır.\n124 metre toplam uzunluğundaki mağaranın girişe göre en d",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "dicle-tuneli",
+      "ad": "Dicle Tüneli",
+      "tur": "magara",
+      "il": "Diyarbakır",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Dicle%20T%C3%BCneli"
+      ],
+      "notlar": "Dicle Tüneli (Bırkleyn Mağaraları), Diyarbakır ili, Lice ilcesinde bulunan coğrafi ve arkeolojik alandır.\nDiyarbakır merkezin 90 km kuzeyinde, Lice, Abalı köyüne 1,5 km uzaklıktadır. Birbirine paralel",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "direkli-magarasi",
+      "ad": "Direkli Mağarası",
+      "tur": "magara",
+      "il": "Kahramanmaraş",
+      "ilce": "Döngel",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.86307763,
+        "lon": 36.644267013
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Direkli%20Ma%C4%9Faras%C4%B1",
+        "https://tr.wikipedia.org/wiki/Direkli_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q118955996"
+      ],
+      "notlar": "Direkli Mağarası, Kahramanmaraş ili'nin 38 km kuzeybatısındaki Döngel köy sınırları içinde bulunmaktadır.",
+      "wikidata_id": "Q118955996",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "efkerit-magarasi",
+      "ad": "Efkerit Mağarası",
+      "tur": "magara",
+      "il": "Tokat",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Efkerit%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Efkerit Vadisi ve Luvi Tapınağı, Anadolu'da yaşayan ilk kavim olan Luviler'in Tokat/Niksar ilçesinde vadide yapılan arkeolojik kazılar sonucunda bulunan mezar kalıntıları, tümülüsler, kalıntılar sebeb",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "elazig-buzluk-magarasi",
+      "ad": "Elazığ Buzluk Mağarası",
+      "tur": "magara",
+      "il": "Elazığ",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Elaz%C4%B1%C4%9F%20Buzluk%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Buzluk Mağarası, Elazığ yakınlarındaki Harput antik kentinde bulunan mağaradır. Elazığ merkeze 12 km, Harput'a 6 km uzaklıkta, Harput Platosu üzerindeki Buzluk Tepe'nin kuzey yamacındadır. Buzluk Tepe",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "gokgol-magarasi",
+      "ad": "Gökgöl Mağarası",
+      "tur": "magara",
+      "il": "Ankara",
+      "ilce": "Zonguldak",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.44305556,
+        "lon": 31.83138889
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/G%C3%B6kg%C3%B6l%20Ma%C4%9Faras%C4%B1",
+        "https://tr.wikipedia.org/wiki/G%C3%B6kg%C3%B6l_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q5626477"
+      ],
+      "notlar": "Gökgöl Mağarası, Zonguldak'ın Üzülmez bölgesinde bulunan aktif bir damlataş mağarasıdır.\nKollarıyla birlikte 3350 metre uzunluğunda olan Gökgöl Mağarası, Türkiye'nin en uzun onuncu mağarası ve 875 met",
+      "wikidata_id": "Q5626477",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "gurcuoluk-magarasi",
+      "ad": "Gürcüoluk Mağarası",
+      "tur": "magara",
+      "il": "Bartın",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.72611111,
+        "lon": 32.46555556
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/G%C3%BCrc%C3%BColuk%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Gürcüoluk Mağarası, Bartın ili Amasra ilçesi, Makaracı Köyü sınırlarında yer alan karstik mağara.\n169 m uzunluğundaki mağara tek galeri damlataş birikmeleriyle bölünmüştür. İki salon ve büyüklü küçükl",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "guvercinlik-magarasi",
+      "ad": "Güvercinlik Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/G%C3%BCvercinlik%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Güvercinlik Mağarası, Antalya'nın Kaş ilçesinde bir mağaradır.\nİnce Burun'un arkasında yer alan bu mağara Kalkan'a 2 km mesafededir. Güvercinlik Deniz Mağarası, çok sayıda yabani güvercini barındırmak",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "iliksu-magarasi",
+      "ad": "Ilıksu Mağarası",
+      "tur": "magara",
+      "il": "Zonguldak",
+      "ilce": "Zonguldak",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.39694444,
+        "lon": 31.77833333
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Il%C4%B1ksu%20Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q24915646"
+      ],
+      "notlar": "Ilıksu Mağarası, Türkiye’nin kuzeyinde Zonguldak ilinde, Zonguldak–Ereğli karayolu üzerinde deniz kıyısında yer alan bir mağaradır. Mağaranın içinde bir yer altı nehri bulunmaktadır. Yaklaşık 800 metr",
+      "wikidata_id": "Q24915646",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "incirliin-magarasi",
+      "ad": "İncirliin Mağarası",
+      "tur": "magara",
+      "il": "Aydın",
+      "ilce": "Muğla",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.18972222,
+        "lon": 27.76194444
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C4%B0ncirliin%20Ma%C4%9Faras%C4%B1",
+        "https://tr.wikipedia.org/wiki/%C4%B0ncirliin_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q30625593"
+      ],
+      "notlar": "İncirliin Mağarası, Muğla ilinde bulunan halka açık bir turistik mağaradır.\nİncirliin Mağarası Muğla ilinin Milas ilçesine bağlı Gökçeler Kanyonu içerisinde yer almaktadır. Kanyon bölgesinde bulunan 3",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gokcelerdamlatasrakip1305%2015.JPG",
+          "filename": "Gokcelerdamlatasrakip1305 15.JPG",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q30625593",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "inkaya-magarasi",
+      "ad": "İnkaya Mağarası",
+      "tur": "magara",
+      "il": "İzmir",
+      "ilce": "Güzelbahçe",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.33325,
+        "lon": 26.832611111
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C4%B0nkaya%20Ma%C4%9Faras%C4%B1",
+        "https://tr.wikipedia.org/wiki/%C4%B0nkaya_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q18165020"
+      ],
+      "notlar": "İnkaya Mağarası, İzmir ili, Güzelbahçe ilçesi, Yelki Mahallesi sınırlarında, Kocadağ'ın doğu yamacında bulunan mağaradır.\nUzunluğu 222 m, derinliği girişe göre-30 m'dir. Çoğunlukla yatay, bazen dikey ",
+      "wikidata_id": "Q18165020",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "insuyu-magarasi",
+      "ad": "İnsuyu Mağarası",
+      "tur": "magara",
+      "il": "Burdur",
+      "ilce": "Burdur",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.677777777,
+        "lon": 30.4
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C4%B0nsuyu%20Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q49319932"
+      ],
+      "notlar": "İnsuyu Mağarası, Burdur il merkezine göre güneydoğuda 10 km uzaklıkta bulunmaktadır. Çatağıl Köyü sınırları içerisindedir. Uzunluğu 597 metre ve en geniş yeri 80 metre civarındadır. Birbirine bağlı 9 ",
+      "wikidata_id": "Q49319932",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "kadiini-magarasi",
+      "ad": "Kadıini Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.586639,
+        "lon": 32.079016
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kad%C4%B1ini%20Ma%C4%9Faras%C4%B1",
+        "https://tr.wikipedia.org/wiki/Kad%C4%B1ini_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q6653195"
+      ],
+      "notlar": "Kadıini Mağarası, Antalya'nın Alanya ilçesinde bir mağara.\nMağara, Alanya'nın 15 kilometre kuzeydoğusunda Çatak mevkiindedir. Kent merkezindeki Damlataş Mağarası'ndan üç kat büyük sarkıt ve dikitleri ",
+      "wikidata_id": "Q6653195",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "kaklik-magarasi",
+      "ad": "Kaklık Mağarası",
+      "tur": "magara",
+      "il": "Ankara",
+      "ilce": "Denizli",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.855808,
+        "lon": 29.385677
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kakl%C4%B1k%20Ma%C4%9Faras%C4%B1",
+        "https://tr.wikipedia.org/wiki/Kakl%C4%B1k_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q69048047"
+      ],
+      "notlar": "Kaklık Mağarası, Denizli - Ankara karayolunda Denizli il merkezine 30 km mesafede Honaz ilçesinin Kaklık kasabasındadır.\nKaklık Mağarası damlataşları, sarkıtlar ve dikitlerle süslü olup Pamukkale'de b",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kakl%C4%B1k%20Cave%20-%20panoramio.jpg",
+          "filename": "Kaklık Cave - panoramio.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q69048047",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "karaca-magarasi",
+      "ad": "Karaca Mağarası",
+      "tur": "magara",
+      "il": "Gümüşhane",
+      "ilce": "Döşemealtı",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.077777777,
+        "lon": 30.570833333
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Karaca%20Ma%C4%9Faras%C4%B1",
+        "https://tr.wikipedia.org/wiki/Karain_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q1062421"
+      ],
+      "notlar": "Karaca Mağarası, Gümüşhane'nin Torul ilçesine bağlı Cebeli köyü içerisindedir. Mağarada damlataşı şekilleri, sarkıtlar, dikitler, sütunlar, org desenli duvarlar, mağara çiçekleri, mağara incileri ve t",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Karain%20-%20Cave%20Chamber.jpg",
+          "filename": "Karain - Cave Chamber.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q1062421",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "kayaalti-magarasi",
+      "ad": "Kayaaltı Mağarası",
+      "tur": "magara",
+      "il": "Diyarbakır",
+      "ilce": "Çermik",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kayaalt%C4%B1%20Ma%C4%9Faras%C4%B1",
+        "https://tr.wikipedia.org/wiki/Kayaalt%C4%B1_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q85964494"
+      ],
+      "notlar": "Kayaaltı Mağarası, Diyarbakır'ın Çermik ilçesindeki Sinek Çayı'nın çıktığı yerde bulunan paleolitik döneme ait bir kayaaltı mağarasıdır. Mağaranın duvarlarında av resimleri (11 avcı, 14 av) yer almakt",
+      "wikidata_id": "Q85964494",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "korsanlar-magarasi",
+      "ad": "Korsanlar Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "Antalya",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.53,
+        "lon": 31.990833333
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Korsanlar%20Ma%C4%9Faras%C4%B1",
+        "https://tr.wikipedia.org/wiki/Korsanlar_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q6608996"
+      ],
+      "notlar": "Korsanlar Mağarası, Antalya'nın Alanya ilçesinde bulunan bir mağaradır.\nKorsanlar Mağarası, Alanya Kalesi'nin bulunduğu tarihi yarımadanın altında bir deniz mağarasıdır. Teknelerle gidilir. Yarımada ç",
+      "wikidata_id": "Q6608996",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "koskarli-magarasi",
+      "ad": "Koskarlı Mağarası",
+      "tur": "magara",
+      "il": "Trabzon",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Koskarl%C4%B1%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Koskarlı Mağarası, Trabzon'un Düzköy ilçesinde bulunan bir mağaradır. Trabzon'daki en eski işlenmiş taşlara rastlanan mağaradaki aletler ilk incelemelere göre MÖ 11. binyıla tarihlenmektedir.",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "maraspoli-magarasi",
+      "ad": "Maraspoli Mağarası",
+      "tur": "magara",
+      "il": "Karaman",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.645303714,
+        "lon": 32.907481905
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Maraspoli%20Ma%C4%9Faras%C4%B1",
+        "https://tr.wikipedia.org/wiki/Maraspoli_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q97321172"
+      ],
+      "notlar": "Maraspoli Mağarası, Karaman'ın Ermenek ilçesinde bulunan dünyanın bilinen üçüncü büyük mağarası.\nErmenek'in kuzeyindeki dağların kaya bloklarının altında suların kireçli kayaları oyması ile meydana ge",
+      "wikidata_id": "Q97321172",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "mencilis-magarasi",
+      "ad": "Mencilis Mağarası",
+      "tur": "magara",
+      "il": "Bolu",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.274813466,
+        "lon": 32.624325391
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Mencilis%20Ma%C4%9Faras%C4%B1",
+        "https://tr.wikipedia.org/wiki/Mencilis_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q31188834"
+      ],
+      "notlar": "Mencilis Mağarası, Karabük ili, Bulak köyü sınırlarında bulunan Türkiye'nin en uzun 5. mağarasıdır.\nMağara, yatay uzanışlı, aktif ve fosil bölümlerden oluşan çok katlı bir oluşumdur. Uzunluğunun 6052 ",
+      "wikidata_id": "Q31188834",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "peynirini-magarasi-derbent",
+      "ad": "Peynirini Mağarası (Derbent)",
+      "tur": "magara",
+      "il": "Konya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.98547222,
+        "lon": 32.08511111
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Peynirini%20Ma%C4%9Faras%C4%B1%20(Derbent)"
+      ],
+      "notlar": "Peynirini Mağarası, Konya ili, Derbent ilçesi Mülayim köyünde yer alan mağaradır.",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "pileki-magarasi",
+      "ad": "Pileki Mağarası",
+      "tur": "magara",
+      "il": "Rize",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.99,
+        "lon": 40.375
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Pileki%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Pileki Mağarası, Rize ilinin İyidere ilçesinde yer alan yapay bir mağaradır. Mağarada birçok tünel, kuyu ve göl bulunmaktadır. Mağarada iki büyük giriş bulunmaktadır.\n\n",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "savangin",
+      "ad": "Savangin",
+      "tur": "magara",
+      "il": "Artvin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Savangin",
+        "http://www.wikidata.org/entity/Q7427817"
+      ],
+      "notlar": "Savangin, bilinmeyen veya çözülmemiş bir alfabeyle yazılmış bir yazıta ev sahipliği yapan tarih öncesi bir mağaradır. 1995 yılında Osman Aytekin ve ekibi tarafından Artvin'in Yusufeli ilçesine bağlı B",
+      "wikidata_id": "Q7427817",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "sirtlanini-magarasi",
+      "ad": "Sırtlanini Mağarası",
+      "tur": "magara",
+      "il": "Aydın",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/S%C4%B1rtlanini%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Sırtlanini Mağarası Aydın ilinin Karacasu ilçesi sınırları içinde yer alan bir mağaradır. İlçe merkezine 13,5 km uzaklıktaki Çamarası mahallesi, Sırtlan deliği mevkiinde bulunmaktadır. Afrodisias anti",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "sofular-magarasi",
+      "ad": "Sofular Mağarası",
+      "tur": "magara",
+      "il": "Zonguldak",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.44684,
+        "lon": 31.96463
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Sofular%20Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q24915648"
+      ],
+      "notlar": "Sofular Mağarası, Zonguldak ilinde, eski Zonguldak–Çaycuma karayolunun yaklaşık 10. kilometresinde, Sofular Vadisi'nin yamaçlarında yer alan bir mağaradır. Mağara; jeolojik yapısı, paleoiklim araştırm",
+      "wikidata_id": "Q24915648",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "sulu-magara-kirikkale",
+      "ad": "Sulu Mağara (Kırıkkale)",
+      "tur": "magara",
+      "il": "Kırıkkale",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Sulu%20Ma%C4%9Fara%20(K%C4%B1r%C4%B1kkale)"
+      ],
+      "notlar": "Sulu Mağara, Kırıkkale ilinin Keskin ilçesinde yer alan tarihî bir mağaradır.",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "taskuyu-magarasi",
+      "ad": "Taşkuyu Mağarası",
+      "tur": "magara",
+      "il": "Kilis",
+      "ilce": "Tarsus",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.950348,
+        "lon": 34.787384
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ta%C5%9Fkuyu%20Ma%C4%9Faras%C4%B1",
+        "https://tr.wikipedia.org/wiki/Ta%C5%9Fkuyu_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q20471828"
+      ],
+      "notlar": "Taşkuyu mağarası, Mersin ili Tarsus ilçesinin yaklaşık 10 km kuzeybatısında, Taşkuyu Köyü'nde bulunan mağara. Taşkuyu Mağarası; permo-karbonifer yaşlı mermerler ile bunları örten miyosen yaşlı kireçta",
+      "wikidata_id": "Q20471828",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "tinaztepe-magarasi",
+      "ad": "Tınaztepe Mağarası",
+      "tur": "magara",
+      "il": "Aydın",
+      "ilce": "Seydişehir",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.264805555,
+        "lon": 31.926722222
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/T%C4%B1naztepe%20Ma%C4%9Faras%C4%B1",
+        "https://tr.wikipedia.org/wiki/T%C4%B1naztepe_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q6047459"
+      ],
+      "notlar": "Tınaztepe Mağarası, Seydişehir, Konya'da yer alan büyük bir karstik mağaradır. 22 km toplam uzunluğu ve 1.580 metre gezilebilen kısmıyla, Türkiye'nin en uzun mağaralarından biridir.  \nMağara, yatay ol",
+      "wikidata_id": "Q6047459",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "tulumtas-magarasi",
+      "ad": "Tulumtaş Mağarası",
+      "tur": "magara",
+      "il": "Ankara",
+      "ilce": "Gölbaşı",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.774316,
+        "lon": 32.6835322
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Tulumta%C5%9F%20Ma%C4%9Faras%C4%B1",
+        "https://tr.wikipedia.org/wiki/Tulumta%C5%9F_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q6032063"
+      ],
+      "notlar": "Tulumtaş Mağarası, Tulumtaş Mahallesi hudutları içinde, Karayatak mevkiinde, Ankara Çevre Yolu kenarında bulunmaktadır.\n1992 yılında, Ankara Çevre Yolu yapımı sırasına taş ocağı olarak kullanılan alan",
+      "wikidata_id": "Q6032063",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "tuz-magarasi",
+      "ad": "Tuz Mağarası",
+      "tur": "magara",
+      "il": "Çankırı",
+      "ilce": "Çankırı",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.511388888,
+        "lon": 33.777222222
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Tuz%20Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q49319868"
+      ],
+      "notlar": "Tuz Mağarası, Çankırı ili, Balıbağı köyü sınırları içerisinde bulunan, kaya tuzu çıkarılması sonucu oluşmuş bir mağaradır.",
+      "wikidata_id": "Q49319868",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "yarimburgaz-magarasi",
+      "ad": "Yarımburgaz Mağarası",
+      "tur": "magara",
+      "il": "Bilinmiyor",
+      "ilce": "Altınşehir",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.0754,
+        "lon": 28.7416
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Yar%C4%B1mburgaz%20Ma%C4%9Faras%C4%B1",
+        "https://tr.wikipedia.org/wiki/Yar%C4%B1mburgaz_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q6537899"
+      ],
+      "notlar": "Yarımburgaz Mağarası, 400.000 yıllık geçmişiyle dünyanın en eski yerleşim yerlerinden olan ve 2001 yılında 1. Derece Arkeolojik-Doğal Sit Alanı statüsüne alınan bir mağaradır. Mağara Afrika'dan dünyay",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Yar%C4%B1mburgazCave%20%282%29.JPG",
+          "filename": "YarımburgazCave (2).JPG",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q6537899",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "yenesu-magarasi",
+      "ad": "Yenesu Mağarası",
+      "tur": "magara",
+      "il": "Kırklareli",
+      "ilce": "Demirköy",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.6192,
+        "lon": 27.9422
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Yenesu%20Ma%C4%9Faras%C4%B1",
+        "https://tr.wikipedia.org/wiki/Yenesu_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q3449521"
+      ],
+      "notlar": "Yenesu Mağarası, Kırklareli ili, Vize ilçesi, Balkaya Köyü sınırlarında bulunur. Balkaya Köyü'nün doğusundaki Kazandere'nin kolu olan Yandere'nin sağ yanındadır. Mağara girişi derenin 5 m yukarıda yer",
+      "wikidata_id": "Q3449521",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "yerkupe-magarasi",
+      "ad": "Yerküpe Mağarası",
+      "tur": "magara",
+      "il": "Aydın",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Yerk%C3%BCpe%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Yerküpe Mağarası, Muğla ilinin Yatağan ilçesi sınırlarındaki Yerküpe Yaylası'nda yer alan geçit konumlu yarı aktif bir mağaradır. Genç bir mağara olan Yerküpe Mağarası, 100 m uzunlukta tek bir galerid",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "zeus-magarasi-aydin",
+      "ad": "Zeus Mağarası, Aydın",
+      "tur": "magara",
+      "il": "Aydın",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.71138889,
+        "lon": 27.21583333
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Zeus%20Ma%C4%9Faras%C4%B1%2C%20Ayd%C4%B1n",
+        "https://tr.wikipedia.org/wiki/Zeus_Ma%C4%9Faras%C4%B1,_Ayd%C4%B1n",
+        "http://www.wikidata.org/entity/Q20988330"
+      ],
+      "notlar": "Zeus Mağarası Türkiye'nin batısında Ege Bölgesi'nde, Aydın İli, Kuşadası'nda bulunan bir turistik mağaradır.\n\nMağara, Kuşadası ilçesi Güzelçamlı beldesinin hemen batısında, Dilek Yarımadası-Büyük Mend",
+      "wikidata_id": "Q20988330",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "zeytintasi-magarasi",
+      "ad": "Zeytintaşı Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "Akbaş",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.04694444,
+        "lon": 31.11055556
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Zeytinta%C5%9F%C4%B1%20Ma%C4%9Faras%C4%B1",
+        "https://tr.wikipedia.org/wiki/Zeytinta%C5%9F%C4%B1_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q28497285"
+      ],
+      "notlar": "Zeytintaşı Mağarası, Antalya ili, Serik ilçesi, Akbaş Köyü'nün sınırlarında bulunan karstik mağara.\nMağara yan ve alt taraflarından geçirimsiz tabakalarca kuşatılır. Jura-Kratase devri kireçtaşı kayaç",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/ZeytintasiMagaraGirisi.jpg",
+          "filename": "ZeytintasiMagaraGirisi.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q28497285",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "hasbahce-magarasi",
+      "wikidata_id": "Q957399",
+      "ad": "Hasbahçe Mağarası",
+      "tur": "magara",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Hasbah%C3%A7e_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q957399"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "buk-zava",
+      "wikidata_id": "Q1003208",
+      "ad": "Buk û Zava",
+      "tur": "magara",
+      "il": "Şanlıurfa",
+      "ilce": "Halfeti",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.423889,
+        "lon": 37.972778
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/4-buk%20u%20zava.jpg",
+          "filename": "4-buk u zava.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q1003208"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "yedi-uyurlar-mezarligi",
+      "wikidata_id": "Q1409276",
+      "ad": "Yedi Uyurlar Mezarlığı",
+      "tur": "magara",
+      "il": "İzmir",
+      "ilce": "Selçuk",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.943738522,
+        "lon": 27.353705574
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q1409276"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "belbasi",
+      "wikidata_id": "Q2065330",
+      "ad": "Belbaşı",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "Konyaaltı",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.5775,
+        "lon": 29.97055556
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Belba%C5%9F%C4%B1",
+        "http://www.wikidata.org/entity/Q2065330"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "suluin-magarasi",
+      "wikidata_id": "Q6006591",
+      "ad": "Suluin Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "Finike",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.2819,
+        "lon": 30.1503
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Suluin_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q6006591"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "keloglan-magarasi",
+      "wikidata_id": "Q6101232",
+      "ad": "Keloğlan mağarası",
+      "tur": "magara",
+      "il": "Acıpayam ilçesi",
+      "ilce": "Dodurga",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.3875578,
+        "lon": 29.4998252
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Keloglan%20Magarasi%20ic%20mekan.jpg",
+          "filename": "Keloglan Magarasi ic mekan.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Kelo%C4%9Flan_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q6101232"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "dudensuyu-magarasi",
+      "wikidata_id": "Q4063050",
+      "ad": "Düdensuyu Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 37.037777777,
+        "lon": 31.633333333
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alt%C4%B1nbe%C5%9FikMa%C4%9Faras%C4%B12.jpg",
+          "filename": "AltınbeşikMağarası2.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/D%C3%BCdensuyu_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q4063050"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "beldibi-magarasi",
+      "wikidata_id": "Q6073348",
+      "ad": "Beldibi Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.745278,
+        "lon": 30.57
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Beldibi_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q6073348"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "fosforlu-magara",
+      "wikidata_id": "Q11721202",
+      "ad": "Fosforlu Mağara",
+      "tur": "magara",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Fosforlu_Ma%C4%9Fara",
+        "http://www.wikidata.org/entity/Q11721202"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "peynirlikonu-magarasi",
+      "wikidata_id": "Q4529784",
+      "ad": "Peynirlikönü Mağarası",
+      "tur": "magara",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.315,
+        "lon": 32.7789
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Peynirlik%C3%B6n%C3%BC_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q4529784"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "isli-magara",
+      "wikidata_id": "Q49319933",
+      "ad": "İsli Mağara",
+      "tur": "magara",
+      "il": "Hatay",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.749166666,
+        "lon": 36.338611111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319933"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "sehriate-magaralari",
+      "wikidata_id": "Q49319941",
+      "ad": "Şehriate Mağaraları",
+      "tur": "magara",
+      "il": "Mardin",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.193333333,
+        "lon": 41.525555555
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319941"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "derebucak-camlik-magaralari",
+      "wikidata_id": "Q30589984",
+      "ad": "Derebucak Çamlık Mağaraları",
+      "tur": "magara",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.36361111,
+        "lon": 31.64166667
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Derebucak_%C3%87aml%C4%B1k_Ma%C4%9Faralar%C4%B1_Mill%C3%AE_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q30589984"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "nimara-magarasi",
+      "wikidata_id": "Q15728104",
+      "ad": "Nimara Mağarası",
+      "tur": "magara",
+      "il": "Muğla",
+      "ilce": "Marmaris",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.813,
+        "lon": 28.297
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Nimara%20Cave%2001.JPG",
+          "filename": "Nimara Cave 01.JPG",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Nimara_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q15728104"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "incesazalti-magaralari",
+      "wikidata_id": "Q49319927",
+      "ad": "İncesazaltı Mağaraları",
+      "tur": "magara",
+      "il": "Zonguldak",
+      "ilce": "",
+      "bolge": "Karadeniz",
+      "koordinat": {
+        "lat": 41.180555555,
+        "lon": 31.403333333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319927"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "tilkiler-magarasi",
+      "wikidata_id": "Q18394388",
+      "ad": "Tilkiler Mağarası",
+      "tur": "magara",
+      "il": "Manavgat (ilçe)",
+      "ilce": "Tilkiler",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.9159566,
+        "lon": 31.4981568
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Tilkiler_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q18394388"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "seyhabdullah-magarasi",
+      "wikidata_id": "Q49319943",
+      "ad": "Şeyhabdullah Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.776944444,
+        "lon": 41.083333333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319943"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ozbegin-ini",
+      "wikidata_id": "Q49319919",
+      "ad": "Özbeğin İni",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.944444444,
+        "lon": 34.145555555
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319919"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "cumayani-magarasi",
+      "wikidata_id": "Q24915638",
+      "ad": "Cumayanı Mağarası",
+      "tur": "magara",
+      "il": "Karadeniz Bölgesi",
+      "ilce": "Zonguldak",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.4966,
+        "lon": 31.9481
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q24915638"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "inagzi-magarasi",
+      "wikidata_id": "Q24915644",
+      "ad": "İnağzı Mağarası",
+      "tur": "magara",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.47138889,
+        "lon": 31.82833333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/%C4%B0na%C4%9Fz%C4%B1_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q24915644"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ikigoz-magarasi",
+      "wikidata_id": "Q49319925",
+      "ad": "İkigöz Mağarası",
+      "tur": "magara",
+      "il": "Van",
+      "ilce": "",
+      "bolge": "Doğu Anadolu",
+      "koordinat": {
+        "lat": 38.338333333,
+        "lon": 42.789166666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319925"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kocain-magarasi",
+      "wikidata_id": "Q30589415",
+      "ad": "Kocain Mağarası",
+      "tur": "magara",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.232631,
+        "lon": 30.711271
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q30589415"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "cayirkoy-magarasi",
+      "wikidata_id": "Q24915637",
+      "ad": "Çayırköy Mağarası",
+      "tur": "magara",
+      "il": "Karadeniz Bölgesi",
+      "ilce": "Zonguldak",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.451858,
+        "lon": 31.9872469
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/%C3%87ay%C4%B1rk%C3%B6y_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q24915637"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "okuzini-magarasi",
+      "wikidata_id": "Q20874245",
+      "ad": "Öküzini Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 37.089,
+        "lon": 30.576
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Relief%20%C3%96k%C3%BCzini.jpg",
+          "filename": "Relief Öküzini.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q20874245"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kizilelma-magarasi",
+      "wikidata_id": "Q24915663",
+      "ad": "Kızılelma Mağarası",
+      "tur": "magara",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.45312,
+        "lon": 31.9351
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lelma_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q24915663"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ibekkoyu-magarasi",
+      "wikidata_id": "Q49319923",
+      "ad": "İbekköyü Mağarası",
+      "tur": "magara",
+      "il": "Çorum",
+      "ilce": "",
+      "bolge": "Karadeniz",
+      "koordinat": {
+        "lat": 40.371388888,
+        "lon": 35.234444444
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319923"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "sehitaga-magaralari",
+      "wikidata_id": "Q49319939",
+      "ad": "Şehitağa Mağaraları",
+      "tur": "magara",
+      "il": "Şırnak",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.277777777,
+        "lon": 41.725833333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319939"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "inek-magarasi",
+      "wikidata_id": "Q49319930",
+      "ad": "İnek Mağarası",
+      "tur": "magara",
+      "il": "Van",
+      "ilce": "",
+      "bolge": "Doğu Anadolu",
+      "koordinat": {
+        "lat": 38.441111111,
+        "lon": 42.771388888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319930"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "baskaya-magaralari",
+      "wikidata_id": "Q49319058",
+      "ad": "Baskaya Mağaraları",
+      "tur": "magara",
+      "il": "Mardin",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.150555555,
+        "lon": 41.370555555
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319058"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "azizbey-magarasi",
+      "wikidata_id": "Q49319046",
+      "ad": "Azizbey Mağarası",
+      "tur": "magara",
+      "il": "Kars",
+      "ilce": "",
+      "bolge": "Doğu Anadolu",
+      "koordinat": {
+        "lat": 40.583333333,
+        "lon": 43.210555555
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319046"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "yedi-uyurlar-magarasi",
+      "wikidata_id": "Q38251003",
+      "ad": "Yedi Uyurlar Mağarası",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "Tarsus",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.95722222,
+        "lon": 34.79666667
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/137%20Yediuyurlar.Tarsus.07.2006%20resize.JPG",
+          "filename": "137 Yediuyurlar.Tarsus.07.2006 resize.JPG",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q38251003"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ayvalibucak-ini",
+      "wikidata_id": "Q49319043",
+      "ad": "Ayvalıbucak İni",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.672222222,
+        "lon": 33.6375
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319043"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "aksu-magaralari",
+      "wikidata_id": "Q49319030",
+      "ad": "Aksu Mağaraları",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.74,
+        "lon": 41.569166666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319030"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "badir-ini",
+      "wikidata_id": "Q49319052",
+      "ad": "Badir Ini",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.931388888,
+        "lon": 34.068611111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319052"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "asagimitvan-magaralari",
+      "wikidata_id": "Q49319049",
+      "ad": "Aşağımitvan Mağaraları",
+      "tur": "magara",
+      "il": "Mardin",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.186111111,
+        "lon": 41.587777777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319049"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "incegiz-magaralari",
+      "wikidata_id": "Q38251235",
+      "ad": "İnceğiz mağaraları",
+      "tur": "magara",
+      "il": "İstanbul",
+      "ilce": "Çatalca",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.181667,
+        "lon": 28.404167
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/CaveMonastery%C4%B0nce%C4%9Fiz%20%281%29.jpg",
+          "filename": "CaveMonasteryİnceğiz (1).jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q38251235"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "belekan-magaralari",
+      "wikidata_id": "Q49319061",
+      "ad": "Belekan Mağaraları",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.794444444,
+        "lon": 41.347777777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319061"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "besmagralar",
+      "wikidata_id": "Q49319071",
+      "ad": "Beşmağralar",
+      "tur": "magara",
+      "il": "Şanlıurfa",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 36.9925,
+        "lon": 39.641111111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319071"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "akca-ini",
+      "wikidata_id": "Q49319032",
+      "ad": "Akça İni",
+      "tur": "magara",
+      "il": "Karaman",
+      "ilce": "",
+      "bolge": "İç Anadolu",
+      "koordinat": {
+        "lat": 37.075555555,
+        "lon": 33.429444444
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319032"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "berkilin-magarasi",
+      "wikidata_id": "Q49319066",
+      "ad": "Berkilin Mağarası",
+      "tur": "magara",
+      "il": "Diyarbakır",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 38.531388888,
+        "lon": 40.550833333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319066"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "berhamis-magarasi",
+      "wikidata_id": "Q49319065",
+      "ad": "Berhamis Mağarası",
+      "tur": "magara",
+      "il": "Siirt",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.698055555,
+        "lon": 41.857777777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319065"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "akpinar-ini",
+      "wikidata_id": "Q49319028",
+      "ad": "Akpınar İni",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.846388888,
+        "lon": 33.316944444
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319028"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "berzaneka-magaralari",
+      "wikidata_id": "Q49319069",
+      "ad": "Berzaneka Mağaraları",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.788888888,
+        "lon": 41.397222222
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319069"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "abuzet-magarasi",
+      "wikidata_id": "Q49319025",
+      "ad": "Abuzet Mağarası",
+      "tur": "magara",
+      "il": "Van",
+      "ilce": "",
+      "bolge": "Doğu Anadolu",
+      "koordinat": {
+        "lat": 38.327777777,
+        "lon": 43.66
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319025"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "balat-magarasi",
+      "wikidata_id": "Q49319057",
+      "ad": "Balat Mağarası",
+      "tur": "magara",
+      "il": "Konya",
+      "ilce": "",
+      "bolge": "İç Anadolu",
+      "koordinat": {
+        "lat": 37.385277777,
+        "lon": 31.508611111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319057"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "asagikarha-magarasi",
+      "wikidata_id": "Q49319047",
+      "ad": "Aşağıkarha Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.735,
+        "lon": 41.495
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319047"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "berraha-magarasi",
+      "wikidata_id": "Q49319068",
+      "ad": "Berraha Mağarası",
+      "tur": "magara",
+      "il": "Mardin",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.501388888,
+        "lon": 40.766944444
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319068"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "pinargozu-magarasi",
+      "wikidata_id": "Q33056658",
+      "ad": "Pınargözü Mağarası",
+      "tur": "magara",
+      "il": "Isparta",
+      "ilce": "Yenişarbademli",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.695555555,
+        "lon": 31.309166666
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/P%C4%B1narg%C3%B6z%C3%BC-ISPARTA-TURKEY.jpg",
+          "filename": "Pınargözü-ISPARTA-TURKEY.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/P%C4%B1narg%C3%B6z%C3%BC_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q33056658"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "damlatas-magarasi-corum",
+      "wikidata_id": "Q49319116",
+      "ad": "Damlataş Mağarası (Çorum)",
+      "tur": "magara",
+      "il": "Çorum",
+      "ilce": "",
+      "bolge": "Karadeniz",
+      "koordinat": {
+        "lat": 40.298055555,
+        "lon": 35.284722222
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319116"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "dirhan-magarasi",
+      "wikidata_id": "Q49319128",
+      "ad": "Dirhan Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.727222222,
+        "lon": 41.146666666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319128"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "dercin-magarasi",
+      "wikidata_id": "Q49319120",
+      "ad": "Dercin Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.766111111,
+        "lon": 41.075555555
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319120"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "damlacik-magarasi",
+      "wikidata_id": "Q49319114",
+      "ad": "Damlacık Mağarası",
+      "tur": "magara",
+      "il": "Şırnak",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.263888888,
+        "lon": 41.689444444
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319114"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "divanli-magaralari",
+      "wikidata_id": "Q49319129",
+      "ad": "Divanlı Mağaraları",
+      "tur": "magara",
+      "il": "Yozgat",
+      "ilce": "",
+      "bolge": "İç Anadolu",
+      "koordinat": {
+        "lat": 39.6504,
+        "lon": 35.5128
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319129"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "buyuk-lacin-magarasi",
+      "wikidata_id": "Q49319087",
+      "ad": "Büyük Laçin Mağarası",
+      "tur": "magara",
+      "il": "Çorum",
+      "ilce": "",
+      "bolge": "Karadeniz",
+      "koordinat": {
+        "lat": 40.753055555,
+        "lon": 34.886111111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319087"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "dolusay-magaralari",
+      "wikidata_id": "Q49319133",
+      "ad": "Dolusay Mağaraları",
+      "tur": "magara",
+      "il": "Diyarbakır",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.652222222,
+        "lon": 40.01
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319133"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "duden-magarasi",
+      "wikidata_id": "Q49319137",
+      "ad": "Düden Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.943055555,
+        "lon": 31.464722222
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319137"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "buyuk-magara",
+      "wikidata_id": "Q49319088",
+      "ad": "Büyük Mağara",
+      "tur": "magara",
+      "il": "Çanakkale",
+      "ilce": "",
+      "bolge": "Marmara",
+      "koordinat": {
+        "lat": 40.2,
+        "lon": 26.476111111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319088"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "bida-magarasi",
+      "wikidata_id": "Q49319075",
+      "ad": "Bida Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.751666666,
+        "lon": 41.173611111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319075"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "derindatga-magarasi",
+      "wikidata_id": "Q49319122",
+      "ad": "Derindatga Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.725277777,
+        "lon": 41.325277777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319122"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "burtkiz-ini",
+      "wikidata_id": "Q49319086",
+      "ad": "Burtkız İni",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.895833333,
+        "lon": 33.820555555
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319086"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "davrik-magarasi",
+      "wikidata_id": "Q49319118",
+      "ad": "Davrik Mağarası",
+      "tur": "magara",
+      "il": "Mardin",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.228888888,
+        "lon": 41.648055555
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319118"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "dusah-magarasi",
+      "wikidata_id": "Q49319138",
+      "ad": "Düşah Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.82,
+        "lon": 41.4775
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319138"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "budak-ini",
+      "wikidata_id": "Q49319083",
+      "ad": "Budak İni",
+      "tur": "magara",
+      "il": "Konya",
+      "ilce": "",
+      "bolge": "İç Anadolu",
+      "koordinat": {
+        "lat": 37.791944444,
+        "lon": 34.015555555
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319083"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "dim-magarasi",
+      "wikidata_id": "Q49319125",
+      "ad": "Dim Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.54,
+        "lon": 32.1
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319125"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "direkli-ini",
+      "wikidata_id": "Q49319126",
+      "ad": "Direkli İni",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.314166666,
+        "lon": 33.314166666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319126"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "bozanonu-magarasi",
+      "wikidata_id": "Q49319079",
+      "ad": "Bozanönü Mağarası",
+      "tur": "magara",
+      "il": "Isparta",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 37.871388888,
+        "lon": 30.556666666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319079"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "borunkaya-ini",
+      "wikidata_id": "Q49319078",
+      "ad": "Borunkaya İni",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.784722222,
+        "lon": 33.3075
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319078"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "cemimata-magarasi",
+      "wikidata_id": "Q49319100",
+      "ad": "Cemimata Mağarası",
+      "tur": "magara",
+      "il": "Diyarbakır",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.766111111,
+        "lon": 41.059166666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319100"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "dupnisa-magarasi",
+      "wikidata_id": "Q49319136",
+      "ad": "Dupnisa Mağarası",
+      "tur": "magara",
+      "il": "Kırklareli",
+      "ilce": "",
+      "bolge": "Marmara",
+      "koordinat": {
+        "lat": 41.858611111,
+        "lon": 27.563888888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319136"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "dedevin-magarasi",
+      "wikidata_id": "Q49319119",
+      "ad": "Dedevın Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.901111111,
+        "lon": 41.414444444
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319119"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "gundor-magarasi",
+      "wikidata_id": "Q49319217",
+      "ad": "Gündor Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.865555555,
+        "lon": 41.482777777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319217"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "fok-magarasi",
+      "wikidata_id": "Q49319162",
+      "ad": "Fok Mağarası",
+      "tur": "magara",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.080277777,
+        "lon": 31.098611111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319162"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "eshabikeyf-magarasi",
+      "wikidata_id": "Q49319148",
+      "ad": "Eshabıkeyf Mağarası",
+      "tur": "magara",
+      "il": "Diyarbakır",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 38.441388888,
+        "lon": 40.503888888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319148"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "gavurini-magarasi",
+      "wikidata_id": "Q49319173",
+      "ad": "Gavurini Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.897777777,
+        "lon": 31.805
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319173"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ercek-magarasi",
+      "wikidata_id": "Q49319146",
+      "ad": "Ercek Mağarası",
+      "tur": "magara",
+      "il": "Karadeniz Bölgesi",
+      "ilce": "Zonguldak",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.446388888,
+        "lon": 31.9175
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319146"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "gavur-ini",
+      "wikidata_id": "Q49319171",
+      "ad": "Gavur İni",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.694722222,
+        "lon": 33.780277777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319171"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "fasa-magarasi",
+      "wikidata_id": "Q49319156",
+      "ad": "Fasa Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.79,
+        "lon": 41.084166666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319156"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "gudullu-magarasi",
+      "wikidata_id": "Q49319213",
+      "ad": "Güdüllü Mağarası",
+      "tur": "magara",
+      "il": "Karadeniz Bölgesi",
+      "ilce": "Zonguldak",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.4375,
+        "lon": 31.968611111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319213"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "han-magarasi",
+      "wikidata_id": "Q49319225",
+      "ad": "Han Mağarası",
+      "tur": "magara",
+      "il": "Niğde",
+      "ilce": "",
+      "bolge": "İç Anadolu",
+      "koordinat": {
+        "lat": 38.0375,
+        "lon": 34.716944444
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319225"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "gevina-magarasi",
+      "wikidata_id": "Q49319178",
+      "ad": "Gevina Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.766944444,
+        "lon": 41.137222222
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319178"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "gulini-magarasi",
+      "wikidata_id": "Q49319215",
+      "ad": "Gülini Mağarası",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.122222222,
+        "lon": 32.674722222
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319215"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "han-magaralari",
+      "wikidata_id": "Q49319224",
+      "ad": "Han Mağaraları",
+      "tur": "magara",
+      "il": "Mardin",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.444722222,
+        "lon": 40.841111111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319224"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ezraki-magarasi",
+      "wikidata_id": "Q49319153",
+      "ad": "Ezrakı Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.761111111,
+        "lon": 41.147777777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319153"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "handas-magarasi",
+      "wikidata_id": "Q49319228",
+      "ad": "Handas Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 37.085,
+        "lon": 31.652777777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319228"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "elmali-magara",
+      "wikidata_id": "Q49319143",
+      "ad": "Elmalı Mağara",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 37.1725,
+        "lon": 31.586666666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319143"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "harato-magarasi",
+      "wikidata_id": "Q49319231",
+      "ad": "Harato Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.79,
+        "lon": 41.088333333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319231"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "gelika-magarasi",
+      "wikidata_id": "Q49319175",
+      "ad": "Gelika Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.816944444,
+        "lon": 41.148888888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319175"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "gocermagaralari",
+      "wikidata_id": "Q49319212",
+      "ad": "Göçermağaraları",
+      "tur": "magara",
+      "il": "Şırnak",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.618888888,
+        "lon": 41.946944444
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319212"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "eskikoy-magarasi",
+      "wikidata_id": "Q49319150",
+      "ad": "Eskiköy Mağarası",
+      "tur": "magara",
+      "il": "Konya",
+      "ilce": "",
+      "bolge": "İç Anadolu",
+      "koordinat": {
+        "lat": 37.815833333,
+        "lon": 32.321666666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319150"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "fosforlu-magarasi",
+      "wikidata_id": "Q49319163",
+      "ad": "Fosforlu Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.531944444,
+        "lon": 31.989166666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319163"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "fakili-magarasi",
+      "wikidata_id": "Q49319154",
+      "ad": "Fakılı Mağarası",
+      "tur": "magara",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.060555555,
+        "lon": 31.171111111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319154"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "guvenli-magaralari",
+      "wikidata_id": "Q49319218",
+      "ad": "Güvenli Mağaraları",
+      "tur": "magara",
+      "il": "Mardin",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.456944444,
+        "lon": 41.732777777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319218"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "gesuna-magarasi",
+      "wikidata_id": "Q49319176",
+      "ad": "Gesuna Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.766944444,
+        "lon": 41.453333333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319176"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "haruni-magaralari",
+      "wikidata_id": "Q49319238",
+      "ad": "Haruni Mağaraları",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.771666666,
+        "lon": 41.061111111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319238"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "helva-koyu-buz-magarasi",
+      "wikidata_id": "Q49319251",
+      "ad": "Helva Köyü Buz Mağarası",
+      "tur": "magara",
+      "il": "Bayburt",
+      "ilce": "",
+      "bolge": "Karadeniz",
+      "koordinat": {
+        "lat": 40.149166666,
+        "lon": 40.503888888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319251"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "hizar-magarasi",
+      "wikidata_id": "Q49319261",
+      "ad": "Hızar Mağarası",
+      "tur": "magara",
+      "il": "Karabük",
+      "ilce": "",
+      "bolge": "Karadeniz",
+      "koordinat": {
+        "lat": 41.2675,
+        "lon": 32.796944444
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319261"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ispanakli-ini",
+      "wikidata_id": "Q49319274",
+      "ad": "Ispanaklı İni",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.680555555,
+        "lon": 34.200277777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319274"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "harbi-magara",
+      "wikidata_id": "Q49319232",
+      "ad": "Harbi Mağara",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.787777777,
+        "lon": 41.091111111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319232"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "hazel-magarasi",
+      "wikidata_id": "Q49319250",
+      "ad": "Hazel Mağarası",
+      "tur": "magara",
+      "il": "Diyarbakır",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.664444444,
+        "lon": 40.079444444
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319250"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kabakci-ini",
+      "wikidata_id": "Q49319298",
+      "ad": "Kabakçı İni",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.757777777,
+        "lon": 34.156944444
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319298"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "hatun-magarasi",
+      "wikidata_id": "Q49319241",
+      "ad": "Hatun Mağarası",
+      "tur": "magara",
+      "il": "Mardin",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.645833333,
+        "lon": 40.705
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319241"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "hirsiz-magaralari",
+      "wikidata_id": "Q49319258",
+      "ad": "Hırsız Mağaraları",
+      "tur": "magara",
+      "il": "Diyarbakır",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.593888888,
+        "lon": 40.531388888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319258"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "harip-magaralari",
+      "wikidata_id": "Q49319234",
+      "ad": "Harip Mağaraları",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.793611111,
+        "lon": 41.296666666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319234"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kafilmardin-magarasi",
+      "wikidata_id": "Q49319300",
+      "ad": "Kafilmardin Mağarası",
+      "tur": "magara",
+      "il": "Mardin",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.556111111,
+        "lon": 41.072222222
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319300"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "hanik-magarasi",
+      "wikidata_id": "Q49319229",
+      "ad": "Hanik Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.718333333,
+        "lon": 41.394722222
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319229"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "hevindi-magaralari",
+      "wikidata_id": "Q49319255",
+      "ad": "Hevindi Mağaraları",
+      "tur": "magara",
+      "il": "Şırnak",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.242222222,
+        "lon": 41.740555555
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319255"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "hasene-magarasi",
+      "wikidata_id": "Q49319240",
+      "ad": "Hasene Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.721666666,
+        "lon": 41.106944444
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319240"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "haveyna-magarasi",
+      "wikidata_id": "Q49319244",
+      "ad": "Haveyna Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.780277777,
+        "lon": 41.108333333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319244"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "inalti-magarasi",
+      "wikidata_id": "Q49319270",
+      "ad": "Inaltı Mağarası",
+      "tur": "magara",
+      "il": "Sinop",
+      "ilce": "",
+      "bolge": "Karadeniz",
+      "koordinat": {
+        "lat": 41.7317713,
+        "lon": 34.569093
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319270"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "hayvan-magarasi",
+      "wikidata_id": "Q49319247",
+      "ad": "Hayvan Mağarası",
+      "tur": "magara",
+      "il": "Muş",
+      "ilce": "",
+      "bolge": "Doğu Anadolu",
+      "koordinat": {
+        "lat": 39.178055555,
+        "lon": 42.675277777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319247"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "hemi-magarasi",
+      "wikidata_id": "Q49319253",
+      "ad": "Hemi Mağarası",
+      "tur": "magara",
+      "il": "Mardin",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.586111111,
+        "lon": 40.921388888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319253"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "havsisan-magaralari",
+      "wikidata_id": "Q49319245",
+      "ad": "Havşişan Mağaraları",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.794722222,
+        "lon": 41.434444444
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319245"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "keveko-magarasi",
+      "wikidata_id": "Q49319345",
+      "ad": "Keveko Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.788055555,
+        "lon": 41.077222222
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319345"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "karoka-magarasi",
+      "wikidata_id": "Q49319336",
+      "ad": "Karoka Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.738333333,
+        "lon": 41.318888888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319336"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kalo-magaralari",
+      "wikidata_id": "Q49319307",
+      "ad": "Kalo Mağaraları",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.7925,
+        "lon": 41.382777777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319307"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "karadag-magarasi",
+      "wikidata_id": "Q49319323",
+      "ad": "Karadağ Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 37.310833333,
+        "lon": 31.754722222
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319323"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kartallik-ini",
+      "wikidata_id": "Q49319337",
+      "ad": "Kartallık İni",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.825833333,
+        "lon": 33.333611111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319337"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "katirmagaralari",
+      "wikidata_id": "Q49319340",
+      "ad": "Katırmağaraları",
+      "tur": "magara",
+      "il": "Mardin",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.626666666,
+        "lon": 40.674166666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319340"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kara-in",
+      "wikidata_id": "Q49319320",
+      "ad": "Kara İn",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.697777777,
+        "lon": 32.216666666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319320"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "karaca-magarasi",
+      "wikidata_id": "Q49319322",
+      "ad": "Karaca Mağarası",
+      "tur": "magara",
+      "il": "Denizli",
+      "ilce": "",
+      "bolge": "Ege",
+      "koordinat": {
+        "lat": 37.719722222,
+        "lon": 29.168055555
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319322"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kapicik-magaralari",
+      "wikidata_id": "Q49319315",
+      "ad": "Kapıcık Mağaraları",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.785277777,
+        "lon": 41.394444444
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319315"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "karagoz-magarasi",
+      "wikidata_id": "Q49319325",
+      "ad": "Karagöz Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.719722222,
+        "lon": 29.821388888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319325"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kirkayak-magarasi",
+      "wikidata_id": "Q49319363",
+      "ad": "Kırkayak Mağarası",
+      "tur": "magara",
+      "il": "Konya",
+      "ilce": "",
+      "bolge": "İç Anadolu",
+      "koordinat": {
+        "lat": 37.763888888,
+        "lon": 32.163888888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319363"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kares-magarasi",
+      "wikidata_id": "Q49319333",
+      "ad": "Kareş Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.785555555,
+        "lon": 41.041388888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319333"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kirkdirek-magaralari",
+      "wikidata_id": "Q49319366",
+      "ad": "Kırkdirek Mağaraları",
+      "tur": "magara",
+      "il": "Mardin",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.671111111,
+        "lon": 40.726111111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319366"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kara-magarasi",
+      "wikidata_id": "Q49319319",
+      "ad": "Kara Mağarası",
+      "tur": "magara",
+      "il": "Diyarbakır",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.8125,
+        "lon": 40.983611111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319319"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kegi-magaralari",
+      "wikidata_id": "Q49319343",
+      "ad": "Kegi Mağaraları",
+      "tur": "magara",
+      "il": "Şırnak",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.607777777,
+        "lon": 41.93
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319343"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kalekiran-magaralari",
+      "wikidata_id": "Q49319305",
+      "ad": "Kalekiran Mağaraları",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.741666666,
+        "lon": 41.571111111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319305"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kapaliin-magarasi",
+      "wikidata_id": "Q49319313",
+      "ad": "Kapalıin Mağarası",
+      "tur": "magara",
+      "il": "Isparta",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 37.906944444,
+        "lon": 30.559444444
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319313"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kecimagaralari",
+      "wikidata_id": "Q49319346",
+      "ad": "Keçimağaraları",
+      "tur": "magara",
+      "il": "Şırnak",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.611388888,
+        "lon": 41.939722222
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319346"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "karaci-magarasi",
+      "wikidata_id": "Q49319332",
+      "ad": "Karaçı Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.773888888,
+        "lon": 41.425555555
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319332"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kapali-magaralar",
+      "wikidata_id": "Q49319311",
+      "ad": "Kapalı Mağaralar",
+      "tur": "magara",
+      "il": "Muş",
+      "ilce": "",
+      "bolge": "Doğu Anadolu",
+      "koordinat": {
+        "lat": 39.187222222,
+        "lon": 42.664166666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319311"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kayadibi-magarasi",
+      "wikidata_id": "Q49319342",
+      "ad": "Kayadibi Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 37.239722222,
+        "lon": 31.632777777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319342"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kara-magarasi-turkiye",
+      "wikidata_id": "Q49319317",
+      "ad": "Kara Mağarası (Türkiye)",
+      "tur": "magara",
+      "il": "Siirt",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.910833333,
+        "lon": 41.984166666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319317"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kochisar-magarasi",
+      "wikidata_id": "Q49319381",
+      "ad": "Koçhisar Mağarası",
+      "tur": "magara",
+      "il": "Çorum",
+      "ilce": "",
+      "bolge": "Karadeniz",
+      "koordinat": {
+        "lat": 40.098888888,
+        "lon": 34.941666666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319381"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kulluk-ini",
+      "wikidata_id": "Q49319403",
+      "ad": "Küllük İni",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.761388888,
+        "lon": 34.316944444
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319403"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "madirga-magaralari",
+      "wikidata_id": "Q49319420",
+      "ad": "Madırga Mağaraları",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.741111111,
+        "lon": 41.265833333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319420"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "mazi-ini",
+      "wikidata_id": "Q49319542",
+      "ad": "Mazi İni",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.463888888,
+        "lon": 33.888888888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319542"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kullu-ini",
+      "wikidata_id": "Q49319398",
+      "ad": "Küllü İni",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.638888888,
+        "lon": 33.686944444
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319398"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kisir-ini",
+      "wikidata_id": "Q49319373",
+      "ad": "Kışır İni",
+      "tur": "magara",
+      "il": "Karaman",
+      "ilce": "",
+      "bolge": "İç Anadolu",
+      "koordinat": {
+        "lat": 37.079444444,
+        "lon": 33.4125
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319373"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "koseeyup-magarasi",
+      "wikidata_id": "Q49319396",
+      "ad": "Köseeyüp Mağarası",
+      "tur": "magara",
+      "il": "Çorum",
+      "ilce": "",
+      "bolge": "Karadeniz",
+      "koordinat": {
+        "lat": 40.560555555,
+        "lon": 35.359722222
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319396"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "koyungobeli-magarasi",
+      "wikidata_id": "Q49319380",
+      "ad": "Koyungobeli Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.905277777,
+        "lon": 31.813611111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319380"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kulluin",
+      "wikidata_id": "Q49319402",
+      "ad": "Küllüin",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.511666666,
+        "lon": 33.134166666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319402"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kunye-magaralari",
+      "wikidata_id": "Q49319406",
+      "ad": "Künye Mağaraları",
+      "tur": "magara",
+      "il": "Kayseri",
+      "ilce": "",
+      "bolge": "İç Anadolu",
+      "koordinat": {
+        "lat": 38.148611111,
+        "lon": 35.801944444
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319406"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "mahbura-magarasi",
+      "wikidata_id": "Q49319525",
+      "ad": "Mahbura Mağarası",
+      "tur": "magara",
+      "il": "Şanlıurfa",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 36.964166666,
+        "lon": 39.228888888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319525"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "koroglu-magarasi",
+      "wikidata_id": "Q49319394",
+      "ad": "Köroğlu Mağarası",
+      "tur": "magara",
+      "il": "Erzincan",
+      "ilce": "",
+      "bolge": "Doğu Anadolu",
+      "koordinat": {
+        "lat": 39.9385,
+        "lon": 38.7296
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319394"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kizil-magara",
+      "wikidata_id": "Q49319370",
+      "ad": "Kızıl Mağara",
+      "tur": "magara",
+      "il": "Hatay",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.883611111,
+        "lon": 36.369166666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319370"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kulagerm-magarasi",
+      "wikidata_id": "Q49319389",
+      "ad": "Kulagerm Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.763333333,
+        "lon": 41.096388888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319389"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "mesti-magaralari",
+      "wikidata_id": "Q49319553",
+      "ad": "Meşti Mağaraları",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.699444444,
+        "lon": 41.383055555
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319553"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "mavi-magara",
+      "wikidata_id": "Q49319538",
+      "ad": "Mavi Mağara",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.224444444,
+        "lon": 29.458055555
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319538"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kulluce-ini",
+      "wikidata_id": "Q49319400",
+      "ad": "Küllüce İni",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.415,
+        "lon": 33.075277777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319400"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "malabinimagaralari",
+      "wikidata_id": "Q49319529",
+      "ad": "Malabinimağaraları",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.82,
+        "lon": 41.45
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319529"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kus-ini",
+      "wikidata_id": "Q49319391",
+      "ad": "Kuş İni",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.6675,
+        "lon": 34.212222222
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319391"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "mirze-magarasi",
+      "wikidata_id": "Q49319554",
+      "ad": "Mirze Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.823333333,
+        "lon": 41.211111111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319554"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "lifmagaralari",
+      "wikidata_id": "Q49319416",
+      "ad": "Lifmağaraları",
+      "tur": "magara",
+      "il": "Siirt",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.870833333,
+        "lon": 41.825555555
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319416"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "merdan-magarasi",
+      "wikidata_id": "Q49319550",
+      "ad": "Merdan Mağarası",
+      "tur": "magara",
+      "il": "Diyarbakır",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.772222222,
+        "lon": 41.010833333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319550"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "mehenasi-magarasi",
+      "wikidata_id": "Q49319547",
+      "ad": "Mehenası Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.784722222,
+        "lon": 41.461388888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319547"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kizil-in",
+      "wikidata_id": "Q49319371",
+      "ad": "Kızıl İn",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 37.091666666,
+        "lon": 34.058888888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319371"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "zivink-magarasi",
+      "wikidata_id": "Q49319894",
+      "ad": "Zivink Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.824166666,
+        "lon": 41.198333333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319894"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "celtikdere-magaralari",
+      "wikidata_id": "Q49319911",
+      "ad": "Çeltikdere Mağaraları",
+      "tur": "magara",
+      "il": "Bolu",
+      "ilce": "",
+      "bolge": "Karadeniz",
+      "koordinat": {
+        "lat": 40.346111111,
+        "lon": 31.720277777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319911"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "yukarikarha-magarasi",
+      "wikidata_id": "Q49319884",
+      "ad": "Yukarıkarha Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.738055555,
+        "lon": 41.483333333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319884"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "caykoy-magarasi",
+      "wikidata_id": "Q49319909",
+      "ad": "Çayköy Mağarası",
+      "tur": "magara",
+      "il": "Çorum",
+      "ilce": "",
+      "bolge": "Karadeniz",
+      "koordinat": {
+        "lat": 40.389444444,
+        "lon": 35.309166666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319909"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "candirini-magarasi",
+      "wikidata_id": "Q49319904",
+      "ad": "Çandırini Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.816388888,
+        "lon": 32.1375
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319904"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "zivingega-magaralari",
+      "wikidata_id": "Q49319892",
+      "ad": "Zivingega Mağaraları",
+      "tur": "magara",
+      "il": "Şırnak",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.262777777,
+        "lon": 41.631388888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319892"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "cayironu-duden-magarasi",
+      "wikidata_id": "Q49319908",
+      "ad": "Çayırönü Düden Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 37.038611111,
+        "lon": 31.814722222
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319908"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "cile-magaralari",
+      "wikidata_id": "Q49319914",
+      "ad": "Çile Mağaraları",
+      "tur": "magara",
+      "il": "Mardin",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.304722222,
+        "lon": 40.785277777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319914"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "cizme-magarasi",
+      "wikidata_id": "Q49319915",
+      "ad": "Çizme Mağarası",
+      "tur": "magara",
+      "il": "Hatay",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.732777777,
+        "lon": 36.289166666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319915"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "cayir-magara",
+      "wikidata_id": "Q49319905",
+      "ad": "Çayır Mağara",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.74,
+        "lon": 41.426666666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319905"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "zivinga-magaralari",
+      "wikidata_id": "Q49319891",
+      "ad": "Zivinga Mağaraları",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.767222222,
+        "lon": 41.418888888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319891"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ziyaret-magarasi",
+      "wikidata_id": "Q49319895",
+      "ad": "Ziyaret Mağarası",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 37.018888888,
+        "lon": 34.458055555
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319895"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "cibbilraz-magarasi",
+      "wikidata_id": "Q49319912",
+      "ad": "Çibbilraz Mağarası",
+      "tur": "magara",
+      "il": "Mardin",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.577222222,
+        "lon": 40.931944444
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319912"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "zokarasmagaralari",
+      "wikidata_id": "Q49319898",
+      "ad": "Zokarasmağaraları",
+      "tur": "magara",
+      "il": "Siirt",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.847777777,
+        "lon": 41.873611111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319898"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "orencik-magarasi",
+      "wikidata_id": "Q49319917",
+      "ad": "Örencik Mağarası",
+      "tur": "magara",
+      "il": "Çorum",
+      "ilce": "",
+      "bolge": "Karadeniz",
+      "koordinat": {
+        "lat": 40.376111111,
+        "lon": 35.168055555
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319917"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "pazarli-magarasi-4030-3499",
+      "wikidata_id": "Q49319644",
+      "ad": "Pazarlı Mağarası (40.30, 34.99)",
+      "tur": "magara",
+      "il": "Çorum",
+      "ilce": "",
+      "bolge": "Karadeniz",
+      "koordinat": {
+        "lat": 40.299166666,
+        "lon": 34.993611111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319644"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "sakcali-magara",
+      "wikidata_id": "Q49319725",
+      "ad": "Sakçali Mağara",
+      "tur": "magara",
+      "il": "Hatay",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.900555555,
+        "lon": 36.331944444
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319725"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "oyma-magara",
+      "wikidata_id": "Q49319638",
+      "ad": "Oyma Mağara",
+      "tur": "magara",
+      "il": "Şanlıurfa",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 36.838888888,
+        "lon": 39.227222222
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319638"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "muhammedi-magarasi",
+      "wikidata_id": "Q49319598",
+      "ad": "Muhammedi Mağarası",
+      "tur": "magara",
+      "il": "Mardin",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.458333333,
+        "lon": 40.309166666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319598"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "reskini-magarasi",
+      "wikidata_id": "Q49319714",
+      "ad": "Reşkini Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.781944444,
+        "lon": 41.095277777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319714"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "pazarli-magarasi-4031-3493",
+      "wikidata_id": "Q49319647",
+      "ad": "Pazarlı Mağarası (40.31, 34.93)",
+      "tur": "magara",
+      "il": "Çorum",
+      "ilce": "",
+      "bolge": "Karadeniz",
+      "koordinat": {
+        "lat": 40.31,
+        "lon": 34.932222222
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319647"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "mustacep-ini",
+      "wikidata_id": "Q49319604",
+      "ad": "Mustacep İni",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.295277777,
+        "lon": 33.087777777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319604"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "recepaga-magarasi",
+      "wikidata_id": "Q49319709",
+      "ad": "Recepağa Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.822777777,
+        "lon": 41.193888888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319709"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "salucin-magarasi",
+      "wikidata_id": "Q49319727",
+      "ad": "Salucin Mağarası",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.737777777,
+        "lon": 34.157222222
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319727"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "payamir-inleri",
+      "wikidata_id": "Q49319643",
+      "ad": "Payamir İnleri",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.958333333,
+        "lon": 34.126944444
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319643"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "pirin-magaralari",
+      "wikidata_id": "Q49319698",
+      "ad": "Pirin Mağaraları",
+      "tur": "magara",
+      "il": "Adıyaman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.794722222,
+        "lon": 38.297777777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319698"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "muri-magaralari",
+      "wikidata_id": "Q49319606",
+      "ad": "Müri Mağaraları",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.728333333,
+        "lon": 41.415555555
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319606"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "otluk-ini",
+      "wikidata_id": "Q49319637",
+      "ad": "Otluk İni",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.619444444,
+        "lon": 34.108888888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319637"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "palu-magarasi",
+      "wikidata_id": "Q49319640",
+      "ad": "Palu Mağarası",
+      "tur": "magara",
+      "il": "Ağrı",
+      "ilce": "",
+      "bolge": "Doğu Anadolu",
+      "koordinat": {
+        "lat": 39.539166666,
+        "lon": 42.492777777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319640"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "sivingasibi-magarasi",
+      "wikidata_id": "Q49319682",
+      "ad": "Sivingasibi Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.754166666,
+        "lon": 41.056666666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319682"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "nukkuzuismailin-ini",
+      "wikidata_id": "Q49319618",
+      "ad": "Nükkuzuismailin İni",
+      "tur": "magara",
+      "il": "Konya",
+      "ilce": "",
+      "bolge": "İç Anadolu",
+      "koordinat": {
+        "lat": 37.836666666,
+        "lon": 33.9225
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319618"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "pancarlik-magarasi",
+      "wikidata_id": "Q49319641",
+      "ad": "Pancarlık Mağarası",
+      "tur": "magara",
+      "il": "Çorum",
+      "ilce": "",
+      "bolge": "Karadeniz",
+      "koordinat": {
+        "lat": 40.645555555,
+        "lon": 34.296944444
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319641"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "narlica-ini",
+      "wikidata_id": "Q49319610",
+      "ad": "Narlıca İni",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 37.111388888,
+        "lon": 31.698055555
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319610"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "sakaltutan-magarasi",
+      "wikidata_id": "Q49319723",
+      "ad": "Sakaltutan Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 37.295555555,
+        "lon": 31.817777777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319723"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "rami-magarasi",
+      "wikidata_id": "Q49319707",
+      "ad": "Rami Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.778611111,
+        "lon": 41.186944444
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319707"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "resulimegno-magarasi",
+      "wikidata_id": "Q49319713",
+      "ad": "Resulimegno Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.784722222,
+        "lon": 41.076944444
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319713"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "obruk-magarasi",
+      "wikidata_id": "Q49319621",
+      "ad": "Obruk Mağarası",
+      "tur": "magara",
+      "il": "Konya",
+      "ilce": "",
+      "bolge": "İç Anadolu",
+      "koordinat": {
+        "lat": 37.947777777,
+        "lon": 31.959722222
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319621"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "recepaga-magaralari",
+      "wikidata_id": "Q49319708",
+      "ad": "Recepağa Mağaraları",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.782777777,
+        "lon": 41.337222222
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319708"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "osman-ini",
+      "wikidata_id": "Q49319634",
+      "ad": "Osman İni",
+      "tur": "magara",
+      "il": "Karaman",
+      "ilce": "",
+      "bolge": "İç Anadolu",
+      "koordinat": {
+        "lat": 36.482777777,
+        "lon": 33.013333333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319634"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "peynir-magarasi",
+      "wikidata_id": "Q49319685",
+      "ad": "Peynir Mağarası",
+      "tur": "magara",
+      "il": "Konya",
+      "ilce": "",
+      "bolge": "İç Anadolu",
+      "koordinat": {
+        "lat": 37.298055555,
+        "lon": 34.104166666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319685"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "saritas-magarasi",
+      "wikidata_id": "Q49319736",
+      "ad": "Sarıtaş Mağarası",
+      "tur": "magara",
+      "il": "Karaman",
+      "ilce": "",
+      "bolge": "İç Anadolu",
+      "koordinat": {
+        "lat": 37.021666666,
+        "lon": 33.356666666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319736"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "tilki-ini",
+      "wikidata_id": "Q49319857",
+      "ad": "Tilki İni",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.449166666,
+        "lon": 33.021388888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319857"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "sinora-magaralari",
+      "wikidata_id": "Q49319766",
+      "ad": "Sinora Mağaraları",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.785555555,
+        "lon": 41.4075
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319766"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "tuhupe-magarasi",
+      "wikidata_id": "Q49319864",
+      "ad": "Tuhupe Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.740833333,
+        "lon": 41.418333333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319864"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "yapili-ini",
+      "wikidata_id": "Q49319879",
+      "ad": "Yapılı İni",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.645277777,
+        "lon": 34.248055555
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319879"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "seferin-magaralari",
+      "wikidata_id": "Q49319744",
+      "ad": "Seferin Mağaraları",
+      "tur": "magara",
+      "il": "Gaziantep",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 36.989166666,
+        "lon": 37.600277777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319744"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "sertaniko-magarasi",
+      "wikidata_id": "Q49319752",
+      "ad": "Sertaniko Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.763055555,
+        "lon": 41.113611111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319752"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "yukaribedal-magarasi",
+      "wikidata_id": "Q49319882",
+      "ad": "Yukarıbedal Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.803888888,
+        "lon": 41.240555555
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319882"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "sotini-magarasi",
+      "wikidata_id": "Q49319774",
+      "ad": "Sotini Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.176388888,
+        "lon": 32.529722222
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319774"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "talkim-magarasi",
+      "wikidata_id": "Q49319799",
+      "ad": "Talkım Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 37.161111111,
+        "lon": 31.682222222
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319799"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "seyir-magarasi",
+      "wikidata_id": "Q49319754",
+      "ad": "Seyir Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.774166666,
+        "lon": 41.403611111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319754"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "sat-magarasi",
+      "wikidata_id": "Q49319739",
+      "ad": "Sat Mağarası",
+      "tur": "magara",
+      "il": "Hatay",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.908611111,
+        "lon": 36.346111111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319739"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "serkevir-magarasi",
+      "wikidata_id": "Q49319750",
+      "ad": "Serkevir Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.76,
+        "lon": 41.156944444
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319750"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "suludere-ve-korikini-magarasi",
+      "wikidata_id": "Q49319785",
+      "ad": "Suludere ve Körikini Mağarası",
+      "tur": "magara",
+      "il": "Konya",
+      "ilce": "",
+      "bolge": "İç Anadolu",
+      "koordinat": {
+        "lat": 37.356944444,
+        "lon": 31.644166666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319785"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "sorgun-koyu-kaya",
+      "wikidata_id": "Q49319771",
+      "ad": "Sorgun Köyü Kaya",
+      "tur": "magara",
+      "il": "Çorum",
+      "ilce": "",
+      "bolge": "Karadeniz",
+      "koordinat": {
+        "lat": 40.814444444,
+        "lon": 34.260833333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319771"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "solaklar-magarasi",
+      "wikidata_id": "Q49319770",
+      "ad": "Solaklar Mağarası",
+      "tur": "magara",
+      "il": "Bolu",
+      "ilce": "",
+      "bolge": "Karadeniz",
+      "koordinat": {
+        "lat": 40.434166666,
+        "lon": 31.6075
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319770"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "sarimsak-magarasi",
+      "wikidata_id": "Q49319734",
+      "ad": "Sarımsak Mağarası",
+      "tur": "magara",
+      "il": "Siirt",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.774722222,
+        "lon": 42.073888888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319734"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "sihor-magarasi",
+      "wikidata_id": "Q49319764",
+      "ad": "Sihor Mağarası",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.755555555,
+        "lon": 41.103888888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319764"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "suluin-turkiyedeki-magara",
+      "wikidata_id": "Q49319787",
+      "ad": "Suluin (Türkiye'deki mağara)",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.323611111,
+        "lon": 33.517777777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319787"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "yozgat-ini",
+      "wikidata_id": "Q49319881",
+      "ad": "Yozgat İni",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.800277777,
+        "lon": 33.793055555
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319881"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "sefa-magarasi",
+      "wikidata_id": "Q49319743",
+      "ad": "Sefa Mağarası",
+      "tur": "magara",
+      "il": "Mardin",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.299166666,
+        "lon": 40.568888888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319743"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "zey-magaralari",
+      "wikidata_id": "Q49319887",
+      "ad": "Zey Mağaraları",
+      "tur": "magara",
+      "il": "Adıyaman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.8125,
+        "lon": 38.257222222
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319887"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "samanli-ini",
+      "wikidata_id": "Q49319729",
+      "ad": "Samanlı İni",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.616944444,
+        "lon": 34.145
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319729"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "hassuni-magaralari",
+      "wikidata_id": "Q86096623",
+      "ad": "Hassuni Mağaraları",
+      "tur": "magara",
+      "il": "Diyarbakır",
+      "ilce": "Silvan",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.1365949,
+        "lon": 41.0911607
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/%C5%9Eikevt%C3%AAn%20Hes%C3%BBn%C3%AA.jpg",
+          "filename": "Şikevtên Hesûnê.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Hassuni_Ma%C4%9Faralar%C4%B1",
+        "http://www.wikidata.org/entity/Q86096623"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "morca-dudeni",
+      "wikidata_id": "Q118957452",
+      "ad": "Morca düdeni",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "Anamur",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.309558333,
+        "lon": 32.660311111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Morca_d%C3%BCdeni",
+        "http://www.wikidata.org/entity/Q118957452"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "dagli-kuylucu-magarasi",
+      "wikidata_id": "Q85755941",
+      "ad": "Dağlı Kuylucu Mağarası",
+      "tur": "magara",
+      "il": "Kastamonu",
+      "ilce": "Cide (ilçe)",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.80829,
+        "lon": 33.09996
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q85755941"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "oylat-magarasi",
+      "wikidata_id": "Q20988496",
+      "ad": "Oylat Mağarası",
+      "tur": "magara",
+      "il": "Bursa",
+      "ilce": "İnegöl",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.94333333,
+        "lon": 29.59055556
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Oylat_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q20988496"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "cukurpinar-magarasi",
+      "wikidata_id": "Q65040292",
+      "ad": "Çukurpınar mağarası",
+      "tur": "magara",
+      "il": "Mersin",
+      "ilce": "Anamur",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.298056,
+        "lon": 32.712222
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/%C3%87ukurp%C4%B1nar_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q65040292"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "bulak-cave",
+      "wikidata_id": "Q69047942",
+      "ad": "Bulak Cave",
+      "tur": "magara",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.274788,
+        "lon": 32.624382
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q69047942"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "dim-magarasi",
+      "wikidata_id": "Q769148",
+      "ad": "Dim Mağarası",
+      "tur": "magara",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.539811111,
+        "lon": 32.109397222
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Dim_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q769148"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "birkleyn-magaralari",
+      "wikidata_id": "Q97237567",
+      "ad": "Birkleyn Mağaraları",
+      "tur": "magara",
+      "il": "Diyarbakır",
+      "ilce": "Lice",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.530529,
+        "lon": 40.5466194
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Birkleyn_Ma%C4%9Faralar%C4%B1",
+        "http://www.wikidata.org/entity/Q97237567"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "cehennemagzi-magarasi",
+      "wikidata_id": "Q24915631",
+      "ad": "Cehennemağzı Mağarası",
+      "tur": "magara",
+      "il": "Konya",
+      "ilce": "Ereğli",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.29131,
+        "lon": 31.41024
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Zonguldak%20Cehennem%20A%C4%9Fz%C4%B1%20Ma%C4%9Faralar%C4%B1.jpg",
+          "filename": "Zonguldak Cehennem Ağzı Mağaraları.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Cehennema%C4%9Fz%C4%B1_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q24915631"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "dupnisa-magarasi",
+      "wikidata_id": "Q3658667",
+      "ad": "Dupnisa Mağarası",
+      "tur": "magara",
+      "il": "Kırklareli",
+      "ilce": "",
+      "bolge": "Marmara",
+      "koordinat": {
+        "lat": 41.8406,
+        "lon": 27.5561
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dupnisa%20Cave%2C%20Kirklareli%20-%20Ahmet%20Baris%20ISITAN.jpg",
+          "filename": "Dupnisa Cave, Kirklareli - Ahmet Baris ISITAN.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Dupnisa_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q3658667"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ercek-magarasi",
+      "wikidata_id": "Q24915639",
+      "ad": "Erçek Mağarası",
+      "tur": "magara",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.4465,
+        "lon": 31.9174
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q24915639"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ayazini-metropolisi",
+      "wikidata_id": "Q118956350",
+      "ad": "Ayazini Metropolisi",
+      "tur": "magara",
+      "il": "Afyonkarahisar",
+      "ilce": "İhsaniye",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.012722,
+        "lon": 30.5695915
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ayazini%20Metropolis%20Multi%20Storey%20Settlement%2C%202024%206.jpg",
+          "filename": "Ayazini Metropolis Multi Storey Settlement, 2024 6.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Ayazini_metropolisi",
+        "http://www.wikidata.org/entity/Q118956350"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "inonu-caves",
+      "wikidata_id": "Q104630390",
+      "ad": "İnönü Caves",
+      "tur": "magara",
+      "il": "Ankara",
+      "ilce": "",
+      "bolge": "İç Anadolu",
+      "koordinat": {
+        "lat": 40.219694444,
+        "lon": 32.244833333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q104630390"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "paulos-magarasi",
+      "wikidata_id": "Q104641905",
+      "ad": "Paulos Mağarası",
+      "tur": "magara",
+      "il": "İzmir",
+      "ilce": "",
+      "bolge": "Ege",
+      "koordinat": {
+        "lat": 37.937859089,
+        "lon": 27.33413181
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20and%20Thecla.jpg",
+          "filename": "Paul and Thecla.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q104641905"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "karaca-magarasi",
+      "wikidata_id": "Q4810702",
+      "ad": "Karaca Mağarası",
+      "tur": "magara",
+      "il": "Gümüşhane",
+      "ilce": "Torul",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.5442,
+        "lon": 39.4028
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Karaca%20Ma%C4%9Faras%C4%B1%20%2813%29.jpg",
+          "filename": "Karaca Mağarası (13).jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Karaca_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q4810702"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "harosman-magaralari",
+      "wikidata_id": "Q123193106",
+      "ad": "Harosman Mağaraları",
+      "tur": "magara",
+      "il": "Ardahan",
+      "ilce": "Hanak",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.183972222,
+        "lon": 42.892444444
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Harosman_Ma%C4%9Faralar%C4%B1",
+        "http://www.wikidata.org/entity/Q123193106"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kece-magarasi",
+      "wikidata_id": "Q125536847",
+      "ad": "Keçe Mağarası",
+      "tur": "magara",
+      "il": "Kahramanmaraş",
+      "ilce": "Elbistan",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q125536847"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "zindan-magarasi",
+      "wikidata_id": "Q61076964",
+      "ad": "Zindan Mağarası",
+      "tur": "magara",
+      "il": "Isparta",
+      "ilce": "Aksu",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.8117655,
+        "lon": 31.0849883
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Zindan_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q61076964"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "sikeftaniomer-magaralari",
+      "wikidata_id": "Q49319945",
+      "ad": "Şikeftaniömer Mağaraları",
+      "tur": "magara",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.753888888,
+        "lon": 41.520833333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49319945"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "aizanoi-meter-steunene-kutsal-alani",
+      "wikidata_id": "Q133817606",
+      "ad": "Aizanoi Meter Steunene Kutsal Alanı",
+      "tur": "magara",
+      "il": "Kütahya",
+      "ilce": "Çavdarhisar",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.184227,
+        "lon": 29.5924149
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%BCtahya%20aizanoi%20panorama.jpg",
+          "filename": "Kütahya aizanoi panorama.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q133817606"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "yedi-uyurlar-magarasi",
+      "wikidata_id": "Q131612776",
+      "ad": "Yedi Uyurlar Mağarası",
+      "tur": "magara",
+      "il": "Kahramanmaraş",
+      "ilce": "Afşin",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.249044,
+        "lon": 36.8542
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q131612776"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "yedi-uyurlar-magarasi",
+      "wikidata_id": "Q131612775",
+      "ad": "Yedi Uyurlar Mağarası",
+      "tur": "magara",
+      "il": "Diyarbakır",
+      "ilce": "Lice",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.439153,
+        "lon": 40.499031
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q131612775"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    }
+  ]
+}

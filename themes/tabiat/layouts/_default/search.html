@@ -1,0 +1,177 @@
+{{ define "main" }}
+<div class="search-page">
+    <!-- Hero -->
+    <div class="search-hero">
+        <div class="container">
+            <h1 class="search-hero-title">Arama Sonuçları</h1>
+            <div class="search-hero-box">
+                <input type="text" id="searchInput" placeholder="Alan adı, il veya tür ara...">
+                <button id="searchButton">
+                    <i data-lucide="search"></i>
+                    <span>Ara</span>
+                </button>
+            </div>
+            <div id="searchQuery" class="search-query"></div>
+        </div>
+    </div>
+
+    <!-- Results -->
+    <div class="search-results-section">
+        <div class="container">
+            <div id="searchResults" class="search-results">
+                <div class="search-info">
+                    <i data-lucide="info"></i>
+                    <p>Aramak istediğiniz alanın adını, ilini veya türünü yazın.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+// Arama fonksiyonu
+document.addEventListener('DOMContentLoaded', function() {
+    const searchInput = document.getElementById('searchInput');
+    const searchButton = document.getElementById('searchButton');
+    const searchResults = document.getElementById('searchResults');
+    const searchQuery = document.getElementById('searchQuery');
+
+    // URL'den arama kelimesini al
+    const urlParams = new URLSearchParams(window.location.search);
+    const query = urlParams.get('q');
+
+    let allAreas = [];
+
+    // Alan verilerini yükle
+    fetch('/index.json')
+        .then(response => response.json())
+        .then(data => {
+            allAreas = data;
+            console.log('Yüklenen alan sayısı:', allAreas.length);
+
+            // URL'de query varsa aramayı yap
+            if (query) {
+                searchInput.value = query;
+                performSearch(query);
+            }
+        })
+        .catch(error => {
+            console.error('Veri yüklenemedi:', error);
+            searchResults.innerHTML = `
+                <div class="search-info">
+                    <i data-lucide="alert-circle"></i>
+                    <p>Veri yüklenirken bir hata oluştu. Lütfen sayfayı yenileyin.</p>
+                </div>
+            `;
+            if (typeof lucide !== 'undefined') lucide.createIcons();
+        });
+
+    // Arama butonuna tıklandığında
+    searchButton.addEventListener('click', function() {
+        const query = searchInput.value.trim();
+        if (query) {
+            performSearch(query);
+            // URL'i güncelle
+            window.history.pushState({}, '', `/arama/?q=${encodeURIComponent(query)}`);
+        }
+    });
+
+    // Enter tuşuna basıldığında
+    searchInput.addEventListener('keypress', function(e) {
+        if (e.key === 'Enter') {
+            searchButton.click();
+        }
+    });
+
+    function performSearch(query) {
+        searchQuery.innerHTML = `<span>Aranan: "<strong>${query}</strong>"</span>`;
+
+        // Türkçe karakter normalizasyonu
+        const turkishMap = {
+            'ç': 'c', 'ğ': 'g', 'ı': 'i', 'ö': 'o', 'ş': 's', 'ü': 'u',
+            'Ç': 'c', 'Ğ': 'g', 'İ': 'i', 'Ö': 'o', 'Ş': 's', 'Ü': 'u'
+        };
+
+        function normalizeText(text) {
+            return text.toLowerCase().split('').map(char => turkishMap[char] || char).join('');
+        }
+
+        const normalizedQuery = normalizeText(query);
+
+        // Arama yap
+        const results = allAreas.filter(area => {
+            const normalizedTitle = normalizeText(area.title);
+            const normalizedType = normalizeText(area.type || '');
+            const normalizedProvince = normalizeText(area.province || '');
+            const normalizedDistrict = normalizeText(area.district || '');
+
+            return normalizedTitle.includes(normalizedQuery) ||
+                   normalizedType.includes(normalizedQuery) ||
+                   normalizedProvince.includes(normalizedQuery) ||
+                   normalizedDistrict.includes(normalizedQuery);
+        });
+
+        // Sonuçları göster
+        if (results.length === 0) {
+            searchResults.innerHTML = `
+                <div class="no-results-box">
+                    <i data-lucide="search-x"></i>
+                    <h3>Sonuç bulunamadı</h3>
+                    <p>"${query}" için eşleşen alan bulunamadı.</p>
+                    <div class="search-suggestions-box">
+                        <strong>Öneriler:</strong>
+                        <ul>
+                            <li>Farklı anahtar kelimeler deneyin</li>
+                            <li>Daha genel terimler kullanın</li>
+                            <li>Yazım hatası olmadığından emin olun</li>
+                        </ul>
+                    </div>
+                </div>
+            `;
+        } else {
+            let html = `<div class="search-count"><i data-lucide="check-circle"></i> ${results.length} sonuç bulundu</div>`;
+            html += '<div class="search-results-grid">';
+
+            results.forEach(area => {
+                const typeText = area.type ? area.type.charAt(0).toUpperCase() + area.type.slice(1) : 'Alan';
+                const locationText = area.province ?
+                    (area.district ? `${area.province}, ${area.district}` : area.province)
+                    : '';
+
+                html += `
+                    <a href="${area.url}" class="search-result-card">
+                        <div class="search-result-icon">
+                            <i data-lucide="map-pin"></i>
+                        </div>
+                        <div class="search-result-content">
+                            <h3 class="search-result-title">${highlightMatch(area.title, query)}</h3>
+                            <div class="search-result-meta">
+                                <span class="result-type">${typeText}</span>
+                                ${locationText ? '<span class="result-divider">•</span>' : ''}
+                                ${locationText ? '<span class="result-location">' + locationText + '</span>' : ''}
+                            </div>
+                        </div>
+                        <div class="search-result-arrow">
+                            <i data-lucide="arrow-right"></i>
+                        </div>
+                    </a>
+                `;
+            });
+
+            html += '</div>';
+            searchResults.innerHTML = html;
+        }
+
+        // Lucide ikonlarını yeniden başlat
+        if (typeof lucide !== 'undefined') {
+            lucide.createIcons();
+        }
+    }
+
+    function highlightMatch(text, query) {
+        const regex = new RegExp(`(${query})`, 'gi');
+        return text.replace(regex, '<mark>$1</mark>');
+    }
+});
+</script>
+{{ end }}

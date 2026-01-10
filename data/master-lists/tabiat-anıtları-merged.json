@@ -1,0 +1,553 @@
+{
+  "meta": {
+    "kaynak": "Wikipedia + Wikidata + DKMP (merged)",
+    "guncelleme_tarihi": "2026-01-08",
+    "toplam_sayi": 26,
+    "wikipedia_sayi": 16,
+    "wikidata_sayi": 10,
+    "dkmp_sayi": 0
+  },
+  "alanlar": [
+    {
+      "id": "turkiyedeki-tabiat-anitlari-listesi",
+      "ad": "Türkiye'deki tabiat anıtları listesi",
+      "tur": "tabiat-aniti",
+      "il": "Bilinmiyor",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/T%C3%BCrkiye'deki%20tabiat%20an%C4%B1tlar%C4%B1%20listesi"
+      ],
+      "notlar": "Türkiye'deki tabiat anıtları listesinde 24 Ekim 2025 itibarıyla 111 anıt alanı bulunmaktadır.",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "ana-ardic-tabiat-aniti",
+      "ad": "Ana Ardıç Tabiat Anıtı",
+      "tur": "tabiat-aniti",
+      "il": "Bilinmiyor",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ana%20Ard%C4%B1%C3%A7%20Tabiat%20An%C4%B1t%C4%B1"
+      ],
+      "notlar": "Ana Ardıç, Çamlıyayla'dan kuzeye doğru yaklaşık 20 km. kadar gidildiğinde Bolkar Dağları eteğinde ve Kadıncık vadisinin kuzeyinde bulunan anıt ağaç. Bugün 1107 yaşında, 22 metre boyunda ve 3,5 metre ç",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "bazalt-kayaliklari",
+      "ad": "Bazalt Kayalıkları",
+      "tur": "tabiat-aniti",
+      "il": "Sinop",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.47388889,
+        "lon": 34.64083333
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Bazalt%20Kayal%C4%B1klar%C4%B1"
+      ],
+      "notlar": "Bazalt Kayalıkları, Sinop'ta bulunan bazalt sütunları formundaki volkanik kaya alanıdır. Türkiye'deki tabiat anıtları listesinde yer alır.\nSinop İli, Boyabat'ın merkezine 15 km uzaklıktadır ve Kurusar",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "bigbig-orman-sarmasigi-tabiat-aniti",
+      "ad": "Bığbığ Orman Sarmaşığı Tabiat Anıtı",
+      "tur": "tabiat-aniti",
+      "il": "Adana",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/B%C4%B1%C4%9Fb%C4%B1%C4%9F%20Orman%20Sarma%C5%9F%C4%B1%C4%9F%C4%B1%20Tabiat%20An%C4%B1t%C4%B1"
+      ],
+      "notlar": "Bığbığ Sarmaşığı, Türkiye'nin güneyindeki Adana ilinde bulunan çok eski bir asma bitkidir.\nBığbığ Sarmaşığı, Adana ili Aladağ ilçesinin Meydan Yaylası'nda bulunmaktadır. Bığbığı mevkiinde deniz seviye",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "bulut-selalesi",
+      "ad": "Bulut Şelalesi",
+      "tur": "tabiat-aniti",
+      "il": "Rize",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.99611111,
+        "lon": 41.07916667
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Bulut%20%C5%9Eelalesi"
+      ],
+      "notlar": "Bulut Şelalesi, Rize ilinin Çamlıhemşin ilçesinde bulunan, Türkiye'nin en yüksekten akan şelalesidir. Yaklaşık 250 metre yükseklikten 4 kademede düşen şelalenin kaynağı Tar Deresidir. Derenin kaynağı ",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "dogancay-selalesi",
+      "ad": "Doğançay Şelalesi",
+      "tur": "tabiat-aniti",
+      "il": "Bilecik",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.6,
+        "lon": 30.37166667
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Do%C4%9Fan%C3%A7ay%20%C5%9Eelalesi"
+      ],
+      "notlar": "Doğançay Şelalesi, Sakarya ili, Geyve ilçesi, Maksudiye, köyünde bulunan şelale. Sakarya merkeze uzaklığı 25 km, Sakarya-Bilecik D.650 yoluna 10 km uzaklıkta, denizden yaklaşık 400 m yüksektedir.\n4 ha",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "gedelme-cinari",
+      "ad": "Gedelme Çınarı",
+      "tur": "tabiat-aniti",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Gedelme%20%C3%87%C4%B1nar%C4%B1"
+      ],
+      "notlar": "Gedelme Çınarı, Antalya ilinin Kemer ilçesindeki Kuzdere mahallesi'nde 700 metre rakımlı Gedelme Yaylası'nda bulunan dev çınar ağacıdır.\n2700 yaşında bir Doğu çınarıdır (Platanus orientalis).  Dünyanı",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "gindes-selalesi",
+      "ad": "Gindeş Şelalesi",
+      "tur": "tabiat-aniti",
+      "il": "Rize",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ginde%C5%9F%20%C5%9Eelalesi"
+      ],
+      "notlar": "Gindeş Şelalesi, Rize'nin Hemşin ilçesine 25 kilometre uzaklıkta konumlanmış bir şelaledir. 28 Ekim 2021 tarihinde Tabiat Anıtı olarak tescillenen şelale, 32 hektarlık bir alanı kaplamaktadır. 50 metr",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "guzelcehisar-bazalt-sutunlari",
+      "ad": "Güzelcehisar Bazalt Sütunları",
+      "tur": "tabiat-aniti",
+      "il": "Bartın",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/G%C3%BCzelcehisar%20Bazalt%20S%C3%BCtunlar%C4%B1"
+      ],
+      "notlar": "Güzelcehisar Bazalt Sütunları, Bartın, Türkiye'de bulunan bir tabiat anıtıdır. Bazalt sütunları, 80 milyon yıl önce oluşmuştur. Volkanik karakterdedir. Sütunlar yaklaşık 50 metre yüksekliğinde ve 5 ki",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "karagol-yaylasi-saricami",
+      "ad": "Karagöl Yaylası Sarıçamı",
+      "tur": "tabiat-aniti",
+      "il": "Sakarya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Karag%C3%B6l%20Yaylas%C4%B1%20Sar%C4%B1%C3%A7am%C4%B1"
+      ],
+      "notlar": "Karagöl Yaylası Sarıçamı, Sakarya ili, Taraklı ilçesi, Karagöl Yaylasında bulunan sarıçamdır (Pinus sylvestris). Olağan dışı bir büyüme gösteren bu ağaç 200 yaşında, 17 m boyunda, 1,5 m çapında ve 4,5",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "koca-katran",
+      "ad": "Koca Katran",
+      "tur": "tabiat-aniti",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.5023,
+        "lon": 29.7742
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Koca%20Katran"
+      ],
+      "notlar": "Koca Katran, Antalya ilinin Elmalı ilçesinde bulunan Çığlıkara Tabiatı Koruma Alanı'nda yer alan 2019 yılı itibarıyla 2.025 yaşındaki Lübnan sediri (Cedrus libani) ağacıdır. Elmalı Orman İşletme Müdür",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "meke-krater-golu",
+      "ad": "Meke Krater Gölü",
+      "tur": "tabiat-aniti",
+      "il": "Konya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Meke%20Krater%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Meke Maar Gölü, Konya'nın Karapınar ilçesinde, volkanik gaz patlaması sonucu oluşan bir maarın suyla dolmasıyla günümüzdeki haline gelen ve ortasında adacıklar bulunan göldür. Karapınar Düzlüğü'nde, K",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "nemrut-golu",
+      "ad": "Nemrut Gölü",
+      "tur": "tabiat-aniti",
+      "il": "Bitlis",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Nemrut%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Nemrut Gölü, Türkiye'nin en büyük krater gölü olup, adını MÖ 2100'de yaşamış Babil Hükümdarı Nemrut'tan almıştır.\nNemrut Gölü, Van Gölü havzasının batısında, Bitlis ilinin Tatvan, Ahlat ve Güroymak il",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "samandere-selalesi-tabiat-aniti",
+      "ad": "Samandere Şelalesi Tabiat Anıtı",
+      "tur": "tabiat-aniti",
+      "il": "Düzce",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.68944444,
+        "lon": 31.26027778
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Samandere%20%C5%9Eelalesi%20Tabiat%20An%C4%B1t%C4%B1"
+      ],
+      "notlar": "Samandere Şelalesi Tabiat Anıtı, Düzce ilinin merkez ilçesine bağlı Samandere köyünde bulunan Samandere Şelalesinin bulunduğu alan. Düzce'nin 26 km güneydoğusundadır.\nŞelale çevresi Çevre ve Orman Bak",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "yuzen-adalar-tabiat-aniti",
+      "ad": "Yüzen Adalar Tabiat Anıtı",
+      "tur": "tabiat-aniti",
+      "il": "Bingöl",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Y%C3%BCzen%20Adalar%20Tabiat%20An%C4%B1t%C4%B1"
+      ],
+      "notlar": "Yüzen Adalar Tabiat Anıtı, tamamen doğal oluşum olup Solhan-Bingöl kara yoluna 4,5 kilometre uzaklıktaki tabiat anıtıdır.\n\nSolhan ilçesi Hazarşah köyü, Aksakal mezrasındaki Ada, yörede yaşayan halk ta",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "zeytintasi-magarasi",
+      "ad": "Zeytintaşı Mağarası",
+      "tur": "tabiat-aniti",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.04694444,
+        "lon": 31.11055556
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Zeytinta%C5%9F%C4%B1%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Zeytintaşı Mağarası, Antalya ili, Serik ilçesi, Akbaş Köyü'nün sınırlarında bulunan karstik mağara.\nMağara yan ve alt taraflarından geçirimsiz tabakalarca kuşatılır. Jura-Kratase devri kireçtaşı kayaç",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "siloskosiya-rezervi",
+      "wikidata_id": "Q7515273",
+      "ad": "Siloskosiya Rezervi",
+      "tur": "tabiat-aniti",
+      "il": "Kestiriç",
+      "ilce": "Balgari",
+      "bolge": "",
+      "koordinat": {
+        "lat": 42.08305556,
+        "lon": 27.75416667
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D1%8A%D1%80%D0%B7%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%20%D0%B4%D0%BE%D0%BB%2C%20%D1%81.%D0%9A%D0%BE%D0%BD%D0%B4%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%2001.JPG",
+          "filename": "Мързевски дол, с.Кондолово 01.JPG",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q7515273"
+      ],
+      "notlar": "Wikidata - Tabiat Anıtları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "mencuna-selalesi",
+      "wikidata_id": "Q6026104",
+      "ad": "Mençuna Şelalesi",
+      "tur": "tabiat-aniti",
+      "il": "Artvin",
+      "ilce": "",
+      "bolge": "Karadeniz",
+      "koordinat": {
+        "lat": 41.254658,
+        "lon": 41.3519867
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Men%C3%A7una%202.jpg",
+          "filename": "Mençuna 2.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Men%C3%A7una_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q6026104"
+      ],
+      "notlar": "Wikidata - Tabiat Anıtları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "vitanovo-tabiati-koruma-alani",
+      "wikidata_id": "Q7936993",
+      "ad": "Vitanovo Tabiatı Koruma Alanı",
+      "tur": "tabiat-aniti",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.9939,
+        "lon": 27.4247
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vitanovo.jpg",
+          "filename": "Vitanovo.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q7936993"
+      ],
+      "notlar": "Wikidata - Tabiat Anıtları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ropotamo",
+      "wikidata_id": "Q12292545",
+      "ad": "Ropotamo",
+      "tur": "tabiat-aniti",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 42.3275,
+        "lon": 27.755555555
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ropotamo%20Kormoran.JPG",
+          "filename": "Ropotamo Kormoran.JPG",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q12292545"
+      ],
+      "notlar": "Wikidata - Tabiat Anıtları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "iztuzu-plaji",
+      "wikidata_id": "Q2016002",
+      "ad": "İztuzu Plajı",
+      "tur": "tabiat-aniti",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.7922,
+        "lon": 28.62
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Iztuzu%20strand.JPG",
+          "filename": "Iztuzu strand.JPG",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/%C4%B0ztuzu_Plaj%C4%B1",
+        "http://www.wikidata.org/entity/Q2016002"
+      ],
+      "notlar": "Wikidata - Tabiat Anıtları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "gorna-topchia",
+      "wikidata_id": "Q12277190",
+      "ad": "Gorna Topchia",
+      "tur": "tabiat-aniti",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 42.251025,
+        "lon": 26.575627777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q12277190"
+      ],
+      "notlar": "Wikidata - Tabiat Anıtları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "mileyha-sulak-alan",
+      "wikidata_id": "Q125536856",
+      "ad": "Mileyha Sulak Alan",
+      "tur": "tabiat-aniti",
+      "il": "Hatay",
+      "ilce": "Samandağ",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.061222957,
+        "lon": 35.957081852
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q125536856"
+      ],
+      "notlar": "Wikidata - Tabiat Anıtları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "sredoka",
+      "wikidata_id": "Q12294909",
+      "ad": "Sredoka",
+      "tur": "tabiat-aniti",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 42.033,
+        "lon": 27.517
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sredoka.jpg",
+          "filename": "Sredoka.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q12294909"
+      ],
+      "notlar": "Wikidata - Tabiat Anıtları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "uzunbocak",
+      "wikidata_id": "Q12297191",
+      "ad": "Uzunbocak",
+      "tur": "tabiat-aniti",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.976111111,
+        "lon": 27.801666666
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Uzunbudzhak.jpg",
+          "filename": "Uzunbudzhak.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Uzunbocak",
+        "http://www.wikidata.org/entity/Q12297191"
+      ],
+      "notlar": "Wikidata - Tabiat Anıtları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "tisovitsa",
+      "wikidata_id": "Q12296371",
+      "ad": "Tisovitsa",
+      "tur": "tabiat-aniti",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 42.1416,
+        "lon": 27.7021
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tisovitsa.jpg",
+          "filename": "Tisovitsa.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q12296371"
+      ],
+      "notlar": "Wikidata - Tabiat Anıtları",
+      "veri_kaynagi": "wikidata"
+    }
+  ]
+}

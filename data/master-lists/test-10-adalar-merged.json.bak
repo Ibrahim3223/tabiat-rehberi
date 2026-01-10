@@ -1,0 +1,269 @@
+{
+  "meta": {
+    "kaynak": "Test - 10 Ada",
+    "guncelleme_tarihi": "2026-01-05",
+    "toplam_sayi": 10
+  },
+  "alanlar": [
+    {
+      "id": "tavsan-adasi-istanbul",
+      "wikidata_id": "Q607439",
+      "ad": "Tavşan Adası (Istanbul)",
+      "tur": "ada",
+      "il": "İstanbul",
+      "ilce": "Adalar",
+      "bolge": "Marmara",
+      "koordinat": {
+        "lat": 40.819444,
+        "lon": 29.1125
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tavsan%20Adasi.JPG",
+          "filename": "Tavsan Adasi.JPG",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Tav%C5%9Fan_Adas%C4%B1",
+        "http://www.wikidata.org/entity/Q607439"
+      ],
+      "notlar": "Wikidata - Adalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "sedef-adasi",
+      "wikidata_id": "Q677112",
+      "ad": "Sedef Adası",
+      "tur": "ada",
+      "il": "İstanbul",
+      "ilce": "Adalar",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.85,
+        "lon": 29.144444
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Island%20of%20Sedef%20from%20B%C3%BCy%C3%BCkada.jpg",
+          "filename": "Island of Sedef from Büyükada.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Sedef_Adas%C4%B1",
+        "http://www.wikidata.org/entity/Q677112"
+      ],
+      "notlar": "Wikidata - Adalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kasik-adasi",
+      "wikidata_id": "Q110585",
+      "ad": "Kaşık Adası",
+      "tur": "ada",
+      "il": "İstanbul",
+      "ilce": "Adalar",
+      "bolge": "Marmara",
+      "koordinat": {
+        "lat": 40.885,
+        "lon": 29.078333333
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Istanbul%20%28TR%29%2C%20Ka%C5%9F%C4%B1k%20Adas%C4%B1%20--%202024%20--%200528.jpg",
+          "filename": "Istanbul (TR), Kaşık Adası -- 2024 -- 0528.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Ka%C5%9F%C4%B1k_Adas%C4%B1",
+        "http://www.wikidata.org/entity/Q110585"
+      ],
+      "notlar": "Wikidata - Adalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "heybeliada",
+      "wikidata_id": "Q253317",
+      "ad": "Heybeliada",
+      "tur": "ada",
+      "il": "İstanbul",
+      "ilce": "Adalar",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.875,
+        "lon": 29.089444444
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Istanbul%20%28TR%29%2C%20Burgazada%2C%20Blick%20auf%20Heybeliada%20--%202024%20--%200623.jpg",
+          "filename": "Istanbul (TR), Burgazada, Blick auf Heybeliada -- 2024 -- 0623.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Heybeliada",
+        "http://www.wikidata.org/entity/Q253317"
+      ],
+      "notlar": "Wikidata - Adalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kinaliada",
+      "wikidata_id": "Q579117",
+      "ad": "Kınalıada",
+      "tur": "ada",
+      "il": "İstanbul",
+      "ilce": "Adalar",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.913055555,
+        "lon": 29.05
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Istanbul%20%28TR%29%2C%20K%C4%B1nal%C4%B1ada%2C%20Hafen%20--%202024%20--%200452.jpg",
+          "filename": "Istanbul (TR), Kınalıada, Hafen -- 2024 -- 0452.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/K%C4%B1nal%C4%B1ada",
+        "http://www.wikidata.org/entity/Q579117"
+      ],
+      "notlar": "Wikidata - Adalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "gokceada",
+      "wikidata_id": "Q658437",
+      "ad": "Gökçeada",
+      "tur": "ada",
+      "il": "Çanakkale",
+      "ilce": "Gökçeada",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.1626,
+        "lon": 25.8289
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gokceada5.JPG",
+          "filename": "Gokceada5.JPG",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/G%C3%B6k%C3%A7eada_(ada)",
+        "http://www.wikidata.org/entity/Q658437"
+      ],
+      "notlar": "Wikidata - Adalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "bozcaada",
+      "wikidata_id": "Q211817",
+      "ad": "Bozcaada",
+      "tur": "ada",
+      "il": "Çanakkale",
+      "ilce": "Bozcaada",
+      "bolge": "Marmara",
+      "koordinat": {
+        "lat": 39.816666666,
+        "lon": 26.05
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bozcaada%20021.jpg",
+          "filename": "Bozcaada 021.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Bozcaada",
+        "http://www.wikidata.org/entity/Q211817"
+      ],
+      "notlar": "Wikidata - Adalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "buyukada",
+      "wikidata_id": "Q989883",
+      "ad": "Büyükada",
+      "tur": "ada",
+      "il": "İstanbul",
+      "ilce": "Adalar",
+      "bolge": "Marmara",
+      "koordinat": {
+        "lat": 40.857777777,
+        "lon": 29.12
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/B%C3%BCy%C3%BCkada.JPG",
+          "filename": "Büyükada.JPG",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCkada",
+        "http://www.wikidata.org/entity/Q989883"
+      ],
+      "notlar": "Wikidata - Adalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "giresun-adasi",
+      "wikidata_id": "Q1526709",
+      "ad": "Giresun Adası",
+      "tur": "ada",
+      "il": "Giresun",
+      "ilce": "",
+      "bolge": "Karadeniz",
+      "koordinat": {
+        "lat": 40.928888888,
+        "lon": 38.436111111
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Giresun%20Adasi%20%28Amazon%20Island%29%20Giresun%20Turkey.jpg",
+          "filename": "Giresun Adasi (Amazon Island) Giresun Turkey.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Giresun_Adas%C4%B1",
+        "http://www.wikidata.org/entity/Q1526709"
+      ],
+      "notlar": "Wikidata - Adalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kekova",
+      "wikidata_id": "Q2666727",
+      "ad": "Kekova",
+      "tur": "ada",
+      "il": "Antalya",
+      "ilce": "Demre",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.183333333,
+        "lon": 29.883333333
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kekova%20island%20and%20Kalekoey%20village.jpg",
+          "filename": "Kekova island and Kalekoey village.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Kekova",
+        "http://www.wikidata.org/entity/Q2666727"
+      ],
+      "notlar": "Wikidata - Adalar",
+      "veri_kaynagi": "wikidata"
+    }
+  ]
+}

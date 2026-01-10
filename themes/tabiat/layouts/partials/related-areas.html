@@ -1,0 +1,141 @@
+{{/* İlgili Alanlar - SEO için iç linkleme */}}
+{{- $currentPage := . -}}
+{{- $currentIl := .Params.il -}}
+{{- $currentIlce := .Params.ilce -}}
+{{- $currentTur := .Params.alan_turu -}}
+{{- $currentCoords := .Params.coordinates | default .Params.koordinat -}}
+
+{{/* Aynı ildeki diğer alanlar - randomize için shuffle */}}
+{{- $sameCityAreas := where .Site.RegularPages "Type" "alan" -}}
+{{- $sameCityAreas = where $sameCityAreas "Params.il" $currentIl -}}
+{{- $sameCityAreas = $sameCityAreas | complement (slice $currentPage) | shuffle -}}
+{{- $sameCityAreas = first 4 $sameCityAreas -}}
+
+{{/* Aynı türdeki diğer alanlar - randomize için shuffle */}}
+{{- $sameTypeAreas := where .Site.RegularPages "Type" "alan" -}}
+{{- $sameTypeAreas = where $sameTypeAreas "Params.alan_turu" $currentTur -}}
+{{- $sameTypeAreas = $sameTypeAreas | complement (slice $currentPage) | shuffle -}}
+{{- $sameTypeAreas = first 4 $sameTypeAreas -}}
+
+{{/* Aynı ilçedeki diğer alanlar (ilçe varsa) */}}
+{{- $sameDistrictAreas := slice -}}
+{{- if $currentIlce -}}
+  {{- $sameDistrictAreas = where .Site.RegularPages "Type" "alan" -}}
+  {{- $sameDistrictAreas = where $sameDistrictAreas "Params.ilce" $currentIlce -}}
+  {{- $sameDistrictAreas = $sameDistrictAreas | complement (slice $currentPage) | shuffle -}}
+  {{- $sameDistrictAreas = first 3 $sameDistrictAreas -}}
+{{- end -}}
+
+{{ if or (gt (len $sameCityAreas) 0) (gt (len $sameTypeAreas) 0) (gt (len $sameDistrictAreas) 0) }}
+<div class="related-areas-section">
+    <div class="container">
+        {{/* Aynı İlçedeki Alanlar (öncelikli) */}}
+        {{ if gt (len $sameDistrictAreas) 0 }}
+        <div class="related-areas-block">
+            <h2 class="related-areas-title">
+                <i data-lucide="map" style="width: 24px; height: 24px;"></i>
+                {{ $currentIlce }}, {{ $currentIl }}'daki Doğal Alanlar
+            </h2>
+            <div class="related-areas-grid">
+                {{ range $sameDistrictAreas }}
+                <a href="{{ .Permalink }}" class="related-area-card">
+                    {{ if .Params.images.hero.url }}
+                    <div class="related-area-image">
+                        <img src="{{ .Params.images.hero.url }}" alt="{{ .Title }}" loading="lazy">
+                    </div>
+                    {{ else }}
+                    <div class="related-area-image related-area-placeholder">
+                        <i data-lucide="image" style="width: 32px; height: 32px;"></i>
+                    </div>
+                    {{ end }}
+                    <div class="related-area-content">
+                        <h3>{{ .Title }}</h3>
+                        <p class="related-area-type">
+                            <i data-lucide="tag" style="width: 14px; height: 14px;"></i>
+                            {{ .Params.alan_turu | humanize }}
+                        </p>
+                    </div>
+                </a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{/* Aynı İldeki Alanlar */}}
+        {{ if gt (len $sameCityAreas) 0 }}
+        <div class="related-areas-block">
+            <h2 class="related-areas-title">
+                <i data-lucide="map-pin" style="width: 24px; height: 24px;"></i>
+                {{ $currentIl }}'daki Diğer Doğal Alanlar
+            </h2>
+            <div class="related-areas-grid">
+                {{ range $sameCityAreas }}
+                <a href="{{ .Permalink }}" class="related-area-card">
+                    {{ if .Params.images.hero.url }}
+                    <div class="related-area-image">
+                        <img src="{{ .Params.images.hero.url }}" alt="{{ .Title }}" loading="lazy">
+                    </div>
+                    {{ else }}
+                    <div class="related-area-image related-area-placeholder">
+                        <i data-lucide="image" style="width: 32px; height: 32px;"></i>
+                    </div>
+                    {{ end }}
+                    <div class="related-area-content">
+                        <h3>{{ .Title }}</h3>
+                        <p class="related-area-type">
+                            <i data-lucide="tag" style="width: 14px; height: 14px;"></i>
+                            {{ .Params.alan_turu | humanize }}
+                        </p>
+                    </div>
+                </a>
+                {{ end }}
+            </div>
+            <div class="related-areas-cta">
+                <a href="/iller/{{ $currentIl | urlize }}/" class="btn-secondary">
+                    {{ $currentIl }}'daki Tüm Alanlar
+                    <i data-lucide="arrow-right" style="width: 16px; height: 16px;"></i>
+                </a>
+            </div>
+        </div>
+        {{ end }}
+
+        {{/* Aynı Türdeki Alanlar */}}
+        {{ if gt (len $sameTypeAreas) 0 }}
+        <div class="related-areas-block">
+            <h2 class="related-areas-title">
+                <i data-lucide="layers" style="width: 24px; height: 24px;"></i>
+                Diğer {{ $currentTur | humanize }}lar
+            </h2>
+            <div class="related-areas-grid">
+                {{ range $sameTypeAreas }}
+                <a href="{{ .Permalink }}" class="related-area-card">
+                    {{ if .Params.images.hero.url }}
+                    <div class="related-area-image">
+                        <img src="{{ .Params.images.hero.url }}" alt="{{ .Title }}" loading="lazy">
+                    </div>
+                    {{ else }}
+                    <div class="related-area-image related-area-placeholder">
+                        <i data-lucide="image" style="width: 32px; height: 32px;"></i>
+                    </div>
+                    {{ end }}
+                    <div class="related-area-content">
+                        <h3>{{ .Title }}</h3>
+                        <p class="related-area-location">
+                            <i data-lucide="map-pin" style="width: 14px; height: 14px;"></i>
+                            {{ .Params.il }}{{ if .Params.ilce }}, {{ .Params.ilce }}{{ end }}
+                        </p>
+                    </div>
+                </a>
+                {{ end }}
+            </div>
+            <div class="related-areas-cta">
+                <a href="/turler/{{ $currentTur | urlize }}/" class="btn-secondary">
+                    Tüm {{ $currentTur | humanize }}lar
+                    <i data-lucide="arrow-right" style="width: 16px; height: 16px;"></i>
+                </a>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

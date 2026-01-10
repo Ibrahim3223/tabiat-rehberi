@@ -4,10 +4,15 @@ title = 'Tabiat Rehberi - Türkiye Doğal Alanlar Ansiklopedisi'
 theme = 'tabiat'
 
 # Hugo ayarları
-paginate = 24
 enableRobotsTXT = true
 enableGitInfo = false
 enableEmoji = false
+summaryLength = 50  # Özet uzunluğu (kelime sayısı)
+hasCJKLanguage = false
+
+# Pagination ayarları
+[pagination]
+  pagerSize = 24
 
 # Çıktı formatları
 [outputs]
@@ -58,11 +63,17 @@ enableEmoji = false
     lineNos = false
     noClasses = false
 
-# Sitemap
+# Sitemap - SEO Optimized
 [sitemap]
   changefreq = 'weekly'
   filename = 'sitemap.xml'
   priority = 0.5
+
+# Per-page sitemap configuration (override via frontmatter)
+# Ana sayfa: priority = 1.0, changefreq = daily
+# Alan sayfaları: priority = 0.8, changefreq = weekly
+# İl/Tür sayfaları: priority = 0.7, changefreq = weekly
+# Blog/statik sayfalar: priority = 0.6, changefreq = monthly
 
 # Menü yapısı
 [menu]

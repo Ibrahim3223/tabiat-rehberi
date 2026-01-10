@@ -1,0 +1,639 @@
+{
+  "meta": {
+    "kaynak": "Wikidata SPARQL",
+    "qid": [
+      "Q179049",
+      "Q1286517"
+    ],
+    "guncelleme_tarihi": "2026-01-07",
+    "toplam_sayi": 8
+  },
+  "alanlar": [
+    {
+      "id": "mileyha-sulak-alan",
+      "wikidata_id": "Q125536856",
+      "ad": "Mileyha Sulak Alan",
+      "tur": "tabiat-aniti",
+      "il": "Hatay",
+      "ilce": "Samandağ",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.061222957,
+        "lon": 35.957081852
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q125536856"
+      ],
+      "notlar": "Wikidata - Tabiat Anıtları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "siloskosiya-rezervi",
+      "wikidata_id": "Q7515273",
+      "ad": "Siloskosiya Rezervi",
+      "tur": "tabiat-aniti",
+      "il": "Burgaz (il)",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 42.08305556,
+        "lon": 27.75416667
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": 389.6,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": "Yıldız Dağları",
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": "Stranca Doğa Parkı",
+        "yonetim": null,
+        "kurulus_tarihi": "1931-07-23",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D1%8A%D1%80%D0%B7%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%20%D0%B4%D0%BE%D0%BB%2C%20%D1%81.%D0%9A%D0%BE%D0%BD%D0%B4%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%2001.JPG",
+          "filename": "Мързевски дол, с.Кондолово 01.JPG",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q7515273"
+      ],
+      "notlar": "Wikidata - Tabiat Anıtları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "vitanovo-tabiati-koruma-alani",
+      "wikidata_id": "Q7936993",
+      "ad": "Vitanovo Tabiatı Koruma Alanı",
+      "tur": "tabiat-aniti",
+      "il": "Burgaz (il)",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.9939,
+        "lon": 27.4247
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": 1112.4,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "1981-12-03",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vitanovo.jpg",
+          "filename": "Vitanovo.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q7936993"
+      ],
+      "notlar": "Wikidata - Tabiat Anıtları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "uzunbocak",
+      "wikidata_id": "Q12297191",
+      "ad": "Uzunbocak",
+      "tur": "tabiat-aniti",
+      "il": "Burgaz (il)",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.976111111,
+        "lon": 27.801666666
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": 2529.6,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "1956-12-13",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": "Узунбоджак",
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": "http://www.dagzapoved.ru/",
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Uzunbudzhak.jpg",
+          "filename": "Uzunbudzhak.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Uzunbocak",
+        "http://www.wikidata.org/entity/Q12297191",
+        "http://www.dagzapoved.ru/"
+      ],
+      "notlar": "Wikidata - Tabiat Anıtları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "gorna-topchia",
+      "wikidata_id": "Q12277190",
+      "ad": "Gorna Topchia",
+      "tur": "tabiat-aniti",
+      "il": "Yambol (il)",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 42.251025,
+        "lon": 26.575627777
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": 164.38,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "1951-09-24",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q12277190"
+      ],
+      "notlar": "Wikidata - Tabiat Anıtları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "tisovitsa",
+      "wikidata_id": "Q12296371",
+      "ad": "Tisovitsa",
+      "tur": "tabiat-aniti",
+      "il": "Burgaz (il)",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 42.1416,
+        "lon": 27.7021
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": 749.3,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "1990-02-16",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tisovitsa.jpg",
+          "filename": "Tisovitsa.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q12296371"
+      ],
+      "notlar": "Wikidata - Tabiat Anıtları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "sredoka",
+      "wikidata_id": "Q12294909",
+      "ad": "Sredoka",
+      "tur": "tabiat-aniti",
+      "il": "Burgaz (il)",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 42.033,
+        "lon": 27.517
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": 607.8,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "1989-01-18",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sredoka.jpg",
+          "filename": "Sredoka.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q12294909"
+      ],
+      "notlar": "Wikidata - Tabiat Anıtları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ropotamo",
+      "wikidata_id": "Q12292545",
+      "ad": "Ropotamo",
+      "tur": "tabiat-aniti",
+      "il": "Burgaz (il)",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 42.3275,
+        "lon": 27.755555555
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": 1000.7,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "1992-05-07",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ropotamo%20Kormoran.JPG",
+          "filename": "Ropotamo Kormoran.JPG",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q12292545"
+      ],
+      "notlar": "Wikidata - Tabiat Anıtları",
+      "veri_kaynagi": "wikidata"
+    }
+  ]
+}

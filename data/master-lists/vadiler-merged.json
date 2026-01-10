@@ -1,0 +1,2014 @@
+{
+  "meta": {
+    "kaynak": "Wikipedia + Wikidata + DKMP (merged)",
+    "guncelleme_tarihi": "2026-01-08",
+    "toplam_sayi": 79,
+    "wikipedia_sayi": 0,
+    "wikidata_sayi": 79,
+    "dkmp_sayi": 0
+  },
+  "alanlar": [
+    {
+      "id": "koramaz-vadisi",
+      "wikidata_id": "Q6005258",
+      "ad": "Koramaz Vadisi",
+      "tur": "vadi",
+      "il": "Kayseri",
+      "ilce": "Melikgazi",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.802777777,
+        "lon": 35.683888888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Koramaz_Vadisi",
+        "http://www.wikidata.org/entity/Q6005258"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kapuz",
+      "wikidata_id": "Q6004246",
+      "ad": "Kapuz",
+      "tur": "vadi",
+      "il": "Muğla",
+      "ilce": "",
+      "bolge": "Ege",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Kapuz",
+        "http://www.wikidata.org/entity/Q6004246"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "munzur-vadisi",
+      "wikidata_id": "Q6073478",
+      "ad": "Munzur Vadisi",
+      "tur": "vadi",
+      "il": "Tunceli",
+      "ilce": "",
+      "bolge": "Doğu Anadolu",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q6073478"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "goynuk-kanyonu",
+      "wikidata_id": "Q6058426",
+      "ad": "Göynük Kanyonu",
+      "tur": "vadi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.68277778,
+        "lon": 30.53305556
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/G%C3%B6yn%C3%BCk_Kanyonu",
+        "http://www.wikidata.org/entity/Q6058426"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "inozu-vadisi",
+      "wikidata_id": "Q12812960",
+      "ad": "İnözü Vadisi",
+      "tur": "vadi",
+      "il": "Ankara",
+      "ilce": "Beypazarı",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.188333333,
+        "lon": 31.913333333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/%C4%B0n%C3%B6z%C3%BC_Vadisi",
+        "http://www.wikidata.org/entity/Q12812960"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "amik-ovasi",
+      "wikidata_id": "Q481670",
+      "ad": "Amik Ovası",
+      "tur": "vadi",
+      "il": "Hatay",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.341388888,
+        "lon": 36.316111111
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Amik%20Ovas%C4%B1%27n%C4%B1n%20Amanoslar%27dan%20g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg",
+          "filename": "Amik Ovası'nın Amanoslar'dan görünümü.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Amik_Ovas%C4%B1",
+        "http://www.wikidata.org/entity/Q481670"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "frig-vadisi",
+      "wikidata_id": "Q1476034",
+      "ad": "Frig Vadisi",
+      "tur": "vadi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.04833333,
+        "lon": 30.52333333
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Phrygien.jpg",
+          "filename": "Phrygien.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q1476034"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "manastir-vadisi",
+      "wikidata_id": "Q1776499",
+      "ad": "Manastır Vadisi",
+      "tur": "vadi",
+      "il": "Aksaray",
+      "ilce": "Güzelyurt",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.26722222,
+        "lon": 34.36944444
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/G%C3%BCzelyurtKlostertal.jpg",
+          "filename": "GüzelyurtKlostertal.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q1776499"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "erzincan-ovasi",
+      "wikidata_id": "Q6053222",
+      "ad": "Erzincan Ovası",
+      "tur": "vadi",
+      "il": "Erzincan",
+      "ilce": "",
+      "bolge": "Doğu Anadolu",
+      "koordinat": {
+        "lat": 39.686666666,
+        "lon": 39.618611111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Erzincan_Ovas%C4%B1",
+        "http://www.wikidata.org/entity/Q6053222"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kelebekler-vadisi",
+      "wikidata_id": "Q6098733",
+      "ad": "Kelebekler Vadisi",
+      "tur": "vadi",
+      "il": "Muğla",
+      "ilce": "Fethiye (ilçe)",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.4968,
+        "lon": 29.1273
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Butterfly%20Valley%2C%20Fethiye.jpg",
+          "filename": "Butterfly Valley, Fethiye.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Kelebekler_Vadisi",
+        "http://www.wikidata.org/entity/Q6098733"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "imerhev-vadisi",
+      "wikidata_id": "Q6003916",
+      "ad": "İmerhev Vadisi",
+      "tur": "vadi",
+      "il": "Artvin",
+      "ilce": "Şavşat",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.416666666,
+        "lon": 42.25
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/%C4%B0merhev",
+        "http://www.wikidata.org/entity/Q6003916"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "pasinler-ovasi",
+      "wikidata_id": "Q16373220",
+      "ad": "Pasinler Ovası",
+      "tur": "vadi",
+      "il": "Erzurum",
+      "ilce": "Pasinler",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.968055555,
+        "lon": 41.620277777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q16373220"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "alucuri-vadisi",
+      "wikidata_id": "Q21209538",
+      "ad": "Alucuri Vadisi",
+      "tur": "vadi",
+      "il": "Giresun",
+      "ilce": "",
+      "bolge": "Karadeniz",
+      "koordinat": {
+        "lat": 40.358125,
+        "lon": 38.697823333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q21209538"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "hinis-ovasi",
+      "wikidata_id": "Q16383665",
+      "ad": "Hınıs Ovası",
+      "tur": "vadi",
+      "il": "Erzurum",
+      "ilce": "Karaçoban",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.323888888,
+        "lon": 41.930555555
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q16383665"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ayasovasi",
+      "wikidata_id": "Q21695275",
+      "ad": "Ayasovası",
+      "tur": "vadi",
+      "il": "Adana",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.826923333,
+        "lon": 35.680233333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q21695275"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "catak-kanyonu",
+      "wikidata_id": "Q31190277",
+      "ad": "Çatak Kanyonu",
+      "tur": "vadi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.6559,
+        "lon": 33.233
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/%C3%87atak_Kanyonu",
+        "http://www.wikidata.org/entity/Q31190277"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "buyukdere",
+      "wikidata_id": "Q35380417",
+      "ad": "Büyükdere",
+      "tur": "vadi",
+      "il": "Hatay",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.146388888,
+        "lon": 36.040833333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q35380417"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "zerrruyum",
+      "wikidata_id": "Q21697236",
+      "ad": "Zerrruyum",
+      "tur": "vadi",
+      "il": "Gaziantep",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.215224,
+        "lon": 37.682076
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q21697236"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ihlara-vadisi",
+      "wikidata_id": "Q22343387",
+      "ad": "Ihlara Vadisi",
+      "tur": "vadi",
+      "il": "Aksaray",
+      "ilce": "",
+      "bolge": "İç Anadolu",
+      "koordinat": {
+        "lat": 38.2575,
+        "lon": 34.295277777
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ihlara.jpg",
+          "filename": "Ihlara.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q22343387"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "tilki-deresi",
+      "wikidata_id": "Q21695169",
+      "ad": "Tilki Deresi",
+      "tur": "vadi",
+      "il": "Kars",
+      "ilce": "",
+      "bolge": "Doğu Anadolu",
+      "koordinat": {
+        "lat": 40.538006666,
+        "lon": 43.619353333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q21695169"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "akndast",
+      "wikidata_id": "Q21694921",
+      "ad": "Akndaşt",
+      "tur": "vadi",
+      "il": "Van",
+      "ilce": "",
+      "bolge": "Doğu Anadolu",
+      "koordinat": {
+        "lat": 38.131383333,
+        "lon": 42.841403333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q21694921"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "gomeda-vadisi",
+      "wikidata_id": "Q35473810",
+      "ad": "Gomeda Vadisi",
+      "tur": "vadi",
+      "il": "Nevşehir",
+      "ilce": "",
+      "bolge": "İç Anadolu",
+      "koordinat": {
+        "lat": 38.5716,
+        "lon": 34.8599
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gomeda%20Vadisi%20%289%29.jpg",
+          "filename": "Gomeda Vadisi (9).jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q35473810"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "hamitseydi-bogazi",
+      "wikidata_id": "Q35502516",
+      "ad": "Hamitseydi Boğazı",
+      "tur": "vadi",
+      "il": "Karaman",
+      "ilce": "",
+      "bolge": "İç Anadolu",
+      "koordinat": {
+        "lat": 36.5,
+        "lon": 32.8
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q35502516"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "alaskert-ovasi",
+      "wikidata_id": "Q23011908",
+      "ad": "Alaşkert Ovası",
+      "tur": "vadi",
+      "il": "Ağrı",
+      "ilce": "",
+      "bolge": "Doğu Anadolu",
+      "koordinat": {
+        "lat": 39.8,
+        "lon": 42.65
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Z%C3%AAdka%20%28Ele%C5%9Fkirt%29%2C%20Agir%C3%AE.jpg",
+          "filename": "Zêdka (Eleşkirt), Agirî.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q23011908"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "karakovanlik-bogazi",
+      "wikidata_id": "Q49822891",
+      "ad": "Karakovanlık Boğazı",
+      "tur": "vadi",
+      "il": "",
+      "ilce": "Türkiye",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.483333333,
+        "lon": 32.8
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49822891"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "doski-vadisi",
+      "wikidata_id": "Q125507355",
+      "ad": "Doski Vadisi",
+      "tur": "vadi",
+      "il": "Hakkari",
+      "ilce": "Yüksekova",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.41912,
+        "lon": 44.13828
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Doski%20Vadisi.jpg",
+          "filename": "Doski Vadisi.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q125507355"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "hinis-kanyonu",
+      "wikidata_id": "Q117318119",
+      "ad": "Hınıs Kanyonu",
+      "tur": "vadi",
+      "il": "Erzurum Vilayeti",
+      "ilce": "Hınıs",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.3692,
+        "lon": 41.6865
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/H%C4%B1n%C4%B1s_Kanyonu",
+        "http://www.wikidata.org/entity/Q117318119"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "karanlik-kanyon",
+      "wikidata_id": "Q61077683",
+      "ad": "Karanlık Kanyon",
+      "tur": "vadi",
+      "il": "Mamuret-ul-Aziz Vilayeti",
+      "ilce": "Kemaliye",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.27,
+        "lon": 38.497611111
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Canyone%202%20%2832828345%29.jpeg",
+          "filename": "Canyone 2 (32828345).jpeg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Karanl%C4%B1k_Kanyon",
+        "http://www.wikidata.org/entity/Q61077683"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "yazili-kanyon",
+      "wikidata_id": "Q6014101",
+      "ad": "Yazılı Kanyon",
+      "tur": "vadi",
+      "il": "Isparta",
+      "ilce": "Sütçüler",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.453055555,
+        "lon": 30.876111111
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Yaz%C4%B1l%C4%B1%20kanyaon%20-%20panoramio.jpg",
+          "filename": "Yazılı kanyaon - panoramio.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Yaz%C4%B1l%C4%B1_Kanyon_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q6014101"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ask-vadisi-kapadokya",
+      "wikidata_id": "Q116055702",
+      "ad": "Aşk Vadisi, Kapadokya",
+      "tur": "vadi",
+      "il": "Nevşehir",
+      "ilce": "Göreme",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.658445,
+        "lon": 34.8212133
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bagildere%20Love%20Valley%20Cappadocia%201520259%2060%2061%20Compressor%20HDR%20lvl%20Nevit.jpg",
+          "filename": "Bagildere Love Valley Cappadocia 1520259 60 61 Compressor HDR lvl Nevit.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q116055702"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "tazi-kanyonu",
+      "wikidata_id": "Q117319159",
+      "ad": "Tazı kanyonu",
+      "tur": "vadi",
+      "il": "Antalya",
+      "ilce": "Antalya",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.148,
+        "lon": 31.1896
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Taz%C4%B1_kanyonu",
+        "http://www.wikidata.org/entity/Q117319159"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "gokceler-kanyonu",
+      "wikidata_id": "Q30625381",
+      "ad": "Gökçeler Kanyonu",
+      "tur": "vadi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.18444444,
+        "lon": 27.75833333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/G%C3%B6k%C3%A7eler_Kanyonu",
+        "http://www.wikidata.org/entity/Q30625381"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ulubey-kanyonu",
+      "wikidata_id": "Q12812366",
+      "ad": "Ulubey Kanyonu",
+      "tur": "vadi",
+      "il": "Uşak",
+      "ilce": "Ulubey",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.38444444,
+        "lon": 29.29972222
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ulubey%20Canyon%20Usak%20Province%20Turkey.jpg",
+          "filename": "Ulubey Canyon Usak Province Turkey.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Ulubey_Kanyonu",
+        "http://www.wikidata.org/entity/Q12812366"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "barduscay",
+      "wikidata_id": "Q21696162",
+      "ad": "Bardusçay",
+      "tur": "vadi",
+      "il": "Erzurum",
+      "ilce": "Şenkaya",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.553756,
+        "lon": 42.211743
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q21696162"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "arapapisti-kanyonu",
+      "wikidata_id": "Q85968120",
+      "ad": "Arapapıştı Kanyonu",
+      "tur": "vadi",
+      "il": "Aydın",
+      "ilce": "Bozdoğan",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.523555555,
+        "lon": 28.579444444
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Arapap%C4%B1%C5%9Ft%C4%B1_Kanyonu",
+        "http://www.wikidata.org/entity/Q85968120"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kisecik-kanyonu",
+      "wikidata_id": "Q28220935",
+      "ad": "Kisecik Kanyonu",
+      "tur": "vadi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.105,
+        "lon": 34.648333333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Kisecik_Kanyonu",
+        "http://www.wikidata.org/entity/Q28220935"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kirkgecit-bogazi",
+      "wikidata_id": "Q34711358",
+      "ad": "Kırkgeçit Boğazı",
+      "tur": "vadi",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.755833333,
+        "lon": 32.460277777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q34711358"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kale-bogazi",
+      "wikidata_id": "Q34711219",
+      "ad": "Kale Boğazı",
+      "tur": "vadi",
+      "il": "Denizli",
+      "ilce": "",
+      "bolge": "Ege",
+      "koordinat": {
+        "lat": 37.716666666,
+        "lon": 29.35
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q34711219"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kapikaya-kanyonu",
+      "wikidata_id": "Q20988462",
+      "ad": "Kapıkaya Kanyonu",
+      "tur": "vadi",
+      "il": "Adana",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 37.244444444,
+        "lon": 34.976666666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Kap%C4%B1kaya_Kanyonu",
+        "http://www.wikidata.org/entity/Q20988462"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "sahinkaya-kanyonu",
+      "wikidata_id": "Q61075807",
+      "ad": "Şahinkaya Kanyonu",
+      "tur": "vadi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.268027777,
+        "lon": 35.407777777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/%C5%9Eahinkaya_Kanyonu",
+        "http://www.wikidata.org/entity/Q61075807"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "guvercinlik-vadisi",
+      "wikidata_id": "Q117317794",
+      "ad": "Güvercinlik Vadisi",
+      "tur": "vadi",
+      "il": "Nevşehir",
+      "ilce": "",
+      "bolge": "İç Anadolu",
+      "koordinat": {
+        "lat": 38.62046,
+        "lon": 34.80584
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/G%C3%BCvercinlik_Vadisi",
+        "http://www.wikidata.org/entity/Q117317794"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kirkhaklik-bogazi",
+      "wikidata_id": "Q34711365",
+      "ad": "Kırkhaklık Boğazı",
+      "tur": "vadi",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 37.066666666,
+        "lon": 31.916666666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q34711365"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ballikayalar",
+      "wikidata_id": "Q6027918",
+      "ad": "Ballıkayalar",
+      "tur": "vadi",
+      "il": "Kocaeli",
+      "ilce": "",
+      "bolge": "Marmara",
+      "koordinat": {
+        "lat": 40.839166905,
+        "lon": 29.52002065
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/BALLIKAYALAR5.jpg",
+          "filename": "BALLIKAYALAR5.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Ball%C4%B1kayalar",
+        "http://www.wikidata.org/entity/Q6027918"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "sapadere-kanyonu",
+      "wikidata_id": "Q20476539",
+      "ad": "Sapadere Kanyonu",
+      "tur": "vadi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.529957,
+        "lon": 32.314133
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Sapadere_Kanyonu",
+        "http://www.wikidata.org/entity/Q20476539"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "tohma-kanyonu",
+      "wikidata_id": "Q105411626",
+      "ad": "Tohma Kanyonu",
+      "tur": "vadi",
+      "il": "Malatya",
+      "ilce": "Darende",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.569069444,
+        "lon": 37.493111111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Tohma_Kanyonu",
+        "http://www.wikidata.org/entity/Q105411626"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "white-valley",
+      "wikidata_id": "Q123518280",
+      "ad": "White Valley",
+      "tur": "vadi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.65944,
+        "lon": 34.82826
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20White%20Valley%2C%20Cappadocia%20-%20panoramio.jpg",
+          "filename": "The White Valley, Cappadocia - panoramio.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q123518280"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kucuk-menderes-river-valley",
+      "wikidata_id": "Q112036186",
+      "ad": "Küçük Menderes river valley",
+      "tur": "vadi",
+      "il": "İzmir",
+      "ilce": "Küçük Menderes",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q112036186"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "cehennem-deresi-kanyonu",
+      "wikidata_id": "Q49097008",
+      "ad": "Cehennem Deresi Kanyonu",
+      "tur": "vadi",
+      "il": "Artvin",
+      "ilce": "",
+      "bolge": "Karadeniz",
+      "koordinat": {
+        "lat": 41.161111111,
+        "lon": 41.976666666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Cehennem_Deresi_Kanyonu_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q49097008"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "aregi-vadisi",
+      "wikidata_id": "Q21209952",
+      "ad": "Aregi Vadisi",
+      "tur": "vadi",
+      "il": "Erzincan",
+      "ilce": "",
+      "bolge": "Doğu Anadolu",
+      "koordinat": {
+        "lat": 39.244702777,
+        "lon": 38.494758333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q21209952"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "koprulu-kanyon",
+      "wikidata_id": "Q2090725",
+      "ad": "Köprülü Kanyon",
+      "tur": "vadi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.295905555,
+        "lon": 31.140747222
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%B6pr%C3%BCl%C3%BC%20Kanyon.JPG",
+          "filename": "Köprülü Kanyon.JPG",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/K%C3%B6pr%C3%BCl%C3%BC_Kanyon",
+        "http://www.wikidata.org/entity/Q2090725"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "tunca-vadisi-tabiat-parki",
+      "wikidata_id": "Q108228405",
+      "ad": "Tunca Vadisi Tabiat Parkı",
+      "tur": "vadi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.067233333,
+        "lon": 41.277361111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Tunca_Vadisi_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228405"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "frig-vadisi",
+      "wikidata_id": "Q98669330",
+      "ad": "Frig Vadisi",
+      "tur": "vadi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q98669330"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "guvercin-vadisi",
+      "wikidata_id": "Q104596490",
+      "ad": "Güvercin Vadisi",
+      "tur": "vadi",
+      "il": "İç Anadolu Bölgesi",
+      "ilce": "Kapadokya",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.632777777,
+        "lon": 34.816111111
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Turkey.U%C3%A7hisar02.jpg",
+          "filename": "Turkey.Uçhisar02.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q104596490"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "valla-kanyonu",
+      "wikidata_id": "Q20474544",
+      "ad": "Valla kanyonu",
+      "tur": "vadi",
+      "il": "Kastamonu",
+      "ilce": "Pınarbaşı",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.7490085,
+        "lon": 33.0451819
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Valla_Kanyonu",
+        "http://www.wikidata.org/entity/Q20474544"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "hamam-bogazi-bolu",
+      "wikidata_id": "Q49342926",
+      "ad": "Hamam Boğazı (Bolu)",
+      "tur": "vadi",
+      "il": "Bolu",
+      "ilce": "",
+      "bolge": "Karadeniz",
+      "koordinat": {
+        "lat": 40.149444444,
+        "lon": 30.81
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49342926"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "tursun-bogazi",
+      "wikidata_id": "Q49343556",
+      "ad": "Turşun Boğazı",
+      "tur": "vadi",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.156666666,
+        "lon": 33.118888888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49343556"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "beytilma-bogazi",
+      "wikidata_id": "Q34895578",
+      "ad": "Beytilma Boğazı",
+      "tur": "vadi",
+      "il": "Hatay",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.125555555,
+        "lon": 36.134722222
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q34895578"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "refanka-bogazi",
+      "wikidata_id": "Q49343185",
+      "ad": "Refanka Boğazı",
+      "tur": "vadi",
+      "il": "Şırnak",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.443611111,
+        "lon": 42.823888888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49343185"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "manda-bogazi",
+      "wikidata_id": "Q34909953",
+      "ad": "Manda Boğazı",
+      "tur": "vadi",
+      "il": "Karaman",
+      "ilce": "",
+      "bolge": "İç Anadolu",
+      "koordinat": {
+        "lat": 36.533333333,
+        "lon": 32.7
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q34909953"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "cigdemli-bogazi",
+      "wikidata_id": "Q49343899",
+      "ad": "Çiğdemli Boğazı",
+      "tur": "vadi",
+      "il": "Nevşehir",
+      "ilce": "",
+      "bolge": "İç Anadolu",
+      "koordinat": {
+        "lat": 39.119444444,
+        "lon": 34.811944444
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49343899"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "hamam-bogazi-usak",
+      "wikidata_id": "Q49342927",
+      "ad": "Hamam Boğazı (Uşak)",
+      "tur": "vadi",
+      "il": "Uşak",
+      "ilce": "",
+      "bolge": "Ege",
+      "koordinat": {
+        "lat": 38.793055555,
+        "lon": 29.827222222
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49342927"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "derbent-bogazi",
+      "wikidata_id": "Q49342858",
+      "ad": "Derbent Boğazı",
+      "tur": "vadi",
+      "il": "Afyonkarahisar",
+      "ilce": "",
+      "bolge": "Ege",
+      "koordinat": {
+        "lat": 38.730555555,
+        "lon": 31.457777777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49342858"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "sapaca-bogazi",
+      "wikidata_id": "Q34923615",
+      "ad": "Sapaca Boğazı",
+      "tur": "vadi",
+      "il": "Denizli",
+      "ilce": "",
+      "bolge": "Ege",
+      "koordinat": {
+        "lat": 37.8,
+        "lon": 29.466666666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q34923615"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "narman-bogazi",
+      "wikidata_id": "Q49343036",
+      "ad": "Narman boğazı",
+      "tur": "vadi",
+      "il": "Erzurum",
+      "ilce": "",
+      "bolge": "Doğu Anadolu",
+      "koordinat": {
+        "lat": 40.414444444,
+        "lon": 41.953888888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49343036"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "izmir-bogazi",
+      "wikidata_id": "Q34716692",
+      "ad": "İzmir Boğazı",
+      "tur": "vadi",
+      "il": "İzmir",
+      "ilce": "",
+      "bolge": "Ege",
+      "koordinat": {
+        "lat": 38.033333333,
+        "lon": 27.3
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q34716692"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "karatas-cukurlari",
+      "wikidata_id": "Q49822893",
+      "ad": "Karataş Çukurları",
+      "tur": "vadi",
+      "il": "Van",
+      "ilce": "",
+      "bolge": "Doğu Anadolu",
+      "koordinat": {
+        "lat": 37.855833333,
+        "lon": 42.926666666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49822893"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "hatip-bogazi",
+      "wikidata_id": "Q49342930",
+      "ad": "Hatip Boğazı",
+      "tur": "vadi",
+      "il": "Çorum",
+      "ilce": "",
+      "bolge": "Karadeniz",
+      "koordinat": {
+        "lat": 40.383888888,
+        "lon": 34.800833333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49342930"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "karakaya-bogazi",
+      "wikidata_id": "Q49342953",
+      "ad": "Karakaya Boğazı",
+      "tur": "vadi",
+      "il": "Kastamonu",
+      "ilce": "",
+      "bolge": "Karadeniz",
+      "koordinat": {
+        "lat": 40.970277777,
+        "lon": 34.074722222
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49342953"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "hacikadir-bogazi",
+      "wikidata_id": "Q49342924",
+      "ad": "Hacıkadir Boğazı",
+      "tur": "vadi",
+      "il": "Afyonkarahisar",
+      "ilce": "",
+      "bolge": "Ege",
+      "koordinat": {
+        "lat": 38.360833333,
+        "lon": 30.663888888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49342924"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "marinbogazi",
+      "wikidata_id": "Q49343022",
+      "ad": "Marinboğazı",
+      "tur": "vadi",
+      "il": "Mardin",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.1725,
+        "lon": 41.39
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49343022"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kasrik-bogazi",
+      "wikidata_id": "Q49342959",
+      "ad": "Kasrık Boğazı",
+      "tur": "vadi",
+      "il": "Şırnak",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.395,
+        "lon": 42.176944444
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kasr%C4%B1k%20Bo%C4%9Faz%C4%B1.jpg",
+          "filename": "Kasrık Boğazı.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49342959"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kurum-bogazi",
+      "wikidata_id": "Q49343003",
+      "ad": "Kurum Boğazı",
+      "tur": "vadi",
+      "il": "Hatay",
+      "ilce": "",
+      "bolge": "Akdeniz",
+      "koordinat": {
+        "lat": 36.616388888,
+        "lon": 36.253888888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49343003"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "incesu-kanyonu",
+      "wikidata_id": "Q49343906",
+      "ad": "İncesu Kanyonu",
+      "tur": "vadi",
+      "il": "",
+      "ilce": "Türkiye",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.265555555,
+        "lon": 35.353611111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49343906"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "gehasin-bogazi",
+      "wikidata_id": "Q49342882",
+      "ad": "Gehaşin Boğazı",
+      "tur": "vadi",
+      "il": "Siirt",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.812777777,
+        "lon": 42.745
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49342882"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "mal-bogazi",
+      "wikidata_id": "Q49343018",
+      "ad": "Mal Boğazı",
+      "tur": "vadi",
+      "il": "Ankara",
+      "ilce": "",
+      "bolge": "İç Anadolu",
+      "koordinat": {
+        "lat": 40.216388888,
+        "lon": 33.521388888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49343018"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "corek-bogazi",
+      "wikidata_id": "Q34716684",
+      "ad": "Çörek Boğazı",
+      "tur": "vadi",
+      "il": "Denizli",
+      "ilce": "",
+      "bolge": "Ege",
+      "koordinat": {
+        "lat": 37.3,
+        "lon": 29.083333333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q34716684"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kizilcukur",
+      "wikidata_id": "Q49825803",
+      "ad": "Kızılçukur",
+      "tur": "vadi",
+      "il": "Nevşehir",
+      "ilce": "",
+      "bolge": "İç Anadolu",
+      "koordinat": {
+        "lat": 38.634166666,
+        "lon": 34.883888888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49825803"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kayik-gecidi",
+      "wikidata_id": "Q49342965",
+      "ad": "Kayık Geçidi",
+      "tur": "vadi",
+      "il": "Şırnak",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.385,
+        "lon": 42.126388888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49342965"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "meymuni-bogazi",
+      "wikidata_id": "Q49343030",
+      "ad": "Meymuni Boğazı",
+      "tur": "vadi",
+      "il": "Batman",
+      "ilce": "",
+      "bolge": "Güneydoğu Anadolu",
+      "koordinat": {
+        "lat": 37.777222222,
+        "lon": 41.243888888
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49343030"
+      ],
+      "notlar": "Wikidata - Vadiler",
+      "veri_kaynagi": "wikidata"
+    }
+  ]
+}

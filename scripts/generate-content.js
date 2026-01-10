@@ -23,10 +23,11 @@ import { fileURLToPath } from 'url';
 import dotenv from 'dotenv';
 import yaml from 'js-yaml';
 
-dotenv.config();
-
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
+
+// .env dosyası parent klasörde
+dotenv.config({ path: path.join(__dirname, '../.env') });
 
 const MASTER_LISTS_DIR = path.join(__dirname, '../data/master-lists');
 const CONTENT_DIR = path.join(__dirname, '../content/alanlar');

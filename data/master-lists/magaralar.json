@@ -1,8 +1,859 @@
 {
   "meta": {
-    "kaynak": "Manuel eklenecek",
+    "kaynak": "Wikipedia - Türkiye'deki_mağaralar",
     "guncelleme_tarihi": "2026-01-05",
-    "toplam_sayi": 0
+    "toplam_sayi": 50
   },
-  "alanlar": []
+  "alanlar": [
+    {
+      "id": "turkiyedeki-magaralar-listesi",
+      "ad": "Türkiye'deki mağaralar listesi",
+      "tur": "magara",
+      "il": "Adana",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/T%C3%BCrkiye'deki%20ma%C4%9Faralar%20listesi"
+      ],
+      "notlar": "Türkiye'de yaklaşık 40.000 adet mağara bulunmaktadır. Ülke topraklarının %40'ı mağara oluşumuna elverişli yapıdadır. Çoğunluğu Batı ve Orta Toroslar'da olmak üzere 1100 mağaranın incelenmesi tamamlanm"
+    },
+    {
+      "id": "afyonkarahisar-buzluk-magarasi",
+      "ad": "Afyonkarahisar Buzluk Mağarası",
+      "tur": "magara",
+      "il": "Afyonkarahisar",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Afyonkarahisar%20Buzluk%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Buzluk Mağarası, Sultandağı ilçesine bağlı Dereçine kasabasının güneyinde, Sultandağlarının 2.519 metre ile en yüksek yeri olan kuzeybatı zirvelerinde yer alan bir mağaradır. Yazın bile buz üretmesi i"
+    },
+    {
+      "id": "akcakale-magarasi",
+      "ad": "Akçakale Mağarası",
+      "tur": "magara",
+      "il": "Gümüşhane",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ak%C3%A7akale%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Akçakale Mağarası Gümüşhane merkez Akçakale köyü sınırları içerisinde bulunmaktadır.\nŞehir merkezine 10 km mesafede olan Akçakale Mağarası Türkiye'de bulunan mağaralar içerisinde en büyüğü olduğu sanı"
+    },
+    {
+      "id": "siklar-magarasi",
+      "ad": "Âşıklar Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.53,
+        "lon": 31.98805556
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C3%82%C5%9F%C4%B1klar%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Âşıklar Mağarası, Antalya'nın Alanya ilçesinde bir mağaradır.\nAlanya yarımadasının, denize yakın yamacında iki girişli bir mağaradır. Cilvarda Burnu'na doğru teknenin kayalıklara yanaşmasından sonra k"
+    },
+    {
+      "id": "aynali-magara",
+      "ad": "Aynalı Mağara",
+      "tur": "magara",
+      "il": "Amasya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.67166667,
+        "lon": 35.8425
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Aynal%C4%B1%20Ma%C4%9Fara"
+      ],
+      "notlar": "Aynalı Mağara, Amasya'da bir mağaradır.\nZiyaret Beldesi yolu üzerinde şehir merkezine 3,3 kilometre uzaklıkta yer almaktadır. İşlenmiş Kaya mezarları yer almaktadır. Dört basamakla ulaşılan mezar, düz"
+    },
+    {
+      "id": "aynaligol-magarasi",
+      "ad": "Aynalıgöl Mağarası",
+      "tur": "magara",
+      "il": "Aydın",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Aynal%C4%B1g%C3%B6l%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Gilindire veya Aynalıgöl Mağarası, Mersin'e bağlı Aydıncık ilçesinin 7,5 km güneydoğusunda, Sancak Burnu ile Kurtini Deresi arasında yer alan mağara. Bir çoban tarafından tesadüf eseri bulunuştur. Gir"
+    },
+    {
+      "id": "ayvaini-magarasi",
+      "ad": "Ayvaini Mağarası",
+      "tur": "magara",
+      "il": "Bursa",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.12611111,
+        "lon": 28.70694444
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ayvaini%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Ayvaini Mağarası, Uluabat Gölü'nün güney bölümünde yer alan mağaranın iki girişi vardır. Birinci giriş Bursa, Mustafakemalpaşa ilçesine bağlı Doğanalan'dan, diğer girişi yeraltı sularının yer üstüne ç"
+    },
+    {
+      "id": "ballica-magarasi",
+      "ad": "Ballıca Mağarası",
+      "tur": "magara",
+      "il": "Tokat",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.22722222,
+        "lon": 36.30138889
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ball%C4%B1ca%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Ballıca Mağarası, bilinen diğer adıyla İndere, Karadeniz Bölgesi'nde, Tokat'ın ismini de verdiği Ballıca köyünde bulunan mağaradır.\nOluşumu yaklaşık 3,4 milyon yıl önce başladığı tahmin edilen Ballıca"
+    },
+    {
+      "id": "buz-magarasi-halac-dogubayazit",
+      "ad": "Buz Mağarası (Halaç, Doğubayazıt)",
+      "tur": "magara",
+      "il": "Ağrı",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Buz%20Ma%C4%9Faras%C4%B1%20(Hala%C3%A7%2C%20Do%C4%9Fubayaz%C4%B1t)"
+      ],
+      "notlar": "Buz Mağarası, Ağrı ili, Doğubeyazıt ilçesi Hallaç Köyü'nün yaklaşık 3 kilometre kuzeydoğusunda Küçükağrı Dağı'nın güney eteğinde bulunmaktadır.\n5137 metre'lik Ağrı dağı'nın güney eteklerinde uzanan Do"
+    },
+    {
+      "id": "cehennemagzi-magarasi",
+      "ad": "Cehennemağzı Mağarası",
+      "tur": "magara",
+      "il": "Kilis",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.29138889,
+        "lon": 31.41027778
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Cehennema%C4%9Fz%C4%B1%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Cehennemağzı Mağarası, Zonguldak ili, Ereğli ilçesi merkezinde yer alan mağara. Antik dönemdeki adı Achelon Vadisi, Ayazma (kutsal su) olan alandadır. Yan yana üç mağaradan oluşur.\nBirinci mağaranın g"
+    },
+    {
+      "id": "cennet-ve-cehennem-cokukleri",
+      "ad": "Cennet ve Cehennem Çökükleri",
+      "tur": "magara",
+      "il": "Van",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.4525,
+        "lon": 34.10555556
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Cennet%20ve%20Cehennem%20%C3%87%C3%B6k%C3%BCkleri"
+      ],
+      "notlar": "Cennet ve Cehennem Çökükleri veya Cennet ve Cehennem Obrukları, Silifke ilçe merkezine 25 km mesafede Antik Narlıkuyu Limanının 2 km kuzeybatısında, Korykos'un (Kızkalesi) 5 km batısında yer almaktadı"
+    },
+    {
+      "id": "cal-magarasi",
+      "ad": "Çal Mağarası",
+      "tur": "magara",
+      "il": "Kars",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C3%87al%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Çal Mağarası, Trabzon'un Düzköy ilçesinde bulunan bir mağaradır. 2000 yılında yapımı tamamlanan ve 2003'te halkın turizme açılan mağara, bazı kaynaklara göre 1116, bazı kaynaklara göre ise 1050 metre "
+    },
+    {
+      "id": "cimagil-magarasi",
+      "ad": "Çımağıl Mağarası",
+      "tur": "magara",
+      "il": "Bayburt",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C3%87%C4%B1ma%C4%9F%C4%B1l%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Çımağıl Mağarası veya Çimağıl Mağarası, Bayburt ilinin Merkez ilçesinde bulunan bir mağaradır. Bazı kaynaklara göre 110, bazı kaynaklara göre 600 metre, bazı kaynaklara göre ise 1010 uzunluğunda olan "
+    },
+    {
+      "id": "cimenici-magarasi",
+      "ad": "Çimeniçi Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C3%87imeni%C3%A7i%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Çimenini mağarası, Antalya'nın Alanya ilçesinde bir mağaradır.\nMağara, Alanya'nın doğusundaki Cebireas'ın güney eteğinde, Şıhlar mahallesi yakınlarında bulunur. Konya - Gazipaşa yolunun, Demirtaş buca"
+    },
+    {
+      "id": "damlatas-magarasi-hatay",
+      "ad": "Damlataş Mağarası (Hatay)",
+      "tur": "magara",
+      "il": "Hatay",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.72666667,
+        "lon": 36.2825
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Damlata%C5%9F%20Ma%C4%9Faras%C4%B1%20(Hatay)"
+      ],
+      "notlar": "Damlataş (Sincan) Mağarası, Hatay ili, Payas ilçesi, Sincan köyü yakınlarındaki karstik mağara. Nur dağları yamaçlarında, 542 m yükseklikte ve 95 m uzunluğundadır. Jura–Kratese yaşlı dolomit ile dolom"
+    },
+    {
+      "id": "derya-magarasi",
+      "ad": "Derya Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Derya%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Derya Mağarası, Antalya'nın batı kıyısında Konyaaltı Caddesi ile deniz kıyısı arasında bulunan Atatürk Parkı'nın içinde bulunan bir mağaradır.\n124 metre toplam uzunluğundaki mağaranın girişe göre en d"
+    },
+    {
+      "id": "dicle-tuneli",
+      "ad": "Dicle Tüneli",
+      "tur": "magara",
+      "il": "Diyarbakır",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Dicle%20T%C3%BCneli"
+      ],
+      "notlar": "Dicle Tüneli (Bırkleyn Mağaraları), Diyarbakır ili, Lice ilcesinde bulunan coğrafi ve arkeolojik alandır.\nDiyarbakır merkezin 90 km kuzeyinde, Lice, Abalı köyüne 1,5 km uzaklıktadır. Birbirine paralel"
+    },
+    {
+      "id": "direkli-magarasi",
+      "ad": "Direkli Mağarası",
+      "tur": "magara",
+      "il": "Kahramanmaraş",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.86305556,
+        "lon": 36.64416667
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Direkli%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Direkli Mağarası, Kahramanmaraş ili'nin 38 km kuzeybatısındaki Döngel köy sınırları içinde bulunmaktadır."
+    },
+    {
+      "id": "efkerit-magarasi",
+      "ad": "Efkerit Mağarası",
+      "tur": "magara",
+      "il": "Tokat",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Efkerit%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Efkerit Vadisi ve Luvi Tapınağı, Anadolu'da yaşayan ilk kavim olan Luviler'in Tokat/Niksar ilçesinde vadide yapılan arkeolojik kazılar sonucunda bulunan mezar kalıntıları, tümülüsler, kalıntılar sebeb"
+    },
+    {
+      "id": "elazig-buzluk-magarasi",
+      "ad": "Elazığ Buzluk Mağarası",
+      "tur": "magara",
+      "il": "Elazığ",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Elaz%C4%B1%C4%9F%20Buzluk%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Buzluk Mağarası, Elazığ yakınlarındaki Harput antik kentinde bulunan mağaradır. Elazığ merkeze 12 km, Harput'a 6 km uzaklıkta, Harput Platosu üzerindeki Buzluk Tepe'nin kuzey yamacındadır. Buzluk Tepe"
+    },
+    {
+      "id": "gokgol-magarasi",
+      "ad": "Gökgöl Mağarası",
+      "tur": "magara",
+      "il": "Ankara",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.44305556,
+        "lon": 31.83138889
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/G%C3%B6kg%C3%B6l%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Gökgöl Mağarası, Zonguldak'ın Üzülmez bölgesinde bulunan aktif bir damlataş mağarasıdır.\nKollarıyla birlikte 3350 metre uzunluğunda olan Gökgöl Mağarası, Türkiye'nin en uzun onuncu mağarası ve 875 met"
+    },
+    {
+      "id": "gurcuoluk-magarasi",
+      "ad": "Gürcüoluk Mağarası",
+      "tur": "magara",
+      "il": "Bartın",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.72611111,
+        "lon": 32.46555556
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/G%C3%BCrc%C3%BColuk%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Gürcüoluk Mağarası, Bartın ili Amasra ilçesi, Makaracı Köyü sınırlarında yer alan karstik mağara.\n169 m uzunluğundaki mağara tek galeri damlataş birikmeleriyle bölünmüştür. İki salon ve büyüklü küçükl"
+    },
+    {
+      "id": "guvercinlik-magarasi",
+      "ad": "Güvercinlik Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/G%C3%BCvercinlik%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Güvercinlik Mağarası, Antalya'nın Kaş ilçesinde bir mağaradır.\nİnce Burun'un arkasında yer alan bu mağara Kalkan'a 2 km mesafededir. Güvercinlik Deniz Mağarası, çok sayıda yabani güvercini barındırmak"
+    },
+    {
+      "id": "iliksu-magarasi",
+      "ad": "Ilıksu Mağarası",
+      "tur": "magara",
+      "il": "Zonguldak",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Il%C4%B1ksu%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Ilıksu Mağarası, Türkiye’nin kuzeyinde Zonguldak ilinde, Zonguldak–Ereğli karayolu üzerinde deniz kıyısında yer alan bir mağaradır. Mağaranın içinde bir yer altı nehri bulunmaktadır. Yaklaşık 800 metr"
+    },
+    {
+      "id": "incirliin-magarasi",
+      "ad": "İncirliin Mağarası",
+      "tur": "magara",
+      "il": "Aydın",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.18972222,
+        "lon": 27.76194444
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C4%B0ncirliin%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "İncirliin Mağarası, Muğla ilinde bulunan halka açık bir turistik mağaradır.\nİncirliin Mağarası Muğla ilinin Milas ilçesine bağlı Gökçeler Kanyonu içerisinde yer almaktadır. Kanyon bölgesinde bulunan 3"
+    },
+    {
+      "id": "inkaya-magarasi",
+      "ad": "İnkaya Mağarası",
+      "tur": "magara",
+      "il": "İzmir",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.33333333,
+        "lon": 26.8325
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C4%B0nkaya%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "İnkaya Mağarası, İzmir ili, Güzelbahçe ilçesi, Yelki Mahallesi sınırlarında, Kocadağ'ın doğu yamacında bulunan mağaradır.\nUzunluğu 222 m, derinliği girişe göre-30 m'dir. Çoğunlukla yatay, bazen dikey "
+    },
+    {
+      "id": "insuyu-magarasi",
+      "ad": "İnsuyu Mağarası",
+      "tur": "magara",
+      "il": "Burdur",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.65944444,
+        "lon": 30.37416667
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C4%B0nsuyu%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "İnsuyu Mağarası, Burdur il merkezine göre güneydoğuda 10 km uzaklıkta bulunmaktadır. Çatağıl Köyü sınırları içerisindedir. Uzunluğu 597 metre ve en geniş yeri 80 metre civarındadır. Birbirine bağlı 9 "
+    },
+    {
+      "id": "kadiini-magarasi",
+      "ad": "Kadıini Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kad%C4%B1ini%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Kadıini Mağarası, Antalya'nın Alanya ilçesinde bir mağara.\nMağara, Alanya'nın 15 kilometre kuzeydoğusunda Çatak mevkiindedir. Kent merkezindeki Damlataş Mağarası'ndan üç kat büyük sarkıt ve dikitleri "
+    },
+    {
+      "id": "kaklik-magarasi",
+      "ad": "Kaklık Mağarası",
+      "tur": "magara",
+      "il": "Ankara",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.85583333,
+        "lon": 29.38555556
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kakl%C4%B1k%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Kaklık Mağarası, Denizli - Ankara karayolunda Denizli il merkezine 30 km mesafede Honaz ilçesinin Kaklık kasabasındadır.\nKaklık Mağarası damlataşları, sarkıtlar ve dikitlerle süslü olup Pamukkale'de b"
+    },
+    {
+      "id": "karaca-magarasi",
+      "ad": "Karaca Mağarası",
+      "tur": "magara",
+      "il": "Gümüşhane",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.54416667,
+        "lon": 39.40277778
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Karaca%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Karaca Mağarası, Gümüşhane'nin Torul ilçesine bağlı Cebeli köyü içerisindedir. Mağarada damlataşı şekilleri, sarkıtlar, dikitler, sütunlar, org desenli duvarlar, mağara çiçekleri, mağara incileri ve t"
+    },
+    {
+      "id": "kayaalti-magarasi",
+      "ad": "Kayaaltı Mağarası",
+      "tur": "magara",
+      "il": "Diyarbakır",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kayaalt%C4%B1%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Kayaaltı Mağarası, Diyarbakır'ın Çermik ilçesindeki Sinek Çayı'nın çıktığı yerde bulunan paleolitik döneme ait bir kayaaltı mağarasıdır. Mağaranın duvarlarında av resimleri (11 avcı, 14 av) yer almakt"
+    },
+    {
+      "id": "korsanlar-magarasi",
+      "ad": "Korsanlar Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Korsanlar%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Korsanlar Mağarası, Antalya'nın Alanya ilçesinde bulunan bir mağaradır.\nKorsanlar Mağarası, Alanya Kalesi'nin bulunduğu tarihi yarımadanın altında bir deniz mağarasıdır. Teknelerle gidilir. Yarımada ç"
+    },
+    {
+      "id": "koskarli-magarasi",
+      "ad": "Koskarlı Mağarası",
+      "tur": "magara",
+      "il": "Trabzon",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Koskarl%C4%B1%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Koskarlı Mağarası, Trabzon'un Düzköy ilçesinde bulunan bir mağaradır. Trabzon'daki en eski işlenmiş taşlara rastlanan mağaradaki aletler ilk incelemelere göre MÖ 11. binyıla tarihlenmektedir."
+    },
+    {
+      "id": "maraspoli-magarasi",
+      "ad": "Maraspoli Mağarası",
+      "tur": "magara",
+      "il": "Karaman",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.64527778,
+        "lon": 32.9075
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Maraspoli%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Maraspoli Mağarası, Karaman'ın Ermenek ilçesinde bulunan dünyanın bilinen üçüncü büyük mağarası.\nErmenek'in kuzeyindeki dağların kaya bloklarının altında suların kireçli kayaları oyması ile meydana ge"
+    },
+    {
+      "id": "mencilis-magarasi",
+      "ad": "Mencilis Mağarası",
+      "tur": "magara",
+      "il": "Bolu",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.27472222,
+        "lon": 32.62444444
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Mencilis%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Mencilis Mağarası, Karabük ili, Bulak köyü sınırlarında bulunan Türkiye'nin en uzun 5. mağarasıdır.\nMağara, yatay uzanışlı, aktif ve fosil bölümlerden oluşan çok katlı bir oluşumdur. Uzunluğunun 6052 "
+    },
+    {
+      "id": "peynirini-magarasi-derbent",
+      "ad": "Peynirini Mağarası (Derbent)",
+      "tur": "magara",
+      "il": "Konya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.98547222,
+        "lon": 32.08511111
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Peynirini%20Ma%C4%9Faras%C4%B1%20(Derbent)"
+      ],
+      "notlar": "Peynirini Mağarası, Konya ili, Derbent ilçesi Mülayim köyünde yer alan mağaradır."
+    },
+    {
+      "id": "pileki-magarasi",
+      "ad": "Pileki Mağarası",
+      "tur": "magara",
+      "il": "Rize",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.99,
+        "lon": 40.375
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Pileki%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Pileki Mağarası, Rize ilinin İyidere ilçesinde yer alan yapay bir mağaradır. Mağarada birçok tünel, kuyu ve göl bulunmaktadır. Mağarada iki büyük giriş bulunmaktadır.\n\n"
+    },
+    {
+      "id": "savangin",
+      "ad": "Savangin",
+      "tur": "magara",
+      "il": "Artvin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Savangin"
+      ],
+      "notlar": "Savangin, bilinmeyen veya çözülmemiş bir alfabeyle yazılmış bir yazıta ev sahipliği yapan tarih öncesi bir mağaradır. 1995 yılında Osman Aytekin ve ekibi tarafından Artvin'in Yusufeli ilçesine bağlı B"
+    },
+    {
+      "id": "sirtlanini-magarasi",
+      "ad": "Sırtlanini Mağarası",
+      "tur": "magara",
+      "il": "Aydın",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/S%C4%B1rtlanini%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Sırtlanini Mağarası Aydın ilinin Karacasu ilçesi sınırları içinde yer alan bir mağaradır. İlçe merkezine 13,5 km uzaklıktaki Çamarası mahallesi, Sırtlan deliği mevkiinde bulunmaktadır. Afrodisias anti"
+    },
+    {
+      "id": "sofular-magarasi",
+      "ad": "Sofular Mağarası",
+      "tur": "magara",
+      "il": "Zonguldak",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Sofular%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Sofular Mağarası, Zonguldak ilinde, eski Zonguldak–Çaycuma karayolunun yaklaşık 10. kilometresinde, Sofular Vadisi'nin yamaçlarında yer alan bir mağaradır. Mağara; jeolojik yapısı, paleoiklim araştırm"
+    },
+    {
+      "id": "sulu-magara-kirikkale",
+      "ad": "Sulu Mağara (Kırıkkale)",
+      "tur": "magara",
+      "il": "Kırıkkale",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Sulu%20Ma%C4%9Fara%20(K%C4%B1r%C4%B1kkale)"
+      ],
+      "notlar": "Sulu Mağara, Kırıkkale ilinin Keskin ilçesinde yer alan tarihî bir mağaradır."
+    },
+    {
+      "id": "taskuyu-magarasi",
+      "ad": "Taşkuyu Mağarası",
+      "tur": "magara",
+      "il": "Kilis",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.95027778,
+        "lon": 34.7875
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ta%C5%9Fkuyu%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Taşkuyu mağarası, Mersin ili Tarsus ilçesinin yaklaşık 10 km kuzeybatısında, Taşkuyu Köyü'nde bulunan mağara. Taşkuyu Mağarası; permo-karbonifer yaşlı mermerler ile bunları örten miyosen yaşlı kireçta"
+    },
+    {
+      "id": "tinaztepe-magarasi",
+      "ad": "Tınaztepe Mağarası",
+      "tur": "magara",
+      "il": "Aydın",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.26472222,
+        "lon": 31.92666667
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/T%C4%B1naztepe%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Tınaztepe Mağarası, Seydişehir, Konya'da yer alan büyük bir karstik mağaradır. 22 km toplam uzunluğu ve 1.580 metre gezilebilen kısmıyla, Türkiye'nin en uzun mağaralarından biridir.  \nMağara, yatay ol"
+    },
+    {
+      "id": "tulumtas-magarasi",
+      "ad": "Tulumtaş Mağarası",
+      "tur": "magara",
+      "il": "Ankara",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.77444444,
+        "lon": 32.68361111
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Tulumta%C5%9F%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Tulumtaş Mağarası, Tulumtaş Mahallesi hudutları içinde, Karayatak mevkiinde, Ankara Çevre Yolu kenarında bulunmaktadır.\n1992 yılında, Ankara Çevre Yolu yapımı sırasına taş ocağı olarak kullanılan alan"
+    },
+    {
+      "id": "tuz-magarasi",
+      "ad": "Tuz Mağarası",
+      "tur": "magara",
+      "il": "Çankırı",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Tuz%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Tuz Mağarası, Çankırı ili, Balıbağı köyü sınırları içerisinde bulunan, kaya tuzu çıkarılması sonucu oluşmuş bir mağaradır."
+    },
+    {
+      "id": "yarimburgaz-magarasi",
+      "ad": "Yarımburgaz Mağarası",
+      "tur": "magara",
+      "il": "Bilinmiyor",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.07527778,
+        "lon": 28.74166667
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Yar%C4%B1mburgaz%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Yarımburgaz Mağarası, 400.000 yıllık geçmişiyle dünyanın en eski yerleşim yerlerinden olan ve 2001 yılında 1. Derece Arkeolojik-Doğal Sit Alanı statüsüne alınan bir mağaradır. Mağara Afrika'dan dünyay"
+    },
+    {
+      "id": "yenesu-magarasi",
+      "ad": "Yenesu Mağarası",
+      "tur": "magara",
+      "il": "Kırklareli",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.61916667,
+        "lon": 27.94222222
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Yenesu%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Yenesu Mağarası, Kırklareli ili, Vize ilçesi, Balkaya Köyü sınırlarında bulunur. Balkaya Köyü'nün doğusundaki Kazandere'nin kolu olan Yandere'nin sağ yanındadır. Mağara girişi derenin 5 m yukarıda yer"
+    },
+    {
+      "id": "yerkupe-magarasi",
+      "ad": "Yerküpe Mağarası",
+      "tur": "magara",
+      "il": "Aydın",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Yerk%C3%BCpe%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Yerküpe Mağarası, Muğla ilinin Yatağan ilçesi sınırlarındaki Yerküpe Yaylası'nda yer alan geçit konumlu yarı aktif bir mağaradır. Genç bir mağara olan Yerküpe Mağarası, 100 m uzunlukta tek bir galerid"
+    },
+    {
+      "id": "zeus-magarasi-aydin",
+      "ad": "Zeus Mağarası, Aydın",
+      "tur": "magara",
+      "il": "Aydın",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.71138889,
+        "lon": 27.21583333
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Zeus%20Ma%C4%9Faras%C4%B1%2C%20Ayd%C4%B1n"
+      ],
+      "notlar": "Zeus Mağarası Türkiye'nin batısında Ege Bölgesi'nde, Aydın İli, Kuşadası'nda bulunan bir turistik mağaradır.\n\nMağara, Kuşadası ilçesi Güzelçamlı beldesinin hemen batısında, Dilek Yarımadası-Büyük Mend"
+    },
+    {
+      "id": "zeytintasi-magarasi",
+      "ad": "Zeytintaşı Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.04694444,
+        "lon": 31.11055556
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Zeytinta%C5%9F%C4%B1%20Ma%C4%9Faras%C4%B1"
+      ],
+      "notlar": "Zeytintaşı Mağarası, Antalya ili, Serik ilçesi, Akbaş Köyü'nün sınırlarında bulunan karstik mağara.\nMağara yan ve alt taraflarından geçirimsiz tabakalarca kuşatılır. Jura-Kratase devri kireçtaşı kayaç"
+    }
+  ]
 }

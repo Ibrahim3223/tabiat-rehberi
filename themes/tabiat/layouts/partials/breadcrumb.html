@@ -1,0 +1,76 @@
+{{/* Breadcrumb Navigation - SEO & UX */}}
+<nav class="breadcrumb-nav" aria-label="Breadcrumb">
+    <div class="container">
+        <ol class="breadcrumb-list" vocab="https://schema.org/" typeof="BreadcrumbList">
+            {{/* Ana Sayfa */}}
+            <li property="itemListElement" typeof="ListItem">
+                <a property="item" typeof="WebPage" href="{{ .Site.BaseURL }}">
+                    <i data-lucide="home" style="width: 14px; height: 14px;"></i>
+                    <span property="name">Ana Sayfa</span>
+                </a>
+                <meta property="position" content="1">
+            </li>
+
+            {{/* Section (Alanlar / Türler / İller) */}}
+            {{ if .Section }}
+            <li class="breadcrumb-separator">
+                <i data-lucide="chevron-right" style="width: 14px; height: 14px;"></i>
+            </li>
+            <li property="itemListElement" typeof="ListItem">
+                <a property="item" typeof="WebPage" href="/{{ .Section }}/">
+                    <span property="name">{{ if eq .Section "alanlar" }}Tüm Alanlar{{ else if eq .Section "turler" }}Alan Türleri{{ else if eq .Section "iller" }}İller{{ else }}{{ .Section | humanize }}{{ end }}</span>
+                </a>
+                <meta property="position" content="2">
+            </li>
+            {{ end }}
+
+            {{/* İl (alan sayfasında) */}}
+            {{ if and (eq .Type "alan") .Params.il }}
+            <li class="breadcrumb-separator">
+                <i data-lucide="chevron-right" style="width: 14px; height: 14px;"></i>
+            </li>
+            <li property="itemListElement" typeof="ListItem">
+                <a property="item" typeof="WebPage" href="/iller/{{ .Params.il | urlize }}/">
+                    <span property="name">{{ .Params.il }}</span>
+                </a>
+                <meta property="position" content="3">
+            </li>
+            {{ end }}
+
+            {{/* Parent (İl veya Tür sayfası) */}}
+            {{ if .Parent }}
+            <li class="breadcrumb-separator">
+                <i data-lucide="chevron-right" style="width: 14px; height: 14px;"></i>
+            </li>
+            <li property="itemListElement" typeof="ListItem">
+                <a property="item" typeof="WebPage" href="{{ .Parent.Permalink }}">
+                    <span property="name">{{ .Parent.Title }}</span>
+                </a>
+                <meta property="position" content="{{ if and (eq .Type "alan") .Params.il }}4{{ else }}3{{ end }}">
+            </li>
+            {{ end }}
+
+            {{/* Alan Türü (alan sayfasında) */}}
+            {{ if and (eq .Type "alan") .Params.alan_turu }}
+            <li class="breadcrumb-separator">
+                <i data-lucide="chevron-right" style="width: 14px; height: 14px;"></i>
+            </li>
+            <li property="itemListElement" typeof="ListItem">
+                <a property="item" typeof="WebPage" href="/turler/{{ .Params.alan_turu | urlize }}/">
+                    <span property="name">{{ .Params.alan_turu | humanize }}</span>
+                </a>
+                <meta property="position" content="{{ if and .Parent .Params.il }}5{{ else if .Params.il }}4{{ else if .Parent }}4{{ else if .Section }}3{{ else }}2{{ end }}">
+            </li>
+            {{ end }}
+
+            {{/* Current Page */}}
+            <li class="breadcrumb-separator">
+                <i data-lucide="chevron-right" style="width: 14px; height: 14px;"></i>
+            </li>
+            <li property="itemListElement" typeof="ListItem" class="breadcrumb-current">
+                <span property="name">{{ .Title }}</span>
+                <meta property="position" content="{{ if and (eq .Type "alan") .Params.alan_turu }}{{ if and .Parent .Params.il }}6{{ else if .Params.il }}5{{ else if .Parent }}5{{ else if .Section }}4{{ else }}3{{ end }}{{ else }}{{ if .Parent }}4{{ else if .Section }}3{{ else }}2{{ end }}{{ end }}">
+            </li>
+        </ol>
+    </div>
+</nav>

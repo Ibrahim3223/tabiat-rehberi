@@ -1,0 +1,4028 @@
+{
+  "meta": {
+    "kaynak": "Wikidata SPARQL",
+    "qid": [
+      "Q167346",
+      "Q22746"
+    ],
+    "guncelleme_tarihi": "2026-01-07",
+    "toplam_sayi": 51
+  },
+  "alanlar": [
+    {
+      "id": "goksu-parki",
+      "wikidata_id": "Q5626511",
+      "ad": "Göksu Parkı",
+      "tur": "botanik-bahcesi",
+      "il": "Ankara",
+      "ilce": "Etimesgut",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.99024167,
+        "lon": 32.64823333
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": "Göksu Mahallesi 06820 Etimesgut/Ankara",
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "2003-01-01",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ankara%20by%20night%202013.jpg",
+          "filename": "Ankara by night 2013.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/G%C3%B6ksu_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q5626511"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "susuzdede-parki",
+      "wikidata_id": "Q5994824",
+      "ad": "Susuzdede Parkı",
+      "tur": "botanik-bahcesi",
+      "il": "",
+      "ilce": "Konak",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.399444444,
+        "lon": 27.093611111
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": 46000,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Susuzdede%20Park%2C%20April%202022.jpg",
+          "filename": "Susuzdede Park, April 2022.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Susuzdede_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q5994824"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "arboretum-adasi",
+      "wikidata_id": "Q24915709",
+      "ad": "Arboretum Adası",
+      "tur": "botanik-bahcesi",
+      "il": "İstanbul",
+      "ilce": "Ümraniye",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.99666667,
+        "lon": 29.11805556
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "2002-01-01",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q24915709"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "samsun-millet-bahcesi",
+      "wikidata_id": "Q6032179",
+      "ad": "Samsun Millet Bahçesi",
+      "tur": "botanik-bahcesi",
+      "il": "Samsun",
+      "ilce": "Canik",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.27,
+        "lon": 36.355833333
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Samsun_Millet_Bah%C3%A7esi",
+        "http://www.wikidata.org/entity/Q6032179"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "bursa-botanik-parki",
+      "wikidata_id": "Q527767",
+      "ad": "Bursa Botanik Parkı",
+      "tur": "botanik-bahcesi",
+      "il": "Bursa",
+      "ilce": "Osmangazi",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.219463,
+        "lon": 29.039497
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Bursa_Botanik_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q527767"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "asik-veysel-rekreasyon-alani",
+      "wikidata_id": "Q5994960",
+      "ad": "Aşık Veysel Rekreasyon Alanı",
+      "tur": "botanik-bahcesi",
+      "il": "İzmir",
+      "ilce": "Bornova",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.4675,
+        "lon": 27.209722222
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": 231000,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "2010-09-25",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": "Aşık Veysel",
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%C5%9F%C4%B1k%20Veysel%20Rekreasyon%20Alan%C4%B1.jpg",
+          "filename": "Aşık Veysel Rekreasyon Alanı.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/A%C5%9F%C4%B1k_Veysel_Rekreasyon_Alan%C4%B1",
+        "http://www.wikidata.org/entity/Q5994960"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "sazova-bilim-kultur-ve-sanat-parki",
+      "wikidata_id": "Q6017977",
+      "ad": "Sazova Bilim Kültür ve Sanat Parkı",
+      "tur": "botanik-bahcesi",
+      "il": "Eskişehir",
+      "ilce": "Tepebaşı",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.763055555,
+        "lon": 30.474722222
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": 400000,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "2008-01-01",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sazova%20Park%C4%B1...%20-%20panoramio.jpg",
+          "filename": "Sazova Parkı... - panoramio.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Sazova_Bilim_K%C3%BClt%C3%BCr_ve_Sanat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q6017977"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kulturpark",
+      "wikidata_id": "Q6067386",
+      "ad": "Kültürpark",
+      "tur": "botanik-bahcesi",
+      "il": "İzmir",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.427777777,
+        "lon": 27.144722222
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": 360000,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": "Ege Bölgesi",
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "1936-01-01",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": "temel atma",
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": "https://www.kulturparkizmir.org",
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/%C4%B0zmir%20International%20Fair%20from%20Kadifekale.JPG",
+          "filename": "İzmir International Fair from Kadifekale.JPG",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/K%C3%BClt%C3%BCrpark",
+        "http://www.wikidata.org/entity/Q6067386",
+        "https://www.kulturparkizmir.org"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ali-dincer-parki",
+      "wikidata_id": "Q117307596",
+      "ad": "Ali Dinçer Parkı",
+      "tur": "botanik-bahcesi",
+      "il": "Ankara",
+      "ilce": "Yenimahalle",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.9695,
+        "lon": 32.720611111
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ali%20din%C3%A7er%20heykel%2C%20yenimahalle%20Ankara.jpg",
+          "filename": "Ali dinçer heykel, yenimahalle Ankara.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q117307596"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "karaca-arboretum",
+      "wikidata_id": "Q6030174",
+      "ad": "Karaca Arboretum",
+      "tur": "botanik-bahcesi",
+      "il": "Yalova",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.63194444,
+        "lon": 29.22638889
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "1980-01-01",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": "Hayrettin Karaca",
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Karaca_Arboretum",
+        "http://www.wikidata.org/entity/Q6030174"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ozgurluk-parki",
+      "wikidata_id": "Q106333372",
+      "ad": "Özgürlük Parkı",
+      "tur": "botanik-bahcesi",
+      "il": "İstanbul",
+      "ilce": "Kadıköy",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.978620273,
+        "lon": 29.052766455
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%96zg%C3%BCrl%C3%BCk%20Park%20during%20dawn.jpg",
+          "filename": "Özgürlük Park during dawn.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/%C3%96zg%C3%BCrl%C3%BCk_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q106333372"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "buca-golet",
+      "wikidata_id": "Q4982337",
+      "ad": "Buca Gölet",
+      "tur": "botanik-bahcesi",
+      "il": "",
+      "ilce": "Buca",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.346944444,
+        "lon": 27.240555555
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": 167000,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "1999-03-01",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Buca%20G%C3%B6let%2C%202017-04-30.jpg",
+          "filename": "Buca Gölet, 2017-04-30.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Buca_G%C3%B6let",
+        "http://www.wikidata.org/entity/Q4982337"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "buca-yedigoller",
+      "wikidata_id": "Q6015778",
+      "ad": "Buca Yedigöller",
+      "tur": "botanik-bahcesi",
+      "il": "İzmir",
+      "ilce": "Buca",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.396666666,
+        "lon": 27.19
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": 100000,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "2003-12-01",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": "Yedigöller Millî Parkı",
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Faik%20Sarikaya%20YEDIGOLLER%20FOTO%2020.jpg",
+          "filename": "Faik Sarikaya YEDIGOLLER FOTO 20.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Buca_Yedig%C3%B6ller",
+        "http://www.wikidata.org/entity/Q6015778"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "meclis-parki",
+      "wikidata_id": "Q5997307",
+      "ad": "Meclis Parkı",
+      "tur": "botanik-bahcesi",
+      "il": "Ankara",
+      "ilce": "Çankaya",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.911666666,
+        "lon": 32.853888888
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "1986-04-23",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": "Meclis Parkı",
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ankara%2C%20Turkey%20-%20panoramio%20%28155%29.jpg",
+          "filename": "Ankara, Turkey - panoramio (155).jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Meclis_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q5997307"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "alfred-heilbronn-botanik-bahcesi",
+      "wikidata_id": "Q55594541",
+      "ad": "Alfred Heilbronn Botanik Bahçesi",
+      "tur": "botanik-bahcesi",
+      "il": "İstanbul",
+      "ilce": "Fatih",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.0178,
+        "lon": 28.963608
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "1931-01-01",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": "İstanbul Üniversitesi",
+        "resmi_adi": null,
+        "yerel_adi": "İstanbul Üniversitesi Alfred Heilbronn Botanik Bahçesi",
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Istanbul%20University%20Alfred%20Heilbronn%20Botanical%20Garden%20%282%29.jpg",
+          "filename": "Istanbul University Alfred Heilbronn Botanical Garden (2).jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/%C4%B0stanbul_%C3%9Cniversitesi_Alfred_Heilbronn_Botanik_Bah%C3%A7esi",
+        "http://www.wikidata.org/entity/Q55594541"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ege-universitesi-botanik-bahcesi",
+      "wikidata_id": "Q5926654",
+      "ad": "Ege Üniversitesi botanik bahçesi",
+      "tur": "botanik-bahcesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q5926654"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kosuyolu-parki",
+      "wikidata_id": "Q31790703",
+      "ad": "Koşuyolu Parkı",
+      "tur": "botanik-bahcesi",
+      "il": "Diyarbakır",
+      "ilce": "Bağlar",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.923888888,
+        "lon": 40.214166666
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/KO%C5%9EUYOLU%20PARKI%20-%20panoramio%20%281%29.jpg",
+          "filename": "KOŞUYOLU PARKI - panoramio (1).jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q31790703"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "yasam-vadisi",
+      "wikidata_id": "Q12812584",
+      "ad": "Yaşam Vadisi",
+      "tur": "botanik-bahcesi",
+      "il": "İstanbul",
+      "ilce": "Beylikdüzü",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.007777777,
+        "lon": 28.635555555
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "2017-05-19",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Beylikduzu%20Yesil%20Vadi%20Ya%C5%9Fam%20Vadisi%20Botanik%20Sehir%20Parki%20Nisan%202014%20-%2026.jpg",
+          "filename": "Beylikduzu Yesil Vadi Yaşam Vadisi Botanik Sehir Parki Nisan 2014 - 26.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Ya%C5%9Fam_Vadisi",
+        "http://www.wikidata.org/entity/Q12812584"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "15-temmuz-millet-bahcesi",
+      "wikidata_id": "Q109389737",
+      "ad": "15 Temmuz Millet Bahçesi",
+      "tur": "botanik-bahcesi",
+      "il": "İstanbul",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.058239,
+        "lon": 28.880289
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": "15 Temmuz Darbe Girişimi",
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/15%20Temmuz%20Park%C4%B1.jpg",
+          "filename": "15 Temmuz Parkı.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/15_Temmuz_Millet_Bah%C3%A7esi",
+        "http://www.wikidata.org/entity/Q109389737"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "uzundere-rekreasyon-alani",
+      "wikidata_id": "Q98767771",
+      "ad": "Uzundere Rekreasyon Alanı",
+      "tur": "botanik-bahcesi",
+      "il": "",
+      "ilce": "Karabağlar",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.3575,
+        "lon": 27.094722222
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": 230000,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "2016-06-03",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": "Uzundere",
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Uzundere_Rekreasyon_Alan%C4%B1",
+        "http://www.wikidata.org/entity/Q98767771"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "atsushi-miyazaki-parki",
+      "wikidata_id": "Q97386819",
+      "ad": "Atsushi Miyazaki Parkı",
+      "tur": "botanik-bahcesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": "Atsushi Miyazaki",
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/M%C4%B0YAZAK%C4%B0%20PARKI%204.jpg",
+          "filename": "MİYAZAKİ PARKI 4.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Atsushi_Miyazaki_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q97386819"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kulturpark",
+      "wikidata_id": "Q124175362",
+      "ad": "Kültürpark",
+      "tur": "botanik-bahcesi",
+      "il": "Konya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.87487744,
+        "lon": 32.489237434
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": 79000,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "1970-01-01",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%BClt%C3%BCrpark%20Konya%2014.jpg",
+          "filename": "Kültürpark Konya 14.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/K%C3%BClt%C3%BCrpark_(Konya)",
+        "http://www.wikidata.org/entity/Q124175362"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "segmenler-parki",
+      "wikidata_id": "Q5998215",
+      "ad": "Seğmenler Parkı",
+      "tur": "botanik-bahcesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Se%C4%9Fmenler_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q5998215"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "abbas-aga-parki",
+      "wikidata_id": "Q31190981",
+      "ad": "Abbas Ağa Parkı",
+      "tur": "botanik-bahcesi",
+      "il": "İstanbul",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.046138888,
+        "lon": 29.006027777
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": "Marmara Bölgesi",
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Abbasa%C4%9Fa%20Park%C4%B1.jpg",
+          "filename": "Abbasağa Parkı.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Abbas_A%C4%9Fa_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q31190981"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "macka-sanat-parki",
+      "wikidata_id": "Q109416054",
+      "ad": "Maçka Sanat Parkı",
+      "tur": "botanik-bahcesi",
+      "il": "İstanbul",
+      "ilce": "Şişli",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.049865705,
+        "lon": 28.989495238
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/%C4%B0stanbul%20-%20Ma%C3%A7ka%20Sanat%20Park%C4%B1%201287.jpg",
+          "filename": "İstanbul - Maçka Sanat Parkı 1287.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q109416054"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "yahya-kemal-parki",
+      "wikidata_id": "Q31190974",
+      "ad": "Yahya Kemal Parkı",
+      "tur": "botanik-bahcesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Serencebey%20Park%C4%B1%20FSM.png",
+          "filename": "Serencebey Parkı FSM.png",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Serencebey_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q31190974"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "macka-demokrasi-parki",
+      "wikidata_id": "Q6098591",
+      "ad": "Maçka Demokrasi Parkı",
+      "tur": "botanik-bahcesi",
+      "il": "İstanbul",
+      "ilce": "Şişli",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.04406,
+        "lon": 28.99367
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Istanbul%20asv2020-02%20img71%20Ma%C3%A7ka%20Gondola.jpg",
+          "filename": "Istanbul asv2020-02 img71 Maçka Gondola.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Ma%C3%A7ka_Demokrasi_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q6098591",
+        "https://www.sisligezirehberi.com/rehber/macka-parki/"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ataturk-arboretumu",
+      "wikidata_id": "Q24192239",
+      "ad": "Atatürk Arboretumu",
+      "tur": "botanik-bahcesi",
+      "il": "İstanbul",
+      "ilce": "Sarıyer",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.17638889,
+        "lon": 28.985
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": "Marmara Bölgesi",
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "1949-01-01",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": "Mustafa Kemal Atatürk",
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": "https://ataturkarboretumu.ogm.gov.tr/",
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Atat%C3%BCrkArboretum%20%282%29.jpg",
+          "filename": "AtatürkArboretum (2).jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Atat%C3%BCrk_Arboretumu",
+        "http://www.wikidata.org/entity/Q24192239",
+        "https://ataturkarboretumu.ogm.gov.tr/"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "sanatcilar-parki",
+      "wikidata_id": "Q97321014",
+      "ad": "Sanatçılar Parkı",
+      "tur": "botanik-bahcesi",
+      "il": "İstanbul",
+      "ilce": "Beşiktaş",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.082719,
+        "lon": 29.029704
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/C%C3%BCneyt_Ark%C4%B1n_Sanat%C3%A7%C4%B1lar_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q97321014"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "buyuk-park",
+      "wikidata_id": "Q34903377",
+      "ad": "Büyük Park",
+      "tur": "botanik-bahcesi",
+      "il": "",
+      "ilce": "Bornova",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.462777777,
+        "lon": 27.216666666
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bornova%20B%C3%BCy%C3%BCk%20Park.jpg",
+          "filename": "Bornova Büyük Park.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q34903377"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "sumer-park",
+      "wikidata_id": "Q31790697",
+      "ad": "Sümer Park",
+      "tur": "botanik-bahcesi",
+      "il": "Diyarbakır",
+      "ilce": "Yenişehir",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.911666666,
+        "lon": 40.219166666
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sumerparka%20Amed%C3%AA%202010.JPG",
+          "filename": "Sumerparka Amedê 2010.JPG",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q31790697"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "hasanaga-bahcesi",
+      "wikidata_id": "Q6028430",
+      "ad": "Hasanağa Bahçesi",
+      "tur": "botanik-bahcesi",
+      "il": "İzmir",
+      "ilce": "Buca",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.382777777,
+        "lon": 27.179444444
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": 96000,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "1926-01-01",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Hasana%C4%9Fa_Bah%C3%A7esi",
+        "http://www.wikidata.org/entity/Q6028430"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "vedat-dalokay-parki",
+      "wikidata_id": "Q118928462",
+      "ad": "Vedat Dalokay Parkı",
+      "tur": "botanik-bahcesi",
+      "il": "Ankara",
+      "ilce": "Yenimahalle",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.9625,
+        "lon": 32.734166666
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": 40853,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "1995-01-01",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": "Vedat Ali Dalokay",
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vedatdalokayparki.jpg",
+          "filename": "Vedatdalokayparki.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Vedat_Dalokay_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q118928462"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "taksim-gezi-parki",
+      "wikidata_id": "Q6048634",
+      "ad": "Taksim Gezi Parkı",
+      "tur": "botanik-bahcesi",
+      "il": "İstanbul",
+      "ilce": "Beyoğlu",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.038333333,
+        "lon": 28.986944444
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": 3.8,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": "Marmara Bölgesi",
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "1943-01-01",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": "1943-01-01",
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": "Taksim Gezi Parkı",
+        "kisa_adi": null,
+        "onemli_olay": "2013 Taksim Gezi Parkı protestoları",
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sky%20view%20from%20Taksim%20Gezi%20Park%2C%20Istambul%2C%20Turkey..jpg",
+          "filename": "Sky view from Taksim Gezi Park, Istambul, Turkey..jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Taksim_Gezi_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q6048634"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "tosun-terzioglu-bahcesi",
+      "wikidata_id": "Q124000074",
+      "ad": "Tosun Terzioğlu Bahçesi",
+      "tur": "botanik-bahcesi",
+      "il": "İstanbul",
+      "ilce": "Tuzla",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.890555555,
+        "lon": 29.377222222
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": "Sabancı Üniversitesi",
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": "Tosun Terzioğlu",
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/TosunTerzio%C4%9FluBah%C3%A7esi%2002.jpg",
+          "filename": "TosunTerzioğluBahçesi 02.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q124000074"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "basaksehir-millet-bahcesi",
+      "wikidata_id": "Q60562109",
+      "ad": "Başakşehir Millet Bahçesi",
+      "tur": "botanik-bahcesi",
+      "il": "İstanbul",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q60562109",
+        "https://www.haberturk.com/istanbul-un-millet-bahceleri-bugun-aciliyor-2223988"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kemal-sonunur-parki",
+      "wikidata_id": "Q85972072",
+      "ad": "Kemal Sonunur Parkı",
+      "tur": "botanik-bahcesi",
+      "il": "Ankara",
+      "ilce": "Etimesgut",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.996306,
+        "lon": 32.621494
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "2004-01-01",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kemal%20Sonunur%20Park%20%2812%29.jpg",
+          "filename": "Kemal Sonunur Park (12).jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Kemal_Sonunur_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q85972072"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "emirgn-korusu",
+      "wikidata_id": "Q5185642",
+      "ad": "Emirgân Korusu",
+      "tur": "botanik-bahcesi",
+      "il": "İstanbul",
+      "ilce": "Sarıyer",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.108333333,
+        "lon": 29.0525
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Emirgan%2004325.jpg",
+          "filename": "Emirgan 04325.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Emirg%C3%A2n_Korusu",
+        "http://www.wikidata.org/entity/Q5185642"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "homeros-vadisi",
+      "wikidata_id": "Q31190761",
+      "ad": "Homeros Vadisi",
+      "tur": "botanik-bahcesi",
+      "il": "",
+      "ilce": "Bornova",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.509444444,
+        "lon": 27.231388888
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "2008-05-01",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": "Homeros",
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": "12879763",
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kayadibi%27nden%20Homeros%20Vadisi%20ve%20%C4%B0zmir%20Manzaras%C4%B1%20-%20panoramio.jpg",
+          "filename": "Kayadibi'nden Homeros Vadisi ve İzmir Manzarası - panoramio.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Homeros_Vadisi",
+        "http://www.wikidata.org/entity/Q31190761"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "seyh-samil-parki",
+      "wikidata_id": "Q117706934",
+      "ad": "Şeyh Şamil Parkı",
+      "tur": "botanik-bahcesi",
+      "il": "Ankara",
+      "ilce": "Etimesgut",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.002805555,
+        "lon": 32.624444444
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "2011-01-01",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": "Şeyh Şamil",
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/%C5%9Eeyh%20%C5%9Eamil%20Park%C4%B1%2C%20Etimesgut%20%2823.03.2023%29%2002.jpg",
+          "filename": "Şeyh Şamil Parkı, Etimesgut (23.03.2023) 02.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q117706934"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kosova-bagimsizlik-parki",
+      "wikidata_id": "Q123118376",
+      "ad": "Kosova Bağımsızlık Parkı",
+      "tur": "botanik-bahcesi",
+      "il": "",
+      "ilce": "Buca",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.370833333,
+        "lon": 27.182777777
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": 3500,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "2023-10-14",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": "Kosova Bağımsızlık Bildirgesi",
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q123118376"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "baskent-millet-bahcesi",
+      "wikidata_id": "Q131411634",
+      "ad": "Başkent Millet Bahçesi",
+      "tur": "botanik-bahcesi",
+      "il": "Ankara",
+      "ilce": "Altındağ",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.944722222,
+        "lon": 32.8375
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": 637000,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "2021-10-28",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ba%C5%9Fkent%20Millet%20Bah%C3%A7esi.jpg",
+          "filename": "Başkent Millet Bahçesi.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q131411634"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "alparslan-turkes-parki",
+      "wikidata_id": "Q131627925",
+      "ad": "Alparslan Türkeş Parkı",
+      "tur": "botanik-bahcesi",
+      "il": "Ankara",
+      "ilce": "Etimesgut",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.944361111,
+        "lon": 32.66475
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": "İstasyon Mahallesi Alparslan Türkeş Caddesi No: 3, 06790 Etimesgut/Ankara",
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "2000-01-01",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": "Alparslan Türkeş",
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Park%20of%20Alparslan%20T%C3%BCrke%C5%9F.jpg",
+          "filename": "Park of Alparslan Türkeş.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q131627925"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "firat-yilmaz-cakiroglu-parki",
+      "wikidata_id": "Q135466620",
+      "ad": "Fırat Yılmaz Çakıroğlu Parkı",
+      "tur": "botanik-bahcesi",
+      "il": "",
+      "ilce": "Buca",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.382222222,
+        "lon": 27.174166666
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": 5271,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": "Fırat Çakıroğlu Cinayeti",
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q135466620"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kent-tarihi-parki",
+      "wikidata_id": "Q125773019",
+      "ad": "Kent Tarihi Parkı",
+      "tur": "botanik-bahcesi",
+      "il": "İzmir",
+      "ilce": "Konak",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.4175,
+        "lon": 27.127777777
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "2003-01-01",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Izmir%20Cumhuriyet%20Blv%206449.jpg",
+          "filename": "Izmir Cumhuriyet Blv 6449.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q125773019"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kamil-ocak-millet-bahcesi",
+      "wikidata_id": "Q124978304",
+      "ad": "Kamil Ocak Millet Bahçesi",
+      "tur": "botanik-bahcesi",
+      "il": "Gaziantep",
+      "ilce": "Şehitkamil",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.067083187,
+        "lon": 37.377432097
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": "Kâmil Ocak",
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kamil%20Ocak%20National%20Garden.IMG%202117.jpg",
+          "filename": "Kamil Ocak National Garden.IMG 2117.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Kamil_Ocak_Millet_Bah%C3%A7esi",
+        "http://www.wikidata.org/entity/Q124978304"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "portakal-vadisi",
+      "wikidata_id": "Q124262132",
+      "ad": "Portakal Vadisi",
+      "tur": "botanik-bahcesi",
+      "il": "İzmir",
+      "ilce": "Buca",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.402222222,
+        "lon": 27.188888888
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": 200000,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "2024-01-01",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q124262132"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ali-kuscu-parki",
+      "wikidata_id": "Q131626947",
+      "ad": "Ali Kuşçu Parkı",
+      "tur": "botanik-bahcesi",
+      "il": "Ankara",
+      "ilce": "Etimesgut",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.991944444,
+        "lon": 32.642055555
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": "Etimesgut'taki parklar",
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": "Göksu Mahallesi 2. İnönü Caddesi 5-1, 06820 Etimesgut/Ankara",
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "2012-01-01",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": "Ali Kuşçu",
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ali%20Ku%C5%9F%C3%A7u%20Park%C4%B1%202024.jpg",
+          "filename": "Ali Kuşçu Parkı 2024.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q131626947"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "bursa-millet-bahcesi",
+      "wikidata_id": "Q127598743",
+      "ad": "Bursa Millet Bahçesi",
+      "tur": "botanik-bahcesi",
+      "il": "Bursa",
+      "ilce": "Osmangazi",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.192197621,
+        "lon": 29.049172889
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Bursa_Millet_Bah%C3%A7esi",
+        "http://www.wikidata.org/entity/Q127598743"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ataturk-millet-bahcesi",
+      "wikidata_id": "Q135677474",
+      "ad": "Atatürk Millet Bahçesi",
+      "tur": "botanik-bahcesi",
+      "il": "İstanbul",
+      "ilce": "Bakırköy",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.9843,
+        "lon": 28.808169444
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Atat%C3%BCrk_Havaliman%C4%B1_Millet_Bah%C3%A7esi",
+        "http://www.wikidata.org/entity/Q135677474"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "sevket-dingiloglu-parki",
+      "wikidata_id": "Q135319513",
+      "ad": "Şevket Dingiloğlu Parkı",
+      "tur": "botanik-bahcesi",
+      "il": "Kırklareli",
+      "ilce": "Kocahıdır Mahallesi",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.735018145,
+        "lon": 27.22516265
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": "Marmara Bölgesi",
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": "korunması gerekli kültür varlığı",
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "1929-01-01",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": "Süleyman Şevket Dingiloğlu",
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q135319513"
+      ],
+      "notlar": "Wikidata - Botanik Bahçeleri",
+      "veri_kaynagi": "wikidata"
+    }
+  ]
+}

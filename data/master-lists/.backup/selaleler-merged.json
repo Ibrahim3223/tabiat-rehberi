@@ -1,0 +1,2876 @@
+{
+  "meta": {
+    "kaynak": "Wikipedia + Wikidata + DKMP (merged)",
+    "guncelleme_tarihi": "2026-01-05",
+    "toplam_sayi": 116,
+    "wikipedia_sayi": 45,
+    "wikidata_sayi": 111,
+    "dkmp_sayi": 0
+  },
+  "alanlar": [
+    {
+      "id": "turkiyedeki-selaleler-listesi",
+      "ad": "Türkiye'deki şelaleler listesi",
+      "tur": "selalesi",
+      "il": "Adana",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/T%C3%BCrkiye'deki%20%C5%9Felaleler%20listesi"
+      ],
+      "notlar": "Şelale, bir nehir veya çay yatağının dike yakın bir biçimde âniden düşmesi, akarsuyun yüksekten dökülerek akmasıdır. Akarsu daha küçük ve döküldüğü yükseklik daha az ise bu coğrafi oluşum çağlayan adı",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "asmasu-selalesi",
+      "ad": "Asmasu Şelalesi",
+      "tur": "selalesi",
+      "il": "Trabzon",
+      "ilce": "Trabzon",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Asmasu%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/Asmasu_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q97207185"
+      ],
+      "notlar": "Asmasu Şelalesi veya Aytaş Asmasu Şelalesi, Trabzon'un Araklı ilçesinde bulunan bir şelaledir. İlçe merkezine 43 km uzaklıkta olan şelale, bazı kaynaklara göre 75, bazı kaynaklara göre 120 metre yükse",
+      "wikidata_id": "Q97207185",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "balikli-gunesli-selaleleri-tabiat-parki",
+      "ad": "Balıklı-Güneşli Şelaleleri Tabiat Parkı",
+      "tur": "selalesi",
+      "il": "Artvin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Bal%C4%B1kl%C4%B1-G%C3%BCne%C5%9Fli%20%C5%9Eelaleleri%20Tabiat%20Park%C4%B1"
+      ],
+      "notlar": "Artvin Hopa'da bulunan, Haziran 2017'de ilan edilen Balıklı ve Güneşli Şelaleleri Tabiat Parkı, Güneşli Köyü ve Balıklı Köyü sınırları içerisindedir. Park 173 hektarlık bir alanı kaplamaktadır.",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "bardnala-selalesi",
+      "ad": "Bardnala Şelalesi",
+      "tur": "selalesi",
+      "il": "Artvin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Bardnala%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/Bardnala_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q124363439"
+      ],
+      "notlar": "Bardnala Şelalesi veya Gelintülü Şelalesi, Artvin'in Borçka ilçesinde, Karagöle giden yolun 5. kilometresinde, Atanoğlu köyünde konumlanmış bir şelaledir. 1245 km rakımlı şelalenin çevresinde Collema ",
+      "wikidata_id": "Q124363439",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "ciro-selalesi",
+      "ad": "Ciro Şelalesi",
+      "tur": "selalesi",
+      "il": "Artvin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.03509,
+        "lon": 41.36438
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ciro%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/Ciro_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q97207469"
+      ],
+      "notlar": "Ciro Şelalesi, Artvin ilinin Yusufeli ilçesindeki Özgüven köyünde yer alan bir şelaledir. İlçe merkezine 45 kilometre uzaklıktaki şelale, 2200 metre yükseklikte konumlanmıştır. 160 metrelik yüksekliği",
+      "wikidata_id": "Q97207469",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "cagcagan-selalesi",
+      "ad": "Çağçağan Şelalesi",
+      "tur": "selalesi",
+      "il": "Artvin",
+      "ilce": "Artvin",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C3%87a%C4%9F%C3%A7a%C4%9Fan%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/%C3%87a%C4%9F%C3%A7a%C4%9Fan_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q124363438"
+      ],
+      "notlar": "Çağçağan Şelalesi, Güneşli Köyü Şelalesi veya Balıklı Güneşli Şelaleleri Tabiat Parkı, Artvin'in Hopa ilçesine 12 kilometre uzaklıkta konumlanmış bir şelale ve tabiat parkıdır. Güneşli köyüne 5 kilome",
+      "wikidata_id": "Q124363438",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "caglayandibi-selalesi",
+      "ad": "Çağlayandibi Şelalesi",
+      "tur": "selalesi",
+      "il": "Gümüşhane",
+      "ilce": "Gümüşhane",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C3%87a%C4%9Flayandibi%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/%C3%87a%C4%9Flayandibi_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q97209363"
+      ],
+      "notlar": "Çağlayandibi Şelalesi, Gümüşhane'nin Kürtün ilçesinin Yeşilköy köyünde yer alan bir şelaledir. Örümcek Ormanları'nın içinde yer alan şelale 15 metre yüksekliğindedir. İlçe merkezine 5 km uzaklıkta ola",
+      "wikidata_id": "Q97209363",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "catalkaya-selalesi",
+      "ad": "Çatalkaya Şelalesi",
+      "tur": "selalesi",
+      "il": "Gümüşhane",
+      "ilce": "Gümüşhane",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C3%87atalkaya%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/%C3%87atalkaya_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q130366936"
+      ],
+      "notlar": "Çatalkaya Şelalesi, Gümüşhane'nin Torul ilçesinde yer alan bir şelaledir. 12 metre yükseklikten dökülen şelale, 1.5 metre genişliğindedir.",
+      "wikidata_id": "Q130366936",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "cenedagi-selalesi",
+      "ad": "Çenedağı Şelalesi",
+      "tur": "selalesi",
+      "il": "Kocaeli",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C3%87eneda%C4%9F%C4%B1%20%C5%9Eelalesi"
+      ],
+      "notlar": "Çenedağı Şelalesi, diğer adıyla Çınarlıdere Şelalesi, Kocaeli ilinin Derince ilçesi'nde, ormanlık bir vadi içinde yer alan doğal bir şelaledir.",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "cir-selalesi",
+      "ad": "Çır Şelalesi",
+      "tur": "selalesi",
+      "il": "Bingöl",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.305813888,
+        "lon": 35.946731111
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C3%87%C4%B1r%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/S%C4%B1z%C4%B1r_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q5626513"
+      ],
+      "notlar": "Çır Şelalesi, Bingöl'ün Ilıcalar Bucağında Uzundere köyündedir. Köyün adını aldığı derenin, Büyük Çır Taşı adı verilen 100 m yükseklikteki kayalığın ortasından geçen bir şelaledir. Su 50 m yükseklikte",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/SIZIR%20SELALESI%202009%2004%2018.JPG",
+          "filename": "SIZIR SELALESI 2009 04 18.JPG",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q5626513",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "delikli-kaya-selalesi",
+      "ad": "Delikli Kaya Şelalesi",
+      "tur": "selalesi",
+      "il": "Artvin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Delikli%20Kaya%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/Delikli_Kaya_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q97207563"
+      ],
+      "notlar": "Delikli Kaya Şelalesi, Artvin ilinin Murgul ilçesindeki Başköy köyünde yer alan bir şelaledir. İlçe merkezine 10 kilometre uzaklıktaki şelale, kayanın içindeki 4 metre çaplı bir oyuktan akmaktadır. Şe",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Delikli%20Kaya.jpg",
+          "filename": "Delikli Kaya.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q97207563",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "didgere-selalesi",
+      "ad": "Didğere Şelalesi",
+      "tur": "selalesi",
+      "il": "Artvin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.806683,
+        "lon": 40.55405
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Did%C4%9Fere%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/G%C3%BCrdere_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q97207856"
+      ],
+      "notlar": "Didğere Şelalesi, Artvin'in Borçka ilçesine 75 kilometre uzaklıkta konumlanmış bir şelaledir. 300 hektarlık bir alanı kaplayan şelalenin rakımı 1100 metredir. Kaynağı yaylalardan gelen akarsular olan ",
+      "wikidata_id": "Q97207856",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "dogancay-selalesi",
+      "ad": "Doğançay Şelalesi",
+      "tur": "selalesi",
+      "il": "Bilecik",
+      "ilce": "Sakarya",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.6,
+        "lon": 30.37166667
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Do%C4%9Fan%C3%A7ay%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/Do%C4%9Fan%C3%A7ay_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q27610263"
+      ],
+      "notlar": "Doğançay Şelalesi, Sakarya ili, Geyve ilçesi, Maksudiye, köyünde bulunan şelale. Sakarya merkeze uzaklığı 25 km, Sakarya-Bilecik D.650 yoluna 10 km uzaklıkta, denizden yaklaşık 400 m yüksektedir.\n4 ha",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Do%C4%9Fan%C3%A7ay%20%C5%9Eelalesi.jpg",
+          "filename": "Doğançay Şelalesi.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q27610263",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "durmuslu-selalesi",
+      "ad": "Durmuşlu Şelalesi",
+      "tur": "selalesi",
+      "il": "Gümüşhane",
+      "ilce": "Gümüşhane",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Durmu%C5%9Flu%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/Durmu%C5%9Flu_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q130367069"
+      ],
+      "notlar": "Durmuşlu Şelalesi, Gümüşhane'nin Torul ilçesinin Gülaçar köyünde yer alan bir şelaledir. 50 metre yükseklikten dökülen şelale 5 katlıdır.",
+      "wikidata_id": "Q130367069",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "duden-selalesi",
+      "ad": "Düden Şelalesi",
+      "tur": "selalesi",
+      "il": "Antalya",
+      "ilce": "Antalya",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.85097,
+        "lon": 30.78343
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/D%C3%BCden%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/D%C3%BCden_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q2666468"
+      ],
+      "notlar": "Düden Şelalesi, Antalya şehir merkezine yaklaşık 10 kilometre uzaklıktadır. Kaynağını Kepez Hidroelektrik Santrali'nden alır ve Düdenbaşı denilen noktada yeryüzüne çıkar. Düden Çayı boyunca iki kola a",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Upper%20Duden%20Falls.jpg",
+          "filename": "Upper Duden Falls.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q2666468",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "erikli-selalesi-yalova-tesvikiye",
+      "ad": "Erikli Şelalesi (Yalova-Teşvikiye)",
+      "tur": "selalesi",
+      "il": "Yalova",
+      "ilce": "Yalova",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.58496,
+        "lon": 29.02152
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Erikli%20%C5%9Eelalesi%20(Yalova-Te%C5%9Fvikiye)",
+        "https://tr.wikipedia.org/wiki/Erikli_%C5%9Eelalesi_(Yalova-Te%C5%9Fvikiye)",
+        "http://www.wikidata.org/entity/Q134592335"
+      ],
+      "notlar": "Erikli Şelalesi, Türkiye’nin Yalova ilinde, Termal ilçesine bağlı Teşvikiye köyü yakınlarında yer alan doğal bir şelaledir. Bölge, doğal güzelliği ve serin havasıyla özellikle yaz aylarında ziyaretçi ",
+      "wikidata_id": "Q134592335",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "girlevik-selalesi",
+      "ad": "Girlevik Şelalesi",
+      "tur": "selalesi",
+      "il": "Erzincan",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.58583333,
+        "lon": 39.73083333
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Girlevik%20%C5%9Eelalesi"
+      ],
+      "notlar": "Girlevik Şelalesi, Erzincan il merkezinin 30 km güneydoğusunda, Çağlayan beldesinde, aynı isimli köyün sınırlarında bulunur. Şelalenin suları üç kademe halinde, 30–40 m yükseklikten düşmektedir. Sular",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "gunpinar-selalesi",
+      "ad": "Günpınar Şelalesi",
+      "tur": "selalesi",
+      "il": "Kars",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.04865,
+        "lon": 40.66247
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/G%C3%BCnp%C4%B1nar%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/%C3%87%C4%B1r_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q6019628"
+      ],
+      "notlar": "Günpınar Şelalesi (Gürpınar Şelalesi) Malatya ili Darende ilçesi sınırlarında, Tohma Çayı'nın kolu Şuhul Deresi üzerindeki şelaledir.\nŞelalenin adı eskiden yakınında bulunan köye atfen Aşudu Şelalesi ",
+      "wikidata_id": "Q6019628",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "hacilar-selalesi",
+      "ad": "Hacılar Şelalesi",
+      "tur": "selalesi",
+      "il": "Ankara",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Hac%C4%B1lar%20%C5%9Eelalesi"
+      ],
+      "notlar": "Hacılar şelalesi, Ankara ilinin Çubuk ilçesinde ilçe merkezine 20 km uzaklıkta Hacılar köyündedir. Şelale Avcıova köyünden gelen akarsu üzerinde köy sınırları içerisindeki sıçan deresi diye bilinen bö",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "halgent-selalesi",
+      "ad": "Halgent Şelalesi",
+      "tur": "selalesi",
+      "il": "Bayburt",
+      "ilce": "Gümüşhane",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Halgent%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/Halgent_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q65219886"
+      ],
+      "notlar": "Halgent Şelalesi, Gümüşhane ili, merkez Eskibağlar  mahallesinde bulunan şelale. Lagos Deresi üzerinde, denizden 1300 m yükseklikte olan şelale, 30 m yüksekten düşmektedir.\nŞelalenin üzerinde bulunduğ",
+      "wikidata_id": "Q65219886",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "ilisu-selalesi",
+      "ad": "Ilısu Şelalesi",
+      "tur": "selalesi",
+      "il": "Kars",
+      "ilce": "Gülnar",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.55272,
+        "lon": 33.06877
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Il%C4%B1su%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/Il%C4%B1su_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q6008276"
+      ],
+      "notlar": "Ilısu Şelalesi, Mut-Ermenek D340 karayoluna 25 km mesafede yer alan Gezende Barajı, Gezende köyü ve Ilısu köyü arasında yer almaktadır. Şelalenin kaynağı olan akarsu aynı zamanda yöredeki köy ve kasab",
+      "wikidata_id": "Q6008276",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "kapuzbasi-selaleleri",
+      "ad": "Kapuzbaşı Şelaleleri",
+      "tur": "selalesi",
+      "il": "Adana",
+      "ilce": "Yahyalı",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.7735,
+        "lon": 35.3932
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kapuzba%C5%9F%C4%B1%20%C5%9Eelaleleri",
+        "https://tr.wikipedia.org/wiki/Kapuzba%C5%9F%C4%B1_%C5%9Eelaleleri",
+        "http://www.wikidata.org/entity/Q6070960"
+      ],
+      "notlar": "Kapuzbaşı Şelaleleri Yahyalı ilçesine bağlı Kapuzbaşı Köyü sınırları içerisinde yer alan kaynak şelalelerdir. Şelalelerden birisi Türkiye'nin en yüksek ve Dünya'nın en yüksek ikinci şelalesi olma özel",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kapuzbasi%20Waterfall%20-%20panoramio.jpg",
+          "filename": "Kapuzbasi Waterfall - panoramio.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q6070960",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "kara-su-selalesi",
+      "ad": "Kara su şelalesi",
+      "tur": "selalesi",
+      "il": "Kars",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.90355,
+        "lon": 40.7583
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kara%20su%20%C5%9Felalesi",
+        "https://tr.wikipedia.org/wiki/Karaka%C5%9F_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q96623212"
+      ],
+      "notlar": "Karasu Şelalesi, Osmaniye ili, Düziçi ilçesinde Amanos Dağları)'nın en kuzeyinde bulunan Düldül Dağı eteklerinden doğan Sabun Çayı üzerindeki şelaledir. Şelale tek bir eğim kırıklığından, 10 m yüksekt",
+      "wikidata_id": "Q96623212",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "karagozoglu-selalesi",
+      "ad": "Karagözoğlu Şelalesi",
+      "tur": "selalesi",
+      "il": "Artvin",
+      "ilce": "Artvin",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Karag%C3%B6zo%C4%9Flu%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/Karag%C3%B6zo%C4%9Flu_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q124363441"
+      ],
+      "notlar": "Karagözoğlu Şelalesi, Artvin'in Ardanuç ilçesine 30 kilometre uzaklıkta konumlanmış bir şelaledir. 35 hektarlık bir alanı kaplayan şelalenin rakımı 2300 metredir. Kaynağı kar ve buzullar olan şelale, ",
+      "wikidata_id": "Q124363441",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "kursunlu-selalesi",
+      "ad": "Kurşunlu Şelalesi",
+      "tur": "selalesi",
+      "il": "Antalya",
+      "ilce": "Aksu",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.003,
+        "lon": 30.821
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kur%C5%9Funlu%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/Kur%C5%9Funlu_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q981506"
+      ],
+      "notlar": "Kurşunlu Şelalesi, Antalya-Isparta karayolunun 24. km'nden sola dönülerek 7 km devam edildiğinde ulaşılan bir şelaledir.\nKurşunlu Şelalesi'ne su 18 metre yükseklikten dökülmekte ve küçük şelaleciklerl",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kursunlu%20Waterfall%201.jpg",
+          "filename": "Kursunlu Waterfall 1.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q981506",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "maisur-selalesi",
+      "ad": "Maisur Şelalesi",
+      "tur": "selalesi",
+      "il": "Artvin",
+      "ilce": "Artvin",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Maisur%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/Maisur_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q118946732"
+      ],
+      "notlar": "Maisur Şelalesi, Maisuri Şelalesi veya Maysur Şelalesi, Artvin ilinin Borçka ilçesinde konumlanmış bir şelaledir. Şelale, 67 metre yükseklikten kayaya değmeden dökülmektedir.",
+      "wikidata_id": "Q118946732",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "manavgat-selalesi",
+      "ad": "Manavgat Şelalesi",
+      "tur": "selalesi",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.81328,
+        "lon": 31.45449
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Manavgat%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/Manavgat_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q2574216"
+      ],
+      "notlar": "Manavgat Şelalesi, Antalya'nın Manavgat ilçesinde, Manavgat Nehri üzerinde bulunan bir şelaledir.\nAntalya'ya 72 km mesafededir. Manavgat ilçesinin 3 km kuzeyinde bulunan ve adını bu ilçeden alan şelal",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Manavgat%20waterfall%20by%20tomgensler.JPG",
+          "filename": "Manavgat waterfall by tomgensler.JPG",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q2574216",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "maral-selalesi",
+      "ad": "Maral Şelalesi",
+      "tur": "selalesi",
+      "il": "Artvin",
+      "ilce": "Rize",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.04499,
+        "lon": 40.80879
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Maral%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/A%C4%9Faran_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q61076476"
+      ],
+      "notlar": "Maral Şelalesi, Artvin ili, Borçka ilçesinde Karçal Dağları'nda Maral Deresi üzerindeki şelale. Şelale tek bir eğim kırıklığından, 63 m yüksekten düşer. Şelale adını, eski adı Mindieti olan Maralköy'd",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%C4%9Faran%20%C5%9Eelalesi.JPG",
+          "filename": "Ağaran Şelalesi.JPG",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q61076476",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "mencuna-selalesi",
+      "ad": "Mençuna Şelalesi",
+      "tur": "selalesi",
+      "il": "Artvin",
+      "ilce": "Artvin",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.254658,
+        "lon": 41.3519867
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Men%C3%A7una%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/Men%C3%A7una_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q6026104"
+      ],
+      "notlar": "Mençuna Şelalesi, Artvin ilinin Arhavi ilçesinde bulunan bir şelale.",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Men%C3%A7una%202.jpg",
+          "filename": "Mençuna 2.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q6026104",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "nuzhetiye-selalesi",
+      "ad": "Nüzhetiye Şelalesi",
+      "tur": "selalesi",
+      "il": "Kocaeli",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/N%C3%BCzhetiye%20%C5%9Eelalesi"
+      ],
+      "notlar": "Nüzhetiye Şelalesi, Marmara Bölgesi'nde, Kocaeli ilinin Gölcük ilçesine bağlı Nüzhetiye Köyü sınırları içerisinde yer alan bir şelaledir. Şelale, Kocaeli Büyükşehir Belediyesi tarafından belirlenmiş \"",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "ohtamis-selalesi",
+      "ad": "Ohtamış Şelalesi",
+      "tur": "selalesi",
+      "il": "Ordu",
+      "ilce": "Ohtamış",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.81144,
+        "lon": 37.66169
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ohtam%C4%B1%C5%9F%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/Ohtam%C4%B1%C5%9F_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q6003558"
+      ],
+      "notlar": "Ohtamış Şelalesi Ordu'nun Ulubey ilçesine bağlı olan Ohtamış köyünde bulunan bir şelaledir. Karadeniz Bölgesi'nin  en büyük şelalesidir. 30 metre yüksekliğindedir.",
+      "wikidata_id": "Q6003558",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "pasaca-selalesi-tabiat-parki",
+      "ad": "Paşaca Şelalesi Tabiat Parkı",
+      "tur": "selalesi",
+      "il": "Giresun",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.92164,
+        "lon": 39.09833
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Pa%C5%9Faca%20%C5%9Eelalesi%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Pa%C5%9Faca_%C5%9Eelalesi_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q21526811"
+      ],
+      "notlar": "Paşaca Şelalesi Tabiat Parkı, Giresun ilinin Görele ilçesine bağlı Yeşildere ve Beşirli köyleri arasında yer alan bir tabiat parkıdır. Şelale, Sis Dağı eteklerinde yer almaktadır. Şelalenin üzerinde b",
+      "wikidata_id": "Q21526811",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "samandere-selalesi-tabiat-aniti",
+      "ad": "Samandere Şelalesi Tabiat Anıtı",
+      "tur": "selalesi",
+      "il": "Düzce",
+      "ilce": "Düzce",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.6895,
+        "lon": 31.26026
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Samandere%20%C5%9Eelalesi%20Tabiat%20An%C4%B1t%C4%B1",
+        "https://tr.wikipedia.org/wiki/Samandere_%C5%9Eelalesi_Tabiat_An%C4%B1t%C4%B1",
+        "http://www.wikidata.org/entity/Q6015569"
+      ],
+      "notlar": "Samandere Şelalesi Tabiat Anıtı, Düzce ilinin merkez ilçesine bağlı Samandere köyünde bulunan Samandere Şelalesinin bulunduğu alan. Düzce'nin 26 km güneydoğusundadır.\nŞelale çevresi Çevre ve Orman Bak",
+      "wikidata_id": "Q6015569",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "serindere-selalesi",
+      "ad": "Serindere Şelalesi",
+      "tur": "selalesi",
+      "il": "Kocaeli",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Serindere%20%C5%9Eelalesi"
+      ],
+      "notlar": "Serindere Şelaleleri, Kocaeli ilinin Başiskele ve Kartepe ilçeleri sınırları arasında uzanan Serindere Kanyonu içinde yer alan altı ayrı şelaleden oluşur.",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "sirakayalar-selalesi",
+      "ad": "Sırakayalar Şelalesi",
+      "tur": "selalesi",
+      "il": "Bayburt",
+      "ilce": "Sırakayalar",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/S%C4%B1rakayalar%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/S%C4%B1rakayalar_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q109387368"
+      ],
+      "notlar": "Sırakayalar Şelalesi, Bayburt il merkezine bağlı Sırakayalar Köyü girişi ve içinde bulunmaktadır. Bayburt merkeze 22 km uzaklıkta kalan şelaleler, 20 metre yükseklikten döküldüğü görülmektedir. Şelale",
+      "wikidata_id": "Q109387368",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "sizir-selalesi",
+      "ad": "Sızır Şelalesi",
+      "tur": "selalesi",
+      "il": "Sivas",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.30583333,
+        "lon": 35.94666667
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/S%C4%B1z%C4%B1r%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/Sa%C4%9Fr%C4%B1_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q130367251"
+      ],
+      "notlar": "Sızır Şelalesi, Sivas ili, Gemerek ilçesi, Sızır beldesinde bulunan şelale. Kızılırmak'ın kollarından olan Göksu üzerinde bulunur. Sızır'ın 700 m kadar güneyinde, çevresi yeşillik bir alanda bulunur. ",
+      "wikidata_id": "Q130367251",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "suatan-selalesi",
+      "ad": "Suatan Şelalesi",
+      "tur": "selalesi",
+      "il": "Artvin",
+      "ilce": "Artvin",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Suatan%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/Suatan_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q123562407"
+      ],
+      "notlar": "Suatan Şelalesi veya Su Atılan Şelalesi, Artvin'in Şavşat ilçesinin Kirazlı köyünde konumlanmış bir şelaledir. Tamara Odaları'na 15 dakika mesafede olan şelale, 60 metre yükseklikten dökülmektedir.",
+      "wikidata_id": "Q123562407",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "sudusen-selalesi",
+      "ad": "Sudüşen Şelalesi",
+      "tur": "selalesi",
+      "il": "Yalova",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.575982,
+        "lon": 29.147117
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Sud%C3%BC%C5%9Fen%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/Sud%C3%BC%C5%9Fen_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q97320238"
+      ],
+      "notlar": "Sudüşen Şelalesi, Yalova ilinin Termal, Yalova ilçesindeki Üvezpınar mahallesine 8 km uzaklıkta bir şelaledir. Nacaklı Deresi üzerindedir. Rakımı yaklaşık 250 metre olan şelaleye Yalova'dan 43 kilomet",
+      "wikidata_id": "Q97320238",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "suuctu-selalesi",
+      "ad": "Suuçtu Şelalesi",
+      "tur": "selalesi",
+      "il": "Bursa",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.90067,
+        "lon": 28.38438
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Suu%C3%A7tu%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/Suu%C3%A7tu_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q6018935"
+      ],
+      "notlar": "Suuçtu Şelalesi, Türkiye'nin Bursa ilinin Mustafakemalpaşa ilçesine 18 km uzaklıkta bulunan ve ilçenin içme suyu ihtiyacını karşılayan, 38 metre yükseklikteki felezlerden dökülen şelale.",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Suu%C3%A7tu%20Waterfall%2C%20Mustafakemalpa%C5%9Fa.jpg",
+          "filename": "Suuçtu Waterfall, Mustafakemalpaşa.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q6018935",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "tarsus-selalesi",
+      "ad": "Tarsus Şelalesi",
+      "tur": "selalesi",
+      "il": "Mersin",
+      "ilce": "Tarsus",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.9328,
+        "lon": 34.89822
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Tarsus%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/Tarsus_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q7686789"
+      ],
+      "notlar": "Tarsus Şelalesi, Mersin'e bağlı Tarsus ilçesinin kuzeyinde Berdan Çayı (Kydnos) üzerindeki bir şelaledir. Berdan Çayı'nın 4–5 m yükseklikten dökülmesi ile meydana gelmiştir. Şelalenin bulunduğu alan j",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Berdan%20Waterfall%20in%20Tarsus.jpg",
+          "filename": "Berdan Waterfall in Tarsus.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q7686789",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "tomara-selalesi",
+      "ad": "Tomara Şelalesi",
+      "tur": "selalesi",
+      "il": "Gümüşhane",
+      "ilce": "Şiran",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.0785,
+        "lon": 39.04421
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Tomara%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/Tomara_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q31190853"
+      ],
+      "notlar": "Tomara Şelalesi, Gümüşhane ili, Şiran ilçesi sınırlarında bulunan şelaledir. Kelkit Çayının kolu olan Tomara  Çayının vadisinde yer alır. Adını çevrede yetişen tek yıllık Tomara (kaldirik) bitkisinden",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tomara%20%C5%9Eelalesi...%20-%20panoramio.jpg",
+          "filename": "Tomara Şelalesi... - panoramio.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q31190853",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "tortum-selalesi",
+      "ad": "Tortum Şelalesi",
+      "tur": "selalesi",
+      "il": "Erzurum",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.6607,
+        "lon": 41.6687
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Tortum%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/Tortum_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q1337971"
+      ],
+      "notlar": "Tortum Şelalesi, Erzurum ilinin Uzundere ilçesi sınırları içinde, Tortum Çayı'nın üzerindeki bir şelaledir.",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tortum%20Waterfall%20%282%29.jpg",
+          "filename": "Tortum Waterfall (2).jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q1337971",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "ucansu-selalesi",
+      "ad": "Uçansu Şelalesi",
+      "tur": "selalesi",
+      "il": "Antalya",
+      "ilce": "Antalya",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.19896,
+        "lon": 30.90753
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/U%C3%A7ansu%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/U%C3%A7ansu_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q20474440"
+      ],
+      "notlar": "Uçansu şelalesi, Antalya ili, Serik ilçesi, Gebiz Beldesine bağlı Akçapınar köyü sınırlarında yer alır. Antalya'ya 57 km, Serik'e 54 km mesafededir. Denizden kuşuçumu uzaklığı 38 km, deniz seviyesinde",
+      "wikidata_id": "Q20474440",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "yerkopru-caglayani-mersin",
+      "ad": "Yerköprü Çağlayanı (Mersin)",
+      "tur": "selalesi",
+      "il": "Mersin",
+      "ilce": "Mut",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.53244,
+        "lon": 33.22929
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Yerk%C3%B6pr%C3%BC%20%C3%87a%C4%9Flayan%C4%B1%20(Mersin)",
+        "https://tr.wikipedia.org/wiki/Yerk%C3%B6pr%C3%BC_%C3%87a%C4%9Flayan%C4%B1_(Mersin)",
+        "http://www.wikidata.org/entity/Q27929635"
+      ],
+      "notlar": "Yerköprü Çağlayanı, Mersin ili Mut ilçesinde yer alan bir çağlayandır. 2001 yılında tabiat anıtı olarak tescil edilen şelale, 2021'de tabiat parkı ilan edildi. Çağlayan ve çevresindeki alanın genişliğ",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ta%C5%9Feli-Plateau%2012%2008%201999%20Yerk%C3%B6pr%C3%BC%20%C5%9Eelalesi%20Oberes%20G%C3%B6ksu-Tal%20Bademli%20Yolu.jpg",
+          "filename": "Taşeli-Plateau 12 08 1999 Yerköprü Şelalesi Oberes Göksu-Tal Bademli Yolu.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q27929635",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "yerkopru-selalesi",
+      "ad": "Yerköprü Şelalesi",
+      "tur": "selalesi",
+      "il": "Konya",
+      "ilce": "Hadim",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.02866,
+        "lon": 32.6936
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Yerk%C3%B6pr%C3%BC%20%C5%9Eelalesi",
+        "https://tr.wikipedia.org/wiki/Yerk%C3%B6pr%C3%BC_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q6034015"
+      ],
+      "notlar": "Yerköprü Şelalesi, Türkiye'nin Konya ilinin Hadim ilçesi sınırlarında, Göksu Nehri üzerinde yer alan doğal bir şelaledir. Konya merkeze yaklaşık 110 kilometre uzaklıktadır. Şelale, doğal köprü (yerköp",
+      "wikidata_id": "Q6034015",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "tatlica-takim-selaleleri",
+      "wikidata_id": "Q6031333",
+      "ad": "Tatlıca takım şelaleleri",
+      "tur": "selalesi",
+      "il": "Türkiye",
+      "ilce": "Sinop",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.83621,
+        "lon": 34.77889
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Tatl%C4%B1ca_%C5%9Eelaleleri",
+        "http://www.wikidata.org/entity/Q6031333"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "gurlevik-selalesi",
+      "wikidata_id": "Q5627140",
+      "ad": "Gürlevik Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.58594,
+        "lon": 39.73087
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Girlevik%20Waterfall%2C%20Erzincan%2C%20Turkey.jpg",
+          "filename": "Girlevik Waterfall, Erzincan, Turkey.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Girlevik_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q5627140"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "turk-beleni-selalesi",
+      "wikidata_id": "Q34681772",
+      "ad": "Türk Beleni Şelalesi",
+      "tur": "selalesi",
+      "il": "Türkiye",
+      "ilce": "Antalya",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.7875,
+        "lon": 31.440277777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q34681772"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "palovit-selalesi",
+      "wikidata_id": "Q61076472",
+      "ad": "Palovit Şelalesi",
+      "tur": "selalesi",
+      "il": "Rize",
+      "ilce": "Çamlıhemşin",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.94144,
+        "lon": 40.99319
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Palovit%20Waterfall%2004.jpg",
+          "filename": "Palovit Waterfall 04.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Palovit_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q61076472"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "vandri-selalesi",
+      "wikidata_id": "Q61076478",
+      "ad": "Vandri Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.92669,
+        "lon": 40.46393
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Vandri_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q61076478"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "bulut-selalesi",
+      "wikidata_id": "Q61076470",
+      "ad": "Bulut Şelalesi",
+      "tur": "selalesi",
+      "il": "Rize",
+      "ilce": "Çamlıhemşin",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.996,
+        "lon": 41.07914
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Bulut_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q61076470"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "guney-selalesi",
+      "wikidata_id": "Q27876674",
+      "ad": "Güney Şelalesi",
+      "tur": "selalesi",
+      "il": "Türkiye",
+      "ilce": "Denizli",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.1199,
+        "lon": 29.0611
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Selale3%20Guney%20DenizliProvince%20Turkey.jpg",
+          "filename": "Selale3 Guney DenizliProvince Turkey.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/G%C3%BCney_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q27876674"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "karacaoglan-cayi",
+      "wikidata_id": "Q30066040",
+      "ad": "Karacaoğlan Çayı",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Karacao%C4%9Flan_%C3%87ay%C4%B1",
+        "http://www.wikidata.org/entity/Q30066040"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "akirger-selalesi",
+      "wikidata_id": "Q61076482",
+      "ad": "Akırger Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.7449,
+        "lon": 40.70328
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Ak%C4%B1rger_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q61076482"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "maral-selalesi",
+      "wikidata_id": "Q31189446",
+      "ad": "Maral Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.50232,
+        "lon": 41.95784
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Maral%20%C5%9Eelalesi.jpg",
+          "filename": "Maral Şelalesi.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Maral_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q31189446"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "hacilar-koyu-selalesi",
+      "wikidata_id": "Q19611391",
+      "ad": "Hacılar köyü şelalesi",
+      "tur": "selalesi",
+      "il": "Türkiye",
+      "ilce": "Ankara",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Hac%C4%B1lar_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q19611391"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "gunpinar-selalesi",
+      "wikidata_id": "Q31189554",
+      "ad": "Günpınar Şelalesi",
+      "tur": "selalesi",
+      "il": "Malatya",
+      "ilce": "Darende",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.55614,
+        "lon": 37.42258
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/G%C3%BCnp%C4%B1nar%20Waterfall%20Nature%20Park%2C%20Malatya%2C%20Darende.jpg",
+          "filename": "Günpınar Waterfall Nature Park, Malatya, Darende.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/G%C3%BCnp%C4%B1nar_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q31189554"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "muradiye-selalesi",
+      "wikidata_id": "Q31190849",
+      "ad": "Muradiye Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.05682,
+        "lon": 43.7567
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Muradiye%20%C5%9Felalesi3.jpg",
+          "filename": "Muradiye şelalesi3.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Muradiye_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q31190849"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "gelintulu-selalesi",
+      "wikidata_id": "Q61076474",
+      "ad": "Gelintülü Şelalesi",
+      "tur": "selalesi",
+      "il": "Rize",
+      "ilce": "Çamlıhemşin",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.9501,
+        "lon": 41.11065
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gelint%C3%BCl%C3%BC%20Waterfall.jpg",
+          "filename": "Gelintülü Waterfall.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Gelint%C3%BCl%C3%BC_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q61076474"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kursunlu-selalesi-tabiat-parki",
+      "wikidata_id": "Q108227070",
+      "ad": "Kurşunlu Şelalesi Tabiat Parkı",
+      "tur": "selalesi",
+      "il": "Akdeniz Bölgesi",
+      "ilce": "Aksu",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.003,
+        "lon": 30.821
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kur%C5%9Funlu%20%C5%9Eelalesi%20Tabiat%20Park%C4%B1.jpg",
+          "filename": "Kurşunlu Şelalesi Tabiat Parkı.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q108227070"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ulukaya-selalesi",
+      "wikidata_id": "Q118956045",
+      "ad": "Ulukaya Şelalesi",
+      "tur": "selalesi",
+      "il": "Türkiye",
+      "ilce": "Bartın",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.671177,
+        "lon": 32.7633189
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Ulukaya_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q118956045"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kabaceviz-selaleri",
+      "wikidata_id": "Q118928685",
+      "ad": "Kabaceviz Şelaleri",
+      "tur": "selalesi",
+      "il": "Türkiye",
+      "ilce": "Samsun",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.0633524,
+        "lon": 36.5223658
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Kabaceviz_%C5%9Eelaleri",
+        "http://www.wikidata.org/entity/Q118928685"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "guzeltepe-selalesi",
+      "wikidata_id": "Q118929894",
+      "ad": "Güzeltepe Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/G%C3%BCzeltepe_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q118929894"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "keciyatagi-donmus-selalesi",
+      "wikidata_id": "Q118929939",
+      "ad": "Keçiyatağı Donmuş Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Ke%C3%A7iyata%C4%9F%C4%B1_Donmu%C5%9F_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q118929939"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "lakubar-selalesi",
+      "wikidata_id": "Q97320229",
+      "ad": "Lakubar Şelalesi",
+      "tur": "selalesi",
+      "il": "Türkiye",
+      "ilce": "Rize",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.866167,
+        "lon": 40.984467
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Lakubar_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q97320229"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "beyazgoz-selalesi",
+      "wikidata_id": "Q97211185",
+      "ad": "Beyazgöz Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.100783,
+        "lon": 41.042433
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Beyazg%C3%B6z_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q97211185"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "simba-selalesi",
+      "wikidata_id": "Q96788345",
+      "ad": "Simba Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Simba_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q96788345"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "eskitoglu-selalesi",
+      "wikidata_id": "Q61076497",
+      "ad": "Eskitoğlu Şelalesi",
+      "tur": "selalesi",
+      "il": "Türkiye",
+      "ilce": "Rize",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.0167,
+        "lon": 40.416
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Eskito%C4%9Flu_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q61076497"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "gurleyik-caglayani",
+      "wikidata_id": "Q65934613",
+      "ad": "Gürleyik Çağlayanı",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.9881,
+        "lon": 31.34082
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/G%C3%BCrleyik_%C3%87a%C4%9Flayan%C4%B1",
+        "http://www.wikidata.org/entity/Q65934613"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "manle-selalesi",
+      "wikidata_id": "Q61076486",
+      "ad": "Manle Şelalesi",
+      "tur": "selalesi",
+      "il": "Türkiye",
+      "ilce": "Rize",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.7775,
+        "lon": 40.55535
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Manle_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q61076486"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "katarahte-selalesi",
+      "wikidata_id": "Q61076495",
+      "ad": "Katarahte Şelalesi",
+      "tur": "selalesi",
+      "il": "Türkiye",
+      "ilce": "Rize",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.96825,
+        "lon": 40.604117
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Katarahte_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q61076495"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "akyamac-selalesi",
+      "wikidata_id": "Q97320201",
+      "ad": "Akyamaç Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.044371,
+        "lon": 40.909282
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Akyama%C3%A7_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q97320201"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "koprulu-selalesi",
+      "wikidata_id": "Q97208089",
+      "ad": "Köprülü Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.985133,
+        "lon": 40.518067
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/K%C3%B6pr%C3%BCl%C3%BC_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q97208089"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "degirmendere-selalesi",
+      "wikidata_id": "Q97207625",
+      "ad": "Değirmendere Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.892317,
+        "lon": 40.577933
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/De%C4%9Firmendere_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q97207625"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "upper-duden-waterfalls",
+      "wikidata_id": "Q72176536",
+      "ad": "Upper Düden Waterfalls",
+      "tur": "selalesi",
+      "il": "Antalya",
+      "ilce": "Antalya",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.9638177,
+        "lon": 30.7269123
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Upper%20Duden%20Falls.jpg",
+          "filename": "Upper Duden Falls.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q72176536"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "aglayansu-selalesi",
+      "wikidata_id": "Q97320208",
+      "ad": "Ağlayansu Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.957388,
+        "lon": 41.137847
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/A%C4%9Flayansu_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q97320208"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "askoroz-selalesi",
+      "wikidata_id": "Q97320206",
+      "ad": "Askoroz Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.86797,
+        "lon": 40.58402
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Askoroz_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q97320206"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "mulona-selalesi",
+      "wikidata_id": "Q61076488",
+      "ad": "Mulona Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.068621,
+        "lon": 41.252265
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Mulona_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q61076488"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "maselevat-selalesi",
+      "wikidata_id": "Q61076484",
+      "ad": "Maselevat Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.04602,
+        "lon": 41.00469
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Maselevat_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q61076484"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ruzgarli-selalesi",
+      "wikidata_id": "Q97320235",
+      "ad": "Rüzgarlı Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.743,
+        "lon": 40.531017
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/R%C3%BCzgarl%C4%B1_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q97320235"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "senavat-selalesi",
+      "wikidata_id": "Q97212596",
+      "ad": "Senavat Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.086967,
+        "lon": 41.091267
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Senavat_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q97212596"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "paslakum-selalesi",
+      "wikidata_id": "Q97320234",
+      "ad": "Paslakum Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.921767,
+        "lon": 40.9595
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Paslakum_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q97320234"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "gurcuduzu-selalesi",
+      "wikidata_id": "Q97211591",
+      "ad": "Gürcüdüzü Şelalesi",
+      "tur": "selalesi",
+      "il": "Türkiye",
+      "ilce": "Rize",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.188,
+        "lon": 41.311
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/G%C3%BCrc%C3%BCd%C3%BCz%C3%BC_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q97211591"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "lower-duden-waterfalls",
+      "wikidata_id": "Q72177820",
+      "ad": "Lower Düden Waterfalls",
+      "tur": "selalesi",
+      "il": "Antalya",
+      "ilce": "Antalya",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.8509661,
+        "lon": 30.7834386
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Lower%20Duden%20Falls.jpg",
+          "filename": "Lower Duden Falls.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q72177820"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "catak-ucgol-selalesi",
+      "wikidata_id": "Q97213092",
+      "ad": "Çatak Üçgöl Şelalesi",
+      "tur": "selalesi",
+      "il": "Türkiye",
+      "ilce": "Rize",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.11325,
+        "lon": 41.276033
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/%C3%87atak_%C3%9C%C3%A7g%C3%B6l_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q97213092"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "karap-selaleleri",
+      "wikidata_id": "Q97207997",
+      "ad": "Karap Şelaleleri",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.892017,
+        "lon": 40.747733
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Karap_%C5%9Eelaleleri",
+        "http://www.wikidata.org/entity/Q97207997"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "cetekalevi-selalesi",
+      "wikidata_id": "Q61076498",
+      "ad": "Çetekalevi Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.040633,
+        "lon": 41.1866
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/%C3%87etekalevi_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q61076498"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "hacizeni-selalesi",
+      "wikidata_id": "Q97320220",
+      "ad": "Hacızeni Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.959017,
+        "lon": 41.145367
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Hac%C4%B1zeni_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q97320220"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "gurgendibi-selalesi",
+      "wikidata_id": "Q97320217",
+      "ad": "Gürgendibi Şelalesi",
+      "tur": "selalesi",
+      "il": "Türkiye",
+      "ilce": "Rize",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.968083,
+        "lon": 41.079683
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/G%C3%BCrgendibi_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q97320217"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "salma-selaleleri",
+      "wikidata_id": "Q97212552",
+      "ad": "Salma Şelaleleri",
+      "tur": "selalesi",
+      "il": "Türkiye",
+      "ilce": "Rize",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.1573,
+        "lon": 41.345233
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Salma_%C5%9Eelaleleri",
+        "http://www.wikidata.org/entity/Q97212552"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "soltoguri-selalesi",
+      "wikidata_id": "Q97213387",
+      "ad": "Şoltoğuri Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.063067,
+        "lon": 41.307033
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/%C5%9Eolto%C4%9Furi_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q97213387"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "didgere-selalesi",
+      "wikidata_id": "Q124363440",
+      "ad": "Didğere Şelalesi",
+      "tur": "selalesi",
+      "il": "Türkiye",
+      "ilce": "Artvin",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Did%C4%9Fere_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q124363440"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "bebedes-selalesi",
+      "wikidata_id": "Q97320209",
+      "ad": "Bebedes Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.941183,
+        "lon": 41.077517
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Bebedes_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q97320209"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "mihli-selalesi",
+      "wikidata_id": "Q116678078",
+      "ad": "Mıhlı şelalesi",
+      "tur": "selalesi",
+      "il": "Ayvacık",
+      "ilce": "Küçükkuyu",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.584239386,
+        "lon": 26.651730098
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/M%C4%B1hl%C4%B1_%C5%9Felalesi",
+        "http://www.wikidata.org/entity/Q116678078"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "alisor-selaleleri",
+      "wikidata_id": "Q97207090",
+      "ad": "Alişor Şelaleleri",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.861783,
+        "lon": 40.557667
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Ali%C5%9For_%C5%9Eelaleleri",
+        "http://www.wikidata.org/entity/Q97207090"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "carkiruba-selalesi",
+      "wikidata_id": "Q61076502",
+      "ad": "Çarkıruba Şelalesi",
+      "tur": "selalesi",
+      "il": "Türkiye",
+      "ilce": "Rize",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.028567,
+        "lon": 41.23085
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/%C3%87ark%C4%B1ruba_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q61076502"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "egvane-selalesi",
+      "wikidata_id": "Q97320213",
+      "ad": "Eğvane Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.7815,
+        "lon": 40.64865
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/E%C4%9Fvane_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q97320213"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "copuni-selalesi",
+      "wikidata_id": "Q97320246",
+      "ad": "Çopuni Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.06271,
+        "lon": 41.12739
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/%C3%87opuni_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q97320246"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "karaali-selalesi",
+      "wikidata_id": "Q97211789",
+      "ad": "Karaali Şelalesi",
+      "tur": "selalesi",
+      "il": "Türkiye",
+      "ilce": "Rize",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.213383,
+        "lon": 41.1475
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Karaali_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q97211789"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kockabani-selalesi",
+      "wikidata_id": "Q61076492",
+      "ad": "Koçkabanı Şelalesi",
+      "tur": "selalesi",
+      "il": "Türkiye",
+      "ilce": "Rize",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.96825,
+        "lon": 40.604111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Ko%C3%A7kaban%C4%B1_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q61076492"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "movri-selalesi",
+      "wikidata_id": "Q97212083",
+      "ad": "Movri Şelalesi",
+      "tur": "selalesi",
+      "il": "Türkiye",
+      "ilce": "Rize",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.062133,
+        "lon": 41.26445
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Movri_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q97212083"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "pasacukuru-selalesi",
+      "wikidata_id": "Q130366878",
+      "ad": "Paşaçukuru Şelalesi",
+      "tur": "selalesi",
+      "il": "Türkiye",
+      "ilce": "Rize",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Pa%C5%9Fa%C3%A7ukuru_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q130366878"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "camlihemsin-selalesi",
+      "wikidata_id": "Q130366737",
+      "ad": "Çamlıhemşin Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.04604,
+        "lon": 41.0039
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/%C3%87aml%C4%B1hem%C5%9Fin_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q130366737"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "simadoz-selalesi",
+      "wikidata_id": "Q130366621",
+      "ad": "Şimadoz Şelalesi",
+      "tur": "selalesi",
+      "il": "Türkiye",
+      "ilce": "Rize",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.898117,
+        "lon": 40.5307
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/%C5%9Eimadoz_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q130366621"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "faso-selalesi",
+      "wikidata_id": "Q112748145",
+      "ad": "Faso Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.78368,
+        "lon": 40.60744
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Faso_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q112748145"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "pecamcoy-selalesi",
+      "wikidata_id": "Q130366633",
+      "ad": "Peçamçoy Şelalesi",
+      "tur": "selalesi",
+      "il": "Türkiye",
+      "ilce": "Rize",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.04736,
+        "lon": 41.00306
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Pe%C3%A7am%C3%A7oy_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q130366633"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "meles-selalesi",
+      "wikidata_id": "Q130366835",
+      "ad": "Meles Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Meles_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q130366835"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "pancana-selalesi",
+      "wikidata_id": "Q130366843",
+      "ad": "Pancana Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Pancana_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q130366843"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ayder-selalesi",
+      "wikidata_id": "Q130366756",
+      "ad": "Ayder Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.95576,
+        "lon": 41.12564
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Ayder_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q130366756"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "canikdere-selalesi",
+      "wikidata_id": "Q130367202",
+      "ad": "Canikdere Şelalesi",
+      "tur": "selalesi",
+      "il": "Türkiye",
+      "ilce": "Trabzon",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Canikdere_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q130367202"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "gulderen-selalesi",
+      "wikidata_id": "Q130367210",
+      "ad": "Gülderen Şelalesi",
+      "tur": "selalesi",
+      "il": "Türkiye",
+      "ilce": "Trabzon",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/G%C3%BClderen_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q130367210"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kastanbera-selalesi",
+      "wikidata_id": "Q130367214",
+      "ad": "Kastanbera Şelalesi",
+      "tur": "selalesi",
+      "il": "Türkiye",
+      "ilce": "Trabzon",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Kastanbera_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q130367214"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "koyuncular-selalesi",
+      "wikidata_id": "Q130367223",
+      "ad": "Koyuncular Şelalesi",
+      "tur": "selalesi",
+      "il": "Türkiye",
+      "ilce": "Trabzon",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Koyuncular_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q130367223"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kudavas-selalesi",
+      "wikidata_id": "Q130367228",
+      "ad": "Kudavas Şelalesi",
+      "tur": "selalesi",
+      "il": "Türkiye",
+      "ilce": "Trabzon",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Kudavas_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q130367228"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "os-selalesi",
+      "wikidata_id": "Q130367248",
+      "ad": "Os Şelalesi",
+      "tur": "selalesi",
+      "il": "Türkiye",
+      "ilce": "Trabzon",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Os_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q130367248"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "anzer-selalesi",
+      "wikidata_id": "Q130366770",
+      "ad": "Anzer Şelalesi",
+      "tur": "selalesi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.548133,
+        "lon": 40.5075
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Anzer_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q130366770"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    }
+  ]
+}

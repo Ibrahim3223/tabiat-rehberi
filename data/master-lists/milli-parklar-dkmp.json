@@ -1,0 +1,582 @@
+{
+  "meta": {
+    "kaynak": "T.C. Tarım ve Orman Bakanlığı DKMP (Resmi)",
+    "guncelleme_tarihi": "2026-01-05",
+    "toplam_sayi": 26,
+    "guvenilirlik": "YÜKSEK - Resmi kaynak"
+  },
+  "alanlar": [
+    {
+      "id": "altinbesik-magarasi-milli-parki",
+      "ad": "Altınbeşik Mağarası Milli Parkı",
+      "tur": "milli-park",
+      "il": "Antalya",
+      "ilce": "İbradı",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.1833,
+        "lon": 31.3833
+      },
+      "meta": {
+        "kurulus_yili": 1994,
+        "alan_hektar": 4955
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://www.milliparklar.gov.tr/"
+      ],
+      "notlar": "Resmi DKMP verisi - 1994 yılında kuruldu, 4955 hektar",
+      "veri_kaynagi": "dkmp-official"
+    },
+    {
+      "id": "altindere-vadisi-milli-parki",
+      "ad": "Altındere Vadisi Milli Parkı",
+      "tur": "milli-park",
+      "il": "Trabzon",
+      "ilce": "Maçka",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.7,
+        "lon": 39.7167
+      },
+      "meta": {
+        "kurulus_yili": 1987,
+        "alan_hektar": 4468
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://www.milliparklar.gov.tr/"
+      ],
+      "notlar": "Resmi DKMP verisi - 1987 yılında kuruldu, 4468 hektar",
+      "veri_kaynagi": "dkmp-official"
+    },
+    {
+      "id": "baskomutan-tarihi-milli-parki",
+      "ad": "Başkomutan Tarihi Milli Parkı",
+      "tur": "milli-park",
+      "il": "Afyonkarahisar",
+      "ilce": "Merkez",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.9833,
+        "lon": 30.5667
+      },
+      "meta": {
+        "kurulus_yili": 1981,
+        "alan_hektar": 15500
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://www.milliparklar.gov.tr/"
+      ],
+      "notlar": "Resmi DKMP verisi - 1981 yılında kuruldu, 15500 hektar",
+      "veri_kaynagi": "dkmp-official"
+    },
+    {
+      "id": "beysehir-golu-milli-parki",
+      "ad": "Beyşehir Gölü Milli Parkı",
+      "tur": "milli-park",
+      "il": "Konya",
+      "ilce": "Beyşehir",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.75,
+        "lon": 31.5
+      },
+      "meta": {
+        "kurulus_yili": 1993,
+        "alan_hektar": 88750
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://www.milliparklar.gov.tr/"
+      ],
+      "notlar": "Resmi DKMP verisi - 1993 yılında kuruldu, 88750 hektar",
+      "veri_kaynagi": "dkmp-official"
+    },
+    {
+      "id": "bogazkoy-alacahoyuk-milli-parki",
+      "ad": "Boğazköy-Alacahöyük Milli Parkı",
+      "tur": "milli-park",
+      "il": "Çorum",
+      "ilce": "Boğazkale",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.0167,
+        "lon": 34.6167
+      },
+      "meta": {
+        "kurulus_yili": 1988,
+        "alan_hektar": 2950
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://www.milliparklar.gov.tr/"
+      ],
+      "notlar": "Resmi DKMP verisi - 1988 yılında kuruldu, 2950 hektar",
+      "veri_kaynagi": "dkmp-official"
+    },
+    {
+      "id": "dilek-yarimadasi-buyuk-menderes-deltasi-milli-parki",
+      "ad": "Dilek Yarımadası-Büyük Menderes Deltası Milli Parkı",
+      "tur": "milli-park",
+      "il": "Aydın",
+      "ilce": "Kuşadası",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.6833,
+        "lon": 27.1833
+      },
+      "meta": {
+        "kurulus_yili": 1966,
+        "alan_hektar": 27675
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://www.milliparklar.gov.tr/"
+      ],
+      "notlar": "Resmi DKMP verisi - 1966 yılında kuruldu, 27675 hektar",
+      "veri_kaynagi": "dkmp-official"
+    },
+    {
+      "id": "goreme-tarihi-milli-parki",
+      "ad": "Göreme Tarihi Milli Parkı",
+      "tur": "milli-park",
+      "il": "Nevşehir",
+      "ilce": "Göreme",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.65,
+        "lon": 34.8333
+      },
+      "meta": {
+        "kurulus_yili": 1986,
+        "alan_hektar": 9576
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://www.milliparklar.gov.tr/"
+      ],
+      "notlar": "Resmi DKMP verisi - 1986 yılında kuruldu, 9576 hektar",
+      "veri_kaynagi": "dkmp-official"
+    },
+    {
+      "id": "hattusa-milli-parki",
+      "ad": "Hattuşa Milli Parkı",
+      "tur": "milli-park",
+      "il": "Çorum",
+      "ilce": "Boğazkale",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.0167,
+        "lon": 34.6167
+      },
+      "meta": {
+        "kurulus_yili": 1988,
+        "alan_hektar": 2682
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://www.milliparklar.gov.tr/"
+      ],
+      "notlar": "Resmi DKMP verisi - 1988 yılında kuruldu, 2682 hektar",
+      "veri_kaynagi": "dkmp-official"
+    },
+    {
+      "id": "honaz-dagi-milli-parki",
+      "ad": "Honaz Dağı Milli Parkı",
+      "tur": "milli-park",
+      "il": "Denizli",
+      "ilce": "Honaz",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.75,
+        "lon": 29.2667
+      },
+      "meta": {
+        "kurulus_yili": 2019,
+        "alan_hektar": 21342
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://www.milliparklar.gov.tr/"
+      ],
+      "notlar": "Resmi DKMP verisi - 2019 yılında kuruldu, 21342 hektar",
+      "veri_kaynagi": "dkmp-official"
+    },
+    {
+      "id": "kackar-daglari-milli-parki",
+      "ad": "Kaçkar Dağları Milli Parkı",
+      "tur": "milli-park",
+      "il": "Rize",
+      "ilce": "Çamlıhemşin",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.9167,
+        "lon": 41.1333
+      },
+      "meta": {
+        "kurulus_yili": 1994,
+        "alan_hektar": 51550
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://www.milliparklar.gov.tr/"
+      ],
+      "notlar": "Resmi DKMP verisi - 1994 yılında kuruldu, 51550 hektar",
+      "veri_kaynagi": "dkmp-official"
+    },
+    {
+      "id": "kazdagi-milli-parki",
+      "ad": "Kazdağı Milli Parkı",
+      "tur": "milli-park",
+      "il": "Balıkesir",
+      "ilce": "Edremit",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.6667,
+        "lon": 26.9167
+      },
+      "meta": {
+        "kurulus_yili": 1994,
+        "alan_hektar": 21452
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://www.milliparklar.gov.tr/"
+      ],
+      "notlar": "Resmi DKMP verisi - 1994 yılında kuruldu, 21452 hektar",
+      "veri_kaynagi": "dkmp-official"
+    },
+    {
+      "id": "koprulu-kanyon-milli-parki",
+      "ad": "Köprülü Kanyon Milli Parkı",
+      "tur": "milli-park",
+      "il": "Antalya",
+      "ilce": "Manavgat",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.2167,
+        "lon": 31.1333
+      },
+      "meta": {
+        "kurulus_yili": 1973,
+        "alan_hektar": 36614
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://www.milliparklar.gov.tr/"
+      ],
+      "notlar": "Resmi DKMP verisi - 1973 yılında kuruldu, 36614 hektar",
+      "veri_kaynagi": "dkmp-official"
+    },
+    {
+      "id": "kure-daglari-milli-parki",
+      "ad": "Küre Dağları Milli Parkı",
+      "tur": "milli-park",
+      "il": "Kastamonu",
+      "ilce": "Pınarbaşı",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.7333,
+        "lon": 33.7833
+      },
+      "meta": {
+        "kurulus_yili": 2000,
+        "alan_hektar": 37753
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://www.milliparklar.gov.tr/"
+      ],
+      "notlar": "Resmi DKMP verisi - 2000 yılında kuruldu, 37753 hektar",
+      "veri_kaynagi": "dkmp-official"
+    },
+    {
+      "id": "munzur-vadisi-milli-parki",
+      "ad": "Munzur Vadisi Milli Parkı",
+      "tur": "milli-park",
+      "il": "Tunceli",
+      "ilce": "Ovacık",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.4833,
+        "lon": 39.35
+      },
+      "meta": {
+        "kurulus_yili": 1971,
+        "alan_hektar": 42000
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://www.milliparklar.gov.tr/"
+      ],
+      "notlar": "Resmi DKMP verisi - 1971 yılında kuruldu, 42000 hektar",
+      "veri_kaynagi": "dkmp-official"
+    },
+    {
+      "id": "nemrut-dagi-milli-parki",
+      "ad": "Nemrut Dağı Milli Parkı",
+      "tur": "milli-park",
+      "il": "Adıyaman",
+      "ilce": "Kahta",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.05,
+        "lon": 38.7333
+      },
+      "meta": {
+        "kurulus_yili": 1988,
+        "alan_hektar": 13850
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://www.milliparklar.gov.tr/"
+      ],
+      "notlar": "Resmi DKMP verisi - 1988 yılında kuruldu, 13850 hektar",
+      "veri_kaynagi": "dkmp-official"
+    },
+    {
+      "id": "nene-hatun-tarihi-milli-parki",
+      "ad": "Nene Hatun Tarihi Milli Parkı",
+      "tur": "milli-park",
+      "il": "Erzurum",
+      "ilce": "Merkez",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.9,
+        "lon": 41.2667
+      },
+      "meta": {
+        "kurulus_yili": 1993,
+        "alan_hektar": 1660
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://www.milliparklar.gov.tr/"
+      ],
+      "notlar": "Resmi DKMP verisi - 1993 yılında kuruldu, 1660 hektar",
+      "veri_kaynagi": "dkmp-official"
+    },
+    {
+      "id": "olimpos-beydaglari-sahil-milli-parki",
+      "ad": "Olimpos Beydağları Sahil Milli Parkı",
+      "tur": "milli-park",
+      "il": "Antalya",
+      "ilce": "Kemer",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.4,
+        "lon": 30.5
+      },
+      "meta": {
+        "kurulus_yili": 1972,
+        "alan_hektar": 34425
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://www.milliparklar.gov.tr/"
+      ],
+      "notlar": "Resmi DKMP verisi - 1972 yılında kuruldu, 34425 hektar",
+      "veri_kaynagi": "dkmp-official"
+    },
+    {
+      "id": "sakarya-meydan-muharebesi-tarihi-milli-parki",
+      "ad": "Sakarya Meydan Muharebesi Tarihi Milli Parkı",
+      "tur": "milli-park",
+      "il": "Sakarya",
+      "ilce": "Akyazı",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.6833,
+        "lon": 30.6167
+      },
+      "meta": {
+        "kurulus_yili": 1981,
+        "alan_hektar": 13500
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://www.milliparklar.gov.tr/"
+      ],
+      "notlar": "Resmi DKMP verisi - 1981 yılında kuruldu, 13500 hektar",
+      "veri_kaynagi": "dkmp-official"
+    },
+    {
+      "id": "sarikamis-allahuekber-daglari-milli-parki",
+      "ad": "Sarıkamış-Allahuekber Dağları Milli Parkı",
+      "tur": "milli-park",
+      "il": "Kars",
+      "ilce": "Sarıkamış",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.3167,
+        "lon": 42.5833
+      },
+      "meta": {
+        "kurulus_yili": 2004,
+        "alan_hektar": 22844
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://www.milliparklar.gov.tr/"
+      ],
+      "notlar": "Resmi DKMP verisi - 2004 yılında kuruldu, 22844 hektar",
+      "veri_kaynagi": "dkmp-official"
+    },
+    {
+      "id": "soguksu-milli-parki",
+      "ad": "Soğuksu Milli Parkı",
+      "tur": "milli-park",
+      "il": "Ankara",
+      "ilce": "Kızılcahamam",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.5,
+        "lon": 32.6333
+      },
+      "meta": {
+        "kurulus_yili": 1959,
+        "alan_hektar": 1050
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://www.milliparklar.gov.tr/"
+      ],
+      "notlar": "Resmi DKMP verisi - 1959 yılında kuruldu, 1050 hektar",
+      "veri_kaynagi": "dkmp-official"
+    },
+    {
+      "id": "spil-dagi-milli-parki",
+      "ad": "Spil Dağı Milli Parkı",
+      "tur": "milli-park",
+      "il": "Manisa",
+      "ilce": "Merkez",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.5667,
+        "lon": 27.3833
+      },
+      "meta": {
+        "kurulus_yili": 1968,
+        "alan_hektar": 6785
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://www.milliparklar.gov.tr/"
+      ],
+      "notlar": "Resmi DKMP verisi - 1968 yılında kuruldu, 6785 hektar",
+      "veri_kaynagi": "dkmp-official"
+    },
+    {
+      "id": "sultan-sazligi-milli-parki",
+      "ad": "Sultan Sazlığı Milli Parkı",
+      "tur": "milli-park",
+      "il": "Kayseri",
+      "ilce": "Develi",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.3833,
+        "lon": 35.2333
+      },
+      "meta": {
+        "kurulus_yili": 2006,
+        "alan_hektar": 18200
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://www.milliparklar.gov.tr/"
+      ],
+      "notlar": "Resmi DKMP verisi - 2006 yılında kuruldu, 18200 hektar",
+      "veri_kaynagi": "dkmp-official"
+    },
+    {
+      "id": "termessos-milli-parki",
+      "ad": "Termessos Milli Parkı",
+      "tur": "milli-park",
+      "il": "Antalya",
+      "ilce": "Döşemealtı",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.9667,
+        "lon": 30.5167
+      },
+      "meta": {
+        "kurulus_yili": 1970,
+        "alan_hektar": 6702
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://www.milliparklar.gov.tr/"
+      ],
+      "notlar": "Resmi DKMP verisi - 1970 yılında kuruldu, 6702 hektar",
+      "veri_kaynagi": "dkmp-official"
+    },
+    {
+      "id": "troia-tarihi-milli-parki",
+      "ad": "Troia Tarihi Milli Parkı",
+      "tur": "milli-park",
+      "il": "Çanakkale",
+      "ilce": "Merkez",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.9667,
+        "lon": 26.25
+      },
+      "meta": {
+        "kurulus_yili": 1996,
+        "alan_hektar": 13600
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://www.milliparklar.gov.tr/"
+      ],
+      "notlar": "Resmi DKMP verisi - 1996 yılında kuruldu, 13600 hektar",
+      "veri_kaynagi": "dkmp-official"
+    },
+    {
+      "id": "uludag-milli-parki",
+      "ad": "Uludağ Milli Parkı",
+      "tur": "milli-park",
+      "il": "Bursa",
+      "ilce": "Merkez",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.1,
+        "lon": 29.1167
+      },
+      "meta": {
+        "kurulus_yili": 1961,
+        "alan_hektar": 12927
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://www.milliparklar.gov.tr/"
+      ],
+      "notlar": "Resmi DKMP verisi - 1961 yılında kuruldu, 12927 hektar",
+      "veri_kaynagi": "dkmp-official"
+    },
+    {
+      "id": "yedigoller-milli-parki",
+      "ad": "Yedigöller Milli Parkı",
+      "tur": "milli-park",
+      "il": "Bolu",
+      "ilce": "Mengen",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.95,
+        "lon": 31.7333
+      },
+      "meta": {
+        "kurulus_yili": 1965,
+        "alan_hektar": 6644
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://www.milliparklar.gov.tr/"
+      ],
+      "notlar": "Resmi DKMP verisi - 1965 yılında kuruldu, 6644 hektar",
+      "veri_kaynagi": "dkmp-official"
+    }
+  ]
+}

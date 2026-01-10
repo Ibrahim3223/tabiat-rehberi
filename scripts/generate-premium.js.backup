@@ -1,0 +1,741 @@
+#!/usr/bin/env node
+
+/**
+ * PREMIUM İçerik Üretim Scripti v5
+ *
+ * TÜRKİYE'NİN EN KALİTELİ TABİAT REHBERİ
+ *
+ * Özellikler:
+ * - Wikidata API entegrasyonu (gerçek veriler)
+ * - Tüm bug'lar düzeltildi
+ * - Premium kalite promptlar
+ * - Aggressive post-processing
+ * - Profesyonel ton ve detay
+ */
+
+import Groq from 'groq-sdk';
+import axios from 'axios';
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+import dotenv from 'dotenv';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+dotenv.config({ path: path.join(__dirname, '../.env') });
+
+const MASTER_LISTS_DIR = path.join(__dirname, '../data/master-lists');
+const CONTENT_DIR = path.join(__dirname, '../content/alanlar');
+
+const groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
+
+const args = process.argv.slice(2);
+const isTestMode = args.includes('test');
+
+// İl -> Bölge mapping
+const IL_BOLGE_MAP = {
+  'İstanbul': 'Marmara', 'Edirne': 'Marmara', 'Kırklareli': 'Marmara', 'Tekirdağ': 'Marmara',
+  'Çanakkale': 'Marmara', 'Balıkesir': 'Marmara', 'Bursa': 'Marmara', 'Kocaeli': 'Marmara',
+  'Sakarya': 'Marmara', 'Bilecik': 'Marmara', 'Yalova': 'Marmara',
+  'İzmir': 'Ege', 'Aydın': 'Ege', 'Muğla': 'Ege', 'Denizli': 'Ege', 'Manisa': 'Ege',
+  'Uşak': 'Ege', 'Afyonkarahisar': 'Ege', 'Kütahya': 'Ege',
+  'Antalya': 'Akdeniz', 'Mersin': 'Akdeniz', 'Adana': 'Akdeniz', 'Hatay': 'Akdeniz',
+  'Kahramanmaraş': 'Akdeniz', 'Osmaniye': 'Akdeniz', 'Isparta': 'Akdeniz', 'Burdur': 'Akdeniz',
+  'Ankara': 'İç Anadolu', 'Konya': 'İç Anadolu', 'Eskişehir': 'İç Anadolu', 'Kayseri': 'İç Anadolu',
+  'Sivas': 'İç Anadolu', 'Yozgat': 'İç Anadolu', 'Kırşehir': 'İç Anadolu', 'Nevşehir': 'İç Anadolu',
+  'Aksaray': 'İç Anadolu', 'Niğde': 'İç Anadolu', 'Kırıkkale': 'İç Anadolu', 'Karaman': 'İç Anadolu', 'Çankırı': 'İç Anadolu',
+  'Trabzon': 'Karadeniz', 'Samsun': 'Karadeniz', 'Ordu': 'Karadeniz', 'Giresun': 'Karadeniz',
+  'Rize': 'Karadeniz', 'Artvin': 'Karadeniz', 'Gümüşhane': 'Karadeniz', 'Bayburt': 'Karadeniz',
+  'Amasya': 'Karadeniz', 'Tokat': 'Karadeniz', 'Çorum': 'Karadeniz', 'Sinop': 'Karadeniz',
+  'Kastamonu': 'Karadeniz', 'Bartın': 'Karadeniz', 'Karabük': 'Karadeniz', 'Zonguldak': 'Karadeniz', 'Düzce': 'Karadeniz', 'Bolu': 'Karadeniz',
+  'Erzurum': 'Doğu Anadolu', 'Erzincan': 'Doğu Anadolu', 'Kars': 'Doğu Anadolu', 'Ağrı': 'Doğu Anadolu',
+  'Iğdır': 'Doğu Anadolu', 'Ardahan': 'Doğu Anadolu', 'Muş': 'Doğu Anadolu', 'Bingöl': 'Doğu Anadolu',
+  'Tunceli': 'Doğu Anadolu', 'Elazığ': 'Doğu Anadolu', 'Malatya': 'Doğu Anadolu', 'Van': 'Doğu Anadolu', 'Bitlis': 'Doğu Anadolu', 'Hakkari': 'Doğu Anadolu',
+  'Gaziantep': 'Güneydoğu Anadolu', 'Şanlıurfa': 'Güneydoğu Anadolu', 'Diyarbakır': 'Güneydoğu Anadolu',
+  'Mardin': 'Güneydoğu Anadolu', 'Batman': 'Güneydoğu Anadolu', 'Şırnak': 'Güneydoğu Anadolu',
+  'Siirt': 'Güneydoğu Anadolu', 'Kilis': 'Güneydoğu Anadolu', 'Adıyaman': 'Güneydoğu Anadolu'
+};
+
+/**
+ * WIKIDATA İL TAHMİNİ (il="Türkiye" olanlar için)
+ */
+const WIKIDATA_IL_FIX = {
+  'Q989883': 'İstanbul',  // Büyükada (Prens Adaları)
+  'Q211817': 'Çanakkale', // Bozcaada
+  'Q658437': 'Çanakkale', // Gökçeada
+};
+
+/**
+ * POST-PROCESSING: Yasaklı ifadeleri agresif temizleme
+ */
+function cleanText(text, areaName = '') {
+  if (!text) return text;
+
+  const isGokceada = areaName.toLowerCase().includes('gökçeada') || areaName.toLowerCase().includes('gokceada');
+
+  const replacements = [
+    // Sıralama patterns - EXPANDED (en olmadan da)
+    { pattern: /Türkiye'nin en büyük (ikinci|üçüncü|dördüncü|beşinci|2\.|3\.|4\.) ada[sı]?[ıdır]*/gi, replace: 'Türkiye\'nin önemli adalarından biri' },
+    { pattern: /Türkiye'nin (ikinci|üçüncü|dördüncü|beşinci|2\.|3\.|4\.) büyük ada[sı]?[ıdır]*/gi, replace: 'Türkiye\'nin önemli adalarından biri' },
+    { pattern: /İstanbul'un en büyük (ikinci|üçüncü|dördüncü|2\.|3\.|4\.) ada[sı]?[ıdır]*/gi, replace: 'İstanbul\'un önemli adalarından biri' },
+    { pattern: /Prens Adaları'nın en büyük (ikinci|üçüncü|dördüncü|2\.|3\.|4\.) ada[sı]?[ıdır]*/gi, replace: 'Prens Adaları\'nın büyük adalarından biri' },
+
+    // "en büyük ada" (Gökçeada hariç)
+    {
+      pattern: /(?:Türkiye'nin|İstanbul'un|Prens Adaları'nın|grubun|takımının) en büyük ada[sı]?[ıdır]*/gi,
+      replace: (match) => {
+        if (isGokceada && match.includes("Türkiye'nin")) {
+          return match;
+        }
+        return match.replace(/en büyük ada[sı]?[ıdır]*/, 'büyük adalarından biri');
+      }
+    },
+
+    // Diğer superlatifler - EXPANDED (dür/olarak varyasyonları)
+    { pattern: /Prens Adaları'nın en büyüğü[dür]*\s*(olarak\s+bilinen)?/gi, replace: 'Prens Adaları\'nın büyük adalarından biri' },
+    { pattern: /Prens Adaları'nın en büyüğüdür/gi, replace: 'Prens Adaları\'nın büyük adalarından biridir' },
+    { pattern: /İstanbul'un en büyük ada[sı]?[ıdır]*/gi, replace: 'İstanbul\'un büyük adalarından biri' },
+    { pattern: /en büyük ada[sı]?[ıdır]*/gi, replace: 'büyük adalardan biri' },
+    { pattern: /en eski ada[sı]?[ıdır]*/gi, replace: 'tarihi adalardan biri' },
+    { pattern: /en yüksek ada[sı]?[ıdır]*/gi, replace: 'yüksek adalardan biri' },
+    { pattern: /en küçük ada[sı]?[ıdır]*/gi, replace: 'küçük adalardan biri' },
+
+    // Büyükada özel - bisiklet YASAK! (sadece fayton ve yaya)
+    { pattern: /bisiklet ve at arabalar[ıı]/gi, replace: 'at arabalar$1 (fayton)' },
+    { pattern: /bisiklet[,]?\s*(ve|veya|ile)?\s*fayton/gi, replace: 'fayton (at arabası)' },
+    { pattern: /bisiklet\s+(kiralama|veya|ve|ile|kiralanabilir)/gi, replace: (match, group) => {
+      if (areaName.toLowerCase().includes('büyükada') || areaName.toLowerCase().includes('buyukada')) {
+        return group === 'kiralama' ? 'fayton' : 'yaya veya fayton ile';
+      }
+      return match;
+    }},
+    { pattern: /bisikletle\s+gezm[ea]k/gi, replace: (match) => {
+      if (areaName.toLowerCase().includes('büyükada') || areaName.toLowerCase().includes('buyukada')) {
+        return 'faytonla gezmek';
+      }
+      return match;
+    }},
+    // Büyükada: "bisiklet veya yaya" → "yaya veya fayton ile"
+    { pattern: /bisiklet\s+veya\s+yaya/gi, replace: (match) => {
+      if (areaName.toLowerCase().includes('büyükada') || areaName.toLowerCase().includes('buyukada')) {
+        return 'yaya veya fayton ile';
+      }
+      return match;
+    }},
+    // Büyükada: "ziyaretçiler... bisiklet" → "fayton"
+    { pattern: /ziyaretçiler[^.]*bisiklet/gi, replace: (match) => {
+      if (areaName.toLowerCase().includes('büyükada') || areaName.toLowerCase().includes('buyukada')) {
+        return match.replace(/bisiklet/gi, 'fayton');
+      }
+      return match;
+    }},
+    // Büyükada: "Bisiklet turu" → "Fayton turu"
+    { pattern: /bisiklet\s+turu?/gi, replace: (match) => {
+      if (areaName.toLowerCase().includes('büyükada') || areaName.toLowerCase().includes('buyukada')) {
+        return 'Fayton turu';
+      }
+      return match;
+    }},
+    // Büyükada: "bisiklet kullanmak" → "yaya gezmek"
+    { pattern: /bisiklet\s+kullanmak/gi, replace: (match) => {
+      if (areaName.toLowerCase().includes('büyükada') || areaName.toLowerCase().includes('buyukada')) {
+        return 'yaya gezmek';
+      }
+      return match;
+    }},
+
+    // Gramer düzeltmeleri
+    { pattern: /birilarından birisidir/gi, replace: 'birisidir' },
+    { pattern: /birilarından biri/gi, replace: 'biri' },
+  ];
+
+  let cleaned = text;
+  for (const { pattern, replace } of replacements) {
+    if (typeof replace === 'function') {
+      cleaned = cleaned.replace(pattern, replace);
+    } else {
+      cleaned = cleaned.replace(pattern, replace);
+    }
+  }
+
+  return cleaned;
+}
+
+/**
+ * SYSTEM MESSAGE
+ */
+const SYSTEM_CONTEXT = `Sen Türkiye'nin doğal alanları hakkında profesyonel, detaylı ve ansiklopedik içerik yazan bir uzmansın.
+
+TEMEL PRENSİPLER:
+1. Objektif ve profesyonel ton kullan
+2. Spesifik detaylar ver (genel laflar değil)
+3. Sıralama/karşılaştırma yapma
+4. Emin olmadığında dürüst ol
+5. Okuyucuya değerli bilgi sun`;
+
+/**
+ * Wikidata'dan zenginleştirilmiş bilgi çek
+ */
+async function fetchWikidataInfo(wikidataId) {
+  if (!wikidataId) return null;
+
+  try {
+    const url = `https://www.wikidata.org/wiki/Special:EntityData/${wikidataId}.json`;
+    const response = await axios.get(url, { timeout: 5000 });
+    const entity = response.data.entities[wikidataId];
+
+    if (!entity) return null;
+
+    // Yararlı bilgileri çıkar
+    const claims = entity.claims || {};
+
+    return {
+      label_tr: entity.labels?.tr?.value,
+      description_tr: entity.descriptions?.tr?.value,
+      // Koordinatlar
+      coords: claims.P625?.[0]?.mainsnak?.datavalue?.value,
+      // Alan (P2046)
+      area: claims.P2046?.[0]?.mainsnak?.datavalue?.value,
+      // Yükseklik (P2044)
+      elevation: claims.P2044?.[0]?.mainsnak?.datavalue?.value,
+      // İl (P131 - located in)
+      located_in: claims.P131?.[0]?.mainsnak?.datavalue?.value?.id,
+    };
+  } catch (error) {
+    console.log(`  ⚠️ Wikidata fetch failed for ${wikidataId}: ${error.message}`);
+    return null;
+  }
+}
+
+/**
+ * 1. METADATA - Premium
+ */
+async function generateMetadata(area, wikidataInfo) {
+  const alanTuru = area.alan_turu || area.tip || area.tur || 'doğal alan';
+
+  const prompt = `"${area.ad}" için SEO-optimized metadata oluştur.
+
+Bilgiler:
+- Tür: ${alanTuru}
+- Konum: ${area.il || 'Türkiye'}${area.ilce ? ', ' + area.ilce : ''}
+${wikidataInfo?.description_tr ? `- Tanım: ${wikidataInfo.description_tr}` : ''}
+
+Görev:
+1. Title: 50-60 karakter, SEO-friendly
+2. Description: 140-155 karakter, etkileyici ve bilgilendirici
+3. Keywords: 8-10 adet, alakalı ve popüler
+
+JSON döndür:
+{
+  "title": "...",
+  "description": "...",
+  "keywords": ["..."]
+}`;
+
+  const completion = await groq.chat.completions.create({
+    messages: [
+      { role: 'system', content: SYSTEM_CONTEXT },
+      { role: 'user', content: prompt }
+    ],
+    model: 'llama-3.3-70b-versatile',
+    temperature: 0.3,
+    max_tokens: 400,
+    response_format: { type: 'json_object' }
+  });
+
+  const result = JSON.parse(completion.choices[0].message.content);
+
+  // Metadata'yı da temizle (title, description, keywords)
+  if (result.title) result.title = cleanText(result.title, area.ad);
+  if (result.description) result.description = cleanText(result.description, area.ad);
+  if (result.keywords && Array.isArray(result.keywords)) {
+    result.keywords = result.keywords.map(k => cleanText(k, area.ad));
+  }
+
+  return result;
+}
+
+/**
+ * 2. GENEL BAKIŞ - Zengin giriş
+ */
+async function generateGenelBakis(area, wikidataInfo) {
+  const alanTuru = area.alan_turu || area.tip || area.tur || 'doğal alan';
+
+  const prompt = `"${area.ad}" hakkında zengin bir giriş paragrafı yaz (3-4 cümle, 100-150 kelime).
+
+Bilgiler:
+- Tür: ${alanTuru}
+- Konum: ${area.il}${area.ilce ? ', ' + area.ilce : ''}
+${wikidataInfo?.description_tr ? `- Açıklama: ${wikidataInfo.description_tr}` : ''}
+${wikidataInfo?.area ? `- Alan: ${wikidataInfo.area.amount} ${wikidataInfo.area.unit}` : ''}
+
+İçerik:
+- Ne olduğu ve nerede olduğu
+- Ayırt edici özellikleri
+- Neden önemli/ilginç
+
+YASAK: Sıralama (en büyük X'inci), ulaşım detayları
+
+Sadece paragrafı döndür, başlık yok.`;
+
+  const completion = await groq.chat.completions.create({
+    messages: [
+      { role: 'system', content: SYSTEM_CONTEXT },
+      { role: 'user', content: prompt }
+    ],
+    model: 'llama-3.3-70b-versatile',
+    temperature: 0.2,
+    max_tokens: 300
+  });
+
+  return cleanText(completion.choices[0].message.content.trim(), area.ad);
+}
+
+/**
+ * 3. TARİHÇE - Profesyonel ve detaylı
+ */
+async function generateTarihce(area) {
+  const prompt = `"${area.ad}" (${area.il}) tarihçesi hakkında profesyonel bir metin yaz.
+
+Kurallar:
+- SADECE "${area.ad}" hakkında yaz
+- Kronolojik sıra (antik dönem → günümüz)
+- Spesifik olaylar/dönemler (varsa)
+- Emin olmadığın tarih/kişi yazma
+- 200-300 kelime
+
+YASAK: Başka yerle karıştırma, sıralama
+
+Metin döndür.`;
+
+  const completion = await groq.chat.completions.create({
+    messages: [
+      { role: 'system', content: SYSTEM_CONTEXT },
+      { role: 'user', content: prompt }
+    ],
+    model: 'llama-3.3-70b-versatile',
+    temperature: 0.1,
+    max_tokens: 800
+  });
+
+  return cleanText(completion.choices[0].message.content.trim(), area.ad);
+}
+
+/**
+ * 4. COĞRAFYA - Detaylı ve spesifik
+ */
+async function generateCografya(area, wikidataInfo) {
+  const coords = wikidataInfo?.coords || area.koordinatlar || area.coordinates || {};
+  const areaSize = wikidataInfo?.area;
+  const elevation = wikidataInfo?.elevation;
+
+  const prompt = `"${area.ad}" coğrafyası hakkında detaylı metin yaz.
+
+Bilgiler:
+- Konum: ${area.il}${area.ilce ? ', ' + area.ilce : ''}
+${coords.latitude ? `- Koordinat: ${coords.latitude}°K, ${coords.longitude}°D` : ''}
+${areaSize ? `- Alan: ${areaSize.amount} km²` : ''}
+${elevation ? `- Yükseklik: ${elevation.amount} m` : ''}
+
+İçerik (200-250 kelime):
+- Kesin konum ve yakın yerler
+- Fiziksel özellikler (alan, yükseklik, jeoloji)
+- İklim özellikleri
+- Önemli coğrafi noktalar
+
+Metin döndür.`;
+
+  const completion = await groq.chat.completions.create({
+    messages: [
+      { role: 'system', content: SYSTEM_CONTEXT },
+      { role: 'user', content: prompt }
+    ],
+    model: 'llama-3.3-70b-versatile',
+    temperature: 0.1,
+    max_tokens: 700
+  });
+
+  return cleanText(completion.choices[0].message.content.trim(), area.ad);
+}
+
+/**
+ * 5. FLORA/FAUNA - Bilimsel ve spesifik
+ */
+async function generateFloraFauna(area) {
+  const isIsland = (area.alan_turu || area.tip || area.tur || '').toLowerCase().includes('ada');
+
+  const prompt = `"${area.ad}" flora ve fauna hakkında bilimsel metin yaz.
+
+${isIsland ? 'NOT: Bu bir ada - büyük memeliler yok. Kuşlar, küçük hayvanlar, deniz canlıları.' : ''}
+
+İçerik (200-250 kelime):
+- Bitki örtüsü (genel tanım + örnekler)
+- Hayvan türleri (kuşlar, memeliler vb.)
+- Endemik türler (varsa)
+- Koruma durumu
+
+Emin değilsen: "Detaylı bilgi bulunmamaktadır" de.
+
+Metin döndür.`;
+
+  const completion = await groq.chat.completions.create({
+    messages: [
+      { role: 'system', content: SYSTEM_CONTEXT },
+      { role: 'user', content: prompt }
+    ],
+    model: 'llama-3.3-70b-versatile',
+    temperature: 0.1,
+    max_tokens: 700
+  });
+
+  return cleanText(completion.choices[0].message.content.trim(), area.ad);
+}
+
+/**
+ * 6. ZİYARET BİLGİLERİ - Pratik ve dürüst
+ */
+async function generateZiyaret(area) {
+  const alanTuru = (area.alan_turu || area.tip || area.tur || '').toLowerCase();
+  const isIsland = alanTuru.includes('ada');
+
+  const prompt = `"${area.ad}" için KAPSAMLI ziyaret rehberi yaz.
+
+İçerik (200-300 kelime, minimum 3 paragraf):
+1. Ulaşım: ${isIsland ? 'Feribot/vapur bilgileri (varsa), kara yolu bağlantıları' : 'Nasıl gidilir? En yakın şehir, yol durumu'}
+2. Ne yapılır?: Aktiviteler, görülecek yerler, deneyimler
+3. Öneriler: En iyi mevsim, geceleme, öneriler
+
+${isIsland ? 'ÖZEL NOT: Adanın ulaşımında bisiklet/araç yasağı varsa belirt!' : ''}
+
+KURALLAR:
+- Emin olmadığın detayları yazma (fiyat, tam saat vb.)
+- Dürüst ol: "Güncel bilgi için yerel kaynaklara danışınız"
+- Pratik ve faydalı ipuçları ver
+- MİNİMUM 200 KELİME YAZ!
+
+JSON:
+{
+  "metin": "Detaylı ziyaret bilgileri (200-300 kelime, 3+ paragraf)",
+  "en_iyi_donem": "İlkbahar ve sonbahar",
+  "zorluk": "Kolay/Orta/Zor",
+  "tahmini_sure": "2-3 saat",
+  "aktiviteler": ["aktivite1", "aktivite2", "aktivite3"]
+}`;
+
+  const completion = await groq.chat.completions.create({
+    messages: [
+      { role: 'system', content: SYSTEM_CONTEXT },
+      { role: 'user', content: prompt }
+    ],
+    model: 'llama-3.3-70b-versatile',
+    temperature: 0.2,
+    max_tokens: 1000,
+    response_format: { type: 'json_object' }
+  });
+
+  const result = JSON.parse(completion.choices[0].message.content);
+  result.metin = cleanText(result.metin, area.ad);
+
+  // Aktiviteleri de temizle (özellikle Büyükada bisiklet için)
+  if (result.aktiviteler && Array.isArray(result.aktiviteler)) {
+    result.aktiviteler = result.aktiviteler.map(a => cleanText(a, area.ad));
+  }
+
+  return result;
+}
+
+/**
+ * 7. İLGİNÇ BİLGİLER - Spesifik ve ilginç
+ */
+async function generateIlgincBilgiler(area) {
+  const prompt = `"${area.ad}" hakkında 4-6 ilginç, spesifik bilgi.
+
+Kurallar:
+- Spesifik olgular (genel laflar değil)
+- Doğrulanabilir bilgiler
+- İlginç detaylar
+
+YASAK:
+- Sıralama (en büyük X'inci)
+- Ulaşım uydurma
+- Kesin olmayan tarih/kişi
+
+JSON:
+{
+  "bilgiler": ["Bilgi 1", "Bilgi 2", ...]
+}`;
+
+  const completion = await groq.chat.completions.create({
+    messages: [
+      { role: 'system', content: SYSTEM_CONTEXT },
+      { role: 'user', content: prompt }
+    ],
+    model: 'llama-3.3-70b-versatile',
+    temperature: 0.2,
+    max_tokens: 500,
+    response_format: { type: 'json_object' }
+  });
+
+  const result = JSON.parse(completion.choices[0].message.content);
+  if (result.bilgiler) {
+    result.bilgiler = result.bilgiler.map(b => cleanText(b, area.ad));
+  }
+  return result;
+}
+
+/**
+ * FULL CONTENT GENERATION
+ */
+async function generateFullContent(area, images) {
+  console.log(`\n📍 İşleniyor: ${area.ad} (${area.il || 'Unknown'})`);
+
+  try {
+    // Wikidata bilgilerini çek
+    console.log(`  📡 Wikidata bilgileri çekiliyor...`);
+    const wikidataInfo = await fetchWikidataInfo(area.wikidata_id || area.wikidata_qid);
+
+    // İl düzeltmesi (Türkiye olanlar için)
+    let il = area.il;
+    if (il === 'Türkiye' && WIKIDATA_IL_FIX[area.wikidata_id]) {
+      il = WIKIDATA_IL_FIX[area.wikidata_id];
+      console.log(`  🔧 İl düzeltildi: Türkiye → ${il}`);
+    }
+
+    console.log(`  🔄 7 bölüm için API call yapılacak...`);
+
+    // 1. Metadata
+    console.log(`  1/7 Metadata...`);
+    const metadata = await generateMetadata({ ...area, il }, wikidataInfo);
+
+    // 2. Genel Bakış
+    console.log(`  2/7 Genel Bakış...`);
+    const genelBakis = await generateGenelBakis({ ...area, il }, wikidataInfo);
+
+    // 3. Tarihçe
+    console.log(`  3/7 Tarihçe...`);
+    const tarihce = await generateTarihce({ ...area, il });
+
+    // 4. Coğrafya
+    console.log(`  4/7 Coğrafya...`);
+    const cografya = await generateCografya({ ...area, il }, wikidataInfo);
+
+    // 5. Flora/Fauna
+    console.log(`  5/7 Flora & Fauna...`);
+    const floraFauna = await generateFloraFauna(area);
+
+    // 6. Ziyaret
+    console.log(`  6/7 Ziyaret...`);
+    const ziyaret = await generateZiyaret(area);
+
+    // 7. İlginç Bilgiler
+    console.log(`  7/7 İlginç Bilgiler...`);
+    const ilgincBilgiler = await generateIlgincBilgiler(area);
+
+    // Frontmatter oluştur
+    const coords = wikidataInfo?.coords || area.koordinatlar || area.coordinates || {};
+    const alanTuru = area.alan_turu || area.tip || area.tur || 'doğal_alan';
+    const bolge = IL_BOLGE_MAP[il] || 'Türkiye';
+
+    // Kaynakları hazırla
+    const kaynaklar = area.kaynaklar || [
+      {
+        title: 'tr.wikipedia.org',
+        url: `https://tr.wikipedia.org/wiki/${encodeURIComponent(area.ad)}`,
+        tip: 'genel'
+      },
+      {
+        title: 'www.wikidata.org',
+        url: `http://www.wikidata.org/entity/${area.wikidata_id || area.wikidata_qid}`,
+        tip: 'genel'
+      }
+    ];
+
+    const frontmatter = {
+      title: metadata.title,
+      date: new Date().toISOString(),
+      draft: false,
+      type: 'alan',
+      alan_turu: alanTuru.toLowerCase().replace(/\s+/g, '_'),
+      il: il || 'Türkiye',
+      ilce: area.ilce || '',
+      bolge: bolge,
+      coordinates: (coords.latitude || coords.lat) ? {
+        lat: coords.latitude || coords.lat,
+        lon: coords.longitude || coords.lon
+      } : undefined,
+      ziyaret: {
+        en_iyi_donem: ziyaret.en_iyi_donem,
+        zorluk: ziyaret.zorluk,
+        tahmini_sure: ziyaret.tahmini_sure
+      },
+      aktiviteler: ziyaret.aktiviteler || [],
+      images: formatImages(images, area),
+      kaynaklar: kaynaklar,
+      description: metadata.description,
+      keywords: metadata.keywords,
+      schema_type: 'TouristAttraction',
+      wikidata_id: area.wikidata_id || area.wikidata_qid || ''
+    };
+
+    // Markdown içerik
+    const content = `---
+${Object.entries(frontmatter).filter(([_, v]) => v !== undefined && v !== '').map(([k, v]) => {
+  if (typeof v === 'object' && !Array.isArray(v)) {
+    return `${k}:\n${Object.entries(v).map(([k2, v2]) => `  ${k2}: ${JSON.stringify(v2)}`).join('\n')}`;
+  }
+  return `${k}: ${JSON.stringify(v)}`;
+}).join('\n')}
+---
+
+# ${area.ad}
+
+${genelBakis}
+
+## Tarihçe
+
+${tarihce}
+
+## Coğrafya
+
+${cografya}
+
+## Flora ve Fauna
+
+${floraFauna}
+
+## Ziyaret Bilgileri
+
+${ziyaret.metin}
+
+## İlginç Bilgiler
+
+${ilgincBilgiler.bilgiler.map(b => `- ${b}`).join('\n')}
+`;
+
+    // Dosya yaz
+    const filename = (area.id || area.ad.toLowerCase())
+      .replace(/ı/g, 'i').replace(/ğ/g, 'g').replace(/ü/g, 'u')
+      .replace(/ş/g, 's').replace(/ö/g, 'o').replace(/ç/g, 'c')
+      .replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+
+    const filepath = path.join(CONTENT_DIR, `${filename}.md`);
+    fs.writeFileSync(filepath, content, 'utf-8');
+
+    const imageInfo = images && images.length > 0 ? '✅ Görselli' : '📷 Görselsiz';
+    console.log(`  ✅ Oluşturuldu: ${filename}.md ${imageInfo}`);
+    return true;
+
+  } catch (error) {
+    console.error(`  ❌ Hata: ${error.message}`);
+    return false;
+  }
+}
+
+function formatImages(images, area) {
+  if (!images || images.length === 0) return {};
+
+  const validImages = images.filter(img => img && img.url);
+  if (validImages.length === 0) return {};
+
+  return {
+    hero: {
+      url: validImages[0].url,
+      alt: `${area.ad} manzarası`,
+      credit: validImages[0].credit || 'Wikimedia Commons',
+      license: validImages[0].license || 'CC BY-SA'
+    },
+    gallery: validImages.slice(1, 6).map(img => ({
+      url: img.url,
+      thumb: img.thumb || img.url,
+      alt: `${area.ad}${img.title ? ' - ' + img.title : ''}`,
+      credit: img.credit || 'Wikimedia Commons',
+      license: img.license || 'CC BY-SA'
+    }))
+  };
+}
+
+async function fetchWikimediaImages(searchTerm, limit = 5) {
+  try {
+    const response = await axios.get('https://commons.wikimedia.org/w/api.php', {
+      params: {
+        action: 'query',
+        format: 'json',
+        generator: 'search',
+        gsrsearch: `${searchTerm}`,
+        gsrlimit: limit,
+        prop: 'imageinfo',
+        iiprop: 'url|extmetadata',
+        iiurlwidth: 1200
+      },
+      timeout: 10000
+    });
+
+    if (!response.data.query) return [];
+
+    return Object.values(response.data.query.pages)
+      .filter(page => page.imageinfo && page.imageinfo[0])
+      .map(page => ({
+        url: page.imageinfo[0].url || '',
+        thumb: page.imageinfo[0].thumburl || page.imageinfo[0].url || '',
+        title: page.title?.replace('File:', '').replace(/\.[^/.]+$/, ''),
+        credit: page.imageinfo[0].extmetadata?.Artist?.value || 'Wikimedia Commons',
+        license: page.imageinfo[0].extmetadata?.License?.value || 'CC BY-SA'
+      }));
+  } catch (error) {
+    console.log(`  ⚠️ Görsel çekme hatası: ${error.message}`);
+    return [];
+  }
+}
+
+/**
+ * MAIN
+ */
+async function main() {
+  console.log('\n🚀 PREMIUM İçerik Üretimi v5 - TÜRKİYE\'NİN EN KALİTELİ TABİAT REHBERİ');
+  console.log('============================================================');
+  console.log('📊 Wikidata entegrasyonu + Premium promptlar + Zero bugs');
+  console.log('============================================================\n');
+
+  if (!fs.existsSync(CONTENT_DIR)) {
+    fs.mkdirSync(CONTENT_DIR, { recursive: true });
+  }
+
+  const mergedFiles = isTestMode
+    ? ['test-merged.json']
+    : fs.readdirSync(MASTER_LISTS_DIR).filter(f => f.endsWith('-merged.json'));
+
+  let totalProcessed = 0;
+  let totalSuccess = 0;
+
+  for (const file of mergedFiles) {
+    console.log(`\n📋 Liste: ${file}`);
+    const data = JSON.parse(fs.readFileSync(path.join(MASTER_LISTS_DIR, file), 'utf-8'));
+
+    console.log(`   Toplam alan sayısı: ${data.alanlar?.length || 0}`);
+
+    for (const area of data.alanlar || []) {
+      console.log(`  📸 Görseller aranıyor...`);
+      const images = await fetchWikimediaImages(area.ad, 5);
+      console.log(`  📸 ${images.length} görsel bulundu`);
+
+      const success = await generateFullContent(area, images);
+
+      if (success) totalSuccess++;
+      totalProcessed++;
+
+      await new Promise(resolve => setTimeout(resolve, 2000)); // Rate limit
+    }
+  }
+
+  console.log('\n============================================================');
+  console.log('✅ İçerik üretimi tamamlandı!');
+  console.log(`📊 İstatistikler:`);
+  console.log(`   - İşlenen alan: ${totalProcessed}`);
+  console.log(`   - Başarılı: ${totalSuccess}`);
+  console.log(`   - Başarısız: ${totalProcessed - totalSuccess}`);
+  console.log(`📁 Çıktı: ${CONTENT_DIR}`);
+  console.log('============================================================\n');
+}
+
+main();

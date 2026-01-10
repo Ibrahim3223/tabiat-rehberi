@@ -1,32 +1,211 @@
 {{ define "main" }}
-<div class="content-list">
-    <div class="container">
-        <header class="list-header">
-            <h1>{{ .Title }}</h1>
-            {{ if .Description }}
-            <p>{{ .Description }}</p>
-            {{ end }}
-        </header>
-
-        <div class="list-grid">
-            {{ range .Pages }}
-            <article class="list-item">
-                <h2>
-                    <a href="{{ .Permalink }}">{{ .Title }}</a>
-                </h2>
+<div class="list-page">
+    <!-- Hero Section -->
+    <div class="list-hero">
+        <div class="list-hero-overlay"></div>
+        <div class="container">
+            <div class="list-hero-content">
                 {{ if .Params.il }}
-                <p class="meta">📍 {{ .Params.il }}{{ if .Params.ilce }}, {{ .Params.ilce }}{{ end }}</p>
+                <span class="list-badge">
+                    <i data-lucide="map-pin"></i>
+                    {{ .Params.bolge }} Bölgesi
+                </span>
+                {{ else if eq .Section "turler" }}
+                <span class="list-badge">
+                    <i data-lucide="layers"></i>
+                    Alan Türleri
+                </span>
+                {{ else if eq .Section "iller" }}
+                <span class="list-badge">
+                    <i data-lucide="map-pin"></i>
+                    Bölgeler
+                </span>
                 {{ end }}
+                <h1 class="list-title">{{ .Title }}</h1>
                 {{ if .Description }}
-                <p class="excerpt">{{ .Description }}</p>
+                <p class="list-description">{{ .Description }}</p>
                 {{ end }}
-            </article>
-            {{ end }}
+            </div>
         </div>
+    </div>
 
-        {{ if .Paginator }}
-        {{ template "_internal/pagination.html" . }}
-        {{ end }}
+    <!-- Breadcrumb -->
+    <div class="breadcrumb-section">
+        <div class="container">
+            <nav class="breadcrumb" aria-label="Breadcrumb">
+                <a href="/">
+                    <i data-lucide="home" style="width: 16px; height: 16px;"></i>
+                    <span>Ana Sayfa</span>
+                </a>
+                {{ if .Parent }}
+                <i data-lucide="chevron-right" style="width: 14px; height: 14px;"></i>
+                <a href="{{ .Parent.Permalink }}">{{ .Parent.Title }}</a>
+                {{ end }}
+                <i data-lucide="chevron-right" style="width: 14px; height: 14px;"></i>
+                <span class="current">{{ .Title }}</span>
+            </nav>
+        </div>
+    </div>
+
+    <!-- Content Area -->
+    <div class="list-content">
+        <div class="container">
+            <!-- SEÇİLEBİLİR KARTLAR EN ÜSTTE (İller/Türler) -->
+            {{ if .Pages }}
+            <div class="list-section">
+                <div class="section-header-inline">
+                    <h2>
+                        <i data-lucide="folder-open"></i>
+                        {{ if eq .Section "turler" }}Alan Türleri{{ else if eq .Section "iller" }}Tüm İller{{ else }}İçerikler{{ end }}
+                    </h2>
+                    <span class="item-count">{{ len .Pages }} öğe</span>
+                </div>
+
+                <div class="list-grid">
+                    {{ range .Pages.ByTitle }}
+                    <a href="{{ .Permalink }}" class="list-card">
+                        <div class="list-card-icon">
+                            {{ if eq $.Section "turler" }}
+                            <i data-lucide="layers"></i>
+                            {{ else if eq $.Section "iller" }}
+                            <i data-lucide="map-pin"></i>
+                            {{ else }}
+                            <i data-lucide="file-text"></i>
+                            {{ end }}
+                        </div>
+                        <div class="list-card-content">
+                            <h3>{{ .Title }}</h3>
+                        </div>
+                        <div class="list-card-arrow">
+                            <span>İncele</span>
+                            <i data-lucide="chevron-right"></i>
+                        </div>
+                    </a>
+                    {{ end }}
+                </div>
+            </div>
+            {{ end }}
+
+            <!-- 2. BU İL/TÜRDEKİ ALANLAR (Kartlar + Sayfalama) -->
+            {{ $areas := slice }}
+            {{ if .Params.il }}
+                {{ $areas = where .Site.RegularPages "Type" "alan" }}
+                {{ $areas = where $areas "Params.il" .Title }}
+            {{ else if .Params.tur }}
+                {{ $areas = where .Site.RegularPages "Type" "alan" }}
+                {{ $areas = where $areas "Params.alan_turu" .Params.tur }}
+            {{ end }}
+
+            {{ if gt (len $areas) 0 }}
+            <div class="areas-section">
+                <div class="section-header-inline">
+                    <h2>
+                        <i data-lucide="compass"></i>
+                        {{ if .Params.il }}{{ .Title }}'daki Doğal Alanlar{{ else if .Params.tur }}Bu Kategorideki Alanlar{{ else }}Alanlar{{ end }}
+                    </h2>
+                    <span class="item-count">{{ len $areas }} alan</span>
+                </div>
+
+                {{ $paginator := .Paginate $areas }}
+                <div class="areas-grid">
+                    {{ range $paginator.Pages }}
+                    <a href="{{ .Permalink }}" class="area-card">
+                        {{ if .Params.images.hero.url }}
+                        <div class="area-card-image">
+                            <img src="{{ .Params.images.hero.url }}" alt="{{ .Title }}" loading="lazy">
+                            <div class="area-card-overlay">
+                                <span class="area-card-type">
+                                    {{ .Params.alan_turu | humanize }}
+                                </span>
+                            </div>
+                        </div>
+                        {{ else }}
+                        <div class="area-card-image area-card-placeholder">
+                            <i data-lucide="image" style="width: 48px; height: 48px;"></i>
+                        </div>
+                        {{ end }}
+                        <div class="area-card-content">
+                            <h3 class="area-card-title">{{ .Title }}</h3>
+                            <p class="area-card-location">
+                                <i data-lucide="map-pin"></i>
+                                {{ .Params.il }}{{ if .Params.ilce }}, {{ .Params.ilce }}{{ end }}
+                            </p>
+                            {{ if .Description }}
+                            <p class="area-card-desc">{{ .Description | truncate 100 }}</p>
+                            {{ end }}
+                        </div>
+                    </a>
+                    {{ end }}
+                </div>
+
+                {{ if gt $paginator.TotalPages 1 }}
+                <nav class="pagination">
+                    {{ if $paginator.HasPrev }}
+                    <a href="{{ $paginator.Prev.URL }}" class="pagination-btn pagination-prev">
+                        <i data-lucide="chevron-left"></i>
+                        <span>Önceki</span>
+                    </a>
+                    {{ end }}
+                    <div class="pagination-numbers">
+                        {{ range $paginator.Pagers }}
+                        <a href="{{ .URL }}" class="pagination-number {{ if eq .PageNumber $paginator.PageNumber }}active{{ end }}">
+                            {{ .PageNumber }}
+                        </a>
+                        {{ end }}
+                    </div>
+                    {{ if $paginator.HasNext }}
+                    <a href="{{ $paginator.Next.URL }}" class="pagination-btn pagination-next">
+                        <span>Sonraki</span>
+                        <i data-lucide="chevron-right"></i>
+                    </a>
+                    {{ end }}
+                </nav>
+                {{ end }}
+            </div>
+            {{ end }}
+
+            <!-- 3. İÇERİK AÇIKLAMASI EN ALTTA -->
+            {{ if .Content }}
+            <div class="list-intro">
+                {{ .Content }}
+            </div>
+            {{ end }}
+
+            <!-- Related Links -->
+            <div class="related-section">
+                <h3>İlgili Sayfalar</h3>
+                <div class="related-links">
+                    {{ if eq .Section "turler" }}
+                    <a href="/iller/" class="related-link">
+                        <i data-lucide="map-pin"></i>
+                        <span>İllere Göre Keşfet</span>
+                    </a>
+                    <a href="/alanlar/" class="related-link">
+                        <i data-lucide="compass"></i>
+                        <span>Tüm Alanlar</span>
+                    </a>
+                    {{ else if eq .Section "iller" }}
+                    <a href="/turler/" class="related-link">
+                        <i data-lucide="layers"></i>
+                        <span>Türlere Göre Keşfet</span>
+                    </a>
+                    <a href="/alanlar/" class="related-link">
+                        <i data-lucide="compass"></i>
+                        <span>Tüm Alanlar</span>
+                    </a>
+                    {{ else }}
+                    <a href="/turler/" class="related-link">
+                        <i data-lucide="layers"></i>
+                        <span>Alan Türleri</span>
+                    </a>
+                    <a href="/iller/" class="related-link">
+                        <i data-lucide="map-pin"></i>
+                        <span>İller</span>
+                    </a>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 {{ end }}

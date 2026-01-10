@@ -1,8 +1,893 @@
 {
   "meta": {
-    "kaynak": "Manuel eklenecek",
+    "kaynak": "Wikipedia - Türkiye'deki_göller",
     "guncelleme_tarihi": "2026-01-05",
-    "toplam_sayi": 0
+    "toplam_sayi": 52
   },
-  "alanlar": []
+  "alanlar": [
+    {
+      "id": "turkiyedeki-goller-listesi",
+      "ad": "Türkiye'deki göller listesi",
+      "tur": "gol",
+      "il": "Bilinmiyor",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/T%C3%BCrkiye'deki%20g%C3%B6ller%20listesi"
+      ],
+      "notlar": "Türkiye'deki göller listesi, Türkiye'deki göllerin büyüklüğüne veya önemine göre listelenmiş ve alfabetik olarak sıralanmış bir listedir."
+    },
+    {
+      "id": "akdogan-golu",
+      "ad": "Akdoğan Gölü",
+      "tur": "gol",
+      "il": "Muş",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Akdo%C4%9Fan%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Akdoğan Gölü ya da Hamurpet Gölü, Muş ili Varto ilçesi sınırları içinde yer alan volkanik göldür.\n\nAkdoğan Dağları'nın batısında Büyük Hamurpet ve Küçük Hamurpet gölü adıyla birbirine çok yakın iki gö"
+    },
+    {
+      "id": "aktas-golu",
+      "ad": "Aktaş Gölü",
+      "tur": "gol",
+      "il": "Ardahan",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Akta%C5%9F%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Aktaş Gölü (Gürcüce: კარწახის ტბა / Kartzahi Gölü), Ardahan iliyle Gürcistan sınırında bulunan tektonik oluşumlu bir göldür. Gölün kıyısında yer alan Kenarbel köyünün Gürcüce eski adından dolayı Kenar"
+    },
+    {
+      "id": "amik-golu",
+      "ad": "Amik Gölü",
+      "tur": "gol",
+      "il": "Hatay",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Amik%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Amik Gölü (Arapça: بحيرة العمق); Hatay ilinde, Asi (Orontes) Nehri havzasında büyük bir tatlı su gölüdür ve Antioch (Antakya) antik kentinin (modern Antakya) kuzeydoğusunda bulunur. Göl, 1940'lardan 1"
+    },
+    {
+      "id": "arin-golu",
+      "ad": "Arin Gölü",
+      "tur": "gol",
+      "il": "Bitlis",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Arin%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Arin gölü (Sodalı Göl) Bitlis ili Adilcevaz ilçesi sınırlarında, Van Gölünün kuzey kıyısında yer alan bir göldür. Göl Van gölünün 5 m kadar daha yüksek olduğu zamandan kalmıştır. Van gölünden dalga ve"
+    },
+    {
+      "id": "artabel-golleri-tabiat-parki",
+      "ad": "Artabel Gölleri Tabiat Parkı",
+      "tur": "gol",
+      "il": "Gümüşhane",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Artabel%20G%C3%B6lleri%20Tabiat%20Park%C4%B1"
+      ],
+      "notlar": "Artebel Gölleri Tabiat Parkı, Gümüşhane'nin Torul ilçesindeki bir tabiat parkıdır. 1998 yılında tabiat parkı ilan edilen bölge, buzul çağında oluştuğu düşünülen ve Gülaçar köyü sınırlarında kalan beş "
+    },
+    {
+      "id": "aygir-golu-trabzon",
+      "ad": "Aygır Gölü (Trabzon)",
+      "tur": "gol",
+      "il": "Trabzon",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ayg%C4%B1r%20G%C3%B6l%C3%BC%20(Trabzon)"
+      ],
+      "notlar": "Aygır Gölü, Trabzon'un Çaykara ilçesindeki bir göldür."
+    },
+    {
+      "id": "bafa-golu",
+      "ad": "Bafa Gölü",
+      "tur": "gol",
+      "il": "Aydın",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Bafa%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Bafa Gölü (Çamiçi  Gölü olarak da bilinir, eskiden Vafi Denizi), Ege Bölgesi'nin en büyük gölü.\nBafa Gölü, Büyük Menderes Nehri deltasının güneydoğu kesiminde, Menteşe Dağlarının içine sokulmuş sığ bi"
+    },
+    {
+      "id": "balik-golu",
+      "ad": "Balık Gölü",
+      "tur": "gol",
+      "il": "Ağrı",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Bal%C4%B1k%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Balık Gölü, Doğu Anadolu Bölgesi'nde, Aras Dağları üzerinde Türkiye'nin en yüksek göllerinden biridir. Ağrı ili sınırları içerisinde yer alan ve oluşum bakımından volkanik set gölü olan bu göl, 30 km²"
+    },
+    {
+      "id": "balikligol",
+      "ad": "Balıklıgöl",
+      "tur": "gol",
+      "il": "Adana",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Bal%C4%B1kl%C4%B1g%C3%B6l"
+      ],
+      "notlar": "Balıklıgöl (Ayn-i Zeliha ve Halil-Ür Rahman Gölleri), Şanlıurfa şehir merkezinin güneybatısında yer alan ve İbrahim peygamberin ateşe atıldığına inanılan bu iki göl, İslam alemi için kutsal sayılan ba"
+    },
+    {
+      "id": "boraboy-golu",
+      "ad": "Boraboy Gölü",
+      "tur": "gol",
+      "il": "Amasya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Boraboy%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Boraboy Gölü, Amasya'nın Taşova ilçesine yaklaşık 25 km uzaklıkta ve Boraboy köyünün batısında olan, doğal bir heyelan set gölü.\n\nBoraboy Gölü'nün oluşumunu hazırlayan heyelan, bölgenin hem egemen kay"
+    },
+    {
+      "id": "cavuscu-golu",
+      "ad": "Çavuşçu Gölü",
+      "tur": "gol",
+      "il": "Konya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C3%87avu%C5%9F%C3%A7u%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Çavuşçu Gölü veya Ilgın Gölü, Konya ili, Ilgın ilçesi sınırlarında bulunan tatlı sulu, tektonik bir göldür. Doğanhisar Çayı, Çiğil Deresi ve Bulcuk Çayı ile beslenir.\nÇavuşçu Gölü, 27 km² alana sahip,"
+    },
+    {
+      "id": "cildir-golu",
+      "ad": "Çıldır Gölü",
+      "tur": "gol",
+      "il": "Ardahan",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C3%87%C4%B1ld%C4%B1r%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Çıldır Gölü, Ardahan ve Kars il sınırları içerisinde kalan bir göldür. Eskiden Palakatsio Gölü olarak adlandırılıyordu.\nÇıldır Gölü, 123 km2 alanı ile Doğu Anadolu Bölgesi'nin en büyük tatlı su ve en "
+    },
+    {
+      "id": "col-golu",
+      "ad": "Çöl Gölü",
+      "tur": "gol",
+      "il": "Ankara",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C3%87%C3%B6l%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Çöl Gölü, Ankara'nın 75 km güneyinde, Haymana ve Balâ arasında 15 km² büyüklüğünde suları acı olan bir göl. Denizden yüksekliği 1045 m'dir. Derelerle beslenen ve sığ olan göl yazın önemli ölçüde kurum"
+    },
+    {
+      "id": "dalyan-golu-edirne",
+      "ad": "Dalyan Gölü, Edirne",
+      "tur": "gol",
+      "il": "Edirne",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Dalyan%20G%C3%B6l%C3%BC%2C%20Edirne"
+      ],
+      "notlar": "Dalyan Gölü, Edirne ilinde Meriç nehrinin Ege Denizi'ne döküldüğü alanda oluşan göl. Denizle bağlantısı olan gölde dalyan balıkçılığı yapılır.\nMeriç Deltası'nda  oluşan bir grup gölün en büyüğüdür. Ol"
+    },
+    {
+      "id": "dil-golu",
+      "ad": "Dil Gölü",
+      "tur": "gol",
+      "il": "Bilinmiyor",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Dil%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Dil Gölü veya Karine Lagünü, Dilek Yarımadası - Büyük Menderes Deltası Millî Parkı sınırları içinde, Dilek Dağı'nın güneyinde kalan toplam 2100 hektar alana sahip bir göldür. Büyük Menderes nehrinin d"
+    },
+    {
+      "id": "dipsiz-gol-erzurum",
+      "ad": "Dipsiz Göl (Erzurum)",
+      "tur": "gol",
+      "il": "Erzurum",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Dipsiz%20G%C3%B6l%20(Erzurum)"
+      ],
+      "notlar": "Dipsiz Göl, Erzurum'un Pazaryolu ilçesinde bulunan, Göztepe Mahallesine ait Tektonik-Karstik bir göldür. Gölün derinliği bilinmediğinden dolayı bu ismi almıştır. Amatörce yapılan ölçümlere göre derinl"
+    },
+    {
+      "id": "duden-golu",
+      "ad": "Düden Gölü",
+      "tur": "gol",
+      "il": "Konya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/D%C3%BCden%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Düden Gölü (Kulu Gölü), Konyanın Kulu ilçesi sınırında, denizden 950 m yüksekliğinde, 800 hektar büyüklüğünde, tektonik göldür."
+    },
+    {
+      "id": "efteni-golu",
+      "ad": "Efteni Gölü",
+      "tur": "gol",
+      "il": "Düzce",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.77665556,
+        "lon": 31.04835
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Efteni%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Efteni Gölü, Düzce ili sınırlarında, Merkez ve Gölyaka ilçe sınırlarında yer alan, tektonik oluşumlu, tatlı su gölü. Düzce merkezin 10 km güneybatısı, Gölyaka merkezin 2 km doğusunda yer alır. Göl çev"
+    },
+    {
+      "id": "egirdir-golu",
+      "ad": "Eğirdir Gölü",
+      "tur": "gol",
+      "il": "Isparta",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/E%C4%9Firdir%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Eğirdir Gölü, Isparta ili sınırlarında yer alan, tektonik ve karstik etkilerle oluşmuş, bir tatlı su gölüdür.\n35° 37′ 41″ Kuzey – 38° 16′ 55″ Kuzey enlemleri ile; 30° 44′′ 39″″ Doğu – 30° 57′ 43″ Doğu"
+    },
+    {
+      "id": "gaga-golu",
+      "ad": "Gaga Gölü",
+      "tur": "gol",
+      "il": "Kars",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Gaga%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Gaga (Grago) Gölü, Ordu'nun Fatsa ilçesinde, Fatsa-Aybastı karayolunun 8. kilometresinde ve Yassıtaş, Fatsa mahallesinde yer alan, heyelan neticesinde oluşmuş bir göldür.\nGaga Gölü heyelan sonucunda o"
+    },
+    {
+      "id": "gala-golu",
+      "ad": "Gala Gölü",
+      "tur": "gol",
+      "il": "Edirne",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Gala%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Gala Gölü (Çeltik ya da Yala olarak da bilinir), Meriç deltasında, Edirne'de, Enez ilçe merkezinin yaklaşık 7 km kuzeydoğusunda bulunan sığ göl.\nEskiden daha geniş olan alanı drenaj çalışmaları sonucu"
+    },
+    {
+      "id": "girdev-golu",
+      "ad": "Girdev Gölü",
+      "tur": "gol",
+      "il": "Muğla",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Girdev%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Girdev Gölü, Muğla’nın Seydikemer ilçesinde bulunan tek göl özelliğine sahip olan 4041 hektarlık bir alana sahiptir ve 30.12.2022 tarihinde koruma altına alınmıştır.\nDünya’daki en önemli kuş türleri b"
+    },
+    {
+      "id": "gokpinar-golu",
+      "ad": "Gökpınar Gölü",
+      "tur": "gol",
+      "il": "Muş",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/G%C3%B6kp%C4%B1nar%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Gökpınar Gölü, Sivas'ın Gürün ilçe merkezine 10 kilometre mesafede bulunan, alüvyon birikimi sonucu uzun yıllar içerisinde oluşmuş bir göldür. Gölünün alanı 3000 metrekare olup, 1500 ile 2000 rakım ar"
+    },
+    {
+      "id": "golcuk-golu-izmir",
+      "ad": "Gölcük Gölü (İzmir)",
+      "tur": "gol",
+      "il": "İzmir",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/G%C3%B6lc%C3%BCk%20G%C3%B6l%C3%BC%20(%C4%B0zmir)"
+      ],
+      "notlar": "Gölcük Gölü, Türkiye'nin İzmir ilinde yer alan alüvyal set gölüdür. Ödemiş ilçesine bağlı Gölcük Mahallesi sınırları içerisindedir. Göl alanı 0,941 km², en derin yeri 7 m, göl hacmi 1.814 m³'tür. Bozd"
+    },
+    {
+      "id": "hacli-golu",
+      "ad": "Haçlı Gölü",
+      "tur": "gol",
+      "il": "Muş",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ha%C3%A7l%C4%B1%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Haçlı Gölü, Kazan gölü ya da Bulanık Gölü, Muş'un Bulanık ilçesinin güneyinde bulunan volkanik set gölüdür.\nGöl \"Haçlı\" ismini güneyindeki Haçlı (Gölyanı) köyünden; \"Bulanık\" ismini ise suyunun bulanı"
+    },
+    {
+      "id": "haydarlar-golu",
+      "ad": "Haydarlar Gölü",
+      "tur": "gol",
+      "il": "Hatay",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Haydarlar%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Haydarlar Gölü, Hatay ilinin İskenderun ilçesinde yer alan bir tatlı su gölüdür.\nYaklaşık 6 km²'lik büyük bir göl, önemli bir sulak alan ve doğal yaşam alanıdır. Etrafı tarım arazileri ile çevrili ola"
+    },
+    {
+      "id": "hazar-golu",
+      "ad": "Hazar Gölü",
+      "tur": "gol",
+      "il": "Elazığ",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Hazar%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Hazar Gölü, diğer adıyla Gölcük Gölü, Türkiye'nin Elazığ ilinde yer alan, güneybatı-kuzeydoğu doğrultusunda uzanan tektonik bir göldür."
+    },
+    {
+      "id": "isikli-golu",
+      "ad": "Işıklı Gölü",
+      "tur": "gol",
+      "il": "Denizli",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/I%C5%9F%C4%B1kl%C4%B1%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Işıklı Gölü ya da Çivril Gölü, Denizli ili Çivril Ovası üzerinde yer alan bir tatlı su gölüdür. Büyük Menderes ırmağı Işıklı Gölü'nden çıkar. Göl yazın karasal tarımda sulama amacıyla kullanılması ned"
+    },
+    {
+      "id": "kacarlar-goleti",
+      "ad": "Kacarlar Göleti",
+      "tur": "gol",
+      "il": "Tunceli",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kacarlar%20G%C3%B6leti"
+      ],
+      "notlar": "Kacarlar Göleti, Tunceli ilinin Pertek ilçesindeki Kacarlar köyünün güney doğusunda bulunan bir gölettir."
+    },
+    {
+      "id": "kmil-abdus-golu",
+      "ad": "Kâmil Abduş Gölü",
+      "tur": "gol",
+      "il": "İstanbul",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/K%C3%A2mil%20Abdu%C5%9F%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Kâmil Abduş Gölü, Tuzla Gölü ya da Balık Gölü, İstanbul'un Anadolu Yakası'nda, Tuzla ilçesi kıyısında bulunan bir lagün gölüdür. Yaklaşık 300 hektarlık bir alan kaplayan göl, doğal ve yapay engellerle"
+    },
+    {
+      "id": "karakiz-goleti",
+      "ad": "Karakız Göleti",
+      "tur": "gol",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Karak%C4%B1z%20G%C3%B6leti"
+      ],
+      "notlar": "Karakız Göleti Mersin ili Erdemli ilçesi kırsal alanında yer alan yapay bir gölettir. 36°51′K 34°23′D koordinatlarındaki gölet Tömük Çayı üst çığırındadır.\nDenizden 1530 metre yükseklikte bir platoda "
+    },
+    {
+      "id": "karatas-golu",
+      "ad": "Karataş Gölü",
+      "tur": "gol",
+      "il": "Burdur",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Karata%C5%9F%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Karataş Gölü Burdur, Tefenni ovasında yer alan küçük ve sığ bir tatlı su gölüdür.\nKaramanlı ilçe sınırlarında ve 1190 hektar büyüklüğündedir. Uluslararası sulak alanlar listesinde bulunan göl, 1985 yı"
+    },
+    {
+      "id": "kaz-golu",
+      "ad": "Kaz Gölü",
+      "tur": "gol",
+      "il": "Tokat",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kaz%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Kaz Gölü, Tokat ilinde, Zile-Pazar yolu üzerinde Üzümören beldesi yakınlarındaki tektonik göldür. Turhal'da Pazar ilçe sınırına yakın, Kazova'da yer alır.\n\n"
+    },
+    {
+      "id": "keremali-golu",
+      "ad": "Keremali gölü",
+      "tur": "gol",
+      "il": "Balıkesir",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Keremali%20g%C3%B6l%C3%BC"
+      ],
+      "notlar": "Keremali Gölü, Çanakkale sınırlarında yer almaktadır. Gölün yüzölçümü yaklaşık olarak 11 kilometre karedir. Göl çevresinde bulunan yerleşim yerlerinin içme ve sulama suyu ihtiyacını karşılar. Bu gölde"
+    },
+    {
+      "id": "limni-golu",
+      "ad": "Limni Gölü",
+      "tur": "gol",
+      "il": "Gümüşhane",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Limni%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Limni Gölü, Gümüşhane'nin Torul ilçesindeki Zigana köyünde bulunan bir göldür. Ladin, sarıçam, ardıç, göknar, böğürtlen, mor çiçekli orman gülü ve sarı çiçekli orman gülü bitkileriyle çevrili olan Lad"
+    },
+    {
+      "id": "manyas-kusgolu",
+      "ad": "Manyas Kuşgölü",
+      "tur": "gol",
+      "il": "Balıkesir",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Manyas%20Ku%C5%9Fg%C3%B6l%C3%BC"
+      ],
+      "notlar": "Manyas Kuşgölü, tamamı idari olarak Balıkesir ilinin Bandırma ilçesi sınırlarında yer alan tektonik göl. Göl, Marmara Denizi'nin güneyinde, Uludağ ile Biga Yarımadası arasında uzanan bir çöküntü alanı"
+    },
+    {
+      "id": "mucur-obrugu",
+      "ad": "Mucur Obruğu",
+      "tur": "gol",
+      "il": "Kırşehir",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Mucur%20Obru%C4%9Fu"
+      ],
+      "notlar": "Mucur Obruğu, Kırşehir ili, Mucur ilçesi sınırlarındaki obruktur.\nObruk tabanında buluna Eosen yaşlı kireçtaşının çözünmesi ile oluşmuştur. Kırlangıç Tepe'nin güney yamaçlarında, dairevi yapıda, 50 m "
+    },
+    {
+      "id": "nazik-golu",
+      "ad": "Nazik Gölü",
+      "tur": "gol",
+      "il": "Bitlis",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Nazik%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Nazik Gölü, Bitlis ili Ahlat ilçesinin kuzeybatısında yer alır.\nVan Gölü'ne 25 km uzaklıkta kalmaktadır."
+    },
+    {
+      "id": "palas-tuzla-golu",
+      "ad": "Palas Tuzla Gölü",
+      "tur": "gol",
+      "il": "Kayseri",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Palas%20Tuzla%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Palas Tuzla Gölü, Kayseri ili, Sarıoğlan ilçe sınırlarında bulunan tektonik oluşumlu  tuzlu göldür. Yüzey rakımı 1131 m, uzunluğu 8 km, genişliği 8 km, alanı 23,5 km2'dir. Faylar ile çevrelenen, kapal"
+    },
+    {
+      "id": "saka-golu-tabiati-koruma-alani",
+      "ad": "Saka Gölü Tabiatı Koruma Alanı",
+      "tur": "gol",
+      "il": "Kırklareli",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Saka%20G%C3%B6l%C3%BC%20Tabiat%C4%B1%20Koruma%20Alan%C4%B1"
+      ],
+      "notlar": "Saka Gölü Tabiatı Koruma Alanı, ismini Saka Gölü'nden alan ve Kırklareli, Demirköy mahallesinde bulunan bir doğa koruma alanıdır. İğneada Taşkın Ormanları Milli Parkı sınırları içerisindedir.\nToplamda"
+    },
+    {
+      "id": "salda-golu",
+      "ad": "Salda Gölü",
+      "tur": "gol",
+      "il": "Burdur",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Salda%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Salda Gölü, Burdur'un Yeşilova ilçesinde, ilçe merkezine 4 km uzaklıkta, ormanla kaplı tepeler, kayalık araziler ve küçük alüvyal ovalarla çevrili hafif tuzlu karstik bir göldür. Göller Yöresi içinde,"
+    },
+    {
+      "id": "sapanca-golu",
+      "ad": "Sapanca Gölü",
+      "tur": "gol",
+      "il": "Kocaeli",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Sapanca%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Sapanca Gölü, Türkiye'nin Sakarya ve Kocaeli illerinde yer alan bir göldür. Arifiye, Sapanca, Serdivan ve Kartepe ilçelerinin sınırları içerisindedir.\nSapanca Gölü, Doğu Marmara Bölgesi'nde, Sakarya i"
+    },
+    {
+      "id": "sarikum-golu",
+      "ad": "Sarıkum Gölü",
+      "tur": "gol",
+      "il": "Muş",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Sar%C4%B1kum%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Sarıkum Gölü, Sinop Yarımadasının batısında, eski bir koyun kıyı kordonu ile kapanması sonucu oluşmuş hafif tuzlu sığ bir lagün gölüdür.\nSarıkum Gölü, Orta Karadeniz Bölgesinde, Sinop il merkezinin 21"
+    },
+    {
+      "id": "sera-golu",
+      "ad": "Sera Gölü",
+      "tur": "gol",
+      "il": "Muş",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Sera%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Sera Gölü, Trabzon'un Akçaabat ilçesi sınırları içerisinde bulunan bir heyelan set gölüdür. Göl, Yıldızlı ve Derecik belediyelerinin arasında yer alan Derecik Vadisi'nde oluşmuştur. İsmini hudutları i"
+    },
+    {
+      "id": "seyfe-golu",
+      "ad": "Seyfe Gölü",
+      "tur": "gol",
+      "il": "Kırşehir",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Seyfe%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Seyfe Gölü, Kırşehir'in 35 kilometre doğusunda bulunan sığ, 15 km² alana sahip tektonik göl. Denizden 1080 metre yükseklikte olan gölün bulunduğu Seyfe Ovası'nın tamamı 152.200 hektardır. Bunun 1550 h"
+    },
+    {
+      "id": "simav-golu",
+      "ad": "Simav Gölü",
+      "tur": "gol",
+      "il": "Kilis",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Simav%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Simav Gölü, Simav ilçesinin kuzeybatısında Simav Ovası'nda bulunan şu anda 5 km2'lik bir alana sahip olan göl, sazlık ve bataklıktır. 1967 yılında DSİ tarafından Kilise köyde şimdiki adıyla Boğazköy d"
+    },
+    {
+      "id": "tahtali-goleti",
+      "ad": "Tahtalı Göleti",
+      "tur": "gol",
+      "il": "Kocaeli",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Tahtal%C4%B1%20G%C3%B6leti"
+      ],
+      "notlar": "Tahtalı Göleti, Kocaeli ilinin Derince ilçesindeki Tahtalı mahallesinde bulunan Türkiye'nin en büyük göletlerinden birisidir."
+    },
+    {
+      "id": "tuz-golu",
+      "ad": "Tuz Gölü",
+      "tur": "gol",
+      "il": "Aksaray",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Tuz%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Tuz Gölü, Türkiye'nin İç Anadolu Bölgesi'nde Ankara, Konya ve Aksaray illerinin sınırının kesiştiği yerde yer alan tuz gölüdür. Türkiye'nin tuz ihtiyacının %40'ı bu gölden sağlanır. Tuz Gölü'nde tuz, "
+    },
+    {
+      "id": "uzungol",
+      "ad": "Uzungöl",
+      "tur": "gol",
+      "il": "Muş",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Uzung%C3%B6l"
+      ],
+      "notlar": "Uzungöl, Türkiye'nin Trabzon ilinde yer alan bir heyelan set gölüdür. Çaykara ilçesinin Uzungöl Mahallesi'nde bulunur. Yamaçlardan düşen kayaların, Haldizen deresinin önünü kapatmasıyla oluşmuştur. Uz"
+    },
+    {
+      "id": "yarisli-golu",
+      "ad": "Yarışlı Gölü",
+      "tur": "gol",
+      "il": "Burdur",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Yar%C4%B1%C5%9Fl%C4%B1%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Yarışlı gölü, Burdur'da, Yeşilova ilçesi sınırlarında yer alır. Harmanlı, Yarışlı, Sazak, Kocapınar ve Düğer köyleri arasında, genişliği 16 km², derinliği 4 m olan karstik göldür. Göl içinde küçük bir"
+    },
+    {
+      "id": "yay-golu",
+      "ad": "Yay Gölü",
+      "tur": "gol",
+      "il": "Kayseri",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Yay%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Yay Gölü, Türkiye'nin Kayseri ilinde yer alan bir göldür. Erciyes Dağı'nın güneyinde, Develi-Yahyalı-Yeşilhisar-İncesu kasabaları arasında uzanan volkanik kapalı havzaya Sultan Sazlığı-Yay Gölü adı ve"
+    }
+  ]
 }

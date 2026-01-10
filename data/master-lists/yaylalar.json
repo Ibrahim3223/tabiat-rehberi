@@ -1,8 +1,26 @@
 {
   "meta": {
-    "kaynak": "Manuel eklenecek",
+    "kaynak": "Wikipedia - Türkiye'deki_yaylalar",
     "guncelleme_tarihi": "2026-01-05",
-    "toplam_sayi": 0
+    "toplam_sayi": 1
   },
-  "alanlar": []
+  "alanlar": [
+    {
+      "id": "anadolu-yaylasi",
+      "ad": "Anadolu Yaylası",
+      "tur": "yayla",
+      "il": "Bilinmiyor",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Anadolu%20Yaylas%C4%B1"
+      ],
+      "notlar": "Anadolu Yaylası ya da Anadolu Platosu, az ovalı, çok dağlı ve geniş alanları bunların arasındaki yüksek düzlükler olan yerdir. Türkiye, ortalama yüksekliği 1000 m ile yüksek bir yayladır. Orta ve güne"
+    }
+  ]
 }

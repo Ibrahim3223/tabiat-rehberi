@@ -1,8 +1,774 @@
 {
   "meta": {
-    "kaynak": "Manuel eklenecek",
+    "kaynak": "Wikipedia - Türkiye'deki_şelaleler",
     "guncelleme_tarihi": "2026-01-05",
-    "toplam_sayi": 0
+    "toplam_sayi": 45
   },
-  "alanlar": []
+  "alanlar": [
+    {
+      "id": "turkiyedeki-selaleler-listesi",
+      "ad": "Türkiye'deki şelaleler listesi",
+      "tur": "selalesi",
+      "il": "Adana",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/T%C3%BCrkiye'deki%20%C5%9Felaleler%20listesi"
+      ],
+      "notlar": "Şelale, bir nehir veya çay yatağının dike yakın bir biçimde âniden düşmesi, akarsuyun yüksekten dökülerek akmasıdır. Akarsu daha küçük ve döküldüğü yükseklik daha az ise bu coğrafi oluşum çağlayan adı"
+    },
+    {
+      "id": "asmasu-selalesi",
+      "ad": "Asmasu Şelalesi",
+      "tur": "selalesi",
+      "il": "Trabzon",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Asmasu%20%C5%9Eelalesi"
+      ],
+      "notlar": "Asmasu Şelalesi veya Aytaş Asmasu Şelalesi, Trabzon'un Araklı ilçesinde bulunan bir şelaledir. İlçe merkezine 43 km uzaklıkta olan şelale, bazı kaynaklara göre 75, bazı kaynaklara göre 120 metre yükse"
+    },
+    {
+      "id": "balikli-gunesli-selaleleri-tabiat-parki",
+      "ad": "Balıklı-Güneşli Şelaleleri Tabiat Parkı",
+      "tur": "selalesi",
+      "il": "Artvin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Bal%C4%B1kl%C4%B1-G%C3%BCne%C5%9Fli%20%C5%9Eelaleleri%20Tabiat%20Park%C4%B1"
+      ],
+      "notlar": "Artvin Hopa'da bulunan, Haziran 2017'de ilan edilen Balıklı ve Güneşli Şelaleleri Tabiat Parkı, Güneşli Köyü ve Balıklı Köyü sınırları içerisindedir. Park 173 hektarlık bir alanı kaplamaktadır."
+    },
+    {
+      "id": "bardnala-selalesi",
+      "ad": "Bardnala Şelalesi",
+      "tur": "selalesi",
+      "il": "Artvin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Bardnala%20%C5%9Eelalesi"
+      ],
+      "notlar": "Bardnala Şelalesi veya Gelintülü Şelalesi, Artvin'in Borçka ilçesinde, Karagöle giden yolun 5. kilometresinde, Atanoğlu köyünde konumlanmış bir şelaledir. 1245 km rakımlı şelalenin çevresinde Collema "
+    },
+    {
+      "id": "ciro-selalesi",
+      "ad": "Ciro Şelalesi",
+      "tur": "selalesi",
+      "il": "Artvin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.035,
+        "lon": 41.36444444
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ciro%20%C5%9Eelalesi"
+      ],
+      "notlar": "Ciro Şelalesi, Artvin ilinin Yusufeli ilçesindeki Özgüven köyünde yer alan bir şelaledir. İlçe merkezine 45 kilometre uzaklıktaki şelale, 2200 metre yükseklikte konumlanmıştır. 160 metrelik yüksekliği"
+    },
+    {
+      "id": "cagcagan-selalesi",
+      "ad": "Çağçağan Şelalesi",
+      "tur": "selalesi",
+      "il": "Artvin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C3%87a%C4%9F%C3%A7a%C4%9Fan%20%C5%9Eelalesi"
+      ],
+      "notlar": "Çağçağan Şelalesi, Güneşli Köyü Şelalesi veya Balıklı Güneşli Şelaleleri Tabiat Parkı, Artvin'in Hopa ilçesine 12 kilometre uzaklıkta konumlanmış bir şelale ve tabiat parkıdır. Güneşli köyüne 5 kilome"
+    },
+    {
+      "id": "caglayandibi-selalesi",
+      "ad": "Çağlayandibi Şelalesi",
+      "tur": "selalesi",
+      "il": "Gümüşhane",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C3%87a%C4%9Flayandibi%20%C5%9Eelalesi"
+      ],
+      "notlar": "Çağlayandibi Şelalesi, Gümüşhane'nin Kürtün ilçesinin Yeşilköy köyünde yer alan bir şelaledir. Örümcek Ormanları'nın içinde yer alan şelale 15 metre yüksekliğindedir. İlçe merkezine 5 km uzaklıkta ola"
+    },
+    {
+      "id": "catalkaya-selalesi",
+      "ad": "Çatalkaya Şelalesi",
+      "tur": "selalesi",
+      "il": "Gümüşhane",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C3%87atalkaya%20%C5%9Eelalesi"
+      ],
+      "notlar": "Çatalkaya Şelalesi, Gümüşhane'nin Torul ilçesinde yer alan bir şelaledir. 12 metre yükseklikten dökülen şelale, 1.5 metre genişliğindedir."
+    },
+    {
+      "id": "cenedagi-selalesi",
+      "ad": "Çenedağı Şelalesi",
+      "tur": "selalesi",
+      "il": "Kocaeli",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C3%87eneda%C4%9F%C4%B1%20%C5%9Eelalesi"
+      ],
+      "notlar": "Çenedağı Şelalesi, diğer adıyla Çınarlıdere Şelalesi, Kocaeli ilinin Derince ilçesi'nde, ormanlık bir vadi içinde yer alan doğal bir şelaledir."
+    },
+    {
+      "id": "cir-selalesi",
+      "ad": "Çır Şelalesi",
+      "tur": "selalesi",
+      "il": "Bingöl",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.04861111,
+        "lon": 40.6625
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C3%87%C4%B1r%20%C5%9Eelalesi"
+      ],
+      "notlar": "Çır Şelalesi, Bingöl'ün Ilıcalar Bucağında Uzundere köyündedir. Köyün adını aldığı derenin, Büyük Çır Taşı adı verilen 100 m yükseklikteki kayalığın ortasından geçen bir şelaledir. Su 50 m yükseklikte"
+    },
+    {
+      "id": "delikli-kaya-selalesi",
+      "ad": "Delikli Kaya Şelalesi",
+      "tur": "selalesi",
+      "il": "Artvin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Delikli%20Kaya%20%C5%9Eelalesi"
+      ],
+      "notlar": "Delikli Kaya Şelalesi, Artvin ilinin Murgul ilçesindeki Başköy köyünde yer alan bir şelaledir. İlçe merkezine 10 kilometre uzaklıktaki şelale, kayanın içindeki 4 metre çaplı bir oyuktan akmaktadır. Şe"
+    },
+    {
+      "id": "didgere-selalesi",
+      "ad": "Didğere Şelalesi",
+      "tur": "selalesi",
+      "il": "Artvin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Did%C4%9Fere%20%C5%9Eelalesi"
+      ],
+      "notlar": "Didğere Şelalesi, Artvin'in Borçka ilçesine 75 kilometre uzaklıkta konumlanmış bir şelaledir. 300 hektarlık bir alanı kaplayan şelalenin rakımı 1100 metredir. Kaynağı yaylalardan gelen akarsular olan "
+    },
+    {
+      "id": "dogancay-selalesi",
+      "ad": "Doğançay Şelalesi",
+      "tur": "selalesi",
+      "il": "Bilecik",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.6,
+        "lon": 30.37166667
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Do%C4%9Fan%C3%A7ay%20%C5%9Eelalesi"
+      ],
+      "notlar": "Doğançay Şelalesi, Sakarya ili, Geyve ilçesi, Maksudiye, köyünde bulunan şelale. Sakarya merkeze uzaklığı 25 km, Sakarya-Bilecik D.650 yoluna 10 km uzaklıkta, denizden yaklaşık 400 m yüksektedir.\n4 ha"
+    },
+    {
+      "id": "durmuslu-selalesi",
+      "ad": "Durmuşlu Şelalesi",
+      "tur": "selalesi",
+      "il": "Gümüşhane",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Durmu%C5%9Flu%20%C5%9Eelalesi"
+      ],
+      "notlar": "Durmuşlu Şelalesi, Gümüşhane'nin Torul ilçesinin Gülaçar köyünde yer alan bir şelaledir. 50 metre yükseklikten dökülen şelale 5 katlıdır."
+    },
+    {
+      "id": "duden-selalesi",
+      "ad": "Düden Şelalesi",
+      "tur": "selalesi",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.96388889,
+        "lon": 30.72694444
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/D%C3%BCden%20%C5%9Eelalesi"
+      ],
+      "notlar": "Düden Şelalesi, Antalya şehir merkezine yaklaşık 10 kilometre uzaklıktadır. Kaynağını Kepez Hidroelektrik Santrali'nden alır ve Düdenbaşı denilen noktada yeryüzüne çıkar. Düden Çayı boyunca iki kola a"
+    },
+    {
+      "id": "erikli-selalesi-yalova-tesvikiye",
+      "ad": "Erikli Şelalesi (Yalova-Teşvikiye)",
+      "tur": "selalesi",
+      "il": "Yalova",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Erikli%20%C5%9Eelalesi%20(Yalova-Te%C5%9Fvikiye)"
+      ],
+      "notlar": "Erikli Şelalesi, Türkiye’nin Yalova ilinde, Termal ilçesine bağlı Teşvikiye köyü yakınlarında yer alan doğal bir şelaledir. Bölge, doğal güzelliği ve serin havasıyla özellikle yaz aylarında ziyaretçi "
+    },
+    {
+      "id": "girlevik-selalesi",
+      "ad": "Girlevik Şelalesi",
+      "tur": "selalesi",
+      "il": "Erzincan",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.58583333,
+        "lon": 39.73083333
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Girlevik%20%C5%9Eelalesi"
+      ],
+      "notlar": "Girlevik Şelalesi, Erzincan il merkezinin 30 km güneydoğusunda, Çağlayan beldesinde, aynı isimli köyün sınırlarında bulunur. Şelalenin suları üç kademe halinde, 30–40 m yükseklikten düşmektedir. Sular"
+    },
+    {
+      "id": "gunpinar-selalesi",
+      "ad": "Günpınar Şelalesi",
+      "tur": "selalesi",
+      "il": "Kars",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.55611111,
+        "lon": 37.4225
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/G%C3%BCnp%C4%B1nar%20%C5%9Eelalesi"
+      ],
+      "notlar": "Günpınar Şelalesi (Gürpınar Şelalesi) Malatya ili Darende ilçesi sınırlarında, Tohma Çayı'nın kolu Şuhul Deresi üzerindeki şelaledir.\nŞelalenin adı eskiden yakınında bulunan köye atfen Aşudu Şelalesi "
+    },
+    {
+      "id": "hacilar-selalesi",
+      "ad": "Hacılar Şelalesi",
+      "tur": "selalesi",
+      "il": "Ankara",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Hac%C4%B1lar%20%C5%9Eelalesi"
+      ],
+      "notlar": "Hacılar şelalesi, Ankara ilinin Çubuk ilçesinde ilçe merkezine 20 km uzaklıkta Hacılar köyündedir. Şelale Avcıova köyünden gelen akarsu üzerinde köy sınırları içerisindeki sıçan deresi diye bilinen bö"
+    },
+    {
+      "id": "halgent-selalesi",
+      "ad": "Halgent Şelalesi",
+      "tur": "selalesi",
+      "il": "Bayburt",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Halgent%20%C5%9Eelalesi"
+      ],
+      "notlar": "Halgent Şelalesi, Gümüşhane ili, merkez Eskibağlar  mahallesinde bulunan şelale. Lagos Deresi üzerinde, denizden 1300 m yükseklikte olan şelale, 30 m yüksekten düşmektedir.\nŞelalenin üzerinde bulunduğ"
+    },
+    {
+      "id": "ilisu-selalesi",
+      "ad": "Ilısu Şelalesi",
+      "tur": "selalesi",
+      "il": "Kars",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.55277778,
+        "lon": 33.06888889
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Il%C4%B1su%20%C5%9Eelalesi"
+      ],
+      "notlar": "Ilısu Şelalesi, Mut-Ermenek D340 karayoluna 25 km mesafede yer alan Gezende Barajı, Gezende köyü ve Ilısu köyü arasında yer almaktadır. Şelalenin kaynağı olan akarsu aynı zamanda yöredeki köy ve kasab"
+    },
+    {
+      "id": "kapuzbasi-selaleleri",
+      "ad": "Kapuzbaşı Şelaleleri",
+      "tur": "selalesi",
+      "il": "Adana",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.77361111,
+        "lon": 35.39333333
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kapuzba%C5%9F%C4%B1%20%C5%9Eelaleleri"
+      ],
+      "notlar": "Kapuzbaşı Şelaleleri Yahyalı ilçesine bağlı Kapuzbaşı Köyü sınırları içerisinde yer alan kaynak şelalelerdir. Şelalelerden birisi Türkiye'nin en yüksek ve Dünya'nın en yüksek ikinci şelalesi olma özel"
+    },
+    {
+      "id": "kara-su-selalesi",
+      "ad": "Kara su şelalesi",
+      "tur": "selalesi",
+      "il": "Kars",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.28333333,
+        "lon": 36.46666667
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kara%20su%20%C5%9Felalesi"
+      ],
+      "notlar": "Karasu Şelalesi, Osmaniye ili, Düziçi ilçesinde Amanos Dağları)'nın en kuzeyinde bulunan Düldül Dağı eteklerinden doğan Sabun Çayı üzerindeki şelaledir. Şelale tek bir eğim kırıklığından, 10 m yüksekt"
+    },
+    {
+      "id": "karagozoglu-selalesi",
+      "ad": "Karagözoğlu Şelalesi",
+      "tur": "selalesi",
+      "il": "Artvin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Karag%C3%B6zo%C4%9Flu%20%C5%9Eelalesi"
+      ],
+      "notlar": "Karagözoğlu Şelalesi, Artvin'in Ardanuç ilçesine 30 kilometre uzaklıkta konumlanmış bir şelaledir. 35 hektarlık bir alanı kaplayan şelalenin rakımı 2300 metredir. Kaynağı kar ve buzullar olan şelale, "
+    },
+    {
+      "id": "kursunlu-selalesi",
+      "ad": "Kurşunlu Şelalesi",
+      "tur": "selalesi",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.00305556,
+        "lon": 30.82111111
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kur%C5%9Funlu%20%C5%9Eelalesi"
+      ],
+      "notlar": "Kurşunlu Şelalesi, Antalya-Isparta karayolunun 24. km'nden sola dönülerek 7 km devam edildiğinde ulaşılan bir şelaledir.\nKurşunlu Şelalesi'ne su 18 metre yükseklikten dökülmekte ve küçük şelaleciklerl"
+    },
+    {
+      "id": "maisur-selalesi",
+      "ad": "Maisur Şelalesi",
+      "tur": "selalesi",
+      "il": "Artvin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Maisur%20%C5%9Eelalesi"
+      ],
+      "notlar": "Maisur Şelalesi, Maisuri Şelalesi veya Maysur Şelalesi, Artvin ilinin Borçka ilçesinde konumlanmış bir şelaledir. Şelale, 67 metre yükseklikten kayaya değmeden dökülmektedir."
+    },
+    {
+      "id": "manavgat-selalesi",
+      "ad": "Manavgat Şelalesi",
+      "tur": "selalesi",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.81333333,
+        "lon": 31.45444444
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Manavgat%20%C5%9Eelalesi"
+      ],
+      "notlar": "Manavgat Şelalesi, Antalya'nın Manavgat ilçesinde, Manavgat Nehri üzerinde bulunan bir şelaledir.\nAntalya'ya 72 km mesafededir. Manavgat ilçesinin 3 km kuzeyinde bulunan ve adını bu ilçeden alan şelal"
+    },
+    {
+      "id": "maral-selalesi",
+      "ad": "Maral Şelalesi",
+      "tur": "selalesi",
+      "il": "Artvin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.50222222,
+        "lon": 41.95777778
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Maral%20%C5%9Eelalesi"
+      ],
+      "notlar": "Maral Şelalesi, Artvin ili, Borçka ilçesinde Karçal Dağları'nda Maral Deresi üzerindeki şelale. Şelale tek bir eğim kırıklığından, 63 m yüksekten düşer. Şelale adını, eski adı Mindieti olan Maralköy'd"
+    },
+    {
+      "id": "mencuna-selalesi",
+      "ad": "Mençuna Şelalesi",
+      "tur": "selalesi",
+      "il": "Artvin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.25472222,
+        "lon": 41.35194444
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Men%C3%A7una%20%C5%9Eelalesi"
+      ],
+      "notlar": "Mençuna Şelalesi, Artvin ilinin Arhavi ilçesinde bulunan bir şelale."
+    },
+    {
+      "id": "nuzhetiye-selalesi",
+      "ad": "Nüzhetiye Şelalesi",
+      "tur": "selalesi",
+      "il": "Kocaeli",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/N%C3%BCzhetiye%20%C5%9Eelalesi"
+      ],
+      "notlar": "Nüzhetiye Şelalesi, Marmara Bölgesi'nde, Kocaeli ilinin Gölcük ilçesine bağlı Nüzhetiye Köyü sınırları içerisinde yer alan bir şelaledir. Şelale, Kocaeli Büyükşehir Belediyesi tarafından belirlenmiş \""
+    },
+    {
+      "id": "ohtamis-selalesi",
+      "ad": "Ohtamış Şelalesi",
+      "tur": "selalesi",
+      "il": "Ordu",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.81138889,
+        "lon": 37.66166667
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ohtam%C4%B1%C5%9F%20%C5%9Eelalesi"
+      ],
+      "notlar": "Ohtamış Şelalesi Ordu'nun Ulubey ilçesine bağlı olan Ohtamış köyünde bulunan bir şelaledir. Karadeniz Bölgesi'nin  en büyük şelalesidir. 30 metre yüksekliğindedir."
+    },
+    {
+      "id": "pasaca-selalesi-tabiat-parki",
+      "ad": "Paşaca Şelalesi Tabiat Parkı",
+      "tur": "selalesi",
+      "il": "Giresun",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Pa%C5%9Faca%20%C5%9Eelalesi%20Tabiat%20Park%C4%B1"
+      ],
+      "notlar": "Paşaca Şelalesi Tabiat Parkı, Giresun ilinin Görele ilçesine bağlı Yeşildere ve Beşirli köyleri arasında yer alan bir tabiat parkıdır. Şelale, Sis Dağı eteklerinde yer almaktadır. Şelalenin üzerinde b"
+    },
+    {
+      "id": "samandere-selalesi-tabiat-aniti",
+      "ad": "Samandere Şelalesi Tabiat Anıtı",
+      "tur": "selalesi",
+      "il": "Düzce",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.68944444,
+        "lon": 31.26027778
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Samandere%20%C5%9Eelalesi%20Tabiat%20An%C4%B1t%C4%B1"
+      ],
+      "notlar": "Samandere Şelalesi Tabiat Anıtı, Düzce ilinin merkez ilçesine bağlı Samandere köyünde bulunan Samandere Şelalesinin bulunduğu alan. Düzce'nin 26 km güneydoğusundadır.\nŞelale çevresi Çevre ve Orman Bak"
+    },
+    {
+      "id": "serindere-selalesi",
+      "ad": "Serindere Şelalesi",
+      "tur": "selalesi",
+      "il": "Kocaeli",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Serindere%20%C5%9Eelalesi"
+      ],
+      "notlar": "Serindere Şelaleleri, Kocaeli ilinin Başiskele ve Kartepe ilçeleri sınırları arasında uzanan Serindere Kanyonu içinde yer alan altı ayrı şelaleden oluşur."
+    },
+    {
+      "id": "sirakayalar-selalesi",
+      "ad": "Sırakayalar Şelalesi",
+      "tur": "selalesi",
+      "il": "Bayburt",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/S%C4%B1rakayalar%20%C5%9Eelalesi"
+      ],
+      "notlar": "Sırakayalar Şelalesi, Bayburt il merkezine bağlı Sırakayalar Köyü girişi ve içinde bulunmaktadır. Bayburt merkeze 22 km uzaklıkta kalan şelaleler, 20 metre yükseklikten döküldüğü görülmektedir. Şelale"
+    },
+    {
+      "id": "sizir-selalesi",
+      "ad": "Sızır Şelalesi",
+      "tur": "selalesi",
+      "il": "Sivas",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.30583333,
+        "lon": 35.94666667
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/S%C4%B1z%C4%B1r%20%C5%9Eelalesi"
+      ],
+      "notlar": "Sızır Şelalesi, Sivas ili, Gemerek ilçesi, Sızır beldesinde bulunan şelale. Kızılırmak'ın kollarından olan Göksu üzerinde bulunur. Sızır'ın 700 m kadar güneyinde, çevresi yeşillik bir alanda bulunur. "
+    },
+    {
+      "id": "suatan-selalesi",
+      "ad": "Suatan Şelalesi",
+      "tur": "selalesi",
+      "il": "Artvin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Suatan%20%C5%9Eelalesi"
+      ],
+      "notlar": "Suatan Şelalesi veya Su Atılan Şelalesi, Artvin'in Şavşat ilçesinin Kirazlı köyünde konumlanmış bir şelaledir. Tamara Odaları'na 15 dakika mesafede olan şelale, 60 metre yükseklikten dökülmektedir."
+    },
+    {
+      "id": "sudusen-selalesi",
+      "ad": "Sudüşen Şelalesi",
+      "tur": "selalesi",
+      "il": "Yalova",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.57611111,
+        "lon": 29.14722222
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Sud%C3%BC%C5%9Fen%20%C5%9Eelalesi"
+      ],
+      "notlar": "Sudüşen Şelalesi, Yalova ilinin Termal, Yalova ilçesindeki Üvezpınar mahallesine 8 km uzaklıkta bir şelaledir. Nacaklı Deresi üzerindedir. Rakımı yaklaşık 250 metre olan şelaleye Yalova'dan 43 kilomet"
+    },
+    {
+      "id": "suuctu-selalesi",
+      "ad": "Suuçtu Şelalesi",
+      "tur": "selalesi",
+      "il": "Bursa",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.90055556,
+        "lon": 28.38444444
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Suu%C3%A7tu%20%C5%9Eelalesi"
+      ],
+      "notlar": "Suuçtu Şelalesi, Türkiye'nin Bursa ilinin Mustafakemalpaşa ilçesine 18 km uzaklıkta bulunan ve ilçenin içme suyu ihtiyacını karşılayan, 38 metre yükseklikteki felezlerden dökülen şelale."
+    },
+    {
+      "id": "tarsus-selalesi",
+      "ad": "Tarsus Şelalesi",
+      "tur": "selalesi",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.93277778,
+        "lon": 34.89833333
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Tarsus%20%C5%9Eelalesi"
+      ],
+      "notlar": "Tarsus Şelalesi, Mersin'e bağlı Tarsus ilçesinin kuzeyinde Berdan Çayı (Kydnos) üzerindeki bir şelaledir. Berdan Çayı'nın 4–5 m yükseklikten dökülmesi ile meydana gelmiştir. Şelalenin bulunduğu alan j"
+    },
+    {
+      "id": "tomara-selalesi",
+      "ad": "Tomara Şelalesi",
+      "tur": "selalesi",
+      "il": "Gümüşhane",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.07861111,
+        "lon": 39.04416667
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Tomara%20%C5%9Eelalesi"
+      ],
+      "notlar": "Tomara Şelalesi, Gümüşhane ili, Şiran ilçesi sınırlarında bulunan şelaledir. Kelkit Çayının kolu olan Tomara  Çayının vadisinde yer alır. Adını çevrede yetişen tek yıllık Tomara (kaldirik) bitkisinden"
+    },
+    {
+      "id": "tortum-selalesi",
+      "ad": "Tortum Şelalesi",
+      "tur": "selalesi",
+      "il": "Erzurum",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.66083333,
+        "lon": 41.66861111
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Tortum%20%C5%9Eelalesi"
+      ],
+      "notlar": "Tortum Şelalesi, Erzurum ilinin Uzundere ilçesi sınırları içinde, Tortum Çayı'nın üzerindeki bir şelaledir."
+    },
+    {
+      "id": "ucansu-selalesi",
+      "ad": "Uçansu Şelalesi",
+      "tur": "selalesi",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.19888889,
+        "lon": 30.9075
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/U%C3%A7ansu%20%C5%9Eelalesi"
+      ],
+      "notlar": "Uçansu şelalesi, Antalya ili, Serik ilçesi, Gebiz Beldesine bağlı Akçapınar köyü sınırlarında yer alır. Antalya'ya 57 km, Serik'e 54 km mesafededir. Denizden kuşuçumu uzaklığı 38 km, deniz seviyesinde"
+    },
+    {
+      "id": "yerkopru-caglayani-mersin",
+      "ad": "Yerköprü Çağlayanı (Mersin)",
+      "tur": "selalesi",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.5325,
+        "lon": 33.22916667
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Yerk%C3%B6pr%C3%BC%20%C3%87a%C4%9Flayan%C4%B1%20(Mersin)"
+      ],
+      "notlar": "Yerköprü Çağlayanı, Mersin ili Mut ilçesinde yer alan bir çağlayandır. 2001 yılında tabiat anıtı olarak tescil edilen şelale, 2021'de tabiat parkı ilan edildi. Çağlayan ve çevresindeki alanın genişliğ"
+    },
+    {
+      "id": "yerkopru-selalesi",
+      "ad": "Yerköprü Şelalesi",
+      "tur": "selalesi",
+      "il": "Konya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.02861111,
+        "lon": 32.69361111
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Yerk%C3%B6pr%C3%BC%20%C5%9Eelalesi"
+      ],
+      "notlar": "Yerköprü Şelalesi, Türkiye'nin Konya ilinin Hadim ilçesi sınırlarında, Göksu Nehri üzerinde yer alan doğal bir şelaledir. Konya merkeze yaklaşık 110 kilometre uzaklıktadır. Şelale, doğal köprü (yerköp"
+    }
+  ]
 }

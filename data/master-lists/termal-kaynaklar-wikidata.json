@@ -1,0 +1,2358 @@
+{
+  "meta": {
+    "kaynak": "Wikidata SPARQL",
+    "qid": [
+      "Q177380",
+      "Q165154"
+    ],
+    "guncelleme_tarihi": "2026-01-07",
+    "toplam_sayi": 30
+  },
+  "alanlar": [
+    {
+      "id": "kestanbol-kaplicasi",
+      "wikidata_id": "Q49741945",
+      "ad": "Kestanbol Kaplıcası",
+      "tur": "termal-kaynak",
+      "il": "Çanakkale",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.7425,
+        "lon": 26.188888888
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49741945"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "cavuscukoyu-acik-ilicasi",
+      "wikidata_id": "Q49742033",
+      "ad": "Çavuşçuköyü Açık Ilıcası",
+      "tur": "termal-kaynak",
+      "il": "Konya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.302222222,
+        "lon": 31.863888888
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49742033"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "acisu-kaplicasi",
+      "wikidata_id": "Q49741877",
+      "ad": "Acısu Kaplıcası",
+      "tur": "termal-kaynak",
+      "il": "Çankırı",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.851944444,
+        "lon": 33.256666666
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49741877"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kurttacin-ilicasi",
+      "wikidata_id": "Q49741953",
+      "ad": "Kürttacın Ilıcası",
+      "tur": "termal-kaynak",
+      "il": "Ankara",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.205833333,
+        "lon": 32.063888888
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49741953"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "duzici-haruniye-ilicasi",
+      "wikidata_id": "Q49741906",
+      "ad": "Düziçi Haruniye Ilıcası",
+      "tur": "termal-kaynak",
+      "il": "Osmaniye",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.36,
+        "lon": 36.397777777
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49741906"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "gobel-kaplicalari",
+      "wikidata_id": "Q49741917",
+      "ad": "Göbel Kaplıcaları",
+      "tur": "termal-kaynak",
+      "il": "Kütahya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.498055555,
+        "lon": 29.437777777
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49741917"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "sariot-kaplicasi",
+      "wikidata_id": "Q49741975",
+      "ad": "Sarıot Kaplıcası",
+      "tur": "termal-kaynak",
+      "il": "Bolu",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.607222222,
+        "lon": 31.077777777
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49741975"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "figani-kaplicasi",
+      "wikidata_id": "Q49741910",
+      "ad": "Figani Kaplıcası",
+      "tur": "termal-kaynak",
+      "il": "Çorum",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.601666666,
+        "lon": 35.452222222
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49741910"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kazanci-kaplicasi",
+      "wikidata_id": "Q49741944",
+      "ad": "Kazancı Kaplıcası",
+      "tur": "termal-kaynak",
+      "il": "Çankırı",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.003611111,
+        "lon": 33.701388888
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49741944"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kos-kaplicasi",
+      "wikidata_id": "Q49741951",
+      "ad": "Kös Kaplıcası",
+      "tur": "termal-kaynak",
+      "il": "Çankırı",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.840555555,
+        "lon": 32.898333333
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49741951"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "gazligol-kaplicasi",
+      "wikidata_id": "Q6088070",
+      "ad": "Gazlıgöl Kaplıcası",
+      "tur": "termal-kaynak",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Gazl%C4%B1g%C3%B6l",
+        "http://www.wikidata.org/entity/Q6088070"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "haymana-ilicasi",
+      "wikidata_id": "Q49741921",
+      "ad": "Haymana Ilıcası",
+      "tur": "termal-kaynak",
+      "il": "Ankara",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.423333333,
+        "lon": 32.488611111
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49741921"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "urganli-kaplicalari",
+      "wikidata_id": "Q31189587",
+      "ad": "Urganlı Kaplıcaları",
+      "tur": "termal-kaynak",
+      "il": "Manisa",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.571666666,
+        "lon": 27.841111111
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Urganl%C4%B1_Kapl%C4%B1calar%C4%B1",
+        "http://www.wikidata.org/entity/Q31189587"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "bayramoren-kaplicasi",
+      "wikidata_id": "Q49741892",
+      "ad": "Bayramören Kaplıcası",
+      "tur": "termal-kaynak",
+      "il": "Çankırı",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.940555555,
+        "lon": 33.201666666
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49741892"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kayacik-ilicasi",
+      "wikidata_id": "Q49741943",
+      "ad": "Kayacık Ilıcası",
+      "tur": "termal-kaynak",
+      "il": "Burdur",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.157777777,
+        "lon": 29.672777777
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49741943"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "evlik-kaplicasi",
+      "wikidata_id": "Q49741908",
+      "ad": "Evlik Kaplıcası",
+      "tur": "termal-kaynak",
+      "il": "Çorum",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.900555555,
+        "lon": 34.889166666
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49741908"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "terzikoy-kaplicasi",
+      "wikidata_id": "Q49742002",
+      "ad": "Terziköy Kaplıcası",
+      "tur": "termal-kaynak",
+      "il": "Amasya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.472777777,
+        "lon": 35.705
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49742002"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "hamamlicay-koy-kaplicasi",
+      "wikidata_id": "Q49741919",
+      "ad": "Hamamlıçay Köy Kaplıcası",
+      "tur": "termal-kaynak",
+      "il": "Çorum",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.663333333,
+        "lon": 34.860277777
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49741919"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kukurt-kaplicasi",
+      "wikidata_id": "Q49741952",
+      "ad": "Kükürt Kaplıcası",
+      "tur": "termal-kaynak",
+      "il": "Çankırı",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.919722222,
+        "lon": 33.072777777
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49741952"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "karakaya-ilicasi",
+      "wikidata_id": "Q49741940",
+      "ad": "Karakaya Ilıcası",
+      "tur": "termal-kaynak",
+      "il": "Ankara",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.009166666,
+        "lon": 32.335833333
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49741940"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "hisaralan-kaplicasi",
+      "wikidata_id": "Q49741928",
+      "ad": "Hisaralan Kaplıcası",
+      "tur": "termal-kaynak",
+      "il": "Balıkesir",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.269722222,
+        "lon": 28.315833333
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49741928"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "heybeliada-kaplicalari",
+      "wikidata_id": "Q49741922",
+      "ad": "Heybeliada Kaplıcaları",
+      "tur": "termal-kaynak",
+      "il": "Afyonkarahisar",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.639444444,
+        "lon": 30.851111111
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49741922"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "saraycik-ilicasi",
+      "wikidata_id": "Q49741974",
+      "ad": "Saraycık Ilıcası",
+      "tur": "termal-kaynak",
+      "il": "Manisa",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.768888888,
+        "lon": 28.450277777
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49741974"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ayas-kaplicasi",
+      "wikidata_id": "Q49741889",
+      "ad": "Ayaş Kaplıcası",
+      "tur": "termal-kaynak",
+      "il": "Ankara",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.132222222,
+        "lon": 32.160555555
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49741889"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "babas",
+      "wikidata_id": "Q6077342",
+      "ad": "Babas",
+      "tur": "termal-kaynak",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mudurnu%20Babas.JPG",
+          "filename": "Mudurnu Babas.JPG",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Babas",
+        "http://www.wikidata.org/entity/Q6077342"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kirmizi-su-karahayit",
+      "wikidata_id": "Q126059099",
+      "ad": "Kırmızı Su Karahayıt",
+      "tur": "termal-kaynak",
+      "il": "Denizli",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.967430516,
+        "lon": 29.102799294
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/K%C4%B1rm%C4%B1z%C4%B1%20Su%20%28Red%20Spring%29%2C%20Karahay%C4%B1t%2C%20Turkey%2C%20March%202024%2006.jpg",
+          "filename": "Kırmızı Su (Red Spring), Karahayıt, Turkey, March 2024 06.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q126059099"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "pamukkale",
+      "wikidata_id": "Q105893254",
+      "ad": "Pamukkale",
+      "tur": "termal-kaynak",
+      "il": "Denizli",
+      "ilce": "Pamukkale",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.9236,
+        "lon": 29.1223
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": "Ege Bölgesi",
+        "parcasi": "Pamukkale",
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": "Dünya Miras Alanı'nın parçası",
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": "http://www.pamukkale.gov.tr/EN",
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pamukkale%2030.jpg",
+          "filename": "Pamukkale 30.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Pamukkale",
+        "http://www.wikidata.org/entity/Q105893254",
+        "http://www.pamukkale.gov.tr/EN"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "istinata-kaplicasi",
+      "wikidata_id": "Q49742036",
+      "ad": "İstınata Kaplıcası",
+      "tur": "termal-kaynak",
+      "il": "Çankırı",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.934166666,
+        "lon": 33.651111111
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49742036"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ciftehan-kaplicasi",
+      "wikidata_id": "Q49742034",
+      "ad": "Çiftehan Kaplıcası",
+      "tur": "termal-kaynak",
+      "il": "Niğde",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.713333333,
+        "lon": 34.590833333
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49742034"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "insuyu-kaplicasi",
+      "wikidata_id": "Q49742035",
+      "ad": "İnsuyu Kaplıcası",
+      "tur": "termal-kaynak",
+      "il": "Burdur",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.436388888,
+        "lon": 30.557777777
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q49742035"
+      ],
+      "notlar": "Wikidata - Termal Kaynaklar ve Kaplıcalar",
+      "veri_kaynagi": "wikidata"
+    }
+  ]
+}

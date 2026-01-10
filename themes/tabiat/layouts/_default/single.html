@@ -1,20 +1,160 @@
 {{ define "main" }}
-<article class="content-single">
-    <div class="container">
-        {{ if eq .Type "alan" }}
-            {{ partial "alan-single.html" . }}
-        {{ else }}
-            <header class="content-header">
-                <h1>{{ .Title }}</h1>
-                {{ if .Date }}
-                <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
-                {{ end }}
-            </header>
-
-            <div class="content-body">
-                {{ .Content }}
+{{ if eq .Type "alan" }}
+    <!-- Alan sayfası için özel şablon -->
+    {{ partial "alan-single.html" . }}
+{{ else }}
+    <!-- Statik sayfalar için premium şablon -->
+    <div class="page-wrapper">
+        <!-- Hero Banner -->
+        <div class="page-hero">
+            <div class="page-hero-overlay"></div>
+            <div class="container">
+                <div class="page-hero-content">
+                    <h1 class="page-title">{{ .Title }}</h1>
+                    {{ if .Description }}
+                    <p class="page-description">{{ .Description }}</p>
+                    {{ end }}
+                </div>
             </div>
-        {{ end }}
+        </div>
+
+        <!-- Breadcrumb -->
+        <div class="breadcrumb-section">
+            <div class="container">
+                <nav class="breadcrumb" aria-label="Breadcrumb">
+                    <a href="/">
+                        <i data-lucide="home" style="width: 16px; height: 16px;"></i>
+                        <span>Ana Sayfa</span>
+                    </a>
+                    <i data-lucide="chevron-right" style="width: 14px; height: 14px;"></i>
+                    <span class="current">{{ .Title }}</span>
+                </nav>
+            </div>
+        </div>
+
+        <!-- Main Content -->
+        <div class="page-content">
+            <div class="container">
+                <div class="content-layout">
+                    <!-- Article -->
+                    <article class="content-article">
+                        <div class="article-body">
+                            {{ .Content }}
+                        </div>
+
+                        <!-- Last Updated -->
+                        {{ if .Date }}
+                        <div class="article-footer">
+                            <div class="last-updated">
+                                <i data-lucide="calendar" style="width: 16px; height: 16px;"></i>
+                                <span>Son güncelleme: {{ .Date.Format "2 January 2006" }}</span>
+                            </div>
+                        </div>
+                        {{ end }}
+                    </article>
+
+                    <!-- Sidebar -->
+                    <aside class="content-sidebar">
+                        <!-- Quick Links -->
+                        <div class="sidebar-card">
+                            <h3>
+                                <i data-lucide="compass"></i>
+                                Hızlı Bağlantılar
+                            </h3>
+                            <ul class="sidebar-links">
+                                <li><a href="/alanlar/"><i data-lucide="map"></i> Tüm Alanlar</a></li>
+                                <li><a href="/turler/"><i data-lucide="layers"></i> Alan Türleri</a></li>
+                                <li><a href="/iller/"><i data-lucide="map-pin"></i> İllere Göre</a></li>
+                            </ul>
+                        </div>
+
+                        <!-- Contact Card -->
+                        <div class="sidebar-card highlight">
+                            <h3>
+                                <i data-lucide="mail"></i>
+                                İletişim
+                            </h3>
+                            <p>Sorularınız veya önerileriniz mi var?</p>
+                            <a href="/iletisim/" class="sidebar-btn">
+                                <i data-lucide="send"></i>
+                                Bize Ulaşın
+                            </a>
+                        </div>
+
+                        <!-- Stats -->
+                        <div class="sidebar-card stats">
+                            <h3>
+                                <i data-lucide="bar-chart-2"></i>
+                                İstatistikler
+                            </h3>
+                            <div class="stat-row">
+                                <span class="stat-label">Toplam Alan</span>
+                                <span class="stat-value">13,000+</span>
+                            </div>
+                            <div class="stat-row">
+                                <span class="stat-label">İl</span>
+                                <span class="stat-value">81</span>
+                            </div>
+                            <div class="stat-row">
+                                <span class="stat-label">Alan Türü</span>
+                                <span class="stat-value">19+</span>
+                            </div>
+                        </div>
+                    </aside>
+                </div>
+            </div>
+        </div>
     </div>
-</article>
+{{ end }}
+{{ end }}
+
+{{ define "scripts" }}
+{{ if eq .Type "alan" }}
+<script>
+// Image Slider
+let currentSlide = 0;
+const slides = document.querySelectorAll('.slide');
+const dots = document.querySelectorAll('.dot');
+
+function showSlide(n) {
+    if (slides.length === 0) return;
+    currentSlide = (n + slides.length) % slides.length;
+    slides.forEach((slide, i) => {
+        slide.classList.remove('active');
+        if (dots[i]) dots[i].classList.remove('active');
+    });
+    slides[currentSlide].classList.add('active');
+    if (dots[currentSlide]) dots[currentSlide].classList.add('active');
+}
+
+function changeSlide(direction) {
+    showSlide(currentSlide + direction);
+}
+
+function goToSlide(n) {
+    showSlide(n);
+}
+
+// Auto-play
+if (slides.length > 1) {
+    setInterval(() => changeSlide(1), 5000);
+}
+
+// Touch/Swipe support
+let touchStartX = 0;
+let touchEndX = 0;
+
+const slider = document.getElementById('imageSlider');
+if (slider) {
+    slider.addEventListener('touchstart', e => {
+        touchStartX = e.changedTouches[0].screenX;
+    });
+    slider.addEventListener('touchend', e => {
+        touchEndX = e.changedTouches[0].screenX;
+        if (touchEndX < touchStartX - 50) changeSlide(1);
+        if (touchEndX > touchStartX + 50) changeSlide(-1);
+    });
+}
+</script>
+{{ end }}
 {{ end }}

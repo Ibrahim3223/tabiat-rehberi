@@ -7,70 +7,78 @@
 
     <title>{{ block "title" . }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
 
-    {{ if .Description }}
-    <meta name="description" content="{{ .Description }}">
-    {{ else if .Site.Params.description }}
-    <meta name="description" content="{{ .Site.Params.description }}">
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/favicon/site.webmanifest">
+    <link rel="shortcut icon" href="/favicon/favicon.ico">
+    <meta name="theme-color" content="#1a472a">
+
+    <!-- SEO Meta Tags & Structured Data -->
+    {{ partial "seo.html" . }}
+
+    <!-- Google Analytics / AdSense (Add codes here when ready) -->
+    {{ if .Site.Params.googleAnalytics }}
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.googleAnalytics }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '{{ .Site.Params.googleAnalytics }}');
+    </script>
+    {{ end }}
+    {{ if .Site.Params.googleAdsense }}
+    <!-- Google AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ .Site.Params.googleAdsense }}" crossorigin="anonymous"></script>
     {{ end }}
 
-    {{ if .Keywords }}
-    <meta name="keywords" content="{{ delimit .Keywords ", " }}">
-    {{ end }}
+    <!-- Resource Hints for Performance -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="dns-prefetch" href="https://unpkg.com">
+    <link rel="dns-prefetch" href="https://commons.wikimedia.org">
 
-    <!-- Open Graph -->
-    <meta property="og:title" content="{{ .Title }}">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="{{ .Permalink }}">
-    {{ if .Params.images }}
-    <meta property="og:image" content="{{ index .Params.images 0 | absURL }}">
-    {{ end }}
+    <!-- Google Fonts - Inter & Playfair Display -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet">
 
-    <!-- Canonical -->
-    <link rel="canonical" href="{{ .Permalink }}">
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest" defer></script>
 
     <!-- Styles -->
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "css/filter.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "css/maps-weather.css" | relURL }}">
 
     {{ block "head" . }}{{ end }}
 </head>
 <body>
-    {{ block "header" . }}
-    <header class="site-header">
-        <div class="container">
-            <div class="header-content">
-                <a href="{{ .Site.BaseURL }}" class="logo">
-                    <h1>🌲 {{ .Site.Title }}</h1>
-                </a>
-                <nav class="main-nav">
-                    {{ range .Site.Menus.main }}
-                    <a href="{{ .URL }}">{{ .Name }}</a>
-                    {{ end }}
-                </nav>
-            </div>
-        </div>
-    </header>
-    {{ end }}
+    {{ partial "header.html" . }}
 
     <main class="site-main">
         {{ block "main" . }}{{ end }}
     </main>
 
-    {{ block "footer" . }}
-    <footer class="site-footer">
-        <div class="container">
-            <div class="footer-content">
-                <nav class="footer-nav">
-                    {{ range .Site.Menus.footer }}
-                    <a href="{{ .URL }}">{{ .Name }}</a>
-                    {{ end }}
-                </nav>
-                <p class="copyright">
-                    &copy; {{ now.Year }} {{ .Site.Title }}. Tüm hakları saklıdır.
-                </p>
-            </div>
-        </div>
-    </footer>
-    {{ end }}
+    {{ partial "footer.html" . }}
+
+    <!-- Initialize Lucide Icons -->
+    <script>
+        // Defer icon initialization until DOM is ready
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', function() {
+                lucide.createIcons();
+            });
+        } else {
+            lucide.createIcons();
+        }
+    </script>
+
+    <!-- Search Functionality -->
+    <script src="{{ "js/search.js" | relURL }}" defer></script>
+
+    <!-- Weather Widget -->
+    <script src="{{ "js/weather.js" | relURL }}" defer></script>
 
     {{ block "scripts" . }}{{ end }}
 </body>

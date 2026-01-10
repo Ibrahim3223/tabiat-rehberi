@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "kaynak": "Wikipedia + Wikidata + DKMP (merged)",
+    "guncelleme_tarihi": "2026-01-08",
+    "toplam_sayi": 6,
+    "wikipedia_sayi": 0,
+    "wikidata_sayi": 6,
+    "dkmp_sayi": 0
+  },
+  "alanlar": [
+    {
+      "id": "palandoken-kayak-merkezi",
+      "wikidata_id": "Q29830879",
+      "ad": "Palandöken Kayak Merkezi",
+      "tur": "kayak-merkezi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.869722222,
+        "lon": 41.273333333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Paland%C3%B6ken_Kayak_Merkezi",
+        "http://www.wikidata.org/entity/Q29830879"
+      ],
+      "notlar": "Wikidata - Kayak Merkezleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kandilli-kayak-merkezi",
+      "wikidata_id": "Q29831291",
+      "ad": "Kandilli Kayak Merkezi",
+      "tur": "kayak-merkezi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.90527778,
+        "lon": 40.84444444
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Kandilli_Kayak_Merkezi",
+        "http://www.wikidata.org/entity/Q29831291"
+      ],
+      "notlar": "Wikidata - Kayak Merkezleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "erciyes-kayak-merkezi",
+      "wikidata_id": "Q5385213",
+      "ad": "Erciyes Kayak Merkezi",
+      "tur": "kayak-merkezi",
+      "il": "Kayseri",
+      "ilce": "",
+      "bolge": "İç Anadolu",
+      "koordinat": {
+        "lat": 38.541944444,
+        "lon": 35.525
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Erciyes_Kayak_Merkezi",
+        "http://www.wikidata.org/entity/Q5385213"
+      ],
+      "notlar": "Wikidata - Kayak Merkezleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "saklikent",
+      "wikidata_id": "Q1701488",
+      "ad": "Saklıkent",
+      "tur": "kayak-merkezi",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.84314167,
+        "lon": 30.33641389
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Sakl%C4%B1kent_(kayak_merkezi)",
+        "http://www.wikidata.org/entity/Q1701488"
+      ],
+      "notlar": "Wikidata - Kayak Merkezleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kartepe-kayak-merkezi",
+      "wikidata_id": "Q106889470",
+      "ad": "Kartepe Kayak Merkezi",
+      "tur": "kayak-merkezi",
+      "il": "Kocaeli",
+      "ilce": "Kartepe",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.653376,
+        "lon": 30.096393
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kartepe%20kayak%20Merkezi%20%281%29%2002.jpg",
+          "filename": "Kartepe kayak Merkezi (1) 02.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Kartepe_Kayak_Merkezi",
+        "http://www.wikidata.org/entity/Q106889470"
+      ],
+      "notlar": "Wikidata - Kayak Merkezleri",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kartalkaya",
+      "wikidata_id": "Q3088422",
+      "ad": "Kartalkaya",
+      "tur": "kayak-merkezi",
+      "il": "Bolu",
+      "ilce": "Seben (ilçe)",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.590277777,
+        "lon": 31.808055555
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kartalkaya.jpg",
+          "filename": "Kartalkaya.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Kartalkaya",
+        "http://www.wikidata.org/entity/Q3088422"
+      ],
+      "notlar": "Wikidata - Kayak Merkezleri",
+      "veri_kaynagi": "wikidata"
+    }
+  ]
+}

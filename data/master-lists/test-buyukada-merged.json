@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "kaynak": "Test - 10 Ada",
+    "guncelleme_tarihi": "2026-01-05",
+    "toplam_sayi": 10
+  },
+  "alanlar": [
+    {
+      "id": "buyukada",
+      "wikidata_id": "Q989883",
+      "ad": "Büyükada",
+      "tur": "ada",
+      "il": "İstanbul",
+      "ilce": "Adalar",
+      "bolge": "Marmara",
+      "koordinat": {
+        "lat": 40.857777777,
+        "lon": 29.12
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/B%C3%BCy%C3%BCkada.JPG",
+          "filename": "Büyükada.JPG",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCkada",
+        "http://www.wikidata.org/entity/Q989883"
+      ],
+      "notlar": "Wikidata - Adalar",
+      "veri_kaynagi": "wikidata"
+    }
+  ]
+}

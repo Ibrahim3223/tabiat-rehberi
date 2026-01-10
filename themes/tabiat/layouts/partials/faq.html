@@ -1,0 +1,90 @@
+{{- $alanTuru := .Params.alan_turu | lower -}}
+{{- $coords := .Params.koordinat | default .Params.coordinates -}}
+{{- $il := .Params.il -}}
+{{- $ilce := .Params.ilce -}}
+
+{{- /* Alan türüne göre FAQ'ler */ -}}
+{{- $faqs := slice -}}
+
+{{- if or (in $alanTuru "mağara") (in $alanTuru "magara") -}}
+  {{- $faqs = slice
+    (dict "question" "Mağara içi sıcaklık ne kadardır?" "answer" (printf "%s mağarası yıl boyunca sabit bir sıcaklığa sahiptir. Mağara içi genellikle 15-20°C arasında seyreder, bu nedenle hafif bir ceket almanızı öneririz." .Title))
+    (dict "question" "Rehber eşliğinde mi gezilir?" "answer" "Mağara içi güvenlik nedeniyle genellikle rehber eşliğinde gezilir. Ziyaret saatleri ve tur programları için yerel yönetim veya milli park müdürlüğü ile iletişime geçebilirsiniz.")
+    (dict "question" "Fotoğraf çekmek serbest mi?" "answer" "Evet, mağara içinde fotoğraf çekmek genellikle serbesttir. Ancak flaş kullanımı formasyonlara zarar verebileceği için kısıtlanabilir. Düşük ışıkta çekim yapabileceğiniz ekipman getirmenizi tavsiye ederiz.")
+    (dict "question" "Astım hastaları için uygun mu?" "answer" "Birçok mağara yüksek nem oranı ve sabit sıcaklığı nedeniyle astım hastaları için faydalı olabilir. Ancak ziyaret öncesi doktorunuza danışmanızı öneririz.")
+  -}}
+{{- else if or (in $alanTuru "göl") (in $alanTuru "gol") -}}
+  {{- $faqs = slice
+    (dict "question" "Gölde yüzmek mümkün mü?" "answer" (printf "%s'de yüzme, su sıcaklığı ve koruma statüsüne bağlıdır. Yaz aylarında genellikle yüzülebilir, ancak milli park sınırları içindeyse kısıtlamalar olabilir." .Title))
+    (dict "question" "Kamp yapmak serbest mi?" "answer" (printf "%s çevresinde kamp yapılabilir, ancak belirlenmiş kamp alanlarını kullanmanız önemlidir. Doğayı korumak için çöplerinizi yanınızda götürün." .Title))
+    (dict "question" "En iyi ziyaret zamanı ne zaman?" "answer" "Göl ziyaretleri için en ideal dönem ilkbahar (Nisan-Mayıs) ve erken sonbahar (Eylül-Ekim) aylarıdır. Bu dönemlerde hava sıcaklığı idealdir ve doğa en güzel renklerindedir.")
+    (dict "question" "Balık tutmak yasak mı?" "answer" "Balık tutma, gölün koruma statüsüne göre değişir. Milli park veya doğal sit alanıysa izin gerekebilir. Yerel yönetmeliklerle bilgi almanızı öneririz.")
+  -}}
+{{- else if or (in $alanTuru "şelale") (in $alanTuru "selale") -}}
+  {{- $faqs = slice
+    (dict "question" "Şelaleye nasıl ulaşılır?" "answer" (printf "%s'ye ulaşım genellikle yürüyüş patikası ile sağlanır. Rahat ayakkabılar ve su geçirmez kıyafetler getirmenizi tavsiye ederiz." .Title))
+    (dict "question" "Yağmurlu havalarda ziyaret edilebilir mi?" "answer" "Yağmurlu havalarda şelale daha etkileyici görünse de, patikalar kaygan olabilir. Güvenliğiniz için kuru havalarda ziyaret etmenizi öneririz.")
+    (dict "question" "Piknik yapmak mümkün mü?" "answer" "Şelale çevresinde belirlenmiş piknik alanları genellikle mevcuttur. Doğaya saygılı olun ve tüm çöplerinizi yanınızda götürün.")
+    (dict "question" "Suya girilebilir mi?" "answer" "Bazı şelalelerde doğal havuzlarda yüzmek mümkündür, ancak su akıntısı güçlü olabilir. Güvenlik tabelalarına dikkat edin.")
+  -}}
+{{- else if or (in $alanTuru "dağ") (in $alanTuru "dag") -}}
+  {{- $faqs = slice
+    (dict "question" "Dağa tırmanmak için özel ekipman gerekli mi?" "answer" (printf "%s'a tırmanış için deneyim seviyenize göre ekipman gerekebilir. Kolay rotalar için sadece iyi ayakkabılar yeterken, zirve tırmanışı için profesyonel ekipman şarttır." .Title))
+    (dict "question" "En iyi tırmanış sezonu ne zaman?" "answer" "Dağ tırmanışları için en uygun dönem Haziran-Eylül arası yaz aylarıdır. Kış aylarında kar nedeniyle tehlikeli olabilir.")
+    (dict "question" "Kamp yapmak serbest mi?" "answer" "Dağ yamaçlarında ve belirli yüksekliklerde kamp yapmak genellikle serbesttir. Hava koşullarına hazırlıklı olun ve deneyimli bir rehber eşliğinde çıkın.")
+    (dict "question" "Rehber tutmak zorunlu mu?" "answer" "Zirve tırmanışları için deneyimli dağcı rehber tutmanız şiddetle tavsiye edilir. Hava koşulları hızla değişebilir ve rotaları bilmek hayati önem taşır.")
+  -}}
+{{- else if or (in $alanTuru "plaj") (in $alanTuru "koy") -}}
+  {{- $faqs = slice
+    (dict "question" "Plaj giriş ücreti var mı?" "answer" (printf "%s'ye giriş genellikle ücretsizdir, ancak yaz sezonunda şezlong ve şemsiye kiralama ücretlidir." .Title))
+    (dict "question" "Dalış yapmak mümkün mü?" "answer" "Evet, berrak sularda dalış ve şnorkelle yüzmek için idealdir. Deneyimli dalgıçlar için profesyonel dalış merkezleri de bulunabilir.")
+    (dict "question" "Hangi aylar yüzmeye uygundur?" "answer" "Deniz suyu sıcaklığı Haziran-Ekim arası yüzmeye uygundur. En sıcak dönem Temmuz-Ağustos aylarıdır.")
+    (dict "question" "Çocuklu aileler için uygun mu?" "answer" (printf "%s aileler için uygun bir plajdır. Sığ kısımlar ve kumsal alanlar çocuklar için güvenlidir." .Title))
+  -}}
+{{- else if or (in $alanTuru "park") (in $alanTuru "milli") (in $alanTuru "tabiat") -}}
+  {{- $faqs = slice
+    (dict "question" "Park giriş ücreti ne kadar?" "answer" (printf "%s'ye giriş için ücret alınabilir. Güncel fiyatlar için resmi web sitesini ziyaret edebilirsiniz." .Title))
+    (dict "question" "Evcil hayvan götürebilir miyim?" "answer" "Milli parkların çoğunda evcil hayvan girmesi kısıtlanmıştır. Yaban hayatı koruma amacıyla bu kurala uymanız önemlidir.")
+    (dict "question" "Yürüyüş parkurları var mı?" "answer" "Evet, parkta işaretlenmiş yürüyüş parkurları bulunur. Kolay, orta ve zor seviye rotalar mevcuttur.")
+    (dict "question" "Kamp yapmak yasak mı?" "answer" "Belirlenmiş kamp alanları dışında kamp yapmak genellikle yasaktır. İzinli kamp alanlarını kullanmanız gerekmektedir.")
+  -}}
+{{- else if or (in $alanTuru "kanyon") -}}
+  {{- $faqs = slice
+    (dict "question" "Kanyonda rafting yapılabilir mi?" "answer" (printf "%s'de su akışına ve mevsime bağlı olarak rafting mümkün olabilir. Profesyonel rehber firmaları ile iletişime geçin." .Title))
+    (dict "question" "Kanyoning için deneyim gerekli mi?" "answer" "Kanyoning (kanyon geçişi) tehlikeli bir spordur ve mutlaka deneyimli rehber eşliğinde yapılmalıdır. Ekipman ve teknik bilgi şarttır.")
+    (dict "question" "Hangi mevsim daha güvenli?" "answer" "Kanyon ziyaretleri için yaz sonu ve sonbahar daha güvenlidir. İlkbahar aylarında kar erimesi nedeniyle su seviyesi yüksek ve tehlikeli olabilir.")
+    (dict "question" "Fotoğraf çekerken nelere dikkat etmeliyim?" "answer" "Kanyon içinde dramatik ışık oyunları öğle saatlerinde en güzeldir. Geniş açı lens ve tripod kullanmanızı öneririz.")
+  -}}
+{{- else -}}
+  {{- /* Generic FAQs */ -}}
+  {{- $faqs = slice
+    (dict "question" (printf "%s'ye nasıl gidilir?" .Title) "answer" (printf "%s, %s ilinde yer almaktadır. Toplu taşıma veya özel araç ile ulaşabilirsiniz. En yakın şehir merkezinden mesafe ve ulaşım alternatifleri için yerel turizm ofislerinden bilgi alabilirsiniz." .Title $il))
+    (dict "question" "En iyi ziyaret zamanı ne zaman?" "answer" "Ziyaret için en ideal dönem hava koşullarına bağlı olarak ilkbahar (Nisan-Mayıs) ve erken sonbahar (Eylül-Ekim) aylarıdır.")
+    (dict "question" "Çocuklu aileler için uygun mu?" "answer" (printf "%s aileler için uygun bir doğal alandır. Ancak ziyaret öncesi yürüyüş mesafesi ve zorluk seviyesini değerlendirmenizi öneririz." .Title))
+    (dict "question" "Yakınlarda konaklama seçeneği var mı?" "answer" (printf "%s çevresinde otel, pansiyon ve kamp alanları bulunmaktadır. En yakın %s şehir merkezinde daha fazla seçenek mevcuttur." .Title (default "il" $ilce)))
+  -}}
+{{- end -}}
+
+{{- if gt (len $faqs) 0 -}}
+<div class="container">
+  <div class="faq-section">
+    <h2>
+      <i data-lucide="help-circle" style="width: 24px; height: 24px; margin-right: 8px;"></i>
+      Sıkça Sorulan Sorular
+    </h2>
+    <div class="faq-list">
+      {{- range $faqs -}}
+      <details class="faq-item">
+        <summary class="faq-question">
+          <i data-lucide="chevron-right" class="faq-icon"></i>
+          {{ .question }}
+        </summary>
+        <div class="faq-answer">
+          <p>{{ .answer }}</p>
+        </div>
+      </details>
+      {{- end -}}
+    </div>
+  </div>
+</div>
+{{- end -}}

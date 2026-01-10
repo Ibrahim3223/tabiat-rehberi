@@ -1,0 +1,398 @@
+{
+  "alanlar": [
+    {
+      "id": "kekova",
+      "wikidata_id": "Q2666727",
+      "ad": "Kekova",
+      "tur": "ada",
+      "il": "Antalya",
+      "ilce": "Demre",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.183333333,
+        "lon": 29.883333333
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": 5.7,
+        "genislik": 1.7,
+        "uzunluk": 7.5,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": "Akdeniz Bölgesi",
+        "parcasi": null,
+        "fiziksel_ozellik": "Likya Denizi",
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": "Dünya Mirası Geçici Listesi",
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kekova%20island%20and%20Kalekoey%20village.jpg",
+          "filename": "Kekova island and Kalekoey village.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Kekova",
+        "http://www.wikidata.org/entity/Q2666727"
+      ],
+      "notlar": "Wikidata - Adalar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "silvan-baraj-golu",
+      "wikidata_id": "Q101552225",
+      "ad": "Silvan Baraj Gölü",
+      "tur": "gol",
+      "il": "Diyarbakır",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.302222222,
+        "lon": 41.018888888
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q101552225"
+      ],
+      "notlar": "Wikidata - Göller",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "duden-selalesi",
+      "wikidata_id": "Q2666468",
+      "ad": "Düden Şelalesi",
+      "tur": "selalesi",
+      "il": "Antalya",
+      "ilce": "Muratpaşa",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.85097,
+        "lon": 30.78343
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Duden%20steps.jpg",
+          "filename": "Duden steps.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/D%C3%BCden_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q2666468"
+      ],
+      "notlar": "Wikidata - Şelaleler",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "damlatas-magarasi",
+      "wikidata_id": "Q1158600",
+      "ad": "Damlataş Mağarası",
+      "tur": "magara",
+      "il": "Antalya",
+      "ilce": "Alanya",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.542222222,
+        "lon": 31.99
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": null,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": "Akdeniz Bölgesi",
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Damlata%C5%9F.jpg",
+          "filename": "Damlataş.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Damlata%C5%9F_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q1158600"
+      ],
+      "notlar": "Wikidata - Mağaralar",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "akdag-mill-parki",
+      "wikidata_id": "Q108227344",
+      "ad": "Akdağ Millî Parkı",
+      "tur": "tabiat-parki",
+      "il": "Afyonkarahisar",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": 14678.2873,
+        "genislik": null,
+        "uzunluk": null,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": null,
+        "parcasi": null,
+        "fiziksel_ozellik": null,
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": null,
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": "2000-01-01",
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": "Akdağ Millî Parkı",
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Akda%C4%9F_Mill%C3%AE_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108227344"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    }
+  ]
+}

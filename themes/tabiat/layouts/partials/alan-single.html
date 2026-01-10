@@ -1,122 +1,213 @@
 <div class="alan-page">
-    <!-- Hero Section -->
+    <!-- Hero Section with Image Slider -->
     <div class="alan-hero">
         {{ if .Params.images.hero.url }}
-        <img src="{{ .Params.images.hero.url }}" alt="{{ .Params.images.hero.alt }}" class="hero-image">
-        {{ end }}
-        <div class="hero-content">
-            <h1>{{ .Title }}</h1>
-            <p class="alan-location">📍 {{ .Params.il }}{{ if .Params.ilce }}, {{ .Params.ilce }}{{ end }}</p>
-        </div>
-    </div>
-
-    <!-- Hızlı Bilgiler Kartı -->
-    <div class="quick-info-card">
-        <h2>Hızlı Bilgiler</h2>
-        <div class="info-grid">
-            <div class="info-item">
-                <strong>Tür:</strong>
-                <span>{{ .Params.alan_turu | humanize }}</span>
-            </div>
-            <div class="info-item">
-                <strong>Bölge:</strong>
-                <span>{{ .Params.bolge | humanize }}</span>
-            </div>
-            {{ if .Params.ziyaret.en_iyi_donem }}
-            <div class="info-item">
-                <strong>En İyi Dönem:</strong>
-                <span>{{ .Params.ziyaret.en_iyi_donem | humanize }}</span>
-            </div>
-            {{ end }}
-            {{ if .Params.ziyaret.zorluk }}
-            <div class="info-item">
-                <strong>Zorluk:</strong>
-                <span>{{ .Params.ziyaret.zorluk | humanize }}</span>
-            </div>
-            {{ end }}
-        </div>
-
-        <!-- Aktiviteler -->
-        {{ if .Params.aktiviteler }}
-        <div class="aktiviteler">
-            <strong>Aktiviteler:</strong>
-            {{ range .Params.aktiviteler }}
-            <span class="tag">{{ . }}</span>
-            {{ end }}
-        </div>
-        {{ end }}
-    </div>
-
-    <!-- Giriş Bilgileri (KRİTİK) -->
-    {{ if .Params.giris }}
-    <div class="giris-bilgileri">
-        <h2>Giriş Ücreti & Saatleri</h2>
-
-        {{ if .Params.giris.dogrulanmadi }}
-        <div class="warning">
-            ⚠️ Bu bilgiler henüz resmi kaynaktan doğrulanmamıştır. Ziyaret öncesi ilgili kurumla iletişime geçmenizi öneririz.
-        </div>
-        {{ end }}
-
-        <table class="info-table">
-            <tr>
-                <th>Giriş Ücreti</th>
-                <td>
-                    {{ if .Params.giris.ucret }}
-                    Yetişkin: {{ .Params.giris.ucret.yetiskin | default "Bilinmiyor" }}<br>
-                    {{ if .Params.giris.ucret.cocuk }}Çocuk: {{ .Params.giris.ucret.cocuk }}<br>{{ end }}
-                    {{ if .Params.giris.ucret.arac }}Araç: {{ .Params.giris.ucret.arac }}{{ end }}
-                    {{ else }}
-                    Bilinmiyor
+        <div class="image-slider" id="imageSlider">
+            <div class="slider-container">
+                <!-- Hero Image (Ana gorsel) -->
+                <div class="slide active">
+                    <img src="{{ .Params.images.hero.url }}" alt="{{ .Params.images.hero.alt }}" class="hero-image" loading="eager">
+                    {{ if .Params.images.hero.credit }}
+                    <span class="image-credit">
+                        <i data-lucide="camera" style="width: 12px; height: 12px;"></i>
+                        {{ .Params.images.hero.credit }}
+                    </span>
                     {{ end }}
-                </td>
-            </tr>
-            <tr>
-                <th>Açılış Saatleri</th>
-                <td>
-                    {{ if .Params.giris.saatler }}
-                    {{ .Params.giris.saatler.acilis | default "Bilinmiyor" }} - {{ .Params.giris.saatler.kapanis | default "Bilinmiyor" }}
-                    {{ else }}
-                    Bilinmiyor
-                    {{ end }}
-                </td>
-            </tr>
-            {{ if .Params.giris.son_dogrulama }}
-            <tr>
-                <th>Son Doğrulama</th>
-                <td><small>{{ .Params.giris.son_dogrulama }}</small></td>
-            </tr>
-            {{ end }}
-        </table>
-    </div>
-    {{ end }}
+                </div>
 
-    <!-- Ana İçerik -->
+                <!-- Gallery Images (Galeri gorselleri) -->
+                {{ range $index, $img := .Params.images.gallery }}
+                <div class="slide">
+                    <img src="{{ $img.url }}" alt="{{ $img.alt }}" class="hero-image" loading="lazy">
+                    {{ if $img.credit }}
+                    <span class="image-credit">
+                        <i data-lucide="camera" style="width: 12px; height: 12px;"></i>
+                        {{ $img.credit }}
+                    </span>
+                    {{ end }}
+                </div>
+                {{ end }}
+            </div>
+
+            <!-- Slider Controls (Sadece galeri varsa goster) -->
+            {{ if .Params.images.gallery }}
+            <button class="slider-btn prev" onclick="changeSlide(-1)" aria-label="Onceki gorsel">
+                <i data-lucide="chevron-left"></i>
+            </button>
+            <button class="slider-btn next" onclick="changeSlide(1)" aria-label="Sonraki gorsel">
+                <i data-lucide="chevron-right"></i>
+            </button>
+
+            <!-- Slide Dots -->
+            <div class="slider-dots">
+                <span class="dot active" onclick="goToSlide(0)"></span>
+                {{ range $index, $img := .Params.images.gallery }}
+                <span class="dot" onclick="goToSlide({{ add $index 1 }})"></span>
+                {{ end }}
+            </div>
+            {{ end }}
+        </div>
+
+        <!-- Hero Content Overlay -->
+        <div class="hero-content-overlay">
+            <div class="container">
+                <h1 class="alan-title">{{ .Title }}</h1>
+                <p class="alan-location">
+                    <i data-lucide="map-pin"></i>
+                    {{ .Params.il }}{{ if .Params.ilce }}, {{ .Params.ilce }}{{ end }}
+                </p>
+            </div>
+        </div>
+        {{ else }}
+        <!-- Gorsel yoksa sadece yesil banner -->
+        <div style="background: linear-gradient(135deg, var(--forest-dark), var(--forest-main)); padding: 4rem 0; text-align: center;">
+            <div class="container">
+                <h1 class="alan-title">{{ .Title }}</h1>
+                <p class="alan-location" style="justify-content: center;">
+                    <i data-lucide="map-pin"></i>
+                    {{ .Params.il }}{{ if .Params.ilce }}, {{ .Params.ilce }}{{ end }}
+                </p>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+
+    <!-- Quick Info Card -->
+    <div class="quick-info-section">
+        <div class="quick-info-card">
+            <div class="info-grid">
+                {{ if .Params.ziyaret.en_iyi_donem }}
+                <div class="info-item">
+                    <div class="info-icon">
+                        <i data-lucide="calendar"></i>
+                    </div>
+                    <div class="info-content">
+                        <strong>En Iyi Ziyaret Donemi</strong>
+                        <span>{{ .Params.ziyaret.en_iyi_donem }}</span>
+                    </div>
+                </div>
+                {{ end }}
+
+                {{ if .Params.ziyaret.zorluk }}
+                <div class="info-item">
+                    <div class="info-icon">
+                        <i data-lucide="activity"></i>
+                    </div>
+                    <div class="info-content">
+                        <strong>Zorluk Seviyesi</strong>
+                        <span>{{ .Params.ziyaret.zorluk }}</span>
+                    </div>
+                </div>
+                {{ end }}
+
+                {{ if .Params.ziyaret.tahmini_sure }}
+                <div class="info-item">
+                    <div class="info-icon">
+                        <i data-lucide="clock"></i>
+                    </div>
+                    <div class="info-content">
+                        <strong>Tahmini Sure</strong>
+                        <span>{{ .Params.ziyaret.tahmini_sure }}</span>
+                    </div>
+                </div>
+                {{ end }}
+
+                {{ if .Params.alan_turu }}
+                <div class="info-item">
+                    <div class="info-icon">
+                        <i data-lucide="tag"></i>
+                    </div>
+                    <div class="info-content">
+                        <strong>Alan Turu</strong>
+                        <span>{{ .Params.alan_turu | humanize }}</span>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+
+            <!-- Aktiviteler -->
+            {{ if .Params.aktiviteler }}
+            <div class="aktiviteler">
+                <div class="aktiviteler-title">
+                    <i data-lucide="compass" style="width: 16px; height: 16px; margin-right: 8px;"></i>
+                    Yapilabilecek Aktiviteler
+                </div>
+                <div class="aktiviteler-list">
+                    {{ range .Params.aktiviteler }}
+                    <span class="tag">{{ . }}</span>
+                    {{ end }}
+                </div>
+            </div>
+            {{ end }}
+
+            <!-- Google Maps Butonu -->
+            {{ $coords := .Params.koordinat | default .Params.coordinates }}
+            {{ if $coords }}
+            <div class="map-actions">
+                <a href="https://www.google.com/maps/search/?api=1&query={{ $coords.lat }},{{ $coords.lon }}"
+                   target="_blank"
+                   rel="noopener noreferrer"
+                   class="map-button">
+                    <i data-lucide="map"></i>
+                    <span>Google Maps'te Aç</span>
+                    <i data-lucide="external-link" style="width: 16px; height: 16px;"></i>
+                </a>
+                <a href="https://www.google.com/maps/dir/?api=1&destination={{ $coords.lat }},{{ $coords.lon }}"
+                   target="_blank"
+                   rel="noopener noreferrer"
+                   class="map-button map-button-secondary">
+                    <i data-lucide="navigation"></i>
+                    <span>Yol Tarifi Al</span>
+                </a>
+            </div>
+            {{ end }}
+
+            <!-- Hava Durumu -->
+            {{ if and .Params.il $coords }}
+            <div class="weather-widget">
+                <div class="weather-header">
+                    <i data-lucide="cloud"></i>
+                    <span>Anlık Hava Durumu</span>
+                </div>
+                <div id="weatherData" class="weather-content" data-lat="{{ $coords.lat }}" data-lon="{{ $coords.lon }}">
+                    <div class="weather-loading">
+                        <i data-lucide="loader" class="spin"></i>
+                        <span>Yükleniyor...</span>
+                    </div>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+
+    <!-- Main Content -->
     <div class="alan-content">
         {{ .Content }}
+
+        <!-- Kaynaklar -->
+        {{ if .Params.kaynaklar }}
+        <div class="kaynaklar">
+            <h3>
+                <i data-lucide="book-open" style="width: 20px; height: 20px; margin-right: 8px;"></i>
+                Kaynaklar ve Referanslar
+            </h3>
+            <ul>
+                {{ range .Params.kaynaklar }}
+                <li>
+                    <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">
+                        <i data-lucide="external-link" style="width: 14px; height: 14px;"></i>
+                        {{ .title }}
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+        {{ end }}
     </div>
 
-    <!-- Kaynaklar -->
-    {{ if .Params.kaynaklar }}
-    <div class="kaynaklar">
-        <h2>Kaynaklar</h2>
-        <ul>
-            {{ range .Params.kaynaklar }}
-            <li>
-                <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>
-                <small>({{ .tip }})</small>
-            </li>
-            {{ end }}
-        </ul>
-    </div>
-    {{ end }}
+    <!-- FAQ Bölümü (SEO için) - ŞU AN DEVREDİŞI (Veriler yetersiz, çok genel içerik üretiyor) -->
+    {{/* partial "faq.html" . */}}
 
-    <!-- Harita (Koordinat varsa) -->
-    {{ if and .Params.coordinates.lat .Params.coordinates.lon }}
-    <div class="map-container">
-        <h2>Konum</h2>
-        <p>Enlem: {{ .Params.coordinates.lat }}, Boylam: {{ .Params.coordinates.lon }}</p>
-        <p><a href="https://www.google.com/maps?q={{ .Params.coordinates.lat }},{{ .Params.coordinates.lon }}" target="_blank">Google Maps'te Aç</a></p>
-    </div>
-    {{ end }}
+    <!-- İlgili Alanlar (Internal Linking for SEO) -->
+    {{ partial "related-areas.html" . }}
 </div>

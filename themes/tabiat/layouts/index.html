@@ -2,29 +2,140 @@
 <div class="home-page">
     <!-- Hero Section -->
     <section class="hero">
-        <div class="container">
-            <h1>🌲 Türkiye Doğal Alanlar Rehberi</h1>
-            <p class="subtitle">10.000+ milli park, tabiat parkı, kanyon, şelale ve doğal alan</p>
+        <div class="hero-content">
+            <div class="hero-badge">
+                <i data-lucide="leaf"></i>
+                <span>Turkiye'nin En Kapsamli Doga Rehberi</span>
+            </div>
 
-            <!-- Arama (placeholder) -->
-            <div class="search-box">
-                <input type="text" placeholder="Alan adı veya il ara..." id="search-input">
-                <button>Ara</button>
+            <h1>
+                Dogayi Kesfet,
+                <span>Turkiye'yi Tani</span>
+            </h1>
+
+            <p class="hero-subtitle">
+                10.000'den fazla milli park, tabiat parki, kanyon, selale ve dogal alan hakkinda detayli bilgi
+            </p>
+
+            <!-- Hero Search -->
+            <div class="hero-search">
+                <div class="search-box">
+                    <input type="text" placeholder="Alan adi, il veya tur ara..." id="heroSearch">
+                    <button type="button">
+                        <i data-lucide="search"></i>
+                        <span>Ara</span>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Hero Stats -->
+            <div class="hero-stats">
+                <div class="stat-item">
+                    <div class="stat-number">13,000+</div>
+                    <div class="stat-label">Dogal Alan</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">81</div>
+                    <div class="stat-label">Il</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">19+</div>
+                    <div class="stat-label">Alan Turu</div>
+                </div>
             </div>
         </div>
     </section>
 
-    <!-- Popüler İller -->
+    <!-- Turler Bolumleri -->
+    <section class="explore-by-type">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-subtitle">
+                    <i data-lucide="layers"></i>
+                    Kategoriler
+                </span>
+                <h2 class="section-title">Turlere Gore Kesfet</h2>
+                <p class="section-description">
+                    Turkiye'nin zengin dogal mirasini farkli kategorilerde kesfet
+                </p>
+            </div>
+
+            <div class="type-grid">
+                <a href="/turler/milli-park/" class="type-card">
+                    <div class="type-card-content">
+                        <div class="type-card-icon">&#127966;</div>
+                        <div class="type-card-title">Milli Parklar</div>
+                        <div class="type-card-count">47 alan</div>
+                    </div>
+                </a>
+                <a href="/turler/tabiat-parki/" class="type-card">
+                    <div class="type-card-content">
+                        <div class="type-card-icon">&#127794;</div>
+                        <div class="type-card-title">Tabiat Parklari</div>
+                        <div class="type-card-count">250+ alan</div>
+                    </div>
+                </a>
+                <a href="/turler/kanyon/" class="type-card">
+                    <div class="type-card-content">
+                        <div class="type-card-icon">&#9968;</div>
+                        <div class="type-card-title">Kanyonlar</div>
+                        <div class="type-card-count">150+ alan</div>
+                    </div>
+                </a>
+                <a href="/turler/selale/" class="type-card">
+                    <div class="type-card-content">
+                        <div class="type-card-icon">&#128167;</div>
+                        <div class="type-card-title">Selaleler</div>
+                        <div class="type-card-count">300+ alan</div>
+                    </div>
+                </a>
+                <a href="/turler/gol/" class="type-card">
+                    <div class="type-card-content">
+                        <div class="type-card-icon">&#127754;</div>
+                        <div class="type-card-title">Goller</div>
+                        <div class="type-card-count">200+ alan</div>
+                    </div>
+                </a>
+                <a href="/turler/magara/" class="type-card">
+                    <div class="type-card-content">
+                        <div class="type-card-icon">&#128376;</div>
+                        <div class="type-card-title">Magaralar</div>
+                        <div class="type-card-count">400+ alan</div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Populer Iller -->
     <section class="popular-provinces">
         <div class="container">
-            <h2>Popüler İller</h2>
+            <div class="section-header">
+                <span class="section-subtitle">
+                    <i data-lucide="map-pin"></i>
+                    Bolgeler
+                </span>
+                <h2 class="section-title">Populer Iller</h2>
+                <p class="section-description">
+                    En cok ziyaret edilen illerdeki dogal alanlari kesfet
+                </p>
+            </div>
+
             <div class="province-grid">
-                {{ $provinces := slice "Antalya" "Muğla" "İstanbul" "İzmir" "Konya" "Artvin" "Rize" "Trabzon" }}
+                {{ $provinces := slice "Antalya" "Mugla" "Istanbul" "Izmir" "Konya" "Artvin" "Rize" "Trabzon" "Bolu" "Bursa" "Karabuk" "Denizli" }}
                 {{ range $provinces }}
                 <a href="/iller/{{ . | urlize }}/" class="province-card">
+                    <i data-lucide="map-pin" style="width: 16px; height: 16px; margin-right: 8px; opacity: 0.5;"></i>
                     {{ . }}
                 </a>
                 {{ end }}
+            </div>
+
+            <div class="text-center">
+                <a href="/iller/" class="btn btn-secondary btn-lg">
+                    <i data-lucide="grid"></i>
+                    <span>Tum Iller</span>
+                </a>
             </div>
         </div>
     </section>
@@ -32,35 +143,52 @@
     <!-- Son Eklenen Alanlar -->
     <section class="recent-areas">
         <div class="container">
-            <h2>Son Eklenen Alanlar</h2>
+            <div class="section-header">
+                <span class="section-subtitle">
+                    <i data-lucide="clock"></i>
+                    Yeni Eklenenler
+                </span>
+                <h2 class="section-title">Son Eklenen Alanlar</h2>
+                <p class="section-description">
+                    Veritabanimiza yeni eklenen dogal alanlar
+                </p>
+            </div>
+
             <div class="areas-grid">
-                {{ range first 12 (where .Site.RegularPages "Type" "alan") }}
-                <article class="area-card">
-                    <h3>
-                        <a href="{{ .Permalink }}">{{ .Title }}</a>
-                    </h3>
-                    <p class="meta">📍 {{ .Params.il }}</p>
-                    <p class="type">{{ .Params.alan_turu | humanize }}</p>
-                </article>
+                {{ range first 6 (where .Site.RegularPages "Type" "alan") }}
+                <a href="{{ .Permalink }}" class="area-card">
+                    {{ if .Params.images.hero.url }}
+                    <div class="area-card-image">
+                        <img src="{{ .Params.images.hero.url }}" alt="{{ .Title }}" loading="lazy">
+                        <span class="area-card-badge">{{ .Params.alan_turu | humanize }}</span>
+                    </div>
+                    {{ end }}
+                    <div class="area-card-content">
+                        <h3 class="area-card-title">{{ .Title }}</h3>
+                        <div class="area-card-location">
+                            <i data-lucide="map-pin"></i>
+                            <span>{{ .Params.il }}{{ if .Params.ilce }}, {{ .Params.ilce }}{{ end }}</span>
+                        </div>
+                        <div class="area-card-meta">
+                            <div class="area-card-tags">
+                                {{ if .Params.ziyaret.zorluk }}
+                                <span class="area-card-tag">{{ .Params.ziyaret.zorluk }}</span>
+                                {{ end }}
+                            </div>
+                            <div class="area-card-arrow">
+                                <i data-lucide="arrow-right"></i>
+                            </div>
+                        </div>
+                    </div>
+                </a>
                 {{ end }}
             </div>
-            <div class="text-center">
-                <a href="/alanlar/" class="btn-primary">Tüm Alanlar</a>
-            </div>
-        </div>
-    </section>
 
-    <!-- Türlere Göre Keşfet -->
-    <section class="explore-by-type">
-        <div class="container">
-            <h2>Türlere Göre Keşfet</h2>
-            <div class="type-grid">
-                <a href="/turler/milli-park/" class="type-card">🏞️ Milli Parklar</a>
-                <a href="/turler/tabiat-parki/" class="type-card">🌲 Tabiat Parkları</a>
-                <a href="/turler/kanyon/" class="type-card">⛰️ Kanyonlar</a>
-                <a href="/turler/selalesi/" class="type-card">💧 Şelaleler</a>
-                <a href="/turler/gol/" class="type-card">🏔️ Göller</a>
-                <a href="/turler/magara/" class="type-card">🕳️ Mağaralar</a>
+            <div class="text-center">
+                <a href="/alanlar/" class="btn btn-primary btn-lg">
+                    <i data-lucide="compass"></i>
+                    <span>Tum Alanlari Gor</span>
+                </a>
             </div>
         </div>
     </section>

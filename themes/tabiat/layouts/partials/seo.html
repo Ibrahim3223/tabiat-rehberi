@@ -1,0 +1,268 @@
+{{- $coords := .Params.koordinat | default .Params.coordinates -}}
+{{- $isAlan := eq .Type "alan" -}}
+
+<!-- Basic Meta Tags -->
+<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else if .Summary }}{{ .Summary | truncate 155 }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+{{ if .Params.keywords }}
+<meta name="keywords" content="{{ delimit .Params.keywords ", " }}">
+{{ end }}
+<meta name="author" content="{{ .Site.Title }}">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+<!-- Canonical URL -->
+<link rel="canonical" href="{{ .Permalink }}">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="{{ if $isAlan }}article{{ else }}website{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:title" content="{{ .Title }} - {{ .Site.Title }}">
+<meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else if .Summary }}{{ .Summary | truncate 155 }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:locale" content="tr_TR">
+{{ if .Params.images.hero.url }}
+<meta property="og:image" content="{{ .Params.images.hero.url }}">
+<meta property="og:image:alt" content="{{ .Params.images.hero.alt | default .Title }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+{{ end }}
+{{ if $isAlan }}
+<meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+<meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
+<meta property="article:section" content="{{ .Params.alan_turu | humanize }}">
+{{ range .Params.keywords }}
+<meta property="article:tag" content="{{ . }}">
+{{ end }}
+{{ end }}
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ .Title }} - {{ .Site.Title }}">
+<meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else if .Summary }}{{ .Summary | truncate 155 }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+{{ if .Params.images.hero.url }}
+<meta name="twitter:image" content="{{ .Params.images.hero.url }}">
+<meta name="twitter:image:alt" content="{{ .Params.images.hero.alt | default .Title }}">
+{{ end }}
+
+<!-- Geo Tags (if coordinates exist) -->
+{{ if and $coords $coords.lat $coords.lon }}
+<meta name="geo.position" content="{{ $coords.lat }};{{ $coords.lon }}">
+<meta name="geo.placename" content="{{ .Title }}">
+<meta name="geo.region" content="TR{{ if .Params.il }}-{{ .Params.il }}{{ end }}">
+<meta name="ICBM" content="{{ $coords.lat }}, {{ $coords.lon }}">
+{{ end }}
+
+<!-- Schema.org Structured Data (JSON-LD) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "{{ .Site.BaseURL }}#website",
+      "url": "{{ .Site.BaseURL }}",
+      "name": "{{ .Site.Title }}",
+      "description": "{{ .Site.Params.description }}",
+      "publisher": {
+        "@id": "{{ .Site.BaseURL }}#organization"
+      },
+      "inLanguage": "tr-TR"
+    },
+    {
+      "@type": "Organization",
+      "@id": "{{ .Site.BaseURL }}#organization",
+      "name": "{{ .Site.Title }}",
+      "url": "{{ .Site.BaseURL }}",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ .Site.BaseURL }}logo.png",
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "{{ .Permalink }}#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Ana Sayfa",
+          "item": "{{ .Site.BaseURL }}"
+        }
+        {{ if .Section }},
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "{{ .Section | humanize }}",
+          "item": "{{ .Site.BaseURL }}{{ .Section }}/"
+        }
+        {{ end }}
+        {{ if .Parent }},
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "{{ .Parent.Title }}",
+          "item": "{{ .Parent.Permalink }}"
+        }
+        {{ end }},
+        {
+          "@type": "ListItem",
+          "position": {{ if .Parent }}4{{ else if .Section }}3{{ else }}2{{ end }},
+          "name": "{{ .Title }}"
+        }
+      ]
+    }
+    {{ if $isAlan }},
+    {
+      "@type": "{{ .Params.schema_type | default "TouristAttraction" }}",
+      "@id": "{{ .Permalink }}#place",
+      "name": "{{ .Title }}",
+      "description": "{{ if .Description }}{{ .Description }}{{ else }}{{ .Summary | truncate 155 }}{{ end }}",
+      "url": "{{ .Permalink }}",
+      {{ if .Params.images.hero.url }}
+      "image": {
+        "@type": "ImageObject",
+        "url": "{{ .Params.images.hero.url }}",
+        "width": 1200,
+        "height": 800
+      },
+      {{ end }}
+      {{ if and $coords $coords.lat $coords.lon }}
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": {{ $coords.lat }},
+        "longitude": {{ $coords.lon }}
+      },
+      {{ end }}
+      {{ if .Params.il }}
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "{{ .Params.ilce | default .Params.il }}",
+        "addressRegion": "{{ .Params.il }}",
+        "addressCountry": "TR"
+      },
+      {{ end }}
+      {{ if .Params.ziyaret.en_iyi_donem }}
+      "touristType": "{{ .Params.ziyaret.en_iyi_donem }}",
+      {{ end }}
+      {{ if .Params.aktiviteler }}
+      "availableLanguage": "tr",
+      "amenityFeature": [
+        {{ range $index, $aktivite := .Params.aktiviteler }}
+        {{ if $index }},{{ end }}
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "{{ $aktivite }}"
+        }
+        {{ end }}
+      ],
+      {{ end }}
+      "inLanguage": "tr-TR",
+      "isAccessibleForFree": {{ if .Params.giris.ucret.yetiskin }}{{ if eq .Params.giris.ucret.yetiskin "Ücretsiz" }}true{{ else }}false{{ end }}{{ else }}true{{ end }}
+    }
+    {{ end }}
+  ]
+}
+</script>
+
+<!-- Additional Schema for Article (if area page) -->
+{{ if $isAlan }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title }}",
+  "description": "{{ if .Description }}{{ .Description }}{{ else }}{{ .Summary | truncate 155 }}{{ end }}",
+  "image": {{ if .Params.images.hero.url }}"{{ .Params.images.hero.url }}"{{ else }}[]{{ end }},
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+  "author": {
+    "@type": "Organization",
+    "name": "{{ .Site.Title }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Title }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.BaseURL }}logo.png"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  },
+  "keywords": "{{ if .Params.keywords }}{{ delimit .Params.keywords ", " }}{{ end }}",
+  "articleSection": "{{ .Params.alan_turu | humanize }}"
+}
+</script>
+{{ end }}
+
+<!-- FAQ Schema (if area page) - ŞU AN DEVREDİŞI (Veriler yetersiz, çok genel içerik üretiyor) -->
+{{/*
+{{ if $isAlan }}
+{{- $alanTuru := .Params.alan_turu | lower -}}
+{{- $faqs := slice -}}
+
+{{- if or (in $alanTuru "mağara") (in $alanTuru "magara") -}}
+  {{- $faqs = slice
+    (dict "q" "Mağara içi sıcaklık ne kadardır?" "a" (printf "%s mağarası yıl boyunca sabit bir sıcaklığa sahiptir. Mağara içi genellikle 15-20°C arasında seyreder, bu nedenle hafif bir ceket almanızı öneririz." .Title))
+    (dict "q" "Rehber eşliğinde mi gezilir?" "a" "Mağara içi güvenlik nedeniyle genellikle rehber eşliğinde gezilir. Ziyaret saatleri ve tur programları için yerel yönetim veya milli park müdürlüğü ile iletişime geçebilirsiniz.")
+    (dict "q" "Fotoğraf çekmek serbest mi?" "a" "Evet, mağara içinde fotoğraf çekmek genellikle serbesttir. Ancak flaş kullanımı formasyonlara zarar verebileceği için kısıtlanabilir.")
+    (dict "q" "Astım hastaları için uygun mu?" "a" "Birçok mağara yüksek nem oranı ve sabit sıcaklığı nedeniyle astım hastaları için faydalı olabilir.")
+  -}}
+{{- else if or (in $alanTuru "göl") (in $alanTuru "gol") -}}
+  {{- $faqs = slice
+    (dict "q" "Gölde yüzmek mümkün mü?" "a" (printf "%s'de yüzme, su sıcaklığı ve koruma statüsüne bağlıdır. Yaz aylarında genellikle yüzülebilir." .Title))
+    (dict "q" "Kamp yapmak serbest mi?" "a" "Belirlenmiş kamp alanlarını kullanmanız önemlidir. Doğayı korumak için çöplerinizi yanınızda götürün.")
+    (dict "q" "En iyi ziyaret zamanı ne zaman?" "a" "İlkbahar (Nisan-Mayıs) ve erken sonbahar (Eylül-Ekim) ayları en ideal dönemdir.")
+    (dict "q" "Balık tutmak yasak mı?" "a" "Balık tutma, gölün koruma statüsüne göre değişir. Yerel yönetmeliklerle bilgi almanızı öneririz.")
+  -}}
+{{- else if or (in $alanTuru "şelale") (in $alanTuru "selale") -}}
+  {{- $faqs = slice
+    (dict "q" "Şelaleye nasıl ulaşılır?" "a" "Genellikle yürüyüş patikası ile ulaşılır. Rahat ayakkabılar ve su geçirmez kıyafetler getirmenizi tavsiye ederiz.")
+    (dict "q" "Piknik yapmak mümkün mü?" "a" "Belirlenmiş piknik alanları genellikle mevcuttur. Doğaya saygılı olun ve çöplerinizi yanınızda götürün.")
+  -}}
+{{- else if or (in $alanTuru "dağ") (in $alanTuru "dag") -}}
+  {{- $faqs = slice
+    (dict "q" "Dağa tırmanmak için özel ekipman gerekli mi?" "a" "Deneyim seviyenize göre ekipman gerekebilir. Zirve tırmanışı için profesyonel ekipman şarttır.")
+    (dict "q" "En iyi tırmanış sezonu ne zaman?" "a" "Dağ tırmanışları için en uygun dönem Haziran-Eylül arası yaz aylarıdır.")
+  -}}
+{{- else if or (in $alanTuru "plaj") (in $alanTuru "koy") -}}
+  {{- $faqs = slice
+    (dict "q" "Plaj giriş ücreti var mı?" "a" "Giriş genellikle ücretsizdir, ancak yaz sezonunda şezlong ve şemsiye kiralama ücretlidir.")
+    (dict "q" "Dalış yapmak mümkün mü?" "a" "Evet, berrak sularda dalış ve şnorkelle yüzmek için idealdir.")
+  -}}
+{{- else if or (in $alanTuru "park") (in $alanTuru "milli") (in $alanTuru "tabiat") -}}
+  {{- $faqs = slice
+    (dict "q" "Park giriş ücreti ne kadar?" "a" "Giriş için ücret alınabilir. Güncel fiyatlar için resmi web sitesini ziyaret edebilirsiniz.")
+    (dict "q" "Evcil hayvan götürebilir miyim?" "a" "Milli parkların çoğunda evcil hayvan girmesi kısıtlanmıştır.")
+  -}}
+{{- else -}}
+  {{- $faqs = slice
+    (dict "q" (printf "%s'ye nasıl gidilir?" .Title) "a" (printf "%s, %s ilinde yer almaktadır. Toplu taşıma veya özel araç ile ulaşabilirsiniz." .Title .Params.il))
+    (dict "q" "En iyi ziyaret zamanı ne zaman?" "a" "İlkbahar (Nisan-Mayıs) ve erken sonbahar (Eylül-Ekim) ayları en ideal dönemdir.")
+  -}}
+{{- end -}}
+
+{{ if gt (len $faqs) 0 }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ range $index, $faq := $faqs }}{{ if $index }},{{ end }}
+    {
+      "@type": "Question",
+      "name": "{{ $faq.q }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ $faq.a }}"
+      }
+    }{{ end }}
+  ]
+}
+</script>
+{{ end }}
+{{ end }}
+*/}}

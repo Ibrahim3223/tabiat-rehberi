@@ -1,0 +1,44 @@
+{
+  "name": "tabiat-rehberi",
+  "version": "1.0.0",
+  "description": "Türkiye Doğal Alanlar Ansiklopedisi - 13,000+ doğal alan için kapsamlı rehber",
+  "type": "module",
+  "scripts": {
+    "detect-qids": "node scripts/wikidata-qid-detector.js",
+    "fetch-wikidata": "node scripts/fetch-wikidata.js",
+    "fetch-dkmp": "node scripts/fetch-dkmp-official.js",
+    "merge-sources": "node scripts/merge-sources.js",
+    "generate:test": "node scripts/generate-content.js --limit=10",
+    "generate:all": "node scripts/generate-content.js",
+    "generate-advanced:test": "node scripts/generate-content-advanced.js --limit=10",
+    "generate-advanced:all": "node scripts/generate-content-advanced.js",
+    "generate-section:test": "node scripts/generate-content-section-by-section.js --limit=10",
+    "generate-section:all": "node scripts/generate-content-section-by-section.js",
+    "hugo:dev": "hugo server -D",
+    "hugo:build": "hugo --minify",
+    "deploy": "npm run hugo:build && wrangler pages deploy public",
+    "full-pipeline": "npm run fetch-wikidata && npm run fetch-dkmp && npm run merge-sources && npm run generate-advanced:all && npm run hugo:build"
+  },
+  "keywords": [
+    "türkiye",
+    "doğal-alanlar",
+    "milli-parklar",
+    "hugo",
+    "static-site",
+    "seo",
+    "cloudflare-pages"
+  ],
+  "author": "Tabiat Rehberi",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.5",
+    "dotenv": "^16.3.1",
+    "groq-sdk": "^0.3.0"
+  },
+  "devDependencies": {
+    "wrangler": "^3.22.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

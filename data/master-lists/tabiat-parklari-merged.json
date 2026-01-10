@@ -1,0 +1,3353 @@
+{
+  "meta": {
+    "kaynak": "Wikipedia + Wikidata + DKMP (merged)",
+    "guncelleme_tarihi": "2026-01-08",
+    "toplam_sayi": 146,
+    "wikipedia_sayi": 105,
+    "wikidata_sayi": 119,
+    "dkmp_sayi": 0
+  },
+  "alanlar": [
+    {
+      "id": "turkiyedeki-tabiat-parklari-listesi",
+      "ad": "Türkiye'deki tabiat parkları listesi",
+      "tur": "tabiat-parki",
+      "il": "İstanbul",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/T%C3%BCrkiye'deki%20tabiat%20parklar%C4%B1%20listesi"
+      ],
+      "notlar": "Türkiye'deki tabiat parkları listesi, Türkiye'de bulunan tabiat parklarının derlendiği listedir. Tarım ve Orman Bakanlığı kayıtlarına göre Türkiye'de 266 adet tabiat parkı bulunmaktadır. 1 Aralık 1983",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "26-agustos-tabiat-parki",
+      "ad": "26 Ağustos Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Afyonkarahisar",
+      "ilce": "Sinanpaşa",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.7883039,
+        "lon": 30.3789485
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/26%20A%C4%9Fustos%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/26_A%C4%9Fustos_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q110422209"
+      ],
+      "notlar": "26 Ağustos Tabiat Parkı, Afyonkarahisar'ın Sinanpaşa ilçesinde yer alan, 3 Nisan 2008'de tabiat parkı ilan edilen park.\nYaklaşık 65 hektarlık alana sahiptir. Milli park içerisinde gözlem kulesi, 3 tan",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/26%20August%20Nature%20Park.jpg",
+          "filename": "26 August Nature Park.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q110422209",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "agacbasi-tabiat-parki",
+      "ad": "Ağaçbaşı Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Giresun",
+      "ilce": "Giresun",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.69251,
+        "lon": 38.3213794
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/A%C4%9Fa%C3%A7ba%C5%9F%C4%B1%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/A%C4%9Fa%C3%A7ba%C5%9F%C4%B1_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228131"
+      ],
+      "notlar": "Ağaçbaşı Tabiat Parkı, Giresun'da Merkez ilçesine bağlı İnişdibi köyü ile Dereli ilçesi, Yavuz Kemal beldesi içerisinde kalan Ağaçbaşı yaylası açık hava rekreasyonu ve sahip olduğu doğal kaynaklar ned",
+      "wikidata_id": "Q108228131",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "ahatlar-tabiat-parki",
+      "ad": "Ahatlar Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Bartın",
+      "ilce": "Amasra",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.741629,
+        "lon": 32.4184473
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ahatlar%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Ahatlar_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228211"
+      ],
+      "notlar": "Ahatlar Tabiat Parkı, Bartın'ın Amasra ilçesi, Ahatlar Köyü'nde yer alan 9,3 hektarlık alan, 11 Temmuz 2011 tarihinde tabiat parkı ilan edilmiştir.\nBartın'a 23 km, Karabük'e 101 km, Zonguldak'a 106 km",
+      "wikidata_id": "Q108228211",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "akgol-tabiat-parki",
+      "ad": "Akgöl Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Sinop",
+      "ilce": "Kargı",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.70027778,
+        "lon": 34.59611111
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Akg%C3%B6l%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Aksu_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q110423637"
+      ],
+      "notlar": "Akgöl Tabiat Parkı, Sinop ilinin Ayancık ilçesinin güneyinde Akgöl mevkiinde bulunan 40 hektarlık alan, 28 Mayıs 2018 tarihinde tabiat parkı ilan edilmiştir. Bölgenin doğal bitki örtüsünü ormanlar olu",
+      "wikidata_id": "Q110423637",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "aksu-tabiat-parki",
+      "ad": "Aksu Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Çorum",
+      "ilce": "Ayancık",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.700268166,
+        "lon": 34.596185814
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Aksu%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Akg%C3%B6l_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q110423280"
+      ],
+      "notlar": "Aksu Tabiat Parkı, Çorum'un Kargı ilçesinde yer alan Aksu Göleti 2021 yılında tabiat parkı ilan edilmiştir.\nYaklaşık rakımı 1450 m olan tabiat parkında sarıçam, karaçam, köknar gibi birçok ağaç çeşidi",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Akg%C3%B6l%20Tabiat%20Park%C4%B1.jpg",
+          "filename": "Akgöl Tabiat Parkı.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q110423280",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "akyokus-tabiat-parki",
+      "ad": "Akyokuş Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Konya",
+      "ilce": "Çamlıdere",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.5785638,
+        "lon": 32.5275993
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Akyoku%C5%9F%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/%C3%87amkoru_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q6084143"
+      ],
+      "notlar": "Akyokuş Tabiat Parkı, Konya'nın Meram ilçesi, Akyokuş mevkiinde bulunan 11 Temmuz 2011 tarihinde tabiat parkı ilan edilen park.\nYaklaşık 21,6 hektar alana yayılmıştır. Dut, ters dut, badem, huş ağacı,",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%87amkoru%20Milli%20Park%C4%B1%20-%20panoramio.jpg",
+          "filename": "Çamkoru Milli Parkı - panoramio.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q6084143",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "altiparmak-tabiat-parki",
+      "ad": "Altıparmak Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Artvin",
+      "ilce": "Ardeşen",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Alt%C4%B1parmak%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Alt%C4%B1parmak_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q6063417"
+      ],
+      "notlar": "Altıparmak Tabiat Parkı, Artvin ili sınırlarında 11.07.2013 tarihinde, 2.110,92 ha alanda ilan edilen tabiat parkıdır. Kaçkar Dağları'nın doğu bölümü olan Altıparmak Dağları yamaçlarındadır. Yakınları",
+      "wikidata_id": "Q6063417",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "amazon-tabiat-parki",
+      "ad": "Amazon Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Samsun",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Amazon%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Amazon_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228768"
+      ],
+      "notlar": "Amazon Tabiat Parkı Samsun ilinin Terme ilçesi mülki sınırlarında bulunan tabiat parkıdır. Samsun merkeze 90, Terme merkeze 20 kilometre uzaklıktadır.",
+      "wikidata_id": "Q108228768",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "artabel-golleri-tabiat-parki",
+      "ad": "Artabel Gölleri Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Gümüşhane",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Artabel%20G%C3%B6lleri%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Artabel_G%C3%B6lleri_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q97204450"
+      ],
+      "notlar": "Artebel Gölleri Tabiat Parkı, Gümüşhane'nin Torul ilçesindeki bir tabiat parkıdır. 1998 yılında tabiat parkı ilan edilen bölge, buzul çağında oluştuğu düşünülen ve Gülaçar köyü sınırlarında kalan beş ",
+      "wikidata_id": "Q97204450",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "ayazmapinari-tabiat-parki",
+      "ad": "Ayazmapınarı Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Çanakkale",
+      "ilce": "Çanakkale",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ayazmap%C4%B1nar%C4%B1%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Ayazmap%C4%B1nar%C4%B1_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228204"
+      ],
+      "notlar": "Ayazmapınarı Tabiat Parkı, Çanakkale İli, Bayramiç İlçesi, Evciler Köyü sınırları içerisinde yer almakta olan bir tabiat parkıdır. Florası güneyinde bulunan Kaz Dağları'ndan etkilenmiştir.490 metre ra",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ayazma%20Milli%20Park%C4%B1%2C%20Bayrami%C3%A7%20%2828072023%29%20-%2053077474035.jpg",
+          "filename": "Ayazma Milli Parkı, Bayramiç (28072023) - 53077474035.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q108228204",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "aydincik-tabiat-parki",
+      "ad": "Aydıncık Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Aydın",
+      "ilce": "Mersin",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.147777777,
+        "lon": 33.360555555
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ayd%C4%B1nc%C4%B1k%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Ayd%C4%B1nc%C4%B1k_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q48791812"
+      ],
+      "notlar": "Aydıncık (İncekum) Tabiat Parkı, Mersin'de bir tabiat parkı.",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aydincik%20Incekum.jpg",
+          "filename": "Aydincik Incekum.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q48791812",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "aydinpinar-selaleleri-tabiat-parki",
+      "ad": "Aydınpınar Şelaleleri Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Aydın",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.74722222,
+        "lon": 31.10194444
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ayd%C4%B1np%C4%B1nar%20%C5%9Eelaleleri%20Tabiat%20Park%C4%B1"
+      ],
+      "notlar": "Aydınpınar Şelaleleri Tabiat Parkı; Düzce'nin Merkez ilçesi, Aydınpınar köyünde bulunan 100 hektarlık bir alandır. 25 Ağustos 2014 tarihinde Tabiat Parkı olarak ilan edilmiştir.\nŞehir merkezine 10 km ",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "ayikayasi-tabiat-parki",
+      "ad": "Ayıkayası Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Bolu",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ay%C4%B1kayas%C4%B1%20Tabiat%20Park%C4%B1"
+      ],
+      "notlar": "Bolu ili, Merkez ilçesinde bulunan Ayıkayası Tabiat Parkı, 29 Ağustos 2014'te ilan edilmiş olup, 446 hektarlık bir alanı kapsamaktadır. Doğal kaynak değerleri ve rekreasyon potansiyeliyle öne çıkan bu",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "aymac-tabiat-parki",
+      "ad": "Aymaç Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Giresun",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ayma%C3%A7%20Tabiat%20Park%C4%B1"
+      ],
+      "notlar": "Aymaç Tabiat Parkı, Giresun'un Dereli ilçesinde yer alan, 22 Eylül 2017'de tabiat parkı ilan edilen parktır.\n40.30 Hektar alana sahiptir. Kümbet Yaylası'nın hemen sınırında yer alır.\nTabiat parkında 1",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "aynaligol-magarasi",
+      "ad": "Aynalıgöl Mağarası",
+      "tur": "tabiat-parki",
+      "il": "Aydın",
+      "ilce": "Aydıncık",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.1311,
+        "lon": 33.4025
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Aynal%C4%B1g%C3%B6l%20Ma%C4%9Faras%C4%B1",
+        "https://tr.wikipedia.org/wiki/Aynal%C4%B1g%C3%B6l_Ma%C4%9Faras%C4%B1",
+        "http://www.wikidata.org/entity/Q18125116"
+      ],
+      "notlar": "Gilindire veya Aynalıgöl Mağarası, Mersin'e bağlı Aydıncık ilçesinin 7,5 km güneydoğusunda, Sancak Burnu ile Kurtini Deresi arasında yer alan mağara. Bir çoban tarafından tesadüf eseri bulunuştur. Gir",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/31.Gilindire%20Cave%20Ayd%C4%B1nc%C4%B1k.jpg",
+          "filename": "31.Gilindire Cave Aydıncık.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q18125116",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "ayvalik-adalari-tabiat-parki",
+      "ad": "Ayvalık Adaları Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Balıkesir",
+      "ilce": "Ayvalık",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.295,
+        "lon": 26.628333333
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ayval%C4%B1k%20Adalar%C4%B1%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Ayval%C4%B1k_Adalar%C4%B1_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q31189340"
+      ],
+      "notlar": "Ayvalık Adaları Tabiat Parkı Balıkesir ili, Ayvalık ilçe sınırlarında yer alan Ayvalık Adalarının 19 tanesini kapsayan tabiat parkı. Bakanlar Kurulunun 21 Nisan 1995 tarihli kararı ile oluşturulmuştur",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ayval%C4%B1k.jpeg",
+          "filename": "Ayvalık.jpeg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q31189340",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "bafa-golu",
+      "ad": "Bafa Gölü",
+      "tur": "tabiat-parki",
+      "il": "Aydın",
+      "ilce": "Aydın",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Bafa%20G%C3%B6l%C3%BC",
+        "http://www.wikidata.org/entity/Q108227125"
+      ],
+      "notlar": "Bafa Gölü (Çamiçi  Gölü olarak da bilinir, eskiden Vafi Denizi), Ege Bölgesi'nin en büyük gölü.\nBafa Gölü, Büyük Menderes Nehri deltasının güneydoğu kesiminde, Menteşe Dağlarının içine sokulmuş sığ bi",
+      "wikidata_id": "Q108227125",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "balamba-tabiat-parki",
+      "ad": "Balamba Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Bartın",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Balamba%20Tabiat%20Park%C4%B1"
+      ],
+      "notlar": "Balamba Tabiat Parkı, Bartın ilinde Bartın-Karabük yolu üzerinde bulunan bir tabiat parkıdır. 11 Temmuz 2011 yılında açılmıştır.\nKent merkezine 2,2 km mesafedeki park, Bartın-Karabük yolu üzerinde kol",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "balikli-gunesli-selaleleri-tabiat-parki",
+      "ad": "Balıklı-Güneşli Şelaleleri Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Artvin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Bal%C4%B1kl%C4%B1-G%C3%BCne%C5%9Fli%20%C5%9Eelaleleri%20Tabiat%20Park%C4%B1"
+      ],
+      "notlar": "Artvin Hopa'da bulunan, Haziran 2017'de ilan edilen Balıklı ve Güneşli Şelaleleri Tabiat Parkı, Güneşli Köyü ve Balıklı Köyü sınırları içerisindedir. Park 173 hektarlık bir alanı kaplamaktadır.",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "ballica-magarasi-tabiat-parki",
+      "ad": "Ballıca Mağarası Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Muş",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ball%C4%B1ca%20Ma%C4%9Faras%C4%B1%20Tabiat%20Park%C4%B1"
+      ],
+      "notlar": "Ballıca Mağarası Tabiat Parkı, Tokat'ın Pazar ilçesinde ve Ballıca köyü yakınlarında bulunan, 483 hektarlık alana sahip, 23 Şubat 2007'de tabiat parkı olarak ilan edilmiş alan.\nİsmini yakınında buluna",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "ballikayalar",
+      "ad": "Ballıkayalar",
+      "tur": "tabiat-parki",
+      "il": "İstanbul",
+      "ilce": "Kocaeli",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.839166905,
+        "lon": 29.52002065
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ball%C4%B1kayalar",
+        "http://www.wikidata.org/entity/Q6027918"
+      ],
+      "notlar": "Ballıkayalar, Kocaeli'nin Gebze ilçesi Tavşanlı köyü yakınlarında kayalık kanyon vadidir. Tabiat parkı statüsündedir.\nEski zamanlarda yüksekteki kaya boşlukları kovan yeri olarak kullanıldığından Ball",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/BALLIKAYALAR5.jpg",
+          "filename": "BALLIKAYALAR5.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q6027918",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "baspinar-tabiat-parki",
+      "ad": "Başpınar Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Isparta",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.833333333,
+        "lon": 31.108611111
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ba%C5%9Fp%C4%B1nar%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Ba%C5%9Fp%C4%B1nar_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q48780846"
+      ],
+      "notlar": "Başpınar Tabiat Parkı Isparta'da bulunan bir doğa parkıdır.\nBaşpınar Tabiat Parkı, Isparta ili Aksu ilçesi kırsalında bulunmaktadır (37°50′00″K 31°06′31″D). Aksu'ya uzaklığı 7 km'dir. Orman ve Su İşle",
+      "wikidata_id": "Q48780846",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "belemedik-tabiat-parki",
+      "ad": "Belemedik Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Adana",
+      "ilce": "Pozantı",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.345833333,
+        "lon": 34.911666666
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Belemedik%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Belemedik_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228467"
+      ],
+      "notlar": "Belemedik Tabiat Parkı, Türkiye'nin Adana ilinde bulunan bir tabiat parkıdır. Pozantı'nın merkezine 9 km uzaklıktadır.",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/7.Belemedik%20Nature%20Park.jpg",
+          "filename": "7.Belemedik Nature Park.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q108228467",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "belen-gecidi-tabiat-parki",
+      "ad": "Belen Geçidi Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Hatay",
+      "ilce": "Hatay",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.476438888,
+        "lon": 36.232730555
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Belen%20Ge%C3%A7idi%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Belen_Ge%C3%A7idi_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228468"
+      ],
+      "notlar": "Belen Geçidi Tabiat Parkı, Hatay ilinin Belen ilçesi sınırları içinde yer alan tabiat parkıdır.",
+      "wikidata_id": "Q108228468",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "beskayalar-tabiat-parki",
+      "ad": "Beşkayalar Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Kocaeli",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Be%C5%9Fkayalar%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Be%C5%9Fkayalar_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q134289194"
+      ],
+      "notlar": "Kocaeli'nin Başiskele ilçesinde, Samanlı Dağları'nın eteklerinde yer alan Beşkayalar Tabiat Parkı,1600 hektarlık alanında vadiler, dereler, yüksek tepeler, kayalıklar, mağara oluşumları, küçük şelalel",
+      "wikidata_id": "Q134289194",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "boraboy-golu",
+      "ad": "Boraboy Gölü",
+      "tur": "tabiat-parki",
+      "il": "Amasya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Boraboy%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Boraboy Gölü, Amasya'nın Taşova ilçesine yaklaşık 25 km uzaklıkta ve Boraboy köyünün batısında olan, doğal bir heyelan set gölü.\n\nBoraboy Gölü'nün oluşumunu hazırlayan heyelan, bölgenin hem egemen kay",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "buzluk-tabiat-parki",
+      "ad": "Buzluk Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Ankara",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Buzluk%20Tabiat%20Park%C4%B1"
+      ],
+      "notlar": "Buzluk Tabiat Parkı, Sinop'un Durağan ilçesinin Bayat Köyünde bulunan 51.6 Hektarlık  bir Tabiat Parkıdır. 23 Ağustos 2020'da Tabiat Parkı olarak ilan edilmiştir.\nAlan içerisinde 500 yaşında olduğu ön",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "cankoy-tabiat-parki",
+      "ad": "Canköy Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Sivas",
+      "ilce": "Çeşme",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.311388888,
+        "lon": 26.384722222
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Cank%C3%B6y%20Tabiat%20Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228347"
+      ],
+      "notlar": "Canköy Tabiat Parkı, 29 Mayıs 2018`de Tabiat parkı olarak ilan edilmiştir. Sivas ili Gölova ilçesi sınırları içindedir. 32,2 Hektar alana sahiptir. Park 15. Bölge Sivas şube müdürlüğü görev alanı için",
+      "wikidata_id": "Q108228347",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "cehennem-deresi-kanyonu-tabiat-parki",
+      "ad": "Cehennem Deresi Kanyonu Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Artvin",
+      "ilce": "Artvin",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.161111111,
+        "lon": 41.976666666
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Cehennem%20Deresi%20Kanyonu%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Cehennem_Deresi_Kanyonu_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q49097008"
+      ],
+      "notlar": "Cehennem Deresi Kanyonu Tabiat Parkı, Türkiye'nin Artvin ilinin Ardanuç ilçesinde bulunan bir tabiat parkıdır. Kanyon, 1 Mayıs 2018 tarihinde tabiat parkı olarak ilan edilmiştir ve kanyon, 24 saat boy",
+      "wikidata_id": "Q49097008",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "caglayandibi-selalesi-tabiat-parki",
+      "ad": "Çağlayandibi Şelalesi Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Gümüşhane",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C3%87a%C4%9Flayandibi%20%C5%9Eelalesi%20Tabiat%20Park%C4%B1"
+      ],
+      "notlar": "Çağlayandibi Şelalesi Tabiat Parkı, Gümüşhane ili Kürtün ilçesinde yer alır. 2 Aralık 2014'de bir tabiat parkı olarak ilan edilmiştir.\nŞelalenin yüksekliği 15 genişliği ise 3 metredir. Rakımı 870 metr",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "camlica-tabiat-parki",
+      "ad": "Çamlıca Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Kütahya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.436422222,
+        "lon": 29.913172222
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C3%87aml%C4%B1ca%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/%C3%87aml%C4%B1ca_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228240"
+      ],
+      "notlar": "Çamlıca Tabiat Parkı, Kütahya ilinin Merkez ilçesi sınırları içinde yer alan tabiat parkıdır.",
+      "wikidata_id": "Q108228240",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "danaagzi-tabiat-parki",
+      "ad": "Danaağzı Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Zonguldak",
+      "ilce": "Zonguldak",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Danaa%C4%9Fz%C4%B1%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Danaa%C4%9Fz%C4%B1_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228474"
+      ],
+      "notlar": "Danaağzı Tabiat Parkı ya da 19. yüzyıl haritalarında karşıya çıkan adıyla Büyük Oksina (Yunanca: Μεγάλη Οξίνα, romanize: Megáli Oxína), Türkiye'nin Zonguldak ilindeki Karadeniz Ereğli ilçesine bağlı T",
+      "wikidata_id": "Q108228474",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "daridere-tabiat-parki",
+      "ad": "Darıdere Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Balıkesir",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Dar%C4%B1dere%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Dar%C4%B1dere_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228230"
+      ],
+      "notlar": "Darıdere Tabiat Parkı, Balıkesir'in Edremit ilçesinde bulunan bir tabiat parkıdır. İlçe merkezine uzaklığı yaklaşık 50 km civarıdır. Altınoluk'ta İzmir- Çanakkale yolundan Narlı köyüne giden yola dönü",
+      "wikidata_id": "Q108228230",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "degirmenbogazi-tabiat-parki",
+      "ad": "Değirmenboğazı Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Balıkesir",
+      "ilce": "Balıkesir",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.699,
+        "lon": 27.965
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/De%C4%9Firmenbo%C4%9Faz%C4%B1%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/De%C4%9Firmenbo%C4%9Faz%C4%B1_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228229"
+      ],
+      "notlar": "Değirmenboğazı Tabiat Parkı, Balıkesir ilinin Karesi ilçesinde yer alan tabiat parkıdır.",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sunset%20on%20Old%20Stone%20Bridge.jpg",
+          "filename": "Sunset on Old Stone Bridge.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q108228229",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "dikilitas-tabiat-parki",
+      "ad": "Dikilitaş Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Mersin",
+      "ilce": "Mersin",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Dikilita%C5%9F%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Dikilita%C5%9F_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228338"
+      ],
+      "notlar": "Dikilitaş Tabiat Parkı, Mersin'nin Bozyazı ile Anamur ilçeleri arasında yer alan tabiat parkıdır.",
+      "wikidata_id": "Q108228338",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "dulukbaba-tabiat-parki",
+      "ad": "Dülükbaba Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Gaziantep",
+      "ilce": "Şehitkâmil",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/D%C3%BCl%C3%BCkbaba%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/D%C3%BCl%C3%BCkbaba_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228200"
+      ],
+      "notlar": "Dülükbaba Tabiat Parkı, Gaziantep ili, Şehitkamil ilçesi sınırlarında bulunan tabiat parkıdır. Gaziantep il merkezine 8 kilometre mesafededir.",
+      "wikidata_id": "Q108228200",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "erdemli-camligi",
+      "ad": "Erdemli Çamlığı",
+      "tur": "tabiat-parki",
+      "il": "Bolu",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Erdemli%20%C3%87aml%C4%B1%C4%9F%C4%B1"
+      ],
+      "notlar": "Erdemli Çamlığı (Talat Göktepe Çamlığı) Mersin ili Erdemli ilçesinde bulunan bir çamlık ve tabiat parkıdır.\nErdemli kent merkezinin hemen batısında ve girişi  36°35′28″K 34°17′10″D koordinatlarında ol",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "girdev-golu",
+      "ad": "Girdev Gölü",
+      "tur": "tabiat-parki",
+      "il": "Muğla",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Girdev%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Girdev Gölü, Muğla’nın Seydikemer ilçesinde bulunan tek göl özelliğine sahip olan 4041 hektarlık bir alana sahiptir ve 30.12.2022 tarihinde koruma altına alınmıştır.\nDünya’daki en önemli kuş türleri b",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "gokcetepe-tabiat-parki",
+      "ad": "Gökçetepe Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Edirne",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/G%C3%B6k%C3%A7etepe%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/G%C3%B6k%C3%A7etepe_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q65219717"
+      ],
+      "notlar": "Gökçetepe Tabiat Parkı,, Edirne'nin Keşan ilçesinde bulunan bir tabiat parkı.\nEdirne'nin Keşan ilçesinde yer alan, 5002 ha alana sahip, 11 Temmuz 2011'de kurulan bir tabiat parkıdır. \nDünyada kendi ke",
+      "wikidata_id": "Q65219717",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "goksu-tabiat-parki",
+      "ad": "Göksu Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Bolu",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/G%C3%B6ksu%20Tabiat%20Park%C4%B1"
+      ],
+      "notlar": "Bolu’nun merkezinde bulunan ve ilk defa mesire alanı olarak 10 hektarlık bölgesi 24 Aralık 1992 tarihinde tescil edilmiştir. Daha sonra ise 11 Haziran 2011 tarihinde Mülga T.C. Çevre Ve Orman Bakanlık",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "gokturk-goleti-tabiat-parki",
+      "ad": "Göktürk Göleti Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "İstanbul",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/G%C3%B6kt%C3%BCrk%20G%C3%B6leti%20Tabiat%20Park%C4%B1"
+      ],
+      "notlar": "Göktürk Göleti Tabiat Parkı, İstanbul'un Eyüpsultan ilçe sınırlarında bulunan, Göktürk Göleti'ni ve çevresini kapsayan bir tabiat parkıdır. 2011 yılında tabiat parkı ilan edilen bölge, toplamda 79.16 ",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "golcuk-golu-bolu",
+      "ad": "Gölcük Gölü (Bolu)",
+      "tur": "tabiat-parki",
+      "il": "Bolu",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/G%C3%B6lc%C3%BCk%20G%C3%B6l%C3%BC%20(Bolu)"
+      ],
+      "notlar": "Gölcük Gölü, Bolu il merkezinin 13 km güneyinde bulunan yapay göl. Alanı 4,5 hektar, çevresi 1.300, yükseltisi 1.217 metredir. Göl ve çevresi tabiat parkı ilan edilerek koruma altına alınmıştır. Göl k",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "golcuk-tabiat-parki",
+      "ad": "Gölcük Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Burdur",
+      "ilce": "Bolu",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/G%C3%B6lc%C3%BCk%20Tabiat%20Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228158"
+      ],
+      "notlar": "Isparta Merkez ilçenin güney batısında yer almaktadır. Isparta il merkezine 13 kilometre, Burdur il merkezine 30 kilometre uzaklıktadır. Parka asfalt yol ile ulaşım sağlanabilir. Gölcük gölü ve çevres",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bolu%20G%C3%B6l%C3%A7%C3%BCk%20Yans%C4%B1ma.jpg",
+          "filename": "Bolu Gölçük Yansıma.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q108228158",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "gornek-tabiat-parki",
+      "ad": "Görnek Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Trabzon",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/G%C3%B6rnek%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/G%C3%B6rnek_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228155"
+      ],
+      "notlar": "Görnek Tabiat Parkı, Türkiye'nin Trabzon ilinin Çaykara ilçesinde bulunan bir tabiat parkıdır. Park, 11 Temmuz 2011 tarihinde tabiat parkı ilan edilmiştir. Tabiat parkı, 24 saat boyunca açıktır. Parkı",
+      "wikidata_id": "Q108228155",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "gumuskum-tabiat-parki",
+      "ad": "Gümüşkum Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.720833333,
+        "lon": 34.495277777
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/G%C3%BCm%C3%BC%C5%9Fkum%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/G%C3%BCm%C3%BC%C5%9Fkum_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q107354811"
+      ],
+      "notlar": "100. Yıl Tabiat Parkı veya Gümüşkum Tabiat Parkı, Mersin ilinde bulunan bir tabiat parkıdır.Park Davultepe bölgesindedir. (36°43′15″K 34°29′43″D) Akdeniz kıyısında yer almaktadır. Mersin'in 12 km (7,5",
+      "wikidata_id": "Q107354811",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "guvercinlik-tabiat-parki",
+      "ad": "Güvercinlik Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Muğla",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/G%C3%BCvercinlik%20Tabiat%20Park%C4%B1"
+      ],
+      "notlar": "Güvercinlik Tabiat Parkı, Muğla'nın Bodrum ilçesine bağlıdır. 11 Temmuz 2011'de bir tabiat parkı olarak ilan edilmiştir. Tabiat parkı, 2,58 hektarlık alanı kapsar.\nTabiat parkı, 3.Derece Arkeolojik Si",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "guzeldere-selalesi-tabiat-parki",
+      "ad": "Güzeldere Şelalesi Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Düzce",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.72352,
+        "lon": 31.04974
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/G%C3%BCzeldere%20%C5%9Eelalesi%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/G%C3%BCzeldere_%C5%9Eelalesi_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q61076619"
+      ],
+      "notlar": "Güzeldere Şelalesi Tabiat Parkı, Düzce ili, Gölyaka ilçesi, Güzeldere köyü sınırlarında, 22,76 ha alanda, 2011 yılında ilan edilen tabiat parkıdır.\nGölyaka ilçesinden geçen Bıçkı Deresi Güzeldere Köyü",
+      "wikidata_id": "Q61076619",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "hamsilos",
+      "ad": "Hamsilos",
+      "tur": "tabiat-parki",
+      "il": "Sinop",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Hamsilos",
+        "http://www.wikidata.org/entity/Q6039198"
+      ],
+      "notlar": "Hamsilos; Sinop il sınırları içinde, Türkiye'nin en kuzey ucunu oluşturan İnceburun üzerinde bulunan bir koy. Deveci Deresi'nin ağız kısmından karaya doğru 300-400 metrelik deniz girintisidir.\nYaygın ",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/HAMSILOS-3.%20SINOP%20-%20panoramio.jpg",
+          "filename": "HAMSILOS-3. SINOP - panoramio.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q6039198",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "harmankaya-kanyonu-tabiat-parki",
+      "ad": "Harmankaya Kanyonu Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Bilecik",
+      "ilce": "Bilecik",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.14861111,
+        "lon": 30.44083333
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Harmankaya%20Kanyonu%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Harmankaya_Kanyonu_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q38251268"
+      ],
+      "notlar": "Harmankaya Kanyonu Tabiat Parkı, Bilecik ili, Yenipazar ile İnhisar ilçeleri arasında bulunan tabiat parkıdır. 26 Aralık 2012 tarihinde 397,59 hektar alan tabiat parkı ilan edilmiştir.\nKarahasanlar kö",
+      "wikidata_id": "Q38251268",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "harmankaya-tabiat-parki",
+      "ad": "Harmankaya Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Bursa",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.57555556,
+        "lon": 29.14972222
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Harmankaya%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Harmankaya_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q38251251"
+      ],
+      "notlar": "Harmankaya Tabiat Parkı Yalova ilinin Termal ilçesinde bulunan bir doğa parkıdır.\nHarmanlı Tabiat Parkı, Yalova'ya 18 km (11 mil), Termal'e 6 km (3,7 mil) ve Üvezpınar köyüne 5 km (3,1 mil) uzaklıkta,",
+      "wikidata_id": "Q38251251",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "isirlik-tabiat-parki",
+      "ad": "Isırlık Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Rize",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Is%C4%B1rl%C4%B1k%20Tabiat%20Park%C4%B1"
+      ],
+      "notlar": "Isırlık Tabiat Parkı, Rize'nin Merkez ilçesinde yer alan tabiat parkıdır. 12 hektarlık alanı kaplayan tabiat parkı bünyesinde endemik bitkiler, kuş gözlemevi, piknik alanları, cami, restoran, bisiklet",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "incekum-tabiat-parki",
+      "ad": "İncekum Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Antalya",
+      "ilce": "Antalya",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.627222222,
+        "lon": 31.757222222
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C4%B0ncekum%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/%C4%B0ncekum_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q48791829"
+      ],
+      "notlar": "İncekum Tabiat Parkı, Antalya ilinin Alanya ilçesi sınırları içerisinde yer alan bir tabiat parkıdır. 8 Şubat 2016 tarihinde tabiat parkı olarak ilan edilmiştir. İncekum Tabiat Parkı sahilinde, karbon",
+      "wikidata_id": "Q48791829",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "incuvez-camligi-tabiat-parki",
+      "ad": "İncüvez Çamlığı Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Zonguldak",
+      "ilce": "Alaplı",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.185930555,
+        "lon": 31.390666666
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C4%B0nc%C3%BCvez%20%C3%87aml%C4%B1%C4%9F%C4%B1%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/%C4%B0nc%C3%BCvez_%C3%87aml%C4%B1%C4%9F%C4%B1_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228195"
+      ],
+      "notlar": "İncüvez Çamlığı Tabiat Parkı, Zonguldak'ın Alaplı ilçesi sınırları içinde yer alan tabiat parkıdır.",
+      "wikidata_id": "Q108228195",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "kadincayiri-tabiat-parki",
+      "ad": "Kadınçayırı Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Çankırı",
+      "ilce": "Çankırı",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kad%C4%B1n%C3%A7ay%C4%B1r%C4%B1%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Kad%C4%B1n%C3%A7ay%C4%B1r%C4%B1_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228382"
+      ],
+      "notlar": "Kadınçayırı Tabiat Parkı Çankırı ili Ilgaz ilçesi sınırlarında bulunan tabiat parkıdır. Toplam 442 hektar alana sahiptir. Çankırı il merkezine 70, Ilgaz ilçe merkezine ise 17 kilometre mesafededir.\nTa",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kad%C4%B1n%20%C3%A7ay%C4%B1r%C4%B12.jpg",
+          "filename": "Kadın çayırı2.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q108228382",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "kadiralak-tabiat-parki",
+      "ad": "Kadıralak Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Trabzon",
+      "ilce": "Tonya",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.8904177,
+        "lon": 39.3133735
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kad%C4%B1ralak%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Kad%C4%B1ralak_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228798"
+      ],
+      "notlar": "Kadıralak Tabiat Parkı, Trabzon ili, Tonya ilçesi mülki sınırları içerisinde; Tonya merkeze 2 km, Trabzon merkeze ise 68 km. uzaklıkta bulunan, aynı ismi taşıyan Kadıralak Yaylası bitişiğindeki 1.480 ",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kadiralak%20Yaylas%C4%B1.jpg",
+          "filename": "Kadiralak Yaylası.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q108228798",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "kapicam-tabiat-parki",
+      "ad": "Kapıçam Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Bolu",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kap%C4%B1%C3%A7am%20Tabiat%20Park%C4%B1"
+      ],
+      "notlar": "Kapıçam Tabiat Parkı, Kahramanmaraş'ta bulunan park Türkiye'nin 30. Tabiat Parkı olarak ilan edilen bölgesidir. İl merkezine yaklaşık 10 km mesafede, Gaziantep ile Kahramanmaraş'ı birbirine bağlayan y",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "karaahmetli-tabiat-parki",
+      "ad": "Karaahmetli Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Kırıkkale",
+      "ilce": "Kırıkkale",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.65943,
+        "lon": 33.453084
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Karaahmetli%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Karaahmetli_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q61077823"
+      ],
+      "notlar": "Karaahmetli Tabiat Parkı, Kırıkkale ili, Bahşılı ilçesi, Karaahmetli köyü sınırlarında, 107 ha alanda kurulu olan bir tabiat parkıdır. 23 Temmuz 2009 tarihli Bakanlar Kurulu kararı ile tabiat parkı il",
+      "wikidata_id": "Q61077823",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "karaeksi-tabiat-parki",
+      "ad": "Karaekşi Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.679444444,
+        "lon": 33.466944444
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Karaek%C5%9Fi%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Karaek%C5%9Fi_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q39091388"
+      ],
+      "notlar": "Karaekşi Tabiat Parkı, Mersin ilinde bulunan bir tabiat parkıdır.\nMersin'in Mut ilçesi, Hacınuhlu köyünde bulunan tabiat parkı 36°40′46″K 33°28′01″D koordinatlarındadır. Mut'a uzaklığı yaklaşık 7 km'd",
+      "wikidata_id": "Q39091388",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "karagol-borcka",
+      "ad": "Karagöl (Borçka)",
+      "tur": "tabiat-parki",
+      "il": "Artvin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Karag%C3%B6l%20(Bor%C3%A7ka)"
+      ],
+      "notlar": "Karagöl, Artvin'in Borçka ilçesine 25-27 kilometre uzaklıkta bulunan heyelan set gölüdür. Göl alanı, 14 Ağustos 2002'de kurulan Borçka Gölü Tabiat Parkı sınırları içerisinde yer almaktadır. Yıllık ort",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "karagol-tabiat-parki-izmir",
+      "ad": "Karagöl Tabiat Parkı (İzmir)",
+      "tur": "tabiat-parki",
+      "il": "İzmir",
+      "ilce": "Menemen",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.556852777,
+        "lon": 27.219066666
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Karag%C3%B6l%20Tabiat%20Park%C4%B1%20(%C4%B0zmir)",
+        "https://tr.wikipedia.org/wiki/Karag%C3%B6l_Tabiat_Park%C4%B1_(%C4%B0zmir)",
+        "http://www.wikidata.org/entity/Q48791846"
+      ],
+      "notlar": "Karagöl Tabiat Parkı, İzmir ilinin Menemen ilçesi sınırları içinde yer alan tabiat parkıdır.",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Karagol%20Tabiat%20Parki.jpg",
+          "filename": "Karagol Tabiat Parki.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q48791846",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "kartal-golu",
+      "ad": "Kartal Gölü",
+      "tur": "tabiat-parki",
+      "il": "Muğla",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kartal%20G%C3%B6l%C3%BC"
+      ],
+      "notlar": "Kartal Gölü, Muğla ili sınırları içerisinde bulunan tabiatı koruma alanıdır.\nOrman Bakanlığı Milli Parklar ve Yaban Hayvanı Koruma Genel Müdürlüğü tarafından koruma alanı olarak ilan edilen bu bölge, ",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "kartaltepe-tabiat-parki-tekirdag",
+      "ad": "Kartaltepe Tabiat Parkı (Tekirdağ)",
+      "tur": "tabiat-parki",
+      "il": "Tekirdağ",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kartaltepe%20Tabiat%20Park%C4%B1%20(Tekirda%C4%9F)",
+        "http://www.wikidata.org/entity/Q108228201"
+      ],
+      "notlar": "Karagöl Tabiat Parkı, Tekirdağ ilinin Süleymanpaşa ve Şarköy ilçeleri sınırları içinde yer alan tabiat parkıdır.",
+      "wikidata_id": "Q108228201",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "kavakli-tabiat-koruma-alani",
+      "ad": "Kavaklı Tabiat Koruma Alanı",
+      "tur": "tabiat-parki",
+      "il": "Karabük",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kavakl%C4%B1%20Tabiat%20Koruma%20Alan%C4%B1"
+      ],
+      "notlar": "Kavaklı Tabiat Koruma Alanı, Karabük il merkezinin güneybatısında bulunan ve 353 hektarlık bir alanı kapsayan önemli bir doğal sitedir. Karabük, Batı Karadeniz Bölgesinde yer almasına rağmen, kıyıdan ",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "kayabasi-tabiat-parki",
+      "ad": "Kayabaşı Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Trabzon",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kayaba%C5%9F%C4%B1%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Kayaba%C5%9F%C4%B1_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228179"
+      ],
+      "notlar": "Kayabaşı Tabiat Parkı, Türkiye'nin Trabzon ilinin Akçaabat ilçesi sınırları içerisinde yer alan bir tabiat parkıdır. 11 Temmuz 2011 tarihinde tabiat parkı ilan edilen park, Akçaabat'ın Işıklar mahalle",
+      "wikidata_id": "Q108228179",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "koroglu-tabiat-parki",
+      "ad": "Köroğlu Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Kars",
+      "ilce": "Seydişehir",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.39,
+        "lon": 31.842777777
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/K%C3%B6ro%C4%9Flu%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Ku%C4%9Fulu_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108227820"
+      ],
+      "notlar": "Köroğlu Tabiat Parkı; Çamoluk bölgesinin kuzey kesiminde, ekolojik ve biyolojik açıdan önemli alanların sınırları doğal olarak oluşan orman, kaya ve nehir ekosistemlerinden oluşur ve ekosistemlerin eş",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ku%C4%9Fulu%20Park%20g%C3%B6zetleme%20kulesinden%20g%C3%B6r%C3%BCn%C3%BC%C5%9F.jpg",
+          "filename": "Kuğulu Park gözetleme kulesinden görünüş.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q108227820",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "kursunlu-selalesi",
+      "ad": "Kurşunlu Şelalesi",
+      "tur": "tabiat-parki",
+      "il": "Antalya",
+      "ilce": "Aksu",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.003,
+        "lon": 30.821
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kur%C5%9Funlu%20%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q108227070"
+      ],
+      "notlar": "Kurşunlu Şelalesi, Antalya-Isparta karayolunun 24. km'nden sola dönülerek 7 km devam edildiğinde ulaşılan bir şelaledir.\nKurşunlu Şelalesi'ne su 18 metre yükseklikten dökülmekte ve küçük şelaleciklerl",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kur%C5%9Funlu%20%C5%9Eelalesi%20Tabiat%20Park%C4%B1.jpg",
+          "filename": "Kurşunlu Şelalesi Tabiat Parkı.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q108227070",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "kuyuluk-tabiat-parki",
+      "ad": "Kuyuluk Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.773611111,
+        "lon": 34.480833333
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kuyuluk%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Kuyuluk_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q48740720"
+      ],
+      "notlar": "Kuyuluk Tabiat Parkı Mersin'de bulunan bir tabiat parkıdır.\nPark, Mersin'in Mezitli ilçesinde 36°46′25″K 34°28′51″D koordinatlarındadır. Toros Dağları'nın güney yamaçlarında Fındıkpınarı yolu üzerinde",
+      "wikidata_id": "Q48740720",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "kuzalan-tabiat-parki",
+      "ad": "Kuzalan Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Giresun",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kuzalan%20Tabiat%20Park%C4%B1"
+      ],
+      "notlar": "Kuzalan Tabiat Parkı ve Mavi Göl, Türkiye'de, Giresun ilinin Dereli ilçesinde yer alan bir tabiat parkıdır. Giresun'a 45 km, Dereli'ye 13 km mesafededir. 482 hektar alana sahiptir.\nAksu-Göksu çayların",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "kuzuyayla-tabiat-parki",
+      "ad": "Kuzuyayla Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Kocaeli",
+      "ilce": "Kartepe",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.646387686,
+        "lon": 30.117308992
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kuzuyayla%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Kuzuyayla_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q31189359"
+      ],
+      "notlar": "Kuzuyayla Tabiat Parkı, Kocaeli ili, Kartepe ilçesi sınırlarında bulunan tabiat parkıdır. 2011 yılında park ilan edilen saha zengin bir bitki örtüsüne ve Sapanca Gölü manzarasına sahiptir.",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/KUZUYAYLA%2C%20KARTEPE.jpg",
+          "filename": "KUZUYAYLA, KARTEPE.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q31189359",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "limni-golu",
+      "ad": "Limni Gölü",
+      "tur": "tabiat-parki",
+      "il": "Gümüşhane",
+      "ilce": "Torul",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.61,
+        "lon": 39.412222222
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Limni%20G%C3%B6l%C3%BC",
+        "http://www.wikidata.org/entity/Q108228303"
+      ],
+      "notlar": "Limni Gölü, Gümüşhane'nin Torul ilçesindeki Zigana köyünde bulunan bir göldür. Ladin, sarıçam, ardıç, göknar, böğürtlen, mor çiçekli orman gülü ve sarı çiçekli orman gülü bitkileriyle çevrili olan Lad",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Limni%20Nature%20Park%20entrance.jpg",
+          "filename": "Lake Limni Nature Park entrance.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q108228303",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "meryemana-tabiat-parki",
+      "ad": "Meryemana Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "İzmir",
+      "ilce": "Selçuk",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.920833333,
+        "lon": 27.328055555
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Meryemana%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Meryemana_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228123"
+      ],
+      "notlar": "Meryemana Tabiat Parkı, Türkiye'nin İzmir iline bağlı olan Selçuk ilçesinde bulunan bir doğa parkıdır. Park, Meryem Ana Evi'nin yakınında yer almaktadır.\nMeryemana Tabiat Parkı, 2012 yılında açılmıştı",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Meryemana%20%2820180724%29.jpg",
+          "filename": "Meryemana (20180724).jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q108228123",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "mesir-tabiat-parki",
+      "ad": "Mesir Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Manisa",
+      "ilce": "Manisa",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.603,
+        "lon": 27.385
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Mesir%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Mesir_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228122"
+      ],
+      "notlar": "Mesir Tabiat Parkı, Manisa ilinin Yunusemre ilçesinde yer alan tabiat parkıdır.",
+      "wikidata_id": "Q108228122",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "musaozu-tabiat-parki",
+      "ad": "Musaözü Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Eskişehir",
+      "ilce": "Eskişehir",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.697361111,
+        "lon": 30.315138888
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Musa%C3%B6z%C3%BC%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Musa%C3%B6z%C3%BC_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228336"
+      ],
+      "notlar": "Musaözü Tabiat Parkı Eskişehir ilinin Tepebaşı ilçesinin coğrafi sınırları içerisinde kalan tabiat parkıdır. Eskişehir - Kütahya  D 230 kara yolu üzerinde kent merkezine 22 kilometre mesafede ve 50 he",
+      "wikidata_id": "Q108228336",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "ormanya",
+      "ad": "Ormanya",
+      "tur": "tabiat-parki",
+      "il": "Kocaeli",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.73333333,
+        "lon": 30.1625
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ormanya"
+      ],
+      "notlar": "Ormanya ya da tam adıyla Ormanya doğal yaşam parkı Kocaeli'nin Kartepe ilçesinde bulunan bir Doğal Yaşam Parkı'dır.\n187 hektardan oluşmakta olup içerisinde 15 ayrı alan barınmaktadır. Kamp Alanı, Mesi",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "oludeniz-kidrak-tabiat-parki",
+      "ad": "Ölüdeniz-Kıdrak Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Muğla",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.549402,
+        "lon": 29.120892
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C3%96l%C3%BCdeniz-K%C4%B1drak%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/%C3%96l%C3%BCdeniz-K%C4%B1drak_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q61075941"
+      ],
+      "notlar": "Ölüdeniz-Kıdrak Tabiat Parkı, Muğla'nın Fethiye ilçesi sınırları içinde yer alan tabiat parkı.\n\n",
+      "wikidata_id": "Q61075941",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "peygamberler-tabiat-parki",
+      "ad": "Peygamberler Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Diyarbakır",
+      "ilce": "Diyarbakır",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Peygamberler%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Peygamberler_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q110487927"
+      ],
+      "notlar": "Peygamberler Tabiat Parkı veya Eğil Peygamberler Tabiat Parkı Diyarbakır ili Eğil ilçesi mülki sınırlarında bulunan tabiat parkıdır. Diyarbakır merkezine 51 kilometre mesafededir. Toplam 134.1 dekar a",
+      "wikidata_id": "Q110487927",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "poyrazlar-golu",
+      "ad": "Poyrazlar Gölü",
+      "tur": "tabiat-parki",
+      "il": "Sakarya",
+      "ilce": "Sakarya",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Poyrazlar%20G%C3%B6l%C3%BC",
+        "http://www.wikidata.org/entity/Q108228340"
+      ],
+      "notlar": "Poyrazlar Gölü, Sakarya il merkezinin 7–8 km kuzeydoğusunda, Sakarya nehrinin kenarında yer alan alüvyal set gölüdür. Göl kıyısında bulunan Poyrazlar köyünden adını alan gölün diğer bir adı da Teke gö",
+      "wikidata_id": "Q108228340",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "pullu-tabiat-parki",
+      "ad": "Pullu Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Mersin",
+      "ilce": "Mersin",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.0875,
+        "lon": 32.91055556
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Pullu%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Pullu_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q30623797"
+      ],
+      "notlar": "Pullu Tabiat Parkı Mersin ilinin Anamur ilçesinde bulunan bir tabiat parkıdır. Mersin'i batıya bağlayan D.400 devlet kara yolu genellikle Akdeniz kıyı şeridine paraleldir. 36°5′15″K 32°54′38″D koordin",
+      "wikidata_id": "Q30623797",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "sadagi-kanyonu-tabiat-parki",
+      "ad": "Sadağı Kanyonu Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Bursa",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.87027778,
+        "lon": 28.90722222
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Sada%C4%9F%C4%B1%20Kanyonu%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Sada%C4%9F%C4%B1_Kanyonu_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q30623134"
+      ],
+      "notlar": "Sadağı Kanyonu Tabiat Parkı, Bursa'da kanyon ilan edilmiş bir tabiat parkıdır.\nKanyon, Bursa ili Orhaneli ilçesi Sadağı köyünde bulunmaktadır. Bursa'nın 55 km (34 mil) güneybatısındadır. Kanyon 12 km ",
+      "wikidata_id": "Q30623134",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "sansarak-kanyonu-tabiat-parki",
+      "ad": "Sansarak Kanyonu Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Bursa",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Sansarak%20Kanyonu%20Tabiat%20Park%C4%B1"
+      ],
+      "notlar": "Sansarak Kanyonu Tabiat Parkı, Bursa İli, İznik İlçesi, Gürmüzlü, Elmalı ve Candarlı Mahalleleri sınırları içerisinde bulunan tabiat parkı. 98 ha’lık alan, Tarım & Orman Bakanlığı tarafından 20.04.202",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "sarigazel-tabiat-parki",
+      "ad": "Sarıgazel Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Samsun",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Sar%C4%B1gazel%20Tabiat%20Park%C4%B1"
+      ],
+      "notlar": "Sarıgazel Tabiat Parkı, Samsun ilinin 19 Mayıs ilçe merkezinde yer almaktadır. İl merkezine 38 km, ilçe merkezine ise 3 km mesafededir.\nPark içerisinde yürüyüş yolları, çocuk oyun alanları, piknik mas",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "sera-golu",
+      "ad": "Sera Gölü",
+      "tur": "tabiat-parki",
+      "il": "Muş",
+      "ilce": "Akçaabat",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.983888888,
+        "lon": 39.613333333
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Sera%20G%C3%B6l%C3%BC",
+        "http://www.wikidata.org/entity/Q108228141"
+      ],
+      "notlar": "Sera Gölü, Trabzon'un Akçaabat ilçesi sınırları içerisinde bulunan bir heyelan set gölüdür. Göl, Yıldızlı ve Derecik belediyelerinin arasında yer alan Derecik Vadisi'nde oluşmuştur. İsmini hudutları i",
+      "wikidata_id": "Q108228141",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "siklik-tabiat-parki",
+      "ad": "Sıklık Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Çorum",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.58527778,
+        "lon": 35.03722222
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/S%C4%B1kl%C4%B1k%20Tabiat%20Park%C4%B1"
+      ],
+      "notlar": "Sıklık Tabiat Parkı Mesire Yeri ya da Sıklık Mesire Yeri, Çorum merkezine 5 kilometre uzaklıkta bir mesire yeri ve tabiat parkıdır.\nLaçin'e 30 km ve Mecitözü ilçesine 37 km uzaklıktadır. 318 hektarlık",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "soguksu-tabiat-parki",
+      "ad": "Soğuksu Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Kars",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.31,
+        "lon": 42.63472222
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/So%C4%9Fuksu%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/So%C4%9Fuksu_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q24915219"
+      ],
+      "notlar": "Soğuksu Tabiat Parkı, 2011 yılında kurulmuş, Doğu Anadolu Bölgesinde bulunan bir tabiat parkıdır. Kars'a 53 km (33 mil) ve Sarıkamış'a 3 km (1,9 mil) uzaklıktadır.\nPark, deniz seviyesinden 2,121–2,152",
+      "wikidata_id": "Q24915219",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "suuctu-tabiat-parki",
+      "ad": "Suuçtu Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Bursa",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.901861111,
+        "lon": 28.385433333
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Suu%C3%A7tu%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Suu%C3%A7tu_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228360"
+      ],
+      "notlar": "Suuçtu Tabiat Parkı, Bursa'nın Mustafakemalpaşa ilçesi sınırları içinde yer alan tabiat parkıdır.",
+      "wikidata_id": "Q108228360",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "suluklu-gol",
+      "ad": "Sülüklü Göl",
+      "tur": "tabiat-parki",
+      "il": "Bolu",
+      "ilce": "Bolu",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/S%C3%BCl%C3%BCkl%C3%BC%20G%C3%B6l",
+        "http://www.wikidata.org/entity/Q108228359"
+      ],
+      "notlar": "Sülüklü Göl, Bolu ili, Mudurnu ilçesine bağlı Tavşansuyu köy sınırları içinde bulunan ve tektonik hareketler sonucunda oluşmuş bir heyelan set gölüdür. Akyazı, Mudurnu ve Göynük ilçe topraklarına sını",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%BCl%C3%BCkl%C3%BC%20G%C3%B6l-201908.jpg",
+          "filename": "Sülüklü Göl-201908.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q108228359",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "sunnet-golu",
+      "ad": "Sünnet Gölü",
+      "tur": "tabiat-parki",
+      "il": "Ankara",
+      "ilce": "Göynük",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/S%C3%BCnnet%20G%C3%B6l%C3%BC",
+        "http://www.wikidata.org/entity/Q108228358"
+      ],
+      "notlar": "Sünnet Gölü, Bolu ili, Göynük ilçesi sınırlarında bulunan heyelan set gölü.\nDenizden 1030 m yükseklikte, 186 bin m² alana sahip olan gölün en derin yeri 22 metredir. Genişliği en fazla 100 m olan gölü",
+      "wikidata_id": "Q108228358",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "saban-kalesi-tabiat-parki",
+      "ad": "Şaban Kalesi Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Bolu",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C5%9Eaban%20Kalesi%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/%C5%9Eaban_Kalesi_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228998"
+      ],
+      "notlar": "Şaban Kalesi Tabiat Parkı, Giresun ilinin Güce ilçesinde bulunan bir tabiat parkıdır. 2 Nisan 2019 tarihinde tabiat parkı olarak ilan edilen park, 24 saat boyunca açıktır. Şaban Kalesi Tabiat Parkı'nı",
+      "wikidata_id": "Q108228998",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "sahinkaya-kanyonu",
+      "ad": "Şahinkaya Kanyonu",
+      "tur": "tabiat-parki",
+      "il": "Samsun",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.268027777,
+        "lon": 35.407777777
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C5%9Eahinkaya%20Kanyonu",
+        "https://tr.wikipedia.org/wiki/%C5%9Eahinkaya_Kanyonu",
+        "http://www.wikidata.org/entity/Q61075807"
+      ],
+      "notlar": "Şahinkaya Kanyonu, Samsun'un Vezirköprü ilçesinde yer alan kanyon. Altınkaya Barajı'nın en derin noktasını oluşturan ve Ulubey Kanyonu'nun ardından Türkiye'nin ikinci büyük kanyonu olan Şahinkaya Kany",
+      "wikidata_id": "Q61075807",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "tavsan-tepesi-tabiat-parki",
+      "ad": "Tavşan Tepesi Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Artvin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Tav%C5%9Fan%20Tepesi%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Tav%C5%9Fan_Tepesi_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228788"
+      ],
+      "notlar": "\"Tavşan Tepesi Tabiat Parkı\", Türkiye'nin Artvin ilinin Şavşat ilçesinin sınırları içerisinde yer alan bir tabiat parkıdır. Park, Tavşantepe olarak da adlandırılmaktadır ve Şavşat ilçe merkezine 2 km'",
+      "wikidata_id": "Q108228788",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "tavsanburnu-tabiat-parki",
+      "ad": "Tavşanburnu Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Aydın",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.421538888,
+        "lon": 27.220072222
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Tav%C5%9Fanburnu%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Tav%C5%9Fanburnu_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228354"
+      ],
+      "notlar": "Tavşanburnu Tabiat Parkı, Aydın'ın Didim ilçesi sınırları içinde yer alan tabiat parkıdır.",
+      "wikidata_id": "Q108228354",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "tekirova-tabiat-parki",
+      "ad": "Tekirova Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Tekirova%20Tabiat%20Park%C4%B1"
+      ],
+      "notlar": "Tekirova Tabiat Parkı, Antalya ili Kemer ilçesine bağlıdır. Alan 20 Nisan 2016`da Tabiat Parkı olarak ilan edilmiştir. Alanın büyüklüğü 12 hektardır. Antalya merkeze 64 kilometre , Kemere ise 20 kilom",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "tomara-selalesi",
+      "ad": "Tomara Şelalesi",
+      "tur": "tabiat-parki",
+      "il": "Gümüşhane",
+      "ilce": "Şiran",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.0785,
+        "lon": 39.044222222
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Tomara%20%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q108228353"
+      ],
+      "notlar": "Tomara Şelalesi, Gümüşhane ili, Şiran ilçesi sınırlarında bulunan şelaledir. Kelkit Çayının kolu olan Tomara  Çayının vadisinde yer alır. Adını çevrede yetişen tek yıllık Tomara (kaldirik) bitkisinden",
+      "wikidata_id": "Q108228353",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "tunca-vadisi-tabiat-parki",
+      "ad": "Tunca Vadisi Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Rize",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.067233333,
+        "lon": 41.277361111
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Tunca%20Vadisi%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Tunca_Vadisi_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228405"
+      ],
+      "notlar": "Tunca Vadisi Tabiat Parkı, Rize'nin Ardeşen ilçesi sınırları içinde yer alan tabiat parkıdır.",
+      "wikidata_id": "Q108228405",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "turgut-ozal-tabiat-parki",
+      "ad": "Turgut Özal Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Malatya",
+      "ilce": "Battalgazi",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.352797222,
+        "lon": 38.385013888
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Turgut%20%C3%96zal%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Turgut_%C3%96zal_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228144"
+      ],
+      "notlar": "Turgut Özal Tabiat Parkı, Malatya ilinin Battalgazi ilçesi sınırları içinde yer alan tabiat parkıdır.",
+      "wikidata_id": "Q108228144",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "ulubey-kanyonu",
+      "ad": "Ulubey Kanyonu",
+      "tur": "tabiat-parki",
+      "il": "Uşak",
+      "ilce": "Ulubey",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.38444444,
+        "lon": 29.29972222
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ulubey%20Kanyonu",
+        "https://tr.wikipedia.org/wiki/Ulubey_Kanyonu",
+        "http://www.wikidata.org/entity/Q12812366"
+      ],
+      "notlar": "Ulubey Kanyonu, Uşak ilinin Ulubey ilçesi sınırları içerisinde bulunan kanyon. Orman ve Su İşleri Bakanlığı tarafından 27 Haziran 2013'te tabiat parkı ilan edilmiştir.",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ulubey%20Canyon%20Usak%20Province%20Turkey.jpg",
+          "filename": "Ulubey Canyon Usak Province Turkey.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q12812366",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "usuluk-koyu-tabiat-parki",
+      "ad": "Usuluk Koyu Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Muğla",
+      "ilce": "Muğla",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.08333333,
+        "lon": 27.47083333
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Usuluk%20Koyu%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Usuluk_Koyu_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q30623046"
+      ],
+      "notlar": "Usuluk Koyu Tabiat Parkı, Muğla ilindeki Usuluk Koyu'nda bulunan bir tabiat parkıdır.\nUsuluk Koyu, Bodrum'un kuzeydoğusunda, Torba köyünde, Bodrum-Milas  D.330 kara yolu üzerinde yer almaktadır. Usulu",
+      "wikidata_id": "Q30623046",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "uzungol",
+      "ad": "Uzungöl",
+      "tur": "tabiat-parki",
+      "il": "Muş",
+      "ilce": "Çaykara",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.619444444,
+        "lon": 40.294444444
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Uzung%C3%B6l",
+        "http://www.wikidata.org/entity/Q108227068"
+      ],
+      "notlar": "Uzungöl, Türkiye'nin Trabzon ilinde yer alan bir heyelan set gölüdür. Çaykara ilçesinin Uzungöl Mahallesi'nde bulunur. Yamaçlardan düşen kayaların, Haldizen deresinin önünü kapatmasıyla oluşmuştur. Uz",
+      "wikidata_id": "Q108227068",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "uctepeler-tabiat-parki",
+      "ad": "Üçtepeler Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Yozgat",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.18944444,
+        "lon": 28.98694444
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C3%9C%C3%A7tepeler%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Bentler_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q24915700"
+      ],
+      "notlar": "Üçtepeler Tabiat Parkı, Yozgat'ın Sorgun ilçesi sınırları içinde yer alan tabiat parkıdır.",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/BentlerNaturePark%20%281%29.jpg",
+          "filename": "BentlerNaturePark (1).jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q24915700",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "vezirsuyu-tabiat-parki",
+      "ad": "Vezirsuyu Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Samsun",
+      "ilce": "Samsun",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.214915,
+        "lon": 35.3106103
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Vezirsuyu%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Vezirsuyu_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q116778920"
+      ],
+      "notlar": "Vezirsuyu Tabiat Parkı ya da Vezirsuyu Rekreasyon Alanı Samsun'un Vezirköprü ilçesinde bulunan tabiat parkı.\nGörsel peyzaj göl manzarasının yanındadır, Şahinkaya Kanyonu ile birleşiktir 288 hektar büy",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vezirsuyu%20Lake%20View.jpg",
+          "filename": "Vezirsuyu Lake View.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q116778920",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "yakupabdal-tabiat-parki",
+      "ad": "Yakupabdal Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Bayburt",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Yakupabdal%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Yakupabdal_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228501"
+      ],
+      "notlar": "Yakupabdal Tabiat Parkı, Türkiye'nin Bayburt ilinin Demirözü ilçesinde bulunan bir tabiat parkıdır. 2 Aralık 2014 tarihinde tabiat parkı ilan edilen park, 24 saat boyunca açıktır.\nYakupabdal Tabiat Pa",
+      "wikidata_id": "Q108228501",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "yazili-kanyon-tabiat-parki",
+      "ad": "Yazılı Kanyon Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Isparta",
+      "ilce": "Sütçüler",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.453055555,
+        "lon": 30.876111111
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Yaz%C4%B1l%C4%B1%20Kanyon%20Tabiat%20Park%C4%B1",
+        "https://tr.wikipedia.org/wiki/Yaz%C4%B1l%C4%B1_Kanyon_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q6014101"
+      ],
+      "notlar": "Yazılı Kanyon, Isparta ili Sütçüler ilçesinde bulunan kanyon ve tabiat parkıdır.Çandır Köyü hudutları içerisinde kalan park, 1989 yılında tabiat parkı olarak tescil edilmiştir. Yazılı denmesinin sebeb",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Yaz%C4%B1l%C4%B1%20kanyaon%20-%20panoramio.jpg",
+          "filename": "Yazılı kanyaon - panoramio.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q6014101",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "yerkopru-caglayani-mersin",
+      "ad": "Yerköprü Çağlayanı (Mersin)",
+      "tur": "tabiat-parki",
+      "il": "Mersin",
+      "ilce": "Mut",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.53244,
+        "lon": 33.22929
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Yerk%C3%B6pr%C3%BC%20%C3%87a%C4%9Flayan%C4%B1%20(Mersin)",
+        "https://tr.wikipedia.org/wiki/Yerk%C3%B6pr%C3%BC_%C3%87a%C4%9Flayan%C4%B1_(Mersin)",
+        "http://www.wikidata.org/entity/Q27929635"
+      ],
+      "notlar": "Yerköprü Çağlayanı, Mersin ili Mut ilçesinde yer alan bir çağlayandır. 2001 yılında tabiat anıtı olarak tescil edilen şelale, 2021'de tabiat parkı ilan edildi. Çağlayan ve çevresindeki alanın genişliğ",
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ta%C5%9Feli-Plateau%2012%2008%201999%20Yerk%C3%B6pr%C3%BC%20%C5%9Eelalesi%20Oberes%20G%C3%B6ksu-Tal%20Bademli%20Yolu.jpg",
+          "filename": "Taşeli-Plateau 12 08 1999 Yerköprü Şelalesi Oberes Göksu-Tal Bademli Yolu.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "wikidata_id": "Q27929635",
+      "veri_kaynagi": "merged"
+    },
+    {
+      "id": "sablonturkiyedeki-tabiat-parklari",
+      "ad": "Şablon:Türkiye'deki tabiat parkları",
+      "tur": "tabiat-parki",
+      "il": "Bilinmiyor",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C5%9Eablon%3AT%C3%BCrkiye'deki%20tabiat%20parklar%C4%B1"
+      ],
+      "notlar": "Bu şablonun varsayılan görünüm değeri otodaralt şeklinde tanımlanmış olup kullanıldığı sayfada daraltılabilir (dolaşım, kenar kutusu ya da daraltılabilir niteliğe sahip bir tablo) başka bir öge varsa ",
+      "veri_kaynagi": "wikipedia"
+    },
+    {
+      "id": "mihrabat-tabiat-parki",
+      "wikidata_id": "Q24884410",
+      "ad": "Mihrabat Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "İstanbul",
+      "ilce": "Beykoz",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.095,
+        "lon": 29.07
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/MihrabatNaturePark.jpg",
+          "filename": "MihrabatNaturePark.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Mihrabat_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q24884410"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "cilingoz-tabiat-parki",
+      "wikidata_id": "Q24896928",
+      "ad": "Çilingoz Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "İstanbul",
+      "ilce": "Çatalca",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.44416667,
+        "lon": 28.20416667
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%87ilingozNaturePark%20%283%29.jpg",
+          "filename": "ÇilingozNaturePark (3).jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/%C3%87ilingoz_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q24896928"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "avcikoru-tabiat-parki",
+      "wikidata_id": "Q30623318",
+      "ad": "Avcıkoru Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "İstanbul",
+      "ilce": "İstanbul",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.10055556,
+        "lon": 29.40083333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Avc%C4%B1koru_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q30623318"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "elmasburnu-tabiat-parki",
+      "wikidata_id": "Q30623519",
+      "ad": "Elmasburnu Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "İstanbul",
+      "ilce": "İstanbul",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.2275,
+        "lon": 29.21888889
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Elmasburnu_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q30623519"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "irmak-tabiat-parki",
+      "wikidata_id": "Q30623345",
+      "ad": "Irmak Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.17972222,
+        "lon": 28.97472222
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Irmak_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q30623345"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "fatih-sultan-mehmet-tabiat-parki",
+      "wikidata_id": "Q30623995",
+      "ad": "Fatih Sultan Mehmet Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "İstanbul",
+      "ilce": "Sarıyer",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.14611111,
+        "lon": 29.01611111
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fatih%20Forest%20Nature%20Park.jpg",
+          "filename": "Fatih Forest Nature Park.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Fatih_Sultan_Mehmet_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q30623995"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "turkmenbasi-tabiat-parki",
+      "wikidata_id": "Q24915681",
+      "ad": "Türkmenbaşı Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "İstanbul",
+      "ilce": "Sarıyer",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.14055556,
+        "lon": 29.0275
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Atat%C3%BCrkArboretum%20%2817%29.jpg",
+          "filename": "AtatürkArboretum (17).jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/T%C3%BCrkmenba%C5%9F%C4%B1_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q24915681"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "komurcubent-tabiat-parki",
+      "wikidata_id": "Q30623241",
+      "ad": "Kömürcübent Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.20527778,
+        "lon": 28.96083333
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%B6m%C3%BCrc%C3%BCbentNaturePark%20%281%29.jpg",
+          "filename": "KömürcübentNaturePark (1).jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/K%C3%B6m%C3%BCrc%C3%BCbent_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q30623241"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "neset-suyu-tabiat-parki",
+      "wikidata_id": "Q28220056",
+      "ad": "Neşet Suyu Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "İstanbul",
+      "ilce": "İstanbul",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.18833333,
+        "lon": 28.96944444
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ne%C5%9Fetsuyu%20Nature%20Park4.jpg",
+          "filename": "Neşetsuyu Nature Park4.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q28220056"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "buyukada-tabiat-parki",
+      "wikidata_id": "Q30623510",
+      "ad": "Büyükada Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "İstanbul",
+      "ilce": "Adalar",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.84888889,
+        "lon": 29.12305556
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/B%C3%BCy%C3%BCkada%20Nature%20Park.jpg",
+          "filename": "Büyükada Nature Park.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCkada_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q30623510"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "falih-rifki-atay-tabiat-parki",
+      "wikidata_id": "Q24915734",
+      "ad": "Falih Rıfkı Atay Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "İstanbul",
+      "ilce": "Sarıyer",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.1925,
+        "lon": 28.96083333
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/FalihR%C4%B1fk%C4%B1AtayNaturePark.jpg",
+          "filename": "FalihRıfkıAtayNaturePark.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Falih_R%C4%B1fk%C4%B1_Atay_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q24915734"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kirazlibent-tabiat-parki",
+      "wikidata_id": "Q30623316",
+      "ad": "Kirazlıbent Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "İstanbul",
+      "ilce": "İstanbul",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.17027778,
+        "lon": 28.96277778
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kirazl%C4%B1bent%20Nature%20Park%20-%20inside.jpg",
+          "filename": "Kirazlıbent Nature Park - inside.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Kirazl%C4%B1bent_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q30623316"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "degirmenburnu-tabiat-parki",
+      "wikidata_id": "Q30623512",
+      "ad": "Değirmenburnu Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "İstanbul",
+      "ilce": "Adalar",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.88388889,
+        "lon": 29.09361111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/De%C4%9Firmenburnu_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q30623512"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "talat-goktepe-tabiat-parki",
+      "wikidata_id": "Q48790814",
+      "ad": "Talat Göktepe Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Mersin",
+      "ilce": "Erdemli",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.594635169,
+        "lon": 34.2916421
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Erdemli_%C3%87aml%C4%B1%C4%9F%C4%B1",
+        "http://www.wikidata.org/entity/Q48790814"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "dilburnu-tabiat-parki",
+      "wikidata_id": "Q30623518",
+      "ad": "Dilburnu Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "İstanbul",
+      "ilce": "Adalar",
+      "bolge": "",
+      "koordinat": {
+        "lat": 40.85444444,
+        "lon": 29.11833333
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Dilburnu_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q30623518"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "polonezkoy-tabiat-parki",
+      "wikidata_id": "Q30588302",
+      "ad": "Polonezköy Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.11777778,
+        "lon": 29.21027778
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Polonezk%C3%B6y%20nature%20panorama.jpg",
+          "filename": "Polonezköy nature panorama.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Polonezk%C3%B6y_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q30588302"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "gunpinar-selalesi",
+      "wikidata_id": "Q31189554",
+      "ad": "Günpınar Şelalesi",
+      "tur": "tabiat-parki",
+      "il": "Malatya",
+      "ilce": "Darende",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.55614,
+        "lon": 37.42258
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/G%C3%BCnp%C4%B1nar%20Waterfall%20Nature%20Park%2C%20Malatya%2C%20Darende.jpg",
+          "filename": "Günpınar Waterfall Nature Park, Malatya, Darende.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/G%C3%BCnp%C4%B1nar_%C5%9Eelalesi",
+        "http://www.wikidata.org/entity/Q31189554"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ayvat-bendi-tabiat-parki",
+      "wikidata_id": "Q28220088",
+      "ad": "Ayvat Bendi Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.19777778,
+        "lon": 28.92083333
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/AyvatBendiNaturePark.jpg",
+          "filename": "AyvatBendiNaturePark.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Ayvat_Bendi_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q28220088"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "uzunkum-tabiat-parki",
+      "wikidata_id": "Q30623231",
+      "ad": "Uzunkum Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Kocaeli",
+      "ilce": "Kandıra",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.2,
+        "lon": 30.27472222
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dikili%20Tuza%C4%9Fz%C4%B12.jpg",
+          "filename": "Dikili Tuzağzı2.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q30623231"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "fatih-cesmesi-tabiat-parki",
+      "wikidata_id": "Q30623268",
+      "ad": "Fatih Çeşmesi Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "İstanbul",
+      "ilce": "Eyüpsultan",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.16888889,
+        "lon": 28.945
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sky102.jpg",
+          "filename": "Sky102.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Fatih_%C3%87e%C5%9Fmesi_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q30623268"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "mehmet-akif-ersoy-tabiat-parki",
+      "wikidata_id": "Q30623258",
+      "ad": "Mehmet Akif Ersoy Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "İstanbul",
+      "ilce": "Sarıyer",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.16777778,
+        "lon": 29.00055556
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Mehmet_Akif_Ersoy_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q30623258"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "gumuldur-tabiat-parki",
+      "wikidata_id": "Q108228154",
+      "ad": "Gümüldür Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "İzmir",
+      "ilce": "Menderes",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.075833333,
+        "lon": 26.981666666
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q108228154"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "efeoglu-tabiat-parki",
+      "wikidata_id": "Q108228159",
+      "ad": "Efeoğlu Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "İzmir",
+      "ilce": "Torbalı",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.270555555,
+        "lon": 27.241111111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q108228159"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ekmeksiz-plaji-tabiat-parki",
+      "wikidata_id": "Q108228169",
+      "ad": "Ekmeksiz Plajı Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "İzmir",
+      "ilce": "Seferihisar",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.174722222,
+        "lon": 26.774722222
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q108228169"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "siklik-bogazi-tabiat-parki",
+      "wikidata_id": "Q108228143",
+      "ad": "Sıklık Boğazı Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Çorum",
+      "ilce": "",
+      "bolge": "Karadeniz",
+      "koordinat": {
+        "lat": 40.5851848,
+        "lon": 35.0372795
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Landscape%20of%20%C3%87orum%20S%C4%B1kl%C4%B1k.jpg",
+          "filename": "The Landscape of Çorum Sıklık.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/S%C4%B1kl%C4%B1k_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228143"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "asikpasa-tabiat-parki",
+      "wikidata_id": "Q108228132",
+      "ad": "Aşıkpaşa Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Kırşehir",
+      "ilce": "",
+      "bolge": "İç Anadolu",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q108228132"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "golcuk-tabiat-parki",
+      "wikidata_id": "Q108227069",
+      "ad": "Gölcük Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108227069"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "eriklitepe",
+      "wikidata_id": "Q108228166",
+      "ad": "Eriklitepe",
+      "tur": "tabiat-parki",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Eriklitepe_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228166"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "danamandira-tabiat-parki",
+      "wikidata_id": "Q96902881",
+      "ad": "Danamandıra Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "İstanbul",
+      "ilce": "Silivri",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.288333333,
+        "lon": 28.225277777
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Danamand%C4%B1ra_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q96902881"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "akdag-mill-parki",
+      "wikidata_id": "Q108227344",
+      "ad": "Akdağ Millî Parkı",
+      "tur": "tabiat-parki",
+      "il": "Afyonkarahisar",
+      "ilce": "",
+      "bolge": "Ege",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Akda%C4%9F_Mill%C3%AE_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108227344"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "il-ormani-tabiat-parki",
+      "wikidata_id": "Q108228197",
+      "ad": "İl Ormanı Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/SAKARYA%20%C4%B0L%20ORMANI.jpg",
+          "filename": "SAKARYA İL ORMANI.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q108228197"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "borcka-karagol-tabiat-parki",
+      "wikidata_id": "Q108228031",
+      "ad": "Borçka Karagöl Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Artvin",
+      "ilce": "Borçka",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q108228031"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "cicekli-tabiat-parki",
+      "wikidata_id": "Q108228223",
+      "ad": "Çiçekli Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "İzmir",
+      "ilce": "Bornova",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.508888888,
+        "lon": 27.280555555
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q108228223"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "yamanlardagi-tabiat-parki",
+      "wikidata_id": "Q108228266",
+      "ad": "Yamanlardağı Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "İzmir",
+      "ilce": "Karşıyaka",
+      "bolge": "",
+      "koordinat": {
+        "lat": 38.552222222,
+        "lon": 27.1575
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q108228266"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "uctepeler-tabiat-parki",
+      "wikidata_id": "Q108228269",
+      "ad": "Üçtepeler Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 39.780972222,
+        "lon": 35.195136111
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/%C3%9C%C3%A7tepeler_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q108228269"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "dipsizgol-tabiat-parki",
+      "wikidata_id": "Q108228224",
+      "ad": "Dipsizgöl Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Kastamonu",
+      "ilce": "Tosya",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dipsizg%C3%B6l%20Nature%20Park.jpg",
+          "filename": "Dipsizgöl Nature Park.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q108228224"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "ciftmazi-tabiat-parki",
+      "wikidata_id": "Q108228235",
+      "ad": "Çiftmazı Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Osmaniye",
+      "ilce": "Osmaniye",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%87iftmaz%C4%B1%20tabiat%20park%C4%B1.jpg",
+          "filename": "Çiftmazı tabiat parkı.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q108228235"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "akyokus-tabiat-parki",
+      "wikidata_id": "Q110423684",
+      "ad": "Akyokuş Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Konya",
+      "ilce": "Meram",
+      "bolge": "",
+      "koordinat": {
+        "lat": 37.880333,
+        "lon": 32.425259
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Akyokus%20parki.jpg",
+          "filename": "Akyokus parki.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Akyoku%C5%9F_Tabiat_Park%C4%B1",
+        "http://www.wikidata.org/entity/Q110423684"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "lake-hazar-nature-park",
+      "wikidata_id": "Q112656912",
+      "ad": "Lake Hazar Nature Park",
+      "tur": "tabiat-parki",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Elaz%C4%B1%C4%9F%20hazar.jpg",
+          "filename": "Elazığ hazar.jpg",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q112656912"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "boraboy-tabiat-parki",
+      "wikidata_id": "Q108228408",
+      "ad": "Boraboy Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "Amasya",
+      "ilce": "",
+      "bolge": "Karadeniz",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q108228408"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    },
+    {
+      "id": "kargali-golcuk-tabiat-parki",
+      "wikidata_id": "Q108228494",
+      "ad": "Kargalı Gölcük Tabiat Parkı",
+      "tur": "tabiat-parki",
+      "il": "",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "images": {
+        "hero": {
+          "url": "",
+          "filename": "",
+          "source": "wikimedia"
+        }
+      },
+      "olasi_kaynaklar": [
+        "http://www.wikidata.org/entity/Q108228494"
+      ],
+      "notlar": "Wikidata - Tabiat Parkları",
+      "veri_kaynagi": "wikidata"
+    }
+  ]
+}

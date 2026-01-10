@@ -1,8 +1,553 @@
 {
   "meta": {
-    "kaynak": "Manuel eklenecek",
+    "kaynak": "Wikipedia - Türkiye'deki_plajlar",
     "guncelleme_tarihi": "2026-01-05",
-    "toplam_sayi": 0
+    "toplam_sayi": 32
   },
-  "alanlar": []
+  "alanlar": [
+    {
+      "id": "turkiyedeki-plajlar-listesi",
+      "ad": "Türkiye'deki plajlar listesi",
+      "tur": "plaj",
+      "il": "Bilinmiyor",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/T%C3%BCrkiye'deki%20plajlar%20listesi"
+      ],
+      "notlar": "Türkiye; Akdeniz, Ege Denizi, Karadeniz ve Marmara Denizi kıyılarında birçok plaja sahiptir. Bunlardan 486 tanesi Mavi Bayraklıdır; bu sayıyla ülke, İspanya ve Yunanistan'dan sonra dünyada üçüncü sıra"
+    },
+    {
+      "id": "altinkum-plaji",
+      "ad": "Altınkum Plajı",
+      "tur": "plaj",
+      "il": "İstanbul",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Alt%C4%B1nkum%20Plaj%C4%B1"
+      ],
+      "notlar": "Altınkum Plajı, İstanbul'un Sarıyer ilçesine bağlı Rumelikavağı semtinde bulunan plajdır.\n\n1929 yılında açıldı. Şirket-i Hayriye, İstanbul halkının kadınlı erkekli denize girmesini sağlamak amacıyla y"
+    },
+    {
+      "id": "aydincik-tabiat-parki",
+      "ad": "Aydıncık Tabiat Parkı",
+      "tur": "plaj",
+      "il": "Aydın",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.14777778,
+        "lon": 33.36055556
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ayd%C4%B1nc%C4%B1k%20Tabiat%20Park%C4%B1"
+      ],
+      "notlar": "Aydıncık (İncekum) Tabiat Parkı, Mersin'de bir tabiat parkı."
+    },
+    {
+      "id": "bagirganli-plaji",
+      "ad": "Bağırganlı Plajı",
+      "tur": "plaj",
+      "il": "Kocaeli",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ba%C4%9F%C4%B1rganl%C4%B1%20Plaj%C4%B1"
+      ],
+      "notlar": "Bağırganlı Plajı, Kocaeli ilinin Kandıra ilçesinde bulunan 550 metre uzunluğunda ve 100 metre genişliğinde, bağlı bulunduğu ilçenin merkezine 17 km mesafede, mavi bayraklı, ücretsiz bir plajdır. Diğer"
+    },
+    {
+      "id": "bandirma-plaji",
+      "ad": "Bandırma Plajı",
+      "tur": "plaj",
+      "il": "Samsun",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Band%C4%B1rma%20Plaj%C4%B1"
+      ],
+      "notlar": "Bandırma Plajı Samsunun Canik ilçesinde bulunan Karadenize sınır bir plajdır.\nBandırma plajı; su kayağı, plajları, kafeleri ile Doğupark bölgesinin seçkin alanlarındandır. İsmini çok yakınında bulunan"
+    },
+    {
+      "id": "buyuk-cakil-plaji",
+      "ad": "Büyük Çakıl Plajı",
+      "tur": "plaj",
+      "il": "Bilinmiyor",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk%20%C3%87ak%C4%B1l%20Plaj%C4%B1"
+      ],
+      "notlar": "Büyük Çakıl Plajı Kaş merkezin 1.750 metre doğusundaki plaj. Jandarma binasının önünden geçen asfalt yol takip edilerek ulaşılabilir. Küçük Çakıl Plajı'nın bulunduğu koyun doğusundadır.\nUzunluğu yakla"
+    },
+    {
+      "id": "cebeci-plaji",
+      "ad": "Cebeci Plajı",
+      "tur": "plaj",
+      "il": "Ankara",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Cebeci%20Plaj%C4%B1"
+      ],
+      "notlar": "Cebeci Plajı, Kocaeli ilinin Kandıra ilçesine bağlı kuzeydoğusu tuzağzı tabiat parkı, güneybatısında pembe kayalar bulunan mavi bayraklı plajlardan birisidir. Plaj, 5–6 km uzunluğunda, deniz suyu oldu"
+    },
+    {
+      "id": "cakraz-plaji",
+      "ad": "Çakraz Plajı",
+      "tur": "plaj",
+      "il": "Bartın",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C3%87akraz%20Plaj%C4%B1"
+      ],
+      "notlar": "Çakraz Plajı, Bartın'ın Amasra ilçesinin doğusunda konumlanmış bir plajdır. Kumlarla kaplı olan plaj ilçe merkezine 14, Çakrazova köyüne 1 kilometre uzaklıktadır. 1968 Amasra depreminde plajın kumları"
+    },
+    {
+      "id": "cevlik-plaji",
+      "ad": "Çevlik Plajı",
+      "tur": "plaj",
+      "il": "Hatay",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C3%87evlik%20Plaj%C4%B1"
+      ],
+      "notlar": "Çevlik Plajı, Hatay ilinin Samandağ ilçesine bağlıdır ve 14 kilometre uzunlukla Türkiye'nin en uzun sahilleri arasındadır."
+    },
+    {
+      "id": "cilingoz-tabiat-parki",
+      "ad": "Çilingoz Tabiat Parkı",
+      "tur": "plaj",
+      "il": "İstanbul",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 41.44416667,
+        "lon": 28.20416667
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C3%87ilingoz%20Tabiat%20Park%C4%B1"
+      ],
+      "notlar": "Çilingoz Tabiat Parkı, İstanbul ilinin Çatalca ilçesinde bulunan bir tabiat parkıdır.\nİstanbul'un kuzeybatısında Karadeniz'e kıyısı olan Çatalca'nın Binkılıç kasabasında yer alan ve 2011 yılında kurul"
+    },
+    {
+      "id": "delikli-koy",
+      "ad": "Delikli Koy",
+      "tur": "plaj",
+      "il": "Kocaeli",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Delikli%20Koy"
+      ],
+      "notlar": "Delikli koy ya da Eski kerpe burnu Kocaeli ilinin Kandıra ilçesine bağlı bir koydur.\nSarusu kayalıkları ile Kerpe’yi ayıran bu burunda yapılaşma yoktur. Kerpe girişindeki Sarısu tabelasından 2 km sonr"
+    },
+    {
+      "id": "dikili-tuzagzi",
+      "ad": "Dikili Tuzağzı",
+      "tur": "plaj",
+      "il": "Kocaeli",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Dikili%20Tuza%C4%9Fz%C4%B1"
+      ],
+      "notlar": "Dikili Tuzağzı, Kocaeli ili Kandıra ilçesinde bir sahil.\nKandıra merkeze 30 km mesafede olan Babalı dikili, Kandıra'nın en uzun sahil bölgesidir. Ayrıca bu bölge, açık deniz özelliği ile rüzgarlı hava"
+    },
+    {
+      "id": "ekincik-koyu",
+      "ad": "Ekincik Koyu",
+      "tur": "plaj",
+      "il": "Muğla",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Ekincik%20Koyu"
+      ],
+      "notlar": "Ekincik Koyu, Muğla Köyceğiz yakınlarında bulunan koy, plaj.\nKöyceğiz'in 40 km güneybatısında olan koya karadan ve denizden her zaman ulaşabilmek mümkündür. Doğal bir liman olan Ekincik Koyu'na günde "
+    },
+    {
+      "id": "gumuskum-tabiat-parki",
+      "ad": "Gümüşkum Tabiat Parkı",
+      "tur": "plaj",
+      "il": "Mersin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.72083333,
+        "lon": 34.49527778
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/G%C3%BCm%C3%BC%C5%9Fkum%20Tabiat%20Park%C4%B1"
+      ],
+      "notlar": "100. Yıl Tabiat Parkı veya Gümüşkum Tabiat Parkı, Mersin ilinde bulunan bir tabiat parkıdır.Park Davultepe bölgesindedir. (36°43′15″K 34°29′43″D) Akdeniz kıyısında yer almaktadır. Mersin'in 12 km (7,5"
+    },
+    {
+      "id": "gunes-plaji",
+      "ad": "Güneş Plajı",
+      "tur": "plaj",
+      "il": "İstanbul",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/G%C3%BCne%C5%9F%20Plaj%C4%B1"
+      ],
+      "notlar": "Güneş Plajı ya da Florya Güneş Plajı, İstanbul'un Bakırköy ilçesi Şenlikköy mahallesindeki plajdır. İstanbul Büyükşehir Belediyesi'ne bağlı bir iştirak şirketi olan Beltur tarafından bakımı yapılan ve"
+    },
+    {
+      "id": "incekum-plaji",
+      "ad": "İncekum Plajı",
+      "tur": "plaj",
+      "il": "Muğla",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C4%B0ncekum%20Plaj%C4%B1"
+      ],
+      "notlar": "İncekum Plajı Muğla'nın Marmaris ilçesinde bulunan Çamlı Köyü'ne bağlı bir plajdır. Plaja ulaşım traktörlerin çektiği bir çeşit römork olan çekçek yoluyla sağlanır. Plaj yoluna araba girmez. Buranın ö"
+    },
+    {
+      "id": "iztuzu-plaji",
+      "ad": "İztuzu Plajı",
+      "tur": "plaj",
+      "il": "Muğla",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.79014,
+        "lon": 28.6232
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/%C4%B0ztuzu%20Plaj%C4%B1"
+      ],
+      "notlar": "İztuzu Plajı, Türkiye'nin güneybatısında Muğla ilinin Ortaca ilçesine bağlı Dalyan yakınlarında bulunan 4,5 km uzunluğunda bir plajdır. Plaj, Dalyan nehrinin tatlı su deltası ile Akdeniz arasında doğa"
+    },
+    {
+      "id": "kaputas-plaji",
+      "ad": "Kaputaş Plajı",
+      "tur": "plaj",
+      "il": "Bilinmiyor",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kaputa%C5%9F%20Plaj%C4%B1"
+      ],
+      "notlar": "Kaputaş Plajı, Kaş ile Kalkan arasındaki sahil yolu üzerinde bulunan kanyon ağzı plajı.\nYer altından akmakta olan suyun deniz kıyısında kumlar arasından süzülmesi sonucu suyu genel olarak serin ve tur"
+    },
+    {
+      "id": "kastro",
+      "ad": "Kastro",
+      "tur": "plaj",
+      "il": "Kars",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kastro"
+      ],
+      "notlar": "Kastro ya da Çamlıköy, Tekirdağ ilinin Saray İlçesine ait, Karadeniz kıyısında çadırlı kamp yeri. Geniş plajı, akarsuyu ve yeşil doğası ile rağbet edilen bir mesire yeridir. Yöredeki 329 hektarlık kar"
+    },
+    {
+      "id": "kemalpasa-plaji",
+      "ad": "Kemalpaşa Plajı",
+      "tur": "plaj",
+      "il": "Artvin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kemalpa%C5%9Fa%20Plaj%C4%B1"
+      ],
+      "notlar": "Kemalpaşa Plajı, Artvin'in Kemalpaşa ilçesinde bulunan bir plajdır. 2-3 kilometre uzunluğundaki plaj çakıllarla kaplıdır."
+    },
+    {
+      "id": "keykubat-plaji",
+      "ad": "Keykubat Plajı",
+      "tur": "plaj",
+      "il": "Bilinmiyor",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Keykubat%20Plaj%C4%B1"
+      ],
+      "notlar": "Yarımadanın doğusunda, belediye binasının önünden başlayarak yaklaşık 3 kilometre uzunluğundadır. Mavi Bayraklıdır. Deniz ve plaj kumdur, bazı kesimlerinde kum kayası vardır. Kıyı boyunca uzanan parkl"
+    },
+    {
+      "id": "kizkumu-plaji",
+      "ad": "Kızkumu Plajı",
+      "tur": "plaj",
+      "il": "Muğla",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/K%C4%B1zkumu%20Plaj%C4%B1"
+      ],
+      "notlar": "Kızkumu plajı, Muğla'nın Marmaris ilçesinde, Orhaniye yolu üzerindeki plajdır. Doğal bir oluşumdur. Orhaniye Köyü’nü çevreleyen kayaların gece ve gündüz sıcaklık farkı, donma ve aşınma gibi sebeplerle"
+    },
+    {
+      "id": "kleopatra-plaji",
+      "ad": "Kleopatra Plajı",
+      "tur": "plaj",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kleopatra%20Plaj%C4%B1"
+      ],
+      "notlar": "Kleopatra Plajı, Antalya'nın Alanya ilçesinde bulunan plajdır. Mavi bayraklı plaj statüsündedir. Roma generali Antonius'un Alanya'yı Kleopatra'ya hibe etmesi ve Kleopatra'nın o çevrelerde bulunduğu za"
+    },
+    {
+      "id": "konyaalti-plaji",
+      "ad": "Konyaaltı Plajı",
+      "tur": "plaj",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Konyaalt%C4%B1%20Plaj%C4%B1"
+      ],
+      "notlar": "Konyaaltı Sahili, Lara Plajı ile birlikte Antalya'nın iki önemli sahilinden biridir. Şehir merkezinin batısında, Konyaaltı ilçesinin Akdeniz sahilindedir.\n\nDünyanın en büyük tatlı su traverteni olan A"
+    },
+    {
+      "id": "kumcagiz-plaji",
+      "ad": "Kumcağız plajı",
+      "tur": "plaj",
+      "il": "Ankara",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Kumca%C4%9F%C4%B1z%20plaj%C4%B1"
+      ],
+      "notlar": "Kumcağız plajı Kocaeli ilinin ilçesi Kerpe'ye bağlı 5 km uzaklıkta bir sahil köyüdür.‘’’Kumcağız Plajı’ Kocaeli ilinin ilçesi Kerpe'ye 5 km uzaklıkta bir sahil köyüdür.\nKerpe'de en korunaklı ve en büy"
+    },
+    {
+      "id": "kucuk-cakil-plaji",
+      "ad": "Küçük Çakıl Plajı",
+      "tur": "plaj",
+      "il": "Antalya",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk%20%C3%87ak%C4%B1l%20Plaj%C4%B1"
+      ],
+      "notlar": "Küçük Çakıl Plajı, Antalya ili Kaş ilçesinde, kente girdikten sonra sahil yolundan devam ederken otel ve pansiyonlarının önünde bulunan ilk plajdır. Habesos Hotel'in tam karşısındadır. Adından da anla"
+    },
+    {
+      "id": "lazbuku",
+      "ad": "Lazbükü",
+      "tur": "plaj",
+      "il": "Artvin",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Lazb%C3%BCk%C3%BC"
+      ],
+      "notlar": "Lazbükü veya resmî adıyla Güngören Halk Plajı, Artvin'in Arhavi ve Rize'nin Fındıklı ilçelerinin hak iddia ettiği bir plajdır. Plajın uzunluğu 500 metre olmakla beraber, plajdaki sosyal tesisin sahil "
+    },
+    {
+      "id": "madam-martha-koyu",
+      "ad": "Madam Martha Koyu",
+      "tur": "plaj",
+      "il": "İstanbul",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Madam%20Martha%20Koyu"
+      ],
+      "notlar": "Madam Martha Koyu, eski ismi ile Halikya Koyu, İstanbul'un Adalar ilçesinde yer alan Burgazada'da bulunan bir koy, plaj ve eski kamp alanı. Burgazada İskelesi'nden yürüme ile 20 dakika uzaklıkta yer a"
+    },
+    {
+      "id": "menekse-plaji",
+      "ad": "Menekşe Plajı",
+      "tur": "plaj",
+      "il": "İstanbul",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Menek%C5%9Fe%20Plaj%C4%B1"
+      ],
+      "notlar": "Menekşe Plajı, İstanbul'un Küçükçekmece ilçesi Fatih mahallesi iç kumsaldaki halk plajıdır. İstanbul Büyükşehir Belediyesi tarafından bakımı yapılan plaj halka açık olup ücretsizdir. 630 metrelik sahi"
+    },
+    {
+      "id": "mollakasim-plaji",
+      "ad": "Mollakasım Plajı",
+      "tur": "plaj",
+      "il": "Van",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Mollakas%C4%B1m%20Plaj%C4%B1"
+      ],
+      "notlar": "Mollakasım Plajı; Van'ın Tuşba ilçesinde bulunan bir plajdır. Van Gölü'nün Mollakasım Mahallesi kıyısında yer alan plaj, Türkiye'de denize kıyısı olmadığı halde mavi bayrak ödülü kazanan ilk ve tek ku"
+    },
+    {
+      "id": "patara-plaji",
+      "ad": "Patara Plajı",
+      "tur": "plaj",
+      "il": "Muş",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Patara%20Plaj%C4%B1"
+      ],
+      "notlar": "Patara Plajı, Patara antik kenti yakınında bulunan ve bu bölgedeki en büyük plajlardan biridir.\n\nPatara kumsalı, çevredeki kumsallara göre daha uzundur. 18 km uzunluğundaki kumsalın derinliği yer yer "
+    },
+    {
+      "id": "sarimsakli-plaji",
+      "ad": "Sarımsaklı Plajı",
+      "tur": "plaj",
+      "il": "Balıkesir",
+      "ilce": "",
+      "bolge": "",
+      "koordinat": {
+        "lat": null,
+        "lon": null
+      },
+      "olasi_kaynaklar": [
+        "https://www.tarimorman.gov.tr/DKMP",
+        "https://tr.wikipedia.org/wiki/Sar%C4%B1msakl%C4%B1%20Plaj%C4%B1"
+      ],
+      "notlar": "Sarımsaklı Plajı, Balıkesir ilinin Ayvalık ilçesine bağlı Küçükköy beldesinde bulunmaktadır. İlçe merkezine 8 km uzaklıktadır. 7 km uzunluğunda ve 100 m eninde bir kumsalı olan plaj; birçok konaklama "
+    }
+  ]
 }

@@ -1,0 +1,22 @@
+# Tabiat Rehberi - Robots.txt
+# Tüm botlara açık, SEO-friendly
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://tabiatrehberi.com/sitemap.xml
+
+# Crawl-delay (isteğe bağlı)
+Crawl-delay: 0
+
+# Disallow admin/private areas (yoksa gerek yok ama güvenlik için)
+# Disallow: /admin/
+# Disallow: /api/
+
+# Priority pages for better indexing
+Allow: /alanlar/
+Allow: /iller/
+Allow: /turler/
+Allow: /hakkinda/
+Allow: /iletisim/

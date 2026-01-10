@@ -1,0 +1,83 @@
+{
+  "alanlar": [
+    {
+      "id": "kekova",
+      "wikidata_id": "Q2666727",
+      "ad": "Kekova",
+      "tur": "ada",
+      "il": "Antalya",
+      "ilce": "Demre",
+      "bolge": "",
+      "koordinat": {
+        "lat": 36.183333333,
+        "lon": 29.883333333
+      },
+      "fiziksel": {
+        "yukseklik": null,
+        "taban_yuksekligi": null,
+        "alan": 5.7,
+        "genislik": 1.7,
+        "uzunluk": 7.5,
+        "derinlik": null,
+        "ortalama_derinlik": null,
+        "kiyi_uzunlugu": null
+      },
+      "cografya": {
+        "hangi_dagda": "Akdeniz Bölgesi",
+        "parcasi": null,
+        "fiziksel_ozellik": "Likya Denizi",
+        "en_yuksek_nokta": null,
+        "en_alcak_nokta": null,
+        "tam_adres": null,
+        "komsu_yerler": null,
+        "nehir_agzi": null,
+        "nehir_kaynagi": null,
+        "drenaj_havzasi": null
+      },
+      "idari": {
+        "koruma_statusu": "Dünya Mirası Geçici Listesi",
+        "koruma_alani": null,
+        "yonetim": null,
+        "kurulus_tarihi": null,
+        "kapatilma_tarihi": null,
+        "acilis_tarihi": null,
+        "iucn_kategori": null
+      },
+      "tarihsel": {
+        "isim_nereden": null,
+        "resmi_adi": null,
+        "yerel_adi": null,
+        "kisa_adi": null,
+        "onemli_olay": null,
+        "donem": null
+      },
+      "turizm": {
+        "resmi_site": null,
+        "tripadvisor_id": null,
+        "yillik_ziyaretci": null,
+        "giris_ucreti": null,
+        "acik_sezon": null,
+        "ziyaret_suresi": null
+      },
+      "jeolojik": {
+        "kayac_turu": null
+      },
+      "images": {
+        "hero": {
+          "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kekova%20island%20and%20Kalekoey%20village.jpg",
+          "filename": "Kekova island and Kalekoey village.jpg",
+          "source": "wikimedia"
+        },
+        "konum_haritasi": null,
+        "locator_haritasi": null,
+        "panorama": null
+      },
+      "olasi_kaynaklar": [
+        "https://tr.wikipedia.org/wiki/Kekova",
+        "http://www.wikidata.org/entity/Q2666727"
+      ],
+      "notlar": "Wikidata - Adalar",
+      "veri_kaynagi": "wikidata"
+    }
+  ]
+}
