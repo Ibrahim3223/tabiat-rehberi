@@ -44,6 +44,9 @@ hasCJKLanguage = false
   defaultImage = "/images/default-placeholder.jpg"
   imageQuality = 85
 
+  # Google AdSense
+  googleAdsense = "ca-pub-5786791919122209"
+
   # Kaynak politikası
   showSources = true
   showLastVerified = true
