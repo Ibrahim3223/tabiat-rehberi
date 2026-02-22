@@ -1,71 +1,124 @@
 {{- $alanTuru := .Params.alan_turu | lower -}}
-{{- $coords := .Params.koordinat | default .Params.coordinates -}}
-{{- $il := .Params.il -}}
-{{- $ilce := .Params.ilce -}}
+{{- $coords   := .Params.koordinat | default .Params.coordinates -}}
+{{- $il       := .Params.il   | default "" -}}
+{{- $ilce     := .Params.ilce | default "" -}}
+{{- $bolge    := .Params.bolge | default "" -}}
 
-{{- /* Alan türüne göre FAQ'ler */ -}}
-{{- $faqs := slice -}}
-
-{{- if or (in $alanTuru "mağara") (in $alanTuru "magara") -}}
-  {{- $faqs = slice
-    (dict "question" "Mağara içi sıcaklık ne kadardır?" "answer" (printf "%s mağarası yıl boyunca sabit bir sıcaklığa sahiptir. Mağara içi genellikle 15-20°C arasında seyreder, bu nedenle hafif bir ceket almanızı öneririz." .Title))
-    (dict "question" "Rehber eşliğinde mi gezilir?" "answer" "Mağara içi güvenlik nedeniyle genellikle rehber eşliğinde gezilir. Ziyaret saatleri ve tur programları için yerel yönetim veya milli park müdürlüğü ile iletişime geçebilirsiniz.")
-    (dict "question" "Fotoğraf çekmek serbest mi?" "answer" "Evet, mağara içinde fotoğraf çekmek genellikle serbesttir. Ancak flaş kullanımı formasyonlara zarar verebileceği için kısıtlanabilir. Düşük ışıkta çekim yapabileceğiniz ekipman getirmenizi tavsiye ederiz.")
-    (dict "question" "Astım hastaları için uygun mu?" "answer" "Birçok mağara yüksek nem oranı ve sabit sıcaklığı nedeniyle astım hastaları için faydalı olabilir. Ancak ziyaret öncesi doktorunuza danışmanızı öneririz.")
-  -}}
-{{- else if or (in $alanTuru "göl") (in $alanTuru "gol") -}}
-  {{- $faqs = slice
-    (dict "question" "Gölde yüzmek mümkün mü?" "answer" (printf "%s'de yüzme, su sıcaklığı ve koruma statüsüne bağlıdır. Yaz aylarında genellikle yüzülebilir, ancak milli park sınırları içindeyse kısıtlamalar olabilir." .Title))
-    (dict "question" "Kamp yapmak serbest mi?" "answer" (printf "%s çevresinde kamp yapılabilir, ancak belirlenmiş kamp alanlarını kullanmanız önemlidir. Doğayı korumak için çöplerinizi yanınızda götürün." .Title))
-    (dict "question" "En iyi ziyaret zamanı ne zaman?" "answer" "Göl ziyaretleri için en ideal dönem ilkbahar (Nisan-Mayıs) ve erken sonbahar (Eylül-Ekim) aylarıdır. Bu dönemlerde hava sıcaklığı idealdir ve doğa en güzel renklerindedir.")
-    (dict "question" "Balık tutmak yasak mı?" "answer" "Balık tutma, gölün koruma statüsüne göre değişir. Milli park veya doğal sit alanıysa izin gerekebilir. Yerel yönetmeliklerle bilgi almanızı öneririz.")
-  -}}
-{{- else if or (in $alanTuru "şelale") (in $alanTuru "selale") -}}
-  {{- $faqs = slice
-    (dict "question" "Şelaleye nasıl ulaşılır?" "answer" (printf "%s'ye ulaşım genellikle yürüyüş patikası ile sağlanır. Rahat ayakkabılar ve su geçirmez kıyafetler getirmenizi tavsiye ederiz." .Title))
-    (dict "question" "Yağmurlu havalarda ziyaret edilebilir mi?" "answer" "Yağmurlu havalarda şelale daha etkileyici görünse de, patikalar kaygan olabilir. Güvenliğiniz için kuru havalarda ziyaret etmenizi öneririz.")
-    (dict "question" "Piknik yapmak mümkün mü?" "answer" "Şelale çevresinde belirlenmiş piknik alanları genellikle mevcuttur. Doğaya saygılı olun ve tüm çöplerinizi yanınızda götürün.")
-    (dict "question" "Suya girilebilir mi?" "answer" "Bazı şelalelerde doğal havuzlarda yüzmek mümkündür, ancak su akıntısı güçlü olabilir. Güvenlik tabelalarına dikkat edin.")
-  -}}
-{{- else if or (in $alanTuru "dağ") (in $alanTuru "dag") -}}
-  {{- $faqs = slice
-    (dict "question" "Dağa tırmanmak için özel ekipman gerekli mi?" "answer" (printf "%s'a tırmanış için deneyim seviyenize göre ekipman gerekebilir. Kolay rotalar için sadece iyi ayakkabılar yeterken, zirve tırmanışı için profesyonel ekipman şarttır." .Title))
-    (dict "question" "En iyi tırmanış sezonu ne zaman?" "answer" "Dağ tırmanışları için en uygun dönem Haziran-Eylül arası yaz aylarıdır. Kış aylarında kar nedeniyle tehlikeli olabilir.")
-    (dict "question" "Kamp yapmak serbest mi?" "answer" "Dağ yamaçlarında ve belirli yüksekliklerde kamp yapmak genellikle serbesttir. Hava koşullarına hazırlıklı olun ve deneyimli bir rehber eşliğinde çıkın.")
-    (dict "question" "Rehber tutmak zorunlu mu?" "answer" "Zirve tırmanışları için deneyimli dağcı rehber tutmanız şiddetle tavsiye edilir. Hava koşulları hızla değişebilir ve rotaları bilmek hayati önem taşır.")
-  -}}
-{{- else if or (in $alanTuru "plaj") (in $alanTuru "koy") -}}
-  {{- $faqs = slice
-    (dict "question" "Plaj giriş ücreti var mı?" "answer" (printf "%s'ye giriş genellikle ücretsizdir, ancak yaz sezonunda şezlong ve şemsiye kiralama ücretlidir." .Title))
-    (dict "question" "Dalış yapmak mümkün mü?" "answer" "Evet, berrak sularda dalış ve şnorkelle yüzmek için idealdir. Deneyimli dalgıçlar için profesyonel dalış merkezleri de bulunabilir.")
-    (dict "question" "Hangi aylar yüzmeye uygundur?" "answer" "Deniz suyu sıcaklığı Haziran-Ekim arası yüzmeye uygundur. En sıcak dönem Temmuz-Ağustos aylarıdır.")
-    (dict "question" "Çocuklu aileler için uygun mu?" "answer" (printf "%s aileler için uygun bir plajdır. Sığ kısımlar ve kumsal alanlar çocuklar için güvenlidir." .Title))
-  -}}
-{{- else if or (in $alanTuru "park") (in $alanTuru "milli") (in $alanTuru "tabiat") -}}
-  {{- $faqs = slice
-    (dict "question" "Park giriş ücreti ne kadar?" "answer" (printf "%s'ye giriş için ücret alınabilir. Güncel fiyatlar için resmi web sitesini ziyaret edebilirsiniz." .Title))
-    (dict "question" "Evcil hayvan götürebilir miyim?" "answer" "Milli parkların çoğunda evcil hayvan girmesi kısıtlanmıştır. Yaban hayatı koruma amacıyla bu kurala uymanız önemlidir.")
-    (dict "question" "Yürüyüş parkurları var mı?" "answer" "Evet, parkta işaretlenmiş yürüyüş parkurları bulunur. Kolay, orta ve zor seviye rotalar mevcuttur.")
-    (dict "question" "Kamp yapmak yasak mı?" "answer" "Belirlenmiş kamp alanları dışında kamp yapmak genellikle yasaktır. İzinli kamp alanlarını kullanmanız gerekmektedir.")
-  -}}
-{{- else if or (in $alanTuru "kanyon") -}}
-  {{- $faqs = slice
-    (dict "question" "Kanyonda rafting yapılabilir mi?" "answer" (printf "%s'de su akışına ve mevsime bağlı olarak rafting mümkün olabilir. Profesyonel rehber firmaları ile iletişime geçin." .Title))
-    (dict "question" "Kanyoning için deneyim gerekli mi?" "answer" "Kanyoning (kanyon geçişi) tehlikeli bir spordur ve mutlaka deneyimli rehber eşliğinde yapılmalıdır. Ekipman ve teknik bilgi şarttır.")
-    (dict "question" "Hangi mevsim daha güvenli?" "answer" "Kanyon ziyaretleri için yaz sonu ve sonbahar daha güvenlidir. İlkbahar aylarında kar erimesi nedeniyle su seviyesi yüksek ve tehlikeli olabilir.")
-    (dict "question" "Fotoğraf çekerken nelere dikkat etmeliyim?" "answer" "Kanyon içinde dramatik ışık oyunları öğle saatlerinde en güzeldir. Geniş açı lens ve tripod kullanmanızı öneririz.")
-  -}}
+{{/* ─────────────────────────────────────────────
+     Q1 · NEREDE?
+───────────────────────────────────────────── */}}
+{{- $q1 := "" -}}
+{{- if and $il $ilce -}}
+  {{- $q1 = printf "%s, %s iline bağlı %s ilçesinde yer almaktadır." .Title $il $ilce -}}
+{{- else if $il -}}
+  {{- $q1 = printf "%s, %s ilinde yer almaktadır." .Title $il -}}
 {{- else -}}
-  {{- /* Generic FAQs */ -}}
-  {{- $faqs = slice
-    (dict "question" (printf "%s'ye nasıl gidilir?" .Title) "answer" (printf "%s, %s ilinde yer almaktadır. Toplu taşıma veya özel araç ile ulaşabilirsiniz. En yakın şehir merkezinden mesafe ve ulaşım alternatifleri için yerel turizm ofislerinden bilgi alabilirsiniz." .Title $il))
-    (dict "question" "En iyi ziyaret zamanı ne zaman?" "answer" "Ziyaret için en ideal dönem hava koşullarına bağlı olarak ilkbahar (Nisan-Mayıs) ve erken sonbahar (Eylül-Ekim) aylarıdır.")
-    (dict "question" "Çocuklu aileler için uygun mu?" "answer" (printf "%s aileler için uygun bir doğal alandır. Ancak ziyaret öncesi yürüyüş mesafesi ve zorluk seviyesini değerlendirmenizi öneririz." .Title))
-    (dict "question" "Yakınlarda konaklama seçeneği var mı?" "answer" (printf "%s çevresinde otel, pansiyon ve kamp alanları bulunmaktadır. En yakın %s şehir merkezinde daha fazla seçenek mevcuttur." .Title (default "il" $ilce)))
-  -}}
+  {{- $q1 = printf "%s, Türkiye'nin güzel doğal alanlarından biridir." .Title -}}
+{{- end -}}
+{{- if $bolge -}}
+  {{- $q1 = printf "%s %s Bölgesi'nde konumlanan bu alan, doğa severlerin mutlaka görmesi gereken yerler arasındadır." $q1 $bolge -}}
+{{- end -}}
+{{- if and $coords $coords.lat $coords.lon -}}
+  {{- $q1 = printf "%s GPS koordinatları: %.5f, %.5f" $q1 $coords.lat $coords.lon -}}
 {{- end -}}
 
-{{- if gt (len $faqs) 0 -}}
+{{/* ─────────────────────────────────────────────
+     Q2 · NASIL GİDİLİR?
+───────────────────────────────────────────── */}}
+{{- $q2 := "" -}}
+{{- if and $il $coords $coords.lat $coords.lon -}}
+  {{- $q2 = printf "%s'e ulaşmak için %s il merkezinden yola çıkabilirsiniz. Özel araç ile gelmek en pratik seçenek olmakla birlikte toplu taşıma araçlarından da yararlanabilirsiniz. Navigasyon için %.5f, %.5f koordinatlarını kullanabilir ya da sayfadaki \"Yol Tarifi Al\" butonuna tıklayabilirsiniz." .Title $il $coords.lat $coords.lon -}}
+{{- else if $il -}}
+  {{- $q2 = printf "%s'e ulaşmak için %s il merkezinden yola çıkabilirsiniz. Özel araç ile gelmek en pratik seçenek olmakla birlikte toplu taşıma araçlarından da yararlanabilirsiniz. Ulaşım detayları için yerel turizm ofisleriyle iletişime geçebilirsiniz." .Title $il -}}
+{{- else -}}
+  {{- $q2 = printf "%s'e özel araç veya toplu taşıma araçlarıyla ulaşabilirsiniz. Ulaşım detayları için yerel turizm ofisleriyle iletişime geçebilirsiniz." .Title -}}
+{{- end -}}
+
+{{/* ─────────────────────────────────────────────
+     Q3 · İLDEKİ DİĞER ALANLAR
+───────────────────────────────────────────── */}}
+{{- $q3 := "" -}}
+{{- if $il -}}
+  {{- $ilAreas := where .Site.RegularPages "Type" "alan" -}}
+  {{- $ilAreas  = where $ilAreas "Params.il" $il -}}
+  {{- $others  := slice -}}
+  {{- range $ilAreas -}}
+    {{- if ne .Title $.Title -}}
+      {{- $others = $others | append . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $others = $others | first 5 -}}
+  {{- if gt (len $others) 0 -}}
+    {{- $names := slice -}}
+    {{- range $others -}}{{- $names = $names | append .Title -}}{{- end -}}
+    {{- $q3 = printf "%s ilinde ziyaret edebileceğiniz diğer doğal alanlar: %s. Bu alanlar hakkında da detaylı bilgiye Tabiat Rehberi'nden ulaşabilirsiniz." $il (delimit $names ", ") -}}
+  {{- else -}}
+    {{- $q3 = printf "%s ilindeki tüm doğal alanlar için Tabiat Rehberi'ni inceleyebilirsiniz." $il -}}
+  {{- end -}}
+{{- end -}}
+
+{{/* ─────────────────────────────────────────────
+     Q4 · EN İYİ ZİYARET ZAMANI
+───────────────────────────────────────────── */}}
+{{- $q4 := "" -}}
+{{- if .Params.ziyaret.en_iyi_donem -}}
+  {{- $q4 = printf "%s için en iyi ziyaret dönemi %s. Bu dönemde hava koşulları ziyaret için idealdir ve doğa en güzel görünümündedir." .Title .Params.ziyaret.en_iyi_donem -}}
+{{- else if or (in $alanTuru "göl") (in $alanTuru "gol") (in $alanTuru "plaj") (in $alanTuru "koy") (in $alanTuru "deniz") -}}
+  {{- $q4 = printf "%s için en iyi ziyaret zamanı Haziran–Eylül arası yaz aylarıdır. Su sıcaklığı bu dönemde en yüksek seviyededir." .Title -}}
+{{- else if or (in $alanTuru "dağ") (in $alanTuru "dag") (in $alanTuru "plato") (in $alanTuru "yayla") -}}
+  {{- $q4 = printf "%s için en iyi ziyaret zamanı Haziran–Eylül arası yaz aylarıdır. Kış aylarında kar nedeniyle ulaşım güçleşebilir." .Title -}}
+{{- else if or (in $alanTuru "kanyon") (in $alanTuru "şelale") (in $alanTuru "selale") (in $alanTuru "çay") (in $alanTuru "vadi") -}}
+  {{- $q4 = printf "%s için en iyi ziyaret zamanı ilkbahar (Nisan–Haziran) ve sonbahar (Eylül–Kasım) aylarıdır. İlkbaharda su seviyesi en yüksek olup doğa en canlı renklerindedir." .Title -}}
+{{- else -}}
+  {{- $q4 = printf "%s için en iyi ziyaret zamanı ilkbahar (Nisan–Mayıs) ve erken sonbahar (Eylül–Ekim) aylarıdır. Bu dönemlerde hava koşulları idealdir ve kalabalık daha azdır." .Title -}}
+{{- end -}}
+
+{{/* ─────────────────────────────────────────────
+     Q5 · TÜRE ÖZGÜ SORU
+───────────────────────────────────────────── */}}
+{{- $q5question := "" -}}
+{{- $q5answer   := "" -}}
+{{- if or (in $alanTuru "mağara") (in $alanTuru "magara") -}}
+  {{- $q5question = printf "%s ziyaretinde ne giyilmeli?" .Title -}}
+  {{- $q5answer   = printf "Mağara içi sıcaklık yıl boyu 12–18°C civarında sabit kalır. Kapalı ayakkabı, uzun kollu kıyafet ve ince bir ceket getirmenizi öneririz. Flaşlı fotoğraf ekipmanı da işe yarayabilir." -}}
+{{- else if or (in $alanTuru "göl") (in $alanTuru "gol") -}}
+  {{- $q5question = printf "%s'de balık tutmak serbest mi?" .Title -}}
+  {{- $q5answer   = printf "%s'de balık tutmak, gölün koruma statüsüne göre değişebilir. Milli park veya doğal sit alanı sınırları içindeyse izin gerekmesi durumunda yerel yönetimden gerekli belgeleri almanız gerekmektedir." .Title -}}
+{{- else if or (in $alanTuru "şelale") (in $alanTuru "selale") -}}
+  {{- $q5question = printf "%s yanında yüzülebilir mi?" .Title -}}
+  {{- $q5answer   = printf "Şelale dibindeki doğal havuzlarda yüzmek mümkün olabilir; ancak su akıntısı güçlü olabilir. Güvenlik tabelalarına dikkat edin ve yalnızca uygun alanlarda suya girin." -}}
+{{- else if or (in $alanTuru "dağ") (in $alanTuru "dag") -}}
+  {{- $q5question = printf "%s'a tırmanış için rehber gerekli mi?" .Title -}}
+  {{- $q5answer   = printf "Zirve tırmanışları için deneyimli bir rehber tutmanız şiddetle tavsiye edilir. Hava koşulları hızla değişebilir; rotaları ve risk noktalarını bilen bir rehber güvenliğiniz için hayati önem taşır." -}}
+{{- else if or (in $alanTuru "plaj") (in $alanTuru "koy") -}}
+  {{- $q5question = printf "%s çocuklu aileler için uygun mu?" .Title -}}
+  {{- $q5answer   = printf "%s, aileler için uygun bir ziyaret noktasıdır. Sığ kısımlar ve kum alanları çocuklar için güvenli bir ortam sağlar. Canavar oluşabilecek akıntılar için cankurtaran noktalarını kontrol edin." .Title -}}
+{{- else if in $alanTuru "kanyon" -}}
+  {{- $q5question = printf "%s'da rafting veya kanyoning yapılabilir mi?" .Title -}}
+  {{- $q5answer   = printf "%s'da su seviyesine ve mevsime bağlı olarak rafting ve kanyoning etkinlikleri düzenlenebilir. Bu aktiviteler için mutlaka sertifikalı ve deneyimli yerel operatörlerle çalışın." .Title -}}
+{{- else if or (in $alanTuru "park") (in $alanTuru "milli") (in $alanTuru "tabiat") -}}
+  {{- $q5question = printf "%s'da yürüyüş parkurları var mı?" .Title -}}
+  {{- $q5answer   = printf "%s'da farklı zorluk seviyelerinde işaretlenmiş yürüyüş parkurları bulunmaktadır. Harita ve rota bilgileri için park girişindeki bilgi merkezini ya da resmi web sitesini ziyaret edin." .Title -}}
+{{- else -}}
+  {{- $q5question = printf "%s'a giriş ücretli mi?" .Title -}}
+  {{- $q5answer   = printf "%s'a giriş ücretsiz olabilir ya da belirli bir ücret talep edilebilir. Güncel bilgi için yerel yönetim veya ilgili bakanlık müdürlüğüyle iletişime geçmenizi öneririz." .Title -}}
+{{- end -}}
+
+{{/* ─────────────────────────────────────────────
+     FAQLERİ BİRLEŞTİR
+───────────────────────────────────────────── */}}
+{{- $faqs := slice -}}
+{{- $faqs  = $faqs | append (dict "q" (printf "%s nerede?" .Title)                              "a" $q1) -}}
+{{- $faqs  = $faqs | append (dict "q" (printf "%s'e nasıl gidilir?" .Title)                     "a" $q2) -}}
+{{- if $il -}}
+{{- $faqs  = $faqs | append (dict "q" (printf "%s ilinde başka hangi doğal alanlar var?" $il)   "a" $q3) -}}
+{{- end -}}
+{{- $faqs  = $faqs | append (dict "q" (printf "%s için en iyi ziyaret zamanı ne zaman?" .Title) "a" $q4) -}}
+{{- $faqs  = $faqs | append (dict "q" $q5question "a" $q5answer) -}}
+
+{{/* ─────────────────────────────────────────────
+     HTML ÇIKTI — <details><summary>
+───────────────────────────────────────────── */}}
 <div class="container">
   <div class="faq-section">
     <h2>
@@ -74,17 +127,44 @@
     </h2>
     <div class="faq-list">
       {{- range $faqs -}}
+      {{- if and .q .a -}}
       <details class="faq-item">
         <summary class="faq-question">
           <i data-lucide="chevron-right" class="faq-icon"></i>
-          {{ .question }}
+          {{ .q }}
         </summary>
         <div class="faq-answer">
-          <p>{{ .answer }}</p>
+          <p>{{ .a }}</p>
         </div>
       </details>
+      {{- end -}}
       {{- end -}}
     </div>
   </div>
 </div>
-{{- end -}}
+
+{{/* ─────────────────────────────────────────────
+     JSON-LD FAQPage SCHEMA
+     (Google body'de de kabul ediyor)
+───────────────────────────────────────────── */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{- range $i, $faq := $faqs -}}
+    {{- if and $faq.q $faq.a -}}
+    {{- if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": {{ $faq.q | jsonify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ $faq.a | jsonify }}
+      }
+    }
+    {{- end -}}
+    {{- end }}
+  ]
+}
+</script>
