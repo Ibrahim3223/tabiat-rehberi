@@ -11,7 +11,7 @@ type: "page"
 
 **Yürürlük Tarihi**: 1 Ocak 2024
 
-**Son Güncelleme**: 1 Ocak 2024
+**Son Güncelleme**: 22 Şubat 2026
 
 Tabiat Rehberi ("biz", "bizim" veya "site") olarak gizliliğinize saygı duyuyor ve kişisel verilerinizin korunmasını öncelik olarak görüyoruz. Bu Gizlilik Politikası, sitemizi kullandığınızda hangi bilgilerin toplandığını, nasıl kullanıldığını ve haklarınızı açıklamaktadır.
 
@@ -65,15 +65,19 @@ Tabiat Rehberi aşağıdaki bilgileri **toplamaz**:
 
 | Çerez Türü | Amaç | Süre |
 |------------|------|------|
-| **Zorunlu Çerezler** | Sitenin düzgün çalışması için gerekli | Oturum |
-| **Analitik Çerezler** | Anonim kullanım istatistikleri | 1 yıl |
+| **Zorunlu Çerezler** | Sitenin düzgün çalışması ve çerez tercihinizin hatırlanması | Oturum / 1 yıl |
+| **Analitik Çerezler** | Anonim kullanım istatistikleri (Google Analytics) | 26 ay |
+| **Reklam Çerezleri** | Kişiselleştirilmiş reklam sunumu (Google AdSense) | 13 ay |
 | **Tercih Çerezleri** | Dil ve görünüm tercihleri | 1 yıl |
 
 ### 2.3 Üçüncü Taraf Çerezleri
 
 Sitemizde aşağıdaki üçüncü taraf hizmetleri kullanılabilir:
 
-- **Google Analytics**: Anonim site kullanım istatistikleri
+- **Google Analytics**: Anonim site kullanım istatistikleri. [Google Gizlilik Politikası](https://policies.google.com/privacy)
+- **Google AdSense**: Sayfalarımızda ilgi alanlarınıza uygun reklamlar göstermek amacıyla kişiselleştirilmiş veya genel reklam çerezleri kullanır. [Google Reklam Politikası](https://policies.google.com/technologies/ads) | [Reklam Özelleştirmeyi Devre Dışı Bırak](https://www.google.com/settings/ads)
+- **Google Maps / OpenStreetMap**: Konum haritaları için
+- **Open-Meteo**: Anlık hava durumu verisi (anonim, API anahtarı gerektirmez)
 - **Wikimedia Commons**: Görsel içerik sunumu
 
 ### 2.4 Çerez Yönetimi
@@ -179,13 +183,25 @@ Tabiat Rehberi, 18 yaş altı çocuklardan bilerek kişisel veri toplamaz. Bir �
 
 ---
 
-## 9. Üçüncü Taraf Bağlantıları
+## 9. Reklam ve Kişiselleştirme
+
+### 9.1 Google AdSense
+
+Tabiat Rehberi, Google AdSense reklam ağını kullanmaktadır. Google AdSense, size ilgi alanlarınıza uygun reklamlar göstermek için çerezler ve benzeri teknolojiler kullanabilir.
+
+- **Kişiselleştirilmiş Reklamlar**: Google, geçmiş ziyaretlerinize göre kişiselleştirilmiş reklamlar gösterebilir.
+- **Genel Reklamlar**: Kişiselleştirmeyi reddedebilir; bu durumda genel reklamlar gösterilir.
+- **Tercih Yönetimi**: [Google Reklam Ayarları](https://www.google.com/settings/ads) üzerinden tercihlerinizi yönetebilirsiniz.
+- **Çerez Reddi**: [aboutads.info](https://www.aboutads.info/choices/) üzerinden reklam çerezlerini reddedebilirsiniz.
+
+### 9.2 Üçüncü Taraf Bağlantıları
 
 Sitemiz, diğer web sitelerine bağlantılar içerebilir:
 
 - Resmi kurum web siteleri
 - Wikipedia ve Wikidata
 - Harita servisleri (Google Maps, OpenStreetMap)
+- Kardeş siteler: kaplicarehberi.com, mirasharitasi.com
 
 Bu sitelerin gizlilik politikaları kendi sorumluluklarındadır. Bağlantıya tıklamadan önce ilgili sitenin gizlilik politikasını incelemenizi öneririz.
 

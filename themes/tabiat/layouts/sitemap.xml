@@ -1,0 +1,37 @@
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {{- range .Data.Pages }}
+  {{- $priority   := "0.5" }}
+  {{- $changefreq := "monthly" }}
+
+  {{- if .IsHome }}
+    {{- $priority   = "1.0" }}
+    {{- $changefreq = "daily" }}
+  {{- else if eq .Type "alan" }}
+    {{- $priority   = "0.8" }}
+    {{- $changefreq = "weekly" }}
+  {{- else if or (eq .Section "iller") (eq .Section "turler") }}
+    {{- $priority   = "0.7" }}
+    {{- $changefreq = "weekly" }}
+  {{- else if eq .Section "alanlar" }}
+    {{- $priority   = "0.6" }}
+    {{- $changefreq = "weekly" }}
+  {{- end }}
+
+  {{- /* Front matter overrides – respect explicit sitemap.priority if set */}}
+  {{- if ge .Sitemap.Priority 0.0 }}
+    {{- if ne .Sitemap.Priority 0.5 }}{{/* 0.5 is the hugo.toml default, ignore it */}}
+      {{- $priority = printf "%.1f" .Sitemap.Priority }}
+    {{- end }}
+  {{- end }}
+
+  <url>
+    <loc>{{ .Permalink }}</loc>
+    {{- if not .Lastmod.IsZero }}
+    <lastmod>{{ .Lastmod.Format "2006-01-02" }}</lastmod>
+    {{- end }}
+    <changefreq>{{ $changefreq }}</changefreq>
+    <priority>{{ $priority }}</priority>
+  </url>
+  {{- end }}
+</urlset>
