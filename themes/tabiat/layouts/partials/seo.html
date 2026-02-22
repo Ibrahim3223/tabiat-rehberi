@@ -1,8 +1,49 @@
 {{- $coords := .Params.koordinat | default .Params.coordinates -}}
 {{- $isAlan := eq .Type "alan" -}}
 
+{{/* ── SEO DESCRIPTION ── */}}
+{{- $seoDesc := "" -}}
+{{- if $isAlan -}}
+  {{- $il       := .Params.il       | default "Türkiye" -}}
+  {{- $ilce     := .Params.ilce     | default "" -}}
+  {{- $alanTuru := .Params.alan_turu | default "doğal alan" -}}
+  {{- if .Description -}}
+    {{- if ge (len .Description) 130 -}}
+      {{- $seoDesc = .Description -}}
+    {{- else -}}
+      {{- $seoDesc = printf "%s Nasıl gidilir, ne görülür? Ziyaret bilgileri ve tam rehber Tabiat Rehberi'nde!" .Description -}}
+    {{- end -}}
+  {{- else if .Summary -}}
+    {{- $seoDesc = printf "%s %s'deki bu doğal alan için detaylı bilgi Tabiat Rehberi'nde keşfedin." (.Summary | truncate 100) $il -}}
+  {{- else -}}
+    {{- if $ilce -}}
+      {{- $seoDesc = printf "%s keşfedin! %s, %s'deki bu %s için nerede, nasıl gidilir? Detaylı rehber, giriş bilgileri ve ziyaret önerileri Tabiat Rehberi'nde." .Title $ilce $il $alanTuru -}}
+    {{- else -}}
+      {{- $seoDesc = printf "%s keşfedin! %s'deki bu %s için nerede, nasıl gidilir? Detaylı rehber, giriş bilgileri ve en iyi ziyaret dönemleri Tabiat Rehberi'nde." .Title $il $alanTuru -}}
+    {{- end -}}
+  {{- end -}}
+{{- else if and (eq .Section "iller") .Params.il -}}
+  {{- $areas := where .Site.RegularPages "Type" "alan" -}}
+  {{- $areas  = where $areas "Params.il" .Title -}}
+  {{- $count := len $areas -}}
+  {{- $seoDesc = printf "%s'daki %d doğal alanı keşfedin! Milli parklar, şelaleler, kanyonlar ve tabiat parkları. %s doğa rehberiyle en güzel rotaları bulun." .Title $count .Title -}}
+{{- else if and (eq .Section "turler") .Params.tur -}}
+  {{- $areas := where .Site.RegularPages "Type" "alan" -}}
+  {{- $areas  = where $areas "Params.alan_turu" .Params.tur -}}
+  {{- $count := len $areas -}}
+  {{- $seoDesc = printf "Türkiye'deki %d %s alanını keşfedin! Her %s için konum, giriş bilgileri, nasıl gidilir ve en iyi ziyaret dönemleri Tabiat Rehberi'nde." $count .Title .Title -}}
+{{- else -}}
+  {{- if .Description -}}
+    {{- $seoDesc = .Description -}}
+  {{- else if .Summary -}}
+    {{- $seoDesc = .Summary | truncate 155 -}}
+  {{- else -}}
+    {{- $seoDesc = .Site.Params.description -}}
+  {{- end -}}
+{{- end -}}
+
 <!-- Basic Meta Tags -->
-<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else if .Summary }}{{ .Summary | truncate 155 }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta name="description" content="{{ $seoDesc }}">
 {{ if .Params.keywords }}
 <meta name="keywords" content="{{ delimit .Params.keywords ", " }}">
 {{ end }}
@@ -15,8 +56,8 @@
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="{{ if $isAlan }}article{{ else }}website{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
-<meta property="og:title" content="{{ .Title }} - {{ .Site.Title }}">
-<meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else if .Summary }}{{ .Summary | truncate 155 }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta property="og:title" content="{{ .Title }} | Tabiat Rehberi">
+<meta property="og:description" content="{{ $seoDesc }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
 <meta property="og:locale" content="tr_TR">
 {{ if .Params.images.hero.url }}
@@ -36,8 +77,8 @@
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{{ .Title }} - {{ .Site.Title }}">
-<meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else if .Summary }}{{ .Summary | truncate 155 }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta name="twitter:title" content="{{ .Title }} | Tabiat Rehberi">
+<meta name="twitter:description" content="{{ $seoDesc }}">
 {{ if .Params.images.hero.url }}
 <meta name="twitter:image" content="{{ .Params.images.hero.url }}">
 <meta name="twitter:image:alt" content="{{ .Params.images.hero.alt | default .Title }}">

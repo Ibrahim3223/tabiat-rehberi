@@ -1,3 +1,16 @@
+{{ define "title" -}}
+{{- if eq .Type "alan" -}}
+  {{- $il := .Params.il | default "" -}}
+  {{- $full := printf "%s — Nerede, Nasıl Gidilir? | %s Doğal Alanları | Tabiat Rehberi" .Title $il -}}
+  {{- $mid  := printf "%s | %s Doğal Alanları | Tabiat Rehberi" .Title $il -}}
+  {{- if le (len $full) 95 -}}{{ $full -}}
+  {{- else if le (len $mid) 90 -}}{{ $mid -}}
+  {{- else -}}{{ printf "%s | %s | Tabiat Rehberi" (.Title | truncate 25) $il -}}
+  {{- end -}}
+{{- else -}}{{ .Title }} | Tabiat Rehberi
+{{- end -}}
+{{- end }}
+
 {{ define "main" }}
 {{ if eq .Type "alan" }}
     <!-- Alan sayfası için özel şablon -->

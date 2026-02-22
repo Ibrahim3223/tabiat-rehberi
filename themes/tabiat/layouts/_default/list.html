@@ -1,3 +1,16 @@
+{{ define "title" -}}
+{{- if .Params.il -}}
+  {{- $areas := where .Site.RegularPages "Type" "alan" -}}
+  {{- $areas = where $areas "Params.il" .Title -}}
+  {{- printf "%s Doğal Alanları — %d Doğal Güzellik | Tabiat Rehberi" .Title (len $areas) -}}
+{{- else if .Params.tur -}}
+  {{- $areas := where .Site.RegularPages "Type" "alan" -}}
+  {{- $areas = where $areas "Params.alan_turu" .Params.tur -}}
+  {{- printf "%s — Türkiye'deki %d %s | Tabiat Rehberi" .Title (len $areas) .Title -}}
+{{- else -}}{{ .Title }} | Tabiat Rehberi
+{{- end -}}
+{{- end }}
+
 {{ define "main" }}
 <div class="list-page">
     <!-- Hero Section -->
