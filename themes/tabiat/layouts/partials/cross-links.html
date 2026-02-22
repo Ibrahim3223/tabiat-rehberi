@@ -1,0 +1,51 @@
+{{- $il := .Params.il | default "" -}}
+{{- if $il -}}
+{{- $ilSlug := $il | urlize -}}
+
+{{/* Kaplıca Rehberi sayfası olan iller */}}
+{{- $kaplicaIller := slice
+  "Ankara" "Afyonkarahisar" "Balıkesir" "Bolu" "Bursa" "Çankırı"
+  "Denizli" "İzmir" "Yalova" "Amasya" "Kütahya" "Konya" "Erzurum"
+  "Manisa" "Eskişehir" "Burdur" "Çorum" "Aydın" "Aksaray" "Ağrı"
+  "Erzincan" "Kahramanmaraş" "Kastamonu" "Kocaeli"
+-}}
+{{- $showKaplica := in $kaplicaIller $il -}}
+
+<div class="cross-links-section">
+    <div class="container">
+        <div class="cross-links-card">
+            <h2 class="cross-links-title">
+                <i data-lucide="link-2" style="width: 22px; height: 22px; margin-right: 8px; color: var(--primary);"></i>
+                {{ $il }} İçin Diğer Rehberler
+            </h2>
+            <div class="cross-links-grid">
+
+                {{- if $showKaplica }}
+                <a href="https://kaplicarehberi.com/iller/{{ $ilSlug }}/"
+                   target="_blank"
+                   rel="noopener noreferrer"
+                   class="cross-link-card cross-link-kaplica">
+                    <span class="cross-link-emoji">♨️</span>
+                    <div class="cross-link-content">
+                        <span class="cross-link-site">Kaplıca Rehberi</span>
+                        <span class="cross-link-label">{{ $il }} Kaplıcalarını Keşfedin →</span>
+                    </div>
+                </a>
+                {{- end }}
+
+                <a href="https://mirasharitasi.com/iller/{{ $ilSlug }}/"
+                   target="_blank"
+                   rel="noopener noreferrer"
+                   class="cross-link-card cross-link-miras">
+                    <span class="cross-link-emoji">🏛️</span>
+                    <div class="cross-link-content">
+                        <span class="cross-link-site">Miras Haritası</span>
+                        <span class="cross-link-label">{{ $il }} Tarihi ve Kültürel Miras Alanları →</span>
+                    </div>
+                </a>
+
+            </div>
+        </div>
+    </div>
+</div>
+{{- end -}}
