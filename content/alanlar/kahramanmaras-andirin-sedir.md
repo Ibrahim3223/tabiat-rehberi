@@ -30,7 +30,7 @@ Kahramanmaras-Andirin Sedir Milli Parkı'nın tarihi geçmişi, yüzyıllar boyu
 
 ## Coğrafya
 
-Kahramanmaras-Andirin Sedir Milli Parkı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Parkın coğrafi yapısı, sedir ağaçları ile kaplı dağlık bir arazi. Bu coğrafi yapı, parkın doğal güzelliğini ve biyolojik çeşitliliğini etkiliyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer, karasal bir iklim. Yaz ayları sıca ve kurak, kış ayları soğu ve karlı. Bu iklim, parkın flora ve fauna çeşitliliğini etkileyen önemli bir faktör. Parkın coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesine olanak sağlıyor. Parka ulaşım, özel araçlar veya toplu taşıma araçları ile sağlanabiliyor. Parkın girişinde, ziyaretçilere yardımcı olmak için personeller bulunmakta.
+Kahramanmaras-Andirin Sedir Milli Parkı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Parkın coğrafi yapısı, sedir ağaçları ile kaplı dağlık bir arazi. Bu coğrafi yapı, parkın doğal güzelliğini ve biyolojik çeşitliliğini etkiliyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer, karasal bir iklim. Yaz ayları sıcak ve kurak, kış ayları soğuk ve karlı. Bu iklim, parkın flora ve fauna çeşitliliğini etkileyen önemli bir faktör. Parkın coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesine olanak sağlıyor. Parka ulaşım, özel araçlar veya toplu taşıma araçları ile sağlanabiliyor. Parkın girişinde, ziyaretçilere yardımcı olmak için personeller bulunmakta.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ Darülhadis Camii Kapalı Türbe'nin tarihi geçmişi, yüzyıllar boyunca Edirn
 
 ## Coğrafya
 
-Darülhadis Camii Kapalı Türbe, Edirne'nin merkezi bir bölgesinde yer alıyor. Marmara Bölgesi'nin coğrafi özelliklerine uygun olarak, bu türbe de bölgenin karakteristik iklimini yansıtıyor. Bölge, karasal iklimin hakim olduğu bir yer olarak biliniyor. Kışlar soğu ve yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi konum, türbenin mimarisini ve çevresini etkileyen önemli bir faktör. Türbenin çevresinde, çeşitli bitki türleri ve ağaçlar yer alıyor. Bu zengin flora, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Ayrıca, türbenin yakınında bulunan Meriç Nehri, ziyaretçilere güzel bir manzara sunuyor.
+Darülhadis Camii Kapalı Türbe, Edirne'nin merkezi bir bölgesinde yer alıyor. Marmara Bölgesi'nin coğrafi özelliklerine uygun olarak, bu türbe de bölgenin karakteristik iklimini yansıtıyor. Bölge, karasal iklimin hakim olduğu bir yer olarak biliniyor. Kışlar soğuk ve yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi konum, türbenin mimarisini ve çevresini etkileyen önemli bir faktör. Türbenin çevresinde, çeşitli bitki türleri ve ağaçlar yer alıyor. Bu zengin flora, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Ayrıca, türbenin yakınında bulunan Meriç Nehri, ziyaretçilere güzel bir manzara sunuyor.
 
 ## Flora ve Fauna
 

@@ -45,7 +45,7 @@ Coğrafi olarak, Kara İn jeoparkı Antalya'nın eşsiz doğal güzelliklerine e
 
 Doğal bir anıt gibi duran Kara İn jeoparkı, çevresindeki coğrafi oluşumlarla birlikte bir bütün olarak değerlendirildiğinde, yaklaşık Beşiktaş ilçesi büyüklüğünde bir alanı kaplıyor. Bu büyüklük, jeoparkın sahip olduğu çeşitli jeolojik oluşumların çeşitliliğini ve zenginliğini vurguluyor. Jeolojik açıdan bakıldığında, jeoparkın yüzeyinde çeşitli kayaçlar ve toprak türleri görülebiliyor, ancak detaylı fiziksel veriler bulunmuyor.
 
-Mevsimsel değişikliklere göre iklim karakteri değişen jeopark, yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumu sergiliyor. Bu iklim özellikleri, jeoparkın flora ve fauna çeşitliliğini etkileyen önemli faktörler arasında yer alıyor. Hava durumu, jeoparkın coğrafi konumundan kaynaklanan bir sonuç olarak, Akdeniz ikliminin karakteristik özellikleri görülebiliyor.
+Mevsimsel değişikliklere göre iklim karakteri değişen jeopark, yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumu sergiliyor. Bu iklim özellikleri, jeoparkın flora ve fauna çeşitliliğini etkileyen önemli faktörler arasında yer alıyor. Hava durumu, jeoparkın coğrafi konumundan kaynaklanan bir sonuç olarak, Akdeniz ikliminin karakteristik özellikleri görülebiliyor.
 
 Çevresel açıdan, Kara İn jeoparkı komşu alanlarla ve su kaynaklarıyla bağlantılı bir ekosistem içinde yer alıyor. Jeoparkın bulunduğu bölge, çeşitli nehirlerin ve akarsuların nguồn ve geçiş noktalarına yakın bir konumda bulunuyor. Bu su kaynakları, jeoparkın doğal dengesini korumanın yanı sıra, bölgenin flora ve fauna çeşitliliğini de destekleyen önemli faktörler arasında yer alıyor.
 

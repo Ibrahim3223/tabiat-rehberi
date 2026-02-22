@@ -36,7 +36,7 @@ Sisiyarık Tepesi'nin tarihi geçmişi, bölgenin genel tarih paralel olarak şe
 
 ## Coğrafya
 
-Sisiyarık Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerine sahiptir. 140 hektarlık yeşil alanı, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Tepenin yüksekliği, bölgenin genel yüksekliğine göre farklılık gösterir ve bu, tepeye farklı bir atmosfer kazandırır. Sisiyarık Tepesi, eteklerinde akan nehirler ve çevresindeki vadilerle birlikte, bir doğa harikası olarak görünür. İklim, bölgenin genel iklimine uygun olarak, yazları sıca ve kurak, kışları soğu ve yağışlı geçer. Bu iklim özelliği, tepeye çıkan ziyaretçilerin, mevsime uygun şekilde hazırlanmalarını gerektirir. Tepenin manzarası, özellikle gün batımı saatlerinde, ziyaretçilere unutulmaz bir deneyim sunar.
+Sisiyarık Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerine sahiptir. 140 hektarlık yeşil alanı, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Tepenin yüksekliği, bölgenin genel yüksekliğine göre farklılık gösterir ve bu, tepeye farklı bir atmosfer kazandırır. Sisiyarık Tepesi, eteklerinde akan nehirler ve çevresindeki vadilerle birlikte, bir doğa harikası olarak görünür. İklim, bölgenin genel iklimine uygun olarak, yazları sıcak ve kurak, kışları soğuk ve yağışlı geçer. Bu iklim özelliği, tepeye çıkan ziyaretçilerin, mevsime uygun şekilde hazırlanmalarını gerektirir. Tepenin manzarası, özellikle gün batımı saatlerinde, ziyaretçilere unutulmaz bir deneyim sunar.
 
 ## Flora ve Fauna
 

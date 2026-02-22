@@ -36,7 +36,7 @@ Gök Tepesi, tarihi geçmişiyle dikkat çekiyor. Yüzyıllar boyunca, bu tepe b
 
 ## Coğrafya
 
-Gök Tepesi, coğrafi konumu itibariyle, Karadeniz Bölgesi'nin en güzel noktalarından biri. Bu tepe, Giresun ilinin merkezine yakın bir konumda bulunmakta. Gök Tepesi, deniz seviyesinden yaklaşık yüksek bir konumdate. Tepe, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahip. Gök Tepesi'nin etrafı, çeşitli bitki türleriyle kaplı. Bu bölgede, ziyaretçiler, Karadeniz Bölgesi'nin karakteristik iklimini deneyimleyebilir. Gök Tepesi, ziyaretçilerine, bölgeye özgü flora ve fauna sunuyor.
+Gök Tepesi, coğrafi konumu itibariyle, Karadeniz Bölgesi'nin en güzel noktalarından biri. Bu tepe, Giresun ilinin merkezine yakın bir konumda bulunmakta. Gök Tepesi, yüksek bir konumda. Tepe, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahip. Gök Tepesi'nin etrafı, çeşitli bitki türleriyle kaplı. Bu bölgede, ziyaretçiler, Karadeniz Bölgesi'nin karakteristik iklimini deneyimleyebilir. Gök Tepesi, ziyaretçilerine, bölgeye özgü flora ve fauna sunuyor.
 
 ## Flora ve Fauna
 
@@ -52,4 +52,4 @@ Gök Tepesi'ni ziyaret etmek, ziyaretçilere, Karadeniz Bölgesi'nin güzelliği
 - Gök Tepesi, Karadeniz Bölgesi'nin karakteristik flora ve faunasını sunuyor
 - Gök Tepesi, ziyaretçilerine, régionun güzel manzarasını sunuyor
 - Gök Tepesi, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde
-- Gök Tepesi, deniz seviyesinden yaklaşık yüksek bir konumdate
+- Gök Tepesi, yüksek bir konumda

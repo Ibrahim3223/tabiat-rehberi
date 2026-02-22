@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin en güzel köşelerinden biri olan Yağmurlu Dağ, 40
 
 Genel olarak bakıldığında, Yağmurlu Dağ'ın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölgenin coğrafi özellikleri düşünüldüğünde, dağlık bir arazi yapısına sahip olduğu söylenebilir. Bu dağlık alan, Monaco'nun yarısı kadar bir büyüklüğe sahip olan Kars ilinin önemli bir parçasını oluşturuyor.
 
-İklim açısından bakıldığında, Yağmurlu Dağ'ın bulunduğu bölge, karasal iklimin hakim olduğu bir alan olarak dikkat çekiyor. Doğu Anadolu Bölgesi'nin genel iklim karakterine benzer şekilde, Yağmurlu Dağ'da kışlar soğu ve karlı, yazlar ise serin ve yağışlı geçiyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler arasında yer alıyor.
+İklim açısından bakıldığında, Yağmurlu Dağ'ın bulunduğu bölge, karasal iklimin hakim olduğu bir alan olarak dikkat çekiyor. Doğu Anadolu Bölgesi'nin genel iklim karakterine benzer şekilde, Yağmurlu Dağ'da kışlar soğuk ve karlı, yazlar ise serin ve yağışlı geçiyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler arasında yer alıyor.
 
 Çevresel açıdan bakıldığında, Yağmurlu Dağ, Kars ilinin önemli su kaynaklarına yakınlığıyla dikkat çekiyor. Bölgede bulunan akarsular ve göller, dağların eteklerinde yer alan ovaları sulayarak, bölgenin ekosistemini zenginleştiren önemli unsurlar arasında yer alıyor. Bu doğal güzellikler, bölgenin turizm potansiyelini artıran önemli faktörler olarak görülüyor.
 

@@ -37,7 +37,7 @@ Açık Tepe'nin tarihi geçmişi, Erzurum'un tarihi ile iç içe geçmiş durumd
 
 ## Coğrafya
 
-Açık Tepe, Erzurum'un coğrafi yapısı içerisinde önemli bir yere sahiptir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta olup, geniş bir görüş açısı sunar. Açık Tepe'nin coğrafi konumu, ziyaretçilerine Erzurum'un doğal güzelliklerini keşfetme imkanı sunar. Özellikle gün batımı saatlerinde, bu tepe, ziyaretçilerini büyüleyen bir manzaraya sahip olur. Bu tepe, Erzurum'un iklimini yansıtan bir yapıya sahip olup, yaz aylarında sıca ve kurak, kış aylarında soğu ve karlı bir iklim karakteristiğine sahiptir. Ayrıca, bu tepe, yöre halkının tarım ve hayvancılık faaliyetlerine de ev sahipliği yapar.
+Açık Tepe, Erzurum'un coğrafi yapısı içerisinde önemli bir yere sahiptir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta olup, geniş bir görüş açısı sunar. Açık Tepe'nin coğrafi konumu, ziyaretçilerine Erzurum'un doğal güzelliklerini keşfetme imkanı sunar. Özellikle gün batımı saatlerinde, bu tepe, ziyaretçilerini büyüleyen bir manzaraya sahip olur. Bu tepe, Erzurum'un iklimini yansıtan bir yapıya sahip olup, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı bir iklim karakteristiğine sahiptir. Ayrıca, bu tepe, yöre halkının tarım ve hayvancılık faaliyetlerine de ev sahipliği yapar.
 
 ## Flora ve Fauna
 

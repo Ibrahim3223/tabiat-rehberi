@@ -30,7 +30,7 @@ Karamusa Sit Alanı'nın tarihi geçmişi, yüzyıllar boyunca doğanın şekill
 
 ## Coğrafya
 
-Karamusa Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu alan, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Coğrafi olarak, Karamusa Sit Alanı'nın etrafı dağlar ve tepelerle çevrilidir. İklimi ise İç Anadolu Bölgesi'nin genel iklimine benzer, karasal iklim özellikleri gösterir. Bu bölgede yazlar sıca ve kurak, kışlar ise soğu ve karlı geçer. Bahar ve sonbahar mevsimlerinde ise ılıman bir hava hakimdir. Karamusa Sit Alanı, coğrafi konumu itibariyle, ziyaretçilerine çeşitli mevsimlerde farklı deneyimler sunar. Bu nedenle, ziyaretçilerin mevsimsel koşullara göre plan yapmaları önerilir.
+Karamusa Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu alan, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Coğrafi olarak, Karamusa Sit Alanı'nın etrafı dağlar ve tepelerle çevrilidir. İklimi ise İç Anadolu Bölgesi'nin genel iklimine benzer, karasal iklim özellikleri gösterir. Bu bölgede yazlar sıcak ve kurak, kışlar ise soğuk ve karlı geçer. Bahar ve sonbahar mevsimlerinde ise ılıman bir hava hakimdir. Karamusa Sit Alanı, coğrafi konumu itibariyle, ziyaretçilerine çeşitli mevsimlerde farklı deneyimler sunar. Bu nedenle, ziyaretçilerin mevsimsel koşullara göre plan yapmaları önerilir.
 
 ## Flora ve Fauna
 

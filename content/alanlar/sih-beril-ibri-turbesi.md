@@ -37,7 +37,7 @@ Tarsus'un tarihi ve doğal güzellikleri arasında yer alan Şıh Beril İbri T�
 
 ## Coğrafya
 
-Şıh Beril İbri Türbesi, Mersin'in Akdeniz Bölgesi'nde yer alır. Bu bölge, doğu-batı yönünde uzanan Toros Dağları ile kıyı şeridi arasında bulunur. Akdeniz ikliminin etkisi altındaki bu bölge, yazları sıca ve kurak, kışları ılıman ve yağışlı geçer. Türbe, Tarsus'un merkezine yakın bir konumda yer alır ve çevresinde çeşitli tarihi ve doğal güzellikler bulunur. Şıh Beril İbri Türbesi, Tarsus'un coğrafi yapısını yansıtan bir bölgededir. Burada, Toros Dağları'nın eteklerinde yer alan vadiler ve ovalar, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunar. Bölgenin coğrafi özelliği, çeşitli flora ve faunaya ev sahipliği yapar ve ziyaretçilere zengin bir doğa deneyimi sunar.
+Şıh Beril İbri Türbesi, Mersin'in Akdeniz Bölgesi'nde yer alır. Bu bölge, doğu-batı yönünde uzanan Toros Dağları ile kıyı şeridi arasında bulunur. Akdeniz ikliminin etkisi altındaki bu bölge, yazları sıcak ve kurak, kışları ılıman ve yağışlı geçer. Türbe, Tarsus'un merkezine yakın bir konumda yer alır ve çevresinde çeşitli tarihi ve doğal güzellikler bulunur. Şıh Beril İbri Türbesi, Tarsus'un coğrafi yapısını yansıtan bir bölgededir. Burada, Toros Dağları'nın eteklerinde yer alan vadiler ve ovalar, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunar. Bölgenin coğrafi özelliği, çeşitli flora ve faunaya ev sahipliği yapar ve ziyaretçilere zengin bir doğa deneyimi sunar.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Keleserdağı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarl�
 
 ## Coğrafya
 
-Keleserdağı Tepesi, Doğu Anadolu Bölgesi'nde yer alan Muş ilinin sınırları içerisinde bulunuyor. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunuyor. Eteklerinde yer alan çeşitli bitki türleri ve fauna, bu bölgeyi doğa severler için bir cennet haline getiriyor. Keleserdağı Tepesi, çevresindeki dağlar ve vadiler ile birlikte bir doğa harikası olarak kabul ediliyor. Tepenin iklimi, bölgenin coğrafi konumuna bağlı olarak değişkenlik gösteriyor. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve karlı olan iklim, bu bölgeyi dört mevsim farklı bir güzellik sunuyor.
+Keleserdağı Tepesi, Doğu Anadolu Bölgesi'nde yer alan Muş ilinin sınırları içerisinde bulunuyor. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunuyor. Eteklerinde yer alan çeşitli bitki türleri ve fauna, bu bölgeyi doğa severler için bir cennet haline getiriyor. Keleserdağı Tepesi, çevresindeki dağlar ve vadiler ile birlikte bir doğa harikası olarak kabul ediliyor. Tepenin iklimi, bölgenin coğrafi konumuna bağlı olarak değişkenlik gösteriyor. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı olan iklim, bu bölgeyi dört mevsim farklı bir güzellik sunuyor.
 
 ## Flora ve Fauna
 

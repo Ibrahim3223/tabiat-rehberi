@@ -43,7 +43,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden Van'da yer alan Tendürek Dağı, 
 
 Jeolojik açıdan bakıldığında, Tendürek Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, genel olarak bölgenin volkani ve sedimenteer kayalardan oluştuğu biliniyor. Bu dağ, bölgenin jeolojik geçmişini yansıtan önemli bir oluşum olarak görülebilir. Tendürek Dağı'nın büyüklüğü, Monaco'nun bir bölümü kadar bir alanı kaplıyor ve bu da bölgenin coğrafi çeşitliliğini gösteriyor.
 
-İklim açısından Tendürek Dağı, Doğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, karasal iklimin hakim olduğu bir yer olarak, yazları sıca ve kuru, kışları soğu ve kar yağışlı geçiyor. Tendürek Dağı'nın yüksekliği, Eiffel Kulesi'nin yaklaşık 2-3 katı yükseklikte ve bu, bölgenin hava koşullarını etkileyen önemli bir faktör olarak görülebilir.
+İklim açısından Tendürek Dağı, Doğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, karasal iklimin hakim olduğu bir yer olarak, yazları sıcak ve kuru, kışları soğuk ve kar yağışlı geçiyor. Tendürek Dağı'nın yüksekliği, Eiffel Kulesi'nin yaklaşık 2-3 katı yükseklikte ve bu, bölgenin hava koşullarını etkileyen önemli bir faktör olarak görülebilir.
 
 Çevresel açıdan bakıldığında, Tendürek Dağı, Van Gölü ve çevresindeki diğer doğal güzelliklerle bağlantılı olarak önemli bir ekosistem oluşturuyor. Dağın eteklerinde ve çevresinde, çeşitli bitki ve hayvan türleri encontrado ve bu, bölgenin biyolojik çeşitliliğini gösteren önemli bir unsur olarak görülebilir. Tendürek Dağı, bölgenin doğal güzelliklerini koruma altına alma ve sürdürülebilir bir şekilde kullanmak için önemli bir rol oynuyor.
 

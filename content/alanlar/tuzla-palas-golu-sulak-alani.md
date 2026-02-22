@@ -30,7 +30,7 @@ Tuzla Palas Gölü Sulak Alanı'nın tarihi geçmişi, yüzyıllar boyunca şeki
 
 ## Coğrafya
 
-Tuzla Palas Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, göller, sazlıklar ve çamurlu alanlardan oluşuyor. Bu sulak alan, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bölge, zengin fauna ve flora çeşitliliği ile dikkat çekiyor. İklim, karasal iklim özellikleri gösteriyor ve yaz ayları sıca ve kurak, kış ayları soğu ve kar yağışlı geçiyor. Bu coğrafi yapı, birçok canlı için uygun bir yaşam alanı sunuyor. Bölge, aynı zamanda önemli bir kuş göç yolu üzerinde yer alıyor ve birçok kuş türüne ev sahipliği yapıyor.
+Tuzla Palas Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, göller, sazlıklar ve çamurlu alanlardan oluşuyor. Bu sulak alan, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bölge, zengin fauna ve flora çeşitliliği ile dikkat çekiyor. İklim, karasal iklim özellikleri gösteriyor ve yaz ayları sıcak ve kurak, kış ayları soğuk ve kar yağışlı geçiyor. Bu coğrafi yapı, birçok canlı için uygun bir yaşam alanı sunuyor. Bölge, aynı zamanda önemli bir kuş göç yolu üzerinde yer alıyor ve birçok kuş türüne ev sahipliği yapıyor.
 
 ## Flora ve Fauna
 

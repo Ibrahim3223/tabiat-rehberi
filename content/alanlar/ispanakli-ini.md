@@ -44,7 +44,7 @@ Güney Türkiye'nin güneşli sahillerine yakınlığıyla dikkat çeken "Ispana
 
 Jeolojik açıdan bakıldığında, "Ispanaklı İni" jeoparkın fiziksel yapısı oldukça ilginç. Veriler sınırlı olsa da, bu bölgenin coğrafi yapısı, bir şehir bloğu büyüklüğünde bir alana yayıldığını hayal edebiliriz. Bu küçük ama önemli alan, çevresindeki daha büyük coğrafi oluşumlarla birlikte, Akdeniz bölgesinin jeolojik tarihini anlamak için önemli bir nokta.
 
-Mevsimsel değişikliklere bakıldığında, "Ispanaklı İni" jeoparkı, Akdeniz ikliminin karakteristik özellikleri sergiliyor. Kış aylarında ılıman ve yağışlı, yaz aylarında ise sıca ve kurak bir hava hakim. Bu iklim koşulları, bölgenin florası ve faunası üzerinde önemli bir etkiye sahip.
+Mevsimsel değişikliklere bakıldığında, "Ispanaklı İni" jeoparkı, Akdeniz ikliminin karakteristik özellikleri sergiliyor. Kış aylarında ılıman ve yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakim. Bu iklim koşulları, bölgenin florası ve faunası üzerinde önemli bir etkiye sahip.
 
 Çevresel açıdan bakıldığında, "Ispanaklı İni" jeoparkı, komşu alanlarla ve su kaynaklarıyla bağlantılı bir ekosistem içinde yer alıyor. Monaco'nun yarısı kadar büyük olmayan bu bölge, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor. Bu küçük ama önemli coğrafi oluşum, çevresindeki daha büyük ekosistemlerle birlikte, Akdeniz bölgesinin doğal dengesini korumak için önemli bir rol oynuyor.
 

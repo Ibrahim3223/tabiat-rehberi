@@ -38,7 +38,7 @@ Naib Hamamı, Gaziantep'in tarihindeki önemli mekanlardan biridir. Tarihi geçm
 
 ## Coğrafya
 
-Naib Hamamı, Gaziantep'in güneyinde yer alan bir plajdır. Bu bölge, güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. İklimi, yazları sıca ve kurak, kışları ılıman ve yağışlı olan bir bölgede yer alıyor. Naib Hamamı, çevresindeki dağlarla çevrili ve bu dağlar, plaja doğal bir güzellik katıyor. Plajın bulunduğu alan, 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilerine rahat ve konforlu bir ortam sunuyor. Naib Hamamı, doğal güzellikleri ve tarihi mekanları ile ziyaretçilerini cezbediyor.
+Naib Hamamı, Gaziantep'in güneyinde yer alan bir plajdır. Bu bölge, güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. İklimi, yazları sıcak ve kurak, kışları ılıman ve yağışlı olan bir bölgede yer alıyor. Naib Hamamı, çevresindeki dağlarla çevrili ve bu dağlar, plaja doğal bir güzellik katıyor. Plajın bulunduğu alan, 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilerine rahat ve konforlu bir ortam sunuyor. Naib Hamamı, doğal güzellikleri ve tarihi mekanları ile ziyaretçilerini cezbediyor.
 
 ## Flora ve Fauna
 

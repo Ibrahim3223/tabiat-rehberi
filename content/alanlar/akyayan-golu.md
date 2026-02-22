@@ -44,13 +44,13 @@ Güney Türkiye'nin sıca ve verimli topraklarında, Akyayan Gölü, 36.5970°K 
 
 Doğal güzelliklerin bir arada bulunduğu bu bölge, yaklaşık olarak birkaç olimpik havuz kadar bir alanı kaplıyor. Akyayan Gölü'nün fiziksel yapısı, coğrafi konumu ve jeolojik özellikleri hakkında detaylı veriler olmasa da, gölü çevreleyen arazi ve su kaynakları, bu bölgenin ekolojik dengesini koruması açısından büyük önem taşıyor. Gölün yüzeyinin büyüklüğü, bir şehir bloğu büyüklüğünde olduğunu söyleyebiliriz.
 
-Mevsimler değiştiğinde, Akyayan Gölü'nün çevresindeki doğa da değişim gösteriyor. Kış aylarında sakin ve soğuk bir hava hakimken, yaz aylarında sıca ve nemli bir iklim karakteri gözlemleniyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Akyayan Gölü, komşu alanlardaki su kaynaklarıyla bağlantılı olarak, bölgenin ekosistemini korumasında önemli bir rol oynuyor.
+Mevsimler değiştiğinde, Akyayan Gölü'nün çevresindeki doğa da değişim gösteriyor. Kış aylarında sakin ve soğuk bir hava hakimken, yaz aylarında sıcak ve nemli bir iklim karakteri gözlemleniyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Akyayan Gölü, komşu alanlardaki su kaynaklarıyla bağlantılı olarak, bölgenin ekosistemini korumasında önemli bir rol oynuyor.
 
 Akyayan Gölü'nün çevresel ilişkileri, bölgenin su kaynakları ve ekosistem bağlantıları açısından büyük önem taşıyor. Göl, komşu arazilerle birlikte, bir bütün olarak düşünülmesi gereken bir doğa sistemi içerisinde yer alıyor. Bu sistem, su döngüsü, bitki örtüsü ve hayvan çeşitliliği açısından birbirleriyle bağlantılı olarak işliyor. Akyayan Gölü, bu sistemdeki diğer alanlarla birlikte, bölgenin doğal dengesini korumak için önemli bir rol üstleniyor.
 
 ## Flora ve Fauna
 
-Akyayan Gölü, Adana'nın sıca ve kurak bozkırında bir yeşil vaha olarak görünür. Bu 1200 hektarlık sulak alan, step bitki örtüsünün hakim olduğu bir bölge içinde yer alır. İlkbaharın gelmesiyle birlikte, gölü çevreleyen bozkır bitkileri çiçeklenir ve renkli bir hal alır. Sonbaharda ise, göç eden su kuşları göle konaklar ve bu alanı bir göçmen kuş cenneti haline getirir.
+Akyayan Gölü, Adana'nın sıcak ve kurak bozkırında bir yeşil vaha olarak görünür. Bu 1200 hektarlık sulak alan, step bitki örtüsünün hakim olduğu bir bölge içinde yer alır. İlkbaharın gelmesiyle birlikte, gölü çevreleyen bozkır bitkileri çiçeklenir ve renkli bir hal alır. Sonbaharda ise, göç eden su kuşları göle konaklar ve bu alanı bir göçmen kuş cenneti haline getirir.
 
 Gölün su kuşları, sulak alan bitkileri arasında yuvalarını kurar ve bu bitkilerin sunduğu koruma ve besin kaynaklarından faydalanır. Balıklar da bu ekosistemin önemli bir parçasıdır ve su kuşlarının beslenmesinde hayati bir rol oynar. Gölün çevresinde, kuraklığa adapte olmuş bitkiler ve çalılar bulunur. Bu bitkiler, memeliler ve sürüngenler için yaşam alanı ve besin kaynağı sağlar.
 

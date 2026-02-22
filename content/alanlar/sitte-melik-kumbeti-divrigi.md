@@ -37,7 +37,7 @@ Sitte Melik Kümbeti, 12. yüzyılın başlarında inşa edilmiş bir tarihi ese
 
 ## Coğrafya
 
-Sitte Melik Kümbeti, Sivas'ın Divriği ilçesinde yer alıyor. Bu ilçe, İç Anadolu Bölgesi'nin doğusunda, Karadeniz Bölgesi'ne yakın bir konumda bulunuyor. Coğrafi olarak, Sitte Melik Kümbeti çevresinde různých bitki türleri ve zengin fauna bulunuyor. Özellikle bölgenin iklimi, karasal iklim özellikleri gösteriyor ve yazları sıcak, kışları soğuk geçiyor. Sitte Melik Kümbeti, yaklaşık yüksek bir konumdate yer alıyor ve bu yükseklik, özellikle bahar ve yaz aylarında ziyaretçilere serin bir atmosfer sunuyor. Bölgenin coğrafi özellikleri, Sitte Melik Kümbeti'nin mimari tasarımını da etkilemiştir. Özellikle kümbetin inşa edildiği taşlar, bölgedeki doğal kaynaklardan elde edilmiştir.
+Sitte Melik Kümbeti, Sivas'ın Divriği ilçesinde yer alıyor. Bu ilçe, İç Anadolu Bölgesi'nin doğusunda, Karadeniz Bölgesi'ne yakın bir konumda bulunuyor. Coğrafi olarak, Sitte Melik Kümbeti çevresinde různých bitki türleri ve zengin fauna bulunuyor. Özellikle bölgenin iklimi, karasal iklim özellikleri gösteriyor ve yazları sıcak, kışları soğuk geçiyor. Sitte Melik Kümbeti, yüksek bir konumda yer alıyor ve bu yükseklik, özellikle bahar ve yaz aylarında ziyaretçilere serin bir atmosfer sunuyor. Bölgenin coğrafi özellikleri, Sitte Melik Kümbeti'nin mimari tasarımını da etkilemiştir. Özellikle kümbetin inşa edildiği taşlar, bölgedeki doğal kaynaklardan elde edilmiştir.
 
 ## Flora ve Fauna
 

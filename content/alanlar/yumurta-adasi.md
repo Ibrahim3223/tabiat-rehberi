@@ -44,7 +44,7 @@ Bu doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutmaktadır.
 
 Jeolojik açıdan bakıldığında, Yumurta Adası'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, ada etrafındaki su kaynakları ve komşu alanlar, bölgenin jeolojik yapısını anlamamızı sağlıyor. Ada, bir şehir bloğu büyüklüğünde bir alanı kaplıyor ve Çanakkale Boğazı'nın kuzeyinde yer alıyor. Bu konumu, ada etrafındaki suyun akıntılarını ve dalgalanmaları etkiliyor.
 
-Mevsimsel özellikler açısından, Yumurta Adası'nın iklimi, Çanakkale bölgesinin genel iklimine benzer. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve güneşli bir hava hakim. Bu mevsimsel değişiklikler, ada etrafındaki suyun sıcaklığını ve canlılığını etkiliyor. Ada, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor ve bu ölçek, ada etrafındaki ekosistemin çeşitliliğini anlamamızı sağlıyor.
+Mevsimsel özellikler açısından, Yumurta Adası'nın iklimi, Çanakkale bölgesinin genel iklimine benzer. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve güneşli bir hava hakim. Bu mevsimsel değişiklikler, ada etrafındaki suyun sıcaklığını ve canlılığını etkiliyor. Ada, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor ve bu ölçek, ada etrafındaki ekosistemin çeşitliliğini anlamamızı sağlıyor.
 
 Doğal güzelliği ve stratejik konumuyla Yumurta Adası, Çanakkale Boğazı'nın önemli bir parçasını oluşturuyor. Ada, Monaco'nun çok küçük bir bölümü kadar bir alanı kaplıyor, ancak bu küçük alan, bölgenin ekolojik dengesini koruyor. Yumurta Adası, çevreye duyarlı bir şekilde korunması gereken bir doğal hazine olarak, Çanakkale'nin turizm potansiyelini artırıyor.
 

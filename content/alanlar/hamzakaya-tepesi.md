@@ -36,7 +36,7 @@ Hamzakaya Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Hamzakaya Tepesi, coğrafi olarak Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, tepelerin ve dağların birleştiği bir noktada yer alıyor. Tepenin yüksekliği, çevredeki diğer tepelere göre farklılık gösteriyor. Hamzakaya Tepesi'nin coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor. Bu manzara, Akdeniz Bölgesi'nin güzelliklerini gözler önüne seriyor. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar bulunuyor. Bu bitki örtüsü, Hamzakaya Tepesi'nin coğrafi yapısını zenginleştiriyor. Tepenin iklimi, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir iklim hüküm sürüyor.
+Hamzakaya Tepesi, coğrafi olarak Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, tepelerin ve dağların birleştiği bir noktada yer alıyor. Tepenin yüksekliği, çevredeki diğer tepelere göre farklılık gösteriyor. Hamzakaya Tepesi'nin coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor. Bu manzara, Akdeniz Bölgesi'nin güzelliklerini gözler önüne seriyor. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar bulunuyor. Bu bitki örtüsü, Hamzakaya Tepesi'nin coğrafi yapısını zenginleştiriyor. Tepenin iklimi, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir iklim hüküm sürüyor.
 
 ## Flora ve Fauna
 

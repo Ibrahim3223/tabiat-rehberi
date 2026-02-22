@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Şemdi Tepe, 37.9906°K enlem
 
 Doğal bir oluşum olan Şemdi Tepe, çevresindeki coğrafi yapının bir parçasıdır. Ancak, fiziksel boyutlarına ilişkin detaylı bilgiler bulunmamaktadır. Koordinatlar, bu tepeyi Batman'ın coğrafi haritasındaki önemli bir nokta olarak gösterir. Şemdi Tepe, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alana karşılık gelebilir, ancak tam boyutları bilinmediğiçin bu sadece bir tahmindir.
 
-Mevsimsel değişiklikler, Şemdi Tepe'nin iklim karakterini şekillendirmektedir. Güneydoğu Anadolu Bölgesi'nin genel iklimi gibi, burada da yazlar sıca ve kurak, kışlar ise soğu ve yağışlı geçer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler. Hava durumu, özellikle yüksekli ve coğrafi konum nedeniyle değişkenlik gösterir.
+Mevsimsel değişiklikler, Şemdi Tepe'nin iklim karakterini şekillendirmektedir. Güneydoğu Anadolu Bölgesi'nin genel iklimi gibi, burada da yazlar sıcak ve kurak, kışlar ise soğuk ve yağışlı geçer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler. Hava durumu, özellikle yüksekli ve coğrafi konum nedeniyle değişkenlik gösterir.
 
 Çevresel açıdan, Şemdi Tepe bölgenin ekosistem bağlantıları içerisinde önemli bir role sahiptir. Batman Nehri gibi su kaynaklarının yakınında yer alan bu tepe, bölgenin su döngüsünü ve doğal dengesini etkileyen faktörlerden biridir. Ayrıca, komşu alanlar ve bitki örtüsü, Şemdi Tepe'nin çevresel ilişkilerini belirler ve bölgenin biyolojik çeşitliliğini zenginleştirir. Monaco'nun yarısı kadar büyük bir alanı kaplayan Batman şehri, Şemdi Tepe'nin de içinde yer aldığı daha geniş bir coğrafi bağlamın parçasıdır.
 

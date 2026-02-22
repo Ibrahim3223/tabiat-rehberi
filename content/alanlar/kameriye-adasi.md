@@ -45,7 +45,7 @@ Gökyüzünden bakıldığında, Kameriye Adası, Ege Denizi'nin mavi suları i�
 
 Doğal güzelliği ile dikkat çeken Kameriye Adası, fiziksel olarak küçük bir ada olsa da, çevresindeki su kaynakları ile önemli bir ekosistem oluşturuyor. Ada, bir olimpik havuz kadar küçük bir alan üzerinde yer alıyor, ancak bu küçük alan, zengin bir bitki örtüsüne ve çeşitli deniz yaşamına ev sahipliği yapıyor.
 
-Mevsimsel değişimlerin etkisi altında olan Kameriye Adası, yaz aylarında sıca ve kurak bir iklim karakterine sahip. Kış aylarında ise ılıman ve yağışlı bir hava hüküm sürüyor. Ada, Ege Denizi'nin ılıman ikliminin etkisinde kalıyor ve bu sayede, yıl boyunca ziyaretçilerini ağırlayabilecek bir atmosfere sahip.
+Mevsimsel değişimlerin etkisi altında olan Kameriye Adası, yaz aylarında sıcak ve kurak bir iklim karakterine sahip. Kış aylarında ise ılıman ve yağışlı bir hava hüküm sürüyor. Ada, Ege Denizi'nin ılıman ikliminin etkisinde kalıyor ve bu sayede, yıl boyunca ziyaretçilerini ağırlayabilecek bir atmosfere sahip.
 
 Ada, Marmaris Körfezi'nin önemli su kaynaklarına yakın bir konumda yer alıyor. Çevresindeki adalar ve anakara ile birlikte, bir ekosistem ağı oluşturuyor. Kameriye Adası, Monaco'nun küçük bir bölümü kadar bir alanı kaplasa da, çevresindeki su kaynakları ve bitki örtüsü ile önemli bir çevresel ilişkiye sahip. Bu ilişki, ada'nın doğal güzelliğini koruma ve zenginleştirmek için büyük önem taşıyor.
 

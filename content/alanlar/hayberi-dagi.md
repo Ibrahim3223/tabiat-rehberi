@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nde yer alan Hayberi Dağı, Kilis ilinin sınırla
 
 Doğal güzellikleri ve coğrafi özellikleri itibariyle dikkat çeken Hayberi Dağı, bir şehir bloğu büyüklüğünde bir alana yayılmaktadır. Dağın fiziksel yapısı, bölgenin jeolojik özelliklerini yansıtmaktadır. Ancak, fiziksel veriler sınırlı olduğu için, dağın yüksekliği ve şekli hakkında kesin bilgiler bulunmamaktadır. Buna rağmen, bölgenin genel coğrafi yapısı, dağlık ve engebeli bir arazinin varlığını işaret etmektedir.
 
-Bölgenin iklim karakteri, mevsimsel özellikler açısından dikkat çekmektedir. İlkbahar ve sonbahar mevsimlerinde, ılıman ve serin bir hava hakimken, yaz aylarında sıcaklık artmaktadır. Kış mevsiminde ise, soğu ve kar yağışlı bir hava hakim olmaktadır. Bu mevsimsel özellikler, bölgenin flora ve fauna açısından zengin bir çeşitlilik göstermesini sağlamaktadır.
+Bölgenin iklim karakteri, mevsimsel özellikler açısından dikkat çekmektedir. İlkbahar ve sonbahar mevsimlerinde, ılıman ve serin bir hava hakimken, yaz aylarında sıcaklık artmaktadır. Kış mevsiminde ise, soğuk ve kar yağışlı bir hava hakim olmaktadır. Bu mevsimsel özellikler, bölgenin flora ve fauna açısından zengin bir çeşitlilik göstermesini sağlamaktadır.
 
 Hayberi Dağı, çevresindeki alanlarla önemli bir ekosistem bağlantısı içindedir. Dağın eteklerinde yer alan Kilis ili, önemli bir tarım ve hayvancılık merkezi olarak bilinmektedir. Ayrıca, bölgede yer alan su kaynakları, bölgenin ekosistemini desteklemektedir. Dağın komşu alanları, benzer coğrafi özellikler göstermektedir ve bölgenin doğal güzellikleri, önemli bir turizm potansiyeli sunmaktadır.
 

@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Deruk Tepe, 37.9792°K ve 41.
 
 Jeolojik açıdan bakıldığında, Deruk Tepe'nin fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel jeolojik özellikleri dikkate alınabilir. Güneydoğu Anadolu Bölgesi, genellikle kalker ve şist gibi kayaçlardan oluşur. Bu kayaçlar, bölgenin jeolojik geçmişini şekillendirmiş ve günümüzde görülen coğrafi yapıyı oluşturmuştur. Deruk Tepe'nin yüksekliği ve boyutları hakkında kesin bilgiler olmasa da, bu dağlık alanın bölgenin coğrafi çeşitliliğine katkıda bulunduğu söylenebilir.
 
-Mevsimsel değişiklikler açısından, Deruk Tepe'nin bulunduğu bölge, karasal iklimin hakim olduğu bir alandır. Kışlar soğu ve yağışlı, yazlar ise sıca ve kuru geçer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler. Deruk Tepe'nin çevresinde, çeşitli bitki türleri ve hayvan popülasyonları yaşar. Bu ekosistem, bölgenin doğal dengesini korur ve çevresel çeşitliliği sağlar.
+Mevsimsel değişiklikler açısından, Deruk Tepe'nin bulunduğu bölge, karasal iklimin hakim olduğu bir alandır. Kışlar soğuk ve yağışlı, yazlar ise sıcak ve kuru geçer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler. Deruk Tepe'nin çevresinde, çeşitli bitki türleri ve hayvan popülasyonları yaşar. Bu ekosistem, bölgenin doğal dengesini korur ve çevresel çeşitliliği sağlar.
 
 Çevresel açıdan, Deruk Tepe'nin bulunduğu bölge, çeşitli su kaynaklarına ve ekosistemlere ev sahipliği yapar. Bu su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılar. Ayrıca, Deruk Tepe'nin yakınında yer alan vadiler ve ova alanları, tarımsal faaliyetler için elverişli bir ortam sunar. Bu nedenle, Deruk Tepe ve çevresinin, bölgenin ekoloji ve ekonomik dengesi için önemli bir rolü vardır.
 

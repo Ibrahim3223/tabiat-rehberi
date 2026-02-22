@@ -37,7 +37,7 @@ Gümüşsuyu Hastanesi Hamamı'nın tarihi geçmişi, İstanbul'un tarihinde ön
 
 ## Coğrafya
 
-Gümüşsuyu Hastanesi Hamamı, coğrafi olarak Marmara Bölgesi'nde yer alır. Bu plaj, İstanbul'un Beyoğlu ilçesinde bulunur ve şehrin merkezine oldukça yakındır. Gümüşsuyu Hastanesi Hamamı, 140 hektarlık bir alan üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu plaj, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır. Gümüşsuyu Hastanesi Hamamı'nın coğrafi konumu, ziyaretçilerine İstanbul'un tarihi ve doğal güzelliklerini deneyimleme fırsatı sunar. Bu plaj, yılın her dönemi ziyaret edilebilir ve her mevsim farklı güzelliğini sunar. Gümüşsuyu Hastanesi Hamamı'nın iklimi, karasal iklimin özellikleri taşır ve yaz ayları sıca ve kurak, kış ayları soğu ve yağışlı geçer.
+Gümüşsuyu Hastanesi Hamamı, coğrafi olarak Marmara Bölgesi'nde yer alır. Bu plaj, İstanbul'un Beyoğlu ilçesinde bulunur ve şehrin merkezine oldukça yakındır. Gümüşsuyu Hastanesi Hamamı, 140 hektarlık bir alan üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu plaj, yüksek bir konumda yer alır. Gümüşsuyu Hastanesi Hamamı'nın coğrafi konumu, ziyaretçilerine İstanbul'un tarihi ve doğal güzelliklerini deneyimleme fırsatı sunar. Bu plaj, yılın her dönemi ziyaret edilebilir ve her mevsim farklı güzelliğini sunar. Gümüşsuyu Hastanesi Hamamı'nın iklimi, karasal iklimin özellikleri taşır ve yaz ayları sıcak ve kurak, kış ayları soğuk ve yağışlı geçer.
 
 ## Flora ve Fauna
 

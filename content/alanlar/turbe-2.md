@@ -38,7 +38,7 @@ Türbe 2 plajının tarihi geçmişi, Germencik'in tarihine paralel olara ilerle
 
 ## Coğrafya
 
-Türbe 2 plajı, Ege Bölgesi'nin Aydın ilinin Germencik ilçesinde yer alır. Plaj, yaklaşık 140 hektarlık bir alanı kapsar ve geniş bir sahil şeridine sahiptir. Bu sahil, Ege Denizi'nin sularına açılır ve bölgenin karakteristik maviliği ile ziyaretçileri karşılar. Plajın etrafı, genellikle kumla kaplıdır ve bazı noktalarda kaya ve çakıllar bulunur. Bölgenin iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine uygun olarak sıca ve kuru yazlar, ılıman ve yağışlı kışlar ile karakterizedir. Türbe 2 plajı, yıl boyunca ziyaretçilerini ağırlar, ancak en fazla ziyaretçi yaz aylarında gelir. Plajın coğrafi konumu, ziyaretçilere geniş bir deniz manzarası ve güzel bir güneş batımı izleme fırsatı sunar. Ayrıca, plajın yakınında bulunan tarihi yapılar ve doğal güzellikler, ziyaretçilere çeşitli keşif fırsatları sağlar.
+Türbe 2 plajı, Ege Bölgesi'nin Aydın ilinin Germencik ilçesinde yer alır. Plaj, yaklaşık 140 hektarlık bir alanı kapsar ve geniş bir sahil şeridine sahiptir. Bu sahil, Ege Denizi'nin sularına açılır ve bölgenin karakteristik maviliği ile ziyaretçileri karşılar. Plajın etrafı, genellikle kumla kaplıdır ve bazı noktalarda kaya ve çakıllar bulunur. Bölgenin iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine uygun olarak sıcak ve kuru yazlar, ılıman ve yağışlı kışlar ile karakterizedir. Türbe 2 plajı, yıl boyunca ziyaretçilerini ağırlar, ancak en fazla ziyaretçi yaz aylarında gelir. Plajın coğrafi konumu, ziyaretçilere geniş bir deniz manzarası ve güzel bir güneş batımı izleme fırsatı sunar. Ayrıca, plajın yakınında bulunan tarihi yapılar ve doğal güzellikler, ziyaretçilere çeşitli keşif fırsatları sağlar.
 
 ## Flora ve Fauna
 

@@ -52,7 +52,7 @@ Sarıçınar Dağı, Antalya'nın güneşli kıyılarında yükselen bir doğa h
 
 Bitki örtüsünün hakim türü maki türleridir ve bunlar, kuraklığa karşı oldukça dayanıklıdır. Dağın yükseklik zonlarında, alpin flora çeşitliliği dikkat çeker. Bu bölgede, yerli bitkiler ve endemik türler bulunur.
 
-Yaban hayatı da bir o kadar zengin olan Sarıçınar Dağı, memeliler, kuşlar ve sürüngenlerle dolu bir ekosistemdir. Dağ keçileri ve yaban kedileri gibi memeliler, dağların zorlu koşullarına adapte olmuşlardır. Kuşlar, göç yolları üzerinde önemli bir durak olan bu dağlarda, çeşitli türler görülebilir. Sürüngenler de, dağların sıca ve kurak bölgelerinde yaşamlarını sürdürürler.
+Yaban hayatı da bir o kadar zengin olan Sarıçınar Dağı, memeliler, kuşlar ve sürüngenlerle dolu bir ekosistemdir. Dağ keçileri ve yaban kedileri gibi memeliler, dağların zorlu koşullarına adapte olmuşlardır. Kuşlar, göç yolları üzerinde önemli bir durak olan bu dağlarda, çeşitli türler görülebilir. Sürüngenler de, dağların sıcak ve kurak bölgelerinde yaşamlarını sürdürürler.
 
 Sarıçınar Dağı, ekolojik değerleri nedeniyle önemli bir alandır. Bu dağ, bölgenin su döngüsünü düzenler ve yerel fauna için yaşam alanı sağlar. Ancak, bu doğal alanların korunması için çalışmalar yapılmalıdır.
 

@@ -37,7 +37,7 @@ Nallıhan Tapduk Emre Türbesi, yüzyıllar boyunca önemli bir dini merkez olar
 
 ## Coğrafya
 
-Nallıhan Tapduk Emre Türbesi, İç Anadolu Bölgesi'nin coğrafi özellikleri içerisinde yer almaktadır. Bu bölge, karasal iklimin hüküm sürdüğü bir alandır. Türbenin bulunduğu Nallıhan ilçesi, Ankara'nın kuzeybatısında yer almaktadır. İlçe, dağlık ve engebeli bir araziye sahiptir. Türbenin çevresinde, yeşillik alanlar ve ormanlık bölgeler bulunmaktadır. Bu coğrafi özellikler, ziyaretçilere doğal güzellikler sunmaktadır. 180 hektarlık bir alanda yer alan türbe, çevresindeki doğal güzelliklerle birlikte önemli bir gezi noktasıdır. İç Anadolu Bölgesi'nin coğrafi yapısı, türbenin bulunduğu bölgeyi de etkilemektedir. Bölge, kışları soğu ve karlı, yazları ise sıcak ve kurak bir iklime sahiptir.
+Nallıhan Tapduk Emre Türbesi, İç Anadolu Bölgesi'nin coğrafi özellikleri içerisinde yer almaktadır. Bu bölge, karasal iklimin hüküm sürdüğü bir alandır. Türbenin bulunduğu Nallıhan ilçesi, Ankara'nın kuzeybatısında yer almaktadır. İlçe, dağlık ve engebeli bir araziye sahiptir. Türbenin çevresinde, yeşillik alanlar ve ormanlık bölgeler bulunmaktadır. Bu coğrafi özellikler, ziyaretçilere doğal güzellikler sunmaktadır. 180 hektarlık bir alanda yer alan türbe, çevresindeki doğal güzelliklerle birlikte önemli bir gezi noktasıdır. İç Anadolu Bölgesi'nin coğrafi yapısı, türbenin bulunduğu bölgeyi de etkilemektedir. Bölge, kışları soğuk ve karlı, yazları ise sıcak ve kurak bir iklime sahiptir.
 
 ## Flora ve Fauna
 

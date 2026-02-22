@@ -44,7 +44,7 @@ Coğrafi konumu itibariyle, Dyubur dağı Iğdır ilinin kuzeydoğu kesiminde ye
 
 Jeolojik açıdan bakıldığında, Dyubur dağı bölgenin genel jeolojik yapısına uygun olarak volkani ve sedimenteer kayaçlardan oluşmaktadır. Dağın fiziksel yapısı, bölgenin tektonik aktivitesinin bir sonucu olarak şekillenmiştir. Ancak, Dyubur dağı hakkında detaylı fiziksel veriler bulunmaması, bu dağ hakkında dahalı bir analiz yapmak için yeterli bilgiyi sağlamamaktadır.
 
-Mevsimsel açıdan, Dyubur dağı Iğdır ilinin karasal ikliminin etkilerini taşır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna yapısını etkileyen önemli bir faktördür.
+Mevsimsel açıdan, Dyubur dağı Iğdır ilinin karasal ikliminin etkilerini taşır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna yapısını etkileyen önemli bir faktördür.
 
 Bölgenin ekosistem bağlamında, Dyubur dağı Iğdır Nehri'nin kuzeyinde yer alan diğer dağlarla birlikte, bölgenin su kaynaklarının şekillenmesinde önemli bir rol oynar. Bu dağlar, bölgenin su döngüsünü etkileyen önemli bir faktör olarak, bölgenin ekosistemini desteklemektedir.
 

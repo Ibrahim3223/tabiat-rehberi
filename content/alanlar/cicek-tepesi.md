@@ -37,7 +37,7 @@ Ankara'nın merkezinde yer alan Çiçek Tepesi, yaklaşık 140 hektarlık bir al
 
 ## Coğrafya
 
-Çiçek Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bölge, genellikle step ve orman ekosistemlerinin birleştiği bir alana karşılık geliyor. Çiçek Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve burada çeşitli bitki türleri ve zengin fauna encontrabilir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor. Bahar ve sonbahar mevsimlerinde, bölgeye özgü çiçekler açarak manzarayı güzelleştiriyor. Çiçek Tepesi, ziyaretçilerine doğal güzelliklerin yanı sıra, Ankara'nın panoramik manzarasını da sunuyor.
+Çiçek Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bölge, genellikle step ve orman ekosistemlerinin birleştiği bir alana karşılık geliyor. Çiçek Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve burada çeşitli bitki türleri ve zengin fauna encontrabilir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bahar ve sonbahar mevsimlerinde, bölgeye özgü çiçekler açarak manzarayı güzelleştiriyor. Çiçek Tepesi, ziyaretçilerine doğal güzelliklerin yanı sıra, Ankara'nın panoramik manzarasını da sunuyor.
 
 ## Flora ve Fauna
 

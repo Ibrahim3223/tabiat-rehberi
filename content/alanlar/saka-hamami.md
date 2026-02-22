@@ -37,7 +37,7 @@ Saka Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölged
 
 ## Coğrafya
 
-Saka Hamamı, Akdeniz Bölgesi'nde, Hatay ilinin Antakya ilçesinde bulunuyor. Bu bölgede, Akdeniz iklimi hüküm sürer ve bu nedenle, Saka Hamamı da bu iklimin etkilerini taşır. Bölgede, genellikle sıca ve kurak yazlar, ılık ve yağışlı kışlar görülür. Saka Hamamı, yeşillik bir alan içerisinde yer alır ve bu reasonsıyla, ziyaretçilerine doğal bir ortam sunar. Saka Hamamı'nın coğrafi yapısı, ziyaretçilerin doğayla iç içe olmasını sağlar. Bu bölgede, çeşitli bitki türleri ve fauna bulunur. Saka Hamamı, geniş bir alana yayılmış ve bu reasonsıyla, ziyaretçilerine çeşitli aktiviteler yapma imkanı sunar.
+Saka Hamamı, Akdeniz Bölgesi'nde, Hatay ilinin Antakya ilçesinde bulunuyor. Bu bölgede, Akdeniz iklimi hüküm sürer ve bu nedenle, Saka Hamamı da bu iklimin etkilerini taşır. Bölgede, genellikle sıcak ve kurak yazlar, ılık ve yağışlı kışlar görülür. Saka Hamamı, yeşillik bir alan içerisinde yer alır ve bu reasonsıyla, ziyaretçilerine doğal bir ortam sunar. Saka Hamamı'nın coğrafi yapısı, ziyaretçilerin doğayla iç içe olmasını sağlar. Bu bölgede, çeşitli bitki türleri ve fauna bulunur. Saka Hamamı, geniş bir alana yayılmış ve bu reasonsıyla, ziyaretçilerine çeşitli aktiviteler yapma imkanı sunar.
 
 ## Flora ve Fauna
 

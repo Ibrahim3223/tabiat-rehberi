@@ -38,11 +38,11 @@ Bekri Mustafa ve Şeyh Abdürraif Şamadani Türbesi, İstanbul'un tarihi geçmi
 
 ## Coğrafya
 
-Bekri Mustafa ve Şeyh Abdürraif Şamadani Türbesi, İstanbul'un Fatih ilçesinde yer alır. Bu türbe, yaklaşık 140 hektarlık bir alan içerisinde yer alır ve 200 futbol sahası büyüklüğünde bir alanı kaplar. İstanbul'un Marmara Bölgesi'nde yer alan bu türbe, şehrin tarihi geçmişi hakkında önemli bilgiler sunar. Türbenin etrafında, çeşitli bitki türleri ve ağaçlar bulunur. Bu bölgede, mevsimsel değişimler gözlemlenebilir. Kış aylarında, alan soğu ve yağmurlu olurken, yaz aylarında sıca ve güneşli bir hava hakimdir. Bu türbe, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunar.
+Bekri Mustafa ve Şeyh Abdürraif Şamadani Türbesi, İstanbul'un Fatih ilçesinde yer alır. Bu türbe, yaklaşık 140 hektarlık bir alan içerisinde yer alır ve 200 futbol sahası büyüklüğünde bir alanı kaplar. İstanbul'un Marmara Bölgesi'nde yer alan bu türbe, şehrin tarihi geçmişi hakkında önemli bilgiler sunar. Türbenin etrafında, çeşitli bitki türleri ve ağaçlar bulunur. Bu bölgede, mevsimsel değişimler gözlemlenebilir. Kış aylarında, alan soğu ve yağmurlu olurken, yaz aylarında sıcak ve güneşli bir hava hakimdir. Bu türbe, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunar.
 
 ## Flora ve Fauna
 
-Bekri Mustafa ve Şeyh Abdürraif Şamadani Türbesi, çeşitli bitki türleri ve ağaçlarla çevrilidir. Bu bölgede, ziyaretçiler mevsimsel değişimleri gözlemleyebilirler. Kış aylarında, soğu ve yağmurlu hava nedeniyle, bitki türleri ve ağaçlar daha az görünürken, yaz aylarında sıca ve güneşli hava nedeniyle, daha çok çeşitlilik görünür. Bu türbe, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunar. Ayrıca, bu bölgede çeşitli hayvan türleri de bulunur. Kuşlar, böcekler ve diğer küçük hayvanlar, bu bölgede yaşarlar.
+Bekri Mustafa ve Şeyh Abdürraif Şamadani Türbesi, çeşitli bitki türleri ve ağaçlarla çevrilidir. Bu bölgede, ziyaretçiler mevsimsel değişimleri gözlemleyebilirler. Kış aylarında, soğu ve yağmurlu hava nedeniyle, bitki türleri ve ağaçlar daha az görünürken, yaz aylarında sıcak ve güneşli hava nedeniyle, daha çok çeşitlilik görünür. Bu türbe, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunar. Ayrıca, bu bölgede çeşitli hayvan türleri de bulunur. Kuşlar, böcekler ve diğer küçük hayvanlar, bu bölgede yaşarlar.
 
 ## Ziyaret Bilgileri
 

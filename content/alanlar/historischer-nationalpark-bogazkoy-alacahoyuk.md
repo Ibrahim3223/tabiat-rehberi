@@ -31,7 +31,7 @@ Historischer Nationalpark Boğazköy-Alacahöyük, tarihin sâu izlerini taşıy
 
 ## Coğrafya
 
-Historischer Nationalpark Boğazköy-Alacahöyük, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bölge, 1200 hektarlık bir alanı kaplıyor ve deniz seviyesinden yaklaşık 800 metre yükseklikte yer alıyor. Bu yükseklik, bölgenin iklimini etkileyen önemli bir faktör. Karasal iklimin hakim olduğu bölgede, kışlar soğu ve karlı, yazlar ise sıca ve kurak geçiyor. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli manzaralar ve doğa güzellikleri sunuyor.
+Historischer Nationalpark Boğazköy-Alacahöyük, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bölge, 1200 hektarlık bir alanı kaplıyor ve deniz seviyesinden yaklaşık 800 metre yükseklikte yer alıyor. Bu yükseklik, bölgenin iklimini etkileyen önemli bir faktör. Karasal iklimin hakim olduğu bölgede, kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli manzaralar ve doğa güzellikleri sunuyor.
 
 ## Flora ve Fauna
 

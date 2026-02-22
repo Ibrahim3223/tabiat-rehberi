@@ -45,7 +45,7 @@ Orta Anadolu'nun kalbinde, Niğde ilinin sınırları içinde yer alan Pozantı 
 
 Doğal güzelliği ve jeolojik yapısı ile dikkat çeken Pozantı Dağı, yaklaşık olarak 1200 hektarlık bir alanı kaplar. Bu büyüklük, İstanbul'un Adalar ilçesi büyüklüğüne eşdeğerdir. Dağın fiziksel yapısı, çeşitli jeolojik oluşumları içerir; Fakat detaylı fiziksel veriler bulunmaması nedeniyle, daha spesifik bilgiler elde edilememektedir.
 
-İklim açısından Pozantı Dağı, Orta Anadolu'nun karasal ikliminin özelliklerini taşır. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve karlı bir hava durumuna sahiptir. Bu mevsimsel değişiklikler, dağın flora ve fauna çeşitliliğini etkiler ve ziyaretçilere her mevsim farklı bir deneyim sunar.
+İklim açısından Pozantı Dağı, Orta Anadolu'nun karasal ikliminin özelliklerini taşır. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı bir hava durumuna sahiptir. Bu mevsimsel değişiklikler, dağın flora ve fauna çeşitliliğini etkiler ve ziyaretçilere her mevsim farklı bir deneyim sunar.
 
 Pozantı Dağı, çevresindeki diğer doğal alanlarla da bağlantılıdır. Bölge, çeşitli su kaynaklarına ev sahipliği yapar ve ekosistemlerin birbirleriyle bağlantılı olduğu bir coğrafyada yer alır. Dağın komşu alanları, geniş ormanlar ve ovalarla çevrilidir; bu da bölgenin biyolojik çeşitliliğini zenginleştirir.
 

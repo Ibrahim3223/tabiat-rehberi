@@ -45,7 +45,7 @@ Doğal güzelliklerin bir araya geldiği Akdeniz kıyılarında, Saplı Adası 3
 
 Adanın fiziksel yapısına bakıldığında, detaylı bilgiler bulunmuyor, ancak koordinatlarından adanın konumunu ve çevresiyle ilişkisini anlama mümkün. Saplı Adası, bir şehir bloğu büyüklüğünde bir alan olarak düşünülebilir. Bu boyut, adayı küçük ama önemli bir doğal alan olarak konumlandırıyor. Jeolojik açıdan, adanın yapısı ve oluşumu hakkında daha fazla bilgiye ihtiyaç duyulsa da, Akdeniz'in genel jeolojik karakteri dikkate alındığında, adanın kireçtaşı veya volkanik kayaçlardan oluşmuş olabileceği öngörülebilir.
 
-Mevsimsel değişimler açısından, Saplı Adası Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu iklim, adanın florası ve faunası için uygun koşulları sağlar. Hava durumu, ziyaretçilerin adayı keşfetmeleri için uygun zamanları planlamalarına yardımcı olur.
+Mevsimsel değişimler açısından, Saplı Adası Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu iklim, adanın florası ve faunası için uygun koşulları sağlar. Hava durumu, ziyaretçilerin adayı keşfetmeleri için uygun zamanları planlamalarına yardımcı olur.
 
 Çevresel açıdan, Saplı Adası yakın kıyılarla ve su kaynaklarıyla bağlantılı. Adanın ekosistemi, komşu alanlarla ve deniz ekosistemleriyle etkileşim içinde. Bu bağlantı, adanın doğal dengesini koruması ve biyolojik çeşitliliğini desteklemesi açısından önemlidir. Monaco'nun yarısı kadar büyük olmayan bu küçük ada, çevresindeki ekosistemi etkileyen önemli bir bileşen olarak görülüyor.
 

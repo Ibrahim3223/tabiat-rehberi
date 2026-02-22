@@ -44,7 +44,7 @@ Engürü Dağı, Amasya'nın doğal güzelliğinin bir parçası olarak, bölgen
 
 Doğrudan fiziksel veriler bulunmasa da, Engürü Dağı'nın konumu ve çevresi, coğrafi olarak zengin bir bölgeyi temsil ediyor. Dağın büyüklüğü, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor. Bu boyut, dağın eteklerinde kurulmuş olan yerleşim yerleri için önemli bir coğrafi özelliği oluşturuyor. Engürü Dağı'nın jeolojik yapısı, bölgenin genel jeolojik özelliklerini yansıtıyor. Bu özellikler, dağın oluşumunda etkili olan tektonik hareketler ve erozyon süreçleri hakkında bilgi veriyor.
 
-İklim açısından bakıldığında, Engürü Dağı'nın bulunduğu bölge, Karadeniz Bölgesi'nin iç kesimlerinde yer alıyor. Bu nedenle, dağın iklimi, mevsimsel olarak değişken bir yapıya sahip. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir iklim hüküm sürüyor. Bu mevsimsel değişimler, dağın ekosistemi ve bitki örtüsü üzerinde önemli etkiler yaratıyor.
+İklim açısından bakıldığında, Engürü Dağı'nın bulunduğu bölge, Karadeniz Bölgesi'nin iç kesimlerinde yer alıyor. Bu nedenle, dağın iklimi, mevsimsel olarak değişken bir yapıya sahip. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürüyor. Bu mevsimsel değişimler, dağın ekosistemi ve bitki örtüsü üzerinde önemli etkiler yaratıyor.
 
 Çevresel açıdan, Engürü Dağı, Yeşilırmak Nehri'nin kuzeyinde yer alıyor. Bu konum, dağın su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahip olmasını sağlıyor. Dağın eteklerinde kurulan yerleşim yerleri, Yeşilırmak Nehri'nden faydalanarak tarımı ve hayvancılığı geliştirmişler. Bu nedenle, Engürü Dağı, bölgenin ekonomi ve ekolojik dengesi açısından önemli bir coğrafi unsur olarak ortaya çıkıyor.
 

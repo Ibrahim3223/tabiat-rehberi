@@ -37,7 +37,7 @@ Mülayim Dede Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu 
 
 ## Coğrafya
 
-Mülayim Dede Türbesi, Tavşanlı, Kütahya'da yer alır ve Ege Bölgesi'nin coğrafi güzelliklerini taşır. Bu bölge, genellikle tarım arazileri ve doğal alanlarla çevrilidir. Türbenin etrafı, çeşitli bitki türleri ve ağaçlarla dolu bir yeşil alandır. İklim, genel olarak Ege Bölgesi'nin ılıman iklimine benzer, yazları sıca ve kurak, kışları ise ılık ve yağışlı geçer. Bu coğrafi konum, ziyaretçilere hem tarihi bir mekan hem de doğal güzellikler sunar. Tavşanlı'nın merkezine yakınlığı, ulaşım açısından kolaylık sağlar. Mülayim Dede Türbesi, Tavşanlı'nın ve Ege Bölgesi'nin coğrafi çeşitliliğini ve güzelliğini yansıtan özel bir noktadır.
+Mülayim Dede Türbesi, Tavşanlı, Kütahya'da yer alır ve Ege Bölgesi'nin coğrafi güzelliklerini taşır. Bu bölge, genellikle tarım arazileri ve doğal alanlarla çevrilidir. Türbenin etrafı, çeşitli bitki türleri ve ağaçlarla dolu bir yeşil alandır. İklim, genel olarak Ege Bölgesi'nin ılıman iklimine benzer, yazları sıcak ve kurak, kışları ise ılık ve yağışlı geçer. Bu coğrafi konum, ziyaretçilere hem tarihi bir mekan hem de doğal güzellikler sunar. Tavşanlı'nın merkezine yakınlığı, ulaşım açısından kolaylık sağlar. Mülayim Dede Türbesi, Tavşanlı'nın ve Ege Bölgesi'nin coğrafi çeşitliliğini ve güzelliğini yansıtan özel bir noktadır.
 
 ## Flora ve Fauna
 

@@ -30,7 +30,7 @@ Balikesir-Sindirgi-Ulus Piramidal Kızılçam milli parkının tarihi, bölgeye 
 
 ## Coğrafya
 
-Balikesir-Sindirgi-Ulus Piramidal Kızılçam milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en verimli kesimlerinden birinde yer alıyor. Milli park, 1200 hektarlık bir alanı kaplıyor ve bu alan, bölgenin en önemli doğal güzelliklerinden biri olan piramidal kızılçam ormanlarını barındırıyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin tipik karasal iklimine uygun olarak yazları sıca ve khô, kışları soğu ve karlı geçiyor. Yıllık yağış ortalaması 400 mm civarında ve bu, bölgenin tarım için elverişli olmasını sağlıyor. Milli parkın coğrafi konumu, ziyaretçilerin आसaniyle ulaşabilmesini sağlıyor. Milli parka, en yakın şehir merkezinden yaklaşık 30 km uzaklıkta ve bu, ziyaretçilerin dàng ulaşabilmesini sağlıyor.
+Balikesir-Sindirgi-Ulus Piramidal Kızılçam milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en verimli kesimlerinden birinde yer alıyor. Milli park, 1200 hektarlık bir alanı kaplıyor ve bu alan, bölgenin en önemli doğal güzelliklerinden biri olan piramidal kızılçam ormanlarını barındırıyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin tipik karasal iklimine uygun olarak yazları sıcak ve kuru, kışları soğuk ve karlı geçiyor. Yıllık yağış ortalaması 400 mm civarında ve bu, bölgenin tarım için elverişli olmasını sağlıyor. Milli parkın coğrafi konumu, ziyaretçilerin आसaniyle ulaşabilmesini sağlıyor. Milli parka, en yakın şehir merkezinden yaklaşık 30 km uzaklıkta ve bu, ziyaretçilerin dàng ulaşabilmesini sağlıyor.
 
 ## Flora ve Fauna
 

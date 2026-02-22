@@ -36,7 +36,7 @@ Gürle Tepe'nin tarihi geçmişi, çeşitli uygarlıkların yaşamış olduğu b
 
 ## Coğrafya
 
-Gürle Tepe, Bursa'nın Marmara Bölgesi'nde yer alıyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, doğa severler için bir cennet. Gürle Tepe'nin coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Tepe, şehrin gürültüsünden uzaklaşmak isteyenler için de bir kaçış noktası. Gürle Tepe'nin manzarası, özellikle gün batımında, görenleri büyülüyor. Doğa yürüyüşleri, piknik alanları ve tarihi kalıntıları ile Gürle Tepe, ziyaretçilerini cezbediyor. Gürle Tepe'nin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun. Yaz ayları sıca ve nemli, kış ayları soğu ve yağışlı. Gürle Tepe, yıl boyunca ziyaret edilebiliyor.
+Gürle Tepe, Bursa'nın Marmara Bölgesi'nde yer alıyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, doğa severler için bir cennet. Gürle Tepe'nin coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Tepe, şehrin gürültüsünden uzaklaşmak isteyenler için de bir kaçış noktası. Gürle Tepe'nin manzarası, özellikle gün batımında, görenleri büyülüyor. Doğa yürüyüşleri, piknik alanları ve tarihi kalıntıları ile Gürle Tepe, ziyaretçilerini cezbediyor. Gürle Tepe'nin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun. Yaz ayları sıcak ve nemli, kış ayları soğuk ve yağışlı. Gürle Tepe, yıl boyunca ziyaret edilebiliyor.
 
 ## Flora ve Fauna
 

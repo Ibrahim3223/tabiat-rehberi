@@ -46,7 +46,7 @@ Kordon botanik bahçesi, bu tarihsel ve kültürel bağlam içinde, İzmir'in do
 
 Doğal güzelliği ile dikkat çeken Kordon Botanik Bahçesi, İzmir'in coğrafi yapısı içinde önemli bir yere sahip. Ancak, ayrıntılı fiziksel verileri bulunmamasına rağmen, bu botanik bahçesi, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor. Bu, ziyaretçilerin dolaşabileceği geniş bir alan olduğunu gösteriyor.
 
-İklim açısından bakıldığında, İzmir'in Akdeniz ikliminin etkilerini taşıyan Kordon Botanik Bahçesi, mevsimsel olarak farklı hava koşullarına sahip. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir iklim karakteri gösteriyor. Bu durum, botanik bahçesindeki bitki çeşitliliğiçin uygun koşullar sağlıyor.
+İklim açısından bakıldığında, İzmir'in Akdeniz ikliminin etkilerini taşıyan Kordon Botanik Bahçesi, mevsimsel olarak farklı hava koşullarına sahip. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir iklim karakteri gösteriyor. Bu durum, botanik bahçesindeki bitki çeşitliliğiçin uygun koşullar sağlıyor.
 
 Çevresel açıdan, Kordon Botanik Bahçesi, İzmir'in önemli su kaynaklarına yakın bir konumda yer alıyor. İzmir Körfezi'ne bakan bu yeşil alan, şehrin ekosistem bağlantıları içinde önemli bir rol oynuyor. Bu botanik bahçe, şehrin doğal dengesini korurken, aynı zamanda ziyaretçilere de keyifli bir ortam sunuyor.
 

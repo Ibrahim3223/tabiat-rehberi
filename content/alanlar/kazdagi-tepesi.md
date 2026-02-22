@@ -38,7 +38,7 @@ Kazdağı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetle
 
 ## Coğrafya
 
-Kazdağı Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgede yer alıyor. Tepenin etrafında geniş ovalar ve vadiler uzanıyor. Bu bölge, iklimwise olarak karasal iklimin etkilerini gösteriyor. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Tepenin yüksekliği, çevreye hakim bir konumda olmasını sağlıyor. Bu sayede, ziyaretçiler tepenin etrafındaki manzarayı rahatça görebiliyor. Kazdağı Tepesi'nin coğrafi konumu, aynı zamanda çeşitli bitki türlerinin ve yaban hayatının yaşamına elverişli bir ortam sunuyor. Çeşitli ağaçlar, çalılar ve otlar, tepenin eteklerinde ve etrafındaki ovalarda yer alıyor. Bu bölge, doğa severlerin ve macera arayışındaki gezginlerin keşfetmeye değer bir yer.
+Kazdağı Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgede yer alıyor. Tepenin etrafında geniş ovalar ve vadiler uzanıyor. Bu bölge, iklimwise olarak karasal iklimin etkilerini gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Tepenin yüksekliği, çevreye hakim bir konumda olmasını sağlıyor. Bu sayede, ziyaretçiler tepenin etrafındaki manzarayı rahatça görebiliyor. Kazdağı Tepesi'nin coğrafi konumu, aynı zamanda çeşitli bitki türlerinin ve yaban hayatının yaşamına elverişli bir ortam sunuyor. Çeşitli ağaçlar, çalılar ve otlar, tepenin eteklerinde ve etrafındaki ovalarda yer alıyor. Bu bölge, doğa severlerin ve macera arayışındaki gezginlerin keşfetmeye değer bir yer.
 
 ## Flora ve Fauna
 

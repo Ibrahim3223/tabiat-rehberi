@@ -37,7 +37,7 @@ Aşağı Cami Türbesi'nin tarihi geçmişi, Denizli ilinin zengin kültürel mi
 
 ## Coğrafya
 
-Aşağı Cami Türbesi, Çivril'in 10 kilometre güneydoğusunda, Ege Bölgesi'nin en güzel noktalarından biri olan bir kıyı bandında yer alıyor. Bu bölge, deniz seviyesinden yaklaşık yüksek bir konumdate ve 140 hektarlık bir alanı kapsıyor. Coğrafi olarak, Aşağı Cami Türbesi, Çivril Ovası'nın güneyinde, Akdeniz ikliminin etkisinde kalıyor. Bölgenin iklimi, yazları sıca ve kurak, kışları ılıman ve yağışlı olarak karakterize ediliyor. Bu iklim, bölgenin flora ve faunasını da etkiliyor. Çivril Ovası'nın verimli toprakları, çeşitli tarım faaliyetlerine ev sahipliği yapıyor ve bölgenin ekonomisine katkıda bulunüyor.
+Aşağı Cami Türbesi, Çivril'in 10 kilometre güneydoğusunda, Ege Bölgesi'nin en güzel noktalarından biri olan bir kıyı bandında yer alıyor. Bu bölge, yüksek bir konumda ve 140 hektarlık bir alanı kapsıyor. Coğrafi olarak, Aşağı Cami Türbesi, Çivril Ovası'nın güneyinde, Akdeniz ikliminin etkisinde kalıyor. Bölgenin iklimi, yazları sıcak ve kurak, kışları ılıman ve yağışlı olarak karakterize ediliyor. Bu iklim, bölgenin flora ve faunasını da etkiliyor. Çivril Ovası'nın verimli toprakları, çeşitli tarım faaliyetlerine ev sahipliği yapıyor ve bölgenin ekonomisine katkıda bulunüyor.
 
 ## Flora ve Fauna
 

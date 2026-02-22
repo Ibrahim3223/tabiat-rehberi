@@ -44,7 +44,7 @@ Doğunun güzide şehri Van'a doğru yol aldığımızda, 37.9000°K, 44.2333°D
 
 Kumru Tepe'nin fiziksel yapısı, bölgenin jeolojik özelliklerini yansıtır. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olup, bu da Kumru Tepe'yi bölgenin önemli bir coğrafi noktası haline getirir. Kumru Tepe, Van'ın dağlık arazisinin bir parçasını oluşturur ve bu reasonsıyla trekking ve doğa yürüyüşü severler için ideal bir destinasyon olarak görülür.
 
-Bölgenin iklim karakteri, Kumru Tepe'nin coğrafi konumuna bağlı olarak değişir. Van'ın karasal iklimi, Kumru Tepe'de kendini gösterir ve burası, yazın sıca ve kurak, kışın ise soğu ve karlı bir iklime sahiptir. Bu mevsimsel özellikler, Kumru Tepe'nin flora ve faunasını etkiler ve burayı, çeşitli bitki ve hayvan türleri için önemli bir yaşam alanı haline getirir.
+Bölgenin iklim karakteri, Kumru Tepe'nin coğrafi konumuna bağlı olarak değişir. Van'ın karasal iklimi, Kumru Tepe'de kendini gösterir ve burası, yazın sıcak ve kurak, kışın ise soğuk ve karlı bir iklime sahiptir. Bu mevsimsel özellikler, Kumru Tepe'nin flora ve faunasını etkiler ve burayı, çeşitli bitki ve hayvan türleri için önemli bir yaşam alanı haline getirir.
 
 Çevresel ilişkiler açısından bakıldığında, Kumru Tepe, Van Gölü ve çevresindeki diğer dağlarla birlikte bir ekosistem oluşturur. Bu dağ, bölgenin su kaynaklarının korunmasına yardımcı olur ve Van Gölü'nün su dengesini etkiler. Kumru Tepe, aynı zamanda, bölgedeki diğer doğal alanlarla birlikte, Van'ın doğal güzelliklerini koruma ve sürdürülebilir bir şekilde kullanmak için önemli bir role sahiptir.
 

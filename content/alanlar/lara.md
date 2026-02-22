@@ -38,7 +38,7 @@ Lara'nın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin hakimiy
 
 ## Coğrafya
 
-Lara, Akdeniz Bölgesi'nin güneyinde, Antalya'nın Muratpaşa ilçesinde yer alır. Bu bölge, geniş kumsalları ve berrak sularıyla bilinir. Lara'nın coğrafi konumu, turizm açısından büyük avantaj sağlar. Denize sıfır konumu, ziyaretçilerin deniz keyfi yapmalarına olanak tanır. Ayrıca, Lara'nın yakınında yer alan diğer turizm merkezleri, ziyaretçilerin gezi olanaklarını genişletir. İklimi, tipik Akdeniz iklimi olan Lara, yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumuna sahiptir. Bu iklim, turizm açısından idealdir. Lara'nın coğrafi yapısı, aynı zamanda doğal güzellikleri de içerir. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur. Lara, doğa severlerin ilgisini çeken bir destinasyon olarak bilinir.
+Lara, Akdeniz Bölgesi'nin güneyinde, Antalya'nın Muratpaşa ilçesinde yer alır. Bu bölge, geniş kumsalları ve berrak sularıyla bilinir. Lara'nın coğrafi konumu, turizm açısından büyük avantaj sağlar. Denize sıfır konumu, ziyaretçilerin deniz keyfi yapmalarına olanak tanır. Ayrıca, Lara'nın yakınında yer alan diğer turizm merkezleri, ziyaretçilerin gezi olanaklarını genişletir. İklimi, tipik Akdeniz iklimi olan Lara, yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumuna sahiptir. Bu iklim, turizm açısından idealdir. Lara'nın coğrafi yapısı, aynı zamanda doğal güzellikleri de içerir. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur. Lara, doğa severlerin ilgisini çeken bir destinasyon olarak bilinir.
 
 ## Flora ve Fauna
 

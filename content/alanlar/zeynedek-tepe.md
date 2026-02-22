@@ -42,7 +42,7 @@ Diyarbakır'ın coğrafi zenginliklerine bir yenisini ekleyen Zeynedek Tepe, 37.
 
 Fiziksel olarak ele alındığında, Zeynedek Tepe'nin boyutları ve şekli hakkında somut bilgiler olmasa da, genel olarak güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerine uygun bir yapıya sahip olduğu söylenebilir. Bu bölge, genellikle geniş ovalar ve dağlık alanlardan oluşuyor. Zeynedek Tepe, muhtemelen bu coğrafi yapının bir parçası olarak, bölgenin jeolojikini yansıtıyor.
 
-İklim açısından bakıldığında, Zeynedek Tepe ve çevresi, güneydoğu Anadolu Bölgesi'nin karakteristik iklimini paylaşıyor. Bu bölge, genellikle sıca ve kurak yazlar ile soğu ve yağışlı kışlar yaşayan bir iç iklim bölgesidir. Zeynedek Tepe'nin yüksekliği, Eiffel Kulesi'nin yaklaşık 2-3 katı yükseklikte olan bir dağ olarak, mevsimsel hava koşullarını etkileyen önemli bir faktör olabilir.
+İklim açısından bakıldığında, Zeynedek Tepe ve çevresi, güneydoğu Anadolu Bölgesi'nin karakteristik iklimini paylaşıyor. Bu bölge, genellikle sıcak ve kurak yazlar ile soğuk ve yağışlı kışlar yaşayan bir iç iklim bölgesidir. Zeynedek Tepe'nin yüksekliği, Eiffel Kulesi'nin yaklaşık 2-3 katı yükseklikte olan bir dağ olarak, mevsimsel hava koşullarını etkileyen önemli bir faktör olabilir.
 
 Çevresel açıdan, Zeynedek Tepe, Diyarbakır'ın doğal ve kültürel zenginliklerine katkıda bulunan önemli bir alan. Bu tepe, şehrin su kaynaklarına ve ekosistemine conexión sağlayan bir coğrafi unsur olarak, bölgenin çevre dengesini koruma altına alıyor. Zeynedek Tepe, Monaco'nun yaklaşık yarısı kadar bir alanı kapsayan bir bölge olarak, Diyarbakır'ın coğrafi çeşitliliğine önemli bir katkıda bulunarak, şehrin doğal güzelliklerini zenginleştirmeye devam ediyor.
 

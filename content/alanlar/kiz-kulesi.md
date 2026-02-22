@@ -38,7 +38,7 @@ Kız Kulesi'nin tarihi, Bizans İmparatorluğu dönemine kadar uzanır. O zamanl
 
 ## Coğrafya
 
-Kız Kulesi, İstanbul'un Üsküdar ilçesinde, Marmara Denizi'nin kıyısında yer alan küçük bir adada bulunur. Ada, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir ve kule, adanın orta kısmında yer alır. Kule, deniz seviyesinden yaklaşık yüksek bir konumdate bulunur ve çevresinde küçük bir plaj alanı vardır. Kule ve ada, İstanbul'un şehir merkezine yakın olmasına rağmen, şehrin kalabalığından uzak bir noktada yer alır. Kule, Üsküdar'dan deniz yoluyla kolayca ulaşılabilir ve etrafındaki manzara, ziyaretçilere İstanbul Boğazı'nın güzelliğini gösterir. Kule, yıl boyunca çeşitli hava koşullarına maruz kalır, ancak genel olarak ılıman bir iklimi vardır. Kış aylarında kule çevresindeki deniz, bazen dalgalı olabilir, ancak yaz aylarında sakin ve güneşlidir.
+Kız Kulesi, İstanbul'un Üsküdar ilçesinde, Marmara Denizi'nin kıyısında yer alan küçük bir adada bulunur. Ada, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir ve kule, adanın orta kısmında yer alır. Kule, yüksek bir konumda bulunur ve çevresinde küçük bir plaj alanı vardır. Kule ve ada, İstanbul'un şehir merkezine yakın olmasına rağmen, şehrin kalabalığından uzak bir noktada yer alır. Kule, Üsküdar'dan deniz yoluyla kolayca ulaşılabilir ve etrafındaki manzara, ziyaretçilere İstanbul Boğazı'nın güzelliğini gösterir. Kule, yıl boyunca çeşitli hava koşullarına maruz kalır, ancak genel olarak ılıman bir iklimi vardır. Kış aylarında kule çevresindeki deniz, bazen dalgalı olabilir, ancak yaz aylarında sakin ve güneşlidir.
 
 ## Flora ve Fauna
 

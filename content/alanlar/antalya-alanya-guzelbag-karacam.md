@@ -30,7 +30,7 @@ Antalya-Alanya-Guzelbag-Karaçam milli parkı, tarihi geçmişi ile dikkat çeke
 
 ## Coğrafya
 
-Antalya-Alanya-Guzelbag-Karaçam milli parkı, Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır. Bu milli park, yaklaşık 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir doğa güzelliğidir. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Burada, dağlar, ormanlar ve nehirler gibi doğal güzellikler yer alır. Milli parkın iklimi, Akdeniz iklimi ile karakterizedir ve burada, sıca ve kurak yazlar ile ılık ve yağışlı kışlar yaşanır. Milli parkın coğrafi konumu, ziyaretçilerin doğayı ve doğal güzellikleri yakından görmelerine olanak tanır. Milli parkın etrafında, güzel ve geniş alanlar yer alır ve burada, doğa yürüyüşleri ve diğer açık hava etkinlikleri yapabilirsiniz.
+Antalya-Alanya-Guzelbag-Karaçam milli parkı, Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır. Bu milli park, yaklaşık 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir doğa güzelliğidir. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Burada, dağlar, ormanlar ve nehirler gibi doğal güzellikler yer alır. Milli parkın iklimi, Akdeniz iklimi ile karakterizedir ve burada, sıcak ve kurak yazlar ile ılık ve yağışlı kışlar yaşanır. Milli parkın coğrafi konumu, ziyaretçilerin doğayı ve doğal güzellikleri yakından görmelerine olanak tanır. Milli parkın etrafında, güzel ve geniş alanlar yer alır ve burada, doğa yürüyüşleri ve diğer açık hava etkinlikleri yapabilirsiniz.
 
 ## Flora ve Fauna
 

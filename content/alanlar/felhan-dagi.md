@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Felhan Dağı, Sivas'ın coğrafi zengin
 
 Jeolojik açıdan bakıldığında, Felhan Dağı'nın fiziksel yapısı hakkında detaylı bilgi olmasa da, bölgenin coğrafi özellikleri dikkate alındığında, dağlık bir alan olduğunu söyleme mümkün. Bu dağlık alan, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor. Felhan Dağı'nın yüksekliği hakkında da net bir bilgi olmasa da, bölgenin genel coğrafi yapısına bakıldığında, Eiffel Kulesi'nin yaklaşık 2-3 katı yükseklikte bir alan olabileceği düşünülüyor.
 
-Mevsimsel açıdan bakıldığında, Felhan Dağı'nın iklim karakteri, Sivas'ın genel iklim koşullarına benzer. Bölge, karasal iklimin hüküm sürdüğü bir alanda yer alıyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakim. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor.
+Mevsimsel açıdan bakıldığında, Felhan Dağı'nın iklim karakteri, Sivas'ın genel iklim koşullarına benzer. Bölge, karasal iklimin hüküm sürdüğü bir alanda yer alıyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakim. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor.
 
 Çevresel açıdan bakıldığında, Felhan Dağı, komşu alanlar ve su kaynakları ile önemli bir ekosistem bağlantısına sahip. Bölge, yakın çevresindeki diğer dağlık alanlar ile birlikte, bir çeşitlilik merkezi oluşturuyor. Ayrıca, bölgedeki su kaynakları, yerel ekosistemin devamı için önemli bir rol oynuyor. Monaco'nun yarısı kadar bir alanı kaplayan bu dağlık alan, bölgenin doğal güzelliklerini koruma altına almak için önemli bir kaynak olarak görülüyor.
 

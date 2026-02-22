@@ -36,7 +36,7 @@ Güneşköy Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve b�
 
 ## Coğrafya
 
-Güneşköy Tepesi, Karadeniz Bölgesi'nin coğrafi olarak en ilgi çekici noktalarından biri. Tepenin konumu, ziyaretçilere Karadeniz'in muhteşem manzarasını sunuyor ve bu bölgede çeşitli coğrafi oluşumlar bulunuyor. Tepenin etrafında ormanlar, vadiler ve nehirler yer alıyor ve bu coğrafi çeşitlilik, bölgenin ekolojisini zenginleştiriyor. Güneşköy Tepesi, Karadeniz Bölgesi'nin iklimine uygun olarak, yazları serin ve nemli, kışları ise soğu ve yağışlı bir hava koşullarına sahip. Bu coğrafi ve iklimsel özellikler, tepenin doğal güzelliğini daha da artırıyor ve ziyaretçilere benzersiz bir deneyim sunuyor.
+Güneşköy Tepesi, Karadeniz Bölgesi'nin coğrafi olarak en ilgi çekici noktalarından biri. Tepenin konumu, ziyaretçilere Karadeniz'in muhteşem manzarasını sunuyor ve bu bölgede çeşitli coğrafi oluşumlar bulunuyor. Tepenin etrafında ormanlar, vadiler ve nehirler yer alıyor ve bu coğrafi çeşitlilik, bölgenin ekolojisini zenginleştiriyor. Güneşköy Tepesi, Karadeniz Bölgesi'nin iklimine uygun olarak, yazları serin ve nemli, kışları ise soğuk ve yağışlı bir hava koşullarına sahip. Bu coğrafi ve iklimsel özellikler, tepenin doğal güzelliğini daha da artırıyor ve ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

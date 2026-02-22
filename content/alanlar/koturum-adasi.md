@@ -44,7 +44,7 @@ Denizlerin sakin suları arasında gizli bir hazine olarak duran Kötürüm Adas
 
 Doğal güzelliği ile dikkat çeken Kötürüm Adası, jeolojik açıdan interessant bir yapıya sahip. Ada, bir olimpik havuz kadar büyük bir alana yayılıyor ve çevresindeki su kaynakları ile birlikte bir bütün teşkil ediyor. Jeolojik oluşumu itibariyle, ada çevresindeki su kaynakları ile bağlantılı ve bu bağlantılar, adanın ekosistemini zenginleştiriyor.
 
-Mevsimsel değişikliklere göre iklim karakteri değişen Kötürüm Adası, yaz aylarında sıca ve güneşli, kış aylarında ise serin ve yağmurlu bir hava durumu sunuyor. Ada, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alana sahip ve bu büyüklük, adanın iklim karakterini etkiliyor. Çevresindeki su kaynakları ve iklim koşulları, adanın doğal güzelliğini zenginleştiren unsurlar arasında yer alıyor.
+Mevsimsel değişikliklere göre iklim karakteri değişen Kötürüm Adası, yaz aylarında sıcak ve güneşli, kış aylarında ise serin ve yağmurlu bir hava durumu sunuyor. Ada, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alana sahip ve bu büyüklük, adanın iklim karakterini etkiliyor. Çevresindeki su kaynakları ve iklim koşulları, adanın doğal güzelliğini zenginleştiren unsurlar arasında yer alıyor.
 
 Çevresel açıdan önemli bir role sahip olan Kötürüm Adası, Monaco'nun küçük bir bölümü kadar büyük bir alana yayılıyor. Ada, komşu alanlar ve su kaynakları ile bağlantılı ve bu bağlantılar, adanın ekosistemini destekleyen unsurlar arasında yer alıyor. Ada, doğal güzelliği ve çevresel önemlilik açısından dikkat çeken bir destinasyon olarak, ziyaretçilerini bekliyor.
 

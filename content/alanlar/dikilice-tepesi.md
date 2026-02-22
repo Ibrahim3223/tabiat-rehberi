@@ -36,7 +36,7 @@ Dikilice Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetler
 
 ## Coğrafya
 
-Dikilice Tepesi, Marmara Bölgesi'nin coğrafi yapısını yansıtan bir tepe. Bu tepe, bölgenin en yüksek noktalarından biri olarak kabul ediliyor. Tepenin zirvesi, yaklaşık yüksek bir konumdate bulunuyor ve bu yükseklik, ziyaretçilere muhteşem bir manzara sunuyor. Dikilice Tepesi'nin etekleri, yemyeşil ormanlarla kaplı ve bu ormanlar, bölgenin florası ve faunası açısından önemli bir rol oynuyor. Tepenin çevresinde, çeşitli akarsular ve dereler bulunuyor ve bu su kaynakları, bölgenin ekolojik dengesini koruyor. Dikilice Tepesi, aynı zamanda bölgenin iklimini de etkiliyor. Tepenin yüksekliği, bölgede farklı iklim tiplerinin oluşmasına neden oluyor ve bu da, bölgenin bitki örtüsünü ve fauna çeşitliliğini zenginleştiriyor.
+Dikilice Tepesi, Marmara Bölgesi'nin coğrafi yapısını yansıtan bir tepe. Bu tepe, bölgenin en yüksek noktalarından biri olarak kabul ediliyor. Tepenin zirvesi, yüksek bir konumda bulunuyor ve bu yükseklik, ziyaretçilere muhteşem bir manzara sunuyor. Dikilice Tepesi'nin etekleri, yemyeşil ormanlarla kaplı ve bu ormanlar, bölgenin florası ve faunası açısından önemli bir rol oynuyor. Tepenin çevresinde, çeşitli akarsular ve dereler bulunuyor ve bu su kaynakları, bölgenin ekolojik dengesini koruyor. Dikilice Tepesi, aynı zamanda bölgenin iklimini de etkiliyor. Tepenin yüksekliği, bölgede farklı iklim tiplerinin oluşmasına neden oluyor ve bu da, bölgenin bitki örtüsünü ve fauna çeşitliliğini zenginleştiriyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Dikilice Tepesi'ni ziyaret etmek, bölgenin doğal güzelliğini ve tarihi önem
 ## İlginç Bilgiler
 
 - Dikilice Tepesi, yaklaşık 200 futbol sahası büyüklüğünde
-- Tepenin zirvesi, yaklaşık yüksek bir konumdate
+- Tepenin zirvesi, yüksek bir konumda
 - Bölgede, çeşitli akarsular ve dereler bulunuyor
 - Dikilice Tepesi, zengin bir flora ve fauna çeşitliliğine sahip
 - Tepenin eteklerinde, tarihi kalıntılar ve arkeolojik kazılar bulunuyor

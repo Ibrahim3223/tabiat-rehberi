@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin en yüksek noktalarından biri olan Güller Dağı, 3
 
 Jeolojik açıdan bakıldığında, Güller Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, genel olarak bölgenin coğrafyası dağlık ve engebeli bir yapıya sahiptir. Bu dağ, Taksim Meydanı'nın yaklaşık 20 katı büyüklüğünde bir alanı kaplamaktadır. Güller Dağı'nın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte gibi düşünülerek, bölgenin coğrafi yapısına bir perspektif kazandırılabilir.
 
-Mevsimsel açıdan bakıldığında, Güller Dağı'nın iklim karakteri Doğu Anadolu Bölgesi'nin genel iklimine benzemektedir. Bölge, kış aylarında soğu ve kar yağışlı, yaz aylarında ise serin ve yağışlı bir iklim özelliği göstermektedir. Hava durumu, mevsime bağlı olarak değişkenlik göstermektedir ve bölgenin coğrafi yapısı, iklim karakterini önemli ölçüde etkilemektedir.
+Mevsimsel açıdan bakıldığında, Güller Dağı'nın iklim karakteri Doğu Anadolu Bölgesi'nin genel iklimine benzemektedir. Bölge, kış aylarında soğuk ve kar yağışlı, yaz aylarında ise serin ve yağışlı bir iklim özelliği göstermektedir. Hava durumu, mevsime bağlı olarak değişkenlik göstermektedir ve bölgenin coğrafi yapısı, iklim karakterini önemli ölçüde etkilemektedir.
 
 Çevresel açıdan bakıldığında, Güller Dağı, komşu alanlar ve su kaynakları ile önemli bir ekosistem bağlantısına sahiptir. Monaco'nun yaklaşık %0.5'ine denk gelen bu dağ, bölgenin su kaynakları ve ekosistemleri için önemli bir rol oynamaktadır. Güller Dağı, çevresindeki coğrafya ile birlikte, bir bütün olarak düşünülmesi gereken önemli bir doğal alandır.
 

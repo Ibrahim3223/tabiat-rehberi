@@ -47,7 +47,7 @@ Doğal güzelliği ile ön plana çıkan Çatal Ada, çevresindeki su kaynaklar�
 
 Jeolojik açıdan incelendiğinde, Çatal Ada'nın fiziksel yapısı, Ege Bölgesi'nin genel jeolojik özelliklerini taşır. Ada, çoğunlukla kireç taşı ve volkanik kayalardan oluşmaktadır. Bu jeolojik yapı, adanın şeklini ve boyutlarını etkilemiştir. Çatal Ada, Ege Denizi'nin diğer adaları gibi, birçoğu birkaç olimpik havuz kadar küçük olan alanlardan oluşmaktadır.
 
-İklim açısından bakıldığında, Çatal Ada, Akdeniz ikliminin karakteristik özelliklerini gösterir. Ada, yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir hava durumuna sahiptir. Bu mevsimsel özellikler, adanın florası ve faunasını etkilemekte olup, ada ve çevresindeki ekosistemin dengesini sağlar.
+İklim açısından bakıldığında, Çatal Ada, Akdeniz ikliminin karakteristik özelliklerini gösterir. Ada, yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava durumuna sahiptir. Bu mevsimsel özellikler, adanın florası ve faunasını etkilemekte olup, ada ve çevresindeki ekosistemin dengesini sağlar.
 
 ## Flora ve Fauna
 

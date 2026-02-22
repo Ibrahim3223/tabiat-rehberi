@@ -38,11 +38,11 @@ Gavur Hamamı'nın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetleri
 
 ## Coğrafya
 
-Gavur Hamamı, Ege Bölgesi'nin Manisa ilinin Turgutlu ilçesinde yer alıyor. Bu bölge, coğrafi olarak dağlık ve engebeli bir araziye sahip. Plajın etrafı, çeşitli bitki türleri ile çevrilidir ve ziyaretçilere doğal bir ortam sunar. İklim, genel olarak Akdeniz iklimi özellikleri göstermektedir ve yaz aylarında sıca ve kurak, kış aylarında ılık ve yağışlı passing. Bu coğrafi özellikler, Gavur Hamamı'nı doğa severler için ideal bir destinasyon haline getiriyor. Ayrıca, plajın yakınında bulunan diğer doğal güzellikler, ziyaretçilerin keşfetmeleri için geniş bir alan sunuyor.
+Gavur Hamamı, Ege Bölgesi'nin Manisa ilinin Turgutlu ilçesinde yer alıyor. Bu bölge, coğrafi olarak dağlık ve engebeli bir araziye sahip. Plajın etrafı, çeşitli bitki türleri ile çevrilidir ve ziyaretçilere doğal bir ortam sunar. İklim, genel olarak Akdeniz iklimi özellikleri göstermektedir ve yaz aylarında sıcak ve kurak, kış aylarında ılık ve yağışlı passing. Bu coğrafi özellikler, Gavur Hamamı'nı doğa severler için ideal bir destinasyon haline getiriyor. Ayrıca, plajın yakınında bulunan diğer doğal güzellikler, ziyaretçilerin keşfetmeleri için geniş bir alan sunuyor.
 
 ## Flora ve Fauna
 
-Gavur Hamamı, zengin bir flora ve fauna çeşitliliğine sahip. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Mevsimsel değişimler, bu bölgenin doğal güzelliğini etkiliyor ve her mevsim, ziyaretçilere farklı bir deneyim sunuyor. İlkbahar ve sonbahar aylarında, doğa daha yeşil ve canlı olurken, yaz aylarında sıca ve kurak bir hava hüküm sürüyor. Kış aylarında ise, ılık ve yağışlı bir hava, bu bölgenin güzelliğini farklı bir şekilde gösteriyor.
+Gavur Hamamı, zengin bir flora ve fauna çeşitliliğine sahip. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Mevsimsel değişimler, bu bölgenin doğal güzelliğini etkiliyor ve her mevsim, ziyaretçilere farklı bir deneyim sunuyor. İlkbahar ve sonbahar aylarında, doğa daha yeşil ve canlı olurken, yaz aylarında sıcak ve kurak bir hava hüküm sürüyor. Kış aylarında ise, ılık ve yağışlı bir hava, bu bölgenin güzelliğini farklı bir şekilde gösteriyor.
 
 ## Ziyaret Bilgileri
 

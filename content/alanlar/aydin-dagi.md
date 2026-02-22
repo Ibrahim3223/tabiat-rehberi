@@ -53,7 +53,7 @@ Aydın Dağı'nın çevresinde bulunan su kaynakları, bölgenin ekosistemini de
 
 Aydın Dağı, Hakkari'de yer alan bir dağ ekosistemi olarak, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna zenginliğine sahiptir. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle kaplanır, özellikle alpin çayırların hakim olduğu bölgelerde çeşitli bitki türleri görülür. Sonbaharda ise, göç eden kuşlar dağların üzerinde oluşmuş bulutları aşarak geçerler.
 
-Dağların yüksek bölgelerinde, memeliler arasında kurt, çakal ve ayı gibi türler bulunur. Kuşlar arasında ise, kartallar, doğanlar ve keklikler gibi türler dağların kayalık yüzeylerinde yuvalanırlar. Sürüngenler arasında, yılanlar ve kertenkeleler gibi türler, dağların sıca ve kuru bölgelerinde yaşarlar.
+Dağların yüksek bölgelerinde, memeliler arasında kurt, çakal ve ayı gibi türler bulunur. Kuşlar arasında ise, kartallar, doğanlar ve keklikler gibi türler dağların kayalık yüzeylerinde yuvalanırlar. Sürüngenler arasında, yılanlar ve kertenkeleler gibi türler, dağların sıcak ve kuru bölgelerinde yaşarlar.
 
 Aydın Dağı, endemik türlerin varlığı nedeniyle ekolojik açıdan önemlidir. Dağın yükseklik zonlarına bağlı olarak değişen flora ve fauna, bu bölgenin korunmasının gerekli olduğunu gösterir. Bu dağ ekosisteminin korunması, sadece bölgesel değil, ulusal düzeyde de önemlidir.
 

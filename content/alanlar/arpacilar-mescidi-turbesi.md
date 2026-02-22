@@ -37,7 +37,7 @@ Arpacılar Mescidi Türbesi'nin tarihi geçmişi, İstanbul'un fethine kadar uza
 
 ## Coğrafya
 
-Arpacılar Mescidi Türbesi, Fatih ilçesinin merkezi bir alanında bulunur. Bu bölge, tarihi yarımadanın kalbinde yer alır ve çevresi önemli tarihi mekanlarla çevrilidir. Mekan, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır ve çevresindeki tepelerle birlikte bir bütün olarak düşünülebilir. İklim olarak, Marmara Bölgesi'nin ılıman iklimine sahiptir ve dört mevsim ziyaret edilebilir. Çevre, tarihi yapılar ve yeşil alanlarla dolu olup, ziyaretçilererich bir görsel deneyim sunar. Arpacılar Mescidi Türbesi'nin coğrafi konumu, ziyaretçilerin diğer tarihi mekanlara da kolayca ulaşmasını sağlar.
+Arpacılar Mescidi Türbesi, Fatih ilçesinin merkezi bir alanında bulunur. Bu bölge, tarihi yarımadanın kalbinde yer alır ve çevresi önemli tarihi mekanlarla çevrilidir. Mekan, yüksek bir konumda yer alır ve çevresindeki tepelerle birlikte bir bütün olarak düşünülebilir. İklim olarak, Marmara Bölgesi'nin ılıman iklimine sahiptir ve dört mevsim ziyaret edilebilir. Çevre, tarihi yapılar ve yeşil alanlarla dolu olup, ziyaretçilererich bir görsel deneyim sunar. Arpacılar Mescidi Türbesi'nin coğrafi konumu, ziyaretçilerin diğer tarihi mekanlara da kolayca ulaşmasını sağlar.
 
 ## Flora ve Fauna
 

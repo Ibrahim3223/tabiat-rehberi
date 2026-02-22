@@ -37,7 +37,7 @@ Sekibaşı Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bö
 
 ## Coğrafya
 
-Sekibaşı Hamamı, Muğla'nın Menteşe ilçesinde yer alır ve Ege Bölgesi'nin en güzel plajlarından biridir. Bu bölge, 140 hektarlık bir yeşil alan üzerine kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğündedir. Sekibaşı Hamamı, deniz, kum ve güneşin bir araya geldiği mükemmel bir doğa harikasıdır. Bu bölgenin coğrafi yapısı, ziyaretçilerine çeşitli doğa aktiviteleri sunar. Sekibaşı Hamamı'nın iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine sahiptir. Yaz ayları sıca ve kurak, kış ayları ılık ve yağışlı geçer. Bu bölgenin coğrafi konumu, ziyaretçilerine birçok gezme ve görme fırsatı sunar.
+Sekibaşı Hamamı, Muğla'nın Menteşe ilçesinde yer alır ve Ege Bölgesi'nin en güzel plajlarından biridir. Bu bölge, 140 hektarlık bir yeşil alan üzerine kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğündedir. Sekibaşı Hamamı, deniz, kum ve güneşin bir araya geldiği mükemmel bir doğa harikasıdır. Bu bölgenin coğrafi yapısı, ziyaretçilerine çeşitli doğa aktiviteleri sunar. Sekibaşı Hamamı'nın iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine sahiptir. Yaz ayları sıcak ve kurak, kış ayları ılık ve yağışlı geçer. Bu bölgenin coğrafi konumu, ziyaretçilerine birçok gezme ve görme fırsatı sunar.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ Münzevi Kardeşler Türbesi, tarihi geçmişi ile dikkat çeker. Bu bölge, yü
 
 ## Coğrafya
 
-Münzevi Kardeşler Türbesi, Eyüpsultan ilçesinde, Marmara Bölgesi'nin güzel bir köşesinde yer alır. Bu bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Türbe ve çevresinin coğrafyası, deniz seviyesinden yüksek bir bölgede yer alır. Bölge, yeşilliklerle çevrili ve deniz manzarasına sahiptir. Marmara Denizi'nin güzel plajlarından biri olan Münzevi Kardeşler Türbesi, deniz severler için ideal bir destinasyondur. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine benzer ve dört mevsim yaşanır. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıcak ve güneşli bir hava hakimdir. Çevre, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
+Münzevi Kardeşler Türbesi, Eyüpsultan ilçesinde, Marmara Bölgesi'nin güzel bir köşesinde yer alır. Bu bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Türbe ve çevresinin coğrafyası, deniz seviyesinden yüksek bir bölgede yer alır. Bölge, yeşilliklerle çevrili ve deniz manzarasına sahiptir. Marmara Denizi'nin güzel plajlarından biri olan Münzevi Kardeşler Türbesi, deniz severler için ideal bir destinasyondur. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine benzer ve dört mevsim yaşanır. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve güneşli bir hava hakimdir. Çevre, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
 
 ## Flora ve Fauna
 

@@ -40,7 +40,7 @@ Hanoşki Tepesi, Mardin'in coğrafi yapısı ile dikkat çeken bir bölgedir. Bu
 
 ## Flora ve Fauna
 
-Hanoşki Tepesi, flora ve fauna açısından zengin bir bölgedir. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu tepe, Mardin'in doğal güzellikleri hakkında bilgi edinmek isteyenler için önemli bir destinasyondur. Hanoşki Tepesi, mevsimsel değişimlere göre farklı bir görünüm sergilemektedir. İlkbahar ve yaz aylarında, burası yeşillenmekte ve çiçeklerle dolmaktadır. Sonbahar ve kış aylarında ise, burası soğu ve karlı bir hava almaktadır. Hanoşki Tepesi, flora ve fauna açısından zengin bir bölge olmasının yanı sıra, Mardin'in doğal güzellikleri hakkında bilgi edinmek isteyenler için de önemli bir destinasyondur.
+Hanoşki Tepesi, flora ve fauna açısından zengin bir bölgedir. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu tepe, Mardin'in doğal güzellikleri hakkında bilgi edinmek isteyenler için önemli bir destinasyondur. Hanoşki Tepesi, mevsimsel değişimlere göre farklı bir görünüm sergilemektedir. İlkbahar ve yaz aylarında, burası yeşillenmekte ve çiçeklerle dolmaktadır. Sonbahar ve kış aylarında ise, burası soğuk ve karlı bir hava almaktadır. Hanoşki Tepesi, flora ve fauna açısından zengin bir bölge olmasının yanı sıra, Mardin'in doğal güzellikleri hakkında bilgi edinmek isteyenler için de önemli bir destinasyondur.
 
 ## Ziyaret Bilgileri
 

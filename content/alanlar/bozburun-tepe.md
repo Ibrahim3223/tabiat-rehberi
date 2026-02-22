@@ -44,7 +44,7 @@ Bozburun Tepe, Antalya'nın dağlık bölgesinde, 36.6275°K ve 29.6908°D koord
 
 Jeolojik açıdan bakıldığında, Bozburun Tepe'nin fiziksel yapısı hakkında detaylı bilgi bulunmasa da, Antalya bölgesinin genel jeolojik özellikleri düşünüldüğünde, bu bölgenin karmaşık bir yapıya sahip olduğu söylenebilir. Bu dağ, etrafındaki diğer coğrafi oluşumlarla birlikte, Beşiktaş ilçesi kadar bir alanı kaplayacak büyüklüktedir.
 
-İklim açısından, Bozburun Tepe ve çevresinin karakteri, Akdeniz ikliminin özellikleri gösterir. Bu bölgede, yaz aylarında sıca ve kuru, kış aylarında ise ılık ve yağışlı bir hava hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler.
+İklim açısından, Bozburun Tepe ve çevresinin karakteri, Akdeniz ikliminin özellikleri gösterir. Bu bölgede, yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı bir hava hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler.
 
 Doğal bir koridor olarak düşünüldüğünde, Bozburun Tepe ve çevresindeki dağlar, su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahiptir. Bu bölgenin kuzeyinde bulunan diğer dağlar ve vadilerle birlikte, Monaco'nun yarısı kadar bir alanı kaplayacak büyüklüktedir ve bu bölge, çevresindeki diğer coğrafi oluşumlarla birlikte, bir bütün olarak düşünüldüğünde, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplar.
 

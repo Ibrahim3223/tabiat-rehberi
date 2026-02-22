@@ -44,7 +44,7 @@ Güneybatı Anadolu'nun en güzel köşelerinden biri olan Yağlıdağar Dağı,
 
 Jeolojik açıdan bakıldığında, Yağlıdağar Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, Muğla ilinin genel jeolojik yapısını dikkate aldığımızda, bu bölgenin genellikle kireç taşı ve dolomit gibi kayaçlardan oluştuğunu söyleyebiliriz. Bu dağ, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplar ve çevredeki coğrafyanın önemli bir parçasını oluşturur.
 
-Mevsimsel değişimlere göre, Yağlıdağar Dağı'nın iklim karakteri, Akdeniz ikliminin etkilerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürer. Bu bölgede, yıllık ortalama yağış miktarı khoảng 600-800 mm arasında değişir ve bu durum, bölgenin flora ve fauna çeşitliliğini etkiler.
+Mevsimsel değişimlere göre, Yağlıdağar Dağı'nın iklim karakteri, Akdeniz ikliminin etkilerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürer. Bu bölgede, yıllık ortalama yağış miktarı khoảng 600-800 mm arasında değişir ve bu durum, bölgenin flora ve fauna çeşitliliğini etkiler.
 
 Doğal bir koridor olarak işlev gören Yağlıdağar Dağı, komşu alanlar ve su kaynakları ile önemli bir ekosistem bağlantısını sağlar. Bu dağ, Marmaris Körfezi'ne dökülen akarsuların kaynaklarını barındırır vethus, su döngüsünün önemli bir parçası olarak görev yapar. Bu bölgede, yerli bitki türleri ve hayvanlar, dağların sunduğu çeşitlilikte yaşamaya devam ederler.
 

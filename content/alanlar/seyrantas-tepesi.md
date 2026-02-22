@@ -36,7 +36,7 @@ Seyrantaş Tepesi, tarihin derinliklerine uzanan bir geçmişe sahip. Bu tepenin
 
 ## Coğrafya
 
-Seyrantaş Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını yansıtıyor. Tepenin yüksekliği, ziyaretçilere geniş bir manzara sunuyor. Tepenin eteklerinde yer alan köyler, geleneksel mimari örnekleri sergiliyor. Bu bölgenin iklimi, karasal iklim özellikleri gösteriyor. Kışları soğu ve karlı, yazları ise serin ve yağışlı geçiyor. Seyrantaş Tepesi, doğa severlerin ilgisini çekiyor. Tepenin etrafında yer alan ormanlar, çeşitli bitki türlerine ev sahipliği yapıyor. Bu bölgenin coğrafi yapısı, ziyaretçilere geniş bir gezi alanı sunuyor.
+Seyrantaş Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını yansıtıyor. Tepenin yüksekliği, ziyaretçilere geniş bir manzara sunuyor. Tepenin eteklerinde yer alan köyler, geleneksel mimari örnekleri sergiliyor. Bu bölgenin iklimi, karasal iklim özellikleri gösteriyor. Kışları soğuk ve karlı, yazları ise serin ve yağışlı geçiyor. Seyrantaş Tepesi, doğa severlerin ilgisini çekiyor. Tepenin etrafında yer alan ormanlar, çeşitli bitki türlerine ev sahipliği yapıyor. Bu bölgenin coğrafi yapısı, ziyaretçilere geniş bir gezi alanı sunuyor.
 
 ## Flora ve Fauna
 

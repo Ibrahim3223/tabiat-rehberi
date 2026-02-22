@@ -40,7 +40,7 @@ Kızılkuyu Dağı, Ege Bölgesi'nde Afyonkarahisar ilinin bir parçası olarak 
 
 ## Flora ve Fauna
 
-Kızılkuyu Dağı, flora ve fauna açısından zengin bir alandır. Dağın etrafında çeşitli bitki türleri bulunur ve bu bitkiler, bölgenin ekolojik dengesini sağlar. Kızılkuyu Dağı, aynı zamanda fauna açısından da önemli bir alandır. Dağın etrafında çeşitli hayvan türleri bulunur ve bu hayvanlar, bölgenin doğal yapısını oluşturur. Dağın flora ve faunası, mevsimsel değişimlere göre farklılık gösterir. Kışı soğu ve yağışlı, yazları ise sıcak ve kurak olan bölgenin iklimi, flora ve faunanın çeşitliliğini etkiler. Kızılkuyu Dağı, ziyaretçilere doğayla iç içe olabilme fırsatı sunar ve bölgenin ekolojik yapısını keşfetmek için ideal bir noktadır.
+Kızılkuyu Dağı, flora ve fauna açısından zengin bir alandır. Dağın etrafında çeşitli bitki türleri bulunur ve bu bitkiler, bölgenin ekolojik dengesini sağlar. Kızılkuyu Dağı, aynı zamanda fauna açısından da önemli bir alandır. Dağın etrafında çeşitli hayvan türleri bulunur ve bu hayvanlar, bölgenin doğal yapısını oluşturur. Dağın flora ve faunası, mevsimsel değişimlere göre farklılık gösterir. Kışı soğuk ve yağışlı, yazları ise sıcak ve kurak olan bölgenin iklimi, flora ve faunanın çeşitliliğini etkiler. Kızılkuyu Dağı, ziyaretçilere doğayla iç içe olabilme fırsatı sunar ve bölgenin ekolojik yapısını keşfetmek için ideal bir noktadır.
 
 ## Ziyaret Bilgileri
 

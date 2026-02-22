@@ -36,7 +36,7 @@ Gökçe Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b�
 
 ## Coğrafya
 
-Gökçe Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerine sahip. Bu bölge, genellikle step ve ova gibi coğrafi oluşumlarla karakterize ediliyor. Gökçe Tepesi, çevresindeki dağlarla birlikte, bir bütün olarak düşünülüyor. Bu dağlar, bölgeye özel bir güzellik kazandırıyor. Gökçe Tepesi, aynı zamanda iklim bakımından çeşitlilik gösteriyor. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, bölgeye özgü flora ve faunayı etkiliyor. Gökçe Tepesi, çevresindeki nehir ve akarsularla birlikte, bir ekosistem olarak düşünülüyor.
+Gökçe Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerine sahip. Bu bölge, genellikle step ve ova gibi coğrafi oluşumlarla karakterize ediliyor. Gökçe Tepesi, çevresindeki dağlarla birlikte, bir bütün olarak düşünülüyor. Bu dağlar, bölgeye özel bir güzellik kazandırıyor. Gökçe Tepesi, aynı zamanda iklim bakımından çeşitlilik gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, bölgeye özgü flora ve faunayı etkiliyor. Gökçe Tepesi, çevresindeki nehir ve akarsularla birlikte, bir ekosistem olarak düşünülüyor.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Hıdırmenteş Gölü, 39.1790°K ve 43.
 
 Gölün fiziksel yapısı hakkında detaylı bilgiler olmasa da, bulunduğu bölgeye bakıldığında, Hıdırmenteş Gölü'nün bir vadi içerisinde yer aldığı söylenebilir. Bu vadi, muhtemelen bir nehrin veya su kaynağının uzun yıllar boyunca aşındırması sonucu oluşmuş olabilir. Gölün boyutları, Taksim Meydanı'nın birkaç katı büyüklüğünde, ancak Monaco'nun yarısı kadar büyük değil.
 
-Hava durumuna bakıldığında, Hıdırmenteş Gölü'nün bulunduğu bölge, karasal iklimin hakim olduğu bir alan. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürer. Bu mevsimsel değişiklikler, gölün su seviyesini ve çevredeki bitki örtüsünü etkileyebilir.
+Hava durumuna bakıldığında, Hıdırmenteş Gölü'nün bulunduğu bölge, karasal iklimin hakim olduğu bir alan. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürer. Bu mevsimsel değişiklikler, gölün su seviyesini ve çevredeki bitki örtüsünü etkileyebilir.
 
 Çevresel açıdan bakıldığında, Hıdırmenteş Gölü, komşu alanlardaki su kaynakları ve ekosistemlerle bağlantılı görünüyor. Göl, muhtemelen bir su kaynağının beslediği ve bir nehrin de boşaldığı bir sistem içerisinde yer alıyor. Bu bağlantı, gölün su kalitesi ve çevredeki canlı türleri için önemli bir rol oynayabilir. İstanbul'un Adalar ilçesi büyüklüğünde olmayan bu küçük göl, bölgenin ekolojik dengesini koruma açısından kritik bir noktada bulunuyor.
 

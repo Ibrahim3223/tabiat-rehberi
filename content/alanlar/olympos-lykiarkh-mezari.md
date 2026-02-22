@@ -37,7 +37,7 @@ Olympos Lykiarkh Mezarı, yüzyıllar boyunca önemli bir yerleşim yeri olan Ol
 
 ## Coğrafya
 
-Olympos Lykiarkh Mezarı, Antalya'nın Kumluca ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Bu bölge, dağların denize doğru uzandığı bir coğrafyada bulunuyor. Olympos, Toros Dağları'nın eteklerinde, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor. Bölge, zengin bitki örtüsü ile birlikte, çeşitli ağaç türlerine ev sahipliği yapıyor. Olympos'un iklimi, tipik Akdeniz iklimi özellikleri gösteriyor; yani yazları sıca ve kurak, kışları ılık ve yağışlı geçiyor. Bu coğrafi konum, Olympos Lykiarkh Mezarı'nı ziyaret edenler için benzersiz bir deneyim sunuyor.
+Olympos Lykiarkh Mezarı, Antalya'nın Kumluca ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Bu bölge, dağların denize doğru uzandığı bir coğrafyada bulunuyor. Olympos, Toros Dağları'nın eteklerinde, yüksek bir konumda yer alıyor. Bölge, zengin bitki örtüsü ile birlikte, çeşitli ağaç türlerine ev sahipliği yapıyor. Olympos'un iklimi, tipik Akdeniz iklimi özellikleri gösteriyor; yani yazları sıcak ve kurak, kışları ılık ve yağışlı geçiyor. Bu coğrafi konum, Olympos Lykiarkh Mezarı'nı ziyaret edenler için benzersiz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

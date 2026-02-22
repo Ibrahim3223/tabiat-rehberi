@@ -45,7 +45,7 @@ Boz Dağ, Muğla'nın doğal güzelliklerinin arasında yer alan bir dağ olarak
 
 Doğal güzelliği ile dikkat çeken Boz Dağ, yaklaşık olarak 1200 hektarlık bir alanı kaplıyor. Bu büyüklük, İstanbul'un Adalar ilçesi büyüklüğüne yakın bir alanı kapsıyor. Dağın fiziksel yapısı, dağlık bir araziye sahip ve jeolojik olarak kalker ve şist gibi kayalardan oluşuyor. Bu yapı, dağda çeşitli bitki türlerinin yetişmesine olanak sağlıyor.
 
-İklim açısından bakıldığında, Boz Dağ'ın bulunduğu bölge Akdeniz ikliminin hüküm sürdüğü bir alan olarak dikkat çekiyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumu hakim. Bu mevsimsel özellikler, dağda çeşitli bitki türlerinin yetişmesine olanak sağlıyor.
+İklim açısından bakıldığında, Boz Dağ'ın bulunduğu bölge Akdeniz ikliminin hüküm sürdüğü bir alan olarak dikkat çekiyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumu hakim. Bu mevsimsel özellikler, dağda çeşitli bitki türlerinin yetişmesine olanak sağlıyor.
 
 Dağın çevresel ilişkileri açısından bakıldığında, Boz Dağ'ın komşu alanlarla ve su kaynaklarıyla önemli bir bağlantıya sahip olduğu görülüyor. Dağın eteklerinde çeşitli akarsular ve göller bulunan Boz Dağ, bölgenin ekosistemini destekleyen önemli bir doğal kaynak olarak dikkat çekiyor. Ayrıca, dağda çeşitli bitki ve hayvan türleri de yaşamını sürdürüyor.
 

@@ -38,7 +38,7 @@ Hasan Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Hasan Dede Türbesi, Karadeniz Bölgesi'nin Düzce ilinin Çilimli ilçesinde yer alıyor. Bu bölge, coğrafi olarak Karadeniz'in güzel plajlarına ve yeşilliğe sahip. Hasan Dede Türbesi, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor ve bu yükseklik, ziyaretçilere geniş bir manzara sunuyor. Bölge, çeşitli bitki türleri ile kaplı ve bu bitki örtüsü, özellikle ilkbahar ve yaz aylarında ziyaretçilere renkli bir görünüm sunuyor. Hasan Dede Türbesi'nin coğrafi konumu, aynı zamanda bölgenin iklimini de etkiliyor. Karadeniz Bölgesi'nin karakteristik iklimi, bölgede yağışların sık görülmesine neden oluyor. Bu durum, bölgenin yeşilliğini ve doğal güzelliğini koruyor. Türbe ve plajın yakınında, çeşitli su kaynakları ve akarsular da bulunmakta. Bu su kaynakları, bölgenin doğal güzelliğini daha da artırıyor.
+Hasan Dede Türbesi, Karadeniz Bölgesi'nin Düzce ilinin Çilimli ilçesinde yer alıyor. Bu bölge, coğrafi olarak Karadeniz'in güzel plajlarına ve yeşilliğe sahip. Hasan Dede Türbesi, yüksek bir konumda yer alıyor ve bu yükseklik, ziyaretçilere geniş bir manzara sunuyor. Bölge, çeşitli bitki türleri ile kaplı ve bu bitki örtüsü, özellikle ilkbahar ve yaz aylarında ziyaretçilere renkli bir görünüm sunuyor. Hasan Dede Türbesi'nin coğrafi konumu, aynı zamanda bölgenin iklimini de etkiliyor. Karadeniz Bölgesi'nin karakteristik iklimi, bölgede yağışların sık görülmesine neden oluyor. Bu durum, bölgenin yeşilliğini ve doğal güzelliğini koruyor. Türbe ve plajın yakınında, çeşitli su kaynakları ve akarsular da bulunmakta. Bu su kaynakları, bölgenin doğal güzelliğini daha da artırıyor.
 
 ## Flora ve Fauna
 
@@ -53,5 +53,5 @@ Hasan Dede Türbesi ve plajına ziyaretçiler, özellikle yaz aylarında rağbet
 - Hasan Dede Türbesi, Düzce ilinin en önemli turizm merkezlerinden biri
 - Türbe, Osmanlı Dönemi'nde önemli bir merkez olarak biliniyordu
 - Bölge, çeşitli bitki ve hayvan türleri ile zengin bir flora ve fauna çeşitliliğine sahip
-- Hasan Dede Türbesi, denize yaklaşık yüksek bir konumdate yer alıyor
+- Hasan Dede Türbesi, denize yüksek bir konumda yer alıyor
 - Bölge, Karadeniz Bölgesi'nin karakteristik iklimine sahip

@@ -37,7 +37,7 @@ Magnesia Roma Hamamı, tarihin sâu sayfalarına ışık tutan bir geçmişe sah
 
 ## Coğrafya
 
-Magnesia Roma Hamamı, Ege Bölgesi'nin Germencik ilçesinde, Aydın'ın merkezine yakın bir konumda bulunmaktadır. Bu bölge, coğrafi olara verimli bir ovaya kurulmuş ve tarihi boyunca çeşitli medeniyetlerin yerleşim yeri olmuştur. Hamam, 140 hektarlık bir arazide, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Çevresinde, çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğayla iç içe bir deneyim sunmaktadır. İklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak, yazları sıca ve kurak, kışları ılıman ve yağışlıdır. Bu coğrafi konumu ve iklimi, bölgenin tarımsal faaliyetlere elverişli olmasını sağlamıştır. Magnesia Roma Hamamı ve çevresindeki arkeolojik siteler, ziyaretçilere hem tarihi bir gezi deneyimi hem de doğal güzellikleri sunmaktadır.
+Magnesia Roma Hamamı, Ege Bölgesi'nin Germencik ilçesinde, Aydın'ın merkezine yakın bir konumda bulunmaktadır. Bu bölge, coğrafi olara verimli bir ovaya kurulmuş ve tarihi boyunca çeşitli medeniyetlerin yerleşim yeri olmuştur. Hamam, 140 hektarlık bir arazide, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Çevresinde, çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğayla iç içe bir deneyim sunmaktadır. İklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak, yazları sıcak ve kurak, kışları ılıman ve yağışlıdır. Bu coğrafi konumu ve iklimi, bölgenin tarımsal faaliyetlere elverişli olmasını sağlamıştır. Magnesia Roma Hamamı ve çevresindeki arkeolojik siteler, ziyaretçilere hem tarihi bir gezi deneyimi hem de doğal güzellikleri sunmaktadır.
 
 ## Flora ve Fauna
 

@@ -38,7 +38,7 @@ Sagalassos Hamamı, antik Sagalassos kentinde yer alan ve tarihi geçmişiyla di
 
 ## Coğrafya
 
-Sagalassos Hamamı, Ağlasun ilçesi sınırları içinde yer alır ve Burdur'un doğal güzelliklerinin önemli bir bölümünü oluşturan bir bölgedir. Coğrafi konumu itibariyle, Akdeniz Bölgesi'nin karakteristik özellikleri bu bölgede de göze çarpmaktadır. İklim, tipik Akdeniz ikliminin özellikleri taşır; yazlar sıca ve kurak, kışlar ılık ve yağışlı geçer. Bu coğrafi ve iklimsel koşullar, bölgenin florası ve faunası üzerinde önemli bir etkiye sahiptir. Sagalassos Hamamı ve çevresinde, çeşitli bitki türleri ve zengin bir fauna bulunmaktadır.
+Sagalassos Hamamı, Ağlasun ilçesi sınırları içinde yer alır ve Burdur'un doğal güzelliklerinin önemli bir bölümünü oluşturan bir bölgedir. Coğrafi konumu itibariyle, Akdeniz Bölgesi'nin karakteristik özellikleri bu bölgede de göze çarpmaktadır. İklim, tipik Akdeniz ikliminin özellikleri taşır; yazlar sıcak ve kurak, kışlar ılık ve yağışlı geçer. Bu coğrafi ve iklimsel koşullar, bölgenin florası ve faunası üzerinde önemli bir etkiye sahiptir. Sagalassos Hamamı ve çevresinde, çeşitli bitki türleri ve zengin bir fauna bulunmaktadır.
 
 ## Flora ve Fauna
 

@@ -38,7 +38,7 @@ Ahlat Anonim Kümbet'in tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. 
 
 ## Coğrafya
 
-Ahlat Anonim Kümbet, Doğu Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir yapıdır. Bu bölge, dağlık ve engebeli bir araziye sahiptir. Ahlat Anonim Kümbet, bu coğrafi koşullar altında inşa edilmiştir. Yapının çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölge, iklim açısından karasal bir yapıya sahiptir ve mevsimsel değişimler belirgindir. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bu coğrafi ve iklimsel koşullar, Ahlat Anonim Kümbet'in mimari yapısını ve çevresindeki ekosistemi etkilemiştir. 140 hektarlık bu alan, doğa ve tarih arasında bir köprü oluşturuyor.
+Ahlat Anonim Kümbet, Doğu Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir yapıdır. Bu bölge, dağlık ve engebeli bir araziye sahiptir. Ahlat Anonim Kümbet, bu coğrafi koşullar altında inşa edilmiştir. Yapının çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölge, iklim açısından karasal bir yapıya sahiptir ve mevsimsel değişimler belirgindir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu coğrafi ve iklimsel koşullar, Ahlat Anonim Kümbet'in mimari yapısını ve çevresindeki ekosistemi etkilemiştir. 140 hektarlık bu alan, doğa ve tarih arasında bir köprü oluşturuyor.
 
 ## Flora ve Fauna
 

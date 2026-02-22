@@ -45,7 +45,7 @@ Tarihin sayfalarında spesifik bir kayıt olmasa da, "Ayrıca Dağı" gibi doğa
 
 Doğrudan fiziksel verileri olmasa da, "Ayrıca Dağı"nın bulunduğu coğrafi bölge, İzmir'in genel topoğrafyasını yansıtır. İzmir'in yüzey şekli, genellikle dağlık ve engebeli arazilerden oluşur. Bu dağlık bölge, bir şehir bloğu büyüklüğünde küçük alanlardan oluşabileceği gibi, daha geniş arazileri de kapsayabilir. Ancak "Ayrıca Dağı"nın boyutları hakkında net bir veri bulunmaması, coğrafi yapısını tam olarak tanımlamayı zorlaştırır.
 
-Yöre iklimi, Ege Bölgesi'nin genel karakteristiğini taşır. Bu bölge, Akdeniz ikliminin etkisi altında kalır. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir hava durumu hakimdir. "Ayrıca Dağı"nın iklimi de bu genel eğilimi takip eder. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olabilir, ancak bu sadece bir tahmindir.
+Yöre iklimi, Ege Bölgesi'nin genel karakteristiğini taşır. Bu bölge, Akdeniz ikliminin etkisi altında kalır. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava durumu hakimdir. "Ayrıca Dağı"nın iklimi de bu genel eğilimi takip eder. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olabilir, ancak bu sadece bir tahmindir.
 
 Çevresel açıdan bakıldığında, "Ayrıca Dağı"nın bulunduğu bölge, komşu ovalar ve vadilerle bağlantılıdır. Bu dağlık alan, su kaynaklarının oluşmasına ve ekosistemlerin gelişmesine katkıda bulunur. Monaco'nun yarısı kadar bir alanı kaplayan bu bölge, çevresindeki doğal yaşamı destekleyen önemli bir coğrafi unsur olarak görülebilir.
 

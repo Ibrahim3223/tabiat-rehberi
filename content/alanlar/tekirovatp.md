@@ -30,7 +30,7 @@ TEKİROVA_TP'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin 
 
 ## Coğrafya
 
-TEKİROVA_TP, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak kurulmuş bir milli parktır. Bu bölgede, geniş ovalar, yüksek dağlar ve güzel vadiler bulunmaktadır. TEKİROVA_TP, bu coğrafi özelliklere uygun olarak planlanmış ve ziyaretçilere geniş bir açık alan sunuyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin iklimine uygun olarak karasal bir iklimdir. Kışlar soğu ve karlı, yazlar ise sıcak ve kuru passing. TEKİROVA_TP, bu iklim koşullarına uygun olarak ziyaretçilere farklı mevsimlerde farklı deneyimler sunuyor. Bahar aylarında, milli parkın flora ve fauna çeşitliliği ziyaretçileri büyülüyor. Yaz aylarında, ziyaretçiler, gölün ve çevresinin güzelliğini keşfedebilirler. Kış aylarında, milli park, kaya ve snowboard gibi kış sporları için ideal bir yer olarak dikkat çekiyor.
+TEKİROVA_TP, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak kurulmuş bir milli parktır. Bu bölgede, geniş ovalar, yüksek dağlar ve güzel vadiler bulunmaktadır. TEKİROVA_TP, bu coğrafi özelliklere uygun olarak planlanmış ve ziyaretçilere geniş bir açık alan sunuyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin iklimine uygun olarak karasal bir iklimdir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuru passing. TEKİROVA_TP, bu iklim koşullarına uygun olarak ziyaretçilere farklı mevsimlerde farklı deneyimler sunuyor. Bahar aylarında, milli parkın flora ve fauna çeşitliliği ziyaretçileri büyülüyor. Yaz aylarında, ziyaretçiler, gölün ve çevresinin güzelliğini keşfedebilirler. Kış aylarında, milli park, kaya ve snowboard gibi kış sporları için ideal bir yer olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 28'in tarihi geçmişi, binlerce yıl öncesine dayanı
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 28, Ege Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Salihli-Manisa bölgesinde bulunan bu doğal ve tarihi güzellik, geniş bir alanı kapsıyor. Bölgenin coğrafyası, genellikle tepeli ve engebeli arazilerden oluşuyor. Bin Tepeler Tümülüsü 28, bu coğrafi yapının bir parçası olarak, ziyaretçilerine geniş bir manzara sunuyor. Ayrıca, tümülüslerin bulunduğu alan, Ege Bölgesi'nin tipik Akdeniz iklimine sahip. Bu iklim, yazları sıca ve kurak, kışları ılık ve yağışlı olarak karakterize ediliyor. Bin Tepeler Tümülüsü 28'in coğrafi konumu, ziyaretçilerine bölgeyi keşfetmek için ideal bir başlangıç noktası sunuyor.
+Bin Tepeler Tümülüsü 28, Ege Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Salihli-Manisa bölgesinde bulunan bu doğal ve tarihi güzellik, geniş bir alanı kapsıyor. Bölgenin coğrafyası, genellikle tepeli ve engebeli arazilerden oluşuyor. Bin Tepeler Tümülüsü 28, bu coğrafi yapının bir parçası olarak, ziyaretçilerine geniş bir manzara sunuyor. Ayrıca, tümülüslerin bulunduğu alan, Ege Bölgesi'nin tipik Akdeniz iklimine sahip. Bu iklim, yazları sıcak ve kurak, kışları ılık ve yağışlı olarak karakterize ediliyor. Bin Tepeler Tümülüsü 28'in coğrafi konumu, ziyaretçilerine bölgeyi keşfetmek için ideal bir başlangıç noktası sunuyor.
 
 ## Flora ve Fauna
 

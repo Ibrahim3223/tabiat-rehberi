@@ -45,7 +45,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Taşlıalan Dağı, Kahramanm
 
 Doğal bir kale gibi yükselen Taşlıalan Dağı, jeolojik olarak çeşitlilik gösteren bir bölgede yer alır. Dağın fiziksel yapısı, bölgenin jeolojik tarihini yansıtan farklı kayaçlar ve toprak tipleriyle karakterizedir. Ancak, fiziksel boyutları hakkında cụretilen bilgi eksikliği, bu doğal güzelliğin tam olarak anlaşılmasını engeller. Bu dağ, Taksim Meydanı'nın yaklaşık 20 katı büyüklüğünde bir alanı kaplasa da, tam olarak boyutlarını belirleme mümkün değildir.
 
-İklim açısından, Taşlıalan Dağı ve çevresindeki bölge, karasal iklimin özellikleri gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürer. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkiler. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bazı zirveler, bu iklim koşullarının etkilerini daha da artırır.
+İklim açısından, Taşlıalan Dağı ve çevresindeki bölge, karasal iklimin özellikleri gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürer. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkiler. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bazı zirveler, bu iklim koşullarının etkilerini daha da artırır.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları açısından, Taşlıalan Dağı önemli bir role sahiptir. Dağın eteklerinde ve çevresinde yer alan su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılar. Ayrıca, bu dağ, çeşitli bitki ve hayvan türleri için önemli bir yaşam alanı oluşturur. Monaco'nun yaklaşık yarısı büyüklüğünde bir alanı kaplayan bu dağ, bölgenin doğal dengesini korur ve çeşitliliği sağlar.
 

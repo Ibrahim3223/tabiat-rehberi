@@ -36,7 +36,7 @@ Kabırlibel Tepesi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmı�
 
 ## Coğrafya
 
-Kabırlibel Tepesi, Akdeniz Bölgesi'nin coğrafi olarak en önemli noktalarından birini oluşturuyor. 140 hektarlık alanı, çeşitli bitki türleri ile kaplı ve etrafında dağlar ile çevrili. Tepenin yüksekliği, bölgenin coğrafi yapısını etkileyen önemli bir faktör. İklimi, Akdeniz ikliminin característicasını taşıyor; yazları sıca ve kurak, kışları ılıman ve yağışlı. Bu coğrafi yapı, bölgenin flora ve faunasını da etkiliyor. Tepenin eteklerinde, su kaynakları ve akarsular bulunmakta, bu da bölgenin ekolojik dengesini koruyor.
+Kabırlibel Tepesi, Akdeniz Bölgesi'nin coğrafi olarak en önemli noktalarından birini oluşturuyor. 140 hektarlık alanı, çeşitli bitki türleri ile kaplı ve etrafında dağlar ile çevrili. Tepenin yüksekliği, bölgenin coğrafi yapısını etkileyen önemli bir faktör. İklimi, Akdeniz ikliminin característicasını taşıyor; yazları sıcak ve kurak, kışları ılıman ve yağışlı. Bu coğrafi yapı, bölgenin flora ve faunasını da etkiliyor. Tepenin eteklerinde, su kaynakları ve akarsular bulunmakta, bu da bölgenin ekolojik dengesini koruyor.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ wikidata_id: "Q48791829"
 
 ## Coğrafya
 
-İncekum Tabiat Parkı, Akdeniz Bölgesi'nde yer alan bir tabiat parkıdır. Bu park, 140 hektarlık geniş bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerine geniş bir yeşillik sunar. Parkın coğrafi konumu, ziyaretçilere çeşitli bitki türleriyle zenginleştirilmiş bir doğa sunar. Parkın iklimi, Akdeniz iklimi olup, ziyaretçilere yıl boyunca sıca ve güneşli bir hava sunar. Parkın çevresinde, çeşitli dağlar ve tepeler yer almakta olup, bu dağlar ve tepeler, parkın coğrafi özelliklerini zenginleştirmektedir. Parkın coğrafi konumu, ziyaretçilere doğayla iç içe olma fırsatı sunar.
+İncekum Tabiat Parkı, Akdeniz Bölgesi'nde yer alan bir tabiat parkıdır. Bu park, 140 hektarlık geniş bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerine geniş bir yeşillik sunar. Parkın coğrafi konumu, ziyaretçilere çeşitli bitki türleriyle zenginleştirilmiş bir doğa sunar. Parkın iklimi, Akdeniz iklimi olup, ziyaretçilere yıl boyunca sıcak ve güneşli bir hava sunar. Parkın çevresinde, çeşitli dağlar ve tepeler yer almakta olup, bu dağlar ve tepeler, parkın coğrafi özelliklerini zenginleştirmektedir. Parkın coğrafi konumu, ziyaretçilere doğayla iç içe olma fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ wikidata_id: "Q48791829"
 ## İlginç Bilgiler
 
 - Parkın coğrafi konumu, ziyaretçilere çeşitli bitki türleriyle zenginleştirilmiş bir doğa sunar.
-- Parkın iklimi, Akdeniz iklimi olup, ziyaretçilere yıl boyunca sıca ve güneşli bir hava sunar.
+- Parkın iklimi, Akdeniz iklimi olup, ziyaretçilere yıl boyunca sıcak ve güneşli bir hava sunar.
 - Parkın çevresinde, çeşitli dağlar ve tepeler yer almakta olup, bu dağlar ve tepeler, parkın coğrafi özelliklerini zenginleştirmektedir.
 - Parkta, çeşitli ağaç türleri, çalı türleri ve çiçek türleri yer almaktadır.
 - Parkın fauna özelliklerine baktığımızda, çeşitli hayvan türleri görülmektedir.

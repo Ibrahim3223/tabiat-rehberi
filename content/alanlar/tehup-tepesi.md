@@ -40,7 +40,7 @@ Tehup Tepesi, Mardin'in güneydoğusunda yer alan ve etwa 140 hektarlık bir ala
 
 ## Flora ve Fauna
 
-Tehup Tepesi, çeşitli bitki türleriyle kaplı bir alandır. Bu bitki türleri, bölgenin iklimini ve coğrafi yapısını etkileyen önemli faktörlerdir. Tehup Tepesi'nin etrafı, step ve ova gibi coğrafi oluşumlarla karakterizedir. Bu bölge, genellikle yazları sıca ve kurak, kışları soğu ve yağışlı bir iklime sahiptir. Tehup Tepesi'nin iklimi, bitki türlerinin çeşitliliğini etkileyen önemli bir faktördür. Bu tepe, ayrıca çeşitli hayvan türlerine de ev sahipliği yapmaktadır. Tehup Tepesi, yaban hayatının zengin olduğu bir bölge olup, çeşitli hayvan türleri bu bölgede yaşamlarını sürdürmektedir.
+Tehup Tepesi, çeşitli bitki türleriyle kaplı bir alandır. Bu bitki türleri, bölgenin iklimini ve coğrafi yapısını etkileyen önemli faktörlerdir. Tehup Tepesi'nin etrafı, step ve ova gibi coğrafi oluşumlarla karakterizedir. Bu bölge, genellikle yazları sıcak ve kurak, kışları soğuk ve yağışlı bir iklime sahiptir. Tehup Tepesi'nin iklimi, bitki türlerinin çeşitliliğini etkileyen önemli bir faktördür. Bu tepe, ayrıca çeşitli hayvan türlerine de ev sahipliği yapmaktadır. Tehup Tepesi, yaban hayatının zengin olduğu bir bölge olup, çeşitli hayvan türleri bu bölgede yaşamlarını sürdürmektedir.
 
 ## Ziyaret Bilgileri
 

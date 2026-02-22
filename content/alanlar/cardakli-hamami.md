@@ -37,7 +37,7 @@ Diyarbakır'ın merkezinde yer alan Çardaklı Hamamı, yaklaşık 140 hektarlı
 
 ## Coğrafya
 
-Çardaklı Hamamı, Diyarbakır'ın merkezinde yer alan bir bölgedir. Bu bölge, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi özellikleri ile örtüşen bir yapıya sahiptir. Çardaklı Hamamı'nın coğrafyası, geniş yeşil alanlar, çeşitli bitki türleri ve fauna ile karakterizedir. Bölgenin iklimi, genel olarak Güneydoğu Anadolu Bölgesi'nin iklimine benzerlik gösterir ve dört mevsim ayrımları belirgindir. Yaz ayları sıca ve kurak, kış ayları ise soğu ve yağışlı passedir. Bahar ve sonbahar mevsimleri ise ılıman ve yağışlı olarak geçer. Bu coğrafi özellikler, Çardaklı Hamamı'nı ziyaret etmek için ideal bir zaman olarak bahar ve sonbahar aylarını gösterir.
+Çardaklı Hamamı, Diyarbakır'ın merkezinde yer alan bir bölgedir. Bu bölge, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi özellikleri ile örtüşen bir yapıya sahiptir. Çardaklı Hamamı'nın coğrafyası, geniş yeşil alanlar, çeşitli bitki türleri ve fauna ile karakterizedir. Bölgenin iklimi, genel olarak Güneydoğu Anadolu Bölgesi'nin iklimine benzerlik gösterir ve dört mevsim ayrımları belirgindir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı pasiftir. Bahar ve sonbahar mevsimleri ise ılıman ve yağışlı olarak geçer. Bu coğrafi özellikler, Çardaklı Hamamı'nı ziyaret etmek için ideal bir zaman olarak bahar ve sonbahar aylarını gösterir.
 
 ## Flora ve Fauna
 

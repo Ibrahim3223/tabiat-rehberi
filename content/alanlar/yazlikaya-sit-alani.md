@@ -30,7 +30,7 @@ Yazlıkaya Sit Alanı, tarihi geçmişi ile dikkat çekiyor. Yüzyıllar boyunca
 
 ## Coğrafya
 
-Yazlıkaya Sit Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle step ve orman ekosistemlerinin birleştiği bir alandır. İklimi, karasal iklim özellikleri gösterir ve mevsimsel değişimler belirgindir. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bu coğrafi özellikler, bölgenin florası ve faunasını etkilemiştir. Alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Doğal güzelliği, ziyaretçilere unutulmaz bir deneyim sunmaktadır.
+Yazlıkaya Sit Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle step ve orman ekosistemlerinin birleştiği bir alandır. İklimi, karasal iklim özellikleri gösterir ve mevsimsel değişimler belirgindir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu coğrafi özellikler, bölgenin florası ve faunasını etkilemiştir. Alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Doğal güzelliği, ziyaretçilere unutulmaz bir deneyim sunmaktadır.
 
 ## Flora ve Fauna
 

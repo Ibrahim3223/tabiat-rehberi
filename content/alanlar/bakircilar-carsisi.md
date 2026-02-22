@@ -37,7 +37,7 @@ Bakırcılar Çarşısı'nın tarihi geçmişi, Diyarbakır'ın tarihiyle iç i�
 
 ## Coğrafya
 
-Bakırcılar Çarşısı, Diyarbakır'ın merkezinde yer alır ve şehrin önemli bir bölümünü kaplar. Çarşı, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bölge, tarihi yapılar ve el sanatları dükkanlarıyla dolu olup, ziyaretçilere Diyarbakır'ın kültürel zenginliğini göstermektedir. Çarşının coğrafi konumu, şehrin ticaret ve kültürel faaliyetlerinin merkezi olarak hizmet vermesini sağlamıştır. Diyarbakır'ın iklimi, çarşının faaliyetlerini etkilemektedir. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklim özellikleri gösterir. Bu iklim özellikleri, çarşıda bulunan ürünlerin çeşitliliğini etkiler.
+Bakırcılar Çarşısı, Diyarbakır'ın merkezinde yer alır ve şehrin önemli bir bölümünü kaplar. Çarşı, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bölge, tarihi yapılar ve el sanatları dükkanlarıyla dolu olup, ziyaretçilere Diyarbakır'ın kültürel zenginliğini göstermektedir. Çarşının coğrafi konumu, şehrin ticaret ve kültürel faaliyetlerinin merkezi olarak hizmet vermesini sağlamıştır. Diyarbakır'ın iklimi, çarşının faaliyetlerini etkilemektedir. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklim özellikleri gösterir. Bu iklim özellikleri, çarşıda bulunan ürünlerin çeşitliliğini etkiler.
 
 ## Flora ve Fauna
 

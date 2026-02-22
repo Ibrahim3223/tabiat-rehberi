@@ -37,7 +37,7 @@ Acısu Kaplıcası'nın tarihi geçmişi, yüzyıllar boyunca devam eden bir sa�
 
 ## Coğrafya
 
-Acısu Kaplıcası, Çankırı'nın coğrafi yapısı itibariyle de dikkat çekici bir konumda yer alıyor. İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyan bu bölge, geniş ova ve dağlık alanlardan oluşuyor. Kaplıca, bu coğrafi yapı içinde, doğanın içinde bir cennet olarak ziyaretçilerini karşılar. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahip. Yaz ayları sıca ve kurak, kış ayları soğu ve kar yağışlı geçer. Bu iklim, kaplıcanın sularının şifalı özelliklerini daha da artırıyor. Acısu Kaplıcası'nın etrafı, çeşitli bitki türleriyle kaplı ve zengin bir fauna çeşitliliği bulunuyor. Bu doğal güzellikler, ziyaretçilere hem sağlık hem de doğa güzelliği açısından unutulmaz bir deneyim sunuyor.
+Acısu Kaplıcası, Çankırı'nın coğrafi yapısı itibariyle de dikkat çekici bir konumda yer alıyor. İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyan bu bölge, geniş ova ve dağlık alanlardan oluşuyor. Kaplıca, bu coğrafi yapı içinde, doğanın içinde bir cennet olarak ziyaretçilerini karşılar. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahip. Yaz ayları sıcak ve kurak, kış ayları soğuk ve kar yağışlı geçer. Bu iklim, kaplıcanın sularının şifalı özelliklerini daha da artırıyor. Acısu Kaplıcası'nın etrafı, çeşitli bitki türleriyle kaplı ve zengin bir fauna çeşitliliği bulunuyor. Bu doğal güzellikler, ziyaretçilere hem sağlık hem de doğa güzelliği açısından unutulmaz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

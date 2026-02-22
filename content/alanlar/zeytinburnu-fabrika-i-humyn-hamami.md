@@ -37,7 +37,7 @@ Zeytinburnu Fabrika-i Hümâyûn Hamamı'nın tarihi geçmişi, Osmanlı İmpara
 
 ## Coğrafya
 
-Zeytinburnu Fabrika-i Hümâyûn Hamamı, Marmara Bölgesi'nde, İstanbul'un Zeytinburnu ilçesinde bulunmaktadır. Bu alan, deniz seviyesinden yaklaşık yüksek bir konumdate yer almaktadır. Alanda hakim olan iklim, karasal iklimdir ve yazlar sıcak, kışlar soğuk geçmektedir. Zeytinburnu Fabrika-i Hümâyûn Hamamı, çevre tarafından zengin bir flora ve fauna ile çevrilidir. Alanda çeşitli ağaç türleri ve çiçekler bulunmaktadır. Ayrıca, bu alanın yakınında, Marmara Denizi bulunmaktadır ve bu, alanı önemli bir turistik mekan haline getirmektedir. Zeytinburnu'nun merkezi bir konumunda bulunan bu alan, ulaşım açısından kolaylık sağlamaktadır.
+Zeytinburnu Fabrika-i Hümâyûn Hamamı, Marmara Bölgesi'nde, İstanbul'un Zeytinburnu ilçesinde bulunmaktadır. Bu alan, yüksek bir konumda yer almaktadır. Alanda hakim olan iklim, karasal iklimdir ve yazlar sıcak, kışlar soğuk geçmektedir. Zeytinburnu Fabrika-i Hümâyûn Hamamı, çevre tarafından zengin bir flora ve fauna ile çevrilidir. Alanda çeşitli ağaç türleri ve çiçekler bulunmaktadır. Ayrıca, bu alanın yakınında, Marmara Denizi bulunmaktadır ve bu, alanı önemli bir turistik mekan haline getirmektedir. Zeytinburnu'nun merkezi bir konumunda bulunan bu alan, ulaşım açısından kolaylık sağlamaktadır.
 
 ## Flora ve Fauna
 

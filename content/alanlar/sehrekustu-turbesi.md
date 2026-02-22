@@ -38,7 +38,7 @@ Afyonkarahisar ilinin merkezinde bulunan Şehreküstü Türbesi, şehrin tarihi 
 
 ## Coğrafya
 
-Şehreküstü Türbesi, Afyonkarahisar ilinin merkezinde yer alıyor ve Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak kabul ediliyor. Türbenin bulunduğu alan, 140 hektarlık bir genişliğe sahip ve yaklaşık 200 futbol sahası büyüklüğünde. Mekanın coğrafi konumu, ziyaretçilerine şehrin merkezi bölgelerine kolayca ulaşma imkanı tanıyor. Şehreküstü Türbesi'nin etrafı, tarihi binalar ve çeşitli kültürel mekanlarla çevrili ve ziyaretçilere zengin bir kültürel deneyim sunuyor. Mekanın iklimi, Ege Bölgesi'nin geral iklimine uygun olarak sıca ve kurak yazlar, ılıman ve yağışlı kışlar şeklinde tanımlanabilir. Bu coğrafi özellikler, ziyaretçilere yılın her dönemi ziyaret imkanı sunuyor.
+Şehreküstü Türbesi, Afyonkarahisar ilinin merkezinde yer alıyor ve Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak kabul ediliyor. Türbenin bulunduğu alan, 140 hektarlık bir genişliğe sahip ve yaklaşık 200 futbol sahası büyüklüğünde. Mekanın coğrafi konumu, ziyaretçilerine şehrin merkezi bölgelerine kolayca ulaşma imkanı tanıyor. Şehreküstü Türbesi'nin etrafı, tarihi binalar ve çeşitli kültürel mekanlarla çevrili ve ziyaretçilere zengin bir kültürel deneyim sunuyor. Mekanın iklimi, Ege Bölgesi'nin geral iklimine uygun olarak sıcak ve kurak yazlar, ılıman ve yağışlı kışlar şeklinde tanımlanabilir. Bu coğrafi özellikler, ziyaretçilere yılın her dönemi ziyaret imkanı sunuyor.
 
 ## Flora ve Fauna
 

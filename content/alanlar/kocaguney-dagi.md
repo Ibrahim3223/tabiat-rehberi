@@ -44,7 +44,7 @@ Genel olarak Eskişehir'in coğrafi yapısına baktığımızda, Kocagüney Dağ
 
 Doğal yapısı itibariyle Kocagüney Dağı, çevresindeki diğer coğrafi oluşumlar ile benzerlik gösteriyor. Jeolojik açıdan incelendiğinde, bölgeye hakim olan kayalık yapı ve topoğrafya, dağların oluşumunda önemli bir rol oynamış. Ancak, fiziksel boyutlar hakkında detaylı bilgi bulunmaması, bu dağ hakkında daha spesifik bir tanım yapmayı zorlaştırıyor.
 
-Mevsimsel olarak bakıldığında, Eskişehir'in genel iklim karakteri, Kocagüney Dağı'nın çevresini de etkiliyor. Karasal iklimin hakim olduğu bu bölgede, yazlar sıca ve kurak, kışlar ise soğu ve kar yağışlı geçiyor. Bu mevsimsel değişimler, dağdaki flora ve fauna için önemli bir faktör oluşturuyor.
+Mevsimsel olarak bakıldığında, Eskişehir'in genel iklim karakteri, Kocagüney Dağı'nın çevresini de etkiliyor. Karasal iklimin hakim olduğu bu bölgede, yazlar sıcak ve kurak, kışlar ise soğuk ve kar yağışlı geçiyor. Bu mevsimsel değişimler, dağdaki flora ve fauna için önemli bir faktör oluşturuyor.
 
 Çevresel açıdan bakıldığında, Kocagüney Dağı, Eskişehir'in doğal alanlarına katkıda bulunan önemli bir bileşen. Su kaynakları ve ekosistem bağlantıları açısından, dağ ve çevresindeki diğer coğrafi oluşumlar, bölgenin ekolojik dengesini korumasında önemli bir rol oynuyor. Ancak, daha detaylı bir analiz için, bölgedeki su kaynakları, bitki örtüsü ve hayvan çeşitliliği hakkında daha fazla bilgiye ihtiyaç duyuluyor.
 

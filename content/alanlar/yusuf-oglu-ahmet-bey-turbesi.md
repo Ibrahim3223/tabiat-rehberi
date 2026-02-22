@@ -37,7 +37,7 @@ Yusuf Oğlu Ahmet Bey Türbesi, tarihi geçmişiyle dikkat çekmektedir. Yüzyı
 
 ## Coğrafya
 
-Yusuf Oğlu Ahmet Bey Türbesi, Gölmarmara'nın güzel kıyı şeridinde yer almaktadır. Bu bölge, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşır ve ziyaretçilere güzel bir manzara sunar. Türbenin yakınında bulunan plaj, deniz ve güneşin tadını çıkarmak için ideal bir yerdir. Bölgenin iklimi, Ege Bölgesi'nin ılıman iklimine uygun olarak, yazları sıca ve kışları ılımandır. Çevre, doğa severler için çeşitli aktivitelere olanak sağlamakta ve ziyaretçilere geniş bir faaliyet yelpazesi sunmaktadır. 180 hektarlık bir çevreyi kapsayan bu bölge, yaklaşık 300 futbol sahası büyüklüğünde ve bu geniş alan, ziyaretçilere geniş bir actividad alanı tanımaktadır.
+Yusuf Oğlu Ahmet Bey Türbesi, Gölmarmara'nın güzel kıyı şeridinde yer almaktadır. Bu bölge, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşır ve ziyaretçilere güzel bir manzara sunar. Türbenin yakınında bulunan plaj, deniz ve güneşin tadını çıkarmak için ideal bir yerdir. Bölgenin iklimi, Ege Bölgesi'nin ılıman iklimine uygun olarak, yazları sıcak ve kışları ılımandır. Çevre, doğa severler için çeşitli aktivitelere olanak sağlamakta ve ziyaretçilere geniş bir faaliyet yelpazesi sunmaktadır. 180 hektarlık bir çevreyi kapsayan bu bölge, yaklaşık 300 futbol sahası büyüklüğünde ve bu geniş alan, ziyaretçilere geniş bir actividad alanı tanımaktadır.
 
 ## Flora ve Fauna
 

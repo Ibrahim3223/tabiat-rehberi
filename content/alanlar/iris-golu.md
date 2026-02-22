@@ -46,7 +46,7 @@ Doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Bu tür g
 
 Jeolojik açıdan bakıldığında, İris Gölü'nün fiziksel yapısı hakkında detaylı bilgi bulunmasa da, gölün bulunduğu bölgenin jeolojik özellikleri, Ege Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölgede, genellikle kalker ve şist gibi kayaçlar görülüyor. Gölün şekli ve boyutları, bu jeolojik yapı tarafından şekillendirilmiş gibi görünüyor.
 
-Mevsimsel açıdan, İris Gölü'nün bulunduğu bölgenin iklimi, Akdeniz ikliminin özelliklerini taşıyor. Yaz aylarında sıca ve kuru, kış aylarında ise ılık ve yağışlı bir hava hakim. Bu iklim karakteri, gölün su seviyesini ve çevresindeki bitki örtüsünü etkiliyor. Gölün su seviyesi, mevsimsel yağışlara bağlı olarak değişkenlik gösteriyor.
+Mevsimsel açıdan, İris Gölü'nün bulunduğu bölgenin iklimi, Akdeniz ikliminin özelliklerini taşıyor. Yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı bir hava hakim. Bu iklim karakteri, gölün su seviyesini ve çevresindeki bitki örtüsünü etkiliyor. Gölün su seviyesi, mevsimsel yağışlara bağlı olarak değişkenlik gösteriyor.
 
 Çevresel açıdan, İris Gölü, etrafındaki ormanlık alanlarla birlikte bir ekosistem oluşturuyor. Göl, su kaynakları açısından önemli bir role sahip ve bölgedeki canlılara yaşam alanı sunuyor. Gölün komşu alanları, tarım arazileri ve ormanlık alanlardan oluşuyor. Bu çeşitlilik, bölgenin biyolojik çeşitliliğini zenginleştiriyor ve İris Gölü'nü, doğal güzellikleri ile dikkat çeken bir destinasyon haline getiriyor.
 

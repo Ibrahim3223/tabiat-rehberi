@@ -45,7 +45,7 @@ Bölgenin coğrafi açıdan önemli bir konumda yer alan Çatak Kanyonu, 41.6559
 
 Doğal güzelliği ile dikkat çeken bu alan, bir şehir bloğu büyüklüğünde bir alanı kaplamakta ve çevresindeki dağlarla birlikte bir bütün olarak değerlendirilmelidir. Jeolojik açıdan incelendiğinde, kanyonun oluşumunda bölgenin jeolojik yapısının büyük bir rolü olduğu görülmektedir. Ancak, detaylı fiziksel veri bulunmaması nedeniyle, kanyonun boyutları ve şekli hakkında net bilgiler bulunmamaktadır.
 
-Mevsimsel olarak incelendiğinde, Çatak Kanyonu'nun iklim karakteri, bölgenin genel iklim koşullarına benzerlik göstermektedir. Kış aylarında soğu ve yağışlı, yaz aylarında ise ılıman ve nemli bir hava durumu hakimdir. Bu iklim koşulları, kanyonun florası ve faunası üzerinde önemli bir etkiye sahiptir.
+Mevsimsel olarak incelendiğinde, Çatak Kanyonu'nun iklim karakteri, bölgenin genel iklim koşullarına benzerlik göstermektedir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise ılıman ve nemli bir hava durumu hakimdir. Bu iklim koşulları, kanyonun florası ve faunası üzerinde önemli bir etkiye sahiptir.
 
 Çevresel açıdan bakıldığında, Çatak Kanyonu, komşu alanlar ve su kaynakları ile önemli bir ilişkiye sahiptir. Kanyon, bölgenin hidrolojik dengesini korumakta ve yakın çevresindeki ekosistemlerin sağlıklı bir şekilde çalışmasına katkıda bulunmaktadır. Bu nedenle, kanyonun korunması ve sürdürülebilirliğinin sağlanması, bölgenin doğal dengesinin korunması için önemlidir.
 

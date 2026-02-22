@@ -44,7 +44,7 @@ Van'ın dağlık coğrafyasında yer alan Mollasadi Dağı, 38.4596°K ve 43.915
 
 Doğal güzelliği ile dikkat çeken Mollasadi Dağı, çevresindeki diğer dağlarla birlikte Van'ın coğrafi yapısını şekillendiriyor. Bu dağlık bölge, Taksim Meydanı'nın yaklaşık 10 katı büyüklüğünde bir alanı kaplıyor. Mollasadi Dağı'nın yüksekliği, Eiffel Kulesi'nin 2 katı yükseklikte, yaklaşık 650 metre civarında. Bu yükseklik, bölgenin iklimini ve bitki örtüsünü etkiliyor.
 
-Mollasadi Dağı'nın iklimi, Van'ın genel iklim karakterine benzer. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise ılıman ve kurak bir hava hakim. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Dağın eteklerinde, Van Gölü'nün su seviyesine göre değişen bir bitki örtüsü mevcut.
+Mollasadi Dağı'nın iklimi, Van'ın genel iklim karakterine benzer. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise ılıman ve kurak bir hava hakim. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Dağın eteklerinde, Van Gölü'nün su seviyesine göre değişen bir bitki örtüsü mevcut.
 
 Bölgenin su kaynakları açısından önemli bir role sahip olan Van Gölü, Mollasadi Dağı'nın yakınında bulunuyor. Dağın eteklerinden doğan küçük akarsular, Van Gölü'ne dökülerek bölgenin su dengesini koruyor. Bu su kaynakları, bölgenin ekosistemini zenginleştiren önemli bir unsur. Mollasadi Dağı ve çevresindeki dağlar, Van'ın doğal güzelliğini oluşturan önemli bir parça.
 

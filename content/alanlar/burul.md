@@ -45,7 +45,7 @@ Doğunun uzak köşesinde, Erzurum'un dağlık coğrafyasında yer alan Burul Da
 
 Jeolojik açıdan bakıldığında, Burul Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, bölgenin genel coğrafyası, yüksek dağlar ve vadilerin hakim olduğu bir manzarayı ortaya koyuyor. Bu dağlık bölge, yaklaşık olarak Beşiktaş ilçesi büyüklüğünde bir alanı kaplıyor, ki bu, İstanbul'un bir bölümü ile karşılaştırılabilir bir ölçek. Bu geniş alanda, çeşitli jeolojik oluşumlar ve farklı yükseklikteki noktalara rastlama mümkün.
 
-İklim açısından, Burul Dağı ve çevresi, karasal iklimin etkilerini taşıyor. Kışlar soğu ve karlı, yazlar ise serin ve yağışlı geçiyor. Bu mevsimsel değişiklikler, bölgenin flora ve fauna'sını şekillendiriyor ve Burul Dağı'nın doğal güzelliğini etkiliyor. Etkileyici bir şekilde, bu dağlık bölge, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte yer alıyor, bu da bölgenin coğrafyasının etkileyici boyutlarını gösteriyor.
+İklim açısından, Burul Dağı ve çevresi, karasal iklimin etkilerini taşıyor. Kışlar soğuk ve karlı, yazlar ise serin ve yağışlı geçiyor. Bu mevsimsel değişiklikler, bölgenin flora ve fauna'sını şekillendiriyor ve Burul Dağı'nın doğal güzelliğini etkiliyor. Etkileyici bir şekilde, bu dağlık bölge, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte yer alıyor, bu da bölgenin coğrafyasının etkileyici boyutlarını gösteriyor.
 
 Çevresel açıdan, Burul Dağı, komşu dağlık alanlar ve vadilerle bağlantılı bir ekosistem oluşturuyor. Bu bölge, su kaynakları açısından zengin, birçok nehir ve akarsu buradan kaynaklanıyor. Bu su kaynakları, bölgenin doğal döngüsünü ve canlı çeşitliliğini destekleyerek, Burul Dağı'nın çevresindeki ekosistemin temel bileşenlerini oluşturuyor.
 

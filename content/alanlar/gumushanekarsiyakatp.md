@@ -30,7 +30,7 @@ Gümüşhane Karşıyaka TP'nin tarihi geçmişi, İç Anadolu Bölgesi'nin tari
 
 ## Coğrafya
 
-Gümüşhane Karşıyaka TP, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölgedir. 140 hektarlık bir alanı kaplayan milli park, çeşitli bitki türleri ve hayvanlarla dolu. Bölgenin coğrafyası, dağlık ve engebeli arazilerden oluşuyor ve bu, birçok farklı habitatın oluşmasına olanak tanıyor. Karşıyaka TP, İç Anadolu Bölgesi'nin iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim özellikleri, bölgenin flora ve faunasını şekillendirmiş ve birçok farklı türün yaşamasına olanak tanıyor. Milli parkın coğrafi konumu, ziyaretçilere birçok farklı manzara sunuyor ve bu, bölgeyi doğa fotoğrafçıları için de ideal bir destinasyon haline getiriyor.
+Gümüşhane Karşıyaka TP, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölgedir. 140 hektarlık bir alanı kaplayan milli park, çeşitli bitki türleri ve hayvanlarla dolu. Bölgenin coğrafyası, dağlık ve engebeli arazilerden oluşuyor ve bu, birçok farklı habitatın oluşmasına olanak tanıyor. Karşıyaka TP, İç Anadolu Bölgesi'nin iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim özellikleri, bölgenin flora ve faunasını şekillendirmiş ve birçok farklı türün yaşamasına olanak tanıyor. Milli parkın coğrafi konumu, ziyaretçilere birçok farklı manzara sunuyor ve bu, bölgeyi doğa fotoğrafçıları için de ideal bir destinasyon haline getiriyor.
 
 ## Flora ve Fauna
 

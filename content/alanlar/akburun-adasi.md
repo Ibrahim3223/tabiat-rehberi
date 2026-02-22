@@ -40,7 +40,7 @@ Göller Bölgesi'nin kalbinde yer alan Akburun Adası, 37.7817°K, 31.5553°D ko
 
 Doğal bir platform olarak ortaya çıkan Akburun Adası, koordinatlarından da anlaşılacağı gibi, geniş bir ova içinde yer alıyor. Ancak fiziksel yapısına ilişkin detaylı veriler bulunmuyor. Buna rağmen, ada'nın bulunduğu bölge, geniş ve dümdüz ovalarıyla dikkat çekiyor. Bu ovalar, bir şehir bloğu büyüklüğünde olan alanlardan çok daha büyük ve geniş bir alana yayılmış durumda.
 
-İklim karakteri açısından bakıldığında, Akburun Adası ve çevresinin, İç Anadolu Bölgesi'nin karakteristik iklimine sahip olduğu görülüyor. Bu bölge, yazları sıca ve kurak, kışları soğu ve kar yağışlı bir iklime sahip. Bu mevsimsel özellikler, ada'nın flora ve fauna'sını etkileyen önemli faktörler arasında yer alıyor.
+İklim karakteri açısından bakıldığında, Akburun Adası ve çevresinin, İç Anadolu Bölgesi'nin karakteristik iklimine sahip olduğu görülüyor. Bu bölge, yazları sıcak ve kurak, kışları soğuk ve kar yağışlı bir iklime sahip. Bu mevsimsel özellikler, ada'nın flora ve fauna'sını etkileyen önemli faktörler arasında yer alıyor.
 
 Akburun Adası'nın bulunduğu bölge, doğal su kaynaklarına yakın bir konumda yer alıyor. Göller Bölgesi'nin önemli gölleri ve nehirleri, bu ada'nın çevresindeki ekosistemi zenginleştiren önemli unsurlar arasında sayılabilir. Bu su kaynakları, ada'nın doğal güzelliklerini destekleyen ve bölgenin biyolojik çeşitliliğini koruyan önemli faktörler olarak görülüyor.
 

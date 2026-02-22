@@ -37,7 +37,7 @@ Hekim Hamamı'nın tarihi geçmişi, Ege Bölgesi'nin tarihine kadar uzanır. Bu
 
 ## Coğrafya
 
-Hekim Hamamı, Ege Bölgesi'nin en güzel coğrafi oluşumlarından biridir. Bu plaj, İzmir'in Tire ilçesinde yer alır ve Ege Denizi'nin masmavi suları ile çevrilidir. Plajın etrafında, yeşilin çeşitli tonlarını sunan ağaçlar ve bitkiler bulunur. Hekim Hamamı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğündedir. Bu geniş alan, ziyaretçilere geniş bir yüzme ve güneşlenme alanı sunar. Plajın kumu, altın renginde ve ince tanelidir. Hekim Hamamı, temiz ve berrak suyu ile de ziyaretçilerini cezbeder. Bu plaj, Ege Bölgesi'nin karakteristik iklimini taşır ve yaz aylarında sıca ve güneşli, kış aylarında ise ılıman ve yağışlı bir hava sunar.
+Hekim Hamamı, Ege Bölgesi'nin en güzel coğrafi oluşumlarından biridir. Bu plaj, İzmir'in Tire ilçesinde yer alır ve Ege Denizi'nin masmavi suları ile çevrilidir. Plajın etrafında, yeşilin çeşitli tonlarını sunan ağaçlar ve bitkiler bulunur. Hekim Hamamı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğündedir. Bu geniş alan, ziyaretçilere geniş bir yüzme ve güneşlenme alanı sunar. Plajın kumu, altın renginde ve ince tanelidir. Hekim Hamamı, temiz ve berrak suyu ile de ziyaretçilerini cezbeder. Bu plaj, Ege Bölgesi'nin karakteristik iklimini taşır ve yaz aylarında sıcak ve güneşli, kış aylarında ise ılıman ve yağışlı bir hava sunar.
 
 ## Flora ve Fauna
 

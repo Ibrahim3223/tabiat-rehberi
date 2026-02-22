@@ -37,7 +37,7 @@ Yörük Ali Efe Anıt Mezarı, tarihsel olarak önemli bir figür olan Yörük A
 
 ## Coğrafya
 
-Yörük Ali Efe Anıt Mezarı, Ege Bölgesi'nin coğrafi güzelliğini yansıtan bir noktada yer almaktadır. 180 hektarlık bir alana yayılan bu mekan, yaklaşık 250 futbol sahası büyüklüğündedir. Coğrafi olarak, bu bölge Akdeniz ikliminin characteristics özelliklerini taşır. Yazları sıca ve khô, kışları ılık ve yağışlı bir iklimi bulunan bu bölge, ziyaretçilerine dört mevsim boyunca farklı deneyimler sunar. Çevre, zengin flora ve fauna çeşitliliği ile dikkat çekmektedir. Anıt mezarın bulunduğu alan, geniş ormanlık bölgelerle çevrilidir ve ziyaretçiler, doğanın güzelliğini burada deneyimleyebilirler.
+Yörük Ali Efe Anıt Mezarı, Ege Bölgesi'nin coğrafi güzelliğini yansıtan bir noktada yer almaktadır. 180 hektarlık bir alana yayılan bu mekan, yaklaşık 250 futbol sahası büyüklüğündedir. Coğrafi olarak, bu bölge Akdeniz ikliminin characteristics özelliklerini taşır. Yazları sıcak ve kuru, kışları ılık ve yağışlı bir iklimi bulunan bu bölge, ziyaretçilerine dört mevsim boyunca farklı deneyimler sunar. Çevre, zengin flora ve fauna çeşitliliği ile dikkat çekmektedir. Anıt mezarın bulunduğu alan, geniş ormanlık bölgelerle çevrilidir ve ziyaretçiler, doğanın güzelliğini burada deneyimleyebilirler.
 
 ## Flora ve Fauna
 

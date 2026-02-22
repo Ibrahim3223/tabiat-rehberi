@@ -42,7 +42,7 @@ Güneybatı Anadolu'nun kıyı şeridini süsleyen İzmir ilinin bir parçası o
 
 Doğal bir oluşum olarak Eskici Dağı, çevresi ve komşu alanlarla bir bütün olarak değerlendirilmelidir. Monaco'nun küçük bir bölümü kadar bir alanı kaplayan bu dağ, boyut olarak bir şehir bloğundan biraz daha büyük bir alanı kapsar. Ancak, boyutuna rağmen, jeolojik yapısı ve coğrafi konumuyla önemli bir rol oynar. Jeolojik olarak incelendiğinde, bölgenin genel yapısına uygun olarak kalker ve benzeri kayaçlardan oluştuğu görülür.
 
-İklim açısından bakıldığında, Ege Bölgesi'nin karakteristik Akdeniz iklimini yansıtan Eskici Dağı, yazları sıca ve kurak, kışları ise ılık ve yağışlı bir hava durumuna sahiptir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler. Eiffel Kulesi'nin yaklaşık 1/5'i kadar yükseklikte olan bu dağ, bölgenin iklim karakterini belirlemede önemli bir rol oynar.
+İklim açısından bakıldığında, Ege Bölgesi'nin karakteristik Akdeniz iklimini yansıtan Eskici Dağı, yazları sıcak ve kurak, kışları ise ılık ve yağışlı bir hava durumuna sahiptir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler. Eiffel Kulesi'nin yaklaşık 1/5'i kadar yükseklikte olan bu dağ, bölgenin iklim karakterini belirlemede önemli bir rol oynar.
 
 Bölgenin ekolojik dengesi açısından, komşu alanlar ve su kaynaklarıyla bağlantılı olarak değerlendirilmelidir. Çevresindeki ormanlık alanlar ve su kaynaklarıyla birlikte, bir ekosistem olarak işleyen Eskici Dağı, bölgenin biyolojik çeşitliliğini destekler. Taksim Meydanı'nın yaklaşık 10 katı büyüklüğünde bir alanı kaplayan bu dağ, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgenin doğal güzelliğini korur.
 

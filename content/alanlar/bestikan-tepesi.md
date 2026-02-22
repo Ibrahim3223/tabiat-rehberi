@@ -36,7 +36,7 @@ Bestikan Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetler
 
 ## Coğrafya
 
-Bestikan Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biridir. Tepenin yüksekliği, bölgenin coğrafi yapısını etkileyen önemli faktörlerden biridir. Bestikan Tepesi, çevresindeki diğer tepe ve dağlarla birlikte, bir dağ silsilesini oluşturur. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu bölge, aynı zamanda bir su kaynakları bölgesidir. Bestikan Tepesi, iklim bakımından, bölgenin genel iklimine uygun olarak, yazları sıca ve kışları soğuk bir iklime sahiptir. Tepenin coğrafi konumu, ziyaretçilere çeşitli manzaralar sunar.
+Bestikan Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biridir. Tepenin yüksekliği, bölgenin coğrafi yapısını etkileyen önemli faktörlerden biridir. Bestikan Tepesi, çevresindeki diğer tepe ve dağlarla birlikte, bir dağ silsilesini oluşturur. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu bölge, aynı zamanda bir su kaynakları bölgesidir. Bestikan Tepesi, iklim bakımından, bölgenin genel iklimine uygun olarak, yazları sıcak ve kışları soğuk bir iklime sahiptir. Tepenin coğrafi konumu, ziyaretçilere çeşitli manzaralar sunar.
 
 ## Flora ve Fauna
 

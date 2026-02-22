@@ -44,7 +44,7 @@ Denizli'nin dağlık bölgelerinde yer alan Eren Tepe, 37.2475°K, 29.1375°D ko
 
 Jeolojik açıdan bakıldığında, Eren Tepe'nin fiziksel yapısı hakkında detaylı bilgi olmasa da, genel olarak Denizli'nin dağlık bölgelerinin karakteristik özelliklerini taşadığı söylenebilir. Bu bölgenin topoğrafyası, genellikle engebeli ve dağlık arazilerden oluşur. Eren Tepe, çevresindeki diğer dağlarla benzerlik göstererek, bölgenin genel coğrafi yapısına uygun bir şekilde şekillenmiştir.
 
-İklim açısından bakıldığında, Eren Tepe ve çevresindeki bölge, Akdeniz ikliminin etkilerini taşır. Yaz aylarında sıca ve kuru, kış aylarında ise soğu ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve Eren Tepe'nin ekosisteminin şekillenmesinde önemli bir rol oynar.
+İklim açısından bakıldığında, Eren Tepe ve çevresindeki bölge, Akdeniz ikliminin etkilerini taşır. Yaz aylarında sıcak ve kuru, kış aylarında ise soğuk ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve Eren Tepe'nin ekosisteminin şekillenmesinde önemli bir rol oynar.
 
 Çevresel açıdan, Eren Tepe, komşu dağlarla birlikte bir whole ekosistem içerisinde yer alır. Bu bölgede, çeşitli su kaynakları ve akarsular bulunur ve bu su kaynakları, bölgenin flora ve fauna çeşitliliğini destekler. Eren Tepe, bu su kaynaklarına yakın bir konumda yer alır ve bu nedenle, bölgenin ekosistem bağlantıları içerisinde önemli bir rol oynar.
 

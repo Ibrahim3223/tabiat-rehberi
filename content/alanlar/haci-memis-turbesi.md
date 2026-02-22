@@ -37,7 +37,7 @@ Hacı Memiş Türbesi'nin tarihi geçmişi, Konya'nın zengin kültürel mirası
 
 ## Coğrafya
 
-Hacı Memiş Türbesi, Konya'nın Seydişehir ilçesinde yer alır ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, geniş yeşil alanlarla çevrili olup, ziyaretçilere doğal güzellikler sunar. Coğrafi olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini gösteren Hacı Memiş Türbesi, geniş ovalar ve dağlık alanlarla çevrilidir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal iklimdir. Kışları soğu ve yağışlı, yazları ise sıcak ve kurak olan bu iklim, bölgenin flora ve faunasını etkiler. Hacı Memiş Türbesi'nin coğrafi konumu, ziyaretçilere hem doğal güzellikleri keşfetme hem de tarihi yapıları inceleme fırsatı sunar.
+Hacı Memiş Türbesi, Konya'nın Seydişehir ilçesinde yer alır ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, geniş yeşil alanlarla çevrili olup, ziyaretçilere doğal güzellikler sunar. Coğrafi olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini gösteren Hacı Memiş Türbesi, geniş ovalar ve dağlık alanlarla çevrilidir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal iklimdir. Kışları soğuk ve yağışlı, yazları ise sıcak ve kurak olan bu iklim, bölgenin flora ve faunasını etkiler. Hacı Memiş Türbesi'nin coğrafi konumu, ziyaretçilere hem doğal güzellikleri keşfetme hem de tarihi yapıları inceleme fırsatı sunar.
 
 ## Flora ve Fauna
 

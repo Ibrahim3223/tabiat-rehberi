@@ -41,7 +41,7 @@ Güneşin Ege Denizi'ndeki bir ışını gibi parlayan Değirmen Adası, 36.6250
 
 Doğal güzelliği ile dikkat çeken Değirmen Adası, jeolojik açıdan  bir yapıya sahiptir. Ada, Ege Denizi'nin bir parçası olarak, bölgenin karakteristik kaya oluşumlarını taşır. Ancak, detaylı fiziksel veri bulunmaması nedeniyle, ada hakkında daha fazla bilgi elde etme mümkün değildir. Buna rağmen, 1200 hektarın altında bir alanı kaplayan bu ada, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplar.
 
-İklim açısından bakıldığında, Değirmen Adası, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kuru, kış aylarında ılık ve yağışlı bir hava durumu hakimdir. Ada, Ege Denizi'nin etkisini taşır ve mevsimsel olarak değişen hava koşullarına uyum sağlar. Eiffel Kulesi'nin yüksekliğine yaklaşan dağlar, adanın manzarasını şekillendiren önemli bir unsur olarak dikkat çeker.
+İklim açısından bakıldığında, Değirmen Adası, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kuru, kış aylarında ılık ve yağışlı bir hava durumu hakimdir. Ada, Ege Denizi'nin etkisini taşır ve mevsimsel olarak değişen hava koşullarına uyum sağlar. Eiffel Kulesi'nin yüksekliğine yaklaşan dağlar, adanın manzarasını şekillendiren önemli bir unsur olarak dikkat çeker.
 
 Çevresel açıdan, Değirmen Adası, Ege Denizi'nin bir parçası olarak, su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahiptir. Ada, komşu alanlarla birlikte, bölgenin doğal dengesini korur ve su kaynaklarının korunmasına katkıda bulunur. Monaco'nun yarısı kadar büyük olmayan bu ada, İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplar ve çevresindeki ekosistemi etkileyen önemli bir faktör olarak dikkat çeker.
 

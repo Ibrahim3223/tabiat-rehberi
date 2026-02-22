@@ -45,7 +45,7 @@ Doğunun gizli köşelerinden biri olan Koruca Dağı, 39.0000° kuzey enlemi ve
 
 Jeolojik açıdan bakıldığında, Koruca Dağı'nın fiziksel yapısı hakkında cụretilen bilgiler sınırlı. Ancak, koordinatlarından hareketle, dağın bir şehir bloğu büyüklüğünde bir alanı kapladığı söylenebilir. Bu büyüklük, Taksim Meydanı'nın birkaç katı kadar bir alanı temsil ediyor. Yükseklik açısından, Eiffel Kulesi'nin birkaç katı yükseklikte bir tepe olabileceği düşünülse de, net veriler bulunmuyor.
 
-Mevsimsel açıdan, Koruca Dağı'nın bulunduğu bölge, karasal iklimin etkilerini taşıyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakim. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini etkiliyor. Hava durumu, mevsimlere göre değişkenlik gösterse de, genel olarak dağlık bir bölgenin getirdiği zorlu koşullar hakim.
+Mevsimsel açıdan, Koruca Dağı'nın bulunduğu bölge, karasal iklimin etkilerini taşıyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakim. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini etkiliyor. Hava durumu, mevsimlere göre değişkenlik gösterse de, genel olarak dağlık bir bölgenin getirdiği zorlu koşullar hakim.
 
 Çevresel açıdan, Koruca Dağı, komşu dağlık arazilerle çevrili ve su kaynaklarına yakın bir konumda bulunuyor. Bu bölgede, ekosistem bağlantıları da önemli bir rol oynuyor. Monaco'nun yarısı kadar bir alanı kaplayan bu dağlık bölge, İstanbul'un Adalar ilçesi büyüklüğünde bir alanı temsil etse de, Koruca Dağı'nın çevresindeki ekosistem, daha geniş bir alanı kapsıyor. Bu nedenle, Koruca Dağı, bölgenin ekolojik dengesini koruma açısından önemli bir rol üstleniyor.
 

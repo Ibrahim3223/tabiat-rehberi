@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin doğal güzelliklerine ev sahipliği yapan Van ili, Y
 
 Jeolojik açıdan incelendiğinde, Yeltepe Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel jeolojik özellikleri dikkate alındığında, volkanik kayaçların hakim olduğu bir yapıya sahip olabileceği söylenebilir. Dağın yüksekliği ve genişliği hakkında net veriler olmasa da, bölgenin coğrafi özelliklerine bakıldığında, bir şehir bloğu büyüklüğünde olan Yeltepe Dağı, çevresindeki diğer dağlar ile birlikte bir bütün oluşturur.
 
-Mevsimsel değişiklikler açısından, Yeltepe Dağı'nın bulunduğu bölge, karasal iklim özellikleri gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu mevsimsel özellikler, dağın flora ve fauna yapısını etkiler ve bölgenin ekosistemine şekil verir.
+Mevsimsel değişiklikler açısından, Yeltepe Dağı'nın bulunduğu bölge, karasal iklim özellikleri gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu mevsimsel özellikler, dağın flora ve fauna yapısını etkiler ve bölgenin ekosistemine şekil verir.
 
 Çevresel açıdan bakıldığında, Yeltepe Dağı, Van Gölü'nün su kaynaklarına yakınlığıyla dikkat çeker. Dağın eteklerinde yer alan su kaynakları, bölgenin ekosistemini destekler ve flora/fauna çeşitliliğini zenginleştirir. Ayrıca, Yeltepe Dağı, bölgedeki diğer dağlar ve ovalarla birlikte, bir bütün olarak ekosistemi oluşturan önemli bir bileşendir.
 

@@ -31,7 +31,7 @@ Doğançay Milli Parkı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiş
 
 ## Coğrafya
 
-Doğançay Milli Parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Park, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunar. Burada, dağlar, ovalar ve akarsular, doğal güzellikleri oluşturur. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bu iklim, bölgenin flora ve faunasını şekillendirmiştir. Doğançay Milli Parkı, ziyaretçilere doğanın güzelliğini ve çeşitliliğini gösterir. Parkın coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesini sağlar.
+Doğançay Milli Parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Park, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunar. Burada, dağlar, ovalar ve akarsular, doğal güzellikleri oluşturur. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim, bölgenin flora ve faunasını şekillendirmiştir. Doğançay Milli Parkı, ziyaretçilere doğanın güzelliğini ve çeşitliliğini gösterir. Parkın coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesini sağlar.
 
 ## Flora ve Fauna
 

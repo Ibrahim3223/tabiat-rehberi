@@ -46,7 +46,7 @@ Doğunun gizli köşelerinden biri olan Türkiye'deki bu göl, 40.9018°K ve 42.
 
 Jeolojik açıdan bakıldığında, gölün etrafındaki arazi oldukça engebeli. Ancak gölün kendisi, bir olimpik havuz kadar küçük bir alanı kaplıyor. Bu küçük alan, gölün derinliğini ve suyun berraklığını koruyor. Gölün şekli, bir elmasın keskin çizgilerine benzeyen bir forma sahip. Bu forma, gölün etrafındaki dağların erozyonuna ve suyun akışına bağlı olarak oluşmuş.
 
-İklim açısından, gölün bulunduğu bölge oldukça değişken bir hava durumuna sahip. Kış aylarında soğu ve kar yağışlı olan bölgede, yaz aylarında ise sıca ve kurak bir hava hakim. Bu mevsimsel değişim, gölün su seviyesini ve suyun sıcaklığını etkiliyor. Gölün su seviyesi, mevsimlere göre değişkenlik gösteriyor. Bu değişim, gölün etrafındaki ekosistemi de etkiliyor.
+İklim açısından, gölün bulunduğu bölge oldukça değişken bir hava durumuna sahip. Kış aylarında soğuk ve kar yağışlı olan bölgede, yaz aylarında ise sıcak ve kurak bir hava hakim. Bu mevsimsel değişim, gölün su seviyesini ve suyun sıcaklığını etkiliyor. Gölün su seviyesi, mevsimlere göre değişkenlik gösteriyor. Bu değişim, gölün etrafındaki ekosistemi de etkiliyor.
 
 Gölün bulunduğu bölge, çeşitli su kaynaklarına ve ekosistemlere bağlı. Göl, etrafındaki dağlardan gelen su kaynakları ile besleniyor. Bu su kaynakları, gölün su seviyesini ve suyun kalitesini etkiliyor. Gölün etrafındaki ekosistem, çeşitli bitki ve hayvan türlerini barındırıyor. Bu ekosistem, gölün su kalitesini koruyor ve gölün etrafındaki doğal dengenin korunmasına yardımcı oluyor.
 

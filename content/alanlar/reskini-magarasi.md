@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin güneydoğusunda, Batman ilinin merkezine yaklaşık 
 
 Jeolojik açıdan bakıldığında, Reşkini Mağarası'nın bulunduğu bölge kalkerli kayalardan oluşmaktadır. Mağaranın boyutları hakkında detaylı veri olmasa da, bu tür mağaraların genellikle birkaç olimpik havuz kadar bir alanı kapladığı bilinmektedir. Bu büyüklük, ziyaretçilerin mağaranın içini keşfetmek için yeterli bir alanı sağlar. Mağaranın jeolojik yapısı, bölgenin milyonlarca yıllık geçmişine tanıklık etmektedir.
 
-İklim açısından, Reşkini Mağarası'nın bulunduğu bölge karasal bir iklime sahiptir. Bu, yaz aylarının sıca ve kurak, kış aylarının ise soğu ve yağışlı geçtiği anlamına gelmektedir. Mağaranın içi, dış ortamın sıcaklık ve nemine göre değişen bir mikroiklime sahip olabilir. Bu durum, mağaranın içinde yaşayan canlılar için uygun bir ortam yaratmaktadır.
+İklim açısından, Reşkini Mağarası'nın bulunduğu bölge karasal bir iklime sahiptir. Bu, yaz aylarının sıcak ve kurak, kış aylarının ise soğuk ve yağışlı geçtiği anlamına gelmektedir. Mağaranın içi, dış ortamın sıcaklık ve nemine göre değişen bir mikroiklime sahip olabilir. Bu durum, mağaranın içinde yaşayan canlılar için uygun bir ortam yaratmaktadır.
 
 Çevresel açıdan, Reşkini Mağarası'nın bulunduğu bölge, Batman Çayı'nın yakınında yer almaktadır. Bu su kaynağı, mağaranın yakınındaki ekosistemin sağlıklı bir şekilde var olmasını sağlamaktadır. Ayrıca, mağaranın bulunduğu jeopark, bölgenin doğal güzelliklerini koruma altına almak amacıyla oluşturulmuştur. Bu koruma çabaları, Reşkini Mağarası'nın doğal güzelliğini gelecek nesiller için korumaya yardımcı olmaktadır.
 

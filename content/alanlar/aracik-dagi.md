@@ -44,7 +44,7 @@ Doğunun en ücra köşesinde, Iğdır ilinin sınırları içinde yer alan Arac
 
 Jeolojik açıdan bakıldığında, Aracık Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bu dağın bölgedeki diğer coğrafi oluşumlarla benzerlik gösterdiği düşünülmektedir. Dağın boyutları hakkında net bir veri olmasa da, bu tür dağların genellikle birkaç kilometre uzunluğunda ve genişliğinde olduğu bilinmektedir. Örneğin, Monaco'nun yarısı kadar bir alanı kaplayan bir dağ, oldukça büyük bir alan olarak düşünülebilir.
 
-Mevsimsel olarak, Aracık Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu birdır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu iklim karakteri, bölgenin flora ve fauna oluşumlarını etkilemektedir. Örneğin, Eiffel Kulesi'nin 2 katı yükseklikte olan bir dağ, oldukça soğu ve sert bir iklimi olabilir.
+Mevsimsel olarak, Aracık Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu birdır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu iklim karakteri, bölgenin flora ve fauna oluşumlarını etkilemektedir. Örneğin, Eiffel Kulesi'nin 2 katı yükseklikte olan bir dağ, oldukça soğu ve sert bir iklimi olabilir.
 
 Çevresel açıdan bakıldığında, Aracık Dağı, Aras Nehri'nin yakınında bulunması nedeniyle, su kaynakları açısından zengin bir bölgededir. Dağın etrafında, çeşitli bitki ve hayvan türleri bulunmaktadır. Örneğin, Taksim Meydanı'nın 10 katı büyüklüğünde bir alan, oldukça geniş bir ekosistem alanı olarak düşünülebilir. Bu ekosistem, bölgenin biyolojik çeşitliliğini desteklemektedir.
 

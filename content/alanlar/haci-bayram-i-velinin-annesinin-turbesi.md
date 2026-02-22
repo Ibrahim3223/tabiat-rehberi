@@ -37,7 +37,7 @@ Hacı Bayram-ı Velinin Annesinin Türbesi, tarihi geçmişi olan bir mekan. Hac
 
 ## Coğrafya
 
-Hacı Bayram-ı Velinin Annesinin Türbesi, Keçiören ilçesinde yer alıyor. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu bölgede dağınık bir şekilde görülüyor. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alana sahip. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi yeşilliklerle dolu. Mekânın coğrafi konumu, Ankara'nın merkezi bölgelerine yakınlığıyla dikkat çekiyor. Ziyaretçiler, türbeyi kolayca ulaşabilir ve çevresindeki doğal güzellikleri keşfedebilir. İklim olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu bölgede, kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçer. Bahar ve sonbahar mevsimlerinde, ziyaretçiler daha rahat bir hava koşuluyla türbeyi ve çevresini gezebilir.
+Hacı Bayram-ı Velinin Annesinin Türbesi, Keçiören ilçesinde yer alıyor. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu bölgede dağınık bir şekilde görülüyor. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alana sahip. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi yeşilliklerle dolu. Mekânın coğrafi konumu, Ankara'nın merkezi bölgelerine yakınlığıyla dikkat çekiyor. Ziyaretçiler, türbeyi kolayca ulaşabilir ve çevresindeki doğal güzellikleri keşfedebilir. İklim olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu bölgede, kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçer. Bahar ve sonbahar mevsimlerinde, ziyaretçiler daha rahat bir hava koşuluyla türbeyi ve çevresini gezebilir.
 
 ## Flora ve Fauna
 

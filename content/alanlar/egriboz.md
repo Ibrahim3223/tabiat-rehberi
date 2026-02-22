@@ -46,7 +46,7 @@ Deniz suyuyla çevrili Eğriboz adası, 38.5000° kuzey enlemi ve 24.0000° doğ
 
 Fiziksel olarak bakıldığında, Eğriboz adasının tam büyüklüğü hakkındalı bilgi olmasa da, koordinatlarından adanın konumunu ve genel yapısını anlama mümkün. Ada, bir şehir bloğu büyüklüğünde olarak düşünülebilecek bir alanı kaplıyor. Bu boyutlar, Eğriboz'un bir ada olarak nispeten küçük olduğunu gösteriyor. Ada, küçük boyutuna rağmen, jeolojik açıdan  bir yapıya sahip.
 
-İklim açısından Eğriboz, Akdeniz ikliminin característicasını taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir hava durumu hakim. Bu mevsimsel özellikler, adanın flora ve fauna çeşitliliğini şekillendiriyor. Eğriboz'un iklimi, adanın doğal güzelliğini ve biyolojik çeşitliliğini koruyor.
+İklim açısından Eğriboz, Akdeniz ikliminin característicasını taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava durumu hakim. Bu mevsimsel özellikler, adanın flora ve fauna çeşitliliğini şekillendiriyor. Eğriboz'un iklimi, adanın doğal güzelliğini ve biyolojik çeşitliliğini koruyor.
 
 Doğal kaynaklar açısından bakıldığında, Eğriboz adası, anakaraya yakın konumu nedeniyle önemli su kaynaklarına sahip. Ada, komşu alanlarla birlikte bir ekosistem oluşturuyor ve bu da adanın çevresel ilişkilerini şekillendiriyor. Eğriboz, çevresindeki sularda yaşayan deniz canlıları için önemli bir yaşam alanı sunuyor ve bu da adanın ekolojik önemini vurguluyor.
 

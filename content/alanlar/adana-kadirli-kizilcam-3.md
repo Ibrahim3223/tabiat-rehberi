@@ -30,7 +30,7 @@ Adana-Kadirli Kızılçam 3'ün tarihi geçmişi, bölgenin tarihine paralel ola
 
 ## Coğrafya
 
-Adana-Kadirli Kızılçam 3, coğrafi olarak Akdeniz Bölgesi'nde yer alıyor. Parkın coğrafyası, genellikle dağlık ve engebeli arazilerden oluşuyor. Bu coğrafi yapı, ziyaretçilere çeşitli manzaralar ve doğal güzellikler sunuyor. Parkın iklimi, Akdeniz ikliminin karakteristik özellikleri gösteriyor; yani yazları sıca ve kurak, kışları ılıman ve yağışlı geçiyor. Bu iklim, parkın florası ve faunası için uygun koşulları sağlıyor. Parkın çevresinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu zengin ekosistem, ziyaretçilere doğanın güzelliğini ve çeşitliliğini gösteriyor. Parkın coğrafi konumu, aynı zamanda ziyaretçilere bölgenin diğer önemli turizm noktalarına ulaşım imkanı sunuyor.
+Adana-Kadirli Kızılçam 3, coğrafi olarak Akdeniz Bölgesi'nde yer alıyor. Parkın coğrafyası, genellikle dağlık ve engebeli arazilerden oluşuyor. Bu coğrafi yapı, ziyaretçilere çeşitli manzaralar ve doğal güzellikler sunuyor. Parkın iklimi, Akdeniz ikliminin karakteristik özellikleri gösteriyor; yani yazları sıcak ve kurak, kışları ılıman ve yağışlı geçiyor. Bu iklim, parkın florası ve faunası için uygun koşulları sağlıyor. Parkın çevresinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu zengin ekosistem, ziyaretçilere doğanın güzelliğini ve çeşitliliğini gösteriyor. Parkın coğrafi konumu, aynı zamanda ziyaretçilere bölgenin diğer önemli turizm noktalarına ulaşım imkanı sunuyor.
 
 ## Flora ve Fauna
 

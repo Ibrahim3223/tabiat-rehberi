@@ -30,7 +30,7 @@ Ters Akan Gölü Sit Alanı'nın tarihi geçmişi, yüzyıllar boyunca şekillen
 
 ## Coğrafya
 
-Ters Akan Gölü Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde önemli bir yere sahiptir. Bu alan, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğündedir. Gölün etrafındaki arazinin yapısı, genellikle düz ve hafif eğimlidir. İklim koşulları, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçmektedir. Bu sit alanının etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Gölün suyu, çevredeki sulak alanlardan beslenmektedir.
+Ters Akan Gölü Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde önemli bir yere sahiptir. Bu alan, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğündedir. Gölün etrafındaki arazinin yapısı, genellikle düz ve hafif eğimlidir. İklim koşulları, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçmektedir. Bu sit alanının etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Gölün suyu, çevredeki sulak alanlardan beslenmektedir.
 
 ## Flora ve Fauna
 

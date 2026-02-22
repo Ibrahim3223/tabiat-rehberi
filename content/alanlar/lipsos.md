@@ -46,7 +46,7 @@ Güney Ege'nin mavi sularında gizlenen Lipsos adası, 37.3000°K ve 26.7500°D 
 
 Doğal güzellikleri ve sakin atmosferi ile dikkat çeken Lipsos, bir birkaç hektarlık yeşil cennet olarak düşünülebilir. Ada, küçük boyutuna rağmen zengin bir jeolojiye sahip ve bu özelliği ile dikkat çekiyor. 37.3000°K enlem ve 26.7500°D boylamda yer alan Lipsos, Ege Denizi'nin coğrafi yapısına uygun olarak volkani ve kireçtaşı kayalardan oluşuyor.
 
-Mevsimsel özellikler açısından bakıldığında, Lipsos adası tipik Akdeniz ikliminin karakterini taşıyor. Yaz aylarında sıca ve güneşli bir hava, kış aylarında ise ılıman ve yağmurlu bir hava hakim oluyor. Ada, Ege Denizi'nin serinletici etkisi sayesinde yaz aylarında diğer bölgelere göre daha serin bir iklim sunuyor. Bu özelliği, Lipsos'u yaz aylarında ziyaret etmek için ideal bir yer haline getiriyor.
+Mevsimsel özellikler açısından bakıldığında, Lipsos adası tipik Akdeniz ikliminin karakterini taşıyor. Yaz aylarında sıcak ve güneşli bir hava, kış aylarında ise ılıman ve yağmurlu bir hava hakim oluyor. Ada, Ege Denizi'nin serinletici etkisi sayesinde yaz aylarında diğer bölgelere göre daha serin bir iklim sunuyor. Bu özelliği, Lipsos'u yaz aylarında ziyaret etmek için ideal bir yer haline getiriyor.
 
 Çevresel açıdan bakıldığında, Lipsos adası Ege Denizi'nin ekosistemine bağlı olarak çalışıyor. Ada, su kaynakları açısından zengin ve bu özelliği ile deniz canlıları için önemli bir yaşam alanı sunuyor. Yakınlardaki diğer adalar ve anakara ile birlikte Lipsos, bir bütün olarak düşünülerek korunuyor ve bu sayede doğal güzellikleri ve ekosistemi korunuyor.
 

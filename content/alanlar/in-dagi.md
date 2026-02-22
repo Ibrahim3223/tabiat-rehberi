@@ -45,7 +45,7 @@ Güneybatı Anadolu'nun güneşli topraklarında, Burdur'un dağlık coğrafyas�
 
 Doğal güzelliği ve jeolojik zenginliğiyle dikkat çeken İn Dağı, yaklaşık olarak bir olimpik havuz kadar geniş bir alanı kaplıyor. Ancak, fiziksel yapısı hakkında elde edilen veriler sınırlı olduğundan, dağın yüksekliği ve diğer özelliklerine ilişkin detaylı bilgi bulunmuyor. Buna rağmen, Burdur'un genel coğrafyası dikkate alındığında, İn Dağı'nın da bölgenin diğer dağlarıyla benzer özellikler taşıdığı söylenebilir.
 
-Mevsimsel değişimlerin etkisini güçlü bir şekilde hisseden İn Dağı, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve karlı bir iklime sahiptir. Bölgenin iklim karakteri, Akdeniz ikliminin özellikleri ile karasal iklimin özelliklerinin bir karışımı olarak görülebilir. Bu mevsimsel özellikler, dağın ekosisteminin çeşitliliği ve zenginliğiçin önemli bir faktör.
+Mevsimsel değişimlerin etkisini güçlü bir şekilde hisseden İn Dağı, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı bir iklime sahiptir. Bölgenin iklim karakteri, Akdeniz ikliminin özellikleri ile karasal iklimin özelliklerinin bir karışımı olarak görülebilir. Bu mevsimsel özellikler, dağın ekosisteminin çeşitliliği ve zenginliğiçin önemli bir faktör.
 
 Bölgenin hidrolojik dengesini etkileyen su kaynakları, İn Dağı'nın çevresinde yer alan akarsular ve göllerle bağlantılıdır. Dağın eteklerinde ve civarında bulunan su kaynakları, bölgenin tarım ve sulama faaliyetleri için hayati önem taşıyor. Bu nedenle, İn Dağı ve çevresi, bölgenin ekosistem bağlantıları ve çevresel ilişkileri açısından önemli bir role sahip.
 

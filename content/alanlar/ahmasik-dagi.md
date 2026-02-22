@@ -42,7 +42,7 @@ Ankara'nın kuzeydoğusunda yer alan Ahmaşık Dağı, 40.0483°K, 32.4142°D ko
 
 Jeolojik açıdan bakıldığında, Ahmaşık Dağı'nın boyutları ve şekli hakkında detaylı bilgi bulunmamasına rağmen, genel olarak Ankara'nın kuzeyindeki dağlık alanlar, birkaç olimpik havuz kadar büyüklüğe sahip küçük tepe ve dağlardan oluşmaktadır. Bu dağlık alanlar, bölgenin jeolojik yapısını etkileyen önemli faktörler arasında yer almaktadır.
 
-İklim açısından Ahmaşık Dağı, Ankara'nın genel iklim karakterini paylaşmaktadır. Bölge, karasal iklimin hakim olduğu bir alanda yer almaktadır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumunda bulunmaktadır. Ahmaşık Dağı, bölgenin iklimini şekillendiren önemli faktörlerden biri olup, çevresindeki ekosistemi de etkilemektedir.
+İklim açısından Ahmaşık Dağı, Ankara'nın genel iklim karakterini paylaşmaktadır. Bölge, karasal iklimin hakim olduğu bir alanda yer almaktadır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumunda bulunmaktadır. Ahmaşık Dağı, bölgenin iklimini şekillendiren önemli faktörlerden biri olup, çevresindeki ekosistemi de etkilemektedir.
 
 Çevresel açıdan Ahmaşık Dağı, Ankara'nın kuzeyindeki dağlık alanların bir parçası olarak, bölgenin ekosistemini unterstütlemektedir. Bu dağlık alan, Monaco'nun yarısı kadar büyüklüğe sahip bir bölgeyi kaplamaktadır ve bölgenin su kaynaklarını şekillendirmektedir. Ahmaşık Dağı, çevresindeki diğer dağlık alanlarla birlikte, bölgenin doğal dengesini korumakta ve Ankara'nın kuzeyindeki ekosistemin bir parçası olarak görev yapmaktadır.
 

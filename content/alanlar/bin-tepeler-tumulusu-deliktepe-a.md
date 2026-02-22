@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü Deliktepe A'nın tarihi geçmişi, Ege Bölgesi'nin ant
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü Deliktepe A, Ege Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Bu bölge, Salihli, Manisa'nın doğal güzellikleriyle dolu bir alanı olarak, ziyaretçilerini büyüleyici manzaralarıyla karşılar. 140 hektarlık bir alanı kaplayan Deliktepe A, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Bu bölge, genellikle sıca ve kurak yaz aylarıyla birlikte ılıman bir iklimi sahiptir. Deliktepe A, çevresi ile birlikte zengin bir flora ve fauna çeşitliliğine sahiptir. Bölgenin coğrafi yapısı, ziyaretçilere hem tarihi kalıntıları keşfetme hem de doğal güzellikleri discovery fırsatı sunar. Bin Tepeler Tümülüsü Deliktepe A, Ege Bölgesi'nin coğrafi zenginliklerini bir araya getiren benzersiz bir destinasyondur.
+Bin Tepeler Tümülüsü Deliktepe A, Ege Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Bu bölge, Salihli, Manisa'nın doğal güzellikleriyle dolu bir alanı olarak, ziyaretçilerini büyüleyici manzaralarıyla karşılar. 140 hektarlık bir alanı kaplayan Deliktepe A, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Bu bölge, genellikle sıcak ve kurak yaz aylarıyla birlikte ılıman bir iklimi sahiptir. Deliktepe A, çevresi ile birlikte zengin bir flora ve fauna çeşitliliğine sahiptir. Bölgenin coğrafi yapısı, ziyaretçilere hem tarihi kalıntıları keşfetme hem de doğal güzellikleri discovery fırsatı sunar. Bin Tepeler Tümülüsü Deliktepe A, Ege Bölgesi'nin coğrafi zenginliklerini bir araya getiren benzersiz bir destinasyondur.
 
 ## Flora ve Fauna
 

@@ -42,7 +42,7 @@ Sivas'ın coğrafi zenginliklerini keşfetmek isteyenler için, Karayüce Tepe �
 
 Jeolojik açıdan incelendiğinde, Karayüce Tepe'nin coğrafi yapısı oldukça dikkat çekici. Veriler sınırlı olsa da, tepe'nin genel şekli ve boyutları, bir olimpik stadyumun birkaç katı büyüklüğünde bir alanı kapladığını gösteriyor. Bu büyüklük, ziyaretçilerin tepe'nin zirvesine çıktığında, geniş bir manzara ile karşılaşmalarını sağlıyor. Ancak, tepe'nin yüksekliği hakkında net bir veri bulunmuyor.
 
-İklim açısından bakıldığında, Karayüce Tepe'nin bulunduğu bölgenin mevsimsel özelliklerine dikkat etmek gerekiyor. Sivas'ın karasal ikliminin etkisi altında kalan tepe, kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumuyla karşılaşıyor. Bu mevsimsel değişimler, tepe'nin ekosistemini şekillendiren önemli faktörler arasında yer alıyor.
+İklim açısından bakıldığında, Karayüce Tepe'nin bulunduğu bölgenin mevsimsel özelliklerine dikkat etmek gerekiyor. Sivas'ın karasal ikliminin etkisi altında kalan tepe, kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumuyla karşılaşıyor. Bu mevsimsel değişimler, tepe'nin ekosistemini şekillendiren önemli faktörler arasında yer alıyor.
 
 Doğal kaynaklar ve çevresel ilişkiler açısından, Karayüce Tepe'nin bulunduğu bölge, su kaynakları ve ekosistem bağlantıları açısından zengin bir çeşitlilik sunuyor. Yaklaşık 10 kilometre uzaklıkta bulunan bir nehir, tepe'nin su kaynakları açısından önemli bir rol oynuyor. Ayrıca, tepe'nin surroundingsındaki ormanlık alanlar, bölgenin ekosistem dengesini koruyor. Bu doğal kaynaklar ve çevresel ilişkiler, Karayüce Tepe'nin bir bütün olarak değerlendirilmesini ve korunmasını gerektiriyor.
 

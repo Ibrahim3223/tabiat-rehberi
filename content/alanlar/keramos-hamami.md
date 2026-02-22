@@ -37,7 +37,7 @@ Keramos Hamamı'nın tarihi geçmişi, Milas'ın eski dönemlerine kadar uzanıy
 
 ## Coğrafya
 
-Keramos Hamamı, Ege Bölgesi'nin Muğla ilinin Milas ilçesinde yer alıyor. Bu plaj, 140 hektarlık bir alana kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. Plajın etrafı, yeşilin çeşitli tonlarını sunan ağaçlar ve bitkilerle çevrilidir. Keramos Hamamı, denize sıfır bir konumda yer alıyor ve bu sayede, denizin tadını çıkarmak isteyenler için ideal bir yer sunuyor. Plajın bulunduğu bölge, genellikle sıca ve kurak bir iklime sahip. Yaz aylarında sıcakların artmasıyla birlikte, plajın ziyaretçi sayısı da artıyor. Keramos Hamamı'nın coğrafi konumu, bu plajı ziyaret etmek isteyenler için ulaşım kolaylığı sağlıyor.
+Keramos Hamamı, Ege Bölgesi'nin Muğla ilinin Milas ilçesinde yer alıyor. Bu plaj, 140 hektarlık bir alana kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. Plajın etrafı, yeşilin çeşitli tonlarını sunan ağaçlar ve bitkilerle çevrilidir. Keramos Hamamı, denize sıfır bir konumda yer alıyor ve bu sayede, denizin tadını çıkarmak isteyenler için ideal bir yer sunuyor. Plajın bulunduğu bölge, genellikle sıcak ve kurak bir iklime sahip. Yaz aylarında sıcakların artmasıyla birlikte, plajın ziyaretçi sayısı da artıyor. Keramos Hamamı'nın coğrafi konumu, bu plajı ziyaret etmek isteyenler için ulaşım kolaylığı sağlıyor.
 
 ## Flora ve Fauna
 

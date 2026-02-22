@@ -44,7 +44,7 @@ Yerleşim yerlerinden uzakta, Burdur'un dağlık bölgesinde yer alan Çavdır D
 
 Doğal güzelliği ve coğrafi yapısı ile dikkat çeken Çavdır Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu boyut, bir köyün merkezini çevreleyen yeşil alanların toplamından daha büyüktür. Dağın fiziksel yapısı, bölgenin jeolojik geçmişini yansıtan kayaçlarla kaplıdır. Ancak, daha detaylı fiziksel veriler bulunmadığından, dağın yüksekliği ve şekli hakkında net bilgi verilememektedir.
 
-Mevsimsel değişimler, Çavdır Dağı'nın iklim karakterini şekillendirmektedir. Kış aylarında, dağların zirvelerinde kar yağışı görülürken, yaz aylarında sıca ve kurak bir hava hakim olmaktadır. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkilemekte ve dağda yaşayan canlıların uyum sağlamasına neden olmaktadır.
+Mevsimsel değişimler, Çavdır Dağı'nın iklim karakterini şekillendirmektedir. Kış aylarında, dağların zirvelerinde kar yağışı görülürken, yaz aylarında sıcak ve kurak bir hava hakim olmaktadır. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkilemekte ve dağda yaşayan canlıların uyum sağlamasına neden olmaktadır.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları, Çavdır Dağı'nın çevresel ilişkilerini belirlemektedir. Dağın eteklerinde yer alan akarsular ve göller, bölgenin su döngüsünü oluşturur ve komşu alanlara su taşır. Bu su kaynakları, dağda yaşayan canlılar için hayati önem taşıyor ve bölgenin ekosistemini zenginleştirmektedir. Çavdır Dağı, bu su kaynakları ve ekosistem bağlantıları ile birlikte, bölgenin doğal dengesini korumakta ve çevresindeki alanlarla bağlantılı bir şekilde varlığını sürdürmektedir.
 
@@ -54,7 +54,7 @@ Bölgenin su kaynakları ve ekosistem bağlantıları, Çavdır Dağı'nın çev
 
 Dağın bitki örtüsünü oluşturan maki türleri, kuraklığa dayanıklı ağaçlar ve çalılardır. Bu bitkiler, dağın yükseklik zonlarına göre değişir. Dağın daha yüksek noktalarında, alpin flora hakimdir. Bu bitkiler, soğu ve rüzgarlı koşullara adapte olmuşlardır.
 
-Dağın yaban hayatı da zengin ve çeşitli olup, memeliler, kuşlar ve sürüngenler bulunur. Dağ keçileri, dağların yüksek noktalarında yaşar ve bu alanların hakimidir. Kuşlar ise, dağların üzerinde uçarak avlanırlar. Sürüngenler ise, dağların sıca ve güneşli noktalarında yaşarlar. Bu canlılar, dağ ekosisteminin önemli bir parçasıdır ve birbirleriyle ekolojik ilişkiler içinde yaşarlar.
+Dağın yaban hayatı da zengin ve çeşitli olup, memeliler, kuşlar ve sürüngenler bulunur. Dağ keçileri, dağların yüksek noktalarında yaşar ve bu alanların hakimidir. Kuşlar ise, dağların üzerinde uçarak avlanırlar. Sürüngenler ise, dağların sıcak ve güneşli noktalarında yaşarlar. Bu canlılar, dağ ekosisteminin önemli bir parçasıdır ve birbirleriyle ekolojik ilişkiler içinde yaşarlar.
 
 ## Ziyaret Bilgileri
 

@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin coğrafi güzelliklerine ev sahipliği yapan Derem Da
 
 Jeolojik açıdan incelendiğinde, Derem Dağı'nın coğrafi yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel jeolojik özellikleri düşünüldüğünde, volkanik kökenli bir dağ olabileceği söylenebilir. Bu dağ, yaklaşık 1200 hektarlık bir alanı kaplar, bu da İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplar. Derem Dağı'nın boyutları, Monaco'nun yarısı kadar bir alanı kaplayan bir città devleti büyüklüğünde düşünülebilir.
 
-Mevsimsel açıdan bakıldığında, Derem Dağı'nın iklimi Doğu Anadolu Bölgesi'nin genel iklim karakterine benzer. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise ılıman ve yağışlı bir iklim hakimdir. Bu dağ, bölgenin su kaynaklarının oluşumunda önemli bir rol oynar. Çevresel açıdan, Derem Dağı'nın komşu alanlar ve su kaynakları ile bağlantısı önemlidir. Bu dağ, bölgenin ekosistemini destekleyen önemli bir bileşen olarakseenbilir.
+Mevsimsel açıdan bakıldığında, Derem Dağı'nın iklimi Doğu Anadolu Bölgesi'nin genel iklim karakterine benzer. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise ılıman ve yağışlı bir iklim hakimdir. Bu dağ, bölgenin su kaynaklarının oluşumunda önemli bir rol oynar. Çevresel açıdan, Derem Dağı'nın komşu alanlar ve su kaynakları ile bağlantısı önemlidir. Bu dağ, bölgenin ekosistemini destekleyen önemli bir bileşen olarakseenbilir.
 
 ## Flora ve Fauna
 

@@ -38,7 +38,7 @@ Veli Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-Veli Dede Türbesi, Marmara Bölgesi'nin Edirne ilinde yer alıyor. Bu bölge, coğrafi açıdan zengin ve çeşitli bir yapıya sahip. Veli Dede Türbesi'nin bulunduğu alan, yaklaşık 140 hektar büyüklüğünde ve ziyaretçilerini geniş bir yeşil alan sunuyor. Bu bölgenin coğrafi yapısı, ziyaretçilere doğa güzelliklerini keşfetme fırsatı veriyor. Veli Dede Türbesi, Edirne'nin merkezine yakın bir konumda yer alıyor ve ulaşım açısından kolaylık sağlıyor. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak değişkenlik gösteriyor. Kış ayları soğu ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor.
+Veli Dede Türbesi, Marmara Bölgesi'nin Edirne ilinde yer alıyor. Bu bölge, coğrafi açıdan zengin ve çeşitli bir yapıya sahip. Veli Dede Türbesi'nin bulunduğu alan, yaklaşık 140 hektar büyüklüğünde ve ziyaretçilerini geniş bir yeşil alan sunuyor. Bu bölgenin coğrafi yapısı, ziyaretçilere doğa güzelliklerini keşfetme fırsatı veriyor. Veli Dede Türbesi, Edirne'nin merkezine yakın bir konumda yer alıyor ve ulaşım açısından kolaylık sağlıyor. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak değişkenlik gösteriyor. Kış ayları soğuk ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor.
 
 ## Flora ve Fauna
 

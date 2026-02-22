@@ -46,7 +46,7 @@ Gala Gölü, Edirne'nin sınırları içerisinde yer alan bir göldür. 40.7673�
 
 Doğal güzelliği ile dikkat çeken Gala Gölü, yaklaşık olarak Taksim Meydanı'nın 10 katı büyüklüğünde bir alanı kaplamaktadır. Ancak, fiziksel yapı hakkında detaylı bilgi bulunmaması nedeniyle, gölün boyutları ve şekli hakkında net bir fikir oluşmamaktadır. Bununla birlikte, Trakya bölgesinin jeolojik yapısı dikkate alındığında, gölün surroundingsının alüvyonlu ovalar ve deltaik alanlardan oluştuğu söylenebilir.
 
-Mevsimsel özellikler açısından Gala Gölü, karasal iklimin etkilerini taşır. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kuru bir hava hüküm sürer. Bu iklim karakteri, gölün su seviyesi ve canlı yaşamı üzerinde önemli etkilere sahiptir. Su seviyesi, mevsimsel yağışlara bağlı olarak değişkenlik gösterir ve bu durum, gölün ekosistemi üzerinde önemli sonuçlar doğurabilir.
+Mevsimsel özellikler açısından Gala Gölü, karasal iklimin etkilerini taşır. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kuru bir hava hüküm sürer. Bu iklim karakteri, gölün su seviyesi ve canlı yaşamı üzerinde önemli etkilere sahiptir. Su seviyesi, mevsimsel yağışlara bağlı olarak değişkenlik gösterir ve bu durum, gölün ekosistemi üzerinde önemli sonuçlar doğurabilir.
 
 Çevresel açıdan Gala Gölü, bölgenin önemli ekosistem bağlantılarını oluşturur. Göl, komşu alanlardaki su kaynakları ile bağlantılıdır ve bu sayede, bölgenin su döngüsünde önemli bir rol oynar. Ayrıca, Gala Gölü, çeşitli kuş türleri ve diğer canlıların yaşam alanını oluşturur ve bu nedenle, bölgenin biyolojik çeşitliliğini korumak açısından büyük önem taşımaktadır.
 

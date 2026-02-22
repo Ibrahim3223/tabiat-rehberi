@@ -36,7 +36,7 @@ Kocahöyük Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği ya
 
 ## Coğrafya
 
-Kocahöyük Tepesi, Marmara Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Tepenin 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Tepenin eteklerinde yer alan köyler, bölgenin tarım ve hayvancılık faaliyetlerine ev sahipliği yapıyor. İklim, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor; yazları sıca ve kurak, kışları ise ılıman ve yağışlı. Kocahöyük Tepesi, ziyaretçilere bölgenin coğrafi güzelliklerini keşfetme fırsatı sunuyor. Tepenin manzarası, özellikle gün batımında, ziyaretçilere unutulmaz bir deneyim sağlıyor.
+Kocahöyük Tepesi, Marmara Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Tepenin 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Tepenin eteklerinde yer alan köyler, bölgenin tarım ve hayvancılık faaliyetlerine ev sahipliği yapıyor. İklim, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor; yazları sıcak ve kurak, kışları ise ılıman ve yağışlı. Kocahöyük Tepesi, ziyaretçilere bölgenin coğrafi güzelliklerini keşfetme fırsatı sunuyor. Tepenin manzarası, özellikle gün batımında, ziyaretçilere unutulmaz bir deneyim sağlıyor.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ wikidata_id: "Q34828209"
 
 ## Coğrafya
 
-Çamlıca, Sivas'ın coğrafi yapısını oluşturan önemli bir bölgedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır ve şehrin merkezine oldukça yakındır. Çamlıca'nın etrafında, çeşitli bitki türleri ve ağaçlar bulunmaktadır. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik göstermektedir. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Çamlıca, Sivas'ın panoramik manzarasını izlemek için ideal bir konumda bulunmaktadır ve şehrin önemli noktalarını görme mümkündür.
+Çamlıca, Sivas'ın coğrafi yapısını oluşturan önemli bir bölgedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır ve şehrin merkezine oldukça yakındır. Çamlıca'nın etrafında, çeşitli bitki türleri ve ağaçlar bulunmaktadır. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik göstermektedir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Çamlıca, Sivas'ın panoramik manzarasını izlemek için ideal bir konumda bulunmaktadır ve şehrin önemli noktalarını görme mümkündür.
 
 ## Flora ve Fauna
 

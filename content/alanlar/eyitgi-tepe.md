@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Eyitgi Tepe, 37.8264°K ve 41
 
 Doğal güzelliği ve coğrafi konumu ile dikkat çeken Eyitgi Tepe, yaklaşık 1200 hektarlık bir alanı kaplıyor. Bu boyut, İstanbul'un Adalar ilçesi büyüklüğüne yakın bir alan olarak düşünülebilir. Tepe, çevresindeki dağlarla birlikte bir bütün olarak düşünüldüğünde, Eiffel Kulesi'nin 5 katı yükseklikte bir nokta gibi görünebilir. Ancak, Eyitgi Tepe'nin yüksekliği ve şekli hakkında daha detaylı bilgi bulunmuyor.
 
-Mevsimsel olarak, Eyitgi Tepe'nin iklimi güneydoğu Anadolu Bölgesi'nin genel iklim karakterini yansıtıyor. Yaz aylarında sıcaklık ve nem artarken, kış aylarında soğu ve yağışlı bir hava hakim oluyor. Bu iklim koşulları, tepe ve çevresindeki bitki örtüsünü ve hayvan yaşamını etkiliyor. Hava durumu, bölgenin coğrafi yapısına bağlı olarak değişkenlik gösteriyor.
+Mevsimsel olarak, Eyitgi Tepe'nin iklimi güneydoğu Anadolu Bölgesi'nin genel iklim karakterini yansıtıyor. Yaz aylarında sıcaklık ve nem artarken, kış aylarında soğuk ve yağışlı bir hava hakim oluyor. Bu iklim koşulları, tepe ve çevresindeki bitki örtüsünü ve hayvan yaşamını etkiliyor. Hava durumu, bölgenin coğrafi yapısına bağlı olarak değişkenlik gösteriyor.
 
 Çevresel açıdan, Eyitgi TepeBatman şehri ve çevresindeki diğer dağlar ve vadilerle bir bütün olarak düşünülüyor. Tepe, bölgenin su kaynakları ve ekosistem bağlantıları için önemli bir rol oynuyor. Çevresindeki diğer doğal alanlarla birlikte, Eyitgi Tepe bir ekosistem olarak düşünülüyor ve bu ekosistemin korunması için çalışılıyor.
 

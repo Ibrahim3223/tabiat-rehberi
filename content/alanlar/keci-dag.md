@@ -45,7 +45,7 @@ Ankara'nın kalbinde yer alan Keçi Dağ, 39.6244°K ve 32.5625°D koordinatlar�
 
 Doğal güzelliği ile dikkat çeken Keçi Dağ, Ankara'nın coğrafyasında önemli bir yer tutar. Ancak, fiziksel verileri sınırlı olduğu için boyutları ve şekli hakkında kesin bilgiler bulunmamaktadır. Buna rağmen, Keçi Dağ'ın Ankara'nın toplam yüzölçümünün küçük bir bölümünü kapladığı söylenebilir. Monaco'nun onda biri kadar bir alanı kaplayan bu dağ, Ankara'nın doğal güzelliklerine önemli bir katkı sağlar.
 
-Mevsimsel özelliklere bakıldığında, Keçi Dağ'ın iklimi Ankara'nın genel iklimine benzerlik gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürer. Bu mevsimsel değişiklikler, Keçi Dağ'ın doğal yaşamına ve bitki örtüsüne önemli etkilerde bulunur.
+Mevsimsel özelliklere bakıldığında, Keçi Dağ'ın iklimi Ankara'nın genel iklimine benzerlik gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürer. Bu mevsimsel değişiklikler, Keçi Dağ'ın doğal yaşamına ve bitki örtüsüne önemli etkilerde bulunur.
 
 Çevresel açıdan bakıldığında, Keçi Dağ Ankara'nın önemli su kaynaklarına yakın bir bölgede bulunur. Ankara'nın su ihtiyacını karşılayan kaynaklardan biri olan Çubuk Barajı, Keçi Dağ'ın yakınında yer alır. Bu su kaynakları, Keçi Dağ'ın doğal yaşamını destekler ve bölgenin ekosistemine önemli katkılar sağlar.
 

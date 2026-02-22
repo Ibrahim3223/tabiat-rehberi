@@ -37,7 +37,7 @@ Arasa Hamamı'nın tarihi geçmişi, bölgenin eski uygarlıklarının izlerini 
 
 ## Coğrafya
 
-Arasa Hamamı, Şanlıurfa'nın Eyyübiye ilçesinde, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu bölgenin coğrafyası, genellikle step ve ova şeklinde tanımlanabilir. Arasa Hamamı'nın bulunduğu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü bitki türleriyle dolu. Bölgenin iklimi, genellikle sıca ve kurak olarak tanımlanır, ancak Arasa Hamamı'nın yeşil alanı, ziyaretçilere serin ve ferah bir ortam sunuyor. Arasa Hamamı'nın coğrafi konumu, aynı zamanda bölgenin fauna çeşitliliğiçin de önemli bir role sahip. Bu bölgede, çeşitli kuş türleri ve diğer canlılar, Arasa Hamamı'nın doğal güzelliğine katkıda bulunuyor.
+Arasa Hamamı, Şanlıurfa'nın Eyyübiye ilçesinde, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu bölgenin coğrafyası, genellikle step ve ova şeklinde tanımlanabilir. Arasa Hamamı'nın bulunduğu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü bitki türleriyle dolu. Bölgenin iklimi, genellikle sıcak ve kurak olarak tanımlanır, ancak Arasa Hamamı'nın yeşil alanı, ziyaretçilere serin ve ferah bir ortam sunuyor. Arasa Hamamı'nın coğrafi konumu, aynı zamanda bölgenin fauna çeşitliliğiçin de önemli bir role sahip. Bu bölgede, çeşitli kuş türleri ve diğer canlılar, Arasa Hamamı'nın doğal güzelliğine katkıda bulunuyor.
 
 ## Flora ve Fauna
 

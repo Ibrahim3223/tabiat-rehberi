@@ -38,7 +38,7 @@ Uzun Hamam'ın tarihi geçmişi, bölgenin coğrafi ve kültürel özellikleriyl
 
 ## Coğrafya
 
-Uzun Hamam, Trabzon'un Bafra ilçesinde yer alan bir plajdır ve yaklaşık 140 hektarlık bir yeşil alana sahiptir. Bu bölge, Karadeniz kıyısında yer alır ve deniz kenarında uzun bir sahil şeridine sahiptir. Uzun Hamam'ın coğrafi konumu, ziyaretçilere deniz, güneş ve yeşilin keyfini çıkarma imkanı sunar. Bölge, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Uzun Hamam'ın iklimi, Karadeniz ikliminin özellikleri taşır ve bu nedenle yaz ayları serin ve yağışlı, kış ayları ise soğu ve yağışlı geçer. Bu coğrafi ve iklimsel özellikler, bölgeyi doğa severler ve turistler için ideal bir destinasyon haline getirir.
+Uzun Hamam, Trabzon'un Bafra ilçesinde yer alan bir plajdır ve yaklaşık 140 hektarlık bir yeşil alana sahiptir. Bu bölge, Karadeniz kıyısında yer alır ve deniz kenarında uzun bir sahil şeridine sahiptir. Uzun Hamam'ın coğrafi konumu, ziyaretçilere deniz, güneş ve yeşilin keyfini çıkarma imkanı sunar. Bölge, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Uzun Hamam'ın iklimi, Karadeniz ikliminin özellikleri taşır ve bu nedenle yaz ayları serin ve yağışlı, kış ayları ise soğuk ve yağışlı geçer. Bu coğrafi ve iklimsel özellikler, bölgeyi doğa severler ve turistler için ideal bir destinasyon haline getirir.
 
 ## Flora ve Fauna
 

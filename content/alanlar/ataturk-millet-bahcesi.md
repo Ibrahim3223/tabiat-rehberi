@@ -44,7 +44,7 @@ Türkiye'de botanik bahçeleri ve doğal alanlar, insan yaşamının ayrılmaz b
 
 Doğal güzelliği ve yeşil alanlarıyla ön plana çıkan Atatürk Millet Bahçesi, coğrafi olarak bakırköy semtinin merkezinde yer alır. Ancak, bahçenin fiziksel yapısı hakkında detaylı bilgi bulunmamasına rağmen, bu tür bir botanik bahçesinin genellikle düzenli ve planlı bir şekilde düzenlendiğini söyleyebiliriz. Bir şehir bloğu büyüklüğünde olan bazı kısımları, ziyaretçilere keyifli bir yürüyüş deneyimi sunar.
 
-İklim açısından bakıldığında, Atatürk Millet Bahçesi, İstanbul'un genel iklim karakterini taşır. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve nemli bir hava hüküm sürer. Bu mevsimsel özellikler, bahçenin bitki örtüsünü ve ekosistemini etkiler. Birkaç olimpik havuz kadar geniş bir alanda, çeşitli bitki türleri ve ağaçlar, mevsimlere göre değişen bir güzelliğe sahiptir.
+İklim açısından bakıldığında, Atatürk Millet Bahçesi, İstanbul'un genel iklim karakterini taşır. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve nemli bir hava hüküm sürer. Bu mevsimsel özellikler, bahçenin bitki örtüsünü ve ekosistemini etkiler. Birkaç olimpik havuz kadar geniş bir alanda, çeşitli bitki türleri ve ağaçlar, mevsimlere göre değişen bir güzelliğe sahiptir.
 
 Atatürk Millet Bahçesi, çevresindeki diğer yeşil alanlarla ve su kaynaklarıyla bağlantılı bir ekosistem oluşturur. Bahçenin yakınında bulunan Yeşilköy ve Küçükçekmece gölleri, bu bölgenin doğal su kaynaklarıdır. Bu göller, bahçenin bitki örtüsünü ve canlılarını destekler ve bölgenin ekolojik dengesini korur.
 

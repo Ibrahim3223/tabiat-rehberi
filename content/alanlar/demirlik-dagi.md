@@ -42,7 +42,7 @@ Kütahya'nın dağlık coğrafyasında yer alan Demirlik Dağı, 39.1858°K ve 3
 
 Doğal güzelliği ve jeolojik yapısıyla dikkat çeken Demirlik Dağı, bölgenin diğer dağları gibi genellikle kalker ve şist gibi kayaçlardan oluşmaktadır. Dağın boyutları hakkında kesin bir veri olmasa da, bu tür dağların genellikle birkaç olimpik yüzme havuzu büyüklüğünde bir alanı kapladığı düşünülebilir. Bu büyüklükte bir alan, hem yerel fauna hem de flora için önemli bir yaşam alanı sunar.
 
-Yıllık hava durumu verilerine bakıldığında, Demirlik Dağı ve çevresinin karasal iklimin hakim olduğu bir bölge olduğu görülür. Bu bölgede kışlar soğu ve kar yağışlı, yazlar ise sıca ve kurudur. Bu mevsimsel değişimler, dağın ve çevresinin ekosistemi üzerinde önemli bir etkiye sahiptir. Örneğin, yaz aylarında kuraklık, yerel su kaynaklarının yönetimini etkiler.
+Yıllık hava durumu verilerine bakıldığında, Demirlik Dağı ve çevresinin karasal iklimin hakim olduğu bir bölge olduğu görülür. Bu bölgede kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu mevsimsel değişimler, dağın ve çevresinin ekosistemi üzerinde önemli bir etkiye sahiptir. Örneğin, yaz aylarında kuraklık, yerel su kaynaklarının yönetimini etkiler.
 
 Demirlik Dağı, çevresindeki diğer coğrafi oluşumlarla birlikte, bir bütün olarak düşünülürse, Monaco'nun yaklaşık yarısı kadar bir alanı kaplar. Bu bölge, su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahiptir. Örneğin, yakın çevresindeki akarsular ve göller, bölgenin su döngüsünü etkiler ve yerel ekosistemin dengesini sağlar. Bu nedenle, Demirlik Dağı ve çevresinin korunması, bölgenin doğal dengesinin sürdürülmesi için önemlidir.
 

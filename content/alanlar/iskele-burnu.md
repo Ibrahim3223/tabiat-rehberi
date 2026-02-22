@@ -42,7 +42,7 @@ Göller Yöresi'nin güzide noktalarından biri olan İskele Burnu, Bitlis ilini
 
 Doğal güzelliği ile dikkat çeken İskele Burnu, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Ada, jeolojik açıdan incelendiğinde, bölgenin karakteristik özelliklerini taşıyor. Ancak, detailed fiziksel veriler bulunmaması nedeniyle ada hakkındaki bilgiler sınırlı kalıyor.
 
-İklim açısından bakıldığında, İskele Burnu'nun bulunduğu bölge, karasal iklimin hakim olduğu bir alan olarak dikkat çekiyor. Mevsimsel değişiklikler, ada çevresinde önemli etkilere sahip. Kış aylarında soğu ve kar yağışlı bir hava, yaz aylarında ise sıca ve kurak bir iklim hakim oluyor.
+İklim açısından bakıldığında, İskele Burnu'nun bulunduğu bölge, karasal iklimin hakim olduğu bir alan olarak dikkat çekiyor. Mevsimsel değişiklikler, ada çevresinde önemli etkilere sahip. Kış aylarında soğuk ve kar yağışlı bir hava, yaz aylarında ise sıcak ve kurak bir iklim hakim oluyor.
 
 Ada ile çevresindeki su kaynakları ve ekosistem arasında önemli bir bağ bulunuyor. Van Gölü, ada için hayati bir su kaynağı olarak görev yapıyor. Bu göl, bölgenin ekosistem dengesini korumada önemli bir rol oynuyor. Ada, gölün kıyılarına yakın bir konumda bulunduğundan, su kaynakları ve çevre ile olan ilişkileri oldukça önemli.
 

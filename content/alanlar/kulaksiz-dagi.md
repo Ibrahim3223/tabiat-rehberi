@@ -42,7 +42,7 @@ Kütahya'nın doğusunda yer alan Kulaksız Dağı, 39.2062°K, 30.1503°D koord
 
 Jeolojik açıdan bakıldığında, Kulaksız Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bu bölgenin genel coğrafyası, Türkiye'nin diğer dağlık bölgeleri gibi karmaşık bir yapıya sahiptir. Dağın boyutları hakkında kesin bir bilgi olmasa da, bu gibi dağların genellikle birkaç kilometrelik bir alanı kapladığı düşünülebilir. Monaco'nun yarısı kadar büyük bir alanın yaklaşık 3,5 km² olduğu düşünülürse, Kulaksız Dağı'nın boyutunun benzer bir ölçekte olduğu söylenebilir.
 
-İklimsel açıdan, Kulaksız Dağı'nın bulunduğu bölge, İç Anadolu Bölgesi'nin karakteristik iklimini taşır. Bu bölgede, yazlar sıca ve kurak, kışlar ise soğu ve karlı geçer. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan 600-700 metre civarında olabilir. Bu yükseklik, mevsimsel hava koşullarının değişken olmasına neden olur.
+İklimsel açıdan, Kulaksız Dağı'nın bulunduğu bölge, İç Anadolu Bölgesi'nin karakteristik iklimini taşır. Bu bölgede, yazlar sıcak ve kurak, kışlar ise soğuk ve karlı geçer. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan 600-700 metre civarında olabilir. Bu yükseklik, mevsimsel hava koşullarının değişken olmasına neden olur.
 
 Doğal çevre açısından, Kulaksız Dağı, Kütahya'nın diğer dağlık alanlarına benzer bir ekosisteme sahiptir. Bu bölgede, genellikle ormanlık alanlar, çayır ve meralar bulunur. Dağın eteklerinde, su kaynakları ve akarsular bulunabilir. Çevresindeki diğer dağlar ve ovalarla birlikte, Kulaksız Dağı, bölgenin doğal güzelliklerini ve biyolojik çeşitliliğini korur.
 

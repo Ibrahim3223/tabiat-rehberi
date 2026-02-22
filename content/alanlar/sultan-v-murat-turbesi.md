@@ -37,7 +37,7 @@ Sultan V. Murat Türbesi, tarihsel olarak önemli bir geçmişe sahiptir. Bu tü
 
 ## Coğrafya
 
-Sultan V. Murat Türbesi, Fatih/İstanbul'da yer almaktadır. Türbenin bulunduğu bölge, Marmara Bölgesi'nin coğrafi özelliklerini taşır. Bölge, karasal iklimin etkilerini gösterir. Kış ayları soğu ve yağışlı, yaz ayları ise sıcak ve kurudur. Sultan V. Murat Türbesi, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır. Türbenin etrafı, tarihi eserlerle dolu bir bölgeye kuruludur. Bu bölge, İstanbul'un en önemli tarihi merkezlerinden biridir. Sultan V. Murat Türbesi, çevresindeki diğer tarihi eserlerle birlikte, bir açık hava müzesi olarak hizmet vermektedir. Türbenin coğrafi konumu, ziyaretçilere geniş bir perspektif sunmaktadır. Ziyaretçiler, türbeyi ziyaret ederek, İstanbul'un coğrafi güzelliklerini keşfedebilmektedir.
+Sultan V. Murat Türbesi, Fatih/İstanbul'da yer almaktadır. Türbenin bulunduğu bölge, Marmara Bölgesi'nin coğrafi özelliklerini taşır. Bölge, karasal iklimin etkilerini gösterir. Kış ayları soğuk ve yağışlı, yaz ayları ise sıcak ve kurudur. Sultan V. Murat Türbesi, yüksek bir konumda yer alır. Türbenin etrafı, tarihi eserlerle dolu bir bölgeye kuruludur. Bu bölge, İstanbul'un en önemli tarihi merkezlerinden biridir. Sultan V. Murat Türbesi, çevresindeki diğer tarihi eserlerle birlikte, bir açık hava müzesi olarak hizmet vermektedir. Türbenin coğrafi konumu, ziyaretçilere geniş bir perspektif sunmaktadır. Ziyaretçiler, türbeyi ziyaret ederek, İstanbul'un coğrafi güzelliklerini keşfedebilmektedir.
 
 ## Flora ve Fauna
 

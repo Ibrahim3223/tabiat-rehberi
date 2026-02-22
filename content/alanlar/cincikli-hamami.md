@@ -38,7 +38,7 @@ Cincıklı Hamamı'nın tarihi geçmişi, Diyarbakır'ın tarihi ile iç içe ge
 
 ## Coğrafya
 
-Cincıklı Hamamı, Diyarbakır'ın Sur ilçesinde bulunmaktadır ve yaklaşık 140 hektarlık bir alanı kapsar. Bu plaj, Dicle Nehri'nin kıyısında yer alır ve çeşitli bitki türleri ile zengin fauna tarafından çevrilidir. Cincıklı Hamamı'nın coğrafi yapısı, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunar. Plajın etrafında, çeşitli bitki türleri ve ağaçlar bulunur ve bu, ziyaretçilere doğayı keşfetme fırsatı sunar. Cincıklı Hamamı, Diyarbakır'ın iklimi nedeniyle, genellikle sıca ve khô bir hava sahiptir. Ancak, plajın etrafındaki ağaçlar ve bitki türleri, ziyaretçilere serinli ve huzur sağlar. Cincıklı Hamamı, doğa severler için ideal bir destinasyondur ve ziyaretçilere, Diyarbakır'ın doğal güzelliklerini keşfetme fırsatı sunar.
+Cincıklı Hamamı, Diyarbakır'ın Sur ilçesinde bulunmaktadır ve yaklaşık 140 hektarlık bir alanı kapsar. Bu plaj, Dicle Nehri'nin kıyısında yer alır ve çeşitli bitki türleri ile zengin fauna tarafından çevrilidir. Cincıklı Hamamı'nın coğrafi yapısı, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunar. Plajın etrafında, çeşitli bitki türleri ve ağaçlar bulunur ve bu, ziyaretçilere doğayı keşfetme fırsatı sunar. Cincıklı Hamamı, Diyarbakır'ın iklimi nedeniyle, genellikle sıcak ve kuru bir hava sahiptir. Ancak, plajın etrafındaki ağaçlar ve bitki türleri, ziyaretçilere serinli ve huzur sağlar. Cincıklı Hamamı, doğa severler için ideal bir destinasyondur ve ziyaretçilere, Diyarbakır'ın doğal güzelliklerini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -46,7 +46,7 @@ Cincıklı Hamamı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Pl
 
 ## Ziyaret Bilgileri
 
-Cincıklı Hamamı, Diyarbakır'ın tarihi ve doğal güzelliklerini keşfetmek isteyen ziyaretçiler için ideal bir destinasyondur. Ziyaretçiler, plaja, Diyarbakır'ın merkezi tarafından kolayca ulaşabilirler. Cincıklı Hamamı, genellikle sıca ve khô bir hava sahiptir, ancak plajın etrafındaki ağaçlar ve bitki türleri, ziyaretçilere serinli ve huzur sağlar. Ziyaretçiler, plajda, çeşitli bitki türleri ve hayvanlar ile karşılaşabilirler ve bu, ziyaretçilere doğayı keşfetme fırsatı sunar. Cincıklı Hamamı, ziyaretçilere, Diyarbakır'ın tarihini ve doğasını keşfetme fırsatı sunar ve bu, ziyaretçilere unutulmaz bir deneyim sağlar.
+Cincıklı Hamamı, Diyarbakır'ın tarihi ve doğal güzelliklerini keşfetmek isteyen ziyaretçiler için ideal bir destinasyondur. Ziyaretçiler, plaja, Diyarbakır'ın merkezi tarafından kolayca ulaşabilirler. Cincıklı Hamamı, genellikle sıcak ve kuru bir hava sahiptir, ancak plajın etrafındaki ağaçlar ve bitki türleri, ziyaretçilere serinli ve huzur sağlar. Ziyaretçiler, plajda, çeşitli bitki türleri ve hayvanlar ile karşılaşabilirler ve bu, ziyaretçilere doğayı keşfetme fırsatı sunar. Cincıklı Hamamı, ziyaretçilere, Diyarbakır'ın tarihini ve doğasını keşfetme fırsatı sunar ve bu, ziyaretçilere unutulmaz bir deneyim sağlar.
 
 ## İlginç Bilgiler
 

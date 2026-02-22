@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin kalbinde yer alan Arik Dağı, 39.2900°K enlem ve 40
 
 Jeolojik açıdan bakıldığında, Arik Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, dağların genellikle bu bölgede volkanik kökenli olduğu bilinmektedir. Bu bilgiler ışığında, Arik Dağı'nın da benzer bir yapıya sahip olabileceği düşünülmektedir. Dağın yüksekliği veya genişliği hakkında kesin bilgiler olmasa da, bu tür dağların genellikle birkaç şehir bloğu büyüklüğünde olduğu söylenebilir.
 
-Mevsimsel açıdan bakıldığında, Arik Dağı'nın iklim karakteri Doğu Anadolu Bölgesi'nin genel iklim koşullarına benzerlik gösterir. Bu bölgede kış ayları genellikle soğu ve kar yağışlı, yaz ayları ise sıca ve kurudur. Arik Dağı'nın yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olabilir, bu dağda mevsimsel değişikliklerin daha belirgin olabileceğini göstermektedir.
+Mevsimsel açıdan bakıldığında, Arik Dağı'nın iklim karakteri Doğu Anadolu Bölgesi'nin genel iklim koşullarına benzerlik gösterir. Bu bölgede kış ayları genellikle soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurudur. Arik Dağı'nın yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olabilir, bu dağda mevsimsel değişikliklerin daha belirgin olabileceğini göstermektedir.
 
 Çevresel açıdan bakıldığında, Arik Dağı'nın komşu alanlar ve su kaynakları ile önemli bir ilişkisi vardır. Dağın eteklerinde ve civarında çeşitli su kaynakları bulunmakta ve bu kaynaklar bölgenin sulama ve içme suyu ihtiyacını karşılamaktadır. Ayrıca, Arik Dağı'nın ekosistem bağlantıları da önemlidir, çünkü dağ ve çevresindeki alanlar together çeşitli bitki ve hayvan türleri için yaşam alanı sağlamaktadır. Bu bağlantılar, bölgenin biyolojik çeşitliliğini korumak açısından oldukça önemlidir.
 

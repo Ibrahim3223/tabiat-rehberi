@@ -36,7 +36,7 @@ Cevizağacı Tepesi'nin tarihi geçmişi, bölgenin tarihine paralel olarak şek
 
 ## Coğrafya
 
-Cevizağacı Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, yüksek bir tepe. Bu tepe, bölgenin coğrafi çeşitliliğini gösterir. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Cevizağacı Tepesi, bölgenin iklimine göre şekillenmiştir. Bölgenin iklimi, genellikle sıca ve khôdır. Cevizağacı Tepesi, bu iklim koşullarına uygun olarak, ziyaretçilere serin ve ferah bir ortam sunar. Tepenin manzarası, bölgeyi çeviren dağların ve ovaların güzelliğini gösterir. Cevizağacı Tepesi, ziyaretçilere bölgenin coğrafi güzelliğini sunan bir destinasyon.
+Cevizağacı Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, yüksek bir tepe. Bu tepe, bölgenin coğrafi çeşitliliğini gösterir. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Cevizağacı Tepesi, bölgenin iklimine göre şekillenmiştir. Bölgenin iklimi, genellikle sıcak ve kurudır. Cevizağacı Tepesi, bu iklim koşullarına uygun olarak, ziyaretçilere serin ve ferah bir ortam sunar. Tepenin manzarası, bölgeyi çeviren dağların ve ovaların güzelliğini gösterir. Cevizağacı Tepesi, ziyaretçilere bölgenin coğrafi güzelliğini sunan bir destinasyon.
 
 ## Flora ve Fauna
 

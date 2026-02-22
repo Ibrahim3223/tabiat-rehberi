@@ -37,7 +37,7 @@ Tahir ile Zühre Mescidi ve Türbesi'nin tarihi geçmişi, Konya'nın tarihinde 
 
 ## Coğrafya
 
-Tahir ile Zühre Mescidi ve Türbesi, Meram, Konya'da bulunur ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle step ve bozkır bitki örtüsüne sahiptir. Mescid ve türbe, bir tepe üzerinde yer alır ve çevresindeki manzara, geniş ve açık bir görünüme sahiptir. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, karasal bir iklime sahiptir. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu coğrafi konum, Tahir ile Zühre Mescidi ve Türbesi'ni, doğa severler ve tarih meraklıları için çekici kılar.
+Tahir ile Zühre Mescidi ve Türbesi, Meram, Konya'da bulunur ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle step ve bozkır bitki örtüsüne sahiptir. Mescid ve türbe, bir tepe üzerinde yer alır ve çevresindeki manzara, geniş ve açık bir görünüme sahiptir. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, karasal bir iklime sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu coğrafi konum, Tahir ile Zühre Mescidi ve Türbesi'ni, doğa severler ve tarih meraklıları için çekici kılar.
 
 ## Flora ve Fauna
 

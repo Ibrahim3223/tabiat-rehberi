@@ -44,7 +44,7 @@ Güney kıyılarımızda, Akdeniz'in mavi sularına yakın bir konumda yer alan 
 
 Doğal güzelliği ile dikkat çeken Omurga Dağı, coğrafi olarak bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu büyüklük, Taksim Meydanı'nın birkaç katı kadar bir alanı kapsar. Dağın fiziksel yapısı, bölgenin jeolojik geçmişini yansıtan farklı katmanlardan oluşur. Ancak, detaylı fiziksel verilerin bulunmaması, dağın tam boyutları ve şekli hakkında net bir fikir vermemektedir.
 
-İklim açısından, Omurga Dağı, Akdeniz ikliminin etkisi altındadır. Bu, mevsimsel olarak sıca ve kurak yazlar, ılık ve yağışlı kışlar anlamına gelir. Dağın yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olmasa da, bölgenin hava durumunu etkileyen önemli bir faktördür. Mevsimsel değişiklikler, dağın iklim karakterini şekillendiren önemli bir unsurdur.
+İklim açısından, Omurga Dağı, Akdeniz ikliminin etkisi altındadır. Bu, mevsimsel olarak sıcak ve kurak yazlar, ılık ve yağışlı kışlar anlamına gelir. Dağın yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olmasa da, bölgenin hava durumunu etkileyen önemli bir faktördür. Mevsimsel değişiklikler, dağın iklim karakterini şekillendiren önemli bir unsurdur.
 
 Bölgenin ekosistem bağlantıları açısından, Omurga Dağı, komşu alanlarla ve su kaynaklarıyla önemli bir ilişkiye sahiptir. Bu dağ, bölgenin su kaynaklarını besleyen önemli bir unsur olarak görülebilir. Ayrıca, dağın çevresindeki ekosistem, bölgenin biyolojik çeşitliliğini destekleyen önemli bir role sahiptir. Bu nedenle, Omurga Dağı, bölgenin doğal dengesini korumak açısından önemli bir coğrafi unsur olarak görülebilir.
 

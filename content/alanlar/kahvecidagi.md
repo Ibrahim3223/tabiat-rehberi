@@ -30,7 +30,7 @@ KAHVECİDAĞI'nın tarihi geçmişi oldukça zengin. Yüzyıllar boyunca birçok
 
 ## Coğrafya
 
-KAHVECİDAĞI, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici noktalarından biri. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde. Burada, çeşitli bitki türleri ve zengin fauna encontrabilir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kışlar soğu ve karlı, yazlar ise sıcak ve khô. KAHVECİDAĞI, aynı zamanda coğrafi olarak da dikkat çekici. Dağlar, vadiler ve ovalar, bu bölgenin doğal güzelliğini artırıyor. Ziyaretçiler, bu bölgeyi gezerken doğal güzelliğin içinde kayboluyor.
+KAHVECİDAĞI, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici noktalarından biri. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde. Burada, çeşitli bitki türleri ve zengin fauna encontrabilir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuru. KAHVECİDAĞI, aynı zamanda coğrafi olarak da dikkat çekici. Dağlar, vadiler ve ovalar, bu bölgenin doğal güzelliğini artırıyor. Ziyaretçiler, bu bölgeyi gezerken doğal güzelliğin içinde kayboluyor.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin uzak köşesinde, Şırnak ilinin dağlık araz
 
 Doğal güzellikleri ve coğrafi çeşitliliğiyle dikkat çeken Kaval Dağı, çevresindeki diğer dağlık alanlarla birlikte bir bütün oluşturur. Ancak, fiziksel boyutları hakkında kesin bilgiler bulunmamasına rağmen, bu dağlık alanın Monaco'nun küçük bir bölümü kadar bir alanı kapladığı söylenebilir. Jeolojik olarak incelendiğinde, bölgenin volkani ve sedimentolojik özellikler taşıdığı görülür.
 
-İklim açısından bakıldığında, Kaval Dağı ve çevresindeki bölge, güneydoğu Anadolu'nun karakteristik iklim özelliklerini taşır. Yaz aylarında sıcaklık ve nem artarken, kış aylarında soğu ve yağışlı bir hava hakim olur. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler.
+İklim açısından bakıldığında, Kaval Dağı ve çevresindeki bölge, güneydoğu Anadolu'nun karakteristik iklim özelliklerini taşır. Yaz aylarında sıcaklık ve nem artarken, kış aylarında soğuk ve yağışlı bir hava hakim olur. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler.
 
 Çevresel olarak, Kaval Dağı ve etrafındaki dağlık alanlar, komşu vadiler ve su kaynaklarıyla bağlantılı bir ekosistem oluşturur. Bu bölgedeki su kaynakları, bölgenin tarım ve hayvancılık faaliyetleri için önemli bir kaynak teşkil eder. Ayrıca, Kaval Dağı'nın yüksekliği, Eiffel Kulesi'nin birkaç katı kadar yükseklikte olduğu düşünülürse, bölgenin hava koşullarının ve ikliminin nasıl şekillendiği daha iyi anlaşılabilir.
 

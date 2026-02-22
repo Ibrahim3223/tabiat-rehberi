@@ -45,7 +45,7 @@ Gora Sasa dağının eteklerine yaklaştığımızda, 37.4017°K ve 42.7617°D k
 
 Fiziksel yapısı hakkında detaylı bilgiler olmasa da, Gora Sasa'nın bulunduğu bölgenin jeolojik özellikleri, bölgenin tarihi geçmişini şekillendiren önemli faktörlerden biri. 85 katlı bir gökdelen kadar yükseklikte olan bu dağ, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgenin iklimini ve ekosistemini etkileyen önemli bir faktör.
 
-Mevsimsel özelliklere baktığımızda, Gora Sasa'nın bulunduğu bölgenin, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklim karakterine sahip olduğunu görüyoruz. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörlerden biri.
+Mevsimsel özelliklere baktığımızda, Gora Sasa'nın bulunduğu bölgenin, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklim karakterine sahip olduğunu görüyoruz. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörlerden biri.
 
 Gora Sasa'nın çevresindeki alanlar, bölgenin ekosistem bağlantılarını şekillendiren önemli bir role sahip. Bölgenin su kaynakları ve komşu alanları, Gora Sasa ile birlikte, bir bütün olarak düşünülürse, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor. Bu bağlantılar, bölgenin doğal dengesini korumanın önemli bir parçası olarak görülüyor.
 

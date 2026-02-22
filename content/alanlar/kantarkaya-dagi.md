@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Kantarkaya Dağı, 39.3994°K ve 41.1336
 
 Jeolojik açıdan bakıldığında, Kantarkaya Dağı'nın oluşumunda volkani ve sedimenteer kayaçların rolü büyük. Ancak, detaylı fiziksel veriler bulunmaması nedeniyle, dağın boyutları ve şekli hakkında net bir fikir verme mümkün değil. Buna rağmen, coğrafi konumu itibariyle, Kantarkaya Dağı'nın bölgedeki diğer dağlık alanlarla benzerlik gösterdiği söylenebilir. Örneğin, Monaco'nun yarısı kadar bir alanı kaplayan bu dağlık bölge, İstanbul'un Adalar ilçesi büyüklüğünde bir alanda yer alıyor.
 
-Mevsimsel açıdan bakıldığında, Kantarkaya Dağı ve çevresinin iklimi, karasal iklimin özelliklerini taşıyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakim. Bu iklim koşulları, bölgedeki flora ve fauna için önemli bir faktör. Etrafındaki su kaynakları ve ekosistem bağlantıları da, Kantarkaya Dağı'nın çevresel ilişkilerini belirlemede önemli bir rol oynuyor.
+Mevsimsel açıdan bakıldığında, Kantarkaya Dağı ve çevresinin iklimi, karasal iklimin özelliklerini taşıyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakim. Bu iklim koşulları, bölgedeki flora ve fauna için önemli bir faktör. Etrafındaki su kaynakları ve ekosistem bağlantıları da, Kantarkaya Dağı'nın çevresel ilişkilerini belirlemede önemli bir rol oynuyor.
 
 Dağlık bir bölgede yer alan Kantarkaya Dağı, çevresindeki diğer dağlık alanlarla birlikte, bir ekosistem ağı oluşturuyor. Bu ağ, bölgedeki su kaynakları, bitki örtüsü ve hayvan türleri arasında önemli bir bağlantı sağlıyor. Örneğin, Taksim Meydanı'nın 10 katı büyüklüğünde bir alana yayılan bu dağlık bölge, bölgedeki su kaynaklarını besliyor ve ekosistemin dengesini koruyor.
 

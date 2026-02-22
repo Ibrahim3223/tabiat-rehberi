@@ -37,7 +37,7 @@ Behramşah Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Behramşah Türbesi, coğrafi olarak, Kemah ilçesinin merkezinde yer almaktadır. Bu bölge, Doğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. Behramşah Türbesi'nin bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kaplar. Bölgenin coğrafi yapısı, dağlık ve engebeli arazilerle karakterizedir. Behramşah Türbesi, ziyaretçilerine, doğal güzelliğin ve tarihi zenginliğin birleştiği bir ortam sunmaktadır. Bölgenin iklimi, karasal iklim özellikleri göstermekte olup, yaz aylarında sıca ve kurak, kış aylarında soğu ve karlı geçmektedir.
+Behramşah Türbesi, coğrafi olarak, Kemah ilçesinin merkezinde yer almaktadır. Bu bölge, Doğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. Behramşah Türbesi'nin bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kaplar. Bölgenin coğrafi yapısı, dağlık ve engebeli arazilerle karakterizedir. Behramşah Türbesi, ziyaretçilerine, doğal güzelliğin ve tarihi zenginliğin birleştiği bir ortam sunmaktadır. Bölgenin iklimi, karasal iklim özellikleri göstermekte olup, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı geçmektedir.
 
 ## Flora ve Fauna
 

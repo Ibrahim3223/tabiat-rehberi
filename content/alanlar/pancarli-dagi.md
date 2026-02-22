@@ -44,7 +44,7 @@ Güney kıyılarımızın güzelliği, Antalya'nın dağlık arazilerinde doruk 
 
 Doğal güzelliğin bir parçası olan Pancarlı Dağı, coğrafi olarak çeşitlilik gösteren bir bölgede bulunuyor. Dağın boyutları hakkında detaylı bilgi olmasa da, bu bölgeyi gezerken hissedilen genişlik, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor gibi görünüyor. Jeolojik açıdan bakıldığında, bölgenin karmaşık bir yapıya sahip olduğu anlaşılıyor, ancak daha veriler olmadan bu konuyu derinlemesine incelemek zor görünüyor.
 
-Mevsimsel değişikliklere bakıldığında, Pancarlı Dağı ve çevresinin iklim karakteri, Akdeniz ikliminin tipik özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakim. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor ve zengin bir ekosistemin oluşmasına katkıda bulunuyor.
+Mevsimsel değişikliklere bakıldığında, Pancarlı Dağı ve çevresinin iklim karakteri, Akdeniz ikliminin tipik özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakim. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor ve zengin bir ekosistemin oluşmasına katkıda bulunuyor.
 
 Çevresel açıdan bakıldığında, Pancarlı Dağı, Antalya'nın doğal güzelliklerini koruma altına alan önemli bir bölgedir. Dağın eteklerinde ve çevresinde, çeşitli su kaynakları ve ekosistemler yer alıyor. Bu su kaynakları, bölgenin canlılarına yaşam kaynağı olmasının yanı sıra, komşu alanların da su ihtiyacını karşılıyor. Pancarlı Dağı, bu nedenle, bölgenin ekolojik dengesini koruma altına alan önemli bir doğal varlık olarak görülebilir.
 

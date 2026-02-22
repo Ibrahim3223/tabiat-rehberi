@@ -45,7 +45,7 @@ Doğunun gizli köşelerinde yer alan Mirismail Dağı, 38.6092°K ve 40.9175°D
 
 Dağın fiziksel yapısına bakıldığında, maalesef detaylı boyut bilgileri bulunmuyor. Ancak, genel olarak dağların jeolojik yapısı ve şekli, bölgenin coğrafi özelliklerini yansıtıyor. Mirismail Dağı da, çevresi ile benzer bir yapıya sahip ve bölgenin jeolojik tarihini yansıtıyor. Bu dağ, bir şehir bloğu büyüklüğünde bir alanı kaplıyor gibi görünse de, gerçek boyutu hakkında kesin bir bilgi bulunmuyor.
 
-Mevsimsel özelliklere gelince, Mirismail Dağı'nın bulunduğu bölge, karasal iklimin etkilerini gösteriyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürüyor. Bu mevsimsel değişimler, bölgenin ekosistemini ve flora-faunasını etkiliyor. Eiffel Kulesi'nin 2 katı yükseklikte bir noktanın bulunduğu bu bölgede, hava durumu yıl boyunca değişkenlik gösteriyor.
+Mevsimsel özelliklere gelince, Mirismail Dağı'nın bulunduğu bölge, karasal iklimin etkilerini gösteriyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürüyor. Bu mevsimsel değişimler, bölgenin ekosistemini ve flora-faunasını etkiliyor. Eiffel Kulesi'nin 2 katı yükseklikte bir noktanın bulunduğu bu bölgede, hava durumu yıl boyunca değişkenlik gösteriyor.
 
 Son olarak, Mirismail Dağı'nın çevresel ilişkilerine bakıldığında, komşu dağlar ve ovalarla birlikte bir ekosistem oluşturduğu görülüyor. Bölgede bulunan su kaynakları ve diğer coğrafi özellikler, Mirismail Dağı'nın bir parçası olduğu daha geniş bir coğrafi sistemi oluşturuyor. Monaco'nun onda biri büyüklüğünde bir alanda yer alan bu dağ, çevresindeki diğer coğrafi özelliklerle birlikte bir bütünü oluşturuyor.
 

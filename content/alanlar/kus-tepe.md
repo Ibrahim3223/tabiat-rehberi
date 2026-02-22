@@ -45,7 +45,7 @@ Doğunun gizli köşelerinden biri olan Kuş Tepe, Batman'ın dağlık bölgesin
 
 Jeolojik açıdan bakıldığında, Kuş Tepe'nin fiziksel yapısı hakkında detaylı bilgi olmasa da, dağlık bir bölge olması nedeniyle kayalık ve engebeli bir araziye sahip olduğu söylenebilir. Bu bölgenin jeolojik yapısı, Türkiye'nin genel jeolojik yapısına benzer şekilde, farklı dönemlerde oluşmuş kayaçlardan oluşuyor. Ancak, Kuş Tepe'nin yüksekliği veya diğer fiziksel özellikleri hakkında net bilgiler bulunmuyor.
 
-Mevsimsel açıdan, Kuş Tepe'nin bulunduğu bölge, karasal iklimin hakim olduğu bir alan. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak olan hava durumu, bölgenin flora ve fauna yapısını etkileyen önemli bir faktör. Bu mevsimsel değişimler, Kuş Tepe'nin ekosistemini şekillendiren önemli bir unsur.
+Mevsimsel açıdan, Kuş Tepe'nin bulunduğu bölge, karasal iklimin hakim olduğu bir alan. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak olan hava durumu, bölgenin flora ve fauna yapısını etkileyen önemli bir faktör. Bu mevsimsel değişimler, Kuş Tepe'nin ekosistemini şekillendiren önemli bir unsur.
 
 Çevresel açıdan, Kuş Tepe, Batman'ın diğer dağlık bölgeleri ile bağlantılı bir ekosistem içerisinde yer alıyor. Bölge, çeşitli su kaynaklarına da ev sahipliği yapıyor. Bu su kaynakları, Kuş Tepe'nin çevresindeki diğer dağlık alanlar ile birlikte, bölgenin ekosistemini destekleyen önemli bir unsur. Ancak, Kuş Tepe'nin çevresel ilişkileri hakkında daha detaylı bilgi bulunmuyor.
 

@@ -42,7 +42,7 @@ Kuzeyden bakıldığında, Eşek Adası İstanbul'un Marmara Denizi'ne bakan yü
 
 Doğal güzelliği ile dikkat çeken Eşek Adası, büyüklüğü hakkında detaylı bilgi bulunmasa da, bir şehir bloğu büyüklüğünde gibi görünür. Bu boyutuyla, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alan kaplar. Jeolojik yapısı hakkında da bilgi bulunmayan ada, Marmara Denizi'nin sularıyla çevrilidir. Bu coğrafya, ada için benzersiz bir ekosistem sunar.
 
-Mevsimsel değişiklikler, Eşek Adası'nda farklı hava koşullarını beraberinde getirir. Kış aylarında, İstanbul'un genel iklimine benzer bir şekilde soğu ve yağışlı bir hava hakimdir. Yaz aylarında ise, sıcaklık ve nem artar. Bu mevsimsel özellikler, ada için özel bir iklim karakteri oluşturur. Hava durumu, ada ziyaretçileri için önemli bir faktördür.
+Mevsimsel değişiklikler, Eşek Adası'nda farklı hava koşullarını beraberinde getirir. Kış aylarında, İstanbul'un genel iklimine benzer bir şekilde soğuk ve yağışlı bir hava hakimdir. Yaz aylarında ise, sıcaklık ve nem artar. Bu mevsimsel özellikler, ada için özel bir iklim karakteri oluşturur. Hava durumu, ada ziyaretçileri için önemli bir faktördür.
 
 Çevresel açıdan bakıldığında, Eşek Adası İstanbul'un su kaynaklarına ve ekosistemine yakın bir konumda yer alır. Marmara Denizi'ne açılan bir ada olarak, su kaynaklarına erişim thuận sağlar. Ayrıca, İstanbul'un Adalar ilçesi ile benzer bir coğrafyada yer alır. Bu konum, ada için özel bir çevresel ilişki ağı oluşturur.
 

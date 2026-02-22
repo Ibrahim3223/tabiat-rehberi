@@ -37,7 +37,7 @@ Aydıncık Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca bölgenin do
 
 ## Coğrafya
 
-Aydıncık Tabiat Parkı, Mersin'in Aydıncık ilçesinde yer alır ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biridir. Park, 140 hektarlık bir alanı kaplar ve ziyaretçilerine geniş bir yeşil alan sunar. Aydıncık Tabiat Parkı, coğrafi olarak, deniz seviyesinden yüksek bir bölgede yer alır ve bu nedenle, ziyaretçilere geniş bir manzara sunar. Parkın çevresi, genellikle ormanlık ve dağlık arazilerle çevrilidir ve bu nedenle, ziyaretçilere doğal bir ortam sunar. Aydıncık Tabiat Parkı, iklim olarak, Akdeniz ikliminin özellikleri gösterir ve bu nedenle, ziyaretçilere sıca ve güneşli bir hava sunar. Parkın suyu, genellikle yeraltı suyundan elde edilir ve bu nedenle, ziyaretçilere temiz ve soğuk su sunar.
+Aydıncık Tabiat Parkı, Mersin'in Aydıncık ilçesinde yer alır ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biridir. Park, 140 hektarlık bir alanı kaplar ve ziyaretçilerine geniş bir yeşil alan sunar. Aydıncık Tabiat Parkı, coğrafi olarak, deniz seviyesinden yüksek bir bölgede yer alır ve bu nedenle, ziyaretçilere geniş bir manzara sunar. Parkın çevresi, genellikle ormanlık ve dağlık arazilerle çevrilidir ve bu nedenle, ziyaretçilere doğal bir ortam sunar. Aydıncık Tabiat Parkı, iklim olarak, Akdeniz ikliminin özellikleri gösterir ve bu nedenle, ziyaretçilere sıcak ve güneşli bir hava sunar. Parkın suyu, genellikle yeraltı suyundan elde edilir ve bu nedenle, ziyaretçilere temiz ve soğuk su sunar.
 
 ## Flora ve Fauna
 

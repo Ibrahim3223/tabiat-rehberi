@@ -30,7 +30,7 @@ Kütahya Bilecik Muratdere-Uludaggoknari'nin tarihi geçmişi, yüzyıllar önce
 
 ## Coğrafya
 
-Kütahya Bilecik Muratdere-Uludaggoknari, İç Anadolu Bölgesi'nin coğrafi olarak farklı bir bölgesinde yer alıyor. 140 hektarlık alan, Muratdere ve Uludaggoknari'nin birleştiği noktada bulunuyor. Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Coğrafi olarak, bu alanın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Yaz ayları sıca ve kurak, kış ayları soğu ve yağışlı geçer. Bu mevsimsel değişimler, bölgenin ekolojisini şekillendirmiş. Kütahya Bilecik Muratdere-Uludaggoknari, doğal güzellikleri ve coğrafi konumu ile ziyaretçilerini cezbediyor. Bu bölgede, çeşitli yürüyüş parkurları, doğa gözlem noktaları ve yerel ekosistemi inceleyebileceğiniz alanlar bulunuyor.
+Kütahya Bilecik Muratdere-Uludaggoknari, İç Anadolu Bölgesi'nin coğrafi olarak farklı bir bölgesinde yer alıyor. 140 hektarlık alan, Muratdere ve Uludaggoknari'nin birleştiği noktada bulunuyor. Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Coğrafi olarak, bu alanın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Yaz ayları sıcak ve kurak, kış ayları soğuk ve yağışlı geçer. Bu mevsimsel değişimler, bölgenin ekolojisini şekillendirmiş. Kütahya Bilecik Muratdere-Uludaggoknari, doğal güzellikleri ve coğrafi konumu ile ziyaretçilerini cezbediyor. Bu bölgede, çeşitli yürüyüş parkurları, doğa gözlem noktaları ve yerel ekosistemi inceleyebileceğiniz alanlar bulunuyor.
 
 ## Flora ve Fauna
 

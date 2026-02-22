@@ -36,7 +36,7 @@ Karyağan Tepe'nin tarihi geçmişi, şehrin tarihi ile iç içe geçmiş durumd
 
 ## Coğrafya
 
-Karyağan Tepe, Kahramanmaraş il merkezinde yer alan bir tepe olup, Akdeniz Bölgesi'nin coğrafi özellikleri ile uyumlu bir yapıya sahiptir. Tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve şehre hakim bir konumda bulunmakta olup, buradan şehir manzarası izlenebilmektedir. Karyağan Tepe, çeşitli bitki türleri ile kaplı olup, özellikle ilkbahar ve sonbahar aylarında ziyaretçilerini ağırlamaktadır. Tepe, aynı zamanda şehrin iklimine de ev sahipliği yapan önemli bir bölgedir. Akdeniz ikliminin hakim olduğu bölgede, yaz ayları sıca ve kurak, kış ayları ise ılıman ve yağışlı geçmektedir. Karyağan Tepe, bu iklim koşullarına uyum sağlayan çeşitli flora ve fauna türlerine ev sahipliği yapmaktadır.
+Karyağan Tepe, Kahramanmaraş il merkezinde yer alan bir tepe olup, Akdeniz Bölgesi'nin coğrafi özellikleri ile uyumlu bir yapıya sahiptir. Tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve şehre hakim bir konumda bulunmakta olup, buradan şehir manzarası izlenebilmektedir. Karyağan Tepe, çeşitli bitki türleri ile kaplı olup, özellikle ilkbahar ve sonbahar aylarında ziyaretçilerini ağırlamaktadır. Tepe, aynı zamanda şehrin iklimine de ev sahipliği yapan önemli bir bölgedir. Akdeniz ikliminin hakim olduğu bölgede, yaz ayları sıcak ve kurak, kış ayları ise ılıman ve yağışlı geçmektedir. Karyağan Tepe, bu iklim koşullarına uyum sağlayan çeşitli flora ve fauna türlerine ev sahipliği yapmaktadır.
 
 ## Flora ve Fauna
 

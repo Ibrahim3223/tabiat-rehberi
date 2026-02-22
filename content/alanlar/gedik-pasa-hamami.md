@@ -37,7 +37,7 @@ Gedik Paşa Hamamı'nın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniy
 
 ## Coğrafya
 
-Gedik Paşa Hamamı, Çivril'in doğal güzelliklerini barındıran bir bölgede yer alıyor. Bu 140 hektarlık alan, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bölge, genellikle sıca ve kurak yaz aylarıyla birlikte, ılıman ve yağışlı kış aylarına sahip. Gedik Paşa Hamamı'nın coğrafi konumu, ziyaretçilere dört mevsim boyunca farklı deneyimler sunuyor. Bahar aylarında, çiçeklerin açması ve yeşillikler içindeki manzaralar, ziyaretçilere büyüleyici bir atmosfer sunarken, yaz aylarında serin ve huzurlu bir kaçış noktası oluyor. Sonbahar ve kış aylarında ise, doğanın renk değiştirmesi ve yağmurların yeşilliği canlandırması, bu mekanı her mevsim ziyaret etmeye değer kılıyor. Gedik Paşa Hamamı'nın etrafı, çeşitli bitki türleriyle dolu ve zengin fauna çeşitliliği de bu bölgenin önemli özelliklerinden biri.
+Gedik Paşa Hamamı, Çivril'in doğal güzelliklerini barındıran bir bölgede yer alıyor. Bu 140 hektarlık alan, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bölge, genellikle sıcak ve kurak yaz aylarıyla birlikte, ılıman ve yağışlı kış aylarına sahip. Gedik Paşa Hamamı'nın coğrafi konumu, ziyaretçilere dört mevsim boyunca farklı deneyimler sunuyor. Bahar aylarında, çiçeklerin açması ve yeşillikler içindeki manzaralar, ziyaretçilere büyüleyici bir atmosfer sunarken, yaz aylarında serin ve huzurlu bir kaçış noktası oluyor. Sonbahar ve kış aylarında ise, doğanın renk değiştirmesi ve yağmurların yeşilliği canlandırması, bu mekanı her mevsim ziyaret etmeye değer kılıyor. Gedik Paşa Hamamı'nın etrafı, çeşitli bitki türleriyle dolu ve zengin fauna çeşitliliği de bu bölgenin önemli özelliklerinden biri.
 
 ## Flora ve Fauna
 

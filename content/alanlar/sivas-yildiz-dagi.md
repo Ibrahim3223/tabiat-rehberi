@@ -43,7 +43,7 @@ Doğunun gizli cennetlerinden biri olan Sivas Yıldız Dağı, coğrafi konum it
 
 Jeolojik açıdan bakıldığında, Sivas Yıldız Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bu dağlık bölgenin genişliği, Monaco'nun yarısı kadar bir alanı kaplayacak büyüklüktedir. Bu genişlik, Yıldız Dağı'nın sadece bir city blok büyüklüğünde olmadığını, sondern daha büyük bir coğrafi yapıya sahip olduğunu gösterir.
 
-İklimsel açıdan, Yıldız Dağı'nın mevsimsel özellikleri, bölgenin iç Anadolu'nun karasal iklimine uygun olarak değişir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini etkiler.
+İklimsel açıdan, Yıldız Dağı'nın mevsimsel özellikleri, bölgenin iç Anadolu'nun karasal iklimine uygun olarak değişir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini etkiler.
 
 Çevresel açıdan bakıldığında, Sivas Yıldız Dağı, komşu alanlar ve su kaynaklarıyla bağlantıları olan bir ekosistemdir. Etrafındaki dağlık arazi, bölgenin su kaynaklarının oluşmasına katkıda bulunur. Bu doğal bağlantılar, Yıldız Dağı'nın çevresel önemini vurgular ve koruma altına alınması gerektiğini gösterir.
 

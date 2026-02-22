@@ -42,7 +42,7 @@ Mardin'in coğrafi zenginliklerini keşfettiğimizde, Karınca Tepe dağının �
 
 Doğal güzellikleri ve jeolojik yapısıyla dikkat çeken Karınca Tepe, Mardin'in coğrafi çeşitliliğini vurguluyor. Ancak, detaylı fiziksel verilerin sınırlı olması nedeniyle, dağın boyutları ve şekli hakkında net bir fikir verme mümkün olmuyor. Buna karşın, Karınca Tepe'nin bulunduğu bölgenin coğrafi özellikleri, Mardin'in tarihi ve kültürel zenginliklerini destekleyen bir zemin oluşturuyor.
 
-Mardin'in iklim karakteri, Karınca Tepe'nin coğrafi yapısını etkileyen önemli bir faktör olarak ortaya çıkıyor. Bölgenin mevsimsel özelliklerine ve hava durumuna bağlı olarak, Karınca Tepe'nin iklimi değişkenlik gösteriyor. Mardin'in genel ikliminin karakteristiği olan sıca ve kurak yazlar, Karınca Tepe'nin coğrafi yapısını şekillendiren faktörler arasında yer alıyor.
+Mardin'in iklim karakteri, Karınca Tepe'nin coğrafi yapısını etkileyen önemli bir faktör olarak ortaya çıkıyor. Bölgenin mevsimsel özelliklerine ve hava durumuna bağlı olarak, Karınca Tepe'nin iklimi değişkenlik gösteriyor. Mardin'in genel ikliminin karakteristiği olan sıcak ve kurak yazlar, Karınca Tepe'nin coğrafi yapısını şekillendiren faktörler arasında yer alıyor.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları, Karınca Tepe'nin çevresel ilişkilerini etkileyen önemli faktörler olarak dikkat çekiyor. Mardin'in coğrafi yapısı, Karınca Tepe'nin komşu alanlarla olan bağlantılarını ve su kaynaklarına erişimini şekillendiren bir rol oynuyor. Bu bağlamda, Karınca Tepe, Mardin'in coğrafi ve çevresel zenginliklerinin bir parçası olarak ortaya çıkıyor.
 

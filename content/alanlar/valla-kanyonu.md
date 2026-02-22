@@ -46,7 +46,7 @@ Kastamonu'nun tarihi dokusu, Valla Kanyonu'nun çevresi ve bölgenin genel coğr
 
 Jeolojik açıdan incelendiğinde, Valla Kanyonu'nun oluşumu milyonlarca yıllık bir sürecin sonucudur. Oldukça derin ve dar bir vadiden oluşan kanyon, Taksim Meydanı'nın birkaç katı kadar uzunluğa sahiptir. Ancak, detaylı fiziksel verilerin bulunmaması nedeniyle, kanyonun boyutları ve şekli hakkında net bir bilgi verme mümkün değildir. Koordinatlarına bakıldığında, kanyonun kuzey-güney yönünde uzandığı görülür.
 
-Mevsimsel özellikler açısından, Valla Kanyonu'nun bulunduğu bölgenin iklimi karasal iklimdir. Yaz aylarında sıca ve kurak, kış aylarında soğu ve kar yağışlı bir hava durumu hakimdir. Bu iklim karakteri, kanyonun flora ve fauna açısından zengin bir çeşitliliğe sahip olmasını sağlar. Etrafındaki ormanlık alanlar ve su kaynakları, kanyonun ekosistemini destekler ve canlıların yaşamasına olanak tanır.
+Mevsimsel özellikler açısından, Valla Kanyonu'nun bulunduğu bölgenin iklimi karasal iklimdir. Yaz aylarında sıcak ve kurak, kış aylarında soğuk ve kar yağışlı bir hava durumu hakimdir. Bu iklim karakteri, kanyonun flora ve fauna açısından zengin bir çeşitliliğe sahip olmasını sağlar. Etrafındaki ormanlık alanlar ve su kaynakları, kanyonun ekosistemini destekler ve canlıların yaşamasına olanak tanır.
 
 Çevresel açıdan, Valla Kanyonu'nun bulunduğu bölgenin komşu alanları ormanlık ve dağlık arazilerdir. Kanyonun yakınında birkaç su kaynağı bulunur ve bu su kaynakları, kanyonun ekosistemini besler. Monaco'nun yarısı kadar büyük bir alana sahip olmayan Valla Kanyonu, rağmen kendi içerisinde zengin bir ekosisteme sahiptir. Bu ekosistem, kanyonun çevresindeki doğal güzellikleri ve canlı çeşitliliğini destekler.
 

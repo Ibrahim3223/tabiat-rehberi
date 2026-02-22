@@ -43,7 +43,7 @@ Denizlerin mavi sularına gizlenmiş Tavşan Adası, Çanakkale'nin güzide nokt
 
 Jeolojik açıdan bakıldığında, Tavşan Adası'nın fiziksel yapısını tanımlamak için elimizde cụ thể veriler olmasa da, ada olarak düşünüldüğünde küçük bir şehir bloğu büyüklüğünde olduğu söylenebilir. Bu büyüklük, adanın sade ve şirin bir yapıya sahip olduğunu gösteriyor. Ada, Çanakkale'nin diğer adalarıyla birlikte, bölgenin coğrafi zenginliğine katkıda bulunuyor.
 
-Mevsimsel olarak, Tavşan Adası'nın iklim karakteri, Ege Denizi'nin etkileri altında şekilleniyor. Yaz aylarında sıca ve güneşli bir hava, kış aylarında ise ılık ve yağışlı bir hava hakim oluyor. Bu mevsimsel özellikler, adanın flora ve fauna için uygun bir ortam sağlıyor. Ada, Ege Denizi'nin canlı çeşitliliğiçin önemli bir nokta olarak karşımıza çıkıyor.
+Mevsimsel olarak, Tavşan Adası'nın iklim karakteri, Ege Denizi'nin etkileri altında şekilleniyor. Yaz aylarında sıcak ve güneşli bir hava, kış aylarında ise ılık ve yağışlı bir hava hakim oluyor. Bu mevsimsel özellikler, adanın flora ve fauna için uygun bir ortam sağlıyor. Ada, Ege Denizi'nin canlı çeşitliliğiçin önemli bir nokta olarak karşımıza çıkıyor.
 
 Doğal bir çevreye sahip olan Tavşan Adası, komşu alanlarla birlikte bir ekosistem oluşturuyor. Ada, su kaynakları ve bitki örtüsüyle birlikte, bölgenin doğal dengesini koruyor. Bu nedenle, Tavşan Adası, Çanakkale'nin doğal güzellikleri arasında önemli bir yere sahip olarak kabul ediliyor. Ada, ziyaretçilerini Ege Denizi'nin sakin sularına ve güneşli günlerine davet ediyor.
 

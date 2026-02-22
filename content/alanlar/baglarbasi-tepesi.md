@@ -36,7 +36,7 @@ Bağlarbaşı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniy
 
 ## Coğrafya
 
-Bağlarbaşı Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Tepenin coğrafi yapısı, çeşitli bitki türleri ve fauna ile karakterizedir. Bağlarbaşı Tepesi'nin eteklerinde ve zirvesinde çeşitli ağaçlar ve bitki türleri bulunur. Tepenin iklimi, bölgenin genel iklimine benzer şekilde, yazları sıca ve kışları soğuk geçer. Bağlarbaşı Tepesi, çevresindeki dağlarla birlikte, bölgenin coğrafi yapısını oluşturan önemli bir parçadır. Tepenin yüksekliği ve coğrafi konumu, bölgenin hava koşullarını etkiler. Bağlarbaşı Tepesi, Batman şehrine yakınlığı nedeniyle, ulaşım açısından kolay bir konumdadır.
+Bağlarbaşı Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Tepenin coğrafi yapısı, çeşitli bitki türleri ve fauna ile karakterizedir. Bağlarbaşı Tepesi'nin eteklerinde ve zirvesinde çeşitli ağaçlar ve bitki türleri bulunur. Tepenin iklimi, bölgenin genel iklimine benzer şekilde, yazları sıcak ve kışları soğuk geçer. Bağlarbaşı Tepesi, çevresindeki dağlarla birlikte, bölgenin coğrafi yapısını oluşturan önemli bir parçadır. Tepenin yüksekliği ve coğrafi konumu, bölgenin hava koşullarını etkiler. Bağlarbaşı Tepesi, Batman şehrine yakınlığı nedeniyle, ulaşım açısından kolay bir konumdadır.
 
 ## Flora ve Fauna
 

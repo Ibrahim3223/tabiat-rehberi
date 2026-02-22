@@ -36,7 +36,7 @@ Arıl Hüyüğü'nün tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetl
 
 ## Coğrafya
 
-Arıl Hüyüğü, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin ve çeşitli bir bölgesinde yer alıyor. Bu bölge, geniş ovaları, dağları ve nehirleri ile tanınır ve Arıl Hüyüğü de bu coğrafi çeşitliliğin bir parçasıdır. Arıl Hüyüğü'nün çevresinde, çeşitli bitki türleri ve zengin fauna found. Mevsimsel değişimlerle birlikte, bu bölge farklı zamanlarda farklı güzellikler sunar. Kış mevsiminde, bölgeye karakteristik bir güzellik kazandıran yağmurlar görülürken, yaz mevsiminde sıca ve kurak bir iklim hüküm sürer. Arıl Hüyüğü, coğrafi olarak zengin bir bölgede yer alması nedeniyle, ziyaretçilere geniş bir coğrafi çeşitlilik sunar.
+Arıl Hüyüğü, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin ve çeşitli bir bölgesinde yer alıyor. Bu bölge, geniş ovaları, dağları ve nehirleri ile tanınır ve Arıl Hüyüğü de bu coğrafi çeşitliliğin bir parçasıdır. Arıl Hüyüğü'nün çevresinde, çeşitli bitki türleri ve zengin fauna found. Mevsimsel değişimlerle birlikte, bu bölge farklı zamanlarda farklı güzellikler sunar. Kış mevsiminde, bölgeye karakteristik bir güzellik kazandıran yağmurlar görülürken, yaz mevsiminde sıcak ve kurak bir iklim hüküm sürer. Arıl Hüyüğü, coğrafi olarak zengin bir bölgede yer alması nedeniyle, ziyaretçilere geniş bir coğrafi çeşitlilik sunar.
 
 ## Flora ve Fauna
 

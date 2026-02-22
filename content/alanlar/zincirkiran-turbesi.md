@@ -38,7 +38,7 @@ Zincirkıran Türbesi'nin tarihi geçmişi, Diyarbakır'ın tarihi ile iç içe 
 
 ## Coğrafya
 
-Zincirkıran Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alır. Bu bölge, dağlar, ovalar ve nehirler gibi çeşitli coğrafi özelliklerle çevrilidir. Türbe, Sur ilçesinin merkezi bir noktasında bulunur ve şehrin diğer tarihi noktalarına yakın bir mesafededir. Diyarbakır'ın iklimi, yazları sıca ve kurak, kışları ise soğu ve yağışlı olarak karakterize edilir. Bu iklim, bölgenin flora ve faunasını etkileyerek çeşitli bitki ve hayvan türlerinin yaşamasına olanak tanır. Zincirkıran Türbesi, Diyarbakır'ın coğrafi ve iklimsel özelliklerinin birleştiği noktada bulunur ve bu nedenle ziyaretçilere zengin bir deneyim sunar.
+Zincirkıran Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alır. Bu bölge, dağlar, ovalar ve nehirler gibi çeşitli coğrafi özelliklerle çevrilidir. Türbe, Sur ilçesinin merkezi bir noktasında bulunur ve şehrin diğer tarihi noktalarına yakın bir mesafededir. Diyarbakır'ın iklimi, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı olarak karakterize edilir. Bu iklim, bölgenin flora ve faunasını etkileyerek çeşitli bitki ve hayvan türlerinin yaşamasına olanak tanır. Zincirkıran Türbesi, Diyarbakır'ın coğrafi ve iklimsel özelliklerinin birleştiği noktada bulunur ve bu nedenle ziyaretçilere zengin bir deneyim sunar.
 
 ## Flora ve Fauna
 

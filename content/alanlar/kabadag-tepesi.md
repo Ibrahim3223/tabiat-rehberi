@@ -44,7 +44,7 @@ Ankara'nın kalbinde yer alan Kabadağ Tepesi, 39.4819°K ve 32.6272°D koordina
 
 Doğal güzelliği ile dikkat çeken bu tepe, Ankara'nın coğrafi yapısını şekillendiren önemli bir ögedir. Ancak, fiziksel verilere bakıldığında, bu tepenin boyutları hakkında detaylı bilgi bulunmamaktadır. Buna rağmen, Kabadağ Tepesi'nin Ankara'nın şehir dokusuna harmoni içinde uyumlu bir şekilde entegre olduğu söylenebilir. Örneğin, Taksim Meydanı'nın birkaç katı büyüklüğünde olan bu tepe, Ankara'nın şehir planlamasındaki önemli bir unsur olarak göz önüne alınabilir.
 
-İklim açısından bakıldığında, Kabadağ Tepesi Ankara'nın genel iklim koşullarını paylaşmaktadır. İç Anadolu Bölgesi'nin karakteristik karasal iklimi, bu tepede de hüküm sürmektedir. Kışlar soğu ve kar yağışlı, yazlar ise sıca ve kuru geçmektedir. Bu mevsimsel değişimler, tepenin flora ve fauna yapısını şekillendirmektedir.
+İklim açısından bakıldığında, Kabadağ Tepesi Ankara'nın genel iklim koşullarını paylaşmaktadır. İç Anadolu Bölgesi'nin karakteristik karasal iklimi, bu tepede de hüküm sürmektedir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kuru geçmektedir. Bu mevsimsel değişimler, tepenin flora ve fauna yapısını şekillendirmektedir.
 
 Çevresel açıdan bakıldığında, Kabadağ Tepesi'nin Ankara'nın su kaynakları ve ekosistemleri ile önemli bir bağlantısı bulunmaktadır. Tepenin eteklerinde yer alan su kaynakları, şehrin su ihtiyacını karşılamada önemli bir rol oynamaktadır. Ayrıca, bu tepe, Ankara'nın şehir planlamasındaki yeşil alanların korunması ve geliştirilmesinde de önemli bir rol oynamaktadır. Monaco'nun yarısı kadar bir alanı kaplayan bu tepe, Ankara'nın şehir dokusuna önemli bir katkıda bulunmaktadır.
 

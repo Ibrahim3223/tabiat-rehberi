@@ -37,7 +37,7 @@ Tarihi Hamam, İzmit'in tarihine ışık tutan önemli bir yapı. Tarihi Hamam'�
 
 ## Coğrafya
 
-Tarihi Hamam, İzmit'in merkezinde yer alıyor ve şehrin önemli turizm noktalarından biri. Tarihi Hamam, Marmara Bölgesi'nin coğrafi özellikleri nedeniyle zengin bir bitki örtüsüne sahip. Tarihi Hamam'ın etrafı, çeşitli ağaç türleriyle çevrili ve ziyaretçilerin doğayla iç içe vakit geçirebileceği bir ortam sunuyor. Tarihi Hamam, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor ve ziyaretçilere şehrin panoramik manzarasını sunuyor. Tarihi Hamam, İzmit'in ikliminin ılıman olması nedeniyle yıl boyunca ziyaret edilebilir. Tarihi Hamam, şehrin merkezinde bulunması nedeniyle ulaşımı kolay ve ziyaretçilerin şehrin diğer turizm noktalarına kolayca ulaşabileceği bir konumda yer alıyor.
+Tarihi Hamam, İzmit'in merkezinde yer alıyor ve şehrin önemli turizm noktalarından biri. Tarihi Hamam, Marmara Bölgesi'nin coğrafi özellikleri nedeniyle zengin bir bitki örtüsüne sahip. Tarihi Hamam'ın etrafı, çeşitli ağaç türleriyle çevrili ve ziyaretçilerin doğayla iç içe vakit geçirebileceği bir ortam sunuyor. Tarihi Hamam, yüksek bir konumda yer alıyor ve ziyaretçilere şehrin panoramik manzarasını sunuyor. Tarihi Hamam, İzmit'in ikliminin ılıman olması nedeniyle yıl boyunca ziyaret edilebilir. Tarihi Hamam, şehrin merkezinde bulunması nedeniyle ulaşımı kolay ve ziyaretçilerin şehrin diğer turizm noktalarına kolayca ulaşabileceği bir konumda yer alıyor.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Tarihi Hamam, her yıl birçok ziyaretçiyi ağırlıyor ve şehrin turizm gelir
 
 - Tarihi Hamam, İzmit'in en önemli turizm noktalarından biri
 - Tarihi Hamam, Marmara Bölgesi'nin coğrafi özellikleri nedeniyle zengin bir bitki örtüsüne sahip
-- Tarihi Hamam, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor
+- Tarihi Hamam, yüksek bir konumda yer alıyor
 - Tarihi Hamam, şehrin panoramik manzarasını sunuyor
 - Tarihi Hamam, her yıl birçok ziyaretçiyi ağırlıyor

@@ -36,7 +36,7 @@ Harami Tepesi'nin tarihi geçmişi, Konya'nın tarihinde önemli bir yer tutuyor
 
 ## Coğrafya
 
-Harami Tepesi, Konya'nın coğrafi yapısını yansıtan önemli bir nokta. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu tepe, şehrin şehir merkezine oldukça yakında bulunuyor. Tepenin etrafında, Konya'nın doğal güzellikleri yer alıyor. Bölge, İç Anadolu Bölgesi'nin genel iklimini paylaşıyor ve karasal iklimin özellikleri görülüyor. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim, bölgenin flora ve faunasını etkiliyor ve çeşitli bitki ve hayvan türlerinin yaşamına uygun koşullar sunuyor. Tepenin yüksekliği, Konya'nın coğrafi yapısını anlamak için önemli bir nokta ve şehrin panoramik manzarasını sunuyor.
+Harami Tepesi, Konya'nın coğrafi yapısını yansıtan önemli bir nokta. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu tepe, şehrin şehir merkezine oldukça yakında bulunuyor. Tepenin etrafında, Konya'nın doğal güzellikleri yer alıyor. Bölge, İç Anadolu Bölgesi'nin genel iklimini paylaşıyor ve karasal iklimin özellikleri görülüyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim, bölgenin flora ve faunasını etkiliyor ve çeşitli bitki ve hayvan türlerinin yaşamına uygun koşullar sunuyor. Tepenin yüksekliği, Konya'nın coğrafi yapısını anlamak için önemli bir nokta ve şehrin panoramik manzarasını sunuyor.
 
 ## Flora ve Fauna
 

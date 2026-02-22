@@ -37,7 +37,7 @@ Mahmudiye Kışlası Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayan�
 
 ## Coğrafya
 
-Mahmudiye Kışlası Hamamı, Marmara Bölgesi'nin coğrafi olarak zengin bir alanında yer alıyor. Mekan, Edirne'nin merkezinde bulunuyor ve çevresinde çeşitli doğal güzellikler yer alıyor. Mahmudiye Kışlası Hamamı'nın coğrafi konumu, ziyaretçilere bölgenin doğal güzelliğini keşfetme fırsatı sunuyor. Mekan, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Mahmudiye Kışlası Hamamı'nın iklimi, Marmara Bölgesi'nin ılıman iklimine uygun olarak değişkenlik gösteriyor. Bölge, yaz aylarında sıca ve nemli, kış aylarında ise serin ve yağışlı passediyor.
+Mahmudiye Kışlası Hamamı, Marmara Bölgesi'nin coğrafi olarak zengin bir alanında yer alıyor. Mekan, Edirne'nin merkezinde bulunuyor ve çevresinde çeşitli doğal güzellikler yer alıyor. Mahmudiye Kışlası Hamamı'nın coğrafi konumu, ziyaretçilere bölgenin doğal güzelliğini keşfetme fırsatı sunuyor. Mekan, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Mahmudiye Kışlası Hamamı'nın iklimi, Marmara Bölgesi'nin ılıman iklimine uygun olarak değişkenlik gösteriyor. Bölge, yaz aylarında sıcak ve nemli, kış aylarında ise serin ve yağışlı passediyor.
 
 ## Flora ve Fauna
 

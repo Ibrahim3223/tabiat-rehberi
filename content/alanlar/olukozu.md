@@ -30,7 +30,7 @@ Oluközü milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmişti
 
 ## Coğrafya
 
-Oluközü milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en önemli alanlarından biridir. Bu bölge, yüksek otlaklar ve ormanlık alanlardan oluşmaktadır. Parkın coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunmaktadır. Oluközü, aynı zamanda iklimsel olarak önemli bir bölgedir. Burası, karasal iklimin etkisi altında bulunmaktadır. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bu iklim, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Oluközü'nün coğrafi konumu, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunmaktadır. Parkın içinde, çeşitli yürüyüş parkurları ve gözlem noktaları bulunmaktadır. Bu alanlar, ziyaretçilere doğayı yakından keşfetme ve hayvanları gözlemleme fırsatı sunmaktadır.
+Oluközü milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en önemli alanlarından biridir. Bu bölge, yüksek otlaklar ve ormanlık alanlardan oluşmaktadır. Parkın coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunmaktadır. Oluközü, aynı zamanda iklimsel olarak önemli bir bölgedir. Burası, karasal iklimin etkisi altında bulunmaktadır. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Oluközü'nün coğrafi konumu, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunmaktadır. Parkın içinde, çeşitli yürüyüş parkurları ve gözlem noktaları bulunmaktadır. Bu alanlar, ziyaretçilere doğayı yakından keşfetme ve hayvanları gözlemleme fırsatı sunmaktadır.
 
 ## Flora ve Fauna
 

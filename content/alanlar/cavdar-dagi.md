@@ -40,7 +40,7 @@ Güneydeki dağ silsilesinin bir parçası olan Çavdar Dağı, Karaman ilinin c
 
 Doğal bir barrier görevi gören Çavdar Dağı, yüksekliği ve genişliğiyle dikkat çeker. Ancak fiziksel yapısına ilişkin detaylı bilgiler bulunmamasına rağmen, dağların genel olarak bölgenin jeolojisini etkilediği bilinir. Çavdar Dağı da bu bağlamda, bölgenin toprak yapısını ve su kaynaklarını şekillendiren önemli bir faktördür. Tıpkı bir şehir bloğunun içinde yer alan küçük bir park gibi, Çavdar Dağı da Karaman'ın coğrafi yapısı içinde önemli bir yer tutar.
 
-Mevsimsel değişimlerin izlendiği bir bölge olan Çavdar Dağı, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklime sahiptir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve dağda yaşayan canlıların uyum sağlamalarına neden olur. Eiffel Kulesi'nin yüksekliğine benzer bir yükseklikte yer alan Çavdar Dağı, bölgenin hava koşullarını da etkileyen önemli bir faktördür.
+Mevsimsel değişimlerin izlendiği bir bölge olan Çavdar Dağı, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklime sahiptir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve dağda yaşayan canlıların uyum sağlamalarına neden olur. Eiffel Kulesi'nin yüksekliğine benzer bir yükseklikte yer alan Çavdar Dağı, bölgenin hava koşullarını da etkileyen önemli bir faktördür.
 
 Çevresel açıdan bakıldığında, Çavdar Dağı, komşu alanlar ve su kaynaklarıyla bağlantılı bir ekosistemdir. Bölgenin wichtig su kaynaklarından biri olan Çavdar Dağı, Karaman Nehri'ne de eder. Monaco'nun yarısı kadar büyük bir alana sahip olmayan Çavdar Dağı, bölgenin doğal dengesini koruma konusunda önemli bir role sahiptir.
 

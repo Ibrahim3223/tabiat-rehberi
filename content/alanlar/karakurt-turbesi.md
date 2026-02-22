@@ -38,7 +38,7 @@ Karakurt Türbesi'nin tarihi geçmişi, Türk tarihinde önemli bir yere sahipti
 
 ## Coğrafya
 
-Karakurt Türbesi, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak kura ve soğuk bir iklime sahiptir. Bölgenin coğrafi yapısı, genellikle bozkır olarak bilinen step iklimine sahiptir. Karakurt Türbesi'nin bulunduğu Kırşehir ilinin coğrafi yapısı, genellikle düz ve hafif eğimli arazilerden oluşmaktadır. Bölgenin iklimi, yazları sıca ve khô, kışları soğu ve kar yağışlı olarak tanımlanabilir. Karakurt Türbesi, coğrafi olarak önemli bir konuma sahiptir ve yıl boyunca birçok ziyaretçi tarafından tercih edilmektedir. Bölgenin coğrafi yapısı ve iklimi, ziyaretçilerin Karakurt Türbesi'ni ziyaret ederken, aynı zamanda bölgenin doğal güzelliklerini de keşfetmesine olanak tanır.
+Karakurt Türbesi, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak kura ve soğuk bir iklime sahiptir. Bölgenin coğrafi yapısı, genellikle bozkır olarak bilinen step iklimine sahiptir. Karakurt Türbesi'nin bulunduğu Kırşehir ilinin coğrafi yapısı, genellikle düz ve hafif eğimli arazilerden oluşmaktadır. Bölgenin iklimi, yazları sıcak ve kuru, kışları soğuk ve kar yağışlı olarak tanımlanabilir. Karakurt Türbesi, coğrafi olarak önemli bir konuma sahiptir ve yıl boyunca birçok ziyaretçi tarafından tercih edilmektedir. Bölgenin coğrafi yapısı ve iklimi, ziyaretçilerin Karakurt Türbesi'ni ziyaret ederken, aynı zamanda bölgenin doğal güzelliklerini de keşfetmesine olanak tanır.
 
 ## Flora ve Fauna
 

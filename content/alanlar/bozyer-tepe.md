@@ -36,7 +36,7 @@ Bozyer Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölgenin
 
 ## Coğrafya
 
-Bozyer Tepe, İzmir'in coğrafyasında önemli bir yere sahip. Tepe, Ege Bölgesi'nin karakteristik özelliklerini taşıyor ve çevresindeki diğer noktalardan leicht farklılaşıyor. 140 hektarlık bir alana yayılan Bozyer Tepe, çevresindeki diğer tepelerle birlikte bir bütün oluşturuyor. Bölgenin iklimi, Ege Bölgesi'nin genel iklimine uygun olarak sıca ve kurak yazlar, ılıman ve yağışlı kışlar şeklinde kendini gösteriyor. Bu iklim, tepe etrafındaki bitki örtüsünü şekillendirmiş ve çeşitli bitki türlerinin yetişmesine olanak tanımıştır. Bozyer Tepe'nin coğrafyası, ziyaretçilerine geniş bir manzara sunuyor ve özellikle gün batımında ziyaret edildiğinde, izleyenleri büyüleyen bir güzelliğe sahip.
+Bozyer Tepe, İzmir'in coğrafyasında önemli bir yere sahip. Tepe, Ege Bölgesi'nin karakteristik özelliklerini taşıyor ve çevresindeki diğer noktalardan leicht farklılaşıyor. 140 hektarlık bir alana yayılan Bozyer Tepe, çevresindeki diğer tepelerle birlikte bir bütün oluşturuyor. Bölgenin iklimi, Ege Bölgesi'nin genel iklimine uygun olarak sıcak ve kurak yazlar, ılıman ve yağışlı kışlar şeklinde kendini gösteriyor. Bu iklim, tepe etrafındaki bitki örtüsünü şekillendirmiş ve çeşitli bitki türlerinin yetişmesine olanak tanımıştır. Bozyer Tepe'nin coğrafyası, ziyaretçilerine geniş bir manzara sunuyor ve özellikle gün batımında ziyaret edildiğinde, izleyenleri büyüleyen bir güzelliğe sahip.
 
 ## Flora ve Fauna
 

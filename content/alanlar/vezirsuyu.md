@@ -31,7 +31,7 @@ Vezirsuyu milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmişti
 
 ## Coğrafya
 
-Vezirsuyu milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Parkın coğrafyası, genellikle düz ve hafif eğimli arazilerden oluşuyor. Bu coğrafi yapı, ziyaretçilerin rahatça gezebileceği bir ortam sağlıyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kış ayları soğu ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Parkın çevresinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Vezirsuyu milli parkı, aynı zamanda bölgenin su kaynaklarını korumak için önemli bir role sahip. Parkın içinde ve çevresinde, çeşitli su kaynakları ve akarsular bulunmakta.
+Vezirsuyu milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Parkın coğrafyası, genellikle düz ve hafif eğimli arazilerden oluşuyor. Bu coğrafi yapı, ziyaretçilerin rahatça gezebileceği bir ortam sağlıyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Parkın çevresinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Vezirsuyu milli parkı, aynı zamanda bölgenin su kaynaklarını korumak için önemli bir role sahip. Parkın içinde ve çevresinde, çeşitli su kaynakları ve akarsular bulunmakta.
 
 ## Flora ve Fauna
 

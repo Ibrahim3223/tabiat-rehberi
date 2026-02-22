@@ -37,7 +37,7 @@ Kümbet Menekşe Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanıyor
 
 ## Coğrafya
 
-Kümbet Menekşe Hamamı, Sivas'ın merkezinde yer alıyor ve yaklaşık 140 hektarlık bir alanı kapsıyor. Bu doğal güzelliğin coğrafi yapısı, genellikle düzlük ve hafif eğimli arazilerden oluşuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal iklim özellikleri gösteriyor. Kışları soğu ve karlı, yazları ise sıcak ve kurak passing. Bu bölgede, çeşitli bitki türleri ve zengin fauna found. Özellikle ilkbahar ve sonbahar aylarında, bölgenin doğal güzelliği daha da artıyor.
+Kümbet Menekşe Hamamı, Sivas'ın merkezinde yer alıyor ve yaklaşık 140 hektarlık bir alanı kapsıyor. Bu doğal güzelliğin coğrafi yapısı, genellikle düzlük ve hafif eğimli arazilerden oluşuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal iklim özellikleri gösteriyor. Kışları soğuk ve karlı, yazları ise sıcak ve kurak passing. Bu bölgede, çeşitli bitki türleri ve zengin fauna found. Özellikle ilkbahar ve sonbahar aylarında, bölgenin doğal güzelliği daha da artıyor.
 
 ## Flora ve Fauna
 

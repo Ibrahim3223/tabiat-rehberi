@@ -44,7 +44,7 @@ Van'ın coğrafi güzelliğine katkıda bulunan Eşengöl Dağı, 39.1167°K, 44
 
 Doğal güzelliği ile dikkat çeken Eşengöl Dağı, Van'ın coğrafi yapısında önemli bir yere sahiptir. Dağın fiziksel yapısı, bölgenin jeolojik özelliklerini yansıtır. Eşengöl Dağı, Van Gölü'nün kuzeybatı kıyısında yer alan bir dağdır ve bölgenin coğrafi yapısını şekillendiren önemli bir unsurdur. Ancak, dağ hakkında detaylı fiziksel veriler bulunmaması, onun gerçek boyutlarını tam olarak anlamamızı engeller.
 
-İklim açısından, Eşengöl Dağı ve çevresinin karakteri, Van'ın genel iklimi ile benzerlik gösterir. Bölge, karasal iklimin hakim olduğu bir alanı kapsar. Kış mevsimi soğu ve kar yağışlı, yaz mevsimi ise sıca ve kurudur. Bu mevsimsel özellikler, Eşengöl Dağı'nın iklim karakterini şekillendirir ve bölgenin doğal güzelliğini etkiler.
+İklim açısından, Eşengöl Dağı ve çevresinin karakteri, Van'ın genel iklimi ile benzerlik gösterir. Bölge, karasal iklimin hakim olduğu bir alanı kapsar. Kış mevsimi soğuk ve kar yağışlı, yaz mevsimi ise sıcak ve kurudur. Bu mevsimsel özellikler, Eşengöl Dağı'nın iklim karakterini şekillendirir ve bölgenin doğal güzelliğini etkiler.
 
 Çevresel açıdan, Eşengöl Dağı, Van Gölü ve çevresindeki diğer coğrafi oluşumlar ile bağlantılıdır. Dağın eteklerinde yer alan su kaynakları, bölgenin ekosistemini destekler ve canlı çeşitliliğini korur. Eşengöl Dağı, Van'ın doğal güzelliğini ve ekosistemini korumak için önemli bir rol oynar ve bölgenin coğrafi yapısını şekillendiren önemli bir unsurdur.
 

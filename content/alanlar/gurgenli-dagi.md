@@ -45,7 +45,7 @@ Gürgenlı Dağı ve çevresinin, bu tarihsel süreçte önemli bir role sahip o
 
 Gürgenlı Dağı'nın fiziksel yapısı, bölgenin jeolojik tarihini yansıtıyor. Dağın şekli, çevresindeki düzlüklerle kıyaslandığında, Eiffel Kulesi'nin birkaç katı yükseklikte gibi görünüyor. Bu yükseklik, bölgenin coğrafi çeşitliliğini arttırıyor ve Gürgenlı Dağı'nı, etraftaki düzlüklerden ayıran bir özellik olarak ortaya çıkıyor. Dağın boyutları, yaklaşık olarak Beşiktaş ilçesi kadar bir alanı kapsıyor; bu da, Gürgenlı Dağı'nın, küçük ama belirgin bir coğrafi oluşum olduğunu gösteriyor.
 
-İklim açısından bakıldığında, Gürgenlı Dağı, İç Anadolu Bölgesi'nin karakteristik mevsimsel değişimlerini yaşıyor. Kış aylarında, dağ etekleri ve çevresindeki ovalar, soğu ve karlı bir hava altında kalırken, yaz aylarında sıcaklık ve kuraklık hakim oluyor. Bu mevsimsel değişimler, bölgenin ekosistemini şekillendiriyor ve Gürgenlı Dağı, bu ekosistemin önemli bir parçası olarak ortaya çıkıyor.
+İklim açısından bakıldığında, Gürgenlı Dağı, İç Anadolu Bölgesi'nin karakteristik mevsimsel değişimlerini yaşıyor. Kış aylarında, dağ etekleri ve çevresindeki ovalar, soğuk ve karlı bir hava altında kalırken, yaz aylarında sıcaklık ve kuraklık hakim oluyor. Bu mevsimsel değişimler, bölgenin ekosistemini şekillendiriyor ve Gürgenlı Dağı, bu ekosistemin önemli bir parçası olarak ortaya çıkıyor.
 
 Gürgenlı Dağı'nın çevresel ilişkileri, bölgenin su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahip. Dağın eteklerinde, bölgenin önemli su kaynaklarından biri olan Kızılırmak Nehri'nin kolları yer alıyor. Bu su kaynakları, bölgenin tarım ve hayvancılık faaliyetleri için hayati önem taşıyor ve Gürgenlı Dağı, bu ekosistemin bir parçası olarak, bölgenin doğal dengesini koruyor.
 

@@ -30,7 +30,7 @@ Botan Vadisi Milli Parkı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmi
 
 ## Coğrafya
 
-Botan Vadisi Milli Parkı, İç Anadolu Bölgesi'nin coğrafyası içinde yer alan bir doğa harikasıdır. Vadide, çeşitli coğrafi oluşumlar encontrabilir. Burada, dağlar, ovalar ve nehirler bir arada bulunmakta ve doğanın güzelliğini göstermektedir. Botan Vadisi, aynı zamanda bir iklim çeşitliliğine sahiptir. Bölge, karasal iklimin etkisinde olup, kışlar soğu ve yazlar sıcak geçmektedir. Vadide, çeşitli mevsimlerde farklı doğa güzelliklerini keşfedebilirsiniz. Milli park, coğrafi çeşitliliği ve iklim özellikleri ile ziyaretçilerine unutulmaz bir deneyim sunmaktadır. Botan Vadisi, yaklaşık 140 hektarlık bir alanı kaplamaktadır ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil etmektedir.
+Botan Vadisi Milli Parkı, İç Anadolu Bölgesi'nin coğrafyası içinde yer alan bir doğa harikasıdır. Vadide, çeşitli coğrafi oluşumlar encontrabilir. Burada, dağlar, ovalar ve nehirler bir arada bulunmakta ve doğanın güzelliğini göstermektedir. Botan Vadisi, aynı zamanda bir iklim çeşitliliğine sahiptir. Bölge, karasal iklimin etkisinde olup, kışlar soğuk ve yazlar sıcak geçmektedir. Vadide, çeşitli mevsimlerde farklı doğa güzelliklerini keşfedebilirsiniz. Milli park, coğrafi çeşitliliği ve iklim özellikleri ile ziyaretçilerine unutulmaz bir deneyim sunmaktadır. Botan Vadisi, yaklaşık 140 hektarlık bir alanı kaplamaktadır ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil etmektedir.
 
 ## Flora ve Fauna
 

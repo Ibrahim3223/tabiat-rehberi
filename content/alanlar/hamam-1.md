@@ -38,7 +38,7 @@ Hamam 1'in tarihi geçmişi, Selçuk ilçesinin tarihi ile iç içe geçmiş dur
 
 ## Coğrafya
 
-Hamam 1, coğrafi olarak Ege Bölgesi'nin en güzel noktalarından birini oluşturur. Bu plaj, İzmir'in Selçuk ilçesinde yer alır ve denize açılan bir noktada bulunur. Hamam 1'in coğrafyası, genellikle kumla kaplı bir plaj ve arkasında yer alan tepelerle karakterizedir. Bu tepeler, plaja doğal bir güzellik katmakla birlikte, aynı zamanda Burada yer alan bitki türleri ve hayvanlar da bu coğrafyanın bir parçasıdır. Hamam 1'in iklimi, tipik Akdeniz iklimi özellikleri taşır; yani yazları sıca ve kurak, kışları ılıman ve yağışlıdır. Bu özellik, plajı yıl boyunca ziyaret edilebilir kılar. Plajın etrafında yer alan dağlar ve ormanlar, bu coğrafyanın doğal güzelliğini daha da artırır.
+Hamam 1, coğrafi olarak Ege Bölgesi'nin en güzel noktalarından birini oluşturur. Bu plaj, İzmir'in Selçuk ilçesinde yer alır ve denize açılan bir noktada bulunur. Hamam 1'in coğrafyası, genellikle kumla kaplı bir plaj ve arkasında yer alan tepelerle karakterizedir. Bu tepeler, plaja doğal bir güzellik katmakla birlikte, aynı zamanda Burada yer alan bitki türleri ve hayvanlar da bu coğrafyanın bir parçasıdır. Hamam 1'in iklimi, tipik Akdeniz iklimi özellikleri taşır; yani yazları sıcak ve kurak, kışları ılıman ve yağışlıdır. Bu özellik, plajı yıl boyunca ziyaret edilebilir kılar. Plajın etrafında yer alan dağlar ve ormanlar, bu coğrafyanın doğal güzelliğini daha da artırır.
 
 ## Flora ve Fauna
 

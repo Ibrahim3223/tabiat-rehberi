@@ -40,7 +40,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde, Diyarbakır ilinin coğrafi zenginlik
 
 Doğal bir anıt olan Cemimata Mağarası, jeolojik oluşumları ve içerdiği mineralleriyle dikkat çekmektedir. Mağaranın fiziksel yapısı, bölgedeki kayaçların erozyonuna bağlı olarak oluşmuş olup, bu oluşumlar binlerce yıl boyunca devam eden jeolojik süreçlerin bir sonucu olarak ortaya çıkmıştır. Mağaranın büyüklüğü, birkaç olimpik havuz kadar bir alanı kaplamaktadır ve bu boyutlar, ziyaretçilere mağaranın iç dünyasını keşfetmek için yeterli bir alan sağlamaktadır.
 
-İklim açısından bakıldığında, Cemimata Mağarası ve çevresinin bulunduğu bölge, karasal iklim özellikleri göstermektedir. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklim karakterine sahiptir. Bu mevsimsel değişimler, bölgenin flora ve faunasını etkilemekte ve mağaranın içinde ve çevresinde yaşayan canlıların adaptasyonunu şekillendirmektedir.
+İklim açısından bakıldığında, Cemimata Mağarası ve çevresinin bulunduğu bölge, karasal iklim özellikleri göstermektedir. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklim karakterine sahiptir. Bu mevsimsel değişimler, bölgenin flora ve faunasını etkilemekte ve mağaranın içinde ve çevresinde yaşayan canlıların adaptasyonunu şekillendirmektedir.
 
 Cemimata Mağarası, çevresindeki coğrafi oluşumlarla da bağlantılıdır. Mağaranın bulunduğu bölgede, çeşitli su kaynakları ve ekosistemler bulunmaktadır. Bu su kaynakları, mağaranın oluşumunda ve şekillenmesinde önemli bir rol oynamış olup, aynı zamanda bölgenin flora ve faunasının zenginliğini desteklemektedir. Mağaranın komşu alanlar ve su kaynaklarıyla olan bu bağlantıları, bölgenin doğal dengesini korumak için önemlidir.
 

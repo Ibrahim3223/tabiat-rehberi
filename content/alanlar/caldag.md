@@ -45,7 +45,7 @@ Doğal güzellikleri ile dikkat çeken Çaldağ, Çanakkale'nin eşsiz coğrafya
 
 Jeolojik açıdan bakıldığında, Çaldağ'ın fiziksel yapısı oldukça intéressan. Ancak, detaylı fiziksel veri bulunmamasına rağmen, bu bölgenin coğrafi konumu itibariyle büyük bir şehir parkı kadar büyüklüğe sahip olduğu söylenebilir. Bu büyüklük, bir ilçenin merkezi park alanının birkaç katı büyüklüğüne eşit olabilir. Çaldağ'ın jeolojik yapısı, bölgenin genel coğrafi özelliklerini yansıtıyor ve bu da burayı önemli bir güzelliği haline getiriyor.
 
-İklim açısından, Çaldağ bölgesinin karakteri, Akdeniz ikliminin etkilerini taşıyor. Mevsimsel olarak, yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir hava durumu hakim. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini etkiliyor ve burayı önemli bir ekosistem haline getiriyor.
+İklim açısından, Çaldağ bölgesinin karakteri, Akdeniz ikliminin etkilerini taşıyor. Mevsimsel olarak, yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava durumu hakim. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini etkiliyor ve burayı önemli bir ekosistem haline getiriyor.
 
 Çevresel açıdan, Çaldağ bölgesinin komşu alanları ile güçlü bir bağlantısı var. Su kaynakları ve ekosistem bağlantıları, burayı önemli bir doğal yaşam alanı haline getiriyor. Monaco'nun yarısı kadar büyüklüğe sahip olmayan bu bölge, bölgenin ekolojik dengesini koruma altına alıyor ve bu sayede doğal güzelliğini korumayı başarıyor.
 

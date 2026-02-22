@@ -44,7 +44,7 @@ Doğal güzellikleri ile dikkat çeken Koç Dağı, Kahramanmaraş ilinin sını
 
 Jeolojik açıdan incelendiğinde, Koç Dağı'nın cấu oluşumu hakkında detaylı bilgi bulunmuyor. Ancak, dağların genel olarak oluşum süreçleri düşünüldüğünde, milyonlarca yıl süren erozyon ve tektonik hareketlerin etkisiyle şekillenmiş olduğunu söyleyebiliriz. Koç Dağı, bölgenin jeolojik yapısını etkileyen önemli faktörlerden biri olarak görünüyor.
 
-Mevsimsel olarak incelendiğinde, Koç Dağı'nın iklimi Karadeniz ve Akdeniz iklimlerinin bir karışımı gibi görünüyor. Yaz aylarında sıca ve nemli, kış aylarında ise soğu ve karlı bir hava hüküm sürüyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler arasında yer alıyor.
+Mevsimsel olarak incelendiğinde, Koç Dağı'nın iklimi Karadeniz ve Akdeniz iklimlerinin bir karışımı gibi görünüyor. Yaz aylarında sıcak ve nemli, kış aylarında ise soğuk ve karlı bir hava hüküm sürüyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler arasında yer alıyor.
 
 Bölgenin su kaynakları açısından da önemli bir role sahip olan Koç Dağı, çevresindeki ekosistemi destekleyen bir yapıya sahip. Dağın eteklerinde bulunan tarım alanları ve ormanlar, bölgenin doğal dengesini korumasında önemli bir rol oynuyor. Aynı zamanda, Koç Dağı'nın komşu alanlarla olan ilişkisi, bölgenin biyolojik çeşitliliğinin korunmasına katkıda bulunuyor.
 

@@ -38,7 +38,7 @@ Mıhlı Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetl
 
 ## Coğrafya
 
-Mıhlı Şelalesi, Küçükkuyu'da Ayvacık ilçesinin sınırları içerisinde yer almaktadır. Şelale, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, yüksekli ve eğimli arazilerle çevrilidir. Şelaleninindeki yeşil alanlar, çeşitli bitki türleri ile zengin bir flora sunmaktadır. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal iklim özellikleri göstermektedir. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurudur. Mıhlı Şelalesi, bu coğrafi koşullar altında, doğanın güzelliğini ön plana çıkaran bir bölgedir. Şelale, özellikle ilkbahar ve yaz aylarında ziyaret edildiğinde, çevrenin yeşillendiği ve çiçeklerin açtığı bir manzara sunar. Bu dönemlerde, şelalenin etrafındaki yürüyüş yolları ve piknik alanları, doğa severler için ideal bir ortam sağlar.
+Mıhlı Şelalesi, Küçükkuyu'da Ayvacık ilçesinin sınırları içerisinde yer almaktadır. Şelale, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, yüksekli ve eğimli arazilerle çevrilidir. Şelaleninindeki yeşil alanlar, çeşitli bitki türleri ile zengin bir flora sunmaktadır. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal iklim özellikleri göstermektedir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Mıhlı Şelalesi, bu coğrafi koşullar altında, doğanın güzelliğini ön plana çıkaran bir bölgedir. Şelale, özellikle ilkbahar ve yaz aylarında ziyaret edildiğinde, çevrenin yeşillendiği ve çiçeklerin açtığı bir manzara sunar. Bu dönemlerde, şelalenin etrafındaki yürüyüş yolları ve piknik alanları, doğa severler için ideal bir ortam sağlar.
 
 ## Flora ve Fauna
 

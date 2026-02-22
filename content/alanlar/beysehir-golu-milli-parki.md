@@ -37,7 +37,7 @@ Beyşehir Gölü Milli Parkı, tarihi geçmişiyle dikkat çekmektedir. Bu bölg
 
 ## Coğrafya
 
-Beyşehir Gölü Milli Parkı, Konya'nın Beyşehir ilçesinde yer almaktadır. Park, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genel olarak düz ve geniş bir alana sahiptir. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Beyşehir Gölü, parkın içerisinde yer alan en önemli coğrafi özelliktir. Göl, yaklaşık 20 km uzunluğunda ve 10 km genişliğindedir. Parkın iklimi, İç Anadolu Bölgesi'nin iklimine benzerlik gösterir. Park, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve karlı bir iklime sahiptir. Parkın coğrafi konumu, ziyaretçilerine güzel bir gün geçirmelerine olanak tanır.
+Beyşehir Gölü Milli Parkı, Konya'nın Beyşehir ilçesinde yer almaktadır. Park, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genel olarak düz ve geniş bir alana sahiptir. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Beyşehir Gölü, parkın içerisinde yer alan en önemli coğrafi özelliktir. Göl, yaklaşık 20 km uzunluğunda ve 10 km genişliğindedir. Parkın iklimi, İç Anadolu Bölgesi'nin iklimine benzerlik gösterir. Park, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı bir iklime sahiptir. Parkın coğrafi konumu, ziyaretçilerine güzel bir gün geçirmelerine olanak tanır.
 
 ## Flora ve Fauna
 

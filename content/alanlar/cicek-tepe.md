@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde, Batman ilinin sınırları içerisind
 
 Doğal bir anıt olarak görülebilecek Çiçek Tepe, çevresindeki coğrafi yapıyla birlikte bir bütün olarak değerlendirilmelidir. Jeolojik açıdan bakıldığında, bu bölgenin oluşumu milyonlarca yıl önce başlamış ve günümüze kadar süregelmiştir. Çiçek Tepe'nin yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katına eşittir ve bu yükseklik, bölgenin iklimini ve bitki örtüsünü etkileyen önemli bir faktördür.
 
-İklim açısından bakıldığında, Çiçek Tepe ve çevresinin karakteristiği, karasal iklimin etkilerini taşır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürer. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini şekillendirmiş ve burada yaşayan canlıların uyum sağlamasına neden olmuştur.
+İklim açısından bakıldığında, Çiçek Tepe ve çevresinin karakteristiği, karasal iklimin etkilerini taşır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürer. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini şekillendirmiş ve burada yaşayan canlıların uyum sağlamasına neden olmuştur.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları, Çiçek Tepe'nin çevresel önemini vurgular. Bu dağ, bölgedeki suyun toplandığı ve yöre halkının su ihtiyacını karşıladığı önemli bir kaynak olarak görülebilir. Ayrıca, Çiçek Tepe'nin eteklerinde ve çevresinde yer alan ormanlar, bölge için önemli bir oksijen kaynağı ve biyolojik çeşitlilik merkezi olarak işlev görür. Bu nedenle, Çiçek Tepe ve çevresinin korunması, bölgenin doğal dengesinin korunması için son derece önemlidir.
 

@@ -38,7 +38,7 @@ Gazi Sığla Bey Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor
 
 ## Coğrafya
 
-Gazi Sığla Bey Türbesi, İzmir'in Selçuk ilçesinde, Ege Bölgesi'nin merkezi bir noktasında yer alıyor. Bu bölge, tarihi ve doğal güzellikleri bir araya getiren özel bir coğrafyaya sahip. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu geniş alan, ziyaretçilere geniş bir görünüm sunuyor. Bölgenin iklimi, tipik Akdeniz iklimi özellikleri gösteriyor; yazları sıca ve kurak, kışları ılık ve yağışlı geçiyor. Bu iklim, bölgenin florasına ve faunasına da şekillendiriyor. Gazi Sığla Bey Türbesi'nin bulunduğu alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Bu coğrafya, ziyaretçilere hem tarihi bir deneyim hem de doğanın güzelliğini sunuyor.
+Gazi Sığla Bey Türbesi, İzmir'in Selçuk ilçesinde, Ege Bölgesi'nin merkezi bir noktasında yer alıyor. Bu bölge, tarihi ve doğal güzellikleri bir araya getiren özel bir coğrafyaya sahip. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu geniş alan, ziyaretçilere geniş bir görünüm sunuyor. Bölgenin iklimi, tipik Akdeniz iklimi özellikleri gösteriyor; yazları sıcak ve kurak, kışları ılık ve yağışlı geçiyor. Bu iklim, bölgenin florasına ve faunasına da şekillendiriyor. Gazi Sığla Bey Türbesi'nin bulunduğu alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Bu coğrafya, ziyaretçilere hem tarihi bir deneyim hem de doğanın güzelliğini sunuyor.
 
 ## Flora ve Fauna
 

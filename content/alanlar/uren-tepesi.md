@@ -36,7 +36,7 @@ wikidata_id: "Q34810073"
 
 ## Coğrafya
 
-Üren Tepesi, Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyan bir alandır. Tepenin yüksekliği, bölgenin genel coğrafi yapısına uygun olarak değişkenlik gösteriyor. Üren Tepesi'nin etrafı, çeşitli bitki türleri ile kaplı ve bu bitkiler, bölgenin ekolojik dengesini koruyor. Tepenin iklimi, Akdeniz ikliminin característicasını taşıyor ve bu nedenle, yaz ayları sıca ve kurak, kış ayları ise ılıman ve yağışlı geçiyor. Üren Tepesi, coğrafi konumu itibariyle, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
+Üren Tepesi, Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyan bir alandır. Tepenin yüksekliği, bölgenin genel coğrafi yapısına uygun olarak değişkenlik gösteriyor. Üren Tepesi'nin etrafı, çeşitli bitki türleri ile kaplı ve bu bitkiler, bölgenin ekolojik dengesini koruyor. Tepenin iklimi, Akdeniz ikliminin característicasını taşıyor ve bu nedenle, yaz ayları sıcak ve kurak, kış ayları ise ılıman ve yağışlı geçiyor. Üren Tepesi, coğrafi konumu itibariyle, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

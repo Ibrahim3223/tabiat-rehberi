@@ -36,7 +36,7 @@ Ayrıçal Tepesi, tarihi geçmişi ile dikkat çekiyor. Bu tepe, yüzyıllar boy
 
 ## Coğrafya
 
-Ayrıçal Tepesi, Kayseri'nin coğrafi yapısını  ediyor. Tepenin yüksekliği, şehrin panoramik manzarasını sunmaya yetiyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve khô passedir. Ayrıçal Tepesi, özellikle ilkbahar ve sonbahar aylarında ziyaret edildiğinde, ziyaretçilerine güzel bir manzara sunuyor. Tepenin coğrafi konumu, ziyaretçilerine şehrin ve çevresinin güzel bir görünümünü sunuyor.
+Ayrıçal Tepesi, Kayseri'nin coğrafi yapısını  ediyor. Tepenin yüksekliği, şehrin panoramik manzarasını sunmaya yetiyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kuru pasiftir. Ayrıçal Tepesi, özellikle ilkbahar ve sonbahar aylarında ziyaret edildiğinde, ziyaretçilerine güzel bir manzara sunuyor. Tepenin coğrafi konumu, ziyaretçilerine şehrin ve çevresinin güzel bir görünümünü sunuyor.
 
 ## Flora ve Fauna
 

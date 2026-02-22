@@ -36,7 +36,7 @@ Kurtmehmedin Tepesi, tarihi geçmişi ile dikkat çekiyor. Bu tepe, yüzyıllar 
 
 ## Coğrafya
 
-Kurtmehmedin Tepesi, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Tepenin etrafında geniş ovalar ve dağlar bulunmakta. Bu coğrafi yapı, bölgenin iklimini ve bitki örtüsünü etkileyen önemli faktörler. Kurtmehmedin Tepesi, yaklaşık yüksek bir konumdate yer alıyor ve bu yükseklik, bölgenin iklimini şekillendiren önemli bir unsur. Tepenin eteklerinde, çeşitli su kaynakları ve akarsular bulunmakta.
+Kurtmehmedin Tepesi, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Tepenin etrafında geniş ovalar ve dağlar bulunmakta. Bu coğrafi yapı, bölgenin iklimini ve bitki örtüsünü etkileyen önemli faktörler. Kurtmehmedin Tepesi, yüksek bir konumda yer alıyor ve bu yükseklik, bölgenin iklimini şekillendiren önemli bir unsur. Tepenin eteklerinde, çeşitli su kaynakları ve akarsular bulunmakta.
 
 ## Flora ve Fauna
 

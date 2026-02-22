@@ -36,7 +36,7 @@ Karakaya Ilıcası, yüzyıllar boyunca insanların ziyaret ettiği bir sağlık
 
 ## Coğrafya
 
-Karakaya Ilıcası, İç Anadolu Bölgesi'nde, Ankara ilinin sınırları içerisinde yer almaktadır. İlcanın bulunduğu bölge, coğrafi olarak, yaklaşık yüksek bir konumdate ve geniş bir ova üzerindedir. İlcanın suyunun sıcaklığı, yaklaşık 40 derece civarındadır ve bu su, cilt hastalıkları, romatizma ve diğer bazı rahatsızlıkların tedavisinde kullanılır. İlcanın etrafı, yaklaşık 140 hektarlık bir yeşil alan ile çevrilidir ve bu alan, ziyaretçilere, ilica suyunun yanı sıra, piknik alanı, yürüyüş parkurları ve diğer sosyal tesisleri sunar. Karakaya Ilıcası, Ankara'nın merkezine uzun bir mesafe uzaklıkta olup, ulaşım açısından kolay bir konumdadır.
+Karakaya Ilıcası, İç Anadolu Bölgesi'nde, Ankara ilinin sınırları içerisinde yer almaktadır. İlcanın bulunduğu bölge, coğrafi olarak, yüksek bir konumda ve geniş bir ova üzerindedir. İlcanın suyunun sıcaklığı, yaklaşık 40 derece civarındadır ve bu su, cilt hastalıkları, romatizma ve diğer bazı rahatsızlıkların tedavisinde kullanılır. İlcanın etrafı, yaklaşık 140 hektarlık bir yeşil alan ile çevrilidir ve bu alan, ziyaretçilere, ilica suyunun yanı sıra, piknik alanı, yürüyüş parkurları ve diğer sosyal tesisleri sunar. Karakaya Ilıcası, Ankara'nın merkezine uzun bir mesafe uzaklıkta olup, ulaşım açısından kolay bir konumdadır.
 
 ## Flora ve Fauna
 

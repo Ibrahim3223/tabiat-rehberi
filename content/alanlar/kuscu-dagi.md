@@ -44,7 +44,7 @@ Güneybatı Anadolu'nun en güzel köşelerinden biri olan İzmir'in dağlık b�
 
 Doğal güzelliği ve coğrafi konumuyla dikkat çeken Kuşçu Dağı, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu dağ, jeolojik olarak kireçtaşı ve şistlerin birleşmesiyle oluşan bir yapıya sahiptir. Kuşçu Dağı'nın şekli, zaman içinde oluşan erozyon ve tektonik hareketler sonucu oluşmuş bir yapıdadır. Bu dağ, bölgenin jeolojik yapısını anlamak için önemli bir anahtardır.
 
-Yılın dört mevsimi de farklı bir karakterde olan Kuşçu Dağı, iklim bakımından oldukça çeşitlilik gösterir. Kış aylarında soğu ve yağışlı bir hava hakimken, yaz aylarında sıca ve kurak bir hava görülür. Bu dağ, bölgenin iklimini şekillendiren önemli bir faktördür. Ege Bölgesi'nin genel iklim karakterine uygun olarak, Kuşçu Dağı da Akdeniz ikliminin etkilerini taşır.
+Yılın dört mevsimi de farklı bir karakterde olan Kuşçu Dağı, iklim bakımından oldukça çeşitlilik gösterir. Kış aylarında soğuk ve yağışlı bir hava hakimken, yaz aylarında sıcak ve kurak bir hava görülür. Bu dağ, bölgenin iklimini şekillendiren önemli bir faktördür. Ege Bölgesi'nin genel iklim karakterine uygun olarak, Kuşçu Dağı da Akdeniz ikliminin etkilerini taşır.
 
 Çevresel açıdan bakıldığında, Kuşçu Dağı'nın komşu alanlar ve su kaynaklarıyla önemli bir bağı vardır. Bu dağ, bölgenin su kaynaklarının oluşmasında önemli bir role sahiptir. Ayrıca, Kuşçu Dağı'nın ekosistemi, bölgenin biyolojik çeşitliliğini destekleyen önemli bir unsurdur. Bu dağ, bölgenin doğal dengesini korumak için önemli bir anahtardır.
 

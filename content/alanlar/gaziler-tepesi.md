@@ -37,7 +37,7 @@ Gaziler Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b�
 
 ## Coğrafya
 
-Gaziler Tepesi, Marmara Bölgesi'nin Kocaeli ilinde, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır. Tepenin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna tarafından şekillenmiştir. Bu bölge, Karadeniz ve Marmara denizinin birleştiği noktada yer alır ve bu nedenle, iklimi ılımandır. Gaziler Tepesi'nin eteklerinde, çeşitli akarsular ve göller bulunur. Tepenin zirvesinden, Marmara Denizi ve Karadeniz'in birleştiği noktanın manzarası izlenebilir. Bu bölge, doğa severler için bir cennet ve fotoğraf tutkunları için bir görsel şölen.
+Gaziler Tepesi, Marmara Bölgesi'nin Kocaeli ilinde, yüksek bir konumda yer alır. Tepenin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna tarafından şekillenmiştir. Bu bölge, Karadeniz ve Marmara denizinin birleştiği noktada yer alır ve bu nedenle, iklimi ılımandır. Gaziler Tepesi'nin eteklerinde, çeşitli akarsular ve göller bulunur. Tepenin zirvesinden, Marmara Denizi ve Karadeniz'in birleştiği noktanın manzarası izlenebilir. Bu bölge, doğa severler için bir cennet ve fotoğraf tutkunları için bir görsel şölen.
 
 ## Flora ve Fauna
 

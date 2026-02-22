@@ -36,7 +36,7 @@ Koçak Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bö
 
 ## Coğrafya
 
-Koçak Tepesi, Aydın'ın coğrafi yapısı içinde önemli bir yer tutar. Bu tepe, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Burada, akarsular, ormanlar ve tarım alanları bir arada bulunmakta ve zengin bir ekosistem oluşturmaktadır. Koçak Tepesi'nin eteklerinde, çeşitli tarım ürünleri yetiştirilmekte ve bu bölge, tarım faaliyetleri için elverişli bir ortam sunmaktadır. İklim, genel olarak Akdeniz ikliminin özelliklerini taşır; yani yazlar sıca ve kurak, kışlar ılık ve yağışlı geçer. Bu coğrafi yapı, Koçak Tepesi'ni hem doğal güzellikleri hem de tarımsal potansiyeli ile önemli bir destinasyon haline getirir.
+Koçak Tepesi, Aydın'ın coğrafi yapısı içinde önemli bir yer tutar. Bu tepe, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Burada, akarsular, ormanlar ve tarım alanları bir arada bulunmakta ve zengin bir ekosistem oluşturmaktadır. Koçak Tepesi'nin eteklerinde, çeşitli tarım ürünleri yetiştirilmekte ve bu bölge, tarım faaliyetleri için elverişli bir ortam sunmaktadır. İklim, genel olarak Akdeniz ikliminin özelliklerini taşır; yani yazlar sıcak ve kurak, kışlar ılık ve yağışlı geçer. Bu coğrafi yapı, Koçak Tepesi'ni hem doğal güzellikleri hem de tarımsal potansiyeli ile önemli bir destinasyon haline getirir.
 
 ## Flora ve Fauna
 

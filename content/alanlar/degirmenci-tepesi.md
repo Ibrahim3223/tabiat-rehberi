@@ -36,7 +36,7 @@ Değirmenci Tepesi'nin tarihi geçmişi, yüzyıllar boyunca birçok medeniyete 
 
 ## Coğrafya
 
-Değirmenci Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe olarak, ziyaretçilerine eşsiz bir manzara sunuyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğe ev sahipliği yapıyor. Bu tepe, 700 metrelik rakımı ile birlikte, trekking ve doğa yürüyüşü için ideal bir destinasyon. Değirmenci Tepesi'nin coğrafi konumu, aynı zamanda birçok bitki ve hayvan türüne ev sahipliği yapıyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik karasal iklimine uygun olarak, yazları sıca ve kurak, kışları soğu ve karlı geçiyor. Bu iklim, bölgenin flora ve faunasını şekillendiren önemli bir faktör olarak kabul ediliyor. Değirmenci Tepesi'nin çevresinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
+Değirmenci Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe olarak, ziyaretçilerine eşsiz bir manzara sunuyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğe ev sahipliği yapıyor. Bu tepe, 700 metrelik rakımı ile birlikte, trekking ve doğa yürüyüşü için ideal bir destinasyon. Değirmenci Tepesi'nin coğrafi konumu, aynı zamanda birçok bitki ve hayvan türüne ev sahipliği yapıyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik karasal iklimine uygun olarak, yazları sıcak ve kurak, kışları soğuk ve karlı geçiyor. Bu iklim, bölgenin flora ve faunasını şekillendiren önemli bir faktör olarak kabul ediliyor. Değirmenci Tepesi'nin çevresinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

@@ -38,7 +38,7 @@ Barbaros Hayreddin Paşa Türbesi, tarihsel olarak önemli bir figür olan Barba
 
 ## Coğrafya
 
-Barbaros Hayreddin Paşa Türbesi, İstanbul'un Beşiktaş ilçesinde yer almaktadır. Marmara Bölgesi'nin önemli şehirlerinden biri olan İstanbul, coğrafi olarak zengin bir bölgedir. Türbenin bulunduğu alan, yeşilliklerle çevrilidir ve ziyaretçilere geniş bir gezi alanı sunmaktadır. İstanbul'un iklimi, karasal iklim özellikleri göstermektedir ve dört mevsim belirgin olarak yaşanmaktadır. Bahar ve yaz ayları, ziyaretçiler için idealdir çünkü bu mevsimlerde hava daha güneşli ve sıcaktır. Kış ayları ise soğu ve yağışlı olabilir. Çevre, tarihi mekanlarla dolu olup, ziyaretçilere zengin bir kültürel deneyim sunmaktadır.
+Barbaros Hayreddin Paşa Türbesi, İstanbul'un Beşiktaş ilçesinde yer almaktadır. Marmara Bölgesi'nin önemli şehirlerinden biri olan İstanbul, coğrafi olarak zengin bir bölgedir. Türbenin bulunduğu alan, yeşilliklerle çevrilidir ve ziyaretçilere geniş bir gezi alanı sunmaktadır. İstanbul'un iklimi, karasal iklim özellikleri göstermektedir ve dört mevsim belirgin olarak yaşanmaktadır. Bahar ve yaz ayları, ziyaretçiler için idealdir çünkü bu mevsimlerde hava daha güneşli ve sıcaktır. Kış ayları ise soğuk ve yağışlı olabilir. Çevre, tarihi mekanlarla dolu olup, ziyaretçilere zengin bir kültürel deneyim sunmaktadır.
 
 ## Flora ve Fauna
 

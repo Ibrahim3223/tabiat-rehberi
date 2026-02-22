@@ -32,7 +32,7 @@ Bayır Servi Ağacı ve çevresi, yüzyıllar boyunca doğa severler ve ziyaret�
 
 ## Coğrafya
 
-Bayır Servi Ağacı, Marmaris Millî Parkı içinde yer alıyor ve 140 hektarlık bir alanı kapsıyor. Bu bölge, çeşitli bitki türleri ile zengin fauna ile dolu ve ziyaretçileri doğanın içlerine çekerek, şehrin gürültüsünden uzaklaşmaları için mükemmel bir fırsat sunuyor. Bayır Servi Ağacı'nın çevresi, dağlar ve ormanlarla çevrili ve bu coğrafi yapı, bölgenin iklimini ve ekolojisini şekillendiriyor. İklim, genel olarak Akdeniz iklimi özellikleri gösteriyor ve yazlar sıca ve kurak, kışlar ise ılık ve yağışlı geçiyor. Bu coğrafi özellikler, Bayır Servi Ağacı'nın quanhayatının çeşitliliğini ve güzelliğini ortaya koyuyor. Bölge, aynı zamanda yürüyüş ve doğa yürüyüşü için ideal bir yer ve ziyaretçiler, bu doğal güzellikleri keşfetmek için birçok farklı parkur ve rota bulabiliyorlar.
+Bayır Servi Ağacı, Marmaris Millî Parkı içinde yer alıyor ve 140 hektarlık bir alanı kapsıyor. Bu bölge, çeşitli bitki türleri ile zengin fauna ile dolu ve ziyaretçileri doğanın içlerine çekerek, şehrin gürültüsünden uzaklaşmaları için mükemmel bir fırsat sunuyor. Bayır Servi Ağacı'nın çevresi, dağlar ve ormanlarla çevrili ve bu coğrafi yapı, bölgenin iklimini ve ekolojisini şekillendiriyor. İklim, genel olarak Akdeniz iklimi özellikleri gösteriyor ve yazlar sıcak ve kurak, kışlar ise ılık ve yağışlı geçiyor. Bu coğrafi özellikler, Bayır Servi Ağacı'nın quanhayatının çeşitliliğini ve güzelliğini ortaya koyuyor. Bölge, aynı zamanda yürüyüş ve doğa yürüyüşü için ideal bir yer ve ziyaretçiler, bu doğal güzellikleri keşfetmek için birçok farklı parkur ve rota bulabiliyorlar.
 
 ## Flora ve Fauna
 

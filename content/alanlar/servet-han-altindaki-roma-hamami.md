@@ -37,7 +37,7 @@ Servet Han Altındaki Roma Hamamı, tarihsel geçmişi ile dikkat çekici bir ya
 
 ## Coğrafya
 
-Servet Han Altındaki Roma Hamamı, coğrafi olarak Fatih ilçesinin merkezi bir noktasında yer alır. Bu hamam, Marmara Bölgesi'nin coğrafi özelliklerini taşır. Roma Hamamı, deniz seviyesinden yaklaşık yüksek bir konumdate bulunur. Bu yükseklik, hamamın etrafındaki manzarayı genişletir ve ziyaretçilere daha güzel bir görünüm sağlar. Roma Hamamı, çevre yapıları ile birlikte bir bütün olarak ele alınabilir. Hamamın etrafında, tarihi yapılar ve turistik mekanlar bulunur. Bu mekanlar, ziyaretçilere Roma Hamamı'nın etrafındaki bölgeyi keşfetme fırsatı sunar. Roma Hamamı, coğrafi olarak önemli bir konuma sahiptir ve ziyaretçilerine birçok olanak sunar.
+Servet Han Altındaki Roma Hamamı, coğrafi olarak Fatih ilçesinin merkezi bir noktasında yer alır. Bu hamam, Marmara Bölgesi'nin coğrafi özelliklerini taşır. Roma Hamamı, yüksek bir konumda bulunur. Bu yükseklik, hamamın etrafındaki manzarayı genişletir ve ziyaretçilere daha güzel bir görünüm sağlar. Roma Hamamı, çevre yapıları ile birlikte bir bütün olarak ele alınabilir. Hamamın etrafında, tarihi yapılar ve turistik mekanlar bulunur. Bu mekanlar, ziyaretçilere Roma Hamamı'nın etrafındaki bölgeyi keşfetme fırsatı sunar. Roma Hamamı, coğrafi olarak önemli bir konuma sahiptir ve ziyaretçilerine birçok olanak sunar.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ Servet Han Altındaki Roma Hamamı, ziyaretçilerine birçok olanak sunar. Ziyar
 - Roma Hamamı, tarihsel önem taşıyan bir yapıdır.
 - Hamam, yaklaşık 140 hektarlık bir alan üzerinde bulunur.
 - Roma Hamamı, Marmara Bölgesi'nin önemli turistik noktalarından biridir.
-- Hamam, deniz seviyesinden yaklaşık yüksek bir konumdate bulunur.
+- Hamam, yüksek bir konumda bulunur.
 - Roma Hamamı, flora ve fauna açısından çeşitli canlıları barındırır.

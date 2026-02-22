@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin görkemli dağlarından biri olan Sivri Dağ, �
 
 Doğal güzellikleri ile dikkat çeken Sivri Dağ, yüksekliği ve jeolojik yapısı ile dikkat çeker. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu dağ, bölgenin en yüksek noktalarından biridir. Ancak, fiziksel verilerin sınırlı olması nedeniyle, dağın tam olarak boyutları ve şekli hakkında net bir bilgi bulunmamaktadır. Buna rağmen, Sivri Dağ'ın bölgeye hakim bir konumda olduğu ve etraftaki diğer coğrafi oluşumları etkilediği rahatça söylenebilir.
 
-Mevsimsel değişikliklere göre iklimi şekillenen Sivri Dağ, bölgenin karakteristik hava koşullarını taşır. Yaz aylarında sıcaklık ve nem oranı artarken, kış aylarında soğu ve kar yağışlı bir hava hakim olur. Bu mevsimsel özellikler, Sivri Dağ'ın çevresindeki ekosistemi ve bitki örtüsünü şekillendiren önemli faktörlerdir.
+Mevsimsel değişikliklere göre iklimi şekillenen Sivri Dağ, bölgenin karakteristik hava koşullarını taşır. Yaz aylarında sıcaklık ve nem oranı artarken, kış aylarında soğuk ve kar yağışlı bir hava hakim olur. Bu mevsimsel özellikler, Sivri Dağ'ın çevresindeki ekosistemi ve bitki örtüsünü şekillendiren önemli faktörlerdir.
 
 Sivri Dağ, çevresindeki diğer coğrafi oluşumlarla da bağlantılıdır. Yakınındaki su kaynakları ve vadiler, bölgenin hidrolojik yapısını etkileyen önemli unsurlardır. Ayrıca, Sivri Dağ'ın eteklerinde yer alan yerleşim yerleri, bölgenin sosyal ve ekonomik yapısını da etkiler. Bu bağlantılar, Sivri Dağ'ın sadece coğrafi bir oluşum değil, aynı zamanda bölgenin ekosistemini ve insan yaşamını şekillendiren bir faktör olduğunu gösterir.
 

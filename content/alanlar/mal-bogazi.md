@@ -42,7 +42,7 @@ Coğrafi olarak Ankara'nın kalbinde yer alan Mal Boğazı, 40.2164°K ve 33.521
 
 Jeolojik açıdan bakıldığında, Mal Boğazı'nın fiziksel yapısı hakkında detaylı bilgi olmasa da, Ankara'nın genel coğrafyası dikkate alındığında, bu bölgenin de benzer özellikler taşıdığı söylenebilir. Ankara, genel olarak geniş ova ve dağlık arazilerden oluşuyor. Mal Boğazı, bu coğrafyanın bir parçası olarak, şehrin diğer bölgelerine göre daha engebeli bir araziyi temsil ediyor.
 
-Mevsimsel olarak, Mal Boğazı, Ankara'nın karasal ikliminin etkilerini gösteriyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürüyor. Bu mevsimsel değişimler, bölgenin bitki örtüsü ve fauna açısından zenginleşmesine katkıda bulunuyor. Mal Boğazı, Ankara'nın yıl boyunca değişen hava koşullarına uyum sağlayan bir ekosistemi barındırıyor.
+Mevsimsel olarak, Mal Boğazı, Ankara'nın karasal ikliminin etkilerini gösteriyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürüyor. Bu mevsimsel değişimler, bölgenin bitki örtüsü ve fauna açısından zenginleşmesine katkıda bulunuyor. Mal Boğazı, Ankara'nın yıl boyunca değişen hava koşullarına uyum sağlayan bir ekosistemi barındırıyor.
 
 Doğal bir koridor olarak işlev gören Mal Boğazı, çevresindeki ekosistemle güçlü bir bağlantı içinde. Ankara'nın diğer doğal alanlarıyla birlikte, bu bölge, şehrin çeşitliliğini destekleyen önemli bir bileşen olarak görülüyor. Mal Boğazı, Ankara'nın yeşil alanlarını zenginleştiren ve şehrin çevresel dengesini koruyan bir role sahip.
 

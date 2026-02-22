@@ -44,7 +44,7 @@ Yaklaşık 40.3300°K, 28.3550°D koordinatlarında yer alan Doğmaz Dağ, Bursa
 
 Doğmaz Dağ'ın fiziksel yapısı hakkında detaylı bilgi olmasa da, çevresindeki coğrafi oluşumlar ile karşılaştırıldığında, bir şehir bloğu büyüklüğünde bir alan kapladığı söylenebilir. Bu dağ, jeolojik olarak bakıldığında, çevredeki coğrafi oluşumlar ile benzerlik gösterir ve bölgenin jeolojik yapısını şekillendiren önemli bir faktördür. Yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadardır ve bu dağın bölgedeki diğer coğrafi oluşumlar ile benzerlik gösterdiğini göstermektedir.
 
-İklim karakteri açısından bakıldığında, Doğmaz Dağ, Marmara Bölgesi'nin ılıman ikliminin etkilerini taşır. Bölge, yaz aylarında sıca ve nemli, kış aylarında ise soğu ve yağışlı bir iklim karakterine sahiptir. Bu durum, dağın flora ve fauna oluşumlarını etkileyen önemli bir faktördür. Mevsimsel özellikler, bölgenin bitki örtüsünü ve hayvan çeşitliliğini şekillendiren önemli bir rol oynamaktadır.
+İklim karakteri açısından bakıldığında, Doğmaz Dağ, Marmara Bölgesi'nin ılıman ikliminin etkilerini taşır. Bölge, yaz aylarında sıcak ve nemli, kış aylarında ise soğuk ve yağışlı bir iklim karakterine sahiptir. Bu durum, dağın flora ve fauna oluşumlarını etkileyen önemli bir faktördür. Mevsimsel özellikler, bölgenin bitki örtüsünü ve hayvan çeşitliliğini şekillendiren önemli bir rol oynamaktadır.
 
 Doğmaz Dağ, çevresindeki coğrafi oluşumlar ile önemli bir bağlantı içerisindedir. Dağ, bölgenin su kaynaklarını şekillendiren önemli bir faktördür ve çevredeki ekosistemi etkileyen bir rol oynamaktadır. Monaco'nun yaklaşık 1/10'u büyüklüğünde bir alan kaplayan bu dağ, bölgenin ekolojik dengesini sağlayan önemli bir unsur olarak dikkat çeker.
 

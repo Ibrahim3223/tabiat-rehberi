@@ -46,7 +46,7 @@ Dil Gölü'nün bulunduğu bölge, 37.5876°K ve 27.1878°D koordinatlarında ye
 
 Fiziksel olarak incelendiğinde, Dil Gölü'nün büyüklüğü, birkaç olimpik havuz kadar bir alanı kaplıyor. Bu küçük ama önemli bir göl, bölgenin jeolojik yapısında önemli bir rol oynuyor. Ancak, fiziksel verilerin sınırlı olması nedeniyle, gölün derinliği, su kalitesi ve diğer özellikleri hakkında daha ayrıntılı bilgiye ihtiyaç duyuluyor.
 
-Mevsimsel değişiklikler, Dil Gölü'nün iklim karakterini şekillendiriyor. Bölge, Akdeniz ikliminin karakteristik özellikleri gösteriyor; yazları sıca ve kuru, kışları ılıman ve yağışlı geçiyor. Bu mevsimsel özellikler, gölün su seviyesini ve çevresindeki bitki örtüsünü etkiliyor.
+Mevsimsel değişiklikler, Dil Gölü'nün iklim karakterini şekillendiriyor. Bölge, Akdeniz ikliminin karakteristik özellikleri gösteriyor; yazları sıcak ve kuru, kışları ılıman ve yağışlı geçiyor. Bu mevsimsel özellikler, gölün su seviyesini ve çevresindeki bitki örtüsünü etkiliyor.
 
 Dil Gölü, çevresindeki ekosistemle güçlü bir bağlantı içindedir. Komşu alanlar, su kaynakları ve bitki örtüsü, gölü bir bütün olarak değerlendirirken önemli faktörler olarak görülüyor. Monaco'nun küçük bir bölümü kadar olan bu göl, bölgenin su döngüsünde ve yerel wildlife için önemli bir rol oynuyor.
 

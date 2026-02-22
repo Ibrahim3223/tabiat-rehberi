@@ -31,7 +31,7 @@ Kahve Müzesi'nin tarihi geçmişi, yüzyıllar boyunca süregelen kahve kültü
 
 ## Coğrafya
 
-Kahve Müzesi, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu bölge, geniş ovaları, dağları ve nehirleri ile dikkat çekiyor. Müzenin bulunduğu yayla, ziyaretçilere geniş bir manzara sunuyor ve doğayı keşfetmek için ideal bir nokta. İklim, karasal iklim özellikleri gösteriyor; kışlar soğu ve karlı, yazlar ise sıcak ve kurak passing. Bu coğrafi koşullar, bölgenin flora ve faunasını şekillendirmiş ve ziyaretçilere çeşitli bitki ve hayvan türlerini keşfetme fırsatı sunuyor. Kahve Müzesi'nin çevresi, doğal güzelliği ile ziyaretçileri cezbediyor ve bir gezi için ideal bir başlangıç noktası oluşturuyor.
+Kahve Müzesi, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu bölge, geniş ovaları, dağları ve nehirleri ile dikkat çekiyor. Müzenin bulunduğu yayla, ziyaretçilere geniş bir manzara sunuyor ve doğayı keşfetmek için ideal bir nokta. İklim, karasal iklim özellikleri gösteriyor; kışlar soğuk ve karlı, yazlar ise sıcak ve kurak passing. Bu coğrafi koşullar, bölgenin flora ve faunasını şekillendirmiş ve ziyaretçilere çeşitli bitki ve hayvan türlerini keşfetme fırsatı sunuyor. Kahve Müzesi'nin çevresi, doğal güzelliği ile ziyaretçileri cezbediyor ve bir gezi için ideal bir başlangıç noktası oluşturuyor.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Kurtnasır Tepesi, yüzyıllar boyunca çeşitli medeniyetlerin hakimiyetinde ka
 
 ## Coğrafya
 
-Kurtnasır Tepesi, coğrafi olarak Hatay ilinin sınırları içinde yer alıyor. Bu bölge, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçilere geniş bir görsel şölen sunuyor. Tepenin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşuyor. Bu coğrafi yapı, ziyaretçilere farklı manzaralar sunuyor ve bölgenin güzelliğini artırıyor. İklim, tipik Akdeniz ikliminin özelliklerini taşır; yazları sıca ve kurak, kışları ılıman ve yağışlı geçer. Bu coğrafi ve iklimsel özellikler, bölgenin florası ve faunası üzerinde önemli bir etkiye sahiptir.
+Kurtnasır Tepesi, coğrafi olarak Hatay ilinin sınırları içinde yer alıyor. Bu bölge, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçilere geniş bir görsel şölen sunuyor. Tepenin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşuyor. Bu coğrafi yapı, ziyaretçilere farklı manzaralar sunuyor ve bölgenin güzelliğini artırıyor. İklim, tipik Akdeniz ikliminin özelliklerini taşır; yazları sıcak ve kurak, kışları ılıman ve yağışlı geçer. Bu coğrafi ve iklimsel özellikler, bölgenin florası ve faunası üzerinde önemli bir etkiye sahiptir.
 
 ## Flora ve Fauna
 

@@ -30,7 +30,7 @@ Aksaz Hamamı'nın tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev s
 
 ## Coğrafya
 
-Aksaz Hamamı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlakları ve doğal güzellikleriyle dikkat çekiyor. Bu bölge, 140 hektarlık geniş bir alana yayılmış, yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliği sunuyor. Coğrafi konumu itibariyle, Aksaz Hamamı'nın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahip. Yaz aylarında sıca ve kurak, kış aylarında soğu ve karlı bir hava hakim. Bu coğrafi yapı, çeşitli bitki türlerinin ve yaban hayatının gelişmesine uygun bir ortam sunuyor.
+Aksaz Hamamı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlakları ve doğal güzellikleriyle dikkat çekiyor. Bu bölge, 140 hektarlık geniş bir alana yayılmış, yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliği sunuyor. Coğrafi konumu itibariyle, Aksaz Hamamı'nın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahip. Yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı bir hava hakim. Bu coğrafi yapı, çeşitli bitki türlerinin ve yaban hayatının gelişmesine uygun bir ortam sunuyor.
 
 ## Flora ve Fauna
 

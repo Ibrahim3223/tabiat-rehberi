@@ -42,7 +42,7 @@ Gaziantep'in doğal güzelliklerinden biri olan Burç Göleti, 37.0600°K ve 37.
 
 Doğal bir su kaynağı olan Burç Göleti, yaklaşık olarak birkaç olimpik havuz kadar büyüklüğe sahip. Bu boyut, göletin küçük ama etkileyici bir su kütlesi olduğunu gösteriyor. Göletin şekli, genellikle doğal su kaynaklarının düzensiz ve organik formlarını takip ediyor, ancak buradaki específik şekil hakkında detaylı bilgi bulunmuyor. Göletin jeolojik yapısı, bölgenin genel karakterine uygun olarak kireçtaşı ve killi topraklardan oluşuyor.
 
-İklim açısından, Burç Göleti ve çevresi, Gaziantep'in genel iklim karakterini yansıtıyor. Bölge, genellikle Akdeniz ikliminin etkilerini gösteriyor, ancak iç bölgede yer alması nedeniyle yazlar daha sıca ve kurak, kışlar ise soğu ve yağışlı geçiyor. Bu mevsimsel değişimler, göletin su seviyesini ve çevresindeki bitki örtüsünü etkiliyor.
+İklim açısından, Burç Göleti ve çevresi, Gaziantep'in genel iklim karakterini yansıtıyor. Bölge, genellikle Akdeniz ikliminin etkilerini gösteriyor, ancak iç bölgede yer alması nedeniyle yazlar daha sıcak ve kurak, kışlar ise soğuk ve yağışlı geçiyor. Bu mevsimsel değişimler, göletin su seviyesini ve çevresindeki bitki örtüsünü etkiliyor.
 
 Göletin çevresel ilişkileri, komşu alanlar ve su kaynakları ile bağlantılı. Burç Göleti, bölgedeki diğer su kaynaklarıyla birlikte, yerel ekosistemin önemli bir bileşeni. Gölet, çeşitli kuş türleri ve diğer hayvanlar için bir yaşam alanı sunuyor ve yakın çevresindeki tarım arazileri için de su kaynağı olarak kullanılıyor. Bu bağlantılar, göletin bölgedeki doğal dengenin korunması açısından önemli bir role sahip olduğunu gösteriyor.
 

@@ -37,7 +37,7 @@ Lycian tomb'un tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin iz
 
 ## Coğrafya
 
-Lycian tomb, Muğla'nın Ege Bölgesi'nde yer alan bir plaj ve tarihi alan. Bu bölge, coğrafi olarak özel bir konuma sahip. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve deniz seviyesinden yükseklikte yer alıyor. Lycian tomb'un coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bölge, iklim olarak Akdeniz ikliminin etkilerini taşıyor ve yaz aylarında sıca ve kurak, kış aylarında ılık ve yağışlı passing. Lycian tomb'un çevresinde, tarihi yapılar ve doğal güzellikler yer alıyor. Bu bölge, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunuyor.
+Lycian tomb, Muğla'nın Ege Bölgesi'nde yer alan bir plaj ve tarihi alan. Bu bölge, coğrafi olarak özel bir konuma sahip. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve deniz seviyesinden yükseklikte yer alıyor. Lycian tomb'un coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bölge, iklim olarak Akdeniz ikliminin etkilerini taşıyor ve yaz aylarında sıcak ve kurak, kış aylarında ılık ve yağışlı passing. Lycian tomb'un çevresinde, tarihi yapılar ve doğal güzellikler yer alıyor. Bu bölge, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunuyor.
 
 ## Flora ve Fauna
 

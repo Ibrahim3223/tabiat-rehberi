@@ -30,7 +30,7 @@ Eskişehir-Afyonkarahisar-Sinanpaşa Karacam milli parkının tarihi geçmişi, 
 
 ## Coğrafya
 
-Eskişehir-Afyonkarahisar-Sinanpaşa Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Parkın coğrafyası, çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosistemi destekler. 140 hektarlık alan, farklı yüksekliklerde ve eğimlerde yer alan çeşitli habitatları içerir. Bu habitatlar, bölgeye özgü flora ve faunayı barındırır. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Yaz ayları sıca ve kurak, kış ayları ise soğu ve karlı geçer. Bu iklim şartları, parkın doğal güzelliklerini daha da vurgular. Parkın çevresinde, çeşitli su kaynakları ve doğal güzellikler bulunur. Bu doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunar.
+Eskişehir-Afyonkarahisar-Sinanpaşa Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Parkın coğrafyası, çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosistemi destekler. 140 hektarlık alan, farklı yüksekliklerde ve eğimlerde yer alan çeşitli habitatları içerir. Bu habitatlar, bölgeye özgü flora ve faunayı barındırır. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve karlı geçer. Bu iklim şartları, parkın doğal güzelliklerini daha da vurgular. Parkın çevresinde, çeşitli su kaynakları ve doğal güzellikler bulunur. Bu doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunar.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Güney Türkiye'nin eşsiz coğrafyasında, Hatay ilinin sınırları içinde ye
 
 Doğal güzelliği ile dikkat çeken Kirazlı Tepe, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu küçük ama önemli coğrafi oluşum, bölgenin jeolojisini şekillendiren faktörlerden biri olarak karşımıza çıkıyor. Kirazlı Tepe'nin fiziksel yapısı, bölgenin genel jeolojik yapısına uygun olarak kalker ve şist gibi kayaçlardan oluşuyor. Bu kayaçlar, tepeyi oluşturan ana bileşenler olarak düşünülüyor.
 
-Yıllık hava durumu verilerine bakıldığında, Kirazlı Tepe'nin iklim karakterinin Akdeniz ikliminin özelliklerini taşıdığı görülüyor. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir hava durumu hakim. Bu mevsimsel özellikler, tepe ve çevresinin flora ve fauna çeşitliliğini etkileyen önemli faktörler arasında yer alıyor.
+Yıllık hava durumu verilerine bakıldığında, Kirazlı Tepe'nin iklim karakterinin Akdeniz ikliminin özelliklerini taşıdığı görülüyor. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava durumu hakim. Bu mevsimsel özellikler, tepe ve çevresinin flora ve fauna çeşitliliğini etkileyen önemli faktörler arasında yer alıyor.
 
 Bölgenin ekosistem bağlantıları açısından önemli bir noktada yer alan Kirazlı Tepe, komşu alanlarla birlikte bir bütün olarak düşünülüyor. Tepe, çevresindeki su kaynaklarına ve ekosistemlere etki eden bir faktör olarak görülüyor. Kirazlı Tepe'nin çevresel ilişkileri, bölgenin doğal dengesini korumak açısından önemli bir role sahip.
 

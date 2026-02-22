@@ -36,7 +36,7 @@ Varan Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu alan, 
 
 ## Coğrafya
 
-Varan Tepe, Doğu Anadolu Bölgesi'nin coğrafi özellikleri içerisinde yer alır. Bu bölgede, genellikle dağlık ve engebeli araziler bulunur. Varan Tepe de, bu coğrafi özelliklere sahiptir. Alanda, çeşitli bitki türleri ve hayvanlar bulunur. İklim, genellikle karasal iklim özellikleri gösterir ve mevsimsel değişimler belirgindir. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu coğrafi özellikler, Varan Tepe'nin doğal güzelliklerini şekillendirmiştir. Alanda, zengin fauna ve flora bulunur ve bu, ziyaretçilerine doğayla iç içe bir deneyim sunar. Varan Tepe, coğrafi konumu itibarıyla, önemli bir ekolojik alandır.
+Varan Tepe, Doğu Anadolu Bölgesi'nin coğrafi özellikleri içerisinde yer alır. Bu bölgede, genellikle dağlık ve engebeli araziler bulunur. Varan Tepe de, bu coğrafi özelliklere sahiptir. Alanda, çeşitli bitki türleri ve hayvanlar bulunur. İklim, genellikle karasal iklim özellikleri gösterir ve mevsimsel değişimler belirgindir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu coğrafi özellikler, Varan Tepe'nin doğal güzelliklerini şekillendirmiştir. Alanda, zengin fauna ve flora bulunur ve bu, ziyaretçilerine doğayla iç içe bir deneyim sunar. Varan Tepe, coğrafi konumu itibarıyla, önemli bir ekolojik alandır.
 
 ## Flora ve Fauna
 

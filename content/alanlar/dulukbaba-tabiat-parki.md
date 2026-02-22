@@ -32,7 +32,7 @@ Dülükbaba Tabiat Parkı'nın tarihi geçmişi, bölgenin zengin kültürel mir
 
 ## Coğrafya
 
-Dülükbaba Tabiat Parkı, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Park, Şehitkâmil/Gaziantep'te yer alıyor ve bölgeyi çevreleyen dağların eteklerinde konumlanıyor. İklimi, bölgenin genel iklim koşullarına uygun olarak yazları sıca ve kurak, kışları ise soğu ve yağışlı olarak tanımlanabilir. Çevresinde çeşitli bitki türleri ve zengin fauna bulunan park, ekolojik dengenin korunmasına önemli katkılar sağlıyor. Parkın coğrafi yapısı, ziyaretçilerin doğal güzellikleri keşfetmeleri için uygun bir zemin sunuyor.
+Dülükbaba Tabiat Parkı, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Park, Şehitkâmil/Gaziantep'te yer alıyor ve bölgeyi çevreleyen dağların eteklerinde konumlanıyor. İklimi, bölgenin genel iklim koşullarına uygun olarak yazları sıcak ve kurak, kışları ise soğuk ve yağışlı olarak tanımlanabilir. Çevresinde çeşitli bitki türleri ve zengin fauna bulunan park, ekolojik dengenin korunmasına önemli katkılar sağlıyor. Parkın coğrafi yapısı, ziyaretçilerin doğal güzellikleri keşfetmeleri için uygun bir zemin sunuyor.
 
 ## Flora ve Fauna
 

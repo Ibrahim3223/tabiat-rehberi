@@ -38,7 +38,7 @@ wikidata_id: "Q4484"
 
 ## Coğrafya
 
-15 Temmuz Şehitler Köprüsü, İstanbul'un Avrupa ve Asya yakalarını bağlayan önemli bir geçiş noktası. Marmara Bölgesi'nde, Boğaziçi'nde yer alan bu köprü, şehrin coğrafi yapısını önemli ölçüde etkiliyor. Köprü, Asya yakasında Beylerbeyi ve Avrupa yakasında Ortaköy arasında konumlanıyor. İstanbul Boğazı'nın en dar noktasında yer alan bu köprü, deniz seviyesinden yaklaşık yüksek bir konumdate. Köprünün altında, gemilerin geçebilmesi için yaklaşık 107 metre genişliğinde ve 64 metre yüksekliğinde bir açıklık bulunuyor. Bu büyük yapı, İstanbul'un coğrafi yapısını ve deniz trafiğini önemli ölçüde etkiliyor.
+15 Temmuz Şehitler Köprüsü, İstanbul'un Avrupa ve Asya yakalarını bağlayan önemli bir geçiş noktası. Marmara Bölgesi'nde, Boğaziçi'nde yer alan bu köprü, şehrin coğrafi yapısını önemli ölçüde etkiliyor. Köprü, Asya yakasında Beylerbeyi ve Avrupa yakasında Ortaköy arasında konumlanıyor. İstanbul Boğazı'nın en dar noktasında yer alan bu köprü, yüksek bir konumda. Köprünün altında, gemilerin geçebilmesi için yaklaşık 107 metre genişliğinde ve 64 metre yüksekliğinde bir açıklık bulunuyor. Bu büyük yapı, İstanbul'un coğrafi yapısını ve deniz trafiğini önemli ölçüde etkiliyor.
 
 ## Flora ve Fauna
 
@@ -53,5 +53,5 @@ wikidata_id: "Q4484"
 - 15 Temmuz Şehitler Köprüsü, Türkiye'nin ilk asma köprüsü.
 - Köprü, yaklaşık 1560 metre uzunluğu ile dikkat çekiyor.
 - Köprü, 33,40 metre genişliği ile önemli bir geçiş noktası.
-- Köprü, deniz seviyesinden yaklaşık yüksek bir konumdate.
+- Köprü, yüksek bir konumda.
 - Köprü, Asya ve Avrupa yakalarını bağlayan önemli bir geçiş noktası.

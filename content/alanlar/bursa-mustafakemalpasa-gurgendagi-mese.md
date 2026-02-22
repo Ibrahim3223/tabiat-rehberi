@@ -30,7 +30,7 @@ Bursa-Mustafakemalpaşa-Gurgendagi Mese'nin tarihi geçmişi, yüzyıllar boyunc
 
 ## Coğrafya
 
-Bursa-Mustafakemalpaşa-Gurgendagi Mese, Marmara Bölgesi'nde yer alan bir milli parktır. Bu bölgenin coğrafi özellikleri, Marmara Bölgesi'nin genel coğrafi özelliklerini taşır. Milli park, 140 hektarlık bir yeşil alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile süslüdür. Milli parkın iklimi, Marmara Bölgesi'nin iklimine benzer ve dört mevsim yaşanır. Kış mevsimi soğu ve yağışlı, yaz mevsimi sıca ve kurudur. İlkbahar ve sonbahar mevsimleri, ılıman ve yağışlıdır. Ziyaretçiler, bu güzel milli parkı gezerken hem doğanın güzelliğini keşfedebilir hem de coğrafi özelliklerini öğrenebilir. Milli parkın çevresi, çeşitli köyler ve kasabalar ile çevrilidir. Bu köyler ve kasabalar, ziyaretçilere konaklama ve yeme içme olanakları sunar.
+Bursa-Mustafakemalpaşa-Gurgendagi Mese, Marmara Bölgesi'nde yer alan bir milli parktır. Bu bölgenin coğrafi özellikleri, Marmara Bölgesi'nin genel coğrafi özelliklerini taşır. Milli park, 140 hektarlık bir yeşil alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile süslüdür. Milli parkın iklimi, Marmara Bölgesi'nin iklimine benzer ve dört mevsim yaşanır. Kış mevsimi soğuk ve yağışlı, yaz mevsimi sıcak ve kurudur. İlkbahar ve sonbahar mevsimleri, ılıman ve yağışlıdır. Ziyaretçiler, bu güzel milli parkı gezerken hem doğanın güzelliğini keşfedebilir hem de coğrafi özelliklerini öğrenebilir. Milli parkın çevresi, çeşitli köyler ve kasabalar ile çevrilidir. Bu köyler ve kasabalar, ziyaretçilere konaklama ve yeme içme olanakları sunar.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Türkiye'de doğal alanların korunması ve botanik bahçelerinin kurulması, ö
 
 Doğal güzelliği ve coğrafi özellikleri ile dikkat çeken Kemal Sonunur Parkı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Parkın fiziksel yapısı, Ankara'nın genel coğrafyasına benzer şekilde, kalkerli ve killi topraklardan oluşmaktadır. Bu tür topraklar, bitki örtüsünün zenginleşmesine ve çeşitli ekosistemlerin oluşmasına imkân tanımaktadır. Parkın şekli, genel olarak düzdür ve herhangi bir yükseklik farklılığı içermez.
 
-Mevsimsel özellikler açısından, Kemal Sonunur Parkı, İç Anadolu Bölgesi'nin karasal ikliminin etkilerini taşır. Kış aylarında park, soğu ve kar yağışlı bir hava durumuna sahipken, yaz aylarında sıca ve kurak bir iklim hüküm sürer. Bu mevsimsel değişimler, parkın bitki örtüsünü ve hayvan yaşamını etkilemektedir. Parkın iklim karakteri, çevredeki alanlardaki tarımsal faaliyetlere de yön vermektedir.
+Mevsimsel özellikler açısından, Kemal Sonunur Parkı, İç Anadolu Bölgesi'nin karasal ikliminin etkilerini taşır. Kış aylarında park, soğuk ve kar yağışlı bir hava durumuna sahipken, yaz aylarında sıcak ve kurak bir iklim hüküm sürer. Bu mevsimsel değişimler, parkın bitki örtüsünü ve hayvan yaşamını etkilemektedir. Parkın iklim karakteri, çevredeki alanlardaki tarımsal faaliyetlere de yön vermektedir.
 
 Çevresel açıdan, Kemal Sonunur Parkı, Etimesgut'un merkezi ve çeşitli su kaynaklarına yakındır. Park, bölgedeki ekosistemlerin bağlantı noktalarından birini oluşturmaktadır. Komşu alanlar, genellikle tarım arazileri ve yerleşim yerlerinden oluşmaktadır. Bu nedenle, parkın çevresel ilişkileri, bölgedeki doğal dengenin korunmasına büyük önem taşımaktadır.
 
@@ -52,7 +52,7 @@ Mevsimsel özellikler açısından, Kemal Sonunur Parkı, İç Anadolu Bölgesi'
 
 Kemal Sonunur Parkı, Etimesgut'un kalbinde yer alan 1200 hektarlık bir botanik bahçesi, step bitki örtüsünün çeşitliliğini sergiler. İlkbaharın gelmesiyle birlikte, bozkırın karakteristik türleri gibi gelincik, çan çiçeği ve kılıç çiçeği gibi çiçekler parkı renklendirir. Sonbaharda, kuraklığa adapte olmuş bitkiler like kava ve söğüt ağaçları, göçmen kuşların konaklama noktaları haline gelir.
 
-Parkın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Tilki, tavşan ve gelincik gibi memeliler, step bitkileri arasında yaşam alanları bulurken, kırlangıç, kekli ve toy gibi kuşlar, bozkırın açık alanlarında üreme ve beslenme alanları bulurlar. Sürüngenler arasında, kertenkele ve yılan gibi türler, parkın sıca ve kuru bölgelerinde yaşamlarını sürdürürler.
+Parkın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Tilki, tavşan ve gelincik gibi memeliler, step bitkileri arasında yaşam alanları bulurken, kırlangıç, kekli ve toy gibi kuşlar, bozkırın açık alanlarında üreme ve beslenme alanları bulurlar. Sürüngenler arasında, kertenkele ve yılan gibi türler, parkın sıcak ve kuru bölgelerinde yaşamlarını sürdürürler.
 
 Kemal Sonunur Parkı, bölgenin ekolojik dengesini koruma açısından önemli bir rol oynar. Parkın step bitki örtüsü, toprağın erozyonunu önler ve su döngüsünü destekler. Ayrıca, park, göçmen kuşlar için महत bir konaklama noktasıdır ve bu nedenle, koruma altına alınması ve korunması büyük önem taşır.
 

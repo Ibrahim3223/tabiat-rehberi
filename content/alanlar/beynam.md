@@ -31,7 +31,7 @@ Beynam milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Beynam milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısı bakımından ilgi çekici bir bölgedir. Parkın coğrafyası, geniş otlaklar ve ormanlık alanlardan oluşur. 140 hektarlık bu alan, ziyaretçilere çeşitli coğrafi oluşumları keşfetme fırsatı sunar. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine benzer. Kışlar soğuk, yazlar sıca ve kurak geçer. Bu iklim, parkın flora ve fauna çeşitliliğini etkiler. Parkın coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunar. Burada, doğanın güzelliğini ve coğrafi çeşitliliği keşfetme mümkün. Parkın çevresi, ziyaretçilere birçok doğal güzellik sunar. Burada, yürüyüş parkurları, piknik alanları ve observation noktaları gibi birçok olanak bulunmaktadır.
+Beynam milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısı bakımından ilgi çekici bir bölgedir. Parkın coğrafyası, geniş otlaklar ve ormanlık alanlardan oluşur. 140 hektarlık bu alan, ziyaretçilere çeşitli coğrafi oluşumları keşfetme fırsatı sunar. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine benzer. Kışlar soğuk, yazlar sıcak ve kurak geçer. Bu iklim, parkın flora ve fauna çeşitliliğini etkiler. Parkın coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunar. Burada, doğanın güzelliğini ve coğrafi çeşitliliği keşfetme mümkün. Parkın çevresi, ziyaretçilere birçok doğal güzellik sunar. Burada, yürüyüş parkurları, piknik alanları ve observation noktaları gibi birçok olanak bulunmaktadır.
 
 ## Flora ve Fauna
 

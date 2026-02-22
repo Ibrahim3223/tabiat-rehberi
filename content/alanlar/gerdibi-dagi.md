@@ -44,7 +44,7 @@ Güneydeki dağ silsilesinin bir parçası olan Gerdibi Dağı, 37.5071°K ve 35
 
 Doğal bir anıtsal yapıya sahip olan Gerdibi Dağı, coğrafi olarak önemli bir konumda bulunur. Yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu dağ, bölgenin jeolojik yapısını etkileyen önemli bir faktördür. Ancak, fiziksel boyutlar hakkında detaylı bilgi bulunmamasına rağmen, dağların genel olarak şekillendirici rolleri düşünüldüğünde, Gerdibi Dağı'nın da bölgenin coğrafi yapısını önemli ölçüde etkilediği söylenebilir.
 
-Mevsimsel değişimlerin belirgin olduğu Akdeniz ikliminin etkisi altında kalan Gerdibi Dağı, yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumuna sahiptir. Bu mevsimsel özellikler, dağın ekosisteminin şekillenmesinde önemli bir rol oynar. Bitki örtüsünden hayvan popülasyonuna kadar, dağın iklim karakteri, bölgenin biyolojik çeşitliliğini destekler.
+Mevsimsel değişimlerin belirgin olduğu Akdeniz ikliminin etkisi altında kalan Gerdibi Dağı, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumuna sahiptir. Bu mevsimsel özellikler, dağın ekosisteminin şekillenmesinde önemli bir rol oynar. Bitki örtüsünden hayvan popülasyonuna kadar, dağın iklim karakteri, bölgenin biyolojik çeşitliliğini destekler.
 
 Bölgenin su kaynaklarına önemli katkıları olan Gerdibi Dağı, çevresindeki ovalar ve vadilerle birlikte, bir ekosistem ağını oluşturur. Monaco'nun yaklaşık yarısı kadar bir alanı kaplayan bu dağ, bölgenin doğal dengesini korur ve çevresindeki diğer coğrafi oluşumlarla birlikte, bir bütün olarak çalışır. Bu nedenle, Gerdibi Dağı, sadece bir coğrafi oluşum değil, aynı zamanda bölgenin ekolojik dengesini sağlayan önemli bir bileşendir.
 

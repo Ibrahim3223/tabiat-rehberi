@@ -44,7 +44,7 @@ Mardin'in tarihi dokusunu taşıyan "Güvenli Mağaraları" jeoparkı, 37.4569°
 
 Doğal bir anıttan daha fazlası olan bu mağaraların fiziksel yapısı, Mardin'in jeolojik geçmişini yansıtıyor. Mağaraların boyutları hakkında kesin bir veri olmasa da, bu bölgenin coğrafi yapısı, bir şehir bloğu büyüklüğünde alanları barındırabilecek kadar çeşitli. Mağaraların şekli ve jeolojik özellikleri, milyonlarca yıl süren erozyon ve sedimentasyon süreçlerinin bir sonucu olarak ortaya çıkmış.
 
-Mardin'in iklimi, "Güvenli Mağaraları" jeoparkının karakterini de etkiliyor. Bu bölgenin iklimi, yazları sıca ve kurak, kışları ise soğu ve yağışlı passing. Bu mevsimsel özellikler, mağaraların oluşumunda ve şekillenmesinde önemli bir rol oynamış. Hava durumu, bu bölgede ziyaretçilere hem güneşli günler hem de yağmurlu günler sunuyor.
+Mardin'in iklimi, "Güvenli Mağaraları" jeoparkının karakterini de etkiliyor. Bu bölgenin iklimi, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı passing. Bu mevsimsel özellikler, mağaraların oluşumunda ve şekillenmesinde önemli bir rol oynamış. Hava durumu, bu bölgede ziyaretçilere hem güneşli günler hem de yağmurlu günler sunuyor.
 
 "Güvenli Mağaraları" jeoparkı, çevresindeki doğal ve kültürel kaynaklarla bağlantılı. Bu bölgenin komşu alanları, tarihi kaleler ve antik kentlerle dolu. Su kaynakları olarak Dicle Nehri, bu bölgenin ekosistemini destekleyen önemli bir unsur. Mağaraların yakınında bulunan diğer doğal anıtlar ve tarihi mekanlar, bu bölgenin turizm potansiyelini artırıyor ve ziyaretçilere zengin bir deneyim sunuyor.
 

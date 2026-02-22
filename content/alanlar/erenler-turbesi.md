@@ -37,7 +37,7 @@ Erenler Türbesi'nin tarihi geçmişi oldukça zengin. Tarihi belgelerde Erenler
 
 ## Coğrafya
 
-Erenler Türbesi, Denizli'nin Merkezefendi ilçesinde yer alıyor. Coğrafi konumu itibariyle, Ege Bölgesi'nin önemli turizm noktalarından biri olarak kabul ediliyor. Türbe ve plaj alanı, 140 hektarlık geniş bir yeşil alan üzerine kurulu. Bu genişlikteki alan, ziyaretçilere geniş bir açık alan sunuyor ve Ege Bölgesi'nin güzel manzaralarını izleme imkanı sağlıyor. Erenler Türbesi, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor ve bu yükseklik, ziyaretçilere geniş bir görüş açısı sunuyor. Denizli'nin iklimi, karasal iklim özellikleri gösteriyor ve Erenler Türbesi, bu iklimin etkilerini taşıyor. İlkbahar ve yaz aylarında ziyaretçilerini ağırlayan Erenler Türbesi, bu mevsimlerde daha çok tercih ediliyor.
+Erenler Türbesi, Denizli'nin Merkezefendi ilçesinde yer alıyor. Coğrafi konumu itibariyle, Ege Bölgesi'nin önemli turizm noktalarından biri olarak kabul ediliyor. Türbe ve plaj alanı, 140 hektarlık geniş bir yeşil alan üzerine kurulu. Bu genişlikteki alan, ziyaretçilere geniş bir açık alan sunuyor ve Ege Bölgesi'nin güzel manzaralarını izleme imkanı sağlıyor. Erenler Türbesi, yüksek bir konumda yer alıyor ve bu yükseklik, ziyaretçilere geniş bir görüş açısı sunuyor. Denizli'nin iklimi, karasal iklim özellikleri gösteriyor ve Erenler Türbesi, bu iklimin etkilerini taşıyor. İlkbahar ve yaz aylarında ziyaretçilerini ağırlayan Erenler Türbesi, bu mevsimlerde daha çok tercih ediliyor.
 
 ## Flora ve Fauna
 

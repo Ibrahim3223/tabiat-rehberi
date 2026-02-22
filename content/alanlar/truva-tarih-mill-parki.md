@@ -37,7 +37,7 @@ Truva Tarihî Millî Parkı, tarihin en önemli medeniyetlerinden biri olan Truv
 
 ## Coğrafya
 
-Truva Tarihî Millî Parkı, Çanakkale ilinin Çanakkale ilçesine bağlı Hisarlıköyü yakınlarında yer alıyor. Parkın coğrafyası, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor. Deniz seviyesinden 60 metre yükseklikte yer alan park, 1200 hektarlık bir alanı kapsıyor. Bu alan, İstanbul'un toplam yüzölçümünün yaklaşık %0.2'sine denk geliyor. Parkın iklimi, Marmara Bölgesi'nin ılıman iklimini yansıtıyor; yazları sıca ve nemli, kışları ise ılıman ve yağışlı geçiyor.
+Truva Tarihî Millî Parkı, Çanakkale ilinin Çanakkale ilçesine bağlı Hisarlıköyü yakınlarında yer alıyor. Parkın coğrafyası, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor. Deniz seviyesinden 60 metre yükseklikte yer alan park, 1200 hektarlık bir alanı kapsıyor. Bu alan, İstanbul'un toplam yüzölçümünün yaklaşık %0.2'sine denk geliyor. Parkın iklimi, Marmara Bölgesi'nin ılıman iklimini yansıtıyor; yazları sıcak ve nemli, kışları ise ılıman ve yağışlı geçiyor.
 
 ## Flora ve Fauna
 

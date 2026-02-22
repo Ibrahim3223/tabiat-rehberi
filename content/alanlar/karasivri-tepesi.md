@@ -42,7 +42,7 @@ Doğal güzellikleri ve verimli topraklarıyla, Karasivri Tepesi ve çevresindek
 
 Doğal güzelliği ile dikkat çeken Karasivri Tepesi, yaklaşık olarak bir birkaç olimpik havuz kadar bir alanı kaplıyor. Bu küçük ama önemli tepe, bölgenin jeolojik yapısını şekillendiren kayaçlar ve topraklarla kaplı. Ancak, fiziksel verileri sınırlı olduğu için, tepe hakkında dahalı bilgi edinme mümkün değil.
 
-İklim açısından bakıldığında, Karasivri Tepesi, İç Anadolu Bölgesi'nin karakteristik iklimini yansıtıyor. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve kar yağışlı bir iklim hüküm sürüyor. Bu mevsimsel özellikler, tepe ve çevresindeki bitki örtüsünü şekillendirmiş.
+İklim açısından bakıldığında, Karasivri Tepesi, İç Anadolu Bölgesi'nin karakteristik iklimini yansıtıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve kar yağışlı bir iklim hüküm sürüyor. Bu mevsimsel özellikler, tepe ve çevresindeki bitki örtüsünü şekillendirmiş.
 
 Karasivri Tepesi, çevresindeki diğer coğrafi oluşumlarla da bağlantılı. Yakınlarında bulunan su kaynakları ve ekosistemler, tepe ve çevresinin doğal dengesini koruyor. Örneğin, tepeye yakın bir bölgede bulunan bir akarsu, bölgenin su dengesini sağlıyor. Bu şekilde, Karasivri Tepesi, bölgenin doğal güzelliğini ve çeşitliliğini korumaya katkıda bulunuyor.
 

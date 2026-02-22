@@ -36,7 +36,7 @@ Eumer Kapudan Tepe'nin tarihi geçmişi, İç Anadolu Bölgesi'nin tarihine ış
 
 ## Coğrafya
 
-Eumer Kapudan Tepe, coğrafi konumu itibariyle İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu tepe, geniş ovaların arasında yükselen bir nokta olarak dikkat çekiyor. Coğrafi olarak bakıldığında, bu bölgeyi çevreleyen dağlar ve ovalar, ziyaretçilere geniş bir manzara sunuyor. İklim olarak, İç Anadolu Bölgesi'nin genel iklim özellikleri bu bölgede de görülüyor. Yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlı olarak passing. Eumer Kapudan Tepe'nin coğrafi yapısı, flora ve fauna açısından da zengin bir çeşitlilik gösteriyor. Bu bölge, coğrafi konumu itibariyle ziyaretçilerine doğanın güzelliklerini sunuyor. Coğrafi olarak önemli bir konumda yer alan Eumer Kapudan Tepe, ziyaretçilerini bekliyor.
+Eumer Kapudan Tepe, coğrafi konumu itibariyle İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu tepe, geniş ovaların arasında yükselen bir nokta olarak dikkat çekiyor. Coğrafi olarak bakıldığında, bu bölgeyi çevreleyen dağlar ve ovalar, ziyaretçilere geniş bir manzara sunuyor. İklim olarak, İç Anadolu Bölgesi'nin genel iklim özellikleri bu bölgede de görülüyor. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı olarak passing. Eumer Kapudan Tepe'nin coğrafi yapısı, flora ve fauna açısından da zengin bir çeşitlilik gösteriyor. Bu bölge, coğrafi konumu itibariyle ziyaretçilerine doğanın güzelliklerini sunuyor. Coğrafi olarak önemli bir konumda yer alan Eumer Kapudan Tepe, ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 

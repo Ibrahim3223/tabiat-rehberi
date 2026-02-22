@@ -42,7 +42,7 @@ Güneydoğu Toroslar'ın eteklerinde yer alan Keçeli Dağı, 38.0475° kuzey en
 
 Doğal güzellikleri ile dikkat çeken bu bölgenin fiziksel yapısı, coğrafi koşulların bir sonucu olarak şekillenmiştir. 1200 hektarlık bir alana yayılmış olan Keçeli Dağı, Monaco'nun yaklaşık %10'u kadar bir alanı kaplamaktadır. Bu büyüklük, Taksim Meydanı'nın yaklaşık 20 katı kadar bir alanı temsil etmektedir. Jeolojik açıdan incelendiğinde, bölgenin karmaşık bir yapıya sahip olduğu görülmektedir.
 
-Mevsimsel değişikliklere göre iklim karakteri değişen Keçeli Dağı, yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir hava durumuna sahiptir. Eiffel Kulesi'nin yaklaşık 5 katı yükseklikte olan dağ, bu yükseklik nedeniyle iklimsel olarak farklı bir karaktere sahiptir. Bu yükseklik, 85 katlı bir gökdelenin yüksekliğine eşittir ve dağın iklimini etkileyen önemli bir faktördür.
+Mevsimsel değişikliklere göre iklim karakteri değişen Keçeli Dağı, yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava durumuna sahiptir. Eiffel Kulesi'nin yaklaşık 5 katı yükseklikte olan dağ, bu yükseklik nedeniyle iklimsel olarak farklı bir karaktere sahiptir. Bu yükseklik, 85 katlı bir gökdelenin yüksekliğine eşittir ve dağın iklimini etkileyen önemli bir faktördür.
 
 Çevresel açıdan incelendiğinde, Keçeli Dağı'nın komşu alanlar ve su kaynakları ile önemli bir ilişkisi olduğu görülmektedir. Dağın eteklerinde bulunan ovalar ve vadiler, bölgenin ekosistem bağlantılarını oluşturmaktadır. Ayrıca, dağın yakınındaki nehirler ve akarsular, bölgenin su kaynaklarını oluşturmaktadır. Bu nedenle, Keçeli Dağı, bölgenin ekolojik dengesini sağlayan önemli bir bileşendir.
 

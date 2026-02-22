@@ -44,7 +44,7 @@ Güney kıyılarında yer alan Antalya, coğrafi çeşitliliği ile dikkat çeke
 
 Doğal güzellikleri ile ön plana çıkan Yelek Tepe, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu boyutlar, bölgenin diğer coğrafi oluşumları ile karşılaştırıldığında nispeten küçük bir alan olarak görünse de, Yelek Tepe'nin jeolojik yapısı ve coğrafi konumu, onu önemli bir nokta haline getirir. Yelek Tepe'nin fiziksel yapısı, bölgenin genel jeolojik karakterini yansıtır ve bu da Antalya'nın coğrafi çeşitliliğine katkıda bulunur.
 
-Mevsimsel değişiklikler, Yelek Tepe'nin iklim karakterini etkiler. Bölge, Akdeniz ikliminin özellikleri ile şekillenir ve bu, yazları sıca ve kurak, kışları ise ılık ve yağışlı bir hava durumunu beraberinde getirir. Bu mevsimsel özellikler, Yelek Tepe'nin çevresindeki bitki örtüsünü ve ekosistemi etkileyerek, bölgeye özgü bir karakter kazandırır.
+Mevsimsel değişiklikler, Yelek Tepe'nin iklim karakterini etkiler. Bölge, Akdeniz ikliminin özellikleri ile şekillenir ve bu, yazları sıcak ve kurak, kışları ise ılık ve yağışlı bir hava durumunu beraberinde getirir. Bu mevsimsel özellikler, Yelek Tepe'nin çevresindeki bitki örtüsünü ve ekosistemi etkileyerek, bölgeye özgü bir karakter kazandırır.
 
 Çevresel açıdan bakıldığında, Yelek Tepe, Antalya'nın diğer doğal güzellikleri ile bağlantı içinde bulunur. Bölge, su kaynaklarına yakın bir konumda yer alır ve bu, Yelek Tepe'nin ekosistemini zenginleştiren bir unsur olarak görülür. Yelek Tepe'nin komşu alanlar ile olan ilişkisi, bölgenin coğrafi çeşitliliğini ve doğal güzelliklerini daha da ön plana çıkarmaktadır.
 

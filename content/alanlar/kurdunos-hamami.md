@@ -37,7 +37,7 @@ Kurdunos Hamamı'nın tarihi geçmişi, yüzyıllar boyunca farklı uygarlıklar
 
 ## Coğrafya
 
-Kurdunos Hamamı, Niğde ilinin merkezi yakınlarında yer alan bir plaj olarak, coğrafi olarak önemli bir konuma sahiptir. Bu plaj, yaklaşık 140 hektarlık yeşil alanı ile birlikte, ziyaretçilerine geniş bir alan sunuyor. Kurdunos Hamamı'nın coğrafi yapısı, genellikle düz ve yeşil alanlardan oluşmaktadır. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik göstermektedir. Kış ayları genellikle soğu ve kar yağışlı, yaz ayları ise sıcak ve kurudur. Bu coğrafi özellikler, ziyaretçilere farklı mevsimlerde farklı deneyimler sunmaktadır. Kurdunos Hamamı, zengin flora ve fauna çeşitliliği ile de dikkat çekiyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
+Kurdunos Hamamı, Niğde ilinin merkezi yakınlarında yer alan bir plaj olarak, coğrafi olarak önemli bir konuma sahiptir. Bu plaj, yaklaşık 140 hektarlık yeşil alanı ile birlikte, ziyaretçilerine geniş bir alan sunuyor. Kurdunos Hamamı'nın coğrafi yapısı, genellikle düz ve yeşil alanlardan oluşmaktadır. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik göstermektedir. Kış ayları genellikle soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurudur. Bu coğrafi özellikler, ziyaretçilere farklı mevsimlerde farklı deneyimler sunmaktadır. Kurdunos Hamamı, zengin flora ve fauna çeşitliliği ile de dikkat çekiyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 
 ## Flora ve Fauna
 

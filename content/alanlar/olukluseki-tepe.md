@@ -42,7 +42,7 @@ Güney Türkiye'nin coğrafi zenginliklerini keşfetmek isteyenler için, Hatay 
 
 Doğal güzelliğin yanı sıra, coğrafi konumu itibariyle Oluklusekı Tepe, civarındaki diğer dağlarla birlikte bir bütün olarak ele alınabilir. Monaco'nun yarısı kadar bir alanda yer alan bu dağ, çevresindeki diğer coğrafi oluşumlarla birlikte büyük bir ekosistem oluşturuyor. Jeolojik olarak bakıldığında, bölgenin oluşumu milyonlarca yıllık bir süreci kapsıyor, ancak detaylı fiziksel veriler bulunmuyor.
 
-Mevsimsel olarak, Oluklusekı Tepe'nin iklim karakteri, bölgenin Akdeniz ikliminin etkilerini gösteriyor. Kış aylarında ılıman, yaz aylarında ise sıca ve kurak bir hava durumu hakim. Bu mevsimsel özellikler, bölgenin flora ve faunasını şekillendiriyor. 85 katlı bir gökdelen kadar yükseklikte olan bu dağ, çevresindeki diğer dağlarla birlikte bir doğal koridor oluşturuyor.
+Mevsimsel olarak, Oluklusekı Tepe'nin iklim karakteri, bölgenin Akdeniz ikliminin etkilerini gösteriyor. Kış aylarında ılıman, yaz aylarında ise sıcak ve kurak bir hava durumu hakim. Bu mevsimsel özellikler, bölgenin flora ve faunasını şekillendiriyor. 85 katlı bir gökdelen kadar yükseklikte olan bu dağ, çevresindeki diğer dağlarla birlikte bir doğal koridor oluşturuyor.
 
 Çevresel açıdan, Oluklusekı Tepe, civarındaki diğer dağlar ve su kaynakları ile birlikte büyük bir ekosistem oluşturuyor. Taksim Meydanı'nın 10 katı büyüklüğünde bir alana sahip olan bu dağ, bölgenin doğal güzelliğini korumak için önemli bir role sahip. Çevresindeki su kaynakları ve diğer coğrafi oluşumlarla birlikte, Oluklusekı Tepe, bölgenin doğal dengesini koruyor.
 

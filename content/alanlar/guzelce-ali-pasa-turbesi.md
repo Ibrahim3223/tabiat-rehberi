@@ -38,7 +38,7 @@ Güzelce Ali Paşa Türbesi'nin tarihi geçmişi, Osmanlı dönemine kadar uzanm
 
 ## Coğrafya
 
-Güzelce Ali Paşa Türbesi, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer almaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Türbenin çevresinde, dağlar ve tepeler yer almakta ve bu sayede, ziyaretçiler doğal güzelliklerin tadını çıkarabiliyorlar. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve karlı bir iklime sahiptir. Bu nedenle, ziyaretçiler, mevsime göre uygun giysiler giymelidir. Güzelce Ali Paşa Türbesi, coğrafi olarak zengin bir bölgede yer almakta ve ziyaretçilerine çeşitli doğal güzellikler sunmaktadır.
+Güzelce Ali Paşa Türbesi, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer almaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Türbenin çevresinde, dağlar ve tepeler yer almakta ve bu sayede, ziyaretçiler doğal güzelliklerin tadını çıkarabiliyorlar. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı bir iklime sahiptir. Bu nedenle, ziyaretçiler, mevsime göre uygun giysiler giymelidir. Güzelce Ali Paşa Türbesi, coğrafi olarak zengin bir bölgede yer almakta ve ziyaretçilerine çeşitli doğal güzellikler sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Güzelce Ali Paşa Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellik
 
 - Güzelce Ali Paşa Türbesi, Osmanlı dönemine ait tarihi bir yapıdır.
 - Türbenin çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
-- Bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve karlı bir iklime sahiptir.
+- Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı bir iklime sahiptir.
 - Güzelce Ali Paşa Türbesi, coğrafi olarak zengin bir bölgede yer almakta ve ziyaretçilerine çeşitli doğal güzellikler sunmaktadır.
 - Türbe, aynı zamanda bir plaj olarak da hizmet vermektedir.

@@ -30,7 +30,7 @@ Adapazari-Akyazi-Dokurcun Saricam 2 milli parkının tarihi geçmişi, yüzyıll
 
 ## Coğrafya
 
-Adapazari-Akyazi-Dokurcun Saricam 2 milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısı ile şekillenmiştir. Bölge, geniş otlaklar ve ormanlık alanlar ile kaplıdır ve ziyaretçilerine çeşitli coğrafi oluşumlar sunar. Milli parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkileyen önemli bir faktördür. Milli parkın çevresi, doğal güzelliği ile dikkat çekmekte ve ziyaretçilerine geniş bir açık alan sunmaktadır.
+Adapazari-Akyazi-Dokurcun Saricam 2 milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısı ile şekillenmiştir. Bölge, geniş otlaklar ve ormanlık alanlar ile kaplıdır ve ziyaretçilerine çeşitli coğrafi oluşumlar sunar. Milli parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkileyen önemli bir faktördür. Milli parkın çevresi, doğal güzelliği ile dikkat çekmekte ve ziyaretçilerine geniş bir açık alan sunmaktadır.
 
 ## Flora ve Fauna
 

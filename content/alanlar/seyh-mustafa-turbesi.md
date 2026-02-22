@@ -46,7 +46,7 @@ wikidata_id: "Q131390936"
 
 ## Ziyaret Bilgileri
 
-Şeyh Mustafa Türbesi'ni ziyaret etmek, hem dini hem de turistik bir deneyim sunuyor. Bu mekanı ziyaret etmek için en uygun zaman, ilkbahar ve yaz ayları. Bu dönemde, hava daha sıca ve güneşli, deniz ise serin ve temiz. Şeyh Mustafa Türbesi'ne ulaşım, Tokat'ın Turhal ilçesinden kolayca sağlanabiliyor. Türbenin bulunduğu alan, geniş bir otopar ve birçok restoran ile ziyaretçilerine hizmet sunuyor. Ziyaretçiler, bu mekanı ziyaret ederken, hem tarihi hem de doğal güzellikleri keşfetme fırsatı buluyor.
+Şeyh Mustafa Türbesi'ni ziyaret etmek, hem dini hem de turistik bir deneyim sunuyor. Bu mekanı ziyaret etmek için en uygun zaman, ilkbahar ve yaz ayları. Bu dönemde, hava daha sıcak ve güneşli, deniz ise serin ve temiz. Şeyh Mustafa Türbesi'ne ulaşım, Tokat'ın Turhal ilçesinden kolayca sağlanabiliyor. Türbenin bulunduğu alan, geniş bir otopar ve birçok restoran ile ziyaretçilerine hizmet sunuyor. Ziyaretçiler, bu mekanı ziyaret ederken, hem tarihi hem de doğal güzellikleri keşfetme fırsatı buluyor.
 
 ## İlginç Bilgiler
 

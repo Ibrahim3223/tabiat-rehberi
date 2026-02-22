@@ -40,7 +40,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden Van, coğrafyasıyla olduğu kadar
 
 Jeolojik açıdan bakıldığında, Gürgürbaba Tepe'nin fiziksel yapısı hakkında detaylı bilgiler bulunmuyor. Ancak, bu tepeyi diğer coğrafi oluşumlarla karşılaştırdığımızda, bir şehir bloğu büyüklüğünde olduğunu söyleyebiliriz. Bu büyüklük, Taksim Meydanı'nın birkaç katı kadar bir alanı kaplıyor. Yüksekliği ise Eiffel Kulesi'nin yaklaşık 1/5'i kadar yükseklikte olabilir. Bu karşılaştırmalar, tepeyi gözümüzde canlandırabilmemiz için önemli ipuçları sağlıyor.
 
-İklim açısından bakıldığında, Van'ın karasal iklimininini Gürgürbaba Tepe'de görebiliyoruz. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakim. Bu mevsimsel özellikler, tepeyi yılın farklı zamanlarında farklı güzelliklerle ziyaret etmemizi sağlıyor. Örneğin, ilkbahar aylarında yeşeren bitki örtüsü, tepeyi bir yeşil cennete dönüştürüyor.
+İklim açısından bakıldığında, Van'ın karasal iklimininini Gürgürbaba Tepe'de görebiliyoruz. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakim. Bu mevsimsel özellikler, tepeyi yılın farklı zamanlarında farklı güzelliklerle ziyaret etmemizi sağlıyor. Örneğin, ilkbahar aylarında yeşeren bitki örtüsü, tepeyi bir yeşil cennete dönüştürüyor.
 
 Çevresel açıdan bakıldığında, Gürgürbaba Tepe'nin Van Gölü'ne yaklaşık 10 kilometre uzaklıkta olduğunu görüyoruz. Bu su kaynağı, tepeye yakın bir konumda yer alıyor ve tepeyi ziyaret edenlerin Van Gölü'nü de görme fırsatı bulmasını sağlıyor. Ayrıca, tepe çevresinde çeşitli ekosistemler yer alıyor. Bu ekosistemler, tepeyi ziyaret edenler için zengin bir biyolojik çeşitlilik sunuyor.
 

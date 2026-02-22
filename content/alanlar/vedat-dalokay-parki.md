@@ -46,7 +46,7 @@ Ankara'nın kalbinde, 39.9625°K, 32.7342°D koordinatlarında yer alan Vedat Da
 
 Doğal bir peyzajın içinde yer alan park, Ankara'nın genel jeolojik yapısına uygun olarak, kalkerli ve killi topraklarla kaplıdır. Bu topraklar, bitki çeşitliliğini destekleyerek, parkın botanik bahçesi olarak işlevini yerine getirmesine yardımcı olur. Parkın boyutları hakkında detaylı bilgi olmasa da, Ankara'nın genel coğrafi yapısına bakıldığında, parkın Taksim Meydanı'nın birkaç katı büyüklüğünde olduğu söylenebilir.
 
-Ankara'nın iklimi, karasal iklim özellikleri gösterir ve Vedat Dalokay Parkı da bu iklimin etkilerini taşır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu mevsimsel değişiklikler, parkın bitki örtüsünü etkiler ve parkın bakımını yapan ekipler, bu değişikliklere göre planlarını yapar.
+Ankara'nın iklimi, karasal iklim özellikleri gösterir ve Vedat Dalokay Parkı da bu iklimin etkilerini taşır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu mevsimsel değişiklikler, parkın bitki örtüsünü etkiler ve parkın bakımını yapan ekipler, bu değişikliklere göre planlarını yapar.
 
 Parkın çevresinde, çeşitli su kaynakları ve ekosistem bağlantıları bulunur. Ankara'nın ana su kaynaklarından biri olan Çubuk Barajı, parkın birkaç kilometre uzağında yer alır. Park, bu su kaynaklarına bağlantıları ile birlikte, Ankara'nın ekolojik dengesini korumaya yardımcı olur. Ayrıca, parkın komşu alanları, çeşitli doğa yürüyüş parkurları ve yeşil alanlarla dolu olup, şehirde yaşayanların doğayla iç içe olabilecekleri bir bölge olarak hizmet eder.
 

@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin güneydoğusunda yer alan Şeşamı Tepe, Batman ilin
 
 Fiziksel olarak Şeşamı Tepe, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu tepe, Batman ilinin dağlık yapısının bir parçası olarak, bölgenin jeolojik oluşumunda önemli bir rol oynamaktadır. Jeolojik açıdan, tepe ve çevresindeki araziler, genellikle kireçtaşı, şist ve kumtaşı gibi farklı türde kayaçlardan oluşmaktadır.
 
-İklim açısından, Şeşamı Tepe ve çevresindeki bölge, karasal iklimin hakim olduğu bir alanı teşkil eder. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir hava durumuna sahiptir. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörlerdir.
+İklim açısından, Şeşamı Tepe ve çevresindeki bölge, karasal iklimin hakim olduğu bir alanı teşkil eder. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir hava durumuna sahiptir. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörlerdir.
 
 Bölgenin çevresel ilişkileri açısından, Şeşamı Tepe, Batman Çayı'nın havzasında yer alan bir dizi dağlık alanın bir parçasıdır. Bu çay, bölgenin su kaynakları açısından önemli bir role sahiptir ve ekosistem bağlantıları için hayati bir öneme sahiptir. Ayrıca, tepe ve çevresi, çeşitli bitki ve hayvan türleri için önemli bir yaşam alanı olarak görev yapmaktadır.
 

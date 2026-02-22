@@ -36,7 +36,7 @@ Gecgagezi Tepesi, tarihsel geçmişe sahip önemli bir bölge. Tepenin tarihi ge
 
 ## Coğrafya
 
-Gecgagezi Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında bulunuyor. Tepenin yüksekliği ve genişliği, ziyaretçilere bölgeyi keşfetmek için geniş bir olanak sunuyor. Gecgagezi Tepesi, aynı zamanda bölgede yer alan diğer doğal güzelliklere de yakın mesafede bulunuyor. Tepenin coğrafi konumu, ziyaretçilere bölgenin doğal güzelliğini tanıma fırsatı sunuyor. Gecgagezi Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere doğanın tüm güzelliğini sunuyor. Tepenin iklimi, bölgeye özgü olarak sıca ve kurak bir iklim. Gecgagezi Tepesi, coğrafi konumu ve doğal güzelliği ile ziyaretçilerini bekliyor.
+Gecgagezi Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında bulunuyor. Tepenin yüksekliği ve genişliği, ziyaretçilere bölgeyi keşfetmek için geniş bir olanak sunuyor. Gecgagezi Tepesi, aynı zamanda bölgede yer alan diğer doğal güzelliklere de yakın mesafede bulunuyor. Tepenin coğrafi konumu, ziyaretçilere bölgenin doğal güzelliğini tanıma fırsatı sunuyor. Gecgagezi Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere doğanın tüm güzelliğini sunuyor. Tepenin iklimi, bölgeye özgü olarak sıcak ve kurak bir iklim. Gecgagezi Tepesi, coğrafi konumu ve doğal güzelliği ile ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 

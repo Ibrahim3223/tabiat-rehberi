@@ -37,7 +37,7 @@ Kırlangıç Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniye
 
 ## Coğrafya
 
-Kırlangıç Tepesi, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Tepenin eteklerinde yer alan ovalar, verimli topraklarla kaplı ve tarıma elverişli. Bölge, iklim olarak karasal iklim özellikleri gösteriyor; kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor. Tepenin kendisi, bölgenin en yüksek noktalarından biri ve etrafındaki manzara, geniş ovaları ve uzanan dağları içeriyor. Coğrafi konumu itibariyle, Kırlangıç Tepesi, hem doğal güzelliği hem de stratejik konumu nedeniyle önemli bir nokta. Bölgenin jeolojisi, volkani ve sedimentatif kayaların birleşmesiyle oluşmuş ve bu nedenle zengin bir mineral kaynağı sunuyor.
+Kırlangıç Tepesi, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Tepenin eteklerinde yer alan ovalar, verimli topraklarla kaplı ve tarıma elverişli. Bölge, iklim olarak karasal iklim özellikleri gösteriyor; kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Tepenin kendisi, bölgenin en yüksek noktalarından biri ve etrafındaki manzara, geniş ovaları ve uzanan dağları içeriyor. Coğrafi konumu itibariyle, Kırlangıç Tepesi, hem doğal güzelliği hem de stratejik konumu nedeniyle önemli bir nokta. Bölgenin jeolojisi, volkani ve sedimentatif kayaların birleşmesiyle oluşmuş ve bu nedenle zengin bir mineral kaynağı sunuyor.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Gözünüzün önüne bir dağ silüeti getirin, Elazığ'ın güneşli manzaral
 
 Doğal bir anıt olarak karşımıza çıkan Supürgeç Dağı, coğrafi konumunun yanı sıra fiziksel yapısıyla da dikkat çeker. Maalesef, fiziksel boyutlarına ilişkin detaylı bilgi bulunmuyor, ancak bu dağ, Elazığ'ın toplam yüzölçümünün küçük bir bölümünü kaplar. Monaco'nun yarısı kadar büyük bir alan düşünün, Supürgeç Dağı'nın boyutları buna benzer bir büyüklükte olabilir, ancak tam ölçüsü bilinmediğiçin kesin bir karşılaştırma yapmak zor.
 
-İklim açısından Supürgeç Dağı, Elazığ'ın genel iklim karakterini yansıtır. Bölge, karasal iklimin hüküm sürdüğü bir yer olarak bilinir ve mevsimsel değişiklikler belirgindir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu mevsimsel farklılıklar, Supürgeç Dağı'nın doğal güzelliğini ve biyolojik çeşitliliğini etkiler.
+İklim açısından Supürgeç Dağı, Elazığ'ın genel iklim karakterini yansıtır. Bölge, karasal iklimin hüküm sürdüğü bir yer olarak bilinir ve mevsimsel değişiklikler belirgindir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu mevsimsel farklılıklar, Supürgeç Dağı'nın doğal güzelliğini ve biyolojik çeşitliliğini etkiler.
 
 Çevresel açıdan Supürgeç Dağı, bölgenin su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahiptir. Elazığ'ın su kaynaklarına katkıda bulunan dağ, aynı zamanda çeşitli bitki ve hayvan türlerinin yaşam alanı olarak görev yapar. Taksim Meydanı'nın birkaç katı büyüklüğünde bir alana sahip bir şehir parkı düşünün, Supürgeç Dağı'nın çevresel önemi de buna benzer bir ölçekte olabilir.
 

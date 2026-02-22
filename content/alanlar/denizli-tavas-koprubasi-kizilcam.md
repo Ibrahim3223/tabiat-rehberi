@@ -30,7 +30,7 @@ Denizli-Tavas-Koprubasi Kızılçam milli parkının tarihi geçmişi, yüzyıll
 
 ## Coğrafya
 
-Denizli-Tavas-Koprubasi Kızılçam milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş orman alanları ve çeşitli bitki türleriyle kaplı. Parkın iklimi, bölgenin genel iklimine uygun olarak karasal özelliği gösteriyor. Kış ayları soğu ve karlı, yaz ayları ise sıca ve kurak geçiyor. Bu mevsimsel değişimler, parkın flora ve faunasını şekillendiriyor. Parkın fiziksel yapısı, ziyaretçilere hem dinlenme hem de keşif imkanı sunuyor.
+Denizli-Tavas-Koprubasi Kızılçam milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş orman alanları ve çeşitli bitki türleriyle kaplı. Parkın iklimi, bölgenin genel iklimine uygun olarak karasal özelliği gösteriyor. Kış ayları soğuk ve karlı, yaz ayları ise sıcak ve kurak geçiyor. Bu mevsimsel değişimler, parkın flora ve faunasını şekillendiriyor. Parkın fiziksel yapısı, ziyaretçilere hem dinlenme hem de keşif imkanı sunuyor.
 
 ## Flora ve Fauna
 

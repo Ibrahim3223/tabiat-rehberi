@@ -38,7 +38,7 @@ Veli Baba Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu dön
 
 ## Coğrafya
 
-Veli Baba Türbesi, Marmara Bölgesi'nin Pendik ilçesinde yer alır. Bu bölge, coğrafi olarak çeşitli özelliklere sahiptir. Veli Baba Türbesi, deniz seviyesinden yaklaşık yüksek bir konumdate bulunan bir plajdır. Plajın uzunluğu uzun bir mesafedir ve genişliği 100 metreyi bulur. Veli Baba Türbesi'nin coğrafi özellikleri, bölgeyi doğal bir liman haline getirir. Bölge, iklim olarak ılıman bir bölgede yer alır ve yaz aylarında sıcaktır. Veli Baba Türbesi, coğrafi konum itibariyle önemli bir yerdedir ve Pendik'in önemli bir turizm merkezidir. Bölge, doğal güzelliği ile ziyaretçilerini cezbeder ve her yıl çok sayıda ziyaretçi tarafından tercih edilir.
+Veli Baba Türbesi, Marmara Bölgesi'nin Pendik ilçesinde yer alır. Bu bölge, coğrafi olarak çeşitli özelliklere sahiptir. Veli Baba Türbesi, yüksek bir konumda bulunan bir plajdır. Plajın uzunluğu uzun bir mesafedir ve genişliği 100 metreyi bulur. Veli Baba Türbesi'nin coğrafi özellikleri, bölgeyi doğal bir liman haline getirir. Bölge, iklim olarak ılıman bir bölgede yer alır ve yaz aylarında sıcaktır. Veli Baba Türbesi, coğrafi konum itibariyle önemli bir yerdedir ve Pendik'in önemli bir turizm merkezidir. Bölge, doğal güzelliği ile ziyaretçilerini cezbeder ve her yıl çok sayıda ziyaretçi tarafından tercih edilir.
 
 ## Flora ve Fauna
 

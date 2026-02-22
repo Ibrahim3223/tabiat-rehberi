@@ -31,7 +31,7 @@ Antalya Duzlercami milli parkının tarihi geçmişi, yüzyıllar boyunca oluşm
 
 ## Coğrafya
 
-Antalya Duzlercami milli parkı, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Bu bölge, coğrafi olarak 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğünde olup, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Milli parkın coğrafi yapısı, ziyaretçilere doğa yürüyüşü yapma, piknik alanlarında dinlenme ve çevreyi keşfetme olanağı sunar. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir iklimdir. Bu bölgede, yaz ayları sıca ve kuru, kış ayları soğu ve kar yağışlı geçer. Milli parkın coğrafi konumu, ziyaretçilere çevreyi keşfetme ve doğayla iç içe olma fırsatı sunar.
+Antalya Duzlercami milli parkı, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Bu bölge, coğrafi olarak 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğünde olup, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Milli parkın coğrafi yapısı, ziyaretçilere doğa yürüyüşü yapma, piknik alanlarında dinlenme ve çevreyi keşfetme olanağı sunar. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir iklimdir. Bu bölgede, yaz ayları sıcak ve kuru, kış ayları soğuk ve kar yağışlı geçer. Milli parkın coğrafi konumu, ziyaretçilere çevreyi keşfetme ve doğayla iç içe olma fırsatı sunar.
 
 ## Flora ve Fauna
 

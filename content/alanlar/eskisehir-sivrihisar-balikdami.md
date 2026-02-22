@@ -30,7 +30,7 @@ Eskisehir-Sivrihisar Balıkdamı'nın tarihi geçmişi, yüzyıllar öncesine da
 
 ## Coğrafya
 
-Eskisehir-Sivrihisar Balıkdamı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve su kaynaklarıyla çevrilidir. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplamaktadır ve coğrafi olarak, yüksekli ve eğim açısından çeşitlilik göstermektedir. Balıkdamı, su kaynakları bakımından zengin bir bölgedir ve birçok balık türüne ev sahipliği yapan su havzaları bulunmaktadır. Ayrıca, bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik göstermektedir. Kış ayları soğu ve karlı, yaz ayları ise sıcak ve kurak geçmektedir. Bu iklim koşulları, bölgenin flora ve faunasını da etkilemektedir. Burada, birçok farklı bitki ve hayvan türüne rastlama mümkündür. Tüm bu coğrafi özellikler, Eskisehir-Sivrihisar Balıkdamı'nı, doğa severler ve turistler için bir cennet haline getirmektedir.
+Eskisehir-Sivrihisar Balıkdamı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve su kaynaklarıyla çevrilidir. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplamaktadır ve coğrafi olarak, yüksekli ve eğim açısından çeşitlilik göstermektedir. Balıkdamı, su kaynakları bakımından zengin bir bölgedir ve birçok balık türüne ev sahipliği yapan su havzaları bulunmaktadır. Ayrıca, bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik göstermektedir. Kış ayları soğuk ve karlı, yaz ayları ise sıcak ve kurak geçmektedir. Bu iklim koşulları, bölgenin flora ve faunasını da etkilemektedir. Burada, birçok farklı bitki ve hayvan türüne rastlama mümkündür. Tüm bu coğrafi özellikler, Eskisehir-Sivrihisar Balıkdamı'nı, doğa severler ve turistler için bir cennet haline getirmektedir.
 
 ## Flora ve Fauna
 

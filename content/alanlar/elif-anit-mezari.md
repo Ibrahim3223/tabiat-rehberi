@@ -37,7 +37,7 @@ Elif Anıt Mezarı'nın tarihi geçmişi, bölgenin tarihine önemli bir katkıd
 
 ## Coğrafya
 
-Elif Anıt Mezarı, Gaziantep'in Araban ilçesinde yer almaktadır. Bu mezar, 140 hektarlık bir alanı kapsamakta olup, bölgenin coğrafi yapısına önemli bir katkıda bulunmaktadır. Mezarın çevresi, çeşitli bitki türleri ile çevrilidir ve ziyaretçilere doğal bir ortam sunmaktadır. İklim, bölgenin genel iklimine uygun olarak sıca ve kurak bir yapıya sahiptir. Elif Anıt Mezarı, bölgenin coğrafi yapısına önemli bir katkıda bulunmakta olup, ziyaretçilere önemli bir deneyim sunmaktadır. Mezarın konumu, bölgenin merkezi bir noktasında yer almakta olup, ziyaretçilerin kolayca ulaşabilmesine olanak sağlamaktadır. Elif Anıt Mezarı, bölgenin coğrafi yapısına ve iklimine önemli bir katkıda bulunmakta olup, ziyaretçilere önemli bir deneyim sunmaktadır.
+Elif Anıt Mezarı, Gaziantep'in Araban ilçesinde yer almaktadır. Bu mezar, 140 hektarlık bir alanı kapsamakta olup, bölgenin coğrafi yapısına önemli bir katkıda bulunmaktadır. Mezarın çevresi, çeşitli bitki türleri ile çevrilidir ve ziyaretçilere doğal bir ortam sunmaktadır. İklim, bölgenin genel iklimine uygun olarak sıcak ve kurak bir yapıya sahiptir. Elif Anıt Mezarı, bölgenin coğrafi yapısına önemli bir katkıda bulunmakta olup, ziyaretçilere önemli bir deneyim sunmaktadır. Mezarın konumu, bölgenin merkezi bir noktasında yer almakta olup, ziyaretçilerin kolayca ulaşabilmesine olanak sağlamaktadır. Elif Anıt Mezarı, bölgenin coğrafi yapısına ve iklimine önemli bir katkıda bulunmakta olup, ziyaretçilere önemli bir deneyim sunmaktadır.
 
 ## Flora ve Fauna
 

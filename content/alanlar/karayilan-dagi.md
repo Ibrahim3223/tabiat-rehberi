@@ -45,7 +45,7 @@ Güney Türkiye'de yer alan Karayılan Dağı, 36.8436°K ve 32.2633°D koordina
 
 Doğal bir oluşum olarak Karayılan Dağı, çevresindeki diğer dağlarla birlikte bir dağ silsilesini oluşturmaktadır. Ancak, detaylı fiziksel verilerin eksikliği nedeniyle dağın boyutları ve şekli hakkında net bir bilgi bulunmamaktadır. Buna rağmen, Karayılan Dağı'nın jeolojik yapısı, bölgenin diğer dağlarıyla benzerlik göstermekte ve aynı jeolojik süreçlerin ürünü olarak ortaya çıkmaktadır.
 
-Mevsimsel değişikliklere göre Karayılan Dağı'nın iklimi, bölgenin genel iklim koşullarını yansıtmaktadır. Yaz aylarında sıca ve kuru, kış aylarında ise soğu ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, dağın ekosistemini ve bitki örtüsünü şekillendirmektedir.
+Mevsimsel değişikliklere göre Karayılan Dağı'nın iklimi, bölgenin genel iklim koşullarını yansıtmaktadır. Yaz aylarında sıcak ve kuru, kış aylarında ise soğuk ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, dağın ekosistemini ve bitki örtüsünü şekillendirmektedir.
 
 Bölgenin su kaynaklarına yakınlığı, Karayılan Dağı'nın çevresel ilişkilerini etkilemektedir. Dağın eteklerinde yer alan akarsular ve göller, bölgenin su dengesini korumakta ve yerel ekosistemi desteklemektedir. Ayrıca, Karayılan Dağı, komşu alanlarla birlikte bir bütünü oluşturmakta ve bölgenin doğal güzelliğini artırmaktadır.
 

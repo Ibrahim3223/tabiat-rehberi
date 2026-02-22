@@ -37,7 +37,7 @@ Aslantaş-Yılantaş'ın tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu 
 
 ## Coğrafya
 
-Aslantaş-Yılantaş, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi çeşitli bitki türleriyle kaplıdır. Bölgenin coğrafyası, yemyeşil ormanlar, dağlar ve vadilerle karakterize ediliyor. İklim, karasal özellikler gösteriyor ve mevsimsel değişimler belirgindir. Kış mevsimi soğu ve kar yağışlı, yaz mevsimi ise sıcak ve kurak geçiyor. Aslantaş-Yılantaş, coğrafi konumu itibariyle, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunuyor. Bölgenin coğrafyası, aynı zamanda fauna için de uygun koşullar sağlıyor ve çeşitli hayvan türlerine ev sahipliği yapıyor.
+Aslantaş-Yılantaş, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi çeşitli bitki türleriyle kaplıdır. Bölgenin coğrafyası, yemyeşil ormanlar, dağlar ve vadilerle karakterize ediliyor. İklim, karasal özellikler gösteriyor ve mevsimsel değişimler belirgindir. Kış mevsimi soğuk ve kar yağışlı, yaz mevsimi ise sıcak ve kurak geçiyor. Aslantaş-Yılantaş, coğrafi konumu itibariyle, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunuyor. Bölgenin coğrafyası, aynı zamanda fauna için de uygun koşullar sağlıyor ve çeşitli hayvan türlerine ev sahipliği yapıyor.
 
 ## Flora ve Fauna
 

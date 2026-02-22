@@ -44,7 +44,7 @@ Güney kıyılarımızın güzelliği, Antalya'nın dağlık arazilerinde de ken
 
 Jeolojik açıdan bakıldığında, Karasivrisi Tepe'nin fiziksel yapısı hakkında detaylı bilgi bulunmuyor. Ancak, tepe ile ilgili genel coğrafi özellikler, bölgenin dağlık ve engebeli bir yapıya sahip olduğunu gösteriyor. Bu coğrafya, ziyaretçilerin doğa yürüyüşü ve keşif için ideal bir ortam sunuyor. Taksim Meydanı'nın yaklaşık 10 katı büyüklüğünde olan bu alan, ziyaretçilerini geniş ve yeşil bir dünya ile karşılıyor.
 
-Mevsimsel değişimler, Karasivrisi Tepe'nin iklim karakterini belirliyor. Yaz aylarında sıca ve kurak bir hava, kış aylarında ise ılıman ve yağışlı bir ortam hakim. Bu mevsimsel özellikler, tepeyi ziyaret etmek için en uygun zamanları belirlemeye yardımcı oluyor. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu tepe, ziyaretçilerine Akdeniz'in geniş ve mavi sularını izleme fırsatı sunuyor.
+Mevsimsel değişimler, Karasivrisi Tepe'nin iklim karakterini belirliyor. Yaz aylarında sıcak ve kurak bir hava, kış aylarında ise ılıman ve yağışlı bir ortam hakim. Bu mevsimsel özellikler, tepeyi ziyaret etmek için en uygun zamanları belirlemeye yardımcı oluyor. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu tepe, ziyaretçilerine Akdeniz'in geniş ve mavi sularını izleme fırsatı sunuyor.
 
 Çevresel açıdan bakıldığında, Karasivrisi Tepe, Antalya'nın dağlık bölgeleri ile yakın bir ilişkiye sahip. Tepe, bölgenin diğer coğrafi oluşumları ile bağlantılı olarak, yerel ekosistemi destekleyen önemli bir bileşen. Monaco'nun yaklaşık yarısı kadar büyük olan bu alan, doğa severleri ve macera arayışında olanları cezbediyor. Ziyaretçiler, bu güzel tepeyi keşfetme ve doğal güzelliğini deneyimlemek için buraya gelmeyi tercih ediyorlar.
 

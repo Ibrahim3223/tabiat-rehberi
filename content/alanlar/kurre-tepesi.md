@@ -36,7 +36,7 @@ Kurre Tepesi'nin tarihi geçmişi, bölgeye yerleşen ilk insan topluluklarına 
 
 ## Coğrafya
 
-Kurre Tepesi, coğrafi açıdan oldukça çeşitli bir yapıya sahip. Tepe, Batman ilinin merkezine uzun bir mesafe uzaklıkta yer alıyor. Batman ilinin coğrafi özelliklerinin bir parçası olan Kurre Tepesi, geniş ovalar ve dağlarla çevrili. Bölgenin iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Kurre Tepesi, bu iklim özellikleri nedeniyle, ziyaretçilerine dört mevsim farklı deneyimler sunuyor. Tepe ve çevresindeki alanlar, çeşitli bitki türleri ve hayvanlarla dolu. Bu çeşitlilik, Kurre Tepesi'nin doğal güzelliğini daha da artırıyor. Kurre Tepesi, coğrafi konumu ve doğal güzelliği ile, ziyaretçilerini bekliyor.
+Kurre Tepesi, coğrafi açıdan oldukça çeşitli bir yapıya sahip. Tepe, Batman ilinin merkezine uzun bir mesafe uzaklıkta yer alıyor. Batman ilinin coğrafi özelliklerinin bir parçası olan Kurre Tepesi, geniş ovalar ve dağlarla çevrili. Bölgenin iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Kurre Tepesi, bu iklim özellikleri nedeniyle, ziyaretçilerine dört mevsim farklı deneyimler sunuyor. Tepe ve çevresindeki alanlar, çeşitli bitki türleri ve hayvanlarla dolu. Bu çeşitlilik, Kurre Tepesi'nin doğal güzelliğini daha da artırıyor. Kurre Tepesi, coğrafi konumu ve doğal güzelliği ile, ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 

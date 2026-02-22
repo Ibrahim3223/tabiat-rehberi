@@ -37,7 +37,7 @@ Konya'nın kalbinde, manevi bir atmosferi soluyabileceğiniz Şems-i Tebrizi Tü
 
 ## Coğrafya
 
-Şems-i Tebrizi Türbesi, Konya'nın Karatay ilçesinde bulunmaktadır ve şehrin merkeziunda yer alır. 140 hektarlık bir alan üzerine kurulu olan bu mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Türbenin çevresi, Mevlana Müzesi ve diğer tarihi eserlerle çevrilidir. Bu bölge, Konya'nın manevi ve kültürel merkezini oluşturur. İç Anadolu Bölgesi'nin karakteristik step iklimi, bu bölgede de hakimdir. Yaz aylarında sıca ve kurak, kış aylarında soğu ve kar yağışlı bir hava görülür. Bu coğrafi konum, ziyaretçilere şehrin tarihi ve manevi atmosferini deneyimleme fırsatı sunar. Türbenin mimarisi, Selçuklu ve Osmanlı dönemlerinin stilistik özelliklerini taşır ve çeşitli dönemlerden kalma eserler ile süslenmiştir.
+Şems-i Tebrizi Türbesi, Konya'nın Karatay ilçesinde bulunmaktadır ve şehrin merkeziunda yer alır. 140 hektarlık bir alan üzerine kurulu olan bu mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Türbenin çevresi, Mevlana Müzesi ve diğer tarihi eserlerle çevrilidir. Bu bölge, Konya'nın manevi ve kültürel merkezini oluşturur. İç Anadolu Bölgesi'nin karakteristik step iklimi, bu bölgede de hakimdir. Yaz aylarında sıcak ve kurak, kış aylarında soğuk ve kar yağışlı bir hava görülür. Bu coğrafi konum, ziyaretçilere şehrin tarihi ve manevi atmosferini deneyimleme fırsatı sunar. Türbenin mimarisi, Selçuklu ve Osmanlı dönemlerinin stilistik özelliklerini taşır ve çeşitli dönemlerden kalma eserler ile süslenmiştir.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Karaman'ın merkezi ile yaklaşık 30 kilometre uzaklıkta yer alan Kışır İn
 
 Doğal bir oluşum olan Kışır İni'nin fiziksel yapısı, bölgenin jeolojik geçmişine ışık tutmaktadır. Ancak, belirli fiziksel veriler bulunmamasına rağmen, bu jeoparkın konumunun coğrafi özellikleri, ziyaretçilere benzersiz bir deneyim sunmaktadır. Bir şehir bloğu büyüklüğünde olan bu alan, ziyaretçilerini doğal güzellikleriyle karşılamaktadır.
 
-İklim açısından bakıldığında, Kışır İni'nin bulunduğu bölge, Akdeniz ikliminin karakteristik özelliklerini taşımaktadır. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
+İklim açısından bakıldığında, Kışır İni'nin bulunduğu bölge, Akdeniz ikliminin karakteristik özelliklerini taşımaktadır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
 
 Çevresel açıdan, Kışır İni'nin bulunduğu bölge, Karaman Ovası'nın sulak alanlarına yakınlığıyla dikkat çekmektedir. Bu sulak alanlar, birçok kuş türünün yaşam alanı olarak bilinmektedir. Ayrıca, yakın çevresinde bulunan dağlar ve ovalar, bu jeoparkın ekosistem bağlantılarını zenginleştirmektedir. Monaco'nun yarısı kadar büyük olmayan bu bölge, ziyaretçilerine doğal güzelliklerin yanı sıra, coğrafi ve ekolojik çeşitlilik sunmaktadır.
 

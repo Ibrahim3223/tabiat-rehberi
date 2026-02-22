@@ -31,7 +31,7 @@ Legoland Discovery Centre İstanbul'un tarihi geçmişi, LEGO taşlarının ilk 
 
 ## Coğrafya
 
-Legoland Discovery Centre İstanbul, İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi çeşitlilik açısından zengin bir alana sahip. Merkezdenindeki manzaralar, ziyaretçilere geniş bir açık alan sunuyor. İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerine sahip olan bu bölge, geniş düzlükler, ovalar ve dağlarla çevrili. İklim olarak İç Anadolu Bölgesi, karasal iklimin etkilerini gösteriyor. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Legoland Discovery Centre İstanbul, bu coğrafi koşullara uygun bir şekilde tasarlanmış ve ziyaretçilere yıl boyunca keyifli bir ziyaret deneyimi sunuyor. Merkezin etrafındaki peyzaj, geniş yeşil alanlar ve su öğeleri ile ziyaretçilere dinlenme ve eğlenme imkanı sunuyor.
+Legoland Discovery Centre İstanbul, İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi çeşitlilik açısından zengin bir alana sahip. Merkezdenindeki manzaralar, ziyaretçilere geniş bir açık alan sunuyor. İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerine sahip olan bu bölge, geniş düzlükler, ovalar ve dağlarla çevrili. İklim olarak İç Anadolu Bölgesi, karasal iklimin etkilerini gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Legoland Discovery Centre İstanbul, bu coğrafi koşullara uygun bir şekilde tasarlanmış ve ziyaretçilere yıl boyunca keyifli bir ziyaret deneyimi sunuyor. Merkezin etrafındaki peyzaj, geniş yeşil alanlar ve su öğeleri ile ziyaretçilere dinlenme ve eğlenme imkanı sunuyor.
 
 ## Flora ve Fauna
 

@@ -38,7 +38,7 @@ Tarsus Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu bö
 
 ## Coğrafya
 
-Tarsus Şelalesi, Mersin'in Tarsus ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Bu şelale, Tarsus Nehri üzerinde kurulmuş ve nehrenin doğal akışı ile birlikte, çevredeki dağlar ve tepeler arasında yer alıyor. Şelalenin etrafı, çeşitli bitki türleri ile kaplı ve bu bitkiler, şelaleye ren ve canlılık kazandırıyor. Tarsus Şelalesi, özellikle ilkbahar ve yaz aylarında ziyaret ediliyor, çünkü bu dönemde doğa en güzel haliyle ziyaretçilerini karşılıyor. Şelale, yaklaşık yüksek bir konumdaten dökülüyor ve bu yükseklik, şelalenin güzelliğini daha da artırıyor. Tarsus Şelalesi'nin coğrafi konumu, hem doğal güzelliği hem de ulaşım kolaylığı ile dikkat çekiyor.
+Tarsus Şelalesi, Mersin'in Tarsus ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Bu şelale, Tarsus Nehri üzerinde kurulmuş ve nehrenin doğal akışı ile birlikte, çevredeki dağlar ve tepeler arasında yer alıyor. Şelalenin etrafı, çeşitli bitki türleri ile kaplı ve bu bitkiler, şelaleye ren ve canlılık kazandırıyor. Tarsus Şelalesi, özellikle ilkbahar ve yaz aylarında ziyaret ediliyor, çünkü bu dönemde doğa en güzel haliyle ziyaretçilerini karşılıyor. Şelale, yüksek bir konumdan dökülüyor ve bu yükseklik, şelalenin güzelliğini daha da artırıyor. Tarsus Şelalesi'nin coğrafi konumu, hem doğal güzelliği hem de ulaşım kolaylığı ile dikkat çekiyor.
 
 ## Flora ve Fauna
 

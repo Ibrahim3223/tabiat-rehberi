@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin kalbinde yer alan Vank Dağı, 39.7117°K, 38.8142°D
 
 Jeolojik açıdan incelendiğinde, Vank Dağı'nın boyutları ve şekli dikkat çeker. Koordinatlarına bakıldığında, bu dağın konumunun oldukça stratejik olduğu görülür. Ancak, fiziksel veri eksikliği nedeniyle Vank Dağı'nın tam olarak boyutları ve yüksekliği hakkında net bir bilgi bulunmamaktadır. Buna rağmen, Vank Dağı'nın bulunduğu bölge, Türkiye'nin en önemli coğrafi oluşumlarından biri olan Doğu Anadolu Bölgesi'nin bir parçasıdır.
 
-Mevsimsel olarak, Vank Dağı'nın bulunduğu bölge karasal iklimin etkilerini gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu iklim özellikleri, Vank Dağı'nın flora ve fauna açısından zengin bir çeşitlilik göstermesine neden olur. Ayrıca, dağların yükseklikleri ve eğimleri, bölgedeki su kaynaklarının oluşumunu ve akışını da etkiler.
+Mevsimsel olarak, Vank Dağı'nın bulunduğu bölge karasal iklimin etkilerini gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu iklim özellikleri, Vank Dağı'nın flora ve fauna açısından zengin bir çeşitlilik göstermesine neden olur. Ayrıca, dağların yükseklikleri ve eğimleri, bölgedeki su kaynaklarının oluşumunu ve akışını da etkiler.
 
 Çevresel açıdan bakıldığında, Vank Dağı'nın komşu alanlar ve su kaynaklarıyla önemli bir ilişkisi vardır. Erzincan ilinin su kaynaklarının birini oluşturan akarsular, Vank Dağı'nın eteklerinden doğar ve etrafındaki ovaları sulayarak, bölgenin ekosistemini destekler. Bu nedenle, Vank Dağı, sadece coğrafi bir oluşum değil, aynı zamanda çevresindeki yaşamın temelini oluşturan bir bileşendir.
 

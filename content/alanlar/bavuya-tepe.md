@@ -36,7 +36,7 @@ Bavuya Tepe'nin tarihi geçmişi, bölgenin zengin kültürel mirasını yansıt
 
 ## Coğrafya
 
-Bavuya Tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını ve iklimini gözlemlemek için ideal bir konum sunuyor. Tepe, Batman şehrinin merkezine yakın bir konumda yer alıyor ve çevresinde çeşitli bitki türleri ve fauna bulunmakta. Bölgenin coğrafi yapısı, tepe etrafında oluşan vadiler ve dağlarla şekilleniyor. İklim, genellikle sıca ve kurak geçiyor, ancak tepe etrafındaki bitki örtüsü, bu koşullara adapte olmuş durumda. Bavuya Tepe, ziyaretçilerine bölgenin coğrafi güzelliklerini deneyimleme fırsatı sunuyor ve tepe etrafında yapılan yürüyüşler, ziyaretçilere bölgenin doğal güzelliklerini keşfetme imkanı veriyor.
+Bavuya Tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını ve iklimini gözlemlemek için ideal bir konum sunuyor. Tepe, Batman şehrinin merkezine yakın bir konumda yer alıyor ve çevresinde çeşitli bitki türleri ve fauna bulunmakta. Bölgenin coğrafi yapısı, tepe etrafında oluşan vadiler ve dağlarla şekilleniyor. İklim, genellikle sıcak ve kurak geçiyor, ancak tepe etrafındaki bitki örtüsü, bu koşullara adapte olmuş durumda. Bavuya Tepe, ziyaretçilerine bölgenin coğrafi güzelliklerini deneyimleme fırsatı sunuyor ve tepe etrafında yapılan yürüyüşler, ziyaretçilere bölgenin doğal güzelliklerini keşfetme imkanı veriyor.
 
 ## Flora ve Fauna
 
@@ -51,5 +51,5 @@ Bavuya Tepe, ziyaretçilerine hem tarihi geçmişi hem de doğal güzelliklerini
 - Bavuya Tepe, Batman şehrinin merkezine yakın bir konumda yer alıyor
 - Tepe etrafında, çeşitli bitki türleri ve fauna bulunmakta
 - Bölgenin coğrafi yapısı, tepe etrafında oluşan vadiler ve dağlarla şekilleniyor
-- İklim, genellikle sıca ve kurak geçiyor
+- İklim, genellikle sıcak ve kurak geçiyor
 - Tepe, ziyaretçilerine bölgenin coğrafi güzelliklerini deneyimleme fırsatı sunuyor

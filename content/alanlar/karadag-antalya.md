@@ -45,7 +45,7 @@ Doğanın güzelliğini sergileyen Karadağ, Antalya'nın eşsiz coğrafyasında
 
 Jeolojik yapısı ile dikkat çeken Karadağ, etrafındaki coğrafyanın şekillenmesinde önemli bir rol oynar. Bu dağ, Antalya'nın toplam yüzölçümünün küçük bir bölümünü kapsar, ancak coğrafi açıdan önemli bir noktadır. Karadağ'ın boyutları, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplar.
 
-Mevsimsel özelliklere bakıldığında, Karadağ'ın iklimi Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakimdir. Bu mevsimsel değişimler, Karadağ'ın çevresindeki ekosistemi şekillendiren önemli faktörlerdir.
+Mevsimsel özelliklere bakıldığında, Karadağ'ın iklimi Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakimdir. Bu mevsimsel değişimler, Karadağ'ın çevresindeki ekosistemi şekillendiren önemli faktörlerdir.
 
 Çevresel açıdan bakıldığında, Karadağ'ın komşu alanları ile olan ilişkileri dikkat çeker. Bu dağ, Antalya'nın su kaynaklarının oluşumunda önemli bir rol oynar. Ayrıca, Karadağ'ın etrafındaki ekosistem bağlantıları, bölgenin biyolojik çeşitliliğini destekler. Karadağ, Monaco'nun küçük bir bölümü kadar bir alanı kaplar ve bu küçük alan, bölgenin coğrafi zenginliğine katkıda bulunur.
 

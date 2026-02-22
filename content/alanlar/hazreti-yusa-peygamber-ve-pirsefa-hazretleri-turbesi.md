@@ -37,7 +37,7 @@ Hazreti Yuşa Peygamber ve Pirsefa Hazretleri Türbesi, tarihi geçmişi ile dik
 
 ## Coğrafya
 
-Hazreti Yuşa Peygamber ve Pirsefa Hazretleri Türbesi, Güneydoğu Anadolu Bölgesi'nde yer alan Gaziantep'in Şahinbey ilçesinde bulunmaktadır. Bu bölge, coğrafi açıdan zengin bir yapıya sahiptir. 140 hektarlık bir alanı kaplayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde. Türbenin etrafı, yeşilliklerle dolu ve huzur verici bir môiındadır. Bu bölge, aynı zamanda doğal güzellikleri ile de dikkat çekmektedir. Ziyaretçiler, burada hem tarihi hem de doğal güzellikleri bir arada görebilmektedir. Bölgenin iklimi, genellikle sıca ve kurudur. Ziyaretçiler, özellikle ilkbahar ve sonbahar aylarında burayı ziyaret etmeyi tercih etmektedirler. Bu mevsimlerde, hava sıcaklığı ziyaretçilerin gezebileceği düzeydedir.
+Hazreti Yuşa Peygamber ve Pirsefa Hazretleri Türbesi, Güneydoğu Anadolu Bölgesi'nde yer alan Gaziantep'in Şahinbey ilçesinde bulunmaktadır. Bu bölge, coğrafi açıdan zengin bir yapıya sahiptir. 140 hektarlık bir alanı kaplayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde. Türbenin etrafı, yeşilliklerle dolu ve huzur verici bir môiındadır. Bu bölge, aynı zamanda doğal güzellikleri ile de dikkat çekmektedir. Ziyaretçiler, burada hem tarihi hem de doğal güzellikleri bir arada görebilmektedir. Bölgenin iklimi, genellikle sıcak ve kurudur. Ziyaretçiler, özellikle ilkbahar ve sonbahar aylarında burayı ziyaret etmeyi tercih etmektedirler. Bu mevsimlerde, hava sıcaklığı ziyaretçilerin gezebileceği düzeydedir.
 
 ## Flora ve Fauna
 

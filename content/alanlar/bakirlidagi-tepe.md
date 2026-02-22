@@ -66,6 +66,6 @@ Antalya'nın güzide dağlarından biri olan Bakırlıdağı Tepe, doğa severle
 - Bakırlıdağı Tepe, Antalya ilinin batı kısmında yer alır.
 - Dağın yüksekliği hakkında net bir bilgi bulunmamaktadır.
 - Antalya'nın coğrafi yapısı, Toros Dağları'nın bir uzantısı olarak bakırlıdağı tepeyi de kapsamaktadır.
-- Bölge, Akdeniz ikliminin karakteristik özelliklerini taşır, yazları sıca ve kurak, kışları ılıman ve yağışlıdır.
+- Bölge, Akdeniz ikliminin karakteristik özelliklerini taşır, yazları sıcak ve kurak, kışları ılıman ve yağışlıdır.
 - Bakırlıdağı Tepe ve etrafındaki arazi, trekking ve doğa yürüyüşü için popüler bir destinasyondur.
 - Antalya'nın tarihi ve kültürel zenginlikleri, Bakırlıdağı Tepe'nin eteklerinde ve çevresinde bulunan antik kentlerle bağlantılıdır.

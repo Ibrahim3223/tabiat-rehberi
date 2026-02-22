@@ -36,7 +36,7 @@ Kafdağı Tepesi'nin tarihi geçmişi, bölgenin zengin kültürel mirasıyla i�
 
 ## Coğrafya
 
-Kafdağı Tepesi, İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiş bir destinasyon. Bu tepe, Sivas şehrinin coğrafi yapısını oluşturan dağlık ve engebeli arazilerin bir parçası. Bölgenin iklimi, İç Anadolu'nun karasal iklimi özellikleri gösteriyor; yani kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, Kafdağı Tepesi'nin flora ve faunasını da etkiliyor. Tepenin etrafında, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Bu coğrafi özellikler, ziyaretçilere doğal bir môiagne sunuyor ve onları doğanın güzellikleriyle baş başa bırakıyor. Kafdağı Tepesi, bu nedenle hem coğrafi özellikleri hem de doğal güzellikleri ile dikkat çekiyor.
+Kafdağı Tepesi, İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiş bir destinasyon. Bu tepe, Sivas şehrinin coğrafi yapısını oluşturan dağlık ve engebeli arazilerin bir parçası. Bölgenin iklimi, İç Anadolu'nun karasal iklimi özellikleri gösteriyor; yani kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, Kafdağı Tepesi'nin flora ve faunasını da etkiliyor. Tepenin etrafında, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Bu coğrafi özellikler, ziyaretçilere doğal bir môiagne sunuyor ve onları doğanın güzellikleriyle baş başa bırakıyor. Kafdağı Tepesi, bu nedenle hem coğrafi özellikleri hem de doğal güzellikleri ile dikkat çekiyor.
 
 ## Flora ve Fauna
 

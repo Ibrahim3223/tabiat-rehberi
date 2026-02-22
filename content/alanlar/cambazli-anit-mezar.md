@@ -38,7 +38,7 @@ Cambazlı Anıt Mezar, tarihi geçmişiyle dikkat çekiyor. Bu anıt mezar, yüz
 
 ## Coğrafya
 
-Cambazlı Anıt Mezar, Silifke'de yer alıyor. Bu anıt mezar, Mersin'in Akdeniz Bölgesi'nde bulunmaktadır. Coğrafi konumu itibariyle, Cambazlı Anıt Mezar çevredeki dağlarla çevrili bir alanda yer alıyor. Bu bölgenin iklimi, Akdeniz iklimi özellikleri gösteriyor. Yaz aylarında sıca ve kurak, kış aylarında ılık ve yağışlı bir iklim hüküm sürüyor. Cambazlı Anıt Mezar, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu anıt mezar, doğal güzellikleri ve tarihi yapılarıyla dikkat çekiyor. Ziyaretçiler, Cambazlı Anıt Mezar'ın coğrafi konumunu ve çevresindeki doğal güzellikleri keşfedebilirler.
+Cambazlı Anıt Mezar, Silifke'de yer alıyor. Bu anıt mezar, Mersin'in Akdeniz Bölgesi'nde bulunmaktadır. Coğrafi konumu itibariyle, Cambazlı Anıt Mezar çevredeki dağlarla çevrili bir alanda yer alıyor. Bu bölgenin iklimi, Akdeniz iklimi özellikleri gösteriyor. Yaz aylarında sıcak ve kurak, kış aylarında ılık ve yağışlı bir iklim hüküm sürüyor. Cambazlı Anıt Mezar, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu anıt mezar, doğal güzellikleri ve tarihi yapılarıyla dikkat çekiyor. Ziyaretçiler, Cambazlı Anıt Mezar'ın coğrafi konumunu ve çevresindeki doğal güzellikleri keşfedebilirler.
 
 ## Flora ve Fauna
 

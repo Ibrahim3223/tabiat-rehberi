@@ -36,7 +36,7 @@ Topuzbaba Tepesi, tarihi geçmişi ile dikkat çekiyor. Yüzyıllar boyunca bu t
 
 ## Coğrafya
 
-Topuzbaba Tepesi, Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Bölge, genellikle yeşil ormanlar ve dağlar ile çevrili. Tepenin etrafında, çeşitli akarsular ve dereler bulunmakta. Topuzbaba Tepesi, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor. Bu yükseklik, ziyaretçilere geniş bir manzara sunuyor. Tepenin iklimi, Karadeniz ikliminin özelliklerini taşıyor. Bölge, genellikle yağışlı ve nemli. Topuzbaba Tepesi, çevre şehirlerden kolayca ulaşım mogelijk. Tepenin yakınında, çeşitli köyler ve kasabalar bulunmakta. Bu yerleşim yerleri, ziyaretçilere konaklama ve yemek imkanları sunuyor.
+Topuzbaba Tepesi, Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Bölge, genellikle yeşil ormanlar ve dağlar ile çevrili. Tepenin etrafında, çeşitli akarsular ve dereler bulunmakta. Topuzbaba Tepesi, yüksek bir konumda yer alıyor. Bu yükseklik, ziyaretçilere geniş bir manzara sunuyor. Tepenin iklimi, Karadeniz ikliminin özelliklerini taşıyor. Bölge, genellikle yağışlı ve nemli. Topuzbaba Tepesi, çevre şehirlerden kolayca ulaşım mogelijk. Tepenin yakınında, çeşitli köyler ve kasabalar bulunmakta. Bu yerleşim yerleri, ziyaretçilere konaklama ve yemek imkanları sunuyor.
 
 ## Flora ve Fauna
 

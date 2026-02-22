@@ -31,7 +31,7 @@ Gümeli milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Gümeli milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak bir konumda yer almaktadır. Parkın coğrafyası, genellikle düz ve hafif dalgalı arazilerden oluşmaktadır. Bu coğrafi yapı, ziyaretçilere geniş ve açık alanlarda yürüyüş yapma ve doğayı keşfetme imkanı sunar. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik göstermekte olup, yazları sıca ve kurak, kışları ise soğu ve karlı geçmektedir. Bu iklim koşulları, parkın flora ve faunasının çeşitliliğini etkilemekte ve her mevsim ziyaretçilere farklı bir deneyim sunmaktadır. Parkın çevresi, genellikle tarım arazileri ve ormanlık alanlarla çevrili olup, bu çevre, parkın ekosistemini zenginleştirmekte ve ziyaretçilere geniş bir doğal alan sunmaktadır.
+Gümeli milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak bir konumda yer almaktadır. Parkın coğrafyası, genellikle düz ve hafif dalgalı arazilerden oluşmaktadır. Bu coğrafi yapı, ziyaretçilere geniş ve açık alanlarda yürüyüş yapma ve doğayı keşfetme imkanı sunar. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik göstermekte olup, yazları sıcak ve kurak, kışları ise soğuk ve karlı geçmektedir. Bu iklim koşulları, parkın flora ve faunasının çeşitliliğini etkilemekte ve her mevsim ziyaretçilere farklı bir deneyim sunmaktadır. Parkın çevresi, genellikle tarım arazileri ve ormanlık alanlarla çevrili olup, bu çevre, parkın ekosistemini zenginleştirmekte ve ziyaretçilere geniş bir doğal alan sunmaktadır.
 
 ## Flora ve Fauna
 

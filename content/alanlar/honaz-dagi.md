@@ -45,7 +45,7 @@ Güneybatı Anadolu'nun dağlık bölgesinde yer alan Honaz Dağı, 37.6786°K, 
 
 Doğal bir zirve olan Honaz Dağı, etrafındaki coğrafyaya hakim bir konumdadır. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olup, bölgenin en önemli doğal oluşumlarından biridir. Honaz Dağı, yaklaşık olarak 1200 hektarlık bir alanı kaplar; bu alan, İstanbul'un Adalar ilçesi büyüklüğüne yakın bir büyüklüktür. Ancak, Honaz Dağı'nın büyüklüğü sadece yüksekliği ile değil, aynı zamanda eteklerinde yer alan Honaz kasabasının gelişimine de katkıda bulunmuştur.
 
-İklim açısından bakıldığında, Honaz Dağı'nın bulunduğu bölge, Akdeniz ikliminin özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir iklim karakteri gösterir. Honaz Dağı, bu mevsimsel değişimlere uyum sağlayabilen flora ve fauna çeşitliliğine sahiptir. Dağın yüksekliği ve coğrafi konumu, bölgedeki hava akımlarını etkileyerek, micro iklimler oluşturur.
+İklim açısından bakıldığında, Honaz Dağı'nın bulunduğu bölge, Akdeniz ikliminin özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir iklim karakteri gösterir. Honaz Dağı, bu mevsimsel değişimlere uyum sağlayabilen flora ve fauna çeşitliliğine sahiptir. Dağın yüksekliği ve coğrafi konumu, bölgedeki hava akımlarını etkileyerek, micro iklimler oluşturur.
 
 Honaz Dağı, etrafındaki doğal ve kültürel alanlarla güçlü bir şekilde bağlantılıdır. Dağın eteklerinde kurulan Honaz kasabası, tarihi ve kültürel mirası ile önemli bir turizm merkezidir. Ayrıca, Honaz Dağı, komşu alanlardaki su kaynaklarını besleyen önemli bir su toplama alanıdır. Bu su kaynakları, bölgedeki tarımı ve ekosistemi destekler. Honaz Dağı, bu nedenle, bölgenin ekolojik dengesini koruma açısından kritik bir role sahiptir.
 

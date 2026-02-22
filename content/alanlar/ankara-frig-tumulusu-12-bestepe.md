@@ -37,7 +37,7 @@ Ankara Frig Tümülüsü 12, Beştepe'nin tarihi, çok eskilere dayanmaktadır. 
 
 ## Coğrafya
 
-Ankara Frig Tümülüsü 12, Beştepe, coğrafi olarak İç Anadolu Bölgesi'nin merkezi bir konumunda yer almaktadır. Bu bölge, Ankara'nın Yenimahalle ilçesinde bulunmaktadır ve şehrin merkezine oldukça yakındır. Tümülüs ve çevresindeki alan, doğal güzellikleri ile dikkat çekmektedir. Bölge, çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosisteme sahiptir. İklim, İç Anadolu Bölgesi'nin karakteristik kara iklimidir ve dört mevsim belirgin olarak yaşanmaktadır. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bahar ve sonbahar mevsimleri, ılıman ve güzeldir. Bu coğrafi özellikler, Ankara Frig Tümülüsü 12, Beştepe'yi, ziyaretçiler için yılın her dönemi çekici bir destinasyon haline getirmektedir.
+Ankara Frig Tümülüsü 12, Beştepe, coğrafi olarak İç Anadolu Bölgesi'nin merkezi bir konumunda yer almaktadır. Bu bölge, Ankara'nın Yenimahalle ilçesinde bulunmaktadır ve şehrin merkezine oldukça yakındır. Tümülüs ve çevresindeki alan, doğal güzellikleri ile dikkat çekmektedir. Bölge, çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosisteme sahiptir. İklim, İç Anadolu Bölgesi'nin karakteristik kara iklimidir ve dört mevsim belirgin olarak yaşanmaktadır. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bahar ve sonbahar mevsimleri, ılıman ve güzeldir. Bu coğrafi özellikler, Ankara Frig Tümülüsü 12, Beştepe'yi, ziyaretçiler için yılın her dönemi çekici bir destinasyon haline getirmektedir.
 
 ## Flora ve Fauna
 

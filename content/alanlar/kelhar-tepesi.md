@@ -36,7 +36,7 @@ Kelhar Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin
 
 ## Coğrafya
 
-Kelhar Tepesi, Doğu Anadolu Bölgesi'nin Bitlis ilinde yer alır. Bölgenin coğrafi yapısı, dağlar ve vadilerle karakterizedir. Tepenin etrafı, çeşitli bitki türleri ve ağaçlarla kaplıdır. İklim, karasal iklim özellikleri gösterir ve mevsimsel değişimler belirgindir. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bölgenin coğrafi konumu, doğal güzelliğini ve biyolojik çeşitliliğini etkiler. Tepenin yüksekliği ve eteklerinde yer alan akarsular, bölgenin ekolojisini zenginleştirir. Kelhar Tepesi, Bitlis ilinin coğrafi olarak önemli bir noktasıdır ve bölgenin doğal güzelliklerini sunar.
+Kelhar Tepesi, Doğu Anadolu Bölgesi'nin Bitlis ilinde yer alır. Bölgenin coğrafi yapısı, dağlar ve vadilerle karakterizedir. Tepenin etrafı, çeşitli bitki türleri ve ağaçlarla kaplıdır. İklim, karasal iklim özellikleri gösterir ve mevsimsel değişimler belirgindir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bölgenin coğrafi konumu, doğal güzelliğini ve biyolojik çeşitliliğini etkiler. Tepenin yüksekliği ve eteklerinde yer alan akarsular, bölgenin ekolojisini zenginleştirir. Kelhar Tepesi, Bitlis ilinin coğrafi olarak önemli bir noktasıdır ve bölgenin doğal güzelliklerini sunar.
 
 ## Flora ve Fauna
 

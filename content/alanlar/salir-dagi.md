@@ -44,7 +44,7 @@ Güneydeki dağlık araziler, Antalya'nın doğal güzelliğini vurgulayan önem
 
 Jeolojik açıdan incelendiğinde, Salır Dağı'nın coğrafi yapısı oldukça ilginç. Fiziksel olarak, bu dağ bir olimpik havuz kadar alan kaplıyor ve Eiffel Kulesi'nin yaklaşık 1/5'i yükseklikte bir tepe oluşturuyor. Bu yükseklik, civarındaki diğer tepe ve dağlar ile karşılaştırıldığında, oldukça önemli bir nokta olarak dikkat çekiyor.
 
-Mevsimsel açıdan, Salır Dağı'nın iklimi Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve kuru, kış aylarında ılıman ve yağışlı bir hava hakim. Bu iklim, dağın flora ve faunasının çeşitliliğini etkileyen önemli bir faktör.
+Mevsimsel açıdan, Salır Dağı'nın iklimi Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve kuru, kış aylarında ılıman ve yağışlı bir hava hakim. Bu iklim, dağın flora ve faunasının çeşitliliğini etkileyen önemli bir faktör.
 
 Çevresel açıdan, Salır Dağı Antalya'nın doğal yaşam alanlarına önemli bir katkı sağlıyor. Dağın eteklerinde ve çevresinde, çeşitli su kaynakları ve ekosistemler yer alıyor. Bu su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılayan önemli bir unsur. Ayrıca, dağda bulunan flora ve fauna, bölgenin biyolojik çeşitliliğini zenginleştiren önemli bir bileşen.
 

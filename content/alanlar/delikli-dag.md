@@ -44,7 +44,7 @@ Güneydeki dağ sıralarının arasında yer alan Delikli Dağ, Antalya'nın do�
 
 Doğal bir anıt olarak görülebilecek Delikli Dağ, çevresindeki coğrafi yapıyla uyumlu bir şekilde yükselmektedir. Ancak, fiziksel boyutlarına ilişkin detaylı veriler bulunmamaktadır. Bu dağın boyutlarını hayal edebilmek için, Monaco'nun yarısı kadar bir alanı kaplayabileceğini düşünebiliriz. Böyle bir karşılaştırma, Delikli Dağ'ın büyüklüğünü daha iyi anlamamıza yardımcı olabilir.
 
-Mevsimsel değişimler Delikli Dağ'ın iklim karakterini etkilemektedir. Akdeniz ikliminin özellikleri, bu bölgede sıca ve kurak yazlar, ılıman ve yağışlı kışlar olarak hissedilmektedir. Eiffel Kulesi'nin 2 katı yükseklikte bir noktanın hava koşulları, bu bölgede mevsimsel farklılıkların nasıl hissedildiğini anlamamıza yardımcı olabilir. Bu yükseklikte, yazın sıcaklık ve nem oranları daha belirgin hale gelmektedir.
+Mevsimsel değişimler Delikli Dağ'ın iklim karakterini etkilemektedir. Akdeniz ikliminin özellikleri, bu bölgede sıcak ve kurak yazlar, ılıman ve yağışlı kışlar olarak hissedilmektedir. Eiffel Kulesi'nin 2 katı yükseklikte bir noktanın hava koşulları, bu bölgede mevsimsel farklılıkların nasıl hissedildiğini anlamamıza yardımcı olabilir. Bu yükseklikte, yazın sıcaklık ve nem oranları daha belirgin hale gelmektedir.
 
 Delikli Dağ, çevresindeki su kaynakları ve ekosistemlerle bağlantılı olarak önemli bir role sahiptir. Beşiktaş ilçesi büyüklüğünde bir alanı kaplayan bu dağ, bölgedeki su döngüsünü etkileyen bir faktör olarak görülebilir. Bu dağların eteklerinde bulunan su kaynakları, bölgenin ekolojik dengesini koruma altına almaktadır. Taksim Meydanı'nın 10 katı büyüklüğünde bir alanı kaplayan bu su kaynakları, Delikli Dağ'ın çevresel ilişkilerini anlamamıza yardımcı olmaktadır.
 

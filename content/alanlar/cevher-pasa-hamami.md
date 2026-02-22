@@ -37,7 +37,7 @@ Cevher Paşa Hamamı'nın tarihi geçmişi, Osmanlı dönemine kadar uzanıyor. 
 
 ## Coğrafya
 
-Cevher Paşa Hamamı, Ege Bölgesi'nin Kale/Denizli ilçesinde yer alıyor. Bu bölge, coğrafi olarak çeşitli doğal güzelliklere sahip. Hamamın çevresi, yeşillik alanlar ve su kaynakları ile çevrili. Cevher Paşa Hamamı, 140 hektarlık bir alanı kapsıyor ve ziyaretçilere geniş bir açık alan sunuyor. Bölgenin iklimi, genel olarak Akdeniz iklimi özellikleri gösteriyor. Yaz ayları sıca ve kurak, kış ayları ılıman ve yağışlı geçiyor. Cevher Paşa Hamamı, bu coğrafi özelliklere sahip bir bölgede yer alıyor ve ziyaretçilere doğa ile iç içe bir ortam sunuyor.
+Cevher Paşa Hamamı, Ege Bölgesi'nin Kale/Denizli ilçesinde yer alıyor. Bu bölge, coğrafi olarak çeşitli doğal güzelliklere sahip. Hamamın çevresi, yeşillik alanlar ve su kaynakları ile çevrili. Cevher Paşa Hamamı, 140 hektarlık bir alanı kapsıyor ve ziyaretçilere geniş bir açık alan sunuyor. Bölgenin iklimi, genel olarak Akdeniz iklimi özellikleri gösteriyor. Yaz ayları sıcak ve kurak, kış ayları ılıman ve yağışlı geçiyor. Cevher Paşa Hamamı, bu coğrafi özelliklere sahip bir bölgede yer alıyor ve ziyaretçilere doğa ile iç içe bir ortam sunuyor.
 
 ## Flora ve Fauna
 

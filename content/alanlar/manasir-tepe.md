@@ -44,7 +44,7 @@ Güneyde Akdeniz'in mavi sularını gören Antalya ilinin dağlık bölgesinde, 
 
 Doğal güzelliği ile dikkat çeken Manaşır Tepe, coğrafi olarak dağlık bir arazide yer alır. Yüksekliği Eiffel Kulesi'nin yaklaşık 1/5'i kadar olan bu tepe, jeolojik olarak da ilgi çekicidir. Ancak, fiziksel verileri sınırlı olduğu için boyutları ve şekli hakkında net bilgiler bulunmamaktadır. Buna rağmen, Manaşır Tepe'nin doğal yapısı ve çevresindeki manzara, ziyaretçilerini etkilemektedir.
 
-Mevsimsel olarak, Manaşır Tepe'nin iklimi Akdeniz ikliminin özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir hava hakimdir. Bu mevsimsel değişimler, tepe ve çevresindeki ekosistemi etkiler. Hava durumu genellikle güneşli ve açık olsa da, kış aylarında yağmur ve bulutlu günler de görülebilir.
+Mevsimsel olarak, Manaşır Tepe'nin iklimi Akdeniz ikliminin özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava hakimdir. Bu mevsimsel değişimler, tepe ve çevresindeki ekosistemi etkiler. Hava durumu genellikle güneşli ve açık olsa da, kış aylarında yağmur ve bulutlu günler de görülebilir.
 
 Çevresel açıdan, Manaşır Tepe Antalya'nın doğal güzelliklerine ev sahipliği yapan bir bölgede yer alır. Yakındaki su kaynakları ve ekosistemler, tepe ve çevresinin doğal dengesini korur. Monaco'nun çok küçük bir bölümü kadar büyük olan Manaşır Tepe, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alana yayılır. Bu küçük ama önemli doğal alan, Antalya'nın turisti ve doğal zenginliklerini bir araya getirir.
 

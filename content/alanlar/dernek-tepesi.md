@@ -36,7 +36,7 @@ Dernek Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bö
 
 ## Coğrafya
 
-Dernek Tepesi, Hatay ilinin Akdeniz Bölgesi'nde yer alan bir tepe olup, coğrafi konumu itibariyle önemli bir doğal alandır. Tepenin yüksekliği, bölgenin diğer yerlerine göre daha yüksektir ve buradan, Akdeniz Bölgesi'nin güzel manzaraları izlenebilir. Tepenin etrafında, çeşitli bitki türleri ve yaban hayatının zengin çeşitliliği bulunur. Dernek Tepesi, Akdeniz ikliminin etkisi altında olup, bu bölge, sıca ve kurak yaz ayları ile ılık ve yağışlı kış aylarıyla caracterizedir. Tepenin coğrafi konumu, ziyaretçilere doğanın güzelliğini sunar ve buradaki flora ve fauna, ziyaretçilerin ilgisini çeker. Tepenin eteklerinde, küçük akarsular ve derenin oluşturduğu vadi, bölgeyi daha da güzelleştirir ve ziyaretçilerin doğayla iç içe olmasını sağlar.
+Dernek Tepesi, Hatay ilinin Akdeniz Bölgesi'nde yer alan bir tepe olup, coğrafi konumu itibariyle önemli bir doğal alandır. Tepenin yüksekliği, bölgenin diğer yerlerine göre daha yüksektir ve buradan, Akdeniz Bölgesi'nin güzel manzaraları izlenebilir. Tepenin etrafında, çeşitli bitki türleri ve yaban hayatının zengin çeşitliliği bulunur. Dernek Tepesi, Akdeniz ikliminin etkisi altında olup, bu bölge, sıcak ve kurak yaz ayları ile ılık ve yağışlı kış aylarıyla caracterizedir. Tepenin coğrafi konumu, ziyaretçilere doğanın güzelliğini sunar ve buradaki flora ve fauna, ziyaretçilerin ilgisini çeker. Tepenin eteklerinde, küçük akarsular ve derenin oluşturduğu vadi, bölgeyi daha da güzelleştirir ve ziyaretçilerin doğayla iç içe olmasını sağlar.
 
 ## Flora ve Fauna
 

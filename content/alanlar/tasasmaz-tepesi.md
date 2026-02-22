@@ -36,7 +36,7 @@ Taşaşmaz Tepesi'nin tarihi geçmişi, Gaziantep'in genel tarihi ile paralellik
 
 ## Coğrafya
 
-Taşaşmaz Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, genellikle dağlık ve engebeli arazilerle çevrili. Tepenin kendisi, bir tepe olarak çevredeki arazilere nazaran daha yüksek bir konumda bulunuyor. Çevresinde, çeşitli bitki türleri ve fauna found. Mevsimsel değişimlere göre, bu bölgede farklı türde bitkiler ve hayvanlar yaşamlarını sürdürüyorlar. İklim, genel olarak bölgenin tipik iklimine uygun olarak sıca ve kurak yazlar, ılıman ve yağışlı kışlar şeklinde tanımlanabilir. Çevre, doğal güzellikleri ve coğrafi çeşitliliği ile dikkat çekiyor. Gaziantep'in şehir merkezine göre, Taşaşmaz Tepesi'nin konumu, şehrin gürültüsünden uzak, sakin bir ortam sunuyor.
+Taşaşmaz Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, genellikle dağlık ve engebeli arazilerle çevrili. Tepenin kendisi, bir tepe olarak çevredeki arazilere nazaran daha yüksek bir konumda bulunuyor. Çevresinde, çeşitli bitki türleri ve fauna found. Mevsimsel değişimlere göre, bu bölgede farklı türde bitkiler ve hayvanlar yaşamlarını sürdürüyorlar. İklim, genel olarak bölgenin tipik iklimine uygun olarak sıcak ve kurak yazlar, ılıman ve yağışlı kışlar şeklinde tanımlanabilir. Çevre, doğal güzellikleri ve coğrafi çeşitliliği ile dikkat çekiyor. Gaziantep'in şehir merkezine göre, Taşaşmaz Tepesi'nin konumu, şehrin gürültüsünden uzak, sakin bir ortam sunuyor.
 
 ## Flora ve Fauna
 

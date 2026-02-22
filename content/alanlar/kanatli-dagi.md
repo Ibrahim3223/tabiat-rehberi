@@ -42,7 +42,7 @@ Doğunun gizli köşelerinden biri olan Kanatlı Dağı, 39.4454° kuzey enlemi 
 
 Jeolojik açıdan bakıldığında, Kanatlı Dağı'nın yapısı hakkında detaylı bilgi bulunmasa da, bölgenin coğrafi özelliklerini anlamak için çevresindeki alanları incelemek önemlidir. Bingöl'ün genel coğrafyası, dağlık ve engebeli arazilerle karakterize edilir. Bu özellik, Kanatlı Dağı'nın da benzer bir yapıya sahip olabileceğini düşündürür. Örneğin, bir şehir bloğu büyüklüğünde alanlar, bu dağlık bölgede küçük bir vadi veya tepe olarak karşımıza çıkabilir.
 
-İklim açısından, Kanatlı Dağı'nın bulunduğu bölge, karasal iklimin etkilerini taşır. Kışlar soğu ve karlı, yazlar ise sıca ve kurudur. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler. Eiffel Kulesi'nin 2 katı yükseklikte bir nokta, Kanatlı Dağı'nın zirvesi olabilir ve buradan manzara izlemek, ziyaretçilere benzersiz bir deneyim sunar.
+İklim açısından, Kanatlı Dağı'nın bulunduğu bölge, karasal iklimin etkilerini taşır. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler. Eiffel Kulesi'nin 2 katı yükseklikte bir nokta, Kanatlı Dağı'nın zirvesi olabilir ve buradan manzara izlemek, ziyaretçilere benzersiz bir deneyim sunar.
 
 Çevresel açıdan, Kanatlı Dağı, Bingöl'ün doğal kaynakları ve su kaynakları ile bağlantılıdır. Bölgedeki akarsular ve göller, ekosistemin önemli bileşenlerini oluşturur. Monaco'nun yarısı kadar büyük bir alanı kaplayan bu dağlık bölge, çevresindeki ekosistemlerin dengesini korur. Bu doğal denge, bölgenin biyolojik çeşitliliğini destekler ve ziyaretçilere, Türkiye'nin doğusunda bulunan bu gizli cenneti keşfetme fırsatı sunar.
 

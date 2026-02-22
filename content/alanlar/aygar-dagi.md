@@ -42,7 +42,7 @@ Coğrafi olarak, Aygar Dağı Çorum'un merkezine yaklaşık 20 kilometre uzakl�
 
 Doğal yapısı itibariyle, Aygar Dağı'nın çevresindeki arazinin şekli ve boyutları hakkında detaylı bilgi olmasa da, genel olarak Türkiye'nin kuzey orta kesimindeki dağların benzer özelliklerini paylaştığı söylenebilir. Bu bölgedeki dağlar genellikle volkanik kökenli olup, jeolojik olarak ilginç yapılara ev sahipliği yaparlar. Aygar Dağı'nın büyüklüğü, Monaco'nun bir şehir bloğuna benzer bir büyüklüğe sahip olabilir.
 
-İklim açısından, Aygar Dağı'nın bulunduğu bölgenin karakteri karasal iklimin özelliklerini taşır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürer. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler. Hava durumu, bölgenin coğrafi konumuna bağlı olarak değişkenlik gösterir.
+İklim açısından, Aygar Dağı'nın bulunduğu bölgenin karakteri karasal iklimin özelliklerini taşır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürer. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler. Hava durumu, bölgenin coğrafi konumuna bağlı olarak değişkenlik gösterir.
 
 Çevresel açıdan, Aygar Dağı'nın komşu alanlar ve su kaynaklarıyla olan ilişkisi önemlidir. Dağ, etrafındaki ekosistemi etkileyen bir role sahiptir. Su kaynaklarının oluşumunda ve bölgenin bitki örtüsünün şekillenmesinde önemli bir faktördür. Aygar Dağı, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplar ve bu anlamda bölgenin ekolojik dengesinde önemli bir yere sahiptir.
 

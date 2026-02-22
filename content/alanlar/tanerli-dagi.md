@@ -44,7 +44,7 @@ Doğunun güzide şehirlerinden biri olan Erzincan'da yer alan Tanerli Dağı, 3
 
 Jeolojik açıdan bakıldığında, Tanerli Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölgenin coğrafi özellikleri dikkate alındığında, dağlık bir araziye sahip olduğu söylenebilir. Bu dağ, etrafındaki diğer tepe ve dağlarla birlikte, Erzincan'ın doğal peyzajını oluşturan önemli bir bileşen. Ancak, boyutları veya şekli hakkında net bir bilgi bulunmuyor.
 
-Mevsimsel açıdan, Tanerli Dağı'nın iklimi, Erzincan'ın genel iklim karakterini yansıtıyor. Bölge, karasal iklimin hakim olduğu bir bölge, kışları soğu ve karlı, yazları ise sıca ve kurak geçiyor. Tanerli Dağı, bu mevsimsel değişimlere uygun bir şekilde, farklı bir güzelliğe sahip oluyor. Kışın karla kaplı zirveleri, yazın ise yeşilin her tonuna bürünen yamaçları ile dikkat çekiyor.
+Mevsimsel açıdan, Tanerli Dağı'nın iklimi, Erzincan'ın genel iklim karakterini yansıtıyor. Bölge, karasal iklimin hakim olduğu bir bölge, kışları soğuk ve karlı, yazları ise sıcak ve kurak geçiyor. Tanerli Dağı, bu mevsimsel değişimlere uygun bir şekilde, farklı bir güzelliğe sahip oluyor. Kışın karla kaplı zirveleri, yazın ise yeşilin her tonuna bürünen yamaçları ile dikkat çekiyor.
 
 Çevresel açıdan bakıldığında, Tanerli Dağı, Erzincan'ın doğal kaynaklarına ve ekosistemine önemli katkılar sağlıyor. Dağın eteklerinde, çeşitli su kaynakları ve nehirler bulunuyor. Bu su kaynakları, bölgenin tarımı ve hayvancılığı için hayati önem taşıyor. Ayrıca, Tanerli Dağı, farklı türlerin yaşadığı bir ekosisteme de ev sahipliği yapıyor. Bu nedenle, bölgenin doğal dengesinin korunmasına dikkat edilmesi gerekiyor.
 

@@ -31,7 +31,7 @@ Terkos'un tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin yaşad�
 
 ## Coğrafya
 
-Terkos, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlakları ve ormanlık alanları ile dikkat çekiyor. Milli parkın coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor. Terkos'un iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal iklim özellikleri gösteriyor. Kış ayları soğu ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu durum, ziyaretçilerin farklı mevsimlerde Terkos'u ziyaret etmelerine olanak tanıyor. Terkos'un coğrafi yapısı, ziyaretçilere çeşitli yürüyüş parkurları ve noktaları sunuyor. Ziyaretçiler, burada doğanın güzelliklerini keşfedebiliyor ve aynı zamanda coğrafi yapının sunduğu olanaklardan yararlanabiliyorlar.
+Terkos, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlakları ve ormanlık alanları ile dikkat çekiyor. Milli parkın coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor. Terkos'un iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal iklim özellikleri gösteriyor. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu durum, ziyaretçilerin farklı mevsimlerde Terkos'u ziyaret etmelerine olanak tanıyor. Terkos'un coğrafi yapısı, ziyaretçilere çeşitli yürüyüş parkurları ve noktaları sunuyor. Ziyaretçiler, burada doğanın güzelliklerini keşfedebiliyor ve aynı zamanda coğrafi yapının sunduğu olanaklardan yararlanabiliyorlar.
 
 ## Flora ve Fauna
 

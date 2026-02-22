@@ -31,7 +31,7 @@ Dagilcak'ın tarihi geçmişi, yüzyıllar boyunca farklı medeniyetlerin izleri
 
 ## Coğrafya
 
-Dagilcak, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alır. Bu milli park, 140 hektarlık geniş bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Coğrafi olarak, bu bölge genellikle step ve ormanlık alanlardan oluşur. İklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal özellikler gösterir. Yaz ayları sıca ve kurak, kış ayları ise soğu ve karlı geçer. Bu bölgenin coğrafi konumu, zengin flora ve fauna çeşitliliğine de zemin hazırlar. Dagilcak, doğa ile iç içe bir coğrafyaya sahiptir ve ziyaretçilerini bu güzelliklerle baş başa bırakır.
+Dagilcak, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alır. Bu milli park, 140 hektarlık geniş bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Coğrafi olarak, bu bölge genellikle step ve ormanlık alanlardan oluşur. İklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal özellikler gösterir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve karlı geçer. Bu bölgenin coğrafi konumu, zengin flora ve fauna çeşitliliğine de zemin hazırlar. Dagilcak, doğa ile iç içe bir coğrafyaya sahiptir ve ziyaretçilerini bu güzelliklerle baş başa bırakır.
 
 ## Flora ve Fauna
 

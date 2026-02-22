@@ -36,7 +36,7 @@ Kartallık Tepesi'nin tarihi geçmişi, Ankara'nın tarihine paralel olarak şek
 
 ## Coğrafya
 
-Kartallık Tepesi, Ankara'nın coğrafi yapısını yansıtan bir bölgedir. Tepenin yüksekliği, Ankara'nın genel coğrafi yapısına uygun olarak, 1000 metreyi aşmaz. Bu bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Tepenin eteklerinde, Ankara'nın ünlü çayır ve meraları yer alır. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklimdir. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu coğrafi ve iklimsel özellikler, Kartallık Tepesi'ni yıl boyunca ziyaret edilebilecek bir bölge haline getirir.
+Kartallık Tepesi, Ankara'nın coğrafi yapısını yansıtan bir bölgedir. Tepenin yüksekliği, Ankara'nın genel coğrafi yapısına uygun olarak, 1000 metreyi aşmaz. Bu bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Tepenin eteklerinde, Ankara'nın ünlü çayır ve meraları yer alır. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklimdir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu coğrafi ve iklimsel özellikler, Kartallık Tepesi'ni yıl boyunca ziyaret edilebilecek bir bölge haline getirir.
 
 ## Flora ve Fauna
 

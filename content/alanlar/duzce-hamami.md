@@ -37,7 +37,7 @@ Düzce Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b
 
 ## Coğrafya
 
-Düzce Hamamı, Seferihisar ilçesinde, Ege Bölgesi'nin kıyı şeridinde yer almaktadır. Bu plaj, 140 hektarlık bir yeşil alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Düzce Hamamı, Ege Denizi'ne kıyısı olan bir plajdır ve deniz suyu, genellikle sakin ve berraktır. Plajın etrafında, çeşitli bitki türleri ve ağaçlar bulunmaktadır. Bu bölgenin iklimi, genel olarak Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz ayları sıca ve kurak, kış ayları ise ılık ve yağışlı geçer. Düzce Hamamı'nın coğrafi konumu, ziyaretçilerine hem deniz hem de yeşil alanın güzelliğini sunmaktadır.
+Düzce Hamamı, Seferihisar ilçesinde, Ege Bölgesi'nin kıyı şeridinde yer almaktadır. Bu plaj, 140 hektarlık bir yeşil alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Düzce Hamamı, Ege Denizi'ne kıyısı olan bir plajdır ve deniz suyu, genellikle sakin ve berraktır. Plajın etrafında, çeşitli bitki türleri ve ağaçlar bulunmaktadır. Bu bölgenin iklimi, genel olarak Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlı geçer. Düzce Hamamı'nın coğrafi konumu, ziyaretçilerine hem deniz hem de yeşil alanın güzelliğini sunmaktadır.
 
 ## Flora ve Fauna
 

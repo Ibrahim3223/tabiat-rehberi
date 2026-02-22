@@ -37,7 +37,7 @@ Kesrika Nazukê Nekropol Alanı Anıtsal Mezar, tarihin gizemli sayfalarından b
 
 ## Coğrafya
 
-Kesrika Nazukê Nekropol Alanı Anıtsal Mezar, Güneydoğu Anadolu Bölgesi'nin coğrafi güzelliklerine ev sahipliği yapan Mardin'in Savur ilçesinde yer alıyor. Bu mezarlık alanı, 140 hektarlık bir arazide kurulmuş ve ziyaretçilerine tarihin atmosferini sunuyor. Bölgenin coğrafyası, dağlık ve engebeli arazilerden oluşuyor ve bu durum, mezarlığın oluşumuna etki etmiş olabilir. İklim, genel olarak bölgeye hakim olan karasal iklim özellikleri gösteriyor. Kışlar soğu ve yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, mezarlığın oluşumuna ve şekillenmesine etmiş olabilir. Kesrika Nazukê Nekropol Alanı Anıtsal Mezar, tarihin ve coğrafyanın birleştiği bir noktada yer alıyor ve ziyaretçilerine benzersiz bir deneyim sunuyor.
+Kesrika Nazukê Nekropol Alanı Anıtsal Mezar, Güneydoğu Anadolu Bölgesi'nin coğrafi güzelliklerine ev sahipliği yapan Mardin'in Savur ilçesinde yer alıyor. Bu mezarlık alanı, 140 hektarlık bir arazide kurulmuş ve ziyaretçilerine tarihin atmosferini sunuyor. Bölgenin coğrafyası, dağlık ve engebeli arazilerden oluşuyor ve bu durum, mezarlığın oluşumuna etki etmiş olabilir. İklim, genel olarak bölgeye hakim olan karasal iklim özellikleri gösteriyor. Kışlar soğuk ve yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, mezarlığın oluşumuna ve şekillenmesine etmiş olabilir. Kesrika Nazukê Nekropol Alanı Anıtsal Mezar, tarihin ve coğrafyanın birleştiği bir noktada yer alıyor ve ziyaretçilerine benzersiz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

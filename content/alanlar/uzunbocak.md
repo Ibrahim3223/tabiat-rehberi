@@ -43,7 +43,7 @@ Doğal güzellikleri keşfetmek isteyenler için, 41.9761°K, 27.8017°D koordin
 
 Jeolojik açıdan incelendiğinde, Uzunbocak Jeopark'ın coğrafi yapısı, bölgenin jeolojik geçmişini yansıtan zajímav bir oluşum olarak karşımıza çıkıyor. Ancak, detaylı fiziksel veri bulunmaması nedeniyle, bu oluşumun boyutları ve şekli hakkında net bir bilgi verme mümkün değil. Buna karşın, bölgenin koordinatları, ziyaretçilerin burayı kolayca bulmalarını sağlıyor.
 
-Mevsimsel değişiklikler açısından bakıldığında, Uzunbocak Jeopark'ın iklimi, bölgenin coğrafi konumuna göre şekilleniyor. İstanbul'un genel ikliminin etkisi altında olan bu bölge, yaz aylarında sıca ve nemli, kış aylarında ise soğu ve yağışlı bir hava durumu gösteriyor. Bu mevsimsel özellikler, ziyaretçilerin bölgenin güzelliklerini farklı zamanlarda deneyimlemelerine olanak tanıyor.
+Mevsimsel değişiklikler açısından bakıldığında, Uzunbocak Jeopark'ın iklimi, bölgenin coğrafi konumuna göre şekilleniyor. İstanbul'un genel ikliminin etkisi altında olan bu bölge, yaz aylarında sıcak ve nemli, kış aylarında ise soğuk ve yağışlı bir hava durumu gösteriyor. Bu mevsimsel özellikler, ziyaretçilerin bölgenin güzelliklerini farklı zamanlarda deneyimlemelerine olanak tanıyor.
 
 Çevresel açıdan bakıldığında, Uzunbocak Jeopark, komşu alanlar ve su kaynakları ile bir bütün olarak düşünülüyor. Bölgenin doğal güzellikleri, ekosistem bağlantıları ve su kaynakları, ziyaretçilere zengin bir doğal ortam sunuyor. Bu doğal ortam, bölgenin güzelliklerini koruma ve gelecek nesillere aktarmak için önemli bir değer olarak karşımıza çıkıyor.
 

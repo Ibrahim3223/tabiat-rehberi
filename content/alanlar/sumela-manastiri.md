@@ -38,7 +38,7 @@ Sümela Manastırı, tarihi geçmişi ile dikkat çeken bir yerdir. Manastırın
 
 ## Coğrafya
 
-Sümela Manastırı, Trabzon'un Maçka ilçesinde yer alan bir kaya manastırıdır. Manastır, yaklaşık yüksek bir konumdateki bir kayanın üzerine inşa edilmiştir. Sümela Manastırı, Karadeniz Bölgesi'nin doğal güzellikleri ile çevrili bir yerdir. Manastırın çevresi, ormanlık alanlarla kaplıdır. Sümela Manastırı, özellikle ilkbahar ve yaz aylarında ziyaretçilerini cezbeden bir yerdir. Manastırın iklimi, Karadeniz Bölgesi'nin iklimi ile benzerlik gösterir. Sümela Manastırı, yıl boyunca ziyaret edilebilir. Manastırın konumu, birçok doğal güzelliğe yakındır. Sümela Manastırı, özellikle trekking ve doğa yürüyüşü severler tarafından ziyaret edilir.
+Sümela Manastırı, Trabzon'un Maçka ilçesinde yer alan bir kaya manastırıdır. Manastır, yüksek bir konumdaki bir kayanın üzerine inşa edilmiştir. Sümela Manastırı, Karadeniz Bölgesi'nin doğal güzellikleri ile çevrili bir yerdir. Manastırın çevresi, ormanlık alanlarla kaplıdır. Sümela Manastırı, özellikle ilkbahar ve yaz aylarında ziyaretçilerini cezbeden bir yerdir. Manastırın iklimi, Karadeniz Bölgesi'nin iklimi ile benzerlik gösterir. Sümela Manastırı, yıl boyunca ziyaret edilebilir. Manastırın konumu, birçok doğal güzelliğe yakındır. Sümela Manastırı, özellikle trekking ve doğa yürüyüşü severler tarafından ziyaret edilir.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Sümela Manastırı, yıl boyunca ziyaret edilebilir. Manastırın konumu, birç
 ## İlginç Bilgiler
 
 - Sümela Manastırı, Trabzon'un Maçka ilçesinde yer alır.
-- Manastır, yaklaşık yüksek bir konumdateki bir kayanın üzerine inşa edilmiştir.
+- Manastır, yüksek bir konumdaki bir kayanın üzerine inşa edilmiştir.
 - Sümela Manastırı, Karadeniz Bölgesi'nin doğal güzellikleri ile çevrili bir yerdir.
 - Manastırın çevresi, ormanlık alanlarla kaplıdır.
 - Sümela Manastırı, özellikle ilkbahar ve yaz aylarında ziyaretçilerini cezbeden bir yerdir.

@@ -43,7 +43,7 @@ Doğunun gizli cenneti olarak bilinen Muş ilinin sınırları içinde yer alan 
 
 Jeolojik açıdan bakıldığında, Sarıkum Gölü'nün fiziksel yapısı hakkında detaylı bilgi bulunmasa da, gölün etrafındaki coğrafya about 400 metre yükseklikte bir plato üzerine kuruludur. Bu yükseklik, Eiffel Kulesi'nin yaklaşık 1/4'ü kadardır ve buradan gölün ve çevrenin güzel manzarasını seyretme mümkündür.
 
-Mevsimsel açıdan, Sarıkum Gölü ve çevresinin iklim karakteri, Muş ilinin genel iklimi ile benzerlik gösterir. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve karlı bir hava hakimdir. Gölün su seviyesi, mevsimsel yağışlara bağlı olarak değişebilir ve bu durum, gölün etrafındaki ekosistemi etkileyebilir.
+Mevsimsel açıdan, Sarıkum Gölü ve çevresinin iklim karakteri, Muş ilinin genel iklimi ile benzerlik gösterir. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı bir hava hakimdir. Gölün su seviyesi, mevsimsel yağışlara bağlı olarak değişebilir ve bu durum, gölün etrafındaki ekosistemi etkileyebilir.
 
 Sarıkum Gölü'nün çevresel ilişkileri, gölün bulunduğu coğrafya ile yakından ilgilidir. Göl, Muş ilinin diğer doğal güzelliklerine yakın bir konumda bulunmakta ve bu bölge, doğa severler için bir cennet olarak kabul edilebilir. Gölün etrafındaki sulak alanlar ve bitki örtüsü, çeşitli canlı türleri için bir yaşam alanı oluşturmaktadır ve bu nedenle, Sarıkum Gölü'nün korunması, bölgenin ekolojik dengesinin korunması açısından önemlidir.
 

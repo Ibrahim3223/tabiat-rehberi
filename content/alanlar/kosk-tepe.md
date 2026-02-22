@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden Siirt'in dağlık alanlarından bi
 
 Jeolojik açıdan bakıldığında, Köşk Tepe'nin detaylı fiziksel verilerinin olmaması, bu bölgenin daha derinlemesine incelenmesi gerektiğini gösteriyor. Ancak, Siirt'in genel coğrafi yapısına bakıldığında, bölgenin dağlık ve engebeli bir arazinin hakim olduğu görülüyor. Köşk Tepe de, bu dağlık arazinin bir parçası olarak, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor.
 
-İklim açısından, Köşk Tepe ve çevresindeki bölge, Doğu Anadolu Bölgesi'nin karakteristik iklimini yansıtıyor. Bu bölgede, yazlar sıca ve kurak, kışlar ise soğu ve kar yağışlı geçiyor. Köşk Tepe'nin yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olmasa da, bölgenin iklimini şekillendiren önemli bir faktör.
+İklim açısından, Köşk Tepe ve çevresindeki bölge, Doğu Anadolu Bölgesi'nin karakteristik iklimini yansıtıyor. Bu bölgede, yazlar sıcak ve kurak, kışlar ise soğuk ve kar yağışlı geçiyor. Köşk Tepe'nin yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olmasa da, bölgenin iklimini şekillendiren önemli bir faktör.
 
 Çevresel açıdan, Köşk Tepe, komşu dağlık alanlarla birlikte, bölgenin ekosistemini oluşturan önemli bir bileşen. Bu bölgede, çeşitli su kaynakları ve ekosistem bağlantıları mevcut. Örneğin, yakın çevredeki nehirler ve akarsular, Köşk Tepe'nin çevresindeki arazinin verimliliğini artıran önemli bir kaynak. Bu kaynaklar, Monaco'nun yarısı kadar bir alanı kaplayan bu dağlık bölgenin, canlı ve çeşitli bir ekosisteme sahip olmasını sağlıyor.
 

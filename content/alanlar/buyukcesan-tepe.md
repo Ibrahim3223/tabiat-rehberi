@@ -44,7 +44,7 @@ Güneybatı Anadolu'nun kalbinde yer alan Büyükçesan Tepe, Isparta ilinin gü
 
 Doğal güzellikleri ve coğrafi özellikleri ile ön plana çıkan Büyükçesan Tepe, yaklaşık olarak Taksim Meydanı'nın 10 katı büyüklüğünde bir alanı kapsıyor. Ancak fiziksel verilerin sınırlı olması nedeniyle, tepenin yüksekliği ve jeolojik yapısı hakkında net bilgiler bulunmuyor. Buna rağmen, Isparta'nın genel coğrafi yapısına baktığımızda, bölgenin genellikle dağlık ve engebeli bir araziye sahip olduğunu söyleyebiliriz.
 
-Mevsimsel değişimler açısından bakıldığında, Büyükçesan Tepe ve çevresinin iklimi, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakim. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyerek, ziyaretçilere yılın her dönemi farklı bir güzellik sunuyor.
+Mevsimsel değişimler açısından bakıldığında, Büyükçesan Tepe ve çevresinin iklimi, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakim. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyerek, ziyaretçilere yılın her dönemi farklı bir güzellik sunuyor.
 
 Büyükçesan Tepe'nin bulunduğu coğrafi bölgede, çeşitli su kaynakları ve ekosistemler yer alıyor. Tepenin yakınındaki Isparta Gölü, bölgenin su kaynakları açısından önemli bir role sahip. Ayrıca, tepenin eteklerinde ve çevresinde bulunan ormanlar ve tarım arazileri, yerel ekosistemin çeşitliliğini ve zenginliğini sağlıyor. Bu doğal güzellikler, Büyükçesan Tepe'yi ziyaret edenler için unutulmaz bir deneyim sunuyor.
 

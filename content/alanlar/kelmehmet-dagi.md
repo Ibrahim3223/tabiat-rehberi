@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Kelmehmet Dağı, Şırnak ilinin sını
 
 Jeolojik açıdan bakıldığında, Kelmehmet Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel jeolojik özellikleri dikkate alındığında, bu dağın da aynı şekilde karmaşık bir yapıya sahip olabileceği söylenebilir. Bir şehir bloğu büyüklüğünde olan bu dağ, çevresi ile birlikte değerlendirildiğinde, bir bütün olarak ele alınabilir. Yüksekliği Eiffel Kulesi'nin yaklaşık 1/5'i kadar olan bu dağ, bölgenin küçük ama önemli bir parçasıdır.
 
-İklim açısından, Kelmehmet Dağı surroundingsında hakim olan iklim, bölgenin genel iklim karakterine uygun olarak, yazları sıca ve kurak, kışları soğu ve yağışlı bir yapıya sahiptir. Bu mevsimsel özellikler, dağın ekosistemini ve çevresindeki su kaynaklarını etkiler. Bölgenin diğer dağları ile benzerlik gösteren Kelmehmet Dağı, mevsimsel hava durumu değişikliklerine karşı oldukça hassastır.
+İklim açısından, Kelmehmet Dağı surroundingsında hakim olan iklim, bölgenin genel iklim karakterine uygun olarak, yazları sıcak ve kurak, kışları soğuk ve yağışlı bir yapıya sahiptir. Bu mevsimsel özellikler, dağın ekosistemini ve çevresindeki su kaynaklarını etkiler. Bölgenin diğer dağları ile benzerlik gösteren Kelmehmet Dağı, mevsimsel hava durumu değişikliklerine karşı oldukça hassastır.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları açısından, Kelmehmet Dağı önemli bir rol oynar. Çevresindeki diğer dağlar ve ovalar ile birlikte, bir bütün olarak ele alındığında, bu dağın Monaco'nun yaklaşık 1/10'u kadar bir alanı kapladığı söylenebilir. Bu nedenle, Kelmehmet Dağı, bölgenin çevresel dengesini korumak açısından kritik bir noktada yer alır.
 

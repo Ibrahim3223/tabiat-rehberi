@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden Batman'da yer alan Geli Tepe, 37.7
 
 Geli Tepe'nin fiziksel yapısı hakkında net veriler olmasa da, dağların genel olarak çevre coğrafyayı etkileyen önemli unsurlar olduğunu söyleyebiliriz. Bir şehir bloğu büyüklüğünde olan bu alan, bölgenin jeolojisini ve şeklini etkileyen önemli bir faktör olarak karşımıza çıkıyor. Geli Tepe, çevresindeki diğer dağlarla birlikte, bölgenin coğrafi çeşitliliğini oluşturan önemli bir bileşen olarak görülüyor.
 
-İklim açısından bakıldığında, Geli Tepe'nin bulunduğu bölge, mevsimsel değişikliklerin belirgin olduğu bir coğrafyada yer alıyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kuru olan hava koşulları, Geli Tepe'nin iklim karakterini şekillendiren önemli faktörler olarak karşımıza çıkıyor. Bu mevsimsel değişiklikler, bölgenin ekosistemini ve bitki örtüsünü etkileyen önemli unsurlar olarak görülüyor.
+İklim açısından bakıldığında, Geli Tepe'nin bulunduğu bölge, mevsimsel değişikliklerin belirgin olduğu bir coğrafyada yer alıyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kuru olan hava koşulları, Geli Tepe'nin iklim karakterini şekillendiren önemli faktörler olarak karşımıza çıkıyor. Bu mevsimsel değişiklikler, bölgenin ekosistemini ve bitki örtüsünü etkileyen önemli unsurlar olarak görülüyor.
 
 Çevresel açıdan bakıldığında, Geli Tepe, Batman Nehri ve diğer su kaynakları ile önemli bir ilişki içinde bulunuyor. Bu su kaynakları, bölgenin ekosistemini ve canlı yaşamını destekleyen önemli unsurlar olarak görülüyor. Geli Tepe, çevresindeki diğer dağlar ve ovalar ile birlikte, bölgenin coğrafi çeşitliliğini ve ekosistemini oluşturan önemli bir bileşen olarak karşımıza çıkıyor.
 

@@ -43,7 +43,7 @@ Doğunun gizli köşelerinden biri olan Kırklar Dağı, Tunceli ilinin coğrafi
 
 Jeolojik açıdan incelendiğinde, Kırklar Dağı'nın coğrafi yapısı oldukça ilginç bir görünüm sunuyor. Ancak, detaylı fiziksel veri bulunmamasına rağmen, dağın coğrafi konumu ve çevresi, onun önemli bir doğal oluşum olduğunu gösteriyor. Kırklar Dağı, Tunceli'nin dağlık arazisinin bir parçası olarak, bölgenin jeolojik yapısını oluşturan önemli bir bileşen olarak kabul edilebilir.
 
-İklimsel açıdan bakıldığında, Kırklar Dağı'nın bulunduğu bölgenin mevsimsel özelliklerini anlamak önemli. Tunceli ili, karasal iklimin hakim olduğu bir bölge olarak biliniyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir iklim hüküm sürüyor. Bu mevsimsel değişiklikler, Kırklar Dağı'nın coğrafi yapısını ve çevresindeki ekosistemi etkileyen önemli faktörler olarak dikkat çekiyor.
+İklimsel açıdan bakıldığında, Kırklar Dağı'nın bulunduğu bölgenin mevsimsel özelliklerini anlamak önemli. Tunceli ili, karasal iklimin hakim olduğu bir bölge olarak biliniyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürüyor. Bu mevsimsel değişiklikler, Kırklar Dağı'nın coğrafi yapısını ve çevresindeki ekosistemi etkileyen önemli faktörler olarak dikkat çekiyor.
 
 Çevresel açıdan incelendiğinde, Kırklar Dağı'nın komşu alanlar ve su kaynaklarıyla olan ilişkileri önemli bir role sahip. Dağın bulunduğu bölge, Murat Nehri'nin kıyısında yer alıyor ve bu nehrin su kaynakları, bölgenin ekosistemini etkileyen önemli bir faktör olarak kabul ediliyor. Kırklar Dağı, Tunceli'nin doğal güzelliklerini ve coğrafi zenginliklerini koruma altına almak için önemli bir doğal alan olarak kabul ediliyor.
 

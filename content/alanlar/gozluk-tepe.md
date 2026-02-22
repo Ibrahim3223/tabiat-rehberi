@@ -36,7 +36,7 @@ Gözlük Tepe'nin tarihi geçmişi, yüzyıllar boyunca verschillen kültürleri
 
 ## Coğrafya
 
-Gözlük Tepe, Konya'nın coğrafi olarak önemli bir noktasında yer alıyor. Tepe, şehrin merkezine yakın bir konumda ve etrafı historical yapılar ve yeşil alanlarla çevrili. Gözlük Tepe'nin coğrafi yapısı, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, genel olarak-flat ve geniş ovalardan oluşuyor. Gözlük Tepe, bu bölgenin küçük bir tepe oluşumunu temsil ediyor. Tepe ve çevresinin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal ve kurak bir yapıya sahip. Kış ayları soğu ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Gözlük Tepe'nin coğrafi konumu ve iklimi, flora ve fauna açısından zengin bir çeşitlilik sunuyor.
+Gözlük Tepe, Konya'nın coğrafi olarak önemli bir noktasında yer alıyor. Tepe, şehrin merkezine yakın bir konumda ve etrafı historical yapılar ve yeşil alanlarla çevrili. Gözlük Tepe'nin coğrafi yapısı, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, genel olarak-flat ve geniş ovalardan oluşuyor. Gözlük Tepe, bu bölgenin küçük bir tepe oluşumunu temsil ediyor. Tepe ve çevresinin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal ve kurak bir yapıya sahip. Kış ayları soğuk ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Gözlük Tepe'nin coğrafi konumu ve iklimi, flora ve fauna açısından zengin bir çeşitlilik sunuyor.
 
 ## Flora ve Fauna
 

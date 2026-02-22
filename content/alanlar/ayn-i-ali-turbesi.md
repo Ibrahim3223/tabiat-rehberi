@@ -37,7 +37,7 @@ Ayn-i Ali Türbesi'nin tarihi geçmişi, yüzyıllar boyunca oluşan kültürel 
 
 ## Coğrafya
 
-Ayn-i Ali Türbesi, Manisa'nın Yunusemre ilçesinde bulunmaktadır. Türbe, Ege Bölgesi'nin merkezi bir konumunda yer almakta olup, çevresinde çeşitli yerleşim yerleri, tarihi yapılar ve doğa güzellikleri bulunmaktadır. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir açık alanda kurulmuştur. Bu alan, ziyaretçilere geniş bir açık mekan sunmaktadır. Türbe ve çevresindeki settlementler, Ege Bölgesi'nin coğrafi özelliklerini yansıtmaktadır. Ege Bölgesi'nin iklimi, türbenin bulunduğu alanda da kendini göstermektedir. Bölgenin iklimi, genel olarak Akdeniz iklimi özellikleri göstermekte olup, yazları sıca ve kurak, kışları ılık ve yağışlı geçmektedir. Ayn-i Ali Türbesi, Ege Bölgesi'nin coğrafi güzellikleri ve tarihi yapıları ile ziyaretçilerini beklemektedir.
+Ayn-i Ali Türbesi, Manisa'nın Yunusemre ilçesinde bulunmaktadır. Türbe, Ege Bölgesi'nin merkezi bir konumunda yer almakta olup, çevresinde çeşitli yerleşim yerleri, tarihi yapılar ve doğa güzellikleri bulunmaktadır. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir açık alanda kurulmuştur. Bu alan, ziyaretçilere geniş bir açık mekan sunmaktadır. Türbe ve çevresindeki settlementler, Ege Bölgesi'nin coğrafi özelliklerini yansıtmaktadır. Ege Bölgesi'nin iklimi, türbenin bulunduğu alanda da kendini göstermektedir. Bölgenin iklimi, genel olarak Akdeniz iklimi özellikleri göstermekte olup, yazları sıcak ve kurak, kışları ılık ve yağışlı geçmektedir. Ayn-i Ali Türbesi, Ege Bölgesi'nin coğrafi güzellikleri ve tarihi yapıları ile ziyaretçilerini beklemektedir.
 
 ## Flora ve Fauna
 

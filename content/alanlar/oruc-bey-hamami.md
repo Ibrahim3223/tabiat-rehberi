@@ -38,7 +38,7 @@ Oruç Bey Hamamı, tarihi geçmişi ile dikkat çekiyor. Bu mekan, yüzyıllar b
 
 ## Coğrafya
 
-Oruç Bey Hamamı, Bursa'nın Osmangazi ilçesinde yer alıyor ve Marmara Bölgesi'nin en güzel noktalarından biri. Bu mekan, 140 hektarlık alan üzerinde kurulmuş ve çevresinde çeşitli bitki türleri ile zengin bir flora sahip. Oruç Bey Hamamı'nın coğrafi konumu, misafirlerine sunduğu doğal güzellikleri ile dikkat çekiyor. Mekan, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor ve bu özelliği ile ziyaretçilerine muhteşem bir manzara sunuyor. Oruç Bey Hamamı'nın iklimi, Marmara Bölgesi'nin genel iklimine benzer ve yıl boyunca ılıman bir hava hüküm sürüyor. Bu özellik, mekanın yıl boyunca ziyaret edilebilmesini sağlıyor.
+Oruç Bey Hamamı, Bursa'nın Osmangazi ilçesinde yer alıyor ve Marmara Bölgesi'nin en güzel noktalarından biri. Bu mekan, 140 hektarlık alan üzerinde kurulmuş ve çevresinde çeşitli bitki türleri ile zengin bir flora sahip. Oruç Bey Hamamı'nın coğrafi konumu, misafirlerine sunduğu doğal güzellikleri ile dikkat çekiyor. Mekan, yüksek bir konumda yer alıyor ve bu özelliği ile ziyaretçilerine muhteşem bir manzara sunuyor. Oruç Bey Hamamı'nın iklimi, Marmara Bölgesi'nin genel iklimine benzer ve yıl boyunca ılıman bir hava hüküm sürüyor. Bu özellik, mekanın yıl boyunca ziyaret edilebilmesini sağlıyor.
 
 ## Flora ve Fauna
 

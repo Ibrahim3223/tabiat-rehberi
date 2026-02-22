@@ -44,7 +44,7 @@ Mersin'in güneşli kıyılarında yer alan Şamlar Dağı, 36.9067°K ve 34.540
 
 Fiziksel olarak ele alındığında, Şamlar Dağı'nın büyüklüğü ve şekli hakkında detaylı bilgi bulunmasa da, coğrafi konumu ve komşu dağlarla olan ilişkisi hakkında fikir sahibi olma mümkündür. Monaco'nun küçük bir bölgesine benzer büyüklükte olan bu dağ, Mersin'in toplam yüzölçümünün küçük bir bölümünü kaplar. Şamlar Dağı'nın jeolojik yapısı, bölgenin genel karakteristiği olan kireçtaşı ve kumtaşı gibi kayalardan oluşmaktadır.
 
-Mevsimsel değişiklikler açısından, Şamlar Dağı Akdeniz ikliminin etkilerini taşır. Kış aylarında ılıman bir hava, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini şekillendirmektedir. Etrafındaki bitki örtüsü, çam ağaçları ve maki gibi bitkilerden oluşmaktadır.
+Mevsimsel değişiklikler açısından, Şamlar Dağı Akdeniz ikliminin etkilerini taşır. Kış aylarında ılıman bir hava, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini şekillendirmektedir. Etrafındaki bitki örtüsü, çam ağaçları ve maki gibi bitkilerden oluşmaktadır.
 
 Doğal bir koridor olarak işlev gören Şamlar Dağı, komşu dağlar ve ovalarla birlikte bir ekosistem ağı oluşturur. Yakınlardaki nehirler ve akarsular, bu dağların eteklerine yaşam veren su kaynaklarıdır. Bu su kaynakları, bölgenin tarım ve hayvancılık faaliyetlerine de katkıda bulunmaktadır. Şamlar Dağı, Mersin'in coğrafi çeşitliliğini ve doğal güzelliklerini korumak için önemli bir role sahiptir.
 

@@ -37,7 +37,7 @@ Karanday Ağa Kümbeti'nin tarihi geçmişi, Doğu Anadolu Bölgesi'nin zengin t
 
 ## Coğrafya
 
-Karanday Ağa Kümbeti, Doğu Anadolu Bölgesi'nin coğrafi güzelliklerini barındıran bir noktada yer alıyor. Bölge, dağlık bir araziye sahip ve bu coğrafi yapı, Karanday Ağa Kümbeti'nin doğal güzelliklerine katkıda bulunuyor. İklim, karasal iklim özellikleri gösteriyor; kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirmiş. Çevre, genellikle step ve ormanlık alanlardan oluşuyor ve bu çeşitlilik, ziyaretçilere farklı ekosistemleri keşfetme fırsatı sunuyor. Karanday Ağa Kümbeti'nin coğrafi konumu, ziyaretçilerin hem kümbeti hem de çevresindeki doğal güzellikleri keşfetmesini mümkün kılıyor. Bu nedenle, Karanday Ağa Kümbeti hem tarihi bir yapı hem de doğal bir güzellik alanı olarak görülebiliyor.
+Karanday Ağa Kümbeti, Doğu Anadolu Bölgesi'nin coğrafi güzelliklerini barındıran bir noktada yer alıyor. Bölge, dağlık bir araziye sahip ve bu coğrafi yapı, Karanday Ağa Kümbeti'nin doğal güzelliklerine katkıda bulunuyor. İklim, karasal iklim özellikleri gösteriyor; kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirmiş. Çevre, genellikle step ve ormanlık alanlardan oluşuyor ve bu çeşitlilik, ziyaretçilere farklı ekosistemleri keşfetme fırsatı sunuyor. Karanday Ağa Kümbeti'nin coğrafi konumu, ziyaretçilerin hem kümbeti hem de çevresindeki doğal güzellikleri keşfetmesini mümkün kılıyor. Bu nedenle, Karanday Ağa Kümbeti hem tarihi bir yapı hem de doğal bir güzellik alanı olarak görülebiliyor.
 
 ## Flora ve Fauna
 

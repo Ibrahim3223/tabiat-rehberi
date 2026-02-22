@@ -45,7 +45,7 @@ Kahramanmaraş'ın coğrafi yapısını şekillendiren önemli faktörlerden bir
 
 Doğal güzellikleri ve coğrafi özellikleri ile dikkat çeken Başkonuş Dağı, jeolojik açıdan da önemli bir yapıya sahiptir. Ancak, detaylı fiziksel veriler bulunmaması nedeniyle, dağın boyutları ve şekli hakkında net bilgiler elde edilememektedir. Buna rağmen, dağın coğrafi konumu ve ilin genel yapısı dikkate alındığında, bölgenin ekosistemine önemli katkılar sağladığı söylenebilir.
 
-İklim koşulları açısından bakıldığında, Başkonuş Dağı ve çevresinin, Kahramanmaraş'ın genel iklim karakterini yansıttığı görülmektedir. Bölge, typically Akdeniz ikliminin hüküm sürdüğü bir coğrafyada yer almakta ve mevsimsel olarak değişen hava koşullarına sahiptir. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir iklim hüküm sürmektedir.
+İklim koşulları açısından bakıldığında, Başkonuş Dağı ve çevresinin, Kahramanmaraş'ın genel iklim karakterini yansıttığı görülmektedir. Bölge, typically Akdeniz ikliminin hüküm sürdüğü bir coğrafyada yer almakta ve mevsimsel olarak değişen hava koşullarına sahiptir. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir iklim hüküm sürmektedir.
 
 Çevresel açıdan, Başkonuş Dağı ve çevresindeki alanlar, su kaynakları ve ekosistem bağlantıları açısından önem taşımaktadır. Bölge, çeşitli su kaynaklarına ev sahipliği yapmakta ve bu su kaynakları, tarım ve diğer ekonomik faaliyetler için hayati önem taşımaktadır. Ayrıca, dağ ve çevresindeki ekosistem, bölgenin biyolojik çeşitliliğini desteklemektedir.
 

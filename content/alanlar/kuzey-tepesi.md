@@ -37,7 +37,7 @@ Kuzey Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. İnsanl
 
 ## Coğrafya
 
-Kuzey Tepesi, Erzurum'un coğrafi yapısını şekillendiren önemli bir unsurdur. Tepenin konumu, Doğu Anadolu Bölgesi'nin merkezi bölümünde yer alır. Bu tepe, yaklaşık yüksek bir konumdate yer alır ve çevresindeki diğer tepe ve dağlarla birlikte, bir dağ silsilesini oluşturur. Kuzey Tepesi'nin coğrafyası, ziyaretçilere çeşitli manzaralar sunar. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösterir. Kuzey Tepesi, hem doğa severler hem de macera arayanlar için ideal bir destinasyon. Tepenin iklimi, karasal iklim özellikleri taşır ve ziyaretçilere dört mevsimi deneyimleme fırsatı sunar.
+Kuzey Tepesi, Erzurum'un coğrafi yapısını şekillendiren önemli bir unsurdur. Tepenin konumu, Doğu Anadolu Bölgesi'nin merkezi bölümünde yer alır. Bu tepe, yüksek bir konumda yer alır ve çevresindeki diğer tepe ve dağlarla birlikte, bir dağ silsilesini oluşturur. Kuzey Tepesi'nin coğrafyası, ziyaretçilere çeşitli manzaralar sunar. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösterir. Kuzey Tepesi, hem doğa severler hem de macera arayanlar için ideal bir destinasyon. Tepenin iklimi, karasal iklim özellikleri taşır ve ziyaretçilere dört mevsimi deneyimleme fırsatı sunar.
 
 ## Flora ve Fauna
 

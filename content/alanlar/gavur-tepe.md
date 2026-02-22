@@ -42,7 +42,7 @@ Doğu Anadolu Bölgesi'nin güneydoğusunda yer alan Batman ilinin coğrafyası,
 
 Jeolojik açıdan bakıldığında, Gavur Tepe'nin fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel coğrafyası ile karşılaştırıldığında, bir şehir bloğu büyüklüğünde bir alandan bahsetme mümkün değildir. Ancak, verilerin sınırlı olması nedeniyle, Gavur Tepe'nin boyutları ve şekli hakkında net bir bilgi vermek zor görünmektedir.
 
-İklim açısından, Gavur Tepe ve çevresindeki bölge, karasal iklimin etkilerini taşımaktadır. Bölgede yazlar sıca ve kuru, kışlar ise soğu ve karlı geçmektedir. Gavur Tepe'nin yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olmasa da, bölgenin genel yüksekliği ile karşılaştırıldığında, önemli bir yükseklikten bahsetme mümkündür.
+İklim açısından, Gavur Tepe ve çevresindeki bölge, karasal iklimin etkilerini taşımaktadır. Bölgede yazlar sıcak ve kuru, kışlar ise soğuk ve karlı geçmektedir. Gavur Tepe'nin yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olmasa da, bölgenin genel yüksekliği ile karşılaştırıldığında, önemli bir yükseklikten bahsetme mümkündür.
 
 Çevresel açıdan, Gavur Tepe, Batman şehrinin doğal kaynaklarına ve ekosistemine önemli katkılar sağlamaktadır. Bölgede yer alan su kaynakları ve ekosistem bağlantıları, Gavur Tepe'nin çevresindeki alanları beslemektedir. Monaco'nun yarısı kadar büyük olmayan bu bölge, İstanbul'un Adalar ilçesi büyüklüğünde bir alana sahip değildir, ancak bölgenin doğal güzelliği ve çeşitliliği, önemlidir.
 

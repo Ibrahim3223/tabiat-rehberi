@@ -37,7 +37,7 @@ Hasan Baba Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve b
 
 ## Coğrafya
 
-Hasan Baba Hamamı, coğrafi açıdan oldukça zengin bir bölgede yer alır. Bu bölge, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Hasan Baba Hamamı, 140 hektarlık yeşil alanıyla birlikte, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu bölgenin coğrafyası, dağlar, ovalar ve akarsularla birlikte şekillenmiştir. Hasan Baba Hamamı, bu coğrafi özelliklerin birleştiği bir noktada yer alır ve bu nedenle, bu bölgenin coğrafyası oldukça çeşitli ve zengin bir yapıya sahiptir. Bu bölgenin iklimi, genellikle sıca ve kurudur. Ancak, mevsimsel değişimlerle birlikte, bu bölgenin iklimi değişkenlik gösterir.
+Hasan Baba Hamamı, coğrafi açıdan oldukça zengin bir bölgede yer alır. Bu bölge, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Hasan Baba Hamamı, 140 hektarlık yeşil alanıyla birlikte, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu bölgenin coğrafyası, dağlar, ovalar ve akarsularla birlikte şekillenmiştir. Hasan Baba Hamamı, bu coğrafi özelliklerin birleştiği bir noktada yer alır ve bu nedenle, bu bölgenin coğrafyası oldukça çeşitli ve zengin bir yapıya sahiptir. Bu bölgenin iklimi, genellikle sıcak ve kurudur. Ancak, mevsimsel değişimlerle birlikte, bu bölgenin iklimi değişkenlik gösterir.
 
 ## Flora ve Fauna
 

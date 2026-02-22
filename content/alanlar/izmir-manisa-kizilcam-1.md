@@ -30,7 +30,7 @@ wikidata_id: "Q108227867"
 
 ## Coğrafya
 
-İzmir-Manisa Kızılçam 1 milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Burada, geniş otlaklar ve ormanlık alanlar, ziyaretçilere doğanın güzelliğini gösteriyor. Milli parkın coğrafi yapısı, çeşitli bitki türlerinin ve hayvanların yaşamına uygun bir ortam sunuyor. İç Anadolu Bölgesi'nin iklimi, milli parkın coğrafi yapısını etkiliyor. Burada, yaz aylarında sıca ve kurak bir iklim, kış aylarında ise soğu ve kar yağışlı bir iklim hüküm sürüyor. Milli parkın coğrafi konumu, ziyaretçilere doğanın çeşitliliğini keşfetme fırsatı sunuyor. Burada, farklı coğrafi oluşumlar ve doğa güzelliği, ziyaretçileri kendine çekiyor.
+İzmir-Manisa Kızılçam 1 milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Burada, geniş otlaklar ve ormanlık alanlar, ziyaretçilere doğanın güzelliğini gösteriyor. Milli parkın coğrafi yapısı, çeşitli bitki türlerinin ve hayvanların yaşamına uygun bir ortam sunuyor. İç Anadolu Bölgesi'nin iklimi, milli parkın coğrafi yapısını etkiliyor. Burada, yaz aylarında sıcak ve kurak bir iklim, kış aylarında ise soğuk ve kar yağışlı bir iklim hüküm sürüyor. Milli parkın coğrafi konumu, ziyaretçilere doğanın çeşitliliğini keşfetme fırsatı sunuyor. Burada, farklı coğrafi oluşumlar ve doğa güzelliği, ziyaretçileri kendine çekiyor.
 
 ## Flora ve Fauna
 

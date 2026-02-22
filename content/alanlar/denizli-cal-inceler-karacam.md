@@ -30,7 +30,7 @@ Denizli-Cal-Inceler Karacam milli parkının tarihi geçmişi, yüzyıllar boyun
 
 ## Coğrafya
 
-Denizli-Cal-Inceler Karacam milli parkı, Ege Bölgesi'nin coğrafi özelliklerini taşır. Parkın topoğrafyası, dağlık ve engebeli arazilerden oluşur. İklimi, bölgenin karakteristiği olan Akdeniz iklimi olup, yazları sıca ve kurak, kışları ılıman ve yağışlıdır. Bu iklim koşulları, parkın flora ve fauna çeşitliliğini etkileyen önemli bir faktördür. Parkın yer aldığı bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bölgenin coğrafi konumu, aynı zamanda ziyaretçilere güzel panoramik görüntüler sunar.
+Denizli-Cal-Inceler Karacam milli parkı, Ege Bölgesi'nin coğrafi özelliklerini taşır. Parkın topoğrafyası, dağlık ve engebeli arazilerden oluşur. İklimi, bölgenin karakteristiği olan Akdeniz iklimi olup, yazları sıcak ve kurak, kışları ılıman ve yağışlıdır. Bu iklim koşulları, parkın flora ve fauna çeşitliliğini etkileyen önemli bir faktördür. Parkın yer aldığı bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bölgenin coğrafi konumu, aynı zamanda ziyaretçilere güzel panoramik görüntüler sunar.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Keler Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölgeni
 
 ## Coğrafya
 
-Keler Tepesi, coğrafi olarak Ege Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, genellikle sıca ve kurak bir iklim ile bekannt. Keler Tepesi'nin etrafı, çeşitli bitki türleri ile kaplı ve bu bitkiler, bölgenin ekolojisini desteklemekte. Tepenin yüksekliği, manzarayı geniş bir açıdan seyretmeye olanak tanıyor. Keler Tepesi, deniz seviyesinden belirli bir yükseklikte yer alıyor ve bu yükseklik, ziyaretçilere geniş bir panoramik view sunuyor. Tepenin eteklerinde, küçüköyler ve yerleşim yerleri bulunmakta. Keler Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini yansıtan önemli bir nokta.
+Keler Tepesi, coğrafi olarak Ege Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, genellikle sıcak ve kurak bir iklim ile bekannt. Keler Tepesi'nin etrafı, çeşitli bitki türleri ile kaplı ve bu bitkiler, bölgenin ekolojisini desteklemekte. Tepenin yüksekliği, manzarayı geniş bir açıdan seyretmeye olanak tanıyor. Keler Tepesi, deniz seviyesinden belirli bir yükseklikte yer alıyor ve bu yükseklik, ziyaretçilere geniş bir panoramik view sunuyor. Tepenin eteklerinde, küçüköyler ve yerleşim yerleri bulunmakta. Keler Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini yansıtan önemli bir nokta.
 
 ## Flora ve Fauna
 

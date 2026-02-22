@@ -37,7 +37,7 @@ wikidata_id: "Q131390732"
 
 ## Coğrafya
 
-Üç Kuzular Türbesi, Osmangazi, Bursa'da yer alan bir plajdır ve Marmara Bölgesi'nin coğrafi olarak önemli bir noktasıdır. Bu bölge, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğündedir. Plajın etrafını çeviren tepeler, ziyaretçilere eşsiz bir manzara sunar ve bu doğal güzelliğin keyfini çıkarırken, aynı zamanda çevredeki flora ve faunayı da gözlemleme imkanı sunar. İklim, tipik Akdeniz iklimi özellikleri gösterir ve yaz aylarında sıca ve kurudur. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+Üç Kuzular Türbesi, Osmangazi, Bursa'da yer alan bir plajdır ve Marmara Bölgesi'nin coğrafi olarak önemli bir noktasıdır. Bu bölge, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğündedir. Plajın etrafını çeviren tepeler, ziyaretçilere eşsiz bir manzara sunar ve bu doğal güzelliğin keyfini çıkarırken, aynı zamanda çevredeki flora ve faunayı da gözlemleme imkanı sunar. İklim, tipik Akdeniz iklimi özellikleri gösterir ve yaz aylarında sıcak ve kurudur. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Flora ve Fauna
 

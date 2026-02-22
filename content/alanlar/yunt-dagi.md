@@ -44,7 +44,7 @@ Güneyde bulunan Yunt Dağı, 36.5111°K ve 32.6247°D koordinatlarında yer al�
 
 Doğal güzelliği ile dikkat çeken bu bölge, coğrafi olarak oldukça çeşitli bir yapıya sahip. Yunt Dağı'nın fiziksel yapısı, tam olarak belirlenemese de, genel olarak dağlık bir bölge olduğu biliniyor. Bu dağlık alan, bir şehir bloğu büyüklüğünde bir alanı kaplayabilir ve bu bölgede çeşitli jeolojik oluşumlar görebiliriz.
 
-Mevsimsel olarak değişen hava koşulları, Yunt Dağı'nın iklim karakterini etkiliyor. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir hava hakim. Bu mevsimsel değişimler, bölgenin ekosistemini şekillendiren önemli faktörlerden biri. Eiffel Kulesi'nin birkaç katı yükseklikte olan bu dağ, çevresindeki diğer coğrafi oluşumlarla birlikte bir bütünü oluşturuyor.
+Mevsimsel olarak değişen hava koşulları, Yunt Dağı'nın iklim karakterini etkiliyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakim. Bu mevsimsel değişimler, bölgenin ekosistemini şekillendiren önemli faktörlerden biri. Eiffel Kulesi'nin birkaç katı yükseklikte olan bu dağ, çevresindeki diğer coğrafi oluşumlarla birlikte bir bütünü oluşturuyor.
 
 Çevresel açıdan bakıldığında, Yunt Dağı, komşu alanlar ve su kaynakları ile bağlantılı bir şekilde bulunuyor. Monaco'nun yarısı kadar büyük bir alana spread olan bu dağlık bölge, Toros Dağları'nın bir parçası olarak, bölgenin ekosistemini etkileyen önemli bir faktör. İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplayan bu dağlık bölge, çevresindeki diğer coğrafi oluşumlarla birlikte, bir bütünü oluşturuyor.
 

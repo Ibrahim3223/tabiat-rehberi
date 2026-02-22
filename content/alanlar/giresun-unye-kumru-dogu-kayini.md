@@ -30,7 +30,7 @@ Giresun-Unye-Kumru Dogu Kayini milli parkının tarihi geçmişi, yüzyıllar bo
 
 ## Coğrafya
 
-Giresun-Unye-Kumru Dogu Kayini milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden birini oluşturur. Bu bölge, 140 hektarlık bir alana yayılmıştır. Milli park, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır. Bu bölge, dağlık bir araziden oluşur ve çeşitli bitki türleri ile kaplıdır. Milli parkın iklimi, Karadeniz Bölgesi'nin tipik iklimine benzer. Bu bölge, yaz aylarında serin ve yağışlı, kış aylarında soğu ve karlı bir iklimi sahiptir. Giresun-Unye-Kumru Dogu Kayini milli parkı, aynı zamanda çeşitli hayvan türlerine ev sahipliği yapar. Bu bölge, yürüyüş ve doğa yürüyüşü gibi hotiteler için ideal bir yerdir.
+Giresun-Unye-Kumru Dogu Kayini milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden birini oluşturur. Bu bölge, 140 hektarlık bir alana yayılmıştır. Milli park, yüksek bir konumda yer alır. Bu bölge, dağlık bir araziden oluşur ve çeşitli bitki türleri ile kaplıdır. Milli parkın iklimi, Karadeniz Bölgesi'nin tipik iklimine benzer. Bu bölge, yaz aylarında serin ve yağışlı, kış aylarında soğuk ve karlı bir iklimi sahiptir. Giresun-Unye-Kumru Dogu Kayini milli parkı, aynı zamanda çeşitli hayvan türlerine ev sahipliği yapar. Bu bölge, yürüyüş ve doğa yürüyüşü gibi hotiteler için ideal bir yerdir.
 
 ## Flora ve Fauna
 

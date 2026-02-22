@@ -42,7 +42,7 @@ Mersin'in güneşli köşesinde, 36.3708° kuzey enlemi ve 33.5083° doğu boyla
 
 Jeolojik açıdan bakıldığında, Kayrak Dağı'nın fiziksel yapısı hakkında spesifik bilgiler bulunmasa da, Toros Dağları'nın genel jeolojik yapısı, kalker ve ofiyolitik kayaçlardan oluşur. Bu dağ, yüksekliği ve genişliği ile bölgenin önemli coğrafi özelliklerinden biridir. Yüksekliği, 85 katlı bir gökdelenin yaklaşık yüksekliğine denk gelir. Bu dağ, Mersin'in coğrafi yapısını şekillendiren önemli bir unsurdur.
 
-Mevsimsel olarak, Kayrak Dağı'nın iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kuru, kış aylarında ise ılıman ve yağışlı bir iklim söz konusudur. Bu iklim, flora ve fauna için uygun koşullar sağlar. Dağın eteklerinde, zeytin ağaçları, kestane ağaçları ve çeşitli otsu bitkiler yetişir.
+Mevsimsel olarak, Kayrak Dağı'nın iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kuru, kış aylarında ise ılıman ve yağışlı bir iklim söz konusudur. Bu iklim, flora ve fauna için uygun koşullar sağlar. Dağın eteklerinde, zeytin ağaçları, kestane ağaçları ve çeşitli otsu bitkiler yetişir.
 
 Çevresel açıdan, Kayrak Dağı, bölgenin ekosistemini destekleyen önemli bir bileşendir. Dağın yakınında, çeşitli su kaynakları ve akarsular bulunur. Bu su kaynakları, bölgenin tarımsal faaliyetleri için hayati önem taşır. Ayrıca, Kayrak Dağı, komşu alanlar ile birlikte, bölgenin biyolojik çeşitliliğini korur. Bu dağ, Mersin'in doğal güzelliğini ve ekolojik dengesini korumak için önemli bir role sahiptir.
 

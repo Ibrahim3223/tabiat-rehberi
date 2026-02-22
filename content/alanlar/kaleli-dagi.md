@@ -44,7 +44,7 @@ Güneybatı Anadolu'nun yeşil cenneti Muğla'da yer alan Kaleli Dağı, 37.3541
 
 Doğal güzellikleri ve coğrafi konumuyla dikkat çeken Kaleli Dağı, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplar. Dağın fiziksel yapısı, bölgenin jeolojik geçmişini yansıtan kayaçlardan oluşur. Ancak, Kaleli Dağı'nın boyutları hakkında detaylı fiziksel veri bulunmuyor. Buna rağmen, coğrafi konumu ve çevresi, bu dağın bölgenin ekosistemine sağladığı katkıları hakkında fikir veriyor.
 
-İklim açısından Kaleli Dağı, Akdeniz ikliminin etkilerini taşır. Bölge, yazları sıca ve kurak, kışları ılıman ve yağışlı bir iklim karakterine sahiptir. Bu mevsimsel özellikler, dağın florası ve faunasını etkiler ve burada yaşayan canlıların adaptasyonlarını şekillendirmiştir. Kaleli Dağı, Muğla'nın diğer bölgelerine göre daha serin bir iklime sahiptir ve bu özelliği, bölgenin turizm potansiyelini artırır.
+İklim açısından Kaleli Dağı, Akdeniz ikliminin etkilerini taşır. Bölge, yazları sıcak ve kurak, kışları ılıman ve yağışlı bir iklim karakterine sahiptir. Bu mevsimsel özellikler, dağın florası ve faunasını etkiler ve burada yaşayan canlıların adaptasyonlarını şekillendirmiştir. Kaleli Dağı, Muğla'nın diğer bölgelerine göre daha serin bir iklime sahiptir ve bu özelliği, bölgenin turizm potansiyelini artırır.
 
 Kaleli Dağı, çevresindeki diğer coğrafi oluşumlarla önemli bir ilişkiye sahiptir. Dağın eteklerinde yer alan su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılar. Ayrıca, Kaleli Dağı, bölgenin ekosistem bağlantılarını sağlar ve burada yaşayan canlıların göç yollarını etkiler. Bu dağ, Muğla'nın doğal güzelliklerinin korunması ve sürdürülebilirliğinin sağlanmasında önemli bir rol oynar.
 

@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin gözde şehri Van'ın yakınında yer alan Mir�
 
 Jeolojik açıdan bakıldığında, Mirömer Dağı'nın oluşumu hakkında detaylı bilgi bulunmasa da, bölgenin genel jeolojik yapısı dikkate alındığında, volkani ve sedimentatif kayaçlardan oluştuğu söylenebilir. Dağın yüksekliği ve genişliği hakkında kesin bilgiler olmasa da, Van'ın genel coğrafyası düşünüldüğünde, bu dağın bölgenin diğer dağlık alanlarına benzer bir yapıya sahip olduğu varsayılabilir. Taksim Meydanı'nın birkaç katı büyüklüğünde olan bu alan, bölgenin doğal güzelliklerini barındırmaktadır.
 
-Mevsimler açısından bakıldığında, Mirömer Dağı ve çevresi, karasal iklimin özellikleri gösterir. Kışlar soğu ve karlı, yazlar ise sıca ve kurudur. Bölgenin iklimi, Van Gölü'nün etkisini taşır ve bu da bölgenin bitki örtüsünü ve hayatını etkiler. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu dağ, bölgenin önemli bir su kaynağı olan Van Gölü'ne de yakın bir konumdadır.
+Mevsimler açısından bakıldığında, Mirömer Dağı ve çevresi, karasal iklimin özellikleri gösterir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bölgenin iklimi, Van Gölü'nün etkisini taşır ve bu da bölgenin bitki örtüsünü ve hayatını etkiler. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu dağ, bölgenin önemli bir su kaynağı olan Van Gölü'ne de yakın bir konumdadır.
 
 Doğal kaynaklar ve ekosistem açısından Mirömer Dağı, Van Gölü ve çevresindeki diğer dağlık alanlarla birlikte, bölgeninsu kaynaklarını ve doğal yaşamını destekler. Dağın yakınındaki su kaynakları, bölgenin tarım ve hayvancılık faaliyetlerini sürdürmesine olanak tanır. Monaco'nun yaklaşık yarısı büyüklüğünde olan bu bölge, Van'ın doğal güzelliklerini ve coğrafi çeşitliliğini korur.
 

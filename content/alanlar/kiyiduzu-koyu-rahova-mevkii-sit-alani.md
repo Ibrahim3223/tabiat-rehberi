@@ -30,7 +30,7 @@ Kıyıdüzü Köyü Rahova Mevkii Sit Alanı, tarihi geçmişiyle dikkat çekiyo
 
 ## Coğrafya
 
-Kıyıdüzü Köyü Rahova Mevkii Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biri olarak yer alıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekolojik alanlarından biri olarak kabul ediliyor. Sit alanı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini etkiliyor. Coğrafi olarak, bu alanın etrafı dağlar ve ovalarla çevrilidir ve iklimi İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Kışları soğu ve kar yağışlı, yazları ise sıcak ve kuru geçer. Bu coğrafi yapı, sit alanının doğal güzelliğini daha da artırıyor ve ziyaretçilere benzersiz bir deneyim sunuyor. Ayrıca, sit alanının coğrafi konumu, ziyaretçilerin çeşitli aktivitelere katılabilmelerine de olanak tanır.
+Kıyıdüzü Köyü Rahova Mevkii Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biri olarak yer alıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekolojik alanlarından biri olarak kabul ediliyor. Sit alanı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini etkiliyor. Coğrafi olarak, bu alanın etrafı dağlar ve ovalarla çevrilidir ve iklimi İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Kışları soğuk ve kar yağışlı, yazları ise sıcak ve kuru geçer. Bu coğrafi yapı, sit alanının doğal güzelliğini daha da artırıyor ve ziyaretçilere benzersiz bir deneyim sunuyor. Ayrıca, sit alanının coğrafi konumu, ziyaretçilerin çeşitli aktivitelere katılabilmelerine de olanak tanır.
 
 ## Flora ve Fauna
 

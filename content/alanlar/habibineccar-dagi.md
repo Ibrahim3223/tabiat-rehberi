@@ -31,7 +31,7 @@ Habibineccar Dagi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu
 
 ## Coğrafya
 
-Habibineccar Dagi, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer almaktadır. Bu milli park, çevresindeki dağlarla birlikte bir bütün olarak düşünüldüğünde, yaklaşık yüksek bir konumdate bulunmaktadır. Habibineccar Dagi'nin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşmaktadır. Burada, çeşitli bitki türleri ve ağaçlar, ziyaretçilere benzersiz bir manzara sunar. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir ve genellikle karasal iklim özellikleri gösterir. Kış ayları soğu ve kar yağışlı, yaz ayları ise sıcak ve kurudur. Bu bölgede, mevsimsel değişimler oldukça belirgindir. Bahar aylarında, doğa uyanır ve renklenir, sonbahar aylarında ise yapraklar sararır ve dökülür. Habibineccar Dagi, coğrafi olarak zengin bir bölgedir ve ziyaretçilere birçok sürpriz sunar.
+Habibineccar Dagi, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer almaktadır. Bu milli park, çevresindeki dağlarla birlikte bir bütün olarak düşünüldüğünde, yüksek bir konumda bulunmaktadır. Habibineccar Dagi'nin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşmaktadır. Burada, çeşitli bitki türleri ve ağaçlar, ziyaretçilere benzersiz bir manzara sunar. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir ve genellikle karasal iklim özellikleri gösterir. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurudur. Bu bölgede, mevsimsel değişimler oldukça belirgindir. Bahar aylarında, doğa uyanır ve renklenir, sonbahar aylarında ise yapraklar sararır ve dökülür. Habibineccar Dagi, coğrafi olarak zengin bir bölgedir ve ziyaretçilere birçok sürpriz sunar.
 
 ## Flora ve Fauna
 

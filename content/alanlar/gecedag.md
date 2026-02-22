@@ -44,7 +44,7 @@ Kars'ın doğusunda yer alan Gecedağ, 40.4071° kuzey enlemi ve 43.2083° doğu
 
 Jeolojik açıdan bakıldığında, Gecedağ'ın fiziksel yapısı hakkında detaylı bilgiler olmamasına rağmen, bölgenin genel coğrafi özellikleri dikkate alındığında, bu dağların genellikle volkani veya sediment kayaçlardan oluştuğu söylenebilir. Gecedağ'ın yüksekliği ve genişliği hakkında somut veriler bulunmasa da, bu tür dağların genellikle Monaco'nun yarısı kadar genişlikte ve Eiffel Kulesi'nin birkaç katı yükseklikte olduğu biliniyor.
 
-Mevsimsel açıdan ele alındığında, Gecedağ'ın iklim karakteri kuzeydoğu Anadolu'nun genel iklim koşullarını yansıtıyor. Bu bölgede kışlar genellikle soğu ve karlı, yazlar ise serin ve yağışlı geçer. Gecedağ'ın yüksek kesimlerinde, hava koşulları daha sert ve değişken olabilir, bu da bölgenin ekosistemini ve bitki örtüsünü etkiler.
+Mevsimsel açıdan ele alındığında, Gecedağ'ın iklim karakteri kuzeydoğu Anadolu'nun genel iklim koşullarını yansıtıyor. Bu bölgede kışlar genellikle soğuk ve karlı, yazlar ise serin ve yağışlı geçer. Gecedağ'ın yüksek kesimlerinde, hava koşulları daha sert ve değişken olabilir, bu da bölgenin ekosistemini ve bitki örtüsünü etkiler.
 
 Çevresel açıdan bakıldığında, Gecedağ komşu alanlar ve su kaynakları ile bağlantılıdır. Bölgedeki nehirler ve akarsular, Gecedağ'ın eteklerinden doğar ve çevredeki ovaları sulayarak, buradaki ekosistemin canlılığını sağlar. Bu dağların eteklerinde yer alan köyler ve yerleşim yerleri, Gecedağ'ın doğal güzelliklerinden ve kaynaklarından yararlanarak, bölgenin ekonomi ve sosyal yapısına katkıda bulunurlar.
 

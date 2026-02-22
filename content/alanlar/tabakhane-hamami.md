@@ -37,7 +37,7 @@ Tabakhane Hamamı'nın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyet
 
 ## Coğrafya
 
-Tabakhane Hamamı, Ege Bölgesi'nin Efeler ilçesinde yer alıyor ve coğrafi konumu ile dikkat çekiyor. Bu mekan, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. uzun bir mesafelik bir sahil şeridine sahip ve ziyaretçilere geniş bir açık alan sunuyor. Coğrafi olarak, Tabakhane Hamamı'nın bulunduğu bölge, Ege Denizi'ne kıyısı olan ve doğal güzellikleriyle famous olan bir yer. İklim olarak, bu bölge Akdeniz ikliminin özelliklerini taşıyor ve ziyaretçilere sıca ve güneşli bir ortam sunuyor. Çevre olarak, Tabakhane Hamamı'nın bulunduğu bölge, yeşillik alanlar ve doğal güzelliklerle dolu.
+Tabakhane Hamamı, Ege Bölgesi'nin Efeler ilçesinde yer alıyor ve coğrafi konumu ile dikkat çekiyor. Bu mekan, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. uzun bir mesafelik bir sahil şeridine sahip ve ziyaretçilere geniş bir açık alan sunuyor. Coğrafi olarak, Tabakhane Hamamı'nın bulunduğu bölge, Ege Denizi'ne kıyısı olan ve doğal güzellikleriyle famous olan bir yer. İklim olarak, bu bölge Akdeniz ikliminin özelliklerini taşıyor ve ziyaretçilere sıcak ve güneşli bir ortam sunuyor. Çevre olarak, Tabakhane Hamamı'nın bulunduğu bölge, yeşillik alanlar ve doğal güzelliklerle dolu.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ Ağaçköy Şehitliği II'nin tarihi geçmişi, bu bölgenin önemli olaylara sa
 
 ## Coğrafya
 
-Ağaçköy Şehitliği II, Kütahya'nın Dumlupınar ilçesinde, Ege Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak oldukça zengin bir yapıya sahip. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada çeşitli bitki türleri ile hayvanlar yaşamını sürdürüyor. Ağaçköy Şehitliği II, deniz seviyesinden yaklaşık yüksek bir konumdate ve bu reasondan dolayı manzarası oldukça güzellerden biri. Bu mekan, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor ve ziyaretçilerine güzel bir görünüm sunuyor. Ayrıca, buradaki iklim, Ege Bölgesi'nin tipik Akdeniz iklimi özellikleri gösteriyor ve genellikle ılıman ve yağışlı geçiyor.
+Ağaçköy Şehitliği II, Kütahya'nın Dumlupınar ilçesinde, Ege Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak oldukça zengin bir yapıya sahip. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada çeşitli bitki türleri ile hayvanlar yaşamını sürdürüyor. Ağaçköy Şehitliği II, yüksek bir konumda ve bu reasondan dolayı manzarası oldukça güzellerden biri. Bu mekan, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor ve ziyaretçilerine güzel bir görünüm sunuyor. Ayrıca, buradaki iklim, Ege Bölgesi'nin tipik Akdeniz iklimi özellikleri gösteriyor ve genellikle ılıman ve yağışlı geçiyor.
 
 ## Flora ve Fauna
 

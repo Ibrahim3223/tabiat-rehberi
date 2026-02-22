@@ -42,7 +42,7 @@ Gökyüzünü süsleyen bulutların arasında, Aksaray ilinin sınırları için
 
 Doğal güzelliğin bir parçası olan Beş Tepe, çevresindeki coğrafi yapıyla uyumlu bir şekilde yükselir. Ancak, fiziksel boyutlarına ilişkin detaylı bilgiler bulunmaması, bu güzel bölgenin tam olarak tanımlanmasını zorlaştırır. Buna karşın, koordinatlarından anlaşıldığı üzere, Beş Tepe'nin konumu, Aksaray ilinin coğrafi yapısına uygun bir şekilde, geniş ve açık arazilerle çevrilidir.
 
-Mevsimsel değişimlerin yaşandığı bu bölgede, iklim karakteri önemli bir rol oynar. Aksaray ilinin genel iklim koşullarına benzer şekilde, Beş Tepe de karasal iklimin etkilerini taşır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak olan hava koşulları, bu bölgenin iklim karakterini belirler.
+Mevsimsel değişimlerin yaşandığı bu bölgede, iklim karakteri önemli bir rol oynar. Aksaray ilinin genel iklim koşullarına benzer şekilde, Beş Tepe de karasal iklimin etkilerini taşır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak olan hava koşulları, bu bölgenin iklim karakterini belirler.
 
 Çevresel açıdan bakıldığında, Beş Tepe, Aksaray ilinin diğer coğrafi oluşumlarıyla bağlantılı olarak yer alır. Yaklaşık olarak Monaco'nun yarısı kadar bir alana karşılık gelen Aksaray ilinin coğrafi yapısı, Beş Tepe'nin konumunu etkileyen önemli bir faktördür. Ayrıca, bölgedeki su kaynakları ve ekosistem bağlantıları, Beş Tepe'nin doğal dengesini korumasında önemli bir rol oynar.
 
@@ -50,7 +50,7 @@ Mevsimsel değişimlerin yaşandığı bu bölgede, iklim karakteri önemli bir 
 
 Beş Tepe dağının flora ve fauna çeşitliliği, step bitki örtüsünün ve bozkırın karakteristik özelliklerini taşır. 1200 hektarlık bu dağlık alan, kuraklığa adapte olmuş türlerin yaşam alanıdır. İlkbaharla birlikte, dağ yamaçları renkli çiçeklerle süslenir. Yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği dikkat çeker.
 
-Yaban hayatı, memeliler ve kuşlar açısından zengindir. Dağ keçileri ve yaban/domuzları, dağlık alanların karakteristik hayvanlarıdır. Göç mevsiminde, çeşitli kuş türleri bu alanı ziyaret eder. Sürüngenler, özellikle yılanlar ve kertenkeleler, bozkırın sıca ve kuru ortamında yaşarlar.
+Yaban hayatı, memeliler ve kuşlar açısından zengindir. Dağ keçileri ve yaban/domuzları, dağlık alanların karakteristik hayvanlarıdır. Göç mevsiminde, çeşitli kuş türleri bu alanı ziyaret eder. Sürüngenler, özellikle yılanlar ve kertenkeleler, bozkırın sıcak ve kuru ortamında yaşarlar.
 
 Beş Tepe'nin ekolojik değeri, step ve bozkır ekosistemlerinin korunmasına bağlıdır. Bu alan, bölge için önemli bir su kaynakları ve toprak koruma alanıdır. Koruma durumu, bölgenin doğal güzelliklerinin ve biyolojik çeşitliliğinin korunmasına yöneliktir. Beş Tepe, Aksaray'ın önemli doğal alanlarından biri olarak, gelecek nesiller için korunmalıdır.
 

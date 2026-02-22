@@ -31,7 +31,7 @@ Adana-Akyatan Gölü'nün tarihi geçmişi, yüzyıllar boyunca şekillenmiş. B
 
 ## Coğrafya
 
-Adana-Akyatan Gölü, Akdeniz Bölgesi'nin coğrafi yapılarından biri. Göl, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Gölün etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Gölün bulunduğu bölgenin iklimi, Akdeniz iklimi característicasına uygun olarak yazları sıca ve kurak, kışları ılık ve yağışlı. Bu coğrafi yapı, gölün etrafındaki bitkilerin ve hayvanların çeşitliliğini etkilemekte. Gölün konumu, ziyaretçilerin kolayca ulaşabileceği bir yerde bulunmakta.
+Adana-Akyatan Gölü, Akdeniz Bölgesi'nin coğrafi yapılarından biri. Göl, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Gölün etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Gölün bulunduğu bölgenin iklimi, Akdeniz iklimi característicasına uygun olarak yazları sıcak ve kurak, kışları ılık ve yağışlı. Bu coğrafi yapı, gölün etrafındaki bitkilerin ve hayvanların çeşitliliğini etkilemekte. Gölün konumu, ziyaretçilerin kolayca ulaşabileceği bir yerde bulunmakta.
 
 ## Flora ve Fauna
 

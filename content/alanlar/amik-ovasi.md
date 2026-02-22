@@ -44,7 +44,7 @@ Güneydoğu Anadolu'nun en güzel köşelerinden biri olan Hatay, Amik Ovası'n�
 
 Jeolojik açıdan incelendiğinde, Amik Ovası'nın coğrafi yapısı oldukça ilgi çekici. Ne yazık ki, bu alan hakkında detaylı fiziksel veriler bulunmuyor. Ancak, genel olarak bakıldığında, bu ovanın bir şehir bloğu büyüklüğünde bir alanı kapladığı söylenebilir. Bu büyüklük, Taksim Meydanı'nın birkaç katı kadar bir alanı temsil ediyor. Jeolojik yapı itibariyle, Amik Ovası'nın etrafı dağlar ve tepelerle çevrili.
 
-Mevsimsel olarak bakıldığında, Amik Ovası'nın iklimi oldukça değişken. Kış aylarında soğu ve yağmurlu, yaz aylarında ise sıca ve kuru bir hava hakim. Bu iklim karakteri, ovanın flora ve fauna açısından zenginleşmesine katkıda bulunmuş. Hava durumu da oldukça değişkenlik gösteriyor; yazın sıcaklık 35 dereceye kadar çıkarken, kışın 0 dereceye kadar düşebiliyor.
+Mevsimsel olarak bakıldığında, Amik Ovası'nın iklimi oldukça değişken. Kış aylarında soğu ve yağmurlu, yaz aylarında ise sıcak ve kuru bir hava hakim. Bu iklim karakteri, ovanın flora ve fauna açısından zenginleşmesine katkıda bulunmuş. Hava durumu da oldukça değişkenlik gösteriyor; yazın sıcaklık 35 dereceye kadar çıkarken, kışın 0 dereceye kadar düşebiliyor.
 
 Amik Ovası, komşu alanlar ve su kaynakları açısından oldukça önemli bir role sahip. Ovanın etrafında yer alan dağlar ve tepeler, su kaynaklarının oluşmasına katkıda bulunmuş. Ayrıca, bu ova, çeşitli ekosistemlerin birleşme noktası olarak da görev yapıyor. Bu nedenle, Amik Ovası'nın çevresel ilişkileri oldukça geniş bir yelpazeyi kapsıyor.
 

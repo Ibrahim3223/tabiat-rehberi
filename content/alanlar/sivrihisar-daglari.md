@@ -43,7 +43,7 @@ Kuzeybatı Anadolu'nun kalbinde yer alan Sivrihisar Dağları, 39.3025°K, 31.75
 
 Doğal güzelliği ve coğrafi çeşitliliğiyle dikkat çeken Sivrihisar Dağları, yaklaşık olarak Beşiktaş ilçesi kadar bir alanı kaplar. Bu geniş alan, çeşitli jeolojik oluşumların bir araya gelmesiyle şekillenmiştir. Ancak, detaylı fiziksel veriler bulunmamasına rağmen, bu dağlık bölgenin yüksekliklerinin Eiffel Kulesi'nin 2-3 katı yükseklikte olduğu söylenebilir. Bu yükseklik, bölgeyi hem coğrafi olarak hem de ekolojik olarak önemli bir noktaya taşır.
 
-İklim açısından bakıldığında, Sivrihisar Dağları'nın mevsimsel özelliklerinin karasal iklimin etkilerini gösterdiği görülür. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu iklim karakteri, bölgenin flora ve fauna açısından zengin bir çeşitliliğe sahip olmasını sağlar.
+İklim açısından bakıldığında, Sivrihisar Dağları'nın mevsimsel özelliklerinin karasal iklimin etkilerini gösterdiği görülür. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu iklim karakteri, bölgenin flora ve fauna açısından zengin bir çeşitliliğe sahip olmasını sağlar.
 
 Çevresel açıdan bakıldığında, Sivrihisar Dağları'nın komşu alanlarla ve su kaynaklarıyla güçlü bir bağlantısı vardır. Bölge, Sakarya Nehri'nin bir kolu olan Seydi Çayı'na yakın bir konumda yer alır. Bu su kaynağı, bölgenin ekosistem bağlantılarını güçlendirir ve doğal yaşamın çeşitliliğini destekler. Ayrıca, Sivrihisar Dağları'nın Monaco'nun yarısı kadar bir alanı kaplaması, bölgenin çevresel önemini vurgular.
 
@@ -53,7 +53,7 @@ Sivrihisar Dağları, step bitki örtüsü ve bozkırın hakim olduğu bir bölg
 
 Bitki Örtüsü: İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanıyor. Sonbaharda, kuraklığa adapte türler, sarı ve kahverengi tonlara bürünüyor. Özel bitkiler, yüksek irtifalarda yetişen ve soğuğa dayanıklı türler.
 
-Yaban Hayatı: Dağlarda, memeliler ve kuşlar yaşamını sürdürüyor. Göç eden kuşlar, sonbaharda bu bölgeden geçiyor. Sürüngenler, sıca ve kurak bölgelerde yaşamlarını sürdürüyor.
+Yaban Hayatı: Dağlarda, memeliler ve kuşlar yaşamını sürdürüyor. Göç eden kuşlar, sonbaharda bu bölgeden geçiyor. Sürüngenler, sıcak ve kurak bölgelerde yaşamlarını sürdürüyor.
 
 Ekolojik Değer: Sivrihisar Dağları, bölgenin ekolojik dengesini koruyor. Bu dağ ekosistemi, canlıların yaşam alanlarını ve ekolojik ilişkilerini destekleyen bir yapıya sahip. Koruma durumu, bu bölgenin doğal güzelliğini ve biyolojik çeşitliliğini korumak için önemli.
 

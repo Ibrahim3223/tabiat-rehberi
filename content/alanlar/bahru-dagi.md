@@ -42,7 +42,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden biri olan Elazığ, coğrafi olara
 
 Fiziksel olarak bakıldığında, Bahru Dağı'nın boyutları hakkında detaylı bilgi olmasa da, bu dağların genellikle bölgedeki diğer dağlarla benzerlik gösterdiği biliniyor. Bu dağlar, genellikle birkaç olimpik havuz kadar bir alanı kaplayabiliyor ve bu yönüyle oldukça geniş bir alana yayıldıkları söylenebilir. Jeolojik açıdan bakıldığında, Bahru Dağı'nın bölgedeki diğer dağlarla benzer özellikler gösterdiği görülüyor.
 
-İklim açısından bakıldığında, Bahru Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir alan olarak biliniyor. Bu bölgede, yaz ayları sıca ve kurak, kış ayları ise soğu ve karlı geçiyor. Bahru Dağı, bu iklim koşullarına uygun olarak, mevsimsel olarak değişen hava koşullarına sahip. Bu da, bölgenin ekosisteminin oldukça zengin ve çeşitli olmasını sağlıyor.
+İklim açısından bakıldığında, Bahru Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir alan olarak biliniyor. Bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise soğuk ve karlı geçiyor. Bahru Dağı, bu iklim koşullarına uygun olarak, mevsimsel olarak değişen hava koşullarına sahip. Bu da, bölgenin ekosisteminin oldukça zengin ve çeşitli olmasını sağlıyor.
 
 Çevresel açıdan bakıldığında, Bahru Dağı, bölgedeki diğer dağlarla ve su kaynaklarıyla bağlantılı bir ekosisteme sahip. Bu dağ, bölgedeki önemli su kaynaklarının başında gelen Keban Barajı'na da yakın bir konumda yer alıyor. Bu su kaynakları, bölgenin ekosistemini zenginleştiren önemli bir unsur olarak dikkat çekiyor. Bahru Dağı, bu yönüyle, bölgenin doğal güzelliğini ve ekolojik dengesini korumaya yardımcı oluyor.
 

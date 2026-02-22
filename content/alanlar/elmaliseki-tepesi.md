@@ -36,7 +36,7 @@ Elmalıseki Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu b
 
 ## Coğrafya
 
-Elmalıseki Tepesi, Hatay'ın coğrafi yapısı içinde önemli bir yere sahip. Bu tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Tepenin etrafı, çeşitli bitki türleri ve ağaçlarla çevrili. Bu bölgenin iklimi, Akdeniz ikliminin tipik özelliklerini gösteriyor. Yaz ayları sıca ve kurak, kış ayları ılıman ve yağışlı geçiyor. Elmalıseki Tepesi'nin coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor. Tepenin zirvesinden, çevredeki dağlar ve vadileri görme mümkün.
+Elmalıseki Tepesi, Hatay'ın coğrafi yapısı içinde önemli bir yere sahip. Bu tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Tepenin etrafı, çeşitli bitki türleri ve ağaçlarla çevrili. Bu bölgenin iklimi, Akdeniz ikliminin tipik özelliklerini gösteriyor. Yaz ayları sıcak ve kurak, kış ayları ılıman ve yağışlı geçiyor. Elmalıseki Tepesi'nin coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor. Tepenin zirvesinden, çevredeki dağlar ve vadileri görme mümkün.
 
 ## Flora ve Fauna
 

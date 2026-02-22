@@ -36,7 +36,7 @@ Demirli Tepesi'nin tarihi geçmişi, Isparta'nın genel tarihini yansıtıyor. B
 
 ## Coğrafya
 
-Demirli Tepesi, Isparta'nın Akdeniz Bölgesi'nde yer alıyor. Tepenin coğrafi konumu, zengin bir flora ve fauna çeşitliliğine sahip olmasını sağlıyor. Tepenin eteklerinde, çeşitli bitki türleri bulunurken, tepenin zirvesi ise geniş bir görüş açısına sahip. Demirli Tepesi, Isparta'nın genel iklimini yansıtıyor; yaz ayları sıca ve kurak, kış ayları ise ılık ve yağışlı geçiyor. Bu iklim koşulları, tepenin flora ve faunasının çeşitliliğini etkiliyor. Tepenin çevresinde, Isparta'nın önemli yerleşim merkezleri ve tarım alanları yer alıyor. Bu nedenle, Demirli Tepesi, hem doğal güzellikleri hem de bölgenin ekonomi ve sosyal yapısını yansıtan önemli bir coğrafi nokta olarak görülüyor.
+Demirli Tepesi, Isparta'nın Akdeniz Bölgesi'nde yer alıyor. Tepenin coğrafi konumu, zengin bir flora ve fauna çeşitliliğine sahip olmasını sağlıyor. Tepenin eteklerinde, çeşitli bitki türleri bulunurken, tepenin zirvesi ise geniş bir görüş açısına sahip. Demirli Tepesi, Isparta'nın genel iklimini yansıtıyor; yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlı geçiyor. Bu iklim koşulları, tepenin flora ve faunasının çeşitliliğini etkiliyor. Tepenin çevresinde, Isparta'nın önemli yerleşim merkezleri ve tarım alanları yer alıyor. Bu nedenle, Demirli Tepesi, hem doğal güzellikleri hem de bölgenin ekonomi ve sosyal yapısını yansıtan önemli bir coğrafi nokta olarak görülüyor.
 
 ## Flora ve Fauna
 

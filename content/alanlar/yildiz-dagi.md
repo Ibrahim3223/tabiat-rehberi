@@ -45,7 +45,7 @@ Genel olarak Ankara'nın coğrafi yapısını düşününce, Yıldız Dağı'nı
 
 Doğrudan coğrafi özelliklerine baktığımızda, Yıldız Dağı'nın büyüklüğü hakkında net bir veri olmasa da, genel olarak Ankara'nın diğer dağlık bölgeleri ile benzerlik gösterir. Orta büyüklükte bir alan olarak düşünebiliriz, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplar. Jeolojik yapı hakkında detaylı bilgi bulunmasa da, Ankara bölgesinin genel jeolojik özellikleri düşünüldüğünde, Yıldız Dağı'nın da benzer bir yapıya sahip olabileceği söylenebilir.
 
-İklim açısından bakıldığında, Yıldız Dağı Ankara'nın genel iklim karakterini taşır. Ankara'nın karasal iklimi, Yıldız Dağı'nda da kendini gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Mevsimsel değişiklikler, Yıldız Dağı'nın coğrafi konumuna göre değişkenlik gösterir.
+İklim açısından bakıldığında, Yıldız Dağı Ankara'nın genel iklim karakterini taşır. Ankara'nın karasal iklimi, Yıldız Dağı'nda da kendini gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Mevsimsel değişiklikler, Yıldız Dağı'nın coğrafi konumuna göre değişkenlik gösterir.
 
 Çevresel açıdan, Yıldız Dağı Ankara'nın diğer doğal güzelliklerine yakındır. Şehir merkezine yakın su kaynakları ve ekosistem bağlantıları, Yıldız Dağı'nın doğal yaşamı için önemli bir rol oynar. Ankara'nın kuzeybatısında yer alan Yıldız Dağı, bölgenin ekolojik dengesini korur ve şehir için önemli bir doğal kaynak oluşturur.
 

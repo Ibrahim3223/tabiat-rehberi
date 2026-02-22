@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Kafdağı, Gaziantep'in doğu
 
 Doğal bir sınır oluşturan Kafdağı, bölgenin jeolojik yapısını da etkilemektedir. Ancak detaylı fiziksel verilerin olmaması, dağın boyutları ve şekli hakkında net bir fikir vermemektedir. Buna rağmen, bölgenin coğrafi özellikleri dikkate alındığında, Kafdağı'nın Taksim Meydanı'nın birkaç katı büyüklüğünde olduğu söylenebilir. Bu boyut, dağın bölgedeki diğer coğrafi oluşumlarla karşılaştırıldığında önemli bir yer tuttuğunu göstermektedir.
 
-Mevsimsel değişikliklere bağlı olarak, Kafdağı'nın iklim karakteri değişkenlik gösterir. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kuru bir hava hakimdir. Bu iklim özelliği, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Çevresel ilişkiler açısından, Kafdağı komşu alanlarla birlikte bir ekosistem oluşturur ve bölgenin su kaynaklarının dengesini sağlar. Monaco'nun küçük bir bölümü büyüklüğündeki bu dağ, bölgenin doğal dengesini korumak için önemli bir role sahiptir.
+Mevsimsel değişikliklere bağlı olarak, Kafdağı'nın iklim karakteri değişkenlik gösterir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kuru bir hava hakimdir. Bu iklim özelliği, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Çevresel ilişkiler açısından, Kafdağı komşu alanlarla birlikte bir ekosistem oluşturur ve bölgenin su kaynaklarının dengesini sağlar. Monaco'nun küçük bir bölümü büyüklüğündeki bu dağ, bölgenin doğal dengesini korumak için önemli bir role sahiptir.
 
 ## Flora ve Fauna
 

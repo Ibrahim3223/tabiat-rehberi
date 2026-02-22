@@ -46,7 +46,7 @@ Doğunun gizli köşesinde yer alan Dağı, 40.8833°K ve 35.0350°D koordinatla
 
 Jeolojik açıdan bakıldığında, Alan Dağı'nın fiziksel yapısı hakkında detaylı bilgi olmasa da, koordinatlarından dağlık bir bölgede yer aldığı anlaşılıyor. Bu dağlık bölgenin boyutları, bir şehir bloğu büyüklüğünde olabilir, ancak tam büyüklüğü bilinmiyor. Dağın şekli ve jeolojik özellikleri, bölgenin coğrafi özelliklerine bağlı olarak değişebilir. Örneğin, dağların yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olabilir, ancak tam yükseklik bilinmiyor.
 
-Mevsimsel olarak, Alan Dağı'nın iklim karakteri, Karadeniz Bölgesi'nin karakteristiği olan nemli ve ılıman bir iklimi yansıtabilir. Bölge, yazları sıca ve nemli, kışları ise soğu ve yağışlı olabilir. Hava durumu, mevsime bağlı olarak değişebilir, ancak genel olarak bölgenin coğrafi konumu, iklimin şekillenmesinde önemli bir rol oynar.
+Mevsimsel olarak, Alan Dağı'nın iklim karakteri, Karadeniz Bölgesi'nin karakteristiği olan nemli ve ılıman bir iklimi yansıtabilir. Bölge, yazları sıcak ve nemli, kışları ise soğuk ve yağışlı olabilir. Hava durumu, mevsime bağlı olarak değişebilir, ancak genel olarak bölgenin coğrafi konumu, iklimin şekillenmesinde önemli bir rol oynar.
 
 Çevresel açıdan bakıldığında, Alan Dağı, komşu alanlar ve su kaynaklarıyla bağlantılı bir ekosistem binnen yer alıyor. Dağın yakınında, muhtemelen küçük akarsular ve dere yatakları bulunabilir, bu da bölgenin su kaynaklarının zenginliğini gösteriyor. Ekosistem bağlantıları, bölgenin biyolojik çeşitliliğini destekleyerek, çeşitli bitki ve hayvan türlerinin yaşamına katkıda bulunabilir. Örneğin, Monaco'nun yarısı kadar bir alanı kaplayan bu dağlık bölge, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini koruma altına alabilir.
 

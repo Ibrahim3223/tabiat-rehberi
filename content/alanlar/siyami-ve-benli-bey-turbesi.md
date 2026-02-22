@@ -37,7 +37,7 @@ Siyami ve Benli Bey Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillen
 
 ## Coğrafya
 
-Siyami ve Benli Bey Türbesi, Muğla'nın Yatağan ilçesinde yer alıyor. Bu mekan, Ege Bölgesi'nin coğrafi olarak önemli bir noktasında bulunuyor. Çevresinde çeşitli bitki türleri ve zengin fauna gefunden. Mekan, 140 hektarlık bir alanda yer alıyor ve çevresindeki doğal güzellikler ile birlikte ziyaretçilere güzel bir manzara sunuyor. İklimi, Ege Bölgesi'nin genel iklimine benzerlik gösteriyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir iklim hakim. Bu mekan, coğrafi konumu ve doğal güzellikleri ile birlikte, ziyaretçilere güzel bir experiencia sunuyor.
+Siyami ve Benli Bey Türbesi, Muğla'nın Yatağan ilçesinde yer alıyor. Bu mekan, Ege Bölgesi'nin coğrafi olarak önemli bir noktasında bulunuyor. Çevresinde çeşitli bitki türleri ve zengin fauna gefunden. Mekan, 140 hektarlık bir alanda yer alıyor ve çevresindeki doğal güzellikler ile birlikte ziyaretçilere güzel bir manzara sunuyor. İklimi, Ege Bölgesi'nin genel iklimine benzerlik gösteriyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir iklim hakim. Bu mekan, coğrafi konumu ve doğal güzellikleri ile birlikte, ziyaretçilere güzel bir experiencia sunuyor.
 
 ## Flora ve Fauna
 

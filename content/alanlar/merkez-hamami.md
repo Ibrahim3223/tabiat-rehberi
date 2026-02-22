@@ -38,7 +38,7 @@ Merkez Hamamı'nın tarihi geçmişi, yüzyıllar boyunca birçok medeniyetin et
 
 ## Coğrafya
 
-Merkez Hamamı, Dikili'nin merkezinde, Ege Bölgesi'nin en güzel kıyı şeridinde bulunmaktadır. Bu bölge, 140 hektarlık bir yeşil alan üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğündedir. Plajın kumsalı, ince ve beyaz kumdan oluşmaktadır ve deniz suyu, berra ve masmavi bir renge sahiptir. Bu bölge, hem doğa severler hem de deniz aşığılar için bir cennet olarak düşünülebilir. Merkez Hamamı'nın çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu bölge, Ege Bölgesi'nin tipik Akdeniz iklimine sahiptir ve yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu sahiptir. Merkez Hamamı, Dikili'nin en önemli turizm merkezlerinden biri olarak kabul edilir ve her yıl binlerce turisti ağırlamaktadır.
+Merkez Hamamı, Dikili'nin merkezinde, Ege Bölgesi'nin en güzel kıyı şeridinde bulunmaktadır. Bu bölge, 140 hektarlık bir yeşil alan üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğündedir. Plajın kumsalı, ince ve beyaz kumdan oluşmaktadır ve deniz suyu, berra ve masmavi bir renge sahiptir. Bu bölge, hem doğa severler hem de deniz aşığılar için bir cennet olarak düşünülebilir. Merkez Hamamı'nın çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu bölge, Ege Bölgesi'nin tipik Akdeniz iklimine sahiptir ve yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu sahiptir. Merkez Hamamı, Dikili'nin en önemli turizm merkezlerinden biri olarak kabul edilir ve her yıl binlerce turisti ağırlamaktadır.
 
 ## Flora ve Fauna
 

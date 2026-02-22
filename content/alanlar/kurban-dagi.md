@@ -44,7 +44,7 @@ Karaman'ın coğrafi zenginliklerini keşfetmek için ideal bir nokta olan Kurba
 
 Doğal güzelliğini korumuş olan Kurban Dağı, bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Dağın şekli ve boyutları, bölgenin jeolojik yapısını yansıtıyor. Ancak, mevcut veriler sınırlı olduğundan, dağın tam olarak boyutları ve şekli hakkında net bir bilgi verilemiyor. Buna rağmen, kurban Dağı'nın Karaman'ın coğrafi dokusuna önemli bir katkı sağladığı söylenebilir.
 
-Mevsimsel değişimlerin yaşandığı bir bölgede yer alan Kurban Dağı, iklim karakteri açısından interessan bir yapıya sahip. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kuru bir hava durumu hakim. Bu mevsimsel farklılıklar, bölgenin flora ve fauna çeşitliliğini etkiliyor. Kurban Dağı'nın iklimi, Karaman'ın genel iklim koşullarına benzerlik gösteriyor.
+Mevsimsel değişimlerin yaşandığı bir bölgede yer alan Kurban Dağı, iklim karakteri açısından interessan bir yapıya sahip. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kuru bir hava durumu hakim. Bu mevsimsel farklılıklar, bölgenin flora ve fauna çeşitliliğini etkiliyor. Kurban Dağı'nın iklimi, Karaman'ın genel iklim koşullarına benzerlik gösteriyor.
 
 Kurban Dağı, çevresindeki doğal kaynaklar ve ekosistemle bağlantılı olarak önemli bir role sahip. Dağın yakınındaki su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılamaya yardımcı oluyor. Ayrıca, Kurban Dağı'nın ekosistemi, bölgedeki diğer doğal alanlarla bağlantılı olarak, bir bütün olarak düşünülmesi gereken bir yapıya sahip. Bu nedenle, Kurban Dağı'nın korunması ve sürdürülebilir kullanımı, Karaman'ın çevre ve ekosistem dengesi için önemli bir konu olarak görülüyor.
 

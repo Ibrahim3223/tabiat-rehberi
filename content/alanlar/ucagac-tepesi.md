@@ -36,7 +36,7 @@ Uçağaç Tepesi'nin tarihi geçmişi, bölgenin genel tarihine paralel olarak �
 
 ## Coğrafya
 
-Uçağaç Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölge, genellikle dağlık ve engebeli bir araziye sahip olup, Uçağaç Tepesi de bu coğrafi yapıya uyum gösteren bir tepe. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıda yer alır ve bu, bölgenin genel coğrafi yapısına uygun bir yüksekliktir. Uçağaç Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bölgenin iklimi, genellikle sıca ve kurak bir karakterde olup, yaz aylarında sıcaklık derecesi 30 dereceye kadar çıkabilir. Kış aylarında ise, sıcaklık derecesi 0 dereceye kadar düşebilir. Bu iklimsel farklılıklar, Uçağaç Tepesi'nin flora ve faunasını şekillendiren önemli bir faktördür.
+Uçağaç Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölge, genellikle dağlık ve engebeli bir araziye sahip olup, Uçağaç Tepesi de bu coğrafi yapıya uyum gösteren bir tepe. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıda yer alır ve bu, bölgenin genel coğrafi yapısına uygun bir yüksekliktir. Uçağaç Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bölgenin iklimi, genellikle sıcak ve kurak bir karakterde olup, yaz aylarında sıcaklık derecesi 30 dereceye kadar çıkabilir. Kış aylarında ise, sıcaklık derecesi 0 dereceye kadar düşebilir. Bu iklimsel farklılıklar, Uçağaç Tepesi'nin flora ve faunasını şekillendiren önemli bir faktördür.
 
 ## Flora ve Fauna
 

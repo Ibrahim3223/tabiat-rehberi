@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Halkis Dağı, 38.3017°K ve 
 
 Doğal güzelliği ile dikkat çeken Halkis Dağı'nın fiziksel yapısı, bölgenin jeolojik geçmişini yansıtmaktadır. Ancak, fiziksel verilerin sınırlı olması nedeniyle, dağın boyutları ve şekli hakkında net bir fikir oluşmamasına rağmen, bölgenin genel coğrafi yapısına baktığımızda, Halkis Dağı'nın önemli bir yer tuttuğu görülür. Örneğin, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplayacak şekilde geniş bir alana yayılmış olan bu dağ, bölgenin coğrafi çeşitliliğine katkıda bulunmaktadır.
 
-İklim koşulları açısından Halkis Dağı, çevresindeki bölgenin karakterini paylaşmaktadır. Güneydoğu Anadolu Bölgesi'nin genel iklim yapısına göre, dağda mevsimsel değişimler gözlemlenmektedir. Kış aylarında soğu ve yağışlı bir hava hakimken, yaz aylarında sıcaklık ve kuraklık ön plana çıkmaktadır. Bu mevsimsel değişimler, dağın ekosistemine de etki etmektedir.
+İklim koşulları açısından Halkis Dağı, çevresindeki bölgenin karakterini paylaşmaktadır. Güneydoğu Anadolu Bölgesi'nin genel iklim yapısına göre, dağda mevsimsel değişimler gözlemlenmektedir. Kış aylarında soğuk ve yağışlı bir hava hakimken, yaz aylarında sıcaklık ve kuraklık ön plana çıkmaktadır. Bu mevsimsel değişimler, dağın ekosistemine de etki etmektedir.
 
 Bölgenin hidrolojik yapısını şekillendiren su kaynakları, Halkis Dağı'nın çevresel ilişkilerini de etkilemektedir. Dağın yakınındaki ovalar ve vadiler, su kaynaklarının zengin olduğu alanlardır. Bu su kaynakları, bölgenin tarımsal faaliyetlerine ve doğal yaşamına büyük katkı sağlamaktadır. Ayrıca, Halkis Dağı'nın komşu alanlarla olan etkileşimi, bölgenin biyolojik çeşitliliğini de desteklemektedir.
 

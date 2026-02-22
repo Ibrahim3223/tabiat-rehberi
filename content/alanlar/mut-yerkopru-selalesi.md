@@ -31,7 +31,7 @@ Mut-Yerkopru Selalesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
 
 ## Coğrafya
 
-Mut-Yerkopru Selalesi, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde bulunuyor. Burada, çeşitli coğrafi oluşumlar ile karşılaşma mümkün. Mut-Yerkopru Selalesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Bu bölgede, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Mut-Yerkopru Selalesi, doğa severlerin ve fotoğraf tutkunlarının vazgeçilmez adreslerinden biri haline geliyor. Ziyaretçiler, bu güzel ortamda doğanın güzelliğini keşfetme fırsatı buluyor. Mut-Yerkopru Selalesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Burada, yaz aylarında sıca ve kurak bir iklim hakim iken, kış aylarında soğu ve yağışlı bir iklim hakim oluyor. Mut-Yerkopru Selalesi, ziyaretçilerini dört mevsim boyunca ağırlıyor.
+Mut-Yerkopru Selalesi, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde bulunuyor. Burada, çeşitli coğrafi oluşumlar ile karşılaşma mümkün. Mut-Yerkopru Selalesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Bu bölgede, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Mut-Yerkopru Selalesi, doğa severlerin ve fotoğraf tutkunlarının vazgeçilmez adreslerinden biri haline geliyor. Ziyaretçiler, bu güzel ortamda doğanın güzelliğini keşfetme fırsatı buluyor. Mut-Yerkopru Selalesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Burada, yaz aylarında sıcak ve kurak bir iklim hakim iken, kış aylarında soğuk ve yağışlı bir iklim hakim oluyor. Mut-Yerkopru Selalesi, ziyaretçilerini dört mevsim boyunca ağırlıyor.
 
 ## Flora ve Fauna
 

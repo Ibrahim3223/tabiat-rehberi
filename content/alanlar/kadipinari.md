@@ -31,7 +31,7 @@ Kadıpınarı'nın tarihi geçmişi, İç Anadolu Bölgesi'nin tarihine paralel 
 
 ## Coğrafya
 
-Kadıpınarı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır. Bu bölge, genel olarak step ve ova gibi coğrafi oluşumlarla karakterizedir. Alanın etrafında bulunan tepe ve vadiler, ziyaretçilere doğal bir güzellik sunmaktadır. İklim, İç Anadolu Bölgesi'nin genel iklimine benzerlik göstermektedir; yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlıdır. Bu coğrafi özellikler, alanın florası ve faunasını etkilemiştir. Ziyaretçiler, bu doğal güzelliği ve çeşitli coğrafi oluşumları keşfedebilirler.
+Kadıpınarı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır. Bu bölge, genel olarak step ve ova gibi coğrafi oluşumlarla karakterizedir. Alanın etrafında bulunan tepe ve vadiler, ziyaretçilere doğal bir güzellik sunmaktadır. İklim, İç Anadolu Bölgesi'nin genel iklimine benzerlik göstermektedir; yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlıdır. Bu coğrafi özellikler, alanın florası ve faunasını etkilemiştir. Ziyaretçiler, bu doğal güzelliği ve çeşitli coğrafi oluşumları keşfedebilirler.
 
 ## Flora ve Fauna
 

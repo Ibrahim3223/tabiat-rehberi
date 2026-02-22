@@ -44,7 +44,7 @@ Türkiye'de doğal alanlar, tarihin her döneminde önemli bir rol oynamıştır
 
 Doğudan batıya yaklaşık 10 km uzunluğa sahip olan Geyik Dağı, bir şehir bloğu büyüklüğünde bir alana yayılmaktadır. Bu küçük ama önemli bir coğrafyada, dağın fiziksel yapısı, bölgenin jeolojik özelliklerini yansıtmaktadır. Geyik Dağı'nın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olup, bu özelliği ile bölgenin en önemli doğal noktalarından birini oluşturmaktadır. Dağın şekli ve boyutları, bölgenin coğrafyasını etkileyen önemli faktörler olarak görülmektedir.
 
-Geyik Dağı'nın iklim karakteri, Ege Bölgesi'nin genel iklim özelliklerini yansıtmaktadır. Bölge, yazları sıca ve kurak, kışları ise ılıman ve yağışlı bir iklime sahiptir. Bu mevsimsel özellikler, Geyik Dağı'nın flora ve fauna çeşitliliğini etkilemektedir. Dağın yüksekliği ve coğrafyası, bölgenin hava durumunu da etkileyen önemli faktörler olarak görülmektedir.
+Geyik Dağı'nın iklim karakteri, Ege Bölgesi'nin genel iklim özelliklerini yansıtmaktadır. Bölge, yazları sıcak ve kurak, kışları ise ılıman ve yağışlı bir iklime sahiptir. Bu mevsimsel özellikler, Geyik Dağı'nın flora ve fauna çeşitliliğini etkilemektedir. Dağın yüksekliği ve coğrafyası, bölgenin hava durumunu da etkileyen önemli faktörler olarak görülmektedir.
 
 Bölgenin ekosistem bağlantıları açısından önemli bir konumda bulunan Geyik Dağı, komşu alanlar ve su kaynakları ile bağlantılıdır. Dağın yakınında bulunan Gediz Nehri, bölgenin su kaynakları açısından önemli bir role sahiptir. Geyik Dağı'nın çevresindeki ekosistem, bölgenin doğal güzelliklerini koruma altına almak amacıyla önemi verilen bir alandır. Bu nedenle, Geyik Dağı, doğa severler ve bilim insanları için önemli bir araştırma ve keşif alanı olarak dikkat çekmektedir.
 
@@ -52,7 +52,7 @@ Bölgenin ekosistem bağlantıları açısından önemli bir konumda bulunan Gey
 
 Geyik Dağı, İzmir'in yeşille örtülü bir köşesi, farklı yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliği sunuyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. Yükseklik arttıkça, çam ormanları hakim oluyor ve dağların serin havası, bu ağaçların gelişimi için ideal koşulları yaratıyor.
 
-Dağın yaban hayatı, memelilerden kuşlara, sürüngenlere kadar çeşitlilik gösteriyor. Dağ keçileri ve yaban domuzları gibi memeliler, dağların kayalık ve ormanlık bölgelerinde yaşamlarını sürdürüyorlar. Kuşlar, özellikle sonbaharda göç ettikleri sırada, dağların gökyüzünü dolduruyor. Sürüngenler ise, dağların sıca ve kuru bölgelerinde, çoğunlukla kaya ve taşların arasında yaşıyorlar.
+Dağın yaban hayatı, memelilerden kuşlara, sürüngenlere kadar çeşitlilik gösteriyor. Dağ keçileri ve yaban domuzları gibi memeliler, dağların kayalık ve ormanlık bölgelerinde yaşamlarını sürdürüyorlar. Kuşlar, özellikle sonbaharda göç ettikleri sırada, dağların gökyüzünü dolduruyor. Sürüngenler ise, dağların sıcak ve kuru bölgelerinde, çoğunlukla kaya ve taşların arasında yaşıyorlar.
 
 Geyik Dağı, ekolojik açıdan büyük bir önem taşıyor. Zeytinlikler ve çam ormanları, dağların flora ve fauna çeşitliliğini destekleyen önemli bileşenler. Bu ekosistem, birçok canlı türünün yaşamını sürdürmesi için gerekli koşulları sağlıyor. Koruma durumu, bu doğal alanın geleceğiçin kritik önem taşıyor.
 

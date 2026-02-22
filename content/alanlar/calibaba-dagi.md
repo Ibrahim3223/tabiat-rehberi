@@ -42,7 +42,7 @@ Coğrafi olarak, Çalıbaba Dağı İzmir'in batı kesiminde yer alıyor. 38.346
 
 Jeolojik açıdan bakıldığında, Çalıbaba Dağı'nın fiziksel yapısı hakkında detaylı bilgi olmasa da, Ege Bölgesi'nin genel jeolojik özellikleri dikkate alındığında, bu bölgenin genellikle kireçtaşı ve killi şistler gibi sedimentler ile kaplı olduğu biliniyor. Bu tür bir jeolojik yapı, dağların şekillenmesinde ve coğrafi özelliklerinin oluşmasında önemli bir rol oynuyor. Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplayan Çalıbaba Dağı, kendi içinde farklı yüksekli ve eğimlere sahip bir coğrafi yapıya sahip.
 
-Mevsimsel olarak, Çalıbaba Dağı Ege Bölgesi'nin genel iklim karakterini yansıtıyor. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir iklim hüküm sürüyor. Bu mevsimsel değişimler, dağın flora ve fauna çeşitliliğini şekillendiriyor. Eiffel Kulesi'nin yaklaşık 1/5'i yükseklikte olan bu dağ, çevresindeki diğer coğrafi oluşumlarla birlikte bir ekosistem ağı oluşturuyor.
+Mevsimsel olarak, Çalıbaba Dağı Ege Bölgesi'nin genel iklim karakterini yansıtıyor. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir iklim hüküm sürüyor. Bu mevsimsel değişimler, dağın flora ve fauna çeşitliliğini şekillendiriyor. Eiffel Kulesi'nin yaklaşık 1/5'i yükseklikte olan bu dağ, çevresindeki diğer coğrafi oluşumlarla birlikte bir ekosistem ağı oluşturuyor.
 
 Çevresel açıdan, Çalıbaba Dağı İzmir'in diğer doğal alanları ile bağlantılı bir konumda bulunuyor. Monaco'nun yaklaşık 1/20'si büyüklüğünde bir alanı kaplayan bu dağ, su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahip. Yerel su kaynaklarının korunması ve ekosistemin dengesinin sağlanması için, Çalıbaba Dağı'nın doğal yapısının korunması büyük önem taşıyor.
 

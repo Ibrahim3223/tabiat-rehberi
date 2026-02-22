@@ -39,7 +39,7 @@ Kars'taki Ziyaret Dağı, bölgenin coğrafi konumu nedeniyle önemli bir konuma
 
 ## Coğrafya
 
-Doğu Anadolu Bölgesi'nin soğu ve karlı topraklarında yer alan Ziyaret Dağı, Kars ilinin sınırları içerisinde bulunmaktadır. 40.7592°K, 43.0127°D koordinatlarına sahip olan bu dağ, bölgenin en önemli coğrafi oluşumlarından biridir. Kars kentine yaklaşık 30 kilometre uzaklıkta bulunan Ziyaret Dağı, şehrin yakınında yer alan diğer dağlarla birlikte bir dağ silsilesini oluşturur.
+Doğu Anadolu Bölgesi'nin soğuk ve karlı topraklarında yer alan Ziyaret Dağı, Kars ilinin sınırları içerisinde bulunmaktadır. 40.7592°K, 43.0127°D koordinatlarına sahip olan bu dağ, bölgenin en önemli coğrafi oluşumlarından biridir. Kars kentine yaklaşık 30 kilometre uzaklıkta bulunan Ziyaret Dağı, şehrin yakınında yer alan diğer dağlarla birlikte bir dağ silsilesini oluşturur.
 
 Jeolojik açıdan incelendiğinde, Ziyaret Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel jeolojik özellikleri dikkate alındığında, volkani ve sedimentatif kayaçlardan oluştuğu söylenebilir. Dağın boyutları hakkında kesin bilgiler olmasa da, Kars ilinin genel coğrafi yapısı düşünüldüğünde, Monaco'nun yarısı kadar bir alanı kaplayabileceği tahmin edilebilir.
 

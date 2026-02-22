@@ -36,7 +36,7 @@ Yal Tepe'nin tarihi geçmişi, yüzyıllar boyunca devam eden bir hikaye. Bu tep
 
 ## Coğrafya
 
-Yal Tepe, Marmara Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biri. Tepe, denize yakın bir konumda yer alıyor ve etrafı yeşilliklerle çevrili. Yal Tepe'nin coğrafyası, ziyaretçilere geniş bir perspektif sunuyor. Tepe, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor ve bu yükseklik, ziyaretçilere geniş bir manzara sunuyor. Yal Tepe'nin iklimi, Marmara Bölgesi'nin genel iklimine benzer. Tepe, yaz aylarında sıca ve nemli, kış aylarında ise soğu ve yağmurlu bir iklimi experiencing. Yal Tepe, ziyaretçilerine çeşitli coğrafi özellikleri ile hizmet veriyor.
+Yal Tepe, Marmara Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biri. Tepe, denize yakın bir konumda yer alıyor ve etrafı yeşilliklerle çevrili. Yal Tepe'nin coğrafyası, ziyaretçilere geniş bir perspektif sunuyor. Tepe, yüksek bir konumda yer alıyor ve bu yükseklik, ziyaretçilere geniş bir manzara sunuyor. Yal Tepe'nin iklimi, Marmara Bölgesi'nin genel iklimine benzer. Tepe, yaz aylarında sıcak ve nemli, kış aylarında ise soğu ve yağmurlu bir iklimi experiencing. Yal Tepe, ziyaretçilerine çeşitli coğrafi özellikleri ile hizmet veriyor.
 
 ## Flora ve Fauna
 

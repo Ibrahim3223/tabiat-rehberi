@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden biri olan Siirt'te yer alan Garzan
 
 Jeolojik açıdan bakıldığında, Garzan Dağı'nın oluşumu hakkında detaylı bilgiler bulunmasa da, bölgenin genel jeolojik yapısı hakkında fikir sahibi olma mümkündür. Dağ, çevresindeki ovalar ve vadilerle birlikte, bir şehir bloğu büyüklüğünde olan küçük alanlardan oluşur. Bu küçük alanlar, bölgenin coğrafi çeşitliliğini göstermektedir. Örneğin, Taksim Meydanı'nın 10 katı büyüklüğünde olan Garzan Dağı, bölgenin coğrafi yapısını etkileyen önemli bir faktördür.
 
-İklim açısından bakıldığında, Garzan Dağı ve çevresi, Doğu Anadolu Bölgesi'nin karakteristik iklimini taşır. Bölge, yazları sıca ve kurak, kışları soğu ve kar yağışlı bir iklime sahiptir. Dağ, Eiffel Kulesi'nin 2 katı yükseklikte değildir, ancak bölgenin en yüksek noktalarından biridir. Bu yükseklik, bölgenin iklimini etkileyen önemli bir faktördür.
+İklim açısından bakıldığında, Garzan Dağı ve çevresi, Doğu Anadolu Bölgesi'nin karakteristik iklimini taşır. Bölge, yazları sıcak ve kurak, kışları soğuk ve kar yağışlı bir iklime sahiptir. Dağ, Eiffel Kulesi'nin 2 katı yükseklikte değildir, ancak bölgenin en yüksek noktalarından biridir. Bu yükseklik, bölgenin iklimini etkileyen önemli bir faktördür.
 
 Bölgenin su kaynakları açısından bakıldığında, Garzan Dağı ve çevresi, several nehir ve akarsuların kaynağıdır. Bu su kaynakları, bölgenin ekosistemini şekillendiren önemli bir unsur olup, Garzan Dağı'nın çevresindeki ovalar ve vadilerle birlikte, bölgenin doğal güzelliğini ortaya koyar. Örneğin, İstanbul'un Adalar ilçesi büyüklüğünde olan Garzan Dağı ve çevresi, bölgenin coğrafi çeşitliliğini göstermektedir.
 

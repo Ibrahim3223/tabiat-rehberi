@@ -42,7 +42,7 @@ Doğrudan Akdeniz'in sularına açılan bir kapı gibi, Güvercin Adası Antalya
 
 Jeolojik açıdan bakıldığında, Güvercin Adası'nın fiziksel yapısı hakkında detaylı bilgiler bulunmuyor. Ancak, adanın boyutları bir olimpik havuzun birkaç katı kadar küçük olduğunu söyleyebiliriz. Bu küçük boyutuna rağmen, ada Antalya'nın turistik cazibe merkezlerinden biri olarak dikkat çekiyor.
 
-Mevsimsel olarak, Akdeniz ikliminin hakim olduğu bu bölgede, yaz ayları sıca ve kurak, kış ayları ise ılıman ve yağışlı geçiyor. Hava durumu genellikle güneşli ve açık, ancak denizden gelen esintiler ada üzerinde serin bir hava akımı oluşturabiliyor. Bu iklim koşulları, ada üzerinde çeşitli bitki türlerinin yetişmesine olanak tanıyor.
+Mevsimsel olarak, Akdeniz ikliminin hakim olduğu bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise ılıman ve yağışlı geçiyor. Hava durumu genellikle güneşli ve açık, ancak denizden gelen esintiler ada üzerinde serin bir hava akımı oluşturabiliyor. Bu iklim koşulları, ada üzerinde çeşitli bitki türlerinin yetişmesine olanak tanıyor.
 
 Çevresel açıdan, Güvercin Adası Antalya'nın kıyı ekosistemine bağlı olarak bulunuyor. Ada, şehrin su kaynaklarına ve deniz yaşamına yakın bir konumda yer alıyor. Bu nedenle, adanın doğal dengesi ve ekosistemi, Antalya'nın su kaynakları ve deniz canlıları ile yakından ilişkili. Ada, şehrin doğal güzelliklerinin korunmasına katkıda bulunarak, bölgenin ekolojik dengesini desteklemeye yardımcı oluyor.
 

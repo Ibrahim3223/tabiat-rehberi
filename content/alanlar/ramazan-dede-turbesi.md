@@ -37,7 +37,7 @@ Ramazan Dede Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu t
 
 ## Coğrafya
 
-Ramazan Dede Türbesi, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. Bu plaj, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Ramazan Dede Türbesi, Gerede'nin merkezine oldukça yakın bir mesafede yer alır ve ulaşımı oldukça kolaydır. Plajın kumsalı, ince ve beyaz kumdan oluşur ve denizi, berra ve temizdir. Ramazan Dede Türbesi'nin hinterlandında, çeşitli bitki türleri ve zengin fauna bulunur. Bu plaj, aynı zamanda bir türbe olarak hizmet vermekte ve ziyaretçilerine hem tarihi hem de doğal güzellikleri sunmaktadır. Ramazan Dede Türbesi, Karadeniz Bölgesi'nin iklimine uygun olarak, yaz aylarında sıca ve nemli, kış aylarında ise serin ve yağışlı bir hava sahiptir.
+Ramazan Dede Türbesi, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. Bu plaj, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Ramazan Dede Türbesi, Gerede'nin merkezine oldukça yakın bir mesafede yer alır ve ulaşımı oldukça kolaydır. Plajın kumsalı, ince ve beyaz kumdan oluşur ve denizi, berra ve temizdir. Ramazan Dede Türbesi'nin hinterlandında, çeşitli bitki türleri ve zengin fauna bulunur. Bu plaj, aynı zamanda bir türbe olarak hizmet vermekte ve ziyaretçilerine hem tarihi hem de doğal güzellikleri sunmaktadır. Ramazan Dede Türbesi, Karadeniz Bölgesi'nin iklimine uygun olarak, yaz aylarında sıcak ve nemli, kış aylarında ise serin ve yağışlı bir hava sahiptir.
 
 ## Flora ve Fauna
 
@@ -53,4 +53,4 @@ Ramazan Dede Türbesi'ni ziyaret etmek, özellikle yaz aylarında oldukça popü
 - Bu plaj, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
 - Ramazan Dede Türbesi, aynı zamanda bir türbe olarak hizmet vermekte ve ziyaretçilerine hem tarihi hem de doğal güzellikleri sunmaktadır.
 - Bu bölgede, genellikle Karadeniz Bölgesi'ne özgü bitki türleri yetişir.
-- Ramazan Dede Türbesi, Karadeniz Bölgesi'nin iklimine uygun olarak, yaz aylarında sıca ve nemli, kış aylarında ise serin ve yağışlı bir hava sahiptir.
+- Ramazan Dede Türbesi, Karadeniz Bölgesi'nin iklimine uygun olarak, yaz aylarında sıcak ve nemli, kış aylarında ise serin ve yağışlı bir hava sahiptir.

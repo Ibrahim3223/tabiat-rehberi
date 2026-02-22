@@ -44,7 +44,7 @@ Genel olarak Solarya Dağı, Balıkesir'in coğrafi zenginliklerinin önemli bir
 
 Doğal yapısı itibariyle Solarya Dağı, jeolojik açıdan ilginç bir oluşum. Ancak fiziksel veri eksikliği nedeniyle boyutları veya şekli hakkında net bir bilgi bulunmuyor. Bu eksiklik, dağ hakkında daha derinlemesine bilgi edinilmesini zorlaştırıyor. Buna rağmen, Solarya Dağı'nın coğrafi konumunun bölge için önemli olduğu söylenebilir.
 
-Mevsimsel değişiklikler Solarya Dağı'nın iklim karakterini şekillendiriyor. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürüyor. Bu mevsimsel özellikler, dağda yaşayan bitki ve hayvan türlerinin adaptasyonunu etkiliyor. Hava durumu, bölgede tarımın ve turizmin gelişimini de belirliyor.
+Mevsimsel değişiklikler Solarya Dağı'nın iklim karakterini şekillendiriyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürüyor. Bu mevsimsel özellikler, dağda yaşayan bitki ve hayvan türlerinin adaptasyonunu etkiliyor. Hava durumu, bölgede tarımın ve turizmin gelişimini de belirliyor.
 
 Çevresel açıdan Solarya Dağı, komşu alanlar ve su kaynaklarıyla bağlantılı. Dağın etrafındaki ekosistem, bölgenin biyolojik çeşitliliğini destekleyen önemli bir role sahip. Su kaynaklarının korunması ve sürdürülebilir kullanımı, dağın çevresel dengesini korumak için kritik önem taşıyor. Bu bağlamda, Solarya Dağı'nın çevresel ilişkileri, bölgenin uzun vadeli kalkınması için önemli bir faktör olarak görülüyor.
 

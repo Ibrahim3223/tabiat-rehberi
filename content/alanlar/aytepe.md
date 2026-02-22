@@ -43,7 +43,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden Van'da yer alan Aytepe, coğrafi o
 
 Jeolojik açıdan bakıldığında, Aytepe'nin fiziksel yapısı hakkında detaylı bilgi olmasa da, bölgenin genel coğrafi yapısı dikkate alındığında, volkani ve sedimentatif kayaçların hakim olduğu bir bölge olduğu söylenebilir. Bu bölgedeki dağlar, genellikle yükse ve engebeli bir yapıya sahip. Aytepe'nin yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte, dağlık bir arazide yer alıyor.
 
-Mevsimsel olarak, Aytepe ve çevresinde karasal iklim hüküm sürüyor. Kış aylarında oldukça soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakim. Bu mevsimsel farklılıklar, bölgenin flora ve fauna açısından zengin bir çeşitliliğe sahip olmasını sağlıyor. Aytepe'nin iklim karakteri, Monaco'nun iklimine benzerlik gösteriyor, ancak daha soğuk kışlar ve daha sıcak yazlar yaşanabiliyor.
+Mevsimsel olarak, Aytepe ve çevresinde karasal iklim hüküm sürüyor. Kış aylarında oldukça soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakim. Bu mevsimsel farklılıklar, bölgenin flora ve fauna açısından zengin bir çeşitliliğe sahip olmasını sağlıyor. Aytepe'nin iklim karakteri, Monaco'nun iklimine benzerlik gösteriyor, ancak daha soğuk kışlar ve daha sıcak yazlar yaşanabiliyor.
 
 Çevresel açıdan, Aytepe, Van Gölü'ne yakın bir konumda bulunuyor. Bu bölgede, su kaynakları açısından zengin bir ekosistem mevcut. Aytepe, aynı zamanda birçok bitki ve hayvan türünün yaşam alanı olarak da önem taşıyor. Bölgenin komşu alanları, genellikle dağlık ve ormanlık alanlar şeklinde uzanıyor. Bu doğal güzellikler, Aytepe'yi bir doğa severin ziyaret edebileceği ideal bir destinasyon haline getiriyor.
 

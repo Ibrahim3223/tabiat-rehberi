@@ -38,7 +38,7 @@ Uzunkum Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca bölgenin doğa
 
 ## Coğrafya
 
-Uzunkum Tabiat Parkı, Kocaeli'nin Kandıra ilçesinde, Marmara Bölgesi'nin kuzeydoğu kesiminde yer alıyor. Park, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı sunuyor. Bölge coğrafyası, genellikle ormanlık ve kırsal alanlardan oluşuyor. Parkın etrafında, çeşitli tepe ve vadiler bulunuyor. Bu coğrafi özellikler, parkın doğal güzelliklerini ve biyolojik çeşitliliğini artırıyor. İklim, Marmara Bölgesi'nin karakteristik karasal iklimine uygun olarak değişkenlik gösteriyor. Kışlar genellikle soğu ve yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, parkın flora ve faunasının çeşitliliğini etkiliyor. Parkın coğrafi konumu ve iklim özellikleri, ziyaretçilere yıl boyunca farklı deneyimler sunuyor.
+Uzunkum Tabiat Parkı, Kocaeli'nin Kandıra ilçesinde, Marmara Bölgesi'nin kuzeydoğu kesiminde yer alıyor. Park, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı sunuyor. Bölge coğrafyası, genellikle ormanlık ve kırsal alanlardan oluşuyor. Parkın etrafında, çeşitli tepe ve vadiler bulunuyor. Bu coğrafi özellikler, parkın doğal güzelliklerini ve biyolojik çeşitliliğini artırıyor. İklim, Marmara Bölgesi'nin karakteristik karasal iklimine uygun olarak değişkenlik gösteriyor. Kışlar genellikle soğuk ve yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, parkın flora ve faunasının çeşitliliğini etkiliyor. Parkın coğrafi konumu ve iklim özellikleri, ziyaretçilere yıl boyunca farklı deneyimler sunuyor.
 
 ## Flora ve Fauna
 

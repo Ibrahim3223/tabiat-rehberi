@@ -30,7 +30,7 @@ Mugla-Karabortlen-Fistikcami1 milli parkının tarihi geçmişi, yüzyıllar boy
 
 ## Coğrafya
 
-Mugla-Karabortlen-Fistikcami1 milli parkı, Ege Bölgesi'nin en güzel coğrafi bölgelerinden birini oluşturur. Bu bölgenin coğrafi özellikleri, ziyaretçileri cezbetmeye yeterli. Milli parkın içerisinde, 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu bölgenin iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine uygun olarak, yazları sıca ve kurak, kışları ise ılıman ve yağışlı geçer. Bu iklim, bitki örtüsünün zenginleşmesine ve fauna çeşitliliğinin artmasına yardımcı olur. Milli parkın çevresi, doğal güzellikleri ile ziyaretçileri etkilemeye đ.
+Mugla-Karabortlen-Fistikcami1 milli parkı, Ege Bölgesi'nin en güzel coğrafi bölgelerinden birini oluşturur. Bu bölgenin coğrafi özellikleri, ziyaretçileri cezbetmeye yeterli. Milli parkın içerisinde, 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu bölgenin iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine uygun olarak, yazları sıcak ve kurak, kışları ise ılıman ve yağışlı geçer. Bu iklim, bitki örtüsünün zenginleşmesine ve fauna çeşitliliğinin artmasına yardımcı olur. Milli parkın çevresi, doğal güzellikleri ile ziyaretçileri etkilemeye đ.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Mugla-Karabortlen-Fistikcami1 milli parkını ziyaret etmek, doğa severler ve t
 ## İlginç Bilgiler
 
 - Milli parkın içerisinde, tarihi kalıntılar ve eserler bulunur.
-- Bölgenin iklimi, Akdeniz iklimine uygun olarak, yazları sıca ve kurak, kışları ise ılıman ve yağışlı geçer.
+- Bölgenin iklimi, Akdeniz iklimine uygun olarak, yazları sıcak ve kurak, kışları ise ılıman ve yağışlı geçer.
 - Milli parkın bitki örtüsü, çeşitli ağaç türleri, çalıları ve otsu bitkileri içerir.
 - Fauna açısından da zengin olan milli parkta, çeşitli hayvan türleri ile karşılaşma mümkün.
 - Milli parkın ekolojik dengesi, flora ve faunanın birlikte var olmasına bağlı olarak şekillenir.

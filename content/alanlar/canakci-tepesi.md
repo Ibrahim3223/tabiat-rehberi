@@ -36,7 +36,7 @@ Kırşehir'in merkezi bir konumda yer alan Çanakçı Tepesi, şehrin önemli do
 
 ## Coğrafya
 
-Çanakçı Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bölge, genel olarak step ve bozkır bitki örtüsüne sahip olup, çeşitli bitki türleri ile zengin bir flora sunuyor. Tepenin etrafında yer alan köyler ve ovalar, verimli toprakları ile tarım için elverişli bir ortam sağlıyor. İklim olarak, İç Anadolu Bölgesi'nin karasal ikliminin özellikleri görülür; kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçer. Çanakçı Tepesi'nin coğrafi konumu, ziyaretçilere bn mevsim boyunca farklı güzellikler sunuyor. İlkbahar ve sonbahar aylarında, tepenin eteklerinde yer alan çiçekler ve yeşillikler, manzaraya renk katarken, kış aylarında tepenin karla kaplanması, bir kış masalı gibi görünüyor.
+Çanakçı Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bölge, genel olarak step ve bozkır bitki örtüsüne sahip olup, çeşitli bitki türleri ile zengin bir flora sunuyor. Tepenin etrafında yer alan köyler ve ovalar, verimli toprakları ile tarım için elverişli bir ortam sağlıyor. İklim olarak, İç Anadolu Bölgesi'nin karasal ikliminin özellikleri görülür; kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçer. Çanakçı Tepesi'nin coğrafi konumu, ziyaretçilere bn mevsim boyunca farklı güzellikler sunuyor. İlkbahar ve sonbahar aylarında, tepenin eteklerinde yer alan çiçekler ve yeşillikler, manzaraya renk katarken, kış aylarında tepenin karla kaplanması, bir kış masalı gibi görünüyor.
 
 ## Flora ve Fauna
 

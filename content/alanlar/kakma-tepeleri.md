@@ -42,7 +42,7 @@ Ankara'nın kuzeydoğusunda yer alan Kakma Tepeleri, 39.9578° kuzey enlemi ve 3
 
 Jeolojik açıdan bakıldığında, Kakma Tepeleri'nin fiziksel yapısı hakkında detaylı bilgi bulunmasa da, Ankara'nın genel coğrafyası dikkate alındığında, bu bölgenin de benzer özellikler taşıdığını varsayma mümkün. Ankara'nın coğrafyası, genellikle volkani ve sedimentatif kayaçlardan oluşur. Bu bölge, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplasa da, tam boyutları hakkında net bir bilgi bulunmamaktadır.
 
-İklim açısından, Kakma Tepeleri Ankara'nın genel iklim karakterine benzerlik gösterir. Ankara, karasal iklimin hakim olduğu bir bölgedir ve mevsimsel değişimler belirgindir. Kışlar soğu ve kar yağışlı, yazlar ise sıca ve kurudur. Bu bölgede, Eiffel Kulesi'nin birkaç katı yükseklikte olmasa da, Ankara'nın genel yüksekliği edildiğinde, mevsimsel hava koşullarının benzerlik gösterdiği söylenebilir.
+İklim açısından, Kakma Tepeleri Ankara'nın genel iklim karakterine benzerlik gösterir. Ankara, karasal iklimin hakim olduğu bir bölgedir ve mevsimsel değişimler belirgindir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu bölgede, Eiffel Kulesi'nin birkaç katı yükseklikte olmasa da, Ankara'nın genel yüksekliği edildiğinde, mevsimsel hava koşullarının benzerlik gösterdiği söylenebilir.
 
 Çevresel açıdan, Kakma Tepeleri Ankara'nın doğal su kaynaklarına ve ekosistemlerine yakınlık gösterir. Ankara, çeşitli nehirler ve göllerle çevrilidir ve bu su kaynakları, bölgenin ekosistemini destekler. Kakma Tepeleri de, bu su kaynaklarına ve ekosistemlere olan yakınlığıyla, Monaco'nun küçük bir bölümü kadar bir alanı kaplayan bir bölge olarak düşünebilir. Bu konum, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini koruması açısından önemlidir.
 

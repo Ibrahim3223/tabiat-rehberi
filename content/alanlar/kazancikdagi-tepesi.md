@@ -36,7 +36,7 @@ Kazancıkdağı Tepesi'nin geçmişi, yüzyıllar boyunca şekillenmiş. Bu böl
 
 ## Coğrafya
 
-Kazancıkdağı Tepesi, Kayseri'nin coğrafi yapısında önemli bir yer tutuyor. 140 hektarlık bu alan, geniş ve verimli bir ova tarafından çevrili. Tepenin yüksekliği, çevreyle birlikte değişkenlik gösteriyor. Bu bölge, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. İklim, karasal iklim özellikleri gösteriyor; yazlar sıca ve kurak, kışlar ise soğu ve kar yağışlı. Çevre, çeşitli bitki türleri ve zengin fauna ile dolu. Kazancıkdağı Tepesi, coğrafi açıdan dikkat çekici bir yer. Tepenin etrafında, farklı yüksekliklerde ve eğimlerde birçok yürüyüş yolu bulunmakta. Bu yollar, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
+Kazancıkdağı Tepesi, Kayseri'nin coğrafi yapısında önemli bir yer tutuyor. 140 hektarlık bu alan, geniş ve verimli bir ova tarafından çevrili. Tepenin yüksekliği, çevreyle birlikte değişkenlik gösteriyor. Bu bölge, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. İklim, karasal iklim özellikleri gösteriyor; yazlar sıcak ve kurak, kışlar ise soğuk ve kar yağışlı. Çevre, çeşitli bitki türleri ve zengin fauna ile dolu. Kazancıkdağı Tepesi, coğrafi açıdan dikkat çekici bir yer. Tepenin etrafında, farklı yüksekliklerde ve eğimlerde birçok yürüyüş yolu bulunmakta. Bu yollar, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

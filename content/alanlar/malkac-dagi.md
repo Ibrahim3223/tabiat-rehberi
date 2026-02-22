@@ -45,7 +45,7 @@ Malkaç Dağı, 37.9542°K ve 28.1325°D koordinatlarında yer alan bir coğrafi
 
 Doğal bir oluşum olarak Malkaç Dağı, jeolojik açıdan ilginç bir yapıya sahiptir. Ancak, detaylı fiziksel veri bulunmaması nedeniyle, boyutları ve şekli hakkında net bir bilgi verilememektedir. Buna rağmen, çevresindeki coğrafi oluşumlarla karşılaştırıldığında, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alan kapladığı söylenebilir.
 
-Malkaç Dağı'nın iklim karakteri, Ege Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir. Bu bölgede, yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava hüküm sürer. Dağın yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olmasa da, çevresindeki araziden slightly daha yüksek bir konumda yer alır.
+Malkaç Dağı'nın iklim karakteri, Ege Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir. Bu bölgede, yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava hüküm sürer. Dağın yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olmasa da, çevresindeki araziden slightly daha yüksek bir konumda yer alır.
 
 Çevresel açıdan bakıldığında, Malkaç Dağı, komşu alanlarla ve su kaynaklarıyla bağlantılı bir ekosistemin parçasını oluşturur. Monaco'nun onda biri kadar bir alanı kaplayan bu dağ, İstanbul'un Adalar ilçesi büyüklüğünde bir alana Spread edilmiş diğer coğrafi oluşumlarla birlikte, bir bütün olarak çalışır. Bu nedenle, Malkaç Dağı'nın çevresel ilişkileri, bölgenin doğal dengesini korumak açısından önemlidir.
 

@@ -36,7 +36,7 @@ Diyaradama Tepesi'nin tarihi geçmişi, bölgenin genel tarihine paralel olarak 
 
 ## Coğrafya
 
-Diyaradama Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, genel olarak dağlık ve engebeli bir yapıya sahip. Diyaradama Tepesi de bu coğrafi özelliklerin bir parçası olarak, bölgenin yüksek rakımlı alanlarından biri. Tepenin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplı. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve mevsimsel değişimler belirgin. Kış ayları soğu ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu coğrafi ve iklimsel koşullar, Diyaradama Tepesi'nin eşsiz doğal güzelliklerine katkıda bulunarak, ziyaretçilere farklı mevsimlerde farklı deneyimler sunuyor.
+Diyaradama Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, genel olarak dağlık ve engebeli bir yapıya sahip. Diyaradama Tepesi de bu coğrafi özelliklerin bir parçası olarak, bölgenin yüksek rakımlı alanlarından biri. Tepenin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplı. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve mevsimsel değişimler belirgin. Kış ayları soğuk ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu coğrafi ve iklimsel koşullar, Diyaradama Tepesi'nin eşsiz doğal güzelliklerine katkıda bulunarak, ziyaretçilere farklı mevsimlerde farklı deneyimler sunuyor.
 
 ## Flora ve Fauna
 

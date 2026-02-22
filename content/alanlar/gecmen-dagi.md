@@ -42,7 +42,7 @@ Genel olarak, Antalya'nın güneyinde yer alan Geçmen Dağı, 36.6258°K, 30.02
 
 Doğal bir oluşum olarak, Geçmen Dağı'nın fiziksel yapısı, bölgenin jeolojik tarihini yansıtan bir yapıya sahiptir. Dağın yüksekliği ve genişliği, bölgeyi karakterize eden bir özelliktir. Bu dağ, bir şehir bloğu büyüklüğünde bir alan kaplar ve Eiffel Kulesi'nin 2 katı yükseklikte bir zirveye sahiptir. Bu yükseklik, bölgenin manzarasını etkileyen ve coğrafi yapısını şekillendiren önemli bir faktördür.
 
-Mevsimsel olarak, Geçmen Dağı'nın iklim karakteri, Akdeniz ikliminin özelliklerini taşır. Kış aylarında ılıman, yaz aylarında ise sıca ve kuru bir hava hakimdir. Bu iklim, bölgenin flora ve fauna çeşitliliğini etkiler ve yerel ekosistemi şekillendirir. Dağın yüksekliği, ayrıca bölgenin hava durumunu etkileyen bir faktör olarak görülebilir, çünkü yükseklik arttıkça hava sıcaklığı ve nem oranları değişebilir.
+Mevsimsel olarak, Geçmen Dağı'nın iklim karakteri, Akdeniz ikliminin özelliklerini taşır. Kış aylarında ılıman, yaz aylarında ise sıcak ve kuru bir hava hakimdir. Bu iklim, bölgenin flora ve fauna çeşitliliğini etkiler ve yerel ekosistemi şekillendirir. Dağın yüksekliği, ayrıca bölgenin hava durumunu etkileyen bir faktör olarak görülebilir, çünkü yükseklik arttıkça hava sıcaklığı ve nem oranları değişebilir.
 
 Çevresel olarak, Geçmen Dağı, komşu alanlar ve su kaynaklarıyla bağlantılı bir ekosistem içinde yer alır. Dağın yakınında, çeşitli su kaynakları ve akarsular bulunur, bu da bölgenin hidrolojik yapısını etkiler. Ayrıca, dağın flora ve fauna çeşitliliği, bölgenin ekolojik dengesini korur ve yerel canlıların yaşamını destekler. Bu nedenle, Geçmen Dağı, doğal bir güzelliğin yanı sıra, çevresel olarak da önemli bir role sahiptir.
 

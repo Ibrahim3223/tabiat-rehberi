@@ -36,7 +36,7 @@ Evcik Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve çeşitl
 
 ## Coğrafya
 
-Evcik Tepesi, Eskişehir'in coğrafi yapısını temsil eden önemli bir nokta olarak karşımıza çıkıyor. Bu tepe, şehrin merkezi bölgesine yakın bir konumda yer alıyor ve çevresindeki doğal güzellikleriyle dikkat çekiyor. Tepenin coğrafi yapısı, çeşitli bitki türleriyle kaplı ve zengin fauna yapısına sahip. Evcik Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak karasal bir yapıya sahip. Bu bölgede, yaz ayları sıca ve kurak, kış ayları ise soğu ve karlı geçiyor. Evcik Tepesi, çevresindeki diğer doğal güzelliklerle birlikte bir bütün olarak değerlendiriliyor ve bölgeyi ziyaret edenlerin ilgisini çekiyor.
+Evcik Tepesi, Eskişehir'in coğrafi yapısını temsil eden önemli bir nokta olarak karşımıza çıkıyor. Bu tepe, şehrin merkezi bölgesine yakın bir konumda yer alıyor ve çevresindeki doğal güzellikleriyle dikkat çekiyor. Tepenin coğrafi yapısı, çeşitli bitki türleriyle kaplı ve zengin fauna yapısına sahip. Evcik Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak karasal bir yapıya sahip. Bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise soğuk ve karlı geçiyor. Evcik Tepesi, çevresindeki diğer doğal güzelliklerle birlikte bir bütün olarak değerlendiriliyor ve bölgeyi ziyaret edenlerin ilgisini çekiyor.
 
 ## Flora ve Fauna
 

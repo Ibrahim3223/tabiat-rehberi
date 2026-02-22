@@ -45,7 +45,7 @@ Coğrafi olarak, Kayalar Dağı 39.8617°K, 27.6892°D koordinatlarında yer al�
 
 Jeolojik açıdan bakıldığında, Kayalar Dağı'nın fiziksel yapısı hakkında detaylı bilgi olmasa da, bu bölgenin Türkiye'nin jeolojik haritasında önemli bir yer tuttuğu anlaşılıyor. Dağın boyutları ve şekli, yerel coğrafyanın şekillenmesinde önemli bir rol oynuyor. Örneğin, bir şehir bloğu büyüklüğünde olan bu dağ, çevresindeki ovalara ve vadilere göre daha yüksek bir konumda yer alıyor.
 
-Mevsimsel olarak, Kayalar Dağı'nın iklim karakteri, Marmara Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor. Bölge, karasal iklim ve Akdeniz iklimi arasında bir geçiş bölgesinde yer alıyor. Bu nedenle, yaz aylarında sıca ve nemli, kış aylarında ise soğu ve yağışlı bir hava durumu hakim oluyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini şekillendirmekte önemli bir rol oynuyor.
+Mevsimsel olarak, Kayalar Dağı'nın iklim karakteri, Marmara Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor. Bölge, karasal iklim ve Akdeniz iklimi arasında bir geçiş bölgesinde yer alıyor. Bu nedenle, yaz aylarında sıcak ve nemli, kış aylarında ise soğuk ve yağışlı bir hava durumu hakim oluyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini şekillendirmekte önemli bir rol oynuyor.
 
 Çevresel açıdan, Kayalar Dağı'nın komşu alanlar ve su kaynakları ile ilişkisi oldukça önemli. Dağın eteklerinde ve çevresinde çeşitli akarsular ve dereler yer alıyor. Bu su kaynakları, bölgenin ekosistem bağlantılarını güçlendirerek, flora ve fauna çeşitliliğinin korunmasına katkıda bulunuyor. Örneğin, Taksim Meydanı'nın birkaç katı büyüklüğündeki bu bölge, yerel ekosistemin önemli bir parçasını oluşturuyor.
 
@@ -53,7 +53,7 @@ Mevsimsel olarak, Kayalar Dağı'nın iklim karakteri, Marmara Bölgesi'nin gene
 
 Kayalar Dağı, step bitki örtüsü ve bozkırın hakim olduğu bir dağ ekosistemi sunar. İlkbaharın gelmesiyle birlikte, 1200 metre yükseklikte yer alan bu dağ, renkli bir hal alır. Alpin flora, yükseklik zonlarına bağlı olarak değişkenlik gösterir. Dağın eteklerinde, kuraklığa adapte olmuş otsu bitkiler ve çalılıklar bulunur.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenler olmak üzere çeşitlilik gösterir. Dağ keçileri, yüksekliklerdeki kayalık alanlarda yaşarken, kuşlar göç ettikleri zaman dağları bir konaklama alanı olarak kullanır. Sürüngenler, sıca ve kuru bölgelerde aktif olarak görülür.
+Yaban hayatı, memeliler, kuşlar ve sürüngenler olmak üzere çeşitlilik gösterir. Dağ keçileri, yüksekliklerdeki kayalık alanlarda yaşarken, kuşlar göç ettikleri zaman dağları bir konaklama alanı olarak kullanır. Sürüngenler, sıcak ve kuru bölgelerde aktif olarak görülür.
 
 Kayalar Dağı, ekolojik olarak önemli bir bölgedir. Bu dağ, birçok canlı türünün yaşamasına olanak tanıyan bir habitat sunar. Koruma durumu, bölgenin doğal güzelliklerinin ve biyolojik çeşitliliğinin korunmasına yönelik çabalara bağlıdır. Mevsimsel değişimlerin izlenmesi ve ekolojik ilişkilerin anlaşılması, bu özel bölgenin korunmasına katkıda bulunabilir.
 

@@ -36,7 +36,7 @@ wikidata_id: "Q34828758"
 
 ## Coğrafya
 
-Çayır Tepesi, Muş'un coğrafi yapısına uygun olarak, dağlık bir bölgede yer alıyor. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve bu, ziyaretçiler için hoş bir manzara sunuyor. Bölge, iklim olarak karasal iklim özellikleri gösteriyor ve mevsimsel olarak değişkenlik gösteriyor. Kış ayları soğu ve kar yağışlı geçerken, yaz ayları ılık ve yağışsız oluyor. Çayır Tepesi, bu coğrafi özellikleriyle, doğa severler için ideal bir destinasyon. Tepenin yüksekliği, ziyaretçilere geniş bir manzara sunuyor ve buradan, çevreyi panoramik olarak izleme mümkün. Ayrıca, tepe etrafında, çeşitli su kaynakları ve akarsular bulunuyor ve bu, bölgenin ekolojik dengesini koruyor.
+Çayır Tepesi, Muş'un coğrafi yapısına uygun olarak, dağlık bir bölgede yer alıyor. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve bu, ziyaretçiler için hoş bir manzara sunuyor. Bölge, iklim olarak karasal iklim özellikleri gösteriyor ve mevsimsel olarak değişkenlik gösteriyor. Kış ayları soğuk ve kar yağışlı geçerken, yaz ayları ılık ve yağışsız oluyor. Çayır Tepesi, bu coğrafi özellikleriyle, doğa severler için ideal bir destinasyon. Tepenin yüksekliği, ziyaretçilere geniş bir manzara sunuyor ve buradan, çevreyi panoramik olarak izleme mümkün. Ayrıca, tepe etrafında, çeşitli su kaynakları ve akarsular bulunuyor ve bu, bölgenin ekolojik dengesini koruyor.
 
 ## Flora ve Fauna
 

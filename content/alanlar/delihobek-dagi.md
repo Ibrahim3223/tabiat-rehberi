@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Delihöbek Dağı, 38.2639°K
 
 Jeolojik açıdan bakıldığında, Delihöbek Dağı'nın fiziksel yapısı hakkındalı bilgi bulunmasa da, bölgenin genel jeolojik özellikleri dikkate alındığında, dağların oluşumunun milyonlarca yıl önce gerçekleştiği anlaşılır. Dağın yüksekliği ve genişliği hakkında somut veriler olmasa da, çevredeki dağlarla karşılaştırıldığında, Delihöbek Dağı'nın bir şehir bloğu büyüklüğünde bir alanı kapladığı söylenebilir.
 
-Mevsimsel açıdan bakıldığında, Delihöbek Dağı'nın iklim karakteri, Güneydoğu Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklim hakimdir. Dağın yüksekliği, Eiffel Kulesi'nin 2 katı yükseklikte olmasa da, bölgenin en yüksek noktalarından biridir.
+Mevsimsel açıdan bakıldığında, Delihöbek Dağı'nın iklim karakteri, Güneydoğu Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklim hakimdir. Dağın yüksekliği, Eiffel Kulesi'nin 2 katı yükseklikte olmasa da, bölgenin en yüksek noktalarından biridir.
 
 Çevresel açıdan bakıldığında, Delihöbek Dağı, bölgenin önemli su kaynaklarına ev sahipliği yapar. Dağın eteklerinde kurulan barajlar ve göletler, tarım ve hayvancılık faaliyetleri için gerekli suyu sağlar. Ayrıca, dağların ekosistemi, çeşitli bitki ve hayvan türlerine ev sahipliği yapar ve bölgenin biyolojik çeşitliliğini korur. Monaco'nun yarısı kadar bir alanı kaplamasa da, Delihöbek Dağı, bölgenin önemli bir coğrafi ve ekolojik ögesi olarak kabul edilir.
 

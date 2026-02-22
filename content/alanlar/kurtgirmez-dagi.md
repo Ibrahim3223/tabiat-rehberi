@@ -42,7 +42,7 @@ Kuzeybatı Anadolu'nun güzide illerinden biri olan Kastamonu'nun dağlık bölg
 
 Doğal güzelliği ve jeolojik yapısıyla dikkat çeken Kurtgirmez Dağı, bir şehir bloğu büyüklüğünde bir alanı kaplar. Dağın fiziksel yapısı, bölgenin jeolojik lịchine uygun olarak oluşmuş ve bu bölgede genellikle kalker ve şist gibi kayaçlar hakimdir. Ancak, detaylı fiziksel veriler bulunmaması nedeniyle dağın tam boyutları ve yüksekliği hakkında net bilgiler mevcut değildir.
 
-Mevsimsel değişikliklere göre iklim karakteri değişkenlik gösteren Kurtgirmez Dağı, Karadeniz ikliminin etkisi altındadır. Kış aylarında soğu ve yağışlı, yaz aylarında ise serin ve nemli bir hava hüküm sürer. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkiler ve zengin bir ekosistemin oluşmasına katkıda bulunur.
+Mevsimsel değişikliklere göre iklim karakteri değişkenlik gösteren Kurtgirmez Dağı, Karadeniz ikliminin etkisi altındadır. Kış aylarında soğuk ve yağışlı, yaz aylarında ise serin ve nemli bir hava hüküm sürer. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkiler ve zengin bir ekosistemin oluşmasına katkıda bulunur.
 
 Kurtgirmez Dağı, çevresindeki diğer dağlar ve ovalarla birlikte bir bütün olarak ele alınabilir. Komşu alanlar, genellikle ormanlık ve dağlık arazilerden oluşur ve bu bölgede yer alan su kaynakları, bölgenin ekosistemini destekler. Dağın çevresindeki ekosistem bağlantıları, bölgenin biyolojik çeşitliliğini korur ve bölgenin doğal güzelliğini sürdürür.
 

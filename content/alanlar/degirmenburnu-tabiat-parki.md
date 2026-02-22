@@ -38,7 +38,7 @@ Değirmenburnu Tabiat Parkı, tarihi geçmişi ile dikkat çekiyor. Bu bölge, y
 
 ## Coğrafya
 
-Değirmenburnu Tabiat Parkı, Marmara Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Park, 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Parkın coğrafi yapısı, çeşitli bitki türleri ve hayvan yaşamını destekleyecek şekilde formedir. Değirmenburnu Tabiat Parkı, deniz seviyesinden yaklaşık yüksek bir konumdate bulunuyor ve bu yükseklik, ziyaretçilere şehrin panoramik manzarasını sunuyor. Parkın iklimi, İstanbul'un genel iklimi ile benzerlik gösteriyor ve ziyaretçiler, dört mevsim boyunca farklı doğa güzelliklerini deneyimleyebilirler.
+Değirmenburnu Tabiat Parkı, Marmara Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Park, 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Parkın coğrafi yapısı, çeşitli bitki türleri ve hayvan yaşamını destekleyecek şekilde formedir. Değirmenburnu Tabiat Parkı, yüksek bir konumda bulunuyor ve bu yükseklik, ziyaretçilere şehrin panoramik manzarasını sunuyor. Parkın iklimi, İstanbul'un genel iklimi ile benzerlik gösteriyor ve ziyaretçiler, dört mevsim boyunca farklı doğa güzelliklerini deneyimleyebilirler.
 
 ## Flora ve Fauna
 
@@ -53,5 +53,5 @@ Değirmenburnu Tabiat Parkı, ziyaretçilerini dört mevsim boyunca ağırlıyor
 - Değirmenburnu Tabiat Parkı, 140 hektarlık bir yeşil alanı kapsıyor.
 - Park, yaklaşık 200 futbol sahası büyüklüğünde.
 - Değirmenburnu Tabiat Parkı, İstanbul'un önemli doğal alanlarından biri olarak görülüyor.
-- Park, deniz seviyesinden yaklaşık yüksek bir konumdate bulunuyor.
+- Park, yüksek bir konumda bulunuyor.
 - Ziyaretçiler, parkın zengin flora ve fauna çeşitliliğini deneyimleyebilirler.

@@ -45,7 +45,7 @@ Diyarbakır'ın coğrafyasında önemli bir yere sahip olan Kaya Tepe, 37.8225°
 
 Doğal bir oluşum olan Kaya Tepe, jeolojik açıdan incelendiğinde kayaç yapısı ve topoğrafyası ile dikkat çekmektedir. Ancak, detaylı fiziksel verilerin eksikliği nedeniyle, bu oluşumun boyutları ve şekli hakkında net bir bilgi bulunmamaktadır. Bu durum, Kaya Tepe'nin coğrafyasını tam olarak hiểubilmeyi zorlaştırmaktadır.
 
-Mevsimsel özellikler açısından bakıldığında, Kaya Tepe'nin bulunduğu bölgede yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklim hüküm sürmektedir. Bu iklim karakteri, bölgenin flora ve fauna açısından zengin bir çeşitlilik göstermesine neden olmaktadır. Kaya Tepe'nin yüksekliği, Eiffel Kulesi'nin yaklaşık 1/10'u kadar bir yükseklikteymiş gibi düşünülürse, bu oluşumun boyutları hakkında bir fikir edinilebilir.
+Mevsimsel özellikler açısından bakıldığında, Kaya Tepe'nin bulunduğu bölgede yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklim hüküm sürmektedir. Bu iklim karakteri, bölgenin flora ve fauna açısından zengin bir çeşitlilik göstermesine neden olmaktadır. Kaya Tepe'nin yüksekliği, Eiffel Kulesi'nin yaklaşık 1/10'u kadar bir yükseklikteymiş gibi düşünülürse, bu oluşumun boyutları hakkında bir fikir edinilebilir.
 
 Çevresel açıdan bakıldığında, Kaya Tepe, Diyarbakır'ın güneydoğu yönünde yer alan ovalar ve dağlarla çevrilidir. Bu bölgede, su kaynakları açısından önemli bir yer tutan Dicle Nehri de bulunmaktadır. Kaya Tepe'nin bulunduğu bölge, Monaco'nun yaklaşık 1/20'si kadar bir alanı kaplar gibi düşünülürse, bu oluşumun boyutları hakkında bir fikir edinilebilir. Bu bölge, flora ve fauna açısından zengin bir çeşitlilik göstermekte ve bölgenin ekosistemine önemli katkılar sağlamaktadır.
 

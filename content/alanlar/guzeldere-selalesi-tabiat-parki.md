@@ -37,7 +37,7 @@ Güzeldere Şelalesi Tabiat Parkı, tarihi geçmişiyle dikkat çeker. Yüzyıll
 
 ## Coğrafya
 
-Güzeldere Şelalesi Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir alandır. Parkın coğrafyası, genellikle yeşil alanlar, ormanlık bölgeler ve su kaynaklarından oluşur. Şelale, parkın en önemli coğrafi ögesi olarak görülür ve çevreyi serinleten bir etkiye sahiptir. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Parkın coğrafi konumu, ziyaretçilere doğanın güzelliğini izleme ve keşfetme fırsatı sunar.
+Güzeldere Şelalesi Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir alandır. Parkın coğrafyası, genellikle yeşil alanlar, ormanlık bölgeler ve su kaynaklarından oluşur. Şelale, parkın en önemli coğrafi ögesi olarak görülür ve çevreyi serinleten bir etkiye sahiptir. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Parkın coğrafi konumu, ziyaretçilere doğanın güzelliğini izleme ve keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

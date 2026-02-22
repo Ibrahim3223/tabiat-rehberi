@@ -30,7 +30,7 @@ Isparta-Golhisar Karaçam milli parkı, tarihi geçmişi ile dikkat çeker. Bu b
 
 ## Coğrafya
 
-Isparta-Golhisar Karaçam milli parkı, Isparta ilinin Golhisar ilçesinde yer alır. Bu milli park, Akdeniz Bölgesi'nde bulunan Isparta ilinin önemli bir coğrafi noktası olarak kabul edilir. Isparta-Golhisar Karaçam milli parkı, yaklaşık 140 hektarlık bir alanı kapsar ve 200 futbol sahası büyüklüğünde bir yeşil alandır. Bu milli park, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır ve etrafı dağlarla çevrilidir. Isparta-Golhisar Karaçam milli parkı, iklimi açısından ılıman bir bölgede yer alır ve ziyaretçilerine dört mevsim boyunca farklı güzellikler sunar. Bu milli park, zengin coğrafi yapısı ve doğal güzellikleri ile ziyaretçilerini bekliyor.
+Isparta-Golhisar Karaçam milli parkı, Isparta ilinin Golhisar ilçesinde yer alır. Bu milli park, Akdeniz Bölgesi'nde bulunan Isparta ilinin önemli bir coğrafi noktası olarak kabul edilir. Isparta-Golhisar Karaçam milli parkı, yaklaşık 140 hektarlık bir alanı kapsar ve 200 futbol sahası büyüklüğünde bir yeşil alandır. Bu milli park, yüksek bir konumda yer alır ve etrafı dağlarla çevrilidir. Isparta-Golhisar Karaçam milli parkı, iklimi açısından ılıman bir bölgede yer alır ve ziyaretçilerine dört mevsim boyunca farklı güzellikler sunar. Bu milli park, zengin coğrafi yapısı ve doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 

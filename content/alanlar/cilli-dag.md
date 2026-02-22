@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Çilli Dağ, Van ilinin coğrafi zenginl
 
 Fiziksel olarak incelendiğinde, Çilli Dağ'ın boyutları ve şekli hakkında net bilgiler olmasa da, coğrafi konumu itibariyle çevresindeki diğer dağlarla benzer özellikler taşıdığı söylenebilir. Bu dağlar, genellikle volkanik kökenli ve kalkerli kayalardan oluşmakta, bu da bölgenin jeolojik yapısını şekillendirmektedir. Çilli Dağ'ın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bir zirveye sahip, ancak bu yükseklikteki noktalara ulaşmak için zorlu bir yolculuk gerektiğini unutmamak gerekir.
 
-Mevsimsel özelliklerine bakıldığında, Çilli Dağ ve çevresinin iklimi, Van ilinin genel iklim yapısına benzerlik göstermektedir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna yapısını etkilemekte, bazı türlerin göçünü ve yaşam döngüsünü belirlemektedir.
+Mevsimsel özelliklerine bakıldığında, Çilli Dağ ve çevresinin iklimi, Van ilinin genel iklim yapısına benzerlik göstermektedir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna yapısını etkilemekte, bazı türlerin göçünü ve yaşam döngüsünü belirlemektedir.
 
 Bölgenin çevresel ilişkileri ise, Van Gölü ve çevresindeki diğer su kaynaklarıyla bağlantılıdır. Bu su kaynakları, bölgenin ekosistemini desteklemektedir. Çilli Dağ, Van'ın doğal yaşam alanlarını koruma altına almak için önemli bir rol oynamaktadır. Monaco'nun yarısı kadar büyüklüğündeki bu bölge, İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplamaktadır. Bu geniş alan, bölgenin biyolojik çeşitliliğini korumak için büyük bir potansiyel sunmaktadır.
 

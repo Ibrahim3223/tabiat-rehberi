@@ -44,7 +44,7 @@ Kocakaravar Dağı, Muğla ilinin güneyinde yer alan bir dağdır. 36.9285°K, 
 
 Doğal güzelliği ile dikkat çeken Kocakaravar Dağı, yaklaşık olarak Monaco'nun yarısı kadar bir alanı kaplar. Ancak, dağın yüksekliği ve fiziksel yapısı hakkında detaylı bilgi bulunmamaktadır. Buna rağmen, dağın jeolojik yapısı ve çevresindeki coğrafi özellikler, onu önemli bir doğal alan haline getirir.
 
-İklim açısından bakıldığında, Kocakaravar Dağı'nın bulunduğu bölge, Akdeniz ikliminin  gösterir. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, dağın ekosistemini ve bitki örtüsünü etkiler.
+İklim açısından bakıldığında, Kocakaravar Dağı'nın bulunduğu bölge, Akdeniz ikliminin  gösterir. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, dağın ekosistemini ve bitki örtüsünü etkiler.
 
 Çevresel açıdan bakıldığında, Kocakaravar Dağı, komşu alanlar ve su kaynakları ile önemli bir bağlantıya sahiptir. Dağın eteklerinde yer alan köyler ve kasabalar, dağdan gelen su kaynaklarına bağımlıdır. Ayrıca, dağın ekosistemi, bölgedeki diğer doğal alanlar ile bağlantılıdır. Bu nedenle, Kocakaravar Dağı, bölgenin ekolojik dengesini korumak için önemli bir role sahiptir.
 
@@ -52,7 +52,7 @@ Doğal güzelliği ile dikkat çeken Kocakaravar Dağı, yaklaşık olarak Monac
 
 Kocakaravar Dağı, Muğla'nın zeytinliklerle ve çam ormanlarıyla çevrili bir dağ ekosistemi olarak, zengin bir flora ve faunaya ev sahipliği yapıyor. İlkbahar aylarında, dağ yamaçları renkli çiçeklerle donanıyor ve bu manzara, bir doğa belgeseli gibi görünüyor. Çam ormanları, zeytinliklerle birlikte, dağın yükseklik zonlarını oluşturuyor.
 
-Yaban hayatı da bir o kadar çeşitli. Dağ keçileri ve yaban domuzları, dağın yüksek kesimlerinde yaşarken, kartallar ve doğanların yuvaları, dağlık alanlarda bulunuyor. Sürüngenler, özellikle de yılan ve kertenkeleler, sıca ve kuru bölgelerde görülüyor. Sonbaharda, göç eden kuşlar dağ üzerinden geçiş yapıyor.
+Yaban hayatı da bir o kadar çeşitli. Dağ keçileri ve yaban domuzları, dağın yüksek kesimlerinde yaşarken, kartallar ve doğanların yuvaları, dağlık alanlarda bulunuyor. Sürüngenler, özellikle de yılan ve kertenkeleler, sıcak ve kuru bölgelerde görülüyor. Sonbaharda, göç eden kuşlar dağ üzerinden geçiş yapıyor.
 
 Kocakaravar Dağı, ekolojik açıdan önemli bir bölge. Dağın yükseklik zonları, farklı bitki ve hayvan türlerini barındırıyor. Bu çeşitlilik, dağ ekosisteminin sağlamlığını koruyor. Ancak, insan faaliyetleri nedeniyle, bu ekosistemin korunması gerekiyor. Doğal yaşam alanlarının korunması, bu dağ ekosisteminin geleceğiçin çok önemli.
 

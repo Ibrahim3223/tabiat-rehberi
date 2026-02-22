@@ -44,7 +44,7 @@ Güney kıyılarımızın güzelliği, Antalya'nın dağlık arazilerinde de ken
 
 Doğal güzelliğin yanı sıra, Yalınca Dağı'nın fiziksel yapısı da dikkat çekicidir. Dağın yüksekliği ve genişliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte, Monaco'nun yarısı kadar büyüklüğü olan bir alana karşılık gelir. Ancak, fiziksel verilerin sınırlı olması nedeniyle, dağın tam boyutları ve şekli hakkında bilgi bulunmamaktadır.
 
-İklim açısından, Yalinç Dağı ve çevresi Akdeniz ikliminin etkisindedir. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir hava hüküm sürer. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler. Bölge, yıl boyunca ılıman bir iklimin hakim olduğu bir bölgedir ve bu özelliği, turizm açısından önemli bir avantaj sağlar.
+İklim açısından, Yalinç Dağı ve çevresi Akdeniz ikliminin etkisindedir. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava hüküm sürer. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler. Bölge, yıl boyunca ılıman bir iklimin hakim olduğu bir bölgedir ve bu özelliği, turizm açısından önemli bir avantaj sağlar.
 
 Çevresel açıdan, Yalınca Dağı, Antalya'nın diğer doğal güzelliklerine yakındır. Dağın eteklerinde, Düden Şelalesi gibi önemli su kaynakları ve ormanlık alanlar bulunur. Bu su kaynakları, bölgenin ekosistemini destekler ve canlı çeşitliliğini korur. Yalınca Dağı, Antalya'nın doğal güzelliklerinin bir parçası olarak, bölgenin turizm potansiyelini artırır.
 
@@ -52,7 +52,7 @@ Doğal güzelliğin yanı sıra, Yalınca Dağı'nın fiziksel yapısı da dikka
 
 Yalınca Dağı, Antalya'nın kıyı ekosisteminin bir parçası olarak, maki bitki örtüsüne ev sahipliği yapar. 1200 hektarlık bu dağ ekosistemi, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliğine sahiptir. İlkbahar aylarında, dağ yamaçları renkli çiçeklerle donanır ve kuraklığa dayanıklı türler, sıcak yaz günlerine karşı direncini gösterir.
 
-Yaban hayatı, dağın yükseklik zonlarına bağlı olarak çeşitlenir. Memeliler, dağların kayalık alanlarında yaşamayı tercih ederken, kuşlar göç mevsimlerinde dağları ziyaret eder. Sürüngenler, sıca ve kurak bölgelerde aktif olarak görülür. Dağ ekosisteminin ekolojik değeri, kıyı ekosisteminin bir parçası olması ve biyolojik çeşitliliğin korunması açısından önemlidir. Bu nedenle, Yalınca Dağı'nın koruma durumu, bölgesel ekosistemin sürdürülebilirliğiçin kritik öneme sahiptir.
+Yaban hayatı, dağın yükseklik zonlarına bağlı olarak çeşitlenir. Memeliler, dağların kayalık alanlarında yaşamayı tercih ederken, kuşlar göç mevsimlerinde dağları ziyaret eder. Sürüngenler, sıcak ve kurak bölgelerde aktif olarak görülür. Dağ ekosisteminin ekolojik değeri, kıyı ekosisteminin bir parçası olması ve biyolojik çeşitliliğin korunması açısından önemlidir. Bu nedenle, Yalınca Dağı'nın koruma durumu, bölgesel ekosistemin sürdürülebilirliğiçin kritik öneme sahiptir.
 
 ## Ziyaret Bilgileri
 

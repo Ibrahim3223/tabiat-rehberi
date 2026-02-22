@@ -44,7 +44,7 @@ Güzel İzmir'in sahil şeridini süsleyen Salıyeri Dağı, 38.3552°K ve 26.51
 
 Jeolojik açıdan bakıldığında, Salıyeri Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, bu dağın Ege Bölgesi'nin karmaşık jeolojik geçmişinin bir parçası olduğu biliniyor. Bölgenin genel jeolojik yapısına bakıldığında, Salıyeri Dağı'nın çevresindeki diğer dağlarla benzer özellikler taşıdığı söylenebilir. Ancak, precisa fiziksel boyutları hakkında bilgi bulunmaması, bu dağ hakkında daha net bir fikir vermemizi engelliyor.
 
-Mevsimsel olarak bakıldığında, Salıyeri Dağı'nın iklim karakteri Akdeniz ikliminin özelliklerini taşıyor. Yaz aylarında sıca ve kuru, kış aylarında ise ılık ve yağışlı bir hava hüküm sürüyor. Bu iklim, bölgenin flora ve fauna çeşitliliğini etkiliyor ve Salıyeri Dağı'nın çevresi, zengin bir bitki örtüsüne ev sahipliği yapıyor.
+Mevsimsel olarak bakıldığında, Salıyeri Dağı'nın iklim karakteri Akdeniz ikliminin özelliklerini taşıyor. Yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı bir hava hüküm sürüyor. Bu iklim, bölgenin flora ve fauna çeşitliliğini etkiliyor ve Salıyeri Dağı'nın çevresi, zengin bir bitki örtüsüne ev sahipliği yapıyor.
 
 Doğal bir sınır gibi davranan Salıyeri Dağı, çevresindeki diğer coğrafi ögelerle birlikte bir ekosistem oluşturuyor. Ege Denizi'ne yakınlığı, bu bölgenin su kaynakları ve deniz canlıları açısından önemli bir konumda olmasını sağlıyor. Ancak, daha fazla bilgi edinmek için daha detaylı bir araştırma gerekiyor.
 

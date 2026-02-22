@@ -43,7 +43,7 @@ Van ilinin doğusunda yer alan Erek Dağı, 38.4541°K ve 43.4952°D koordinatla
 
 Jeolojik açıdan incelendiğinde, Erek Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel jeolojik özellikleri dikkate alındığında, volkani ve sedimentatif kayaçlardan oluştuğu söylenebilir. Dağın boyutları hakkında kesin bir bilgi olmasa da, genel olarak Van bölgesinin dağlık yapısına bakıldığında, Erek Dağı'nın Monaco'nun küçük bir bölümü kadar bir alanı kapladığı söylenebilir.
 
-İklim açısından bakıldığında, Erek Dağı ve çevresinin karasal iklim özellikleri gösterdiği görülmektedir. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve kar yağışlı bir hava durumuna sahiptir. Bu mevsimsel değişiklikler, bölgenin bitki örtüsü ve fauna yapısını etkilemektedir.
+İklim açısından bakıldığında, Erek Dağı ve çevresinin karasal iklim özellikleri gösterdiği görülmektedir. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve kar yağışlı bir hava durumuna sahiptir. Bu mevsimsel değişiklikler, bölgenin bitki örtüsü ve fauna yapısını etkilemektedir.
 
 Çevresel açıdan bakıldığında, Erek Dağı, Van Gölü'nün batı kıyısında yer alan diğer dağlar ile birlikte bir ekosistem oluşturmaktadır. Bu dağlar, bölgenin su kaynaklarının oluşumunda önemli bir rol oynamaktadır. Ayrıca, Erek Dağı'nın eteklerinde ve çevresinde yer alan köyler ve tarım alanları, bölgenin ekonomi ve sosyal yapısını etkilemektedir. Bu nedenle, Erek Dağı, bölgenin coğrafi, iklimsel ve çevresel yapısında önemli bir yer tutmaktadır.
 

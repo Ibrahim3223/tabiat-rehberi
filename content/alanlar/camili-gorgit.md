@@ -31,7 +31,7 @@ Camili Gorgit'in tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu doğal 
 
 ## Coğrafya
 
-Camili Gorgit, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde yer alıyor. Bu doğal alan, yaklaşık 140 hektarlık bir alanı kaplıyor ve yerleşik bir coğrafi yapıya sahip. Bölgenin iklimi, karasal iklim özellikleri gösteriyor. Yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlı geçiyor. Camili Gorgit'in coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunuyor. Burada, ağaçlık alanlar, çayır ve otlaklar gibi farklı ekosistemler bulunuyor. Doğal alanın su kaynakları, bölgenin ekolojik dengesini koruyor. Camili Gorgit, ziyaretçilerine doğanın güzelliğini ve canlı çeşitliliğini gözlemleme fırsatı sunuyor.
+Camili Gorgit, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde yer alıyor. Bu doğal alan, yaklaşık 140 hektarlık bir alanı kaplıyor ve yerleşik bir coğrafi yapıya sahip. Bölgenin iklimi, karasal iklim özellikleri gösteriyor. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçiyor. Camili Gorgit'in coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunuyor. Burada, ağaçlık alanlar, çayır ve otlaklar gibi farklı ekosistemler bulunuyor. Doğal alanın su kaynakları, bölgenin ekolojik dengesini koruyor. Camili Gorgit, ziyaretçilerine doğanın güzelliğini ve canlı çeşitliliğini gözlemleme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

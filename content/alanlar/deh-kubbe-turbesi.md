@@ -37,7 +37,7 @@ Deh Kubbe Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu t�
 
 ## Coğrafya
 
-Deh Kubbe Türbesi, Güneydoğu Anadolu Bölgesi'nin Şanlıurfa ilinin Birecik ilçesinde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahip. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve bu alan, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bölgenin iklimi, genellikle sıca ve kurak bir yapıya sahip. Yaz aylarında sıcaklık yüksek iken, kış aylarında ılıman bir hava hakim. Deh Kubbe Türbesi'nin çevresi, tarihi ve doğal güzelliklerin birleştiği bir alan olarak dikkat çekiyor. Türbe, bölgenin coğrafi özelliklerini yansıtan bir mimariye sahip ve bu özellikleri ile ziyaretçilerini cezbediyor.
+Deh Kubbe Türbesi, Güneydoğu Anadolu Bölgesi'nin Şanlıurfa ilinin Birecik ilçesinde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahip. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve bu alan, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bölgenin iklimi, genellikle sıcak ve kurak bir yapıya sahip. Yaz aylarında sıcaklık yüksek iken, kış aylarında ılıman bir hava hakim. Deh Kubbe Türbesi'nin çevresi, tarihi ve doğal güzelliklerin birleştiği bir alan olarak dikkat çekiyor. Türbe, bölgenin coğrafi özelliklerini yansıtan bir mimariye sahip ve bu özellikleri ile ziyaretçilerini cezbediyor.
 
 ## Flora ve Fauna
 

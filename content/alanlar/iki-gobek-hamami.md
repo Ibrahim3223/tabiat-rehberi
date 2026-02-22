@@ -38,7 +38,7 @@ wikidata_id: "Q131738426"
 
 ## Coğrafya
 
-İki Göbek Hamamı, Doğu Anadolu Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Bu bölge, yüksek dağlarla çevrili bir vadi içinde yer almaktadır. İklimi, karasal iklim özellikleri göstermektedir. Kışları soğu ve karlı, yazları ise serin ve yağışlıdır. Bu coğrafi yapı, İki Göbek Hamamı'nı bir doğa harikası haline getirmiştir. Ayrıca, bu bölgede çeşitli bitki türleri ve zengin fauna bulunmaktadır. İnsanlar, bu doğal güzelliği görme ve doğanın tadını çıkarmak için buraya gelmektedirler. İki Göbek Hamamı, ziyaretçilerine hem doğa hem de tarih konusunda zengin bir deneyim sunmaktadır.
+İki Göbek Hamamı, Doğu Anadolu Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Bu bölge, yüksek dağlarla çevrili bir vadi içinde yer almaktadır. İklimi, karasal iklim özellikleri göstermektedir. Kışları soğuk ve karlı, yazları ise serin ve yağışlıdır. Bu coğrafi yapı, İki Göbek Hamamı'nı bir doğa harikası haline getirmiştir. Ayrıca, bu bölgede çeşitli bitki türleri ve zengin fauna bulunmaktadır. İnsanlar, bu doğal güzelliği görme ve doğanın tadını çıkarmak için buraya gelmektedirler. İki Göbek Hamamı, ziyaretçilerine hem doğa hem de tarih konusunda zengin bir deneyim sunmaktadır.
 
 ## Flora ve Fauna
 

@@ -42,7 +42,7 @@ Doğunun gizli köşelerinden biri olan Küsülü Dağ, Sivas'ın coğrafi zengi
 
 Jeolojik açıdan bakıldığında, Küsülü Dağ'ın fiziksel yapısı hakkında detaylı bilgi olmasa da, bölgenin genel coğrafi özellikleri dikkate alındığında, bu dağın bir şehir bloğu büyüklüğünde bir alanı kapladığı söylenebilir. Bu büyüklük, ziyaretçilere doğanın güzelliklerini keşfetmek için yeterli bir alan sunar. Dağın şekli ve jeolojik yapısı, bölgenin tarihi ve coğrafi geçmişini anlamak için önemli ipuçları sağlar.
 
-Mevsimsel olarak, Küsülü Dağ'ın iklimi, Sivas'ın genel iklim karakterini yansıtır. Yaz aylarında sıca ve kurak, kış aylarında soğu ve karlı olan bu bölge, her mevsim farklı bir güzelliğe sahiptir. Etrafını saran dağlar ve ovalar, iklimin oluşumunda önemli bir rol oynar. Hava durumu, bölgenin coğrafi konumu ve yüksekliği nedeniyle değişkenlik gösterir.
+Mevsimsel olarak, Küsülü Dağ'ın iklimi, Sivas'ın genel iklim karakterini yansıtır. Yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı olan bu bölge, her mevsim farklı bir güzelliğe sahiptir. Etrafını saran dağlar ve ovalar, iklimin oluşumunda önemli bir rol oynar. Hava durumu, bölgenin coğrafi konumu ve yüksekliği nedeniyle değişkenlik gösterir.
 
 Çevresel açıdan, Küsülü Dağ, komşu alanlar ve su kaynakları ile önemli bir ekosistem bağlantısı oluşturur. Bölgenin su kaynakları, dağların eteklerinde yer alan nehirler ve göllerdir. Bu su kaynakları, bölgenin flora ve fauna çeşitliliğiçin hayati önem taşır. Küsülü Dağ, çevresindeki diğer doğal alanlar ile birlikte, bir bütün olarak düşünüldüğünde, bölgenin doğal dengesinin korunması için önemli bir role sahiptir.
 

@@ -36,7 +36,7 @@ Kandil Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin
 
 ## Coğrafya
 
-Kandil Tepesi, Muş ilinin coğrafi yapısı ile uyumlu bir şekilde, dağlık ve engebeli bir arazide yer alır. Bu tepe, çevresindeki dağlar ile birlikte bir bütün olarak değerlendirildiğinde, uzun bir mesafe çapında bir alanı kapsar. Kandil Tepesi'nin iklimi, Doğu Anadolu Bölgesi'nin genel iklimi ile benzerlik gösterir ve karasal bir iklime sahiptir. Bu bölgede, kışları soğu ve karlı, yazları ise serin ve yağışlı bir hava hüküm sürer. Kandil Tepesi'nin coğrafi konumu, doğa severlerin ve trekking doingillerinin ilgisini çeker. Bu tepe, Muş'un doğal güzelliklerini keşfetmek isteyenlerin ziyaret edebileceği bir yerdir.
+Kandil Tepesi, Muş ilinin coğrafi yapısı ile uyumlu bir şekilde, dağlık ve engebeli bir arazide yer alır. Bu tepe, çevresindeki dağlar ile birlikte bir bütün olarak değerlendirildiğinde, uzun bir mesafe çapında bir alanı kapsar. Kandil Tepesi'nin iklimi, Doğu Anadolu Bölgesi'nin genel iklimi ile benzerlik gösterir ve karasal bir iklime sahiptir. Bu bölgede, kışları soğuk ve karlı, yazları ise serin ve yağışlı bir hava hüküm sürer. Kandil Tepesi'nin coğrafi konumu, doğa severlerin ve trekking doingillerinin ilgisini çeker. Bu tepe, Muş'un doğal güzelliklerini keşfetmek isteyenlerin ziyaret edebileceği bir yerdir.
 
 ## Flora ve Fauna
 

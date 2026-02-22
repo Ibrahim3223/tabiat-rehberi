@@ -36,7 +36,7 @@ Dolubaba Tepesi, tarihsel olarak önemli bir yer. Bu bölge, yüzyıllar boyunca
 
 ## Coğrafya
 
-Dolubaba Tepesi, Sivas'ın merkezine uzun bir mesafe uzaklıkta yer alıyor. Tepe, İç Anadolu Bölgesi'nin karakteristik coğrafi yapısına sahip. Çevresi, genellikle step ve ova ile kaplı. Tepenin eteklerinde, çeşitli bitki türleri ve hayvanlar yaşiyor. Ayrıca, tepe etrafında birkaç köy bulunuyor. Bu köyler, tepeye çıkanların dinlenip, yemek yiyebilecekleri önemli noktalar. Tepe, yaklaşık 1400 metre yüksekliğe sahip. Bu yükseklik, tepeye çıkanların Sivas'ın geniş ovasını ve eteklerini izlemesine olanak tanıyor. Tepe etrafında, genellikle step iklimi hakim. Yaz ayları sıca ve kuru, kış ayları ise soğu ve karlı geçiyor.
+Dolubaba Tepesi, Sivas'ın merkezine uzun bir mesafe uzaklıkta yer alıyor. Tepe, İç Anadolu Bölgesi'nin karakteristik coğrafi yapısına sahip. Çevresi, genellikle step ve ova ile kaplı. Tepenin eteklerinde, çeşitli bitki türleri ve hayvanlar yaşiyor. Ayrıca, tepe etrafında birkaç köy bulunuyor. Bu köyler, tepeye çıkanların dinlenip, yemek yiyebilecekleri önemli noktalar. Tepe, yaklaşık 1400 metre yüksekliğe sahip. Bu yükseklik, tepeye çıkanların Sivas'ın geniş ovasını ve eteklerini izlemesine olanak tanıyor. Tepe etrafında, genellikle step iklimi hakim. Yaz ayları sıcak ve kuru, kış ayları ise soğuk ve karlı geçiyor.
 
 ## Flora ve Fauna
 

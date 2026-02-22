@@ -38,7 +38,7 @@ Aya İrini'nin tarihi geçmişi, İstanbul'un tarihi ile iç içe geçmiş durum
 
 ## Coğrafya
 
-Aya İrini, coğrafi olarak İstanbul'un merkezinde yer almaktadır. Eminönü ve Fatih ilçeleri arasında bulunan bu bölge, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Aya İrini'nin coğrafi yapısı, yeşilin verschilliliği ile dikkat çekmektedir. Bölge, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur ve bu alan, çeşitli bitki türleri ile kaplıdır. Aya İrini'nin iklimi, İstanbul'un genel iklimine benzerlik göstermektedir. Bölge, yaz aylarında sıca ve nemli, kış aylarında ise soğu ve yağışlı bir iklimi deneyimleyebilir etmektedir. Aya İrini'nin coğrafi konumu ve iklimi, ziyaretçilerine yılın her dönemi ziyaret edebileceği bir ortam sunmaktadır. Ayrıca, bölgenin etrafında bulunan tarihi yapılar, kiliseler ve camiler, Aya İrini'nin coğrafi güzelliğini daha da artırmaktadır.
+Aya İrini, coğrafi olarak İstanbul'un merkezinde yer almaktadır. Eminönü ve Fatih ilçeleri arasında bulunan bu bölge, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Aya İrini'nin coğrafi yapısı, yeşilin verschilliliği ile dikkat çekmektedir. Bölge, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur ve bu alan, çeşitli bitki türleri ile kaplıdır. Aya İrini'nin iklimi, İstanbul'un genel iklimine benzerlik göstermektedir. Bölge, yaz aylarında sıcak ve nemli, kış aylarında ise soğuk ve yağışlı bir iklimi deneyimleyebilir etmektedir. Aya İrini'nin coğrafi konumu ve iklimi, ziyaretçilerine yılın her dönemi ziyaret edebileceği bir ortam sunmaktadır. Ayrıca, bölgenin etrafında bulunan tarihi yapılar, kiliseler ve camiler, Aya İrini'nin coğrafi güzelliğini daha da artırmaktadır.
 
 ## Flora ve Fauna
 

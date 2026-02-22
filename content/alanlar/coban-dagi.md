@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Çoban Dağı, Şırnak ilinin sınırla
 
 Jeolojik açıdan bakıldığında, Çoban Dağı'nın fiziksel yapısı hakkında detaylı bilgiler mevcut olmasa da, bölgenin genel coğrafi özelliklerine bakıldığında, dağlık bir arazinin hakim olduğu görülür. Monaco'nun yarısı kadar bir alanı kaplayan bu dağ, bölgenin ekolojik dengesini sağlayan önemli bir bileşendir. Yükseklik açısından, Eiffel Kulesi'nin 5 katı yükseklikte olan Çoban Dağı, bölgenin en yüksek noktalarından biridir.
 
-Mevsimsel değişimlere bakıldığında, Çoban Dağı'nın iklim karakteri oldukça değişkenlik gösterir. Kış aylarında karla kaplı olan dağ, yaz aylarında ise yeşilin tüm tonlarını gösteren bir manzaraya dönüşür. Hava durumu açısından, bölgenin genel olarak sıca ve kuru bir iklimi hakimdir, ancak dağlık alanlarda bu durum değişebilir.
+Mevsimsel değişimlere bakıldığında, Çoban Dağı'nın iklim karakteri oldukça değişkenlik gösterir. Kış aylarında karla kaplı olan dağ, yaz aylarında ise yeşilin tüm tonlarını gösteren bir manzaraya dönüşür. Hava durumu açısından, bölgenin genel olarak sıcak ve kuru bir iklimi hakimdir, ancak dağlık alanlarda bu durum değişebilir.
 
 Çevresel açıdan, Çoban Dağı'nın komşu alanları ile güçlü bir bağlantısı vardır. Bölgede bulunan su kaynakları, dağların eteklerinde yer alan vadilere doğru akar ve bölgenin ekosistemini destekler. İstanbul'un Adalar ilçesi büyüklüğünde olan bu bölge, çevresindeki diğer dağlık alanlarla birlikte bir bütünleşik ekosistemi oluşturur.
 

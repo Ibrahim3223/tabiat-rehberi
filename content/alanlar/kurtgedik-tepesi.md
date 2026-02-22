@@ -36,7 +36,7 @@ Kurtgedik Tepesi'nin tarihi geçmişi hakkında detaylı bilgiler bulunmuyor. An
 
 ## Coğrafya
 
-Kurtgedik Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor. Tepenin coğrafi yapısı, İç Anadolu Bölgesi'nin genel yapısına benzemektedir. Bölge, genellikle step ve ova gibi coğrafi oluşumlarla karakterize ediliyor. Kurtgedik Tepesi'nin etrafında, çeşitli bitki türleri ve fauna bulunmakta. Tepenin yüksekliği, Ankara'nın genel yüksekliğine göre biraz daha fazla. Bu nedenle, tepeden Ankara'nın ve çevresinin manzarası oldukça güzel. Tepenin iklimi, İç Anadolu Bölgesi'nin iklimine benzer. Kışlar soğuk, yazlar sıca ve kurak. Tepenin etrafındaki köyler ve kasabalar, ziyaretçilere bölgenin coğrafi yapısını hakkında bilgi vermektedir.
+Kurtgedik Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor. Tepenin coğrafi yapısı, İç Anadolu Bölgesi'nin genel yapısına benzemektedir. Bölge, genellikle step ve ova gibi coğrafi oluşumlarla karakterize ediliyor. Kurtgedik Tepesi'nin etrafında, çeşitli bitki türleri ve fauna bulunmakta. Tepenin yüksekliği, Ankara'nın genel yüksekliğine göre biraz daha fazla. Bu nedenle, tepeden Ankara'nın ve çevresinin manzarası oldukça güzel. Tepenin iklimi, İç Anadolu Bölgesi'nin iklimine benzer. Kışlar soğuk, yazlar sıcak ve kurak. Tepenin etrafındaki köyler ve kasabalar, ziyaretçilere bölgenin coğrafi yapısını hakkında bilgi vermektedir.
 
 ## Flora ve Fauna
 

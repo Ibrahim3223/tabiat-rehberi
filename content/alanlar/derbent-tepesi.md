@@ -36,7 +36,7 @@ Derbent Tepesi'nin tarihi geçmişi oldukça eskidir. Yüzyıllar boyunca farkl�
 
 ## Coğrafya
 
-Derbent Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir noktadır. Tepenin yüksekliği, çevresindeki ovaya nazaran oldukça fazladır ve bu nedenle ziyaretçiler, geniş bir alanı kapsayan bir manzara ile karşılaşırlar. Derbent Tepesi, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Tepenin eteklerinde akan küçük dereler, çevreyi serinletir ve ziyaretçilere huzur veren bir ortam sunar. Derbent Tepesi'nin iklimi, Doğu Anadolu Bölgesi'nin genel iklimine benzer. Kış ayları soğu ve kar yağışlı, yaz ayları ise serin ve güneşlidir. Tepenin coğrafi konumu, ziyaretçilere dört mevsim boyunca farklı bir güzellik sunar. Derbent Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için önemli bir gezi noktasıdır.
+Derbent Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir noktadır. Tepenin yüksekliği, çevresindeki ovaya nazaran oldukça fazladır ve bu nedenle ziyaretçiler, geniş bir alanı kapsayan bir manzara ile karşılaşırlar. Derbent Tepesi, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Tepenin eteklerinde akan küçük dereler, çevreyi serinletir ve ziyaretçilere huzur veren bir ortam sunar. Derbent Tepesi'nin iklimi, Doğu Anadolu Bölgesi'nin genel iklimine benzer. Kış ayları soğuk ve kar yağışlı, yaz ayları ise serin ve güneşlidir. Tepenin coğrafi konumu, ziyaretçilere dört mevsim boyunca farklı bir güzellik sunar. Derbent Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için önemli bir gezi noktasıdır.
 
 ## Flora ve Fauna
 

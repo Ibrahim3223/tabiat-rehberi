@@ -37,7 +37,7 @@ Babik Bey Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanır. Bu böl
 
 ## Coğrafya
 
-Babik Bey Hamamı, Simav ilçesinin merkezine uzun bir mesafe uzaklıkta yer alır. Bu bölge, Ege Bölgesi'nin coğrafi özelliklerine uygun olarak, genellikle sıca ve kurak bir iklime sahiptir. Babik Bey Hamamı'nın coğrafi konumu, ziyaretçilerine geniş bir sunar. Burada, deniz, dağ ve orman gibi doğal güzellikleri bir arada görme mümkündür. Babik Bey Hamamı'nın etrafında, çeşitli bitki türleri ve fauna bulunmakta olup, bu bölge, doğa severler için bir cennet olarak kabul edilebilir. Ayrıca, Babik Bey Hamamı, Simav'ın diğer turistik bölgelerine yakınlığı ile de dikkat çeker.
+Babik Bey Hamamı, Simav ilçesinin merkezine uzun bir mesafe uzaklıkta yer alır. Bu bölge, Ege Bölgesi'nin coğrafi özelliklerine uygun olarak, genellikle sıcak ve kurak bir iklime sahiptir. Babik Bey Hamamı'nın coğrafi konumu, ziyaretçilerine geniş bir sunar. Burada, deniz, dağ ve orman gibi doğal güzellikleri bir arada görme mümkündür. Babik Bey Hamamı'nın etrafında, çeşitli bitki türleri ve fauna bulunmakta olup, bu bölge, doğa severler için bir cennet olarak kabul edilebilir. Ayrıca, Babik Bey Hamamı, Simav'ın diğer turistik bölgelerine yakınlığı ile de dikkat çeker.
 
 ## Flora ve Fauna
 

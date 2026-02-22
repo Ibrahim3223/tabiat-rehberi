@@ -42,7 +42,7 @@ Sivas'ın doğal güzellikleri arasında yer alan Sekidede Dağı, 39.1833°K ve
 
 Doğal yapısı itibariyle Sekidede Dağı, Sivas'ın coğrafyasını şekillendiren dağlık sistemlerin bir parçasıdır. Bu dağlık sistem, bölgenin jeolojisini etkileyen önemli faktörlerden biridir. Sekidede Dağı'nın fiziksel yapısı, bölgenin genel coğrafyasını yansıtan bir özelliktedir. Ancak, ayrıntılı fiziksel veriler bulunmamasına rağmen, Sivas'ın genel coğrafyası, dağlık ve engebeli bir yapıya sahiptir.
 
-Mevsimsel olarak Sekidede Dağı ve çevresinde, karasal iklim özellikleri hakimdir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini etkileyen önemli bir faktördür. Sekidede Dağı'nın iklimi, Sivas'ın genel iklim yapısını yansıtan bir özelliktedir.
+Mevsimsel olarak Sekidede Dağı ve çevresinde, karasal iklim özellikleri hakimdir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini etkileyen önemli bir faktördür. Sekidede Dağı'nın iklimi, Sivas'ın genel iklim yapısını yansıtan bir özelliktedir.
 
 Sekidede Dağı, Sivas'ın doğal ve kültürel zenginliklerini barındıran bir bölgede yer alır. Çevresinde, tarihi ve kültürel olarak önemli alanlar bulunur. Dağın eteklerinde ve çevresinde, su kaynakları ve ekosistem bağlantıları mevcuttur. Bu bağlantılar, bölgenin doğal dengesini korumak için önemlidir. Sekidede Dağı, Sivas'ın doğal güzelliklerini keşfetmek isteyenler için bir çekim merkezi olarak görev yapmaktadır.
 

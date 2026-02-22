@@ -42,7 +42,7 @@ Konya'nın coğrafi zenginliklerinden biri olan Demirli Dağı, 37.0311°K, 32.2
 
 Doğal güzelliği ve jeolojik yapısı ile dikkat çeken Demirli Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Dağın şekli, genel olarak yuvarla ve hafif eğimli bir yapıya sahip. Jeolojik açıdan, Demirli Dağı'nın oluşumu, bölgenin tektonik aktivitesine bağlı olarak şekillenmiştir. Ancak, detaylı fiziksel veri bulunmaması, dağın boyutları ve yapısı hakkında daha spesifik bilgi edinilmesini engellemektedir.
 
-İklim açısından, Demirli Dağı ve çevresinin karakteri, karasal iklimin etkilerini taşır. Kışlar soğu ve kar yağışlı, yazlar ise sıca ve kurak geçer. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler. Hava durumu, mevsimlere göre değişkenlik gösterir ve bölgenin coğrafi yapısı, hava koşullarını şekillendirmesinde önemli bir rol oynar.
+İklim açısından, Demirli Dağı ve çevresinin karakteri, karasal iklimin etkilerini taşır. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçer. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler. Hava durumu, mevsimlere göre değişkenlik gösterir ve bölgenin coğrafi yapısı, hava koşullarını şekillendirmesinde önemli bir rol oynar.
 
 Çevresel açıdan, Demirli Dağı, komşu alanlar ve su kaynakları ile bağlantılı bir ekosistem içerisinde yer alır. Dağın eteklerinde ve yakınında, çeşitli su kaynakları ve akarsular bulunabilir. Bu su kaynakları, bölgenin ekosistemini destekler ve doğal yaşamın devamını sağlar. Demirli Dağı, bu geniş coğrafi ağın bir parçası olarak, bölgenin biyolojik çeşitliliğine katkıda bulunur.
 

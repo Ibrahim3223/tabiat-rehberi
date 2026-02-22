@@ -43,7 +43,7 @@ Doğal güzelliklerin bir araya geldiği bir bölge olan Bursa'nın Marmara Deni
 
 Jeolojik yapı bakımından incelendiğinde, Halilbey Adası, Marmara Denizi'nin sığ sularında yer alan bir ada olarak, genel olarak düz bir yapıya sahip. Ada, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu büyüklük, Taksim Meydanı'nın birkaç katı büyüklüğüne karşılık geliyor. Ada'nın boyutları, küçük bir yerleşim alanı için uygun bir büyüklüğe sahip.
 
-İklim açısından, Halilbey Adası, Marmara Bölgesi'nin ılıman ikliminin karakteristik özelliklerini taşıyor. Kış aylarında sıklıkla yağışlı ve serin, yaz aylarında ise sıca ve nemli bir hava durumu hakim. Bu mevsimsel özellikler, adanın flora ve fauna çeşitliliğini etkiliyor.
+İklim açısından, Halilbey Adası, Marmara Bölgesi'nin ılıman ikliminin karakteristik özelliklerini taşıyor. Kış aylarında sıklıkla yağışlı ve serin, yaz aylarında ise sıcak ve nemli bir hava durumu hakim. Bu mevsimsel özellikler, adanın flora ve fauna çeşitliliğini etkiliyor.
 
 Çevresel açıdan, Halilbey Adası, Marmara Denizi'nin ekosistemine bağlı olarak, su kaynakları ve deniz canlıları açısından zengin bir bölge. Ada, komşu alanlarla birlikte, bir bütün olarak düşünüldüğünde, Monaco'nun yarısı kadar bir alanı kaplayacak büyüklükte bir ekosistem oluşturuyor. Bu büyük ekosistem, çeşitli su kaynakları ve canlı türleri için önemli bir yaşam alanı sunuyor.
 

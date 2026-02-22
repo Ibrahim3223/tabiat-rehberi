@@ -37,7 +37,7 @@ Alaşehir Hamamı'nın tarihi geçmişi, bölgenin genel tarihi ile paralel olar
 
 ## Coğrafya
 
-Alaşehir Hamamı, Manisa'nın Alaşehir ilçesinde, Ege Bölgesi'nde yer alıyor. Bu plaj, 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. Bölge, coğrafi olarak Ege Denizi'ne kıyısı olan ve genellikle sıca ve kurak yazlar, ılık ve yağışlı kışlar ile karakterize edilen Akdeniz ikliminin etkisinde. Alaşehir Hamamı'nın etrafı, genellikle zeytin ağaçları ve yerel bitki türleri ile kaplı. Plajın kendisi, genellikle kumlu ve taşlı bir yapıya sahip. Bu coğrafi özellikler, ziyaretçilere hem denize girme hem de çevreyi keşfetme fırsatı sunuyor. Ayrıca, plajın yakınında bulunan diğer doğal güzellikler ve tarihi yerler, ziyaretçilere geniş bir gezi ve keşif alanı sunuyor.
+Alaşehir Hamamı, Manisa'nın Alaşehir ilçesinde, Ege Bölgesi'nde yer alıyor. Bu plaj, 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. Bölge, coğrafi olarak Ege Denizi'ne kıyısı olan ve genellikle sıcak ve kurak yazlar, ılık ve yağışlı kışlar ile karakterize edilen Akdeniz ikliminin etkisinde. Alaşehir Hamamı'nın etrafı, genellikle zeytin ağaçları ve yerel bitki türleri ile kaplı. Plajın kendisi, genellikle kumlu ve taşlı bir yapıya sahip. Bu coğrafi özellikler, ziyaretçilere hem denize girme hem de çevreyi keşfetme fırsatı sunuyor. Ayrıca, plajın yakınında bulunan diğer doğal güzellikler ve tarihi yerler, ziyaretçilere geniş bir gezi ve keşif alanı sunuyor.
 
 ## Flora ve Fauna
 

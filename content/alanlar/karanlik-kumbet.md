@@ -38,7 +38,7 @@ Karanlıkümbet'in tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b�
 
 ## Coğrafya
 
-Karanlıkümbet, Erzurum'un Yakutiye ilçesinde yer alan bir plajdır. Bu plaj, Doğu Anadolu Bölgesi'nin coğrafi özelliklerini taşır ve yüksek bir bölgede bulunmaktadır. Karanlıkümbet'in etrafında yüksek dağlar ve geniş ovalar bulunmaktadır. Bu bölge, çeşitli bitki türleri ve zengin fauna ile doğa severlerin ilgisini çekmektedir. Karanlıkümbet'in iklimi, karasal iklim özellikleri taşır ve yaz ayları serin ve yağışlı, kış ayları soğu ve karlı geçer. Bu plaj, geniş bir sahil şeridine sahiptir ve su sporları için uygun bir ortam sunar. Karanlıkümbet'in coğrafi konumu, ziyaretçilerine çeşitli aktivite olanakları sunar. Bu bölge, aynı zamanda doğa fotoğrafçıları için de bir cennet niteliğindedir.
+Karanlıkümbet, Erzurum'un Yakutiye ilçesinde yer alan bir plajdır. Bu plaj, Doğu Anadolu Bölgesi'nin coğrafi özelliklerini taşır ve yüksek bir bölgede bulunmaktadır. Karanlıkümbet'in etrafında yüksek dağlar ve geniş ovalar bulunmaktadır. Bu bölge, çeşitli bitki türleri ve zengin fauna ile doğa severlerin ilgisini çekmektedir. Karanlıkümbet'in iklimi, karasal iklim özellikleri taşır ve yaz ayları serin ve yağışlı, kış ayları soğuk ve karlı geçer. Bu plaj, geniş bir sahil şeridine sahiptir ve su sporları için uygun bir ortam sunar. Karanlıkümbet'in coğrafi konumu, ziyaretçilerine çeşitli aktivite olanakları sunar. Bu bölge, aynı zamanda doğa fotoğrafçıları için de bir cennet niteliğindedir.
 
 ## Flora ve Fauna
 

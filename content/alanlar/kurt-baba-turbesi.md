@@ -38,7 +38,7 @@ Kurt Baba Türbesi'nin tarihi geçmişi, Ege Bölgesi'nin zengin kültürel mira
 
 ## Coğrafya
 
-Kurt Baba Türbesi, Ege Bölgesi'nin Tire ilçesinde, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor. Bu bölge, Ege Denizi'ne yakın olması nedeniyle, ılıman bir iklimi sahip. Yaz ayları, sıca ve kurak geçerken, kış ayları ılıman ve yağışlı. Türbenin bulunduğu alan, çoğunlukla zeytinli ve ormansız arazilerden oluşuyor. Bu coğrafi özellik, ziyaretçilere geniş ve yeşillik bir manzara sunuyor. Ayrıca, türbenin yakınlarında, çeşitli su kaynakları ve küçük akarsular bulunuyor. Bu su kaynakları, bölgenin ekolojisini zenginleştiriyor ve ziyaretçilere serin bir atmosfer sunuyor.
+Kurt Baba Türbesi, Ege Bölgesi'nin Tire ilçesinde, yüksek bir konumda yer alıyor. Bu bölge, Ege Denizi'ne yakın olması nedeniyle, ılıman bir iklimi sahip. Yaz ayları, sıcak ve kurak geçerken, kış ayları ılıman ve yağışlı. Türbenin bulunduğu alan, çoğunlukla zeytinli ve ormansız arazilerden oluşuyor. Bu coğrafi özellik, ziyaretçilere geniş ve yeşillik bir manzara sunuyor. Ayrıca, türbenin yakınlarında, çeşitli su kaynakları ve küçük akarsular bulunuyor. Bu su kaynakları, bölgenin ekolojisini zenginleştiriyor ve ziyaretçilere serin bir atmosfer sunuyor.
 
 ## Flora ve Fauna
 

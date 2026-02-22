@@ -36,7 +36,7 @@ Yangınkulesi Tepe'nin tarihi geçmişi, Marmara Bölgesi'nin genel tarihçesi i
 
 ## Coğrafya
 
-Yangınkulesi Tepe, Marmara Bölgesi'nin coğrafi olarak önemli bir noktasında yer alır. Tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplar. Yangınkulesi Tepe'nin coğrafi özellikleri, Marmara Bölgesi'nin genel coğrafi özelliklerini taşır. Tepe, etrafındaki bölgeye göre daha yüksek bir konumda bulunur ve geniş bir manzara sunar. Yangınkulesi Tepe'nin iklimi, Marmara Bölgesi'nin iklimi ile benzerlik gösterir. Tepe, yaz aylarında sıca ve khô, kış aylarında ise soğu ve yağışlı bir iklimi tri qua eder. Yangınkulesi Tepe'nin coğrafi konumu, tepe ve çevresinin flora ve faunasının zenginleşmesine katkıda bulunmuştur. Tepe, çeşitli bitki türleri ve hayvanları barındırır ve Marmara Bölgesi'nin ekolojik dengesini korur.
+Yangınkulesi Tepe, Marmara Bölgesi'nin coğrafi olarak önemli bir noktasında yer alır. Tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplar. Yangınkulesi Tepe'nin coğrafi özellikleri, Marmara Bölgesi'nin genel coğrafi özelliklerini taşır. Tepe, etrafındaki bölgeye göre daha yüksek bir konumda bulunur ve geniş bir manzara sunar. Yangınkulesi Tepe'nin iklimi, Marmara Bölgesi'nin iklimi ile benzerlik gösterir. Tepe, yaz aylarında sıcak ve kuru, kış aylarında ise soğuk ve yağışlı bir iklimi tri qua eder. Yangınkulesi Tepe'nin coğrafi konumu, tepe ve çevresinin flora ve faunasının zenginleşmesine katkıda bulunmuştur. Tepe, çeşitli bitki türleri ve hayvanları barındırır ve Marmara Bölgesi'nin ekolojik dengesini korur.
 
 ## Flora ve Fauna
 

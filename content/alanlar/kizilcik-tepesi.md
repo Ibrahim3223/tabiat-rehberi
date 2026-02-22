@@ -36,7 +36,7 @@ Kızılcık Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve b�
 
 ## Coğrafya
 
-Kızılcık Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe. Bu bölge, geniş ovalar, yüksek dağlar ve geniş otlaklarla kaplı. Kızılcık Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve etrafı ormanlık alanlar ve otlaklarla çevrili. Burada, iklim genel olarak karasal iklim özellikleri gösteriyor; kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak. Kızılcık Tepesi'nin coğrafi konumu, ziyaretçilere geniş bir faaliyet yelpazesi sunuyor. Burada, doğa yürüyüşleri, kampçılık, fotoğrafçılık gibi birçok faaliyet yapılabiliyor. Ayrıca, tepe ve çevresinin coğrafi güzelliği, ziyaretçilere büyüleyici bir manzara sunuyor.
+Kızılcık Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe. Bu bölge, geniş ovalar, yüksek dağlar ve geniş otlaklarla kaplı. Kızılcık Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve etrafı ormanlık alanlar ve otlaklarla çevrili. Burada, iklim genel olarak karasal iklim özellikleri gösteriyor; kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak. Kızılcık Tepesi'nin coğrafi konumu, ziyaretçilere geniş bir faaliyet yelpazesi sunuyor. Burada, doğa yürüyüşleri, kampçılık, fotoğrafçılık gibi birçok faaliyet yapılabiliyor. Ayrıca, tepe ve çevresinin coğrafi güzelliği, ziyaretçilere büyüleyici bir manzara sunuyor.
 
 ## Flora ve Fauna
 

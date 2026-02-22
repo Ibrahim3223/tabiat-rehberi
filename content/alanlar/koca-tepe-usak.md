@@ -44,7 +44,7 @@ Uşak'ın coğrafi dokusunda önemli bir yere sahip olan Koca Tepe, 38.5358°K, 
 
 Jeolojik açıdan incelendiğinde, Koca Tepe'nin coğrafi yapısı hakkında detaylı bilgi bulunmasa da, bu bölgenin Uşak'ın genel coğrafyası içinde önemli bir yer tuttuğu bilinmektedir. Dağın yüksekliği ve genişliği, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplar. Bu büyüklük, ziyaretçilerin geniş ve engin bir manzara ile karşılaşmasına imkân tanır.
 
-Mevsimsel açıdan bakıldığında, Koca Tepe'nin iklim karakteri Uşak'ın genel iklimine benzerlik gösterir. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürer. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler ve her mevsim farklı bir güzelliği ortaya çıkarır.
+Mevsimsel açıdan bakıldığında, Koca Tepe'nin iklim karakteri Uşak'ın genel iklimine benzerlik gösterir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürer. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler ve her mevsim farklı bir güzelliği ortaya çıkarır.
 
 Çevresel açıdan, Koca Tepe Uşak'ın diğer doğal güzelliklerine oldukça yakındır. Bu dağ, şehrin su kaynaklarına ve ekosistemine önemli bir katkı sağlar. Ayrıca, Koca Tepe'nin Monaco'nun küçük bir bölümü kadar büyüklüğü, bölgenin coğrafi zenginliğini ve çeşitliliğini vurgular. Bu özellikler, Koca Tepe'yi Uşak'ın önemli bir doğal mirası haline getirir.
 

@@ -37,7 +37,7 @@ Fatih, İstanbul'da bulunan Şirmerd Çavuş Türbesi, hem tarihi hem de doğal 
 
 ## Coğrafya
 
-Şirmerd Çavuş Türbesi, Fatih, İstanbul'da yer alıyor ve Marmara Bölgesi'nin coğrafi özelliklerine sahip. Bu bölge, deniz seviyesinden yaklaşık yüksek bir konumdate bulunuyor ve etrafı tarihi yapılar ile çevrilmiş. Türbenin coğrafi konumu, Marmara Denizi'ne yakın bir konumda ve bu nedenle iklimi ılıman ve nemli. Şirmerd Çavuş Türbesi'nin etrafı, çeşitli bitki türleri ile örtülü ve bu bitkiler, türbenin doğal güzelliğini artırıyor. Ayrıca, türbe çevresinde zengin fauna bulunuyor ve bu fauna, türbenin ekolojik dengesini sağlıyor. Şirmerd Çavuş Türbesi, coğrafi konumu ve tarihi geçmişi ile birlikte, önemli bir turizm merkezi olarak dikkat çekiyor.
+Şirmerd Çavuş Türbesi, Fatih, İstanbul'da yer alıyor ve Marmara Bölgesi'nin coğrafi özelliklerine sahip. Bu bölge, yüksek bir konumda bulunuyor ve etrafı tarihi yapılar ile çevrilmiş. Türbenin coğrafi konumu, Marmara Denizi'ne yakın bir konumda ve bu nedenle iklimi ılıman ve nemli. Şirmerd Çavuş Türbesi'nin etrafı, çeşitli bitki türleri ile örtülü ve bu bitkiler, türbenin doğal güzelliğini artırıyor. Ayrıca, türbe çevresinde zengin fauna bulunuyor ve bu fauna, türbenin ekolojik dengesini sağlıyor. Şirmerd Çavuş Türbesi, coğrafi konumu ve tarihi geçmişi ile birlikte, önemli bir turizm merkezi olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 

@@ -30,7 +30,7 @@ Kükürtlü Su Kaynağı Sit Alanı'nın tarihi geçmişi, yüzyıllar boyunca �
 
 ## Coğrafya
 
-Kükürtlü Su Kaynağı Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı nde yer alır. Bu bölge, geniş otlaklar ve ormanlık alanlarla çevrilidir. Kükürtlü Su Kaynağı Sit Alanı'nın coğrafi konumu, ziyaretçilere geniş bir manzara sunar. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bu coğrafi yapı, çeşitli bitki türlerinin ve fauna çeşitliliğinin gelişmesine olanak tanır. Kükürtlü Su Kaynağı Sit Alanı, yaklaşık 140 hektarlık bir alana yayılmış olup, bu alanın büyük bir kısmı orman ve otlaklardan oluşur.
+Kükürtlü Su Kaynağı Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı nde yer alır. Bu bölge, geniş otlaklar ve ormanlık alanlarla çevrilidir. Kükürtlü Su Kaynağı Sit Alanı'nın coğrafi konumu, ziyaretçilere geniş bir manzara sunar. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu coğrafi yapı, çeşitli bitki türlerinin ve fauna çeşitliliğinin gelişmesine olanak tanır. Kükürtlü Su Kaynağı Sit Alanı, yaklaşık 140 hektarlık bir alana yayılmış olup, bu alanın büyük bir kısmı orman ve otlaklardan oluşur.
 
 ## Flora ve Fauna
 

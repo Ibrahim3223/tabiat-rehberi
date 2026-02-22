@@ -36,7 +36,7 @@ Tuztaşı Tepe'nin tarihi geçmişi, binlerce yıl öncesine dayanır. Bu bölge
 
 ## Coğrafya
 
-Tuztaşı Tepe, Antalya'nın coğrafi yapısının karakteristik özelliklerini taşır. Bu bölge, Akdeniz Bölgesi'nin tipik coğrafi özellikleri olan dağlar, vadiler ve ova alanlarından oluşur. Tuztaşı Tepe'nin coğrafi konumu, ziyaretçilerine geniş bir manzara sunar. Burada, deniz seviyesinden yüksek olan tepelerden, Akdeniz'in maviliği ve çevredeki dağların yeşilliği izlenebilir. Tuztaşı Tepe, coğrafi çeşitliliği ve doğal güzellikleriyle ziyaretçilerini etkiler. Ayrıca, bu bölgenin iklimi, Akdeniz ikliminin characteristicsini taşır ve genellikle sıca ve kurudur.
+Tuztaşı Tepe, Antalya'nın coğrafi yapısının karakteristik özelliklerini taşır. Bu bölge, Akdeniz Bölgesi'nin tipik coğrafi özellikleri olan dağlar, vadiler ve ova alanlarından oluşur. Tuztaşı Tepe'nin coğrafi konumu, ziyaretçilerine geniş bir manzara sunar. Burada, deniz seviyesinden yüksek olan tepelerden, Akdeniz'in maviliği ve çevredeki dağların yeşilliği izlenebilir. Tuztaşı Tepe, coğrafi çeşitliliği ve doğal güzellikleriyle ziyaretçilerini etkiler. Ayrıca, bu bölgenin iklimi, Akdeniz ikliminin characteristicsini taşır ve genellikle sıcak ve kurudur.
 
 ## Flora ve Fauna
 

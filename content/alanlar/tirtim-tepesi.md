@@ -36,7 +36,7 @@ Tırtım Tepesi'nin tarihi geçmişi, bölgenin genel tarihi ile paralellik gös
 
 ## Coğrafya
 
-Tırtım Tepesi, Şanlıurfa'nın güneyinde, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak yer alıyor. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve bu bitkiler, bölgenin iklimine uygun olarak gelişiyorlar. Tırtım Tepesi, çevredeki diğer tepelerden daha yükse ve bu nedenle, ziyaretçilere geniş bir manzara sunuyor. Tepenin eteklerinde yer alan köyler, bölgenin coğrafi yapısını yansıtıyor ve ziyaretçilere, yerel yaşamı gözlemleme fırsatı sunuyor. Bölgenin iklimi, genellikle sıca ve kurak geçiyor, ancak Tırtım Tepesi'nin yüksekliği, bu iklimin etkilerini hafifletiyor. Tepenin çevresindeki su kaynakları, bölgenin su ihtiyacını karşılıyor ve ziyaretçilere, serinleme fırsatı sunuyor.
+Tırtım Tepesi, Şanlıurfa'nın güneyinde, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak yer alıyor. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve bu bitkiler, bölgenin iklimine uygun olarak gelişiyorlar. Tırtım Tepesi, çevredeki diğer tepelerden daha yükse ve bu nedenle, ziyaretçilere geniş bir manzara sunuyor. Tepenin eteklerinde yer alan köyler, bölgenin coğrafi yapısını yansıtıyor ve ziyaretçilere, yerel yaşamı gözlemleme fırsatı sunuyor. Bölgenin iklimi, genellikle sıcak ve kurak geçiyor, ancak Tırtım Tepesi'nin yüksekliği, bu iklimin etkilerini hafifletiyor. Tepenin çevresindeki su kaynakları, bölgenin su ihtiyacını karşılıyor ve ziyaretçilere, serinleme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

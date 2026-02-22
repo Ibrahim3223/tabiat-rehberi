@@ -37,7 +37,7 @@ Patara Plajı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bölg
 
 ## Coğrafya
 
-Patara Plajı, İç Anadolu Bölgesi'nin coğrafi olarak önemli birindedir. Plaj, geniş kumsalları ve 140 hektarlık yeşil alanı ile dikkat çeker. Bölge, deniz seviyesinden yaklaşık 100 metre hooglükte bulunur ve etrafı dağlarla çevrilidir. Patara Plajı'nın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Bölge, yaz aylarında sıca ve kurak, kış aylarında soğu ve yağışlı bir iklime sahiptir. Patara Plajı, aynı zamanda bir nehrin ağzında bulunur ve bu nehir, plajın suyundan sorumludur. Nehir, bölgenin ekolojisini destekler ve çeşitli bitki türlerinin yetişmesine katkıda bulunur. Patara Plajı'nın coğrafi yapısı, ziyaretçilerin doğayla iç içe olmasını ve çeşitli aktivitelere katılmasını sağlar.
+Patara Plajı, İç Anadolu Bölgesi'nin coğrafi olarak önemli birindedir. Plaj, geniş kumsalları ve 140 hektarlık yeşil alanı ile dikkat çeker. Bölge, deniz seviyesinden yaklaşık 100 metre hooglükte bulunur ve etrafı dağlarla çevrilidir. Patara Plajı'nın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Bölge, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve yağışlı bir iklime sahiptir. Patara Plajı, aynı zamanda bir nehrin ağzında bulunur ve bu nehir, plajın suyundan sorumludur. Nehir, bölgenin ekolojisini destekler ve çeşitli bitki türlerinin yetişmesine katkıda bulunur. Patara Plajı'nın coğrafi yapısı, ziyaretçilerin doğayla iç içe olmasını ve çeşitli aktivitelere katılmasını sağlar.
 
 ## Flora ve Fauna
 

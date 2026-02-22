@@ -44,7 +44,7 @@ Muğla'nın dağlık coğrafyasının bir parçası olan Gayran Dağı, 36.7509�
 
 Doğal bir anıt olarak ortaya çıkan Gayran Dağı, çevresindeki coğrafyaya hükmeder. Yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu dağ, bölgenin jeolojik yapısını şekillendirmiştir. Kayalık ve dağlık bir araziye sahip olan Gayran Dağı, çevresindeki ovalar ve vadilerle birlikte bir bütün olarak değerlendirilmelidir.
 
-Mevsimsel değişimlere göre şekillenen Gayran Dağı'nın iklimi, Muğla'nın genel iklim karakterini yansıtmaktadır. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak olan bu iklim, bölgenin flora ve faunasını etkilemektedir. Dağın yüksekliği, surroundingsındaki hava durumunu da etkileyerek, bölgenin mikro iklimini oluşturmaktadır.
+Mevsimsel değişimlere göre şekillenen Gayran Dağı'nın iklimi, Muğla'nın genel iklim karakterini yansıtmaktadır. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak olan bu iklim, bölgenin flora ve faunasını etkilemektedir. Dağın yüksekliği, surroundingsındaki hava durumunu da etkileyerek, bölgenin mikro iklimini oluşturmaktadır.
 
 Bölgenin ekosistemini destekleyen Gayran Dağı, komşu alanlar ve su kaynaklarıyla bağlantılıdır. Yakınlarında bulunan akarsular ve göller, dağın yüksekli ve eğimine göre şekillenmiştir. Bu doğal kaynaklar, bölgenin canlılarına yaşam alanı sunarken, aynı zamanda insan yerleşimlerini de desteklemektedir. Gayran Dağı, Muğla'nın doğal güzelliklerini koruma altına alan bir konumda bulunurken, bölgenin ekonomi ve sosyal gelişimine de katkıda bulunmaktadır.
 

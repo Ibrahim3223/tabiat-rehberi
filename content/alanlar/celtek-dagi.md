@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Çeltek Dağı, Sivas ili sınırları i
 
 Jeolojik açıdan bakıldığında, Çeltek Dağı'nın yapısı hakkında detaylı bilgi olmasa da, bölgenin genel jeolojik özellikleri düşünüldüğünde, dağların oluşumunda volkani ve sedimentatif süreçlerin etkili olduğu söylenebilir. Monaco'nun yarısı kadar bir alanı kaplayan bu dağ, İstanbul'un Adalar ilçesi büyüklüğünde bir alanın yaklaşık üçte biri kadar bir alanı kaplar. Bu büyüklük, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alana denk gelir.
 
-Mevsimsel değişimlerin etkisi altında olan Çeltek Dağı, Sivas'ın karasal ikliminin karakteristik özelliklerini taşır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu mevsimsel değişimler, dağın flora ve fauna çeşitliliğini etkiler. Eiffel Kulesi'nin birkaç katı yükseklikte olan bu dağ, bölgenin ekolojik dengesini korur.
+Mevsimsel değişimlerin etkisi altında olan Çeltek Dağı, Sivas'ın karasal ikliminin karakteristik özelliklerini taşır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu mevsimsel değişimler, dağın flora ve fauna çeşitliliğini etkiler. Eiffel Kulesi'nin birkaç katı yükseklikte olan bu dağ, bölgenin ekolojik dengesini korur.
 
 Çevresel açıdan bakıldığında, Çeltek Dağı'nın komşu alanlar ve su kaynakları ile olan ilişkisi önemlidir. Bölgenin hidrolojik dengesini sağlayan su kaynakları, dağların eteklerinde yer alan ovalarda tarımı destekler. Bu ovalar, Çeltek Dağı'nın eteklerinde oluşan verimli topraklarla birlikte, bölgenin tarım potansiyelini artırır. Bu doğal kaynaklar, bölgenin ekonomi ve ekolojik zenginliğini korur.
 

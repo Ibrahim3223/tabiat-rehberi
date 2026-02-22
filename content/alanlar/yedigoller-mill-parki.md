@@ -37,7 +37,7 @@ Yedigöller Millî Parkı, 1965 yılında milli park olarak ilan edilmiştir. Bu
 
 ## Coğrafya
 
-Yedigöller Millî Parkı, Karadeniz Bölgesi'nin karakteristik coğrafi yapısına sahiptir. Bölge, 1200 hektarlık bir alana yayılmış ve yedi gölden oluşmaktadır. Göllerin etrafında, ormanlar ve yüksek noktalara sahip dağlar yer alır. Bölgenin iklimi, Karadeniz ikliminin özellikleri taşır ve yazları serin, kışları ise soğu ve yağışlıdır. Yedigöller Millî Parkı, aynı zamanda çevresindeki diğer milli parklar ve korunan alanlarla birlikte, bir ekosistem olarak da önemlidir.
+Yedigöller Millî Parkı, Karadeniz Bölgesi'nin karakteristik coğrafi yapısına sahiptir. Bölge, 1200 hektarlık bir alana yayılmış ve yedi gölden oluşmaktadır. Göllerin etrafında, ormanlar ve yüksek noktalara sahip dağlar yer alır. Bölgenin iklimi, Karadeniz ikliminin özellikleri taşır ve yazları serin, kışları ise soğuk ve yağışlıdır. Yedigöller Millî Parkı, aynı zamanda çevresindeki diğer milli parklar ve korunan alanlarla birlikte, bir ekosistem olarak da önemlidir.
 
 ## Flora ve Fauna
 

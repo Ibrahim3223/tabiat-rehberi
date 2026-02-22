@@ -38,7 +38,7 @@ Cebe Ali Türbesi'nin tarihi geçmişi, İstanbul'un zengin kültürel mirasın�
 
 ## Coğrafya
 
-Cebe Ali Türbesi, Marmara Bölgesi'nin kalbinde, İstanbul'un Fatih ilçesinde yer alıyor. Bu bölge, coğrafi olarak çeşitli doğal güzelliklere sahip. Türbe, deniz seviyesinden yaklaşık yüksek bir konumdate ve bu yükseklik, ziyaretçilere şehrin panoramik manzarasını sunuyor. Çevre, tarihi ve modern yapıların bir araya geldiği bir bölge. Cebe Ali Türbesi, bu bölgede yer alan önemli tarihi mekanlardan biri ve ziyaretçilere, İstanbul'un coğrafi ve kültürel çeşitliliğini deneyimleme fırsatı sunuyor. İstanbul'un iklimi, karasal ve denizsel etkilerin bir bileşimi ve bu iklim, Cebe Ali Türbesi'nin bulunduğu bölgede de hissediliyor. İlkbahar ve sonbahar ayları, bu bölgenin güzelliğini keşfetmek için en uygun zamanlar.
+Cebe Ali Türbesi, Marmara Bölgesi'nin kalbinde, İstanbul'un Fatih ilçesinde yer alıyor. Bu bölge, coğrafi olarak çeşitli doğal güzelliklere sahip. Türbe, yüksek bir konumda ve bu yükseklik, ziyaretçilere şehrin panoramik manzarasını sunuyor. Çevre, tarihi ve modern yapıların bir araya geldiği bir bölge. Cebe Ali Türbesi, bu bölgede yer alan önemli tarihi mekanlardan biri ve ziyaretçilere, İstanbul'un coğrafi ve kültürel çeşitliliğini deneyimleme fırsatı sunuyor. İstanbul'un iklimi, karasal ve denizsel etkilerin bir bileşimi ve bu iklim, Cebe Ali Türbesi'nin bulunduğu bölgede de hissediliyor. İlkbahar ve sonbahar ayları, bu bölgenin güzelliğini keşfetmek için en uygun zamanlar.
 
 ## Flora ve Fauna
 

@@ -46,7 +46,7 @@ Doğal güzellikleri ve stratejik konumuyla, Helles Burnu gibi alanlar Türkiye'
 
 Doğal güzellikleri ve tarihi önemi ile dikkat çeken Helles Burnu, bir birkaç olimpik havuz kadar geniş bir alanı kaplıyor. Bu küçük ancak önemli bölge, Gelibolu Yarımadası'nın en güney ucunda yer alıyor ve çevresindeki arazinin jeolojik yapısı, genel olarak kireçtaşı vekillerinden oluşuyor. Ancak, ayrıntılı fiziksel veriler bulunmaması nedeniyle, bu bölgenin tam olarak boyutları ve şekli hakkında net bilgiye sahip değiliz.
 
-İklim açısından bakıldığında, Helles Burnu, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel değişimler, bölgenin flora ve fauna zenginliğini etkiliyor ve bu nedenle, Helles Burnu, önemli bir kuş cenneti olarak biliniyor.
+İklim açısından bakıldığında, Helles Burnu, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel değişimler, bölgenin flora ve fauna zenginliğini etkiliyor ve bu nedenle, Helles Burnu, önemli bir kuş cenneti olarak biliniyor.
 
 Gelibolu Yarımadası'nın diğer bölgeleri gibi, Helles Burnu da, komşu alanlar ve su kaynakları ile bağlantılı bir ekosisteme sahip. Çanakkale Boğazı'nın yakınında yer alması, bu bölgenin deniz ekosistemleri ile de güçlü bir bağlantısı olduğunu gösteriyor. Bu bağlantı, bölgenin biyolojik çeşitliliğini zenginleştirmekte ve Helles Burnu'nu, Türkiye'nin önemli doğal alanlarından biri haline getirmektedir.
 

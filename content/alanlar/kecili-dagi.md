@@ -44,7 +44,7 @@ Güneydoğu Anadolu'nun kalbinde yer alan Keçili Dağı, 38.5789°K ve 36.4931�
 
 Jeolojik açıdan bakıldığında, Keçili Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, genel olarak Türkiye'nin dağlık bölgelerinde görülen özelliklere sahiptir. Bu bölgede, genellikle kalker ve şist gibi kayaçlar yaygın olarak bulunur. Keçili Dağı'nın boyutları hakkında da net bir bilgi olmasa da, genel olarak benzer dağların boyutları, Monaco'nun yarısı kadar bir alanı kaplayabilmekte ve bu da yaklaşık 2-3 km'lik bir uzunluğa karşılık gelebilmektedir.
 
-Mevsimsel olarak, Keçili Dağı'nın iklim karakteri, Türkiye'nin iç bölgelerine özgü karasal iklim özellikleri gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna yapısını etkileyen önemli faktörlerdir.
+Mevsimsel olarak, Keçili Dağı'nın iklim karakteri, Türkiye'nin iç bölgelerine özgü karasal iklim özellikleri gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna yapısını etkileyen önemli faktörlerdir.
 
 Çevresel açıdan, Keçili Dağı, komşu alanlar ve su kaynaklarıyla bağlantılı bir ekosistem içerisinde yer alır. Türkiye'nin iç bölgelerinde yer alan diğer dağlar gibi, Keçili Dağı da bölgenin hidrolojik dengesini etkileyen önemli bir faktördür. Bu dağ, bölgenin su kaynaklarının oluşumunda ve ekosistemin sağlıklı bir şekilde işleyişinde önemli bir rol oynamaktadır.
 

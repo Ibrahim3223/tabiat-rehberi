@@ -42,7 +42,7 @@ Göbel Dağı, Balıkesir'in coğrafi haritasında önemli bir yere sahip olan b
 
 Doğal güzelliği ile dikkat çeken Göbel Dağı, jeolojik açıdan da önemli bir yapıya sahiptir. Ancak, detaylı fiziksel veriler bulunmamasına rağmen, dağların genel olarak zorlu bir coğrafyaya sahip olduğu bilinir. Bu dağlar, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bir noktaya ulaşabilir ve bu yükseklik, bölgenin coğrafi yapısını etkileyen önemli bir faktördür.
 
-Mevsimsel özelliklere baktığımızda, Göbel Dağı'nın iklim karakteri, bölgenin genel iklim koşullarına benzerlik gösterir. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürer. Bu mevsimsel değişiklikler, bölgenin doğal yaşamını ve bitki örtüsünü etkiler ve dağların ekosisteminin dengesini korur.
+Mevsimsel özelliklere baktığımızda, Göbel Dağı'nın iklim karakteri, bölgenin genel iklim koşullarına benzerlik gösterir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürer. Bu mevsimsel değişiklikler, bölgenin doğal yaşamını ve bitki örtüsünü etkiler ve dağların ekosisteminin dengesini korur.
 
 Bölgenin su kaynaklarına baktığımızda, Göbel Dağı'nın çevresinde several küçük akarsular ve dere yatakları bulunur. Bu su kaynakları, bölgenin ekosistemini destekler ve komşu alanlarla bağlantılı bir şekilde işler. Monaco'nun yarısı kadar bir alanı kaplayan bu dağ, bölgenin coğrafi yapısını ve doğal güzelliğini korumak için önemli bir role sahiptir.
 

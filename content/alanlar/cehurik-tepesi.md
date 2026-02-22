@@ -36,7 +36,7 @@ Cehurik Tepesi, tarihi geçmişiyle dikkat çekiyor. Bu tepenin etrafındaki bö
 
 ## Coğrafya
 
-Cehurik Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını temsil ediyor. Tepenin etrafını saran dağlar ve vadiler, bölgeyi eşsiz bir doğal güzellik haline getiriyor. Bölgenin iklimi, yazları sıca ve kurak, kışları soğu ve yağışlı. Bu iklim, bölgenin flora ve faunasını etkiliyor. Cehurik Tepesi, bölgenin coğrafi yapısını ve iklimini deneyimlemek için ideal bir yer. Tepenin yüksekliği, bölgenin manzarasını seyretmek için uygun bir nokta.
+Cehurik Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını temsil ediyor. Tepenin etrafını saran dağlar ve vadiler, bölgeyi eşsiz bir doğal güzellik haline getiriyor. Bölgenin iklimi, yazları sıcak ve kurak, kışları soğuk ve yağışlı. Bu iklim, bölgenin flora ve faunasını etkiliyor. Cehurik Tepesi, bölgenin coğrafi yapısını ve iklimini deneyimlemek için ideal bir yer. Tepenin yüksekliği, bölgenin manzarasını seyretmek için uygun bir nokta.
 
 ## Flora ve Fauna
 

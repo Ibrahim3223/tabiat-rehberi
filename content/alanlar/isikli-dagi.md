@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Işıklı Dağı, 39.5608°K ve 40.8300�
 
 Jeolojik açıdan bakıldığında, Işıklı Dağı'nın fiziksel yapısı hakkında detaylı bilgi olmasa da, bu dağların genellikle yükse ve engebeli bir coğrafyaya sahip olduğu biliniyor. Işıklı Dağı'nın boyutları, Monaco'nun yarısı kadar bir alanı kaplıyor gibi düşünülebilir. Bu genişlik, Taksim Meydanı'nın 20 katı büyüklüğüne denk geliyor. Bu karşılaştırma, Işıklı Dağı'nın genişliğinisomutlaştırmaya yardımcı oluyor.
 
-Mevsimsel özellikler açısından, Işıklı Dağı, Doğu Anadolu Bölgesi'nin karakteristik iklimini yansıtıyor. Bu bölgede, kışlar soğu ve karlı, yazlar ise serin ve yağışlı geçiyor. Hava durumu, mevsimlere göre değişkenlik gösteriyor; ilkbahar ve sonbahar ayları, ılıman ve güneşli günlerle dolu. Bu mevsimsel özellikler, Işıklı Dağı'nı, doğa severler için bir cennet haline getiriyor.
+Mevsimsel özellikler açısından, Işıklı Dağı, Doğu Anadolu Bölgesi'nin karakteristik iklimini yansıtıyor. Bu bölgede, kışlar soğuk ve karlı, yazlar ise serin ve yağışlı geçiyor. Hava durumu, mevsimlere göre değişkenlik gösteriyor; ilkbahar ve sonbahar ayları, ılıman ve güneşli günlerle dolu. Bu mevsimsel özellikler, Işıklı Dağı'nı, doğa severler için bir cennet haline getiriyor.
 
 Işıklı Dağı, çevresindeki coğrafya ile de önemli bir bağlantıya sahip. Bu dağ, bölgedeki su kaynaklarını besliyor ve yerel ekosistemin bir parçasını oluşturuyor. Işıklı Dağı'nın yakınında, Erzurum'un önemli su kaynaklarından biri olan Tortum Gölü yer alıyor. Bu göl, Işıklı Dağı'nın eteklerinde, 1100 metre yükseklikte bulunuyor. Bu coğrafya, Işıklı Dağı'nın, bölgenin doğal güzellikleri ve ekosistemi için ne kadar önemli olduğunu gösteriyor.
 

@@ -37,7 +37,7 @@ wikidata_id: "Q134728403"
 
 ## Coğrafya
 
-İkiztepe Tümülüsü, Karadeniz Bölgesi'nin Giresun ilinde, Alucra ilçesinde yer almaktadır. Bu bölge, 140 hektarlık bir alana yayılmış ve yemyeşil bir ortamda bulunmaktadır. İkiztepe Tümülüsü, deniz seviyesinden yaklaşık yüksek bir konumdate yer almakta ve bu yükseklik, ziyaretçilere muhteşem bir manzara sunmaktadır. Bölge, çeşitli bitki türleri ve zengin fauna ile çevrilidir. İkiztepe Tümülüsü, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyen ziyaretçiler için ideal bir destinasyondur.
+İkiztepe Tümülüsü, Karadeniz Bölgesi'nin Giresun ilinde, Alucra ilçesinde yer almaktadır. Bu bölge, 140 hektarlık bir alana yayılmış ve yemyeşil bir ortamda bulunmaktadır. İkiztepe Tümülüsü, yüksek bir konumda yer almakta ve bu yükseklik, ziyaretçilere muhteşem bir manzara sunmaktadır. Bölge, çeşitli bitki türleri ve zengin fauna ile çevrilidir. İkiztepe Tümülüsü, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyen ziyaretçiler için ideal bir destinasyondur.
 
 ## Flora ve Fauna
 

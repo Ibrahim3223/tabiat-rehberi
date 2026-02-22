@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin en yüksek noktası olan Ağrı Dağı'nın eteklerin
 
 Jeolojik açıdan bakıldığında, Diburidağı'nın fiziksel yapısı hakkında spesifi veriler olmasa da, bölgenin genel coğrafyası hakkında bilgi sahibi olma mümkündür. Ağrı Dağı gibi bölgelerde genellikle volkanik kayaçlar bulunur ve bu da bölgenin jeolojik geçmişini etkiler. Diburidağı'nın yüksekliği ve şekli, Eiffel Kulesi'nin birkaç katı yükseklikte olan bir dağ gibi düşünülebilir, ancakexact yüksekli verisi bulunmuyor.
 
-İklim açısından, Diburidağı ve çevresindeki bölge, karasal iklimin hakim olduğu bir alandır. Kış aylarında oldukça soğu ve karlı, yaz aylarında ise serin ve yağışlı bir hava durumu hüküm sürer. Bu mevsimsel değişiklikler, bölgenin flora ve fauna açısından zengin bir çeşitlilik göstermesine neden olur.
+İklim açısından, Diburidağı ve çevresindeki bölge, karasal iklimin hakim olduğu bir alandır. Kış aylarında oldukça soğuk ve karlı, yaz aylarında ise serin ve yağışlı bir hava durumu hüküm sürer. Bu mevsimsel değişiklikler, bölgenin flora ve fauna açısından zengin bir çeşitlilik göstermesine neden olur.
 
 Çevresel açıdan bakıldığında, Diburidağı, Ağrı Dağı'nın eteklerinde yer alan diğer dağlık alanlarla birlikte, bir ekosistem ağı oluşturur. Bu bölgede, su kaynakları ve doğal yaşam alanları bulunur ve bu da bölgenin biyolojik çeşitliliğini destekler. Monaco'nun yarısı kadar bir alanı kaplayan bu dağlık bölge, İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplayan diğer dağlık alanlarla birlikte, bir bütün olarak değerlendirilmelidir.
 

@@ -30,7 +30,7 @@ Adapazari-Hendek-Karadere Karacam milli parkının tarihi geçmişi, yüzyıllar
 
 ## Coğrafya
 
-Adapazari-Hendek-Karadere Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biridir. Bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Milli park, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır ve bölgenin ekolojik dengesini korur. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve dört mevsim belirgindir. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bahar ve sonbahar mevsimleri, bölgenin güzelliğini keşfetmek için en uygun zamanlardır. Adapazari-Hendek-Karadere Karacam, ziyaretçilerine doğanın güzelliğini sunmak için tasarlanmış bir cennettir ve bölgenin coğrafi özellikleri, ziyaretçilerin doğayla iç içe olabilmesini sağlar.
+Adapazari-Hendek-Karadere Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biridir. Bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Milli park, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır ve bölgenin ekolojik dengesini korur. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve dört mevsim belirgindir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bahar ve sonbahar mevsimleri, bölgenin güzelliğini keşfetmek için en uygun zamanlardır. Adapazari-Hendek-Karadere Karacam, ziyaretçilerine doğanın güzelliğini sunmak için tasarlanmış bir cennettir ve bölgenin coğrafi özellikleri, ziyaretçilerin doğayla iç içe olabilmesini sağlar.
 
 ## Flora ve Fauna
 

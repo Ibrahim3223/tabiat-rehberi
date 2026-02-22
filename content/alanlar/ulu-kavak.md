@@ -30,7 +30,7 @@ Ulu Kavak'ın tarihi geçmişi, yüzyıllar boyunca farklı medeniyetlerin yaşa
 
 ## Coğrafya
 
-Ulu Kavak, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak, geniş otlaklar ve ormanlık alanlardan oluşmaktadır. 140 hektarlık milli park, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Coğrafi olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. İklimi, karasal iklimin özelliklerini gösterir. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bu iklim özellikleri, Ulu Kavak'ın florası ve faunasının çeşitlendirilmesine katkı sağlamıştır. Milli parkın coğrafi konumu, ziyaretçilerin kolayca ulaşabileceği bir bölgededir. Ulu Kavak, doğa severlerin ve turistlerin yeni durağı haline gelmiştir. Coğrafi olarak, Ulu Kavak'ın konumu, ziyaretçilerin diğer turistik merkezlere de kolayca ulaşabilmesini sağlamaktadır.
+Ulu Kavak, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak, geniş otlaklar ve ormanlık alanlardan oluşmaktadır. 140 hektarlık milli park, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Coğrafi olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. İklimi, karasal iklimin özelliklerini gösterir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim özellikleri, Ulu Kavak'ın florası ve faunasının çeşitlendirilmesine katkı sağlamıştır. Milli parkın coğrafi konumu, ziyaretçilerin kolayca ulaşabileceği bir bölgededir. Ulu Kavak, doğa severlerin ve turistlerin yeni durağı haline gelmiştir. Coğrafi olarak, Ulu Kavak'ın konumu, ziyaretçilerin diğer turistik merkezlere de kolayca ulaşabilmesini sağlamaktadır.
 
 ## Flora ve Fauna
 

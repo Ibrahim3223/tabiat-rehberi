@@ -44,7 +44,7 @@ Güneyde Konya'nın geniş düzlükleri uzanırken, Dedesivrisi Tepe bu coğrafy
 
 Doğal yapısını incelediğimizde, Dedesivrisi Tepe'nin coğrafi özellikleri hakkında detaylı bilgi olmasa da, genel olarak Anadolu'nun diğer dağları ile benzerlik gösterdiği söylenebilir. Bu dağların çoğu, volkanik kökenli ve genellikle yeraltı su kaynaklarına yakın konumda bulunuyor. Bu bölgedeki jeolojik oluşumlar, genellikle milyonlarca yıl önce oluşan volkanik faaliyetlerin bir sonucu olarak ortaya çıkıyor.
 
-Yıl boyunca Konya bölgesinde hüküm süren karasal iklim, Dedesivrisi Tepe'nin iklim karakterini de etkiliyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kuru bir hava hüküm sürüyor. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini şekillendiriyor ve doğanın farklı renklerini ortaya çıkarıyor.
+Yıl boyunca Konya bölgesinde hüküm süren karasal iklim, Dedesivrisi Tepe'nin iklim karakterini de etkiliyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kuru bir hava hüküm sürüyor. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini şekillendiriyor ve doğanın farklı renklerini ortaya çıkarıyor.
 
 Çevresel açıdan bakıldığında, Dedesivrisi Tepe, Konya'nın diğer doğal oluşumları ile bağlantılı olarak görülüyor. Yakınlardaki su kaynakları ve otlaklar, bu bölgenin ekosistemini zenginleştiriyor. Bu doğal kaynaklar, bölgedeki canlıların yaşamını sürdürmesine olanak tanır ve bölgenin biyolojik çeşitliliğini korur.
 

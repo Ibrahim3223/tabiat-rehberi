@@ -38,7 +38,7 @@ Tarihi Hamam'ın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu böl
 
 ## Coğrafya
 
-Tarihi Hamam, coğrafi olarak Kadıköy'ün merkezinde yer alır ve Marmara Bölgesi'nin önemli bir parçasıdır. Bu bölgenin coğrafi özellikleri, ziyaretçileri etkilemeyi başarır. Tarihi Hamam, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır ve etrafı yeşil alanlarla çevrilidir. Bu bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine benzer şekilde ılımandır. Tarihi Hamam'ın coğrafi konumu, ziyaretçilerin bu bölgeyi ziyaret etmelerini kolaylaştırır. Bu bölgenin coğrafi özellikleri, aynı zamanda flora ve faunayı da etkiler. Tarihi Hamam, çeşitli bitki türleri ve hayvanlara ev sahipliği yapar. Bu bölgenin coğrafi zenginliği, ziyaretçilerin ilgisini çekecek düzeydedir.
+Tarihi Hamam, coğrafi olarak Kadıköy'ün merkezinde yer alır ve Marmara Bölgesi'nin önemli bir parçasıdır. Bu bölgenin coğrafi özellikleri, ziyaretçileri etkilemeyi başarır. Tarihi Hamam, yüksek bir konumda yer alır ve etrafı yeşil alanlarla çevrilidir. Bu bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine benzer şekilde ılımandır. Tarihi Hamam'ın coğrafi konumu, ziyaretçilerin bu bölgeyi ziyaret etmelerini kolaylaştırır. Bu bölgenin coğrafi özellikleri, aynı zamanda flora ve faunayı da etkiler. Tarihi Hamam, çeşitli bitki türleri ve hayvanlara ev sahipliği yapar. Bu bölgenin coğrafi zenginliği, ziyaretçilerin ilgisini çekecek düzeydedir.
 
 ## Flora ve Fauna
 

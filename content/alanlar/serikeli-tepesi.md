@@ -36,7 +36,7 @@ Serikeli Tepesi, tarihi geçmişi ile dikkat çekiyor. Bu tepenin tarihi hakkın
 
 ## Coğrafya
 
-Serikeli Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir tepe. Batman ilinin coğrafi yapısı, dağlık ve engebeli araziler ile karakterize ediliyor. Bu tepe, bölgenin coğrafi özelliklerini taşıyan bir yapıya sahip. İklimi, bölgenin genel iklimine benzer şekilde, kışları soğu ve yağışlı, yazları ise sıcak ve kurak. Bu tepe, çevre ile uyumlu bir şekilde, bölgenin doğal güzelliklerini koruyor. Çevresinde, çeşitli bitki türleri ve zengin fauna bulunan Serikeli Tepesi, doğal bir ortam sunuyor. Bu tepe, coğrafi konumu ve doğal güzellikleri ile dikkat çekiyor.
+Serikeli Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir tepe. Batman ilinin coğrafi yapısı, dağlık ve engebeli araziler ile karakterize ediliyor. Bu tepe, bölgenin coğrafi özelliklerini taşıyan bir yapıya sahip. İklimi, bölgenin genel iklimine benzer şekilde, kışları soğuk ve yağışlı, yazları ise sıcak ve kurak. Bu tepe, çevre ile uyumlu bir şekilde, bölgenin doğal güzelliklerini koruyor. Çevresinde, çeşitli bitki türleri ve zengin fauna bulunan Serikeli Tepesi, doğal bir ortam sunuyor. Bu tepe, coğrafi konumu ve doğal güzellikleri ile dikkat çekiyor.
 
 ## Flora ve Fauna
 

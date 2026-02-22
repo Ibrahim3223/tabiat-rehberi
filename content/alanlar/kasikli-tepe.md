@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerine ev sahipli
 
 Doğal güzellikleri ve coğrafi özellikleri ile dikkat çeken Kaşıklı Tepe, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Tepenin şekli ve boyutları, bölgenin jeolojik yapısı ile şekillenmiştir. Ancak, ayrıntılı fiziksel veriler bulunmaması nedeniyle, tepe hakkında daha detaylı bilgi verme mümkün değildir.
 
-Mardin ilinin iklim karakteri, Kaşıklı Tepe'nin çevresel koşullarını da etkilemektedir. Bölge, karasal iklimin hakim olduğu bir bölge olup, yaz ayları sıca ve kurak, kış ayları ise soğu ve yağışlı geçmektedir. Bu mevsimsel özellikler, tepe ve çevresinin ekosistemini şekillendirmektedir.
+Mardin ilinin iklim karakteri, Kaşıklı Tepe'nin çevresel koşullarını da etkilemektedir. Bölge, karasal iklimin hakim olduğu bir bölge olup, yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçmektedir. Bu mevsimsel özellikler, tepe ve çevresinin ekosistemini şekillendirmektedir.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları, Kaşıklı Tepe'nin çevresel ilişkilerini belirlemektedir. Tepenin yakınında bulunan Dicle Nehri, bölgenin su kaynakları açısından önemli bir role sahiptir. Ayrıca, tepe ve çevresindeki ekosistem, bölgenin flora ve fauna çeşitliliğini desteklemektedir. Bu nedenle, Kaşıklı Tepe, Mardin ilinin coğrafi ve kültürel zenginliklerinin korunması açısından önemli bir noktadır.
 

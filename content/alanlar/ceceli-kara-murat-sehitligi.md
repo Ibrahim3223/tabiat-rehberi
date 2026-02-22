@@ -37,7 +37,7 @@ Uşak ilinin merkezi olan Uşak'ta bulunan Çeçeli Kara Murat Şehitliği, şeh
 
 ## Coğrafya
 
-Uşak ilinin coğrafi konumu, Ege Bölgesi'nin merkezi bölümünde yer alıyor. Bu bölge, doğu-batı yönünde uzanan dağ sıraları ve ovaları ile karakterize ediliyor. Çeçeli Kara Murat Şehitliği, Uşak'ın merkezinde yer alıyor ve şehrin coğrafi yapısını yansıtan bir konumda bulunuyor. Şehitliğin etrafı, çeşitli bitki türleri ve ağaçlarla çevrili, ziyaretçilere doğal bir ortam sunuyor. Uşak'ın iklimi, Ege Bölgesi'nin genel iklimi ile benzerlik gösteriyor; yaz ayları sıca ve khô, kış ayları ılık ve yağışlı geçiyor. Bu iklim, şehitliğin flora ve faunasının zenginleşmesine katkıda bulunuyor.
+Uşak ilinin coğrafi konumu, Ege Bölgesi'nin merkezi bölümünde yer alıyor. Bu bölge, doğu-batı yönünde uzanan dağ sıraları ve ovaları ile karakterize ediliyor. Çeçeli Kara Murat Şehitliği, Uşak'ın merkezinde yer alıyor ve şehrin coğrafi yapısını yansıtan bir konumda bulunuyor. Şehitliğin etrafı, çeşitli bitki türleri ve ağaçlarla çevrili, ziyaretçilere doğal bir ortam sunuyor. Uşak'ın iklimi, Ege Bölgesi'nin genel iklimi ile benzerlik gösteriyor; yaz ayları sıcak ve kuru, kış ayları ılık ve yağışlı geçiyor. Bu iklim, şehitliğin flora ve faunasının zenginleşmesine katkıda bulunuyor.
 
 ## Flora ve Fauna
 

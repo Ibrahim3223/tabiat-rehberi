@@ -30,7 +30,7 @@ Adana-Saimbeyli-Ayvacik Toros Goknari milli parkının tarihi geçmişi, yüzyı
 
 ## Coğrafya
 
-Adana-Saimbeyli-Ayvacik Toros Goknari milli parkı, coğrafi olarak Akdeniz Bölgesi'nin dağlık alanlarında yer alıyor. Bölge, Toros Dağları'nın bir parçası olan ve yüksek dağlarla çevrili bir vadide konumlanıyor. Milli parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. İklimi, Akdeniz ikliminin özellikleri ile birlikte, yazları sıca ve kurak, kışları ılıman ve yağışlı olarak tanımlanabilir. Bu coğrafi özellikler, milli parkın benzersiz bir doğa güzelliğine sahip olmasını sağlıyor. Toros Goknari, ziyaretçilerini doğanın içine davet ediyor ve onları bu güzelliklerle baş başa bırakıyor.
+Adana-Saimbeyli-Ayvacik Toros Goknari milli parkı, coğrafi olarak Akdeniz Bölgesi'nin dağlık alanlarında yer alıyor. Bölge, Toros Dağları'nın bir parçası olan ve yüksek dağlarla çevrili bir vadide konumlanıyor. Milli parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. İklimi, Akdeniz ikliminin özellikleri ile birlikte, yazları sıcak ve kurak, kışları ılıman ve yağışlı olarak tanımlanabilir. Bu coğrafi özellikler, milli parkın benzersiz bir doğa güzelliğine sahip olmasını sağlıyor. Toros Goknari, ziyaretçilerini doğanın içine davet ediyor ve onları bu güzelliklerle baş başa bırakıyor.
 
 ## Flora ve Fauna
 

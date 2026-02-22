@@ -37,7 +37,7 @@ Patara Liman Hamamı, Likya uygarlığının önemli liman kentlerinden biri ola
 
 ## Coğrafya
 
-Patara Liman Hamamı, Antalya'nın Kaş ilçesinde, Akdeniz kıyısında yer alıyor. Bu bölge, geniş kumsalları ve turkuaz renkli suları ile dikkat çekiyor. Patara Liman Hamamı'nın etrafı, yeşilliklerle kaplı tepeler ve dağlar ile çevrili. Bu coğrafi konum, ziyaretçilere hem deniz hem de dağ manzarası sunuyor. Bölge, Likya Yürüyüş Yolu gibi önemli rotaların da yakınında bulunuyor. İklimi, Akdeniz iklimi özellikleri taşıyor; yani yazları sıca ve kurak, kışları ılıman ve yağışlı. Bu coğrafi özellikler, Patara Liman Hamamı'nı yıl boyunca ziyaret edilebilir bir nokta haline getiriyor. Ayrıca, Patara Liman Hamamı'nın yakınlarında çeşitli bitki türleri ve zengin fauna bulunması, bu bölgenin doğal güzelliklerine katkıda bulunuyor.
+Patara Liman Hamamı, Antalya'nın Kaş ilçesinde, Akdeniz kıyısında yer alıyor. Bu bölge, geniş kumsalları ve turkuaz renkli suları ile dikkat çekiyor. Patara Liman Hamamı'nın etrafı, yeşilliklerle kaplı tepeler ve dağlar ile çevrili. Bu coğrafi konum, ziyaretçilere hem deniz hem de dağ manzarası sunuyor. Bölge, Likya Yürüyüş Yolu gibi önemli rotaların da yakınında bulunuyor. İklimi, Akdeniz iklimi özellikleri taşıyor; yani yazları sıcak ve kurak, kışları ılıman ve yağışlı. Bu coğrafi özellikler, Patara Liman Hamamı'nı yıl boyunca ziyaret edilebilir bir nokta haline getiriyor. Ayrıca, Patara Liman Hamamı'nın yakınlarında çeşitli bitki türleri ve zengin fauna bulunması, bu bölgenin doğal güzelliklerine katkıda bulunuyor.
 
 ## Flora ve Fauna
 

@@ -42,7 +42,7 @@ Ağrı'nın coğrafi güzelliği, Sıçanlı Dağ'ın eteklerinde kendini göste
 
 Doğal güzellikleri ve coğrafi çeşitliliği ile dikkat çeken Sıçanlı Dağ, çevresindeki coğrafi yapıya göre şekillenmiştir. Ne yazık ki, ayrıntılı fiziksel veriler bulunmamakla birlikte, dağların ve ovaların birleştiği bu bölge, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplamaktadır. Jeolojik olarak, bölgenin oluşumu ve yapısı hakkında daha fazla bilgi edinmek için daha derin araştırmalar yapılması gerekmektedir.
 
-İklim açısından bakıldığında, Sıçanlı Dağ ve çevresi, karasal iklimin etkilerini gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu mevsimsel değişim, bölgenin flora ve fauna çeşitliliğini etkiler. Etrafındaki ovalar ve sulak alanlar, özellikle göçmen kuşlar için önemli bir durak noktası oluşturur.
+İklim açısından bakıldığında, Sıçanlı Dağ ve çevresi, karasal iklimin etkilerini gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu mevsimsel değişim, bölgenin flora ve fauna çeşitliliğini etkiler. Etrafındaki ovalar ve sulak alanlar, özellikle göçmen kuşlar için önemli bir durak noktası oluşturur.
 
 Sıçanlı Dağ'ın çevresel ilişkileri, bölgenin ekolojik dengesini belirler. Su kaynakları ve komşu alanlar, dağların ve ovaların birbiriyle bağlantılı olduğunu gösterir. Monaco'nun yarısı kadar bir alanı kaplayan bu coğrafi yapı, bölgenin doğal kaynaklarını koruma altına almak için önemlidir. Bu nedenle, Sıçanlı Dağ ve çevresi, koruma altına alınması gereken bir doğal miras olarak görülmelidir.
 

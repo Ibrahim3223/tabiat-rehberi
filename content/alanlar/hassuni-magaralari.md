@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Hassuni Mağaraları, Diyarba
 
 Jeolojik açıdan bakıldığında, Hassuni Mağaraları'nın boyutları hakkında detaylı bilgi olmasa da, bu doğal oluşumlar Diyarbakır'ın geniş ovasının içinde yer alır. Mağaraların etrafındaki coğrafya, geniş bir alana yayılmış ve çeşitli jeolojik oluşumları içerir. Bu bölge, Monaco'nun yarısı kadar büyük bir alanı kaplayan geniş ovalar ve dağlarla çevrilidir.
 
-Mevsimsel özellikler açısından bakıldığında, Hassuni Mağaraları'nın bulunduğu bölge, sıca ve kurak bir iklim karakterine sahiptir. Yaz aylarında sıcaklık 40 derecenin üzerine çıkabilirken, kış aylarında 0 derecenin altına düşebilir. Bu iklim koşulları, mağaraların doğal yapısını ve çevresindeki ekosistemi etkiler.
+Mevsimsel özellikler açısından bakıldığında, Hassuni Mağaraları'nın bulunduğu bölge, sıcak ve kurak bir iklim karakterine sahiptir. Yaz aylarında sıcaklık 40 derecenin üzerine çıkabilirken, kış aylarında 0 derecenin altına düşebilir. Bu iklim koşulları, mağaraların doğal yapısını ve çevresindeki ekosistemi etkiler.
 
 Çevresel açıdan bakıldığında, Hassuni Mağaraları, Diyarbakır'ın merkezine yakın bir konumda yer alır ve çeşitli su kaynaklarına yakındır. Mağaraların bulunduğu bölge, geniş ovalar ve dağlarla çevrilidir ve bu coğrafi oluşumlar, bölge ekosisteminin çeşitliliğini ve zenginliğini sağlar. Bu doğal güzellikler, Hassuni Mağaraları'nın çevresinde yer alan diğer coğrafi oluşumlarla birlikte, bölgenin jeopark değerini artırmaktadır.
 

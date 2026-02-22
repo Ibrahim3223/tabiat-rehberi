@@ -45,7 +45,7 @@ Güneybatı Anadolu'nun eşsiz coğrafyasında, 36.7242°K ve 29.7008°D koordin
 
 Doğal güzellikleri ile dikkat çeken Haliloğlu Dağı, jeolojik açıdan oldukça önemlidir. Dağın fiziksel yapısı, bölgeye özgü kayaçlardan oluşur. Ancak, fiziksel verilerin sınırlı oluşu, dağ hakkında daha ayrıntılı bilgi edinmeyi zorlaştırır. Buna rağmen, Haliloğlu Dağı'nın yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olabilir. Bu yükseklik, bölgede önemli bir coğrafi unsur olarak dikkat çeker.
 
-Mevsimsel olarak, Haliloğlu Dağı'nın iklim karakteri, Akdeniz ikliminin özelliklerini taşır. Yaz aylarında sıca ve kuru, kış aylarında ise ılık ve yağışlı bir hava hakimdir. Bu iklim, bölgede çeşitli bitki türlerinin yetişmesine olanak tanır. Ayrıca, dağın çevresindeki su kaynakları, bölgenin ekosistemini destekler.
+Mevsimsel olarak, Haliloğlu Dağı'nın iklim karakteri, Akdeniz ikliminin özelliklerini taşır. Yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı bir hava hakimdir. Bu iklim, bölgede çeşitli bitki türlerinin yetişmesine olanak tanır. Ayrıca, dağın çevresindeki su kaynakları, bölgenin ekosistemini destekler.
 
 Çevresel açıdan, Haliloğlu Dağı, komşu alanlar ile önemli bir bağlantı içerisindedir. Dağın yakınındaki su kaynakları, bölgenin ekosistemini destekler. Ayrıca, dağ, bölgedeki diğer coğrafi oluşumlar ile birlikte, geniş bir doğal alan oluşturur. Bu doğal alan, bölgenin biyolojik çeşitliliğini korur ve destekler.
 

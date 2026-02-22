@@ -42,7 +42,7 @@ Güney kıyılarımızın güzelliğini keşfetmek isteyenler için, Antalya'nı
 
 Doğal güzelliklerin bir araya geldiği bu noktada, Değirmenci Dağı'nın fiziksel yapısı, coğrafi olarak bir city bloğu büyüklüğünde bir alanı kaplar. Bu büyüklük, dağın eteklerinde yer alan yerleşim yerlerine göre oldukça büyüktür ve bölgenin jeolojik yapısını şekillendiren önemli bir faktördür. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olup, bu yükseklik, bölgenin iklim karakterini etkileyen önemli bir faktördür.
 
-İklim karakteri açısından, Değirmenci Dağı'nın bulunduğu bölge, Akdeniz ikliminin hakim olduğu bir bölgedir. Bu iklim, yazları sıca ve kurak, kışları ılık ve yağışlı geçer. Bölgenin iklimi, bitki örtüsünü ve fauna çeşitliliğini etkileyen önemli bir faktördür. Dağın yüksekliği ve coğrafi konumu, bölgenin iklim karakterini şekillendiren faktörlerdir.
+İklim karakteri açısından, Değirmenci Dağı'nın bulunduğu bölge, Akdeniz ikliminin hakim olduğu bir bölgedir. Bu iklim, yazları sıcak ve kurak, kışları ılık ve yağışlı geçer. Bölgenin iklimi, bitki örtüsünü ve fauna çeşitliliğini etkileyen önemli bir faktördür. Dağın yüksekliği ve coğrafi konumu, bölgenin iklim karakterini şekillendiren faktörlerdir.
 
 Bölgenin çevresel ilişkileri açısından, Değirmenci Dağı, komşu alanlarla ve su kaynaklarıyla bağlantılıdır. Dağın eteklerinde yer alan yerleşim yerleri, bölgenin ekosistem bağlantılarını etkileyen önemli bir faktördür. Su kaynakları, bölgenin flora ve fauna çeşitliliğini destekleyen önemli bir faktördür. Bu bağlantılar, bölgenin doğal dengesini korumanın önemini vurgulamaktadır.
 

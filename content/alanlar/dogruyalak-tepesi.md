@@ -36,7 +36,7 @@ Doğruyalak Tepesi'nin tarihi geçmişi, bölgenin genel tarihi geçmişi ile pa
 
 ## Coğrafya
 
-Doğruyalak Tepesi, Marmara Bölgesi'nde Balıkesir ilinde bulunur ve coğrafi olarak önemli bir konumdadır. Tepenin yüksekliği, bölgenin diğer tepelerine göre önemli bir yükseklikte değildir, ancak coğrafi konumu ve doğal güzelliği ile dikkat çeker. 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik gösterir ve mevsimi yaşar. Kış aylarında kar yağışı, yaz aylarında sıca ve nemli hava hüküm sürer. Doğruyalak Tepesi, coğrafi konumu ve doğal güzelliği ile önemli bir turizm merkezi olarak kabul edilir.
+Doğruyalak Tepesi, Marmara Bölgesi'nde Balıkesir ilinde bulunur ve coğrafi olarak önemli bir konumdadır. Tepenin yüksekliği, bölgenin diğer tepelerine göre önemli bir yükseklikte değildir, ancak coğrafi konumu ve doğal güzelliği ile dikkat çeker. 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik gösterir ve mevsimi yaşar. Kış aylarında kar yağışı, yaz aylarında sıcak ve nemli hava hüküm sürer. Doğruyalak Tepesi, coğrafi konumu ve doğal güzelliği ile önemli bir turizm merkezi olarak kabul edilir.
 
 ## Flora ve Fauna
 

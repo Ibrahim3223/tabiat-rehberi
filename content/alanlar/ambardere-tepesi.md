@@ -36,7 +36,7 @@ Ambardere Tepesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu tepe
 
 ## Coğrafya
 
-Ambardere Tepesi, Çorum'un Karadeniz Bölgesi'nde yer alıyor ve bu bölge, coğrafi olarak çok çeşitli. Bu tepe, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor ve etrafında yer alan dağlar ve vadiler, bu bölgeyi coğrafi olarak çok zengin kılıyor. Ambardere Tepesi'nin iklimi, Karadeniz iklimi özellikleri gösteriyor ve burada yağışlar, yıl boyunca devam ediyor. Bu tepe, aynı zamanda flora ve fauna açısından da çok zengin ve burada, çeşitli bitki türleri ve hayvanlar yer alıyor. Ambardere Tepesi'nin coğrafi özellikleri, burayı ziyaret edenlerin doğa ile baş başa kalmasına olanak sağlıyor ve bu tepe, aynı zamanda trekking ve doğa yürüyüşü için ideal bir yer.
+Ambardere Tepesi, Çorum'un Karadeniz Bölgesi'nde yer alıyor ve bu bölge, coğrafi olarak çok çeşitli. Bu tepe, yüksek bir konumda yer alıyor ve etrafında yer alan dağlar ve vadiler, bu bölgeyi coğrafi olarak çok zengin kılıyor. Ambardere Tepesi'nin iklimi, Karadeniz iklimi özellikleri gösteriyor ve burada yağışlar, yıl boyunca devam ediyor. Bu tepe, aynı zamanda flora ve fauna açısından da çok zengin ve burada, çeşitli bitki türleri ve hayvanlar yer alıyor. Ambardere Tepesi'nin coğrafi özellikleri, burayı ziyaret edenlerin doğa ile baş başa kalmasına olanak sağlıyor ve bu tepe, aynı zamanda trekking ve doğa yürüyüşü için ideal bir yer.
 
 ## Flora ve Fauna
 

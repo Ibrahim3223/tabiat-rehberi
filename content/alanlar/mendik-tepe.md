@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerine ev sahipli
 
 Doğal güzellikleri ve coğrafi konumuyla dikkat çeken Mendik Tepe, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu alan, Taksim Meydanı'nın birkaç katı büyüklüğünde bir yeşil cennet olarak thoughtbilir. Ancak, fiziksel veriler sınırlı olduğu için tepe hakkında daha spesifik boyutlar ve şekil hakkında bilgi bulunmamaktadır. Jeolojik açıdan, bölgenin genel olarak kalker ve kiltaşlarından oluştuğu bilinmektedir.
 
-Mendik Tepe, Güneydoğu Anadolu Bölgesi'nin karakteristik iklim şartlarına sahiptir. Bu bölgede, yaz ayları çok sıca ve kurak, kış ayları ise soğu ve yağışlı geçer. Tepe, bu mevsimsel değişimlere göre şekillenmiş ve adaptasyon göstermiştir. Hava durumu, bölgenin coğrafi konumu nedeniyle önemli bir faktördür ve Mendik Tepe'nin ekosistemi, bu iklim koşullarına göre oluşmuştur.
+Mendik Tepe, Güneydoğu Anadolu Bölgesi'nin karakteristik iklim şartlarına sahiptir. Bu bölgede, yaz ayları çok sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçer. Tepe, bu mevsimsel değişimlere göre şekillenmiş ve adaptasyon göstermiştir. Hava durumu, bölgenin coğrafi konumu nedeniyle önemli bir faktördür ve Mendik Tepe'nin ekosistemi, bu iklim koşullarına göre oluşmuştur.
 
 Çevresel açıdan, Mendik Tepe, Mardin şehri veındaki diğer doğal alanlarla bağlantılıdır. Tepe, komşu alanlarla birlikte bir ekosistem oluşturur ve su kaynakları, flora ve fauna açısından önemli bir rol oynar. Monaco'nun onda biri kadar büyüklüğünde bir alana sahip olan Mendik Tepe, bölgenin doğal dengesini koruma açısından kritik bir konumdadır.
 

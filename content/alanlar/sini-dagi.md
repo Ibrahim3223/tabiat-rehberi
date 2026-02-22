@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden biri olan Bitlis, coğrafyası iti
 
 Jeolojik açıdan bakıldığında, Sini Dağı'nın etrafındaki coğrafya, dağlık ve engebeli bir yapı gösterir. Ancak, dağ hakkında detaylı fiziksel veriler bulunmaması, boyutları ve şekli hakkında net bir fikir vermese de, bölgenin genel coğrafi yapısına bakıldığında, Sini Dağı'nın önemli bir yükseklikte olduğu söylenebilir. Etrafındaki coğrafyanın bir city bloğu büyüklüğünde olan kısımlarıyla karşılaştırıldığında, Sini Dağı'nın daha geniş bir alanı kapladığı anlaşılabilir.
 
-İklim açısından, Sini Dağı'nın bulunduğu bölge, karasal iklimin etkilerini gösterir. Mevsimsel olarak, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve kar yağışlı bir hava durumu hakimdir. Bu iklim koşulları, dağların etrafındaki bitki örtüsünün oluşumunu ve bölgenin ekosistemini etkiler.
+İklim açısından, Sini Dağı'nın bulunduğu bölge, karasal iklimin etkilerini gösterir. Mevsimsel olarak, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve kar yağışlı bir hava durumu hakimdir. Bu iklim koşulları, dağların etrafındaki bitki örtüsünün oluşumunu ve bölgenin ekosistemini etkiler.
 
 Çevresel açıdan bakıldığında, Sini Dağı, bölgenin su kaynaklarına ve ekosistemine önemli katkılar sağlar. Dağın etrafındaki akarsular ve dereler, bölgenin sulak alanlarını besler ve canlıların yaşamasına olanak tanır. Monaco'nun yarısı kadar bir alanı kaplayan bir bölgeye göre, Sini Dağı'nın boyutları daha küçük olsa da, bölgenin doğal dengesi açısından önemli bir role sahiptir.
 

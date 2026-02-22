@@ -39,7 +39,7 @@ Doğal güzelliklerin bir araya geldiği bir bölge olan Frig Vadisi, coğrafi o
 
 Jeolojik açıdan bakıldığında, Frig Vadisi'nin oluşumu milyonlarca yıl önce başlamış. Vadideki kaya oluşumları, bölgenin tarihini ve jeolojik yapısını ortaya koyuyor. Vadinin boyutları, yaklaşık olarak Beşiktaş ilçesi kadar büyük bir alanı kaplıyor. Bu geniş alan, çeşitli jeolojik oluşumların bir araya gelmesi ile oluşmuş.
 
-Mevsimsel olarak bakıldığında, Frig Vadisi'nin iklimi karasal iklim özellikleri gösteriyor. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve kar yağışlı bir hava hüküm sürüyor. Bölgenin yüksekliği, Eiffel Kulesi'nin 2 katı yükseklikte olan dağlarla çevrili. Bu yükseklik, Frig Vadisi'nin iklimini etkileyen önemli bir faktör.
+Mevsimsel olarak bakıldığında, Frig Vadisi'nin iklimi karasal iklim özellikleri gösteriyor. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve kar yağışlı bir hava hüküm sürüyor. Bölgenin yüksekliği, Eiffel Kulesi'nin 2 katı yükseklikte olan dağlarla çevrili. Bu yükseklik, Frig Vadisi'nin iklimini etkileyen önemli bir faktör.
 
 Çevresel açıdan bakıldığında, Frig Vadisi'nin komşu alanlar ve su kaynakları ile önemli bir ilişkisi var. Bölge, çeşitli nehir ve akarsular ile çevrili ve bu su kaynakları, vadi ekosisteminin temelini oluşturuyor. Frig Vadisi, Monaco'nun yarısı kadar büyük bir alanı kaplayan geniş bir yeşil alan olarak, bölgenin ekolojik dengesini koruyor.
 

@@ -38,7 +38,7 @@ Alemdar Baba Türbesi'nin tarihi geçmişi, İstanbul'un fethine kadar uzanıyor
 
 ## Coğrafya
 
-Alemdar Baba Türbesi, Çekmeköy ilçesinde, İstanbul'un doğu kesiminde bulunuyor. Bu bölge, Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. 140 hektarlık bu alan, yemyeşil ormanlar, yürüyüş yolları ve piknik alanları ile dolu. Burada, çeşitli bitki türleri ve zengin fauna encontrarabilirsiniz. İklim, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor; yazlar sıca ve nemli, kışlar ise soğu ve yağışlı geçiyor. Alemdar Baba Türbesi, çevredeki dağların eteklerinde yer alıyor ve manzarası ile ziyaretçileri büyülüyor. Bu coğrafi konum, ziyaretçilere doğanın güzelliğini ve tarihin önemini bir arada sunuyor.
+Alemdar Baba Türbesi, Çekmeköy ilçesinde, İstanbul'un doğu kesiminde bulunuyor. Bu bölge, Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. 140 hektarlık bu alan, yemyeşil ormanlar, yürüyüş yolları ve piknik alanları ile dolu. Burada, çeşitli bitki türleri ve zengin fauna encontrarabilirsiniz. İklim, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor; yazlar sıcak ve nemli, kışlar ise soğuk ve yağışlı geçiyor. Alemdar Baba Türbesi, çevredeki dağların eteklerinde yer alıyor ve manzarası ile ziyaretçileri büyülüyor. Bu coğrafi konum, ziyaretçilere doğanın güzelliğini ve tarihin önemini bir arada sunuyor.
 
 ## Flora ve Fauna
 

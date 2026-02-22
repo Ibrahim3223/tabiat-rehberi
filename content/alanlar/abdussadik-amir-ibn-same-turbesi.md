@@ -42,7 +42,7 @@ Abdüssadık Amir İbn Same Türbesi, Eyüpsultan ilçesinde yer alır. İstanbu
 
 ## Flora ve Fauna
 
-Abdüssadık Amir İbn Same Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ile dikkat çeker. Bu bölgede, özellikle ağaçlar ve çiçekler bulunur. Mevsimsel değişimlere göre, bitki örtüsü değişir. İlkbahar ve yaz aylarında, bölgede çiçekler açar ve yeşil alanlar oluşur. Sonbahar ve kış aylarında ise, bölgede daha soğu ve yağışlı bir iklim görülür. Abdüssadık Amir İbn Same Türbesi'nin bulunduğu bölge, ayrıca çeşitli hayvan türlerine de ev sahipliği yapar. Bu bölgede, özellikle kuşlar ve küçük hayvanlar bulunur.
+Abdüssadık Amir İbn Same Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ile dikkat çeker. Bu bölgede, özellikle ağaçlar ve çiçekler bulunur. Mevsimsel değişimlere göre, bitki örtüsü değişir. İlkbahar ve yaz aylarında, bölgede çiçekler açar ve yeşil alanlar oluşur. Sonbahar ve kış aylarında ise, bölgede daha soğuk ve yağışlı bir iklim görülür. Abdüssadık Amir İbn Same Türbesi'nin bulunduğu bölge, ayrıca çeşitli hayvan türlerine de ev sahipliği yapar. Bu bölgede, özellikle kuşlar ve küçük hayvanlar bulunur.
 
 ## Ziyaret Bilgileri
 

@@ -46,7 +46,7 @@ Beylerbeyi Türbesi ve çevresi, zengin bir flora ve fauna çeşitliliğine sahi
 
 ## Ziyaret Bilgileri
 
-Beylerbeyi Türbesi'ni ziyaret etmek, Edirne'nin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir gezi seçeneği. Ziyaretçiler, türbenin mimarisini ve tarihi geçmişi hakkında bilgi edinebilir. Türbenin etrafındaki yeşillik alanlar, ziyaretçilere doğayla iç içe bir ortam sunuyor. Ziyaret için en iyi zaman, ilkbahar ve yaz ayları olabilir, çünkü bu dönemlerde flora daha da zenginleşiyor ve hava daha sıca ve güneşli oluyor. Ziyaretçilerin, türbeyi ziyaret ederken, saygılarını göstermeleri ve türbenin tarihi önemini dikkate almaları önemli.
+Beylerbeyi Türbesi'ni ziyaret etmek, Edirne'nin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir gezi seçeneği. Ziyaretçiler, türbenin mimarisini ve tarihi geçmişi hakkında bilgi edinebilir. Türbenin etrafındaki yeşillik alanlar, ziyaretçilere doğayla iç içe bir ortam sunuyor. Ziyaret için en iyi zaman, ilkbahar ve yaz ayları olabilir, çünkü bu dönemlerde flora daha da zenginleşiyor ve hava daha sıcak ve güneşli oluyor. Ziyaretçilerin, türbeyi ziyaret ederken, saygılarını göstermeleri ve türbenin tarihi önemini dikkate almaları önemli.
 
 ## İlginç Bilgiler
 

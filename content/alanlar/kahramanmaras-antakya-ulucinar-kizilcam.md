@@ -30,7 +30,7 @@ Kahramanmaras-Antakya-Ulucinar Kızılçam milli parkının tarihi geçmişi, y�
 
 ## Coğrafya
 
-Kahramanmaras-Antakya-Ulucinar Kızılçam milli parkı, İç Anadolu Bölgesi'nde yer alıyor. Parkın coğrafi yapısı, çeşitli bitki türleri ve yaban hayatı açısından zengin. Parkın iklimi, İç Anadolu Bölgesi'nin iklimine benzer ve dört mevsim yaşanabiliyor. Parkın çevresi, çeşitli dağlar ve ovalarla çevrili ve bu coğrafi yapı, parkın güzelliğini artırıyor. Parkın alanı, 140 hektarlık bir alana sahip ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Parkın yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdate ve bu yükseklik, parkın iklimini ve coğrafi yapısını etkiliyor.
+Kahramanmaras-Antakya-Ulucinar Kızılçam milli parkı, İç Anadolu Bölgesi'nde yer alıyor. Parkın coğrafi yapısı, çeşitli bitki türleri ve yaban hayatı açısından zengin. Parkın iklimi, İç Anadolu Bölgesi'nin iklimine benzer ve dört mevsim yaşanabiliyor. Parkın çevresi, çeşitli dağlar ve ovalarla çevrili ve bu coğrafi yapı, parkın güzelliğini artırıyor. Parkın alanı, 140 hektarlık bir alana sahip ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Parkın yüksekliği, yüksek bir konumda ve bu yükseklik, parkın iklimini ve coğrafi yapısını etkiliyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Kahramanmaras-Antakya-Ulucinar Kızılçam milli parkını ziyaret etmek, doğa 
 ## İlginç Bilgiler
 
 - Parkın alanı, 140 hektarlık bir alana sahip
-- Parkın yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdate
+- Parkın yüksekliği, yüksek bir konumda
 - Parkta, çeşitli bitki türleri ve yaban hayatı bulunuyor
 - Parkın ekosistemi, doğanın güzelliği ve yaban hayatı açısından zengin
 - Parkın mevsimsel değişimleri, parkın güzelliğini artırıyor

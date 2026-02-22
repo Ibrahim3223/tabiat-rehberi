@@ -31,7 +31,7 @@ wikidata_id: "Q108227052"
 
 ## Coğrafya
 
-Çatak Milli Parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak kurulmuştur. Parkın coğrafyası, geniş çayırlar, ormanlık alanlar ve çeşitli su kaynaklarından oluşur. Bölgenin iklimi, karasal iklim özellikleri gösterir ve dört mevsim belirgin olarak yaşanır. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, parkın flora ve faunasının çeşitliliğine katkıda bulunur. Çatak, aynı zamanda zengin bir fauna ile dikkat çeker ve birçok farklı tür, parkta yaşamını sürdürür. Parkın coğrafi yapısı, ziyaretçilere çeşitli faaliyetler için uygun bir ortam sunar.
+Çatak Milli Parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak kurulmuştur. Parkın coğrafyası, geniş çayırlar, ormanlık alanlar ve çeşitli su kaynaklarından oluşur. Bölgenin iklimi, karasal iklim özellikleri gösterir ve dört mevsim belirgin olarak yaşanır. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, parkın flora ve faunasının çeşitliliğine katkıda bulunur. Çatak, aynı zamanda zengin bir fauna ile dikkat çeker ve birçok farklı tür, parkta yaşamını sürdürür. Parkın coğrafi yapısı, ziyaretçilere çeşitli faaliyetler için uygun bir ortam sunar.
 
 ## Flora ve Fauna
 

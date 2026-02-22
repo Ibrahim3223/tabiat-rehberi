@@ -37,7 +37,7 @@ Olympos Vespasianus Hamamı, tarihi geçmişiyle önemli bir kültürel miras ol
 
 ## Coğrafya
 
-Olympos Vespasianus Hamamı, Antalya'nın Kumluca ilçesinde, Akdeniz Bölgesi'nin güneyinde yer alıyor. Bu bölgenin coğrafi yapısı, dağlar, ormanlar ve plajlardan oluşuyor. Vespasianus Hamamı, Olympos Antik Kenti'nin içerisinde yer alıyor ve bu antik kent, Toros Dağları'nın eteklerinde, deniz seviyesinden yaklaşık yüksek bir konumdate bulunuyor. Bölgenin iklimi, Akdeniz ikliminin karakteristik özelliklerini taşıyor; yazları sıca ve kurak, kışları ılıman ve yağışlı geçiyor. Bu coğrafi konum, Vespasianus Hamamı'nın çevresi, zengin bir flora ve fauna çeşitliliğine sahip. Bölgede, çeşitli ağaç türleri, çalılar ve otlar yetişiyor ve bu doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunuyor.
+Olympos Vespasianus Hamamı, Antalya'nın Kumluca ilçesinde, Akdeniz Bölgesi'nin güneyinde yer alıyor. Bu bölgenin coğrafi yapısı, dağlar, ormanlar ve plajlardan oluşuyor. Vespasianus Hamamı, Olympos Antik Kenti'nin içerisinde yer alıyor ve bu antik kent, Toros Dağları'nın eteklerinde, yüksek bir konumda bulunuyor. Bölgenin iklimi, Akdeniz ikliminin karakteristik özelliklerini taşıyor; yazları sıcak ve kurak, kışları ılıman ve yağışlı geçiyor. Bu coğrafi konum, Vespasianus Hamamı'nın çevresi, zengin bir flora ve fauna çeşitliliğine sahip. Bölgede, çeşitli ağaç türleri, çalılar ve otlar yetişiyor ve bu doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Olympos Vespasianus Hamamı, yılın her dönemi ziyaret edilebilecek bir mekan.
 ## İlginç Bilgiler
 
 - Vespasianus Hamamı, Roma İmparatoru Vespasianus'un adını taşıyor.
-- Olympos Antik Kenti, Toros Dağları'nın eteklerinde, deniz seviyesinden yaklaşık yüksek bir konumdate bulunuyor.
+- Olympos Antik Kenti, Toros Dağları'nın eteklerinde, yüksek bir konumda bulunuyor.
 - Bölge, zengin bir flora ve fauna çeşitliliğine sahip.
 - Vespasianus Hamamı, yılın her dönemi ziyaret edilebilecek bir mekan.
 - Olympos Antik Kenti, Vespasianus Hamamı'nın yakınında yer alıyor.

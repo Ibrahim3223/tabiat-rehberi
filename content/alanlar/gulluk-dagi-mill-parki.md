@@ -37,7 +37,7 @@ Güllük Dağı Millî Parkı, 1966 yılında milli park olarak ilan edilmiştir
 
 ## Coğrafya
 
-Güllük Dağı Millî Parkı, Akdeniz Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır. Parkın toplam alanı 6.700 hektar olup, bu alanın büyük bir kısmı ormanlarla kaplıdır. Milli parkın en yüksek noktası 2.336 metreylegether, bu da bölgenin önemli bir coğrafi özelliği olarak dikkat çekmektedir. Parkın iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır; yani yazları sıca ve kurak, kışları ılıman ve yağışlıdır. Bu iklim, bölgenin flora ve faunasının çeşitliliğine katkıda bulunmaktadır.
+Güllük Dağı Millî Parkı, Akdeniz Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır. Parkın toplam alanı 6.700 hektar olup, bu alanın büyük bir kısmı ormanlarla kaplıdır. Milli parkın en yüksek noktası 2.336 metreylegether, bu da bölgenin önemli bir coğrafi özelliği olarak dikkat çekmektedir. Parkın iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır; yani yazları sıcak ve kurak, kışları ılıman ve yağışlıdır. Bu iklim, bölgenin flora ve faunasının çeşitliliğine katkıda bulunmaktadır.
 
 ## Flora ve Fauna
 

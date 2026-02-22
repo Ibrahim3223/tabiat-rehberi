@@ -36,7 +36,7 @@ Harim Tepesi'nin tarihi geçmişi, çok eskilere dayanmaktadır. Bu bölge, yüz
 
 ## Coğrafya
 
-Harim Tepesi, Diyarbakır şehrinde yer alan bir tepe olarak, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşımaktadır. Bu bölge, yükse ve geniş bir tepe olarak, çevreyi gözlemlemek için ideal bir nokta oluşturur. Tepenin yüksekliği, genişliği ve çevresindeki bitki türleri, bir bütün olarak düşünüldüğünde, ziyaretçilere eşsiz bir manzara sunmaktadır. Ayrıca, bu bölge, Güneydoğu Anadolu Bölgesi'nin iklimine uygun olarak, sıca ve kuru bir havaya sahiptir. Harim Tepesi, coğrafi konumu ve özellikleri ile, ziyaretçilerini bekleyen bir doğa harikası olarak görülmektedir.
+Harim Tepesi, Diyarbakır şehrinde yer alan bir tepe olarak, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşımaktadır. Bu bölge, yükse ve geniş bir tepe olarak, çevreyi gözlemlemek için ideal bir nokta oluşturur. Tepenin yüksekliği, genişliği ve çevresindeki bitki türleri, bir bütün olarak düşünüldüğünde, ziyaretçilere eşsiz bir manzara sunmaktadır. Ayrıca, bu bölge, Güneydoğu Anadolu Bölgesi'nin iklimine uygun olarak, sıcak ve kuru bir havaya sahiptir. Harim Tepesi, coğrafi konumu ve özellikleri ile, ziyaretçilerini bekleyen bir doğa harikası olarak görülmektedir.
 
 ## Flora ve Fauna
 

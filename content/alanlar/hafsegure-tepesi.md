@@ -36,7 +36,7 @@ Hafşegüre Tepesi, tarihsel olarak önemli bir geçmişe sahip. Bu tepe, yüzy�
 
 ## Coğrafya
 
-Hafşegüre Tepesi, coğrafi olarak Mardin'in merkezi bir konumunda yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Tepenin etrafında, çeşitli bitki türleri ve yaban hayatının yaşadığı bir ekosistem bulunuyor. Bölgenin iklimi, Güneydoğu Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, yazları sıca ve kurak, kışları ise soğu ve yağışlı geçiyor. Bu iklim, bölgenin flora ve faunasını şekillendirmiş ve burada yaşayan canlıların adaptasyonlarını etkilemiş. Hafşegüre Tepesi, coğrafi konumu ve doğal güzellikleri ile dikkat çekiyor. Tepenin manzarası, Mardin'in tarihi dokusunu ve doğal güzelliklerini bir arada sunuyor.
+Hafşegüre Tepesi, coğrafi olarak Mardin'in merkezi bir konumunda yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Tepenin etrafında, çeşitli bitki türleri ve yaban hayatının yaşadığı bir ekosistem bulunuyor. Bölgenin iklimi, Güneydoğu Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı geçiyor. Bu iklim, bölgenin flora ve faunasını şekillendirmiş ve burada yaşayan canlıların adaptasyonlarını etkilemiş. Hafşegüre Tepesi, coğrafi konumu ve doğal güzellikleri ile dikkat çekiyor. Tepenin manzarası, Mardin'in tarihi dokusunu ve doğal güzelliklerini bir arada sunuyor.
 
 ## Flora ve Fauna
 

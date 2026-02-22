@@ -44,7 +44,7 @@ Eğrikabaağaç Dağı'nın etrafındaki coğrafya, bu tür faaliyetlerin yürü
 
 Doğal güzellikleri ve jeolojik yapısı ile dikkat çeken Eğrikabaağaç Dağı, etrafındaki coğrafi oluşumlar ile birlikte bir bütün olarak değerlendirilmelidir. Ancak, detaylı fiziksel verilerin bulunmaması nedeniyle, dağın boyutları ve şekli hakkında net bir bilgi verme mümkün değildir. Buna rağmen, bölgenin genel coğrafi özellikleri dikkate alındığında, Eğrikabaağaç Dağı'nın Çanakkale'nin diğer dağlık alanları ile benzer özellikler taşıdığı söylenebilir.
 
-Mevsimsel değişikliklere bağlı olarak, Eğrikabaağaç Dağı'nın iklimi değişkenlik gösterir. İlkbahar ve yaz aylarında sıcaklık ve nem oranları artarken, kış aylarında soğu ve yağışlı hava koşulları hüküm sürer. Bu mevsimsel özellikler, dağın ekosistemini ve bitki örtüsünü etkiler.
+Mevsimsel değişikliklere bağlı olarak, Eğrikabaağaç Dağı'nın iklimi değişkenlik gösterir. İlkbahar ve yaz aylarında sıcaklık ve nem oranları artarken, kış aylarında soğuk ve yağışlı hava koşulları hüküm sürer. Bu mevsimsel özellikler, dağın ekosistemini ve bitki örtüsünü etkiler.
 
 Çevresel açıdan bakıldığında, Eğrikabaağaç Dağı'nın komşu alanlar ve su kaynakları ile önemli bir ilişkisi vardır. Dağ, bölgenin su kaynaklarının oluşumunda önemli bir role sahiptir ve yakın çevresindeki ekosistemlerin dengesini korur. Bu nedenle, Eğrikabaağaç Dağı'nın korunması ve sürdürülebilir kullanımı, bölgenin doğal kaynaklarının geleceği açısından büyük önem taşır.
 

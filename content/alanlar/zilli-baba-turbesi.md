@@ -45,7 +45,7 @@ Zilli Baba Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ile süslü.
 
 ## Ziyaret Bilgileri
 
-Zilli Baba Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri deneyimlemek isteyenler için ideal bir tercih. Türbeye ulaşım, Adana şehir merkezinden yaklaşık 30 dakika sürüyor. Ziyaretçiler, türbeyi gezdikten sonra yakındaki plajda keyiflenebilirler. Zilli Baba Türbesi'ni ziyaret etmek için en iyi zaman, ilkbahar ve yaz ayları olarak biliniyor. Bu aylarda, hava daha sıca ve güneşli oluyor ve ziyaretçilere daha güzel bir deneyim sunuyor.
+Zilli Baba Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri deneyimlemek isteyenler için ideal bir tercih. Türbeye ulaşım, Adana şehir merkezinden yaklaşık 30 dakika sürüyor. Ziyaretçiler, türbeyi gezdikten sonra yakındaki plajda keyiflenebilirler. Zilli Baba Türbesi'ni ziyaret etmek için en iyi zaman, ilkbahar ve yaz ayları olarak biliniyor. Bu aylarda, hava daha sıcak ve güneşli oluyor ve ziyaretçilere daha güzel bir deneyim sunuyor.
 
 ## İlginç Bilgiler
 

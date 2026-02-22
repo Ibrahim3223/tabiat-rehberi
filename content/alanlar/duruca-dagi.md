@@ -44,7 +44,7 @@ Doğu Anadolu'nun dağlık coğrafyasında yer alan Duruca Dağı, 38.8326°K ve
 
 Jeolojik açıdan bakıldığında, Duruca Dağı'nın çevresinde volkani ve sedimentatif kayaçlar bulunmaktadır. Bu kayaçlar, bölgenin jeolojik geçmişini ve coğrafi oluşumunu etkilemiştir. Ancak, daha detaylı fiziksel verilere ihtiyaç duyulmaktadır. Bölgenin coğrafi yapısı, Monaco'nun yaklaşık 1/5'i kadar bir alanı kaplamaktadır.
 
-Mevsimsel olarak, Duruca Dağı'nın iklimi karasal iklim özellikleri göstermektedir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Örneğin, bölgede yetişen bitkiler, Eiffel Kulesi'nin 2 katı yükseklikteki dağların eteklerinde farklı türler olarak bulunmaktadır.
+Mevsimsel olarak, Duruca Dağı'nın iklimi karasal iklim özellikleri göstermektedir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Örneğin, bölgede yetişen bitkiler, Eiffel Kulesi'nin 2 katı yükseklikteki dağların eteklerinde farklı türler olarak bulunmaktadır.
 
 Çevresel açıdan bakıldığında, Duruca Dağı, Muş ilinin su kaynaklarına önemli katkılar sağlamaktadır. Bölgedeki akarsular ve çaylar, ilin tarım ve sulama faaliyetlerini desteklemektedir. Ayrıca, bölgenin ekosistem bağlantıları, flora ve fauna çeşitliliğini korumak için önemlidir. Örneğin, bölgedeki ormanlar, İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplamaktadır ve bu ormanlar, bölgenin ekolojik dengesini korumaktadır.
 

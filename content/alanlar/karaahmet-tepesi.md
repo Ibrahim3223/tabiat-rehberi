@@ -36,7 +36,7 @@ Karaahmet Tepesi'nin tarihi geçmişi, Gaziantep'in tarihiyle iç içe geçmiş 
 
 ## Coğrafya
 
-Karaahmet Tepesi, Güneydoğu Anadolu Bölgesi'nde, Gaziantep ilinin sınırları içerisinde yer alıyor. Tepenin coğrafi konumu, şehrin tarihi ve kültürel zenginliklerini keşfetmek için ideal bir nokta sunuyor. Tepenin etrafında, çeşitli bitki türleri ve fauna found. Bölgenin iklimi, yazları sıca ve kurak, kışları ise soğu ve yağışlı olarak karakterize ediliyor. Karaahmet Tepesi, ziyaretçilerini şehrin tarihi ve doğal güzellikleriyle baş başa bırakıyor. Tepenin manzarası, özellikle gün batımı saatlerinde çok güzel görünüyor.
+Karaahmet Tepesi, Güneydoğu Anadolu Bölgesi'nde, Gaziantep ilinin sınırları içerisinde yer alıyor. Tepenin coğrafi konumu, şehrin tarihi ve kültürel zenginliklerini keşfetmek için ideal bir nokta sunuyor. Tepenin etrafında, çeşitli bitki türleri ve fauna found. Bölgenin iklimi, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı olarak karakterize ediliyor. Karaahmet Tepesi, ziyaretçilerini şehrin tarihi ve doğal güzellikleriyle baş başa bırakıyor. Tepenin manzarası, özellikle gün batımı saatlerinde çok güzel görünüyor.
 
 ## Flora ve Fauna
 

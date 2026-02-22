@@ -42,7 +42,7 @@ Doğu Karadeniz Bölgesi'nin gizli bir hazine olan Helva Köyü Buz Mağarası, 
 
 Jeolojik açıdan bakıldığında, Helva Köyü Buz Mağarası'nın oluşumu oldukça ilginç. Mağaranın büyüklüğü, birkaç olimpik havuz kadar bir alanı kaplıyor. Bu büyüklük, ziyaretçilere geniş ve derin bir mağara deneyimi sunuyor. Mağaranın jeolojik yapısı, bölgenin jeolojik tarihini anlamak için önemli bir veri sunuyor. Ancak, detaylı fiziksel veriler bulunmaması, mağaranın tam olarak anlaşılmasını engelliyor.
 
-İklim açısından, mağaranın bulunduğu bölge, karasal iklimin özellikleri gösteriyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürüyor. Bu mevsimsel özellikler, mağaranın binnenin sıcaklık ve nem dengesini etkiliyor. Mağaranın içi, genellikle dış ortamın sıcaklığına göre daha serin ve nemli bir ortam sunuyor.
+İklim açısından, mağaranın bulunduğu bölge, karasal iklimin özellikleri gösteriyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürüyor. Bu mevsimsel özellikler, mağaranın binnenin sıcaklık ve nem dengesini etkiliyor. Mağaranın içi, genellikle dış ortamın sıcaklığına göre daha serin ve nemli bir ortam sunuyor.
 
 Mağaranın bulunduğu coğrafya, çevresindeki ekosistemle önemli bir bağlantı içerisinde. Mağara, bölgenin su kaynaklarının oluşumunda önemli bir rol oynuyor. Yakındaki nehir ve akarsular, mağaranın su dengesini etkiliyor ve mağara da bu su kaynaklarına katkıda bulunuyor. Bu nedenle, Helva Köyü Buz Mağarası, bölgenin ekolojik dengesini anlamak için önemli bir nokta.
 

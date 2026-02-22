@@ -42,7 +42,7 @@ Doğunun gizli hazinelerinden biri olan Kuduran Dağı, Malatya'nın coğrafi do
 
 Jeolojik açıdan bakıldığında, Kuduran Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, koordinatlarından hareketle bu bölgenin coğrafi yapısını anlama mümkündür. Bir şehir bloğu büyüklüğünde olan bu alan, çevresindeki diğer coğrafi oluşumlarla birlikte bir bütün oluşturur. Ancak, boyutları ve şekli hakkında net bilgiler olmasa da, bölgenin coğrafi çeşitliliği düşünüldüğünde, Kuduran Dağı'nın da bu çeşitliliğe katkıda bulunduğu söylenebilir.
 
-Mevsimsel değişikliklere göre hava durumu da değişen Kuduran Dağı, iklim karakteri açısından zajímav bir profile sahiptir. Malatya'nın genel iklim yapısına uygun olarak, Kuduran Dağı'nda da yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir hava hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve ziyaretçilere her mevsim farklı bir deneyim sunar.
+Mevsimsel değişikliklere göre hava durumu da değişen Kuduran Dağı, iklim karakteri açısından zajímav bir profile sahiptir. Malatya'nın genel iklim yapısına uygun olarak, Kuduran Dağı'nda da yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir hava hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve ziyaretçilere her mevsim farklı bir deneyim sunar.
 
 Çevresel açıdan bakıldığında, Kuduran Dağı'nın komşu alanlar ve su kaynaklarıyla olan ilişkileri önemlidir. Bölgedeki su kaynakları ve ekosistem bağlantıları, Kuduran Dağı'nın doğal dengesini korur ve bölgenin bio-çeşitliliğini destekler. Monaco'nun yarısı kadar büyük olmayan bu dağ, ancak çevresindeki diğer coğrafi oluşumlarla birlikte bir bütün olarak düşünüldüğünde, bölgenin ekolojik dengesi için önemli bir role sahiptir.
 

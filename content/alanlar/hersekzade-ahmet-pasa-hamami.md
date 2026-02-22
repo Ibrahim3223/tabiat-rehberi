@@ -37,7 +37,7 @@ Hersekzade Ahmet Paşa Hamamı, tarihsel geçmişi ile dikkat çeker. Tarihi kay
 
 ## Coğrafya
 
-Hersekzade Ahmet Paşa Hamamı, İzmir'in Urla ilçesinde yer alır. Bu bölgenin coğrafi özellikleri, Ege Bölgesi'nin genel özelliklerini taşır. Hamam ve plaj alanı, denize yakın bir konumda bulunur ve çevresi yeşilliklerle kaplıdır. Urla, Ege Denizi kıyısında yer alan bir ilçe olduğu için, hamam ve plaj alanı da denizle iç içe bir konumdadır. Bölgenin iklimi, tipik Akdeniz iklimidir; yani yazları sıca ve kurak, kışları ılıman ve yağışlı geçer. Bu coğrafi özellikler, Hersekzade Ahmet Paşa Hamamı'nı hem doğal güzellikleri hem de tarihi önemi ile önemli bir destinasyon haline getirir. Hamamın çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu zenginlik, ziyaretçilere doğayla iç içe bir deneyim sunar.
+Hersekzade Ahmet Paşa Hamamı, İzmir'in Urla ilçesinde yer alır. Bu bölgenin coğrafi özellikleri, Ege Bölgesi'nin genel özelliklerini taşır. Hamam ve plaj alanı, denize yakın bir konumda bulunur ve çevresi yeşilliklerle kaplıdır. Urla, Ege Denizi kıyısında yer alan bir ilçe olduğu için, hamam ve plaj alanı da denizle iç içe bir konumdadır. Bölgenin iklimi, tipik Akdeniz iklimidir; yani yazları sıcak ve kurak, kışları ılıman ve yağışlı geçer. Bu coğrafi özellikler, Hersekzade Ahmet Paşa Hamamı'nı hem doğal güzellikleri hem de tarihi önemi ile önemli bir destinasyon haline getirir. Hamamın çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu zenginlik, ziyaretçilere doğayla iç içe bir deneyim sunar.
 
 ## Flora ve Fauna
 

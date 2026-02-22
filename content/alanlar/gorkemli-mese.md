@@ -30,7 +30,7 @@ Gorkemli Mese'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bölge
 
 ## Coğrafya
 
-Gorkemli Mese, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlak alanları ve ormanlık bölgelerden oluşmaktadır. Milli parkın toplam alanı 140 hektar olup, bu alan yaklaşık 200 futbol sahası büyüklüğündedir. Bölge, çeşitli bitki türleri ve yaban hayvanları ile kaplıdır. Gorkemli Mese'nin coğrafi yapısı, ziyaretçilere geniş açık alanlar sunmaktadır. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal iklimdir. Bu nedenle, bölge yazları sıca ve kurak, kışları ise soğu ve karlı geçmektedir. Gorkemli Mese, coğrafi olarak önemli bir konumda yer almakta ve ziyaretçilere çeşitli doğa güzelliklerini sunmaktadır.
+Gorkemli Mese, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlak alanları ve ormanlık bölgelerden oluşmaktadır. Milli parkın toplam alanı 140 hektar olup, bu alan yaklaşık 200 futbol sahası büyüklüğündedir. Bölge, çeşitli bitki türleri ve yaban hayvanları ile kaplıdır. Gorkemli Mese'nin coğrafi yapısı, ziyaretçilere geniş açık alanlar sunmaktadır. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal iklimdir. Bu nedenle, bölge yazları sıcak ve kurak, kışları ise soğuk ve karlı geçmektedir. Gorkemli Mese, coğrafi olarak önemli bir konumda yer almakta ve ziyaretçilere çeşitli doğa güzelliklerini sunmaktadır.
 
 ## Flora ve Fauna
 

@@ -30,7 +30,7 @@ Servergazi Sit Alanı'nın tarihi geçmişi, bölgenin jeoloji ve biyolojik öze
 
 ## Coğrafya
 
-Servergazi Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde yer alır. Bu bölge, genel olarak yüksek bir plato görünümüne sahiptir ve çevredeki dağlarla çevrilidir. İklim, karasal özellikler taşır ve mevsimsel değişimler belirgindir. Yaz ayları sıca ve kurak, kış ayları ise soğu ve karlı geçer. Bu iklim koşulları, bölgenin florası ve faunası üzerinde önemli bir etkiye sahiptir. Servergazi Sit Alanı, bu coğrafi ve iklimsel koşulların bir sonucu olarak, zengin bir biyolojik çeşitliliğe sahiptir. Alanın topografyası, ziyaretçilere çeşitli manzaralar ve doğal güzellikler sunar. Doğal kaynaklar, flora ve fauna, bu bölgenin coğrafi özellikleriyle birlikte düşünüldüğünde, Servergazi Sit Alanı'nın doğal değerleri daha da ortaya çıkar.
+Servergazi Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde yer alır. Bu bölge, genel olarak yüksek bir plato görünümüne sahiptir ve çevredeki dağlarla çevrilidir. İklim, karasal özellikler taşır ve mevsimsel değişimler belirgindir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve karlı geçer. Bu iklim koşulları, bölgenin florası ve faunası üzerinde önemli bir etkiye sahiptir. Servergazi Sit Alanı, bu coğrafi ve iklimsel koşulların bir sonucu olarak, zengin bir biyolojik çeşitliliğe sahiptir. Alanın topografyası, ziyaretçilere çeşitli manzaralar ve doğal güzellikler sunar. Doğal kaynaklar, flora ve fauna, bu bölgenin coğrafi özellikleriyle birlikte düşünüldüğünde, Servergazi Sit Alanı'nın doğal değerleri daha da ortaya çıkar.
 
 ## Flora ve Fauna
 

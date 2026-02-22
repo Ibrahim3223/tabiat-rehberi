@@ -45,7 +45,7 @@ Doğu Anadolu Bölgesi'nin doğal güzelliklerini keşfederken, 39.1105°K, 41.7
 
 Jeolojik açıdan bakıldığında, Küçük Hamurpet'in fiziksel yapısı hakkında da fazla bilgi bulunmuyor. Ancak, genel olarak bu bölgede volkanik faaliyetlerin etkisiyle oluşmuş araziler görme mümkün. Bu bölge, volkanik kayaçlarla kaplı ve jeolojik açıdan oldukça zengin bir yapıya sahip. Birkaç olimpik havuz kadar küçük olan bu göl, çevresindeki dağlarla birlikte güzel bir manzara sunuyor.
 
-Mevsimsel değişiklikler açısından, Küçük Hamurpet'in iklim karakteri oldukça ilginç. Doğu Anadolu Bölgesi'nin soğu ve karasal iklimi, bu bölgede yaşayan canlıları etkiliyor. Kış aylarında oldukça soğu ve kar yağışlı olan bu bölge, yaz aylarında ise serin ve yağışlı bir hava sunuyor. Hava durumu, mevsimlere göre değişiyor ve bu da bölgenin ekosistemini etkiliyor.
+Mevsimsel değişiklikler açısından, Küçük Hamurpet'in iklim karakteri oldukça ilginç. Doğu Anadolu Bölgesi'nin soğu ve karasal iklimi, bu bölgede yaşayan canlıları etkiliyor. Kış aylarında oldukça soğuk ve kar yağışlı olan bu bölge, yaz aylarında ise serin ve yağışlı bir hava sunuyor. Hava durumu, mevsimlere göre değişiyor ve bu da bölgenin ekosistemini etkiliyor.
 
 Çevresel açıdan bakıldığında, Küçük Hamurpet'in komşu alanlar ve su kaynaklarıyla olan bağlantısı dikkat çekiyor. Bu küçük göl, etrafındaki dağlarla birlikte bir ekosistem oluşturuyor. Su kaynakları, bölgedeki canlıları besliyor ve ekosistemin dengesini sağlıyor. Monaco'nun yarısı kadar büyük olmayan bu küçük göl, çevresindeki doğal güzelliklerle birlikte güzel bir manzara sunuyor.
 

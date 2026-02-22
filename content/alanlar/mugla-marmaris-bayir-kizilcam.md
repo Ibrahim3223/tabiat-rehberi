@@ -30,7 +30,7 @@ Marmaris'te yer alan Bayır Köyü ve Kızılcâm Ormanı, tarihsel olarak önem
 
 ## Coğrafya
 
-Marmaris'te yer alan Bayır Köyü ve Kızılcâm Ormanı, Ege Bölgesi'nin coğrafi özelliklerini taşıyor. Milli park, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Marmaris'in iklimi, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir iklim hüküm sürüyor. Milli parkın coğrafi konumu, Marmaris'in merkezine yakın bir konumda yer alıyor. Bayır Köyü ve Kızılcâm Ormanı'nın birleşmesiyle oluşan milli park, Marmaris'in doğal güzelliklerini ziyaretçileriyle buluşturuyor. Milli parkın coğrafi yapısı, çeşitli bitki ve hayvan türlerinin yaşamasına uygun bir ortam sunuyor. Kızılcâm Ormanı, çeşitli ağaç türleriyle kaplı bir alan olarak dikkat çekiyor.
+Marmaris'te yer alan Bayır Köyü ve Kızılcâm Ormanı, Ege Bölgesi'nin coğrafi özelliklerini taşıyor. Milli park, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Marmaris'in iklimi, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir iklim hüküm sürüyor. Milli parkın coğrafi konumu, Marmaris'in merkezine yakın bir konumda yer alıyor. Bayır Köyü ve Kızılcâm Ormanı'nın birleşmesiyle oluşan milli park, Marmaris'in doğal güzelliklerini ziyaretçileriyle buluşturuyor. Milli parkın coğrafi yapısı, çeşitli bitki ve hayvan türlerinin yaşamasına uygun bir ortam sunuyor. Kızılcâm Ormanı, çeşitli ağaç türleriyle kaplı bir alan olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 

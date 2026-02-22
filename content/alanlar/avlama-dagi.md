@@ -42,7 +42,7 @@ Mersin'in doğusunda, Akdeniz'in maviliklerine karşı yükselen Avlama Dağı, 
 
 Doğal güzellikleri ve coğrafi konumuyla dikkat çeken Avlama Dağı, etrafındaki arazilere nazaran daha yüksek bir konumda bulunuyor. Ancak, detaylı fiziksel verilerin eksikliği nedeniyle dağın boyutları ve şekli hakkında net bilgiler bulunmuyor. Buna rağmen, Avlama Dağı'nın Toros Dağları'nın bir parçası olduğu biliniyor ve bu bölgenin jeolojik yapısı genellikle kireç taşı, granit ve şist gibi kayaçlardan oluşuyor.
 
-Mevsimsel olarak, Avlama Dağı'nı çevreleyen bölgede Akdeniz iklimi hüküm sürüyor. Bu iklim, yazları sıca ve kurak, kışları ılık ve yağışlı olarak karakterize ediliyor. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte değil, ancak bölgenin iklim karakterini etkileyen önemli bir faktör. Bu yükseklik, özellikle kış aylarında, bölgede daha serin bir hava oluşmasına neden oluyor.
+Mevsimsel olarak, Avlama Dağı'nı çevreleyen bölgede Akdeniz iklimi hüküm sürüyor. Bu iklim, yazları sıcak ve kurak, kışları ılık ve yağışlı olarak karakterize ediliyor. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte değil, ancak bölgenin iklim karakterini etkileyen önemli bir faktör. Bu yükseklik, özellikle kış aylarında, bölgede daha serin bir hava oluşmasına neden oluyor.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları, Avlama Dağı'nın çevresel ilişkilerini şekillendiriyor. Dağın eteklerinde, çeşitli su kaynakları ve akarsular bulunduğundan, bu bölgede bir ekosistem bağlantısı kurulabilir. Örneğin, dağdan akan su kaynakları, yakındaki ovaları sulayarak tarım için önemli bir kaynak teşkil ediyor. Bu bağlantılar, Avlama Dağı'nı sadece bir coğrafi oluşum olarak değil, aynı zamanda bir ekosistem bileşeni olarak gösteriyor.
 

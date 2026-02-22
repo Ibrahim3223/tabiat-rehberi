@@ -30,11 +30,11 @@ Isparta-Egirdir-Boylu Ardic milli parkının tarihi geçmişi, yüzyıllar boyun
 
 ## Coğrafya
 
-Isparta-Egirdir-Boylu Ardic milli parkı, Akdeniz Bölgesi'nin coğrafi olarak en önemli alanlarından biridir. Bu bölge, Isparta ilinin Egirdir ilçesinde bulunur ve 140 hektarlık bir alanı kaplar. Milli parkın coğrafi yapısı, dağlar, ormanlar ve göllerden oluşur. Bu bölge, Akdeniz ikliminin hüküm sürdüğü bir bölgedir. Kışları ılıman, yazları ise sıcak ve kurak passedir. Bu bölgenin coğrafi konumu, ziyaretçilere, doğanın güzelliğini ve zenginliğini keşfetme fırsatı sunar. Ziyaretçiler, milli parkın içinde, çeşitli bitki türleri ve zengin fauna görebilirler.
+Isparta-Egirdir-Boylu Ardic milli parkı, Akdeniz Bölgesi'nin coğrafi olarak en önemli alanlarından biridir. Bu bölge, Isparta ilinin Egirdir ilçesinde bulunur ve 140 hektarlık bir alanı kaplar. Milli parkın coğrafi yapısı, dağlar, ormanlar ve göllerden oluşur. Bu bölge, Akdeniz ikliminin hüküm sürdüğü bir bölgedir. Kışları ılıman, yazları ise sıcak ve kurak pasiftir. Bu bölgenin coğrafi konumu, ziyaretçilere, doğanın güzelliğini ve zenginliğini keşfetme fırsatı sunar. Ziyaretçiler, milli parkın içinde, çeşitli bitki türleri ve zengin fauna görebilirler.
 
 ## Flora ve Fauna
 
-Isparta-Egirdir-Boylu Ardic milli parkı, zengin bir flora ve fauna sahiptir. Bu bölgede, çeşitli bitki türleri bulunur. Mevsimsel değişimler, bu bölgenin doğal güzelliğini daha da artırır. Kışın, karla kaplı dağlar ve ormanlar, ziyaretçilere, bir kış masalı gibi görünür. Yazın, ise, sıca ve kurak hava, ziyaretçilere, bir yaz tatili gibi gelir. Bu bölgenin fauna, zengin ve çeşitli türlerden oluşur. Ziyaretçiler, milli parkın içinde, çeşitli hayvan türleri görebilirler. Bu bölge, doğa severler için, bir cennet gibidir.
+Isparta-Egirdir-Boylu Ardic milli parkı, zengin bir flora ve fauna sahiptir. Bu bölgede, çeşitli bitki türleri bulunur. Mevsimsel değişimler, bu bölgenin doğal güzelliğini daha da artırır. Kışın, karla kaplı dağlar ve ormanlar, ziyaretçilere, bir kış masalı gibi görünür. Yazın, ise, sıcak ve kurak hava, ziyaretçilere, bir yaz tatili gibi gelir. Bu bölgenin fauna, zengin ve çeşitli türlerden oluşur. Ziyaretçiler, milli parkın içinde, çeşitli hayvan türleri görebilirler. Bu bölge, doğa severler için, bir cennet gibidir.
 
 ## Ziyaret Bilgileri
 

@@ -37,7 +37,7 @@ Siyam Efendi Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanmaktadır
 
 ## Coğrafya
 
-Siyam Efendi Türbesi, Konya'nın Taşkent ilçesinde, İç Anadolu Bölgesi'nin coğrafi olarak en güzel noktalarından birinde bulunmaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli turizm noktalarından biridir. Türbe, doğal güzellikleri ile çevrilidir ve ziyaretçilere mükemmel bir manzara sunar. Bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır ve step iklimi hakimdir. Yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlıdır. Siyam Efendi Türbesi, Taşkent'in coğrafi ve kültürel zenginliklerinin birleştiği bir noktadır ve ziyaretçilere benzersiz bir deneyim sunar.
+Siyam Efendi Türbesi, Konya'nın Taşkent ilçesinde, İç Anadolu Bölgesi'nin coğrafi olarak en güzel noktalarından birinde bulunmaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli turizm noktalarından biridir. Türbe, doğal güzellikleri ile çevrilidir ve ziyaretçilere mükemmel bir manzara sunar. Bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır ve step iklimi hakimdir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlıdır. Siyam Efendi Türbesi, Taşkent'in coğrafi ve kültürel zenginliklerinin birleştiği bir noktadır ve ziyaretçilere benzersiz bir deneyim sunar.
 
 ## Flora ve Fauna
 

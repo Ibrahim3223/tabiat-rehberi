@@ -36,7 +36,7 @@ wikidata_id: "Q34810122"
 
 ## Coğrafya
 
-Üçkak Tepe, Adıyaman şehrinin merkezi bir noktasında yer alıyor. Tepenin çevresinde, tarihi eserler ve kalıntılar bulunuyor. Bu bölge, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. İklim, genellikle sıca ve kurak. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar yer alıyor. Çevre, tarihi ve doğal güzelliklerinin bir arada bulunduğu bir bölge. Ziyaretçiler, tepeye tırmanırken, şehir manzarasını ve çevresindeki dağları görebiliyor. Üçkak Tepe, coğrafi konumu ve doğal güzellikleriyle, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Üçkak Tepe, Adıyaman şehrinin merkezi bir noktasında yer alıyor. Tepenin çevresinde, tarihi eserler ve kalıntılar bulunuyor. Bu bölge, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. İklim, genellikle sıcak ve kurak. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar yer alıyor. Çevre, tarihi ve doğal güzelliklerinin bir arada bulunduğu bir bölge. Ziyaretçiler, tepeye tırmanırken, şehir manzarasını ve çevresindeki dağları görebiliyor. Üçkak Tepe, coğrafi konumu ve doğal güzellikleriyle, ziyaretçilerine unutulmaz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

@@ -45,7 +45,7 @@ Doğunun en uzak köşesinde, Iğdır ilinin sınırları içerisinde yer alan K
 
 Jeolojik açıdan bakıldığında, Küçük Ağrı Dağı'nın boyutları hakkında net bir veri olmasa da, bu bölgenin genel coğrafi yapısını düşünürsek, bir şehir bloğu büyüklüğünde bir alanı kapladığı söylenebilir. Bu küçük ama önemli dağ, etrafındaki geniş ovayla birlikte bir kontrast oluşturmakta ve coğrafi çeşitliliği artırmaktadır. Ancak, kesin boyutlar bilinmediğinden, bu karşılaştırma sadece bir tahmindir.
 
-Mevsimsel değişimler açısından, Küçük Ağrı Dağı'nın bulunduğu bölgenin iklimi, karasal iklim özelliklerini taşımaktadır. Kışlar soğu ve kar yağışlı, yazlar ise sıca ve kurak geçmektedir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Etrafındaki ova ve dağların birleştiği noktada, farklı ekosistemlerin bir araya geldiği bir bölge olarak dikkat çekmektedir.
+Mevsimsel değişimler açısından, Küçük Ağrı Dağı'nın bulunduğu bölgenin iklimi, karasal iklim özelliklerini taşımaktadır. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçmektedir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Etrafındaki ova ve dağların birleştiği noktada, farklı ekosistemlerin bir araya geldiği bir bölge olarak dikkat çekmektedir.
 
 Çevresel açıdan bakıldığında, Küçük Ağrı Dağı, Aras Nehri'nin yakınında bulunmaktadır. Bu nehrin sulak alanları, bölgenin ekosistemini zenginleştirmekte ve çeşitli canlı türlerinin yaşamasına olanak sağlamaktadır. Ayrıca, bu dağ, komşu ülkelerle sınır olan bir bölgede yer aldığı için, bölgesel ekosistem bağlantıları açısından önemli bir nokta olarak görülebilir. Bu bağlantılar, bölgenin biyolojik çeşitliliğini artırmakta ve ekosistemlerin birbiriyle etkileşimini sağlamaktadır.
 

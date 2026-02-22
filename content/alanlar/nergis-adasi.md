@@ -43,7 +43,7 @@ wikidata_id: "Q49662386"
 
 Birkaç olimpik havuz kadar bir alanı kaplayan Nergis Adası, küçük boyutlarına rağmen önemli bir doğal güzelliğe sahip. Ada'nın fiziksel yapısı, Ege Denizi'nin karakteristik özelliklerini taşıyor. Jeolojik açıdan incelendiğinde, ada'nın yapısının volkanik kökenli olduğu söylenebilir. Ancak, detaylı fiziksel veriler bulunmaması nedeniyle, ada'nın boyutları ve şekli hakkında daha fazla bilgi verme mümkün değil.
 
-Mevsimsel özellikler açısından bakıldığında, Nergis Adası'nın iklim karakteri, Ege Bölgesi'nin genel iklim yapısını yansıtıyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir iklim hüküm sürüyor. Bu mevsimsel değişimler, adanın doğal yaşamını ve bitki örtüsünü etkiliyor.
+Mevsimsel özellikler açısından bakıldığında, Nergis Adası'nın iklim karakteri, Ege Bölgesi'nin genel iklim yapısını yansıtıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir iklim hüküm sürüyor. Bu mevsimsel değişimler, adanın doğal yaşamını ve bitki örtüsünü etkiliyor.
 
 Doğal bir çevre olarak, Nergis Adası, Ege Denizi'nin ekosistemine bağlı bir şekilde bulunuyor. Komşu alanlar ve su kaynakları ile bağlantılı olan ada, deniz canlıları için önemli bir yaşam alanı sunuyor. Ayrıca, adanın çevresindeki su kaynakları, bölgede yaşayan diğer canlılar için de önemli bir kaynak teşkil ediyor.
 

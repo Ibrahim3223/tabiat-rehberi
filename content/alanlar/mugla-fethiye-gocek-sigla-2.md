@@ -30,7 +30,7 @@ Mugla-Fethiye-Gocek Sigla 2 milli parkının tarihi geçmişi oldukça eskidir. 
 
 ## Coğrafya
 
-Mugla-Fethiye-Gocek Sigla 2 milli parkı, Ege Bölgesi'nin en güzel coğrafyalarından birini sunar. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve oldukça geniş bir yeşillik alanıdır. Bu milli park, denize yakın bir konumda yer alır ve deniz seviyesinden yaklaşık yüksek bir konumdatedir. İklimi, Akdeniz ikliminin karakteristik özellikleri taşır ve yazları sıcak, kışları ılımandır. Milli parkın coğrafyası, ziyaretçilere birçok farklı peyzaj sunar. Burada, ormanlar, çayırlar ve kayalık alanlar bulunur. Ziyaretçiler, bu çeşitli coğrafyaları keşfederek, doğanın güzelliğini yakından görebilirler.
+Mugla-Fethiye-Gocek Sigla 2 milli parkı, Ege Bölgesi'nin en güzel coğrafyalarından birini sunar. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve oldukça geniş bir yeşillik alanıdır. Bu milli park, denize yakın bir konumda yer alır ve yüksek bir konumdadir. İklimi, Akdeniz ikliminin karakteristik özellikleri taşır ve yazları sıcak, kışları ılımandır. Milli parkın coğrafyası, ziyaretçilere birçok farklı peyzaj sunar. Burada, ormanlar, çayırlar ve kayalık alanlar bulunur. Ziyaretçiler, bu çeşitli coğrafyaları keşfederek, doğanın güzelliğini yakından görebilirler.
 
 ## Flora ve Fauna
 

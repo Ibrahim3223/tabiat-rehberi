@@ -37,7 +37,7 @@ Samur Tümülüsü Kumru'nun tarihi geçmişi, yüzyıllar boyunca şekillenmiş
 
 ## Coğrafya
 
-Samur Tümülüsü Kumru, Karadeniz Bölgesi'nin Kumru ilçesinde yer almaktadır. Bu plaj, 140 hektarlık bir alana sahiptir ve yaklaşık 200 futbol sahası büyüklüğündedir. Plajın çevresi, çeşitli bitki türleri ile kaplıdır ve ziyaretçiler, doğa ile iç içe zaman geçirebilmektedir. Samur Tümülüsü Kumru'nun iklimi, Karadeniz Bölgesi'nin iklimine benzemektedir. Bu bölgenin iklimi, nemli ve ılımandır. Kış ayları, yağışlı ve serin geçerken, yaz ayları, sıca ve nemlidir. Samur Tümülüsü Kumru'nun coğrafi konumu, ziyaretçileri için birçok fırsat sunmaktadır. Ziyaretçiler, bu plajın doğal güzelliklerini keşfedebilecekleri gibi, aynı zamanda çevresindeki diğer turistik alanları da ziyaret edebilmektedir.
+Samur Tümülüsü Kumru, Karadeniz Bölgesi'nin Kumru ilçesinde yer almaktadır. Bu plaj, 140 hektarlık bir alana sahiptir ve yaklaşık 200 futbol sahası büyüklüğündedir. Plajın çevresi, çeşitli bitki türleri ile kaplıdır ve ziyaretçiler, doğa ile iç içe zaman geçirebilmektedir. Samur Tümülüsü Kumru'nun iklimi, Karadeniz Bölgesi'nin iklimine benzemektedir. Bu bölgenin iklimi, nemli ve ılımandır. Kış ayları, yağışlı ve serin geçerken, yaz ayları, sıcak ve nemlidir. Samur Tümülüsü Kumru'nun coğrafi konumu, ziyaretçileri için birçok fırsat sunmaktadır. Ziyaretçiler, bu plajın doğal güzelliklerini keşfedebilecekleri gibi, aynı zamanda çevresindeki diğer turistik alanları da ziyaret edebilmektedir.
 
 ## Flora ve Fauna
 

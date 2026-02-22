@@ -36,7 +36,7 @@ Nuribaba Tepesi'nin tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev 
 
 ## Coğrafya
 
-Nuribaba Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir tepe. Bu tepe, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Nuribaba Tepesi, deniz seviyesinden yüksekliği ile çevresine hakim bir konumda. Bu özelliği, ziyaretçilere geniş bir manzara sunuyor. Tepenin coğrafi konumu, birçok doğal güzelliğe ev sahipliği yapıyor. Nuribaba Tepesi'nin iklimi, Ege Bölgesi'nin karakteristik iklimine uygun olarak sıca ve kurak yazlar, ılık ve yağışlı kışlar şeklinde. Bu iklim, tepeye özgü bitki türlerinin gelişimine uygun.
+Nuribaba Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir tepe. Bu tepe, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Nuribaba Tepesi, deniz seviyesinden yüksekliği ile çevresine hakim bir konumda. Bu özelliği, ziyaretçilere geniş bir manzara sunuyor. Tepenin coğrafi konumu, birçok doğal güzelliğe ev sahipliği yapıyor. Nuribaba Tepesi'nin iklimi, Ege Bölgesi'nin karakteristik iklimine uygun olarak sıcak ve kurak yazlar, ılık ve yağışlı kışlar şeklinde. Bu iklim, tepeye özgü bitki türlerinin gelişimine uygun.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Doğal güzelliklerin bir araya geldiği Konya ilinin coğrafi zenginliklerini k
 
 Jeolojik açıdan bakıldığında, Gevenli Dağı'nın fiziksel yapısı hakkında detaylı bilgiler olmasa da, genel olarak Türkiye'nin İç Anadolu Bölgesi'nin jeolojik özelliklerini paylaşmaktadır. Bu bölgede genellikle volkani ve sedimentatif kayaçlar bulunur. Gevenli Dağı'nın yüksekliği ve boyutları tam olarak belirlenmese de, genel olarak bölgenin coğrafi yapısına uygun olarak middle yüksekliklere sahip olduğu söylenebilir.
 
-Mevsimsel değişikliklerin etkisi altında kalan Gevenli Dağı, Konya'nın karasal ikliminin karakteristik özelliklerini taşır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu mevsimsel özellikler, dağın ekosistemini şekillendiren önemli faktörlerdir.
+Mevsimsel değişikliklerin etkisi altında kalan Gevenli Dağı, Konya'nın karasal ikliminin karakteristik özelliklerini taşır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu mevsimsel özellikler, dağın ekosistemini şekillendiren önemli faktörlerdir.
 
 Çevresel açıdan bakıldığında, Gevenli Dağı'nın komşu alanlarla ve su kaynaklarıyla olan ilişkileri önemlidir. Konya'nın önemli su kaynaklarından olan çay ve nehirlerin yakınında yer alan dağ, bölgenin ekosistem dengesini korur. Ayrıca, Gevenli Dağı, bölgedeki diğer doğal alanlarla bağlantılı olarak, flora ve fauna çeşitliliğinin korunmasına katkıda bulunur. Bu bağlantılar, Gevenli Dağı'nı yalnızca bir doğal alan olarak değil, aynı zamanda daha geniş bir ekosistemin parçası olarak tanımlar.
 

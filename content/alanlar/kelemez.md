@@ -46,7 +46,7 @@ Denizlerin mavisi içinde gizlenen Kelemez, 36.9959°K ve 26.9950°D koordinatla
 
 Doğal güzelliği ile dikkat çeken Kelemez'in fiziksel yapısı, birkaç olimpik havuz kadar bir alanı kaplıyor. Bu küçük ada, Ege Denizi'nin bir parçası olarak, deniz seviyesine yakın bir yükseklikte yer alıyor. Etrafında yer alan diğer adalarla birlikte, bir bütün olarak güzel bir coğrafya oluşturuyor.
 
-Mevsimsel değişikliklerle birlikte, Kelemez'in iklim karakteri değişiyor. Yaz aylarında sıca ve güneşli bir hava, kış aylarında ise ılıman bir iklim hüküm sürüyor. Bu mevsimsel özellikler, adanın doğal güzelliğini daha da artırıyor. Hava durumu, genellikle Ege Denizi'nin genel iklim koşullarına uygun olarak şekilleniyor.
+Mevsimsel değişikliklerle birlikte, Kelemez'in iklim karakteri değişiyor. Yaz aylarında sıcak ve güneşli bir hava, kış aylarında ise ılıman bir iklim hüküm sürüyor. Bu mevsimsel özellikler, adanın doğal güzelliğini daha da artırıyor. Hava durumu, genellikle Ege Denizi'nin genel iklim koşullarına uygun olarak şekilleniyor.
 
 Çevresel açıdan bakıldığında, Kelemez'in komşu alanları ve su kaynakları önemli bir role sahip. Ada, Ege Denizi'nin bir parçası olarak, su kaynakları açısından zengin bir bölgeye ait. Ekosistem bağlantıları da, adanın doğal dengesini korumasında önemli bir rol oynuyor. Monaco'nun çok küçük bir bölümü kadar bir alanı kaplayan Kelemez, doğal güzelliği ve çevresel özellikleri ile dikkat çekiyor.
 

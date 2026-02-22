@@ -37,7 +37,7 @@ Hocabali Hamamı'nın tarihi geçmişi, yüzyıllar boyunca farklı medeniyetler
 
 ## Coğrafya
 
-Hocabali Hamamı Plajı, Burdur'un merkezine yakın bir konumda, Akdeniz Bölgesi'nde yer alıyor. Plajın etrafında, yaklaşık 140 hektarlık bir yeşil alan, güneşin ve denizin keyfini çıkarabileceğiniz bir mekan sunuyor. Bu bölgenin coğrafyası, genel olarak Akdeniz ikliminin özellikleri ile şekillenmiş ve ziyaretçilerine sıca ve güneşli bir atmosfer sunuyor. Plajın coğrafi yapısı, denizin ve güneşin keyfini çıkarmak için ideal bir ortam sağlıyor. Ayrıca, plajın çevresinde, çeşitli bitki türleri ve ağaçlar yer alıyor ve bu da ziyaretçilere doğal bir ortam sunuyor.
+Hocabali Hamamı Plajı, Burdur'un merkezine yakın bir konumda, Akdeniz Bölgesi'nde yer alıyor. Plajın etrafında, yaklaşık 140 hektarlık bir yeşil alan, güneşin ve denizin keyfini çıkarabileceğiniz bir mekan sunuyor. Bu bölgenin coğrafyası, genel olarak Akdeniz ikliminin özellikleri ile şekillenmiş ve ziyaretçilerine sıcak ve güneşli bir atmosfer sunuyor. Plajın coğrafi yapısı, denizin ve güneşin keyfini çıkarmak için ideal bir ortam sağlıyor. Ayrıca, plajın çevresinde, çeşitli bitki türleri ve ağaçlar yer alıyor ve bu da ziyaretçilere doğal bir ortam sunuyor.
 
 ## Flora ve Fauna
 

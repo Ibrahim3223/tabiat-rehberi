@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde, Batman şehrinin yakınında yer alan
 
 Doğal güzelliği ile dikkat çeken Seher Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplar. Dağın fiziksel yapısı, bölgenin jeolojik özelliklerini yansıtır. Ancak, ayrıntılı fiziksel verileri bulunmamasına rağmen, Seher Dağı'nın coğrafi konumu ve çevresindeki diğer dağlarla olan ilişkisi, bölgenin doğal dengesini koruması açısından önemlidir.
 
-Yüksekliği Eiffel Kulesi'nin yaklaşık 1/5'i kadar olan Seher Dağı, bölgenin iklim karakterini etkileyen önemli faktörlerden biridir. Mevsimsel özellikler, bölgenin genel iklim yapısına uygun olarak değişir. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu iklim koşulları, Seher Dağı'nın flora ve fauna çeşitliliğini şekillendirmeye yardımcı olur.
+Yüksekliği Eiffel Kulesi'nin yaklaşık 1/5'i kadar olan Seher Dağı, bölgenin iklim karakterini etkileyen önemli faktörlerden biridir. Mevsimsel özellikler, bölgenin genel iklim yapısına uygun olarak değişir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu iklim koşulları, Seher Dağı'nın flora ve fauna çeşitliliğini şekillendirmeye yardımcı olur.
 
 Bölgenin ekosistem bağlantıları açısından önemli bir role sahip olan Seher Dağı, komşu alanlar ve su kaynaklarıyla güçlü bir ilişki içindedir. Çevresindeki diğer dağlar ve vadilerle birlikte, bölgenin su döngüsünü ve doğal kaynaklarını destekler. Bu bağlantılar, Seher Dağı'nın çevresel önemini vurgular ve bölgenin doğal dengesinin korunması için gerekli önlemlerin alınmasını gerektirir.
 

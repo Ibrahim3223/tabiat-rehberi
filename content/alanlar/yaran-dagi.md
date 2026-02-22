@@ -44,7 +44,7 @@ Kütahya'nın coğrafi zenginliklerini keşfetmek isteyenler için Yaran Dağı,
 
 Doğal güzellikleri ve jeolojik yapısıyla dikkat çeken Yaran Dağı, çevresindeki diğer coğrafi oluşumlarla birlikte, bir bütün olarak değerlendirilmeli. Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplayan bu dağ, Eiffel Kulesi'nin yaklaşık 1/5'i yükseklikte bir zirveye sahip. Jeolojik yapısı itibariyle, çevredeki diğer dağlarla benzer özellikler gösteriyor.
 
-Yaran Dağı'nın iklim karakteri, mevsimsel olarak değişkenlik gösteriyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürüyor. Bu mevsimsel özellikler, dağın flora ve fauna yapısını etkiliyor. Monaco'nun yarısı kadar büyük bir alanı kaplayan bu dağ, çevresindeki diğer coğrafi oluşumlarla birlikte, bir ekosistem olarak değerlendirilmeli.
+Yaran Dağı'nın iklim karakteri, mevsimsel olarak değişkenlik gösteriyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürüyor. Bu mevsimsel özellikler, dağın flora ve fauna yapısını etkiliyor. Monaco'nun yarısı kadar büyük bir alanı kaplayan bu dağ, çevresindeki diğer coğrafi oluşumlarla birlikte, bir ekosistem olarak değerlendirilmeli.
 
 Çevresindeki diğer coğrafi oluşumlarla bağlantılı olarak düşünüldüğünde, Yaran Dağı, su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahip. İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplayan bu dağ, etrafındaki ovalar ve vadilerle birlikte, bir su toplama havzası olarak işlev görüyor. Bu özelliği, dağın çevresel ilişkilerini değerlendirmek açısından önemli bir faktör olarak karşımıza çıkıyor.
 

@@ -52,7 +52,7 @@ Karakısrak Dağı'nın çevresinde, Monaco'nun yarısı kadar büyüklükte orm
 
 Karakısrak Dağı, step bitki örtüsünün hakim olduğu bir bölge içinde yer alır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak farklı bitki türleri bulunur. İlkbaharın gelmesiyle birlikte, dağ yamaçlarında çeşitli çiçekler açar ve renklendirir. Step bitki örtüsünün karakteristik türleri, kuraklığa adapte olmuş bitkilerdir.
 
-Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zenginleştirir. Göçmen kuşlar, özellikle sonbahar aylarında bu bölgeyi ziyaret eder. Memeliler, dağın yüksek kesimlerinde ve ormanlık alanlarda yaşar. Sürüngenler, sıca ve kurak bölgelerde görülür. Bu canlılar, dağ ekosisteminin bir parçası olarak, birbirleriyle ve çevreleriyle ekolojik ilişkiler içinde yaşar.
+Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zenginleştirir. Göçmen kuşlar, özellikle sonbahar aylarında bu bölgeyi ziyaret eder. Memeliler, dağın yüksek kesimlerinde ve ormanlık alanlarda yaşar. Sürüngenler, sıcak ve kurak bölgelerde görülür. Bu canlılar, dağ ekosisteminin bir parçası olarak, birbirleriyle ve çevreleriyle ekolojik ilişkiler içinde yaşar.
 
 Karakısrak Dağı, yüksek biodiversitesi ve benzersiz dağ ekosistemi nedeniyle ekolojik olarak önemlidir. Bu alanın korunması, bölgenin doğal dengesini koruma ve canlıların yaşam alanlarını korumak için gereklidir.
 

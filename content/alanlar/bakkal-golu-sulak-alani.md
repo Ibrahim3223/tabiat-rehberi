@@ -30,7 +30,7 @@ Bakkal Gölü Sulak Alanı, yüzyıllar boyunca bölgenin ekolojik dengesini kor
 
 ## Coğrafya
 
-Bakkal Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve sulak alanlardan oluşuyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok farklı bitki türünü barındırıyor. Bu bölgede, sulak alanların yanında, geniş otlaklar ve çalılıklar da bulunuyor. Bakkal Gölü Sulak Alanı, aynı zamanda birçok farklı hayvan türüne de ev sahipliği yapıyor. Bu alanın coğrafi yapısı, birçok farklı canlıyaşam alanı sağlıyor. Bakkal Gölü Sulak Alanı'nın iklimi, İç Anadolu Bölgesi'nin tipik karasal iklimine uygun olarak, kışları soğu ve yazları sıcak geçiyor.
+Bakkal Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve sulak alanlardan oluşuyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok farklı bitki türünü barındırıyor. Bu bölgede, sulak alanların yanında, geniş otlaklar ve çalılıklar da bulunuyor. Bakkal Gölü Sulak Alanı, aynı zamanda birçok farklı hayvan türüne de ev sahipliği yapıyor. Bu alanın coğrafi yapısı, birçok farklı canlıyaşam alanı sağlıyor. Bakkal Gölü Sulak Alanı'nın iklimi, İç Anadolu Bölgesi'nin tipik karasal iklimine uygun olarak, kışları soğuk ve yazları sıcak geçiyor.
 
 ## Flora ve Fauna
 

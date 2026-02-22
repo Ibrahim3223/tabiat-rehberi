@@ -36,7 +36,7 @@ Gelik Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin 
 
 ## Coğrafya
 
-Gelik Tepesi, Van ilinin coğrafi yapısını önemli ölçüde etkileyen bir bölge. Bu tepe, yaklaşık yüksek bir konumdate yer alıyor. Gelik Tepesi'nin coğrafi konumu, Van Gölü'ne ve çevresindeki dağlara hakim bir konumda. Bu tepe, bölgenin iklimini ve bitki örtüsünü önemli ölçüde etkiliyor. Gelik Tepesi'nin eteklerinde, çeşitli bitki türleri ve zengin fauna encontruluyor. Bu bölge, Van ilinin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Gelik Tepesi, bölgenin coğrafi yapısını ve iklim koşullarını anlamak için önemli bir nokta.
+Gelik Tepesi, Van ilinin coğrafi yapısını önemli ölçüde etkileyen bir bölge. Bu tepe, yüksek bir konumda yer alıyor. Gelik Tepesi'nin coğrafi konumu, Van Gölü'ne ve çevresindeki dağlara hakim bir konumda. Bu tepe, bölgenin iklimini ve bitki örtüsünü önemli ölçüde etkiliyor. Gelik Tepesi'nin eteklerinde, çeşitli bitki türleri ve zengin fauna encontruluyor. Bu bölge, Van ilinin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Gelik Tepesi, bölgenin coğrafi yapısını ve iklim koşullarını anlamak için önemli bir nokta.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Gelik Tepesi, doğa severler ve macera arayışında olanlar için ideal bir des
 ## İlginç Bilgiler
 
 - Gelik Tepesi, Van ilinin en önemli doğal güzelliklerinden biri
-- Bu tepe, yaklaşık yüksek bir konumdate yer alıyor
+- Bu tepe, yüksek bir konumda yer alıyor
 - Gelik Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - Bu bölge, bölgenin iklimini ve bitki örtüsünü önemli ölçüde etkiliyor
 - Gelik Tepesi, Van ilinin tarihini ve kültürünü anlamak için önemli bir nokta

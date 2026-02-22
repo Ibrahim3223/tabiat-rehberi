@@ -43,7 +43,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi zenginliklerini keşfederken, 38.6167�
 
 Doğal yapısı itibariyle, Piraziz Dağı'nın fiziksel özellikleri, bölgenin jeolojik tarihini yansıtıyor. Ancak, detaylı fiziksel veriler bulunmamasına rağmen, bu dağ, çevresindeki coğrafi yapılar ile birlikte, bölgenin doğal güzelliğini ortaya koyuyor. Monaco'nun küçük bir bölümü kadar bir alanı kaplayan bu dağ, kendi içinde çeşitli jeolojik oluşumları barındırıyor.
 
-Mevsimsel değişimler, Piraziz Dağı'nın iklim karakterini şekillendiriyor. Güneydoğu Anadolu Bölgesi'nin genel iklim yapısına uygun olarak, bu dağda yazlar sıca ve kurak, kışlar ise soğu ve yağışlı geçiyor. Eiffel Kulesi'nin yüksekliğine yaklaşan bazı zirveleri ile, bu dağ, bölgenin iklimsel çeşitliliğine katkıda bulunuyor.
+Mevsimsel değişimler, Piraziz Dağı'nın iklim karakterini şekillendiriyor. Güneydoğu Anadolu Bölgesi'nin genel iklim yapısına uygun olarak, bu dağda yazlar sıcak ve kurak, kışlar ise soğuk ve yağışlı geçiyor. Eiffel Kulesi'nin yüksekliğine yaklaşan bazı zirveleri ile, bu dağ, bölgenin iklimsel çeşitliliğine katkıda bulunuyor.
 
 Çevresel açıdan, Piraziz Dağı, bölgenin ekosistem bağlantıları içerisinde önemli bir role sahip. Komşu alanlardaki su kaynakları ve bitki örtüsü ile bağlantılı olarak, bu dağ, bölgenin doğal dengesini koruyor. Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplayan bu dağ, çevresindeki coğrafi oluşumlar ile birlikte, bölgenin doğal güzelliğini ve çeşitliliğini ortaya koyuyor.
 

@@ -38,7 +38,7 @@ wikidata_id: "Q131738493"
 
 ## Coğrafya
 
-Çarşı Hamamı, Çankırı'nın merkezinde yer alıyor ve yaklaşık 140 hektarlık bir alanı kapsıyor. Bu geniş alan, ziyaretçilere geniş ve ferah bir mekan sunuyor. Plajın etrafı, çeşitli bitki türleriyle kaplı ve bu, ziyaretçilere doğal bir güzellik sunuyor. İklim, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal ve ziyaretçilere dört mevsimi deneyimleme fırsatı veriyor. Kışları soğu ve kar yağışlı, yazları ise sıcak ve kurak olan bu bölge, her mevsim farklı bir güzelliğe sahip. Çarşı Hamamı, şehrin merkezine yakın olsa da, doğal güzelliği ve sakinliğiyle ziyaretçilere şehrin gürültüsünden uzaklaşmak için ideal bir fırsat sunuyor. Çevre, tarihi ve kültürel zenginliklerle dolu ve bu, ziyaretçilere Çankırı'nın genel atmosferini deneyimleme fırsatı veriyor.
+Çarşı Hamamı, Çankırı'nın merkezinde yer alıyor ve yaklaşık 140 hektarlık bir alanı kapsıyor. Bu geniş alan, ziyaretçilere geniş ve ferah bir mekan sunuyor. Plajın etrafı, çeşitli bitki türleriyle kaplı ve bu, ziyaretçilere doğal bir güzellik sunuyor. İklim, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal ve ziyaretçilere dört mevsimi deneyimleme fırsatı veriyor. Kışları soğuk ve kar yağışlı, yazları ise sıcak ve kurak olan bu bölge, her mevsim farklı bir güzelliğe sahip. Çarşı Hamamı, şehrin merkezine yakın olsa da, doğal güzelliği ve sakinliğiyle ziyaretçilere şehrin gürültüsünden uzaklaşmak için ideal bir fırsat sunuyor. Çevre, tarihi ve kültürel zenginliklerle dolu ve bu, ziyaretçilere Çankırı'nın genel atmosferini deneyimleme fırsatı veriyor.
 
 ## Flora ve Fauna
 

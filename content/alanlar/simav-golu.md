@@ -43,7 +43,7 @@ Güneydoğu Anadolu Bölgesi'nde yer alan Kilis'in bir köşesinde, 39.1556°K v
 
 Doğal bir su kaynağı olan Simav Gölü, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Gölün fiziksel yapısı, bölgenin jeolojik özelliklerine bağlı olarak şekillenmiştir. Ancak, gölün boyutları ve şekli hakkında detaylı bilgi bulunmaması, bu doğal güzelliğin daha iyi anlaşılmasını engellemektedir. Gölün çevresinde, Kilis'in karakteristik coğrafyası hakimdir ve bu bölge, Türkiye'nin güneydoğu ucunda yer alan bir vadi içerisinde bulunmaktadır.
 
-Gölün iklim karakteri, Güneydoğu Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik göstermektedir. Bu bölge, genellikle sıca ve kurak yaz ayları ile birlikte ılıman ve yağışlı kış aylarına sahiptir. Gölün su seviyesi, mevsimsel yağışlara bağlı olarak değişkenlik gösterebilmektedir. Bu durum, gölün çevresindeki ekosistemi ve doğal yaşamı etkileyebilmektedir.
+Gölün iklim karakteri, Güneydoğu Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik göstermektedir. Bu bölge, genellikle sıcak ve kurak yaz ayları ile birlikte ılıman ve yağışlı kış aylarına sahiptir. Gölün su seviyesi, mevsimsel yağışlara bağlı olarak değişkenlik gösterebilmektedir. Bu durum, gölün çevresindeki ekosistemi ve doğal yaşamı etkileyebilmektedir.
 
 Simav Gölü, Kilis'in doğal kaynakları ile bağlantılı bir şekilde, bölgenin ekosistemini desteklemektedir. Göl, yakın çevresindeki su kaynakları ile birlikte, bir bütün olarak düşünülmelidir. Bu doğal alan, Kilis'in doğal güzelliklerini koruma ve geliştirmek için önemli bir role sahiptir. Gölün çevresel ilişkileri, bölgenin ekolojik dengesini korumak için büyük önem taşımaktadır.
 

@@ -37,7 +37,7 @@ wikidata_id: "Q31387372"
 
 ## Coğrafya
 
-İkiz Tepeler, Karadeniz Bölgesi'nin Samsun ilinde yer alıyor. Bu bölge, 140 hektarlık geniş bir alana yayılmış, yaklaşık 200 futbol sahası büyüklüğünde. İkiz Tepeler'in coğrafi yapısı, ziyaretçilerine geniş bir gezi alanı sunuyor. Bu bölge, yüzyıllar boyunca oluşan doğal güzelliği ile ziyaretçilerini cezbediyor. İkiz Tepeler'in iklimi, Karadeniz Bölgesi'nin genel iklimine benzer. Bu bölgede, yaz aylarında sıca ve nemli, kış aylarında soğu ve yağışlı bir iklim hüküm sürüyor. İkiz Tepeler, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunuyor.
+İkiz Tepeler, Karadeniz Bölgesi'nin Samsun ilinde yer alıyor. Bu bölge, 140 hektarlık geniş bir alana yayılmış, yaklaşık 200 futbol sahası büyüklüğünde. İkiz Tepeler'in coğrafi yapısı, ziyaretçilerine geniş bir gezi alanı sunuyor. Bu bölge, yüzyıllar boyunca oluşan doğal güzelliği ile ziyaretçilerini cezbediyor. İkiz Tepeler'in iklimi, Karadeniz Bölgesi'nin genel iklimine benzer. Bu bölgede, yaz aylarında sıcak ve nemli, kış aylarında soğuk ve yağışlı bir iklim hüküm sürüyor. İkiz Tepeler, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunuyor.
 
 ## Flora ve Fauna
 

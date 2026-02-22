@@ -36,7 +36,7 @@ Koç Tepesi'nin tarihi geçmişi, Van ilinin tarihine paralel olarak şekillenmi
 
 ## Coğrafya
 
-Koç Tepesi, coğrafi konumu itibariyle Van ilinin önemli bir parçasıdır. Doğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyan bu tepe, etrafındaki dağlarla birlikte bir bütün olarak düşünülebilir. Bölgenin iklimi, Doğu Anadolu'nun genel iklim özellikleri ile benzerlik gösterir ve karasal bir iklim özelliği gösterir. Kışlar soğu ve karlı, yazlar ise serin ve yağışlı geçer. Bu coğrafi konum, Koç Tepesi'nin flora ve faunasını da etkiler. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve bu bitki örtüsü, bölgenin ekolojik dengesi için önemli bir rol oynar. Ayrıca, bu bölgede yaşayan hayvanlar da, bölgeye özgü fauna ile ilgilidir. Koç Tepesi, coğrafi konumunun yanı sıra, Van ilinin önemli bir doğal güzelliği olarak da dikkat çeker.
+Koç Tepesi, coğrafi konumu itibariyle Van ilinin önemli bir parçasıdır. Doğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyan bu tepe, etrafındaki dağlarla birlikte bir bütün olarak düşünülebilir. Bölgenin iklimi, Doğu Anadolu'nun genel iklim özellikleri ile benzerlik gösterir ve karasal bir iklim özelliği gösterir. Kışlar soğuk ve karlı, yazlar ise serin ve yağışlı geçer. Bu coğrafi konum, Koç Tepesi'nin flora ve faunasını da etkiler. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve bu bitki örtüsü, bölgenin ekolojik dengesi için önemli bir rol oynar. Ayrıca, bu bölgede yaşayan hayvanlar da, bölgeye özgü fauna ile ilgilidir. Koç Tepesi, coğrafi konumunun yanı sıra, Van ilinin önemli bir doğal güzelliği olarak da dikkat çeker.
 
 ## Flora ve Fauna
 

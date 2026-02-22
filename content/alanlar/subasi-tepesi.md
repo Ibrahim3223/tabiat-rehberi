@@ -36,7 +36,7 @@ Subaşı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş bir hika
 
 ## Coğrafya
 
-Subaşı Tepesi, Çanakkale'nin Marmara Bölgesi'nde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Tepenin yüksekliği, deniz seviyesinden yaklaşık 300 metre yukarıda. Subaşı Tepesi'nin coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor. Tepenin eteklerinde ve zirvesinde, çeşitli bitki türleri ve zengin fauna görülebilir. Bu tepe, hem doğa severler hem de macera arayışındaki kişiler için ideal bir destinasyon. Subaşı Tepesi'nin iklimi, genel olarak ılımandır ve mevsimsel değişimler gözlenir. Kış aylarında hafif yağışlar görülürken, yaz aylarında sıca ve güneşli bir hava hakim.
+Subaşı Tepesi, Çanakkale'nin Marmara Bölgesi'nde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Tepenin yüksekliği, deniz seviyesinden yaklaşık 300 metre yukarıda. Subaşı Tepesi'nin coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor. Tepenin eteklerinde ve zirvesinde, çeşitli bitki türleri ve zengin fauna görülebilir. Bu tepe, hem doğa severler hem de macera arayışındaki kişiler için ideal bir destinasyon. Subaşı Tepesi'nin iklimi, genel olarak ılımandır ve mevsimsel değişimler gözlenir. Kış aylarında hafif yağışlar görülürken, yaz aylarında sıcak ve güneşli bir hava hakim.
 
 ## Flora ve Fauna
 

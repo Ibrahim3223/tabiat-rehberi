@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin merkezi bir noktasında yer alan Kelle Tepe, 38
 
 Jeolojik açıdan bakıldığında, Kelle Tepe'nin çevresindeki dağlık yapı, bölgenin karmaşık jeolojik geçmişini yansıtıyor. Bu dağlar, milyonlarca yıl önce oluşan tektonik hareketler sonucu şekillenmiştir. Kelle Tepe'nin yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadar bir yükseklikte bulunuyor, ancak tam yüksekli verisi bulunmuyor.
 
-Mevsimsel açıdan, Kelle Tepe ve çevresindeki dağlık alanlar, karasal iklimin hakim olduğu bir bölge içinde yer alıyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kuru bir hava hüküm sürüyor. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor.
+Mevsimsel açıdan, Kelle Tepe ve çevresindeki dağlık alanlar, karasal iklimin hakim olduğu bir bölge içinde yer alıyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kuru bir hava hüküm sürüyor. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor.
 
 Doğal çevreye bakıldığında, Kelle Tepe ve çevresindeki dağlık alanlar, çeşitli su kaynaklarına ve ekosistemlere ev sahipliği yapıyor. Bölgenin komşu alanları, ormanlık ve çayırlık arazilerle kaplıdır ve bu doğal güzellikler, Kelle Tepe'nin bir parçası olarak görülüyor. Monaco'nun yaklaşık 1/10'u kadar bir alanı kaplayan bu bölge, zengin bir biyolojik çeşitliliğe sahip.
 

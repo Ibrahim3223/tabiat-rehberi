@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin büyüleyici manzaralarına ev sahipliği yapan Erzur
 
 Jeolojik açıdan bakıldığında, Gülübağdat Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmuyor. Ancak, koordinatlarından anlaşılacağı gibi, bu dağ Erzurum'un geniş ve farklı coğrafi yapılara sahip bölgesinde yer alıyor. Monaco'nun yarısı kadar bir alanı kaplayan Erzurum'un coğrafyası, dağların, ovaların ve yüksek platoların bir araya geldiği çeşitlilik gösteriyor. Bu çeşitlilik, Gülübağdat Dağı'nın da içinde yer aldığı geniş coğrafi yapıyı oluşturuyor.
 
-İklim açısından, Gülübağdat Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir alan. Kışlar soğu ve kar yağışlı, yazlar ise serin ve yağışlı geçiyor. Bu mevsimsel özellikler, bölgenin flora ve fauna oluşumlarını etkiliyor. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı zirveler, bu bölgede yer alıyor ve bu yükseklik, iklim koşullarını da etkiliyor.
+İklim açısından, Gülübağdat Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir alan. Kışlar soğuk ve kar yağışlı, yazlar ise serin ve yağışlı geçiyor. Bu mevsimsel özellikler, bölgenin flora ve fauna oluşumlarını etkiliyor. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı zirveler, bu bölgede yer alıyor ve bu yükseklik, iklim koşullarını da etkiliyor.
 
 Çevresel açıdan, Gülübağdat Dağı, bölgenin ekosistem bağlantılarında önemli bir rol oynuyor. Su kaynakları ve komşu alanlar, bu dağ etrafında şekilleniyor. İstanbul'un Adalar ilçesi büyüklüğünde olan Erzurum'un coğrafi yapısı, Gülübağdat Dağı da dahil olmak üzere, birçoksu kaynağına ve ekosistemlere ev sahipliği yapıyor. Bu bağlantılar, bölgenin doğal dengesini koruyor ve Gülübağdat Dağı, bu dengenin önemli bir parçası olarak dikkat çekiyor.
 

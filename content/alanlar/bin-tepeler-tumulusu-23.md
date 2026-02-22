@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 23'ün tarihi geçmişi, yüzyıllar boyunca farklı uy
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 23, Manisa'nın Salihli ilçesinde, Ege Bölgesi'nin central bir noktasında yer alır. Bu tümülüs, 140 hektarlık bir alanı kaplayan geniş bir tarihi alandır. Çevresi, çeşitli bitki türleriyle kaplıdır ve ziyaretçilere doğal bir ortam sunar. Tümülüsün coğrafi konumu, Ege Bölgesi'nin karakteristik iklimini yansıtır. Yaz aylarında sıca ve khô, kış aylarında ılıman bir iklim hüküm sürer. Bu coğrafi özellikler, tümülüsün yapısını ve çevreyi şekillendirmiştir. Bin Tepeler Tümülüsü 23'ün coğrafyası, hem tarihi hem de doğal güzelliklerin bir arada olduğu özel bir yer olarak dikkat çeker.
+Bin Tepeler Tümülüsü 23, Manisa'nın Salihli ilçesinde, Ege Bölgesi'nin central bir noktasında yer alır. Bu tümülüs, 140 hektarlık bir alanı kaplayan geniş bir tarihi alandır. Çevresi, çeşitli bitki türleriyle kaplıdır ve ziyaretçilere doğal bir ortam sunar. Tümülüsün coğrafi konumu, Ege Bölgesi'nin karakteristik iklimini yansıtır. Yaz aylarında sıcak ve kuru, kış aylarında ılıman bir iklim hüküm sürer. Bu coğrafi özellikler, tümülüsün yapısını ve çevreyi şekillendirmiştir. Bin Tepeler Tümülüsü 23'ün coğrafyası, hem tarihi hem de doğal güzelliklerin bir arada olduğu özel bir yer olarak dikkat çeker.
 
 ## Flora ve Fauna
 

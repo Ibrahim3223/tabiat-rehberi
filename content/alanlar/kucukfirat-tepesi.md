@@ -44,7 +44,7 @@ Güneydoğu Toroslar'ın eteklerinde yer alan Küçükfırat Tepesi, 38.2369° k
 
 Doğal güzelliği ile dikkat çeken Küçükfırat Tepesi, coğrafi olarak bir şehir bloğu büyüklüğünde bir alanı kaplar. Tepenin yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'ine denk gelir. Jeolojik açıdan, bölgenin temelini oluşturan kayaçlar, bölgenin coğrafi yapısını şekillendirmiştir. Ancak, dahalı fiziksel veriler bulunmaması, tepenin tam boyutlarını ve jeolojik özelliklerini tam olarak açıklamayı güçleştirmektedir.
 
-Mevsimsel olarak, Küçükfırat Tepesi ve çevresi, Akdeniz ikliminin karakterini taşır. Yaz ayları sıca ve kurak, kış ayları ise ılıman ve yağışlı geçer. Bu iklimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler. Tepenin etrafındaki ormanlar, mevsimlere göre renk değiştirir ve bu da ziyaretçilere farklı bir güzellik sunar.
+Mevsimsel olarak, Küçükfırat Tepesi ve çevresi, Akdeniz ikliminin karakterini taşır. Yaz ayları sıcak ve kurak, kış ayları ise ılıman ve yağışlı geçer. Bu iklimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler. Tepenin etrafındaki ormanlar, mevsimlere göre renk değiştirir ve bu da ziyaretçilere farklı bir güzellik sunar.
 
 Çevresel açıdan, Küçükfırat Tepesi, komşu ormanlarla ve su kaynaklarıyla bağlantılıdır. Bölge, yerel ekosistemin önemli bir parçası olarak görev yapar. Tepenin yakınındaki su kaynakları, bölgenin tarım ve hayvancılık faaliyetlerine katkıda bulunur. Ayrıca, tepenin eteklerinde yer alan köyler, bölgenin kültürel ve ekonomik yapısına da katkıda bulunur.
 

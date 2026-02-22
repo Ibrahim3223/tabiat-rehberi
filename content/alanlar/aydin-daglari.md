@@ -46,7 +46,7 @@ Güneybatı Anadolu'nun yeşillikleriyle çevrili coğrafyasında, Aydın Dağla
 
 Doğal güzellikleri ve jeolojik yapısıyla dikkat çeken Aydın Dağları, yaklaşık olarak Beşiktaş ilçesi kadar bir alanı kaplar. Bu dağlık bölgenin yüksekliği, Eiffel Kulesi'nin 2 katı yükseklikte olan zirveleri içerir. Jeolojik açıdan bakıldığında, bu dağların oluşumu milyonlarca yıl önce gerçekleşmiştir ve bölgenin jeolojik yapısını şekillendirmiştir.
 
-Mevsimler boyunca değişen hava koşulları, Aydın Dağları'nın iklim karakterini etkiler. Kış aylarında yağmur ve kar yağışları görülürken, yaz aylarında sıca ve kurak bir hava hakimdir. Bu mevsimsel değişiklikler, bölgenin florası ve faunası üzerinde önemli etkilere sahiptir.
+Mevsimler boyunca değişen hava koşulları, Aydın Dağları'nın iklim karakterini etkiler. Kış aylarında yağmur ve kar yağışları görülürken, yaz aylarında sıcak ve kurak bir hava hakimdir. Bu mevsimsel değişiklikler, bölgenin florası ve faunası üzerinde önemli etkilere sahiptir.
 
 Çevresel açıdan bakıldığında, Aydın Dağları komşu ovalar ve düzlüklerle bağlantılıdır. Bu dağlık bölgenin eteklerinde çeşitli su kaynakları bulunur ve bölgenin ekosistemini destekler. Ayrıca, bu dağlar bölgedeki diğer coğrafi oluşumlarla birlikte bir bütünü oluşturur ve bölgenin doğal dengesini korur.
 

@@ -38,7 +38,7 @@ Denizli'nin doğal güzelliklerinden biri olan Işıklı Gölü, şehrin merkezi
 
 Gölün fiziksel yapısı hakkında bilgi vermek zor olsa da, gölü çevreleyen dağların yüksekliği ve gölün konumu, burasının bir vadi gibi görünen bir bölgede yer aldığını gösteriyor. Gölün şekli ve boyutları hakkında kesin bilgiler olmasa da, çevredeki dağların gölün su seviyesini etkileyebileceği düşünülüyor. Gölün bulunduğu bölgenin jeolojik yapısı, volkanik kökenli kayalardan oluşuyor ve bu, gölün suyunun kimyasal bileşimini etkileyebiliyor.
 
-Yöre'nin iklim karakteri, mevsimsel olarak değişen hava koşullarıyla dikkat çekiyor. Gölün bulunduğu bölgede, yaz aylarında sıca ve kurak bir hava hüküm sürerken, kış aylarında soğu ve yağışlı bir hava hakim oluyor. Bu n iklim koşulları, gölün su seviyesini ve suyunun kimyasal bileşimini etkileyebiliyor.
+Yöre'nin iklim karakteri, mevsimsel olarak değişen hava koşullarıyla dikkat çekiyor. Gölün bulunduğu bölgede, yaz aylarında sıcak ve kurak bir hava hüküm sürerken, kış aylarında soğuk ve yağışlı bir hava hakim oluyor. Bu n iklim koşulları, gölün su seviyesini ve suyunun kimyasal bileşimini etkileyebiliyor.
 
 Işıklı Gölü'nün çevresel ilişkileri, komşu alanlar ve su kaynakları ile bağlantılarını içeriyor. Göl, çevredeki dağlardan gelen su kaynakları ile besleniyor ve bu, göle canlı bir ekosistem kazandırıyor. Gölün bulunduğu bölgenin ekosistemi, çeşitli bitki ve hayvan türlerini barındırmakta ve bu, göle önemli bir biyolojik çeşitlilik kazandırıyor.
 

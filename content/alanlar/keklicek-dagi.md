@@ -45,7 +45,7 @@ Doğal güzelliklerin bir araya geldiği Keklicek Dağı, 38.1064°K ve 37.7003�
 
 Jeolojik açıdan bakıldığında, Keklicek Dağı'nın fiziksel yapısı hakkında detailed bilgiler bulunmasa da, genel olarak bu bölgenin karmaşık bir jeolojik yapıya sahip olduğu biliniyor. Dağın şekli ve boyutları, bölgenin coğrafi tarihini yansıtıyor. Monaco'nun küçük bir bölümü kadar bir alanı kaplayan Keklicek Dağı, kendi içinde çeşitli yüksekli ve derinliklere sahip.
 
-Mevsimsel değişiklikler açısından, Keklicek Dağı'nın iklim karakteri, bölgenin genel iklim özelliklerine uygun olarak değişiyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak olan bu bölge, mevsimsel farklılıklarıyla dikkat çekiyor. Hava durumu, bölgenin coğrafi konumu ve yüksekliği nedeniyle değişkenlik gösteriyor.
+Mevsimsel değişiklikler açısından, Keklicek Dağı'nın iklim karakteri, bölgenin genel iklim özelliklerine uygun olarak değişiyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak olan bu bölge, mevsimsel farklılıklarıyla dikkat çekiyor. Hava durumu, bölgenin coğrafi konumu ve yüksekliği nedeniyle değişkenlik gösteriyor.
 
 Çevresel açıdan bakıldığında, Keklicek Dağı, komşu alanlarla ve su kaynaklarıyla önemli bir ilişkiye sahip. Bu dağ, çevresindeki ekosistemi destekleyen bir rol oynuyor. Taksim Meydanı'nın birkaç katı büyüklüğünde olan bu alan, bölgenin doğal dengesini korumak açısından önemli bir konumda bulunuyor.
 

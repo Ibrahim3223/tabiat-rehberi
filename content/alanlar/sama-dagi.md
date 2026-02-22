@@ -37,7 +37,7 @@ wikidata_id: "Q31385494"
 
 ## Coğrafya
 
-Şama Dağı, Sivas'ın İç Anadolu Bölgesi'nde yer alıyor. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Şama Dağı'nın coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Burada, birçok farklı türde ağaç, çalı ve bitki bulunuyor. Şama Dağı'nın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Bu bölgede, yaz ayları sıca ve kurak, kış ayları soğu ve karlı geçiyor. Şama Dağı, aynı zamanda birçok gezgin tarafından ziyaret ediliyor. Burada, doğa yürüyüşleri, kamping ve fotoğrafçılık gibi faaliyetler yapılıyor.
+Şama Dağı, Sivas'ın İç Anadolu Bölgesi'nde yer alıyor. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Şama Dağı'nın coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Burada, birçok farklı türde ağaç, çalı ve bitki bulunuyor. Şama Dağı'nın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Bu bölgede, yaz ayları sıcak ve kurak, kış ayları soğuk ve karlı geçiyor. Şama Dağı, aynı zamanda birçok gezgin tarafından ziyaret ediliyor. Burada, doğa yürüyüşleri, kamping ve fotoğrafçılık gibi faaliyetler yapılıyor.
 
 ## Flora ve Fauna
 

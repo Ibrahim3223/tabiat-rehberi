@@ -42,7 +42,7 @@ Doğu Anadolu Bölgesi'nin en uç noktasında yer alan Iğdır ilinin dağlık a
 
 Jeolojik açıdan incelendiğinde, Koçak Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, genel olarak Iğdır ilinin coğrafi yapısını düşünürsek, bu bölgenin dağlık ve engebeli bir araziye sahip olduğu söylenebilir. Örneğin, bir şehir bloğu büyüklüğünde olan küçük vadiler ve tepeler, Koçak Dağı'nın eteklerinde yer alabilir.
 
-Mevsimsel açıdan bakıldığında, Koçak Dağı'nın iklim karakteri Iğdır ilinin genel iklimine benzerlik gösterir. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve kar yağışlı bir hava hüküm sürer. Bu mevsimsel değişiklikler, bölgenin florası ve faunası üzerinde önemli etkilere sahiptir.
+Mevsimsel açıdan bakıldığında, Koçak Dağı'nın iklim karakteri Iğdır ilinin genel iklimine benzerlik gösterir. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve kar yağışlı bir hava hüküm sürer. Bu mevsimsel değişiklikler, bölgenin florası ve faunası üzerinde önemli etkilere sahiptir.
 
 Çevresel açıdan bakıldığında, Koçak Dağı'nın komşu alanlar ve su kaynakları ile önemli bir ilişkisi vardır. Örneğin, Aras Nehri'nin kolları, Koçak Dağı'nın eteklerinden geçer ve bu da bölgenin ekosistem bağlantılarını zenginleştirmektedir. Ayrıca, Koçak Dağı'nın yakınında yer alan diğer dağlar ve tepeler, bölgenin coğrafi çeşitliliğini arttırmaktadır.
 

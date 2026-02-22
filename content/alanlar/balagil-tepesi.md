@@ -36,7 +36,7 @@ Balağıl Tepesi'nin tarihi geçmişi, yüzyıllar boyunca bölgenin coğrafi ve
 
 ## Coğrafya
 
-Balağıl Tepesi, Eskişehir'in coğrafi yapısını yansıtacak şekilde, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, geniş otlaklarla kaplı düzlüklerden oluşuyor ve Balağıl Tepesi de bu coğrafi yapı içinde yer alıyor. Tepenin zirvesinden, Eskişehir şehrinin ve çevresinin geniş bir panoramik manzarası izlenebiliyor. İklim, İç Anadolu Bölgesi'nin genel iklim özellikleri doğrultusunda, karasal bir yapıya sahip. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, Balağıl Tepesi'nin flora ve faunasını şekillendirmiş ve mevsimsel değişimlere uyum sağlamış bir ekosistem oluşturmuş. Tepenin eteklerinde ve çevresinde, çeşitli su kaynakları ve akarsular yer alıyor, bu da bölgenin ekolojik dengesini destekleyen önemli bir unsur.
+Balağıl Tepesi, Eskişehir'in coğrafi yapısını yansıtacak şekilde, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, geniş otlaklarla kaplı düzlüklerden oluşuyor ve Balağıl Tepesi de bu coğrafi yapı içinde yer alıyor. Tepenin zirvesinden, Eskişehir şehrinin ve çevresinin geniş bir panoramik manzarası izlenebiliyor. İklim, İç Anadolu Bölgesi'nin genel iklim özellikleri doğrultusunda, karasal bir yapıya sahip. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, Balağıl Tepesi'nin flora ve faunasını şekillendirmiş ve mevsimsel değişimlere uyum sağlamış bir ekosistem oluşturmuş. Tepenin eteklerinde ve çevresinde, çeşitli su kaynakları ve akarsular yer alıyor, bu da bölgenin ekolojik dengesini destekleyen önemli bir unsur.
 
 ## Flora ve Fauna
 

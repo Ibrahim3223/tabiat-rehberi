@@ -26,7 +26,7 @@ Antalya-Akseki-Ibradi Mese milli parkı, Akdeniz Bölgesi'nin doğal güzellikle
 
 ## Tarihçe
 
-Antalya-Akseki-Ibradi Mese milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu bölge, doğal güzelliği ve yaban hayatının çeşitliliği nedeniyle uzun zamandır ziyaret edilmekte. Milli parkın kuruluşu, bölgenin doğal kaynaklarının korunmasına ve gelecek nesiller için bo tn edilmesine yönelik effortsın bir sonucu. Parkın tarihi, bölgenin coğrafi özellikleriyle yakından ilgili ve ziyaretçilere, bu doğal güzelliklerin nasıl korunabileceği hakkında bilgi veriyor. Tarihi geçmişi, bölgenin zengin kültürel mirasını da yansıtan milli park, ziyaretçilerine hem doğal hem de kültürel bir deneyim sunuyor.
+Antalya-Akseki-Ibradi Mese milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu bölge, doğal güzelliği ve yaban hayatının çeşitliliği nedeniyle uzun zamandır ziyaret edilmekte. Milli parkın kuruluşu, bölgenin doğal kaynaklarının korunmasına ve gelecek nesiller için korunmasıne yönelik effortsın bir sonucu. Parkın tarihi, bölgenin coğrafi özellikleriyle yakından ilgili ve ziyaretçilere, bu doğal güzelliklerin nasıl korunabileceği hakkında bilgi veriyor. Tarihi geçmişi, bölgenin zengin kültürel mirasını da yansıtan milli park, ziyaretçilerine hem doğal hem de kültürel bir deneyim sunuyor.
 
 ## Coğrafya
 

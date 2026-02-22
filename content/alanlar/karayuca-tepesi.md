@@ -36,7 +36,7 @@ Karayuca Tepesi, yüzyıllar boyunca doğal güzelliği ve tarihi önemiyle dikk
 
 ## Coğrafya
 
-Karayuca Tepesi, Hatay ilinin coğrafi yapısını oluşturan önemli bir unsurdur. Tepenin yüksekliği, genişliği ve çevresi, ziyaretçilere geniş bir manzara sunar. Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyan bu tepe, deniz seviyesinden belirli bir yükseklikte yer alır. Tepenin etrafı, çeşitli bitki türleriyle kaplıdır ve bu bitki örtüsü, mevsimsel değişimlerle birlikte farklı renkler ve görünümler sunar. Karayuca Tepesi, Hatay'ın iklim koşullarına uygun olarak, yazın sıcak ve khô, kışın ılıman bir hava düzenine sahiptir. Bu coğrafi konumu, ziyaretçilere yılın her dönemi farklı bir deneyim sunar.
+Karayuca Tepesi, Hatay ilinin coğrafi yapısını oluşturan önemli bir unsurdur. Tepenin yüksekliği, genişliği ve çevresi, ziyaretçilere geniş bir manzara sunar. Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyan bu tepe, deniz seviyesinden belirli bir yükseklikte yer alır. Tepenin etrafı, çeşitli bitki türleriyle kaplıdır ve bu bitki örtüsü, mevsimsel değişimlerle birlikte farklı renkler ve görünümler sunar. Karayuca Tepesi, Hatay'ın iklim koşullarına uygun olarak, yazın sıcak ve kuru, kışın ılıman bir hava düzenine sahiptir. Bu coğrafi konumu, ziyaretçilere yılın her dönemi farklı bir deneyim sunar.
 
 ## Flora ve Fauna
 

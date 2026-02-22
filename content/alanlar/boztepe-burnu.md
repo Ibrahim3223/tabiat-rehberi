@@ -36,7 +36,7 @@ Doğal güzelliklerin buluşma noktası olan Boztepe Burnu, Karadeniz'in kıyı 
 
 Jeolojik olarak incelendiğinde, Boztepe Burnu'nun coğrafyası oldukça çeşitli. Ancak, detaylı fiziksel veri bulunmamasına rağmen, buranın bir şehir bloğu büyüklüğünde olduğunu varsayabiliriz. Bu küçük ama önemli alan, Karadeniz'in dalgalı sularına karşı koyan bir kıyı şeridi oluşturmakta. Boztepe Burnu'nun şekli, denizin ve rüzgarın etkisiyle oluşmuş bir yapıya sahip.
 
-Mevsimsel olarak, Boztepe Burnu'nun iklimi Karadeniz'in karakteristik özelliklerini taşıyor. Kış aylarında soğu ve yağışlı, yaz aylarında ise ılık ve güneşli bir hava hakim. Bu mevsimsel değişimler, buranın doğal güzelliklerini ve biyolojik çeşitliliğini etkileyen önemli faktörler.
+Mevsimsel olarak, Boztepe Burnu'nun iklimi Karadeniz'in karakteristik özelliklerini taşıyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise ılık ve güneşli bir hava hakim. Bu mevsimsel değişimler, buranın doğal güzelliklerini ve biyolojik çeşitliliğini etkileyen önemli faktörler.
 
 Çevresel açıdan, Boztepe Burnu'nun komşu alanları ile önemli bağlantıları var. Karadeniz'in su kaynakları, buranın ekosistemini besleyen önemli bir faktör. Ayrıca, çevredeki alanlardaki ormanlar ve tarım arazileri, Boztepe Burnu'nun doğal dengesini koruyan önemli unsurlar. Bu bölge, Monaco'nun bir bölümü kadar büyük bir alanı kaplıyor ve bu küçük alan, birçok farklı türün yaşamına ev sahipliği yapıyor.
 

@@ -42,7 +42,7 @@ Güneyde Akdeniz'in sularını gören Antalya'nın coğrafyası, Sotini Mağaras
 
 Doğal bir anıt olan Sotini Mağarası, jeolojik yapısı itibariyle dikkat çekici özellikler sergiliyor. Mağaranın boyutları hakkında detaylı bilgiler olmasa da, Antalya'nın coğrafyası düşünüldüğünde, bu mağaranın bir şehir bloğu büyüklüğünde veya birkaç olimpik havuz kadar geniş bir alanı kapladığı söylenebilir. Mağaranın jeolojik yapısı, bölgenin kireç taşı oluşumlarını yansıtıyor ve bu da mağaranın iç kısmında ilginç şekillerin oluşmasına neden olmuş.
 
-Mevsimsel değişiklikler, Sotini Mağarası'nın iklim karakterini etkiliyor. Antalya'nın genel iklimi gibi, Sotini Mağarası da sıca ve kuru yazlarla, ılıman kışlarla karakterize ediliyor. Mağaranın içi, dışarıdaki hava koşullarından daha serin ve sabit bir sıcaklığa sahip, bu da ziyaretçilerin mağarayı gezerken rahat etmesine yardımcı oluyor.
+Mevsimsel değişiklikler, Sotini Mağarası'nın iklim karakterini etkiliyor. Antalya'nın genel iklimi gibi, Sotini Mağarası da sıcak ve kuru yazlarla, ılıman kışlarla karakterize ediliyor. Mağaranın içi, dışarıdaki hava koşullarından daha serin ve sabit bir sıcaklığa sahip, bu da ziyaretçilerin mağarayı gezerken rahat etmesine yardımcı oluyor.
 
 Çevresel açıdan bakıldığında, Sotini Mağarası, Antalya'nın doğal kaynakları ve ekosistemine önemli katkılar sağlıyor. Mağaranın yakınında, su kaynakları ve ormanlık alanlar yer alıyor. Bu doğal kaynaklar, bölgenin ekosistemini destekleyerek, Sotini Mağarası'nın çevresindeki canlı yaşamını zenginleştiriyor. Mağaranın komşu alanlarla bağlantısı, bölgenin coğrafyasını ve biyolojik çeşitliliğini anlamak için önemli bir role sahip.
 

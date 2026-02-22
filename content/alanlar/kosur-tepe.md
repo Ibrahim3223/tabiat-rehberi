@@ -42,7 +42,7 @@ Güneydoğu Anadolu'nun güneşli coğrafyasında, Hatay ilinin sınırları iç
 
 Doğal bir anıt olarak ortaya çıkan Kösür Tepe, coğrafi olarak bir tepe olarak tanımlanmaktadır. Ancak, fiziksel boyutları hakkında net bilgiler bulunmamaktadır. Bu durum, tepe hakkında daha fazla araştırma yapılmasını gerektirmektedir. Bir karşılaştırma yapılmak istenirse, tepe yaklaşık olarak bir büyük şehir parkı büyüklüğünde olabilir, ancak bu sadece bir tahmindir.
 
-Mevsimsel değişimler, Kösür Tepe'de farklı hava koşullarını beraberinde getirir. Kış aylarında, bölgede soğu ve yağışlı bir hava hakim olurken, yaz aylarında sıca ve kurak bir iklim hüküm sürer. Bu mevsimsel özellikler, tepe ve çevresindeki bitki örtüsünü etkiler ve bölgenin ekolojik dengesini sağlar.
+Mevsimsel değişimler, Kösür Tepe'de farklı hava koşullarını beraberinde getirir. Kış aylarında, bölgede soğuk ve yağışlı bir hava hakim olurken, yaz aylarında sıcak ve kurak bir iklim hüküm sürer. Bu mevsimsel özellikler, tepe ve çevresindeki bitki örtüsünü etkiler ve bölgenin ekolojik dengesini sağlar.
 
 Bölgenin coğrafi yapısı, Kösür Tepe'nin çevresindeki diğer doğal oluşumlarla bağlantılıdır. Yakınlarında, nehirler ve akarsuların oluşturduğu su kaynakları bulunmaktadır. Bu su kaynakları, bölgenin ekosistemini destekler ve canlıların yaşamını sürdürmesini sağlar. Ayrıca, tepe, bölgedeki diğer dağlarla ve tepelerle birlikte, geniş bir coğrafi ağın bir parçasını oluşturur ve bu da bölgenin doğal güzelliğini ve çeşitliliğini ortaya koyar.
 

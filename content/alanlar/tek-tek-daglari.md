@@ -31,7 +31,7 @@ Tek Daglari'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölg
 
 ## Coğrafya
 
-Tek Daglari, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biridir. 140 hektarlık alanı, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölgenin iklimi, İç Anadolu'nun genel iklim özellikleri ile benzerlik göstermektedir. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, bölgenin flora ve faunasının şekillenmesinde önemli bir rol oynamıştır. Milli parkın coğrafi yapısı, ziyaretçilere hem doğal güzellikleri keşfetme hem de açık hava etkinliklerine katılma fırsatı sunmaktadır. Tek Daglari, ziyaretçilerini bekleyen bir doğa harikasıdır.
+Tek Daglari, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biridir. 140 hektarlık alanı, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölgenin iklimi, İç Anadolu'nun genel iklim özellikleri ile benzerlik göstermektedir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, bölgenin flora ve faunasının şekillenmesinde önemli bir rol oynamıştır. Milli parkın coğrafi yapısı, ziyaretçilere hem doğal güzellikleri keşfetme hem de açık hava etkinliklerine katılma fırsatı sunmaktadır. Tek Daglari, ziyaretçilerini bekleyen bir doğa harikasıdır.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Coğrafi konumu itibariyle, Çubuklu Gölü, 40.4821°K ve 30.8345°D koordinatl
 
 Jeolojik açıdan bakıldığında, gölün fiziksel yapısı hakkında detaylı bilgi olmasa da, koordinatlarından hareketle, bu bölgenin genel jeolojik yapısını değerlendirebiliriz. Gölün bulunduğu bölge, genel olarak dağlık ve engebeli bir araziye sahip. Bu bölge, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanda, çeşitli jeolojik oluşumları barındırıyor.
 
-Mevsimsel olarak, Çubuklu Gölü'nün bulunduğu bölge, karasal iklimin özellikleri gösteriyor. Kışlar soğu ve karlı, yazlar ise serin ve yağışlı geçiyor. Bu mevsimsel özellikler, gölü ve çevresini, zengin bir bitki örtüsü ve çeşitli wildlife ile süsleyen bir ekosistemi oluşturuyor. Gölün yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olan çevre dağlarla çevrili bir vadide yer alıyor.
+Mevsimsel olarak, Çubuklu Gölü'nün bulunduğu bölge, karasal iklimin özellikleri gösteriyor. Kışlar soğuk ve karlı, yazlar ise serin ve yağışlı geçiyor. Bu mevsimsel özellikler, gölü ve çevresini, zengin bir bitki örtüsü ve çeşitli wildlife ile süsleyen bir ekosistemi oluşturuyor. Gölün yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olan çevre dağlarla çevrili bir vadide yer alıyor.
 
 Çevresel açıdan, Çubuklu Gölü, Bolu ilinin diğer doğal güzelliklerine yakın bir konumda yer alıyor. Gölün bulunduğu vadi, çeşitli su kaynakları ve akarsular tarafından besleniyor. Bu su kaynakları, gölle birlikte, bir bütün olarak, Monaco'nun yarısı kadar bir alanı kaplayan bir ekosistemi oluşturuyor. Bu ekosistem, çeşitli bitki ve hayvan türleri için önemli bir habitat sunuyor.
 

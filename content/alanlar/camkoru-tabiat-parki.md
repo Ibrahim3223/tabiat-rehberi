@@ -38,7 +38,7 @@ wikidata_id: "Q6084143"
 
 ## Coğrafya
 
-Çamkoru Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Park, 140 hektarlık bir alana yayılıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bölge, Ankara'nın çam ormanlarıyla kaplı ve yeşilliğiyle dikkat çekiyor. Parkın coğrafi yapısı, yürüyüş yolları ve piknik alanları için uygun. Çamkoru Tabiat Parkı, Ankara'nın en yeşil noktalarından biri ve şehrin gürültüsünden uzaklaşıp doğayla baş başa kalabileceğiniz bir mekan. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, yazları sıca ve kışları soğuk olan karasal iklimin etkisinde.
+Çamkoru Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Park, 140 hektarlık bir alana yayılıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bölge, Ankara'nın çam ormanlarıyla kaplı ve yeşilliğiyle dikkat çekiyor. Parkın coğrafi yapısı, yürüyüş yolları ve piknik alanları için uygun. Çamkoru Tabiat Parkı, Ankara'nın en yeşil noktalarından biri ve şehrin gürültüsünden uzaklaşıp doğayla baş başa kalabileceğiniz bir mekan. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, yazları sıcak ve kışları soğuk olan karasal iklimin etkisinde.
 
 ## Flora ve Fauna
 

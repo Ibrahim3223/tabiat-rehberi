@@ -44,7 +44,7 @@ wikidata_id: "Q55594541"
 
 Doğal güzelliği ile dikkat çeken bu botanik bahçesi, jeolojik olarak da ilgi çekici özellikler barındırmaktadır. İstanbul'un genel jeolojik yapısına uygun olarak, bahçenin zemininde de kireçtaşı ve killi topraklar bulunmaktadır. Bu jeolojik yapı, bahçenin bitki örtüsünün çeşitliliğini desteklemektedir. Bahçenin şekli, doğanın kendi düzeni içinde oluşmuş bir yapıya sahiptir ve bu da ziyaretçilere doğal bir atmosfer sunmaktadır.
 
-Yıllık mevsimsel değişimlerle birlikte, Alfred Heilbronn Botanik Bahçesi'nin iklim karakteri değişkenlik gösterir. Kış aylarında soğu ve yağışlı bir hava hakimken, yaz aylarında sıcaklık ve nem artmaktadır. Bu mevsimsel değişimler, bahçenin bitki çeşitliliğini etkilemekte ve her mevsim farklı bir güzellik sunmaktadır. Ziyaretçiler, bu değişimlere göre planladıkları ziyaretlerle, bahçenin farklı yönlerini keşfedebilirler.
+Yıllık mevsimsel değişimlerle birlikte, Alfred Heilbronn Botanik Bahçesi'nin iklim karakteri değişkenlik gösterir. Kış aylarında soğuk ve yağışlı bir hava hakimken, yaz aylarında sıcaklık ve nem artmaktadır. Bu mevsimsel değişimler, bahçenin bitki çeşitliliğini etkilemekte ve her mevsim farklı bir güzellik sunmaktadır. Ziyaretçiler, bu değişimlere göre planladıkları ziyaretlerle, bahçenin farklı yönlerini keşfedebilirler.
 
 Bahçenin çevresel ilişkileri de oldukça önemlidir. Alfred Heilbronn Botanik Bahçesi, komşu alanlarla birlikte bir ekosistem oluşturmaktadır. Su kaynaklarına yakınlığı ve bitki örtüsünün çeşitliliği, bahçeyi bir habitat olarak desteklemektedir. Ayrıca, bahçe, İstanbul'un şehir ekosistemine de katkıda bulunmaktadır. Bu sayede, Alfred Heilbronn Botanik Bahçesi, sadece bir doğa alanı değil, aynı zamanda şehrin bir parçası olarak karşımıza çıkmaktadır.
 

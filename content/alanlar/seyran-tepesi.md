@@ -36,7 +36,7 @@ Seyran Tepesi, tarihi geçmişiyle dikkat çeker. Yüzyıllar boyunca, bu tepe A
 
 ## Coğrafya
 
-Seyran Tepesi, İç Anadolu Bölgesi'nde yer alan Ankara ilinin önemli coğrafi özelliklerinden biridir. Bu tepe, şehrin merkezi bölgesine yakın bir konumda bulunur. Tepenin etrafı, çeşitli bitki türleriyle kaplıdır ve zengin fauna sahiptir. İklim, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Seyran Tepesi, Ankara'nın coğrafi yapısını ve doğal güzelliklerini keşfetmek için ideal bir noktadır. Tepenin yüksekliği, şehrin panoramik manzarasını izlemek için uygun bir noktayı sağlar.
+Seyran Tepesi, İç Anadolu Bölgesi'nde yer alan Ankara ilinin önemli coğrafi özelliklerinden biridir. Bu tepe, şehrin merkezi bölgesine yakın bir konumda bulunur. Tepenin etrafı, çeşitli bitki türleriyle kaplıdır ve zengin fauna sahiptir. İklim, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Seyran Tepesi, Ankara'nın coğrafi yapısını ve doğal güzelliklerini keşfetmek için ideal bir noktadır. Tepenin yüksekliği, şehrin panoramik manzarasını izlemek için uygun bir noktayı sağlar.
 
 ## Flora ve Fauna
 

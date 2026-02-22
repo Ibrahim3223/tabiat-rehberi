@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Batman Baraj Gölü, 38.2253�
 
 Doğal güzelliği ve stratejik konumu ile dikkat çeken Batman Baraj Gölü, yaklaşık olarak Taksim Meydanı'nın 20 katı büyüklüğünde bir alanı kaplar. Bu büyük alan, barajın su toplama havzası olarak hizmet vermektedir. Baraj gölü, Dicle Nehri'nin doğal akışını düzenleyerek, bölgenin sulama ve enerji ihtiyacını karşılar. Batman Baraj Gölü'nün fiziksel yapısı, bölgenin jeolojik özelliklerine göre şekillenmiştir.
 
-İklim koşulları açısından bakıldığında, Batman Baraj Gölü ve çevresinin karakteristiği, güneydoğu Anadolu'nun genel iklim özelliklerini taşır. Bölge, yaz aylarında oldukça sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir iklim gösterir. Batman Baraj Gölü'nün su seviyesi, mevsimsel yağışlara bağlı olarak değişir ve bu durum, gölün ekosistemini etkiler.
+İklim koşulları açısından bakıldığında, Batman Baraj Gölü ve çevresinin karakteristiği, güneydoğu Anadolu'nun genel iklim özelliklerini taşır. Bölge, yaz aylarında oldukça sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir iklim gösterir. Batman Baraj Gölü'nün su seviyesi, mevsimsel yağışlara bağlı olarak değişir ve bu durum, gölün ekosistemini etkiler.
 
 Batman Baraj Gölü, çevresindeki ekosistemi destekleyen önemli bir su kaynağı olarak görev yapar. Göl, Dicle Nehri'nin suyunu düzenleyerek, bölgenin sulama ve içme suyu ihtiyacını karşılar. Ayrıca, gölün etrafındaki araziler, tarım faaliyetleri için elverişli olup, bölgenin ekonomik kalkınmasına katkı sağlar. Batman Baraj Gölü, doğal güzelliği ve stratejik konumu ile bölgenin önemli bir doğal varlığı olarak dikkat çeker.
 

@@ -31,7 +31,7 @@ wikidata_id: "Q108228642"
 
 ## Coğrafya
 
-Ünye, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde yer alır. Bu bölge, geniş ova ve dağlık alanlara sahiptir. Ünye, 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğündedir. Coğrafi konumu itibariyle, Ünye'nin iklimi karasal özellikler gösterir. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu coğrafi özellikleri, Ünye'nin flora ve faunasını da etkiler. Bölgede, çeşitli bitki türleri ve yaban hayvanları bulunur. Ünye, doğal güzellikleri ve coğrafi konumuyla birlikte, ziyaretçilere benzersiz bir deneyim sunar.
+Ünye, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde yer alır. Bu bölge, geniş ova ve dağlık alanlara sahiptir. Ünye, 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğündedir. Coğrafi konumu itibariyle, Ünye'nin iklimi karasal özellikler gösterir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu coğrafi özellikleri, Ünye'nin flora ve faunasını da etkiler. Bölgede, çeşitli bitki türleri ve yaban hayvanları bulunur. Ünye, doğal güzellikleri ve coğrafi konumuyla birlikte, ziyaretçilere benzersiz bir deneyim sunar.
 
 ## Flora ve Fauna
 

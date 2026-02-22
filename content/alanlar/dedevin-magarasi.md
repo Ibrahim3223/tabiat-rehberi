@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Dedevın Mağarası, Batman i
 
 Doğal bir anıt olan Dedevın Mağarası, jeolojik açıdan ilgi çekici bir oluşumdur. Mağaranın boyutları hakkında detaylı bilgi olmasa da, bölgenin jeolojik yapısı düşünüldüğünde, bir şehir bloğu büyüklüğünde olan bu mağara, ziyaretçilere geniş bir keşif alanı sunar. Mağaranın jeolojik yapısı, bölgenin geçmişini ve oluşum sürecini anlamak için önemli bir ipucu niteliğindedir.
 
-Mevsimsel değişikliklere bağlı olarak, Dedevın Mağarası çevresinin iklimi değişkenlik gösterir. Bölgenin genel iklim karakteri, güneydoğu Anadolu'nun karakteristik özelliklerini taşır. Yaz aylarında sıcaklık ve nem artarken, kış aylarında soğu ve yağışlı bir hava hakim olur. Bu mevsimsel özellikler, mağaranın ve çevresinin ekosistemini şekillendirir.
+Mevsimsel değişikliklere bağlı olarak, Dedevın Mağarası çevresinin iklimi değişkenlik gösterir. Bölgenin genel iklim karakteri, güneydoğu Anadolu'nun karakteristik özelliklerini taşır. Yaz aylarında sıcaklık ve nem artarken, kış aylarında soğuk ve yağışlı bir hava hakim olur. Bu mevsimsel özellikler, mağaranın ve çevresinin ekosistemini şekillendirir.
 
 Bölgenin coğrafi yapısı, Dedevın Mağarası'nın çevresel ilişkilerini de etkiler. Mağara, komşu alanlarla bağlantılı bir ekosistem içinde yer alır. Batman Çayı ve diğer su kaynakları, mağaranın yakınından geçer ve bölgenin su dengesini sağlar. Bu su kaynakları, mağara ve çevresinin canlı yaşamını destekler ve bölgenin biyolojik çeşitliliğini zenginleştirir.
 

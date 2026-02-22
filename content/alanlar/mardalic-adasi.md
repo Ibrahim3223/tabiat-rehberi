@@ -45,7 +45,7 @@ Güneşin Ege Denizi'ni ısıttığı bir sabah, Mardaliç Adası'nın güzel ma
 
 Doğal güzelliği ile dikkat çeken Mardaliç Adası, fiziksel yapısı itibariyle bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu küçük ama güzel ada, Ege Denizi'nin merkezinde yer alır ve çevredeki adalar ile birlikte bir takımadayı oluşturur. Ada'nın jeolojik yapısı, Ege Bölgesi'nin karakteristik özelliklerini taşır vevolkanik kökenli kayalardan oluşur.
 
-Mevsimsel değişikliklere göre iklim karakteri değişen Mardaliç Adası, yaz aylarında sıca ve kurak bir hava durumuna sahiptir. Sıcaklık değerleri 25-30°C arasında değişirken, nem oranları da oldukça düşüktür. Kış aylarında ise ılıman bir iklim hüküm sürer ve sıcaklık değerleri 10-15°C arasında seyreder. Bu mevsimsel özellikler, ada'nın flora ve fauna'sını şekillendirir ve çeşitlendirmeye yardımcı olur.
+Mevsimsel değişikliklere göre iklim karakteri değişen Mardaliç Adası, yaz aylarında sıcak ve kurak bir hava durumuna sahiptir. Sıcaklık değerleri 25-30°C arasında değişirken, nem oranları da oldukça düşüktür. Kış aylarında ise ılıman bir iklim hüküm sürer ve sıcaklık değerleri 10-15°C arasında seyreder. Bu mevsimsel özellikler, ada'nın flora ve fauna'sını şekillendirir ve çeşitlendirmeye yardımcı olur.
 
 Mardaliç Adası, çevredeki adalar ve Ege Denizi ile birlikte bir ekosistem oluşturur. Bu ekosistem, birçok farklı türün yaşam alanı olarak hizmet eder ve biyolojik çeşitliliği destekler. Ada'nın komşu alanları, su kaynakları ve ekosistem bağlantıları, onun doğal güzelliğini ve biyolojik zenginliğini korur. Bu nedenle, Mardaliç Adası, doğa severler ve bilim insanları için önemli bir araştırma ve keşif alanı olarak kabul edilir.
 

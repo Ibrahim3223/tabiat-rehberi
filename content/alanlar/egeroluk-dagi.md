@@ -42,7 +42,7 @@ Doğunun güzelliği, Ordu ilinin sınırları içerisinde yer alan Eğeroluk Da
 
 Jeolojik açıdan incelendiğinde, Eğeroluk Dağı'nın detaylı fiziksel verilerinin olmayışı, bu bölgenin daha derinlemesine incelenmesini gerektirir. Ancak, genel olarak Karadeniz Bölgesi'nin jeolojik yapısına bakıldığında, bu bölgenin dağlık ve engebeli bir yapıya sahip olduğu görülür. Eğeroluk Dağı da bu yapı içerisinde önemli bir yer tutar ve çevresindeki diğer dağlarla birlikte, bir dağ sırası oluşturur.
 
-Mevsimsel açıdan, Eğeroluk Dağı'nın bulunduğu Karadeniz Bölgesi, yüksek yağış alan bir bölgedir. Bu nedenle, dağ ve çevresindeki ormanlar, yıl boyunca yeşil kalır ve bu bölgenin doğal güzelliğine katkıda bulunur. Hava durumu, mevsimlere göre değişkenlik gösterir; yaz aylarında sıcaklık ve nem artar, kış aylarında ise soğu ve yağışlı bir hava hüküm sürer.
+Mevsimsel açıdan, Eğeroluk Dağı'nın bulunduğu Karadeniz Bölgesi, yüksek yağış alan bir bölgedir. Bu nedenle, dağ ve çevresindeki ormanlar, yıl boyunca yeşil kalır ve bu bölgenin doğal güzelliğine katkıda bulunur. Hava durumu, mevsimlere göre değişkenlik gösterir; yaz aylarında sıcaklık ve nem artar, kış aylarında ise soğuk ve yağışlı bir hava hüküm sürer.
 
 Çevresel açıdan bakıldığında, Eğeroluk Dağı, Ordu ilinin önemli su kaynaklarına yakın bir konumda yer alır. Bu bölgede, birçok nehir ve dere bulunur ve bu su kaynakları, Eğeroluk Dağı'nın eteklerinde yer alan yerleşim yerleri için önemli bir kaynak teşkil eder. Ayrıca, dağ ve çevresindeki ormanlar, bu bölgenin ekosistemini destekler ve birçok canlıyaşam alanı sağlar.
 

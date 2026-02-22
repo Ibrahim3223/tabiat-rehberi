@@ -36,7 +36,7 @@ Yapal Tepesi'nin tarihi geçmişi, bölgenin yerleşim tarihi ile paralel olara 
 
 ## Coğrafya
 
-Yapal Tepesi, Adana'nın coğrafi yapısını yansıtan önemli bir nokta olarak karşımıza çıkıyor. Tepenin konumu, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Etrafındaki geniş otlaklar ve ormanlık alanlar, bölgenin ekolojik dengesini korumaya yardımcı oluyor. Tepenin zirvesinden bakıldığında, Adana'nın geniş düzlükleri ve dağ siluetleri gözler önüne seriliyor. İklimi, Akdeniz ikliminin özelliklerini taşır; yazları sıca ve kurak, kışları ılıman ve yağışlı geçer. Bu coğrafi özellikler, Yapal Tepesi'ni yıl boyunca ziyaret edilebilir bir yer haline getiriyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösteriyor.
+Yapal Tepesi, Adana'nın coğrafi yapısını yansıtan önemli bir nokta olarak karşımıza çıkıyor. Tepenin konumu, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Etrafındaki geniş otlaklar ve ormanlık alanlar, bölgenin ekolojik dengesini korumaya yardımcı oluyor. Tepenin zirvesinden bakıldığında, Adana'nın geniş düzlükleri ve dağ siluetleri gözler önüne seriliyor. İklimi, Akdeniz ikliminin özelliklerini taşır; yazları sıcak ve kurak, kışları ılıman ve yağışlı geçer. Bu coğrafi özellikler, Yapal Tepesi'ni yıl boyunca ziyaret edilebilir bir yer haline getiriyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösteriyor.
 
 ## Flora ve Fauna
 

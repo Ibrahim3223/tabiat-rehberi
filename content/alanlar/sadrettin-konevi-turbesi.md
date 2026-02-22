@@ -38,7 +38,7 @@ Sadrettin Konevi Türbesi, yüzyıllar boyunca dini ve kültürel açıdan önem
 
 ## Coğrafya
 
-Sadrettin Konevi Türbesi, Doğu Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alır. Yakutiye ilçesinin merkezi bir konumunda bulunan türbe, etrafındaki doğal güzelliklerle birlikte dikkat çekicidir. Bölge, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir. İklimi, karasal iklim özellikleri taşır ve mevsimsel değişimler belirgindir. Kış mevsimi soğu ve karlı, yaz mevsimi ise serin ve yağışlı geçer. Bu coğrafi özellikler, bölgenin turizm potansiyelini artırır.
+Sadrettin Konevi Türbesi, Doğu Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alır. Yakutiye ilçesinin merkezi bir konumunda bulunan türbe, etrafındaki doğal güzelliklerle birlikte dikkat çekicidir. Bölge, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir. İklimi, karasal iklim özellikleri taşır ve mevsimsel değişimler belirgindir. Kış mevsimi soğuk ve karlı, yaz mevsimi ise serin ve yağışlı geçer. Bu coğrafi özellikler, bölgenin turizm potansiyelini artırır.
 
 ## Flora ve Fauna
 

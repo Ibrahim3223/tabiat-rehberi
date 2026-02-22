@@ -37,7 +37,7 @@ Conkbayırı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölgen
 
 ## Coğrafya
 
-Conkbayırı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerine sahip. Bu bölge, geniş ovalar ve dağlık alanlar ile çevrilidir. Conkbayırı'nın coğrafyası, ziyaretçilere doğal güzellikler sunuyor. Bölge, çeşitli bitki türleri ve hayvanlar ile zengin bir fauna ve flora sunuyor. Conkbayırı'nın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve karasal bir yapıya sahip. Burada, yazlar sıca ve kurak, kışlar ise soğu ve kar yağışlı geçiyor. Conkbayırı, coğrafi açıdan zengin bir bölge ve ziyaretçilere doğanın güzelliğini sunuyor. Conkbayırı'nın coğrafyası, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı veriyor.
+Conkbayırı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerine sahip. Bu bölge, geniş ovalar ve dağlık alanlar ile çevrilidir. Conkbayırı'nın coğrafyası, ziyaretçilere doğal güzellikler sunuyor. Bölge, çeşitli bitki türleri ve hayvanlar ile zengin bir fauna ve flora sunuyor. Conkbayırı'nın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve karasal bir yapıya sahip. Burada, yazlar sıcak ve kurak, kışlar ise soğuk ve kar yağışlı geçiyor. Conkbayırı, coğrafi açıdan zengin bir bölge ve ziyaretçilere doğanın güzelliğini sunuyor. Conkbayırı'nın coğrafyası, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı veriyor.
 
 ## Flora ve Fauna
 

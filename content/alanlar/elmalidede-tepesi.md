@@ -36,7 +36,7 @@ Elmalıdede Tepesi'nin tarihi geçmişi, Ankara'nın köklü tarihine paralel ol
 
 ## Coğrafya
 
-Elmalıdede Tepesi, Ankara'nın coğrafi yapısına uygun olarak kurulmuş bir tepe. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu tepe, geniş otlak alanları ve ağaçlık bölgeleri ile ziyaretçilerini ağırlıyor. Tepenin zirvesinden Ankara'nın panoramik manzarasını izleme mümkün. Bu manzara, özellikle gün batımında izleyenleri büyülüyor. Elmalıdede Tepesi, çevresindeki diğer doğal güzelliklerle birlikte bir bütün olarak düşünülerek planlanmış bir gezi rotasına dahil edilebilir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile uyumlu olarak karasal bir iklim özelliği gösteriyor. Kışları soğuk, yazları sıca ve kurak geçiyor.
+Elmalıdede Tepesi, Ankara'nın coğrafi yapısına uygun olarak kurulmuş bir tepe. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu tepe, geniş otlak alanları ve ağaçlık bölgeleri ile ziyaretçilerini ağırlıyor. Tepenin zirvesinden Ankara'nın panoramik manzarasını izleme mümkün. Bu manzara, özellikle gün batımında izleyenleri büyülüyor. Elmalıdede Tepesi, çevresindeki diğer doğal güzelliklerle birlikte bir bütün olarak düşünülerek planlanmış bir gezi rotasına dahil edilebilir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile uyumlu olarak karasal bir iklim özelliği gösteriyor. Kışları soğuk, yazları sıcak ve kurak geçiyor.
 
 ## Flora ve Fauna
 

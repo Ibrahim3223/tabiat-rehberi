@@ -37,7 +37,7 @@ Dörtayak Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. T
 
 ## Coğrafya
 
-Dörtayak Türbesi, Burdur'un merkezinde yer alan bir tepe üzerine kurulmuştur. Türbenin çevresinde çeşitli tarihi yapılar, anıtlar ve yeşil alanlar bulunmakta olup, burayı ziyaret edenler bu yapıları da keşfetme fırsatı bulabilirler. Akdeniz Bölgesi'nin karakteristik iklimi, bölgede sıca ve kurak yazlar ile ılıman kışlar görülmesine neden olmaktadır. Türbenin bulunduğu tepe, ziyaretçilere Burdur'un panoramik manzarasını sunar. 180 hektarlık bir alanı kaplayan türbe ve çevresindeki yeşil alanlar, ziyaretçilere dinlenme ve gezi imkanı sunar.
+Dörtayak Türbesi, Burdur'un merkezinde yer alan bir tepe üzerine kurulmuştur. Türbenin çevresinde çeşitli tarihi yapılar, anıtlar ve yeşil alanlar bulunmakta olup, burayı ziyaret edenler bu yapıları da keşfetme fırsatı bulabilirler. Akdeniz Bölgesi'nin karakteristik iklimi, bölgede sıcak ve kurak yazlar ile ılıman kışlar görülmesine neden olmaktadır. Türbenin bulunduğu tepe, ziyaretçilere Burdur'un panoramik manzarasını sunar. 180 hektarlık bir alanı kaplayan türbe ve çevresindeki yeşil alanlar, ziyaretçilere dinlenme ve gezi imkanı sunar.
 
 ## Flora ve Fauna
 

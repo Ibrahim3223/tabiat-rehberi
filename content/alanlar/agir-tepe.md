@@ -44,7 +44,7 @@ Mardin'in coğrafi güzelliğiçinde yer alan Agir Tepe, 37.6350°K, 40.9694°D 
 
 Jeolojik açıdan bakıldığında, Agir Tepe'nin fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel coğrafyası dikkate alındığında, Mardin'in kalker ve şist gibi farklı jeolojik oluşumların bir araya geldiği bir bölge olduğu görülür. Bu oluşumlar, bölgenin şekillenmesinde önemli bir rol oynamıştır. Agir Tepe'nin yüksekliği ve boyutları hakkında specific rakamlar olmasa da, Mardin'in genel topografyası, bölgenin yüksekli ve derinlik açısından çeşitlilik gösterdiğini gösterir.
 
-Mevsimsel olarak, Agir Tepe ve çevresinin iklim karakteri, Güneydoğu Anadolu Bölgesi'nin genel iklim özelliklerini taşır. Bu bölgede yaz ayları sıca ve kurak, kış ayları ise soğu ve yağışlı geçer. Bu iklim özellikleri, bölgenin flora ve fauna açısından zenginleşmesine katkıda bulunur. Agir Tepe'nin konumu, bölgenin iklim karakterini şekillendiren önemli faktörlerden biridir.
+Mevsimsel olarak, Agir Tepe ve çevresinin iklim karakteri, Güneydoğu Anadolu Bölgesi'nin genel iklim özelliklerini taşır. Bu bölgede yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçer. Bu iklim özellikleri, bölgenin flora ve fauna açısından zenginleşmesine katkıda bulunur. Agir Tepe'nin konumu, bölgenin iklim karakterini şekillendiren önemli faktörlerden biridir.
 
 Çevresel açıdan bakıldığında, Agir Tepe, Mardin'in tarihi ve doğal güzelliklerinin bir araya geldiği bir bölgede yer alır. Bu bölge, çeşitli su kaynaklarına ve ekosistem bağlantılarına sahiptir. Agir Tepe'nin komşu alanları, Mardin'in tarihi dokusunu ve doğal güzelliklerini bir araya getiren bir coğrafyaya sahiptir. Bu coğrafya, bölgenin ekoloji ve çevresel zenginliğini destekler.
 

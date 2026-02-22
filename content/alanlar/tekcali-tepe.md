@@ -42,7 +42,7 @@ Doğal güzellikleri ile dikkat çeken Tekçalı Tepe, Burdur'un coğrafi zengin
 
 Jeolojik yapısı itibariyle Tekçalı Tepe, bölgenin diğer dağlık alanlarına benzer özellikler gösteriyor. Ancak, fiziksel boyutları hakkında detaylı bilgi bulunmaması, bu tepe hakkında daha spesifik tanımlamalar yapmayı zorlaştırıyor. Genel olarak, Türkiye'nin güneybatı kesimindeki dağlık alanların karakteristik özelliklerini taşıdığı söylenebilir. Yüksekli ve genişlik açısından, çevredeki coğrafi oluşumlar ile benzerlik gösterdiği varsayılabilir.
 
-İklim açısından, Tekçalı Tepe ve çevresindeki bölge, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ılık ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler. Çeşitli bitki türleri ve hayvan popülasyonları, bu iklim koşullarına adapte olmuş durumdadır.
+İklim açısından, Tekçalı Tepe ve çevresindeki bölge, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ılık ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler. Çeşitli bitki türleri ve hayvan popülasyonları, bu iklim koşullarına adapte olmuş durumdadır.
 
 Çevresel açıdan, Tekçalı Tepe, Burdur'un diğer doğal güzelliklerine yakınlığı ile dikkat çeker. Yakın çevresinde, su kaynakları ve ekosistem bağlantıları, bu tepeyi önemli bir doğal yaşam alanı haline getirir. Bölgenin su kaynakları, yeraltı suları ve yüzey suları olmak üzere iki ana kategoride toplanabilir. Bu su kaynakları, bölgenin ekosistem dengesini korur ve yerel canlılar için hayati önem taşır.
 

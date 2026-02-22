@@ -45,7 +45,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden biri olan Ağrı'da yer alan Karn�
 
 Jeolojik açıdan incelendiğinde, Karnıyarık Tepe'nin oluşumu hakkında detaylı bilgiler bulunmasa da, genel olarak bölgenin jeolojik yapısı hakkında bilgi sahibi olma mümkündür. Ağrı Dağı'nın eteklerine yakın bir konumda yer alan bu tepe, volkanik faaliyetlerin sonucu oluşan bir arazide bulunmaktadır. Bu volkanik faaliyetler, bölgenin jeolojik yapısını şekillendirmiş ve Karnıyarık Tepe'nin oluşumuna katkıda bulunmuştur.
 
-İklim açısından Karnıyarık Tepe, Doğu Anadolu Bölgesi'nin karakteristik iklim özelliklerini taşır. Bölge, karasal iklimin hakim olduğu bir bölgedir ve mevsimsel olarak büyük değişimler gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini şekillendirmiştir.
+İklim açısından Karnıyarık Tepe, Doğu Anadolu Bölgesi'nin karakteristik iklim özelliklerini taşır. Bölge, karasal iklimin hakim olduğu bir bölgedir ve mevsimsel olarak büyük değişimler gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini şekillendirmiştir.
 
 Çevresel açıdan bakıldığında, Karnıyarık Tepe, etraftaki diğer coğrafi oluşumlarla birlikte bir bütünü oluşturur. Bölge, su kaynakları açısından zengin değildir, ancak yakın çevrede bulunan akarsular ve göller, bölgenin ekosistemini destekler. Bu su kaynakları, bölgenin flora ve fauna çeşitliliğini korur ve bölgenin doğal dengesini sağlar.
 

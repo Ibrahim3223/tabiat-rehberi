@@ -36,7 +36,7 @@ Ziyaret Tepesi'nin tarihi geçmişi, Erzincan'ın tarihine paralel olarak şekil
 
 ## Coğrafya
 
-Ziyaret Tepesi, Erzincan şehrinin merkezinde yer alır. Bu tepe, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir nokta. Ziyaret Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve şehrin panoramik manzarasını sunar. Bu tepe, şehrin önemli bir części olarak bilinir ve çeşitli bitkiler ve hayvanlar barındırır. Ziyaret Tepesi'nin iklimi, Doğu Anadolu Bölgesi'nin iklimine benzer. Burada, kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Ziyaret Tepesi, şehrin önemli bir turizm merkezi olarak bilinir ve her yıl binlerce ziyaretçi alır.
+Ziyaret Tepesi, Erzincan şehrinin merkezinde yer alır. Bu tepe, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir nokta. Ziyaret Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve şehrin panoramik manzarasını sunar. Bu tepe, şehrin önemli bir części olarak bilinir ve çeşitli bitkiler ve hayvanlar barındırır. Ziyaret Tepesi'nin iklimi, Doğu Anadolu Bölgesi'nin iklimine benzer. Burada, kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Ziyaret Tepesi, şehrin önemli bir turizm merkezi olarak bilinir ve her yıl binlerce ziyaretçi alır.
 
 ## Flora ve Fauna
 

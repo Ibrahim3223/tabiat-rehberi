@@ -37,7 +37,7 @@ Karıştıran Süleyman Bey Türbesi'nin tam tarihi bilinmese de, yüzyıllar bo
 
 ## Coğrafya
 
-Karıştıran Süleyman Bey Türbesi, Osmangazi, Bursa'da yer alıyor ve Marmara Bölgesi'nin coğrafi olarak önemli bir noktasında bulunuyor. Bu bölge, coğrafi olarak çeşitlilik gösteren bir yer ve burada hem dağlık alanlar hem de ovalar bulunabiliyor. Türbe, çevresindeki yeşil alanlar ve doğal güzelliklerle çevrili ve ziyaretçiler, burada hem tarihi bir türbeyi ziyaret edebiliyor hem de doğa güzelliklerini keşfedebiliyor. Bölgenin iklimi, genel olarak karasal iklim özellikleri gösteriyor ve bn mevsim de belirgin olarak yaşanıyor. Kışlar soğu ve yağışlı, yazlar ise sıcak ve kuru geçiyor. Bu coğrafi ve iklimsel özellikler, Karıştıran Süleyman Bey Türbesi'nin ziyaretçilerine zengin bir deneyim sunuyor.
+Karıştıran Süleyman Bey Türbesi, Osmangazi, Bursa'da yer alıyor ve Marmara Bölgesi'nin coğrafi olarak önemli bir noktasında bulunuyor. Bu bölge, coğrafi olarak çeşitlilik gösteren bir yer ve burada hem dağlık alanlar hem de ovalar bulunabiliyor. Türbe, çevresindeki yeşil alanlar ve doğal güzelliklerle çevrili ve ziyaretçiler, burada hem tarihi bir türbeyi ziyaret edebiliyor hem de doğa güzelliklerini keşfedebiliyor. Bölgenin iklimi, genel olarak karasal iklim özellikleri gösteriyor ve bn mevsim de belirgin olarak yaşanıyor. Kışlar soğuk ve yağışlı, yazlar ise sıcak ve kuru geçiyor. Bu coğrafi ve iklimsel özellikler, Karıştıran Süleyman Bey Türbesi'nin ziyaretçilerine zengin bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

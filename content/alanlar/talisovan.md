@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin en uç noktasında, Iğdır ilinin sınırları için
 
 Talisovan Dağı'nın fiziksel yapısı, bölgenin jeolojik özelliklerini yansıtmaktadır. Dağın koordinatları, geniş bir coğrafi alanı kapsar, ancak detaylı fiziksel verileri bulunmadığından, tam olarak boyutlarını belirleme mümkün değildir. Ancak, genel olarak bakıldığında, bu dağlık alan, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplar ve bu özelliği ile bölgenin önemli bir doğal oluşumudur.
 
-Bölgenin iklim karakteri, Talisovan Dağı'nın coğrafi konumundan etkilenmektedir. Doğu Anadolu Bölgesi'nin karasal iklimi, Talisovan Dağı'nda da kendini gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürer. Bu mevsimsel özellikler, Talisovan Dağı'nın doğal güzelliklerini ve ekosistemini şekillendirir.
+Bölgenin iklim karakteri, Talisovan Dağı'nın coğrafi konumundan etkilenmektedir. Doğu Anadolu Bölgesi'nin karasal iklimi, Talisovan Dağı'nda da kendini gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürer. Bu mevsimsel özellikler, Talisovan Dağı'nın doğal güzelliklerini ve ekosistemini şekillendirir.
 
 Talisovan Dağı, çevresindeki diğer doğal alanlarla birlikte, bölgenin ekosistemini oluşturan önemli bir parçadır. Dağın eteklerinde yer alan su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılar. Ayrıca, Talisovan Dağı, bölgedeki diğer dağlık alanlarla birlikte, Monaco'nun yarısı kadar bir alanı kaplayan geniş bir doğal koridor oluşturur. Bu koridor, bölgenin doğal güzelliklerini koruma ve gelecek nesiller için korumak açısından önemlidir.
 

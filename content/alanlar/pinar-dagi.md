@@ -43,7 +43,7 @@ Mersin'in gözde noktalarından biri olan Pınar Dağı, 36.1519°K ve 32.6444°
 
 Doğal güzelliklerin bir araya geldiği bu noktada, Pınar Dağı'nın fiziksel yapısı oldukça dikkat çekici. Ne yazık ki, detaylı fiziksel veriler bulunmuyor, ancak dağın konumundan ve çevresi ile olan ilişkisinden, bir şehir bloğu büyüklüğünde bir alanı kapladığı söylenebilir. Bu størrelme, dağın boyutlarını anlamak için bir referans noktası olabilir. Pınar Dağı, jeolojik açıdan da ilgi çekici bir yapıya sahip, ancak daha detailed bilgiler bulunmuyor.
 
-İklim açısından Pınar Dağı, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumu sergiliyor. Bu mevsimsel özellikler, dağ ve çevresindeki bitki örtüsünün şekillenmesinde önemli bir rol oynuyor. Dağların eteklerinde ve civarında, bu iklim koşullarına adapte olmuş çeşitli bitki türleri bulunabilir.
+İklim açısından Pınar Dağı, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumu sergiliyor. Bu mevsimsel özellikler, dağ ve çevresindeki bitki örtüsünün şekillenmesinde önemli bir rol oynuyor. Dağların eteklerinde ve civarında, bu iklim koşullarına adapte olmuş çeşitli bitki türleri bulunabilir.
 
 Pınar Dağı'nın çevresel ilişkileri, komşu alanlar ve su kaynakları ile ilgilidir. Dağ, etrafındaki arazinin su toplama alanını etkileyen bir konumda bulunuyor. Bu bölgede, su kaynaklarının yönetimi, dağ ve çevresindeki ekosistemin sağlıklı bir şekilde korunması için son derece önemli. Pınar Dağı, Mersin'in doğal güzelliklerini koruma altına almak için önemli bir nokta olarak görülüyor.
 

@@ -38,7 +38,7 @@ Hüseyin Bey Türbesi'nin tarihi geçmişi, Osmanlı Dönemi'ne kadar uzanıyor.
 
 ## Coğrafya
 
-Hüseyin Bey Türbesi, Tekirdağ'ın Süleymanpaşa ilçesinde, Marmara Denizi'nin kıyısında yer alıyor. 180 hektarlık bir alanda kurulmuş olan bu türbe ve çevresindeki doğal güzellikler, ziyaretçilere geniş bir gezi ve keşif imkanı sunuyor. Bölge, Marmara Bölgesi'nin karakteristik coğrafi özellikleri ile birlikte, deniz kenarında yer alan plajlar ve çevresindeki tepelerle birlikte zengin bir coğrafi çeşitlilik sunuyor. İklim olarak, Marmara Bölgesi'nin ılıman iklimine sahip olan bu bölgede, yaz ayları sıca ve nemli, kış ayları ise ılık ve yağışlı geçiyor. Bahar ve sonbahar ayları ise, ziyaretçilerin bölgeyi keşfetmeleri için en uygun zamanlar olarak kabul ediliyor. Bölgenin coğrafi güzellikleri, ziyaretçilere doğayla iç içe bir gezi deneyimi sunuyor.
+Hüseyin Bey Türbesi, Tekirdağ'ın Süleymanpaşa ilçesinde, Marmara Denizi'nin kıyısında yer alıyor. 180 hektarlık bir alanda kurulmuş olan bu türbe ve çevresindeki doğal güzellikler, ziyaretçilere geniş bir gezi ve keşif imkanı sunuyor. Bölge, Marmara Bölgesi'nin karakteristik coğrafi özellikleri ile birlikte, deniz kenarında yer alan plajlar ve çevresindeki tepelerle birlikte zengin bir coğrafi çeşitlilik sunuyor. İklim olarak, Marmara Bölgesi'nin ılıman iklimine sahip olan bu bölgede, yaz ayları sıcak ve nemli, kış ayları ise ılık ve yağışlı geçiyor. Bahar ve sonbahar ayları ise, ziyaretçilerin bölgeyi keşfetmeleri için en uygun zamanlar olarak kabul ediliyor. Bölgenin coğrafi güzellikleri, ziyaretçilere doğayla iç içe bir gezi deneyimi sunuyor.
 
 ## Flora ve Fauna
 

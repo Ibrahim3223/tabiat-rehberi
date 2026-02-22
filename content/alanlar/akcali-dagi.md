@@ -45,7 +45,7 @@ Doğal güzelliklerin zengin olduğu bir coğrafyada yer alan Akçalı Dağı, 3
 
 Jeolojik açıdan incelendiğinde, Akçalı Dağı'nın yapısı ve boyutları, bölgenin coğrafi özelliklerini şekillendirmektedir. Ancak, detaylı fiziksel veriler bulunmamasına rağmen, dağların genel coğrafyası, çevresindeki diğer doğal alanlarla benzerlik göstermektedir. Monaco'nun yaklaşık yarısı büyüklüğünde bir alana karşılık gelen bu coğrafi oluşum, bölgenin doğal zenginliklerini koruma altına almak için önemli bir rol oynamaktadır.
 
-Mevsimsel değişiklikler, Akçalı Dağı'nın iklim karakterini belirlemektedir. Kış aylarında ılıman hava koşulları, yaz aylarında ise sıca ve kuru bir iklim hüküm sürmektedir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler arasındadır. Eiffel Kulesi'nin yaklaşık 3 katı yükseklikte olan dağların zirvesi, ziyaretçilere muhteşem manzaralar sunmaktadır.
+Mevsimsel değişiklikler, Akçalı Dağı'nın iklim karakterini belirlemektedir. Kış aylarında ılıman hava koşulları, yaz aylarında ise sıcak ve kuru bir iklim hüküm sürmektedir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler arasındadır. Eiffel Kulesi'nin yaklaşık 3 katı yükseklikte olan dağların zirvesi, ziyaretçilere muhteşem manzaralar sunmaktadır.
 
 Çevresel açıdan bakıldığında, Akçalı Dağı, bölgenin ekosistem bağlantılarını şekillendiren önemli bir rol oynamaktadır. Dağın yakınındaki su kaynakları ve komşu alanlar, bölgenin doğal dengesini korumak için önemli bir işlev görmektedir. İstanbul'un Adalar ilçesi büyüklüğünde bir alana karşılık gelen bu coğrafi oluşum, bölgenin doğal güzelliklerini koruma ve gelecek nesiller için korumak için önemli bir görev üstlenmektedir.
 

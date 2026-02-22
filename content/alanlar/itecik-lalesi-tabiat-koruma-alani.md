@@ -30,7 +30,7 @@ wikidata_id: "Q108228997"
 
 ## Coğrafya
 
-İtecik Lalesi Tabiat Koruma Alanı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. 140 hektarlık bir alanı kapsayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve coğrafi olarak çeşitlilik gösterir. Bölge, genellikle step ve çayır ekosistemlerinin bir karışımı olarak tanımlanabilir. İklim, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak karasal bir karakter gösterir. Kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçer. Bu iklim koşulları, bölgenin florası ve faunası üzerinde önemli bir etkiye sahiptir. İtecik Lalesi Tabiat Koruma Alanı, aynı zamanda çevreye duyarlı bir şekilde yönetilmekte ve ziyaretçilerin bölgeyi odpowiedi şekilde kullanabilmesi için gerekli önlemler alınmaktadır.
+İtecik Lalesi Tabiat Koruma Alanı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. 140 hektarlık bir alanı kapsayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve coğrafi olarak çeşitlilik gösterir. Bölge, genellikle step ve çayır ekosistemlerinin bir karışımı olarak tanımlanabilir. İklim, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak karasal bir karakter gösterir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçer. Bu iklim koşulları, bölgenin florası ve faunası üzerinde önemli bir etkiye sahiptir. İtecik Lalesi Tabiat Koruma Alanı, aynı zamanda çevreye duyarlı bir şekilde yönetilmekte ve ziyaretçilerin bölgeyi odpowiedi şekilde kullanabilmesi için gerekli önlemler alınmaktadır.
 
 ## Flora ve Fauna
 

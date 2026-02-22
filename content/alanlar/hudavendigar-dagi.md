@@ -45,7 +45,7 @@ Doğunun gizli köşelerinden biri olan Hüdavendigar Dağı, 39.3428°K, 43.445
 
 Jeolojik açıdan bakıldığında, Hüdavendigar Dağı'nın fiziksel yapısı hakkında detaylı bilgi olmasa da, koordinatlarından yola çıkarak, bölgenin coğrafi özelliklerini değerlendirebiliriz. Dağın konumlandığı bölge, genel olarak dağlık ve engebeli bir araziye sahip. Bu bölge, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor. Bu büyüklük, dağların ve vadilerin birbirine nasıl bağlı olduğunu ve bölgenin doğal güzelliğini gösteriyor.
 
-Bölgenin iklim karakteri, mevsimsel olarak değişkenlik gösteriyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakim. Bu iklim özellikleri, bölgenin doğal yaşamını ve bitki örtüsünü şekillendiriyor. Hüdavendigar Dağı, bu iklim koşullarına adapte olmuş bir ekosisteme sahip ve bu sayede bölgenin biyolojik çeşitliliğini koruyor.
+Bölgenin iklim karakteri, mevsimsel olarak değişkenlik gösteriyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakim. Bu iklim özellikleri, bölgenin doğal yaşamını ve bitki örtüsünü şekillendiriyor. Hüdavendigar Dağı, bu iklim koşullarına adapte olmuş bir ekosisteme sahip ve bu sayede bölgenin biyolojik çeşitliliğini koruyor.
 
 Çevresel açıdan bakıldığında, Hüdavendigar Dağı, komşu alanlar ve su kaynakları ile bağlantılı bir bölge içerisinde yer alıyor. Dağın eteklerinde ve çevresinde formedilmiş olan vadiler ve su kaynakları, bölgenin ekosistem bağlantılarını gösteriyor. Bu bağlantılar, bölgenin doğal dengesini koruyor ve biyolojik çeşitliliğini sürdürüyor. Hüdavendigar Dağı, Monaco'nun yaklaşık yarısı kadar büyüklüğünde bir alanı kaplıyor ve bu büyüklük, bölgenin doğal güzelliğini ve coğrafi çeşitliliğini vurguluyor.
 

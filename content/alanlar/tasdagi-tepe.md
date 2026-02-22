@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi zenginliklerini keşfetmek isteyenler 
 
 Doğal bir gözlem noktası olarak işlev gören Taşdağı Tepe, çevresindeki arazinin yüksekliği ile dikkat çekiyor. Etrafındaki düzlükler ile karşılaştırıldığında, neredeyse Eiffel Kulesi'nin 1/5'i kadar yükseklikte olan bu tepe, bölgenin coğrafi yapısını anlamak için önemli bir nokta. Ancak, fiziksel boyutları hakkında detaylı bilgi bulunmaması, bu tepeyi tam olarak tanımlamayı zorlaştırıyor.
 
-Bölgenin iklim karakteri, Taşdağı Tepe'nin coğrafi özelliklerini etkileyen önemli bir faktör. Güneydoğu Anadolu Bölgesi'nin genel iklimine uygun olarak, bu tepe de sıca ve kurak yazlar ile ılıman kışlar yaşıyor. Mevsimsel değişikliklere bağlı olarak, tepe ve çevresindeki bitki örtüsü değişkenlik gösteriyor.
+Bölgenin iklim karakteri, Taşdağı Tepe'nin coğrafi özelliklerini etkileyen önemli bir faktör. Güneydoğu Anadolu Bölgesi'nin genel iklimine uygun olarak, bu tepe de sıcak ve kurak yazlar ile ılıman kışlar yaşıyor. Mevsimsel değişikliklere bağlı olarak, tepe ve çevresindeki bitki örtüsü değişkenlik gösteriyor.
 
 Taşdağı Tepe, çevresindeki coğrafi oluşumlar ile bağlantılı olarak, bölgenin ekosistemini etkileyen önemli bir bileşen. Yakınlardaki su kaynakları ve tarım alanları, tepe ile birlikte bir bütün olarak düşünülmesi gereken coğrafi unsurlar. Bu tepe, bölgenin doğal güzelliklerini ve coğrafi çeşitliliğini keşfetmek isteyenler için önemli bir ziyaret noktası.
 

@@ -37,7 +37,7 @@ Metris Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bö
 
 ## Coğrafya
 
-Metris Tepesi, Erzurum'un doğusunda yer alan bir doğal alandır. Bu bölge, 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Metris Tepesi, coğrafi olarak dağlık bir bölgeye sahiptir. Bölgenin iklimi, karasal iklim özellikleri göstermektedir. Kışlar soğu ve karlı, yazlar ise serin ve yağışlı geçmektedir. Metris Tepesi, flora ve faunası açısından zengin bir bölge olarak kabul ediliyor. Bu tepe, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Metris Tepesi'nin coğrafi konumu, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunuyor. Bu bölge, trekking, kamp ve doğa yürüyüşü gibi faaliyetler için ideal bir destinasyon olarak kabul ediliyor.
+Metris Tepesi, Erzurum'un doğusunda yer alan bir doğal alandır. Bu bölge, 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Metris Tepesi, coğrafi olarak dağlık bir bölgeye sahiptir. Bölgenin iklimi, karasal iklim özellikleri göstermektedir. Kışlar soğuk ve karlı, yazlar ise serin ve yağışlı geçmektedir. Metris Tepesi, flora ve faunası açısından zengin bir bölge olarak kabul ediliyor. Bu tepe, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Metris Tepesi'nin coğrafi konumu, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunuyor. Bu bölge, trekking, kamp ve doğa yürüyüşü gibi faaliyetler için ideal bir destinasyon olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

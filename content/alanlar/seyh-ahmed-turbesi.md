@@ -38,7 +38,7 @@ wikidata_id: "Q131391600"
 
 ## Coğrafya
 
-Şeyh Ahmed Türbesi, Eyüpsultan ilçesinde yer alıyor. Bu bölgede, Marmara Bölgesi'nin coğrafi özellikleri görülüyor. Şeyh Ahmed Türbesi, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Şeyh Ahmed Türbesi, İstanbul'un kalabalık streetsinden uzaklaşmak isteyenler için ideal bir kaçış noktası olarak görülüyor. Bu bölgede, ziyaretçilerin doğa ile iç içe olabileceği birçok alan bulunuyor. Şeyh Ahmed Türbesi, coğrafi konumu itibari ile ziyaretçilerini hem tarihi açıdan hem de doğal güzellikleri ile cezbediyor. Bu bölgede, mevsimsel değişimler ile birlikte, farklı bitki türleri ve hayvanlar ile karşılaşma mümkün.
+Şeyh Ahmed Türbesi, Eyüpsultan ilçesinde yer alıyor. Bu bölgede, Marmara Bölgesi'nin coğrafi özellikleri görülüyor. Şeyh Ahmed Türbesi, yüksek bir konumda yer alıyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Şeyh Ahmed Türbesi, İstanbul'un kalabalık streetsinden uzaklaşmak isteyenler için ideal bir kaçış noktası olarak görülüyor. Bu bölgede, ziyaretçilerin doğa ile iç içe olabileceği birçok alan bulunuyor. Şeyh Ahmed Türbesi, coğrafi konumu itibari ile ziyaretçilerini hem tarihi açıdan hem de doğal güzellikleri ile cezbediyor. Bu bölgede, mevsimsel değişimler ile birlikte, farklı bitki türleri ve hayvanlar ile karşılaşma mümkün.
 
 ## Flora ve Fauna
 

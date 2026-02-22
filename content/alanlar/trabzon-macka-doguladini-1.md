@@ -30,7 +30,7 @@ Trabzon Macka-Doguladini 1 milli parkının tarihi geçmişi, bölgenin coğrafi
 
 ## Coğrafya
 
-Trabzon Macka-Doguladini 1 milli parkı, İç Anadolu Bölgesi'nde yer alıyor. Coğrafi konumu itibarıyla, bu bölge, doğu-batı yönünde uzanan dağ sıralarının arasında kalıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu büyük alan, birçok bitki ve hayvan türüne ev sahipliği yapıyor. Parkın coğrafi yapısı, dağlar, vadiler ve ovalardan oluşuyor. Bu coğrafi çeşitlilik, farklı iklim koşullarına da neden oluyor. Parkın iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğu ve karlı, yazlar sıca ve kurak geçiyor. Bu iklim koşulları, burada yaşayan bitki ve hayvan türleri için uygun bir ortam yaratıyor.
+Trabzon Macka-Doguladini 1 milli parkı, İç Anadolu Bölgesi'nde yer alıyor. Coğrafi konumu itibarıyla, bu bölge, doğu-batı yönünde uzanan dağ sıralarının arasında kalıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu büyük alan, birçok bitki ve hayvan türüne ev sahipliği yapıyor. Parkın coğrafi yapısı, dağlar, vadiler ve ovalardan oluşuyor. Bu coğrafi çeşitlilik, farklı iklim koşullarına da neden oluyor. Parkın iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve karlı, yazlar sıcak ve kurak geçiyor. Bu iklim koşulları, burada yaşayan bitki ve hayvan türleri için uygun bir ortam yaratıyor.
 
 ## Flora ve Fauna
 

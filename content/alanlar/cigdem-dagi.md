@@ -44,7 +44,7 @@ Güney kıyılarımızda, Antalya'nın muhteşem manzaralarına ev sahipliği ya
 
 Doğal güzelliğinin yanı sıra, Çiğdem Dağı'nın fiziksel yapısı da oldukça dikkat çekici. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte ve bu yükseklik, bölgenin jeolojik yapısını şekillendirmiş. Çiğdem Dağı'nın jeolojisi, Türkiye'nin diğer bölgelerine göre farklılık gösteriyor ve bu farklılık, dağın çevresindeki bitki örtüsünü ve hayvan türlerini etkiliyor.
 
-İklim karakteri açısından bakıldığında, Çiğdem Dağı'nın mevsimsel özelliklerini incelemek gerekiyor. Bölge, Akdeniz ikliminin etkilerini taşıyor ve yaz aylarında sıca ve kurak bir hava hüküm sürüyor. Kış aylarında ise, ılıman bir hava hakim oluyor. Bu mevsimsel özellikler, dağın flora ve fauna'sını şekillendirmiş ve bu çeşitlilik, bölgenin doğal güzelliğini artırmış.
+İklim karakteri açısından bakıldığında, Çiğdem Dağı'nın mevsimsel özelliklerini incelemek gerekiyor. Bölge, Akdeniz ikliminin etkilerini taşıyor ve yaz aylarında sıcak ve kurak bir hava hüküm sürüyor. Kış aylarında ise, ılıman bir hava hakim oluyor. Bu mevsimsel özellikler, dağın flora ve fauna'sını şekillendirmiş ve bu çeşitlilik, bölgenin doğal güzelliğini artırmış.
 
 Çevresel ilişkiler açısından, Çiğdem Dağı, komşu alanlar ve su kaynakları ile önemli bir bağlantı içerisinde. Dağın eteklerinde yer alan su kaynakları, bölgenin ekosistemini desteklemekte ve bu destek, dağın doğal güzelliğini korumak için önemli bir rol oynuyor. Ayrıca, Çiğdem Dağı, Monaco'nun yarısı kadar büyüklüğe sahip bir alanı kaplıyor ve bu büyüklük, bölgenin doğal güzelliğini koruma altına almak için önemli bir fırsat sunuyor.
 

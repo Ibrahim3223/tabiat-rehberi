@@ -42,7 +42,7 @@ Balıkesir'in doğusunda yer alan Akkaya Dağı, 39.3472°K ve 28.3129°D koordi
 
 Doğal güzellikleri ve jeolojik yapısıyla dikkat çeken Akkaya Dağı, yaklaşık 1200 hektarlık bir alanı kaplamaktadır. Bu alan, Taksim Meydanı'nın yaklaşık 20 katı büyüklüğünde bir bölgeyi kaplar. Jeolojik açıdan bakıldığında, dağın yapısı kayalık ve dağlık arazilerden oluşmaktadır. Ancak, fiziksel verilerin sınırlı olması nedeniyle, dağın tam olarak boyutları ve şekli hakkında net bir bilgi bulunmamaktadır.
 
-Mevsimsel değişikliklere göre hava durumu değişen Akkaya Dağı, Ege Bölgesi'nin ılıman iklimini yansıtmaktadır. Kış aylarında soğukkanlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu iklim karakteri, bölgenin bitki örtüsü ve yaban hayatı için uygun koşullar sağlar.
+Mevsimsel değişikliklere göre hava durumu değişen Akkaya Dağı, Ege Bölgesi'nin ılıman iklimini yansıtmaktadır. Kış aylarında soğukkanlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu iklim karakteri, bölgenin bitki örtüsü ve yaban hayatı için uygun koşullar sağlar.
 
 Çevresel açıdan bakıldığında, Akkaya Dağı, komşu alanlar ve su kaynakları ile bağlantılı bir ekosistem içerisinde yer almaktadır. Dağın eteklerinde ve civarında çeşitli su kaynakları bulunmaktadır. Bu su kaynakları, bölgenin ekosistemini destekler ve yaban hayatının varlığını sürdürmesine yardımcı olur.
 

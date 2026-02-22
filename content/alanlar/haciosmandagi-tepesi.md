@@ -36,7 +36,7 @@ Hacıosmandağı Tepesi, yüzyıllar boyunca çeşitli medeniyetlerin etkilerini
 
 ## Coğrafya
 
-Hacıosmandağı Tepesi, Muğla'nın coğrafi olarak önemli bir noktasında yer alıyor. Ege Bölgesi'nin karakteristik coğrafi özellikleri, bu tepede de kendini gösteriyor. Tepenin etrafı, çeşitli bitki türleri ile kaplı ve zengin bir fauna sunuyor. Bölge, iklim olarak ılıman ve subtropikal characteristics arasında bir geçiş bölgesinde yer alıyor. Yaz ayları, sıca ve kurak olurken, kış ayları ılık ve yağışlı geçiyor. Hacıosmandağı Tepesi, deniz seviyesinden belirli bir yükseklikte yer alıyor ve bu yükseklik, bölgenin iklimini ve coğrafi yapısını etkiliyor. Tepenin zirvesinden, Ege Denizi'ne ve çevre bölgelere muhteşem manzaralar görme mümkün. Bu coğrafi konumu, Hacıosmandağı Tepesi'ni bir turizm merkezi haline getiriyor.
+Hacıosmandağı Tepesi, Muğla'nın coğrafi olarak önemli bir noktasında yer alıyor. Ege Bölgesi'nin karakteristik coğrafi özellikleri, bu tepede de kendini gösteriyor. Tepenin etrafı, çeşitli bitki türleri ile kaplı ve zengin bir fauna sunuyor. Bölge, iklim olarak ılıman ve subtropikal characteristics arasında bir geçiş bölgesinde yer alıyor. Yaz ayları, sıcak ve kurak olurken, kış ayları ılık ve yağışlı geçiyor. Hacıosmandağı Tepesi, deniz seviyesinden belirli bir yükseklikte yer alıyor ve bu yükseklik, bölgenin iklimini ve coğrafi yapısını etkiliyor. Tepenin zirvesinden, Ege Denizi'ne ve çevre bölgelere muhteşem manzaralar görme mümkün. Bu coğrafi konumu, Hacıosmandağı Tepesi'ni bir turizm merkezi haline getiriyor.
 
 ## Flora ve Fauna
 

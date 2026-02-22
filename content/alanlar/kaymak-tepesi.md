@@ -36,7 +36,7 @@ Kaymak Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmı�
 
 ## Coğrafya
 
-Kaymak Tepesi, coğrafi olarak oldukça dikkat çekici bir bölgededir. Doğu Anadolu Bölgesi'nin en yüksek noktalarından biri olan bu tepe, yaklaşık yüksek bir konumdatedir. Bu yükseklik, tepeyi ziyaret edenlerin bölgenin asını rahatça görmesini sağlamaktadır. Kaymak Tepesi, aynı zamanda çeşitli bitki türlerine de ev sahipliği yapmaktadır. Bu bitkiler, tepeye ren ve canlılık katmaktadır. Tepe, özellikle ilkbahar ve yaz aylarında, yeşilin çeşitli tonlarıyla ziyaretçilerini karşılamaktadır. Kış mevsiminde ise, tepeyi ziyaret edenler, karla kaplı bir manzara ile karşılaşmaktadır. Bu çeşitlilik, Kaymak Tepesi'ni her mevsim ziyaret edilebilir bir destinasyon haline getirmektedir.
+Kaymak Tepesi, coğrafi olarak oldukça dikkat çekici bir bölgededir. Doğu Anadolu Bölgesi'nin en yüksek noktalarından biri olan bu tepe, yüksek bir konumdadir. Bu yükseklik, tepeyi ziyaret edenlerin bölgenin asını rahatça görmesini sağlamaktadır. Kaymak Tepesi, aynı zamanda çeşitli bitki türlerine de ev sahipliği yapmaktadır. Bu bitkiler, tepeye ren ve canlılık katmaktadır. Tepe, özellikle ilkbahar ve yaz aylarında, yeşilin çeşitli tonlarıyla ziyaretçilerini karşılamaktadır. Kış mevsiminde ise, tepeyi ziyaret edenler, karla kaplı bir manzara ile karşılaşmaktadır. Bu çeşitlilik, Kaymak Tepesi'ni her mevsim ziyaret edilebilir bir destinasyon haline getirmektedir.
 
 ## Flora ve Fauna
 

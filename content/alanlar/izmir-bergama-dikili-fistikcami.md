@@ -30,7 +30,7 @@ wikidata_id: "Q108227619"
 
 ## Coğrafya
 
-İzmir-Bergama-Dikili Fistikcami, İç Anadolu Bölgesi'nin batı kesiminde yer almaktadır. Parkın coğrafi yapısı, dağlık ve engebeli arazilerden oluşmaktadır. Parkın deniz seviyesinden yüksekliği, 500 ila 1500 metre arasında değişmektedir. Parkın toplam alanı, 1200 hektara yakındır. Bu alan, yaklaşık 2.5 km uzunluğunda ve 0.5 km genişliğindeki bir alanı kaplamaktadır. Parkın iklimi, karasal iklimin característicasını taşımaktadır. Kış ayları soğu ve karlı, yaz ayları ise sıca ve kurudur. Parkın yıllık ortalama yağış miktarı, 600 mm'nin üzerindedir. Parkın coğrafi konumu, ziyaretçilere hem doğa yürüyüşleri hem de tarihi alanları keşfetme fırsatı sunar. Parkın yakınında, çeşitli tarihi kalıntılar ve arkeolojik sit alanları bulunmaktadır.
+İzmir-Bergama-Dikili Fistikcami, İç Anadolu Bölgesi'nin batı kesiminde yer almaktadır. Parkın coğrafi yapısı, dağlık ve engebeli arazilerden oluşmaktadır. Parkın deniz seviyesinden yüksekliği, 500 ila 1500 metre arasında değişmektedir. Parkın toplam alanı, 1200 hektara yakındır. Bu alan, yaklaşık 2.5 km uzunluğunda ve 0.5 km genişliğindeki bir alanı kaplamaktadır. Parkın iklimi, karasal iklimin característicasını taşımaktadır. Kış ayları soğuk ve karlı, yaz ayları ise sıcak ve kurudur. Parkın yıllık ortalama yağış miktarı, 600 mm'nin üzerindedir. Parkın coğrafi konumu, ziyaretçilere hem doğa yürüyüşleri hem de tarihi alanları keşfetme fırsatı sunar. Parkın yakınında, çeşitli tarihi kalıntılar ve arkeolojik sit alanları bulunmaktadır.
 
 ## Flora ve Fauna
 

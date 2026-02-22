@@ -37,7 +37,7 @@ Tezveren Şeyh Kamil Türbesi, tarihsel geçmişi ile dikkat çekmektedir. Tarih
 
 ## Coğrafya
 
-Tezveren Şeyh Kamil Türbesi, coğrafi olarak Ege Bölgesi'nin kıyı şeridinde yer almaktadır. Bu bölgenin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşmaktadır, ancak türbenin ve plajın bulunduğu alan, geniş ve düz bir kıyı şeridine sahiptir. İklim, genel olarak Akdeniz iklimi özellikleri göstermektedir; yani yazlar sıca ve kurak, kışlar ılıman ve yağışlı geçmektedir. Bu coğrafi konum ve iklim, hem plajın hem de türbenin etrafındaki bitki örtüsünün gelişimine katkıda bulunmaktadır. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu doğal güzellikler, ziyaretçilere huzurlu ve dinlendirici bir ortam sunmaktadır.
+Tezveren Şeyh Kamil Türbesi, coğrafi olarak Ege Bölgesi'nin kıyı şeridinde yer almaktadır. Bu bölgenin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşmaktadır, ancak türbenin ve plajın bulunduğu alan, geniş ve düz bir kıyı şeridine sahiptir. İklim, genel olarak Akdeniz iklimi özellikleri göstermektedir; yani yazlar sıcak ve kurak, kışlar ılıman ve yağışlı geçmektedir. Bu coğrafi konum ve iklim, hem plajın hem de türbenin etrafındaki bitki örtüsünün gelişimine katkıda bulunmaktadır. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu doğal güzellikler, ziyaretçilere huzurlu ve dinlendirici bir ortam sunmaktadır.
 
 ## Flora ve Fauna
 

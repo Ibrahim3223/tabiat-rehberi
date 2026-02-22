@@ -43,7 +43,7 @@ Gökyüzünden baktığımızda, Acı Göl Konya'nın orta kesiminde, 37.7128°K
 
 Doğal bir su kaynağı olan Acı Göl, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu küçük ama önemli su alanı, Konya'nın geniş ovalarında yer alan diğer göllerle benzerlik gösterir. Gölün şekli, jeolojik süreçlerin etkisiyle oluşmuş ve zamanla suyun dolmasıyla bugünkü haline ulaşmıştır. Acı Göl'ün etrafı, Konya'nın karakteristik step ve ova manzaralarıyla çevrilidir.
 
-İklimsel olarak, Acı Göl ve çevresi Konya'nın karasal ikliminin etkisi altındadır. Bu bölgede yazlar sıca ve kurak, kışlar ise soğu ve yağışlı geçer. Gölün su seviyesi, mevsimsel yağışlara bağlı olarak değişkenlik gösterir. Bahar aylarında yağan yağmurlar, gölün su seviyesini yükseltirken, yaz aylarında su seviyesi düşer.
+İklimsel olarak, Acı Göl ve çevresi Konya'nın karasal ikliminin etkisi altındadır. Bu bölgede yazlar sıcak ve kurak, kışlar ise soğuk ve yağışlı geçer. Gölün su seviyesi, mevsimsel yağışlara bağlı olarak değişkenlik gösterir. Bahar aylarında yağan yağmurlar, gölün su seviyesini yükseltirken, yaz aylarında su seviyesi düşer.
 
 Çevresel açıdan, Acı Göl Konya'nın doğal su kaynakları ağı içerisinde önemli bir yer tutar. Göl, bölgedeki diğer su kaynaklarıyla bağlantılıdır ve su dolaşımını sağlar. Acı Göl'ün komşu alanları, Konya'nın tarım arazileri ve doğal step alanlarıyla çevrilidir. Bu conexión, bölgenin ekosistemini zenginleştirir ve biyolojik çeşitliliğin korunmasına katkıda bulunur.
 

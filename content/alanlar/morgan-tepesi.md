@@ -37,7 +37,7 @@ Morgan Tepesi'nin tarihi geçmişi, İç Anadolu Bölgesi'nin zengin kültürel 
 
 ## Coğrafya
 
-Morgan Tepesi, İç Anadolu Bölgesi'nin coğrafi açıdan en ilgi çekici noktalarından biri. Bu tepe, yaklaşık 1000 metre yüksekliğe sahip ve bölgenin panoramik manzarasını sunuyor. Tepenin çevresi, çeşitli bitki türleriyle kaplı ve zengin bir flora sunuyor. İklim olarak, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir iklimi bulunuyor. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi ve iklimsel özellikler, Morgan Tepesi'ni benzersiz bir doğa deneyimi sunan bir destinasyon haline getiriyor. Ayrıca, tepe ve çevresindeki araziler, çeşitli jeolojik oluşumları da içeriyor.
+Morgan Tepesi, İç Anadolu Bölgesi'nin coğrafi açıdan en ilgi çekici noktalarından biri. Bu tepe, yaklaşık 1000 metre yüksekliğe sahip ve bölgenin panoramik manzarasını sunuyor. Tepenin çevresi, çeşitli bitki türleriyle kaplı ve zengin bir flora sunuyor. İklim olarak, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir iklimi bulunuyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi ve iklimsel özellikler, Morgan Tepesi'ni benzersiz bir doğa deneyimi sunan bir destinasyon haline getiriyor. Ayrıca, tepe ve çevresindeki araziler, çeşitli jeolojik oluşumları da içeriyor.
 
 ## Flora ve Fauna
 

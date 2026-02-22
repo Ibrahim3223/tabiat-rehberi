@@ -36,7 +36,7 @@ Kuluncak Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetler
 
 ## Coğrafya
 
-Kuluncak Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölgede yer alıyor. Tepenin yüksekliği 1400 metre, eteklerinde ise çeşitli bitki türleri ve zengin fauna found. Bölge, kayalık ve dağlık bir araziye sahip ve ziyaretçilere geniş bir manzara sunuyor. Tepenin etrafında, çeşitli akarsular ve göller bulunmakta ve bu su kaynakları, bölgenin ekolojisini desteklemekte önemli bir rol oynuyor. İç Anadolu Bölgesi'nin karakteristik iklim şartlarına sahip olan Kuluncak Tepesi, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve karlı bir iklim sunuyor. Bu coğrafi özellikler, tepenin etrafındaki bitki ve hayvan türlerinin çeşitliliğini ve zenginliğini etkiliyor.
+Kuluncak Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölgede yer alıyor. Tepenin yüksekliği 1400 metre, eteklerinde ise çeşitli bitki türleri ve zengin fauna found. Bölge, kayalık ve dağlık bir araziye sahip ve ziyaretçilere geniş bir manzara sunuyor. Tepenin etrafında, çeşitli akarsular ve göller bulunmakta ve bu su kaynakları, bölgenin ekolojisini desteklemekte önemli bir rol oynuyor. İç Anadolu Bölgesi'nin karakteristik iklim şartlarına sahip olan Kuluncak Tepesi, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı bir iklim sunuyor. Bu coğrafi özellikler, tepenin etrafındaki bitki ve hayvan türlerinin çeşitliliğini ve zenginliğini etkiliyor.
 
 ## Flora ve Fauna
 

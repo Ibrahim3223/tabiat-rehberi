@@ -36,7 +36,7 @@ Elmakırı Tepesi'nin tarihi geçmişi oldukça zengin. Bu bölge, yüzyıllar b
 
 ## Coğrafya
 
-Elmakırı Tepesi, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak oldukça çeşitli. Tepenin etrafında ovalar ve dağlar bulunmakta ve bu da ziyaretçilere farklı manzaralar sunuyor. Elmakırı Tepesi, 140 hektarlık bir alanı kaplıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin zirvesinden bakıldığında, manzara oldukça etkileyici. Tepenin etrafında bulunan ovalar ve dağlar, ziyaretçilere doğa yürüyüşü gibi aktiviteleri yapma imkanı sunuyor. Elmakırı Tepesi'nin iklimi, genel olarak Akdeniz iklimi özellikleri gösteriyor. Bu bölge, yazları sıca ve kurak, kışları ılık ve yağışlı geçiyor.
+Elmakırı Tepesi, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak oldukça çeşitli. Tepenin etrafında ovalar ve dağlar bulunmakta ve bu da ziyaretçilere farklı manzaralar sunuyor. Elmakırı Tepesi, 140 hektarlık bir alanı kaplıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin zirvesinden bakıldığında, manzara oldukça etkileyici. Tepenin etrafında bulunan ovalar ve dağlar, ziyaretçilere doğa yürüyüşü gibi aktiviteleri yapma imkanı sunuyor. Elmakırı Tepesi'nin iklimi, genel olarak Akdeniz iklimi özellikleri gösteriyor. Bu bölge, yazları sıcak ve kurak, kışları ılık ve yağışlı geçiyor.
 
 ## Flora ve Fauna
 

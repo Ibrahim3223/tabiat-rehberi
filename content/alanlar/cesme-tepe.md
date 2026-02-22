@@ -45,7 +45,7 @@ Coğrafi konumu itibariyle, Çeşme Tepe 37.8292°K ve 41.3175°D koordinatları
 
 Fiziksel yapısı hakkında fazla bilgi olmasa da, Çeşme Tepe'nin bulunduğu bölgenin jeolojik özellikleri lidir. Bu bölgede, genellikle kalker ve şist gibi kayalar görülmektedir. Çeşme Tepe, bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Bu büyüklük, bir birkaç olimpik havuz kadar bir alanı kaplayabileceği anlamına gelmektedir.
 
-İklim karakteri açısından, Çeşme Tepe'nin bulunduğu bölgenin mevsimsel özelliklerine bakıldığında, genellikle karasal iklim özellikleri görülmektedir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu iklim özellikleri, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
+İklim karakteri açısından, Çeşme Tepe'nin bulunduğu bölgenin mevsimsel özelliklerine bakıldığında, genellikle karasal iklim özellikleri görülmektedir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu iklim özellikleri, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
 
 Doğal çevre açısından, Çeşme Tepe'nin bulunduğu bölgenin komşu alanları genellikle ormanlık ve dağlık arazilerdir. Bu bölgede, çeşitli su kaynakları da bulunmaktadır. Bu su kaynakları, bölgenin ekosistem bağlantılarını sağlamaktadır. Çeşme Tepe, Monaco'nun çok küçük bir bölümü kadar bir alanı kaplayacak büyüklükte bir dağdır. Bu büyüklük, İstanbul'un Adalar ilçesi büyüklüğünden çok daha küçüktür.
 

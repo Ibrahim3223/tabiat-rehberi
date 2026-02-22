@@ -40,7 +40,7 @@ Kirazlıyayla Tepesi, Erzurum'un coğrafi yapısını oluşturan dağlık ve eng
 
 ## Flora ve Fauna
 
-Kirazlıyayla Tepesi, çeşitli bitki türlerine ev sahipliği yapar. Bu bitkiler, mevsimsel değişimlere göre farklılık gösterir. İlkbahar ve yaz aylarında, tepenin etrafı yeşillenir ve çiçekler açar. Sonbahar ve kış aylarında ise, bölgenin iklimi soğu ve karlı olur. Kirazlıyayla Tepesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapar. Bu hayvanlar, bölgenin ekolojik dengesini korur ve doğal güzelliklerini zenginleştirir.
+Kirazlıyayla Tepesi, çeşitli bitki türlerine ev sahipliği yapar. Bu bitkiler, mevsimsel değişimlere göre farklılık gösterir. İlkbahar ve yaz aylarında, tepenin etrafı yeşillenir ve çiçekler açar. Sonbahar ve kış aylarında ise, bölgenin iklimi soğuk ve karlı olur. Kirazlıyayla Tepesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapar. Bu hayvanlar, bölgenin ekolojik dengesini korur ve doğal güzelliklerini zenginleştirir.
 
 ## Ziyaret Bilgileri
 

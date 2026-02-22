@@ -37,7 +37,7 @@ Karababa Tepesi'nin tarihi geçmişi, bölgenin yerleşim tarihine kadar uzanır
 
 ## Coğrafya
 
-Karababa Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer alır ve bu bölgenin coğrafi özelliklerini taşır. Tepenin yüksekliği, bölgenin genel coğrafi yapısına uygun olarak, geniş bir manzara sunar. Bu manzara, özellikle gün batımında görkemli bir hal alır. Tepenin etrafı, çeşitli bitki türleriyle kaplıdır ve bu bitkiler, mevsimsel değişimlere göre ren ve yapraklarını değiştirir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal bir yapıya sahiptir. Kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçer. Bahar ve sonbahar mevsimlerinde ise ılıman bir hava hakimdir. Bu coğrafi ve iklimsel özellikler, Karababa Tepesi'ni ziyaretçilere çeşitli deneyimler sunar.
+Karababa Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer alır ve bu bölgenin coğrafi özelliklerini taşır. Tepenin yüksekliği, bölgenin genel coğrafi yapısına uygun olarak, geniş bir manzara sunar. Bu manzara, özellikle gün batımında görkemli bir hal alır. Tepenin etrafı, çeşitli bitki türleriyle kaplıdır ve bu bitkiler, mevsimsel değişimlere göre ren ve yapraklarını değiştirir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal bir yapıya sahiptir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçer. Bahar ve sonbahar mevsimlerinde ise ılıman bir hava hakimdir. Bu coğrafi ve iklimsel özellikler, Karababa Tepesi'ni ziyaretçilere çeşitli deneyimler sunar.
 
 ## Flora ve Fauna
 

@@ -42,7 +42,7 @@ Güneybatı Anadolu'nun dağlık coğrafyasında yer alan Kumukalan Dağı, Burd
 
 Jeolojik açıdan bakıldığında, Kumukalan Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bu dağların genellikle bölgenin tektonik aktivitesinin bir sonucu olarak oluştuğu biliniyor. Bu dağlar, genellikle bir şehir bloğu büyüklüğünde olan küçük alanlardan oluşuyor ve yerel ekosistemi etkileyen önemli coğrafi özelliklere sahip.
 
-İklim açısından, Kumukalan Dağı ve çevresinin karakteri, Akdeniz ikliminin özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkiliyor ve yerel tarım faaliyetlerini şekillendiriyor.
+İklim açısından, Kumukalan Dağı ve çevresinin karakteri, Akdeniz ikliminin özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkiliyor ve yerel tarım faaliyetlerini şekillendiriyor.
 
 Çevresel açıdan, Kumukalan Dağı, Burdur Gölü gibi önemli su kaynaklarına yakın bir konumda bulunuyor. Bu dağlar, bölgenin su döngüsünü etkileyen önemli bir faktör ve yerel ekosistemin dengesini koruyor. Kumukalan Dağı, Monaco'nun yarısı kadar büyük olmayan bir alan üzerinde yer alıyor, ancak bölgenin coğrafi çeşitliliğini ve doğal güzelliklerini koruma açısından önemli bir role sahip.
 

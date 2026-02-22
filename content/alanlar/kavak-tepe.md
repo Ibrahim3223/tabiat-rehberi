@@ -45,7 +45,7 @@ Güneydoğu Anadolu Bölgesi'nin en güzel köşelerinden biri olan Hatay, coğr
 
 Doğal güzellikleri ile ön plana çıkan Kavak Tepe, coğrafi olarak ilginç bir yapıya sahiptir. Birkaç olimpik havuz kadar bir alanı kaplayan bu tepe, Hatay'ın coğrafi çeşitliliğini göstermesi açısından önemlidir. Jeolojik olarak incelendiğinde, bu bölgenin Türkiye'nin genel jeolojik yapısına benzerlik gösterdiği görülür.
 
-İklimsel olarak incelendiğinde, Kavak Tepe'nin Akdeniz ikliminin karakteristik özelliklerini taşıdığı görülür. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler.
+İklimsel olarak incelendiğinde, Kavak Tepe'nin Akdeniz ikliminin karakteristik özelliklerini taşıdığı görülür. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler.
 
 Kavak Tepe, çevresindeki doğal güzelliklere de ev sahipliği yapar. Monaco'nun çok küçük bir bölümü kadar bir alanı kaplayan bu tepe, çevresindeki su kaynakları ve ekosistem bağlantıları ile önemli bir doğal yaşam alanıdır. Bu bölgede, çeşitlilik gösteren flora ve fauna, Kavak Tepe'nin doğal güzelliklerini daha da ön plana çıkarır.
 

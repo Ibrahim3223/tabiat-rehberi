@@ -42,7 +42,7 @@ Güneydeki dağ silsilesinin bir parçası olan Yalama Dağı, Antalya'nın coğ
 
 Doğal güzellikleri ve coğrafi özellikleri ile dikkat çeken Yalama Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Bu küçük ama önemli alan, bölgenin ekosistemini destekleyen çeşitli bitki ve hayvan türlerine ev sahipliği yapmaktadır. Yüksekliği Eiffel Kulesi'nin yaklaşık 1/3'ü kadar olan Yalama Dağı, çevresindeki vadilerle birlikte bir bütün olarak değerlendirilmelidir.
 
-Mevsimsel değişikliklere bağlı olarak Yalama Dağı'nın iklimi, yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlıdır. Bu iklimsel özellikler, bölgenin bitki örtüsünü ve fauna çeşitliliğini etkilemektedir. Yalama Dağı, çevresindeki su kaynakları ve ekosistem bağlantıları ile birlikte bir bütün olarak değerlendirilmelidir.
+Mevsimsel değişikliklere bağlı olarak Yalama Dağı'nın iklimi, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlıdır. Bu iklimsel özellikler, bölgenin bitki örtüsünü ve fauna çeşitliliğini etkilemektedir. Yalama Dağı, çevresindeki su kaynakları ve ekosistem bağlantıları ile birlikte bir bütün olarak değerlendirilmelidir.
 
 Bölgenin coğrafi yapısı, Yalama Dağı'nın çevresindeki diğer dağlar ve vadilerle birlikte bir bütünü oluşturmaktadır. Bu dağ, Monaco'nun yaklaşık 1/10'u kadar bir alanı kaplamaktadır ve çevresindeki su kaynakları ile birlikte bölgenin ekosistemini desteklemektedir. Yalama Dağı, Antalya'nın doğal güzellikleri arasında önemli bir yere sahiptir ve çevresindeki diğer coğrafi oluşumlarla birlikte bir bütün olarak değerlendirilmelidir.
 

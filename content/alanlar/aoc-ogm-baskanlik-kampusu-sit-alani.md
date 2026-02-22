@@ -30,7 +30,7 @@ AOÇ OGM Başkanlık Kampüsü Sit Alanı'nın tarihi geçmişi, yüzyıllar boy
 
 ## Coğrafya
 
-AOÇ OGM Başkanlık Kampüsü Sit Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, genellikle step ikliminin hakim olduğu bir bölgedir. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve kar yağışlı passedir. Sit alanı, yemyeşil ağaçlar, çayırlar ve çeşitli bitki türleriyle kaplıdır. Coğrafi yapısı, ziyaretçilere geniş bir gezi alanı sunuyor. AOÇ OGM Başkanlık Kampüsü Sit Alanı, aynı zamanda bir su kaynağına da ev sahipliği yapıyor ve bu su kaynağı, bölgenin ekolojik dengesini koruyor. Bu su kaynağının etrafında, çeşitli hayvan türleri de yaşamını sürdürüyor.
+AOÇ OGM Başkanlık Kampüsü Sit Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, genellikle step ikliminin hakim olduğu bir bölgedir. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve kar yağışlı pasiftir. Sit alanı, yemyeşil ağaçlar, çayırlar ve çeşitli bitki türleriyle kaplıdır. Coğrafi yapısı, ziyaretçilere geniş bir gezi alanı sunuyor. AOÇ OGM Başkanlık Kampüsü Sit Alanı, aynı zamanda bir su kaynağına da ev sahipliği yapıyor ve bu su kaynağı, bölgenin ekolojik dengesini koruyor. Bu su kaynağının etrafında, çeşitli hayvan türleri de yaşamını sürdürüyor.
 
 ## Flora ve Fauna
 

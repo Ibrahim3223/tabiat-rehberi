@@ -42,7 +42,7 @@ Mersin'in dağlık arazisinde yer alan Gürüz Dağı, 36.9076°K ve 34.3266°D 
 
 Doğal güzellikleriyle dikkat çeken Gürüz Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu büyüklük, coğrafi olarak dağlık bir arazide yer almasına rağmen, nispeten küçük bir alan olarak dikkat çeker. Gürüz Dağı'nın fiziksel yapısı, Mersin'in genel jeolojik yapısına benzer şekilde, kireçtaşı ve kil gibi farklı türdeki kayaçlardan oluşur. Bu jeolojik yapı, bölgenin coğrafi oluşumunu ve doğal güzelliklerini şekillendirmiştir.
 
-Yıllık hava durumu verilerine bakıldığında, Gürüz Dağı'nın iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir iklim hüküm sürer. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler ve dağların ekosistemine şekil verir.
+Yıllık hava durumu verilerine bakıldığında, Gürüz Dağı'nın iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir iklim hüküm sürer. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler ve dağların ekosistemine şekil verir.
 
 Gürüz Dağı, çevresindeki diğer coğrafi oluşumlarla da önemli bir ilişkiye sahiptir. Dağ, komşu vadilerin ve ovaların su kaynaklarına katkıda bulunur ve bölgenin ekosistem bağlantılarını güçlendirir. Bu doğal bağlantılar, Gürüz Dağı'nın çevresel önemini vurgular ve bölgenin korunmasına yönelik çabalara ışık tutar.
 

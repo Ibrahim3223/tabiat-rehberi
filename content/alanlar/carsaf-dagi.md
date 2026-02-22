@@ -44,7 +44,7 @@ Konya'nın coğrafi zenginliklerine bir yenisi daha ekleniyor: Çarşaf Dağı. 
 
 Doğal güzellikleri ve coğrafi konumunu değerlendirdiğimizde, Çarşaf Dağı'nın boyutları ve şekli dikkat çekiyor. Ne yazık ki, detaylı fiziksel veriler bulunmuyor, ancak koordinatlarından yola çıkarak, bu dağın Monaco'nun yarısı kadar bir alanı kaplayabileceğini varsayabiliriz. Jeolojik açıdan incelendiğinde, Çarşaf Dağı'nın yapısı ve oluşumu hakkında dahalı bilgiye ihtiyaç duyuluyor.
 
-Mevsimsel değişimlerin etkisi altında kalan Çarşaf Dağı, iklim karakteri bakımından ilgi çekici bir bölge. Konya'nın genel iklimine benzer şekilde, burada da yazlar sıca ve kurak, kışlar ise soğu ve kar yağışlı geçiyor. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı tepe noktaları, dağın yükseklik açısından çeşitlilik gösterdiğini gösteriyor.
+Mevsimsel değişimlerin etkisi altında kalan Çarşaf Dağı, iklim karakteri bakımından ilgi çekici bir bölge. Konya'nın genel iklimine benzer şekilde, burada da yazlar sıcak ve kurak, kışlar ise soğuk ve kar yağışlı geçiyor. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı tepe noktaları, dağın yükseklik açısından çeşitlilik gösterdiğini gösteriyor.
 
 Çevresel açıdan bakıldığında, Çarşaf Dağı'nın komşu alanlar ve su kaynakları ile olan ilişkisi önemli bir rol oynuyor. Taksim Meydanı'nın 10 katı büyüklüğünde bir alanı kaplayan bu dağ, etrafındaki ekosistemi etkileyen bir faktör olarak görülüyor. Su kaynakları ve tarım alanları ile bağlantılı olarak, Çarşaf Dağı'nın çevresel ilişkileri, bölgenin doğal dengesini koruma açısından kritik bir öneme sahip.
 

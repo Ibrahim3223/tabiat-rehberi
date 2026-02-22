@@ -37,7 +37,7 @@ Hıdvaraliyo Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Hıdvaraliyo Tepesi, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumunda yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve tepeye tırmanmak ziyaretçilere bölgeyi panoramik olarak izleme fırsatı sunar. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunur. Bölge, karasal iklimin hakim olduğu bir bölgedir. Kış ayları soğu ve karlı, yaz ayları ise sıcak ve kurudur. Hıdvaraliyo Tepesi, özellikle ilkbahar ve sonbahar aylarında ziyaret edilmeye değer bir destinasyondur. Bu mevsimlerde, tepe ve çevresindeki manzaralar daha yeşil ve canlıdır. Tepenin coğrafi konumu, ziyaretçilerin bölgeyi keşfetmeleri için idealdir. Ziyaretçiler, tepeye tırmanarak bölgenin güzelliğini keşfedebilir ve aynı zamanda çevredeki diğer turistik noktaları da ziyaret edebilirler.
+Hıdvaraliyo Tepesi, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumunda yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve tepeye tırmanmak ziyaretçilere bölgeyi panoramik olarak izleme fırsatı sunar. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunur. Bölge, karasal iklimin hakim olduğu bir bölgedir. Kış ayları soğuk ve karlı, yaz ayları ise sıcak ve kurudur. Hıdvaraliyo Tepesi, özellikle ilkbahar ve sonbahar aylarında ziyaret edilmeye değer bir destinasyondur. Bu mevsimlerde, tepe ve çevresindeki manzaralar daha yeşil ve canlıdır. Tepenin coğrafi konumu, ziyaretçilerin bölgeyi keşfetmeleri için idealdir. Ziyaretçiler, tepeye tırmanarak bölgenin güzelliğini keşfedebilir ve aynı zamanda çevredeki diğer turistik noktaları da ziyaret edebilirler.
 
 ## Flora ve Fauna
 

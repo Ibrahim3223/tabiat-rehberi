@@ -37,7 +37,7 @@ wikidata_id: "Q131391303"
 
 ## Coğrafya
 
-Şeyh Erzurumi Türbesi, Sivas ilinin merkezinde yer almaktadır. Türbe, şehrin kalabalığından uzakta, yeşil bir alanda bulunmaktadır. Çevre, çeşitli ağaç türleri ile süslenmiş ve piknik için uygun bir ortam sunmaktadır. Şeyh Erzurumi Türbesi, Sivas'ın coğrafi yapısına uygun olarak, dağlık ve engebeli bir arazide yer almaktadır. Türbenin bulunduğu bölge, Sivas'ın iklimine uygun olarak, kışları soğu ve yazları sıcak bir iklime sahiptir. Şeyh Erzurumi Türbesi, Sivas'ın güzelliklerini keşfetmek isteyenler için ideal bir noktadır. Türbe, şehre gelen ziyaretçiler için, Sivas'ın tarihi ve doğasını keşfetmeye başlangıç noktası olabilir.
+Şeyh Erzurumi Türbesi, Sivas ilinin merkezinde yer almaktadır. Türbe, şehrin kalabalığından uzakta, yeşil bir alanda bulunmaktadır. Çevre, çeşitli ağaç türleri ile süslenmiş ve piknik için uygun bir ortam sunmaktadır. Şeyh Erzurumi Türbesi, Sivas'ın coğrafi yapısına uygun olarak, dağlık ve engebeli bir arazide yer almaktadır. Türbenin bulunduğu bölge, Sivas'ın iklimine uygun olarak, kışları soğuk ve yazları sıcak bir iklime sahiptir. Şeyh Erzurumi Türbesi, Sivas'ın güzelliklerini keşfetmek isteyenler için ideal bir noktadır. Türbe, şehre gelen ziyaretçiler için, Sivas'ın tarihi ve doğasını keşfetmeye başlangıç noktası olabilir.
 
 ## Flora ve Fauna
 

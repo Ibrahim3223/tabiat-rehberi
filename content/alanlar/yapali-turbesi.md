@@ -37,7 +37,7 @@ Yapalı Türbesi, tarihi geçmişi ile önemli bir kültürel miras olarak kabul
 
 ## Coğrafya
 
-Yapalı Türbesi, Konya'nın Cihanbeyli ilçesinde bulunuyor. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Burada, genellikle step iklimi hüküm sürüyor. Step iklimi, sıca ve kurak yazlar ile soğu ve karlı kışlar karakterizing. Yapalı Türbesi, coğrafi olarak yüksek bir konumdate bulunuyor. Burada, genellikle bozkır bitkileri ve ağaçlar bulunuyor. Bu bölge, flora ve fauna açısından zengin bir çeşitliliğe sahip. Yapalı Türbesi, ziyaretçiler için bir gezi ve öğrenme kaynağı olarak hizmet veriyor. Burada, çeşitli coğrafi oluşumlar ve doğal güzellikler bulunuyor.
+Yapalı Türbesi, Konya'nın Cihanbeyli ilçesinde bulunuyor. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Burada, genellikle step iklimi hüküm sürüyor. Step iklimi, sıcak ve kurak yazlar ile soğuk ve karlı kışlar karakterizing. Yapalı Türbesi, coğrafi olarak yüksek bir konumdate bulunuyor. Burada, genellikle bozkır bitkileri ve ağaçlar bulunuyor. Bu bölge, flora ve fauna açısından zengin bir çeşitliliğe sahip. Yapalı Türbesi, ziyaretçiler için bir gezi ve öğrenme kaynağı olarak hizmet veriyor. Burada, çeşitli coğrafi oluşumlar ve doğal güzellikler bulunuyor.
 
 ## Flora ve Fauna
 

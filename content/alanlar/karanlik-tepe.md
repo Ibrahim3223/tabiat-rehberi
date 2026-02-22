@@ -37,7 +37,7 @@ Karanlık Tepe'nin tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. Bu te
 
 ## Coğrafya
 
-Karanlık Tepe, Doğu Anadolu Bölgesi'nin Kars ilinde yer alan bir tepe olarak coğrafi açıdan önemli bir konuma sahiptir. Tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsamaktadır. Coğrafi olarak, tepe'nin etrafı dağlar ve ovalarla çevrilidir. İklimi, bölgenin genel iklimine uygun olarak karasal iklim özellikleri göstermektedir. Yaz ayları sıca ve kurak, kış ayları soğu ve kar yağışlı geçmektedir. Tepe'nin coğrafi yapısı, çeşitli bitki türleri ve hayvanların yaşamasına elverişli bir ortam sunmaktadır.
+Karanlık Tepe, Doğu Anadolu Bölgesi'nin Kars ilinde yer alan bir tepe olarak coğrafi açıdan önemli bir konuma sahiptir. Tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsamaktadır. Coğrafi olarak, tepe'nin etrafı dağlar ve ovalarla çevrilidir. İklimi, bölgenin genel iklimine uygun olarak karasal iklim özellikleri göstermektedir. Yaz ayları sıcak ve kurak, kış ayları soğuk ve kar yağışlı geçmektedir. Tepe'nin coğrafi yapısı, çeşitli bitki türleri ve hayvanların yaşamasına elverişli bir ortam sunmaktadır.
 
 ## Flora ve Fauna
 

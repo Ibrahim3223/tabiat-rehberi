@@ -42,7 +42,7 @@ Gözlerimizi Çorum'un dağlık manzaralarına çevirerek, Yergen Dağı'nın ko
 
 Jeolojik açıdan bakıldığında, Yergen Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bu bölgenin genel coğrafyası, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu dağlık alanın boyutları, yaklaşık bir şehir bloğu büyüklüğünde düşünülse de, gerçek boyutu hakkında net bir veri bulunmuyor. Ancak, bu bölgenin coğrafi yapısı, genellikle engebeli ve dalgalı arazilerle karakterize ediliyor.
 
-İklim açısından, Yergen Dağı ve çevresinin karakteri, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor. Bu bölgede, kışlar soğu ve kar yağışlı, yazlar ise sıca ve kurak geçiyor. Mevsimsel değişimler, bu bölgenin flora ve fauna'sını etkiliyor. Yergen Dağı'nın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte değil, ancak bu dağlık alanın gerçek yüksekliği hakkında net bir veri bulunmuyor.
+İklim açısından, Yergen Dağı ve çevresinin karakteri, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor. Bu bölgede, kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Mevsimsel değişimler, bu bölgenin flora ve fauna'sını etkiliyor. Yergen Dağı'nın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte değil, ancak bu dağlık alanın gerçek yüksekliği hakkında net bir veri bulunmuyor.
 
 Doğal kaynaklar açısından, Yergen Dağı'nın çevresi, su kaynakları ve ekosistem bağlantıları açısından zengin bir coğrafyada yer alıyor. Bu bölgede, çeşitli akarsular ve dereler, dağlık alanın eteklerinde yer alan köy ve kasabaları besliyor. Yergen Dağı, çevresindeki diğer dağlık alanlarla birlikte, bir ekosistem ağı oluşturuyor ve bu bölgenin flora ve fauna'sını desteklıyor.
 

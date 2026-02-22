@@ -38,7 +38,7 @@ Bayezid-i Bestami Türbesi, yüzyıllar boyunca önemli bir dini ve kültürel m
 
 ## Coğrafya
 
-Bayezid-i Bestami Türbesi, Hatay'ın Kırıkhan ilçesinde, İç Anadolu Bölgesi'nde yer alıyor. Türbenin bulunduğu alan, coğrafi olarak çeşitli bitki türleri ve zengin fauna bulunan bir doğa alanı olarak dikkat çekiyor. Bu bölgede, çeşitli iklim koşulları hüküm sürüyor. Kış ayları genellikle soğu ve yağışlı geçerken, yaz ayları sıca ve kurak oluyor. Türbenin etrafındaki doğa alanı, mevsimsel değişimlere göre farklı bir güzelliğe sahip oluyor. Bahar aylarında, çeşitli bitki türleri ve çiçekler açarken, yaz aylarında yeşil bir görünüm sergiliyor. Kış aylarında, genellikle kar yağışı görülüyor ve türbe, karlar altında bir güzelliğe sahip oluyor.
+Bayezid-i Bestami Türbesi, Hatay'ın Kırıkhan ilçesinde, İç Anadolu Bölgesi'nde yer alıyor. Türbenin bulunduğu alan, coğrafi olarak çeşitli bitki türleri ve zengin fauna bulunan bir doğa alanı olarak dikkat çekiyor. Bu bölgede, çeşitli iklim koşulları hüküm sürüyor. Kış ayları genellikle soğuk ve yağışlı geçerken, yaz ayları sıcak ve kurak oluyor. Türbenin etrafındaki doğa alanı, mevsimsel değişimlere göre farklı bir güzelliğe sahip oluyor. Bahar aylarında, çeşitli bitki türleri ve çiçekler açarken, yaz aylarında yeşil bir görünüm sergiliyor. Kış aylarında, genellikle kar yağışı görülüyor ve türbe, karlar altında bir güzelliğe sahip oluyor.
 
 ## Flora ve Fauna
 

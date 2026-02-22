@@ -43,7 +43,7 @@ Türkiye'de doğal tuzlalar, insan yaşamı için önemli kaynaklar olarak histo
 
 Doğal güzelliklerinin yanı sıra, Çamaltı Tuzlası'nın fiziksel yapısı da oldukça ilgi çekici. Veriler sınırlı olsa da, bu alanın jeolojik özellikleri ve tuzlake özgü yapısı, ziyaretçilerini etkiliyor. Çamaltı Tuzlası, bir şehir bloğu büyüklüğünde bir alanı kaplıyor ve bu küçük ama önemli bölge, İzmir'in doğal mirasının önemli bir parçasını oluşturuyor.
 
-İklim karakteri açısından bakıldığında, Çamaltı Tuzlası, Ege Bölgesi'nin tipik Akdeniz ikliminin etkilerini taşıyor. Yaz aylarında sıca ve kuru, kış aylarında ise ılıman ve yağışlı bir hava hakim. Bu mevsimsel özellikler, tuzla ve çevresinde bulunan bitki ve hayvan türlerinin çeşitliliğini etkiliyor.
+İklim karakteri açısından bakıldığında, Çamaltı Tuzlası, Ege Bölgesi'nin tipik Akdeniz ikliminin etkilerini taşıyor. Yaz aylarında sıcak ve kuru, kış aylarında ise ılıman ve yağışlı bir hava hakim. Bu mevsimsel özellikler, tuzla ve çevresinde bulunan bitki ve hayvan türlerinin çeşitliliğini etkiliyor.
 
 Çevresel ilişkiler açısından, Çamaltı Tuzlası, komşu alanlarla ve su kaynaklarıyla önemli bir bağlantıya sahip. İzmir Körfezi'ne yakın konumu, bu bölgenin ekosistem bağlantılarını zenginleştiriyor. Çamaltı Tuzlası, doğal güzellikleri ve jeolojik özellikleri ile birlikte, İzmir'in önemli bir turizm ve doğa alanı olarak dikkat çekiyor.
 

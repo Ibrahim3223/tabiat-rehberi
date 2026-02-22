@@ -46,7 +46,7 @@ Güneybatı Anadolu'nun kalbinde yer alan Karakuş Dağları, 38.2525°K, 30.667
 
 Jeolojik açıdan bakıldığında, Karakuş Dağları'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, genel olarak dağlık bir bölge olduğu söylenebilir. Bu dağlık alan, Beşiktaş ilçesi kadar geniş bir alanı kaplamıyor, ancak Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor. Dağların yüksekliği Eiffel Kulesi'nin birkaç katı yükseklikte değil, ancak 85 katlı bir gökdelen kadar yükseklikte olduğu düşünülüyor.
 
-Mevsimsel açıdan bakıldığında, Karakuş Dağları'nın iklim karakteri oldukça değişkenlik gösteriyor. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir hava durumu sergiliyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor.
+Mevsimsel açıdan bakıldığında, Karakuş Dağları'nın iklim karakteri oldukça değişkenlik gösteriyor. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir hava durumu sergiliyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor.
 
 Çevresel açıdan bakıldığında, Karakuş Dağları'nın komşu alanlar ve su kaynakları ile önemli bir bağlantısı bulunuyor. Bölge, Monaco'nun yarısı kadar büyük bir alanı kaplamıyor, ancak İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplıyor. Bu dağlık alan, bölgedeki ekosistem bağlantılarını şekillendiren önemli bir unsur olarak dikkat çekiyor.
 

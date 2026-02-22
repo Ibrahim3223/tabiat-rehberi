@@ -45,7 +45,7 @@ Gökyüzünden bakıldığında, Çatal Tepe'nin konumu İstanbul'un kuzeybatı 
 
 Doğal bir platform olarak, Çatal Tepe'nin fiziksel yapısı hakkında kesin bilgiler olmasa da, koordinatlarından hareketle, bu bölgenin bir şehir bloğu büyüklüğünde bir alanı kapladığı söylenebilir. Ancak, tam boyutları ve şekli hakkında net bir bilgi bulunmuyor. Jeolojik açıdan, İstanbul'un genel coğrafyası gibi, Çatal Tepe'nin de kayaç ve toprak yapısı hakkında detaylı bilgiye ihtiyaç duyuluyor.
 
-Mevsimsel değişimler açısından, Çatal Tepe'nin iklim karakteri İstanbul'un genel iklimine benzerlik gösteriyor. İlkbahar ve sonbahar aylarında ılıman bir hava hakimken, kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve nemli bir hava görülüyor. Bu mevsimsel özellikler, Çatal Tepe'nin bitki örtüsü ve ekosistemi üzerinde önemli bir etkiye sahip.
+Mevsimsel değişimler açısından, Çatal Tepe'nin iklim karakteri İstanbul'un genel iklimine benzerlik gösteriyor. İlkbahar ve sonbahar aylarında ılıman bir hava hakimken, kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve nemli bir hava görülüyor. Bu mevsimsel özellikler, Çatal Tepe'nin bitki örtüsü ve ekosistemi üzerinde önemli bir etkiye sahip.
 
 Çevresel açıdan, Çatal Tepe'nin komşu alanlar ve su kaynakları ile olan ilişkisi önemli. İstanbul'un su kaynaklarına yakın bir konumda bulunması, bu bölgenin ekosistem bağlantıları açısından değerini artırıyor. Ancak, tam olarak hangi su kaynaklarına yakın olduğu ve nasıl bir ekosistem bağlantısı içerisinde olduğu hakkında daha detaylı bilgiye ihtiyaç duyuluyor.
 

@@ -44,7 +44,7 @@ Genel olarak Akdeniz Bölgesi'nin coğrafi yapısına baktığımızda, Sivri Da
 
 Doğal güzellikleri ile ön plana çıkan Sivri Dağı, coğrafi olarak yaklaşık Monaco'nun yarısı kadar bir alanı kaplar. Bu büyüklük, Taksim Meydanı'nın birkaç katı büyüklüğüne eşittir. Fiziksel yapısı itibariyle Sivri Dağı, bölgenin jeolojik yapısını da yansıtır. Dağın yüksekliği Eiffel Kulesi'nin birkaç katı yükseklikte olup, 85 katlı bir gökdelen kadar yükseklikte değildir ancak bölgenin en yüksek noktalarından biridir.
 
-İklim karakteri açısından Sivri Dağı, Akdeniz ikliminin tipik özelliklerini taşır. Yaz aylarında sıca ve khô, kış aylarında ise ılıman ve yağışlı bir hava hakimdir. Mevsimsel olarak bakıldığında, Sivri Dağı'nın iklimi çevredeki alanlara göre benzerlik gösterir. Hava durumu ise bölgenin coğrafi yapısına göre değişkenlik gösterir.
+İklim karakteri açısından Sivri Dağı, Akdeniz ikliminin tipik özelliklerini taşır. Yaz aylarında sıcak ve kuru, kış aylarında ise ılıman ve yağışlı bir hava hakimdir. Mevsimsel olarak bakıldığında, Sivri Dağı'nın iklimi çevredeki alanlara göre benzerlik gösterir. Hava durumu ise bölgenin coğrafi yapısına göre değişkenlik gösterir.
 
 Sivri Dağı'nın çevresel ilişkileri, komşu alanlar ve su kaynakları ile bağlantılıdır. Dağın eteklerinde yer alan köyler ve kasabalar, Sivri Dağı'nın doğal güzelliklerinden faydalanır. Ayrıca, Sivri Dağı'nın ekosistem bağlantıları, bölgenin biyolojik çeşitliliğini destekler. Bu bağlantılar, Sivri Dağı'nın doğal güzelliklerini koruma altına almak için önemlidir.
 

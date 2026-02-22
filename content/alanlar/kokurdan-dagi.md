@@ -44,7 +44,7 @@ Mersin'in dağlık bölgesinde yer alan Kokurdan Dağı, 36.6833°K, 33.8500°D 
 
 Doğal güzellikleri ve coğrafi özellikleriyle dikkat çeken Kokurdan Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu küçük ama önemli bir coğrafi oluşum, bölgenin jeolojisinde önemli bir rol oynuyor. Kokurdan Dağı'nın yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadara ulaşıyor. Bu yükseklik, bölgenin genel coğrafi yapısına uygun olarak, Toros Dağları'nın bir parçası olarak görülüyor.
 
-İklim açısından Kokurdan Dağı, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumuna sahip. Bu mevsimsel özellikler, bölgenin bitki örtüsünü ve ekosistemini şekillendiriyor. Kokurdan Dağı, bu iklim koşullarına adapte olmuş bitki ve hayvan türlerine ev sahipliği yapıyor.
+İklim açısından Kokurdan Dağı, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumuna sahip. Bu mevsimsel özellikler, bölgenin bitki örtüsünü ve ekosistemini şekillendiriyor. Kokurdan Dağı, bu iklim koşullarına adapte olmuş bitki ve hayvan türlerine ev sahipliği yapıyor.
 
 Çevresel açıdan Kokurdan Dağı, komşu alanlar ve su kaynakları ile önemli bir ilişkiye sahip. Bölge, Toros Dağları'nın bir parçası olarak, su kaynaklarının oluşumunda ve akışında önemli bir rol oynuyor. Kokurdan Dağı, bölgenin ekosistem bağlantısını sağlayan önemli bir coğrafi unsur olarak görülebilir. Bu dağ, bölgenin doğal dengesini korumak için önemli bir rol oynuyor.
 
@@ -52,7 +52,7 @@ Doğal güzellikleri ve coğrafi özellikleriyle dikkat çeken Kokurdan Dağı, 
 
 Kokurdan Dağı, Mersin'in güneşli kıyılarında yükselen bir dağ ekosistemi olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. 1200 hektarlık bu yeşil cennet, maki bitki örtüsünün hakim olduğu bir bölge olarak, kuraklığa dayanıklı türlerin zenginliğini sunuyor.
 
-İlkbaharın gelmesiyle, dağ yamaçları rengarenk çiçeklerle donanıyor. Kışın soğuk havasının yerini, sıca ve kurak yaz mevsimi alıyor. Bu mevsimsel değişim, dağdaki canlıları etkiliyor. Memeliler, genellikle dağların yüksek kesimlerinde yaşıyorlar. Kuşlar ise, özellikle sonbaharda göç ederken, bu dağları önemli bir geçiş noktası olarak kullanıyorlar. Sürüngenler de, sıca ve kuru bölgeleri tercih ediyorlar.
+İlkbaharın gelmesiyle, dağ yamaçları rengarenk çiçeklerle donanıyor. Kışın soğuk havasının yerini, sıcak ve kurak yaz mevsimi alıyor. Bu mevsimsel değişim, dağdaki canlıları etkiliyor. Memeliler, genellikle dağların yüksek kesimlerinde yaşıyorlar. Kuşlar ise, özellikle sonbaharda göç ederken, bu dağları önemli bir geçiş noktası olarak kullanıyorlar. Sürüngenler de, sıcak ve kuru bölgeleri tercih ediyorlar.
 
 Kokurdan Dağı, ekolojik açıdan önemli bir bölge olarak, kıyı ekosisteminin bir parçası. Bu dağ, birçok canlı türünün yaşam alanı ve göç güzergahı olarak, ekosistemin dengesini koruyor. Bu nedenle, koruma altına alınması ve doğal güzelliğinin korunması büyük önem taşıyor.
 

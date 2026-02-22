@@ -38,7 +38,7 @@ Kaputaş Plajı, yüzyıllar boyunca insanların doğanın güzelliğini keşfet
 
 ## Coğrafya
 
-Kaputaş Plajı, Kaş ilçesinin güneyinde yer alan ve Akdeniz kıyısında bulunan bir plajdır. Plaj, turkuaz rengindeki suyu ve beyaz kumuyla dikkat çekiyor. Plajın etrafındaki dağlar ve ormanlar, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Plajın coğrafi konumu, ziyaretçilere güneşin ve denizin keyfini çıkarmaya davet ediyor. Kaputaş Plajı, özellikle yaz aylarında ziyaret edilmektedir. Plajın iklimi, sıca ve kurudur. Plajın çevresindeki bitki örtüsü, genellikle çam ve zeytin ağaçlarından oluşuyor. Kaputaş Plajı, doğanın güzelliğini keşfetmek isteyenler için ideal bir mekan.
+Kaputaş Plajı, Kaş ilçesinin güneyinde yer alan ve Akdeniz kıyısında bulunan bir plajdır. Plaj, turkuaz rengindeki suyu ve beyaz kumuyla dikkat çekiyor. Plajın etrafındaki dağlar ve ormanlar, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Plajın coğrafi konumu, ziyaretçilere güneşin ve denizin keyfini çıkarmaya davet ediyor. Kaputaş Plajı, özellikle yaz aylarında ziyaret edilmektedir. Plajın iklimi, sıcak ve kurudur. Plajın çevresindeki bitki örtüsü, genellikle çam ve zeytin ağaçlarından oluşuyor. Kaputaş Plajı, doğanın güzelliğini keşfetmek isteyenler için ideal bir mekan.
 
 ## Flora ve Fauna
 

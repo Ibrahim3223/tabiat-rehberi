@@ -30,7 +30,7 @@ Balikesir-Alacam-Degirmenegrek Karacam 2 milli parkı, tarihi geçmişiyle dikka
 
 ## Coğrafya
 
-Balikesir-Alacam-Degirmenegrek Karacam 2 milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Milli park, yüksekli ve alçaklık olarak çeşitli arazilere sahiptir. Burada, dağlar, vadiler ve ovalar bulunmakta ve bu coğrafi çeşitlilik, ziyaretçilere zengin bir görsel şölen sunmaktadır. Milli parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak kura ve karasal özellikler gösterir. Yaz ayları sıca ve kurak, kış ayları ise soğu ve karlı geçer. Milli parkın çevresinde, çeşitli su kaynakları ve akarsular bulunmakta ve bu su kaynakları, bölgenin fauna ve flora için önemli bir kaynak teşkil etmektedir.
+Balikesir-Alacam-Degirmenegrek Karacam 2 milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Milli park, yüksekli ve alçaklık olarak çeşitli arazilere sahiptir. Burada, dağlar, vadiler ve ovalar bulunmakta ve bu coğrafi çeşitlilik, ziyaretçilere zengin bir görsel şölen sunmaktadır. Milli parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak kura ve karasal özellikler gösterir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve karlı geçer. Milli parkın çevresinde, çeşitli su kaynakları ve akarsular bulunmakta ve bu su kaynakları, bölgenin fauna ve flora için önemli bir kaynak teşkil etmektedir.
 
 ## Flora ve Fauna
 

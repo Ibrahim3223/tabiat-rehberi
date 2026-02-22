@@ -44,7 +44,7 @@ Doğal güzelliği ile dikkat çeken Güruh Dağı, Kastamonu'nun coğrafi çeş
 
 Jeolojik açıdan bakıldığında, Güruh Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, koordinatlarına bakıldığında, bölgenin coğrafi olarak çeşitlilik gösterdiği anlaşılabilir. Bu dağ, Beşiktaş ilçesi kadar geniş bir alana yayılmış değildir, ancak Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplamaktadır. Yüksekliği hakkında belirli bir veri olmasa da, Eiffel Kulesi'nin birkaç katı yükseklikte olabileceği düşünülebilir.
 
-İklimsel açıdan ele alındığında, Güruh Dağı'nın bulunduğu bölge, Karadeniz Bölgesi'nin karakteristik iklimini taşır. Bu bölgede, yaz ayları serin ve yağışlı, kış ayları ise soğu ve karlı geçer. Mevsimsel değişimler, bölgenin bitki örtüsünü ve fauna çeşitliliğini etkiler. Hava durumu, bölgenin coğrafi konumu nedeniyle, sık sık değişebilir.
+İklimsel açıdan ele alındığında, Güruh Dağı'nın bulunduğu bölge, Karadeniz Bölgesi'nin karakteristik iklimini taşır. Bu bölgede, yaz ayları serin ve yağışlı, kış ayları ise soğuk ve karlı geçer. Mevsimsel değişimler, bölgenin bitki örtüsünü ve fauna çeşitliliğini etkiler. Hava durumu, bölgenin coğrafi konumu nedeniyle, sık sık değişebilir.
 
 Çevresel açıdan bakıldığında, Güruh Dağı, komşu alanlarla ve su kaynaklarıyla önemli bir ekosistem bağlantısı içinde yer alır. Monaco'nun yarısı kadar büyük bir alana spread olmayan bu dağ, bölgenin su kaynaklarının korunması açısından önemli bir rol oynar. İstanbul'un Adalar ilçesi büyüklüğünde olmayan bu alan, çevresindeki ekosistemin dengesini korumak için önemlidir.
 

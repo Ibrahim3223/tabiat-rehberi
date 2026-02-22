@@ -36,7 +36,7 @@ Hisadero Tepesi'nin tarihi geçmişi, Mardin'in genel tarihine paralel olara ile
 
 ## Coğrafya
 
-Hisadero Tepesi, Mardin'in coğrafi özelliklerini yansıtan bir bölgedir. Tepenin konumu, ziyaretçilere Mardin'in geniş ve yeşil vadi manzarasını sunuyor. Etrafındaki dağlar ve tepeler, bu bölgenin coğrafi çeşitliliğini ortaya koyuyor. Hisadero Tepesi, Mardin'in iklimine uygun olarak, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir hava koşuluna sahip. Bu bölgenin coğrafi özellikleri, flora ve faunayı da etkiliyor ve çeşitli bitki türleri ile hayvanları barındırmaktadır. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sağlıyor ve Mardin'in coğrafi güzelliğini tüm yönleriyle gösteriyor.
+Hisadero Tepesi, Mardin'in coğrafi özelliklerini yansıtan bir bölgedir. Tepenin konumu, ziyaretçilere Mardin'in geniş ve yeşil vadi manzarasını sunuyor. Etrafındaki dağlar ve tepeler, bu bölgenin coğrafi çeşitliliğini ortaya koyuyor. Hisadero Tepesi, Mardin'in iklimine uygun olarak, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir hava koşuluna sahip. Bu bölgenin coğrafi özellikleri, flora ve faunayı da etkiliyor ve çeşitli bitki türleri ile hayvanları barındırmaktadır. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sağlıyor ve Mardin'in coğrafi güzelliğini tüm yönleriyle gösteriyor.
 
 ## Flora ve Fauna
 

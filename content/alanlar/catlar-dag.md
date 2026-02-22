@@ -53,7 +53,7 @@ Jeolojik açıdan bakıldığında, Çatlar Dağ'ın fiziksel yapısı hakkında
 
 Çatlar Dağ, step bitki örtüsünün hakim olduğu bir bölge olarak, benzersiz bir dağ ekosistemi sunar. İlkbaharın gelmesiyle birlikte, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle donanır. Yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği göze çarpar. Dağın eteklerinde, kuraklığa adapte türler gibi bozkır bitkileri yaygındır.
 
-Yaban hayatı da bir o kadar zengin. Memeliler, dağların kaya dik yamaçlarında yaşamlarını sürdürürken, kuşlar göç mevsimlerinde bu bölgeyi ziyaret eder. Sürüngenler, sıca ve kurak bölgelerde aktif olarak bulunur. Bu dağ ekosisteminde, her canlı diğerine bağımlı olarak yaşar. Örneğin, bazı bitkiler, belirli kuş türlerinin ziyaretine ihtiyaç duyar.
+Yaban hayatı da bir o kadar zengin. Memeliler, dağların kaya dik yamaçlarında yaşamlarını sürdürürken, kuşlar göç mevsimlerinde bu bölgeyi ziyaret eder. Sürüngenler, sıcak ve kurak bölgelerde aktif olarak bulunur. Bu dağ ekosisteminde, her canlı diğerine bağımlı olarak yaşar. Örneğin, bazı bitkiler, belirli kuş türlerinin ziyaretine ihtiyaç duyar.
 
 Çatlar Dağ, ekolojik açıdan önemli bir bölge. Bu dağların korunması, bölgenin biyolojik çeşitliliğini ve doğal dengesini sürdürmek için hayati. Doğal yaşam alanlarını korumak, gelecek nesiller için bu eşsiz ekosistemin devamını sağlar. Bu nedenledir ki, Çatlar Dağ gibi doğal alanların korunmasına önem vermek, bizim sorumluluğumuzdur.
 

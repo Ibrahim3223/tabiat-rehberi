@@ -30,7 +30,7 @@ Denizli-Acipayam-Alci Ardic 1 milli parkının tarihi geçmişi, yüzyıllar boy
 
 ## Coğrafya
 
-Denizli-Acipayam-Alci Ardic 1 milli parkı, Ege Bölgesi'nin coğrafi yapısının bir parçasıdır. Bu bölge, dağlar, ovalar ve akarsuların bir arada bulunduğu bir coğrafi yapıya sahiptir. Milli parkın coğrafi konumu, Denizli ilinin Acipayam ilçesinde bulunması ve Ege Bölgesi'nin merkezi bir konumunda olmasından dolayı, ziyaretçilerin kolayca ulaşabileceği bir yerdir. Milli parkın iklimi, Ege Bölgesi'nin genel iklimi gibi ılımandır. Burada, yazları sıca ve kurak, kışları ılık ve yağışlı bir iklim hüküm sürer. Bu iklim, çeşitli bitki türlerinin yetişmesi için uygun koşulları sağlar. Milli parkın coğrafi yapısı, aynı zamanda zengin fauna için de elverişlidir. Burada, çeşitli hayvan türleri, özellikle kuşlar ve memeliler, bulunabilir.
+Denizli-Acipayam-Alci Ardic 1 milli parkı, Ege Bölgesi'nin coğrafi yapısının bir parçasıdır. Bu bölge, dağlar, ovalar ve akarsuların bir arada bulunduğu bir coğrafi yapıya sahiptir. Milli parkın coğrafi konumu, Denizli ilinin Acipayam ilçesinde bulunması ve Ege Bölgesi'nin merkezi bir konumunda olmasından dolayı, ziyaretçilerin kolayca ulaşabileceği bir yerdir. Milli parkın iklimi, Ege Bölgesi'nin genel iklimi gibi ılımandır. Burada, yazları sıcak ve kurak, kışları ılık ve yağışlı bir iklim hüküm sürer. Bu iklim, çeşitli bitki türlerinin yetişmesi için uygun koşulları sağlar. Milli parkın coğrafi yapısı, aynı zamanda zengin fauna için de elverişlidir. Burada, çeşitli hayvan türleri, özellikle kuşlar ve memeliler, bulunabilir.
 
 ## Flora ve Fauna
 

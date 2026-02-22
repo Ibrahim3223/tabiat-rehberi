@@ -45,7 +45,7 @@ Genel olarak Türkiye'nin coğrafyası, dağlık ve engebeli bir yapıya sahipti
 
 Jeolojik açıdan bakıldığında, Safranti Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, genel olarak bu bölgedeki dağların kalker ve shale gibi farklı jeolojik oluşumları içerdiği bilinmektedir. Bu dağların yüksekliklerine bakıldığında, Eiffel Kulesi'nin yaklaşık 3 katı yükseklikte olan dağlar, bölgeye hakim bir görünüm sunmaktadır.
 
-Mevsimsel açıdan, Safranti Dağı'nın bulunduğu bölge, karasal iklimin özellikleri göstermektedir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
+Mevsimsel açıdan, Safranti Dağı'nın bulunduğu bölge, karasal iklimin özellikleri göstermektedir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
 
 Doğal kaynaklar açısından, Safranti Dağı'nın etrafında several su kaynakları bulunmaktadır. Bu su kaynakları, bölgenin ekosistemini desteklemektedir. Ayrıca, dağların eteklerinde yer alan ormanlık alanlar, bölgenin biyolojik çeşitliliğini artırmaktadır. Bu ormanlar, aynı zamanda bölgenin hava qualitéini verbessirmektedir.
 

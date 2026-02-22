@@ -30,7 +30,7 @@ Andirin Sacli Mese milli parkı, yüzyıllar boyunca doğal güzelliğini korumu
 
 ## Coğrafya
 
-Andirin Sacli Mese milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir alandır. Parkın topografyası, genellikle engebeli arazilerden oluşuyor. Bu engebeli araziler, ziyaretçilere çeşitli manzaralar ve gezi rotaları sunuyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklim özelliklerini taşır; yani kışları soğu ve karlı, yazları sıca ve kurak geçer. Parkın su kaynakları, bölgedeki ekosistemi destekleyen önemli bir bileşendir. Bu su kaynakları, çeşitli bitki ve hayvan türlerinin yaşamlarını sürdürmelerine Möglich sağlar.
+Andirin Sacli Mese milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir alandır. Parkın topografyası, genellikle engebeli arazilerden oluşuyor. Bu engebeli araziler, ziyaretçilere çeşitli manzaralar ve gezi rotaları sunuyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklim özelliklerini taşır; yani kışları soğuk ve karlı, yazları sıcak ve kurak geçer. Parkın su kaynakları, bölgedeki ekosistemi destekleyen önemli bir bileşendir. Bu su kaynakları, çeşitli bitki ve hayvan türlerinin yaşamlarını sürdürmelerine Möglich sağlar.
 
 ## Flora ve Fauna
 

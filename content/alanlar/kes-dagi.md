@@ -43,7 +43,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Keş Dağı, Kahramanmaraş i
 
 Doğal yapısını inceleyecek olursak, Keş Dağı'nın boyutları hakkında detaylı bilgi olmasa da, genel olarak dağlık bir arazi yapısına sahip olduğunu söyleyebiliriz. Bu dağlık bölge, jeolojik olarak incelendiğinde, bölgenin oluşumunda önemli rol oynayan tektonik hareketlerin izlerini taşıyor. Ancak, dahalı fiziksel verilere ihtiyaç duyuluyor.
 
-Mevsimsel olarak bakıldığında, Keş Dağı'nın iklim karakteri, Güneydoğu Anadolu Bölgesi'nin genel iklim özelliklerini taşıyor. Yaz aylarında sıcaklık değerleri yüksek iken, kış aylarında soğu ve kar yağışlı bir hava hakim oluyor. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor.
+Mevsimsel olarak bakıldığında, Keş Dağı'nın iklim karakteri, Güneydoğu Anadolu Bölgesi'nin genel iklim özelliklerini taşıyor. Yaz aylarında sıcaklık değerleri yüksek iken, kış aylarında soğuk ve kar yağışlı bir hava hakim oluyor. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor.
 
 Çevresel açıdan değerlendirildiğinde, Keş Dağı, bölgenin su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahip. Dağın eteklerinde yer alan ovalar ve vadiler, su toplama alanları olarak görev yapıyor ve bölgenin tarımsal faaliyetlerine katkı sağlıyor. Ayrıca, Keş Dağı'nın komşu alanları, bölgenin biyolojik çeşitliliğini koruma açısından da önemli görülüyor.
 

@@ -36,7 +36,7 @@ Geriç Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu tepe, 
 
 ## Coğrafya
 
-Geriç Tepesi, Burdur'un Akdeniz Bölgesi'nde yer alıyor. Tepenin coğrafyası, genellikle dağlık ve engebeli. Çevresindeki köyler, tepenin eteklerine kurulmuş ve bu bölgede yaşayan insanlar, tarım ve hayvancılıkla uğraşıyorlar. Geriç Tepesi'nin iklimi, Akdeniz iklimi özellikleri taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ılık ve yağışlı bir iklim hüküm sürüyor. Tepenin çevresindeki flora, çeşitli bitki türlerinden oluşuyor. Bu bölgede, zeytin ağaçları, kestane ağaçları ve diğer meyve ağaçları bulunuyor. Fauna da zengin, tepenin eteklerinde çeşitli hayvanlar yaşiyor.
+Geriç Tepesi, Burdur'un Akdeniz Bölgesi'nde yer alıyor. Tepenin coğrafyası, genellikle dağlık ve engebeli. Çevresindeki köyler, tepenin eteklerine kurulmuş ve bu bölgede yaşayan insanlar, tarım ve hayvancılıkla uğraşıyorlar. Geriç Tepesi'nin iklimi, Akdeniz iklimi özellikleri taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ılık ve yağışlı bir iklim hüküm sürüyor. Tepenin çevresindeki flora, çeşitli bitki türlerinden oluşuyor. Bu bölgede, zeytin ağaçları, kestane ağaçları ve diğer meyve ağaçları bulunuyor. Fauna da zengin, tepenin eteklerinde çeşitli hayvanlar yaşiyor.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Karapınar Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu te
 
 ## Coğrafya
 
-Karapınar Tepesi, coğrafi olarak Ege Bölgesi'nin önemli noktalarından biri. Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre yukarıda. Bu yükseklik, ziyaretçilere Ege Bölgesi'nin geniş manzaralarını sunuyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna found. Bu çeşitlilik, Karapınar Tepesi'nin coğrafi önemini vurguluyor. Tepenin iklimi, Ege Bölgesi'nin genel iklimine benzer. Yaz ayları sıca ve kurak, kış ayları ise soğu ve yağışlı geçiyor. Bu iklim, Karapınar Tepesi'nin flora ve faunasını şekillendiriyor. Tepenin çevresi, diğer doğal güzelliklerle dolu. Yakınlarda bulunan diğer tepeler, vadiler ve nehirler, Karapınar Tepesi'ni daha da özel kılıyor.
+Karapınar Tepesi, coğrafi olarak Ege Bölgesi'nin önemli noktalarından biri. Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre yukarıda. Bu yükseklik, ziyaretçilere Ege Bölgesi'nin geniş manzaralarını sunuyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna found. Bu çeşitlilik, Karapınar Tepesi'nin coğrafi önemini vurguluyor. Tepenin iklimi, Ege Bölgesi'nin genel iklimine benzer. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçiyor. Bu iklim, Karapınar Tepesi'nin flora ve faunasını şekillendiriyor. Tepenin çevresi, diğer doğal güzelliklerle dolu. Yakınlarda bulunan diğer tepeler, vadiler ve nehirler, Karapınar Tepesi'ni daha da özel kılıyor.
 
 ## Flora ve Fauna
 

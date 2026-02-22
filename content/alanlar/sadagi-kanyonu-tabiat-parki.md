@@ -37,7 +37,7 @@ Sadağı Kanyonu Tabiat Parkı, yüzyıllar boyunca doğal güzelliğini korumu�
 
 ## Coğrafya
 
-Sadağı Kanyonu Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi çeşitliliğiçerisinde yer alan özel bir bölge. Parkın coğrafi yapısı, kanyonun oluşumuna neden olan jeolojik süreçlerin bir sonucu. Bu bölge, farklı türde kayaçların bir araya gelmesi ile oluşmuş ve zaman içinde suyun aşındırıcı etkisi ile şekillenmiştir. Parkın etrafı, çeşitli bitki türleri ile kaplıdır ve zengin fauna ile dikkat çeker. Sadağı Kanyonu, bölgenin iklimine uygun olarak kura ve sıcak yazlar, soğu ve karlı kışlar ile karakterizedir. Bu iklim koşulları, parkın flora ve faunasının çeşitliliğini etkileyen önemli faktörlerden biri.
+Sadağı Kanyonu Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi çeşitliliğiçerisinde yer alan özel bir bölge. Parkın coğrafi yapısı, kanyonun oluşumuna neden olan jeolojik süreçlerin bir sonucu. Bu bölge, farklı türde kayaçların bir araya gelmesi ile oluşmuş ve zaman içinde suyun aşındırıcı etkisi ile şekillenmiştir. Parkın etrafı, çeşitli bitki türleri ile kaplıdır ve zengin fauna ile dikkat çeker. Sadağı Kanyonu, bölgenin iklimine uygun olarak kura ve sıcak yazlar, soğuk ve karlı kışlar ile karakterizedir. Bu iklim koşulları, parkın flora ve faunasının çeşitliliğini etkileyen önemli faktörlerden biri.
 
 ## Flora ve Fauna
 

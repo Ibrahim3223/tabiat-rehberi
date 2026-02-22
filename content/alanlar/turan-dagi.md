@@ -44,7 +44,7 @@ Güneydoğu Anadolu'nun geniş düzlükleri arasında yükselen Turan Dağı, 37
 
 Doğal güzelliği ve coğrafi konumuyla dikkat çeken Turan Dağı, jeolojik açıdan da ilginç bir yapıya sahip. Ancak, fiziksel veri eksikliği nedeniyle dağın boyutları ve şekli hakkında net bilgi bulunmuyor. Buna rağmen, dağın çevresindeki coğrafi oluşumlar, bölgenin jeolojik geçmişini anlamak için önemli ipuçları sağlıyor.
 
-Mevsimsel değişikliklere göre şekillenen hava durumu, Turan Dağı'nın iklim karakterini belirliyor. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir iklim hüküm sürüyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor ve dağın çevresindeki ekosistemi şekillendiriyor.
+Mevsimsel değişikliklere göre şekillenen hava durumu, Turan Dağı'nın iklim karakterini belirliyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürüyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor ve dağın çevresindeki ekosistemi şekillendiriyor.
 
 Turan Dağı, çevresindeki su kaynakları ve ekosistem bağlantıları açısından da önemli bir role sahip. Dağın eteklerinde yer alan köyler, tarımsal faaliyetleri için dağdan gelen su kaynaklarına bağımlı. Ayrıca, dağın komşu alanları, bölgenin biyolojik çeşitliliğini destekleyen önemli habitatlar sağlıyor. Bu nedenle, Turan Dağı'nın çevresel ilişkileri, bölgenin doğal dengesini korumak için kritik öneme sahip.
 

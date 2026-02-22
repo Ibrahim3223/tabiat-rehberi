@@ -44,7 +44,7 @@ Doğunun gizli köşelerinde yer alan Şeyhlicik Dağı, Bitlis ilinin dağlık 
 
 Jeolojik açıdan bakıldığında, Şeyhlicik Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, dağlık bir estructürü olduğunu söyleyebiliriz. Dağın yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olabilir, ancak bu konuda net bir veri bulunmuyor. Şeyhlicik Dağı, çevresindeki diğer dağlarla birlikte bir bütünü oluşturuyor ve bu dağlık bölge, bölgenin ekosistemini şekillendiren önemli bir faktör.
 
-Mevsimsel açıdan, Şeyhlicik Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir yer. Kışlar soğu ve karlı, yazlar ise sıca ve kurak geçer. Bu mevsimsel değişimler, bölgenin flora ve fauna yapısını etkiler ve dağlık alanlar, bu değişimlere uyum sağlamak zorunda kalır. Hava durumu, dağlık bir bölgede olduğu için değişken olabilir ve ani yağışlar veya kar fırtınaları görülebilir.
+Mevsimsel açıdan, Şeyhlicik Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir yer. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçer. Bu mevsimsel değişimler, bölgenin flora ve fauna yapısını etkiler ve dağlık alanlar, bu değişimlere uyum sağlamak zorunda kalır. Hava durumu, dağlık bir bölgede olduğu için değişken olabilir ve ani yağışlar veya kar fırtınaları görülebilir.
 
 Çevre açısından, Şeyhlicik Dağı, bölgenin su kaynaklarının oluşumunda önemli bir rol oynar. Dağın eteklerinde ve yakınında, küçük akarsular ve dereler bulunur ve bunlar, bölgenin sulama sistemini besler. Ayrıca, dağlık alanlar, bölgenin ekosistemini destekleyen önemli bir faktördür ve birçok farklı türün yaşam alanı olarak hizmet eder. Şeyhlicik Dağı, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplar ve bu alan, bölgenin doğal güzelliklerini keşfetmek isteyenler için bir cennet olabilir.
 

@@ -42,7 +42,7 @@ Güneybatı Anadolu'nun kalbinde yer alan Alakeçi Dağı, Burdur'un coğrafi do
 
 Doğal bir anıt olarak görülebilecek Alakeçi Dağı, coğrafi açıdan zajímav bir yapıya sahiptir. Dağın boyutları hakkında detaylı bilgi olmasa da, Burdur'un genel coğrafi yapısına bakıldığında, dağların genellikle tepeler ve vadilerle çevrili olduğu görülür. Bu coğrafi yapı, bölgenin jeolojik geçmişini ve oluşumunu yansıtır. Alakeçi Dağı, bölgenin jeolojik yapısını şekillendiren tektonik hareketlerin bir sonucu olarak oluşmuş olabilir.
 
-Bölgenin iklim karakteri, Alakeçi Dağı'nın coğrafi yapısını da etkiler. Güneybatı Anadolu'nun genel iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kuru, kış aylarında ise ılık ve yağışlı bir hava hakimdir. Bu iklim karakteri, Alakeçi Dağı'nın flora ve fauna çeşitliliğini etkiler. Dağın yüksekliği ve coğrafi konumu, bölgenin mikro iklimini şekillendirmede önemli bir role sahiptir.
+Bölgenin iklim karakteri, Alakeçi Dağı'nın coğrafi yapısını da etkiler. Güneybatı Anadolu'nun genel iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı bir hava hakimdir. Bu iklim karakteri, Alakeçi Dağı'nın flora ve fauna çeşitliliğini etkiler. Dağın yüksekliği ve coğrafi konumu, bölgenin mikro iklimini şekillendirmede önemli bir role sahiptir.
 
 Alakeçi Dağı, çevresindeki doğal alanlarla önemli bir bağlantı içerisindedir. Dağın eteklerinde ve yakınında bulunan su kaynakları, bölgenin ekosistemini destekler. Bu su kaynakları, yerel fauna ve flora için hayati önem taşır. Alakeçi Dağı, bölgenin doğal dengesini koruması açısından önemli bir rol oynar. Dağın korunması, bölgenin ekolojik çeşitliliğini ve doğal güzelliğini korumak için önemlidir.
 

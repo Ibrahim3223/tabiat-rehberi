@@ -36,7 +36,7 @@ Baz Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkların y
 
 ## Coğrafya
 
-Baz Tepesi, Van ilinin coğrafi açıdan önemli bir noktasında yer alıyor. Bu tepe, Van Gölü'nün güneyinde, yaklaşık yüksek bir konumdate bulunuyor ve návštěvníkům muhteşem bir manzara sunuyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna found, ve bu bölge, doğa severler için cennet gibi bir yer. Baz Tepesi'nin iklimi, Van ilinin genel iklimine benzer ve burada, dört mevsim ayrı ayrı yaşanabiliyor. Kışın karla kaplı tepeler, ilkbaharda yeşeren çayırlar, yazın sıcakk günler ve sonbaharda renkli yapraklar, bu bölgeyi her mevsim ziyaret etmeye değer kılıyor.
+Baz Tepesi, Van ilinin coğrafi açıdan önemli bir noktasında yer alıyor. Bu tepe, Van Gölü'nün güneyinde, yüksek bir konumda bulunuyor ve návštěvníkům muhteşem bir manzara sunuyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna found, ve bu bölge, doğa severler için cennet gibi bir yer. Baz Tepesi'nin iklimi, Van ilinin genel iklimine benzer ve burada, dört mevsim ayrı ayrı yaşanabiliyor. Kışın karla kaplı tepeler, ilkbaharda yeşeren çayırlar, yazın sıcakk günler ve sonbaharda renkli yapraklar, bu bölgeyi her mevsim ziyaret etmeye değer kılıyor.
 
 ## Flora ve Fauna
 

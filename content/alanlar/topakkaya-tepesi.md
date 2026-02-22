@@ -36,7 +36,7 @@ Topakkaya Tepesi, tarihsel olarak önemli bir geçmişe sahip. Bu bölge, yüzy�
 
 ## Coğrafya
 
-Topakkaya Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir alandır. Bu bölge, genellikle step ve ormanlık alanların karıştığı bir coğrafi yapıya sahiptir. Topakkaya Tepesi de, bu coğrafi yapıya uygun olarak, geniş otlaklar ve ormanlık alanlarla çevrili. Tepenin etrafında, çeşitli akarsular ve göller bulunuyor. Bu su kaynakları, Topakkaya Tepesi'nin ekolojik dengesini koruyor ve bölgenin canlılarına yaşam alanı sağlıyor. Topakkaya Tepesi, Ankara'nın iklimine uygun olarak karasal bir iklime sahip. Kışları soğu ve karlı, yazları ise sıcak ve kurak geçer. Bu iklim, Topakkaya Tepesi'nin flora ve faunasını şekillendiriyor.
+Topakkaya Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir alandır. Bu bölge, genellikle step ve ormanlık alanların karıştığı bir coğrafi yapıya sahiptir. Topakkaya Tepesi de, bu coğrafi yapıya uygun olarak, geniş otlaklar ve ormanlık alanlarla çevrili. Tepenin etrafında, çeşitli akarsular ve göller bulunuyor. Bu su kaynakları, Topakkaya Tepesi'nin ekolojik dengesini koruyor ve bölgenin canlılarına yaşam alanı sağlıyor. Topakkaya Tepesi, Ankara'nın iklimine uygun olarak karasal bir iklime sahip. Kışları soğuk ve karlı, yazları ise sıcak ve kurak geçer. Bu iklim, Topakkaya Tepesi'nin flora ve faunasını şekillendiriyor.
 
 ## Flora ve Fauna
 

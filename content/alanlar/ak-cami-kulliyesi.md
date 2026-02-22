@@ -37,7 +37,7 @@ Ak Cami Külliyesi'nin tarihi geçmişi, bölgenin önemli kültür merkezlerind
 
 ## Coğrafya
 
-Ak Cami Külliyesi, Mersin'in Bozyazı ilçesinde yer alır ve çevresinde çeşitli coğrafi özellikler bulunur. Bu alan, 140 hektarlık bir büyüklüğe sahiptir ve yaklaşık 200 futbol sahası büyüklüğündedir. Çevresinde çeşitli bitki türleri bulunur ve doğal güzellikleri ile dikkat çeker. Ak Cami Külliyesi, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. Bu bölgede, genellikle sıca ve kurak bir iklim hüküm sürer. Ancak, külliyenin bulunduğu yerin coğrafi özellikleri, çevredeki bitki türlerinin çeşitliliğini sağlar. Bu alan, aynı zamanda bölgenin önemli su kaynaklarına da ev sahipliği yapar. Ziyaretçiler, bu doğal güzellikleri keşfedebilir ve çevredeki coğrafi özellikleri inceleyebilir.
+Ak Cami Külliyesi, Mersin'in Bozyazı ilçesinde yer alır ve çevresinde çeşitli coğrafi özellikler bulunur. Bu alan, 140 hektarlık bir büyüklüğe sahiptir ve yaklaşık 200 futbol sahası büyüklüğündedir. Çevresinde çeşitli bitki türleri bulunur ve doğal güzellikleri ile dikkat çeker. Ak Cami Külliyesi, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. Bu bölgede, genellikle sıcak ve kurak bir iklim hüküm sürer. Ancak, külliyenin bulunduğu yerin coğrafi özellikleri, çevredeki bitki türlerinin çeşitliliğini sağlar. Bu alan, aynı zamanda bölgenin önemli su kaynaklarına da ev sahipliği yapar. Ziyaretçiler, bu doğal güzellikleri keşfedebilir ve çevredeki coğrafi özellikleri inceleyebilir.
 
 ## Flora ve Fauna
 

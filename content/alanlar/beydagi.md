@@ -38,7 +38,7 @@ Beydağı milli parkının tarihi geçmişi, yüzyıllar boyunca çeşitli meden
 
 ## Coğrafya
 
-Beydağı milli parkı, coğrafi açıdan oldukça zengin bir yapıya sahip. Parkın konumu, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor. İklimi, Akdeniz ikliminin tüm özelliklerini gösteriyor: yazları sıca ve kurak, kışları ılık ve yağışlı. Bu iklim, çeşitli bitki türlerinin yetişmesine uygun koşullar sağlıyor. Parkın coğrafyası, dağlık ve engebeli arazilerden oluşuyor. Yüksekli ve eğimlerin farklı olması, farklı ekosistemlerin oluşmasına olanak tanıyor. Bu çeşitlilik, flora ve faunayı da etkiliyor ve zengin bir doğal hayatın gelişmesine katkı sağlıyor. Parkın toplam alanı, 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde.
+Beydağı milli parkı, coğrafi açıdan oldukça zengin bir yapıya sahip. Parkın konumu, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor. İklimi, Akdeniz ikliminin tüm özelliklerini gösteriyor: yazları sıcak ve kurak, kışları ılık ve yağışlı. Bu iklim, çeşitli bitki türlerinin yetişmesine uygun koşullar sağlıyor. Parkın coğrafyası, dağlık ve engebeli arazilerden oluşuyor. Yüksekli ve eğimlerin farklı olması, farklı ekosistemlerin oluşmasına olanak tanıyor. Bu çeşitlilik, flora ve faunayı da etkiliyor ve zengin bir doğal hayatın gelişmesine katkı sağlıyor. Parkın toplam alanı, 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde.
 
 ## Flora ve Fauna
 

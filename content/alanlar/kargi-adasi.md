@@ -45,7 +45,7 @@ Kargı Adası, Muğla'nın sınırları içerisinde yer alan bir ada olarak, 36.
 
 Doğal güzellikleri ve coğrafi özellikleri ile dikkat çeken Kargı Adası, fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, koordinatlarından yola çıkarak, adanın konumunun Ege Denizi'nin turkuaz suları içerisinde olduğunu söyleyebiliriz. Birkaç olimpik havuz kadar bir alanı kaplayan bu küçük ada, çevredeki suların güzelliği ile çevrilidir.
 
-İklim açısından, Kargı Adası, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcaklık 30 dereceye kadar çıkabilirken, kış aylarında 10 dereceye kadar düşebilir. Bu mevsimsel özellikler, adayı bir Eiffel Kulesi'nin yüksekliğine sahip bir dağdan daha farklı bir şekilde etkiler. Hava durumu, genellikle güneşli ve açık passedir, ancak Ege Denizi'nin etkileri nedeniyle, olarak yağmur ve rüzgar görülebilir.
+İklim açısından, Kargı Adası, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcaklık 30 dereceye kadar çıkabilirken, kış aylarında 10 dereceye kadar düşebilir. Bu mevsimsel özellikler, adayı bir Eiffel Kulesi'nin yüksekliğine sahip bir dağdan daha farklı bir şekilde etkiler. Hava durumu, genellikle güneşli ve açık pasiftir, ancak Ege Denizi'nin etkileri nedeniyle, olarak yağmur ve rüzgar görülebilir.
 
 Çevresel açıdan, Kargı Adası, Muğla'nın diğer adaları ile birlikte, bir ekosistem içerisinde yer alır. Ada, Monaco'nun yarısı kadar bir alanı kaplayan Muğla'nın doğal güzelliklerine ev sahipliği yapar. Su kaynakları ve ekosistem bağlantıları açısından, ada, Ege Denizi'nin bir parçası olarak, çevredeki su kaynakları ile bağlantılıdır. Bu bağlantılar, adanın doğal dengesini korur ve bir Taksim Meydanı'nın X katı büyüklüğünde bir yeşil alan olarak, çevredeki bölgeye hizmet eder.
 

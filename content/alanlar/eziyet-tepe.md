@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin güzide illerinden biri olan Siirt'in dağlık 
 
 Doğal güzelliği ve coğrafi konumuyla dikkat çeken Eziyet Tepe, Siirt'in dağlık yapısına uygun olarak şekillenmiştir. Tıpkı Monaco'nun yarısı kadar büyük bir alana yayılmış olan bu tepe, bölgenin jeolojik yapısını yansıtan bir oluşumdur. Eziyet Tepe'nin yüksekliği, yaklaşık olarak 85 katlı bir gökdelen kadar yükseklikte olan bir noktaya ulaşır. Bu yükseklik, tepeyi bölgenin önemli bir gözlem noktası haline getirir.
 
-Mevsimsel olarak değişen hava koşulları, Eziyet Tepe'nin iklim karakterini belirler. Kış aylarında soğu ve kar yağışlı olan bölge, yaz aylarında sıca ve kurak bir havaya sahiptir. Bu mevsimsel değişim, tepeyi yıl boyunca farklı bir güzelliğe sahip olmasına neden olur. Eziyet Tepe, bölgenin iklim karakterini yansıtan bir doğal güzellik olarak dikkat çeker.
+Mevsimsel olarak değişen hava koşulları, Eziyet Tepe'nin iklim karakterini belirler. Kış aylarında soğuk ve kar yağışlı olan bölge, yaz aylarında sıcak ve kurak bir havaya sahiptir. Bu mevsimsel değişim, tepeyi yıl boyunca farklı bir güzelliğe sahip olmasına neden olur. Eziyet Tepe, bölgenin iklim karakterini yansıtan bir doğal güzellik olarak dikkat çeker.
 
 Çevresel açıdan bakıldığında, Eziyet Tepe, bölgenin diğer doğal güzelliklerine yakınlık açısından önemli bir yere sahiptir. Tıpkı Taksim Meydanı'nın birkaç katı büyüklüğünde olan bu tepe, bölgenin su kaynaklarına ve ekosistem bağlantılarına yakınlık açısından stratejik bir konumda yer alır. Eziyet Tepe, Siirt'in doğal güzellikleri arasında önemli bir yer tutarak, bölgenin turizm potansiyelini artırır.
 

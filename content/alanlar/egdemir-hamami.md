@@ -38,7 +38,7 @@ Eğdemir Hamamı'nın tarihi geçmişi, Kütahya'nın tarihi ile iç içe geçmi
 
 ## Coğrafya
 
-Eğdemir Hamamı, Kütahya'nın merkezinde, Ege Bölgesi'nin kuzeyinde yer almaktadır. Plaj, 140 hektarlık bir alanda, Kütahya'nın merkezine birkaç kilometre uzaklıkta bulunmaktadır. Eğdemir Hamamı'nın coğrafi konumu, ziyaretçilerin şehir merkezine kolayca ulaşmasını sağlar. Plajın geniş kumsalı ve temiz denizi, ziyaretçilerin doğayla iç içe olmasını sağlar. Eğdemir Hamamı'nın çevresi, çeşitli bitki türleri ile kaplıdır ve bu bitkiler, plajın doğal güzelliğini artırır. Plajın iklimi, Ege Bölgesi'nin karakteristik iklimine uygun olarak, yazları sıca ve kurak, kışları ise ılıman ve yağışlıdır. Bu iklim, plajın yıl boyunca ziyaret edilebilir olmasını sağlar.
+Eğdemir Hamamı, Kütahya'nın merkezinde, Ege Bölgesi'nin kuzeyinde yer almaktadır. Plaj, 140 hektarlık bir alanda, Kütahya'nın merkezine birkaç kilometre uzaklıkta bulunmaktadır. Eğdemir Hamamı'nın coğrafi konumu, ziyaretçilerin şehir merkezine kolayca ulaşmasını sağlar. Plajın geniş kumsalı ve temiz denizi, ziyaretçilerin doğayla iç içe olmasını sağlar. Eğdemir Hamamı'nın çevresi, çeşitli bitki türleri ile kaplıdır ve bu bitkiler, plajın doğal güzelliğini artırır. Plajın iklimi, Ege Bölgesi'nin karakteristik iklimine uygun olarak, yazları sıcak ve kurak, kışları ise ılıman ve yağışlıdır. Bu iklim, plajın yıl boyunca ziyaret edilebilir olmasını sağlar.
 
 ## Flora ve Fauna
 

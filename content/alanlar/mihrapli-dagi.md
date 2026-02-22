@@ -40,7 +40,7 @@ Mersin bölgesinde, insan yerleşimleri ve faaliyetleri, coğrafi koşullarla ya
 
 ## Coğrafya
 
-Coğrafi olarak Mersin'in kalbinde yer alan Mihraplı Dağı, 36.7167°K, 33.0333°D koordinatlarında bulunmaktadır. Bu konum, dağların Akdeniz'in sıca ve nemli havasına maruz kalmasına neden olur. Mersin'in şehir merkezine yakınlığı, Mihraplı Dağı'nı şehrin doğal bir uzantısı haline getirir.
+Coğrafi olarak Mersin'in kalbinde yer alan Mihraplı Dağı, 36.7167°K, 33.0333°D koordinatlarında bulunmaktadır. Bu konum, dağların Akdeniz'in sıcak ve nemli havasına maruz kalmasına neden olur. Mersin'in şehir merkezine yakınlığı, Mihraplı Dağı'nı şehrin doğal bir uzantısı haline getirir.
 
 Jeolojik açıdan bakıldığında, Mihraplı Dağı'nın fiziksel yapısı hakkında detaylı bilgi olmasa da, bu bölgeyi diğer coğrafi oluşumlarla karşılaştırma mümkün. Örneğin, Monaco'nun yarısı kadar bir alanı kaplayan bir dağ, geniş bir bölgeyi kaplar. Ancak Mihraplı Dağı'nın boyutları hakkında kesin bir bilgi verilememekle birlikte, Taksim Meydanı'nın birkaç katı büyüklüğünde olduğunu varsayabiliriz.
 

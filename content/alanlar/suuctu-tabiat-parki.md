@@ -37,7 +37,7 @@ Suuçtu Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmişti
 
 ## Coğrafya
 
-Suuçtu Tabiat Parkı, İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Parkın coğrafi yapısı, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kapsamaktadır. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurudur. Parkın çevresi, çeşitli bitki türleri ve yaban hayatı ile çevrilidir. Parkın coğrafi yapısı, ziyaretçilere doğa yürüyüşleri, pikni ve keşif gibi aktiviteler için uygun bir ortam sunmaktadır.
+Suuçtu Tabiat Parkı, İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Parkın coğrafi yapısı, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kapsamaktadır. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Parkın çevresi, çeşitli bitki türleri ve yaban hayatı ile çevrilidir. Parkın coğrafi yapısı, ziyaretçilere doğa yürüyüşleri, pikni ve keşif gibi aktiviteler için uygun bir ortam sunmaktadır.
 
 ## Flora ve Fauna
 

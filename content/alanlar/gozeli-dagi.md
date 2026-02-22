@@ -42,7 +42,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden Bitlis'in dağlık coğrafyasında
 
 Jeolojik açıdan bakıldığında, Gözeli Dağı'nın fiziksel yapısı hakkında detaylı bilgiler olmasa da, koordinatlarından hareketle, bölgenin genel jeolojik özelliklerini değerlendirebiliriz. Doğu Anadolu Bölgesi, volkani ve sedimentatif kayaçların yaygın olduğu bir alandır. Gözeli Dağı da bu jeolojik yapıya uygun olarak, muhtemelen volkanik kökenli kayaçlardan oluşmaktadır.
 
-İklim açısından, Doğu Anadolu Bölgesi'nin genel karakteristiğini göz önünde bulundurursak, Gözeli Dağı'nın bulunduğu bölgenin karasal iklim özellikleri gösterdiği söylenebilir. Kışlar soğu ve kar yağışlı, yazlar ise sıca ve kurak geçer. Bu mevsimsel farklılıklar, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
+İklim açısından, Doğu Anadolu Bölgesi'nin genel karakteristiğini göz önünde bulundurursak, Gözeli Dağı'nın bulunduğu bölgenin karasal iklim özellikleri gösterdiği söylenebilir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçer. Bu mevsimsel farklılıklar, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
 
 Çevresel açıdan, Gözeli Dağı'nın bulunduğu bölge, diğer dağlar ve ovalarla çevrili bir coğrafyada yer almaktadır. Bu dağ, bölgenin su kaynaklarının oluşumunda önemli bir rol oynamaktadır. Dağın eteklerinde ve yakınında bulunan su kaynakları, bölgenin ekosistemini desteklemektedir. Gözeli Dağı, aynı zamanda bölgenin doğal güzelliğini ve biyolojik çeşitliliğini korumak açısından önemli bir alandır.
 

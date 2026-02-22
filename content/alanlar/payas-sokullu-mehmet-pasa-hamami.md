@@ -37,7 +37,7 @@ Payas Sokullu Mehmet Paşa Hamamı, tarihin derinliklerinde bir eser olarak orta
 
 ## Coğrafya
 
-Payas Sokullu Mehmet Paşa Hamamı, Hatay ilinin Payas ilçesinde, Akdeniz Bölgesi'nin güneşli ve sıcak iklimine sahip bir bölgede yer almaktadır. Bu hamam, deniz seviyesinden yaklaşık yüksek bir konumdate bulunmaktadır ve bu nedenle, hamamdan denize ve etraftaki manzaraya bakıldığında, eşsiz bir görünüm ortaya çıkmaktadır. Hamamın etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu bölgede, özellikle yaz aylarında, sıcaklık oldukça yüksek olmaktadır ve bu nedenle, hamamın serin ve ferah ortamı, ziyaretçilere büyük bir rahatlık sağlamaktadır. Payas Sokullu Mehmet Paşa Hamamı, coğrafi konumu itibariyle, birçok tarihi ve turistik yere yakınlıkta bulunmaktadır. Bu nedenle, hamamın ziyaretçileri, aynı zamanda, etraftaki diğer tarihi eserleri ve turistik yerleri de gezebilme fırsatına sahiptir.
+Payas Sokullu Mehmet Paşa Hamamı, Hatay ilinin Payas ilçesinde, Akdeniz Bölgesi'nin güneşli ve sıcak iklimine sahip bir bölgede yer almaktadır. Bu hamam, yüksek bir konumda bulunmaktadır ve bu nedenle, hamamdan denize ve etraftaki manzaraya bakıldığında, eşsiz bir görünüm ortaya çıkmaktadır. Hamamın etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu bölgede, özellikle yaz aylarında, sıcaklık oldukça yüksek olmaktadır ve bu nedenle, hamamın serin ve ferah ortamı, ziyaretçilere büyük bir rahatlık sağlamaktadır. Payas Sokullu Mehmet Paşa Hamamı, coğrafi konumu itibariyle, birçok tarihi ve turistik yere yakınlıkta bulunmaktadır. Bu nedenle, hamamın ziyaretçileri, aynı zamanda, etraftaki diğer tarihi eserleri ve turistik yerleri de gezebilme fırsatına sahiptir.
 
 ## Flora ve Fauna
 

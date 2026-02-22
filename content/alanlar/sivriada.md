@@ -45,7 +45,7 @@ Sivriada, bu geniş tarihsel bağlam içinde, İstanbul'un doğal mirasının bi
 
 Doğal güzelliği ile dikkat çeken Sivriada, boyut olarak birkaç olimpik havuz kadar bir alanı kaplar. Ada, genel olarak dikdörtgen bir şekil gösterir ve yüzeyinin büyük bölümü kayalık arazilerden oluşur. Jeolojik açıdan, Sivriada'nın yapısı çoğunlukla kireçtaşlarından oluşmaktadır ve bu da adanın coğrafi yapısını şekillendirmiştir.
 
-İklim koşulları açısından Sivriada, Marmara Bölgesi'nin ılıman ikliminin etkilerini taşır. Mevsimsel olarak, ada yaz aylarında sıca ve nemli, kış aylarında ise ılık ve yağışlı bir hava durumuna sahiptir. Bu iklim özellikleri, adanın bitkisel örtüsünü ve doğal yaşamını etkileyen önemli faktörlerdir.
+İklim koşulları açısından Sivriada, Marmara Bölgesi'nin ılıman ikliminin etkilerini taşır. Mevsimsel olarak, ada yaz aylarında sıcak ve nemli, kış aylarında ise ılık ve yağışlı bir hava durumuna sahiptir. Bu iklim özellikleri, adanın bitkisel örtüsünü ve doğal yaşamını etkileyen önemli faktörlerdir.
 
 Çevresel açıdan bakıldığında, Sivriada diğer Prens Adaları ile birlikte bir ekosistem oluşturur. Ada, çeşitli deniz canlıları için bir yaşam alanı sunar ve su kaynakları açısından Marmara Denizi'ne bağlıdır. Sivriada'nın komşu alanlar ile ilişkisi, İstanbul'un çevre ekosistemini etkileyen önemli bir bileşendir ve adanın korunması, bölgenin doğal dengesini korumak için önemlidir.
 

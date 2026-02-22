@@ -36,7 +36,7 @@ Berduş Tepesi'nin tarihi geçmişi, yüzyılların izini taşıyor. Bu bölgeni
 
 ## Coğrafya
 
-Berduş Tepesi, Doğu Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Bu tepe, Muş'un merkezine yakın bir konumda bulunuyor ve çevresi, çeşitli bitki türleri ile zengin bir fauna tarafından çevreleniyor. Tepenin coğrafi yapısı, ziyaretçilere geniş bir manzara sunuyor. Burada, doğu ve batı yönlerinde uzanan dağ silsileleri, kuzeyde ve güneyde geniş ova alanları ile birleşerek, ziyaretçilere panoramik bir görüş sunuyor. İklim olarak, Berduş Tepesi, karasal iklimin özellikleri gösteriyor. Kışlar soğu ve karlı, yazlar ise serin ve yağışlı geçiyor. Bu iklim koşulları, tepe ve çevresinin flora ve faunasını etkiliyor ve burada, mevsimlere göre değişen bir doğa güzelliği yaşanıyor.
+Berduş Tepesi, Doğu Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Bu tepe, Muş'un merkezine yakın bir konumda bulunuyor ve çevresi, çeşitli bitki türleri ile zengin bir fauna tarafından çevreleniyor. Tepenin coğrafi yapısı, ziyaretçilere geniş bir manzara sunuyor. Burada, doğu ve batı yönlerinde uzanan dağ silsileleri, kuzeyde ve güneyde geniş ova alanları ile birleşerek, ziyaretçilere panoramik bir görüş sunuyor. İklim olarak, Berduş Tepesi, karasal iklimin özellikleri gösteriyor. Kışlar soğuk ve karlı, yazlar ise serin ve yağışlı geçiyor. Bu iklim koşulları, tepe ve çevresinin flora ve faunasını etkiliyor ve burada, mevsimlere göre değişen bir doğa güzelliği yaşanıyor.
 
 ## Flora ve Fauna
 

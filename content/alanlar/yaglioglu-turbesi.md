@@ -37,7 +37,7 @@ Yağlıoğlu Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve
 
 ## Coğrafya
 
-Yağlıoğlu Türbesi, Tire ilçesinin doğal güzelliklerine ev sahipliği yapan bir bölge. Ege Bölgesi'nin karakteristik coğrafyası, bu alanda da kendini gösteriyor. Plajın yanı sıra, çevredeki tepeler ve vadiler, ziyaretçilere geniş bir gözlem alanı sunuyor. Bu coğrafi yapı, bölgenin zengin fauna ve florasına da ev sahipliği yapıyor. Deniz ve kara arasındaki geçiş-zone, çeşitli bitki türleri ve canlıların yaşam alanı olarak işlev görüyor. Bölgenin iklimi, Ege Bölgesi'nin ılıman iklimine uygun olarak, yazları sıca ve kurak, kışları ılık ve yağışlı geçiyor.
+Yağlıoğlu Türbesi, Tire ilçesinin doğal güzelliklerine ev sahipliği yapan bir bölge. Ege Bölgesi'nin karakteristik coğrafyası, bu alanda da kendini gösteriyor. Plajın yanı sıra, çevredeki tepeler ve vadiler, ziyaretçilere geniş bir gözlem alanı sunuyor. Bu coğrafi yapı, bölgenin zengin fauna ve florasına da ev sahipliği yapıyor. Deniz ve kara arasındaki geçiş-zone, çeşitli bitki türleri ve canlıların yaşam alanı olarak işlev görüyor. Bölgenin iklimi, Ege Bölgesi'nin ılıman iklimine uygun olarak, yazları sıcak ve kurak, kışları ılık ve yağışlı geçiyor.
 
 ## Flora ve Fauna
 

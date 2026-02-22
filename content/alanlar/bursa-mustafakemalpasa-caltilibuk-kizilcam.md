@@ -26,7 +26,7 @@ Bursa-Mustafakemalpaşa-Caltilibuk Kızılçam Milli Parkı, Marmara Bölgesi'ni
 
 ## Tarihçe
 
-Bursa-Mustafakemalpaşa-Caltilibuk Kızılçam Milli Parkı'nın tarihi geçmişi, bölgenin doğal güzelliği ve ekolojik öneminin fark edilmesi ile başlar. Yüzyıllar boyunca, bu bölge insan yerleşimi ve ekonomik faaliyetler için önemli bir merkez olmuştur. Ancak, doğal kaynakların korunması ve gelecek nesiller için bo tn edilmesi gerekliliği, bu alanın milli park olarak ilan edilmesini hızlandırmıştır. Milli parkın tuyên b edilmesi, bölgenin doğal güzelliğinin korunmasına ve yaban hayatı için yaşam alanlarının korunmasına önemli katkılar sağlamıştır. Bu alanda yapılan çalışmalar, ekosistemin korunmasına ve bölgenin turizm potansiyelinin artırılmasına odaklanmıştır.
+Bursa-Mustafakemalpaşa-Caltilibuk Kızılçam Milli Parkı'nın tarihi geçmişi, bölgenin doğal güzelliği ve ekolojik öneminin fark edilmesi ile başlar. Yüzyıllar boyunca, bu bölge insan yerleşimi ve ekonomik faaliyetler için önemli bir merkez olmuştur. Ancak, doğal kaynakların korunması ve gelecek nesiller için korunması gerekliliği, bu alanın milli park olarak ilan edilmesini hızlandırmıştır. Milli parkın ilan edilmesi, bölgenin doğal güzelliğinin korunmasına ve yaban hayatı için yaşam alanlarının korunmasına önemli katkılar sağlamıştır. Bu alanda yapılan çalışmalar, ekosistemin korunmasına ve bölgenin turizm potansiyelinin artırılmasına odaklanmıştır.
 
 ## Coğrafya
 

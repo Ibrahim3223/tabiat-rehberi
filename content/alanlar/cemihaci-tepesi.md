@@ -36,7 +36,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde, Batman ilinin sınırlarında yer ala
 
 ## Coğrafya
 
-Çemihacı Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu tepe, Batman ilinin sınırları içerisinde, yaklaşık 140 hektarlık bir alanı kaplıyor. Çemihacı Tepesi'nin coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Tepenin eteklerinde ve çevresinde, çeşitli tarım alanları ve yerleşim yerleri bulunuyor. İklim, genel olarak Güneydoğu Anadolu Bölgesi'nin iklimine benzer, yazları sıca ve kuru, kışları ise soğu ve yağışlı geçiyor. Bu coğrafi özellikler, Çemihacı Tepesi'nin hem doğal güzelliklerini hem de tarımsal potansiyelini ortaya koyuyor.
+Çemihacı Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu tepe, Batman ilinin sınırları içerisinde, yaklaşık 140 hektarlık bir alanı kaplıyor. Çemihacı Tepesi'nin coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Tepenin eteklerinde ve çevresinde, çeşitli tarım alanları ve yerleşim yerleri bulunuyor. İklim, genel olarak Güneydoğu Anadolu Bölgesi'nin iklimine benzer, yazları sıcak ve kuru, kışları ise soğuk ve yağışlı geçiyor. Bu coğrafi özellikler, Çemihacı Tepesi'nin hem doğal güzelliklerini hem de tarımsal potansiyelini ortaya koyuyor.
 
 ## Flora ve Fauna
 

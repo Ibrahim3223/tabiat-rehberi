@@ -44,7 +44,7 @@ Doğunun gizli cenneti Kaş Burnu, Van Gölü'nün kuzeybatı ucunda, 38.9500° 
 
 Jeolojik açıdan bakıldığında, Kaş Burnu'nun fiziksel yapısı hakkında detaylı bilgi olmasa da, bu bölgeyi Taksim Meydanı'nın birkaç katı büyüklüğünde bir alan olarak hayal edebiliriz. Bu genişlik, çeşitlilik gösteren flora ve faunayı desteklemek için yeterli bir alan sunuyor. Yükselti ve eğimler, Eiffel Kulesi'nin yüksekliğine benzer bir ölçekte değilse de, çevredeki dağların eteklerine doğru yükselerek bir dizi farklı habitat oluşturuyor.
 
-Mevsimsel değişimler, Kaş Burnu'nun iklim karakterini şekillendiriyor. Kış aylarında bölgenin soğu ve karlı olması, yaz aylarının ise serin ve yağışlı geçmesi, bu bölgeyi kuşlar için bir cennet haline getiriyor. Van Gölü'nün geniş suları, bu mevsimsel değişimlere rağmen, bölgenin iklimini nispeten dengeli tutuyor.
+Mevsimsel değişimler, Kaş Burnu'nun iklim karakterini şekillendiriyor. Kış aylarında bölgenin soğuk ve karlı olması, yaz aylarının ise serin ve yağışlı geçmesi, bu bölgeyi kuşlar için bir cennet haline getiriyor. Van Gölü'nün geniş suları, bu mevsimsel değişimlere rağmen, bölgenin iklimini nispeten dengeli tutuyor.
 
 Çevresel açıdan, Kaş Burnu Van Gölü'nün önemli bir parçası. Gölün su kaynakları, bölgenin ekosistemini canlı tutuyor. Monaco'nun yarısı kadar büyük olmayan bu alan, rağmen zengin bir biyolojik çeşitliliğe ev sahipliği yapıyor. Çevre dağlar ve Van Gölü, Kaş Burnu'nu bir ekosistem ağının merkezi haline getiriyor, bu da bu bölgeyi doğal hayatınlık gösterdiği bir merkez haline getiriyor.
 

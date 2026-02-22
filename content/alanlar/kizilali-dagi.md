@@ -44,7 +44,7 @@ Mersin'in doğal güzelliklerini keşfetmek isteyenler için, 36.4158°K, 33.563
 
 Dağın fiziksel yapısını incelediğimizde, koordinatlarının bize sunduğu bilgiler ışığında, Mersin'in diğer coğrafi oluşumlarına kıyasla nasıl bir konumda olduğu anlaşılabilir. Mersin'in genel coğrafyası, dağların ve ovaların bir arada bulunduğu bir bölge olarak biliniyor. Kızılali Dağı da bu coğrafi yapı içinde, Mersin'in diğer doğal güzelliklerine komşu olarak yer alıyor.
 
-İklim karakteri açısından bakıldığında, Mersin'in genel iklimi, Akdeniz ikliminin özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava hakim. Bu mevsimsel özellikler, Kızılali Dağı ve çevresinin flora ve faunasını da etkiliyor.
+İklim karakteri açısından bakıldığında, Mersin'in genel iklimi, Akdeniz ikliminin özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava hakim. Bu mevsimsel özellikler, Kızılali Dağı ve çevresinin flora ve faunasını da etkiliyor.
 
 Çevresel ilişkiler bakımından, Mersin'in su kaynakları ve ekosistem bağlantıları, doğal dengenin korunması açısından önemli. Kızılali Dağı, Mersin'in diğer doğal alanları ile birlikte, bölgenin ekolojik çeşitliliğini koruyor. Bu doğal güzelliği koruma ve gelecek nesillere aktarmak, hepimizin ortak sorumluluğu.
 

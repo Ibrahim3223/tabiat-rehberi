@@ -45,7 +45,7 @@ Doğal güzelliklerin buluşma noktası olarak bilinen Antalya'nın Aladağ böl
 
 Jeolojik açıdan bakıldığında, Aladağ'ın fiziksel yapısı hakkında detaylı bilgi olmasa da, Antalya'nın genel jeolojik özellikleri dikkate alındığında, bölgenin kalker ve dolomit kayalarından oluştuğu söylenebilir. Bu kayalar, bölgenin coğrafi yapısını şekillendiren önemli faktörlerdir. Aladağ, yaklaşık 1200 hektarlık bir alanı kaplar, bu da Taksim Meydanı'nın yaklaşık 20 katı büyüklüğüne karşılık gelir.
 
-Mevsimler değiştiğinde, Aladağ'ın iklim karakteri değişir. Kış aylarında, bölgede soğu ve yağışlı bir hava hakim olurken, yaz aylarında sıca ve kurak bir iklim hüküm sürer. Bu mevsimsel değişiklikler, bölgenin flora ve fauna yapısını etkiler ve farklı türlerin yaşamasına olanak sağlar.
+Mevsimler değiştiğinde, Aladağ'ın iklim karakteri değişir. Kış aylarında, bölgede soğuk ve yağışlı bir hava hakim olurken, yaz aylarında sıcak ve kurak bir iklim hüküm sürer. Bu mevsimsel değişiklikler, bölgenin flora ve fauna yapısını etkiler ve farklı türlerin yaşamasına olanak sağlar.
 
 Bölgenin çevresel ilişkileri açısından bakıldığında, Aladağ'ın komşu alanlarla ve su kaynaklarıyla bağlantılı olduğu görülür. Bölge, Antalya'nın önemli su kaynaklarından biri olan Düzlerçamı'nda bulunan su kaynaklarına yakındır. Ayrıca, Aladağ, bölgenin ekosistem bağlantılarını sağlayan önemli bir noktadır ve bölgenin biyolojik çeşitliliğini korumada önemli bir rol oynar.
 

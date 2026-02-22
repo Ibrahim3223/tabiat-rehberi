@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Seğiran Tepe, 38.0089°K enl
 
 Doğal bir oluşum olan Seğiran Tepe, yaklaşık olarak 1200 hektarlık bir alanı kaplar. Bu büyüklük, Monaco'nun yarısı kadar bir alanı kaplayan bir yeşil cennete benzer. Ancak, fiziksel yapısı hakkında detaylı bilgiler bulunmamasına rağmen, Seğiran Tepe'nin bölgenin jeolojik yapısını yansıtan bir oluşum olduğu söylenebilir. Bölgenin jeolojik yapısı, kalker ve kiltaşları gibi farklı türdeki kayalardan oluşur.
 
-Mevsimsel değişikliklere göre şekillenen iklim karakteri, Seğiran Tepe'nin coğrafi konumuyla yakından ilgilidir. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklim karakterine sahiptir. Bu mevsimsel özellikler, Seğiran Tepe'nin doğal yaşamını ve bitki örtüsünü etkiler. Ayrıca, bölgenin yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bir noktaya karşılık gelir.
+Mevsimsel değişikliklere göre şekillenen iklim karakteri, Seğiran Tepe'nin coğrafi konumuyla yakından ilgilidir. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklim karakterine sahiptir. Bu mevsimsel özellikler, Seğiran Tepe'nin doğal yaşamını ve bitki örtüsünü etkiler. Ayrıca, bölgenin yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bir noktaya karşılık gelir.
 
 Seğiran Tepe, çevreye duyarlı bir ekosistem olarak, komşu alanlarla ve su kaynaklarıyla bağlantılıdır. Bölge, Diyarbakır'ın sulak alanlarına ve tarım arazilerine yakınlık gösterir. Bu nedenle, Seğiran Tepe'nin çevresel ilişkileri, bölgenin ekolojik dengesini koruma açısından önemlidir. Ayrıca, Seğiran Tepe, bölgenin jeoloji ve coğrafi yapısını şekillendiren bir oluşum olarak, doğal yaşamın çeşitliliğini destekler.
 

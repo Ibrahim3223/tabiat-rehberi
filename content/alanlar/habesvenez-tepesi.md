@@ -36,7 +36,7 @@ Habesvenez Tepesi, tarihi geçmişi ile dikkat çekiyor. Bu tepe, yüzyıllar bo
 
 ## Coğrafya
 
-Habesvenez Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nde yer alıyor. Bu bölge, Mardin ilinin merkez ilçesine bağlı ve il merkezine oldukça yakın. Tepenin etrafı, çeşitli bitki türleri ile kaplı ve zengin bir fauna sahip. İklime gelince, Habesvenez Tepesi ve çevresinde karasal iklim hüküm sürüyor. Yaz ayları sıca ve kurak, kış ayları ise soğu ve yağışlı geçiyor. Bu durum, ziyaretçilerin mevsimsel olarak farklı deneyimler yaşamasına olanak tanıyor. Habesvenez Tepesi, çevresindeki diğer tepe ve dağlar ile birlikte bir bütün olarak düşünülüyor ve bu bölge, coğrafi olarak oldukça çeşitli.
+Habesvenez Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nde yer alıyor. Bu bölge, Mardin ilinin merkez ilçesine bağlı ve il merkezine oldukça yakın. Tepenin etrafı, çeşitli bitki türleri ile kaplı ve zengin bir fauna sahip. İklime gelince, Habesvenez Tepesi ve çevresinde karasal iklim hüküm sürüyor. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçiyor. Bu durum, ziyaretçilerin mevsimsel olarak farklı deneyimler yaşamasına olanak tanıyor. Habesvenez Tepesi, çevresindeki diğer tepe ve dağlar ile birlikte bir bütün olarak düşünülüyor ve bu bölge, coğrafi olarak oldukça çeşitli.
 
 ## Flora ve Fauna
 

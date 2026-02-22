@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Vatiktepeleri, 37.5636°K, 41.5094°D ko
 
 Fiziksel olarak incelendiğinde, Vatiktepeleri yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu boyutlar, bölgenin diğer coğrafi oluşumlarına göre oldukça küçük olsa da, Vatiktepeleri'nin jeolojik özellikleri ve çevresindeki manzaralarla birlikte önemli bir değer taşıyor. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadar bir yükseklikte, ancak bu yükseklik bölgenin genel jeolojik yapısına göre oldukça dikkat çekici.
 
-İklim açısından bakıldığında, Vatiktepeleri ve çevresindeki bölge, Türkiye'nin güneydoğu bölümünün karakteristik iklimini paylaşiyor. Bu bölge, yaz aylarında yüksek sıcaklık ve kuraklık, kış aylarında ise soğu ve yağışlı bir hava durumuyla karakterize ediliyor. Mevsimsel değişiklikler, bölgenin bitki örtüsü ve ekosistemini şekillendiriyor ve Vatiktepeleri, bu değişikliklerin yaşandığı önemli bir coğrafi nokta olarak dikkat çekiyor.
+İklim açısından bakıldığında, Vatiktepeleri ve çevresindeki bölge, Türkiye'nin güneydoğu bölümünün karakteristik iklimini paylaşiyor. Bu bölge, yaz aylarında yüksek sıcaklık ve kuraklık, kış aylarında ise soğuk ve yağışlı bir hava durumuyla karakterize ediliyor. Mevsimsel değişiklikler, bölgenin bitki örtüsü ve ekosistemini şekillendiriyor ve Vatiktepeleri, bu değişikliklerin yaşandığı önemli bir coğrafi nokta olarak dikkat çekiyor.
 
 Çevresel olarak, Vatiktepeleri, Batman Nehri'nin yakınlarında yer alıyor ve bu su kaynağı, bölgenin ekosistemini besliyor. Dağın eteklerinde ve çevresinde yer alan diğer su kaynakları ve vadiler, bölgenin doğal güzelliğini artırıyor ve Vatiktepeleri, bu doğal güzelliğin önemli bir parçası olarak karşımıza çıkıyor.
 

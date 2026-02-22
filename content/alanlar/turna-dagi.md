@@ -45,9 +45,9 @@ Doğu Anadolu Bölgesi'nin kalbinde yer alan Turna Dağı, Bingöl ilinin coğra
 
 Turna Dağı'nın fiziksel yapısı hakkında detaylı bilgiler olmasa da, bölgenin genel jeolojik yapısı dikkate alındığında, dağlık bir araziye sahip olduğu söylenebilir. Bu dağ, bölgenin diğer coğrafi oluşumlarıyla birlikte, bir olimpik havuz kadar bir alanı kaplayabilecek büyüklükte olan küçük bir tepe olarak düşünülebilir. Ancak, Turna Dağı'nın gerçek büyüklüğü ve şekli hakkında daha fazla bilgi edinmek için daha detaylı araştırmalar yapılması gerekiyor.
 
-Bölgenin iklim karakteri, mevsimsel olarak önemli değişiklikler gösteriyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak olan iklim, Turna Dağı'nın çevresindeki bitki örtüsü ve hayvan yaşamını etkiliyor. Hava durumu, bölgenin yüksek rakımı nedeniyle değişkenlik gösterebiliyor ve aniden değişen hava koşullarıyla karşılaşma mümkün.
+Bölgenin iklim karakteri, mevsimsel olarak önemli değişiklikler gösteriyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak olan iklim, Turna Dağı'nın çevresindeki bitki örtüsü ve hayvan yaşamını etkiliyor. Hava durumu, bölgenin yüksek rakımı nedeniyle değişkenlik gösterebiliyor ve aniden değişen hava koşullarıyla karşılaşma mümkün.
 
-Çevresel ilişkiler açısından bakıldığında, Turna Dağı, bölgenin su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahip. Dağın yakınındaki su kaynakları, bölgenin tarım ve hayvan yetiştiriciliğiçin hayati önem taşıyor. Ayrıca, Turna Dağı, bölgenin diğer coğrafi oluşumlarıyla birlikte, bir bütün olarak düşünüldüğünde, Monaco'nun yarısı kadar bir alanı kaplayabilecek büyüklükte olan bir ekosistemi oluşturuyor. Bu nedenle, Turna Dağı ve çevresinin korunması, bölgenin doğal dengesinin sürdürülmesi için büyük önem taşıyor.
+Çevresel ilişkiler açısından bakıldığında, Turna Dağı, bölgenin su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahip. Dağın yakınındaki su kaynakları, bölgenin tarım ve hayvan yetiştiriciliği için hayati önem taşıyor. Ayrıca, Turna Dağı, bölgenin diğer coğrafi oluşumlarıyla birlikte, bir bütün olarak düşünüldüğünde, Monaco'nun yarısı kadar bir alanı kaplayabilecek büyüklükte olan bir ekosistemi oluşturuyor. Bu nedenle, Turna Dağı ve çevresinin korunması, bölgenin doğal dengesinin sürdürülmesi için büyük önem taşıyor.
 
 ## Flora ve Fauna
 

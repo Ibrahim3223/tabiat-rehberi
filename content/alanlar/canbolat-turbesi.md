@@ -37,7 +37,7 @@ Canbolat Türbesi, tarihsel olarak önemli bir geçmişe sahiptir. Kilis ilinin 
 
 ## Coğrafya
 
-Canbolat Türbesi, Güneydoğu Anadolu Bölgesi'nde yer alan Kilis ilinin merkezinde bulunmaktadır. Bu bölgenin coğrafi yapısı, genellikle düz arazilerden oluşmaktadır. Kilis ilinin iklimi, karasal iklim özellikleri taşımaktadır. Yaz ayları sıca ve kurak, kış ayları soğu ve yağışlı geçmektedir. Canbolat Türbesi'nin çevresi, tarihi yapılar ve modern binalarla dolu bir şehir manzarası sunmaktadır. Türbenin bulunduğu alan, ziyaretçilerin kolayca ulaşabileceği bir konuma sahiptir. Çevre, zengin tarihi ve kültürel mirası ile dikkat çekmektedir. Şehir merkezinde yer alan bu türbe, ziyaretçilere şehrin tarihi ve dini yapısını deneyimleme fırsatı sunmaktadır.
+Canbolat Türbesi, Güneydoğu Anadolu Bölgesi'nde yer alan Kilis ilinin merkezinde bulunmaktadır. Bu bölgenin coğrafi yapısı, genellikle düz arazilerden oluşmaktadır. Kilis ilinin iklimi, karasal iklim özellikleri taşımaktadır. Yaz ayları sıcak ve kurak, kış ayları soğuk ve yağışlı geçmektedir. Canbolat Türbesi'nin çevresi, tarihi yapılar ve modern binalarla dolu bir şehir manzarası sunmaktadır. Türbenin bulunduğu alan, ziyaretçilerin kolayca ulaşabileceği bir konuma sahiptir. Çevre, zengin tarihi ve kültürel mirası ile dikkat çekmektedir. Şehir merkezinde yer alan bu türbe, ziyaretçilere şehrin tarihi ve dini yapısını deneyimleme fırsatı sunmaktadır.
 
 ## Flora ve Fauna
 

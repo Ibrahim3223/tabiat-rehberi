@@ -36,7 +36,7 @@ Kadir Tepesi'nin tarihi geçmişi, bölgenin genel tarihsel süreci ile iç içe
 
 ## Coğrafya
 
-Kadir Tepesi, coğrafi açıdan oldukça zengin bir yapıya sahip. Tepenin bulunduğu Şanlıurfa ili, Güneydoğu Anadolu Bölgesi'nin önemli bir bölümünü oluşturuyor. Bölgenin coğrafi yapısı, genellikle dağlık ve engebeli arazilerden oluşuyor. Kadir Tepesi de, bu coğrafi yapı dalamında yer alıyor ve çevresinde çeşitli dağlar ve ovalar bulunmakta. Tepenin yüksekliği ve konumu, bölgede yaşayan bitki ve hayvan türleri için uygun bir yaşam ortamı sunuyor. Ayrıca, Kadir Tepesi'nin eteklerinde yer alan yerleşim yerleri, bölgenin coğrafi yapısını daha da çeşitlendiren bir unsur olarak dikkat çekiyor. Şanlıurfa'nın iklimi, genellikle sıca ve kurak bir yapıya sahip. Kadir Tepesi'nin bulunduğu bölge de, bu iklim yapısının etkilerini taşıyor. Tepenin coğrafi konumu ve iklimi, buranın flora ve faunası üzerinde önemli bir etkiye sahip.
+Kadir Tepesi, coğrafi açıdan oldukça zengin bir yapıya sahip. Tepenin bulunduğu Şanlıurfa ili, Güneydoğu Anadolu Bölgesi'nin önemli bir bölümünü oluşturuyor. Bölgenin coğrafi yapısı, genellikle dağlık ve engebeli arazilerden oluşuyor. Kadir Tepesi de, bu coğrafi yapı dalamında yer alıyor ve çevresinde çeşitli dağlar ve ovalar bulunmakta. Tepenin yüksekliği ve konumu, bölgede yaşayan bitki ve hayvan türleri için uygun bir yaşam ortamı sunuyor. Ayrıca, Kadir Tepesi'nin eteklerinde yer alan yerleşim yerleri, bölgenin coğrafi yapısını daha da çeşitlendiren bir unsur olarak dikkat çekiyor. Şanlıurfa'nın iklimi, genellikle sıcak ve kurak bir yapıya sahip. Kadir Tepesi'nin bulunduğu bölge de, bu iklim yapısının etkilerini taşıyor. Tepenin coğrafi konumu ve iklimi, buranın flora ve faunası üzerinde önemli bir etkiye sahip.
 
 ## Flora ve Fauna
 

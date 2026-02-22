@@ -36,7 +36,7 @@ Seykem Tepesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge,
 
 ## Coğrafya
 
-Seykem Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan bir tepe. Bu bölge, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Seykem Tepesi'nin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşuyor. Bu bölge, Akdeniz ikliminin özellikleri ile birlikte, sıca ve kurak yazlar ile ılık ve yağışlı kışlar yaşıyor. Seykem Tepesi'nin çevresi, genellikle ormanlık alanlar ve tarım arazileri ile kaplı. Bu bölge, yaban hayatı ve flora ile birlikte, önemli bir doğa alanı olarak kabul ediliyor. Seykem Tepesi, Mersin'in önemli coğrafi noktalarından biri olarak dikkat çekiyor.
+Seykem Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan bir tepe. Bu bölge, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Seykem Tepesi'nin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşuyor. Bu bölge, Akdeniz ikliminin özellikleri ile birlikte, sıcak ve kurak yazlar ile ılık ve yağışlı kışlar yaşıyor. Seykem Tepesi'nin çevresi, genellikle ormanlık alanlar ve tarım arazileri ile kaplı. Bu bölge, yaban hayatı ve flora ile birlikte, önemli bir doğa alanı olarak kabul ediliyor. Seykem Tepesi, Mersin'in önemli coğrafi noktalarından biri olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 

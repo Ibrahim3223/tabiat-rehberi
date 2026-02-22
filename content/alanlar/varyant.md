@@ -38,7 +38,7 @@ Varyant'ın tarihi geçmişi, bölgenin doğal güzelliğinin uzun yıllardır i
 
 ## Coğrafya
 
-Varyant, İzmir'in Konak ilçesinde yer alan ve Ege Bölgesi'nin önemli doğal alanlarından biri olarak bilinir. Bu bölge, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğündedir. Coğrafi konumu, Varyant'ı bölgede önemli bir doğal alan haline getirmektedir. Bölge, çeşitli bitki türleri ile kaplıdır ve zengin fauna ile dikkat çekmektedir. İklim, Ege Bölgesi'nin karakteristik Akdeniz iklimi olup, yazları sıca ve kurak, kışları ılık ve yağışlıdır. Bu iklim, bölgede bulunan bitki türlerinin çeşitliliğine de katkıda bulunmaktadır. Varyant, aynı zamanda çevresi ile de uyumlu bir şekilde doğallığını korumaktadır. Bölgenin coğrafi yapısı, ziyaretçilere doğa yürüyüşleri ve keşif için uygun bir ortam sunmaktadır.
+Varyant, İzmir'in Konak ilçesinde yer alan ve Ege Bölgesi'nin önemli doğal alanlarından biri olarak bilinir. Bu bölge, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğündedir. Coğrafi konumu, Varyant'ı bölgede önemli bir doğal alan haline getirmektedir. Bölge, çeşitli bitki türleri ile kaplıdır ve zengin fauna ile dikkat çekmektedir. İklim, Ege Bölgesi'nin karakteristik Akdeniz iklimi olup, yazları sıcak ve kurak, kışları ılık ve yağışlıdır. Bu iklim, bölgede bulunan bitki türlerinin çeşitliliğine de katkıda bulunmaktadır. Varyant, aynı zamanda çevresi ile de uyumlu bir şekilde doğallığını korumaktadır. Bölgenin coğrafi yapısı, ziyaretçilere doğa yürüyüşleri ve keşif için uygun bir ortam sunmaktadır.
 
 ## Flora ve Fauna
 

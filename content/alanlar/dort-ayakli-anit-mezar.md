@@ -37,7 +37,7 @@ Dört Ayaklı Anıt Mezarın tarihi geçmişi, yüzyıllar boyunca farklı uygar
 
 ## Coğrafya
 
-Dört Ayaklı Anıt Mezar, Mersin'in Aydıncık ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Bu bölge, sıca ve kurak bir iklime sahip olan Akdeniz ikliminin característicasını taşıyor. Dört Ayaklı Anıt Mezarın coğrafi konumu, ziyaretçilerin yıl boyunca güzel hava koşulları altında bu alanı ziyaret etmelerine olanak tanıyor. Yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık yeşil alan, ziyaretçilere geniş bir açık alan sunuyor. Bu alan, çeşitli bitki türleri ve zengin fauna çeşitliliği ile dikkat çekiyor. Dört Ayaklı Anıt Mezarın çevresi, doğal güzelliği ile ziyaretçileri etkiliyor ve bu özel mekan, doğa severlerin ilgisini çekiyor.
+Dört Ayaklı Anıt Mezar, Mersin'in Aydıncık ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Bu bölge, sıcak ve kurak bir iklime sahip olan Akdeniz ikliminin característicasını taşıyor. Dört Ayaklı Anıt Mezarın coğrafi konumu, ziyaretçilerin yıl boyunca güzel hava koşulları altında bu alanı ziyaret etmelerine olanak tanıyor. Yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık yeşil alan, ziyaretçilere geniş bir açık alan sunuyor. Bu alan, çeşitli bitki türleri ve zengin fauna çeşitliliği ile dikkat çekiyor. Dört Ayaklı Anıt Mezarın çevresi, doğal güzelliği ile ziyaretçileri etkiliyor ve bu özel mekan, doğa severlerin ilgisini çekiyor.
 
 ## Flora ve Fauna
 

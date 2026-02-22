@@ -37,7 +37,7 @@ Eski Hamam, Kula, tarihsel olarak zengin bir geçmişe sahiptir. Bu bölgenin ta
 
 ## Coğrafya
 
-Eski Hamam, Kula, coğrafi olarak Ege Bölgesi'nin merkezi bir konumunda yer alır. Bu plaj, Manisa'nın Kula ilçesine bağlıdır ve Ege Denizi'ne açılır. Plajın etrafı, yeşilliklerle kaplı dağlar ve tepelerle çevrilidir. Bölgenin iklimi, tipik Akdeniz iklimi özellikleri gösterir; yani yazları sıca ve kurak, kışları ılık ve yağışlı geçtiğinden, plaj ziyaretçileri için ideal bir ortam sunar. Eski Hamam, Kula, geniş kumsalları, berrak suları ve güneşin tadını çıkarmak isteyenler için mükemmel bir destinasyon olarak kabul edilir. Plajın coğrafi konumu, ziyaretçilere doğayı keşfetme ve çeşitli aktivitelere katılma fırsatı sunar.
+Eski Hamam, Kula, coğrafi olarak Ege Bölgesi'nin merkezi bir konumunda yer alır. Bu plaj, Manisa'nın Kula ilçesine bağlıdır ve Ege Denizi'ne açılır. Plajın etrafı, yeşilliklerle kaplı dağlar ve tepelerle çevrilidir. Bölgenin iklimi, tipik Akdeniz iklimi özellikleri gösterir; yani yazları sıcak ve kurak, kışları ılık ve yağışlı geçtiğinden, plaj ziyaretçileri için ideal bir ortam sunar. Eski Hamam, Kula, geniş kumsalları, berrak suları ve güneşin tadını çıkarmak isteyenler için mükemmel bir destinasyon olarak kabul edilir. Plajın coğrafi konumu, ziyaretçilere doğayı keşfetme ve çeşitli aktivitelere katılma fırsatı sunar.
 
 ## Flora ve Fauna
 

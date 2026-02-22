@@ -37,7 +37,7 @@ Sarı Yakup Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve 
 
 ## Coğrafya
 
-Sarı Yakup Türbesi, Karatay, Konya'da yer alıyor ve coğrafi olarak önemli bir konuma sahip. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiş. Türbenin etrafı, geniş yeşil alanlar ve doğal güzelliklerle çevrili. Karatay, Konya'nın coğrafi konumu, türbeye ulaşımı kolaylaştırıyor. Sarı Yakup Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor. Kışlar soğuk, yazlar sıca ve kurak geçer. Bu bölgede, ziyaretçilerin doğal güzellikleri keşfetmeleri için ideal bir ortam sunuluyor.
+Sarı Yakup Türbesi, Karatay, Konya'da yer alıyor ve coğrafi olarak önemli bir konuma sahip. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiş. Türbenin etrafı, geniş yeşil alanlar ve doğal güzelliklerle çevrili. Karatay, Konya'nın coğrafi konumu, türbeye ulaşımı kolaylaştırıyor. Sarı Yakup Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor. Kışlar soğuk, yazlar sıcak ve kurak geçer. Bu bölgede, ziyaretçilerin doğal güzellikleri keşfetmeleri için ideal bir ortam sunuluyor.
 
 ## Flora ve Fauna
 

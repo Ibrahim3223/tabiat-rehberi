@@ -30,7 +30,7 @@ Günay Şelalesi Sit Alanı'nın tarihi geçmişi, yüzyıllar öncesine dayanı
 
 ## Coğrafya
 
-Günay Şelalesi Sit Alanı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, bozkır ve step ekosistemlerinin hakim olduğu bir coğrafyada yer alıyor. Şelale ve çevresindeki doğa, ziyaretçilere benzersiz bir görsel şölen sunuyor. Bölgenin iklimi, İç Anadolu'nun genel iklim özellikleri ile paralellik gösteriyor; yani kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi özellikler, bölgenin flora ve faunasını da etkiliyor.
+Günay Şelalesi Sit Alanı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, bozkır ve step ekosistemlerinin hakim olduğu bir coğrafyada yer alıyor. Şelale ve çevresindeki doğa, ziyaretçilere benzersiz bir görsel şölen sunuyor. Bölgenin iklimi, İç Anadolu'nun genel iklim özellikleri ile paralellik gösteriyor; yani kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi özellikler, bölgenin flora ve faunasını da etkiliyor.
 
 ## Flora ve Fauna
 

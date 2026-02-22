@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi zenginliklerine ev sahipliği yapan Ba
 
 Doğal güzelliği ve coğrafi konumu itibariyle önemli bir nokta olan Aydın Tepe, çevresindeki coğrafi oluşumlar ile birlikte bir bütün olarak değerlendirilmeli. Ancak fiziksel verileri sınırlı olduğu için, boyutları veya şekli hakkında kesin bir bilgi bulunmuyor. Buna rağmen, bölgenin jeolojik yapısı ve coğrafi özellikleri, Aydın Tepe'nin bir dağ olarak sınıflandırılmasına ve bölgenin önemli bir doğal öğesi olarak kabul edilmesine yol açıyor.
 
-Mevsimsel değişimler ve hava durumu, Aydın Tepe'nin coğrafi yapısını ve doğal güzelliğini etkileyen önemli faktörler. Güneydoğu Anadolu Bölgesi'nin genel iklim karakterine uygun olarak, Aydın Tepe de sıca ve kurak yazlar ile soğu ve yağışlı kışlar yaşıyor. Bu mevsimsel özellikler, bölgenin bitki örtüsünü, su kaynaklarını ve genel ekosistemini şekillendiriyor.
+Mevsimsel değişimler ve hava durumu, Aydın Tepe'nin coğrafi yapısını ve doğal güzelliğini etkileyen önemli faktörler. Güneydoğu Anadolu Bölgesi'nin genel iklim karakterine uygun olarak, Aydın Tepe de sıcak ve kurak yazlar ile soğuk ve yağışlı kışlar yaşıyor. Bu mevsimsel özellikler, bölgenin bitki örtüsünü, su kaynaklarını ve genel ekosistemini şekillendiriyor.
 
 Aydın Tepe'nin çevresindeki coğrafi oluşumlar ve su kaynakları, bölgenin ekosistem bağlantılarını ve doğal dengesini etkileyen önemli faktörler. Batman Çayı ve diğer su kaynakları, bölgenin su ihtiyacını karşılamanın yanı sıra, Aydın Tepe'nin doğal güzelliğini ve coğrafi çeşitliliğini de destekleyen önemli unsurlar. Bu doğal ve coğrafi özellikler, Aydın Tepe'nin bir bütün olarak değerlendirilmesini ve bölgenin ekosistemine katkıda bulunmasını sağlıyor.
 

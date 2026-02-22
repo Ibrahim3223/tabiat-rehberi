@@ -36,7 +36,7 @@ Emir Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış 
 
 ## Coğrafya
 
-Emir Tepesi, Mardin'in merkezinde yer alan bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplar. Bu tepenin eteklerinde kurulmuş olan Mardin kenti, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve zengin bir tarihi geçmişe sahiptir. Emir Tepesi, Mardin'in panoramik manzarasını izlemek için ideal bir noktadır. Tepenin üzerinde yer alan tarihi eserler ve doğal güzellikler, ziyaretçilere unutuluz bir deneyim sunar. Emir Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genellikle sıca ve kurak bir iklimi sahiptir. Emir Tepesi, çoğunlukla step ve ova gibi coğrafi oluşumlarla çevrilidir. Tepenin çevresinde yer alan dağlar, Mardin'in coğrafi yapısını etkiler. Emir Tepesi, Mardin'in coğrafi ve tarihi merkezi olarak kabul edilir.
+Emir Tepesi, Mardin'in merkezinde yer alan bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplar. Bu tepenin eteklerinde kurulmuş olan Mardin kenti, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve zengin bir tarihi geçmişe sahiptir. Emir Tepesi, Mardin'in panoramik manzarasını izlemek için ideal bir noktadır. Tepenin üzerinde yer alan tarihi eserler ve doğal güzellikler, ziyaretçilere unutuluz bir deneyim sunar. Emir Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genellikle sıcak ve kurak bir iklimi sahiptir. Emir Tepesi, çoğunlukla step ve ova gibi coğrafi oluşumlarla çevrilidir. Tepenin çevresinde yer alan dağlar, Mardin'in coğrafi yapısını etkiler. Emir Tepesi, Mardin'in coğrafi ve tarihi merkezi olarak kabul edilir.
 
 ## Flora ve Fauna
 

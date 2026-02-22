@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden Van, coğrafyasıyla olduğu kadar
 
 Fiziksel yapısına bakıldığında, Irgat Dağı'nın coğrafi özellikleri hakkında detaylı bilgi bulunmasa da, koordinatlarından anlaşıldığı üzere, Van'ın coğrafi yapısına uygun bir şekilde konumlandığı görülüyor. Birkaç olimpik havuz kadar geniş bir alana yayılmış gibi düşünülebilecek bu dağ, bölgenin jeolojik yapısını yansıtan önemli bir unsur olarak görülüyor.
 
-Mevsimsel özelliklerine bakıldığında, Irgat Dağı'nın bulunduğu bölge, Doğu Anadolu Bölgesi'nin karakteristik iklimine sahip. Kış mevsiminde soğu ve kar yağışlı, yaz mevsiminde ise sıca ve kurak bir hava durumu hakim. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini şekillendiren önemli bir faktör olarak kabul ediliyor.
+Mevsimsel özelliklerine bakıldığında, Irgat Dağı'nın bulunduğu bölge, Doğu Anadolu Bölgesi'nin karakteristik iklimine sahip. Kış mevsiminde soğuk ve kar yağışlı, yaz mevsiminde ise sıcak ve kurak bir hava durumu hakim. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini şekillendiren önemli bir faktör olarak kabul ediliyor.
 
 Çevresel açıdan bakıldığında, Irgat Dağı, Van Gölü'ne yakın bir konumda bulunuyor. Bu göl, bölgenin en önemli su kaynaklarından biri olarak kabul ediliyor ve Irgat Dağı'nın çevresindeki ekosistemi önemli ölçüde etkiliyor. Dağın komşu alanları, Van'ın diğer coğrafi oluşumlarıyla birlikte, bölgenin doğal güzelliğini ve çeşitliliğini ortaya koyuyor.
 

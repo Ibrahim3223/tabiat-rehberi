@@ -37,7 +37,7 @@ Hamam, Akkale plajının tarihi geçmişi, yüzyıllar boyunca birçok medeniyet
 
 ## Coğrafya
 
-Hamam, Akkale plajı, Mersin'in Erdemli ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Bu bölge, Akdeniz ikliminin karakteristik özellikleri olan sıca ve kurak yazlar, ılık ve yağışlı kışlar ile karakterizedir. Plajın coğrafi konumu, ziyaretçilere doğal güzellikler sunuyor. Yaklaşık 1,5 kilometre uzunluğundaki plaj, geniş ve ferah bir alan sunuyor. Ayrıca, plajın bulunduğu bölgede, 다양한 bitki türleri ve zengin fauna ziyaretçileri bekliyor. Plajın yakınında yer alan dağlar ve ormanlar, ziyaretçilere doğayı keşfetme fırsatı sunuyor.
+Hamam, Akkale plajı, Mersin'in Erdemli ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Bu bölge, Akdeniz ikliminin karakteristik özellikleri olan sıcak ve kurak yazlar, ılık ve yağışlı kışlar ile karakterizedir. Plajın coğrafi konumu, ziyaretçilere doğal güzellikler sunuyor. Yaklaşık 1,5 kilometre uzunluğundaki plaj, geniş ve ferah bir alan sunuyor. Ayrıca, plajın bulunduğu bölgede, 다양한 bitki türleri ve zengin fauna ziyaretçileri bekliyor. Plajın yakınında yer alan dağlar ve ormanlar, ziyaretçilere doğayı keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

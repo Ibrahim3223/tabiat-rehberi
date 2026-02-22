@@ -45,7 +45,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden Van, coğrafi olarak oldukça öne
 
 Jeolojik açıdan bakıldığında, Büyük Dağ'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, bölgenin genel coğrafi özellikleri dikkate alındığında, dağlık bir arazi yapısına sahip olduğu söylenebilir. Bu dağ, çevresindeki diğer coğrafi oluşumlarla birlikte, Van'ın doğal güzelliğini ortaya koyar. Monaco'nun yarısı kadar bir alanı kaplayan bu dağ, bölgenin coğrafi çeşitliliğini gösterir.
 
-İklim açısından, Büyük Dağ ve çevresinde, Doğu Anadolu Bölgesi'nin karakteristik iklimi hakimdir. Kışlar soğu ve karlı, yazlar ise sıca ve kurak geçer. Bu mevsimsel farklılıklar, bölgenin flora ve faunasını şekillendirmiş ve zengin bir ekosistem ortaya çıkarmıştır. Eiffel Kulesi'nin 2 katı yükseklikte olan bu dağ, bölgenin hava durumunu etkileyen önemli bir faktördür.
+İklim açısından, Büyük Dağ ve çevresinde, Doğu Anadolu Bölgesi'nin karakteristik iklimi hakimdir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçer. Bu mevsimsel farklılıklar, bölgenin flora ve faunasını şekillendirmiş ve zengin bir ekosistem ortaya çıkarmıştır. Eiffel Kulesi'nin 2 katı yükseklikte olan bu dağ, bölgenin hava durumunu etkileyen önemli bir faktördür.
 
 Bölgenin su kaynakları açısından, Van Gölü'nün yakınında bulunması, Büyük Dağ'ın çevresel ilişkilerini önemli kılar. Dağ, gölün su dengesini etkileyen bir faktör olarak görülür ve bölgenin ekosistemini destekler. İstanbul'un Adalar ilçesi büyüklüğünde olan bu dağ, bölgenin doğal güzelliğini korur ve gelecek nesiller için önemli bir miras olarak kalır.
 

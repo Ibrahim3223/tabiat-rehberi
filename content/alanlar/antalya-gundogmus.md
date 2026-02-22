@@ -31,7 +31,7 @@ Antalya-Gundogmus milli parkının tarihi geçmişi, yüzyıllar boyunca sürer.
 
 ## Coğrafya
 
-Antalya-Gundogmus milli parkı, Antalya'nın Gundogmus ilçesinde yer alır. Bu park, 140 hektarlık bir yeşil alanı kapsar ve ziyaretçilere geniş bir açık alan sunar. Parkın coğrafi yapısı, genellikle engebeli ve dağlıktır. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur. İklim, genellikle Akdeniz iklimi olup, yazları sıca ve kurak, kışları ılıman ve yağışlıdır. Parkın çevresinde, genellikle tarım arazileri ve ormanlık alanlar bulunur. Ziyaretçiler, bu milli parkı ziyaret ederek doğayla iç içe olabilir ve güzel anlar yaşayabilir.
+Antalya-Gundogmus milli parkı, Antalya'nın Gundogmus ilçesinde yer alır. Bu park, 140 hektarlık bir yeşil alanı kapsar ve ziyaretçilere geniş bir açık alan sunar. Parkın coğrafi yapısı, genellikle engebeli ve dağlıktır. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur. İklim, genellikle Akdeniz iklimi olup, yazları sıcak ve kurak, kışları ılıman ve yağışlıdır. Parkın çevresinde, genellikle tarım arazileri ve ormanlık alanlar bulunur. Ziyaretçiler, bu milli parkı ziyaret ederek doğayla iç içe olabilir ve güzel anlar yaşayabilir.
 
 ## Flora ve Fauna
 

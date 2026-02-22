@@ -38,7 +38,7 @@ Konyaaltı Plajı, tarihi geçmişiyle de dikkat çekmektedir. Antalya'nın en e
 
 ## Coğrafya
 
-Konyaaltı Plajı, coğrafi konumu itibariyle de önemli bir bölgedir. Akdeniz Bölgesi'nin en güzel plajlarından biri olan Konyaaltı Plajı, Antalya'nın batı kısmında yer almaktadır. Plaj, Toros Dağları'nın eteklerinde bulunmaktadır ve bu dağların denizle buluştuğu noktada yer almaktadır. Konyaaltı Plajı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olup, geniş kumsalları ve berrak sularıyla dikkat çekmektedir. Plajın etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Konyaaltı Plajı, aynı zamanda iklimi ile de dikkat çekmektedir. Plaj, Akdeniz ikliminin karakteristik özelliklerini taşır ve genellikle sıca ve kuru bir iklimi vardır.
+Konyaaltı Plajı, coğrafi konumu itibariyle de önemli bir bölgedir. Akdeniz Bölgesi'nin en güzel plajlarından biri olan Konyaaltı Plajı, Antalya'nın batı kısmında yer almaktadır. Plaj, Toros Dağları'nın eteklerinde bulunmaktadır ve bu dağların denizle buluştuğu noktada yer almaktadır. Konyaaltı Plajı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olup, geniş kumsalları ve berrak sularıyla dikkat çekmektedir. Plajın etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Konyaaltı Plajı, aynı zamanda iklimi ile de dikkat çekmektedir. Plaj, Akdeniz ikliminin karakteristik özelliklerini taşır ve genellikle sıcak ve kuru bir iklimi vardır.
 
 ## Flora ve Fauna
 

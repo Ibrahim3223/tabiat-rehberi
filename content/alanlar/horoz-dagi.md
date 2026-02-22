@@ -44,7 +44,7 @@ Doğunun kalbinde yer alan Horoz Dağı, Kayseri'nin coğrafi haritasında önem
 
 Jeolojik açıdan bakıldığında, Horoz Dağı'nın oluşumu hakkında detaylı bilgiler bulunmasa da, bu bölgenin coğrafi yapısı oldukça ilgi çekici. Dağın yüksekliği ve genişliği hakkında net veriler olmasa da, çevredeki coğrafi oluşumlar ile karşılaştırıldığında, yaklaşık bir ilçe büyüklüğünde bir alanı kapladığı söylenebilir. Bu büyüklük, Monaco'nun yarısı kadar bir alanı kaplayabilecek bir genişlikte düşünebilir.
 
-İklim açısından bakıldığında, Horoz Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir bölgedir. Kışlar soğu ve karlı, yazlar ise sıca ve kurak geçer. Bu mevsimsel değişimler, bölgenin flora ve fauna oluşumunu etkileyen önemli faktörlerdir. Horoz Dağı, bu iklim koşullarına uyum sağlamış bitki ve hayvan türlerine ev sahipliği yapıyor.
+İklim açısından bakıldığında, Horoz Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir bölgedir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçer. Bu mevsimsel değişimler, bölgenin flora ve fauna oluşumunu etkileyen önemli faktörlerdir. Horoz Dağı, bu iklim koşullarına uyum sağlamış bitki ve hayvan türlerine ev sahipliği yapıyor.
 
 Çevresel açıdan bakıldığında, Horoz Dağı, komşu ovalar ve dağlarla birlikte bir ekosistem oluşturuyor. Bu bölgede bulunan su kaynakları, bölgenin flora ve fauna oluşumunu destekleyen önemli faktörlerdir. Horoz Dağı, bu su kaynaklarının bir kısmını barındıran ve bölgenin ekolojik dengesini sağlayan önemli bir bileşen olarak görülebilir.
 

@@ -36,7 +36,7 @@ Tatilya'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, 
 
 ## Coğrafya
 
-Tatilya, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölge, geniş otlaklarla ve ormanlık alanlarla kaplıdır. İklim, karasal iklim özellikleri gösterir ve bölgede, yazları sıca ve kurak, kışları soğu ve karlı geçer. Tatilya'nın coğrafi yapısı, ziyaretçilere, çeşitli doğa aktiviteleri sunar. Burada, trekking, kampçılık, doğa yürüyüşleri ve piknik gibi etkinlikler, ziyaretçilerin ilgisini çeker. Bölgenin coğrafi güzelliği, ziyaretçileri, bir doğa cennetine davet eder. Tatilya, 140 hektarlık yeşil alanıyla, ziyaretçilere, geniş ve ferah bir mekan sunar.
+Tatilya, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölge, geniş otlaklarla ve ormanlık alanlarla kaplıdır. İklim, karasal iklim özellikleri gösterir ve bölgede, yazları sıcak ve kurak, kışları soğuk ve karlı geçer. Tatilya'nın coğrafi yapısı, ziyaretçilere, çeşitli doğa aktiviteleri sunar. Burada, trekking, kampçılık, doğa yürüyüşleri ve piknik gibi etkinlikler, ziyaretçilerin ilgisini çeker. Bölgenin coğrafi güzelliği, ziyaretçileri, bir doğa cennetine davet eder. Tatilya, 140 hektarlık yeşil alanıyla, ziyaretçilere, geniş ve ferah bir mekan sunar.
 
 ## Flora ve Fauna
 

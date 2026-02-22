@@ -46,7 +46,7 @@ Ege Denizi'nin mavilikleri içinde yer alan Sakarcılar Adası, İstanköy ilçe
 
 Doğal güzelliği ile ön plana çıkan Sakarcılar Adası, yaklaşık bir şehir bloğu büyüklüğünde bir alana sahip. Ada, jeolojik açıdan incelendiğinde, chủ olarak kireçtaşı ve şist gibi kayaçlardan oluşuyor. Bu jeolojik yapı, adanın coğrafi yapısını şekillendirerek, çeşitli doğal oluşumların ortaya çıkmasını sağlıyor.
 
-İklim açısından Sakarcılar Adası, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve kuru, kış aylarında ise ılık ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel değişimler, adanın florası ve faunasını etkileyerek, biyolojik çeşitliliğin zenginleşmesine katkıda bulunuyor.
+İklim açısından Sakarcılar Adası, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel değişimler, adanın florası ve faunasını etkileyerek, biyolojik çeşitliliğin zenginleşmesine katkıda bulunuyor.
 
 Sakarcılar Adası, çevresindeki diğer adalar ve anakara ile birlikte bir ekosistem ağı içinde yer alıyor. Ada, su kaynakları açısından zengin değil, ancak Ege Denizi'ndeki su akıntıları ve dalgalanmalar, adanın kıyılarını şekillendirerek, çeşitli deniz canlılarının yaşam alanlarını oluşturuyor. Bu doğal bağlantılar, adanın çevresel dengesini korumasında önemli bir rol oynuyor.
 

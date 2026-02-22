@@ -36,7 +36,7 @@ Karamanbaşı Tepesi, tarihsel geçmişi ile dikkat çekiyor. Bu bölge, yüzyı
 
 ## Coğrafya
 
-Karamanbaşı Tepesi, Muğla'nın coğrafi yapısını temsil ediyor. Bu bölge, Ege Bölgesi'nin karakteristik özelliklerini taşıyor. İklimi, Akdeniz ikliminin özellikleri gösteriyor; yazları sıca ve kurak, kışları ılık ve yağışlı. Çevre, çeşitli bitki türleri ile kaplı ve zengin fauna ile dolu. Karamanbaşı Tepesi, deniz seviyesinden belirli bir yükseklikte yer alıyor ve bu da ziyaretçilere bölgenin güzel manzarasını sunuyor. Ayrıca, tepe ve çevresinde yapılan yürüyüşler ve tırmanışlar, ziyaretçilere farklı deneyimler sunuyor. Karamanbaşı Tepesi'nin coğrafi konumu, ziyaretçilere birçok aktivite imkanı sağlıyor.
+Karamanbaşı Tepesi, Muğla'nın coğrafi yapısını temsil ediyor. Bu bölge, Ege Bölgesi'nin karakteristik özelliklerini taşıyor. İklimi, Akdeniz ikliminin özellikleri gösteriyor; yazları sıcak ve kurak, kışları ılık ve yağışlı. Çevre, çeşitli bitki türleri ile kaplı ve zengin fauna ile dolu. Karamanbaşı Tepesi, deniz seviyesinden belirli bir yükseklikte yer alıyor ve bu da ziyaretçilere bölgenin güzel manzarasını sunuyor. Ayrıca, tepe ve çevresinde yapılan yürüyüşler ve tırmanışlar, ziyaretçilere farklı deneyimler sunuyor. Karamanbaşı Tepesi'nin coğrafi konumu, ziyaretçilere birçok aktivite imkanı sağlıyor.
 
 ## Flora ve Fauna
 

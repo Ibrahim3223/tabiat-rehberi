@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin en güzel köşelerinden biri olan Küçükgöl Dağ�
 
 Jeolojik açıdan incelendiğinde, Küçükgöl Dağı'nın etrafındaki coğrafi oluşumlar, bölgenin karmaşık bir geçmişi olduğunu gösteriyor. Dağın boyutları hakkında detaylı bilgi olmasa da, 39.3200°K ve 39.7175°D koordinatları, bu dağın Tunceli ilinin merkezi ile benzer bir genişlikte olduğunu gösteriyor. Bir şehir bloğu büyüklüğünde olan bu alan, bölgenin önemli bir parçasını oluşturuyor.
 
-İklim açısından bakıldığında, Küçükgöl Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir alan. Mevsimsel farklılıkların belirgin olduğu bu bölgede, yaz ayları sıca ve kurak, kış ayları ise soğu ve karlı geçiyor. Hava durumu, bölgenin coğrafi yapısından dolayı değişkenlik gösteriyor. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu dağ, bölgenin önemli bir su kaynağını da oluşturuyor.
+İklim açısından bakıldığında, Küçükgöl Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir alan. Mevsimsel farklılıkların belirgin olduğu bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise soğuk ve karlı geçiyor. Hava durumu, bölgenin coğrafi yapısından dolayı değişkenlik gösteriyor. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu dağ, bölgenin önemli bir su kaynağını da oluşturuyor.
 
 Bölgenin ekosistemi açısından önemli bir role sahip olan Küçükgöl Dağı, çevresindeki su kaynakları ve ekosistem bağlantıları ile bir bütün oluşturuyor. Monaco'nun yarısı kadar büyük bir alana sahip olan bu dağ, bölgenin önemli bir parçasını oluşturuyor. Çevresindeki dağlarla birlikte, bir bütün olarak düşünüldüğünde, İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplıyor. Bu dağ, bölgenin önemli bir su kaynağını da oluşturuyor ve çevresindeki ekosistem bağlantıları ile bir bütün oluşturuyor.
 

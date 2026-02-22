@@ -30,7 +30,7 @@ Paşalar Kayin Milli Parkı'nın tarihi geçmişi, Bursa'nın tarihi ile iç iç
 
 ## Coğrafya
 
-Paşalar Kayin Milli Parkı, Marmara Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş bir milli park. 140 hektarlık alanı, çeşitli bitki türleri ve zengin fauna ile kaplı. Milli parkın coğrafi konumu, ziyaretçilerine geniş bir görüş açısı sunuyor. Paşalar Kayin Milli Parkı, Bursa'nın coğrafi özellikleri ile uyumlu bir şekilde tasarlanmış. Milli parkın iklimi, Marmara Bölgesi'nin iklimine uygun olarak değişken. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıcak ve nemli bir iklim hüküm sürüyor. Bu iklim, çeşitli bitki türlerinin yetişmesine uygun koşullar sağlıyor. Milli parkın çevresi, Bursa'nın diğer doğal güzelliklerine yakın bir konumda yer alıyor. Ziyaretçiler, milli parkı ziyaret ederken aynı zamanda Bursa'nın diğer turistik noktalarını da keşfedebilirler.
+Paşalar Kayin Milli Parkı, Marmara Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş bir milli park. 140 hektarlık alanı, çeşitli bitki türleri ve zengin fauna ile kaplı. Milli parkın coğrafi konumu, ziyaretçilerine geniş bir görüş açısı sunuyor. Paşalar Kayin Milli Parkı, Bursa'nın coğrafi özellikleri ile uyumlu bir şekilde tasarlanmış. Milli parkın iklimi, Marmara Bölgesi'nin iklimine uygun olarak değişken. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve nemli bir iklim hüküm sürüyor. Bu iklim, çeşitli bitki türlerinin yetişmesine uygun koşullar sağlıyor. Milli parkın çevresi, Bursa'nın diğer doğal güzelliklerine yakın bir konumda yer alıyor. Ziyaretçiler, milli parkı ziyaret ederken aynı zamanda Bursa'nın diğer turistik noktalarını da keşfedebilirler.
 
 ## Flora ve Fauna
 

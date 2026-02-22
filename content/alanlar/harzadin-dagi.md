@@ -44,7 +44,7 @@ Konya'nın doğal güzelliklerine doğru bir yolculukta, ilk durağımız Harzad
 
 Jeolojik açıdan bakıldığında, Harzadin Dağı'nın boyutları hakkında net bir veri olmasa da, bu bölgenin genel coğrafi yapısı, bölgenin diğer dağlık alanlarına benzerlik gösteriyor. Monaco'nun yarısı kadar bir alanı kapsayan Konya ilinin genel coğrafyası, geniş ovalar ve dağlık alanlardan oluşuyor. Harzadin Dağı da bu dağlık alanların bir parçası olarak, bölgenin jeolojik yapısına katkıda bulunuyor.
 
-Mevsimsel değişikliklere bakıldığında, Harzadin Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir bölgede yer alıyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir iklim karakteri gösteren bu bölge, mevsimsel olarak önemli değişiklikler gösteriyor. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı zirveler, bu bölgenin yüksekliklerine örnek olarak gösterilebilir.
+Mevsimsel değişikliklere bakıldığında, Harzadin Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir bölgede yer alıyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim karakteri gösteren bu bölge, mevsimsel olarak önemli değişiklikler gösteriyor. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı zirveler, bu bölgenin yüksekliklerine örnek olarak gösterilebilir.
 
 Doğal kaynaklar açısından bakıldığında, Harzadin Dağı'nın bulunduğu bölge, su kaynakları açısından zengin bir bölge değil. Ancak, bölgenin genel ekosistemine bakıldığında, geniş otlaklar ve tarım arazileri, bu bölgenin doğal güzelliklerine katkıda bulunuyor. İstanbul'un Adalar ilçesi büyüklüğünde olan Konya ilinin genel coğrafyası, Harzadin Dağı gibi dağlık alanlar ve geniş ovalar ile dolu.
 

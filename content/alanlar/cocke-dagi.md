@@ -45,7 +45,7 @@ Güneydoğu Anadolu Bölgesi'nin dağlık coğrafyasında yer alan Cöcke Dağı
 
 Jeolojik açıdan bakıldığında, Cöcke Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, dağlık bir bölge olarak karakterize edilebilir. Dağın yüksekliği ve genişliği, Monaco'nun yarısı kadar bir alanı kaplayacak büyüklüktedir. Bu büyüklük, Taksim Meydanı'nın birkaç katı büyüklüğüne eşittir. Cöcke Dağı, bölgenin önemli bir doğal güzelliği olarak dikkat çekmektedir.
 
-İklimsel açıdan, Cöcke Dağı surroundingleri ile birlikte, güneydoğu Anadolu Bölgesi'nin karakteristik iklimini yansıtmaktadır. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve karlı bir iklimi sahiptir. Dağın yüksekliği, bölgenin iklimini şekillendiren önemli faktörlerden biridir. Örneğin, Eiffel Kulesi'nin 2 katı yükseklikte olan bazı zirveler, bölgenin önemli bir bölümünü kaplar.
+İklimsel açıdan, Cöcke Dağı surroundingleri ile birlikte, güneydoğu Anadolu Bölgesi'nin karakteristik iklimini yansıtmaktadır. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı bir iklimi sahiptir. Dağın yüksekliği, bölgenin iklimini şekillendiren önemli faktörlerden biridir. Örneğin, Eiffel Kulesi'nin 2 katı yükseklikte olan bazı zirveler, bölgenin önemli bir bölümünü kaplar.
 
 Çevresel açıdan, Cöcke Dağı, bölgenin diğer dağlık alanları ile birlikte bir ekosistem oluşturur. Dağın yakınında bulunan su kaynakları, bölgenin önemli bir bölümünü kapsar. Örneğin, dağın eteklerinde bulunan bir göl, İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplar. Bu su kaynakları, bölgenin flora ve fauna çeşitliliğini desteklemektedir.
 

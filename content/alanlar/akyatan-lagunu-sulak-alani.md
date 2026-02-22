@@ -30,7 +30,7 @@ Akyatan Lagünü Sulak Alanı'nın tarihi geçmişi oldukça eskilere dayanır. 
 
 ## Coğrafya
 
-Akyatan Lagünü Sulak Alanı, İç Anadolu Bölgesi'nde yer alıyor. Bu sulak alan, 140 hektarlık bir alanı kapsıyor ve çevresinde çeşitli bitki türleri bulunmakta. Akyatan Lagünü Sulak Alanı, iklim olarak karasal iklime sahip olan İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölgede, yaz ayları sıca ve kurak, kış ayları ise soğu ve karlı geçiyor. Akyatan Lagünü Sulak Alanı, coğrafi olarak önemli bir konumda bulunuyor. Bu sulak alan, birçok nehrin ve derenin birleştiği bir bölgede yer alıyor. Akyatan Lagünü Sulak Alanı'nın coğrafi konumu, bölgenin ekolojik dengesini korumasında önemli bir rol oynuyor. Bu alan, birçok canlı türünün yaşam alanı olarak hizmet veriyor ve bölgenin biyolojik çeşitliliğini koruyor.
+Akyatan Lagünü Sulak Alanı, İç Anadolu Bölgesi'nde yer alıyor. Bu sulak alan, 140 hektarlık bir alanı kapsıyor ve çevresinde çeşitli bitki türleri bulunmakta. Akyatan Lagünü Sulak Alanı, iklim olarak karasal iklime sahip olan İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise soğuk ve karlı geçiyor. Akyatan Lagünü Sulak Alanı, coğrafi olarak önemli bir konumda bulunuyor. Bu sulak alan, birçok nehrin ve derenin birleştiği bir bölgede yer alıyor. Akyatan Lagünü Sulak Alanı'nın coğrafi konumu, bölgenin ekolojik dengesini korumasında önemli bir rol oynuyor. Bu alan, birçok canlı türünün yaşam alanı olarak hizmet veriyor ve bölgenin biyolojik çeşitliliğini koruyor.
 
 ## Flora ve Fauna
 

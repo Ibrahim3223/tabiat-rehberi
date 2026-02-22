@@ -38,7 +38,7 @@ Labraunda Güney Hamamı'nın tarihi geçmişi, Milas'ın tarihine bağlı. Mila
 
 ## Coğrafya
 
-Labraunda Güney Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak biliniyor. Plaj, Milas'ta yer alıyor ve denize sıfır konumuyla dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Plajın etrafında, çeşitli restoranlar ve kafeler bulunmakta. Labraunda Güney Hamamı, Ege Bölgesi'nin güzelliğini gözler önüne seriyor. Plajın iklimi, Ege Bölgesi'nin karakteristik iklimi olarak biliniyor. Yaz aylarında sıca ve güneşli, kış aylarında ise serin ve yağışlı bir iklim hüküm sürüyor. Labraunda Güney Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak görülüyor.
+Labraunda Güney Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak biliniyor. Plaj, Milas'ta yer alıyor ve denize sıfır konumuyla dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Plajın etrafında, çeşitli restoranlar ve kafeler bulunmakta. Labraunda Güney Hamamı, Ege Bölgesi'nin güzelliğini gözler önüne seriyor. Plajın iklimi, Ege Bölgesi'nin karakteristik iklimi olarak biliniyor. Yaz aylarında sıcak ve güneşli, kış aylarında ise serin ve yağışlı bir iklim hüküm sürüyor. Labraunda Güney Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak görülüyor.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Birgeli Tepesi, 37.5628°K ve 41.2589°D
 
 Jeolojik açıdan bakıldığında, Birgeli Tepesi'nin etrafındaki coğrafya oldukça karmaşık. Tepenin kendisi, 1200 hektarlık bir alana yayılsa da, tam olarak boyutları bilinmemekle birlikte, bu büyüklük yaklaşık olarak Taksim Meydanı'nın 20 katı kadar bir alanı kaplayabilir. Tepenin şekli ve yapısı, bölgenin jeolojik geçmişini yansıtıyor; ancak detaylı fiziksel veriler bulunmaması, bu tepenin tam olarak nasıl bir yapıya sahip olduğunu tam olarak anlamamızı engelliyor.
 
-Mevsimsel olarak, Birgeli Tepesi'nin bulunduğu bölge, yazın sıca ve kurak, kışın ise soğu ve yağışlı bir iklimi yaşıyor. Bu mevsimsel değişimler, tepenin ve çevresinin florası ve faunası üzerinde önemli bir etkiye sahip. Yüksekli ve coğrafi konum, bu bölgenin iklim karakterini şekillendiriyor ve Eiffel Kulesi'nin 2 katı yükseklikte olan bir noktada, hava koşulları oldukça değişken olabilir.
+Mevsimsel olarak, Birgeli Tepesi'nin bulunduğu bölge, yazın sıcak ve kurak, kışın ise soğuk ve yağışlı bir iklimi yaşıyor. Bu mevsimsel değişimler, tepenin ve çevresinin florası ve faunası üzerinde önemli bir etkiye sahip. Yüksekli ve coğrafi konum, bu bölgenin iklim karakterini şekillendiriyor ve Eiffel Kulesi'nin 2 katı yükseklikte olan bir noktada, hava koşulları oldukça değişken olabilir.
 
 Çevresel açıdan, Birgeli Tepesi, Batman Nehri'nin ve diğer su kaynaklarının yakınında yer alıyor. Bu su kaynakları, tepenin etrafındaki ekosistemi besliyor ve bölgenin canlı çeşitliliğini destekliyor. Tepenin komşu alanları, genellikle dağlık ve ormanlık bölgelerdir ve bu bölgeler, Birgeli Tepesi'ni bir doğal koridor gibi sarıp, bölgenin biyolojik zenginliğini koruyor.
 

@@ -53,7 +53,7 @@ Jeolojik açıdan incelendiğinde, Koşan Dağı'nın fiziksel yapısı hakkınd
 
 Koşan Dağı, step bitki örtüsünün hakim olduğu bir bölgede yer alır. İlkbaharla birlikte, dağ yamaçları renkli çiçeklerle donanır. Yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği gösterir. Dağın eteklerinde, kuraklığa adapte etmiş bozkır bitkileri görülür.
 
-Yaban hayatı açısından zengin olan Koşan Dağı, çeşitli memeli ve kuş türlerine ev sahipliği yapar. Dağ keçileri ve yaban keçileri, dağlık alanlarda yaşarken, göç mevsiminde, birçok kuş türü dağların üzerinden geçer. Sürüngenler de, dağların sıca ve kurak bölgelerinde bulunur.
+Yaban hayatı açısından zengin olan Koşan Dağı, çeşitli memeli ve kuş türlerine ev sahipliği yapar. Dağ keçileri ve yaban keçileri, dağlık alanlarda yaşarken, göç mevsiminde, birçok kuş türü dağların üzerinden geçer. Sürüngenler de, dağların sıcak ve kurak bölgelerinde bulunur.
 
 Koşan Dağı, ekolojik açıdan önemli bir bölgedir. Yükseklik zonları, farklı yaşam alanları sunar ve bu da çeşitli türlerin bir arada yaşamasını sağlar. Bu dağ ekosistemi, bölgenin su döngüsünü düzenlemede önemli bir rol oynar. Koruma durumu açısından, Koşan Dağı'nın doğal güzelliği ve biyolojik çeşitliliği, gelecekteki nesiller için korunması gereken bir değer olarak görülür.
 

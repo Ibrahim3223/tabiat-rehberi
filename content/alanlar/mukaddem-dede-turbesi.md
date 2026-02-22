@@ -37,7 +37,7 @@ Mukaddem Dede Türbesi, yüzyılların geçtiği ve tarihi olayların yaşandı�
 
 ## Coğrafya
 
-Mukaddem Dede Türbesi, Mersin'in Silifke ilçesinde yer alıyor ve Akdeniz Bölgesi'nin doğal güzelliklerine sahip bir bölgede bulunuyor. Bu bölge, yeşilin her tonunu sunan ormanlarla çevrili ve ziyaretçilerini doğanın kucaklayışına davet ediyor. Akdeniz ikliminin hüküm sürdüğü bu bölgede, yazlar sıca ve kurak, kışlar ise ılıman ve yağışlı geçiyor. Mukaddem Dede Türbesi'nin bulunduğu Silifke ilçesi, coğrafi olarak deniz seviyesinden yüksek bir konumda yer alıyor ve bu nedenle ziyaretçilerine geniş bir manzara sunuyor. Türbe ve çevresi, doğanın güzelliğini ve bölgenin coğrafi özelliklerini gözler önüne sererek ziyaretçilerini büyülüyor. 140 hektarlık alan, ziyaretçilere geniş bir yeşil alan sunuyor ve doğanın dansını izleme fırsatı veriyor.
+Mukaddem Dede Türbesi, Mersin'in Silifke ilçesinde yer alıyor ve Akdeniz Bölgesi'nin doğal güzelliklerine sahip bir bölgede bulunuyor. Bu bölge, yeşilin her tonunu sunan ormanlarla çevrili ve ziyaretçilerini doğanın kucaklayışına davet ediyor. Akdeniz ikliminin hüküm sürdüğü bu bölgede, yazlar sıcak ve kurak, kışlar ise ılıman ve yağışlı geçiyor. Mukaddem Dede Türbesi'nin bulunduğu Silifke ilçesi, coğrafi olarak deniz seviyesinden yüksek bir konumda yer alıyor ve bu nedenle ziyaretçilerine geniş bir manzara sunuyor. Türbe ve çevresi, doğanın güzelliğini ve bölgenin coğrafi özelliklerini gözler önüne sererek ziyaretçilerini büyülüyor. 140 hektarlık alan, ziyaretçilere geniş bir yeşil alan sunuyor ve doğanın dansını izleme fırsatı veriyor.
 
 ## Flora ve Fauna
 

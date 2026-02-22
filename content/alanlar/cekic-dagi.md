@@ -44,7 +44,7 @@ Gökyüzüne uzanan Çekiç Dağı, Konya'nın coğrafi zenginliklerinin önemli
 
 Doğal güzelliği ve jeolojik yapısıyla dikkat çeken Çekiç Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu küçük ama önemli alan, bölgenin coğrafi çeşitliliğini göstermesi açısından önemli bir rol oynuyor. Çekiç Dağı'nın fiziksel yapısı, bölgenin jeolojik tarihini yansıtan bir şekilde şekillenmiştir. Etrafındaki dağlar ve ovalarla birlikte, Çekiç Dağı, bölgenin coğrafi yapısını oluşturan önemli bir parça olarak görülüyor.
 
-Yıl boyunca değişen hava koşulları, Çekiç Dağı'nın iklim karakterini şekillendiriyor. Konya'nın genel iklimi gibi, Çekiç Dağı da karasal iklimin etkilerini gösteriyor. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kuru bir hava hüküm sürüyor. Bu mevsimsel değişimler, bölgenin ekosistemini ve doğal yaşamını etkileyen önemli faktörler arasında yer alıyor.
+Yıl boyunca değişen hava koşulları, Çekiç Dağı'nın iklim karakterini şekillendiriyor. Konya'nın genel iklimi gibi, Çekiç Dağı da karasal iklimin etkilerini gösteriyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kuru bir hava hüküm sürüyor. Bu mevsimsel değişimler, bölgenin ekosistemini ve doğal yaşamını etkileyen önemli faktörler arasında yer alıyor.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları, Çekiç Dağı'nın çevresel ilişkileri açısından önemli bir role sahip. Etrafındaki ovalar ve dağlarla birlikte, Çekiç Dağı, bölgenin su döngüsünü ve ekosistemini etkileyen bir coğrafi unsur olarak görülüyor. Monaco'nun küçük bir bölümü kadar bir alanı kaplayan Çekiç Dağı, bölgenin doğal güzelliğini ve çeşitliliğini koruma açısından önemli bir görev üstleniyor.
 

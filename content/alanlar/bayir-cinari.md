@@ -31,7 +31,7 @@ Bayır Çınarı'nın tarihi geçmişi, yüzyıllar boyunca süregelen bir doğa
 
 ## Coğrafya
 
-Bayır Çınarı, İç Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alır. Bu milli park, 140 hektarlık geniş bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bölgenin coğrafi yapısı, çeşitli bitki türlerinin yetişmesine ve zengin faunanın barınmasına elverişlidir. Bayır Çınarı'nın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurudur. Milli parkın çevresi, doğal güzellikleriyle ziyaretçileri etkileyen bir manzaraya sahiptir. Burada, ziyaretçiler, doğanın içinde huzur bulabilir ve příroda ile baş başa olabilirler.
+Bayır Çınarı, İç Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alır. Bu milli park, 140 hektarlık geniş bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bölgenin coğrafi yapısı, çeşitli bitki türlerinin yetişmesine ve zengin faunanın barınmasına elverişlidir. Bayır Çınarı'nın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Milli parkın çevresi, doğal güzellikleriyle ziyaretçileri etkileyen bir manzaraya sahiptir. Burada, ziyaretçiler, doğanın içinde huzur bulabilir ve příroda ile baş başa olabilirler.
 
 ## Flora ve Fauna
 

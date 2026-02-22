@@ -36,7 +36,7 @@ Kaplap Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bö
 
 ## Coğrafya
 
-Kaplap Tepesi, Karaman'ın coğrafi yapısının önemli bir parçasıdır. Tepenin yüksekliği, şehrin diğer noktalarından daha yüksektir ve bu nedenle, tepeden şehrin panoramik manzarasını izleme mümkündür. Tepenin etrafında, çeşitli bitki türleri bulunur ve bu bitkiler, mevsimsel değişimlerle birlikte renklenir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve dört mevsim ayrımları belirgindir. Kış aylarında kar yağışı görülürken, yaz aylarında sıca ve khô bir hava hakimdir. Tepenin coğrafi konumu, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar.
+Kaplap Tepesi, Karaman'ın coğrafi yapısının önemli bir parçasıdır. Tepenin yüksekliği, şehrin diğer noktalarından daha yüksektir ve bu nedenle, tepeden şehrin panoramik manzarasını izleme mümkündür. Tepenin etrafında, çeşitli bitki türleri bulunur ve bu bitkiler, mevsimsel değişimlerle birlikte renklenir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve dört mevsim ayrımları belirgindir. Kış aylarında kar yağışı görülürken, yaz aylarında sıcak ve kuru bir hava hakimdir. Tepenin coğrafi konumu, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

@@ -46,7 +46,7 @@ Güneydoğu Anadolu Bölgesi'nin en güzel köşelerinden biri olan Van Gölü'n
 
 Doğal güzellikleri ile dikkat çeken Çarpanak Adası, coğrafi olarak bir ada olduğu için sınırları net bir şekilde belirlenmiştir. Ancak, fiziksel yapısı hakkında detaylı bilgiler bulunmamasına rağmen, adanın Van Gölü'nün suları ile çevrili olduğunu ve bu su kaynaklarının adanın iklimini ve ekosistemini etkilediğini söyleyebiliriz. Monaco'nun küçük bir bölümü kadar bir alanı kaplayan Çarpanak Adası, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alan olarak düşünülebilir.
 
-Mevsimsel değişiklikler, Çarpanak Adası'nın iklimini şekillendirmektedir. Van Gölü'nün suyu, adanın iklimini yumuşatmaktadır. Kış aylarında soğu ve kar yağışlı olan hava, yaz aylarında sıca ve güneşli bir havaya dönüşmektedir. Eiffel Kulesi'nin birkaç katı yükseklikte olan ing dağlar, adanın iklimini etkileyen önemli faktörlerden biridir.
+Mevsimsel değişiklikler, Çarpanak Adası'nın iklimini şekillendirmektedir. Van Gölü'nün suyu, adanın iklimini yumuşatmaktadır. Kış aylarında soğuk ve kar yağışlı olan hava, yaz aylarında sıcak ve güneşli bir havaya dönüşmektedir. Eiffel Kulesi'nin birkaç katı yükseklikte olan ing dağlar, adanın iklimini etkileyen önemli faktörlerden biridir.
 
 Çevresel açıdan bakıldığında, Çarpanak Adası Van Gölü ile sıkı bir ilişki içindedir. Gölün suyu, adanın ekosistemini desteklemektedir. Adanın komşu alanları, Van ilinin diğer bölgeleri ile bağlantılıdır. İstanbul'un Adalar ilçesi büyüklüğünde bir bölge olan Van Gölü, Çarpanak Adası'nı da içine alan bir ekosistem olarak düşünülebilir. Bu ekosistem, birçok canlı türünün yaşamasına olanak sağlamaktadır.
 

@@ -42,7 +42,7 @@ Mersin'in coğrafi güzelliklerini keşfetmeye başladığımızda, Kobaklı Da�
 
 Doğal güzelliği ile dikkat çeken Kobaklı Dağı, coğrafi olarak bakıldığında bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu küçük ama zengin bölge, Mersin'in jeolojik yapısını gözler önüne seriyor. Kobaklı Dağı'nın şekli ve boyutları, bölgenin jeolojik geçmişini anlamak için önemli ipuçları sunuyor. Bu dağ, Mersin'in coğrafi çeşitliliğini gösteren önemli bir nokta olarak dikkat çekiyor.
 
-İklim karakteri açısından bakıldığında, Kobaklı Dağı'nın mevsimsel özelliklerini incelemek gerekiyor. Bu bölgede, yaz aylarında sıca ve kuru bir hava hakimken, kış aylarında ılıman bir iklim göze çarpıyor. Bu mevsimsel değişiklikler, Kobaklı Dağı'nın flora ve fauna çeşitliliğini etkiliyor. Hava durumu, bölgenin ekolojik dengesini belirlemede önemli bir rol oynuyor.
+İklim karakteri açısından bakıldığında, Kobaklı Dağı'nın mevsimsel özelliklerini incelemek gerekiyor. Bu bölgede, yaz aylarında sıcak ve kuru bir hava hakimken, kış aylarında ılıman bir iklim göze çarpıyor. Bu mevsimsel değişiklikler, Kobaklı Dağı'nın flora ve fauna çeşitliliğini etkiliyor. Hava durumu, bölgenin ekolojik dengesini belirlemede önemli bir rol oynuyor.
 
 Çevresel ilişkiler açısından, Kobaklı Dağı'nın komşu alanlar ve su kaynakları ile bağlantısı önemli. Bu dağ, bölgenin hidrolojik dengesini etkileyen önemli bir faktör. Kobaklı Dağı'nın ekosistem bağlantıları, bölgenin biyolojik çeşitliliğini desteklemeye yardımcı oluyor. Bu bağlantılar, bölgenin doğal güzelliğini korumanın ve sürdürülebilirliğini sağlamak için önemli.
 

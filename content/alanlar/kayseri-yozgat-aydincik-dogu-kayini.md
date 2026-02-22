@@ -30,7 +30,7 @@ Kayseri-Yozgat-Aydincik-Dogu Kayini milli parkının tarihi geçmişi, bölgenin
 
 ## Coğrafya
 
-Kayseri-Yozgat-Aydincik-Dogu Kayini milli parkı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Parkın bulunduğu bölge, bozkırlar ve step alanlarıyla kaplıdır. İklimi, İç Anadolu'nun karasal iklimine uygun olarak, kışları soğu ve kar yağışlı, yazları ise sıcak ve kurudur. Bölge, yüksek otlaklarla çevrilidir ve bu otlaklar, özellikle bahar aylarında, rengarenk çiçeklerle donanır. Parkın coğrafi yapısı, ziyaretçilere doğa yürüyüşleri, manzara seyri ve doğa fotoğrafçılığı gibi aktiviteler için ideal bir ortam sunar. Ayrıca, bölgenin jeolojik yapısı, çeşitli kaya oluşumları ve yer şekilleri ile dikkat çeker. Bu doğal güzellikler, ziyaretçilere hem doğanın mucizelerini keşfetme hem de coğrafi bilinci artırma fırsatı verir.
+Kayseri-Yozgat-Aydincik-Dogu Kayini milli parkı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Parkın bulunduğu bölge, bozkırlar ve step alanlarıyla kaplıdır. İklimi, İç Anadolu'nun karasal iklimine uygun olarak, kışları soğuk ve kar yağışlı, yazları ise sıcak ve kurudur. Bölge, yüksek otlaklarla çevrilidir ve bu otlaklar, özellikle bahar aylarında, rengarenk çiçeklerle donanır. Parkın coğrafi yapısı, ziyaretçilere doğa yürüyüşleri, manzara seyri ve doğa fotoğrafçılığı gibi aktiviteler için ideal bir ortam sunar. Ayrıca, bölgenin jeolojik yapısı, çeşitli kaya oluşumları ve yer şekilleri ile dikkat çeker. Bu doğal güzellikler, ziyaretçilere hem doğanın mucizelerini keşfetme hem de coğrafi bilinci artırma fırsatı verir.
 
 ## Flora ve Fauna
 

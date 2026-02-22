@@ -44,7 +44,7 @@ Güneyde uzanan Antalya'nın dağlık arazilerinde, 36.8870°K, 32.0245°D koord
 
 Doğal güzelliği ve jeolojik yapısıyla dikkat çeken Manoğlu Dağı, bölgenin jeolojik geçmişini yansıtan bir oluşumdur. Ne yazık ki, detaylı fiziksel verilerin eksikliği, bu dağ hakkında daha spesifik bilgiler edinmemizi engeller. Ancak, genel olarak Antalya bölgesinin coğrafyası, Toros Dağları'nın bir parçasını oluşturan ve çeşitli jeolojik oluşumları barındıran geniş bir alandır.
 
-Mevsimsel değişikliklerle birlikte, Manoğlu Dağı'nın iklimi değişkenlik gösterir. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu iklim karakteri, bölgenin flora ve faunasını şekillendirmekte ve eşsiz bir ekosistemin oluşmasına katkıda bulunmaktadır.
+Mevsimsel değişikliklerle birlikte, Manoğlu Dağı'nın iklimi değişkenlik gösterir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu iklim karakteri, bölgenin flora ve faunasını şekillendirmekte ve eşsiz bir ekosistemin oluşmasına katkıda bulunmaktadır.
 
 Çevresiyle olan ilişkileri açısından, Manoğlu Dağı, bölgenin su kaynaklarının oluşumunda ve ekosistem dengesinde önemli bir role sahiptir. Yaklaşık olarak 1200 hektarlık bir alanı kaplayan bu dağ, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplar ve komşu alanlarla birlikte, geniş bir doğal koridor oluşturur. Bu koridor, bölgenin biyolojik çeşitliliğini destekler ve su kaynaklarının sürdürülebilirliğini sağlar.
 

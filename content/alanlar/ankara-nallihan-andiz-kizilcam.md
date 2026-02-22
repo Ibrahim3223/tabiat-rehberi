@@ -30,7 +30,7 @@ Nallihan-Andız Kızılçam Milli Parkı, uzun bir tarihi geçmişe sahiptir. Bu
 
 ## Coğrafya
 
-Nallihan-Andız Kızılçam Milli Parkı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Park, Ankara'nın kuzeybatısında yer alır ve Nallihan ile Andız köyleri arasında bulunur. Bölge, genellikle step ve orman ekosistemlerinin birleştiği bir alan olarak tanımlanır. Nallihan-Andız Kızılçam Milli Parkı, kızılçam ormanlarının hakim olduğu bir bölge olup, bu ormanlar parkın önemli bir bölümünü kapsar. Parkın coğrafi yapısı, ziyaretçilere çeşitli doğa yürüyüşleri ve keşif fırsatları sunar. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer, karasal bir iklim hakimdir. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, parkın flora ve faunasının çeşitliliğini etkiler.
+Nallihan-Andız Kızılçam Milli Parkı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Park, Ankara'nın kuzeybatısında yer alır ve Nallihan ile Andız köyleri arasında bulunur. Bölge, genellikle step ve orman ekosistemlerinin birleştiği bir alan olarak tanımlanır. Nallihan-Andız Kızılçam Milli Parkı, kızılçam ormanlarının hakim olduğu bir bölge olup, bu ormanlar parkın önemli bir bölümünü kapsar. Parkın coğrafi yapısı, ziyaretçilere çeşitli doğa yürüyüşleri ve keşif fırsatları sunar. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer, karasal bir iklim hakimdir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, parkın flora ve faunasının çeşitliliğini etkiler.
 
 ## Flora ve Fauna
 

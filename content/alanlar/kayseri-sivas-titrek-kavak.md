@@ -30,7 +30,7 @@ Kayseri-Sivas-Titrek Kavak milli parkının tarihi geçmişi, bölgenin kültür
 
 ## Coğrafya
 
-Kayseri-Sivas-Titrek Kavak milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Milli parkın coğrafi yapısı, çeşitli yüksekliklerde ve eğimlerde bulunan arazilerden oluşur. Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunur. Milli parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Yaz ayları sıca ve kurak, kış ayları ise soğu ve karlı geçer. Milli parkın coğrafi konumu, ziyaretçilerin bölgenin doğal güzelliklerini keşfetmesine olanak tanır. Titrek Kavak milli parkı, bölgenin en önemli doğal ve kültürel değerlerini bir araya getiren bir alandır.
+Kayseri-Sivas-Titrek Kavak milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Milli parkın coğrafi yapısı, çeşitli yüksekliklerde ve eğimlerde bulunan arazilerden oluşur. Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunur. Milli parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve karlı geçer. Milli parkın coğrafi konumu, ziyaretçilerin bölgenin doğal güzelliklerini keşfetmesine olanak tanır. Titrek Kavak milli parkı, bölgenin en önemli doğal ve kültürel değerlerini bir araya getiren bir alandır.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ Durhasan Dede Türbesi'nin tam tarihi bilinmese de, yüzyıllar boyunca bu bölg
 
 ## Coğrafya
 
-Durhasan Dede Türbesi, Ceyhan'da Akdeniz Bölgesi'nin güzelliklerini sunuyor. Bu bölge, sıca ve kurak bir iklime sahip ve yaz aylarında sıcaklıklar oldukça yüksek oluyor. Türbe, deniz seviyesinden yaklaşık yüksek bir konumdate ve etrafı geniş bir yeşil alan ile çevrilmiş durumda. Bu coğrafi konumu, ziyaretçilere hem deniz hem de yeşil alanın güzelliklerini aynı anda sunuyor. Ceyhan'ın coğrafi yapısı, Durhasan Dede Türbesi'nin güzelliğini daha da artırıyor. Türbenin etrafındaki doğal güzellikler, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
+Durhasan Dede Türbesi, Ceyhan'da Akdeniz Bölgesi'nin güzelliklerini sunuyor. Bu bölge, sıcak ve kurak bir iklime sahip ve yaz aylarında sıcaklıklar oldukça yüksek oluyor. Türbe, yüksek bir konumda ve etrafı geniş bir yeşil alan ile çevrilmiş durumda. Bu coğrafi konumu, ziyaretçilere hem deniz hem de yeşil alanın güzelliklerini aynı anda sunuyor. Ceyhan'ın coğrafi yapısı, Durhasan Dede Türbesi'nin güzelliğini daha da artırıyor. Türbenin etrafındaki doğal güzellikler, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

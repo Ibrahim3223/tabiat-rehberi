@@ -37,7 +37,7 @@ Gazi Gündüz Alp Türbesi, tarihi geçmişiyle dikkat çekiyor. Bu türbenin in
 
 ## Coğrafya
 
-Gazi Gündüz Alp Türbesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölgenin coğrafyası, genellikle step ve ova gibi geniş alanlardan oluşuyor. Türbenin bulunduğu yer, Beypazarı'nın merkezine yakın bir konumda yer alıyor ve çevresindeki dağlar ve ovalarla birlikte güzel bir manzara sunuyor. Gazi Gündüz Alp Türbesi, Ankara'nın kuzeybatısında yer alan Beypazarı ilçesinde bulunuyor. Bu bölgenin iklimi, genellikle karasal iklim özellikleri gösteriyor. Kış mevsimi soğu ve kar yağışlı, yaz mevsimi ise sıcak ve kurak geçiyor. Gazi Gündüz Alp Türbesi, Beypazarı'nın coğrafi ve iklimsel özelliklerini yansıtan bir mekan.
+Gazi Gündüz Alp Türbesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölgenin coğrafyası, genellikle step ve ova gibi geniş alanlardan oluşuyor. Türbenin bulunduğu yer, Beypazarı'nın merkezine yakın bir konumda yer alıyor ve çevresindeki dağlar ve ovalarla birlikte güzel bir manzara sunuyor. Gazi Gündüz Alp Türbesi, Ankara'nın kuzeybatısında yer alan Beypazarı ilçesinde bulunuyor. Bu bölgenin iklimi, genellikle karasal iklim özellikleri gösteriyor. Kış mevsimi soğuk ve kar yağışlı, yaz mevsimi ise sıcak ve kurak geçiyor. Gazi Gündüz Alp Türbesi, Beypazarı'nın coğrafi ve iklimsel özelliklerini yansıtan bir mekan.
 
 ## Flora ve Fauna
 

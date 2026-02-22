@@ -31,7 +31,7 @@ HOCALAR milli parkının tarihi geçmişi, yüzyıllar boyunca bölgede yaşanan
 
 ## Coğrafya
 
-HOCALAR milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak, geniş otlaklar ve ormanlık alanlardan oluşmaktadır. Parkın coğrafi yapısı, ziyaretçilere çeşitli doğa güzelliği sunmaktadır. Bölgenin iklimi, karasal iklim özellikleri göstermektedir. Kış mevsimi soğu ve kar yağışlı, yaz mevsimi ise sıcak ve kuru geçmektedir. Bu iklim koşulları, bölgenin flora ve faunasının çeşitliliğine katkıda bulunmuştur. Parkın coğrafi konumu, bölgenin yaban hayatının zenginleşmesine yardımcı olmuştur. Ayrıca, parkın yer aldığı bölgenin jeolojik yapısı, çeşitli kayaç ve mineral oluşumlarına sahiptir. Bu doğal güzellikler, HOCALAR milli parkını ziyaret edenler için önemli bir çekim merkezi oluşturmaktadır. Parkın coğrafi özellikleri, ziyaretçilere doğanın güzelliğini ve çeşitliliğini sunmaktadır.
+HOCALAR milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak, geniş otlaklar ve ormanlık alanlardan oluşmaktadır. Parkın coğrafi yapısı, ziyaretçilere çeşitli doğa güzelliği sunmaktadır. Bölgenin iklimi, karasal iklim özellikleri göstermektedir. Kış mevsimi soğuk ve kar yağışlı, yaz mevsimi ise sıcak ve kuru geçmektedir. Bu iklim koşulları, bölgenin flora ve faunasının çeşitliliğine katkıda bulunmuştur. Parkın coğrafi konumu, bölgenin yaban hayatının zenginleşmesine yardımcı olmuştur. Ayrıca, parkın yer aldığı bölgenin jeolojik yapısı, çeşitli kayaç ve mineral oluşumlarına sahiptir. Bu doğal güzellikler, HOCALAR milli parkını ziyaret edenler için önemli bir çekim merkezi oluşturmaktadır. Parkın coğrafi özellikleri, ziyaretçilere doğanın güzelliğini ve çeşitliliğini sunmaktadır.
 
 ## Flora ve Fauna
 

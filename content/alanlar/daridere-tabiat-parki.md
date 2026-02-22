@@ -31,7 +31,7 @@ Darıdere Tabiat Parkı'nın tarihi geçmişi, bölgenin doğal güzelliklerinin
 
 ## Coğrafya
 
-Darıdere Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş ovalar ve dağlarla çevrili bir alanda yer alıyor. Parkın coğrafi konumu, ziyaretçilere zengin bir flora ve fauna çeşitliliği sunuyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor. Yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlı geçiyor. Bu iklim koşulları, parkın doğal güzelliklerine katkıda bulunarak, ziyaretçilere dört mevsim farklı deneyimler sunuyor. Parkın çevresinde, çeşitli su kaynakları ve doğal güzellikler yer alıyor. Bu doğal güzellikler, Darıdere Tabiat Parkı'nın ziyaretçilere sunduğu olanakları zenginleştiriyor.
+Darıdere Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş ovalar ve dağlarla çevrili bir alanda yer alıyor. Parkın coğrafi konumu, ziyaretçilere zengin bir flora ve fauna çeşitliliği sunuyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçiyor. Bu iklim koşulları, parkın doğal güzelliklerine katkıda bulunarak, ziyaretçilere dört mevsim farklı deneyimler sunuyor. Parkın çevresinde, çeşitli su kaynakları ve doğal güzellikler yer alıyor. Bu doğal güzellikler, Darıdere Tabiat Parkı'nın ziyaretçilere sunduğu olanakları zenginleştiriyor.
 
 ## Flora ve Fauna
 

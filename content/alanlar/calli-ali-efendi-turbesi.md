@@ -37,7 +37,7 @@ wikidata_id: "Q131391601"
 
 ## Coğrafya
 
-Coğrafi konumu itibarıyla, Çallı Ali Efendi Türbesi, Marmara Bölgesi'nin coğrafi özellikleri ile şekillenmiş bir alanda yer alıyor. Bu bölge, deniz seviyesinden yaklaşık yüksek bir konumdate bulunuyor ve çevresinde çeşitli tepe ve vadiler mevcut. İklimi, Marmara Bölgesi'nin ılıman iklimine uygun olarak, yazları sıca ve nemli, kışları ise ılıman ve yağışlı passing. Bu coğrafi özellikler, türbenin etrafındaki doğayı şekillendirmiş ve çeşitli bitki türleri ile zengin fauna ortaya çıkarmıştır. Türbenin yakınında, Haliç gibi önemli su kaynakları bulunmakta ve bu su kaynakları, bölgenin ekolojik dengesini koruyor.
+Coğrafi konumu itibarıyla, Çallı Ali Efendi Türbesi, Marmara Bölgesi'nin coğrafi özellikleri ile şekillenmiş bir alanda yer alıyor. Bu bölge, yüksek bir konumda bulunuyor ve çevresinde çeşitli tepe ve vadiler mevcut. İklimi, Marmara Bölgesi'nin ılıman iklimine uygun olarak, yazları sıcak ve nemli, kışları ise ılıman ve yağışlı passing. Bu coğrafi özellikler, türbenin etrafındaki doğayı şekillendirmiş ve çeşitli bitki türleri ile zengin fauna ortaya çıkarmıştır. Türbenin yakınında, Haliç gibi önemli su kaynakları bulunmakta ve bu su kaynakları, bölgenin ekolojik dengesini koruyor.
 
 ## Flora ve Fauna
 

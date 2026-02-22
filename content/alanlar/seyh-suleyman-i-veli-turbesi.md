@@ -37,7 +37,7 @@ wikidata_id: "Q131390867"
 
 ## Coğrafya
 
-Şeyh Süleyman-ı Veli Türbesi, coğrafi konum itibariyle İç Anadolu Bölgesi'nin merkezi bir noktasında yer alıyor. Kırşehir'in merkezinde bulunan bu mekan, ilin doğal güzelliklerinin bir araya geldiği bir bölgede konumlanıyor. Türbenin etrafı, çeşitli bitki türleriyle kaplı geniş bir yeşil alanla çevrili. Bu bölge, ziyaretçilerine hem tarihin hem de doğanın güzelliklerini bir arada deneyimleme fırsatı sunuyor. İklim olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu bölge, yazları sıca ve kuru, kışları soğu ve kar yağışlı bir iklimi triyor. Çevre, tarihi ve doğal güzellikleriyle dikkat çekiyor ve ziyaretçilere geniş bir gezi yelpazesi sunuyor.
+Şeyh Süleyman-ı Veli Türbesi, coğrafi konum itibariyle İç Anadolu Bölgesi'nin merkezi bir noktasında yer alıyor. Kırşehir'in merkezinde bulunan bu mekan, ilin doğal güzelliklerinin bir araya geldiği bir bölgede konumlanıyor. Türbenin etrafı, çeşitli bitki türleriyle kaplı geniş bir yeşil alanla çevrili. Bu bölge, ziyaretçilerine hem tarihin hem de doğanın güzelliklerini bir arada deneyimleme fırsatı sunuyor. İklim olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu bölge, yazları sıcak ve kuru, kışları soğuk ve kar yağışlı bir iklimi triyor. Çevre, tarihi ve doğal güzellikleriyle dikkat çekiyor ve ziyaretçilere geniş bir gezi yelpazesi sunuyor.
 
 ## Flora ve Fauna
 

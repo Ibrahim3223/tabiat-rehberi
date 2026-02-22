@@ -45,7 +45,7 @@ Doğunun güneşli sahillerine yaklaştığımızda, Zeytin Adası'nın sakinli�
 
 Ada'nın fiziksel yapısı, küçük bir şehir bloğu büyüklüğünde bir alan olarak düşünülebilir. Bu küçük ama güzel ada, Ege Denizi'nin dalgalı suları ile çevrili ve bir dizi küçük koy ve kumsala ev sahipliği yapıyor. Ada'nın jeolojik yapısı, bölgenin karakteristik kireçtaşı ve granit kayalarından oluşuyor. Bu kayalar, binlerce yıl boyunca deniz suyunun aşındırmasıyla şekillenerek ada'nın bugünkü formunu almışlar.
 
-Zeytin Adası, Akdeniz ikliminin karakteristik özellikleri sergiliyor. Yaz aylarında sıca ve kuru, kış aylarında ise ılık ve yağışlı bir hava hakim. Ada'nın iklimi, bölgenin bitki örtüsünü ve vahşi yaşamını şekillendiren önemli bir faktör. Mevsimsel değişiklikler, ada'nın flora ve faunasını etkileyerek, her sezon farklı bir güzelliğe bürünmesine neden oluyor.
+Zeytin Adası, Akdeniz ikliminin karakteristik özellikleri sergiliyor. Yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı bir hava hakim. Ada'nın iklimi, bölgenin bitki örtüsünü ve vahşi yaşamını şekillendiren önemli bir faktör. Mevsimsel değişiklikler, ada'nın flora ve faunasını etkileyerek, her sezon farklı bir güzelliğe bürünmesine neden oluyor.
 
 Ada'nın çevresel ilişkileri, bölgenin ekosistemini anlamak için önemli. Zeytin Adası, Ege Denizi'nin su kaynaklarına yakınlığı ile dikkat çekiyor. Ada, bölgenin diğer adaları ve anakara ile birlikte bir ekosistem ağı oluşturuyor. Bu ağ, deniz canlıları ve kuşlara ev sahipliği yapıyor ve bölgenin biyolojik çeşitliliğini destekleyen önemli bir faktör.
 

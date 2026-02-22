@@ -38,7 +38,7 @@ Baba Sultan Türbesi'nin tarihi geçmişi, yüzyıllar boyunca sürer. Bu türbe
 
 ## Coğrafya
 
-Baba Sultan Türbesi, Eğirdir Gölü'nün kıyısında yer alan bir plaj ve tarihi türbedir. Bu bölge, Akdeniz Bölgesi'nin coğrafi özelliklerini taşır. İklim, genel olarak Akdeniz ikliminin özellikleri gösterir; yazlar sıca ve kurak, kışlar ılıman ve yağışlı geçer. Bölge, zengin bir flora ve fauna ile çevrilidir. Eğirdir Gölü, bu bölgenin en önemli coğrafi özelliklerinden biridir ve su sporları için ideal bir mekandır. Baba Sultan Türbesi ve çevresindeki alan, çeşitli bitki türleri ve hayvanlarla dolu bir doğa harikasıdır. Coğrafi konumu itibariyle, bu mekan hem doğa severler hem de tarih meraklıları için çekici bir destinasyondur.
+Baba Sultan Türbesi, Eğirdir Gölü'nün kıyısında yer alan bir plaj ve tarihi türbedir. Bu bölge, Akdeniz Bölgesi'nin coğrafi özelliklerini taşır. İklim, genel olarak Akdeniz ikliminin özellikleri gösterir; yazlar sıcak ve kurak, kışlar ılıman ve yağışlı geçer. Bölge, zengin bir flora ve fauna ile çevrilidir. Eğirdir Gölü, bu bölgenin en önemli coğrafi özelliklerinden biridir ve su sporları için ideal bir mekandır. Baba Sultan Türbesi ve çevresindeki alan, çeşitli bitki türleri ve hayvanlarla dolu bir doğa harikasıdır. Coğrafi konumu itibariyle, bu mekan hem doğa severler hem de tarih meraklıları için çekici bir destinasyondur.
 
 ## Flora ve Fauna
 

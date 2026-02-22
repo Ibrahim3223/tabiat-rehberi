@@ -30,7 +30,7 @@ Araç Turbe Çamı'nın tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bö
 
 ## Coğrafya
 
-Araç Turbe Çamı, İç Anadolu Bölgesi'nin coğrafi olarak özel bir konumda yer alır. Bu bölge, çam ormanlarıyla kaplıdır ve yaban hayatı açısından oldukça zengindir. Araç Turbe Çamı, 140 hektarlık geniş bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu alan, ziyaretçilerine geniş yürüyüş yolları, piknik alanları ve gözlem noktaları sunar. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal bir yapıya sahiptir. Kışlar soğu ve karlı, yazlar ise sıcak ve kuru geçer. Bu coğrafi özellikler, Araç Turbe Çamı'nı benzersiz bir doğa deneyimi sunar. Ziyaretçiler, bu eşsiz ortamda doğanın güzelliğini ve çeşitliliğini keşfedebilirler.
+Araç Turbe Çamı, İç Anadolu Bölgesi'nin coğrafi olarak özel bir konumda yer alır. Bu bölge, çam ormanlarıyla kaplıdır ve yaban hayatı açısından oldukça zengindir. Araç Turbe Çamı, 140 hektarlık geniş bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu alan, ziyaretçilerine geniş yürüyüş yolları, piknik alanları ve gözlem noktaları sunar. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal bir yapıya sahiptir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuru geçer. Bu coğrafi özellikler, Araç Turbe Çamı'nı benzersiz bir doğa deneyimi sunar. Ziyaretçiler, bu eşsiz ortamda doğanın güzelliğini ve çeşitliliğini keşfedebilirler.
 
 ## Flora ve Fauna
 

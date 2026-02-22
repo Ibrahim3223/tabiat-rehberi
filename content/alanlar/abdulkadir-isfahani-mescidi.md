@@ -38,7 +38,7 @@ Abdülkadir İsfahani Mescidi'nin tarihi geçmişi, yüzyıllar boyunca şekille
 
 ## Coğrafya
 
-Abdülkadir İsfahani Mescidi, Ankara'nın merkezi bir bölgesinde yer alıyor. İç Anadolu Bölgesi'nin coğrafi özellikleri, mescidin etrafını çevriliyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve dört mevsim belirgin olarak yaşanıyor. Kış ayları soğu ve kar yağışlı geçerken, yaz ayları sıca ve kurak oluyor. Mescidin etrafı, çeşitli bitki türleri ve ağaçlarla çevrili. Bu bitkiler, mevsimsel değişimlere göre farklı renkler ve kokularla ziyaretçileri karşılıyor. Mescidin coğrafi konumu, ziyaretçilere både tarihi ve doğal güzelliklerin bir arada deneyimlenmesi imkanı sunuyor.
+Abdülkadir İsfahani Mescidi, Ankara'nın merkezi bir bölgesinde yer alıyor. İç Anadolu Bölgesi'nin coğrafi özellikleri, mescidin etrafını çevriliyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve dört mevsim belirgin olarak yaşanıyor. Kış ayları soğuk ve kar yağışlı geçerken, yaz ayları sıcak ve kurak oluyor. Mescidin etrafı, çeşitli bitki türleri ve ağaçlarla çevrili. Bu bitkiler, mevsimsel değişimlere göre farklı renkler ve kokularla ziyaretçileri karşılıyor. Mescidin coğrafi konumu, ziyaretçilere både tarihi ve doğal güzelliklerin bir arada deneyimlenmesi imkanı sunuyor.
 
 ## Flora ve Fauna
 

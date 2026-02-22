@@ -45,7 +45,7 @@ Bu tür doğal alanlar, Türkiye'nin tarihsel ve kültürel dokusunda önemli bi
 
 Doğal güzelliğinin yanı sıra, Sıçan Adası'nın fiziksel yapısı da dikkat çekicidir. Koordinatlarına bakıldığında, adanın konumunun oldukça önemli olduğu anlaşılır. Ancak, ada hakkında detaylı fiziksel veri bulunmamasına rağmen, koordinatlarından hareketle, adanın bir birkaç olimpik havuz kadar küçük bir alanı kapladığı söylenebilir. Bu küçük ada, ziyaretçilerine sakin ve huzurlu bir atmosfer sunar.
 
-Sıçan Adası'nın iklim karakteri, Akdeniz ikliminin tüm özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürer. Ada, mevsimsel olarak değişen hava koşullarına adapte olmuş bitki örtüsüne sahiptir. Bu bitki örtüsü, adanın doğal güzelliğini daha da artırır ve ziyaretçilerine doğanın renklerini sunar.
+Sıçan Adası'nın iklim karakteri, Akdeniz ikliminin tüm özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürer. Ada, mevsimsel olarak değişen hava koşullarına adapte olmuş bitki örtüsüne sahiptir. Bu bitki örtüsü, adanın doğal güzelliğini daha da artırır ve ziyaretçilerine doğanın renklerini sunar.
 
 Sıçan Adası, etrafındaki su kaynakları ve ekosistem bağlantıları açısından da önemli bir konuma sahiptir. Ada, Akdeniz'in zengin su kaynaklarına ev sahipliği yapar ve bu su kaynakları, ada etrafındaki deniz ekosistemini besler. Bu bağlantı, adanın doğal dengesini korur ve ziyaretçilerine bir doğa harikası sunar. Ada, Monaco'nun çok küçük bir bölümü kadar bir alanı kaplasa da, doğal güzelliği ve önemli konumuyla dikkat çekicidir.
 

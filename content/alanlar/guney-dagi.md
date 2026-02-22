@@ -45,7 +45,7 @@ Muğla'nın güneyinde yer alan Güney Dağı, 36.7881°K, 29.4067°D koordinatl
 
 Doğal güzelliği ile ön plana çıkan Güney Dağı, fiziksel yapısı hakkında detaylı bilgi bulunmasa da, genel olarak dağlık bir arazi yapısına sahiptir. Bu dağlık alan, Monaco'nun yaklaşık yarısı kadar bir alanı kaplayabilecek büyüklüktedir. Güney Dağı'nın yüksekliği hakkında kesin bir veri olmasa da, genel olarak Eiffel Kulesi'nin birkaç katı yükseklikte olduğu söylenebilir. Bu yükseklik, ziyaretçilere geniş bir manzara sunar ve bölgenin doğal güzelliğini gözler önüne serer.
 
-İklim açısından bakıldığında, Güney Dağı ve çevresinde Akdeniz iklimi hakimdir. Bu iklim, yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı geçer. Mevsimsel değişiklikler, bölgenin flora ve fauna açısından zenginleşmesine katkıda bulunur. Güney Dağı, bu mevsimsel özelliklerle birlikte, ziyaretçilerine dört mevsim boyunca farklı deneyimler sunar.
+İklim açısından bakıldığında, Güney Dağı ve çevresinde Akdeniz iklimi hakimdir. Bu iklim, yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı geçer. Mevsimsel değişiklikler, bölgenin flora ve fauna açısından zenginleşmesine katkıda bulunur. Güney Dağı, bu mevsimsel özelliklerle birlikte, ziyaretçilerine dört mevsim boyunca farklı deneyimler sunar.
 
 Bölgenin çevresel ilişkileri açısından, Güney Dağı, komşu alanlarla birlikte bir ekosistem oluşturur. Su kaynakları, bölgenin ekolojik dengesini sağlar ve bitki örtüsünün zenginleşmesine katkıda bulunur. Güney Dağı, Muğla'nın doğal güzelliklerini koruma altına almak amacıyla, çevresindeki diğer doğal alanlarla birlikte önemli bir rol oynar. Bu doğal güzelliği korumak, gelecek nesiller için önemli bir görevdir.
 

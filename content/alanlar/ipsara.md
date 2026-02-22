@@ -46,7 +46,7 @@ Doğal güzellikleri ile dikkat çeken İpsara, Sakız ilçesi sınırları içe
 
 Jeolojik açıdan bakıldığında, İpsara'nın fiziksel yapısı oldukça ilginç. Ada, bir olimpik atletizm pisti uzunluğunda bir alan üzerinde yer alıyor. Bu küçük ama göz alıcı ada, Sakız Adası'ndan sonra bölgenin önemli noktalarından biri olarak kabul ediliyor. İpsara'nın yüzölçümü, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor.
 
-İklim açısından İpsara, Ege Denizi'nin ılıman ikliminin etkisi altında kalıyor. Ada, yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumuna sahip. Bu mevsimsel özellikler, İpsara'yı yıl boyunca ziyaret edenler için bir çekim merkezi haline getiriyor.
+İklim açısından İpsara, Ege Denizi'nin ılıman ikliminin etkisi altında kalıyor. Ada, yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumuna sahip. Bu mevsimsel özellikler, İpsara'yı yıl boyunca ziyaret edenler için bir çekim merkezi haline getiriyor.
 
 Çevresel açıdan bakıldığında, İpsara, Sakız Adası ve diğer yakın adalar ile birlikte bir ekosistem oluşturuyor. Ada, Ege Denizi'nin zengin su kaynaklarına ev sahipliği yapıyor ve bu su kaynakları, bölgenin ekolojik dengesini koruyor. İpsara, Monaco'nun küçük bir bölümü büyüklüğünde bir alanı kaplıyor ve bu küçük ada, büyük bir doğal güzelliğe sahip.
 

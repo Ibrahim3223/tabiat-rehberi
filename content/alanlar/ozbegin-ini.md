@@ -44,7 +44,7 @@ Mersin'in doğal güzelliklerini keşfetmek isteyenler için "Özbeğin İni" je
 
 Doğal bir anıt olan "Özbeğin İni", çevresindeki manzarayla uyum içinde bir jeolojik oluşum olarak dikkat çeker. Jeoparkın büyüklüğü, yaklaşık olarak bir şehir bloğu büyüklüğünde olabilir, ancak tam ölçüleri bilinmemekle birlikte, bu oluşumun jeolojik yapısı ve tarihi significance açısından önemli bir yer tuttuğu bilinir. Jeolojik yapısı itibariyle, bu bölgeyi ziyaret edenler, yerin historia ve jeolojik geçmişini anlamak için önemli bir fırsat bulurlar.
 
-İklim açısından, "Özbeğin İni" jeoparkı, Akdeniz ikliminin karakteristik özellikleri ile şekillenir. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir iklim hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna'sını etkiler ve ziyaretçilere, her mevsim farklı bir güzelliği keşfetme fırsatı sunar.
+İklim açısından, "Özbeğin İni" jeoparkı, Akdeniz ikliminin karakteristik özellikleri ile şekillenir. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir iklim hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna'sını etkiler ve ziyaretçilere, her mevsim farklı bir güzelliği keşfetme fırsatı sunar.
 
 Çevresel açıdan, "Özbeğin İni" jeoparkı, komşu alanlar ve su kaynakları ile bağlantılı bir ekosistem içinde yer alır. Bu bölge, Mersin'in doğal kaynaklarını koruma altına alma ve bölgenin biyolojik çeşitliliğini desteklemek için önemli bir role sahiptir. Silifke'nin doğal güzellikleri ve tarihi zenginliklerinin bir parçası olan "Özbeğin İni" jeoparkı, ziyaretçilere, Mersin'in doğal ve kültürel mirasını keşfetme fırsatı sunar.
 

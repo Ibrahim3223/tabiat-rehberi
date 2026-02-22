@@ -43,7 +43,7 @@ Malatya ve çevresindeki dağlık alanlar, aynı zamanda önemli ticaret yollar�
 
 Doğal güzellikleri ile dikkat çeken Koru Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu ölçek, dağların büyüklüğü hakkında bir fikir verse de, fiziksel yapısı hakkında daha fazla bilgiye ihtiyaç duyulur. Jeolojik açıdan incelendiğinde, Koru Dağı'nın oluşumu ve yapısı, bölgenin tarihçesi hakkında önemli ipuçları içerir.
 
-Yıllık hava durumu trendlerine bakıldığında, Koru Dağı'nın iklim karakteri, İç Anadolu Bölgesi'nin genel özelliklerini taşır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir iklim hüküm sürer. Bu mevsimsel farklılıklar, bölgenin flora ve fauna çeşitliliği üzerinde önemli etkilere sahiptir.
+Yıllık hava durumu trendlerine bakıldığında, Koru Dağı'nın iklim karakteri, İç Anadolu Bölgesi'nin genel özelliklerini taşır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürer. Bu mevsimsel farklılıklar, bölgenin flora ve fauna çeşitliliği üzerinde önemli etkilere sahiptir.
 
 Koru Dağı, çevresindeki ekosistemle güçlü bir bağlantı içerisindedir. Bölge, çeşitli su kaynaklarına ev sahipliği yapar ve komşu alanlarla birlikte bir bütün olarak değerlendirildiğinde, Koru Dağı'nın çevresel ilişkileri, bölgenin doğal dengesini koruma açısından kritik bir role sahiptir. Bu bağlantı, sadece yerel değil, daha geniş bir coğrafi ölçekte de önemlidir.
 

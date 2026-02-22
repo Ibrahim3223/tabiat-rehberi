@@ -55,7 +55,7 @@ Doğal güzelliği ve coğrafi özellikleri ile dikkat çeken İğdir Dağı, ya
 
 Bitki Örtüsü olarak, ilkbaharın gelişiyle birlikte, dağ eteklerinde çiçekler açar ve renkli bir manzara ortaya çıkar. Sonbaharda, yaprakların döndüğü dönemde, dağlar sarı, turuncu ve kırmızıyla renklendirilir. Yükseklik zonlarına göre değişen flora, dağın farklı yüksekliklerinde farklı türlerin yaşamına olanak tanır.
 
-Yaban Hayatı olarak, memeliler ve kuşlar, bu dağ ekosisteminin önemli bileşenleridir. Göç eden kuşlar, sonbaharda dağları ziyaret ederken, memeliler yıl boyunca burada yaşamlarını sürdürürler. Sürüngenler de, bu dağların sıca ve nemli bölgelerinde yaşamaktadır.
+Yaban Hayatı olarak, memeliler ve kuşlar, bu dağ ekosisteminin önemli bileşenleridir. Göç eden kuşlar, sonbaharda dağları ziyaret ederken, memeliler yıl boyunca burada yaşamlarını sürdürürler. Sürüngenler de, bu dağların sıcak ve nemli bölgelerinde yaşamaktadır.
 
 Ekolojik Değer olarak, İğdir Dağı, yüksek biyoçeşitliliğini koruma altına almak için önemli bir alandır. Bu alanın korunması, sadece burada yaşayan canlılar için değil, aynı zamanda bölgenin ekolojik dengesi için de önemlidir.
 

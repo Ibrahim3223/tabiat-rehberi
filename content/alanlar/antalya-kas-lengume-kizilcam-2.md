@@ -30,7 +30,7 @@ Antalya-Kas-Lengume Kızılçam 2 milli parkının tarihi geçmişi, yüzyıllar
 
 ## Coğrafya
 
-Antalya-Kas-Lengume Kızılçam 2 milli parkı, coğrafi olarak Akdeniz Bölgesi'nde yer alıyor. Bu bölge, iklimi ve coğrafi yapısı ile birçok bitki ve hayvan türünün yaşamasına elverişlidir. Parkın coğrafyası, dağlık ve ormanlık alanlardan oluşuyor. Bu dağlık ve ormanlık alanlar, birçok nehrin ve derenin kaynağını oluşturuyor. Bu su kaynakları, parkın flora ve faunası için yaşam damarı gibi çalışıyor. Parkın iklimi, Akdeniz iklimi özellikleri gösteriyor; yani yazları sıca ve kurak, kışları ılık ve yağışlı geçiyor. Bu iklim, parktaki bitkilerin ve hayvanların çeşitliliğine katkıda bulunuyor.
+Antalya-Kas-Lengume Kızılçam 2 milli parkı, coğrafi olarak Akdeniz Bölgesi'nde yer alıyor. Bu bölge, iklimi ve coğrafi yapısı ile birçok bitki ve hayvan türünün yaşamasına elverişlidir. Parkın coğrafyası, dağlık ve ormanlık alanlardan oluşuyor. Bu dağlık ve ormanlık alanlar, birçok nehrin ve derenin kaynağını oluşturuyor. Bu su kaynakları, parkın flora ve faunası için yaşam damarı gibi çalışıyor. Parkın iklimi, Akdeniz iklimi özellikleri gösteriyor; yani yazları sıcak ve kurak, kışları ılık ve yağışlı geçiyor. Bu iklim, parktaki bitkilerin ve hayvanların çeşitliliğine katkıda bulunuyor.
 
 ## Flora ve Fauna
 

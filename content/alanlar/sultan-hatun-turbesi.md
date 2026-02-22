@@ -38,7 +38,7 @@ Sultan Hatun Türbesi, tarihsel olarak önemli bir geçmişe sahiptir. Ancak, t�
 
 ## Coğrafya
 
-Sultan Hatun Türbesi, Konya'nın Seydişehir ilçesinde yer alır. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Türbenin etrafı, doğal güzellikler ve çeşitli bitki türleriyle kaplıdır. Coğrafi konumu itibariyle, ziyaretçiler bu bölgede hem tarihi hem de doğal güzellikleri keşfedebilir. Sultan Hatun Türbesi, Konya'nın coğrafi yapısı ve iklim koşulları doğrultusunda, ziyaretçilere benzersiz bir deneyim sunar. Bu bölge, yaz aylarında sıca ve kuru, kış aylarında ise soğu ve karlı bir iklim gösterir. Coğrafi konumu ve iklimi, Sultan Hatun Türbesi'ni ziyaret etmek için en uygun zamanı belirlemede önemlidir. Türbenin coğrafi konumu, ziyaretçilere Konya'nın doğal güzelliklerini keşfetme fırsatı sunar.
+Sultan Hatun Türbesi, Konya'nın Seydişehir ilçesinde yer alır. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Türbenin etrafı, doğal güzellikler ve çeşitli bitki türleriyle kaplıdır. Coğrafi konumu itibariyle, ziyaretçiler bu bölgede hem tarihi hem de doğal güzellikleri keşfedebilir. Sultan Hatun Türbesi, Konya'nın coğrafi yapısı ve iklim koşulları doğrultusunda, ziyaretçilere benzersiz bir deneyim sunar. Bu bölge, yaz aylarında sıcak ve kuru, kış aylarında ise soğuk ve karlı bir iklim gösterir. Coğrafi konumu ve iklimi, Sultan Hatun Türbesi'ni ziyaret etmek için en uygun zamanı belirlemede önemlidir. Türbenin coğrafi konumu, ziyaretçilere Konya'nın doğal güzelliklerini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

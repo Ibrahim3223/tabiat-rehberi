@@ -37,7 +37,7 @@ Kıraç'ın tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bölge, çeşit
 
 ## Coğrafya
 
-Kıraç, coğrafi olarak Ege Bölgesi'nin önemli bir parçası olarak bulunur. Bu tepe, Afyonkarahisar şehir merkezi yakınlarında yer alır ve ulaşımı kolaydır. Kıraç'ın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölge, mevsimsel değişimlere göre farklılık gösteren bir iklime sahiptir. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıcak ve kurudur. Bu coğrafi özellikler, Kıraç'ı ziyaret edenler için ilgi çekici bir  sunar. Bu tepe, etrafındaki diğer coğrafi oluşumlarla birlikte, Ege Bölgesi'nin doğal güzelliğini oluşturan önemli bir parçadır.
+Kıraç, coğrafi olarak Ege Bölgesi'nin önemli bir parçası olarak bulunur. Bu tepe, Afyonkarahisar şehir merkezi yakınlarında yer alır ve ulaşımı kolaydır. Kıraç'ın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölge, mevsimsel değişimlere göre farklılık gösteren bir iklime sahiptir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurudur. Bu coğrafi özellikler, Kıraç'ı ziyaret edenler için ilgi çekici bir  sunar. Bu tepe, etrafındaki diğer coğrafi oluşumlarla birlikte, Ege Bölgesi'nin doğal güzelliğini oluşturan önemli bir parçadır.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Karanlıkarka Tepesi, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı 
 
 ## Coğrafya
 
-Karanlıkarka Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor ve coğrafi açıdan oldukça önemli bir noktada bulunuyor. Tepenin yüksekliği, civarındaki diğer tepe ve dağlardan slightly daha fazla ve bu nedenle, buradan Ankara'nın ve civarının güzel manzarasını izleme mümkün. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve ağaçlar bulunur ve bu bölge, flora açısından oldukça zengin. Aynı zamanda, Karanlıkarka Tepesi, fauna açısından da zengin bir bölge ve burada, çeşitli hayvan türleri bulunur. Tepenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve burada, yazları sıca ve kurak, kışları ise soğu ve kar yağışlı bir iklim hüküm sürer.
+Karanlıkarka Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor ve coğrafi açıdan oldukça önemli bir noktada bulunuyor. Tepenin yüksekliği, civarındaki diğer tepe ve dağlardan slightly daha fazla ve bu nedenle, buradan Ankara'nın ve civarının güzel manzarasını izleme mümkün. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve ağaçlar bulunur ve bu bölge, flora açısından oldukça zengin. Aynı zamanda, Karanlıkarka Tepesi, fauna açısından da zengin bir bölge ve burada, çeşitli hayvan türleri bulunur. Tepenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve burada, yazları sıcak ve kurak, kışları ise soğuk ve kar yağışlı bir iklim hüküm sürer.
 
 ## Flora ve Fauna
 

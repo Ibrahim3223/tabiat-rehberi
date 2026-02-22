@@ -49,7 +49,7 @@ Kesmeli Tepe'yi ziyaret etmek, doğal güzellikleri keşfetme ve tarihi zenginli
 ## İlginç Bilgiler
 
 - Kesmeli Tepe, 140 hektarlık bir alanı kaplar
-- tepe, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır
+- tepe, yüksek bir konumda yer alır
 - çeşitli bitki türleri ve hayvanlar bulunur
 - tarihi geçmişi yüzyıllar boyunca verschiedene medeniyetlerin izlerini taşır
 - ziyaretçiler, tepeye çıkarak geniş manzarayı izleyebilir

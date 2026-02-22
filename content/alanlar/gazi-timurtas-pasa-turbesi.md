@@ -38,7 +38,7 @@ Gazi Timurtaş Paşa Türbesi, Osmanlı dönemine ait bir tarihi yapıdır. Tari
 
 ## Coğrafya
 
-Gazi Timurtaş Paşa Türbesi, Osmangazi ilçesi sınırları içerisinde yer alır ve Marmara Bölgesi'nin güzelliklerini sunar. Bu bölge, coğrafi olarak zengin bir çeşitlilik gösterir. Türbe ve plajın bulunduğu alan, 140 hektarlık bir yeşil alan sunar ve yaklaşık 200 futbol sahası büyüklüğündedir. Plaj, Marmara Denizi'ne açılır ve deniz suyu, temiz ve berrak bir görünüm sunar. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişkenlik gösterir. Kış ayları soğu ve yağışlı, yaz ayları ise sıcak ve nemlidir. Bahar ve sonbahar ayları, ziyaret için en uygun zamanlardır, çünkü hava koşulları daha müsaittir. Çevre, tarihi ve doğal güzelliği ile dikkat çeker ve ziyaretçilere geniş bir yeşil alan sunar.
+Gazi Timurtaş Paşa Türbesi, Osmangazi ilçesi sınırları içerisinde yer alır ve Marmara Bölgesi'nin güzelliklerini sunar. Bu bölge, coğrafi olarak zengin bir çeşitlilik gösterir. Türbe ve plajın bulunduğu alan, 140 hektarlık bir yeşil alan sunar ve yaklaşık 200 futbol sahası büyüklüğündedir. Plaj, Marmara Denizi'ne açılır ve deniz suyu, temiz ve berrak bir görünüm sunar. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişkenlik gösterir. Kış ayları soğuk ve yağışlı, yaz ayları ise sıcak ve nemlidir. Bahar ve sonbahar ayları, ziyaret için en uygun zamanlardır, çünkü hava koşulları daha müsaittir. Çevre, tarihi ve doğal güzelliği ile dikkat çeker ve ziyaretçilere geniş bir yeşil alan sunar.
 
 ## Flora ve Fauna
 

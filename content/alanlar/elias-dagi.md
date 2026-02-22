@@ -43,7 +43,7 @@ Coğrafi konum açısından bakıldığında, Elias Dağı 39.8414°K, 26.0532°
 
 Doğal yapısı itibariyle Elias Dağı, coğrafi olarak ilginç bir bölge olarak dikkat çekmektedir. Ancak, fiziksel boyutları hakkında detaylı bilgi bulunmamasına rağmen, dağın konumu ve çevresi, bölgenin jeolojik yapısını anlamak için önemli ipuçları sunmaktadır. Örneğin, bölgede yer alan diğer dağlar ve tepeler, Elias Dağı'nın bir parçası olduğu daha geniş bir coğrafi yapıyı işaret etmektedir.
 
-Mevsimsel açıdan bakıldığında, Elias Dağı'nın bulunduğu bölge, Akdeniz ikliminin característicasını taşır. Yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumu hakimdir. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Örneğin, bölgede yer alan bitkiler ve ağaçlar, mevsimsel değişimlere adaptasyon göstermektedir.
+Mevsimsel açıdan bakıldığında, Elias Dağı'nın bulunduğu bölge, Akdeniz ikliminin característicasını taşır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumu hakimdir. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Örneğin, bölgede yer alan bitkiler ve ağaçlar, mevsimsel değişimlere adaptasyon göstermektedir.
 
 Çevresel açıdan Elias Dağı, komşu alanlar ve su kaynaklarıyla önemli bir ekosistem bağlantısı içermektedir. Bölgede yer alan nehirler ve akarsular, dağların eteklerinden kaynaklanmaktadır ve bölgenin sulak alanlarını beslemektedir. Örneğin, yakınlarında bulunan Çanakkale Boğazı, bölgenin su kaynakları açısından önemli bir noktadır. Bu su kaynakları, bölgenin ekosistemini desteklemektedir ve yerel fauna için önemli bir yaşam alanı oluşturmaktadır.
 
@@ -53,7 +53,7 @@ Elias Dağı, step bitki örtüsünün hakim olduğu bir dağ ekosistemi olarak 
 
 Dağın yükseklik zonlarında, kuraklığa adapte olmuş bitkiler ve bozkır türleri hakimdir. Bu bitkiler, suyun az olduğu bölgelerde hayatta kalabilen özel türlerdir. Dağın eteklerinde ise, daha çok otsu bitkiler ve çalılar görülüyor.
 
-Elias Dağı, yaban hayatı açısından da zengin bir alandır. Dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, dağların yükseklik zonlarında yaşamlarını sürdürüyorlar. Kuşlar ise, dağların çeşitli habitatlarında yuva yapıyorlar ve besleniyorlar. Sürüngenler de, dağların sıca ve kurak bölgelerinde yaşamlarını sürdürüyorlar.
+Elias Dağı, yaban hayatı açısından da zengin bir alandır. Dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, dağların yükseklik zonlarında yaşamlarını sürdürüyorlar. Kuşlar ise, dağların çeşitli habitatlarında yuva yapıyorlar ve besleniyorlar. Sürüngenler de, dağların sıcak ve kurak bölgelerinde yaşamlarını sürdürüyorlar.
 
 Elias Dağı, ekolojik açıdan önemli bir alandır. Dağın yükseklik zonları, çeşitli canlı türleri için yaşam alanı sağlıyor ve ekosistemin dengesini koruyor. Ancak, dağların korunması için çalışmalar yapılması gerekiyor.
 

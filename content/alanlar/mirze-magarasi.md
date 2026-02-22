@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nde yer alan Mirze Mağarası, Batman ilinin coğra
 
 Doğal bir oluşum olan Mirze Mağarası, jeolojik açıdan oldukça zengin bir yapıya sahiptir. Mağaranın çevresindeki arazi, kayalık ve dağlık bir yapıya sahip olup, bölgenin jeolojik historiağını gözler önüne seriyor. Mirze Mağarası, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplıyor ve bu küçük alan, zengin jeolojik oluşumları ile dikkat çekiyor. Mağaranın içi, çeşitli jeolojik oluşumlar ve şekiller ile dolu olup, ziyaretçilere doğanın güzelliğini gözler önüne seriyor.
 
-Mevsimsel olarak değişken bir iklim karakterine sahip olan Mirze Mağarası ve çevresindeki bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir hava durumu sergiliyor. Bu mevsimsel değişiklikler, bölgenin flora ve fauna yapısını etkiliyor ve ziyaretçilere farklı mevsimlerde farklı güzellikler sunuyor.
+Mevsimsel olarak değişken bir iklim karakterine sahip olan Mirze Mağarası ve çevresindeki bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir hava durumu sergiliyor. Bu mevsimsel değişiklikler, bölgenin flora ve fauna yapısını etkiliyor ve ziyaretçilere farklı mevsimlerde farklı güzellikler sunuyor.
 
 Bölgenin ekosistem bağlantıları açısından da önemli bir role sahip olan Mirze Mağarası, komşu alanlar ile birlikte bir bütünü oluşturuyor. Mağaranın çevresindeki arazi, çeşitli su kaynaklarına ev sahipliği yapıyor ve bu su kaynakları, bölgenin fauna yapısını destekleyen önemli bir unsur olarak görülüyor. Mirze Mağarası ve çevresindeki bölge, doğal güzellikleri ve jeolojik zenginlikleriyle birlikte, ziyaretçilere benzersiz bir deneyim sunuyor.
 

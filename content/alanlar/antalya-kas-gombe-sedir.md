@@ -30,7 +30,7 @@ Antalya-Kas-Gombe Sedir'in tarihi geçmişi, yüzyıllar öncesine dayanıyor. B
 
 ## Coğrafya
 
-Antalya-Kas-Gombe Sedir, coğrafi olarak Akdeniz Bölgesi'nde yer alıyor. Bu bölge, deniz seviyesinden yüksekliğiyle birlikte, çevredeki diğer alanlardan farklılık gösteriyor. Sedir Adası, yeşilin ve mavinin bir arada olduğu muhteşem manzaralara ev sahipliği yapıyor. Ada, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, çeşitli bitki türleriyle kaplı bulunuyor. Bu bitki türleri, ada'nın doğal güzelliğine katkıda bulunarak, ziyaretçilere gerçek bir doğa harikası sunuyor. Ada'nın coğrafi yapısı, ziyaretçilerin keşfetmekten keyif alacakları birçok farklı bölgeye sahip. Ada, aynı zamanda zengin fauna ile de dikkat çekiyor. Sedir Adası'nın iklimi, genel olarak Akdeniz iklimi özellikleri gösteriyor. Yaz ayları sıca ve kurak, kış ayları ise ılıman ve yağışlı passing.
+Antalya-Kas-Gombe Sedir, coğrafi olarak Akdeniz Bölgesi'nde yer alıyor. Bu bölge, deniz seviyesinden yüksekliğiyle birlikte, çevredeki diğer alanlardan farklılık gösteriyor. Sedir Adası, yeşilin ve mavinin bir arada olduğu muhteşem manzaralara ev sahipliği yapıyor. Ada, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, çeşitli bitki türleriyle kaplı bulunuyor. Bu bitki türleri, ada'nın doğal güzelliğine katkıda bulunarak, ziyaretçilere gerçek bir doğa harikası sunuyor. Ada'nın coğrafi yapısı, ziyaretçilerin keşfetmekten keyif alacakları birçok farklı bölgeye sahip. Ada, aynı zamanda zengin fauna ile de dikkat çekiyor. Sedir Adası'nın iklimi, genel olarak Akdeniz iklimi özellikleri gösteriyor. Yaz ayları sıcak ve kurak, kış ayları ise ılıman ve yağışlı passing.
 
 ## Flora ve Fauna
 

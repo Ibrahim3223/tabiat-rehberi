@@ -37,7 +37,7 @@ Mesih Paşa’nın Mezarı, tarihsel olarak önemli bir geçmişe sahiptir. Bu m
 
 ## Coğrafya
 
-Mesih Paşa’nın Mezarı, coğrafi olarak Marmara Bölgesi'nin İstanbul bölümünde, Fatih ilçesinde yer alır. Bu bölge, Boğaziçi'nin güney kıyısında, şehrin merkezine khá yakın bir konumda bulunmaktadır. Coğrafi olarak bakıldığında, mezar ve plaj alanı, deniz seviyesinde ve relativ olarak düzdür. Çevresinde tarihi yapılar, yeşil alanlar ve şehrin diğer önemli noktaları bulunur. İklimi, Marmara Bölgesi'nin genel iklimine uygun olarak ılımandır. Yaz ayları sıca ve nemli, kış ayları ise ılık ve yağışlı geçer. Bu coğrafi konum ve iklim, ziyaretçilere hem tarihi bir mezar alanı hem de bir plaj olarak keyifli bir deneyim sunar. Ayrıca, çevredeki doğal güzellikler ve tarihi eserler, ziyaretçilerin keşfetmek için çok çeşitli olanaklar sunar.
+Mesih Paşa’nın Mezarı, coğrafi olarak Marmara Bölgesi'nin İstanbul bölümünde, Fatih ilçesinde yer alır. Bu bölge, Boğaziçi'nin güney kıyısında, şehrin merkezine khá yakın bir konumda bulunmaktadır. Coğrafi olarak bakıldığında, mezar ve plaj alanı, deniz seviyesinde ve relativ olarak düzdür. Çevresinde tarihi yapılar, yeşil alanlar ve şehrin diğer önemli noktaları bulunur. İklimi, Marmara Bölgesi'nin genel iklimine uygun olarak ılımandır. Yaz ayları sıcak ve nemli, kış ayları ise ılık ve yağışlı geçer. Bu coğrafi konum ve iklim, ziyaretçilere hem tarihi bir mezar alanı hem de bir plaj olarak keyifli bir deneyim sunar. Ayrıca, çevredeki doğal güzellikler ve tarihi eserler, ziyaretçilerin keşfetmek için çok çeşitli olanaklar sunar.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Doyuran Tepesi, tarihi geçmişiyle dikkat çekiyor. Bu bölge, yüzyıllar boyu
 
 ## Coğrafya
 
-Doyuran Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölge. Tepenin yüksekliği, bölgenin iklimini etkiliyor. Doyuran Tepesi, karasal iklimin hüküm sürdüğü bir bölgede yer alıyor. Kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor. Tepenin eteklerinde bulunan akarsular, bölgenin su kaynaklarını oluşturuyor. Doyuran Tepesi, aynı zamanda çeşitli bitki türlerine ev sahipliği yapıyor. Tepenin etrafındaki dağlar, bölgenin jeolojik yapısını oluşturuyor. Doyuran Tepesi, coğrafi olarak zengin bir bölge.
+Doyuran Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölge. Tepenin yüksekliği, bölgenin iklimini etkiliyor. Doyuran Tepesi, karasal iklimin hüküm sürdüğü bir bölgede yer alıyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Tepenin eteklerinde bulunan akarsular, bölgenin su kaynaklarını oluşturuyor. Doyuran Tepesi, aynı zamanda çeşitli bitki türlerine ev sahipliği yapıyor. Tepenin etrafındaki dağlar, bölgenin jeolojik yapısını oluşturuyor. Doyuran Tepesi, coğrafi olarak zengin bir bölge.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ Sasalı Hamamı'nın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetle
 
 ## Coğrafya
 
-Sasalı Hamamı, Ödemiş'te yer alan bir plaj olarak Ege Bölgesi'nin coğrafi yapısını yansıtan bir destinasyondur. Bu plaj, geniş bir kumsal ve temiz bir deniz suyuyla dikkat çeker. Sasalı Hamamı'nın etrafında, çeşitli bitki türleri ve zengin fauna çeşitliliği bulunur. Plajın coğrafi konumu, Ege Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçilere güzel bir manzara sunar. Sasalı Hamamı, Ege Bölgesi'nin iklimine uygun olarak, sıca ve güneşli bir hava koşullarına sahiptir. Bu nedenle, Sasalı Hamamı, özellikle yaz aylarında ziyaretçilerin tercih ettiği bir destinasyon olarak bilinir. Plajın coğrafi konumu, aynı zamanda, çeşitli su sporları ve etkinliklere de olanak tanır.
+Sasalı Hamamı, Ödemiş'te yer alan bir plaj olarak Ege Bölgesi'nin coğrafi yapısını yansıtan bir destinasyondur. Bu plaj, geniş bir kumsal ve temiz bir deniz suyuyla dikkat çeker. Sasalı Hamamı'nın etrafında, çeşitli bitki türleri ve zengin fauna çeşitliliği bulunur. Plajın coğrafi konumu, Ege Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçilere güzel bir manzara sunar. Sasalı Hamamı, Ege Bölgesi'nin iklimine uygun olarak, sıcak ve güneşli bir hava koşullarına sahiptir. Bu nedenle, Sasalı Hamamı, özellikle yaz aylarında ziyaretçilerin tercih ettiği bir destinasyon olarak bilinir. Plajın coğrafi konumu, aynı zamanda, çeşitli su sporları ve etkinliklere de olanak tanır.
 
 ## Flora ve Fauna
 

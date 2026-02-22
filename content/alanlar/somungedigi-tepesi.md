@@ -36,7 +36,7 @@ Somungediği Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Somungediği Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği, manzarayı izlemek için ideal bir konum sunuyor. Etraf, çeşitli bitki türleri ve zengin fauna ile kaplı. Tepenin eteklerinde, tarihi kalıntılar ve antik yerleşim yerleri bulunmakta. Somungediği Tepesi, coğrafi olarak önemli bir konumda yer alıyor. Tepenin kuzeyinde, geniş otlaklar ve tarlalar uzanıyor. Güneyinde ise, ormanlık alanlar bulunmakta. Bu coğrafi çeşitlilik, tepeyi ziyaret edenler için ilgi çekici bir deneyim sunuyor. Tepenin iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğu ve karlı, yazlar ise sıcak ve kuru passing. Bu iklim koşulları, tepeyi ziyaret etmek için en uygun zamanı, ilkbahar ve sonbahar ayları olarak beliriyor.
+Somungediği Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği, manzarayı izlemek için ideal bir konum sunuyor. Etraf, çeşitli bitki türleri ve zengin fauna ile kaplı. Tepenin eteklerinde, tarihi kalıntılar ve antik yerleşim yerleri bulunmakta. Somungediği Tepesi, coğrafi olarak önemli bir konumda yer alıyor. Tepenin kuzeyinde, geniş otlaklar ve tarlalar uzanıyor. Güneyinde ise, ormanlık alanlar bulunmakta. Bu coğrafi çeşitlilik, tepeyi ziyaret edenler için ilgi çekici bir deneyim sunuyor. Tepenin iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuru passing. Bu iklim koşulları, tepeyi ziyaret etmek için en uygun zamanı, ilkbahar ve sonbahar ayları olarak beliriyor.
 
 ## Flora ve Fauna
 

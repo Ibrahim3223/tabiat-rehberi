@@ -31,7 +31,7 @@ Poyrazlar Gölü Tabiat Parkı, tarihi geçmişiyle dikkat çeker. Yüzyıllar b
 
 ## Coğrafya
 
-Poyrazlar Gölü Tabiat Parkı, Marmara Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Park, yaklaşık 140 hektarlık bir alanı kapsar ve bu alan, çeşitli coğrafi özelliklere sahiptir. Bölge, genellikle ormanlık ve çayır alanlarla kaplıdır. Ayrıca, parkın içerisinde Poyrazlar Gölü gibi su kaynakları bulunur. Bu su kaynakları, bölgenin ekolojik dengesi için önemlidir. Parkın iklimi, Marmara Bölgesi'nin genel iklimine benzer ve four mevsimlik bir yapıya sahiptir. Kış aylarında park, soğu ve yağışlı bir iklim gösterirken, yaz aylarında sıca ve kurak bir hava hakimdir. Parkın coğrafi konumu, ziyaretçilere çeşitli aktivite seçenekleri sunar. Doğa yürüyüşleri, kampçılık, ve su sporları gibi aktiviteler, parkın sunduğu olanaklar arasındadır.
+Poyrazlar Gölü Tabiat Parkı, Marmara Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Park, yaklaşık 140 hektarlık bir alanı kapsar ve bu alan, çeşitli coğrafi özelliklere sahiptir. Bölge, genellikle ormanlık ve çayır alanlarla kaplıdır. Ayrıca, parkın içerisinde Poyrazlar Gölü gibi su kaynakları bulunur. Bu su kaynakları, bölgenin ekolojik dengesi için önemlidir. Parkın iklimi, Marmara Bölgesi'nin genel iklimine benzer ve four mevsimlik bir yapıya sahiptir. Kış aylarında park, soğuk ve yağışlı bir iklim gösterirken, yaz aylarında sıcak ve kurak bir hava hakimdir. Parkın coğrafi konumu, ziyaretçilere çeşitli aktivite seçenekleri sunar. Doğa yürüyüşleri, kampçılık, ve su sporları gibi aktiviteler, parkın sunduğu olanaklar arasındadır.
 
 ## Flora ve Fauna
 

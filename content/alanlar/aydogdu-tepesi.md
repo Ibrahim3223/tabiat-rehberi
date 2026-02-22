@@ -44,7 +44,7 @@ Aydoğdu Tepesi, zengin bir flora ve faunaya sahip. Tepenin etrafı, çeşitli b
 
 ## Ziyaret Bilgileri
 
-Aydoğdu Tepesi'ni ziyaret etmek, hem doğa severler hem de macera arayışındaki kişiler için ideal bir deneyim. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve bu bitki örtüsü, tepeye özel bir güzellik katıyor. Ayrıca, tepeye tırmanırken manzaralar da bir o kadar etkileyici. Aydoğdu Tepesi'ni ziyaret etmek için, en iyi zaman ilkbahar ve yaz ayları. Bu aylarda, tepeye renk katan çiçekler açıyor ve hava daha sıca ve güneşli oluyor. Aydoğdu Tepesi'ne gitmek için, Muğla'ya ulaşmak necessário. Muğla'dan sonra, tepeye özel bir yolculuk gerekiyor. Bu yolculuk, yaklaşık 1 saat sürüyor.
+Aydoğdu Tepesi'ni ziyaret etmek, hem doğa severler hem de macera arayışındaki kişiler için ideal bir deneyim. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve bu bitki örtüsü, tepeye özel bir güzellik katıyor. Ayrıca, tepeye tırmanırken manzaralar da bir o kadar etkileyici. Aydoğdu Tepesi'ni ziyaret etmek için, en iyi zaman ilkbahar ve yaz ayları. Bu aylarda, tepeye renk katan çiçekler açıyor ve hava daha sıcak ve güneşli oluyor. Aydoğdu Tepesi'ne gitmek için, Muğla'ya ulaşmak necessário. Muğla'dan sonra, tepeye özel bir yolculuk gerekiyor. Bu yolculuk, yaklaşık 1 saat sürüyor.
 
 ## İlginç Bilgiler
 

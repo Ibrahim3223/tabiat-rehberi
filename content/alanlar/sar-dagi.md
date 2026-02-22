@@ -45,7 +45,7 @@ Kahramanmaraş'ın dağlık bölgesinde yer alan Şar Dağı, 38.1783°K ve 37.1
 
 Doğal güzelliği ile dikkat çeken Şar Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Bu küçük ama önemli coğrafi oluşum, bölgenin jeolojisini etkilemekte ve çevreyi şekillendirmektedir. Şar Dağı'nın yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadardır, bu da bölgenin coğrafi yapısında önemli bir yere sahip olduğunu göstermektedir.
 
-Mevsimsel özellikler açısından bakıldığında, Şar Dağı'nın bulunduğu bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve karlı bir iklime sahiptir. Bu mevsimsel değişiklikler, bölgenin ekosistemini ve doğal yaşamını etkilemektedir. Hava durumu açısından, bölgede thường olarak güneyden esen rüzgarlar hakimdir, bu da bölgenin iklimini etkileyen önemli bir faktördür.
+Mevsimsel özellikler açısından bakıldığında, Şar Dağı'nın bulunduğu bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı bir iklime sahiptir. Bu mevsimsel değişiklikler, bölgenin ekosistemini ve doğal yaşamını etkilemektedir. Hava durumu açısından, bölgede thường olarak güneyden esen rüzgarlar hakimdir, bu da bölgenin iklimini etkileyen önemli bir faktördür.
 
 Çevresel açıdan bakıldığında, Şar Dağı, komşu alanlar ve su kaynakları ile bağlantılıdır. Bölgede bulunan diğer dağlar ve ovalar, Şar Dağı'nın bir parçası olduğu daha büyük bir ekosistemi oluşturmaktadır. Bu ekosistem, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini korumak için önemli bir role sahiptir. Şar Dağı, Monaco'nun yaklaşık 1/10'u büyüklüğünde bir alanı kaplar, bu da bölgenin doğal güzelliğini ve coğrafi önemini göstermektedir.
 

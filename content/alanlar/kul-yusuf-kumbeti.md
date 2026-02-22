@@ -37,7 +37,7 @@ Kul Yusuf Kümbeti'nin tarihi geçmişi, İğdır'ın tarihini anlamak için ön
 
 ## Coğrafya
 
-Kul Yusuf Kümbeti, Iğdır'ın Sürmeli uyezdi'nde yer almaktadır. Bu bölge, coğrafi olarak dağlık ve ovalık alanların birleşimini oluşturmaktadır. Kümbet, yaklaşık 140 hektarlık bir yeşil alanda bulunmaktadır. Bu alan, çeşitli bitki türleri ve zengin fauna ile kaplıdır. İklim, karasal iklim özellikleri taşımaktadır. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bu coğrafi özellikler, ziyaretçilere yıl boyunca farklı deneyimler sunmaktadır. Bölge, aynı zamanda çeşitli su kaynaklarına sahiptir. Bu su kaynakları, bitki örtüsünün zenginleşmesine ve fauna çeşitliliğinin artmasına katkıda bulunmaktadır. Kul Yusuf Kümbeti, İğdır'ın coğrafi güzelliğini ve zenginliğini deneyimlemek isteyenler için ideal bir destinasyondur.
+Kul Yusuf Kümbeti, Iğdır'ın Sürmeli uyezdi'nde yer almaktadır. Bu bölge, coğrafi olarak dağlık ve ovalık alanların birleşimini oluşturmaktadır. Kümbet, yaklaşık 140 hektarlık bir yeşil alanda bulunmaktadır. Bu alan, çeşitli bitki türleri ve zengin fauna ile kaplıdır. İklim, karasal iklim özellikleri taşımaktadır. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu coğrafi özellikler, ziyaretçilere yıl boyunca farklı deneyimler sunmaktadır. Bölge, aynı zamanda çeşitli su kaynaklarına sahiptir. Bu su kaynakları, bitki örtüsünün zenginleşmesine ve fauna çeşitliliğinin artmasına katkıda bulunmaktadır. Kul Yusuf Kümbeti, İğdır'ın coğrafi güzelliğini ve zenginliğini deneyimlemek isteyenler için ideal bir destinasyondur.
 
 ## Flora ve Fauna
 
@@ -45,7 +45,7 @@ Kul Yusuf Kümbeti'nin bulunduğu bölge, zengin bir flora ve faunaya sahiptir. 
 
 ## Ziyaret Bilgileri
 
-Kul Yusuf Kümbeti'ni ziyaret etmek, İğdır'ın tarihini ve kültürünü keşfetmek isteyenler için önemli bir deneyimidir. Ziyaretçiler, kümbeti ve çevresini gezebilir, tarihi yapıları inceleyebilir ve bölgenin güzelliğini deneyimleyebilir. İğdır'a ulaşmak için, çeşitli ulaşım seçenekleri bulunmaktadır. Ziyaretçilerin, mevsime göre uygun giysi ve malzemeleri getirmeleri önerilir. Kul Yusuf Kümbeti, yıl boyunca ziyaret edilebilir. Ancak, en uygun ziyaret zamanı, ilkbahar ve yaz aylarıdır. Bu mevsimlerde, hava daha sıca ve güneşlidir.
+Kul Yusuf Kümbeti'ni ziyaret etmek, İğdır'ın tarihini ve kültürünü keşfetmek isteyenler için önemli bir deneyimidir. Ziyaretçiler, kümbeti ve çevresini gezebilir, tarihi yapıları inceleyebilir ve bölgenin güzelliğini deneyimleyebilir. İğdır'a ulaşmak için, çeşitli ulaşım seçenekleri bulunmaktadır. Ziyaretçilerin, mevsime göre uygun giysi ve malzemeleri getirmeleri önerilir. Kul Yusuf Kümbeti, yıl boyunca ziyaret edilebilir. Ancak, en uygun ziyaret zamanı, ilkbahar ve yaz aylarıdır. Bu mevsimlerde, hava daha sıcak ve güneşlidir.
 
 ## İlginç Bilgiler
 

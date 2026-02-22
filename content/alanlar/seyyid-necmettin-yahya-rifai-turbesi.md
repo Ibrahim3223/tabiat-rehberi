@@ -37,7 +37,7 @@ Seyyid Necmettin Yahya Rifai Türbesi, yüzyıllar boyunca önemli bir dinî mer
 
 ## Coğrafya
 
-Seyyid Necmettin Yahya Rifai Türbesi, Amasya'nın Suluova ilçesinde, Karadeniz Bölgesi'nde yer alır. Bu bölge, coğrafi olarak dağlık ve ormanlık alanların hakim olduğu bir bölgedir. Türbe, deniz seviyesinden yaklaşık yüksek bir konumdate bulunur. Plaj, Karadeniz'in kıyısında yer alır ve bölgenin doğal güzelliğini sunar. Bölge, iklim olarak ılıman ve yağışlı bir yapıya sahiptir. Kış ayları soğu ve kar yağışlı, yaz ayları ise ılık ve yağışlı geçer. Bu iklim, bölgenin flora ve faunasının çeşitliliğini sağlar. Türbenin etrafındaki alan, yeşilliklerle kaplıdır ve birçok ağaç türüne ev sahipliği yapar. Ayrıca, bölgede çeşitli akarsular ve göller bulunur, bu da bölgenin ekolojik çeşitliliğini artırır.
+Seyyid Necmettin Yahya Rifai Türbesi, Amasya'nın Suluova ilçesinde, Karadeniz Bölgesi'nde yer alır. Bu bölge, coğrafi olarak dağlık ve ormanlık alanların hakim olduğu bir bölgedir. Türbe, yüksek bir konumda bulunur. Plaj, Karadeniz'in kıyısında yer alır ve bölgenin doğal güzelliğini sunar. Bölge, iklim olarak ılıman ve yağışlı bir yapıya sahiptir. Kış ayları soğuk ve kar yağışlı, yaz ayları ise ılık ve yağışlı geçer. Bu iklim, bölgenin flora ve faunasının çeşitliliğini sağlar. Türbenin etrafındaki alan, yeşilliklerle kaplıdır ve birçok ağaç türüne ev sahipliği yapar. Ayrıca, bölgede çeşitli akarsular ve göller bulunur, bu da bölgenin ekolojik çeşitliliğini artırır.
 
 ## Flora ve Fauna
 

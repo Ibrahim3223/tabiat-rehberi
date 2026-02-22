@@ -44,7 +44,7 @@ Güney Türkiye'nin coğrafi haritasında önemli bir yer tutan Karasis Dağı, 
 
 Doğal güzelliği ile dikkat çeken bu bölgenin fiziksel yapısı, coğrafi konumuna göre şekilleniyor. Karasis Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu alan, jeolojik açıdan zengin ve çeşitli kayalardan oluşuyor. Dağın şekli, bölgenin jeolojik geçmişine bağlı olarak oluşmuş ve zaman içinde oluşan erozyon ile şekillenmiş.
 
-Mevsimsel değişimler, Karasis Dağı'nın iklim karakterini belirliyor. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir iklim hüküm sürüyor. Bu mevsimsel özellikler, bölgenin bitki örtüsünü ve wildlife'ını etkiliyor. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte değil, ancak bölgenin en yüksek noktalarından biri olarak kabul ediliyor.
+Mevsimsel değişimler, Karasis Dağı'nın iklim karakterini belirliyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürüyor. Bu mevsimsel özellikler, bölgenin bitki örtüsünü ve wildlife'ını etkiliyor. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte değil, ancak bölgenin en yüksek noktalarından biri olarak kabul ediliyor.
 
 Çevresel açıdan bakıldığında, Karasis Dağı, bölgenin ekosistem bağlantıları için önemli bir rol oynuyor. Dağın yakınında, çeşitli su kaynakları ve nehirler yer alıyor. Bu su kaynakları, bölgenin tarım ve yaşam için gerekli suyunu sağlıyor. Ayrıca, Karasis Dağı, komşu alanlar ile conexiónları olan bir bölge ve bu bağlantılar, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini koruyor.
 

@@ -36,7 +36,7 @@ wikidata_id: "Q31390771"
 
 ## Coğrafya
 
-İmalı Tepesi, coğrafi konumu itibariyle İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Tepenin eteklerinde yer alan ovalar ve vadiler, bölgeye özgü flora ve fauna çeşitliliği ile dolu. İklim, karasal özellikleri taşır ve dört mevsim belirgin bir şekilde yaşanır. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurudur. İmalı Tepesi, özellikle bahar ve sonbahar aylarında ziyaret ediliyor; çünkü bu mevsimlerde doğa, en güzel haliyle ziyaretçilerini karşılıyor. Tepenin zirvesinden, manzara inanılmaz güzellikte; özellikle gün batımı saatlerinde, bölgeyi bir altın ışık sarıyor. İmalı Tepesi, ziyaretçilerine hem doğal güzellikleri hem de coğrafi çeşitliliği ile dolu bir deneyimi sunuyor.
+İmalı Tepesi, coğrafi konumu itibariyle İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Tepenin eteklerinde yer alan ovalar ve vadiler, bölgeye özgü flora ve fauna çeşitliliği ile dolu. İklim, karasal özellikleri taşır ve dört mevsim belirgin bir şekilde yaşanır. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. İmalı Tepesi, özellikle bahar ve sonbahar aylarında ziyaret ediliyor; çünkü bu mevsimlerde doğa, en güzel haliyle ziyaretçilerini karşılıyor. Tepenin zirvesinden, manzara inanılmaz güzellikte; özellikle gün batımı saatlerinde, bölgeyi bir altın ışık sarıyor. İmalı Tepesi, ziyaretçilerine hem doğal güzellikleri hem de coğrafi çeşitliliği ile dolu bir deneyimi sunuyor.
 
 ## Flora ve Fauna
 

@@ -31,7 +31,7 @@ Alucdagi milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
 
 ## Coğrafya
 
-Alucdagi milli parkı, İç Anadolu Bölgesi'nde yer alıyor ve coğrafi olarak oldukça zengin bir yapıya sahip. Burada, çeşitli bitki türleri ve yaban hayatı ile karşılaşma mümkün. Milli parkın coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunuyor ve burada geçirdiğiniz zaman, doğanın güzelliği ile iç içe geçmenizi sağlıyor. Alucdagi'nin coğrafi yapısı, genellikle dağlık ve engebeli bir araziye sahip. Burada, çeşitli akarsular ve göller de bulunmakta ve bu su kaynakları, yaban hayatı için önemli bir yaşam alanı oluşturuyor. İklim olarak, Alucdagi milli parkı, İç Anadolu Bölgesi'nin genel iklim koşullarına sahip. Kışları soğu ve karlı, yazları ise sıcak ve kuru bir iklim hakim.
+Alucdagi milli parkı, İç Anadolu Bölgesi'nde yer alıyor ve coğrafi olarak oldukça zengin bir yapıya sahip. Burada, çeşitli bitki türleri ve yaban hayatı ile karşılaşma mümkün. Milli parkın coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunuyor ve burada geçirdiğiniz zaman, doğanın güzelliği ile iç içe geçmenizi sağlıyor. Alucdagi'nin coğrafi yapısı, genellikle dağlık ve engebeli bir araziye sahip. Burada, çeşitli akarsular ve göller de bulunmakta ve bu su kaynakları, yaban hayatı için önemli bir yaşam alanı oluşturuyor. İklim olarak, Alucdagi milli parkı, İç Anadolu Bölgesi'nin genel iklim koşullarına sahip. Kışları soğuk ve karlı, yazları ise sıcak ve kuru bir iklim hakim.
 
 ## Flora ve Fauna
 

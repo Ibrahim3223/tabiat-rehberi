@@ -40,7 +40,7 @@ Girireşti Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıt
 
 ## Flora ve Fauna
 
-Girireşti Tepesi, flora ve fauna açısından oldukça zengin bir bölge. Burada, çeşitli bitki türleri ve hayvanlar yaşamakta. Mevsimsel değişimlere bağlı olarak, bu bölgede farklı türlerde bitki ve hayvanlar görülüyor. Bahar aylarında, çevredeki yeşil alanlar renkleniyor ve ziyaretçilere güzel bir manzara sunuyor. Kış aylarında ise, bölgenin iklimi daha soğu ve kar yağışlı oluyor. Bu mevsimsel değişimler, Girireşti Tepesi'nin doğal güzelliğini daha da artırıyor. Ayrıca, bu bölgede ekolojik dengenin korunmasına önem veriliyor.
+Girireşti Tepesi, flora ve fauna açısından oldukça zengin bir bölge. Burada, çeşitli bitki türleri ve hayvanlar yaşamakta. Mevsimsel değişimlere bağlı olarak, bu bölgede farklı türlerde bitki ve hayvanlar görülüyor. Bahar aylarında, çevredeki yeşil alanlar renkleniyor ve ziyaretçilere güzel bir manzara sunuyor. Kış aylarında ise, bölgenin iklimi daha soğuk ve kar yağışlı oluyor. Bu mevsimsel değişimler, Girireşti Tepesi'nin doğal güzelliğini daha da artırıyor. Ayrıca, bu bölgede ekolojik dengenin korunmasına önem veriliyor.
 
 ## Ziyaret Bilgileri
 

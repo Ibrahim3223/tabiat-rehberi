@@ -44,7 +44,7 @@ Antalya'nın güneyinde, Akdeniz kıyılarına yakın bir konumda yer alan Kel D
 
 Doğal bir anıt gibi duran Kel Dağı, çevresindeki diğer coğrafi oluşumlarla birlikte, bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu alan, Taksim Meydanı'nın birkaç katı büyüklüğünde bir coğrafi bölgeyi temsil eder. Ancak, fiziksel boyutlarına ilişkin ayrıntılı bilgiler bulunmamasına rağmen, Kel Dağı'nı diğer coğrafi oluşumlarla karşılaştırarak, onun bölgedeki önemini anlama mümkündür.
 
-İklim açısından bakıldığında, Kel Dağı, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna yapısını şekillendirmiş, burada yaşayan canlıların uyum sağlamalarına neden olmuştur.
+İklim açısından bakıldığında, Kel Dağı, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna yapısını şekillendirmiş, burada yaşayan canlıların uyum sağlamalarına neden olmuştur.
 
 Çevresel açıdan, Kel Dağı, komşu alanlarla birlikte bir ekosistem oluşturur. Yakınındaki su kaynakları ve vadiler, burada yaşayan canlılar için önemli bir yaşam kaynağı teşkil eder. Ayrıca, Kel Dağı, bölgenin diğer coğrafi oluşumlarıyla bağlantılı bir şekilde, daha geniş bir ekosistemin parçası olarak işlev görür. Bu nedenle, Kel Dağı'nın korunması ve sürdürülebilirliği, bölgenin doğal dengesinin korunması için önemlidir.
 

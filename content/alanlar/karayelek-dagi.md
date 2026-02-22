@@ -44,7 +44,7 @@ Mersin'in coğrafi güzelliğinin bir parçası olan Karayelek Dağı, 37.2583°
 
 Jeolojik açıdan bakıldığında, Karayelek Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, dağların genel olarak karmaşık bir jeolojik yapıya sahip olduğu biliniyor. Bu dağlar, genellikle kalker ve şist gibi farklı türlerdeki kayalardan oluşuyor. Karayelek Dağı'nın yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadar bir yükseklikte yer alıyor. Bu yükseklik, dağların eteklerinde yer alan yerleşim yerlerine göre oldukça belirgin bir fark yaratıyor.
 
-Doğal güzelliği ve coğrafi konumuyla dikkat çeken Karayelek Dağı, Akdeniz ikliminin etkilerini taşıyor. Bu iklim, genellikle sıca ve kurak yazlar ile ılık ve yağışlı kışlar karakterizing. Dağın iklimi, mevsimsel olarak değişen hava koşullarıyla şekilleniyor. Yaz aylarında, sıcaklık 30 dereceleri aşabiliyor, जबकi kış aylarında 10 derecenin altına düşebiliyor.
+Doğal güzelliği ve coğrafi konumuyla dikkat çeken Karayelek Dağı, Akdeniz ikliminin etkilerini taşıyor. Bu iklim, genellikle sıcak ve kurak yazlar ile ılık ve yağışlı kışlar karakterizing. Dağın iklimi, mevsimsel olarak değişen hava koşullarıyla şekilleniyor. Yaz aylarında, sıcaklık 30 dereceleri aşabiliyor, जबकi kış aylarında 10 derecenin altına düşebiliyor.
 
 Çevresel açıdan bakıldığında, Karayelek Dağı, Mersin'in doğal güzellikleri arasında önemli bir yer tutuyor. Dağın yakınında, çeşitli su kaynakları ve ekosistemler yer alıyor. Bu su kaynakları, bölgenin flora ve fauna çeşitliliğini destekleyen önemli bir unsur. Karayelek Dağı, Monaco'nun yaklaşık 1/10'u kadar bir alanı kaplıyor ve bu küçük alan, bölgeye özgü birçok bitki ve hayvan türüne ev sahipliği yapıyor.
 

@@ -30,7 +30,7 @@ Katrancu Koyu'nun tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bö
 
 ## Coğrafya
 
-Katrancu Koyu, İç Anadolu Bölgesi'nin coğrafi çeşitliliğiçinde yer alır. Bu bölge, dağlar, ovalar ve nehirler ile çevrilidir. Katrancu Koyu'nun coğrafyası, ziyaretçilere geniş bir manzara sunar. 140 hektarlık bu yeşil alan, çeşitli bitki türleri ve zengin fauna ile doludur. İklimi, bölgeye özgü olarak karasal iklim özellikleri gösterir. Yaz ayları sıca ve kurak, kış ayları soğu ve kar yağışlı geçer. Katrancu Koyu'nun coğrafyası, ziyaretçilere doğanın güzelliğini keşfetmek için ideal bir ortam sunar. Bu bölge, aynı zamanda çeşitli hayvan türlerine ev sahipliği yapar.
+Katrancu Koyu, İç Anadolu Bölgesi'nin coğrafi çeşitliliğiçinde yer alır. Bu bölge, dağlar, ovalar ve nehirler ile çevrilidir. Katrancu Koyu'nun coğrafyası, ziyaretçilere geniş bir manzara sunar. 140 hektarlık bu yeşil alan, çeşitli bitki türleri ve zengin fauna ile doludur. İklimi, bölgeye özgü olarak karasal iklim özellikleri gösterir. Yaz ayları sıcak ve kurak, kış ayları soğuk ve kar yağışlı geçer. Katrancu Koyu'nun coğrafyası, ziyaretçilere doğanın güzelliğini keşfetmek için ideal bir ortam sunar. Bu bölge, aynı zamanda çeşitli hayvan türlerine ev sahipliği yapar.
 
 ## Flora ve Fauna
 

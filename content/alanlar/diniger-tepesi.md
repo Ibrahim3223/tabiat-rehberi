@@ -37,7 +37,7 @@ Diniger Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Tepenin 
 
 ## Coğrafya
 
-Diniger Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, bir tepe şeklinde oluşmuş. Tepenin yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdate. Tepenin etrafı, çeşitli bitki türleri ve ağaçlarla çevrili. İklim, karasal iklim özellikleri göstermekte. Kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçmekte. Tepenin eteklerinde, küçük bir akarsu bulunmakta. Bu akarsu, tepenin etrafındaki bitki türlerinin yaşamasına katkıda bulunmakta.
+Diniger Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, bir tepe şeklinde oluşmuş. Tepenin yüksekliği, yüksek bir konumda. Tepenin etrafı, çeşitli bitki türleri ve ağaçlarla çevrili. İklim, karasal iklim özellikleri göstermekte. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçmekte. Tepenin eteklerinde, küçük bir akarsu bulunmakta. Bu akarsu, tepenin etrafındaki bitki türlerinin yaşamasına katkıda bulunmakta.
 
 ## Flora ve Fauna
 
@@ -53,4 +53,4 @@ Diniger Tepesi'ni ziyaret etmek, doğa severler ve macera arayışında olan ki�
 - Tepede, birçok kuş türü ve küçük hayvanlar bulunmakta.
 - Tepenin zirvesine ulaşmak, ziyaretçilere bölgenin güzel manzarasını sunmakta.
 - Tepenin etrafındaki patika yollar, ziyaretçilere keyifli bir yürüyüş imkanı sunmakta.
-- Tepenin yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdate.
+- Tepenin yüksekliği, yüksek bir konumda.

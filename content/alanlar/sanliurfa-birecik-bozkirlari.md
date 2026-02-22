@@ -30,7 +30,7 @@ Birecik Bozkırları, tarihsel olarak önemli bir bölgedir. Bu bölge, yüzyıl
 
 ## Coğrafya
 
-Birecik Bozkırları, Şanlıurfa'nın güneydoğusunda yer alır. Bu bölge, coğrafi olarak özel bir konumda bulunur. Bozkırın genişliği, 140 hektarlık bir alanı kaplar. Bu geniş alan, ziyaretçilere açık ve geniş bir mekan sunar. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kışlar soğuk, yazlar sıca ve kurak geçer. Bu iklim, bölgenin flora ve fauna çeşitliliğini etkiler. Ziyaretçiler, bu özel coğrafyanın keyfini çıkarırken, aynı zamanda bölgenin ikliminin güzelliğini keşfedebilir.
+Birecik Bozkırları, Şanlıurfa'nın güneydoğusunda yer alır. Bu bölge, coğrafi olarak özel bir konumda bulunur. Bozkırın genişliği, 140 hektarlık bir alanı kaplar. Bu geniş alan, ziyaretçilere açık ve geniş bir mekan sunar. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kışlar soğuk, yazlar sıcak ve kurak geçer. Bu iklim, bölgenin flora ve fauna çeşitliliğini etkiler. Ziyaretçiler, bu özel coğrafyanın keyfini çıkarırken, aynı zamanda bölgenin ikliminin güzelliğini keşfedebilir.
 
 ## Flora ve Fauna
 

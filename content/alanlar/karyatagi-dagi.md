@@ -40,7 +40,7 @@ Kastamonu'nun yemyeşil doğası içerisinde yer alan Karyatağı Dağı, 41.696
 
 Jeolojik açıdan bakıldığında, Karyatağı Dağı'nın oluşumu ve yapısı hakkındalı bilgi bulunmasa da, bu dağların genel olarak Türkiye'nin kuzeyinde yer alan dağlık bölgelerin karakteristiği olan karmaşık bir jeolojik yapıya sahip olduğu söylenebilir. Bu dağlar, Türkiye'nin kuzeyindeki dağlık bölgelerin bir parçası olarak, ülkenin coğrafi çeşitliliğini ve zenginliğini gösteren önemli bir unsur olarak görülebilir.
 
-İklim açısından, Karyatağı Dağı ve çevresinin Karadeniz Bölgesi'nin karakteristik iklim özelliklerini taşıdığı söylenebilir. Bu bölgede, yaz aylarında serin ve yağışlı, kış aylarında ise soğu ve karlı bir hava hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler olarak karşımıza çıkar.
+İklim açısından, Karyatağı Dağı ve çevresinin Karadeniz Bölgesi'nin karakteristik iklim özelliklerini taşıdığı söylenebilir. Bu bölgede, yaz aylarında serin ve yağışlı, kış aylarında ise soğuk ve karlı bir hava hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler olarak karşımıza çıkar.
 
 Doğal çevre açısından, Karyatağı Dağı, Kastamonu'nun diğer doğal güzelliklerine yakınlığıyla dikkat çeker. Bu bölgenin komşu alanları, su kaynakları ve ekosistem bağlantıları, Karyatağı Dağı'nın çevresel ilişkilerini kompleks bir şekilde etkiler. Örneğin, bu dağların eteklerinde yer alan ormanlar, bölgenin ekosistem dengesini sağlayan önemli bir unsur olarak görülebilir.
 

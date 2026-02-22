@@ -45,7 +45,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Ayı Dağı, 38.1199°K ve 39
 
 Doğal güzelliği ile dikkat çeken Ayı Dağı, bir şehir bloğu büyüklüğünde bir alana yayılmaktadır. Bu küçük alan, jeolojik açıdan zengin bir yapıya sahiptir ve bölgenin yer şekillerini oluşturan önemli bir faktördür. Ayı Dağı'nın etrafı, verimli ovalar ve vadiler ile çevrilidir ve bu coğrafi yapı, bölgenin ekosistemini şekillendirmektedir.
 
-Mevsimsel değişiklikler, Ayı Dağı'nın iklim karakterini belirlemektedir. Kış aylarında soğu ve yağışlı bir hava hakimken, yaz aylarında sıcaklık ve kuraklık hüküm sürmektedir. Bu mevsimsel özellikler, bölgenin flora ve fauna yapısını etkilemektedir. Ayı Dağı'nın çevresindeki su kaynakları, bölgenin ekosistemini desteklemektedir ve bu su kaynakları, komşu alanların doğal dengesini korumaktadır.
+Mevsimsel değişiklikler, Ayı Dağı'nın iklim karakterini belirlemektedir. Kış aylarında soğuk ve yağışlı bir hava hakimken, yaz aylarında sıcaklık ve kuraklık hüküm sürmektedir. Bu mevsimsel özellikler, bölgenin flora ve fauna yapısını etkilemektedir. Ayı Dağı'nın çevresindeki su kaynakları, bölgenin ekosistemini desteklemektedir ve bu su kaynakları, komşu alanların doğal dengesini korumaktadır.
 
 Bölgenin coğrafi yapısını şekillendiren Ayı Dağı, çevresindeki alanlarla önemli bir bağlantı içindedir. Monaco'nun yarısı kadar büyüklüğünde olmayan bu dağ, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alana yayılmaktadır. Ayı Dağı'nın çevresindeki ovalar ve vadiler, bölgenin doğal güzelliğini oluşturan önemli unsurlardır ve bu coğrafi yapı, bölgenin ekosistemini desteklemektedir.
 

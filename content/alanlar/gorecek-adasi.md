@@ -44,7 +44,7 @@ Doğal güzelliklerin cenneti olan Görecek Adası, Ege Denizi'nin sularında, 3
 
 Fiziksel olarak Görecek Adası, bir şehir bloğu büyüklüğünde bir alanı kaplar. Ada, denizin ortasındaki bir nokta olarak düşündüğümüzde, Monaco'nun merkezi gibi küçük ama önemli bir noktadır. Ancak, ada hakkında detaylı fiziksel veriler bulunmaması, ada hakkında daha fazla bilgi edinmemizi engellemektedir. Bu nedenle, ada hakkında daha fazla keşif ve araştırma yapılması gerekmektedir.
 
-Görecek Adası, Ege Denizi'nin ılıman ikliminin etkisi altındadır. Mevsimsel olarak, ada yaz aylarında sıca ve kuru, kış aylarında ise ılıman ve yağışlı bir hava durumuna sahiptir. Ada, denizin ortasındaki konumu nedeniyle, hava durumu da oldukça değişken olabilir. Bu nedenle, ada ziyaretçileri, hava durumunu iyi takip etmelidir.
+Görecek Adası, Ege Denizi'nin ılıman ikliminin etkisi altındadır. Mevsimsel olarak, ada yaz aylarında sıcak ve kuru, kış aylarında ise ılıman ve yağışlı bir hava durumuna sahiptir. Ada, denizin ortasındaki konumu nedeniyle, hava durumu da oldukça değişken olabilir. Bu nedenle, ada ziyaretçileri, hava durumunu iyi takip etmelidir.
 
 Çevresel olarak Görecek Adası, Ege Denizi'nin ekosistemine bağlıdır. Ada, su kaynakları ve deniz canlıları ile birlikte, bir bütün olarak ele alındığında, oldukça önemli bir ekosistemdir. Ada, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplayan bir su kaynağı ile çevrilidir. Bu su kaynağı, ada için oldukça önemlidir ve ada ekosistemini destekler.
 

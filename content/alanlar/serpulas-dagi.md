@@ -42,7 +42,7 @@ Doğu Anadolu Bölgesi'nin coğrafi çeşitliliği, Serpulaş Dağı'nın bulund
 
 Jeolojik açıdan bakıldığında, Serpulaş Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, dağların genel olarak bölgedeki coğrafi yapıyı şekillendirdiği bilinir. Bu dağlar, genellikle geniş ve yüksek alanları kaplar, ancak Serpulaş Dağı'nın büyüklüğü tam olarak bilinmemekle birlikte, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplayabileceği düşünülebilir. Bu büyüklük, dağların bölgedeki diğer coğrafi oluşumlarla karşılaştırıldığında, önemli bir yer tuttuğunu gösterir.
 
-İklim açısından Serpulaş Dağı, Doğu Anadolu Bölgesi'nin genel iklim karakterini taşır. Bu bölge, karasal iklimin hakim olduğu bir alan olarak bilinir ve mevsimsel olarak önemli farklılıklar gösterir. Kışlar soğu ve karlı, yazlar ise sıca ve kurudur. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkiler ve Serpulaş Dağı, bu çeşitliliği destekleyen önemli bir coğrafi oluşum olarak kabul edilebilir.
+İklim açısından Serpulaş Dağı, Doğu Anadolu Bölgesi'nin genel iklim karakterini taşır. Bu bölge, karasal iklimin hakim olduğu bir alan olarak bilinir ve mevsimsel olarak önemli farklılıklar gösterir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkiler ve Serpulaş Dağı, bu çeşitliliği destekleyen önemli bir coğrafi oluşum olarak kabul edilebilir.
 
 Çevresel açıdan bakıldığında, Serpulaş Dağı, bölgenin ekosistem bağlantıları açısından önemli bir role sahiptir. Dağ, bölgedeki su kaynaklarının oluşumunu etkiler ve komşu alanlarla birlikte, bölgenin doğal dengesini sağlar. Bu bağlantı, bölgenin flora ve fauna çeşitliliğini korur ve Serpulaş Dağı, bu çeşitliliği destekleyen önemli bir coğrafi oluşum olarak dikkat çeker.
 

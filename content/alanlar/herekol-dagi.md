@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin dağlık arazisinde yer alan Herekol Dağı, 37
 
 Doğal güzellikleri ile ön plana çıkan Herekol Dağı, coğrafi olarak oldukça önemli bir konumda bulunmaktadır. Ancak, dağ hakkında detaylı fiziksel veri bulunmamasına rağmen, coğrafi konumunu(Beşiktaş ilçesi kadar) büyük bir alan olarak düşünebiliriz. Bu bölge, jeolojik olarak da ilgi çekici özellikler göstermektedir. Dağın yüksekliği, 85 katlı bir gökdelen kadar yükseklikte olabilir, ancak kesin bir veri bulunmamaktadır.
 
-İklim açısından Herekol Dağı, Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölge, yazları sıca ve kurak, kışları ise soğu ve yağışlı bir iklime sahiptir. Mevsimsel değişiklikler, bölgenin ekosistemini ve bitki örtüsünü etkilemektedir. Bu durum, bölgeyi yıl boyunca ziyaret edenlerin dikkatli olması gerektiğini göstermektedir.
+İklim açısından Herekol Dağı, Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölge, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı bir iklime sahiptir. Mevsimsel değişiklikler, bölgenin ekosistemini ve bitki örtüsünü etkilemektedir. Bu durum, bölgeyi yıl boyunca ziyaret edenlerin dikkatli olması gerektiğini göstermektedir.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları, Herekol Dağı'nın çevresel ilişkilerini etkilemektedir. Dağın eteklerinde yer alan köyler, bölgenin tarım ve hayvancılık faaliyetlerini sürdürmektedir. Ayrıca, dağın doğal güzellikleri, bölgenin turizm potansiyelini artırmaktadır. Monaco'nun yarısı kadar büyük bir alan olarak düşünülebilecek bu bölge, doğal ve kültürel değerleri ile ziyaretçilerini beklemektedir.
 

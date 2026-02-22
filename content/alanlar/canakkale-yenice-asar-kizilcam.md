@@ -30,7 +30,7 @@ Canakkale-Yenice-Asar Kızılçam'ın tarihi geçmişi, yüzyıllar boyunca şek
 
 ## Coğrafya
 
-İç Anadolu Bölgesi'nde yer alan Canakkale-Yenice-Asar Kızılçam, coğrafi olarak zengin bir yapıya sahip. Bölgenin iklimi, İç Anadolu'nun karakteristik özelliklerini taşıyor. Yaz ayları sıca ve kurak, kış ayları soğu ve kar yağışlı geçiyor. Bu coğrafi özellikler, bölgenin flora ve faunasını da etkiliyor. Canakkale-Yenice-Asar Kızılçam, çevresindeki dağlarla birlikte bir ekosistem oluşturuyor.
+İç Anadolu Bölgesi'nde yer alan Canakkale-Yenice-Asar Kızılçam, coğrafi olarak zengin bir yapıya sahip. Bölgenin iklimi, İç Anadolu'nun karakteristik özelliklerini taşıyor. Yaz ayları sıcak ve kurak, kış ayları soğuk ve kar yağışlı geçiyor. Bu coğrafi özellikler, bölgenin flora ve faunasını da etkiliyor. Canakkale-Yenice-Asar Kızılçam, çevresindeki dağlarla birlikte bir ekosistem oluşturuyor.
 
 ## Flora ve Fauna
 

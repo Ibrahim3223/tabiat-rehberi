@@ -30,7 +30,7 @@ Kahramanmaras-Antakya-Yayladagi Kızılçam milli parkının tarihi geçmişi, y
 
 ## Coğrafya
 
-Kahramanmaras-Antakya-Yayladagi Kızılçam milli parkı, İç Anadolu Bölgesi'nde yer alıyor. Bu milli park, coğrafi olarak çok çeşitli bir yapıya sahip. Parkın içinde yer alan dağlar, vadiler ve ormanlar, ziyaretçilere farklı coğrafi oluşumlar sunuyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kışlar soğu ve karlı, yazlar ise sıcak ve kuru geçiyor. Bu iklim, milli parkın florası ve faunası için uygun bir ortam sağlıyor. Ayrıca, milli parkın çevresi, diğer doğal alanlara ve yerleşim yerlerine yakın bir konumda. Bu sayede, ziyaretçiler hem milli parkı gezebiliyor hem de diğer doğal güzellikleri keşfedebiliyor.
+Kahramanmaras-Antakya-Yayladagi Kızılçam milli parkı, İç Anadolu Bölgesi'nde yer alıyor. Bu milli park, coğrafi olarak çok çeşitli bir yapıya sahip. Parkın içinde yer alan dağlar, vadiler ve ormanlar, ziyaretçilere farklı coğrafi oluşumlar sunuyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuru geçiyor. Bu iklim, milli parkın florası ve faunası için uygun bir ortam sağlıyor. Ayrıca, milli parkın çevresi, diğer doğal alanlara ve yerleşim yerlerine yakın bir konumda. Bu sayede, ziyaretçiler hem milli parkı gezebiliyor hem de diğer doğal güzellikleri keşfedebiliyor.
 
 ## Flora ve Fauna
 

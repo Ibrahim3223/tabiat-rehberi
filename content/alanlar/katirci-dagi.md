@@ -42,7 +42,7 @@ Manisa'nın yeşilliklerle kaplı dağlarından biri olan Katırcı Dağı, 38.8
 
 Doğal güzellikleri ve coğrafi özellikleriyle dikkat çeken Katırcı Dağı, yaklaşık olarak Taksim Meydanı'nın 10 katı büyüklüğünde bir alanı kaplıyor. Veriler, dağların boyutları hakkında net bir bilgi vermemekle birlikte, genel olarak bu bölgenin coğrafi yapısı, Ege Bölgesi'nin karakteristik özelliklerini taşıyor. Jeolojik açıdan bakıldığında, Katırcı Dağı ve çevresi, genellikle kireçtaşı, şist ve granit gibi kayaçlardan oluşuyor.
 
-Mevsimsel değişikliklere göre hava durumu da değişen Katırcı Dağı, Ege Bölgesi'nin genel iklim karakterini yansıtıyor. Kış aylarında ılıman ve yağışlı, yaz aylarında ise sıca ve kuru bir iklim hüküm sürüyor. Bu mevsimsel özellikler, bölgenin flora ve fauna açısından zengin bir çeşitlilik göstermesine katkıda bulunuyor.
+Mevsimsel değişikliklere göre hava durumu da değişen Katırcı Dağı, Ege Bölgesi'nin genel iklim karakterini yansıtıyor. Kış aylarında ılıman ve yağışlı, yaz aylarında ise sıcak ve kuru bir iklim hüküm sürüyor. Bu mevsimsel özellikler, bölgenin flora ve fauna açısından zengin bir çeşitlilik göstermesine katkıda bulunuyor.
 
 Bölgenin ekolojik dengesini koruma açısından önemli bir role sahip olan Katırcı Dağı, komşu alanlarla ve su kaynaklarıyla bağlantılı bir ekosistemin parçası. Dağın eteklerinde ve çevresinde yer alan küçük akarsular ve dereler, bölgenin su kaynaklarını besliyor ve doğal yaşamın sürmesi için önemli bir role sahip. Bu nedenle, Katırcı Dağı ve çevresi, hem doğal güzellikleri hem de ekolojik önemi nedeniyle korumaya değer bir alan olarak görülüyor.
 

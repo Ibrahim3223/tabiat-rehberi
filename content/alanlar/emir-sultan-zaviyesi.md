@@ -37,7 +37,7 @@ Emir Sultan Zaviyesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu 
 
 ## Coğrafya
 
-Emir Sultan Zaviyesi, İzmir'in Konak ilçesinde, Ege Denizi'ne kıyısı olan bir bölgede yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. Zaviye, denize yakınlığıyla birlikte, çevresindeki dağların ve ormanların doğal güzelliği ile de dikkat çekiyor. Bölgenin iklimi, tipik Akdeniz iklimi özellikleri gösteriyor; yazları sıca ve kurak, kışları ılıman ve yağışlı geçiyor. Bu coğrafi özellikler, Emir Sultan Zaviyesi'ni yıl boyunca ziyaret edilebilir bir mekan haline getiriyor. Ziyaretçiler, bu mekanın sunduğu doğal güzellikleri keşfederek, hem deniz hem de dağların panoramik manzarasını izleyebilirler.
+Emir Sultan Zaviyesi, İzmir'in Konak ilçesinde, Ege Denizi'ne kıyısı olan bir bölgede yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. Zaviye, denize yakınlığıyla birlikte, çevresindeki dağların ve ormanların doğal güzelliği ile de dikkat çekiyor. Bölgenin iklimi, tipik Akdeniz iklimi özellikleri gösteriyor; yazları sıcak ve kurak, kışları ılıman ve yağışlı geçiyor. Bu coğrafi özellikler, Emir Sultan Zaviyesi'ni yıl boyunca ziyaret edilebilir bir mekan haline getiriyor. Ziyaretçiler, bu mekanın sunduğu doğal güzellikleri keşfederek, hem deniz hem de dağların panoramik manzarasını izleyebilirler.
 
 ## Flora ve Fauna
 

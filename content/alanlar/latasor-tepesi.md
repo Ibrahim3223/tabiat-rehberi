@@ -36,7 +36,7 @@ Latasor Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetleri
 
 ## Coğrafya
 
-Latasor Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alıyor. Bu bölge, ormanlık alanlar, dağlar ve çevresiyle birlikte yaklaşık 140 hektarlık bir alanı kapsıyor. Tepenin yüksekliği ve çevresindeki dağlar, ziyaretçilere eşsiz bir manzara sunuyor. İklim olarak, Latasor Tepesi ve çevresi, bölgenin genel iklimine uygun olarak karasal bir iklimi yaşıyor. Yaz ayları sıca ve kurak, kış ayları ise soğu ve yağışlı geçiyor. Bu çeşitlilik, bölgenin flora ve faunasını da etkiliyor. Çevre, çeşitli bitki türleri ve hayvanlarla dolu, ziyaretçilere doğanın güzelliklerini sunuyor.
+Latasor Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alıyor. Bu bölge, ormanlık alanlar, dağlar ve çevresiyle birlikte yaklaşık 140 hektarlık bir alanı kapsıyor. Tepenin yüksekliği ve çevresindeki dağlar, ziyaretçilere eşsiz bir manzara sunuyor. İklim olarak, Latasor Tepesi ve çevresi, bölgenin genel iklimine uygun olarak karasal bir iklimi yaşıyor. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçiyor. Bu çeşitlilik, bölgenin flora ve faunasını da etkiliyor. Çevre, çeşitli bitki türleri ve hayvanlarla dolu, ziyaretçilere doğanın güzelliklerini sunuyor.
 
 ## Flora ve Fauna
 

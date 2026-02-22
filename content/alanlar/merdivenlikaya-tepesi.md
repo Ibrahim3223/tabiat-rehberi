@@ -36,7 +36,7 @@ Merdivenlikaya Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeni
 
 ## Coğrafya
 
-Merdivenlikaya Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor ve coğrafi olarak oldukça zengin bir bölgedir. Tepenin eteklerinde yer alan köyler, yöresel tarım ürünleri yetiştirerek geçimini sağlıyor. Bölge, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahip. Merdivenlikaya Tepesi, yaklaşık yüksek bir konumdate yer alıyor ve çevresindeki diğer tepe ve dağlarla birlikte bir dağ silsilesi oluşturuyor. Tepenin zirvesinden, Ankara'nın ve çevresinin eşsiz manzarasını izleme mümkün. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal ve kurak. Yaz ayları sıca ve khô, kış ayları soğu ve kar yağışlı.
+Merdivenlikaya Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor ve coğrafi olarak oldukça zengin bir bölgedir. Tepenin eteklerinde yer alan köyler, yöresel tarım ürünleri yetiştirerek geçimini sağlıyor. Bölge, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahip. Merdivenlikaya Tepesi, yüksek bir konumda yer alıyor ve çevresindeki diğer tepe ve dağlarla birlikte bir dağ silsilesi oluşturuyor. Tepenin zirvesinden, Ankara'nın ve çevresinin eşsiz manzarasını izleme mümkün. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal ve kurak. Yaz ayları sıcak ve kuru, kış ayları soğuk ve kar yağışlı.
 
 ## Flora ve Fauna
 

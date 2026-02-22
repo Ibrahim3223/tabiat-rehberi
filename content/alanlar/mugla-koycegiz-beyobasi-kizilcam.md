@@ -30,7 +30,7 @@ Beyobasi Kızılçam Milli Parkı, tarihsel geçmişi ile dikkat çekmektedir. M
 
 ## Coğrafya
 
-Beyobasi Kızılçam Milli Parkı, Muğla'nın Koycegiz ilçesinde yer almaktadır. Milli park, 140 hektarlık bir alanda kurulmuştur. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve hayvanlar ile örtülmüştür. Milli parkın iklimi, Akdeniz iklimi olup, yazları sıca ve kurak, kışları ılık ve yağışlı geçmektedir. Milli parkın içinde, çeşitli su kaynakları bulunmakta olup, ziyaretçiler bu su kaynaklarını keşfedebilirler. Milli parkın coğrafi yapısı, ziyaretçilerin doğayı keşfetmeleri için ideal bir ortam sunmaktadır. Milli parkın çevresi, çeşitli köyler ve kasabalar ile çevrilidir. Milli parka, Muğla ve Koycegiz merkezinden ulaşım mogelijk bulunmaktadır.
+Beyobasi Kızılçam Milli Parkı, Muğla'nın Koycegiz ilçesinde yer almaktadır. Milli park, 140 hektarlık bir alanda kurulmuştur. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve hayvanlar ile örtülmüştür. Milli parkın iklimi, Akdeniz iklimi olup, yazları sıcak ve kurak, kışları ılık ve yağışlı geçmektedir. Milli parkın içinde, çeşitli su kaynakları bulunmakta olup, ziyaretçiler bu su kaynaklarını keşfedebilirler. Milli parkın coğrafi yapısı, ziyaretçilerin doğayı keşfetmeleri için ideal bir ortam sunmaktadır. Milli parkın çevresi, çeşitli köyler ve kasabalar ile çevrilidir. Milli parka, Muğla ve Koycegiz merkezinden ulaşım mogelijk bulunmaktadır.
 
 ## Flora ve Fauna
 

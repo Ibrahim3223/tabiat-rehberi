@@ -40,7 +40,7 @@ Mersin'in dağlık bölgelerinde yer alan Kuzucuyurdu Tepe, 36.8333°K enlem ve 
 
 Doğal güzelliği ile dikkat çeken Kuzucuyurdu Tepe, coğrafi olarak Mersin'in dağlık alanlarına özgü bir yapıya sahip. Bu tepenin fiziksel yapısı, Mersin'in genel coğrafyasına benzer şekilde, dağlık ve engebeli bir araziye sahip. Tepenin yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadar bir yükseklikte bulunuyor. Bu yükseklik, bölgenin panoramik manzarasını gözler önüne seriyor.
 
-Mersin'in iklimi, Akdeniz ikliminin karakteristik özelliklerini taşıyor ve Kuzucuyurdu Tepe de bu iklimin etkilerini gösteriyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava hakim. Bu mevsimsel özellikler, tepe ve çevresindeki bitki örtüsünü şekillendiriyor. Bölge, özellikle ilkbahar ve sonbahar aylarında, renkli bir manzara sunuyor.
+Mersin'in iklimi, Akdeniz ikliminin karakteristik özelliklerini taşıyor ve Kuzucuyurdu Tepe de bu iklimin etkilerini gösteriyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava hakim. Bu mevsimsel özellikler, tepe ve çevresindeki bitki örtüsünü şekillendiriyor. Bölge, özellikle ilkbahar ve sonbahar aylarında, renkli bir manzara sunuyor.
 
 Kuzucuyurdu Tepe, Mersin'in doğal güzelliklerini koruma altına alan bir bölgede yer alıyor. Bu tepe, çevresindeki ormanlık alanlar ve su kaynakları ile birlikte, bir ekosistem olarak işlev görüyor. Monaco'nun yaklaşık 1/20'si büyüklüğünde olan bu alan, bölgenin biyolojik çeşitliliğini koruma altına alıyor. Bu nedenle, Kuzucuyurdu Tepe, Mersin'in doğal zenginliklerini keşfetmek isteyenler için önemli bir destinasyon.
 

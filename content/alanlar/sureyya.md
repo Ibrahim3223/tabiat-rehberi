@@ -31,7 +31,7 @@ Süreyya'nın tarihi geçmişi, yüzyıllar boyunca devam eden bir doğal miras�
 
 ## Coğrafya
 
-Süreyya, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. 140 hektarlık geniş bir alan olarak, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet sunuyor. Bu geniş alan, ziyaretçilere geniş bir gezi alanı sunuyor ve aynı zamanda zengin bir ekosisteme de ev sahipliği yapıyor. İklim olarak, İç Anadolu Bölgesi'nin karasal ikliminin etkilerini taşıyan Sureyya, yazları sıca ve kurak, kışları soğu ve kar yağışlı bir iklim özelliği gösteriyor. Bu reason, bölgenin flora ve fauna açısından oldukça zengin olmasına olanak tanıyor. Sureyya'nın coğrafi konumu, aynı zamanda çeşitli bitki türlerinin yetişmesine de olanak tanıyor.
+Süreyya, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. 140 hektarlık geniş bir alan olarak, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet sunuyor. Bu geniş alan, ziyaretçilere geniş bir gezi alanı sunuyor ve aynı zamanda zengin bir ekosisteme de ev sahipliği yapıyor. İklim olarak, İç Anadolu Bölgesi'nin karasal ikliminin etkilerini taşıyan Sureyya, yazları sıcak ve kurak, kışları soğuk ve kar yağışlı bir iklim özelliği gösteriyor. Bu reason, bölgenin flora ve fauna açısından oldukça zengin olmasına olanak tanıyor. Sureyya'nın coğrafi konumu, aynı zamanda çeşitli bitki türlerinin yetişmesine de olanak tanıyor.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ schema_type: "TouristAttraction"
 
 # Girlevik Şelalesi
 
-Girlevik Şelalesi, Erzincan'ın merkezine uzun bir mesafe uzaklıkta yer alıyor. Bu şelale, yaklaşık yüksek bir konumdaten dökülen suyun oluşturduğu doğal bir güzellik. Şelalenin çevresinde bulunan ormanlık alan, ziyaretçilere hem serinlik hem de huzur veriyor. Girlevik Şelalesi, doğa severlerin ve fotoğraf çekmeyi sevenlerin mutlaka görmesi gereken bir yer.
+Girlevik Şelalesi, Erzincan'ın merkezine uzun bir mesafe uzaklıkta yer alıyor. Bu şelale, yüksek bir konumdan dökülen suyun oluşturduğu doğal bir güzellik. Şelalenin çevresinde bulunan ormanlık alan, ziyaretçilere hem serinlik hem de huzur veriyor. Girlevik Şelalesi, doğa severlerin ve fotoğraf çekmeyi sevenlerin mutlaka görmesi gereken bir yer.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Girlevik Şelalesi'nin tarihi geçmişi hakkında kesin bilgiler bulunmuyor. Anc
 
 ## Coğrafya
 
-Girlevik Şelalesi, Doğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölgede yer alıyor. Şelalenin bulunduğu alan, dağlık bir bölgede yer alıyor ve etrafı ormanlık alanlarla çevrili. Bölgenin iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Girlevik Şelalesi'nin su kaynağı, yakınlarında bulunan dağlardan gelen su kaynaklarından oluşuyor. Şelalenin yüksekliği khong 20 metre ve suyun düşme hızı, ziyaretçilere güzel bir manzara sunuyor.
+Girlevik Şelalesi, Doğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölgede yer alıyor. Şelalenin bulunduğu alan, dağlık bir bölgede yer alıyor ve etrafı ormanlık alanlarla çevrili. Bölgenin iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Girlevik Şelalesi'nin su kaynağı, yakınlarında bulunan dağlardan gelen su kaynaklarından oluşuyor. Şelalenin yüksekliği khong 20 metre ve suyun düşme hızı, ziyaretçilere güzel bir manzara sunuyor.
 
 ## Flora ve Fauna
 

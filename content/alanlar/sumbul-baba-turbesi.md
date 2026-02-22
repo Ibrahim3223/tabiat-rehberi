@@ -38,7 +38,7 @@ Sümbül Baba Türbesi, tarihsel geçmişi ile dikkat çekiyor. Bu türbenin tar
 
 ## Coğrafya
 
-Sümbül Baba Türbesi, Tokat ilinin merkezinde yer alıyor ve Karadeniz Bölgesi'nin coğrafi güzelliklerini sunuyor. Bu türbe, yaklaşık 140 hektarlık bir alanda yer alıyor ve Tokat'ın önemli coğrafi noktalarından biri olarak kabul ediliyor. Tokat'ın coğrafi yapısı, karasal iklimin özellikleri ile şekilleniyor. İlkbahar ve yaz aylarında sıcaklıklar artarken, kış aylarında soğu ve kar yağışlı bir hava hakim oluyor. Sümbül Baba Türbesi, Tokat'ın merkezinde bulunması sebebiyle, ulaşım açısından kolay bir konumda yer alıyor. Ziyaretçiler, Tokat şehir merkezinden türbeye kolayca ulaşabiliyorlar. Ayrıca, türbenin etrafında bulunan yeşil alanlar ve doğal güzellikler, ziyaretçilere dinlenme ve doğayı seyretmek için uygun bir ortam sunuyor.
+Sümbül Baba Türbesi, Tokat ilinin merkezinde yer alıyor ve Karadeniz Bölgesi'nin coğrafi güzelliklerini sunuyor. Bu türbe, yaklaşık 140 hektarlık bir alanda yer alıyor ve Tokat'ın önemli coğrafi noktalarından biri olarak kabul ediliyor. Tokat'ın coğrafi yapısı, karasal iklimin özellikleri ile şekilleniyor. İlkbahar ve yaz aylarında sıcaklıklar artarken, kış aylarında soğuk ve kar yağışlı bir hava hakim oluyor. Sümbül Baba Türbesi, Tokat'ın merkezinde bulunması sebebiyle, ulaşım açısından kolay bir konumda yer alıyor. Ziyaretçiler, Tokat şehir merkezinden türbeye kolayca ulaşabiliyorlar. Ayrıca, türbenin etrafında bulunan yeşil alanlar ve doğal güzellikler, ziyaretçilere dinlenme ve doğayı seyretmek için uygun bir ortam sunuyor.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ Sakarıılıca Kaplıcaları, tarihi geçmişiyle dikkat çeker. Bu kaplıca, y�
 
 ## Coğrafya
 
-Sakarıılıca Kaplıcaları, Eskişehir'in Mihalgazi ilçesinde yer alır ve coğrafi olarak oldukça zengin bir bölgedir. Kaplıca, 140 hektarlık bir yeşil alana sahiptir ve bu alan, çeşitli bitki türleriyle kaplıdır. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösterir. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurudur. Kaplıcanın coğrafi konumu, ziyaretçilere doğa yürüyüşleri, trekking ve diğer outdoor aktiviteler için ideal bir zemin sunar. Ayrıca, çevredeki dağlar ve vadiler, manzarası ile ziyaretçileri büyüler.
+Sakarıılıca Kaplıcaları, Eskişehir'in Mihalgazi ilçesinde yer alır ve coğrafi olarak oldukça zengin bir bölgedir. Kaplıca, 140 hektarlık bir yeşil alana sahiptir ve bu alan, çeşitli bitki türleriyle kaplıdır. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösterir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Kaplıcanın coğrafi konumu, ziyaretçilere doğa yürüyüşleri, trekking ve diğer outdoor aktiviteler için ideal bir zemin sunar. Ayrıca, çevredeki dağlar ve vadiler, manzarası ile ziyaretçileri büyüler.
 
 ## Flora ve Fauna
 

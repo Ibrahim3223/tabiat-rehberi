@@ -53,7 +53,7 @@ Mevsimsel değişikliklere baktığımızda, Gora Arat Dağı'nın bulunduğu b�
 
 Gora Arat dağ ekosisteminde, step bitki örtüsü ve bozkır hakimdir. İlkbaharla birlikte, dağ yamaçları renklendirilir ve çiçekler açmaya başlar. Sonbaharda, kuraklığa adapte olmuş bitkiler, sarı ve kahverengi tonlarına bürünür. Bu mevsimsel değişim, dağ hayvanlarını da etkiler.
 
-Dağların yükseklik zonalarında, alpin flora bulunur. Bu bölgede, kuraklığa dayanıklı bitkiler ve çalılar yer alır. Yaban hayatı da çeşitlilik gösterir. Memeliler, dağların kayalık alanlarında yaşamayı tercih ederken, kuşlar göç ettikleri sırada bu dağları ziyaret eder. Sürüngenler ise, sıca ve kuru alanlarda aktif olarak görülür.
+Dağların yükseklik zonalarında, alpin flora bulunur. Bu bölgede, kuraklığa dayanıklı bitkiler ve çalılar yer alır. Yaban hayatı da çeşitlilik gösterir. Memeliler, dağların kayalık alanlarında yaşamayı tercih ederken, kuşlar göç ettikleri sırada bu dağları ziyaret eder. Sürüngenler ise, sıcak ve kuru alanlarda aktif olarak görülür.
 
 Gora Arat'ın ekolojik değeri, bu dağ ekosisteminin koruma durumundan gelir. Bu alanın korunması, sadece burada yaşayan canlıları değil, aynı zamanda bölgenin su döngüsünü ve toprağını da korur. Bu nedenle, Gora Arat'ın doğal güzelliği ve biyolojik çeşitliliği, gelecek nesiller için korunmalıdır.
 

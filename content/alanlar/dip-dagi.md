@@ -42,7 +42,7 @@ Gökyüzüne uzanan bir zirve olarak, Samsun'un coğrafyasında önemli bir yer 
 
 Jeolojik açıdan bakıldığında, Dip Dağı'nın fiziksel yapısı hakkında spesifi veriler bulunmasa da, genel olarak Karadeniz Bölgesi'nin coğrafyasına bakıldığında, bu bölgenin dağlık ve engebeli bir yapıya sahip olduğu görülür. Bu dağlık bölge, Monaco'nun yarısı kadar bir alanı kaplayan geniş bir coğrafi alana yayılır. Ancak, Dip Dağı'nın boyutları hakkında net bir bilgi olmasa da, bu bölgenin doğal güzellikleri ve coğrafi çeşitliliği, ziyaretçilerini etkileyen önemli özelliklerdir.
 
-Mevsimsel değişikliklere bakıldığında, Dip Dağı ve çevresinin iklim karakteri Karadeniz Bölgesi'nin genel iklim özelliklerini taşır. Bu bölgede, yaz aylarında sıcaklık ve nem oranı artarken, kış aylarında soğu ve yağışlı bir hava hakim olur. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı zirveler, bu bölgenin coğrafi çeşitliliğini ve yükseklik farklılıklarını gösterir.
+Mevsimsel değişikliklere bakıldığında, Dip Dağı ve çevresinin iklim karakteri Karadeniz Bölgesi'nin genel iklim özelliklerini taşır. Bu bölgede, yaz aylarında sıcaklık ve nem oranı artarken, kış aylarında soğuk ve yağışlı bir hava hakim olur. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı zirveler, bu bölgenin coğrafi çeşitliliğini ve yükseklik farklılıklarını gösterir.
 
 Çevresel açıdan, Dip Dağı ve çevresindeki alanlar, su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahiptir. Bu bölgenin komşu alanları, ormanlık bölgeler ve tarım arazilerinden oluşur. Su kaynakları bakımından, Karadeniz kıyı şeridinin yakınında yer alan bu bölge, birçok nehir ve akarsuya ev sahipliği yapar. Bu doğal kaynaklar, bölgenin ekosistem dengesini koruma ve sürdürmek açısından kritik öneme sahiptir.
 

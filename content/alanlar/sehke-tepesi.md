@@ -36,7 +36,7 @@ wikidata_id: "Q31547612"
 
 ## Coğrafya
 
-Şehke Tepesi, Siirt'in coğrafi yapısı içinde önemli bir yere sahiptir. Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bu tepe, çevresindeki dağlar ve ovalar ile bir bütünü oluşturuyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. İklim olarak, bölgenin genel iklim koşullarını paylaşan Şehke Tepesi, yazları sıca ve kurak, kışları ise soğu ve yağışlı geçiren bir bölgedir. Tepenin yüksekliği, şehrin diğer bölgelerine nazaran daha soğuktur ve bu nedenle özellikle yaz aylarında serinlemek isteyenler için ideal bir kaçış noktasıdır. Tepenin manzarası, Siirt şehrinin panoramik bir görünümünü sunuyor ve ziyaretçilere şehri farklı bir açıdan keşfetme fırsatı veriyor.
+Şehke Tepesi, Siirt'in coğrafi yapısı içinde önemli bir yere sahiptir. Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bu tepe, çevresindeki dağlar ve ovalar ile bir bütünü oluşturuyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. İklim olarak, bölgenin genel iklim koşullarını paylaşan Şehke Tepesi, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı geçiren bir bölgedir. Tepenin yüksekliği, şehrin diğer bölgelerine nazaran daha soğuktur ve bu nedenle özellikle yaz aylarında serinlemek isteyenler için ideal bir kaçış noktasıdır. Tepenin manzarası, Siirt şehrinin panoramik bir görünümünü sunuyor ve ziyaretçilere şehri farklı bir açıdan keşfetme fırsatı veriyor.
 
 ## Flora ve Fauna
 

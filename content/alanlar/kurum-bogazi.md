@@ -40,7 +40,7 @@ Güneydoğu Anadolu'nun yeşillik dokusu içinde gizlenen Kurum Boğazı, Hatay 
 
 Jeolojik açıdan incelendiğinde, Kurum Boğazı'nın oluşumu milyonlarca yıl öncesine dayanır. Bu kanyon, Amanos Dağları'nın kıvrımlarından birini oluşturur ve dağların jeolojik yapısı, bölgenin iklim koşullarını etkilemiştir. Ancak, detaylı fiziksel verilerin eksikliği nedeniyle, kanyonun boyutları ve şekli hakkında net bir fikir oluşmamasına rağmen, Amanos Dağları'nın genel yapısı, bu bölgenin doğal güzelliğini vurgulamaktadır.
 
-İklim açısından bakıldığında, Kurum Boğazı, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir hava hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler ve farklı türlerin yaşamını destekler. Amanos Dağları'nın yüksekliklerinin, bölgenin mikro iklimini şekillendirdiği de bilinmektedir.
+İklim açısından bakıldığında, Kurum Boğazı, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler ve farklı türlerin yaşamını destekler. Amanos Dağları'nın yüksekliklerinin, bölgenin mikro iklimini şekillendirdiği de bilinmektedir.
 
 Doğal su kaynakları ve bitki örtüsünün zenginliği, Kurum Boğazı'nı komşu ekosistemlerle bağlantılı hale getirir. Bu bağlantı, bölgenin biyolojik çeşitliliğini destekler ve farklı habitatların oluşmasına olanak tanır. Amanos Dağları'nın su kaynakları, bölgenin tarım ve hayvancılık faaliyetlerini de etkiler ve yerel ekonomiyi destekler. Bu nedenle, Kurum Boğazı, sadece bir doğal güzellik olarak değil, aynı zamanda bölgenin ekolojik dengesini koruyan önemli bir bileşen olarak da görülebilir.
 

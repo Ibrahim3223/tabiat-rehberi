@@ -31,7 +31,7 @@ Catalkaya'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge
 
 ## Coğrafya
 
-Catalkaya, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Bu bölge, coğrafya açısından oldukça çeşitli ve zengin bir yapıya sahiptir. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde olan Catalkaya, ziyaretçilerine geniş bir alan sunuyor. İklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve karasal iklim özellikleri gösteriyor. Yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlı geçiyor. Catalkaya'nın coğrafi yapısı, çeşitli bitki türleri ve fauna için uygun bir ortam sunuyor. Bu milli park, doğal güzellikleri ve zengin ekosistemiyle dikkat çekiyor ve ziyaretçilerini doğanın sâu dalamına davet ediyor.
+Catalkaya, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Bu bölge, coğrafya açısından oldukça çeşitli ve zengin bir yapıya sahiptir. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde olan Catalkaya, ziyaretçilerine geniş bir alan sunuyor. İklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve karasal iklim özellikleri gösteriyor. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçiyor. Catalkaya'nın coğrafi yapısı, çeşitli bitki türleri ve fauna için uygun bir ortam sunuyor. Bu milli park, doğal güzellikleri ve zengin ekosistemiyle dikkat çekiyor ve ziyaretçilerini doğanın sâu dalamına davet ediyor.
 
 ## Flora ve Fauna
 

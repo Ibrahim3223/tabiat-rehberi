@@ -31,7 +31,7 @@ Karabuk-Yenice'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b�
 
 ## Coğrafya
 
-Karabuk-Yenice, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alır. Bu bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Coğrafi olarak, Karabuk-Yenice, dağlık ve engebeli bir araziye sahiptir. Bu arazi, çeşitli bitki türleri ve hayvanlar için uygun bir yaşam alanı sağlar. İklim olarak, Karabuk-Yenice, İç Anadolu Bölgesi'nin genel iklim şartlarına sahiptir. Bu bölge, yazları sıca ve khô, kışları soğu ve karlı bir iklimi sahiptir. Çevre olarak, Karabuk-Yenice, doğal güzelliği ve ekolojik önemi ile dikkat çeker. Bu bölge, yaban hayatı açısından zengin bir çeşitlilik gösterir ve birçok farklı türün yaşam alanıdır.
+Karabuk-Yenice, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alır. Bu bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Coğrafi olarak, Karabuk-Yenice, dağlık ve engebeli bir araziye sahiptir. Bu arazi, çeşitli bitki türleri ve hayvanlar için uygun bir yaşam alanı sağlar. İklim olarak, Karabuk-Yenice, İç Anadolu Bölgesi'nin genel iklim şartlarına sahiptir. Bu bölge, yazları sıcak ve kuru, kışları soğuk ve karlı bir iklimi sahiptir. Çevre olarak, Karabuk-Yenice, doğal güzelliği ve ekolojik önemi ile dikkat çeker. Bu bölge, yaban hayatı açısından zengin bir çeşitlilik gösterir ve birçok farklı türün yaşam alanıdır.
 
 ## Flora ve Fauna
 

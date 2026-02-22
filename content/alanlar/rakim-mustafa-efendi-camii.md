@@ -37,7 +37,7 @@ Rakım Mustafa Efendi Camii'nin tarihi geçmişi, Osmanlı İmparatorluğu'nun g
 
 ## Coğrafya
 
-Rakım Mustafa Efendi Camii, Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alır. Cami, deniz seviyesinden yaklaşık yüksek bir konumdate bulunur. Rakım Mustafa Efendi Camii'nin coğrafi konumu, İstanbul'un tarihi ve kültürel merkezine yakınlığıyla dikkat çeker. Cami, tarihi yarımadanın merkezi bölgesinde yer alır ve etrafındaki tarihi yapılar, sokaklar ve meydanlar, ziyaretçilere bir tarihi çevre sunar. Rakım Mustafa Efendi Camii'nin bulunduğu bölge, yıl boyunca ılıman bir iklim özellikleri gösterir. Kış aylarında hafif yağışlar, yaz aylarında ise sıcak ve nemli bir hava hakimdir. Cami, çevredeki yeşil alanlar ve tarihi yapılarla birlikte, bir bütün olarak thought edilen bir tarihi ve kültürel kompleks oluşturur.
+Rakım Mustafa Efendi Camii, Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alır. Cami, yüksek bir konumda bulunur. Rakım Mustafa Efendi Camii'nin coğrafi konumu, İstanbul'un tarihi ve kültürel merkezine yakınlığıyla dikkat çeker. Cami, tarihi yarımadanın merkezi bölgesinde yer alır ve etrafındaki tarihi yapılar, sokaklar ve meydanlar, ziyaretçilere bir tarihi çevre sunar. Rakım Mustafa Efendi Camii'nin bulunduğu bölge, yıl boyunca ılıman bir iklim özellikleri gösterir. Kış aylarında hafif yağışlar, yaz aylarında ise sıcak ve nemli bir hava hakimdir. Cami, çevredeki yeşil alanlar ve tarihi yapılarla birlikte, bir bütün olarak thought edilen bir tarihi ve kültürel kompleks oluşturur.
 
 ## Flora ve Fauna
 

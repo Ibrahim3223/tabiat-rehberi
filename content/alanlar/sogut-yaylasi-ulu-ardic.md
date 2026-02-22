@@ -30,7 +30,7 @@ Söğüt Yaylasi Ulu Ardic'in tarihi geçmişi, yüzyıllar boyunca şekillenmi�
 
 ## Coğrafya
 
-Söğüt Yaylasi Ulu Ardic, İç Anadolu Bölgesi'nin coğrafi yapısıyla uyumlu bir şekilde konumlanmıştır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir açık alan sunmaktadır. Yayla, çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosisteme sahiptir. Coğrafi olarak, Söğüt Yaylasi Ulu Ardic, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölge, genellikle karasal iklim özellikleri gösterir ve mevsimsel değişimler belirgindir. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bu coğrafi özellikler, Söğüt Yaylasi Ulu Ardic'in flora ve faunasını şekillendirmiştir. Yayla, ziyaretçilere doğanın güzelliğini ve çeşitliliğini keşfetme fırsatı sunar.
+Söğüt Yaylasi Ulu Ardic, İç Anadolu Bölgesi'nin coğrafi yapısıyla uyumlu bir şekilde konumlanmıştır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir açık alan sunmaktadır. Yayla, çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosisteme sahiptir. Coğrafi olarak, Söğüt Yaylasi Ulu Ardic, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölge, genellikle karasal iklim özellikleri gösterir ve mevsimsel değişimler belirgindir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu coğrafi özellikler, Söğüt Yaylasi Ulu Ardic'in flora ve faunasını şekillendirmiştir. Yayla, ziyaretçilere doğanın güzelliğini ve çeşitliliğini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nde yer alan Öksüz Dağı, Kahramanmaraş ilinin 
 
 Doğal güzelliği ile dikkat çeken Öksüz Dağı, coğrafi olarak çeşitlilik gösteren bir bölgede bulunmaktadır. Veriler sınırlı olsa da, Öksüz Dağı'nın bulunduğu bölgenin jeolojik yapısı, bölgenin tarih boyunca farklı tektonik hareketlere maruz kaldığını göstermektedir. Bu hareketler, dağların oluşumunda önemli bir rol oynamıştır. Monaco'nun yarısı kadar büyük bir alana spread olan Öksüz Dağı, bölgenin önemli bir coğrafi özelliğidir.
 
-Öksüz Dağı'nın iklimi, bölgenin genel iklim karakterine benzerlik gösterir. Bölge, yazları sıca ve kurak, kışları ise soğu ve yağışlı bir iklim karakterine sahiptir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı noktalarda, hava koşulları daha sert olabilir ve bu da bölgenin iklim karakterini daha da çeşitlendirmektedir.
+Öksüz Dağı'nın iklimi, bölgenin genel iklim karakterine benzerlik gösterir. Bölge, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı bir iklim karakterine sahiptir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı noktalarda, hava koşulları daha sert olabilir ve bu da bölgenin iklim karakterini daha da çeşitlendirmektedir.
 
 Bölgenin su kaynakları, Öksüz Dağı'nın çevresindeki alanları beslemektedir. Dağın eteklerinde bulunan su kaynakları, bölgenin ekosistemini desteklemektedir. Çevresel ilişkiler açısından, Öksüz Dağı, bölgenin diğer coğrafi özellikleriyle bağlantılıdır. Örneğin, Taksim Meydanı'nın 10 katı büyüklüğündeki bir alana yayılmış olan Öksüz Dağı, bölgenin diğer dağlık alanlarıyla birlikte, bölgenin doğal güzelliğini oluşturmaktadır.
 

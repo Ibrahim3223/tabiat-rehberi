@@ -37,7 +37,7 @@ Yozgat Çamlığı Millî Parkı, 1958 yılında millî park olarak ilan edilmi�
 
 ## Coğrafya
 
-Yozgat Çamlığı Millî Parkı, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. 12.924 hektarlık alanı, çam ormanları, çayırlar ve tepelerle kaplıdır. Parkın deniz seviyesinden yüksekliği 1200-1300 metre civarındadır. İklim, karasal iklim özellikleri gösterir ve yazlar sıcak, kışlar soğu ve kar yağışlı geçer. Yozgat Çamlığı Millî Parkı, bölgedeki diğer doğal alanlara göre daha yeşil ve nemli bir ortam sunar.
+Yozgat Çamlığı Millî Parkı, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. 12.924 hektarlık alanı, çam ormanları, çayırlar ve tepelerle kaplıdır. Parkın deniz seviyesinden yüksekliği 1200-1300 metre civarındadır. İklim, karasal iklim özellikleri gösterir ve yazlar sıcak, kışlar soğuk ve kar yağışlı geçer. Yozgat Çamlığı Millî Parkı, bölgedeki diğer doğal alanlara göre daha yeşil ve nemli bir ortam sunar.
 
 ## Flora ve Fauna
 

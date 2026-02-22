@@ -36,7 +36,7 @@ Bulanık Tepe'nin tarihi geçmişi, bölgenin coğrafi ve kültürel oluşumuna 
 
 ## Coğrafya
 
-Bulanık Tepe, Erzurum ilinin coğrafi yapısını oluşturan önemli bir bölgedir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir ve çevresindeki doğal güzelliklerle ziyaretçilerini etkilemektedir. Tepe, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölgenin iklimi, Doğu Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal bir yapıya sahiptir. Kış mevsimi soğu ve kar yağışlı, yaz mevsimi ise serin ve yağışlı geçmektedir. Bulanık Tepe, ziyaretçilerine doğa yürüyüşü, dağcılık ve diğer outdoor etkinlikler için uygun bir ortam sunmaktadır. Tepe ve çevresindeki bölge, doğa severler ve macera arayanlar için ideal bir destinasyondur.
+Bulanık Tepe, Erzurum ilinin coğrafi yapısını oluşturan önemli bir bölgedir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir ve çevresindeki doğal güzelliklerle ziyaretçilerini etkilemektedir. Tepe, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölgenin iklimi, Doğu Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal bir yapıya sahiptir. Kış mevsimi soğuk ve kar yağışlı, yaz mevsimi ise serin ve yağışlı geçmektedir. Bulanık Tepe, ziyaretçilerine doğa yürüyüşü, dağcılık ve diğer outdoor etkinlikler için uygun bir ortam sunmaktadır. Tepe ve çevresindeki bölge, doğa severler ve macera arayanlar için ideal bir destinasyondur.
 
 ## Flora ve Fauna
 

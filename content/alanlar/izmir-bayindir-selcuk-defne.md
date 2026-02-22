@@ -30,7 +30,7 @@ wikidata_id: "Q108228483"
 
 ## Coğrafya
 
-İzmir-Bayındır-Selçuk Defne milli parkı, Ege Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Park, 140 hektarlık bir alanı kaplar ve bu alan, yaklaşık 200 futbol sahası büyüklüğündedir. Defne milli parkı, deniz seviyesinden yaklaşık yüksek bir konumdate bulunur ve bu yükseklik, ziyaretçilere bölgenin panoramik manzarasını sunar. Parkın coğrafi yapısı, çeşitli flora ve fauna türlerinin yaşamına elverişlidir. Ayrıca, parkın iklimi, ılıman ve yağışlıdır, bu da bitkilerin ve hayvanların yaşaması için ideal koşulları sağlar. Defne milli parkı, coğrafi olarak zengin bir bölgede bulunur ve ziyaretçilere çeşitli doğa güzellikleri sunar.
+İzmir-Bayındır-Selçuk Defne milli parkı, Ege Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Park, 140 hektarlık bir alanı kaplar ve bu alan, yaklaşık 200 futbol sahası büyüklüğündedir. Defne milli parkı, yüksek bir konumda bulunur ve bu yükseklik, ziyaretçilere bölgenin panoramik manzarasını sunar. Parkın coğrafi yapısı, çeşitli flora ve fauna türlerinin yaşamına elverişlidir. Ayrıca, parkın iklimi, ılıman ve yağışlıdır, bu da bitkilerin ve hayvanların yaşaması için ideal koşulları sağlar. Defne milli parkı, coğrafi olarak zengin bir bölgede bulunur ve ziyaretçilere çeşitli doğa güzellikleri sunar.
 
 ## Flora ve Fauna
 

@@ -45,7 +45,7 @@ Doğunun gizli köşelerinden biri olan Oramar Dağları, 37.3507°K, 44.1451°D
 
 Oramar Dağları'nın fiziksel yapısı, coğrafyanın şekillenmesinde önemli bir rol oynuyor. Ne yazık ki, detaylı fiziksel veriler bulunmuyor, ancak bu dağlık bölge, Monaco'nun küçük bir bölümü kadar büyüklüğe sahip gibi görünüyor. Jeolojik açıdan, bu bölgeyi şekillendiren forces, Oramar Dağları'nı benzersiz bir forma sokmuş. Yükseklik açısından, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu dağlık alan, ziyaretçilerine eşsiz manzaralar sunuyor.
 
-İklim açısından, Oramar Dağları mevsimsel özelliklere göre değişen bir yapıya sahip. Kış aylarında soğu ve karlı, yaz aylarında ise ılıman ve güneşli bir hava hakim. Bu mevsimsel değişimler, bu dağlık bölgenin iklim karakterini şekillendiriyor. Hava durumu, bölgenin coğrafi konumu nedeniyle değişkenlik gösterebiliyor ve bu, Oramar Dağları'nı ziyaret edenler için keyifli bir deneyim sunuyor.
+İklim açısından, Oramar Dağları mevsimsel özelliklere göre değişen bir yapıya sahip. Kış aylarında soğuk ve karlı, yaz aylarında ise ılıman ve güneşli bir hava hakim. Bu mevsimsel değişimler, bu dağlık bölgenin iklim karakterini şekillendiriyor. Hava durumu, bölgenin coğrafi konumu nedeniyle değişkenlik gösterebiliyor ve bu, Oramar Dağları'nı ziyaret edenler için keyifli bir deneyim sunuyor.
 
 Çevresel açıdan, Oramar Dağları komşu alanlar ve su kaynaklarıyla bağlantılı bir ekosisteme sahip. Bu dağlık bölge, Taksim Meydanı'nın yaklaşık 5 katı büyüklüğünde bir alanı kaplayan geniş bir vadiye de ev sahipliği yapıyor. Ekosistem bağlantıları, bu bölgenin doğal dengesini koruyor ve ziyaretçilerine eşsiz bir deneyim sunuyor.
 

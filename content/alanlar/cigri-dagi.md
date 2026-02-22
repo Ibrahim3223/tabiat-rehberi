@@ -44,7 +44,7 @@ Doğal güzellikleri ve stratejik konumuyla, Çığrı Dağı gibi alanlar Türk
 
 Doğal güzelliği ile dikkat çeken Çığrı Dağı, coğrafi olarak bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu ölçek, dağın çevredeki coğrafyası ile uyumlu bir şekilde entegre olduğunu gösterir. Çığrı Dağı'nın fiziksel yapısı, bölgenin jeolojik özelliklerini yansıtır. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadardır. Bu yükseklik, ziyaretçilerin bölgeyi keşfetmeleri için uygun bir noktada yer alır.
 
-Mevsimsel özellikler açısından bakıldığında, Çığrı Dağı'nın iklim karakteri, Akdeniz ikliminin etkilerini taşır. Kış aylarında ılıman, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler. Dağın iklimi, komşu alanların iklimsWith birlikte uyum içerisindedir.
+Mevsimsel özellikler açısından bakıldığında, Çığrı Dağı'nın iklim karakteri, Akdeniz ikliminin etkilerini taşır. Kış aylarında ılıman, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler. Dağın iklimi, komşu alanların iklimsWith birlikte uyum içerisindedir.
 
 Çevresel açıdan bakıldığında, Çığrı Dağı, komşu alanlar ve su kaynakları ile bağlantılı bir ekosistem içerisinde yer alır. Dağın yakınında bulunan su kaynakları, bölgenin ekolojik dengesini korur. Çığrı Dağı, Monaco'nun yaklaşık 1/20'si büyüklüğünde bir alanı kaplar. Bu ölçek, dağın çevreye olan etkisini vurgular. Dağın çevresel ilişkileri, bölgenin doğal güzelliğinin korunması için önemli bir role sahiptir.
 

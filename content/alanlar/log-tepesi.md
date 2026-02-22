@@ -37,7 +37,7 @@ Log Tepesi, tarihin derinliklerine uzanan bir geçmişe sahiptir. Bu bölge, yü
 
 ## Coğrafya
 
-Log Tepesi, Akdeniz Bölgesi'nin coğrafi özelliklerine sahiptir. Bu bölge, genellikle sıca ve kurak bir iklime sahip olmakla birlikte, tepenin yüksekliği nedeniyle burada daha serin bir hava hakimdir. Tepenin eteklerinde yer alan ormanlar, bölgenin ekolojik dengesini sağlar ve çeşitli bitki türleri ile hayvanlara ev sahipliği yapar. Log Tepesi, manzarası ile de dikkat çeker. Buradan, Akdeniz'in mavi sularını ve çevredeki dağları izleme mümkün. Tepenin zirvesine çıkıldığında, geniş bir panorama açılır ve ziyaretçiler, bu eşsiz görünümü keşfedebilir. Log Tepesi, coğrafi konumu ve doğal güzellikleri ile ziyaretçilerini büyüler.
+Log Tepesi, Akdeniz Bölgesi'nin coğrafi özelliklerine sahiptir. Bu bölge, genellikle sıcak ve kurak bir iklime sahip olmakla birlikte, tepenin yüksekliği nedeniyle burada daha serin bir hava hakimdir. Tepenin eteklerinde yer alan ormanlar, bölgenin ekolojik dengesini sağlar ve çeşitli bitki türleri ile hayvanlara ev sahipliği yapar. Log Tepesi, manzarası ile de dikkat çeker. Buradan, Akdeniz'in mavi sularını ve çevredeki dağları izleme mümkün. Tepenin zirvesine çıkıldığında, geniş bir panorama açılır ve ziyaretçiler, bu eşsiz görünümü keşfedebilir. Log Tepesi, coğrafi konumu ve doğal güzellikleri ile ziyaretçilerini büyüler.
 
 ## Flora ve Fauna
 

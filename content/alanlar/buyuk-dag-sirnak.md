@@ -44,7 +44,7 @@ Coğrafi konumu itibariyle, Büyük Dağ (Şırnak) 37.4062°K, 42.5963°D koord
 
 Doğal yapısı itibariyle, Büyük Dağ'ın fiziksel özellikleri hakkında detaylı bilgi olmasa da, bölgenin coğrafi yapısı genel olarak dağlık ve engebeli. Dağın yüksekliği ve büyüklüğü, Monaco'nun yarısı kadar bir alanı kaplayabilecek büyüklükte. Yüksekliği, Eiffel Kulesi'nin 2 katı yükseklikte bir nokta olan zirvesi, bölgenin en yüksek noktalarından biri.
 
-Mevsimsel açıdan, Büyük Dağ'ın iklim karakteri genel olarak karasal iklim özellikleri gösteriyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kuru bir hava hüküm sürüyor. Bölge, yıl boyunca yaklaşık 600 mm yağış alıyor. Bu durum, bitki örtüsünün ve vahşi yaşamın çeşitliliğini etkiliyor.
+Mevsimsel açıdan, Büyük Dağ'ın iklim karakteri genel olarak karasal iklim özellikleri gösteriyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kuru bir hava hüküm sürüyor. Bölge, yıl boyunca yaklaşık 600 mm yağış alıyor. Bu durum, bitki örtüsünün ve vahşi yaşamın çeşitliliğini etkiliyor.
 
 Çevresel açıdan, Büyük Dağ çevresinde çeşitli su kaynakları ve ekosistemler yer alıyor. Dağın eteklerinde, Şırnak Nehri'nin kolları ve küçük göletler bulunuyor. Bu su kaynakları, bölgenin flora ve faunası için hayati önem taşıyor. Ayrıca, dağın komşu alanları, benzer coğrafi özellikler gösteren diğer dağlık bölgelerle çevrilidir. Bu bölgeler, birbirleriyle ekosistem bağlantıları yoluyla ilişkili ve birbiriyle bağlantılı.
 

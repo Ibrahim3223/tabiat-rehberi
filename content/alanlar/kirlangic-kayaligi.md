@@ -44,7 +44,7 @@ Kırlangıç Kayalığı, Balıkesir'in sahil şeridinin güzelliğini taçland�
 
 Doğal güzelliği ve coğrafi konumuyla dikkat çeken Kırlangıç Kayalığı, bir birkaç olimpik havuz kadar küçük bir yüzölçüme sahip. Ada, kayalık bir yapıya sahip ve Ege Denizi'nin dalgalı sularına karşı dayanıklı bir şekilde duruyor. Jeolojik olarak, ada volkanik kayaçlardan oluşuyor ve bu özelliği, bölgenin jeolojik geçmişini anlamak için önemli bir ipucu sunuyor.
 
-İklim açısından bakıldığında, Kırlangıç Kayalığı, Ege Denizi'nin ılıman ikliminin etkilerini taşıyor. Mevsimsel olarak, ada yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumuyla karşılaşılıyor. Bu iklim koşulları, ada etrafındaki su kaynaklarının ve ekosistemlerin zenginleşmesine katkıda bulunuyor.
+İklim açısından bakıldığında, Kırlangıç Kayalığı, Ege Denizi'nin ılıman ikliminin etkilerini taşıyor. Mevsimsel olarak, ada yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumuyla karşılaşılıyor. Bu iklim koşulları, ada etrafındaki su kaynaklarının ve ekosistemlerin zenginleşmesine katkıda bulunuyor.
 
 Ada ve çevresinin ekosistemi, Ege Denizi'nin zengin su kaynaklarına bağlı olarak gelişiyor. Komşu alanlar, ada etrafındaki sularda yaşayan çeşitli deniz canlılarına ev sahipliği yapıyor. Su kaynakları ve ekosistem bağlantıları, ada ve çevresinin biyolojik çeşitliliğini zenginleştiren önemli faktörler arasında yer alıyor.
 

@@ -37,7 +37,7 @@ Rhodiapolis Büyük Hamam'ın tarihi geçmişi, Lidya ve Roma dönemlerine kadar
 
 ## Coğrafya
 
-Rhodiapolis Büyük Hamam, Kumluca districtinin dağlık ve ormanlık bölgelerine yakın bir konumda bulunur. Bu coğrafi konum, ziyaretçilere hem tarihi bir gezi hem de doğal güzellikleri keşfetme fırsatı sunar. Büyük Hamam'ın etrafı, Akdeniz Bölgesi'nin karakteristik bitki örtüsü ile kaplıdır ve bu, ziyaretçilere güzel manzaralar sunar. Kumluca'nın iklimi, Akdeniz ikliminin özellikleri taşır; yani yazları sıca ve kurak, kışları ılıman ve yağışlı geçer. Bu nedenle, ziyaretçilerin Büyük Hamam'ı ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar aylarıdır. Coğrafi konumu ve iklimi, Rhodiapolis Büyük Hamam'ı yılın dört mevsimi ziyaret edilebilir bir destinasyon haline getirir. Ayrıca, Büyük Hamam'ın yakınında bulunan diğer tarihi ve doğal güzellikler, ziyaretçilere zengin bir gezi deneyimi sunar.
+Rhodiapolis Büyük Hamam, Kumluca districtinin dağlık ve ormanlık bölgelerine yakın bir konumda bulunur. Bu coğrafi konum, ziyaretçilere hem tarihi bir gezi hem de doğal güzellikleri keşfetme fırsatı sunar. Büyük Hamam'ın etrafı, Akdeniz Bölgesi'nin karakteristik bitki örtüsü ile kaplıdır ve bu, ziyaretçilere güzel manzaralar sunar. Kumluca'nın iklimi, Akdeniz ikliminin özellikleri taşır; yani yazları sıcak ve kurak, kışları ılıman ve yağışlı geçer. Bu nedenle, ziyaretçilerin Büyük Hamam'ı ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar aylarıdır. Coğrafi konumu ve iklimi, Rhodiapolis Büyük Hamam'ı yılın dört mevsimi ziyaret edilebilir bir destinasyon haline getirir. Ayrıca, Büyük Hamam'ın yakınında bulunan diğer tarihi ve doğal güzellikler, ziyaretçilere zengin bir gezi deneyimi sunar.
 
 ## Flora ve Fauna
 

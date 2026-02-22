@@ -37,7 +37,7 @@ Termessos Agathemeros Mezarı, Antik Dönem'de inşa edilmiştir. Bu mezar, o d�
 
 ## Coğrafya
 
-Termessos Agathemeros Mezarı, Antalya'nın Döşemealtı ilçesinde, Akdeniz Bölgesi'nin coğrafi güzelliği ile çevrili bir bölgede yer alır. Bu bölge, dağlık bir araziye sahiptir ve mezar, bölgenin en önemli coğrafi özelliklerinden biri olan Güllük Dağı'nın eteklerinde bulunur. Güllük Dağı, 1400 metreyi aşan yüksekliği ile bölgenin önemli bir coğrafi noktasıdır. Mezarın bulunduğu Termessos Antik Kenti, bir vadi içerisinde kurulmuştur ve etrafı ormanlık alanlar ile çevrilidir. Bu coğrafi konum, mezarın ve antik kentin koruma altına alınmasını sağlamıştır. Bölgenin iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır; yani sıca ve kurak yazlar ile ılık ve yağışlı kışlar görülür. Bu coğrafi ve iklimsel özellikler, bölgenin flora ve faunasını zenginleştirmiştir.
+Termessos Agathemeros Mezarı, Antalya'nın Döşemealtı ilçesinde, Akdeniz Bölgesi'nin coğrafi güzelliği ile çevrili bir bölgede yer alır. Bu bölge, dağlık bir araziye sahiptir ve mezar, bölgenin en önemli coğrafi özelliklerinden biri olan Güllük Dağı'nın eteklerinde bulunur. Güllük Dağı, 1400 metreyi aşan yüksekliği ile bölgenin önemli bir coğrafi noktasıdır. Mezarın bulunduğu Termessos Antik Kenti, bir vadi içerisinde kurulmuştur ve etrafı ormanlık alanlar ile çevrilidir. Bu coğrafi konum, mezarın ve antik kentin koruma altına alınmasını sağlamıştır. Bölgenin iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır; yani sıcak ve kurak yazlar ile ılık ve yağışlı kışlar görülür. Bu coğrafi ve iklimsel özellikler, bölgenin flora ve faunasını zenginleştirmiştir.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ Saray Hamamı, tarihi geçmişi ile dikkat çekiyor. Bu hamam, yüzyıllar boyun
 
 ## Coğrafya
 
-Saray Hamamı, Erzurum'un merkezinde yer alan ve 140 hektarlık yeşil alanı ile dikkat çekiyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve hem yerel halkın hem de ziyaretçilerin keyifli zaman geçirmesine olanak tanıyan geniş bir yeşil alan sunuyor. Saray Hamamı, Erzurum'un kültürel ve tarihi zenginliklerini keşfetmek isteyenler için ideal bir destinasyon. Burada, tarihi hamamın yanı sıra, çevredeki doğal güzellikleri ve tarihi yapıları keşfedebilirsiniz. Erzurum'un iklimi, karasal iklim özellikleri göstermektedir. Yaz ayları sıca ve kurak, kış ayları ise soğu ve karlı geçer. Saray Hamamı, bu iklim koşullarına uygun olarak tasarlanmış ve inşa edilmiştir.
+Saray Hamamı, Erzurum'un merkezinde yer alan ve 140 hektarlık yeşil alanı ile dikkat çekiyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve hem yerel halkın hem de ziyaretçilerin keyifli zaman geçirmesine olanak tanıyan geniş bir yeşil alan sunuyor. Saray Hamamı, Erzurum'un kültürel ve tarihi zenginliklerini keşfetmek isteyenler için ideal bir destinasyon. Burada, tarihi hamamın yanı sıra, çevredeki doğal güzellikleri ve tarihi yapıları keşfedebilirsiniz. Erzurum'un iklimi, karasal iklim özellikleri göstermektedir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve karlı geçer. Saray Hamamı, bu iklim koşullarına uygun olarak tasarlanmış ve inşa edilmiştir.
 
 ## Flora ve Fauna
 

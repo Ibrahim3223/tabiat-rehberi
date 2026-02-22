@@ -36,7 +36,7 @@ Heybeliada Kaplıcaları, yüzyıllar boyunca sağlık ve dinlenme merkezi olara
 
 ## Coğrafya
 
-Heybeliada Kaplıcaları, Afyonkarahisar'ın doğal güzellikleri arasında yer alır. Bu bölge, Ege Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahiptir. Kaplıca, bir vadi içinde yer alır ve etrafı ormanlık alanlarla çevrilidir. Bölgenin iklimi, karasal iklim özellikleri gösterir ve dört mevsim ayrı bit yaşanır. Kışları soğu ve kar yağışlı, yazları ise sıcak ve kurudur. Heybeliada Kaplıcaları, bu coğrafi konumunun avantajını, misafirlerine zengin bir flora ve fauna sunarak değerlendirir. Bölgede, çeşitli bitki türleri ve hayvanlar bulunur, bunlar arasında endemik türler de yer alır. Kaplıca çevresinde, yürüyüş parkurları ve doğa gezisi rotaları bulunur, bunlar ziyaretçilere doğal güzellikleri keşfetme fırsatı sunar.
+Heybeliada Kaplıcaları, Afyonkarahisar'ın doğal güzellikleri arasında yer alır. Bu bölge, Ege Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahiptir. Kaplıca, bir vadi içinde yer alır ve etrafı ormanlık alanlarla çevrilidir. Bölgenin iklimi, karasal iklim özellikleri gösterir ve dört mevsim ayrı bit yaşanır. Kışları soğuk ve kar yağışlı, yazları ise sıcak ve kurudur. Heybeliada Kaplıcaları, bu coğrafi konumunun avantajını, misafirlerine zengin bir flora ve fauna sunarak değerlendirir. Bölgede, çeşitli bitki türleri ve hayvanlar bulunur, bunlar arasında endemik türler de yer alır. Kaplıca çevresinde, yürüyüş parkurları ve doğa gezisi rotaları bulunur, bunlar ziyaretçilere doğal güzellikleri keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

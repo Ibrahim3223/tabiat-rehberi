@@ -44,7 +44,7 @@ Koordinatları 39.3808°K, 38.0175°D olan Dumluca Dağı, Sivas ilinin coğrafi
 
 Doğal bir oluşum olan Dumluca Dağı, jeolojik açıdan incelendiğinde, bölgenin tarihini anlatan bir açık hava müzesi gibi görünür. Ancak, fiziksel boyutları hakkında detaylı bilgiler bulunmuyor. Bu dağ, çevresindeki diğer coğrafi oluşumlar ile birlikte bir bütün olarak düşünüldüğünde, Monaco'nun yarısı kadar bir alanı kaplayabilecek büyüklüğe sahip olabilir. Yüksekliği ise Eiffel Kulesi'nin birkaç katı yükseklikte olabilir, ancak bu konuda kesin bilgiler bulunmuyor.
 
-İklim açısından bakıldığında, Dumluca Dağı ve çevresindeki bölge, karasal iklimin karakteristik özelliklerini taşır. Kışlar soğu ve kar yağışlı, yazlar ise sıca ve kurudur. Bu mevsimsel değişimler, bölgeyi bir çeşitlilik merkezi haline getirir. Hava durumu, özellikle kış aylarında değişken olabilir ve kar yağışı, dağlık bölgelerde ulaşımları etkileyebilir.
+İklim açısından bakıldığında, Dumluca Dağı ve çevresindeki bölge, karasal iklimin karakteristik özelliklerini taşır. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu mevsimsel değişimler, bölgeyi bir çeşitlilik merkezi haline getirir. Hava durumu, özellikle kış aylarında değişken olabilir ve kar yağışı, dağlık bölgelerde ulaşımları etkileyebilir.
 
 Çevresel açıdan bakıldığında, Dumluca Dağı, komşu alanlar ve su kaynakları ile önemli bir ekosistem bağlantısı sağlar. Dağın eteklerinde ve civarında yer alan köyler ve kasabalar, bu dağlık bölgenin bir parçası olarak düşünülür. Su kaynakları, bölgenin tarım ve hayvancılık faaliyetleri için önemli bir kaynaktır ve bu kaynaklar, bölgenin ekosistemini destekler.
 

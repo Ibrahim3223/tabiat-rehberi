@@ -44,7 +44,7 @@ Gidefi Dağı, Antalya'nın büyüleyici coğrafyası içerisinde yer alan bir d
 
 Doğal güzellikleri ile dikkat çeken Gidefi Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alan kaplar. Bu küçük ama etkileyici dağ, jeolojik açıdan ilgi çekici bir yapıya sahiptir. Ancak, detalı fiziksel veriler bulunmaması nedeniyle, dağın yüksekliği ve şekli hakkında net bilgiler bulunmamaktadır. Buna rağmen, Gidefi Dağı'nın Antalya'nın diğer dağları ile karşılaştırıldığında, kendi büyüklüğü ile dikkat çektiği söylenebilir.
 
-İklim açısından Gidefi Dağı, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kuru, kış aylarında ılık ve yağışlı bir hava hüküm sürer. Bu mevsimsel özellikler, dağın flora ve fauna'sının çeşitlendirilmesine katkıda bulunur. Gidefi Dağı, doğa severler için bir cennet olup, yürüyüş, kamp ve doğa gözlemi gibi aktiviteleri yapmak için ideal bir ortam sunar.
+İklim açısından Gidefi Dağı, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kuru, kış aylarında ılık ve yağışlı bir hava hüküm sürer. Bu mevsimsel özellikler, dağın flora ve fauna'sının çeşitlendirilmesine katkıda bulunur. Gidefi Dağı, doğa severler için bir cennet olup, yürüyüş, kamp ve doğa gözlemi gibi aktiviteleri yapmak için ideal bir ortam sunar.
 
 Gidefi Dağı, çevresindeki ekosistem ile bağlantılıdır. Dağın eteklerinde yer alan su kaynakları, bölgenin flora ve fauna'sının yaşamsal önem taşıyan bir bileşenidir. Ayrıca, Gidefi Dağı, komşu dağlar ve vadiler ile birlikte, bir bütün olarak ele alındığında, Antalya'nın doğal güzelliklerini korumak için önemli bir rol oynar. Bu nedenle, Gidefi Dağı, sadece bir dağ değil, aynı zamanda bir ekosistemdir ve doğal güzelliklerini korumak için çaba sarf edilmelidir.
 

@@ -44,7 +44,7 @@ Güneydeki dağ silsilesinin eteklerinde yer alan Yelattı Dağı, Karaman ilini
 
 Doğal olarak, Yelattı Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, coğrafi konumu ve jeolojik özellikleri, bölgenin diğer dağlık alanlarına benzeyen karakteristik özellikler sunuyor. Dağın yüksekliği ve genişliği, Eiffel Kulesi'nin birkaç katı yükseklikte ve Monaco'nun küçük bir bölümü kadar bir alanı kaplıyor. Bu boyutlar, Yelattı Dağı'nın bölgede önemli bir coğrafi unsur olduğunu gösteriyor.
 
-Mevsimsel değişimler, Yelattı Dağı'nın iklim karakterini şekillendiriyor. Kış aylarında, dağların zirveleri karla kaplanırken, yaz aylarında ise sıca ve kuru bir hava hakim oluyor. Bu mevsimsel farklılıklar, bölgenin flora ve fauna çeşitliliğini etkiliyor ve Yelattı Dağı, bu doğal döngülerin bir parçası olarak, bölgenin ekosistemine önemli bir katkı sunuyor.
+Mevsimsel değişimler, Yelattı Dağı'nın iklim karakterini şekillendiriyor. Kış aylarında, dağların zirveleri karla kaplanırken, yaz aylarında ise sıcak ve kuru bir hava hakim oluyor. Bu mevsimsel farklılıklar, bölgenin flora ve fauna çeşitliliğini etkiliyor ve Yelattı Dağı, bu doğal döngülerin bir parçası olarak, bölgenin ekosistemine önemli bir katkı sunuyor.
 
 Çevresel açıdan, Yelattı Dağı, komşu ovalar ve dağlık alanlarla bağlantılı bir ekosistem içinde yer alıyor. Su kaynakları ve bitki örtüsü, bu dağlık bölgenin doğal recursosunu oluşturuyor. Yelattı Dağı, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor ve bölgenin doğal dengesini korumada önemli bir rol oynuyor.
 
@@ -54,7 +54,7 @@ Yelattı Dağı, Karaman'ın step bitki örtüsü ve bozkır ekosistemine ev sah
 
 İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır. Step bitkileri ve kuraklığa adapte olmuş türler, bu mevsimde en güzel hallerini gösterir. Sonbaharda ise, göçmen kuşlar dağların üzerinden geçer ve bu bölgede kısa bir süre konaklar.
 
-Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Dağ keçileri ve yaban kedileri, bu bölgenin karakteristik memeli hayvanlarıdır. Kuşlar ise, dağların yüksek kesimlerinde yuvalanır ve avlanmak için aşağılara iner. Sürüngenler de, sıca ve kuru alanlarda yaşamını sürdürür.
+Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Dağ keçileri ve yaban kedileri, bu bölgenin karakteristik memeli hayvanlarıdır. Kuşlar ise, dağların yüksek kesimlerinde yuvalanır ve avlanmak için aşağılara iner. Sürüngenler de, sıcak ve kuru alanlarda yaşamını sürdürür.
 
 Yelattı Dağı, ekolojik açıdan önemli bir bölge olup, bu bölgenin korunması gelecek nesiller için büyük önem taşır. Bu dağ ekosisteminin korunmasına dikkat etmek, sadece bu bölgede yaşayan canlıların değil, aynı zamanda tüm ekosistemin sağlığını korumak anlamına gelir.
 

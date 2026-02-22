@@ -50,7 +50,7 @@ Mağaranın fiziksel yapısı, jeolojik süreçlerin izlerini taşıyor. Mağara
 
 Kadıini Mağarası'nın etrafı, step bitki örtüsünün karakteristik türleriyle çevrili. İlkbaharın gelmesiyle birlikte, bozkırın kuraklığına adapte olmuş bitkiler çiçek açmaya başlar. Bu mevsimde, mağaranın girişinde ve çevresindeki açık alanlarda, çeşitli otsu bitkiler ve çiçekler görülebilir. 
 
-Mağara ve çevresinde, çeşitli yaban hayvanları sốngmaktadır. Memeliler arasında, mağaranın karanlıköşelerinde yaşayan küçük memeliler bulunabilir. Kuşlar, mağaranın girişinde ve çevresindeki kayalık alanlarda yuva yapar. Sürüngenler de, mağaranın sıca ve kuru bölümlerinde yaşamlarını sürdürür. 
+Mağara ve çevresinde, çeşitli yaban hayvanları sốngmaktadır. Memeliler arasında, mağaranın karanlıköşelerinde yaşayan küçük memeliler bulunabilir. Kuşlar, mağaranın girişinde ve çevresindeki kayalık alanlarda yuva yapar. Sürüngenler de, mağaranın sıcak ve kuru bölümlerinde yaşamlarını sürdürür. 
 
 Kadıini Mağarası, bölgenin ekolojik dengesi açısından önemli bir role sahiptir. Mağara, çeşitli yaban hayvanları için bir sığına ve yaşam alanı sağlar. Ayrıca, mağaranın etrafındaki step bitki örtüsü, bölgenin su döngüsünü ve toprağın verimliliğini korur. Bu nedenle, Kadıni Mağarası'nın korunması, bölgenin doğal dengesinin korunması için önemlidir.
 

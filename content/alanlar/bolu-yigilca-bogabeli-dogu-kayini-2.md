@@ -30,7 +30,7 @@ Bolu-Yigilca-Bogabeli Dogu Kayini 2 milli parkının tarihi geçmişi, yüzyıll
 
 ## Coğrafya
 
-Bolu-Yigilca-Bogabeli Dogu Kayini 2 milli parkı, Karadeniz Bölgesi'nin coğrafi yapısı ve iklim koşulları tarafından şekillenmiştir. Milli park, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor ve bu yükseklik, bölgenin iklimini ve bitki örtüsünü etkiliyor. Bölge, genellikle karadeniz ikliminin özellikleri gösteren yağışlı ve nemli bir havaya sahip. Milli parkın coğrafi yapısı, dağlık ve engebeli araziler ile birlikte, ziyaretçilere çeşitli trekking ve doğa yürüyüşü imkanları sunuyor. Ayrıca, milli parkın flora ve fauna çeşitliliği, bu bölgenin önemli bir doğa rezervi olarak korunmasını sağlamış.
+Bolu-Yigilca-Bogabeli Dogu Kayini 2 milli parkı, Karadeniz Bölgesi'nin coğrafi yapısı ve iklim koşulları tarafından şekillenmiştir. Milli park, yüksek bir konumda yer alıyor ve bu yükseklik, bölgenin iklimini ve bitki örtüsünü etkiliyor. Bölge, genellikle karadeniz ikliminin özellikleri gösteren yağışlı ve nemli bir havaya sahip. Milli parkın coğrafi yapısı, dağlık ve engebeli araziler ile birlikte, ziyaretçilere çeşitli trekking ve doğa yürüyüşü imkanları sunuyor. Ayrıca, milli parkın flora ve fauna çeşitliliği, bu bölgenin önemli bir doğa rezervi olarak korunmasını sağlamış.
 
 ## Flora ve Fauna
 

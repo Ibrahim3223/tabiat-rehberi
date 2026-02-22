@@ -45,7 +45,7 @@ Güneydoğu Anadolu'nun en güzel köşelerinden biri olan Hatay, coğrafi olara
 
 Doğal yapısı itibariyle Ziyaret Tepe, jeolojik açıdan oldukça zengin bir bölge olarak dikkat çeker. Ancak, fiziksel boyutları hakkında detaylı bilgi bulunmamasına rağmen, bu dağın çevresi, Hatay'ın genel coğrafi yapısına uygun olarak dağlık ve engebeli bir araziye sahiptir. Bu bölgede, genellikle kalker ve şist gibi farklı jeolojik oluşumlar bulunur.
 
-İklim açısından Ziyaret Tepe, Akdeniz ikliminin karakteristik özelliklerini taşır. Bölge, yazları sıca ve kurak, kışları ise ılıman ve yağışlı bir iklimi experience eder. Bu mevsimsel değişiklikler, Ziyaret Tepe'nin flora ve fauna çeşitliliğini etkiler ve bölgenin ekolojik dengesini oluşturur.
+İklim açısından Ziyaret Tepe, Akdeniz ikliminin karakteristik özelliklerini taşır. Bölge, yazları sıcak ve kurak, kışları ise ılıman ve yağışlı bir iklimi experience eder. Bu mevsimsel değişiklikler, Ziyaret Tepe'nin flora ve fauna çeşitliliğini etkiler ve bölgenin ekolojik dengesini oluşturur.
 
 Çevresel açıdan bakıldığında, Ziyaret Tepe, Hatay'ın doğal kaynaklarına ve ekosistemine önemli bir katkı sağlar. Bölge, çeşitli su kaynaklarına yakınlığı ve komşu alanlarla olan bağlantısı ile dikkat çeker. Ziyaret Tepe'nin etrafında, farklı türlerde bitki ve hayvanlar bulunur ve bu dağ, bölgenin biyolojik çeşitliliğini koruma açısından önemli bir rol oynar.
 

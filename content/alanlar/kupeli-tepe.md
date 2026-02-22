@@ -42,7 +42,7 @@ Koordinatları 37.5058°K, 42.1611°D olan Küpeli Tepe, Şırnak ilinin dağlı
 
 Doğal güzelliği ile dikkat çeken Küpeli Tepe, coğrafi olarak bir tepe şeklinde görünür. Ancak, fiziksel verileri sınırlı olduğu için tam boyutları hakkında net bir bilgi verilemez. Şayet bir karşılaştırma yapılacak olursa, Monaco'nun küçük bir bölümü kadar bir alanı kaplayabileceği söylenebilir. Jeolojik açıdan, bölgenin genel yapısı kayaçlardan oluşmaktadır ve bu tepe de benzer bir yapıya sahiptir.
 
-Mevsimsel değişikliklere bağlı olarak, Küpeli Tepe'nin iklim karakteri değişkenlik gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu durum, tepe çevresindeki bitki örtüsünü ve hayvan yaşamını etkiler. Hava durumu, bölgenin coğrafi konumu ve yüksekliği nedeniyle değişkenlik gösterebilir.
+Mevsimsel değişikliklere bağlı olarak, Küpeli Tepe'nin iklim karakteri değişkenlik gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu durum, tepe çevresindeki bitki örtüsünü ve hayvan yaşamını etkiler. Hava durumu, bölgenin coğrafi konumu ve yüksekliği nedeniyle değişkenlik gösterebilir.
 
 Çevresel açıdan, Küpeli Tepe komşu dağlarla ve ovalarla bağlantılıdır. Yakın çevresinde su kaynakları ve ekosistem bağlantıları mevcuttur. Bu bağlantılar, bölgenin biyolojik çeşitliliğini destekler ve doğal dengenin korunmasına katkıda bulunur. Örneğin, tepe etrafındaki ovaların sulanması, su kaynaklarının varlığıyla mümkün olmaktadır. Bu şekilde, Küpeli Tepe ve çevresi, birbirleriyle bağlantılı bir ekosistemi oluşturur.
 

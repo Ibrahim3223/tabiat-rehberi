@@ -42,7 +42,7 @@ Güneydoğu kıyılarımızın güzide noktalarından biri olan Hırlavuk Burnu,
 
 Doğal yapısı itibariyle Hırlavuk Burnu, bir şehir bloğu büyüklüğünde bir alan olarak düşünülebilir. Bu küçük ama önemli bölge, Akdeniz'in kıyı şeridine hakim bir konumda yer alıyor. Jeolojik olarak incelendiğinde, buranın oluşumu ve yapısı, bölgenin tarihini ve coğrafyasını anlamak için önemli ipuçları sunuyor. Ancak, detaylı fiziksel verilerin olmaması, bu konuda daha derinlemesine bilgi verilmesini sınırlıyor.
 
-Mevsimler değişırken, Hırlavuk Burnu'nun iklim karakteri değişiyor. Kış aylarında ılıman bir hava hakimken, yaz aylarında sıca ve güneşli bir iklim hüküm sürüyor. Bu mevsimsel özellikler, burayı ziyaret etmek isteyenler için önemli bir faktör. Hava durumu, Akdeniz'in genel iklim karakterine uygun olarak değişkenlik gösteriyor.
+Mevsimler değişırken, Hırlavuk Burnu'nun iklim karakteri değişiyor. Kış aylarında ılıman bir hava hakimken, yaz aylarında sıcak ve güneşli bir iklim hüküm sürüyor. Bu mevsimsel özellikler, burayı ziyaret etmek isteyenler için önemli bir faktör. Hava durumu, Akdeniz'in genel iklim karakterine uygun olarak değişkenlik gösteriyor.
 
 Hırlavuk Burnu'nun çevresel ilişkileri, komşu alanlar ve su kaynakları ile oldukça önemli. Bu bölge, Akdeniz'in ekosistemine bağlı olarak, deniz canlıları ve diğer doğal kaynaklar için önemli bir habitat oluşturuyor. Monaco'nun yarısı kadar büyük olmayan bu alan, İstanbul'un Adalar ilçesi büyüklüğünde bir bölgeye kıyasla küçük olsa da, doğal güzelliği ve ekosistem bağlantıları ile dikkat çekiyor.
 

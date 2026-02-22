@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin görkemli dağlarından biri olan Kaşdağı, 3
 
 Doğal güzelliği ve coğrafi konumuyla dikkat çeken Kaşdağı, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu alan, Taksim Meydanı'nın birkaç katı büyüklüğünde bir yeşil cennettir. Ancak, Kaşdağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmamasına rağmen, bölgenin jeolojik özellikleri düşünüldüğünde, kalker ve şist gibi kayaların bu dağda yer aldığı söylenebilir.
 
-Mevsimsel özellikler açısından Kaşdağı, Güneydoğu Anadolu Bölgesi'nin karakteristik iklimini taşır. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu mevsimsel değişimler, bölgenin flora ve faunasını etkileyen önemli faktörlerdir. Kaşdağı'nın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olup, bu yükseklik bölgenin hava koşullarını şekillendiren bir unsurdur.
+Mevsimsel özellikler açısından Kaşdağı, Güneydoğu Anadolu Bölgesi'nin karakteristik iklimini taşır. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu mevsimsel değişimler, bölgenin flora ve faunasını etkileyen önemli faktörlerdir. Kaşdağı'nın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olup, bu yükseklik bölgenin hava koşullarını şekillendiren bir unsurdur.
 
 Çevresel ilişkiler açısından Kaşdağı, Batman Çayı ve diğer su kaynaklarıyla bağlantılıdır. Bu su kaynakları, bölgenin sulak alanlarını ve ekosistemini destekleyen önemli bir unsurudur. Ayrıca, Kaşdağı'nın komşu alanları, bölgenin coğrafi yapısını şekillendiren diğer dağlar ve ovalardır. Bu dağ, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini koruma altına alan önemli bir alandır.
 

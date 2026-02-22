@@ -43,7 +43,7 @@ Doğanın mucizelerinden biri olan Güllük Dağı, Antalya'nın güzide noktala
 
 Jeolojik açıdan bakıldığında, Güllük Dağı'nın fiziksel yapısı, bölgenin karmaşık geçmişini yansıtır. Dağın boyutları, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplar. Bu büyüklük, ziyaretçilere geniş ve engin bir manzara sunar. Güllük Dağı, bölgenin diğer dağları ile benzerlik gösterir; ancak kendi benzersiz özelliklerini de taşır. Dağın yüksekliği, 85 katlı bir gökdelen kadar değil, ancak Eiffel Kulesi'nin birkaç katı yükseklikte yer alır.
 
-Mevsimsel özellikler açısından, Güllük Dağı'nın iklim karakteri, bölgenin Akdeniz iklimine uygun şekilde değişir. Kış aylarında, dağların zirvesinde kar görülür; ancak ilkbahar ve yaz aylarında, yeşilin her tonunu görme mümkün. Hava durumu, genellikle güneşli ve açık passedir; ancak bazen, aniden değişen hava koşulları, ziyaretçileri şaşırtabilir.
+Mevsimsel özellikler açısından, Güllük Dağı'nın iklim karakteri, bölgenin Akdeniz iklimine uygun şekilde değişir. Kış aylarında, dağların zirvesinde kar görülür; ancak ilkbahar ve yaz aylarında, yeşilin her tonunu görme mümkün. Hava durumu, genellikle güneşli ve açık pasiftir; ancak bazen, aniden değişen hava koşulları, ziyaretçileri şaşırtabilir.
 
 Çevresel açıdan bakıldığında, Güllük Dağı, komşu alanlar ve su kaynakları ile bağlantılıdır. Dağın eteklerinde, çeşitli su kaynakları bulunur; bu kaynaklar, bölgenin ekosistemini destekler. Güllük Dağı, Monaco'nun yarısı kadar büyük bir alanı kaplayan bir bölgenin parçası olarak, bölgenin doğal dengesini korur. Bu doğal denge, ziyaretçilere, şehrin kalabalığından uzakta, doğanın güzelliğini keşfetme fırsatı sunar.
 

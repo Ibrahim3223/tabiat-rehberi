@@ -38,7 +38,7 @@ Hüseyin Gazi Türbesi, tarihsel geçmişi ile dikkat çekmektedir. Tarihi olduk
 
 ## Coğrafya
 
-Hüseyin Gazi Türbesi, İç Anadolu Bölgesi'nde, Ankara'nın Mamak ilçesinde yer almakta ve coğrafi olarak önemli bir konuma sahiptir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresinde çeşitli ağaçlar ve bitkiler bulunur. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösterir ve karasal iklim özellikleri görülür. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurudur. Hüseyin Gazi Türbesi ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu bölge, doğal güzelliği ile dikkat çekmekte ve birçok ziyaretçi tarafından tercih edilmektedir. Ayrıca, türbenin yakınında, Ankara'nın önemli doğal ve tarihi yerleri de bulunmaktadır.
+Hüseyin Gazi Türbesi, İç Anadolu Bölgesi'nde, Ankara'nın Mamak ilçesinde yer almakta ve coğrafi olarak önemli bir konuma sahiptir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresinde çeşitli ağaçlar ve bitkiler bulunur. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösterir ve karasal iklim özellikleri görülür. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Hüseyin Gazi Türbesi ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu bölge, doğal güzelliği ile dikkat çekmekte ve birçok ziyaretçi tarafından tercih edilmektedir. Ayrıca, türbenin yakınında, Ankara'nın önemli doğal ve tarihi yerleri de bulunmaktadır.
 
 ## Flora ve Fauna
 

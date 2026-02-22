@@ -31,7 +31,7 @@ Melodere Dogu Ladini milli parkının tarihi geçmişi, yüzyıllar boyunca şek
 
 ## Coğrafya
 
-Melodere Dogu Ladini milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biridir. Parkın coğrafyası, dağlar, vadiler ve ova gibi farklı şekilleri barındırıyor. Bu coğrafi çeşitlilik, bölgenin iklimini ve ekosistemini etkiliyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde, karasal bir yapıya sahip. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, parkın flora ve faunasını şekillendiriyor. Melodere Dogu Ladini, coğrafi olarak zengin bir bölgede yer alıyor ve ziyaretçilere, doğanın güzelliğini sunuyor.
+Melodere Dogu Ladini milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biridir. Parkın coğrafyası, dağlar, vadiler ve ova gibi farklı şekilleri barındırıyor. Bu coğrafi çeşitlilik, bölgenin iklimini ve ekosistemini etkiliyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde, karasal bir yapıya sahip. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, parkın flora ve faunasını şekillendiriyor. Melodere Dogu Ladini, coğrafi olarak zengin bir bölgede yer alıyor ve ziyaretçilere, doğanın güzelliğini sunuyor.
 
 ## Flora ve Fauna
 

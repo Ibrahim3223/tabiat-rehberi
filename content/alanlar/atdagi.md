@@ -45,7 +45,7 @@ Doğunun güzide şehri Erzurum'un kalbinde yer alan Atdağı, 40.5941°K, 40.76
 
 Jeolojik açıdan incelendiğinde, Atdağı'nın coğrafyası oldukça karmaşık bir yapıya sahiptir. Ancak, detalı fiziksel veriler bulunmamasına rağmen, Atdağı'nın Erzurum'un genel coğrafyası ile benzerlik gösterdiği söylenebilir. Erzurum'un coğrafyası, genellikle yüksek dağlar ve ovalardan oluşur. Atdağı da, bu coğrafyanın bir parçası olarak, bölgenin jeolojik yapısını yansıtan bir dağ olarak karşımıza çıkar.
 
-Yaz aylarında sıcakların hüküm sürdüğü Atdağı, kış aylarında ise karla kaplı bir görünüm sunar. Bu mevsimsel farklılık, bölgenin iklim karakterini şekillendiren önemli bir faktördür. Atdağı, Erzurum'un genel iklimi gibi, karasal iklimin özellikleri gösterir. Kışlar soğu ve karlı, yazlar ise sıca ve kurudur. Bu iklim koşulları, Atdağı'nın flora ve fauna yapısını da etkiler.
+Yaz aylarında sıcakların hüküm sürdüğü Atdağı, kış aylarında ise karla kaplı bir görünüm sunar. Bu mevsimsel farklılık, bölgenin iklim karakterini şekillendiren önemli bir faktördür. Atdağı, Erzurum'un genel iklimi gibi, karasal iklimin özellikleri gösterir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, Atdağı'nın flora ve fauna yapısını da etkiler.
 
 Atdağı, Erzurum'un önemli su kaynaklarına yakın bir konumda bulunur. Palandöken Dağları'nın eteklerinde yer alan Atdağı, bölgenin hidrolojik dengesini sağlayan önemli bir coğrafi unsur olarak görülebilir. Atdağı'nın çevresinde, çeşitli su kaynakları ve ekosistemler bulunur. Bu ekosistemler, bölgenin biyolojik çeşitliliğini destekler ve Atdağı'nın çevresel ilişkilerini zenginleştirir.
 

@@ -30,7 +30,7 @@ Taşyaran Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca bu bölgeye y
 
 ## Coğrafya
 
-Taşyaran Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Parkın 140 hektarlık yeşil alanı, çeşitli bitki türleri ve zengin fauna ile dolu. Parkın coğrafi yapısı, ziyaretçilere farklı türde manzaralar sunuyor. Parkın içinde, çeşitli yükseklikte tepeler ve vadiler bulunmakta, bu da ziyaretçilere parkın güzelliğini keşfetme fırsatı veriyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer, yazları sıca ve kurak, kışları soğu ve karlı geçer. Parkın coğrafi konumu, ziyaretçilere bölgenin diğer güzide mekanlarına ulaşma fırsatı da veriyor.
+Taşyaran Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Parkın 140 hektarlık yeşil alanı, çeşitli bitki türleri ve zengin fauna ile dolu. Parkın coğrafi yapısı, ziyaretçilere farklı türde manzaralar sunuyor. Parkın içinde, çeşitli yükseklikte tepeler ve vadiler bulunmakta, bu da ziyaretçilere parkın güzelliğini keşfetme fırsatı veriyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer, yazları sıcak ve kurak, kışları soğuk ve karlı geçer. Parkın coğrafi konumu, ziyaretçilere bölgenin diğer güzide mekanlarına ulaşma fırsatı da veriyor.
 
 ## Flora ve Fauna
 

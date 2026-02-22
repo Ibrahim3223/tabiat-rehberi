@@ -37,7 +37,7 @@ Yüzbaşi Agah Efendi Şehitliği, tarihsel olarak önemli bir geçmişe sahipti
 
 ## Coğrafya
 
-Yüzbaşi Agah Efendi Şehitliği, Afyonkarahisar ilinin merkezinde yer alan bir plajdır. Bu plaj, Ege Bölgesi'nin coğrafi özelliklerini taşımakta ve ziyaretçilerine doğal güzellikler sunmaktadır. Plajın etrafında bulunan tepeler ve vadiler, ziyaretçilere çeşitli manzaralar sunmakta ve keyifli bir gün geçirmelerine olanak sağlamaktadır. Yüzbaşi Agah Efendi Şehitliği, coğrafi olarak zengin bir bölgede yer almakta ve ziyaretçilerine çeşitli olanaklar sunmaktadır. Plajın iklimi, Ege Bölgesi'nin karakteristik iklimini taşımakta ve ziyaretçilerine sıca ve güneşli günler vaat etmektedir.
+Yüzbaşi Agah Efendi Şehitliği, Afyonkarahisar ilinin merkezinde yer alan bir plajdır. Bu plaj, Ege Bölgesi'nin coğrafi özelliklerini taşımakta ve ziyaretçilerine doğal güzellikler sunmaktadır. Plajın etrafında bulunan tepeler ve vadiler, ziyaretçilere çeşitli manzaralar sunmakta ve keyifli bir gün geçirmelerine olanak sağlamaktadır. Yüzbaşi Agah Efendi Şehitliği, coğrafi olarak zengin bir bölgede yer almakta ve ziyaretçilerine çeşitli olanaklar sunmaktadır. Plajın iklimi, Ege Bölgesi'nin karakteristik iklimini taşımakta ve ziyaretçilerine sıcak ve güneşli günler vaat etmektedir.
 
 ## Flora ve Fauna
 

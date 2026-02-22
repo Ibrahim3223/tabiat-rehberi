@@ -36,7 +36,7 @@ Ardıç Tepe'nin tarihi geçmişi, yüzyıllar boyunca uzanıyor. Bu bölge, çe
 
 ## Coğrafya
 
-Ardıç Tepe, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alıyor ve bu bölgenin coğrafi özellikleri, ziyaretçilerini etkiliyor. Bu tepe, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Ardıç Tepe'nin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Bu bölge, Akdeniz ikliminin etkisi altında ve bu sayede sıca ve kurak yazlar, ılıman ve yağışlı kışlar yaşıyor. Ardıç Tepe, aynı zamanda çevredeki diğer doğal güzelliklere de yakın ve bu sayede ziyaretçileri, bölgeyi keşfetmeye davet ediyor. Bu tepe, Kahramanmaraş'ın önemli bir doğal güzelliği ve ziyaretçilerini bekliyor.
+Ardıç Tepe, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alıyor ve bu bölgenin coğrafi özellikleri, ziyaretçilerini etkiliyor. Bu tepe, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Ardıç Tepe'nin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Bu bölge, Akdeniz ikliminin etkisi altında ve bu sayede sıcak ve kurak yazlar, ılıman ve yağışlı kışlar yaşıyor. Ardıç Tepe, aynı zamanda çevredeki diğer doğal güzelliklere de yakın ve bu sayede ziyaretçileri, bölgeyi keşfetmeye davet ediyor. Bu tepe, Kahramanmaraş'ın önemli bir doğal güzelliği ve ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 

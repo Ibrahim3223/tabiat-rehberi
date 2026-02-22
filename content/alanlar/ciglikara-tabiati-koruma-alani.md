@@ -36,7 +36,7 @@ Antalya'nın güzide bölgelerinden biri olan Çığlıkara Tabiatı Koruma Alan
 
 ## Coğrafya
 
-Çığlıkara Tabiatı Koruma Alanı, Antalya'nın Akdeniz kıyı şeridinde yer alıyor. Bu bölge, 1200 hektarlık bir alanı kaplıyor ve deniz seviyesinden yaklaşık 100 metre yükseklikte bulunuyor. Çığlıkara Tabiatı Koruma Alanı, Akdeniz ikliminin karakteristik özellikleri olan sıca ve kurak yazlar ile ılık ve yağışlı kışlar yaşıyor. Bu iklim, bölgenin flora ve faunasının çeşitliliğini etkiliyor. Çığlıkara Tabiatı Koruma Alanı, yüksek noktalarından Akdeniz'in maviliklerini izleme mümkün.
+Çığlıkara Tabiatı Koruma Alanı, Antalya'nın Akdeniz kıyı şeridinde yer alıyor. Bu bölge, 1200 hektarlık bir alanı kaplıyor ve deniz seviyesinden yaklaşık 100 metre yükseklikte bulunuyor. Çığlıkara Tabiatı Koruma Alanı, Akdeniz ikliminin karakteristik özellikleri olan sıcak ve kurak yazlar ile ılık ve yağışlı kışlar yaşıyor. Bu iklim, bölgenin flora ve faunasının çeşitliliğini etkiliyor. Çığlıkara Tabiatı Koruma Alanı, yüksek noktalarından Akdeniz'in maviliklerini izleme mümkün.
 
 ## Flora ve Fauna
 
@@ -51,5 +51,5 @@ Antalya'nın güzide bölgelerinden biri olan Çığlıkara Tabiatı Koruma Alan
 - Çığlıkara Tabiatı Koruma Alanı, 1991 yılında koruma altına alındı.
 - Bu bölge, 1200 hektarlık bir alanı kaplıyor.
 - Çığlıkara Tabiatı Koruma Alanı, deniz seviyesinden yaklaşık 100 metre yükseklikte bulunuyor.
-- Bu bölge, Akdeniz ikliminin karakteristik özellikleri olan sıca ve kurak yazlar ile ılık ve yağışlı kışlar yaşıyor.
+- Bu bölge, Akdeniz ikliminin karakteristik özellikleri olan sıcak ve kurak yazlar ile ılık ve yağışlı kışlar yaşıyor.
 - Çığlıkara Tabiatı Koruma Alanı, zengin bir flora ve fauna çeşitliliğine sahip.

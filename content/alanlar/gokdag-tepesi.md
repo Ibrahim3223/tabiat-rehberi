@@ -36,7 +36,7 @@ Gökdağ Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetler
 
 ## Coğrafya
 
-Gökdağ Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, bozkır ve step bölgeleri arasında bir geçiş alanı olarak bulunuyor. Tepenin yüksekliği, Ankara'nın genel yükseklik seviyesine göre daha fazla. Bu yükseklik, ziyaretçilere Ankara'nın geniş panoramik manzarasını sunuyor. Gökdağ Tepesi, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahip. Tepenin etrafında, çeşitli akarsular ve dereler bulunuyor. Gökdağ Tepesi, coğrafi konumu itibariyle, Ankara'nın önemli bir doğa alanı olarak kabul ediliyor. Tepenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal bir iklim özelliği gösteriyor. Yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlı geçiyor.
+Gökdağ Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, bozkır ve step bölgeleri arasında bir geçiş alanı olarak bulunuyor. Tepenin yüksekliği, Ankara'nın genel yükseklik seviyesine göre daha fazla. Bu yükseklik, ziyaretçilere Ankara'nın geniş panoramik manzarasını sunuyor. Gökdağ Tepesi, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahip. Tepenin etrafında, çeşitli akarsular ve dereler bulunuyor. Gökdağ Tepesi, coğrafi konumu itibariyle, Ankara'nın önemli bir doğa alanı olarak kabul ediliyor. Tepenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal bir iklim özelliği gösteriyor. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçiyor.
 
 ## Flora ve Fauna
 

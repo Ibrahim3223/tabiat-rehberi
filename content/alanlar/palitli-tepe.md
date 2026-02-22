@@ -36,7 +36,7 @@ Palıtlı Tepe'nin tarihi geçmişi, bölgenin genel tarihi geçmişi ile parale
 
 ## Coğrafya
 
-Palıtlı Tepe, coğrafi konumu itibarıyla, Akdeniz Bölgesi'nin karakteristik özelliklerini taşır. Bu bölgede, genellikle, sıca ve kurak bir iklim hakimdir. Palıtlı Tepe'nin yüksekliği ve genişliği, bu bölgede yer alan diğer tepelerden daha farklı bir konumda olmasını sağlar. Ayrıca, bu tepe, çevredeki diğer coğrafi oluşumlarla birlikte, bir bütün olarak düşünüldüğünde, bölgeye has bir güzellik ortaya koyar. Palıtlı Tepe'nin etrafında, yaklaşık 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak karşımıza çıkar. Bu yeşil alan, ziyaretçilere, hem dinlenmek hem de doğayı seyretmek için ideal bir ortam sunar. Palıtlı Tepe, coğrafi konumu itibarıyla, ziyaretçilerine, bölgenin doğal güzelliklerini sunar.
+Palıtlı Tepe, coğrafi konumu itibarıyla, Akdeniz Bölgesi'nin karakteristik özelliklerini taşır. Bu bölgede, genellikle, sıcak ve kurak bir iklim hakimdir. Palıtlı Tepe'nin yüksekliği ve genişliği, bu bölgede yer alan diğer tepelerden daha farklı bir konumda olmasını sağlar. Ayrıca, bu tepe, çevredeki diğer coğrafi oluşumlarla birlikte, bir bütün olarak düşünüldüğünde, bölgeye has bir güzellik ortaya koyar. Palıtlı Tepe'nin etrafında, yaklaşık 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak karşımıza çıkar. Bu yeşil alan, ziyaretçilere, hem dinlenmek hem de doğayı seyretmek için ideal bir ortam sunar. Palıtlı Tepe, coğrafi konumu itibarıyla, ziyaretçilerine, bölgenin doğal güzelliklerini sunar.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Sancak Tepesi'nin tarihi geçmişi, Elazığ'ın tarihi ile iç içe geçmiş du
 
 ## Coğrafya
 
-Sancak Tepesi, Elazığ şehrinin merkezinde yer alır ve şehrin coğrafi yapısını belirleyen önemli bir noktadır. Tepenin yüksekliği, şehrin etrafındaki dağlarla birlikte, Elazığ'ın coğrafi çeşitliliğini gösterir. Sancak Tepesi'nin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Tepenin iklimi, Doğu Anadolu Bölgesi'nin karasal ikliminin etkilerini taşır. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Sancak Tepesi, Elazığ'ın coğrafi güzelliğini ve çeşitliliğini gösteren önemli bir noktadır. Tepenin manzarası, şehrin panoramik görünümünü sunar ve ziyaretçilere unutulmaz bir deneyim sağlar.
+Sancak Tepesi, Elazığ şehrinin merkezinde yer alır ve şehrin coğrafi yapısını belirleyen önemli bir noktadır. Tepenin yüksekliği, şehrin etrafındaki dağlarla birlikte, Elazığ'ın coğrafi çeşitliliğini gösterir. Sancak Tepesi'nin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Tepenin iklimi, Doğu Anadolu Bölgesi'nin karasal ikliminin etkilerini taşır. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Sancak Tepesi, Elazığ'ın coğrafi güzelliğini ve çeşitliliğini gösteren önemli bir noktadır. Tepenin manzarası, şehrin panoramik görünümünü sunar ve ziyaretçilere unutulmaz bir deneyim sağlar.
 
 ## Flora ve Fauna
 

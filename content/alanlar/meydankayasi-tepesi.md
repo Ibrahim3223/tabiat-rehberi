@@ -36,7 +36,7 @@ Meydankayası Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Meydankayası Tepesi, Samsun'un Karadeniz Bölgesi'nde yer alan bir tepe olup, 140 hektarlık bir alanı kaplamaktadır. Bu tepe, deniz seviyesinden yaklaşık yüksek bir konumdate yer almakta ve Karadeniz Bölgesi'nin güzelliğini gözler önüne sermektedir. Tepenin etrafındaki manzara, Karadeniz Bölgesi'nin güzelliğini gözler önüne sermektedir. Meydankayası Tepesi'nin coğrafi konumu, ziyaretçilerine hem deniz hem de kara manzaralarını sunmaktadır. Bu tepe, Samsun'un merkezine yakın bir konumda yer almakta ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası olarak hizmet vermektedir. Meydankayası Tepesi'nin iklimi, Karadeniz Bölgesi'nin iklimine benzerlik göstermekte ve ziyaretçilerine dört mevsim boyunca farklı güzellikler sunmaktadır.
+Meydankayası Tepesi, Samsun'un Karadeniz Bölgesi'nde yer alan bir tepe olup, 140 hektarlık bir alanı kaplamaktadır. Bu tepe, yüksek bir konumda yer almakta ve Karadeniz Bölgesi'nin güzelliğini gözler önüne sermektedir. Tepenin etrafındaki manzara, Karadeniz Bölgesi'nin güzelliğini gözler önüne sermektedir. Meydankayası Tepesi'nin coğrafi konumu, ziyaretçilerine hem deniz hem de kara manzaralarını sunmaktadır. Bu tepe, Samsun'un merkezine yakın bir konumda yer almakta ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası olarak hizmet vermektedir. Meydankayası Tepesi'nin iklimi, Karadeniz Bölgesi'nin iklimine benzerlik göstermekte ve ziyaretçilerine dört mevsim boyunca farklı güzellikler sunmaktadır.
 
 ## Flora ve Fauna
 

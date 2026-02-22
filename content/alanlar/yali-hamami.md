@@ -37,7 +37,7 @@ Yalı Hamamı, tarihsel olarak önemli bir geçmişe sahiptir. Bu bölge, yüzy�
 
 ## Coğrafya
 
-Yalı Hamamı, Çanakkale ilinin merkezinde, denize kıyısı olan bir bölgede bulunmaktadır. Bu plaj, yaklaşık 140 hektarlık bir alanı kapsar ve geniş, uzun kumsalıyla bilinir. Yalı Hamamı'nın coğrafi konumu, denizle iç içe olmasını sağlar ve bu da ziyaretçilere güzel bir manzara sunar. Plajın etrafında, çeşitli bitki türleri ve ağaçlar bulunur, bu da bölgenin doğal güzelliğini arttırmaktadır. Yalı Hamamı, Çanakkale'nin iklimine uygun olarak, yaz aylarında sıca ve güneşli, kış aylarında ise ılıman bir hava durumuna sahiptir. Bu durum, plajı yıl boyunca ziyaret edilebilir kılar.
+Yalı Hamamı, Çanakkale ilinin merkezinde, denize kıyısı olan bir bölgede bulunmaktadır. Bu plaj, yaklaşık 140 hektarlık bir alanı kapsar ve geniş, uzun kumsalıyla bilinir. Yalı Hamamı'nın coğrafi konumu, denizle iç içe olmasını sağlar ve bu da ziyaretçilere güzel bir manzara sunar. Plajın etrafında, çeşitli bitki türleri ve ağaçlar bulunur, bu da bölgenin doğal güzelliğini arttırmaktadır. Yalı Hamamı, Çanakkale'nin iklimine uygun olarak, yaz aylarında sıcak ve güneşli, kış aylarında ise ılıman bir hava durumuna sahiptir. Bu durum, plajı yıl boyunca ziyaret edilebilir kılar.
 
 ## Flora ve Fauna
 

@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin tarihi ve kültürel zenginlikleriyle dolu coğ
 
 Doğal güzelliği ile dikkat çeken Hariki Tepe, coğrafi olarak çeşitlilik gösteren bir bölgede yer almaktadır. Bölgenin jeolojik yapısı, tepe ve dağların oluşumuyla şekillenmiştir. Bu dağ, bölgenin en önemli doğal oluşumlarından biri olarak kabul edilebilir. Hariki Tepe'nin boyutları hakkında kesin bir bilgi olmasa da, Mardin'in toplam yüzölçümünün küçük bir bölümünü kapladığı söylenebilir.
 
-Mevsimsel değişikliklere göre iklimi değişen Hariki Tepe, güneydoğu Anadolu Bölgesi'nin karakteristik iklimini yansıtır. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklim hüküm sürer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörlerdir. Hariki Tepe'nin iklimi, bölgenin tarım ve hayvancılık faaliyetlerini de etkilemektedir.
+Mevsimsel değişikliklere göre iklimi değişen Hariki Tepe, güneydoğu Anadolu Bölgesi'nin karakteristik iklimini yansıtır. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklim hüküm sürer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörlerdir. Hariki Tepe'nin iklimi, bölgenin tarım ve hayvancılık faaliyetlerini de etkilemektedir.
 
 Bölgenin ekosistem bağlantıları açısından önemli bir role sahip olan Hariki Tepe, komşu alanlar ve su kaynaklarıyla bağlantılıdır. Mardin şehrinin yakınında bulunan bu dağ, bölgenin su kaynaklarının korunmasına katkıda bulunabilir. Ayrıca, Hariki Tepe'nin çevresindeki doğal alanlar, bölgenin biyolojik çeşitliliğini zenginleştirmektedir. Bu doğal güzellikler, bölgenin turizm potansiyelini de artırmaktadır.
 

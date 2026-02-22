@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerine ev sahipli
 
 Pirinç Tepe'nin fiziksel yapısı, bölgenin jeolojik özelliklerini yansıtıyor. Ancak detailed fiziksel veri bulunmamasına rağmen, koordinatlarından hareketle, bu tepeye ulaşmak için yaklaşık 500-600 metre rakımlı bir alana çıkılması gerekiyor. Bu yükseklik, Eiffel Kulesi'nin yaklaşık 1/5'i yükseklikte bir nokta olarak düşünülebilir. Pirinç Tepe'nin bu konumu, bölgenin coğrafi yapısını şekillendiren önemli bir unsur.
 
-Mardin'in iklimi, genel olarak kura ve sıcak bir karaktere sahip. Yaz aylarında sıcaklığın 40 dereceye kadar çıktığı bu bölgede, kış ayları ise soğu ve yağışlı geçiyor. Pirinç Tepe de bu iklimin etkisini hissediyor ve mevsimsel değişikliklere göre farklı hava koşullarına maruz kalıyor. Bölgenin iklim karakteri, bitki örtüsünü ve yerel ekosistemi şekillendiren önemli bir faktör.
+Mardin'in iklimi, genel olarak kura ve sıcak bir karaktere sahip. Yaz aylarında sıcaklığın 40 dereceye kadar çıktığı bu bölgede, kış ayları ise soğuk ve yağışlı geçiyor. Pirinç Tepe de bu iklimin etkisini hissediyor ve mevsimsel değişikliklere göre farklı hava koşullarına maruz kalıyor. Bölgenin iklim karakteri, bitki örtüsünü ve yerel ekosistemi şekillendiren önemli bir faktör.
 
 Pirinç Tepe, Mardin şehrinin yakınında yer alması nedeniyle, bölgenin su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahip. Bölge, Dicle Nehri'nin yakınında yer alıyor ve bu nehrin suladığı ovalar, bölgenin tarım ve hayvancılık faaliyetlerini destekleyen önemli bir kaynak. Pirinç Tepe'nin çevresel ilişkileri, bölgenin doğal dengesini korumak açısından kritik bir önem taşıyor.
 

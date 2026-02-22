@@ -45,7 +45,7 @@ Doğunun gizli çekiciliğini keşfetmek isteyenler için, "Linki" dağı, 37.11
 
 Jeolojik açıdan bakıldığında, "Linki" dağı, bölgeye hakim olan dağlık yapının bir parçası olarak karşımıza çıkıyor. Dağın boyutları, bir şehir bloğu büyüklüğünde değil, daha büyük bir alana yayılmış gibi görünse de, tam olarak 1200 hektarlık bir alanı kaplıyor. Bu, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın şekli, doğu-batı yönünde uzanan bir sırt gibi görünüyor. Jeolojik yapı, volkanik kayaçlardan oluşuyor.
 
-İklim açısından, "Linki" dağı, karasal iklimin hüküm sürdüğü bir bölgede yer alıyor. Kışlar soğu ve karlı, yazlar ise sıca ve kurak geçiyor. Yıllık ortalama sıcaklık, 10-15 derece arasında değişiyor. Bölge, mevsimsel olarak değişen hava koşullarına sahip. İlkbahar ve sonbahar aylarında, bölgede çiçekler açarken, kış aylarında ise karla kaplanıyor.
+İklim açısından, "Linki" dağı, karasal iklimin hüküm sürdüğü bir bölgede yer alıyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Yıllık ortalama sıcaklık, 10-15 derece arasında değişiyor. Bölge, mevsimsel olarak değişen hava koşullarına sahip. İlkbahar ve sonbahar aylarında, bölgede çiçekler açarken, kış aylarında ise karla kaplanıyor.
 
 Çevresel açıdan, "Linki" dağı, bölgenin ekosistemine önemli katkılar sağlıyor. Dağın eteklerinde, çeşitli su kaynakları ve nehirler yer alıyor. Bu su kaynakları, bölgenin tarım ve hayvancılık faaliyetlerine hayat veriyor. Ayrıca, dağ, bölgenin biyolojik çeşitliliğine de katkıda bulunuyor. Dağın çevresindeki komşu alanlar, genellikle tarım arazileri ve ormanlık alanlar olarak kullanılıyor. Bu reason, bölgenin doğal dengesini koruyor ve ziyaretçilere eşsiz bir deneyim sunuyor.
 

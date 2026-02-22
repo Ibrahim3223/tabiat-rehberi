@@ -36,7 +36,7 @@ Sığır Tepesi'nin tarihi geçmişi, İç Anadolu Bölgesi'nin genel tarihçesi
 
 ## Coğrafya
 
-Sığır Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alır ve coğrafi olarak 140 hektarlık büyük bir yeşil alanı kapsar. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir açık alan sunmaktadır. Sığır Tepesi'nin coğrafi yapısı, İç Anadolu Bölgesi'nin genel coğrafilerine uygun olarak, step ve ormanlık alanların birleşiminden oluşmaktadır. Tepenin etrafında yer alan köyler ve kasabalar, Sığır Tepesi'ne gelen ziyaretçilere konaklama ve yeme içme olanakları sunmaktadır. Ayrıca, Sığır Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri gösterir. Bu iklim, yazları sıca ve kurak, kışları ise soğu ve karlı olarak karakterizedir.
+Sığır Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alır ve coğrafi olarak 140 hektarlık büyük bir yeşil alanı kapsar. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir açık alan sunmaktadır. Sığır Tepesi'nin coğrafi yapısı, İç Anadolu Bölgesi'nin genel coğrafilerine uygun olarak, step ve ormanlık alanların birleşiminden oluşmaktadır. Tepenin etrafında yer alan köyler ve kasabalar, Sığır Tepesi'ne gelen ziyaretçilere konaklama ve yeme içme olanakları sunmaktadır. Ayrıca, Sığır Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri gösterir. Bu iklim, yazları sıcak ve kurak, kışları ise soğuk ve karlı olarak karakterizedir.
 
 ## Flora ve Fauna
 

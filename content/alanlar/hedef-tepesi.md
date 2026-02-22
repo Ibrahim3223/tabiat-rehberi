@@ -36,7 +36,7 @@ Hedef Tepesi'nin tarihi geçmişi, Kars'ın tarihi ile bağlantılı. Bu bölge,
 
 ## Coğrafya
 
-Hedef Tepesi, Kars'ın coğrafi yapısını oluşturan dağlar ve ovaların bir parçası. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Kars'ın iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor. Hedef Tepesi'nin çevresi, çeşitli bitki türleri ile kaplı. Burada, ziyaretçiler doğal güzelliğin tadını çıkarabilirler. Hedef Tepesi, Kars'ın merkezine yakın bir konumda yer alıyor. Ziyaretçiler, buraya kolayca ulaşabilirler. Hedef Tepesi'nin yüksekliği, Kars'ın diğer tepelerine göre daha thp. Ancak, buradan Kars'ın manzarası izlenebiliyor.
+Hedef Tepesi, Kars'ın coğrafi yapısını oluşturan dağlar ve ovaların bir parçası. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Kars'ın iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Hedef Tepesi'nin çevresi, çeşitli bitki türleri ile kaplı. Burada, ziyaretçiler doğal güzelliğin tadını çıkarabilirler. Hedef Tepesi, Kars'ın merkezine yakın bir konumda yer alıyor. Ziyaretçiler, buraya kolayca ulaşabilirler. Hedef Tepesi'nin yüksekliği, Kars'ın diğer tepelerine göre daha thp. Ancak, buradan Kars'ın manzarası izlenebiliyor.
 
 ## Flora ve Fauna
 

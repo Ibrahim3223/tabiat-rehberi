@@ -44,7 +44,7 @@ Doğal güzellikleri ile ön plana çıkan Kargın Dağı, Kayseri'nin coğrafi 
 
 Jeolojik açıdan incelendiğinde, Kargın Dağı'nın etrafındaki coğrafya oldukça ilginç bir yapıya sahiptir. Ancak detaylı fiziksel veriler bulunmamasına rağmen, bölgenin genel olarak dağlık ve engebeli bir yapısı olduğu söylenebilir. Bu yapının oluşumunda, milyonlarca yıl önce meydana gelen jeolojik olayların büyük bir payı vardır. Bölgenin jeolojik tarihi, Türkiye'nin genel jeolojik yapısına benzerlik göstermektedir.
 
-Bölgenin iklim karakteri, mevsimsel olarak değişkenlik gösteren bir yapıya sahiptir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu iklim özelliği, bölgenin flora ve fauna yapısını da etkilemektedir. Kargın Dağı'nın etrafındaki araziler, mevsimsel olarak değişen bitki örtüsüne ev sahipliği yapmaktadır.
+Bölgenin iklim karakteri, mevsimsel olarak değişkenlik gösteren bir yapıya sahiptir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu iklim özelliği, bölgenin flora ve fauna yapısını da etkilemektedir. Kargın Dağı'nın etrafındaki araziler, mevsimsel olarak değişen bitki örtüsüne ev sahipliği yapmaktadır.
 
 Çevresel açıdan bakıldığında, Kargın Dağı'nın komşu alanlarla ve su kaynaklarıyla önemli bir bağlantısı vardır. Bölge, çeşitli su kaynaklarına ev sahipliği yapmaktadır ve bu su kaynakları, bölgenin ekosistemini desteklemektedir. Ayrıca, Kargın Dağı'nın etrafındaki araziler, çeşitli wildlife türlerine de ev sahipliği yapmaktadır. Bu nedenle, bölgenin korunması ve sürdürülebilirliğinin sağlanması, büyük bir önem taşımaktadır.
 

@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerine ev sahipli
 
 Doğal bir anıt olan Kırkdirek Mağaraları, jeolojik oluşumlarıyla dikkat çekmektedir. Mağaraların exact boyutları bilinmese de, bu bölgeyi ziyaret edenler, doğanın mucizelerini yakından gözlemleyebilirler. Jeolojik yapısı itibariyle, bu mağaralar, milyonlarca yıllık bir geçmişe sahiptir ve bölgenin jeolojik tarihini anlamak için önemli bir kaynak oluşturur.
 
-Mardin'in iklimi, genel olarak karasal ve kurak bir karakterdedir. Yaz aylarında sıcaklık 40 dereceleri bulabilirken, kış aylarında ise soğu ve kar yağışlı olabilir. Kırkdirek Mağaraları da bu iklimin etkilerini taşır ve mevsimsel değişikliklerle birlikte, farklı bir güzelliğe bürünür. İlkbahar ve sonbahar ayları, mağaraları ziyaret etmek için en uygun zamanlardır, zira bu dönemlerde hava daha serin ve yağışsızdır.
+Mardin'in iklimi, genel olarak karasal ve kurak bir karakterdedir. Yaz aylarında sıcaklık 40 dereceleri bulabilirken, kış aylarında ise soğuk ve kar yağışlı olabilir. Kırkdirek Mağaraları da bu iklimin etkilerini taşır ve mevsimsel değişikliklerle birlikte, farklı bir güzelliğe bürünür. İlkbahar ve sonbahar ayları, mağaraları ziyaret etmek için en uygun zamanlardır, zira bu dönemlerde hava daha serin ve yağışsızdır.
 
 Kırkdirek Mağaraları, Mardin'in eşsiz doğası içinde yer alan bir bölgedir. Çevresinde, tarihi kaleler, antik kentler ve doğal güzellikler bulunur. Mağaraların yakınında, Dicle Nehri ve diğer su kaynakları, bölgenin ekosistemini destekler ve zenginleştirir. Bu bölge, sadece doğal güzelliği ile değil, aynı zamanda tarihi ve kültürel zenginlikleriyle de dikkat çekmektedir. Ziyaretçiler, mağaraları gezerken, aynı zamanda Mardin'in tarihi ve kültürel mirasına da tanık olabilirler.
 

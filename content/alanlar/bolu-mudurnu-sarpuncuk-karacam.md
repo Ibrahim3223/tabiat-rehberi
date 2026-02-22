@@ -30,7 +30,7 @@ Bolu-Mudurnu-Sarpuncuk Karacam milli parkının tarihi geçmişi, yüzyıllar bo
 
 ## Coğrafya
 
-Bolu-Mudurnu-Sarpuncuk Karacam milli parkı, Karadeniz Bölgesi'nin coğrafi özellikleri ile dikkat çekiyor. Bu bölgenin coğrafyası, genellikle engebeli araziler ve dağlık alanlar ile karakterize ediliyor. Milli parkın bulunduğu yer, deniz seviyesinden yaklaşık yüksek bir konumdate ve bu nedenle iklimi, diğer bölgelere göre daha serin ve nemli. Bu bölgede, çeşitli bitki türleri ve zengin fauna, coğrafi koşulların etkisiyle gelişmiş. Milli parkın coğrafyası, aynı zamanda birçok su kaynağının bulunduğu bir yer olarak biliniyor ve bu su kaynakları, bölgenin ekolojik dengesini koruyor.
+Bolu-Mudurnu-Sarpuncuk Karacam milli parkı, Karadeniz Bölgesi'nin coğrafi özellikleri ile dikkat çekiyor. Bu bölgenin coğrafyası, genellikle engebeli araziler ve dağlık alanlar ile karakterize ediliyor. Milli parkın bulunduğu yer, yüksek bir konumda ve bu nedenle iklimi, diğer bölgelere göre daha serin ve nemli. Bu bölgede, çeşitli bitki türleri ve zengin fauna, coğrafi koşulların etkisiyle gelişmiş. Milli parkın coğrafyası, aynı zamanda birçok su kaynağının bulunduğu bir yer olarak biliniyor ve bu su kaynakları, bölgenin ekolojik dengesini koruyor.
 
 ## Flora ve Fauna
 

@@ -45,7 +45,7 @@ Güneybatı Anadolu'nun coğrafi güzelliğiçinde yer alan Kızıltepe, 37.5333
 
 Doğal bir oluşum olarak Kızıltepe, coğrafi yapısı itibariyle ilgi çekicidir. Ne yazık ki, detaylı fiziksel verilere ulaşılamamıştır, ancak bu dağlık bölgenin jeolojik yapısı, Anadolu'nun genel jeolojik karakteristiğiyle benzerlik göstermektedir. Bu bölge, Türkiye'nin tektonik aktivitesinin yüksek olduğu bir alanda yer almaktadır.
 
-Mevsimsel değişimler, Kızıltepe'nin iklim karakterini önemli ölçüde etkiler. Yaz aylarında sıcaklık artarken, kış aylarında soğu ve kar yağışlı bir hava hakimdir. Bu mevsimsel özellikler, dağlık bölgenin flora ve fauna çeşitliliğini etkiler.
+Mevsimsel değişimler, Kızıltepe'nin iklim karakterini önemli ölçüde etkiler. Yaz aylarında sıcaklık artarken, kış aylarında soğuk ve kar yağışlı bir hava hakimdir. Bu mevsimsel özellikler, dağlık bölgenin flora ve fauna çeşitliliğini etkiler.
 
 Çevresel açıdan bakıldığında, Kızıltepe, Burdur'un doğal ekosistemine önemli katkılar sağlar. Dağın eteklerinde ve çevresinde yer alan su kaynakları, bölgenin sulak alanlarını besler ve yerel ekosistemin canlılığını korur. Bu doğal sistem, bölgenin biyolojik çeşitliliğini destekler ve korumaya değer bir coğrafi alan olarak öne çıkar.
 

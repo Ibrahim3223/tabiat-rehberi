@@ -37,7 +37,7 @@ Zincirli Höyük'ün tarihi geçmişi, Tunç Çağı'na kadar uzanıyor. Bu dön
 
 ## Coğrafya
 
-Zincirli Höyük, Gaziantep'in Oğuzeli ilçesinde, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Höyük, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyük alan, çeşitli coğrafi özellikler gösteriyor. Höyüğün etrafı, verimli ovalar ve dağlarla çevrili. Bu coğrafi konum, höyüğün tarihi boyunca önemli bir yerleşim merkezi olmasını sağladı. Höyüğün coğrafyası, aynı zamanda bölgenin iklimini de etkiliyor. Höyük, yazları sıca ve kışları soğuk olan bir iklime sahip. Bu iklim, höyüğün flora ve faunasını da etkiliyor.
+Zincirli Höyük, Gaziantep'in Oğuzeli ilçesinde, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Höyük, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyük alan, çeşitli coğrafi özellikler gösteriyor. Höyüğün etrafı, verimli ovalar ve dağlarla çevrili. Bu coğrafi konum, höyüğün tarihi boyunca önemli bir yerleşim merkezi olmasını sağladı. Höyüğün coğrafyası, aynı zamanda bölgenin iklimini de etkiliyor. Höyük, yazları sıcak ve kışları soğuk olan bir iklime sahip. Bu iklim, höyüğün flora ve faunasını da etkiliyor.
 
 ## Flora ve Fauna
 

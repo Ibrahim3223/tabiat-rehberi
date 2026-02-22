@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden Van'da yer alan Erçek Gölü, 38.
 
 Gölün fiziksel yapısı hakkında detaylı bilgi bulunmasa da, Erçek Gölü'nün bir şehir bloğu büyüklüğünde olduğu söylenebilir. Bu boyut, gölü küçük ve sınırlı bir alan olarak tanımlar. Gölün jeolojik yapısı ve şekli hakkında daha fazla bilgi edinmek için, bölgenin jeolojik tarihine ve oluşumuna bakmak gerekir. Ancak, gölün Van Gölü'ne yakınlığı, benzer jeolojik oluşumların varlığına işaret edebilir.
 
-İklim açısından bakıldığında, Erçek Gölü'nün bulunduğu bölge, karasal iklimin etkisindedir. Bu, mevsimsel olarak sıcaklık ve yağış miktarının değişken olmasına neden olur. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu iklim koşulları, gölün su seviyesi ve çevresindeki ekosistemi etkileyebilir.
+İklim açısından bakıldığında, Erçek Gölü'nün bulunduğu bölge, karasal iklimin etkisindedir. Bu, mevsimsel olarak sıcaklık ve yağış miktarının değişken olmasına neden olur. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu iklim koşulları, gölün su seviyesi ve çevresindeki ekosistemi etkileyebilir.
 
 Bölgenin ekosistem bağlantıları açısından, Erçek Gölü'nün Van Gölü'ne yakınlığı önemlidir. Bu iki göl arasındaki su kaynakları ve ekosistem ilişkileri, bölgenin biyolojik çeşitliliğini etkileyebilir. Ayrıca, gölün bulunduğu ova ve dağlık araziler, çeşitli bitki ve hayvan türleri için yaşam alanı sağlar. Bu nedenle, Erçek Gölü'nün çevresel ilişkileri, bölgenin ekolojik dengesini korumak açısından önemlidir.
 

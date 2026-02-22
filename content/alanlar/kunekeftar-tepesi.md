@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin güzide illerinden biri olan Batman, coğrafi �
 
 Doğal güzelliği ile dikkat çeken Künekeftar Tepesi, Batman'ın coğrafi yapısını anlamak için önemli bir noktadır. Tepenin fiziksel yapısı hakkında detaylı bilgi olmasa da, bölgenin jeolojik özellikleri dikkate alındığında, tepe ve çevresinin kireçtaşı ve şist gibi kayalardan oluştuğu söylenebilir. Bu tür kayaların bölgeyi şekillendirmesinde önemli bir rolü vardır.
 
-İklim karakteri açısından bakıldığında, Künekeftar Tepesi ve çevresinin, Güneydoğu Anadolu Bölgesi'nin tipik karasal iklimini yansıttığı görülmektedir. Yaz aylarında sıca ve kuru, kış aylarında ise soğu ve yağışlı bir hava durumu hakimdir. Bu mevsimsel değişiklikler, bölgenin flora ve fauna açısından zengin bir çeşitliliğe sahip olmasını sağlamaktadır.
+İklim karakteri açısından bakıldığında, Künekeftar Tepesi ve çevresinin, Güneydoğu Anadolu Bölgesi'nin tipik karasal iklimini yansıttığı görülmektedir. Yaz aylarında sıcak ve kuru, kış aylarında ise soğuk ve yağışlı bir hava durumu hakimdir. Bu mevsimsel değişiklikler, bölgenin flora ve fauna açısından zengin bir çeşitliliğe sahip olmasını sağlamaktadır.
 
 Çevresel ilişkiler açısından, Künekeftar Tepesi'nin Batman Nehri'ne yakınlığı dikkat çekmektedir. Bu nehrin sulak alanları ve çevresindeki ekosistem, bölgenin biyolojik çeşitliliğinin korunması için önemli bir rol oynamaktadır. Tepenin bulunduğu bölge, aynı zamanda çeşitli bitki ve hayvan türleri için önemli bir yaşam alanı olarak görülmektedir. Bu nedenle, Künekeftar Tepesi ve çevresinin korunması, bölgenin doğal güzelliğinin ve biyolojik çeşitliliğinin sürdürülmesi için büyük önem taşımaktadır.
 

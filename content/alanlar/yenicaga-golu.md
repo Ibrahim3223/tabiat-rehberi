@@ -46,7 +46,7 @@ Coğrafi olarak incelendiğinde, Yeniçağa Gölü'nün 40.7800°K enlem ve 32.0
 
 Doğal yapısını incelediğimizde, Yeniçağa Gölü'nün çevresindeki coğrafi özellikler, gölle iç içe geçmiş bir şekilde uzanır. Ancak, fiziksel boyutları hakkında detaylı bilgi bulunmamasına rağmen, gölü çevreleyen dağların yüksekliği Eiffel Kulesi'nin yaklaşık 2-3 katı yükseklikte olabilir. Bu yükseklik, göle suyunun akışını ve çevresel iklim koşullarını etkileyebilir.
 
-Mevsimsel özelliklerine baktığımızda, Yeniçağa Gölü'nün bulunduğu bölge, karasal iklimin etkilerini gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak geçen bir iklim karakteristiği, gölle birlikte yaşayan ekosistemi şekillendirir. Bu mevsimsel değişimler, gölü besleyen su kaynaklarının akışını ve göle bağımlı olan canlıların yaşamını direkt olarak etkiler.
+Mevsimsel özelliklerine baktığımızda, Yeniçağa Gölü'nün bulunduğu bölge, karasal iklimin etkilerini gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak geçen bir iklim karakteristiği, gölle birlikte yaşayan ekosistemi şekillendirir. Bu mevsimsel değişimler, gölü besleyen su kaynaklarının akışını ve göle bağımlı olan canlıların yaşamını direkt olarak etkiler.
 
 Çevresel ilişkiler açısından, Yeniçağa Gölü'nün komşu alanlar ve su kaynakları ile bağlantılı bir yapısı vardır. Gölün suyu, çevresindeki dağlardan gelen akarsularla beslenir ve bu şekilde bir ekosistem olarak işler. Bu ilişki, gölle birlikte yaşayan canlıların yaşamını sürdürmesi için önemlidir ve gölle çevresinin bir bütün olarak değerlendirilmesini gerektirir.
 

@@ -36,7 +36,7 @@ Kavaklığıntombul Tepesi'nin tarihi geçmişi, bölgenin kültürel ve coğraf
 
 ## Coğrafya
 
-Kavaklığıntombul Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe. Tepenin yüksekliği, çevresindeki ovaları ve vadileri gözlemlemek için ideal bir nokta sunuyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri yetişiyor ve bu bölge, yaban hayatının zenginliğini gösteriyor. Bölgenin iklimi, genellikle sıca ve kurak geçiyor, ancak tepe ve çevresindeki bitki örtüsü, bu iklim koşullarına uyum sağlamış durumda. Tepenin coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunuyor ve çevreyi izlemek için ideal bir nokta olarak kabul ediliyor. Tepenin yüksekliği ve genişliği, çevreyi gözlemlemek için ideal bir nokta sunuyor ve ziyaretçilere geniş bir manzara sunuyor.
+Kavaklığıntombul Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe. Tepenin yüksekliği, çevresindeki ovaları ve vadileri gözlemlemek için ideal bir nokta sunuyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri yetişiyor ve bu bölge, yaban hayatının zenginliğini gösteriyor. Bölgenin iklimi, genellikle sıcak ve kurak geçiyor, ancak tepe ve çevresindeki bitki örtüsü, bu iklim koşullarına uyum sağlamış durumda. Tepenin coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunuyor ve çevreyi izlemek için ideal bir nokta olarak kabul ediliyor. Tepenin yüksekliği ve genişliği, çevreyi gözlemlemek için ideal bir nokta sunuyor ve ziyaretçilere geniş bir manzara sunuyor.
 
 ## Flora ve Fauna
 

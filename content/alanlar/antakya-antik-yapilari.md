@@ -38,7 +38,7 @@ Antakya Antik Yapıları, yüzyıllar boyunca çeşitli uygarlıkların etkisind
 
 ## Coğrafya
 
-Antakya Antik Yapıları, Hatay ilinin merkezinde, Akdeniz Bölgesi'nin kalbinde yer alıyor. Bu bölge, coğrafi olarak önemli bir konumda bulunuyor. Antakya Antik Yapıları, yaklaşık 200 futbol sahası büyüklüğünde, 140 hektarlık bir alanı kapsıyor. Bu bölgenin coğrafi yapısı, tarihi yapılar ve anıtlarla dolu. Antakya Antik Yapıları, ziyaretçilere tarihi bir atmosfer sunuyor. Bu bölge, Akdeniz Bölgesi'nin iklimine uygun olarak, sıca ve kurak yazlar, ılıman kışlar geçiriyor. Antakya Antik Yapıları, ziyaretçilere tarihi bir gezi sunuyor. Bu bölgenin coğrafi konumu, tarihi ve kültürel açıdan büyük önem taşıyor.
+Antakya Antik Yapıları, Hatay ilinin merkezinde, Akdeniz Bölgesi'nin kalbinde yer alıyor. Bu bölge, coğrafi olarak önemli bir konumda bulunuyor. Antakya Antik Yapıları, yaklaşık 200 futbol sahası büyüklüğünde, 140 hektarlık bir alanı kapsıyor. Bu bölgenin coğrafi yapısı, tarihi yapılar ve anıtlarla dolu. Antakya Antik Yapıları, ziyaretçilere tarihi bir atmosfer sunuyor. Bu bölge, Akdeniz Bölgesi'nin iklimine uygun olarak, sıcak ve kurak yazlar, ılıman kışlar geçiriyor. Antakya Antik Yapıları, ziyaretçilere tarihi bir gezi sunuyor. Bu bölgenin coğrafi konumu, tarihi ve kültürel açıdan büyük önem taşıyor.
 
 ## Flora ve Fauna
 

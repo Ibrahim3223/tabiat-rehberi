@@ -51,7 +51,7 @@ Mevsimsel açıdan, Coşan Dağı'nın iklim karakteri, bölgenin genel iklimine
 
 Coşan Dağı, step bitki örtüsünün hakim olduğu bir bozkır ekosistemine ev sahipliği yapar. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır. step bitkileri, kuraklığa adapte olmuş özel türler, yükseklik zonlarına bağlı olarak değişen alpin flora ile birlikte dağın florasını oluşturur.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri ve yaban keçileri, dağların kaya çıkıntılarında yaşarlar. Göç eden kuşlar, sonbaharda dağları ziyaret eder. Sürüngenler, dağların sıca ve kurak bölgelerinde bulunur.
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri ve yaban keçileri, dağların kaya çıkıntılarında yaşarlar. Göç eden kuşlar, sonbaharda dağları ziyaret eder. Sürüngenler, dağların sıcak ve kurak bölgelerinde bulunur.
 
 Coşan Dağı, ekolojik değerleri ile önemli bir bölgedir. Dağ ekosisteminin korunması, bölgenin flora ve faunasının devamı için önemlidir. Koruma durumu, bölgeye verilen önemin artmasıyla birlikte gelişmektedir.
 

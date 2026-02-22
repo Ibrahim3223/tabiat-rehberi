@@ -38,7 +38,7 @@ Vahap Ağa Hamamı, Diyarbakır'ın tarihi geçmişi ile yakından ilgili. Bu b�
 
 ## Coğrafya
 
-Vahap Ağa Hamamı, Güneydoğu Anadolu Bölgesi'nde yer alan Diyarbakır ilinin merkezine yakın bir konumda bulunuyor. Bu bölgenin coğrafyası, genellikle geniş ovalar ve dağlık arazilerle karakterize ediliyor. Vahap Ağa Hamamı, bu coğrafi yapının içinde, 140 hektarlık geniş bir yeşil alan olarak dikkat çekiyor. Bölgenin iklimi, genellikle sıca ve kuru bir karakterde. Bu durum, Vahap Ağa Hamamı gibi yeşil alanların, ziyaretçilere serin ve ferah bir ortam sunmasını sağlıyor. Hamamın etrafında, çeşitli bitki türleri ve zengin fauna bulunan bu bölge, doğa severlerin ilgisini çekiyor. Ayrıca, hamamın yakınında, tarihi yapılar ve kültürel merkezler de bulunmakta, bu da ziyaretçilere bölge hakkında daha geniş bir perspektif sunuyor.
+Vahap Ağa Hamamı, Güneydoğu Anadolu Bölgesi'nde yer alan Diyarbakır ilinin merkezine yakın bir konumda bulunuyor. Bu bölgenin coğrafyası, genellikle geniş ovalar ve dağlık arazilerle karakterize ediliyor. Vahap Ağa Hamamı, bu coğrafi yapının içinde, 140 hektarlık geniş bir yeşil alan olarak dikkat çekiyor. Bölgenin iklimi, genellikle sıcak ve kuru bir karakterde. Bu durum, Vahap Ağa Hamamı gibi yeşil alanların, ziyaretçilere serin ve ferah bir ortam sunmasını sağlıyor. Hamamın etrafında, çeşitli bitki türleri ve zengin fauna bulunan bu bölge, doğa severlerin ilgisini çekiyor. Ayrıca, hamamın yakınında, tarihi yapılar ve kültürel merkezler de bulunmakta, bu da ziyaretçilere bölge hakkında daha geniş bir perspektif sunuyor.
 
 ## Flora ve Fauna
 

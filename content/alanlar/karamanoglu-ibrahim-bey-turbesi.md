@@ -38,7 +38,7 @@ Karamanoğlu İbrahim Bey Türbesi, tarihi geçmişi ile dikkat çekmektedir. Ka
 
 ## Coğrafya
 
-Karamanoğlu İbrahim Bey Türbesi, Karaman'ın merkezi bölgesinde yer almaktadır. İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bu bölge, genellikle step ve bozkır ikliminin hakim olduğu bir alandır. Türbenin bulunduğu alan, yaklaşık yüksek bir konumdate yer almaktadır ve etrafı tarihi yapılar ve doğal güzelliklerle çevrilidir. Karaman'ın coğrafi konumu, türbenin etrafındaki doğal güzellikleri ve tarihi yapıları etkilemiştir. Ziyaretçiler, bu türbeyi ziyaret ederek Karaman'ın coğrafi güzelliklerini ve tarihi zenginliklerini keşfetme fırsatı bulabilirler. Türbenin bulunduğu bölgede, çeşitli bitki türleri ve fauna bulunmaktadır. Bu bölgede, mevsimsel değişimler sonucu farklı doğa güzellikleri ortaya çıkmaktadır.
+Karamanoğlu İbrahim Bey Türbesi, Karaman'ın merkezi bölgesinde yer almaktadır. İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bu bölge, genellikle step ve bozkır ikliminin hakim olduğu bir alandır. Türbenin bulunduğu alan, yüksek bir konumda yer almaktadır ve etrafı tarihi yapılar ve doğal güzelliklerle çevrilidir. Karaman'ın coğrafi konumu, türbenin etrafındaki doğal güzellikleri ve tarihi yapıları etkilemiştir. Ziyaretçiler, bu türbeyi ziyaret ederek Karaman'ın coğrafi güzelliklerini ve tarihi zenginliklerini keşfetme fırsatı bulabilirler. Türbenin bulunduğu bölgede, çeşitli bitki türleri ve fauna bulunmaktadır. Bu bölgede, mevsimsel değişimler sonucu farklı doğa güzellikleri ortaya çıkmaktadır.
 
 ## Flora ve Fauna
 

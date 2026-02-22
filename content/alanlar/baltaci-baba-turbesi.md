@@ -37,7 +37,7 @@ Baltacı Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmişti
 
 ## Coğrafya
 
-Baltacı Baba Türbesi, Şanlıurfa'nın Haliliye ilçesinde yer alıyor ve Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölgenin coğrafyası, genellikle geniş ovalar ve dağlık alanlardan oluşuyor. Baltacı Baba Türbesi'nin bulunduğu alan, 140 hektarlık bir arazi üzerine kurulu ve ziyaretçilerine geniş bir gezi alanı sunuyor. Bu bölgenin iklimi, genellikle sıca ve kurak passedir, ancak mevsimsel olarak değişkenlik gösterebiliyor. Baltacı Baba Türbesi, ziyaretçilerine bu coğrafi çeşitliliği ve güzelliği sunuyor. Çevre, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahip.
+Baltacı Baba Türbesi, Şanlıurfa'nın Haliliye ilçesinde yer alıyor ve Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölgenin coğrafyası, genellikle geniş ovalar ve dağlık alanlardan oluşuyor. Baltacı Baba Türbesi'nin bulunduğu alan, 140 hektarlık bir arazi üzerine kurulu ve ziyaretçilerine geniş bir gezi alanı sunuyor. Bu bölgenin iklimi, genellikle sıcak ve kurak pasiftir, ancak mevsimsel olarak değişkenlik gösterebiliyor. Baltacı Baba Türbesi, ziyaretçilerine bu coğrafi çeşitliliği ve güzelliği sunuyor. Çevre, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahip.
 
 ## Flora ve Fauna
 

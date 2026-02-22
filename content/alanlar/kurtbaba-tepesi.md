@@ -36,7 +36,7 @@ Kurtbaba Tepesi'nin tarihi geçmişi, bölgenin yerleşim tarihi ile paralel bir
 
 ## Coğrafya
 
-Kurtbaba Tepesi, Gaziantep'in coğrafi yapısının önemli bir parçasını oluşturuyor. Tepenin yüksekliği ve konumu, şehrin panoramik manzarasına olanak tanıyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna encontrabilir. Bu bölge, ayrıca farklı iklim koşullarına da ev sahipliği yapıyor. Yaz aylarında sıca ve kurak bir iklim hüküm sürerken, kış aylarında ılıman ve yağışlı bir hava hakim oluyor. Tepenin coğrafi konumu, bölgede yaşayan halkın tarım ve hayvancılık faaliyetlerini de etkiliyor. Tepenin yakınında bulunan akarsular ve su kaynakları, bölgenin sulama ve içme suyu ihtiyaçlarını karşılıyor.
+Kurtbaba Tepesi, Gaziantep'in coğrafi yapısının önemli bir parçasını oluşturuyor. Tepenin yüksekliği ve konumu, şehrin panoramik manzarasına olanak tanıyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna encontrabilir. Bu bölge, ayrıca farklı iklim koşullarına da ev sahipliği yapıyor. Yaz aylarında sıcak ve kurak bir iklim hüküm sürerken, kış aylarında ılıman ve yağışlı bir hava hakim oluyor. Tepenin coğrafi konumu, bölgede yaşayan halkın tarım ve hayvancılık faaliyetlerini de etkiliyor. Tepenin yakınında bulunan akarsular ve su kaynakları, bölgenin sulama ve içme suyu ihtiyaçlarını karşılıyor.
 
 ## Flora ve Fauna
 

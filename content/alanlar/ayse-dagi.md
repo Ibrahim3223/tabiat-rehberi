@@ -42,7 +42,7 @@ Doğu Anadolu Bölgesi'nin en uzak köşelerinde yer alan Ayşe Dağı, Hakkari 
 
 Jeolojik açıdan bakıldığında, Ayşe Dağı'nın oluşumu ve yapısı hakkında detaylı bilgi bulunmamasına rağmen, genel olarak bu bölgedeki dağların genellikle kütle kayaları ve volkanik kayaçlardan oluştuğunu söyleyebiliriz. Bu dağ, bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır ve çevresi benzer yükseklikteki dağlar ve vadilerle çevrilidir. Bu coğrafi yapı, bölgenin ekosistemini ve doğal yaşamını etkileyen önemli bir faktördür.
 
-İklim açısından, Ayşe Dağı'nın bulunduğu bölge karasal bir iklime sahiptir. Kışlar soğu ve kar yağışlı, yazlar ise sıca ve kurudur. Bu mevsimsel özellikler, bölgenin bitki örtüsünü ve hayvan yaşamını önemli ölçüde etkilemektedir. Ayşe Dağı'nın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olarak düşünülürse, bu dağın bölgedeki iklimi nasıl etkileyebileceği hakkında bir fikir verebilir.
+İklim açısından, Ayşe Dağı'nın bulunduğu bölge karasal bir iklime sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu mevsimsel özellikler, bölgenin bitki örtüsünü ve hayvan yaşamını önemli ölçüde etkilemektedir. Ayşe Dağı'nın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olarak düşünülürse, bu dağın bölgedeki iklimi nasıl etkileyebileceği hakkında bir fikir verebilir.
 
 Çevresel açıdan, Ayşe Dağı'nın bulunduğu bölge, çeşitli su kaynaklarına ve ekosistem bağlantılarına sahiptir. Bu dağ, bölgenin su döngüsünü etkileyen önemli bir faktördür ve çevresi similar yükseklikteki dağlar ve vadilerle çevrilidir. Bu coğrafi yapı, bölgenin doğal yaşamını ve ekosistemini korumak için önemli bir role sahiptir.
 

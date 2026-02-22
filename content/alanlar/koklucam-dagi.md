@@ -45,7 +45,7 @@ Güneybatı Anadolu'nun güneşli tepelerinde yer alan Köklüçam Dağı, 37.14
 
 Doğal güzelliği ile dikkat çeken Köklüçam Dağı, jeolojik açıdan ilgi çekici bir yapıya sahiptir. Ancak, detaylı fiziksel verileri bulunmamasına rağmen, bu dağın yüksekliği ve eğimleri, bir gökdelenin yüksekliğine benzeyen bir yapıya sahiptir. Köklüçam Dağı, Taksim Meydanı'nın birkaç katı yükseklikte ve Monaco'nun küçük bir bölümü kadar bir alanı kaplar.
 
-Mevsimsel değişimlerin etkisi altında olan Köklüçam Dağı, yaz aylarında sıca ve kuru, kış aylarında ise serin ve yağışlı bir iklim karakterine sahiptir. Bu mevsimsel özellikler, dağın ekosistemine şekil verir ve çevredeki bitki ve hayvan türlerinin çeşitliliğini etkiler. Köklüçam Dağı, bir ekosistem olarak, çevresindeki su kaynakları ve andere doğal alanlar ile bağlantılıdır ve bu bağlantılar, dağın çevresel dengesini sağlar.
+Mevsimsel değişimlerin etkisi altında olan Köklüçam Dağı, yaz aylarında sıcak ve kuru, kış aylarında ise serin ve yağışlı bir iklim karakterine sahiptir. Bu mevsimsel özellikler, dağın ekosistemine şekil verir ve çevredeki bitki ve hayvan türlerinin çeşitliliğini etkiler. Köklüçam Dağı, bir ekosistem olarak, çevresindeki su kaynakları ve andere doğal alanlar ile bağlantılıdır ve bu bağlantılar, dağın çevresel dengesini sağlar.
 
 Dağlık bir arazide yer alan Köklüçam Dağı, komşu alanlar ile birlikte bir doğal koridor oluşturur. Bu koridor, bitki ve hayvan türlerinin göçünü kolaylaştırır ve dağın çevresindeki ekosistemin çeşitliliğini artırır. Köklüçam Dağı, çevresindeki su kaynakları ile bağlantılıdır ve bu bağlantılar, dağın çevresel dengesini sağlar. Bu doğal güzelliği ile dikkat çeken Köklüçam Dağı, bir ekosistem olarak, çevresindeki diğer doğal alanlar ile bağlantılıdır.
 
@@ -53,7 +53,7 @@ Dağlık bir arazide yer alan Köklüçam Dağı, komşu alanlar ile birlikte bi
 
 Köklüçam Dağı, step bitki örtüsünün hakim olduğu bir bölge olarak, benzersiz bir dağ ekosistemi sunar. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanır. Bozkırın kuraklığına adapte olmuş türler, yükseklik zonlarına göre değişen bitki örtüsünü oluşturur. Alpin flora, dağların yüksek kesimlerinde kendini gösterir.
 
-Yaban hayatı da aynı derecede çeşitlilik gösterir. Memeliler, dağların kayalık alanlarında yaşarken, kuşlar göç ettikleri sırada dağları konaklama alanı olarak kullanır. Sürüngenler, step bölgesinin sıca ve kuru koşullarına adapte olmuş türlerle temsil edilir. Bu türler, dağ ekosisteminin dengesini sağlar ve birbirleriyle olan ilişkileri, köklü bir ekolojik bağ oluşturur.
+Yaban hayatı da aynı derecede çeşitlilik gösterir. Memeliler, dağların kayalık alanlarında yaşarken, kuşlar göç ettikleri sırada dağları konaklama alanı olarak kullanır. Sürüngenler, step bölgesinin sıcak ve kuru koşullarına adapte olmuş türlerle temsil edilir. Bu türler, dağ ekosisteminin dengesini sağlar ve birbirleriyle olan ilişkileri, köklü bir ekolojik bağ oluşturur.
 
 Köklüçam Dağı'nın ekolojik değeri, bu dağ ekosisteminin korunmasıyla doğrudan bağlantılıdır. Bu bölge, birçok tür için yaşam alanı oluşturur ve doğanın dengesini sağlar. Koruma durumu, bu türlerin uzun vadeli varlıklarını güvence altına almak için büyük önem taşır. Bu dağların korunması, sadece yerel değil, ulusal ve küresel ölçekte de önemlidir.
 

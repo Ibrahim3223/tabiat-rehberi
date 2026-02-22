@@ -38,7 +38,7 @@ Uçansu Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca bölgeye yaşam vere
 
 ## Coğrafya
 
-Uçansu Şelalesi, Antalya'nın Akdeniz Bölgesi'nde yer alıyor. Şelale, bölgenin coğrafi yapısı itibariyle, yüksek dağların ve derin vadilerin arasında saklı bir doğa harikası olarak karşımıza çıkıyor. Bölgenin iklimi, tipik Akdeniz iklimi özellikleri gösteriyor; yazları sıca ve kurak, kışları ılıman ve yağışlı geçiyor. Uçansu Şelalesi'nin etrafı, çeşitli bitki türleri ile kaplı ve zengin bir fauna sunuyor. Şelalenin suyu, bölgedeki akarsulara katkıda bulunarak, bölgenin ekolojik dengesini koruyor. Uçansu Şelalesi, doğa severler için bir cennet olarak biliniyor ve ziyaretçilere, doğanın güzelliğini keşfetmeleri için geniş olanaklar sunuyor.
+Uçansu Şelalesi, Antalya'nın Akdeniz Bölgesi'nde yer alıyor. Şelale, bölgenin coğrafi yapısı itibariyle, yüksek dağların ve derin vadilerin arasında saklı bir doğa harikası olarak karşımıza çıkıyor. Bölgenin iklimi, tipik Akdeniz iklimi özellikleri gösteriyor; yazları sıcak ve kurak, kışları ılıman ve yağışlı geçiyor. Uçansu Şelalesi'nin etrafı, çeşitli bitki türleri ile kaplı ve zengin bir fauna sunuyor. Şelalenin suyu, bölgedeki akarsulara katkıda bulunarak, bölgenin ekolojik dengesini koruyor. Uçansu Şelalesi, doğa severler için bir cennet olarak biliniyor ve ziyaretçilere, doğanın güzelliğini keşfetmeleri için geniş olanaklar sunuyor.
 
 ## Flora ve Fauna
 

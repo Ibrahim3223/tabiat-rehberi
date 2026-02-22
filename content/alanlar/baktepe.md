@@ -36,7 +36,7 @@ Baktepe'nin tarihi geçmişi, yüzyıllar boyunca bölgede yaşayan medeniyetler
 
 ## Coğrafya
 
-Baktepe, Gaziantep'in kuzeyinde yer alan bir tepe olarak bilinir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bölgenin en yüksek noktalarından biridir. Baktepe'nin coğrafi konumu, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün kılar. Burada, Akdeniz ikliminin etkileri görülmektedir. Yaz ayları sıca ve kurak, kış ayları ise ılık ve yağışlı geçer. Baktepe, aynı zamanda bölgenin su kaynakları için de önemli bir noktadır. Burada, çeşitli su kaynakları ve akarsular bulunur. Baktepe'nin coğrafi yapısı, trekking ve doğa yürüyüşü için ideal bir yer olmasını sağlar. Burada, çeşitli güzergahlar ve patikalar bulunur ve doğa severler için ideal bir destinasyon oluşturur.
+Baktepe, Gaziantep'in kuzeyinde yer alan bir tepe olarak bilinir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bölgenin en yüksek noktalarından biridir. Baktepe'nin coğrafi konumu, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün kılar. Burada, Akdeniz ikliminin etkileri görülmektedir. Yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlı geçer. Baktepe, aynı zamanda bölgenin su kaynakları için de önemli bir noktadır. Burada, çeşitli su kaynakları ve akarsular bulunur. Baktepe'nin coğrafi yapısı, trekking ve doğa yürüyüşü için ideal bir yer olmasını sağlar. Burada, çeşitli güzergahlar ve patikalar bulunur ve doğa severler için ideal bir destinasyon oluşturur.
 
 ## Flora ve Fauna
 

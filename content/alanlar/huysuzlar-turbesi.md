@@ -37,7 +37,7 @@ Huysuzlar Türbesi'nin tarihi geçmişi, İznik'in tarihi ile iç içe geçmiş 
 
 ## Coğrafya
 
-Huysuzlar Türbesi, İznik Gölü'nün kıyısında yer alıyor ve Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. İznik Gölü, 25 kilometre uzunluğunda ve 10 kilometre genişliğinde bir göl. Gölün, çeşitli bitkiler ve ağaçlar ile kaplı ve bu doğal güzellik, Huysuzlar Türbesi'nin de önemli bir özelliği. Mekan, İznik'in merkezine uzun bir mesafe uzaklıkta ve şehrin diğer tarihi mekanlarına da yakın. İznik'in iklimi, Marmara Bölgesi'nin karakteristik iklimini taşıyor ve dört mevsim ziyaret edilebilir. Kış ayları, yağışlı ve serin geçerken, yaz ayları sıca ve kurak.
+Huysuzlar Türbesi, İznik Gölü'nün kıyısında yer alıyor ve Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. İznik Gölü, 25 kilometre uzunluğunda ve 10 kilometre genişliğinde bir göl. Gölün, çeşitli bitkiler ve ağaçlar ile kaplı ve bu doğal güzellik, Huysuzlar Türbesi'nin de önemli bir özelliği. Mekan, İznik'in merkezine uzun bir mesafe uzaklıkta ve şehrin diğer tarihi mekanlarına da yakın. İznik'in iklimi, Marmara Bölgesi'nin karakteristik iklimini taşıyor ve dört mevsim ziyaret edilebilir. Kış ayları, yağışlı ve serin geçerken, yaz ayları sıcak ve kurak.
 
 ## Flora ve Fauna
 

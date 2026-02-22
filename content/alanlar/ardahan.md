@@ -31,7 +31,7 @@ Ardahan'ın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin yaşa
 
 ## Coğrafya
 
-Ardahan, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölgede, geniş otlaklar ve ormanlar bulunur. İklim, karasal özellikler taşır ve bölgede dört mevsim belirgin olarak yaşanır. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bu coğrafi özellikler, Ardahan'ın flora ve faunasını şekillendirmiştir. Bölgede, çeşitli bitki türleri ve yaban hayatı bulunur. Dağlar, ovalar ve nehirler, Ardahan'ın coğrafi yapısını oluşturur. Bu doğal güzellikler, ziyaretçilere geniş bir aktivite yelpazesi sunar. Doğa yürüyüşleri, fotoğrafçılık ve yaban hayatı gözlemciliği, Ardahan'ı ziyaret etmek için bazı nedenlerdir.
+Ardahan, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölgede, geniş otlaklar ve ormanlar bulunur. İklim, karasal özellikler taşır ve bölgede dört mevsim belirgin olarak yaşanır. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu coğrafi özellikler, Ardahan'ın flora ve faunasını şekillendirmiştir. Bölgede, çeşitli bitki türleri ve yaban hayatı bulunur. Dağlar, ovalar ve nehirler, Ardahan'ın coğrafi yapısını oluşturur. Bu doğal güzellikler, ziyaretçilere geniş bir aktivite yelpazesi sunar. Doğa yürüyüşleri, fotoğrafçılık ve yaban hayatı gözlemciliği, Ardahan'ı ziyaret etmek için bazı nedenlerdir.
 
 ## Flora ve Fauna
 

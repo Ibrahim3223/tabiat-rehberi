@@ -36,7 +36,7 @@ Bostanbeleni Tepesi, yüzyıllar boyunca bölgenin önemli bir geçiş noktası 
 
 ## Coğrafya
 
-Bostanbeleni Tepesi, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Tepenin etrafında, çeşitli bitki türleri ve ağaçlar yer alıyor. Bölgenin iklimi, Akdeniz ikliminin özellikleri gösteriyor; yazları sıca ve kurak, kışları ılık ve yağışlı geçiyor. Bu iklim, tepe ve çevresinde bulunan flora için uygun koşulları sağlıyor. Tepenin yüksekliği, manzarası ve coğrafi konumu, burayı ziyaret edenler için eşsiz bir deneyim sunuyor. Tepenin eteklerinde akan küçük derecikler, bölgenin su kaynaklarını destekleyerek ekosistemi dengeliyor.
+Bostanbeleni Tepesi, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Tepenin etrafında, çeşitli bitki türleri ve ağaçlar yer alıyor. Bölgenin iklimi, Akdeniz ikliminin özellikleri gösteriyor; yazları sıcak ve kurak, kışları ılık ve yağışlı geçiyor. Bu iklim, tepe ve çevresinde bulunan flora için uygun koşulları sağlıyor. Tepenin yüksekliği, manzarası ve coğrafi konumu, burayı ziyaret edenler için eşsiz bir deneyim sunuyor. Tepenin eteklerinde akan küçük derecikler, bölgenin su kaynaklarını destekleyerek ekosistemi dengeliyor.
 
 ## Flora ve Fauna
 

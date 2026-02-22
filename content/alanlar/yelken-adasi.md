@@ -44,7 +44,7 @@ Marmara Denizi'nin sularında, Balıkesir'in kıyı şeridinin yakınında yer a
 
 Doğal güzelliği ile dikkat çeken Yelken Adası, coğrafi olarak bir ada olarak sınıflandırılmaktadır. Ancak, detaylı fiziksel veriler bulunmaması adanın boyutları ve şekli hakkında somut bilgiler sunmamaktadır. Buna rağmen, adanın küçük boyutu, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplayabileceği düşünülebilir. Jeolojik olarak, ada muhtemelen etrafındaki bölgeye benzer bir yapıya sahiptir, ancak bu konuda daha spesifik bilgiler bulunmamaktadır.
 
-Marmara Denizi'nin iklim karakteri, Yelken Adası'nın hava durumunu da etkilemektedir. Bölge, ılıman bir iklim karakterine sahiptir ve mevsimsel olarak değişen hava koşulları görülmektedir. Kış aylarında serin ve yağışlı, yaz aylarında ise sıca ve güneşli bir hava hakimdir. Bu iklim, adanın doğal güzelliğini ve biyolojik çeşitliliğini etkilemektedir.
+Marmara Denizi'nin iklim karakteri, Yelken Adası'nın hava durumunu da etkilemektedir. Bölge, ılıman bir iklim karakterine sahiptir ve mevsimsel olarak değişen hava koşulları görülmektedir. Kış aylarında serin ve yağışlı, yaz aylarında ise sıcak ve güneşli bir hava hakimdir. Bu iklim, adanın doğal güzelliğini ve biyolojik çeşitliliğini etkilemektedir.
 
 Çevresel açıdan, Yelken Adası Marmara Denizi'nin bir parçası olarak önemli bir role sahiptir. Ada, çevresindeki su kaynakları ve ekosistemlerle bağlantılıdır. Monaco'nun küçük bir bölümü kadar bir alanı kaplayan ada, İstanbul'un Adalar ilçesi büyüklüğünde bir bölgenin parçası olarak düşünülebilir. Bu bağlamda, adanın çevresel ilişkileri, bölgenin biyolojik çeşitliliğini ve doğal dengesini korumak açısından önemlidir.
 

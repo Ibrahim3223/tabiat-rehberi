@@ -37,7 +37,7 @@ Zincirli Servi ve Daye Hatun Türbesi'nin tarihi geçmişi, yüzyıllar boyunca 
 
 ## Coğrafya
 
-Zincirli Servi ve Daye Hatun Türbesi, Fatih, İstanbul'da yer alıyor ve Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, deniz seviyesinden yaklaşık yüksek bir konumdate ve bu yükseklik, ziyaretçilere geniş bir görüş açısı sunuyor. Mekan, 140 hektarlık alan üzerinde kurulmuş ve bu genişlik, ziyaretçilere rahat bir gezi deneyimi sunuyor. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunuyor. Bahar ve yaz aylarında, mekanın doğal güzellikleri daha da belirgin hale geliyor ve ziyaretçilere renkli bir manzara sunuyor. Kış aylarında ise, mekanın tarihi yapıları ve çevresindeki peyzaj, ziyaretçilere farklı bir atmosfer sunuyor.
+Zincirli Servi ve Daye Hatun Türbesi, Fatih, İstanbul'da yer alıyor ve Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, yüksek bir konumda ve bu yükseklik, ziyaretçilere geniş bir görüş açısı sunuyor. Mekan, 140 hektarlık alan üzerinde kurulmuş ve bu genişlik, ziyaretçilere rahat bir gezi deneyimi sunuyor. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunuyor. Bahar ve yaz aylarında, mekanın doğal güzellikleri daha da belirgin hale geliyor ve ziyaretçilere renkli bir manzara sunuyor. Kış aylarında ise, mekanın tarihi yapıları ve çevresindeki peyzaj, ziyaretçilere farklı bir atmosfer sunuyor.
 
 ## Flora ve Fauna
 

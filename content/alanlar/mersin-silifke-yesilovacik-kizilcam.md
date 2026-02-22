@@ -30,7 +30,7 @@ Mersin-Silifke-Yesilovacik Kızılçam milli parkının tarihi geçmişi, yüzy�
 
 ## Coğrafya
 
-Mersin-Silifke-Yesilovacik Kızılçam milli parkı, Mersin ilinin Silifke ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Bu bölge, 140 hektarlık bir alanı kapsıyor ve kızılçam ağaçlarıyla çevrili. Milli parkın coğrafyası, genellikle engebeli arazilerden oluşuyor ve ziyaretçilere çeşitli yürüyüş parkurları sunuyor. Bölge, Akdeniz ikliminin etkisi altındadır ve genellikle sıca ve kurak bir hava hüküm sürer. Milli parkın coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor ve bölgenin doğal güzelliğini gözler önüne seriyor. Coğrafi olarak zengin olan bu bölge, aynı zamanda çeşitli flora ve fauna türlerine ev sahipliği yapıyor.
+Mersin-Silifke-Yesilovacik Kızılçam milli parkı, Mersin ilinin Silifke ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Bu bölge, 140 hektarlık bir alanı kapsıyor ve kızılçam ağaçlarıyla çevrili. Milli parkın coğrafyası, genellikle engebeli arazilerden oluşuyor ve ziyaretçilere çeşitli yürüyüş parkurları sunuyor. Bölge, Akdeniz ikliminin etkisi altındadır ve genellikle sıcak ve kurak bir hava hüküm sürer. Milli parkın coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor ve bölgenin doğal güzelliğini gözler önüne seriyor. Coğrafi olarak zengin olan bu bölge, aynı zamanda çeşitli flora ve fauna türlerine ev sahipliği yapıyor.
 
 ## Flora ve Fauna
 

@@ -30,7 +30,7 @@ Eskisehir-Afyonkarahisar-Cay-Porsuk milli parkının tarihi geçmişi, yüzyıll
 
 ## Coğrafya
 
-Eskisehir-Afyonkarahisar-Cay-Porsuk milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş. Bu bölgenin coğrafyası, geniş otlaklar, ormanlık alanlar ve su kaynaklarından oluşuyor. Porsu ve çay gibi su kaynakları, bölgenin ekolojik dengesini koruyor ve canlılara yaşam alanı sağlıyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal iklim özellikleri gösteriyor. Kış ayları soğu ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu iklim özellikleri, bölgenin flora ve fauna çeşitliliğini etkiliyor ve mevsimsel değişimlere neden oluyor.
+Eskisehir-Afyonkarahisar-Cay-Porsuk milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş. Bu bölgenin coğrafyası, geniş otlaklar, ormanlık alanlar ve su kaynaklarından oluşuyor. Porsu ve çay gibi su kaynakları, bölgenin ekolojik dengesini koruyor ve canlılara yaşam alanı sağlıyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal iklim özellikleri gösteriyor. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu iklim özellikleri, bölgenin flora ve fauna çeşitliliğini etkiliyor ve mevsimsel değişimlere neden oluyor.
 
 ## Flora ve Fauna
 

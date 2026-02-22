@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Esen Tepe, Van ilinin sınırları için
 
 Jeolojik açıdan bakıldığında, Esen Tepe'nin fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel coğrafi özelliklerine bakıldığında, dağların ve tepelerin hakim olduğu bir coğrafyada yer aldığını söyleyebiliriz. Bu coğrafya, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor. Esen Tepe'nin yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olabilir, ancak bu konuda net bir veri bulunmuyor.
 
-Mevsimsel olarak bakıldığında, Esen Tepe'nin iklim karakteri, Van ilinin genel iklimine benzerlik gösteriyor. Kış aylarında soğu ve karlı, yaz aylarında ise sıca ve kurak bir iklim hakim. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Esen Tepe, bölgenin ekosistemini şekillendiren önemli bir faktör olarak görülüyor.
+Mevsimsel olarak bakıldığında, Esen Tepe'nin iklim karakteri, Van ilinin genel iklimine benzerlik gösteriyor. Kış aylarında soğuk ve karlı, yaz aylarında ise sıcak ve kurak bir iklim hakim. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Esen Tepe, bölgenin ekosistemini şekillendiren önemli bir faktör olarak görülüyor.
 
 Bölgenin su kaynakları açısından önemli bir role sahip olan Van Gölü, Esen Tepe'nin yakınında yer alıyor. Bu göl, bölgenin ekosistem bağlantılarını şekillendiren bir unsur olarak görülüyor. Esen Tepe, çevresindeki diğer dağlar ve tepelerle birlikte, bölgenin coğrafi yapısını oluşturan önemli bir parça. Monaco'nun yarısı kadar bir alanı kaplayan bu bölge, İstanbul'un Adalar ilçesi büyüklüğünde bir coğrafi yapıya sahip.
 

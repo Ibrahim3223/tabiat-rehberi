@@ -45,7 +45,7 @@ Denizlerin maviliğiçinde bir inci gibi parlayan Kuş Adası, 40.4603°K, 27.56
 
 Doğal güzelliği ve coğrafi konumuyla dikkat çeken Kuş Adası, bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Ada, jeolojik açıdan bakıldığında, Marmara Bölgesi'nin karmaşık jeolojisine uygun olarak, farklı türdeki kayaçlardan oluşuyor. Bu kayaçlar, ada'nın şekillenmesine ve coğrafi özelliklerine katkıda bulunuyor.
 
-Mevsimsel değişikliklerle birlikte, Kuş Adası'nın iklim karakteri değişkenlik gösteriyor. Kış aylarında, Karadeniz'in soğuk hava kütlesiyle birlikte, ada soğu ve yağışlı bir hava durumuna sahip oluyor. Yaz aylarında ise, Marmara Denizi'nin sıcaklığıyla birlikte, ada ılıman ve güneşli bir iklim karakterine bürünüyor.
+Mevsimsel değişikliklerle birlikte, Kuş Adası'nın iklim karakteri değişkenlik gösteriyor. Kış aylarında, Karadeniz'in soğuk hava kütlesiyle birlikte, ada soğuk ve yağışlı bir hava durumuna sahip oluyor. Yaz aylarında ise, Marmara Denizi'nin sıcaklığıyla birlikte, ada ılıman ve güneşli bir iklim karakterine bürünüyor.
 
 Ada'nın çevresel ilişkileri, komşu alanlar ve su kaynaklarıyla birlikte, bölgenin ekosistem bağlantılarını sağlıyor. Kuş Adası, Marmara Denizi'nin su kaynaklarıyla birlikte, bölgenin deniz canlılarına ev sahipliği yapıyor. Ayrıca, ada'nın yakınlarında bulunan diğer adalar ve kıyı şeridi, together, bölgenin doğal güzelliğini ve ekolojik dengesini koruyor.
 

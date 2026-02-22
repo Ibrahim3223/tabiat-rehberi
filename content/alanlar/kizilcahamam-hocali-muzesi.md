@@ -37,7 +37,7 @@ Kızılcahamam - Hocalı Müzesi'nin tarihi geçmişi, yüzyıllar öncesine day
 
 ## Coğrafya
 
-Kızılcahamam - Hocalı Müzesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, Ankara'nın doğusunda yer alıyor ve yaklaşık 140 hektarlık bir alanı kapsıyor. Coğrafi olarak, bu bölgeyi çevredeki dağlar ve ormanlar çevreliyor. İklim olarak, İç Anadolu Bölgesi'nin karakteristik iklimine sahip ve karasal bir iklim hüküm sürüyor. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi ve iklimsel özellikler, bölgenin florası ve faunasını da etkiliyor. Çeşitli bitki türleri ve hayvanlar, bu bölgede yaşamını sürdürüyor.
+Kızılcahamam - Hocalı Müzesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, Ankara'nın doğusunda yer alıyor ve yaklaşık 140 hektarlık bir alanı kapsıyor. Coğrafi olarak, bu bölgeyi çevredeki dağlar ve ormanlar çevreliyor. İklim olarak, İç Anadolu Bölgesi'nin karakteristik iklimine sahip ve karasal bir iklim hüküm sürüyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi ve iklimsel özellikler, bölgenin florası ve faunasını da etkiliyor. Çeşitli bitki türleri ve hayvanlar, bu bölgede yaşamını sürdürüyor.
 
 ## Flora ve Fauna
 

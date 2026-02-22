@@ -44,7 +44,7 @@ Gözlerimizi Ege Denizi'ne çevirerek, 37.8577°K ve 27.2350°D koordinatlarınd
 
 Jeolojik açıdan bakıldığında, Petroma Resifi'nin fiziksel yapısı hakkında detaylı bilgi olmasa da, koordinatlarından hareketle, bu bölgenin Ege Denizi'nin karmaşık coğrafyası içinde yer aldığı söylenebilir. Birkaç olimpik havuz kadar bir alanı kaplayan bu ada, denizin altında ve üstünde farklı ve boyutlarda oluşumların bir araya geldiği bir bölge olarak düşünülebilir. Bu bölgenin jeolojik özellikleri, Ege Denizi'nin genel coğrafyası ile benzerlik gösteriyor olmalıdır.
 
-İklim açısından, Petroma Resifi, Ege Denizi'nin genel iklim karakterini paylaşıyor. Mevsimsel olarak, bu bölgede yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumu hakim oluyor. Ege Denizi'nin iklimi, Akdeniz ikliminin bir varyantı olarak düşünülür ve bu bölgede de benzer bir iklim özelliği gözlemleniyor.
+İklim açısından, Petroma Resifi, Ege Denizi'nin genel iklim karakterini paylaşıyor. Mevsimsel olarak, bu bölgede yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumu hakim oluyor. Ege Denizi'nin iklimi, Akdeniz ikliminin bir varyantı olarak düşünülür ve bu bölgede de benzer bir iklim özelliği gözlemleniyor.
 
 Çevresel açıdan bakıldığında, Petroma Resifi, Ege Denizi'nin ekosistemine bağlı olarak, çeşitli su kaynakları ve komşu alanlarla ilişki içinde bulunuyor. Bu bölgenin çevresel özellikleri, Ege Denizi'nin genel ekosistemini yansıtıyor olmalıdır. Monaco'nun çok küçük bir bölümü kadar bir alanı kaplayan bu ada, çevresindeki diğer adalar ve kıyı şeridi ile birlikte, bir bütün olarak düşünüldüğünde, bu bölgenin çevresel ilişkileri oldukça karmaşık ve ilgi çekici bir yapıya sahip.
 

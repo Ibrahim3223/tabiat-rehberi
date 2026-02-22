@@ -45,7 +45,7 @@ Doğu Anadolu Bölgesi'nin güzide şehirlerinden biri olan Van'a yakınlığıy
 
 Jeolojik açıdan İhtiyarşahap Dağı, çevresindeki dağlarla benzerlik göstererek bölgenin coğrafi yapısına katkıda bulunur. Fiziksel yapı hakkında detaylı veriler olmasa da, dağların genellikle bu bölgede yükse ve engebeli bir yapıya sahip olduğu biliniyor. Bu yapı, bölgenin jeolojik geçmişine ve tektonik hareketlere bağlanabilir.
 
-Mevsimsel değişimler açısından İhtiyarşahap Dağı, Doğu Anadolu Bölgesi'nin karakteristik iklimini yansıtıyor. Bu bölgede yaz ayları genellikle sıca ve kurak, kış ayları ise soğu ve karlı geçer. İklim karakteri, bölgenin flora ve fauna çeşitliliğini etkileyen önemli bir faktör olarak görülüyor.
+Mevsimsel değişimler açısından İhtiyarşahap Dağı, Doğu Anadolu Bölgesi'nin karakteristik iklimini yansıtıyor. Bu bölgede yaz ayları genellikle sıcak ve kurak, kış ayları ise soğuk ve karlı geçer. İklim karakteri, bölgenin flora ve fauna çeşitliliğini etkileyen önemli bir faktör olarak görülüyor.
 
 Çevresel açıdan bakıldığında, İhtiyarşahap Dağı, Van Gölü'nün batı yakasına yakınlığı nedeniyle su kaynakları ve ekosistem bağlantıları açısından önemli bir konumda bulunuyor. Bu bölge, çeşitli bitki ve hayvan türleri için yaşam alanı oluşturuyor. İhtiyarşahap Dağı ve çevresinin ekolojik dengesi, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini koruma altına almak için önemli bir faktör olarak değerlendiriliyor.
 

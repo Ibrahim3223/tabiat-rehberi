@@ -42,7 +42,7 @@ Güneydoğu Anadolu'nun kalbinde yer alan Hassi Tepe, 37.6286°K ve 40.5100°D k
 
 Doğal yapısı itibariyle, Hassi Tepe'nin fiziksel boyutları hakkında detaylı bilgi bulunmasa da, genel olarak Güneydoğu Anadolu Bölgesi'nin karakteristik dağ oluşumlarını taşır. Bu dağlar, genellikle kalker ve şist gibi farklı jeolojik oluşumların birleşmesiyle oluşur. Hassi Tepe de, bu jeolojik çeşitliliği yansıtan bir yapıya sahiptir, ancak boyutları hakkında net bir veri olmamasına rağmen, bölgenin topografyasına uygun bir şekilde şekillenmiştir.
 
-İklim açısından bakıldığında, Hassi Tepe ve çevresi, karakteristik olarak kura ve sıcak yaz aylarıyla birlikte, soğu ve yağışlı kış aylarına sahiptir. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkiler ve Hassi Tepe'nin iklim karakteri, Güneydoğu Anadolu'nun genel iklim koşullarına uygun bir şekilde şekillenir.
+İklim açısından bakıldığında, Hassi Tepe ve çevresi, karakteristik olarak kura ve sıcak yaz aylarıyla birlikte, soğuk ve yağışlı kış aylarına sahiptir. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkiler ve Hassi Tepe'nin iklim karakteri, Güneydoğu Anadolu'nun genel iklim koşullarına uygun bir şekilde şekillenir.
 
 Çevresel açıdan, Hassi Tepe, bölgenin su kaynaklarına ve ekosistemine önemli katkılar sağlar. Dağın eteklerinde ve yakınındaki ovalarda, tarımsal faaliyetler için elverişli conditions bulunur. Hassi Tepe, komşu alanlarla birlikte, bir bütün olarak düşünüldüğünde, bölgenin ekolojik dengesini korur ve doğal kaynakların sürdürülebilir kullanımı için önemli bir rol oynar.
 

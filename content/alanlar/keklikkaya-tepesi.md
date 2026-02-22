@@ -36,7 +36,7 @@ Keklikkaya Tepesi'nin tarihi geçmişi, yüzyıllar boyuncaVarious kültürlere 
 
 ## Coğrafya
 
-Keklikkaya Tepesi, Aksaray ilinin coğrafi olarak önemli bir noktasında yer alıyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Tepenin yüksekliği, yaklaşık 1000 metre. Keklikkaya Tepesi, Aksaray ilinin en yüksek noktalarından biri. Bu tepe, çevredeki dağlarla çevrili ve ziyaretçilere muhteşem manzaralar sunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun. Keklikkaya Tepesi, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve karlı.
+Keklikkaya Tepesi, Aksaray ilinin coğrafi olarak önemli bir noktasında yer alıyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Tepenin yüksekliği, yaklaşık 1000 metre. Keklikkaya Tepesi, Aksaray ilinin en yüksek noktalarından biri. Bu tepe, çevredeki dağlarla çevrili ve ziyaretçilere muhteşem manzaralar sunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun. Keklikkaya Tepesi, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı.
 
 ## Flora ve Fauna
 

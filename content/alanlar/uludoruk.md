@@ -45,7 +45,7 @@ Doğunun mistik dağ siluetleri arasında yer alan Uludoruk, 37.4857°K, 44.0045
 
 Jeolojik açıdan bakıldığında, Uludoruk'un fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bu bölgenin coğrafi yapısı, genel olarak Türkiye'nin doğu kesimlerinin karakteristiğidir. Monaco'nun yarısı kadar büyük olan bu bölge, Taksim Meydanı'nın yaklaşık 10 katı büyüklüğündedir. Bu genişlik, Uludoruk'un bir tepe olarak değil, daha çok bir dağ silueti olarak algılanmasına yol açar.
 
-İklimsel açıdan, Uludoruk'un bulunduğu bölge, mevsimsel olarak değişken bir hava durumuna sahiptir. Yaz aylarında sıca ve kurak, kış aylarında soğu ve karlı olan bu bölge, 85 katlı bir gökdelen kadar yükseklikte değildir, ancak Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan dağlar, bu bölgenin coğrafi yapısını etkiler. Bu mevsimsel değişiklikler, Uludoruk'un çevresindeki flora ve fauna üzerinde önemli bir etkiye sahiptir.
+İklimsel açıdan, Uludoruk'un bulunduğu bölge, mevsimsel olarak değişken bir hava durumuna sahiptir. Yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı olan bu bölge, 85 katlı bir gökdelen kadar yükseklikte değildir, ancak Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan dağlar, bu bölgenin coğrafi yapısını etkiler. Bu mevsimsel değişiklikler, Uludoruk'un çevresindeki flora ve fauna üzerinde önemli bir etkiye sahiptir.
 
 Çevresel açıdan bakıldığında, Uludoruk, komşu alanlar ve su kaynakları ile bağlantılıdır. İstanbul'un Adalar ilçesi büyüklüğünde olan bu bölge, geniş ovalar ve vadilerle çevrili olarak, bir ekosistem olarak işlev görür. Bu geniş ovalar ve vadiler, Uludoruk'un coğrafi yapısını etkileyen önemli faktörlerdir ve bu bölgenin doğal güzelliğini ortaya koyarlar.
 

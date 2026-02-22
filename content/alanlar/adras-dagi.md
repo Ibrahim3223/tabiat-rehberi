@@ -44,7 +44,7 @@ Güney Türkiye'nin coğrafi güzelliklerinin arasında yer alan Adras Dağı, K
 
 Doğal güzelliği ile dikkat çeken Adras Dağı, çevresindeki dağlarla birlikte bir sıradağ oluşturmaktadır. Ancak fiziksel veri eksikliği nedeniyle, dağın boyutları ve şekli hakkında net bir bilgi bulunmamaktadır. Buna rağmen, Adras Dağı'nın jeolojik yapısı, bölgenin genel jeolojik özelliklerini yansıtmaktadır. Taksim Meydanı'nın birkaç katı büyüklüğündeki bu alan, jeolojik açıdan zengin bir yapıya sahiptir.
 
-Mevsimsel değişikliklerle birlikte, Adras Dağı'nın iklim karakteri değişmektedir. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak olan iklim, bölgenin flora ve fauna oluşumlarını etkilemektedir. Eiffel Kulesi'nin birkaç katı yükseklikte olan Adras Dağı, bölgenin yükseklik açısından önemli bir noktası olarak görülmektedir.
+Mevsimsel değişikliklerle birlikte, Adras Dağı'nın iklim karakteri değişmektedir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak olan iklim, bölgenin flora ve fauna oluşumlarını etkilemektedir. Eiffel Kulesi'nin birkaç katı yükseklikte olan Adras Dağı, bölgenin yükseklik açısından önemli bir noktası olarak görülmektedir.
 
 Çevresel açıdan bakıldığında, Adras Dağı, bölgenin ekosistem bağlantıları açısından önemli bir role sahiptir. Monaco'nun yarısı kadar büyük olan bu bölgenin, su kaynakları ve komşu alanlar ile olan ilişkileri, bölgenin doğal dengesini korumak açısından önemlidir. Adras Dağı, bölgenin doğal güzelliğini ve ekosistemini korumak için önemli bir noktadır.
 

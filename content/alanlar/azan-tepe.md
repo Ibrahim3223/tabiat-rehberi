@@ -44,7 +44,7 @@ Güneybatı Anadolu'nun yeşilliklerle kaplı dağlık bölgelerinden biri olan 
 
 Doğal bir anıt gibi duran Azan Tepe, çevresindeki manzaralara hakim bir konumda bulunuyor. Dağın fiziksel yapısını tam olarak tanımlamak için yeterli veri bulunmasa da, bu dağlık alanın Ege Bölgesi'nin genel jeolojisine bakıldığında, genellikle kalker ve şist gibi kayaçlardan oluştuğunu söyleyebiliriz. Bu yapı, bölgenin zengin jeolojik geçmişini ve oluşumunu yansıtıyor.
 
-Yıllık mevsim değişimlerine bağlı olarak, Azan Tepe ve çevresinde farklı iklim koşulları gözlemleniyor. İlkbahar aylarında yeşeren bitki örtüsü, yaz aylarında sıca ve kurak bir hava, sonbaharın serin ve yağmurlu günleri ve kışın ılıman geçişi, bu bölgenin iklim karakterini belirliyor. Bu  değişimler, bölgenin doğal güzelliklerini ve biyolojik çeşitliliğini destekleyen önemli faktörler.
+Yıllık mevsim değişimlerine bağlı olarak, Azan Tepe ve çevresinde farklı iklim koşulları gözlemleniyor. İlkbahar aylarında yeşeren bitki örtüsü, yaz aylarında sıcak ve kurak bir hava, sonbaharın serin ve yağmurlu günleri ve kışın ılıman geçişi, bu bölgenin iklim karakterini belirliyor. Bu  değişimler, bölgenin doğal güzelliklerini ve biyolojik çeşitliliğini destekleyen önemli faktörler.
 
 Bölgenin su kaynaklarına ve ekosistem bağlantılarına bakıldığında, Azan Tepe'nin önemli bir rol oynadığını görüyoruz. Çevresindeki akarsular ve dereler, bölgenin sulak alanlarını besliyor ve yerel ekosistemin devamını sağlıyor. Bu doğal dengenin korunması, bölgenin biyolojik çeşitliliğini ve doğal güzelliklerini korumak için son derece önemli.
 

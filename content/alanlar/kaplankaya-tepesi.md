@@ -36,7 +36,7 @@ Kaplankaya Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yap
 
 ## Coğrafya
 
-Kaplankaya Tepesi, coğrafi konumu itibarıyla Doğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri. Bu tepe, Erzurum'un dağlık bölgesinde yer alıyor ve çevresi çeşitli bitki türleri ve hayvanlarla dolu. İklimi, bölgenin coğrafi özelliklerine uygun olarak karasal iklim özellikleri gösteriyor. Kışları soğu ve kar yağışlı, yazları ise serin ve yağışlı geçiyor. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli aktivite Möglichkeiten sunuyor. Kaplankaya Tepesi, trekking, kampçılık ve doğa fotoğrafçılığı için ideal bir destinasyon. Bu tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakarak, unutulmaz anlar yaşatmayı vaat ediyor.
+Kaplankaya Tepesi, coğrafi konumu itibarıyla Doğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri. Bu tepe, Erzurum'un dağlık bölgesinde yer alıyor ve çevresi çeşitli bitki türleri ve hayvanlarla dolu. İklimi, bölgenin coğrafi özelliklerine uygun olarak karasal iklim özellikleri gösteriyor. Kışları soğuk ve kar yağışlı, yazları ise serin ve yağışlı geçiyor. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli aktivite Möglichkeiten sunuyor. Kaplankaya Tepesi, trekking, kampçılık ve doğa fotoğrafçılığı için ideal bir destinasyon. Bu tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakarak, unutulmaz anlar yaşatmayı vaat ediyor.
 
 ## Flora ve Fauna
 

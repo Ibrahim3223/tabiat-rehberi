@@ -30,7 +30,7 @@ Bozburun Sülün-Karaca Yaban Hayatı Koruma Sahası'nın tarihi geçmişi, yüz
 
 ## Coğrafya
 
-Bozburun Sülün-Karaca Yaban Hayatı Koruma Sahası, İç Anadolu Bölgesi'nin coğrafi olarak dikkat çekici bir noktasında yer alıyor. Sahanın coğrafi yapısı, genellikle açık alanlar ve hafif eğimli arazilerden oluşuyor. Bu coğrafi yapı, yaban hayvanlarının alanlarını genişletmesine olanak tanıyor. İklim olarak, İç Anadolu Bölgesi'nin genel iklim özellikleri burada da geçerli. Yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlı geçiyor. Bu iklim koşulları, sahanın flora ve faunasının çeşitliliğini etkiliyor. Bozburun Sülün-Karaca Yaban Hayatı Koruma Sahası, aynı zamanda çevre ekosistemi açısından da önemli bir role sahip. Burada, çeşitli bitki türleri ve hayvanlar, doğal yaşam döngülerini sürdürebiliyorlar.
+Bozburun Sülün-Karaca Yaban Hayatı Koruma Sahası, İç Anadolu Bölgesi'nin coğrafi olarak dikkat çekici bir noktasında yer alıyor. Sahanın coğrafi yapısı, genellikle açık alanlar ve hafif eğimli arazilerden oluşuyor. Bu coğrafi yapı, yaban hayvanlarının alanlarını genişletmesine olanak tanıyor. İklim olarak, İç Anadolu Bölgesi'nin genel iklim özellikleri burada da geçerli. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçiyor. Bu iklim koşulları, sahanın flora ve faunasının çeşitliliğini etkiliyor. Bozburun Sülün-Karaca Yaban Hayatı Koruma Sahası, aynı zamanda çevre ekosistemi açısından da önemli bir role sahip. Burada, çeşitli bitki türleri ve hayvanlar, doğal yaşam döngülerini sürdürebiliyorlar.
 
 ## Flora ve Fauna
 

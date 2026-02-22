@@ -38,7 +38,7 @@ Karagümrük Gül Baba Türbesi'nin tarihi geçmişi, Osmanlı İmparatorluğu d
 
 ## Coğrafya
 
-Karagümrük Gül Baba Türbesi, İç Anadolu Bölgesi'nin coğrafi olarak en önemli bölgelerinden birisinde yer alır. Türbenin bulunduğu Karagümrük mahallesi, Fatih ilçesinin kuzeybatı kısmında yer alır. Bu bölge, coğrafi olarak, Ankara'nın kuzeybatısında ve Eskişehir'in güneydoğusunda yer almaktadır. Karagümrük Gül Baba Türbesi, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır. Bu yükseklik, ziyaretçilere, çevredeki dağların ve ovaların muhteşem manzarasını sunar. Türbenin bulunduğu bölge, iklim olarak, karasal iklim özellikleri gösterir. Bu bölge, yazları sıca ve kurak, kışları soğu ve karlıdır. Karagümrük Gül Baba Türbesi, coğrafi konumu itibariyle, ziyaretçilere, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetme fırsatı sunar.
+Karagümrük Gül Baba Türbesi, İç Anadolu Bölgesi'nin coğrafi olarak en önemli bölgelerinden birisinde yer alır. Türbenin bulunduğu Karagümrük mahallesi, Fatih ilçesinin kuzeybatı kısmında yer alır. Bu bölge, coğrafi olarak, Ankara'nın kuzeybatısında ve Eskişehir'in güneydoğusunda yer almaktadır. Karagümrük Gül Baba Türbesi, yüksek bir konumda yer alır. Bu yükseklik, ziyaretçilere, çevredeki dağların ve ovaların muhteşem manzarasını sunar. Türbenin bulunduğu bölge, iklim olarak, karasal iklim özellikleri gösterir. Bu bölge, yazları sıcak ve kurak, kışları soğuk ve karlıdır. Karagümrük Gül Baba Türbesi, coğrafi konumu itibariyle, ziyaretçilere, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

@@ -45,7 +45,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden biri olan Erzincan'da yer alan Keb
 
 Jeolojik açıdan bakıldığında, Keban Baraj Gölü'nün çevresindeki arazi yapısı oldukça karmaşıktır. Ancak, fiziksel veriler sınırlı olduğu için gölün boyutları ve şekli hakkında net bilgiler bulunmamaktadır. Buna karşılık, gölün bulunduğu bölgenin coğrafi yapısı, bölgenin doğal güzelliğini artırmaktadır. Örneğin, bir şehir bloğu büyüklüğünde bir alana yayılmış olan bazı küçük adalar, gölün içerisinde yer alır.
 
-İklim açısından Keban Baraj Gölü, Doğu Anadolu Bölgesi'nin karasal ikliminin etkilerini taşır. Bu bölgede yazlar sıca ve kurak, kışlar ise soğu ve karlı geçer. Gölün su seviyesi, mevsimsel yağışlara bağlı olarak değişkenlik gösterir. Örneğin, ilkbahar aylarında yağan yağmurlar, gölün su seviyesini artırırken, yaz aylarında bu seviye düşer.
+İklim açısından Keban Baraj Gölü, Doğu Anadolu Bölgesi'nin karasal ikliminin etkilerini taşır. Bu bölgede yazlar sıcak ve kurak, kışlar ise soğuk ve karlı geçer. Gölün su seviyesi, mevsimsel yağışlara bağlı olarak değişkenlik gösterir. Örneğin, ilkbahar aylarında yağan yağmurlar, gölün su seviyesini artırırken, yaz aylarında bu seviye düşer.
 
 Çevresel açıdan bakıldığında, Keban Baraj Gölü, bölgenin ekosistemine önemli katkılar sağlar. Göl, su kaynakları açısından zengin bir bölgede yer alır ve bölgenin doğal dengesini korur. Ayrıca, gölün etrafındaki dağlar ve ormanlar, çeşitli bitki ve hayvan türleri için önemli bir yaşam alanı oluşturur. Monaco'nun yarısı kadar büyük bir alana yayılmış olan bu bölge, doğal güzelliği ve çeşitliliği ile dikkat çeker.
 

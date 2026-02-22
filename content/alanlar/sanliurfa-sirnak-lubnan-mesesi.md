@@ -30,7 +30,7 @@ Sanliurfa-Sirnak-Lubnan Mesesi, tarihsel açıdan zengin bir geçmişe sahiptir.
 
 ## Coğrafya
 
-Sanliurfa-Sirnak-Lubnan Mesesi, Şanlıurfa'nın güneydoğusunda yer alır. Bu bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Bölge, Fırat Nehri'nin kıyısında yer alır ve çevresinde çeşitli dağlar ve tepeler bulunur. İklimi, genellikle sıca ve kuru olan bir bölgedir. Sanliurfa-Sirnak-Lubnan Mesesi, aynı zamanda bölgenin flora ve fauna çeşitliliği ile dikkat çeker. Ziyaretçiler, burada çeşitli bitki türleri ve hayvanlarılemek için eşsiz bir fırsat bulur. Bölge, aynı zamanda bölgenin önemli bir su kaynağı olarak dikkat çeker. Fırat Nehri, bölgenin su ihtiyacını karşılar ve bölgenin tarım ve hayvancılık faaliyetleri için önemli bir kaynak teşkil eder.
+Sanliurfa-Sirnak-Lubnan Mesesi, Şanlıurfa'nın güneydoğusunda yer alır. Bu bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Bölge, Fırat Nehri'nin kıyısında yer alır ve çevresinde çeşitli dağlar ve tepeler bulunur. İklimi, genellikle sıcak ve kuru olan bir bölgedir. Sanliurfa-Sirnak-Lubnan Mesesi, aynı zamanda bölgenin flora ve fauna çeşitliliği ile dikkat çeker. Ziyaretçiler, burada çeşitli bitki türleri ve hayvanlarılemek için eşsiz bir fırsat bulur. Bölge, aynı zamanda bölgenin önemli bir su kaynağı olarak dikkat çeker. Fırat Nehri, bölgenin su ihtiyacını karşılar ve bölgenin tarım ve hayvancılık faaliyetleri için önemli bir kaynak teşkil eder.
 
 ## Flora ve Fauna
 

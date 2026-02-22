@@ -30,7 +30,7 @@ Antalya-Döşemealtı Kızılçam 1 milli parkının tarihi geçmişi, yüzyıll
 
 ## Coğrafya
 
-Antalya-Döşemealtı Kızılçam 1 milli parkı, Akdeniz Bölgesi'nin güneyinde yer alan Antalya ilinin Döşemealtı ilçesinde bulunuyor. Milli park, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Milli parkın coğrafyası, dağlık ve engebeli bir araziye sahip ve deniz seviyesinden yüksek. Milli parkın etrafında bulunan dağlar ve tepeler, ziyaretçilere panoramik bir manzara sunuyor. Milli parkın iklimi, Akdeniz iklimi özellikleri taşıyor ve yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı geçiyor. Milli parkın coğrafyası, aynı zamanda çeşitli bitki türleri ve zengin fauna için elverişli bir ortam sunuyor. Milli parkın içinde yer alan akarsular ve göller, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
+Antalya-Döşemealtı Kızılçam 1 milli parkı, Akdeniz Bölgesi'nin güneyinde yer alan Antalya ilinin Döşemealtı ilçesinde bulunuyor. Milli park, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Milli parkın coğrafyası, dağlık ve engebeli bir araziye sahip ve deniz seviyesinden yüksek. Milli parkın etrafında bulunan dağlar ve tepeler, ziyaretçilere panoramik bir manzara sunuyor. Milli parkın iklimi, Akdeniz iklimi özellikleri taşıyor ve yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı geçiyor. Milli parkın coğrafyası, aynı zamanda çeşitli bitki türleri ve zengin fauna için elverişli bir ortam sunuyor. Milli parkın içinde yer alan akarsular ve göller, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

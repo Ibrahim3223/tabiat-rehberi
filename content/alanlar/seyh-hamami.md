@@ -37,7 +37,7 @@ wikidata_id: "Q131738920"
 
 ## Coğrafya
 
-Şeyh Hamamı, Tire'de yer alır ve Ege Bölgesi'nin en güzel sahillerinden biridir. Bu plaj, 140 hektarlık bir alana yayılmıştır ve yaklaşık 200 futbol sahası büyüklüğündedir. Şeyh Hamamı'nın kumsalı, geniş ve temizdir, denizi de serin ve berraktır. Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta ve ziyaretçiler, bu doğal güzellikleri keşfedebilirler. Şeyh Hamamı, especialmente yaz aylarında ziyaretçilerini ağırlar ve bu dönem, plajın en çok ziyaret edildiği zamandır. Plajın iklimi, genel olarak sıca ve güneşlidir, ancak serin günler de olabilir. Şeyh Hamamı, ziyaretçilerine hem güneşlenmek hem de serinlemek için uygun bir ortam sunar. Bu plaj, aynı zamanda, çeşitli su sporları ve etkinlikler için de ideal bir noktadır.
+Şeyh Hamamı, Tire'de yer alır ve Ege Bölgesi'nin en güzel sahillerinden biridir. Bu plaj, 140 hektarlık bir alana yayılmıştır ve yaklaşık 200 futbol sahası büyüklüğündedir. Şeyh Hamamı'nın kumsalı, geniş ve temizdir, denizi de serin ve berraktır. Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta ve ziyaretçiler, bu doğal güzellikleri keşfedebilirler. Şeyh Hamamı, especialmente yaz aylarında ziyaretçilerini ağırlar ve bu dönem, plajın en çok ziyaret edildiği zamandır. Plajın iklimi, genel olarak sıcak ve güneşlidir, ancak serin günler de olabilir. Şeyh Hamamı, ziyaretçilerine hem güneşlenmek hem de serinlemek için uygun bir ortam sunar. Bu plaj, aynı zamanda, çeşitli su sporları ve etkinlikler için de ideal bir noktadır.
 
 ## Flora ve Fauna
 

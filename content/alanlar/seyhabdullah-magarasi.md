@@ -52,7 +52,7 @@ Bölgenin su kaynakları ve ekosistem bağlantıları, Şeyhabdullah Mağarası'
 
 Bitki örtüsünde, ilkbaharın gelmesiyle birlikte, çiçeklerin renkli bir şölenine tanık olunur. Step ve ova ekosisteminin hakim türleri, bu bölgede yaygın olarak bulunur. Sonbaharda, göç eden kuşlar bu alanı ziyaret eder ve burada konaklar.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Orman memelileri, bu bölgede yaşamını sürdürür. Kuşlar, özellikle göç mevsimlerinde, bu alanı önemli bir konaklama noktası olarak kullanır. Sürüngenler de, bu bölgenin sıca ve kurak ortamında yaşamlarını sürdürür.
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Orman memelileri, bu bölgede yaşamını sürdürür. Kuşlar, özellikle göç mevsimlerinde, bu alanı önemli bir konaklama noktası olarak kullanır. Sürüngenler de, bu bölgenin sıcak ve kurak ortamında yaşamlarını sürdürür.
 
 Ekolojik değer olarak, bu bölge, flora ve faunanın bir arada yaşadığı bir ekosistem olarak önemli bir role sahiptir. Bu alanda, canlıların birbirleriyle ve çevreleriyle olan ilişkileri, ekolojik bir dengeyi sağlar. Bu denge, koruma altına alınarak sürdürülmelidir.
 

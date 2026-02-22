@@ -44,7 +44,7 @@ Genel bir bakışla, Beynam Dağı 39.6667°K ve 32.9167°D koordinatlarında ye
 
 Doğal yapısını incelediğimizde, Beynam Dağı'nın çevresindeki coğrafya, genellikle ormanlık alanlar ve çayırswith karakterizedir. Dağın boyutları hakkında detaylı bilgi olmasa da, Ankara'nın genel coğrafyası dikkate alındığında, bu bölgenin yaklaşık Taksim Meydanı'nın 10 katı büyüklüğünde bir alanı kapladığı söylenebilir. Jeolojik açıdan, bölgenin genel olarak kalker ve şist gibi kayalardan oluştuğu bilinmektedir.
 
-Mevsimsel olarak, Beynam Dağı'nın iklimi Ankara'nın genel iklimi ile benzerlik gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu mevsimsel değişimler, dağın ekosisteminde önemli bir rol oynamaktadır. Hava durumu, genellikle İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak değişkenlik gösterir.
+Mevsimsel olarak, Beynam Dağı'nın iklimi Ankara'nın genel iklimi ile benzerlik gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu mevsimsel değişimler, dağın ekosisteminde önemli bir rol oynamaktadır. Hava durumu, genellikle İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak değişkenlik gösterir.
 
 Çevresel açıdan, Beynam Dağı'nın komşu alanlar ve su kaynakları ile önemli bir ilişkisi bulunmaktadır. Dağın eteklerinde yer alan dereler ve çaylar, bölgenin su kaynaklarını zenginleştirmektedir. Ayrıca, dağın ormanlık alanları, bölgenin ekosistemine önemli katkılar sağlamaktadır. Bu doğal kaynaklar, bölgenin biyolojik çeşitliliğini desteklemektedir.
 

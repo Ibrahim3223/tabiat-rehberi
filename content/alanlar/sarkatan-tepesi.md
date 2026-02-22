@@ -36,7 +36,7 @@ wikidata_id: "Q31386126"
 
 ## Coğrafya
 
-Şarkatan Tepesi, coğrafi konumu itibariyle Güneydoğu Anadolu Bölgesi'nin önemli bir parçasıdır. Tepenin yamacında, çeşitli bitki türleri ve ağaçlar bulunmakta. Bölgenin iklimi, yazları sıca ve kurak, kışları ise soğu ve yağışlı. Tepenin okolí, zengin fauna ile dolu. Bu bölgede, çeşitli hayvan türleri ve kuşlar yaşamaktadır. Şarkatan Tepesi, Gaziantep'in coğrafi yapısını anlamak için ziyaret edilmesi gereken bir destinasyon. Tepenin yüksekliği, manzarayı izlemek için ideal bir nokta sunmakta.
+Şarkatan Tepesi, coğrafi konumu itibariyle Güneydoğu Anadolu Bölgesi'nin önemli bir parçasıdır. Tepenin yamacında, çeşitli bitki türleri ve ağaçlar bulunmakta. Bölgenin iklimi, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı. Tepenin okolí, zengin fauna ile dolu. Bu bölgede, çeşitli hayvan türleri ve kuşlar yaşamaktadır. Şarkatan Tepesi, Gaziantep'in coğrafi yapısını anlamak için ziyaret edilmesi gereken bir destinasyon. Tepenin yüksekliği, manzarayı izlemek için ideal bir nokta sunmakta.
 
 ## Flora ve Fauna
 

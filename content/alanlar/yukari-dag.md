@@ -43,7 +43,7 @@ Aydın'ın dağlık bölgelerinde yer alan "Yukarı Dağ", 37.5325°K, 27.6822°
 
 Doğal güzellikleri ile dikkat çeken "Yukarı Dağ"ın fiziksel yapısı, coğrafyanın şekillenmesinde önemli bir rol oynamaktadır. Ancak, ayrıntılı fiziksel veri bulunmamasına rağmen, "Yukarı Dağ"ın bulunduğu bölgenin coğrafi özellikleri, genel olarak dağlık ve engebeli bir yapıya sahiptir. Bu bölge, yaklaşık olarak Taksim Meydanı'nın 10 katı büyüklüğünde bir alanı kaplamaktadır.
 
-Mevsimsel değişiklikler, "Yukarı Dağ"ın iklim karakterini şekillendirmektedir. Kış aylarında, bölgede soğu ve yağışlı bir hava hakimken, yaz aylarında sıca ve kurak bir iklim hüküm sürmektedir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir. "Yukarı Dağ"ın zirvesi, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte bulunmakta ve bu yükseklik, bölgenin manzarasını etkileyen önemli bir faktördür.
+Mevsimsel değişiklikler, "Yukarı Dağ"ın iklim karakterini şekillendirmektedir. Kış aylarında, bölgede soğuk ve yağışlı bir hava hakimken, yaz aylarında sıcak ve kurak bir iklim hüküm sürmektedir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir. "Yukarı Dağ"ın zirvesi, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte bulunmakta ve bu yükseklik, bölgenin manzarasını etkileyen önemli bir faktördür.
 
 Çevresel ilişkiler açısından, "Yukarı Dağ"ın bulunduğu bölge, komşu alanlar ve su kaynakları ile bağlantılıdır. Bölge, küçük akarsular ve derelerle çevrilidir ve bu su kaynakları, bölgenin ekosistemini desteklemektedir. "Yukarı Dağ"ın bulunduğu coğrafi bölgenin, Monaco'nun yaklaşık yarısı kadar bir alanı kapladığı düşünülürse, bölgenin doğal güzellikleri ve ekosistem çeşitliliği daha iyi anlaşılabilir.
 

@@ -42,7 +42,7 @@ Coğrafi olarak bakıldığında, Şifa Dağı Manisa ilinin kuzeydoğusunda, 39
 
 Jeolojik açıdan incelendiğinde, Şifa Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, dağların genellikle karmaşık bir jeolojik yapıya sahip oldukları bilinir. Bu dağlar, genellikle volkani ve sedimentatif kayaçlardan oluşur. Şifa Dağı'nın boyutları hakkında kesin bir bilgi olmasa da, benzer dağlar genellikle birkaç kilometrelik bir alana yayılır ve bu alan, Taksim Meydanı'nın birkaç katı büyüklüğünde olabilir.
 
-İklim açısından bakıldığında, Şifa Dağı'nın bulunduğu region Akdeniz ikliminin etkilerini taşır. Bu bölgede, yaz ayları sıca ve kuru, kış ayları ise ılık ve yağışlı geçer. Dağın yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olabilir ve bu yükseklik, farklı mevsimlerde değişen hava koşullarına neden olabilir.
+İklim açısından bakıldığında, Şifa Dağı'nın bulunduğu region Akdeniz ikliminin etkilerini taşır. Bu bölgede, yaz ayları sıcak ve kuru, kış ayları ise ılık ve yağışlı geçer. Dağın yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olabilir ve bu yükseklik, farklı mevsimlerde değişen hava koşullarına neden olabilir.
 
 Çevresel açıdan, Şifa Dağı'nın komşu alanlarla ve su kaynaklarıyla ilişkisi önemlidir. Dağ, yakın çevresindeki ekosistemi etkileyen bir faktördür. Şifa Dağı, Monaco'nun yarısı kadar bir alanı kaplayabilecek büyüklüğe sahip olabilir ve bu büyüklük, bölgedeki flora ve fauna için önemli bir yaşam alanı sağlar.
 

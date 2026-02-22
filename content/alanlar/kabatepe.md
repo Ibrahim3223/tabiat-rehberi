@@ -46,7 +46,7 @@ Kabatepe, bu tarihsel bağlam içerisinde, doğal güzelliği ve stratejik konum
 
 Doğal güzelliği ile dikkat çeken Kabatepe, bir şehir bloğu büyüklüğünde bir alan olarak düşünülebilir. Bu küçük ama zengin ekosistem, jeolojik olarak çeşitli kayaçlardan oluşuyor. Ancak, detaylı fiziksel verileri bulunmaması nedeniyle, bu alanın tam boyutları ve jeolojik özellikleri hakkında net bilgiler bulunmuyor. Buna rağmen, Kabatepe'nin coğrafi yapısı, ziyaretçilerini Çanakkale Boğazı'nın muhteşem manzarasıyla karşılıyor.
 
-İklim açısından bakıldığında, Kabatepe'nin bulunduğu bölge, Akdeniz ikliminin característicasını taşıyor. Yaz aylarında sıca ve kuru, kış aylarında ise ılık ve yağışlı bir hava hakim. Bu mevsimsel özellikler, bölgenin flora ve fauna açısından zenginleşmesine katkı sağlıyor. Kabatepe, bu nedenle, doğa severler ve kuş gözlemcileri için bir cennet olarak kabul ediliyor.
+İklim açısından bakıldığında, Kabatepe'nin bulunduğu bölge, Akdeniz ikliminin característicasını taşıyor. Yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı bir hava hakim. Bu mevsimsel özellikler, bölgenin flora ve fauna açısından zenginleşmesine katkı sağlıyor. Kabatepe, bu nedenle, doğa severler ve kuş gözlemcileri için bir cennet olarak kabul ediliyor.
 
 Kabatepe'nin çevresel ilişkileri, Çanakkale Boğazı ve komşu alanlarla çok güçlü. Bu bölge, su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahip. Çanakkale Boğazı, Kabatepe'nin hemen yanında bulunuyor ve bu sayede, bölgenin su kaynakları ve deniz canlıları açısından zengin bir çeşitliliğe sahip olduğu söylenebilir. Bu doğal güzelliğin korunması, bölgenin ekolojik dengesinin sürdürülmesi için çok önemli.
 

@@ -37,7 +37,7 @@ Pergamon Roma Hamamı Kalıntısı, tarihin sâu sayfalarında gizli bir hazine 
 
 ## Coğrafya
 
-Pergamon Roma Hamamı Kalıntısı, Ege Bölgesi'nin merkezinde, İzmir'in Bergama ilçesinde yer alır. Bu bölge, coğrafi olarak zengin ve çeşitli bir yapıya sahiptir. Hamam kalıntıları, Bergama'nın tarihi merkezi yakınlarında, deniz seviyesinden yaklaşık yüksek bir konumdate bulunmaktadır. Çevre, yeşilin çeşitli tonlarına sahip ormanlarla kaplıdır ve bu ormanlar, ziyaretçilere doğanın güzelliğini sunar. İklim, Akdeniz ikliminin characteristicsi ile karışık bir yapıya sahiptir. Kışlar ılık, yazlar ise sıcak ve kurudur. Bu coğrafi konum, Pergamon'un tarihi ve turistik öneminin yanı sıra, doğal güzellikleri ile de dikkat çeker. Ziyaretçiler, bu bölgede históri ve doğal güzellikleri bir arada deneyimleyebilirler. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin flora ve fauna ile çevrilidir.
+Pergamon Roma Hamamı Kalıntısı, Ege Bölgesi'nin merkezinde, İzmir'in Bergama ilçesinde yer alır. Bu bölge, coğrafi olarak zengin ve çeşitli bir yapıya sahiptir. Hamam kalıntıları, Bergama'nın tarihi merkezi yakınlarında, yüksek bir konumda bulunmaktadır. Çevre, yeşilin çeşitli tonlarına sahip ormanlarla kaplıdır ve bu ormanlar, ziyaretçilere doğanın güzelliğini sunar. İklim, Akdeniz ikliminin characteristicsi ile karışık bir yapıya sahiptir. Kışlar ılık, yazlar ise sıcak ve kurudur. Bu coğrafi konum, Pergamon'un tarihi ve turistik öneminin yanı sıra, doğal güzellikleri ile de dikkat çeker. Ziyaretçiler, bu bölgede históri ve doğal güzellikleri bir arada deneyimleyebilirler. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin flora ve fauna ile çevrilidir.
 
 ## Flora ve Fauna
 

@@ -30,7 +30,7 @@ Tarihi geçmişi ile dikkat çeken Antalya-Korkuteli-Yazir-Atlas Sakızı Milli 
 
 ## Coğrafya
 
-Coğrafi olarak Akdeniz Bölgesi'nde yer alan Antalya-Korkuteli-Yazir-Atlas Sakızı Milli Parkı, 140 hektarlık bir alanı kapsar. Parkın coğrafi yapısı, genellikle dağlık ve engebeli arazilerden oluşur. Atlas sakızı ağacı türleri, parkın flora çeşitliliğinin önemli bir parçasını oluşturur. Parkın iklimi, Akdeniz iklimi özellikleri taşır ve genellikle sıca ve kurak yazlar, ılık ve yağışlı kışlar görülür. Bu iklim, bölgenin flora ve fauna çeşitliliğinin zenginleşmesine katkıda bulunur. Milli park, aynı zamanda çeşitli su kaynaklarına ev sahipliği yapar ve bu su kaynakları, bölgenin ekolojik dengesinin korunmasına önemli katkılar sağlar.
+Coğrafi olarak Akdeniz Bölgesi'nde yer alan Antalya-Korkuteli-Yazir-Atlas Sakızı Milli Parkı, 140 hektarlık bir alanı kapsar. Parkın coğrafi yapısı, genellikle dağlık ve engebeli arazilerden oluşur. Atlas sakızı ağacı türleri, parkın flora çeşitliliğinin önemli bir parçasını oluşturur. Parkın iklimi, Akdeniz iklimi özellikleri taşır ve genellikle sıcak ve kurak yazlar, ılık ve yağışlı kışlar görülür. Bu iklim, bölgenin flora ve fauna çeşitliliğinin zenginleşmesine katkıda bulunur. Milli park, aynı zamanda çeşitli su kaynaklarına ev sahipliği yapar ve bu su kaynakları, bölgenin ekolojik dengesinin korunmasına önemli katkılar sağlar.
 
 ## Flora ve Fauna
 

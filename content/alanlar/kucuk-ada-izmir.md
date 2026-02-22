@@ -44,7 +44,7 @@ Gökyüzünden baktığınızda, Küçük Ada İzmir'in kıyı şeridinin hemen 
 
 Doğal güzelliği ile dikkat çeken Küçük Ada, fiziksel olarak bir şehir bloğu büyüklüğünde bir alan kaplıyor. Bu küçük ama şirin ada, İzmir'in sahil şeridinin bir uzantısı gibi görünse de, kendi içinde bir dünya barındırıyor. Jeolojik olarak, ada çevresi kayalık bir yapıya sahip ve bu özelliği, adanın doğal güzelliğini daha da artırıyor.
 
-Yaz aylarında sıcakların arttığı ve nemin yoğunlaştığı bir bölge olan İzmir, Küçük Ada'nın iklim karakterini de etkiliyor. Adada hakim olan Akdeniz iklimi, yazları sıca ve kurak, kışları ise ılıman ve yağışlı geçiyor. Bu mevsimsel özellikler, adanın florasını ve faunasını şekillendiriyor ve ziyaretçilere her mevsim farklı bir deneyim sunuyor.
+Yaz aylarında sıcakların arttığı ve nemin yoğunlaştığı bir bölge olan İzmir, Küçük Ada'nın iklim karakterini de etkiliyor. Adada hakim olan Akdeniz iklimi, yazları sıcak ve kurak, kışları ise ılıman ve yağışlı geçiyor. Bu mevsimsel özellikler, adanın florasını ve faunasını şekillendiriyor ve ziyaretçilere her mevsim farklı bir deneyim sunuyor.
 
 İzmir'in kıyı şeridi boyunca uzanan ve adayı çevreleyen su kaynakları, Küçük Ada'nın çevresel ilişkilerini şekillendiriyor. Ada, Ege Denizi'nin sularıyla çevrili ve bu su kaynakları, adanın ekosistemine yaşam veriyor. Komşu alanlar ve su kaynakları arasındaki bu bağlantılılık, adanın doğal dengesini koruyor ve adayı bir bütün olarak değerlendirme imkânı sunuyor.
 

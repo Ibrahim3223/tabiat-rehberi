@@ -42,7 +42,7 @@ Doğu Anadolu Bölgesi'nin kalbinde, Erzincan ilinin sınırları içinde yer al
 
 Jeolojik açıdan incelendiğinde, Harmancık Dağı'nın oluşumu ve yapısı hakkında detaylı bilgiler bulunmasa da, bölgenin genel jeolojik özellikleri düşünüldüğünde, volkani ve sedimentatif kayaçların bir arada bulunduğu bir zona dahil olduğu söylenebilir. Bu dağ, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplıyor ve çevresi ile birlikte Erzincan'ın doğal güzelliklerini tamamlayan önemli bir parça olarak görünüyor.
 
-İklim açısından bakıldığında, Harmancık Dağı ve çevresinin karasal iklim özellikleri gösterdiği söylenebilir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler arasında yer alıyor.
+İklim açısından bakıldığında, Harmancık Dağı ve çevresinin karasal iklim özellikleri gösterdiği söylenebilir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler arasında yer alıyor.
 
 Çevresel açıdan, Harmancık Dağı'nın komşu alanlar ve su kaynakları ile önemli bağlantılar olduğu görülüyor. Bölgede yer alan akarsular ve dereler, dağlık alanlardan kaynaklanarak vadilere doğru akmaktadır. Bu su kaynakları, Harmancık Dağı'nın ekosistemini destekleyen ve bölgenin doğal dengesini koruyan önemli unsurlar arasında yer alıyor.
 

@@ -36,7 +36,7 @@ Atyolu Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu bölge, 
 
 ## Coğrafya
 
-Atyolu Tepe, Marmara Bölgesi'nin coğrafi özelliklerini yansıtıyor. Bu bölge, deniz seviyesinden yaklaşık yüksek bir konumdate bulunuyor. Atyolu Tepe'nin coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Burada, ziyaretçiler, çeşitli ağaç türleri, çalılar ve otlar görebilirler. Atyolu Tepe, aynı zamanda çeşitli hayvan türlerine ev sahipliği yapıyor. Burada, ziyaretçiler, çeşitli kuş türleri, memeliler ve sürüngenler görebilirler. Atyolu Tepe'nin iklimi, Marmara Bölgesi'nin iklimine benzer. Bu bölge, nemli bir iklim karakterine sahip. Atyolu Tepe, ziyaretçilerine, doğa ve yaban hayatı ile iç içe bir deneyim sunuyor.
+Atyolu Tepe, Marmara Bölgesi'nin coğrafi özelliklerini yansıtıyor. Bu bölge, yüksek bir konumda bulunuyor. Atyolu Tepe'nin coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Burada, ziyaretçiler, çeşitli ağaç türleri, çalılar ve otlar görebilirler. Atyolu Tepe, aynı zamanda çeşitli hayvan türlerine ev sahipliği yapıyor. Burada, ziyaretçiler, çeşitli kuş türleri, memeliler ve sürüngenler görebilirler. Atyolu Tepe'nin iklimi, Marmara Bölgesi'nin iklimine benzer. Bu bölge, nemli bir iklim karakterine sahip. Atyolu Tepe, ziyaretçilerine, doğa ve yaban hayatı ile iç içe bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

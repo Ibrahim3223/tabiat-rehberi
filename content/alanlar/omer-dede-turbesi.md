@@ -38,11 +38,11 @@ wikidata_id: "Q131391668"
 
 ## Coğrafya
 
-Ömer Dede Türbesi, Ege Bölgesi'nin güzel manzaralarına sahip bir bölgede yer alıyor. Plaj, Ege Denizi'nin güzel kıyılarında bulunuyor ve ziyaretçilere güzel bir deniz manzarası sunuyor. Bölge, çeşitli bitki türleri ile zengin bir flora sunuyor ve fauna açısından da dikkat çekici. Deniz kıyısında yer alan bu plaj, hem deniz hem de doğa severler için ideal bir yer. Ayrıca, plajın yakınında bulunan dağlar ve ormanlar, trekking ve doğa yürüyüşü için uygun alanlar sunuyor. Ömer Dede Türbesi'nin coğrafi konumu, ziyaretçilere birçok aktivite imkanı sunuyor. Bölgenin iklimi, tipik Akdeniz iklimi özellikleri gösteriyor ve ziyaretçilere sıca ve güneşli bir ortam sunuyor.
+Ömer Dede Türbesi, Ege Bölgesi'nin güzel manzaralarına sahip bir bölgede yer alıyor. Plaj, Ege Denizi'nin güzel kıyılarında bulunuyor ve ziyaretçilere güzel bir deniz manzarası sunuyor. Bölge, çeşitli bitki türleri ile zengin bir flora sunuyor ve fauna açısından da dikkat çekici. Deniz kıyısında yer alan bu plaj, hem deniz hem de doğa severler için ideal bir yer. Ayrıca, plajın yakınında bulunan dağlar ve ormanlar, trekking ve doğa yürüyüşü için uygun alanlar sunuyor. Ömer Dede Türbesi'nin coğrafi konumu, ziyaretçilere birçok aktivite imkanı sunuyor. Bölgenin iklimi, tipik Akdeniz iklimi özellikleri gösteriyor ve ziyaretçilere sıcak ve güneşli bir ortam sunuyor.
 
 ## Flora ve Fauna
 
-Ömer Dede Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ile zengin bir flora sunuyor. Bölgede, zeytin ağaçları, çam ağaçları ve diğer Akdeniz bitkileri bulunabilir. Ayrıca, bölge, fauna açısından da dikkat çekici ve birçok hayvan türü burada yaşamlarını sürdürüyor. Deniz suyu, birçok balık türüne ev sahipliği yapıyor ve bölge, doğa severler için önemli bir yer. Mevsimsel değişimler, bölgenin florası ve faunasını etkiliyor ve her mevsim, ziyaretçilere farklı bir güzellik sunuyor. İlkbahar ve yaz ayları, bölgenin en sıca ve güneşli zamanları olarak kabul ediliyor ve bu mevsimlerde, birçok bitki türü ve hayvan, bölgeye hayat veriyor.
+Ömer Dede Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ile zengin bir flora sunuyor. Bölgede, zeytin ağaçları, çam ağaçları ve diğer Akdeniz bitkileri bulunabilir. Ayrıca, bölge, fauna açısından da dikkat çekici ve birçok hayvan türü burada yaşamlarını sürdürüyor. Deniz suyu, birçok balık türüne ev sahipliği yapıyor ve bölge, doğa severler için önemli bir yer. Mevsimsel değişimler, bölgenin florası ve faunasını etkiliyor ve her mevsim, ziyaretçilere farklı bir güzellik sunuyor. İlkbahar ve yaz ayları, bölgenin en sıcak ve güneşli zamanları olarak kabul ediliyor ve bu mevsimlerde, birçok bitki türü ve hayvan, bölgeye hayat veriyor.
 
 ## Ziyaret Bilgileri
 

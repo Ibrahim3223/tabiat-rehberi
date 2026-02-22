@@ -45,7 +45,7 @@ Doğal güzelliklerin bir araya geldiği bir noktada, Güvercin Adası, Akdeniz'
 
 Ada'nın fiziksel yapısını inceleyecek olursak, Güvercin Adası, bir şehir bloğu büyüklüğünde bir alan kaplıyor. Bu küçük ama önemli ada, jeolojik açıdan incelendiğinde, Akdeniz'in karakteristik özelliklerini taşıyor. Koordinatlarına bakıldığında, adanın konumunun deniz seviyesine yakın olduğu anlaşılıyor.
 
-İklim açısından bakıldığında, Güvercin Adası, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ılık ve yağışlı bir hava hakim. Bu mevsimsel özellikler, adanın florası ve faunası üzerinde önemli bir etki yaratıyor.
+İklim açısından bakıldığında, Güvercin Adası, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ılık ve yağışlı bir hava hakim. Bu mevsimsel özellikler, adanın florası ve faunası üzerinde önemli bir etki yaratıyor.
 
 Güvercin Adası, çevresindeki diğer adalar ve anakara ile bağlantılı bir ekosistem içerisinde yer alıyor. Ada, su kaynakları açısından zengin bir bölge değil, ancak komşu alanlardan gelen su kaynakları, adanın ekosistemini desteklemekte önemli bir rol oynuyor. Bu bağlantı, adanın biyolojik çeşitliliğini korumasında önemli bir faktör olarak görülüyor.
 

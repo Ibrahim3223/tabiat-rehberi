@@ -46,7 +46,7 @@ Gökyüzünün mavisi, denizin mavisini yansıtan Fraşe adası, Santorin beledi
 
 Jeolojik açıdan bakıldığında, Fraşe adası, Santorin'in volkanik arazisiyle benzerlik gösteriyor. Ada, volkanik kayaçlardan oluşuyor ve bu kayaçlar, binlerce yıl boyunca volkanik faaliyetler sonucu oluşmuş. Fraşe'nin boyutları, yaklaşık bir şehir bloğu büyüklüğünde ve bu küçük ada, Santorin'in toplam yüzölçümünün çok küçük bir bölümünü oluşturuyor.
 
-İklim açısından, Fraşe adası, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında, ada sıca ve güneşli bir hava deneyimi sunarken, kış aylarında ise ılıman bir hava hüküm sürüyor. Fraşe, Santorin'in genel iklimine benzerlik gösteriyor ve bu iklim, ada halkı ve ziyaretçileri için çok uygun.
+İklim açısından, Fraşe adası, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında, ada sıcak ve güneşli bir hava deneyimi sunarken, kış aylarında ise ılıman bir hava hüküm sürüyor. Fraşe, Santorin'in genel iklimine benzerlik gösteriyor ve bu iklim, ada halkı ve ziyaretçileri için çok uygun.
 
 Doğal olarak, Fraşe adası, Ege Denizi'nin sularıyla çevrili ve bu su kaynakları, adanın ekosistemini etkileyen önemli bir faktör. Fraşe, Santorin'in diğer adalarıyla birlikte, bir ekosistem zincirini oluşturuyor ve bu zincir, deniz canlıları ve bitkileri için önemli bir habitat sunuyor. Fraşe'nin komşu alanları, Santorin'in diğer adaları ve Ege Denizi'nin suları, adanın çevresel ilişkilerini etkileyen önemli faktörler.
 

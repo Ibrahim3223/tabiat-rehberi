@@ -39,7 +39,7 @@ Tüllüce Adası da, bu genel bağlam içinde yer alır. Ada, geçmişte insanla
 
 Doğal güzelliği ile dikkat çeken Tüllüce Adası, fiziksel olarak küçük bir ada olmakla birlikte, kendine has bir karaktere sahiptir. Ada, bir şehir bloğu büyüklüğünde olup, sakin ve huzurlu bir atmosfer sunar. Jeolojik açıdan bakıldığında, ada genel olarak kayaçlardan oluşmaktadır ve bu özelliği, ada etrafındaki suyun berrak olmasını sağlar.
 
-İklim açısından bakıldığında, Tüllüce Adası, Marmara Bölgesi'nin ılıman ikliminin etkilerini taşır. Mevsimsel olarak, ada yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumuna sahiptir. Bu iklim özelliği, ada etrafındaki bitkilerin ve hayvanların çeşitliliğini destekler ve ada ekosistemini zenginleştirir.
+İklim açısından bakıldığında, Tüllüce Adası, Marmara Bölgesi'nin ılıman ikliminin etkilerini taşır. Mevsimsel olarak, ada yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumuna sahiptir. Bu iklim özelliği, ada etrafındaki bitkilerin ve hayvanların çeşitliliğini destekler ve ada ekosistemini zenginleştirir.
 
 Ada etrafındaki su kaynakları ve ekosistem bağlantıları, Tüllüce Adası'nı çevre açısından önemli bir nokta haline getirir. Ada, Marmara Denizi'nin bir parçası olarak, bölgedeki su canlıları için önemli bir yaşam alanı sunar. Ayrıca, ada etrafındaki su kaynakları, bölgedeki diğer adalar ve kıyı şeridiyle bağlantılıdır ve bu bağlantı, bölgenin doğal dengesini korur.
 

@@ -45,7 +45,7 @@ Doğal güzellikleri ile dikkat çeken Nalbant Dağı, 39.5553°K, 36.0013°D ko
 
 Jeolojik açıdan bakıldığında, Nalbant Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, coğrafi konumu ve çevresindeki diğer dağlar ile karşılaştırıldığında, bir şehir bloğu büyüklüğünde bir alan kapladığı söylenebilir. Bu boyutlar, Monaco'nun küçük bir bölümü ile karşılaştırıldığında, oldukça küçük bir alan olarak görünse de, dağların yükseklikleri ve eğimleri dikkate alındığında, önemli bir coğrafi oluşum olarak kabul edilebilir.
 
-İklim açısından Nalbant Dağı, Türkiye'nin genel iklim karakterine benzerlik gösterir. Bölge, karasal iklim özellikleri gösterir ve mevsimsel olarak önemli değişiklikler yaşar. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu iklim koşulları, dağların ekosistemini ve bitki örtüsünü etkiler.
+İklim açısından Nalbant Dağı, Türkiye'nin genel iklim karakterine benzerlik gösterir. Bölge, karasal iklim özellikleri gösterir ve mevsimsel olarak önemli değişiklikler yaşar. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu iklim koşulları, dağların ekosistemini ve bitki örtüsünü etkiler.
 
 Nalbant Dağı'nın çevresinde, çeşitli su kaynakları ve ekosistemler bulunur. Bu su kaynakları, bölgenin doğal güzelliklerine katkıda bulunur ve yerel ekosistemin devamı için önemlidir. Dağın komşu alanları, benzer coğrafi özellikler gösterir ve birlikte, bir bütün olarak düşünüldüğünde, önemli bir doğal bölge olarak değerlendirilebilir. Bu bölgenin korunması ve sürdürülebilir kullanımı, gelecek nesiller için önemli bir görev olarak görülüyor.
 

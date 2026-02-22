@@ -44,7 +44,7 @@ Türkiye'de, doğal alanların tarihsel önemi, yalnızca ekolojik değerleriyle
 
 Doğal güzelliği ile dikkat çeken bu rekreasyon alanı, İzmir'in coğrafi yapısının önemli bir parçasını oluşturur. Oldukça küçük bir bölge olan Aşık Veysel Rekreasyon Alanı, birkaç olimpik havuz kadar bir alanı kaplar ve bu nedenle ziyaretçilere sakin bir atmosferde zaman geçirmeleri için yeterli alan sağlar. Bu küçük ama güzel alan, İzmir'in coğrafi çeşitliliğini gösterir.
 
-İklim açısından bakıldığında, İzmir'in genel iklim karakterini yansıtan Aşık Veysel Rekreasyon Alanı, ılıman bir Akdeniz iklimine sahiptir. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, ziyaretçilere yılın her dönemi farklı deneyimler sunar.
+İklim açısından bakıldığında, İzmir'in genel iklim karakterini yansıtan Aşık Veysel Rekreasyon Alanı, ılıman bir Akdeniz iklimine sahiptir. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, ziyaretçilere yılın her dönemi farklı deneyimler sunar.
 
 Aşık Veysel Rekreasyon Alanı, İzmir'in şehir yaşamının kalbinde yer almasına rağmen, çevresindeki doğal güzelliklerle önemli bir ekosistem bağlantısı sağlar. Yakındaki su kaynakları ve komşu alanlar, bu bölgeyi bir bütün olarak değerlendirmek için birer unsurdur. Örneğin, yakındaki bir par ile, büyük bir yeşil alan ağı oluşturur ve bu da şehrin ekolojik dengesine katkıda bulunur.
 

@@ -45,7 +45,7 @@ Mardin'in eşsiz coğrafyasında yer alan Göl Tepe, 37.4964°K, 40.9525°D koor
 
 Dik yamaçlarıyla ve sarp kayalarıyla Göl Tepe, bölgenin jeolojik yapısını yansıtan bir oluşumdur. Ancak, fiziksel verilerin sınırlı olması nedeniyle, Göl Tepe'nin boyutları ve şekli hakkında net bilgiler bulunmamaktadır. Buna rağmen, Göl Tepe'nin yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadar bir yükseklikte olabilir, bu da yaklaşık 80 metre yüksekliğe karşılık gelir. Bu yükseklik, Göl Tepe'yi bölgenin önemli bir noktası haline getirir.
 
-İklim açısından Göl Tepe, Mardin'in genel iklim koşullarını paylaşır. Bölge, yazları sıca ve kurak, kışları soğu ve yağışlı bir iklim karakterine sahiptir. Göl Tepe'nin yüksekliği ve coğrafi konumu, mevsimsel hava koşullarını etkileyebilir. Örneğin, yükseklik nedeniyle, Göl Tepe'de sıcaklık ve nem oranları, Mardin'in diğer bölgelerine göre farklı olabilir.
+İklim açısından Göl Tepe, Mardin'in genel iklim koşullarını paylaşır. Bölge, yazları sıcak ve kurak, kışları soğuk ve yağışlı bir iklim karakterine sahiptir. Göl Tepe'nin yüksekliği ve coğrafi konumu, mevsimsel hava koşullarını etkileyebilir. Örneğin, yükseklik nedeniyle, Göl Tepe'de sıcaklık ve nem oranları, Mardin'in diğer bölgelerine göre farklı olabilir.
 
 Doğal bir alan olan Göl Tepe, bölgenin su kaynakları ve ekosistem bağlantıları açısından önemlidir. Çevresindeki vadiler ve dağlar, bölgenin su kaynaklarını besler ve Göl Tepe, bu su kaynaklarının bir parçası olarak görülabilir. Monaco'nun yarısı kadar büyük olmayan Göl Tepe, bölgenin küçük ama önemli bir parçası olarak, doğal dengenin korunmasına katkıda bulunur.
 

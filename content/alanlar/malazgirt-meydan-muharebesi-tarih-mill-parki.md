@@ -37,7 +37,7 @@ Malazgirt Meydan Muharebesi, 26 Ağustos 1071 tarihinde Bizans İmparatorluğu i
 
 ## Coğrafya
 
-Malazgirt Meydan Muharebesi Tarihî Millî Parkı, Doğu Anadolu Bölgesi'nin coğrafyasını yansıtan bir yapıya sahiptir. Park, yaklaşık 1200 hektarlık bir alanı kaplar ve bu alanın büyük bir bölümü çayır ve otlaklardan oluşur. Bölgenin rakımı 1500 metreyi bulur ve bu yükseklik, parkın iklimini etkiler. Kış mevsimi soğu ve kar yağışlı, yaz mevsimi ise serin ve yağışlı geçer. Parkın coğrafyası, ziyaretçilere geniş ve açık alanlarda yürüyüş yapma, tarihi kalıntıları keşfetme ve çevreyi keşfetme fırsatı sunar.
+Malazgirt Meydan Muharebesi Tarihî Millî Parkı, Doğu Anadolu Bölgesi'nin coğrafyasını yansıtan bir yapıya sahiptir. Park, yaklaşık 1200 hektarlık bir alanı kaplar ve bu alanın büyük bir bölümü çayır ve otlaklardan oluşur. Bölgenin rakımı 1500 metreyi bulur ve bu yükseklik, parkın iklimini etkiler. Kış mevsimi soğuk ve kar yağışlı, yaz mevsimi ise serin ve yağışlı geçer. Parkın coğrafyası, ziyaretçilere geniş ve açık alanlarda yürüyüş yapma, tarihi kalıntıları keşfetme ve çevreyi keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

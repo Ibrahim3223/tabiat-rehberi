@@ -36,7 +36,7 @@ Bığbığ Orman Sarmaşığı, yüzyıllar boyunca bölgenin önemli bir parça
 
 ## Coğrafya
 
-Bığbığ Orman Sarmaşığı, İç Anadolu Bölgesi'nin coğrafi olarak özel bir bölgesinde yer alıyor. Bu bölge, yüksek bir plato üzerinde konumlanmış ve etrafı dağlarla çevrilidir. Orman, 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Ormanın iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor. Orman, bu iklim koşullarına uyum sağlamış ve her mevsim farklı bir güzelliğe bürünüyor. Çevre, flora ve fauna açısından oldukça zengin. Çeşitli ağaç türleri, çalılar ve otlar, ormanın yeşil örtüsünü oluşturuyor. Ayrıca, orman, çeşitli hayvan türlerine de ev sahipliği yapıyor.
+Bığbığ Orman Sarmaşığı, İç Anadolu Bölgesi'nin coğrafi olarak özel bir bölgesinde yer alıyor. Bu bölge, yüksek bir plato üzerinde konumlanmış ve etrafı dağlarla çevrilidir. Orman, 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Ormanın iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Orman, bu iklim koşullarına uyum sağlamış ve her mevsim farklı bir güzelliğe bürünüyor. Çevre, flora ve fauna açısından oldukça zengin. Çeşitli ağaç türleri, çalılar ve otlar, ormanın yeşil örtüsünü oluşturuyor. Ayrıca, orman, çeşitli hayvan türlerine de ev sahipliği yapıyor.
 
 ## Flora ve Fauna
 

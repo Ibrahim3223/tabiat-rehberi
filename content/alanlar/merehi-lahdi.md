@@ -38,7 +38,7 @@ Merehi Lahdi'nin tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. Bu böl
 
 ## Coğrafya
 
-Merehi Lahdi, Kaş'ın merkezine yakın bir konumda yer alır ve ulaşımı oldukça kolaydır. Bu bölge, Akdeniz Bölgesi'nin en güzel noktalarından biridir ve doğal güzelliği ile dikkat çekmektedir. Merehi Lahdi, 140 hektarlık bir alana sahiptir ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu bölge, dağların ve denizin birleştiği bir noktada yer alır ve manzarası ile ziyaretçileri büyülemektedir. Merehi Lahdi'nin iklimi, Akdeniz iklimi özellikleri taşır ve yaz ayları sıca ve kurak, kış ayları ılıman ve yağışlı geçer. Bu bölge, flora ve fauna açısından zengin bir çeşitliliğe sahiptir ve ziyaretçiler tarafından büyük ilgi görmektedir.
+Merehi Lahdi, Kaş'ın merkezine yakın bir konumda yer alır ve ulaşımı oldukça kolaydır. Bu bölge, Akdeniz Bölgesi'nin en güzel noktalarından biridir ve doğal güzelliği ile dikkat çekmektedir. Merehi Lahdi, 140 hektarlık bir alana sahiptir ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu bölge, dağların ve denizin birleştiği bir noktada yer alır ve manzarası ile ziyaretçileri büyülemektedir. Merehi Lahdi'nin iklimi, Akdeniz iklimi özellikleri taşır ve yaz ayları sıcak ve kurak, kış ayları ılıman ve yağışlı geçer. Bu bölge, flora ve fauna açısından zengin bir çeşitliliğe sahiptir ve ziyaretçiler tarafından büyük ilgi görmektedir.
 
 ## Flora ve Fauna
 

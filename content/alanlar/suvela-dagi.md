@@ -44,7 +44,7 @@ Yerleşim yerlerine uzak bir konumda bulunan Suvela Dağı, 36.6115°K, 28.8492�
 
 Doğal güzelliği ile dikkat çeken bu dağ, jeolojik açıdan ilginç bir yapıya sahip. Ancak, detaylı fiziksel verileri bulunmamasına rağmen, Suvela Dağı'nın çevresindeki diğer dağlarla benzerlik gösterdiği söylenebilir. Birkaç olimpik havuz kadar bir alanı kaplayan bu dağ, Eiffel Kulesi'nin yaklaşık 1/5'i kadar yükseklikte yer alıyor. Bu yükseklik, çevredeki diğer coğrafi oluşumlarla birlikte bir bütünü oluşturuyor.
 
-Mevsimsel özelliklere bakıldığında, Suvela Dağı'nın iklimi Akdeniz ikliminin característicasını taşıyor. Yaz aylarında sıca ve kuru, kış aylarında ise ılık ve yağışlı bir hava hakim. Bu mevsimsel özellikler, dağın çevresindeki bitki örtüsünü ve wildlife'ı etkiliyor. Monaco'nun yarısı kadar bir alanı kaplayan bu bölge, iklim açısından oldukça zengin bir yapıya sahip.
+Mevsimsel özelliklere bakıldığında, Suvela Dağı'nın iklimi Akdeniz ikliminin característicasını taşıyor. Yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı bir hava hakim. Bu mevsimsel özellikler, dağın çevresindeki bitki örtüsünü ve wildlife'ı etkiliyor. Monaco'nun yarısı kadar bir alanı kaplayan bu bölge, iklim açısından oldukça zengin bir yapıya sahip.
 
 Çevresel açıdan bakıldığında, Suvela Dağı'nın komşu alanlar ve su kaynaklarıyla önemli bir ilişkisi var. Dağ, çevresindeki diğer coğrafi oluşumlarla birlikte bir ekosistem oluşturuyor. Taksim Meydanı'nın yaklaşık 10 katı büyüklüğünde bir alanı kaplayan bu dağ, çevresindeki su kaynaklarını ve bitki örtüsünü etkiliyor. Bu nedenle, Suvela Dağı'nın çevresel ilişkileri oldukça önemli ve korunması gereken bir yapıya sahip.
 

@@ -38,7 +38,7 @@ wikidata_id: "Q131391273"
 
 ## Coğrafya
 
-Şeyh Hüseyin Efendi Türbesi, coğrafi olarak Hatay'ın Antakya ilçesinde, Akdeniz'in kıyısında yer alıyor. Bu bölgenin coğrafyası, deniz kıyısı, yeşil alanlar ve tarihi yapılarla birlikte, ziyaretçilere zengin bir deneyim sunuyor. Bölgenin iklimi, Akdeniz ikliminin característicasını taşıyor; yazları sıca ve kurak, kışları ılıman ve yağışlı geçiyor. Bu coğrafi konum, ziyaretçilere deniz, güneş ve doğanın güzelliğini bir arada deneyimleme fırsatı veriyor. Ayrıca, çevredeki dağlar ve ormanlar, bölgenin doğal güzelliklerini daha da zenginleştiriyor.
+Şeyh Hüseyin Efendi Türbesi, coğrafi olarak Hatay'ın Antakya ilçesinde, Akdeniz'in kıyısında yer alıyor. Bu bölgenin coğrafyası, deniz kıyısı, yeşil alanlar ve tarihi yapılarla birlikte, ziyaretçilere zengin bir deneyim sunuyor. Bölgenin iklimi, Akdeniz ikliminin característicasını taşıyor; yazları sıcak ve kurak, kışları ılıman ve yağışlı geçiyor. Bu coğrafi konum, ziyaretçilere deniz, güneş ve doğanın güzelliğini bir arada deneyimleme fırsatı veriyor. Ayrıca, çevredeki dağlar ve ormanlar, bölgenin doğal güzelliklerini daha da zenginleştiriyor.
 
 ## Flora ve Fauna
 

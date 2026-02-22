@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Gayrik Tepe, Malatya'nın coğrafi zengi
 
 Jeolojik açıdan bakıldığında, Gayrik Tepe'nin fiziksel yapısı hakkında detaylı bilgiler olmasa da, bölgenin coğrafi özellikleri dikkate alındığında, bu dağların oluşumu ve şekillenmesi hakkında fikir sahibi olma mümkün. Bu bölgedeki dağlar, genellikle volkanik faaliyetlerin sonucu olarak oluşmuş ve zaman içinde erozyonla şekillenmiştir. Gayrik Tepe de, bu coğrafi oluşumların bir parçası olarak, bölgenin jeolojik tarihine ışık tutuyor.
 
-İklim açısından, Gayrik Tepe ve etrafındaki bölge, karasal iklimin hakim olduğu bir bölgede yer alıyor. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve kar yağışlı bir hava durumu hakim. Bu mevsimsel özellikler, bölgenin flora ve faunasını doğrudan etkiliyor ve Gayrik Tepe, bu iklim koşullarına uyum sağlamış bir ekosisteme ev sahipliği yapıyor.
+İklim açısından, Gayrik Tepe ve etrafındaki bölge, karasal iklimin hakim olduğu bir bölgede yer alıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve kar yağışlı bir hava durumu hakim. Bu mevsimsel özellikler, bölgenin flora ve faunasını doğrudan etkiliyor ve Gayrik Tepe, bu iklim koşullarına uyum sağlamış bir ekosisteme ev sahipliği yapıyor.
 
 Çevresel açıdan bakıldığında, Gayrik Tepe, Malatya'nın doğal güzelliklerini koruma altına alan önemli bir bölgede yer alıyor. Etrafındaki su kaynakları ve komşu alanlar, bu dağın ekosistem bağlantılarını güçlendiriyor. Monaco'nun merkezinden daha küçük bir alanda yer alan Gayrik Tepe, bölgenin doğal dengesini korumak için önemli bir rol üstleniyor.
 

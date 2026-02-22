@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 30, tarihi geçmişiyle dikkat çekiyor. Bu bölge, yü
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 30, Ege Bölgesi'nin coğrafi güzelliği ile dikkat çekiyor. Bu bölge, Salihli ilçesinin doğal güzelliklerine sahip bir alanda yer alıyor. Yaklaşık 140 hektarlık bir alanı kaplayan bu mekan, ziyaretçilerini geniş ve yeşil bir alana davet ediyor. Buranın coğrafi yapısı, tarihi ve doğal güzelliği bir araya getiren bir bölge olarak tanımlanıyor. Bin Tepeler Tümülüsü 30, Ege Bölgesi'nin iklimine uygun olarak, yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir hava koşullarına sahip. Bu bölgede, çeşitli bitki türleri ve zengin fauna dikkat çekiyor. Ziyaretçiler, buranın coğrafi güzelliğini ve doğal zenginliğini keşfetme fırsatı buluyorlar.
+Bin Tepeler Tümülüsü 30, Ege Bölgesi'nin coğrafi güzelliği ile dikkat çekiyor. Bu bölge, Salihli ilçesinin doğal güzelliklerine sahip bir alanda yer alıyor. Yaklaşık 140 hektarlık bir alanı kaplayan bu mekan, ziyaretçilerini geniş ve yeşil bir alana davet ediyor. Buranın coğrafi yapısı, tarihi ve doğal güzelliği bir araya getiren bir bölge olarak tanımlanıyor. Bin Tepeler Tümülüsü 30, Ege Bölgesi'nin iklimine uygun olarak, yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava koşullarına sahip. Bu bölgede, çeşitli bitki türleri ve zengin fauna dikkat çekiyor. Ziyaretçiler, buranın coğrafi güzelliğini ve doğal zenginliğini keşfetme fırsatı buluyorlar.
 
 ## Flora ve Fauna
 

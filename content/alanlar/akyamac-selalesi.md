@@ -30,7 +30,7 @@ Akyamaç Şelalesi, yüzyıllar boyunca bölgenin en önemli doğal güzellikler
 
 ## Coğrafya
 
-Akyamaç Şelalesi, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici yerlerinden biridir. Şelale, bir vadi içerisinde yer alır ve etrafı yeşil alanlarla çevrilidir. Şelalenin yüksekliği, ziyaretçilere çevreyi seyretme imkanı sunar. Akyamaç Şelalesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Şelale, yaz aylarında sıca ve kurak, kış aylarında soğu ve karlı bir iklimi sahiptir. Şelalenin suyunun kaynağı, bölgenin yer altı sularıdır. Akyamaç Şelalesi, bölgeye özgü bitki ve hayvan türleri ile ziyaretçilere doğanın güzelliklerini sunar.
+Akyamaç Şelalesi, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici yerlerinden biridir. Şelale, bir vadi içerisinde yer alır ve etrafı yeşil alanlarla çevrilidir. Şelalenin yüksekliği, ziyaretçilere çevreyi seyretme imkanı sunar. Akyamaç Şelalesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Şelale, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı bir iklimi sahiptir. Şelalenin suyunun kaynağı, bölgenin yer altı sularıdır. Akyamaç Şelalesi, bölgeye özgü bitki ve hayvan türleri ile ziyaretçilere doğanın güzelliklerini sunar.
 
 ## Flora ve Fauna
 

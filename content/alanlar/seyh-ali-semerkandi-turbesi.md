@@ -37,7 +37,7 @@ Mersin'in Gülnar ilçesinde yer alan Şeyh Ali Semerkandi Türbesi, tarihi ve d
 
 ## Coğrafya
 
-Şeyh Ali Semerkandi Türbesi, Mersin'in Gülnar ilçesinde, Akdeniz Bölgesi'nin sahilde yer alıyor. Türbe ve plaj, birbirine yakın konumda bulunuyor ve ziyaretçilere, hem tarihi hem de doğal güzellikleri aynı anda deneyimleme fırsatı sunuyor. Plaj, geniş kumsalları ve berrak suları ile dikkat çekiyor. Akdeniz ikliminin etkisi altında olan bölgede, yaz ayları sıca ve kurak, kış ayları ise ılıman ve yağmurlu geçiyor. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplı, ziyaretçilere doğanın güzelliğini sunuyor. Türbenin bulunduğu tepe, çevreyi panoramik olarak görmek için ideal bir nokta.
+Şeyh Ali Semerkandi Türbesi, Mersin'in Gülnar ilçesinde, Akdeniz Bölgesi'nin sahilde yer alıyor. Türbe ve plaj, birbirine yakın konumda bulunuyor ve ziyaretçilere, hem tarihi hem de doğal güzellikleri aynı anda deneyimleme fırsatı sunuyor. Plaj, geniş kumsalları ve berrak suları ile dikkat çekiyor. Akdeniz ikliminin etkisi altında olan bölgede, yaz ayları sıcak ve kurak, kış ayları ise ılıman ve yağmurlu geçiyor. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplı, ziyaretçilere doğanın güzelliğini sunuyor. Türbenin bulunduğu tepe, çevreyi panoramik olarak görmek için ideal bir nokta.
 
 ## Flora ve Fauna
 

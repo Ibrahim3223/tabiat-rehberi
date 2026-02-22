@@ -30,7 +30,7 @@ Kahramanmaras-Sucati Kızılçam2 milli parkının tarihi geçmişi, yüzyıllar
 
 ## Coğrafya
 
-Kahramanmaras-Sucati Kızılçam2 milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde bulunur. Bu milli park, 140 hektarlık geniş bir alana sahiptir ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna tarafından şekillenmiştir. Bu bölgede, kızılçam ağaçları hakimdir ve milli parkın simgesi haline gelmiştir. Kahramanmaras-Sucati Kızılçam2 milli parkının iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve dört mevsim yaşanıyor. Bu bölgede, yaz ayları sıca ve kurak, kış ayları soğu ve karlı geçer. Milli parkın coğrafi konumu ve iklimi, ziyaretçilerine çeşitli aktiviteler ve deneyimler sunar.
+Kahramanmaras-Sucati Kızılçam2 milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde bulunur. Bu milli park, 140 hektarlık geniş bir alana sahiptir ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna tarafından şekillenmiştir. Bu bölgede, kızılçam ağaçları hakimdir ve milli parkın simgesi haline gelmiştir. Kahramanmaras-Sucati Kızılçam2 milli parkının iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve dört mevsim yaşanıyor. Bu bölgede, yaz ayları sıcak ve kurak, kış ayları soğuk ve karlı geçer. Milli parkın coğrafi konumu ve iklimi, ziyaretçilerine çeşitli aktiviteler ve deneyimler sunar.
 
 ## Flora ve Fauna
 

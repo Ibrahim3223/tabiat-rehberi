@@ -44,7 +44,7 @@ Doğal güzelliklerin bir araya geldiği Mersin ili, Gedinli Dağı gibi birçok
 
 Jeolojik açıdan incelendiğinde, Gedinli Dağı'nın coğrafi yapısı oldukça karmaşıktır. Maalesef, detaylı fiziksel veriler bulunmamasına rağmen, bu dağın Mersin'in genel coğrafyası içerisinde önemli bir yer tuttuğu söylenebilir. Monaco'nun yarısı kadar bir alanı kaplayan bu dağ, bölgenin coğrafi çeşitliliğine katkıda bulunmaktadır.
 
-Mevsimler değişırken, Gedinli Dağı'nın iklim karakteri değişim gösterir. Akdeniz ikliminin hakim olduğu bu bölgede, yaz ayları sıca ve kurak, kış ayları ise ılık ve yağışlı geçer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve Gedinli Dağı'nın ekosistemini zenginleştirir.
+Mevsimler değişırken, Gedinli Dağı'nın iklim karakteri değişim gösterir. Akdeniz ikliminin hakim olduğu bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlı geçer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve Gedinli Dağı'nın ekosistemini zenginleştirir.
 
 Gedinli Dağı, çevresindeki diğer coğrafi oluşumlarla da bağlantılıdır. Yakınlarında bulunan su kaynakları ve diğer dağlar, bölgenin ekosistemini bir bütün olarak düşünmemizi sağlar. Taksim Meydanı'nın birkaç katı büyüklüğünde olan bu dağ, Mersin'in doğal güzelliklerini koruma ve gelecek nesillere aktarmak açısından önemli bir role sahiptir.
 

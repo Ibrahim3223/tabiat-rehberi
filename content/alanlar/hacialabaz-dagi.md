@@ -45,7 +45,7 @@ Güneybatı Anadolu'nun yemyeşil dağlık alanlarından biri olan Hacıalabaz D
 
 Jeolojik açıdan bakıldığında, Hacıalabaz Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, genel olarak Türkiye'nin dağlık bölgelerinde görülen kalker ve şist türleri burada da yer alır. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadar bir yükseklikte olduğu söylenebilir, ancak bu değerlerin tam olarak doğrulanması için daha fazla veri gereklidir. Dağın şekli ve boyutları, bölgenin jeolojik geçmişine ve oluşumuna bağlı olarak şekillenmiştir.
 
-Mevsimsel olarak, Hacıalabaz Dağı ve çevresi, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava hüküm sürer. Bu mevsimsel değişimler, bölgedeki flora ve fauna için önemli bir etkiye sahiptir ve ekosistemin dengesini sağlar.
+Mevsimsel olarak, Hacıalabaz Dağı ve çevresi, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava hüküm sürer. Bu mevsimsel değişimler, bölgedeki flora ve fauna için önemli bir etkiye sahiptir ve ekosistemin dengesini sağlar.
 
 Doğal su kaynakları ve komşu alanlar açısından, Hacıalabaz Dağı'nın çevresi, çeşitli akarsular ve derelerle çevrilidir. Bu su kaynakları, bölgenin ekosistemini destekler ve bitki örtüsünün çeşitliliğini sağlar. Ayrıca, dağ ve etrafındaki ovalar, Monaco'nun yaklaşık 1/10'u kadar bir alanı kaplayan bir coğrafi bütünlük oluşturur. Bu coğrafi konum, Hacıalabaz Dağı'nın çevresel ilişkileri açısından önemli bir role sahiptir.
 

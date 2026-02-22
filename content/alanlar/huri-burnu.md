@@ -44,7 +44,7 @@ Doğal güzelliklerin bir araya geldiği Van Gölü'nün yakınında, 38.4733°K
 
 Jeolojik açıdan bakıldığında, Huri Burnu'nun fiziksel yapısı oldukça ilgi çekicidir. Bu alan, Van Gölü'nün kıyı şeridinin bir parçası olarak, gölün sularının şekillendirdiği bir coğrafyaya sahiptir. Ancak, mevcut veriler bu bölgenin tam olarak ne kadar büyük olduğunu veya şeklini tam olarak belirlememizi sağlamamaktadır. Buna rağmen, bu bölgeyi yaklaşık olarak birkaç futbol sahası büyüklüğünde bir alan olarak hayal edebiliriz, ki bu da oldukça küçük bir bölge olarak görünmektedir.
 
-İklim açısından, Huri Burnu Van Gölü'nün etkisini gösterir. Bu bölgede, Van Gölü'nün su sıcaklığı ve neminin etkisiyle, mevsimsel değişiklikler belirgin olarak hissedilir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir iklim hüküm sürer. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkiler.
+İklim açısından, Huri Burnu Van Gölü'nün etkisini gösterir. Bu bölgede, Van Gölü'nün su sıcaklığı ve neminin etkisiyle, mevsimsel değişiklikler belirgin olarak hissedilir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürer. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkiler.
 
 Çevresel açıdan, Huri Burnu Van Gölü ile güçlü bir bağlantısı olan bir bölgedir. Van Gölü'nün su kaynakları ve ekosistemi, bu bölgenin doğal dengesini etkiler. Ayrıca, Huri Burnu'nun yakınında bulunan diğer doğal alanlar ve su kaynakları, bölgenin biyolojik çeşitliliğini zenginleştirmektedir. Bu nedenle, Huri Burnu'nun çevresel ilişkileri, Van Gölü ve çevresindeki diğer doğal alanlarla yakından bağlantılıdır.
 

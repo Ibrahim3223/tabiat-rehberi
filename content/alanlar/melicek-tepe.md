@@ -36,7 +36,7 @@ Melicek Tepe'nin tarihi geçmişi, Doğu Anadolu Bölgesi'nin genel tarihinden a
 
 ## Coğrafya
 
-Melicek Tepe, Malatya'nın coğrafi yapısı içerisinde önemli bir yer tutuyor. Doğu Anadolu Bölgesi'nin genel coğrafi özellikleri düşünüldüğünde, Melicek Tepe'nin bulunduğu konum, dağlık ve engebeli bir arazide yer alıyor. Tepe, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgenin güzelliklerini gözlemlemek için ideal bir nokta olarak görülüyor. İklim-wise, Melicek Tepe ve çevresinin karasal iklim özellikleri gösterdiği biliniyor. Yaz ayları sıca ve kurak, kış ayları soğu ve kar yağışlı olarak geçiyor. Bu iklim koşulları, tepe ve çevresinin flora ve faunasını etkiliyor. Melicek Tepe'nin coğrafi konumu ve iklimi, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunuyor.
+Melicek Tepe, Malatya'nın coğrafi yapısı içerisinde önemli bir yer tutuyor. Doğu Anadolu Bölgesi'nin genel coğrafi özellikleri düşünüldüğünde, Melicek Tepe'nin bulunduğu konum, dağlık ve engebeli bir arazide yer alıyor. Tepe, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgenin güzelliklerini gözlemlemek için ideal bir nokta olarak görülüyor. İklim-wise, Melicek Tepe ve çevresinin karasal iklim özellikleri gösterdiği biliniyor. Yaz ayları sıcak ve kurak, kış ayları soğuk ve kar yağışlı olarak geçiyor. Bu iklim koşulları, tepe ve çevresinin flora ve faunasını etkiliyor. Melicek Tepe'nin coğrafi konumu ve iklimi, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunuyor.
 
 ## Flora ve Fauna
 

@@ -52,7 +52,7 @@ Bölgenin çevresel ilişkileri, Osman İni'nin jeoloji ve ekolojik önemini ort
 
 Osman İni Jeopark, Karaman'ın step bitki örtüsü ve bozkır ekosisteminin zenginliklerini barındırıyor. Bu 1200 hektarlık yeşil cennet, ilkbaharla birlikte rengarenk çiçeklerle donanıyor. Step bitkileri, kuraklığa adapte olmuş türler, mevsimsel değişimlerle birlikte farklı renkler ve kokularla ziyaretçilerini selamlıyor.
 
-Yaban hayatı da bir o kadar renkli. Orman memelileri, ağaçların arasında ediyor. Kuşlar, göç mevsimlerinde bu bölgeden geçerek yeni yuvalarına ulaşıyor. Sürüngenler, step bölgesinin sıca ve kurak alanlarında yaşamlarını sürdürüyor. Ekolojik ilişkiler, bu canlıların birbirleriyle ve yaşam alanlarıyla olan bağımlılıkları, Osman İni'nin önemini vurguluyor. Bu jeopark, bölgenin ekolojik dengesini korurken, aynı zamanda ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunuyor.
+Yaban hayatı da bir o kadar renkli. Orman memelileri, ağaçların arasında ediyor. Kuşlar, göç mevsimlerinde bu bölgeden geçerek yeni yuvalarına ulaşıyor. Sürüngenler, step bölgesinin sıcak ve kurak alanlarında yaşamlarını sürdürüyor. Ekolojik ilişkiler, bu canlıların birbirleriyle ve yaşam alanlarıyla olan bağımlılıkları, Osman İni'nin önemini vurguluyor. Bu jeopark, bölgenin ekolojik dengesini korurken, aynı zamanda ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunuyor.
 
 ## Ziyaret Bilgileri
 

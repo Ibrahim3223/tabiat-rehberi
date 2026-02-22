@@ -43,7 +43,7 @@ Hatay'ın dağlık coğrafyasında yer alan Gora Mareş, 35.8411°K ve 36.1508°
 
 Doğal güzellikleri ve coğrafi özellikleri ile dikkat çeken Gora Mareş, yaklaşık 1200 hektarlık bir alanı kaplar. Bu alan, İstanbul'un Adalar ilçesi büyüklüğünde bir bölgeyi kaplar. Gora Mareş'in fiziksel yapısı, jeolojik olarak ilgi çekici bir yapıya sahiptir. Ancak, detalı fiziksel veri bulunmaması nedeniyle, Gora Mareş'in yüksekliği ve diğer fiziksel özellikleri hakkında net bilgi verilememektedir.
 
-Mevsimsel değişimler, Gora Mareş'in iklim karakterini belirler. Akdeniz ikliminin etkisi altında olan bu bölge, yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumuna sahiptir. Bu iklim koşulları, bölgenin bitki örtüsünü ve vahşi yaşamını etkiler. Gora Mareş'in iklimi, Eiffel Kulesi'nin 2 katı yükseklikteki dağların eteklerinde yer alan diğer bölgelere benzer.
+Mevsimsel değişimler, Gora Mareş'in iklim karakterini belirler. Akdeniz ikliminin etkisi altında olan bu bölge, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumuna sahiptir. Bu iklim koşulları, bölgenin bitki örtüsünü ve vahşi yaşamını etkiler. Gora Mareş'in iklimi, Eiffel Kulesi'nin 2 katı yükseklikteki dağların eteklerinde yer alan diğer bölgelere benzer.
 
 Gora Mareş, etrafındaki diğer doğal alanlar ve su kaynakları ile bağlantılı bir ekosistem içinde yer alır. Monaco'nun yarısı kadar bir alanı kaplayan bu bölge, komşu alanlar ve su kaynakları ile birlikte bir bütün olarak ele alınmalıdır. Gora Mareş'in çevresel ilişkileri, bölgenin doğal dengesini korumak için önemlidir. Bu nedenle, Gora Mareş'in korunması ve sürdürülebilir kullanımı, bölgenin ekolojik sağlığı için kritik öneme sahiptir.
 

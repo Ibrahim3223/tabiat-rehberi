@@ -46,7 +46,7 @@ Coğrafi olarak, Göcek Adası Ege Denizi'nin sularında, Muğla ilinin sınırl
 
 Doğal güzelliği ile dikkat çeken Göcek Adası, bir şehir bloğu büyüklüğünde bir alana sahiptir. Ada, genel olarak taşlı ve kayalık bir yapıya sahiptir, ancak fiziksel boyutları hakkında detaylı bilgi bulunmamaktadır. Bu ada, Ege Denizi'nin suları ile çevrili ve bu su kaynaklarının etkisi, adanın jeolojisini şekillendirmiştir.
 
-İklim açısından, Göcek Adası Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ılık ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, adanın florası ve faunasını etkileyen önemli faktörlerdir. Ada, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alana yayılmış ve bu boyutlar, adanın doğal güzelliğini korumak için önemli bir fırsat sunar.
+İklim açısından, Göcek Adası Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ılık ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, adanın florası ve faunasını etkileyen önemli faktörlerdir. Ada, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alana yayılmış ve bu boyutlar, adanın doğal güzelliğini korumak için önemli bir fırsat sunar.
 
 Çevresel açıdan, Göcek Adası Ege Denizi'nin zengin ekosisteminin bir parçası olarak dikkat çeker. Ada, su kaynakları ve komşu alanlar ile bağlantılı bir şekilde, bölgenin biyolojik çeşitliliğini korumak için önemli bir rol oynar. Monaco'nun küçük bir bölümü kadar bir alanı kaplayan bu ada, çevresindeki doğal güzelliği ve zenginliği ile ziyaretçilerini cezbeder.
 

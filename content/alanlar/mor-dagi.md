@@ -43,7 +43,7 @@ Güneydoğu Anadolu Bölgesi'nin en uzak köşelerinde, Hakkari ilinin dağlık 
 
 Jeolojik açıdan incelendiğinde, Mor Dağı'nın cấuşumu hakkında detaylı bilgi bulunmasa da, bölgenin genel jeolojik yapısı dikkate alındığında, dağlık bir arazide yer aldığı söylenebilir. Tıpkı Monaco'nun yarısı kadar büyük bir alanı kaplayan bu dağlık bölge, coğrafi olarak oldukça önemli bir konuma sahiptir. Mor Dağı, yüksekliği Eiffel Kulesi'nin 3 katı yükseklikte olan bir dağ olarak, bölgenin en önemli doğal oluşumlarından biridir.
 
-Mevsimsel açıdan bakıldığında, Mor Dağı'nın iklimi, bölgenin genel iklim koşullarına benzerlik gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir iklim hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna oluşumlarını etkilemektedir. Çevresindeki diğer dağlar ve vadilerle birlikte, Mor Dağı, bölgenin ekosistemini destekleyen önemli bir doğal oluşumdur.
+Mevsimsel açıdan bakıldığında, Mor Dağı'nın iklimi, bölgenin genel iklim koşullarına benzerlik gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna oluşumlarını etkilemektedir. Çevresindeki diğer dağlar ve vadilerle birlikte, Mor Dağı, bölgenin ekosistemini destekleyen önemli bir doğal oluşumdur.
 
 Bölgenin su kaynakları açısından da önemli bir role sahip olan Mor Dağı, çevresindeki akarsular ve göllerle birlikte, bölgenin su döngüsünü etkilemektedir. Tıpkı Taksim Meydanı'nın 10 katı büyüklüğünde olan bu dağlık alan, bölgenin doğal dengesini korumak için önemli bir görev üstlenmektedir. Mor Dağı, Hakkari ilinin doğal güzelliklerini koruma ve geliştirmek için önemli bir coğrafi oluşum olarak görülmektedir.
 

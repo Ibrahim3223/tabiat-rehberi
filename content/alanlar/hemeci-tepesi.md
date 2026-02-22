@@ -36,7 +36,7 @@ Hemeci Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu tepe, 
 
 ## Coğrafya
 
-Hemeci Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin en güzel noktalarından biri. Bu tepe, Batman ilinin sınırları içerisinde yer alıyor. Bölge, dağlık bir araziye sahip ve etrafı çeşitli bitki türleri ile çevrili. Hemeci Tepesi, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor. Bu tepe, aynı zamanda bölgenin iklimi hakkında da önemli bilgiler sunuyor. Bölge, karasal iklimin özellikleri gösteriyor ve yazları sıcak, kışları soğuk geçiyor. Hemeci Tepesi'nin etrafı, zengin fauna ile çevrili ve birçok farklı hayvan türüne ev sahipliği yapıyor. Bu tepe, aynı zamanda bölgenin su kaynakları hakkında da önemli bilgiler sunuyor. Bölge, birçok farklı akarsu ve derenin kesişme noktasında yer alıyor.
+Hemeci Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin en güzel noktalarından biri. Bu tepe, Batman ilinin sınırları içerisinde yer alıyor. Bölge, dağlık bir araziye sahip ve etrafı çeşitli bitki türleri ile çevrili. Hemeci Tepesi, yüksek bir konumda yer alıyor. Bu tepe, aynı zamanda bölgenin iklimi hakkında da önemli bilgiler sunuyor. Bölge, karasal iklimin özellikleri gösteriyor ve yazları sıcak, kışları soğuk geçiyor. Hemeci Tepesi'nin etrafı, zengin fauna ile çevrili ve birçok farklı hayvan türüne ev sahipliği yapıyor. Bu tepe, aynı zamanda bölgenin su kaynakları hakkında da önemli bilgiler sunuyor. Bölge, birçok farklı akarsu ve derenin kesişme noktasında yer alıyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Hemeci Tepesi, ziyaretçilere birçok farklı aktivite sunuyor. Bu tepe, aynı z
 ## İlginç Bilgiler
 
 - Hemeci Tepesi, 140 hektarlık bir alanı kaplıyor
-- Bu tepe, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor
+- Bu tepe, yüksek bir konumda yer alıyor
 - Hemeci Tepesi, çeşitli bitki türleri ile çevrili
 - Bu tepe, zengin fauna ile çevrili ve birçok farklı hayvan türüne ev sahipliği yapıyor
 - Hemeci Tepesi, bölgenin tarihi geçmişi hakkında önemli bilgiler sunuyor

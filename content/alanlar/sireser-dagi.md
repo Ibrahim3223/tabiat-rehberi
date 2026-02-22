@@ -42,7 +42,7 @@ Mardin'in coğrafi güzelliğiçinde yer alan Şireser Dağı, 37.5772°K ve 41.
 
 Doğal güzelliğin bir diğer yönü, Şireser Dağı'nın fiziksel yapısıdır. Ne yazık ki, ayrıntılı fiziksel veriler bulunmamaktadır, ancak dağın Mardin'in genel coğrafyası içinde önemli bir yer tuttuğu söylenebilir. Mardin'in toplam yüzölçümü düşünüldüğünde, Şireser Dağı, şehrin jeolojik yapısını şekillendiren önemli bir faktör olarak görülebilir.
 
-Mevsimsel özellikler açısından, Şireser Dağı'nın bulunduğu bölge, Türkiye'nin güneydoğu kesiminde yer alır ve bu nedenle iklimi, ülkenin diğer bölgelerine göre daha sıca ve kurudur. Yaz aylarında sıcaklık 40 dereceye ulaşabilirken, kış aylarında ise 0 derecenin altına düşebilir. Bu mevsimsel farklılıklar, bölgenin ekosistemini şekillendiren önemli faktörlerdir.
+Mevsimsel özellikler açısından, Şireser Dağı'nın bulunduğu bölge, Türkiye'nin güneydoğu kesiminde yer alır ve bu nedenle iklimi, ülkenin diğer bölgelerine göre daha sıcak ve kurudur. Yaz aylarında sıcaklık 40 dereceye ulaşabilirken, kış aylarında ise 0 derecenin altına düşebilir. Bu mevsimsel farklılıklar, bölgenin ekosistemini şekillendiren önemli faktörlerdir.
 
 Çevresel açıdan, Şireser Dağı, Mardin'in doğal güzelliğini ve ekosistemini korumak için önemli bir role sahiptir. Dağın yakınında bulunan su kaynakları ve diğer doğal alanlar, bölgenin canlı çeşitliliğini desteklemektedir. Şireser Dağı, Mardin'in doğal güzelliğini keşfetmek isteyenler için bir başlangıç noktası olarak görülebilir ve bu bölgenin korunması, gelecekteki nesiller için önemli bir sorumluluk olarak kabul edilebilir.
 

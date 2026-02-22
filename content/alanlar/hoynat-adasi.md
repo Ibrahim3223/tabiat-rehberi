@@ -45,7 +45,7 @@ Karadeniz'in masmavi sularında gizli bir hazine olarak duran Hoynat Adası, 41.
 
 Doğal güzellikleri ile dikkat çeken Hoynat Adası, boyutları hakkında kesin bilgiler olmasa da, bir şehir bloğu büyüklüğünde bir alanı kaplıyor gibi görünüyor. Jeolojik yapısı hakkında da detaylı bilgi bulunmayan ada, Karadeniz'in dalgalı sularına karşı dayanıklı bir şekilde duruyor. Ada hakkında fiziksel veriler sınırlı olsa da, çevredeki coğrafyanın özellikleri hakkında bilgi sahibi olmak, bu küçük ada hakkında daha iyi bir fikir edinmemizi sağlıyor.
 
-Mevsimsel değişikliklere göre hava durumu değişen Hoynat Adası, Karadeniz'in karakteristik iklim koşullarına sahip. Kış aylarında soğu ve yağışlı, yaz aylarında ise serin ve güneşli bir hava hüküm sürüyor. Bu mevsimsel özellikler, ada etrafındaki su kaynakları ve ekosistem bağlantılarını etkiliyor. Ada ve çevresindeki su kaynakları, bölgenin ekolojik dengesini koruyor.
+Mevsimsel değişikliklere göre hava durumu değişen Hoynat Adası, Karadeniz'in karakteristik iklim koşullarına sahip. Kış aylarında soğuk ve yağışlı, yaz aylarında ise serin ve güneşli bir hava hüküm sürüyor. Bu mevsimsel özellikler, ada etrafındaki su kaynakları ve ekosistem bağlantılarını etkiliyor. Ada ve çevresindeki su kaynakları, bölgenin ekolojik dengesini koruyor.
 
 İki tarafında Karadeniz'in sularının uzandığı Hoynat Adası, çevresindeki komşu alanlar ile birlikte bir bütünü oluşturuyor. Ada, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor gibi görünse de, gerçek boyutları hakkında kesin bilgiler bulunmuyor. Buna rağmen, ada ve çevresindeki su kaynakları, bölgenin coğrafi yapısını anlamak için önemli bir nokta olarak dikkat çekiyor.
 

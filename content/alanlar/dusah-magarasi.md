@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde, Batman şehrinin yakınında yer alan
 
 Doğal bir anıt olan Düşah Mağarası, jeopark olarak kabul edilmektedir. Ancak, mağaranın boyutları hakkında detaylı bilgi bulunmamasına rağmen, bölgenin jeolojik yapısı, kireç taşı ve diğer sedimentler açısından zengindir. Mağaranın şekli ve yapısı, milyonlarca yıl boyunca oluşan jeolojik süreçlerin sonucudur. Bu doğal oluşum, bölgenin jeolojik tarihini anlamak için önemli bir kaynak teşkil etmektedir.
 
-İklim açısından Düşah Mağarası, Güneydoğu Anadolu Bölgesi'nin karakteristik iklimine sahiptir. Bölge, yaz aylarında sıca ve kuru, kış aylarında ise soğu ve yağışlı bir iklimi sahiptir. Mağaranın iç sıcaklığı, yıl boyunca nispeten sabit kalır, ancak dış ortamın sıcaklık ve nem değişimleri, mağaranın içinde bulunan oluşumları etkileyebilir.
+İklim açısından Düşah Mağarası, Güneydoğu Anadolu Bölgesi'nin karakteristik iklimine sahiptir. Bölge, yaz aylarında sıcak ve kuru, kış aylarında ise soğuk ve yağışlı bir iklimi sahiptir. Mağaranın iç sıcaklığı, yıl boyunca nispeten sabit kalır, ancak dış ortamın sıcaklık ve nem değişimleri, mağaranın içinde bulunan oluşumları etkileyebilir.
 
 Çevresel açıdan Düşah Mağarası, Batman şehri ve çevresindeki dağlık arazilerle bağlantılıdır. Bölgede bulunan su kaynakları, mağaranın oluşumunda önemli bir rol oynamıştır. Mağaranın yakınındaki Batman Nehri, bölgenin ekosistemini destekleyen önemli bir su kaynağıdır. Ayrıca, mağaranın bulunduğu bölgede, çeşitli bitki ve hayvan türleri de bulunmaktadır. Bu doğal çeşitlilik, mağaranın çevresel önemini vurgulamaktadır.
 

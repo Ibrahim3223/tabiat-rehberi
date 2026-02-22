@@ -36,7 +36,7 @@ Elek Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu bölge, 
 
 ## Coğrafya
 
-Elek Tepesi, coğrafi olarak Burdur'un merkezine yakın bir konumda yer alıyor. Bu bölge, 140 hektarlık bir alanı kapsıyor. Coğrafi olarak çevresinde yer alan diğer tepe ve dağlarla birlikte bir bütün teşkil ediyor. İklimi, Akdeniz Bölgesi'nin genel iklimine uygun olarak sıca ve kurak geçiyor. Yaz aylarında sıcaklık artarken, kış aylarında ılıman bir hava hakim oluyor. Bu durum, Elek Tepesi'nin flora ve faunasını da etkiliyor. Çeşitli bitki türleri ve hayvanlar, bu coğrafi koşullarda yaşamlarını sürdürüyorlar.
+Elek Tepesi, coğrafi olarak Burdur'un merkezine yakın bir konumda yer alıyor. Bu bölge, 140 hektarlık bir alanı kapsıyor. Coğrafi olarak çevresinde yer alan diğer tepe ve dağlarla birlikte bir bütün teşkil ediyor. İklimi, Akdeniz Bölgesi'nin genel iklimine uygun olarak sıcak ve kurak geçiyor. Yaz aylarında sıcaklık artarken, kış aylarında ılıman bir hava hakim oluyor. Bu durum, Elek Tepesi'nin flora ve faunasını da etkiliyor. Çeşitli bitki türleri ve hayvanlar, bu coğrafi koşullarda yaşamlarını sürdürüyorlar.
 
 ## Flora ve Fauna
 

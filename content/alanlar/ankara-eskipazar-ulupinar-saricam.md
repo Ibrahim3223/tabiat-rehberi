@@ -30,7 +30,7 @@ Ankara-Eskipazar-Ulupinar Saricam'ın tarihi geçmişi, yüzyıllar boyunca şek
 
 ## Coğrafya
 
-Ankara-Eskipazar-Ulupinar Saricam, coğrafi olarakInternal Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Parkın coğrafyası, genellikle dağlık ve engebeli arazilerden oluşur. Bu coğrafi yapı, çeşitli bitki türlerinin yetişmesine ve zengin bir faunanın oluşmasına olanak tanır. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösterir. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, parkın flora ve faunasının şekillenmesinde önemli bir rol oynamaktadır. Saricam, coğrafi olarak zengin bir bölgede yer alır ve ziyaretçilerine, doğanın tüm güzelliğini sunar. Parkın coğrafyası, aynı zamanda, çeşitli doğa yürüyüşleri ve macera aktivitelerine olanak tanır.
+Ankara-Eskipazar-Ulupinar Saricam, coğrafi olarakInternal Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Parkın coğrafyası, genellikle dağlık ve engebeli arazilerden oluşur. Bu coğrafi yapı, çeşitli bitki türlerinin yetişmesine ve zengin bir faunanın oluşmasına olanak tanır. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösterir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, parkın flora ve faunasının şekillenmesinde önemli bir rol oynamaktadır. Saricam, coğrafi olarak zengin bir bölgede yer alır ve ziyaretçilerine, doğanın tüm güzelliğini sunar. Parkın coğrafyası, aynı zamanda, çeşitli doğa yürüyüşleri ve macera aktivitelerine olanak tanır.
 
 ## Flora ve Fauna
 

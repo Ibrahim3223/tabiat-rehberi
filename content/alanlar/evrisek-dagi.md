@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Evrisek Dağı, 38.0850°K ve
 
 Doğal güzellikleri ile dikkat çeken Evrisek Dağı, çevresindeki diğer coğrafi oluşumlarla birlikte bir bütünü oluşturur. Dağın fiziksel yapısını incelemek için koordinatlarından yararlanabiliriz. 38.0850°K enlemi, Evrisek Dağı'nı Akdeniz Bölgesi'ndeki diğer dağlardan ayıran bir konumda yerleştirmektedir. Bu enlem, aynı zamanda dağların iklimsel özelliklerini de etkilemektedir.
 
-İklimsel olarak bakıldığında, Evrisek Dağı'nın bulunduğu bölge, karasal bir iklim karakterine sahiptir. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir hava hakimdir. Bu mevsimsel değişiklikler, dağların ekosistemini ve bitki örtüsünü etkilemektedir. Evrisek Dağı'nın iklimi, bölgedeki diğer coğrafi oluşumlarla birlikte, Güneydoğu Anadolu Bölgesi'nin genel iklim yapısını şekillendirmektedir.
+İklimsel olarak bakıldığında, Evrisek Dağı'nın bulunduğu bölge, karasal bir iklim karakterine sahiptir. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir hava hakimdir. Bu mevsimsel değişiklikler, dağların ekosistemini ve bitki örtüsünü etkilemektedir. Evrisek Dağı'nın iklimi, bölgedeki diğer coğrafi oluşumlarla birlikte, Güneydoğu Anadolu Bölgesi'nin genel iklim yapısını şekillendirmektedir.
 
 Çevresel açıdan bakıldığında, Evrisek Dağı, bölgedeki su kaynakları ve ekosistem bağlantıları ile önemli bir rol oynamaktadır. Dağın yakınındaki nehirler ve akarsular, bölgenin sulama ve içme suyu ihtiyacını karşılamaktadır. Ayrıca, Evrisek Dağı'nın bitki örtüsü, bölgedeki diğer coğrafi oluşumlarla birlikte, bir bütünü oluşturan ekosistemi desteklemektedir. Bu nedenle, Evrisek Dağı, bölgenin çevresel dengesini korumak açısından önemli bir konumda yer almaktadır.
 

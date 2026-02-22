@@ -46,7 +46,7 @@ Doğanın sunduğu güzellikleri keşfetmek isteyenler için, "Maymun Dağı" bi
 
 Jeolojik açıdan bakıldığında, Maymun Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel coğrafi özellikleri düşünüldüğünde, bu dağın bir şehir bloğu büyüklüğünde veya birkaç olimpik havuz kadar bir alanı kapladığı söylenebilir. Ancak, bu karşılaştırmalar sadece bir fikir vermek amaçlıdır, çünkü gerçek boyutlar hakkında net bilgiler bulunmuyor.
 
-İklim açısından Maymun Dağı, Türkiye'nin Akdeniz ikliminin etkilerini taşıyor. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu gösteriyor. Mevsimsel değişiklikler, bitki örtüsünü ve vahşi yaşamı etkiliyor ve bu da bölgenin ekolojik dengesini belirliyor.
+İklim açısından Maymun Dağı, Türkiye'nin Akdeniz ikliminin etkilerini taşıyor. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu gösteriyor. Mevsimsel değişiklikler, bitki örtüsünü ve vahşi yaşamı etkiliyor ve bu da bölgenin ekolojik dengesini belirliyor.
 
 Çevresel açıdan Maymun Dağı, komşu dağlar ve vadilerle bağlantılı bir ekosistem oluşturuyor. Bölgedeki su kaynakları, bitki örtüsü ve vahşi yaşam, bu dağların bir parçası olarak düşünülüyor. Monaco'nun yarısı kadar bir alanı kaplayan bu dağlık bölge, İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplıyor ve bu da bölgeyi önemli bir ekolojik alan haline getiriyor.
 

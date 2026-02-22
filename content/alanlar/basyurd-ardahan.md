@@ -43,7 +43,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden Ardahan'da yer alan Başyurd Dağ�
 
 Jeolojik yapı itibarıyla, Başyurd Dağı'nın çevresindeki araziler genellikle dağlık ve engebeli bir yapıya sahiptir. Ancak, detaylı fiziksel veriler bulunmamasına rağmen, bu bölgenin coğrafi olarak önemli bir konumda olduğu söylenebilir. Dağın yüksekliği ve genişliği hakkında belirli rakamlar olmasa da, genel olarak Ardahan'ın coğrafyası, yüksek dağlar ve geniş ovalarla çevrilidir. Bu bölge, yaklaşık olarak Beşiktaş ilçesi büyüklüğünde bir alanı kaplar.
 
-Mevsimsel olarak, Başyurd Dağı ve çevresinin iklimi karasal iklim özellikleri gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise serin ve yağışlı bir hava hakimdir. Bu bölgenin iklimi, yüksek rakımlı bölgelerin karakteristik özelliklerini taşır. Etrafındaki dağların yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olan bu dağlar, bölgenin iklimini şekillendiren önemli faktörlerdir.
+Mevsimsel olarak, Başyurd Dağı ve çevresinin iklimi karasal iklim özellikleri gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise serin ve yağışlı bir hava hakimdir. Bu bölgenin iklimi, yüksek rakımlı bölgelerin karakteristik özelliklerini taşır. Etrafındaki dağların yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olan bu dağlar, bölgenin iklimini şekillendiren önemli faktörlerdir.
 
 Çevresel açıdan, Başyurd Dağı'nın bulunduğu bölge, Ardahan Nehri gibi önemli su kaynaklarına yakın bir konumda yer alır. Bu nehrin vadisi, bölgenin ekosistemini destekleyen önemli bir kaynak olarak görev yapar. Ayrıca, bu dağların eteklerinde ve civarında bulunan ormanlık alanlar, bölgenin biyolojik çeşitliliğini korur ve zenginleştirir. Bu doğal güzellikler, ziyaretçilere doğayla iç içe bir deneyim sunar.
 

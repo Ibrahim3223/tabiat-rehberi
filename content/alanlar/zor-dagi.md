@@ -44,7 +44,7 @@ Coğrafi olarak Çanakkale'nin merkezine yaklaşık 20 kilometre uzaklıkta yer 
 
 Doğrudan fiziksel verileri olmasa da, Zor Dağı'nın coğrafi yapısı ve çevresi, bölgenin jeolojik özelliklerini yansıtan bir yapıya sahiptir. Monaco'nun yarısı kadar bir alanı kaplayan bu dağ, Taksim Meydanı'nın birkaç katı büyüklüğündedir. Ancak, tam olarak boyutlarını belirlemek için daha ayrıntılı verilere ihtiyaç duyulmaktadır. Zor Dağı'nın jeolojik yapısı, bölgenin tarihini ve coğrafi oluşumunu anlamak için önemli bir role sahiptir.
 
-Mevsimsel açıdan bakıldığında, Zor Dağı'nın iklimi, Ege Bölgesi'nin genel iklim karakterini yansıtmaktadır. Kış aylarında ılıman, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu mevsimsel özellikler, bölgede çeşitli bitki türlerinin yetişmesine olanak sağlar. Eiffel Kulesi'nin birkaç katı yükseklikte olan Zor Dağı, bölgenin önemli yüksekliklerinden birini oluşturmaktadır.
+Mevsimsel açıdan bakıldığında, Zor Dağı'nın iklimi, Ege Bölgesi'nin genel iklim karakterini yansıtmaktadır. Kış aylarında ılıman, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu mevsimsel özellikler, bölgede çeşitli bitki türlerinin yetişmesine olanak sağlar. Eiffel Kulesi'nin birkaç katı yükseklikte olan Zor Dağı, bölgenin önemli yüksekliklerinden birini oluşturmaktadır.
 
 Çevresel açıdan, Zor Dağı, komşu alanlar ve su kaynakları ile önemli bir ekosistem bağlantısına sahiptir. İstanbul'un Adalar ilçesi büyüklüğünde bir alana yayılan bu dağ, bölgenin su kaynaklarının oluşumunda ve ekosistem dengesinde önemli bir role sahiptir. Zor Dağı'nın çevresinde yer alan su kaynakları, bölgenin tarım ve hayvancılık faaliyetleri için hayati önem taşımaktadır.
 

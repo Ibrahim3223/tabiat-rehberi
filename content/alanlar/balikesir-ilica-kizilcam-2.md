@@ -30,7 +30,7 @@ Balikesir-Ilica Kızılçam 2'nin tarihi geçmişi yüzyıllar boyunca şekillen
 
 ## Coğrafya
 
-Balikesir-Ilica Kızılçam 2, İç Anadolu Bölgesi'nin coğrafi olarak çeşitlilik gösteren bir bölgesinde yer alır. Bu bölge, geniş ormanlık alanları, dağlık arazileri ve vadi gibi farklı coğrafi oluşumları içerir. İklimi ise karasal iklim özellikleri gösterir ve mevsimsel olarak değişkenlik gösterir. Bahar aylarında yeşeren flora, yaz aylarında sıca ve kurak bir hava, sonbaharında renk cümbüşü ile dolu bir manzara ve kış aylarında karla kaplı bir görünüm sunar. Bu coğrafi çeşitlilik, birçok farklı türün yaşamasına olanak tanır ve zengin bir ekosistemi destekler.
+Balikesir-Ilica Kızılçam 2, İç Anadolu Bölgesi'nin coğrafi olarak çeşitlilik gösteren bir bölgesinde yer alır. Bu bölge, geniş ormanlık alanları, dağlık arazileri ve vadi gibi farklı coğrafi oluşumları içerir. İklimi ise karasal iklim özellikleri gösterir ve mevsimsel olarak değişkenlik gösterir. Bahar aylarında yeşeren flora, yaz aylarında sıcak ve kurak bir hava, sonbaharında renk cümbüşü ile dolu bir manzara ve kış aylarında karla kaplı bir görünüm sunar. Bu coğrafi çeşitlilik, birçok farklı türün yaşamasına olanak tanır ve zengin bir ekosistemi destekler.
 
 ## Flora ve Fauna
 

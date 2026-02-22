@@ -40,7 +40,7 @@ Doğu Anadolu Bölgesi'nin ücra köşesinde yer alan Karavela Dağı, 37.6197°
 
 Jeolojik açıdan incelendiğinde, Karavela Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölgenin coğrafi özellikleri düşünüldüğünde, dağlık bir arazinin parçası olduğu söylenebilir. Bu régionun coğrafi yapısı, genellikle yüksek dağlar ve derin vadilerle karakterizedir. Karavela Dağı, bu bölgeye özgü coğrafi oluşumların bir parçası olarak, bölgenin doğal güzelliğine katkıda bulunmaktadır.
 
-İklim açısından, Karavela Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir alandır. Bu bölgede, yazlar sıca ve kurak, kışlar ise soğu ve kar yağışlı geçer. Dağın rakımı, bölgenin iklim koşullarını etkileyen önemli bir faktördür. Eiffel Kulesi'nin yaklaşık 5 katı yükseklikte olan bu dağ, bölgenin hava koşullarını belirlemede önemli bir rol oynamaktadır.
+İklim açısından, Karavela Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir alandır. Bu bölgede, yazlar sıcak ve kurak, kışlar ise soğuk ve kar yağışlı geçer. Dağın rakımı, bölgenin iklim koşullarını etkileyen önemli bir faktördür. Eiffel Kulesi'nin yaklaşık 5 katı yükseklikte olan bu dağ, bölgenin hava koşullarını belirlemede önemli bir rol oynamaktadır.
 
 Çevresel açıdan, Karavela Dağı, bölgenin ekosistem bağlantılarının önemli bir parçasıdır. Dağın eteklerinde, çeşitli bitki türleri ve hayvan popülasyonları bulunur. Ayrıca, dağlık arazinin bir parçası olan Karavela Dağı, bölgenin su kaynaklarının oluşumunda da önemli bir rol oynamaktadır. Monaco'nun yarısı kadar bir alanı kaplayan bu dağlık bölge, bölgenin doğal kaynaklarının korunmasında önemli bir görev üstlenmektedir.
 

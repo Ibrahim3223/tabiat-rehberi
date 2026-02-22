@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden biri olan Van'ın dağlık coğraf
 
 Jeolojik açıdan bakıldığında, Pirreşit Dağı'nın fiziksel yapısı hakkında net bilgiler olmasa da, dağlık bir bölgede yer aldığı biliniyor. Van Gölü'nün güneydoğu kıyılarına paralel uzanan dağ silsilesinin bir parçası olan Pirreşit Dağı, bölgenin genel jeolojik yapısına uygun olarak volkani ve sedimentatif kayaçlardan oluşuyor. Yüksekliği hakkında kesin bir veri olmasa da, bölgenin genel yüksekliklerine bakıldığında, Eiffel Kulesi'nin birkaç katı yükseklikte bir tepe olabileceği düşünülüyor.
 
-Mevsimsel değişiklikler açısından, Pirreşit Dağı'nın bulunduğu Van bölgesi, karasal iklimin hakim olduğu bir bölge. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakim. Bu mevsimsel özellikler, dağın ekosistemini ve bitki örtüsünü şekillendiriyor. İlkbahar ve sonbahar aylarında ise, ılıman bir hava durumu hakim oluyor.
+Mevsimsel değişiklikler açısından, Pirreşit Dağı'nın bulunduğu Van bölgesi, karasal iklimin hakim olduğu bir bölge. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakim. Bu mevsimsel özellikler, dağın ekosistemini ve bitki örtüsünü şekillendiriyor. İlkbahar ve sonbahar aylarında ise, ılıman bir hava durumu hakim oluyor.
 
 Bölgenin ekosistem bağlantıları açısından, Pirreşit Dağı, Van Gölü'nün kuzeybatı kıyılarına yakın bir konumda . Bu, dağın su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahip olduğunu gösteriyor. Van Gölü, bölgenin en önemli su kaynaklarından biri ve çevredeki dağlar, gölün su dengesini etkileyen önemli bir faktör. Bu nedenle, Pirreşit Dağı, bölgenin su kaynakları ve ekosistem bağlantıları açısından önemli bir doğal oluşum olarak dikkat çekiyor.
 

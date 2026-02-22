@@ -30,11 +30,11 @@ Balikesir-Alacam-Degirmenegrek-Avrupa Kayini milli parkının tarihi geçmişi, 
 
 ## Coğrafya
 
-Balikesir-Alacam-Degirmenegrek-Avrupa Kayini milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgede yer alıyor. Parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Burada yer alan dağlar, vadiler ve ovalar, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklim conditionsına uygun olarak karasal bir yapıya sahip. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıcak ve kuru bir hava hüküm sürüyor. Bu coğrafi ve iklimsel koşullar, parkın flora ve faunasının çeşitliliğini etkiliyor.
+Balikesir-Alacam-Degirmenegrek-Avrupa Kayini milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgede yer alıyor. Parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Burada yer alan dağlar, vadiler ve ovalar, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklim conditionsına uygun olarak karasal bir yapıya sahip. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kuru bir hava hüküm sürüyor. Bu coğrafi ve iklimsel koşullar, parkın flora ve faunasının çeşitliliğini etkiliyor.
 
 ## Flora ve Fauna
 
-Balikesir-Alacam-Degirmenegrek-Avrupa Kayini milli parkı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Parkın flora ve faunası, mevsimsel değişimlere göre farklılık gösteriyor. Kış aylarında, bazı bitki türleri ve hayvanlar, daha soğu ve kar yağışlı bölgelere göç ederken, yaz aylarında ise daha sıca ve kuru bölgelere yöneliyorlar. Bu mevsimsel değişimler, parkın ekolojisini etkiliyor ve ziyaretçilere farklı zamanlarda farklı deneyimler sunuyor.
+Balikesir-Alacam-Degirmenegrek-Avrupa Kayini milli parkı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Parkın flora ve faunası, mevsimsel değişimlere göre farklılık gösteriyor. Kış aylarında, bazı bitki türleri ve hayvanlar, daha soğuk ve kar yağışlı bölgelere göç ederken, yaz aylarında ise daha sıcak ve kuru bölgelere yöneliyorlar. Bu mevsimsel değişimler, parkın ekolojisini etkiliyor ve ziyaretçilere farklı zamanlarda farklı deneyimler sunuyor.
 
 ## Ziyaret Bilgileri
 

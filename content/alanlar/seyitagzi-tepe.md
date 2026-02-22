@@ -42,7 +42,7 @@ Diyarbakır'ın coğrafyasında önemli bir nokta olan Seyitağzı Tepe, 38.3242
 
 Jeolojik açıdan bakıldığında, Seyitağzı Tepe'nin fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel coğrafi özellikleri dikkate alındığında, tepe ve çevresinin bir olimpik havuz kadar küçük ama önemli bir alan olduğunu söyleyebiliriz. Bu küçük alan, Diyarbakır'ın geniş ve çeşitli coğrafyası içinde önemli bir noktadır ve bölgenin doğal güzelliğini koruma altına almak için önemli bir role sahiptir.
 
-Mevsimsel açıdan, Seyitağzı Tepe ve çevresi, Diyarbakır'ın karakteristik iklimini yansıtan bir bölgedir. Yaz aylarında sıcaklık ve kuraklık hüküm sürerken, kış aylarında soğu ve yağışlı bir hava hakimdir. Bu mevsimsel değişiklikler, tepe ve çevresinin ekosistemindeki canlıların uyum sağlaması için önemli bir faktördür.
+Mevsimsel açıdan, Seyitağzı Tepe ve çevresi, Diyarbakır'ın karakteristik iklimini yansıtan bir bölgedir. Yaz aylarında sıcaklık ve kuraklık hüküm sürerken, kış aylarında soğuk ve yağışlı bir hava hakimdir. Bu mevsimsel değişiklikler, tepe ve çevresinin ekosistemindeki canlıların uyum sağlaması için önemli bir faktördür.
 
 Doğal kaynaklar açısından, Seyitağzı Tepe ve çevresinin su kaynakları ve ekosistem bağlantıları önemlidir. Bölge, yakınlarında bulunan nehirler ve akarsular ile bağlantılıdır ve bu su kaynakları, tepe ve çevresinin canlıları için hayati önem taşır. Ayrıca, tepe ve çevresinin komşu alanlar ile olan ilişkisi, bölgenin doğal dengesini koruma altına almak için önemlidir. Monaco'nun yarısı kadar büyük olmayan bu bölge, İstanbul'un Adalar ilçesi büyüklüğünde olmayan bir alan olarak, Diyarbakır'ın coğrafyasında önemli bir yer tutmaktadır.
 

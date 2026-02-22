@@ -36,7 +36,7 @@ wikidata_id: "Q31506855"
 
 ## Coğrafya
 
-Şeyhhasan Tepesi, Van ilinin coğrafi yapısını temsil eden önemli bir noktadır. Bu tepe, 140 hektarlık geniş bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil eder. Tepenin coğrafi konumu, Doğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölgenin iklimi, kışları soğu ve karlı, yazları ise sıcak ve kurudur. Şeyhhasan Tepesi, bu coğrafi özelliklere sahip bir bölgede yer alır ve ziyaretçilerine benzersiz bir doğal güzellik sunar. Tepenin etrafında, çeşitli bitki türleri ve fauna çeşitliliği bulunur. Bu bölge, doğa severlerin ve coğrafya meraklılarının ilgi odağıdır.
+Şeyhhasan Tepesi, Van ilinin coğrafi yapısını temsil eden önemli bir noktadır. Bu tepe, 140 hektarlık geniş bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil eder. Tepenin coğrafi konumu, Doğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölgenin iklimi, kışları soğuk ve karlı, yazları ise sıcak ve kurudur. Şeyhhasan Tepesi, bu coğrafi özelliklere sahip bir bölgede yer alır ve ziyaretçilerine benzersiz bir doğal güzellik sunar. Tepenin etrafında, çeşitli bitki türleri ve fauna çeşitliliği bulunur. Bu bölge, doğa severlerin ve coğrafya meraklılarının ilgi odağıdır.
 
 ## Flora ve Fauna
 

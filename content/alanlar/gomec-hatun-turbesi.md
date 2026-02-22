@@ -38,7 +38,7 @@ Gömeç Hatun Türbesi, yüzyıllar boyunca önemli bir kültürel ve tarihi mer
 
 ## Coğrafya
 
-Gömeç Hatun Türbesi, Konya'nın Selçuklu ilçesinde, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir noktasında yer alır. Bu bölge, yüksek bir plato üzerinde kurulmuştur ve etrafı, geniş ve verimli ovalarla çevrilidir. Türbe ve çevresi, iklim açısından, karasal iklimin característicasını taşır. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu coğrafi konum, Gömeç Hatun Türbesi'nin çevresinde, çeşitli bitki türleri ve fauna çeşitliliğine yol açmıştır. Türbe, aynı zamanda, geniş ve yeşil alanlara sahiptir ve bu alanlar, ziyaretçilere, dinlenme ve doğayı seyretme imkanı sunar. Gömeç Hatun Türbesi, coğrafi açıdan, önemli bir konumda yer alır ve bu konum, türbenin, tarihi ve kültürel açıdan önemini artırmıştır.
+Gömeç Hatun Türbesi, Konya'nın Selçuklu ilçesinde, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir noktasında yer alır. Bu bölge, yüksek bir plato üzerinde kurulmuştur ve etrafı, geniş ve verimli ovalarla çevrilidir. Türbe ve çevresi, iklim açısından, karasal iklimin característicasını taşır. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu coğrafi konum, Gömeç Hatun Türbesi'nin çevresinde, çeşitli bitki türleri ve fauna çeşitliliğine yol açmıştır. Türbe, aynı zamanda, geniş ve yeşil alanlara sahiptir ve bu alanlar, ziyaretçilere, dinlenme ve doğayı seyretme imkanı sunar. Gömeç Hatun Türbesi, coğrafi açıdan, önemli bir konumda yer alır ve bu konum, türbenin, tarihi ve kültürel açıdan önemini artırmıştır.
 
 ## Flora ve Fauna
 

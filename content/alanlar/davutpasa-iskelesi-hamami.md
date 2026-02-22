@@ -37,7 +37,7 @@ Davutpaşa İskelesi Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekille
 
 ## Coğrafya
 
-Davutpaşa İskelesi Hamamı, Marmara Bölgesi'nin en önemli coğrafi özelliklerine sahip. Bu bölge, deniz seviyesinden yaklaşık yüksek bir konumdate ve geniş bir yeşil alan sunuyor. Hamamın etrafı, çeşitli ağaç türleriyle çevrili ve ziyaretçilerine doğal bir ortam sunuyor. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. İstanbul'un coğrafi özellikleri, bu bölgeyi özel bir destinasyon haline getirmiş. Deniz, orman ve şehir hayatının bir arada bulunduğu bu bölge, ziyaretçilerine geniş bir yelpaze sunuyor.
+Davutpaşa İskelesi Hamamı, Marmara Bölgesi'nin en önemli coğrafi özelliklerine sahip. Bu bölge, yüksek bir konumda ve geniş bir yeşil alan sunuyor. Hamamın etrafı, çeşitli ağaç türleriyle çevrili ve ziyaretçilerine doğal bir ortam sunuyor. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. İstanbul'un coğrafi özellikleri, bu bölgeyi özel bir destinasyon haline getirmiş. Deniz, orman ve şehir hayatının bir arada bulunduğu bu bölge, ziyaretçilerine geniş bir yelpaze sunuyor.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ Sütlüce Hamamı'nın tarihi geçmişi oldukça eskilere dayanıyor. Bu bölge,
 
 ## Coğrafya
 
-Sütlüce Hamamı, coğrafi olarak Marmara Bölgesi'nde yer alıyor. Bu bölge, İstanbul Boğazı'na oldukça yakın. Bu nedenle, Sütlüce Hamamı, deniz suyuyla çevrili bir bölge. Plajın etrafında, çeşitli tepe ve dağlar yer alıyor. Bu tepe ve dağlar, plaja güzel bir manzara sunuyor. Ayrıca, bu bölge, çeşitli bitki türleri ve fauna ile zengin. Sütlüce Hamamı, özellikle yaz aylarında sıca ve nemli bir iklime sahip. Bu nedenle, plajın etrafında, çeşitli ağaçlar ve bitkiler yetiştiriliyor. Bu ağaçlar ve bitkiler, plaja gölge sağlıyor ve hava kalitesini iyileştiriyor.
+Sütlüce Hamamı, coğrafi olarak Marmara Bölgesi'nde yer alıyor. Bu bölge, İstanbul Boğazı'na oldukça yakın. Bu nedenle, Sütlüce Hamamı, deniz suyuyla çevrili bir bölge. Plajın etrafında, çeşitli tepe ve dağlar yer alıyor. Bu tepe ve dağlar, plaja güzel bir manzara sunuyor. Ayrıca, bu bölge, çeşitli bitki türleri ve fauna ile zengin. Sütlüce Hamamı, özellikle yaz aylarında sıcak ve nemli bir iklime sahip. Bu nedenle, plajın etrafında, çeşitli ağaçlar ve bitkiler yetiştiriliyor. Bu ağaçlar ve bitkiler, plaja gölge sağlıyor ve hava kalitesini iyileştiriyor.
 
 ## Flora ve Fauna
 

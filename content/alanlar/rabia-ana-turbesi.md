@@ -37,7 +37,7 @@ Rabia Ana Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. B
 
 ## Coğrafya
 
-Rabia Ana Türbesi, Doğu Anadolu Bölgesi'nin coğrafi güzellikleri arasında yer almaktadır. Yakutiye ilçesinde bulunan bu alan, doğal güzellikleriyle dikkat çekmektedir. Coğrafi olarak, bu bölge, dağlık ve engebeli arazilerle çevrilidir. İklim olarak, karasal iklimin özellikleri görülmektedir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise serin ve yağışlı bir hava hüküm sürmektedir. Bu coğrafi ve iklimsel özellikler, ziyaretçilere farklı mevsimlerde farklı deneyimler sunmaktadır. Çevre, çeşitli bitki türleriyle zengin bir ekosisteme sahiptir. Bu doğal güzellikler, ziyaretçileri cezbeden önemli bir unsur olarak karşımıza çıkmaktadır.
+Rabia Ana Türbesi, Doğu Anadolu Bölgesi'nin coğrafi güzellikleri arasında yer almaktadır. Yakutiye ilçesinde bulunan bu alan, doğal güzellikleriyle dikkat çekmektedir. Coğrafi olarak, bu bölge, dağlık ve engebeli arazilerle çevrilidir. İklim olarak, karasal iklimin özellikleri görülmektedir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise serin ve yağışlı bir hava hüküm sürmektedir. Bu coğrafi ve iklimsel özellikler, ziyaretçilere farklı mevsimlerde farklı deneyimler sunmaktadır. Çevre, çeşitli bitki türleriyle zengin bir ekosisteme sahiptir. Bu doğal güzellikler, ziyaretçileri cezbeden önemli bir unsur olarak karşımıza çıkmaktadır.
 
 ## Flora ve Fauna
 

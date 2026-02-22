@@ -31,7 +31,7 @@ wikidata_id: "Q137291132"
 
 ## Coğrafya
 
-İç Anadolu Bölgesi coğrafi olarak geniş ve farklı yapısıyla dikkat çeker. Bu bölgede, geniş otlaklar, dağlar, vadiler ve ovalar bulunur. İklim olarak karasal iklimin hakim olduğu bu bölge, yazları sıca ve kurak, kışları soğu ve kar yağışlı geçer. Art Nouveau European Route, bu coğrafi çeşitlilik içinde yer alır ve ziyaretçilerine geniş bir manzara sunar. Bölgenin coğrafi yapısı, flora ve fauna için uygun koşullar sağlar. Burada, çeşitli bitki türleri ve hayvanlar yaşar. Bu bölge, aynı zamanda farklı su kaynaklarına da ev sahipliği yapar.
+İç Anadolu Bölgesi coğrafi olarak geniş ve farklı yapısıyla dikkat çeker. Bu bölgede, geniş otlaklar, dağlar, vadiler ve ovalar bulunur. İklim olarak karasal iklimin hakim olduğu bu bölge, yazları sıcak ve kurak, kışları soğuk ve kar yağışlı geçer. Art Nouveau European Route, bu coğrafi çeşitlilik içinde yer alır ve ziyaretçilerine geniş bir manzara sunar. Bölgenin coğrafi yapısı, flora ve fauna için uygun koşullar sağlar. Burada, çeşitli bitki türleri ve hayvanlar yaşar. Bu bölge, aynı zamanda farklı su kaynaklarına da ev sahipliği yapar.
 
 ## Flora ve Fauna
 

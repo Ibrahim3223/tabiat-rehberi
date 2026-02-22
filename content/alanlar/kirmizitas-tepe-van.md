@@ -40,7 +40,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden biri olan Van, coğrafi güzellikl
 
 Jeolojik yapı itibariyle bakıldığında, Kırmızıtaş Tepe'nin çevresinde volkani ve sedimenteer kayaçlar yaygın. Bu oluşumlar, bölgenin jeolojik geçmişini anlamak için önemli ipuçları sunuyor. Ancak, tepe hakkında daha detaylı fiziksel veriler bulunmuyor.
 
-Van'ın iklimi, karasal iklim özellikleri gösteriyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakim. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Kırmızıtaş Tepe de bu iklim koşullarına uyum sağlayan bitki ve hayvan türlerine ev sahipliği yapıyor.
+Van'ın iklimi, karasal iklim özellikleri gösteriyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakim. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Kırmızıtaş Tepe de bu iklim koşullarına uyum sağlayan bitki ve hayvan türlerine ev sahipliği yapıyor.
 
 Kırmızıtaş Tepe'nin çevresinde, Van Gölü gibi önemli su kaynakları bulunuyor. Bu göl, bölgenin ekosistemini destekleyen büyük bir su birikintisi. Tepe, aynı zamanda Van'ın diğer dağlık alanlarına bağlantılı, bu da bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir rota oluşturuyor.
 

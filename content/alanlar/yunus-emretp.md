@@ -30,7 +30,7 @@ YUNUS EMRE_TP'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bölge, t
 
 ## Coğrafya
 
-YUNUS EMRE_TP, İç Anadolu Bölgesi'nin coğrafi olarak en güzel bölgelerinden birisidir. Parkın içinde, çeşitli coğrafi oluşumlar bulunur. Burada, dağlar, ovalar, nehirler ve göller gibi farklı coğrafi yapılar mevcuttur. Parkın iklimi, karasal iklim özellikleri gösterir. Kışlar soğu ve karlı, yazlar sıca ve kurudur. Parkın çevresi, çeşitli bitki türleri ile kaplıdır. Burada, ormanlar, çayırlar ve meralar gibi farklı ekosistemler bulunur. YUNUS EMRE_TP, aynı zamanda bir su kaynağı olarak da hizmet vermektedir. Parkın içinde, çeşitli nehirler ve göller bulunur. Bu su kaynakları, parkın ekosistemini destekler ve çeşitli canlıların yaşamasına olanak sağlar.
+YUNUS EMRE_TP, İç Anadolu Bölgesi'nin coğrafi olarak en güzel bölgelerinden birisidir. Parkın içinde, çeşitli coğrafi oluşumlar bulunur. Burada, dağlar, ovalar, nehirler ve göller gibi farklı coğrafi yapılar mevcuttur. Parkın iklimi, karasal iklim özellikleri gösterir. Kışlar soğuk ve karlı, yazlar sıcak ve kurudur. Parkın çevresi, çeşitli bitki türleri ile kaplıdır. Burada, ormanlar, çayırlar ve meralar gibi farklı ekosistemler bulunur. YUNUS EMRE_TP, aynı zamanda bir su kaynağı olarak da hizmet vermektedir. Parkın içinde, çeşitli nehirler ve göller bulunur. Bu su kaynakları, parkın ekosistemini destekler ve çeşitli canlıların yaşamasına olanak sağlar.
 
 ## Flora ve Fauna
 

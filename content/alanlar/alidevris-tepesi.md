@@ -36,7 +36,7 @@ Alidevris Tepesi'nin tarihi geçmişi hakkındalı bilgi bulunmuyor. Ancak, bu b
 
 ## Coğrafya
 
-Alidevris Tepesi, Hatay ilinin Akdeniz kıyılarına yakın bir konumda yer alıyor. Tepenin etrafı dağlar ve ormanlarla çevrili ve bu sayede ziyaretçilere geniş bir açık alan sunuyor. Bu bölgenin iklimi, Akdeniz iklimi özellikleri gösteriyor ve yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı geçiyor. Alidevris Tepesi'nin coğrafi konumu, ziyaretçilerine çeşitli doğa aktiviteleri sunuyor. Tepenin etrafındaki ormanlarda yürüyüş ve trekking yapılabilirken, tepenin zirvesinden Akdeniz'in muhteşem manzarası seyredilebiliyor.
+Alidevris Tepesi, Hatay ilinin Akdeniz kıyılarına yakın bir konumda yer alıyor. Tepenin etrafı dağlar ve ormanlarla çevrili ve bu sayede ziyaretçilere geniş bir açık alan sunuyor. Bu bölgenin iklimi, Akdeniz iklimi özellikleri gösteriyor ve yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı geçiyor. Alidevris Tepesi'nin coğrafi konumu, ziyaretçilerine çeşitli doğa aktiviteleri sunuyor. Tepenin etrafındaki ormanlarda yürüyüş ve trekking yapılabilirken, tepenin zirvesinden Akdeniz'in muhteşem manzarası seyredilebiliyor.
 
 ## Flora ve Fauna
 

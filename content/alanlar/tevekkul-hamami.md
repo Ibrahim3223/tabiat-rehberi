@@ -37,7 +37,7 @@ Tevekkül Hamamı, tarihi geçmişi ile dikkat çeker. Bu plaj, yüzyıllar boyu
 
 ## Coğrafya
 
-Tevekkül Hamamı, Marmara Bölgesi'nde yer alan İstanbul'un Fatih ilçesinde bulunmaktadır. Bu plaj, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır. Çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Tevekkül Hamamı'nın coğrafi konumu, burayı yıl boyunca ziyaret edilebilir bir yer haline getirir. Kış aylarında, plajın etrafındaki dağlar karla kaplanır ve manzara daha da güzelleşir. Yaz aylarında ise, plajın sunduğu geniş yeşil alanlar ve serin deniz suyu, ziyaretçilere keyifli anlar sunar. Tevekkül Hamamı'nın coğrafyası, burayı sadece bir plaj olarak değil, aynı zamanda bir doğa harikası olarak da görür.
+Tevekkül Hamamı, Marmara Bölgesi'nde yer alan İstanbul'un Fatih ilçesinde bulunmaktadır. Bu plaj, yüksek bir konumda yer alır. Çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Tevekkül Hamamı'nın coğrafi konumu, burayı yıl boyunca ziyaret edilebilir bir yer haline getirir. Kış aylarında, plajın etrafındaki dağlar karla kaplanır ve manzara daha da güzelleşir. Yaz aylarında ise, plajın sunduğu geniş yeşil alanlar ve serin deniz suyu, ziyaretçilere keyifli anlar sunar. Tevekkül Hamamı'nın coğrafyası, burayı sadece bir plaj olarak değil, aynı zamanda bir doğa harikası olarak da görür.
 
 ## Flora ve Fauna
 

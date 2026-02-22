@@ -46,7 +46,7 @@ Doğal güzellikleri ile dikkat çeken İskiri adası, Ege Denizi'nde yer alan b
 
 Jeolojik açıdan bakıldığında, İskiri adasının fiziksel yapısı hakkında detaylı bilgi bulunmamasına rağmen, adanın küçük bir alan olduğunu söyleyebiliriz. Bir şehir bloğu büyüklüğünde olan bu ada, küçük boyutuna rağmen önemli bir doğal güzelliğe sahiptir. Ada, Ege Denizi'nin suları ile çevrili olup, bu su kaynakları adanın ekosistemine önemli katkılar sağlamaktadır.
 
-Mevsimler açısından, İskiri adası tipik Akdeniz iklimi özellikleri gösterir. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, adanın flora ve fauna açısından zengin bir çeşitlilik sunmasını sağlamaktadır. İskiri adasının iklim karakteri, komşu alanlar ile benzerlik gösterir ve bu bölgede yer alan diğer adalar ile benzer hava koşullarına sahiptir.
+Mevsimler açısından, İskiri adası tipik Akdeniz iklimi özellikleri gösterir. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, adanın flora ve fauna açısından zengin bir çeşitlilik sunmasını sağlamaktadır. İskiri adasının iklim karakteri, komşu alanlar ile benzerlik gösterir ve bu bölgede yer alan diğer adalar ile benzer hava koşullarına sahiptir.
 
 Çevresel açıdan, İskiri adası Ege Denizi'nin su kaynakları ile önemli bir bağlantıya sahiptir. Bu su kaynakları, adanın ekosistemine katkıda bulunur ve adanın doğal güzelliğini korur. İskiri adası, Eğriboz ilçesi ve diğer komşu adalar ile birlikte bir bütün olarak değerlendirilmeli ve bu bölgenin doğal güzelliği korunmalıdır.
 

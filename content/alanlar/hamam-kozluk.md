@@ -38,7 +38,7 @@ Hamam, Kozluk'un tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkların
 
 ## Coğrafya
 
-Hamam, Kozluk, coğrafi olarak Güneydoğu Anadolu Bölgesi'nde yer almaktadır. Bölge, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Kozluk'un merkezine uzun bir mesafe uzaklıkta bulunan bu plaj, doğal güzelliği ile dikkat çekmektedir. Hamam, Kozluk'un coğrafyası, zengin flora ve fauna çeşitliliği ile dikkat çekmektedir. Bölge, çeşitli bitki türleri ve hayvanlara ev sahipliği yapmaktadır. Coğrafi konumu itibariyle, Hamam, Kozluk, turizm potansiyeli yüksek bir bölgedir. İklimi, genellikle sıca ve kurudur. Bölge, yaz aylarında turizm faaliyetleri için uygun bir yerdir.
+Hamam, Kozluk, coğrafi olarak Güneydoğu Anadolu Bölgesi'nde yer almaktadır. Bölge, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Kozluk'un merkezine uzun bir mesafe uzaklıkta bulunan bu plaj, doğal güzelliği ile dikkat çekmektedir. Hamam, Kozluk'un coğrafyası, zengin flora ve fauna çeşitliliği ile dikkat çekmektedir. Bölge, çeşitli bitki türleri ve hayvanlara ev sahipliği yapmaktadır. Coğrafi konumu itibariyle, Hamam, Kozluk, turizm potansiyeli yüksek bir bölgedir. İklimi, genellikle sıcak ve kurudur. Bölge, yaz aylarında turizm faaliyetleri için uygun bir yerdir.
 
 ## Flora ve Fauna
 

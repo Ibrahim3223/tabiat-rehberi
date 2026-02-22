@@ -36,7 +36,7 @@ Kurtdumanı Tepe'nin tarihi geçmişi oldukça eskilere dayanmaktadır. Bu bölg
 
 ## Coğrafya
 
-Kurtdumanı Tepe, Ankara'nın coğrafi yapısını yansıtması bakımından önemli bir nokta. Bu tepe, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, genellikle step ve ova gibi coğrafi oluşumlarla karakterize ediliyor. Kurtdumanı Tepe'nin bulunduğu yer, Ankara'nın genel coğrafi yapısına uygun olarak, genellikle kura ve soğuk kışlar, sıca ve kurak yazlar gibi iklim koşullarına sahip. Bu bölge, Ankara'nın merkezine yakın olmasına rağmen,still doğal güzellikleri ve tarihi mekanları barındırıyor. Bölgenin coğrafi yapısı, flora ve faunayı da etkiliyor. Bu nedenle, Kurtdumanı Tepe ve çevresinde çeşitli bitki ve hayvan türleri bulunabiliyor.
+Kurtdumanı Tepe, Ankara'nın coğrafi yapısını yansıtması bakımından önemli bir nokta. Bu tepe, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, genellikle step ve ova gibi coğrafi oluşumlarla karakterize ediliyor. Kurtdumanı Tepe'nin bulunduğu yer, Ankara'nın genel coğrafi yapısına uygun olarak, genellikle kura ve soğuk kışlar, sıcak ve kurak yazlar gibi iklim koşullarına sahip. Bu bölge, Ankara'nın merkezine yakın olmasına rağmen,still doğal güzellikleri ve tarihi mekanları barındırıyor. Bölgenin coğrafi yapısı, flora ve faunayı da etkiliyor. Bu nedenle, Kurtdumanı Tepe ve çevresinde çeşitli bitki ve hayvan türleri bulunabiliyor.
 
 ## Flora ve Fauna
 

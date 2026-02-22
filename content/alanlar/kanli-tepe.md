@@ -37,7 +37,7 @@ Kanlı Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkların 
 
 ## Coğrafya
 
-Kanlı Tepe, Erzurum'un coğrafi özellikleri ile şekillenmiş bir alandır. Doğu Anadolu Bölgesi'nin yüksek rakımlı ve dağlık yapısı, Kanlı Tepe'nin coğrafi özelliklerini belirlemiştir. Bu alan, yaklaşık yüksek bir konumdate ve dağların arasında yer alıyor. Kanlı Tepe'nin coğrafi konumu, çeşitli bitki türleri ve hayvanların yaşamasına olanak tanıyor. Bu bölgede, genellikle karasal iklim özellikleri görülür ve kış mevsimi soğu ve karlı geçer. Kanlı Tepe'nin coğrafi özellikleri, ziyaretçilerine geniş bir açık alan sunuyor ve onları doğanın güzelliği ile baş başa bırakıyor. Kanlı Tepe, coğrafi güzellikleri ile ön plana çıkıyor ve ziyaretçilerini etkileyen bir doğal güzellik olarak dikkat çekiyor.
+Kanlı Tepe, Erzurum'un coğrafi özellikleri ile şekillenmiş bir alandır. Doğu Anadolu Bölgesi'nin yüksek rakımlı ve dağlık yapısı, Kanlı Tepe'nin coğrafi özelliklerini belirlemiştir. Bu alan, yüksek bir konumda ve dağların arasında yer alıyor. Kanlı Tepe'nin coğrafi konumu, çeşitli bitki türleri ve hayvanların yaşamasına olanak tanıyor. Bu bölgede, genellikle karasal iklim özellikleri görülür ve kış mevsimi soğuk ve karlı geçer. Kanlı Tepe'nin coğrafi özellikleri, ziyaretçilerine geniş bir açık alan sunuyor ve onları doğanın güzelliği ile baş başa bırakıyor. Kanlı Tepe, coğrafi güzellikleri ile ön plana çıkıyor ve ziyaretçilerini etkileyen bir doğal güzellik olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 

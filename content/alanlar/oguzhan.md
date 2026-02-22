@@ -31,7 +31,7 @@ OĞUZHAN milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
 
 ## Coğrafya
 
-OĞUZHAN milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak, geniş düzlükler ve hafif eğimli arazilerden oluşuyor. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alan olarak düşünülebilir. Bölgenin coğrafi yapısı, ziyaretçilerine geniş yeşil alanlar, çeşitli bitki türleri ve zengin fauna çeşitliliği sunuyor. İklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Kışları soğu ve kar yağışlı, yazları ise sıcak ve kurak passing. Bu iklim özellikleri, bölgenin flora ve fauna çeşitliliğini etkileyerek, ziyaretçilere yıl boyunca farklı bir güzellik sunuyor.
+OĞUZHAN milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak, geniş düzlükler ve hafif eğimli arazilerden oluşuyor. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alan olarak düşünülebilir. Bölgenin coğrafi yapısı, ziyaretçilerine geniş yeşil alanlar, çeşitli bitki türleri ve zengin fauna çeşitliliği sunuyor. İklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Kışları soğuk ve kar yağışlı, yazları ise sıcak ve kurak passing. Bu iklim özellikleri, bölgenin flora ve fauna çeşitliliğini etkileyerek, ziyaretçilere yıl boyunca farklı bir güzellik sunuyor.
 
 ## Flora ve Fauna
 

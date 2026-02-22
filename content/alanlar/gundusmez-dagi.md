@@ -42,7 +42,7 @@ Karaman'ın coğrafi zenginliklerinden biri olan Gündüşmez Dağı, 37.1092°K
 
 Doğal güzellikleri ile dikkat çeken Gündüşmez Dağı, yüksekliği ve genişliği ile önemli bir coğrafi oluşumdur. Koordinatlarından da anlaşılacağı gibi, bu dağ Karaman'ın merkezi bölgesinde yer almaktadır. Ancak, fiziksel verilerin sınırlı olması nedeniyle, boyutları ve şekli hakkında net bir bilgi bulunmamaktadır.
 
-Mevsimsel değişikliklere göre hava durumu da değişen Gündüşmez Dağı, genellikle Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu iklim özellikleri, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
+Mevsimsel değişikliklere göre hava durumu da değişen Gündüşmez Dağı, genellikle Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu iklim özellikleri, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
 
 Gündüşmez Dağı, çevresindeki ekosistem ile önemli bir bağlantıyı temsil etmektedir. Komşu alanlar, genellikle tarım arazileri ve ormanlık bölgelerden oluşmaktadır. Su kaynakları açısından da zengin olan bu bölge, yakınlarında yer alan akarsular ve göller ile su döngüsünü tamamlamaktadır. Bu sayede, Gündüşmez Dağı ve çevresindeki ekosistem, biyolojik çeşitliliğin korunmasına önemli katkılar sağlamaktadır.
 

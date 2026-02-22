@@ -38,7 +38,7 @@ Hatun Hamamı'nın tarihi geçmişi, Karaman'ın tarihine paralel olarak gelişm
 
 ## Coğrafya
 
-Hatun Hamamı, Karaman'ın coğrafi yapısını yansıtan önemli bir noktadır. Bu bölgenin coğrafyası, İç Anadolu Bölgesi'nin genel coğrafi yapısına benzemektedir. Hatun Hamamı, Karaman Ovası'nın kenarında, yaklaşık yüksek bir konumdate yer alıyor. Bu alan, Karaman'ın şehir merkezine uzun bir mesafe uzaklıkta bulunuyor. Hatun Hamamı'nın çevresi, genellikle step ve ova bitkileriyle kaplıdır. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin iklimine benzer şekilde karasal iklim özellikleri gösteriyor. Kışları soğu ve yağışlı, yazları ise sıcak ve kurak geçiyor. Hatun Hamamı, Karaman'ın coğrafi çeşitliliğini gösteren önemli bir nokta olarak kabul ediliyor.
+Hatun Hamamı, Karaman'ın coğrafi yapısını yansıtan önemli bir noktadır. Bu bölgenin coğrafyası, İç Anadolu Bölgesi'nin genel coğrafi yapısına benzemektedir. Hatun Hamamı, Karaman Ovası'nın kenarında, yüksek bir konumda yer alıyor. Bu alan, Karaman'ın şehir merkezine uzun bir mesafe uzaklıkta bulunuyor. Hatun Hamamı'nın çevresi, genellikle step ve ova bitkileriyle kaplıdır. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin iklimine benzer şekilde karasal iklim özellikleri gösteriyor. Kışları soğuk ve yağışlı, yazları ise sıcak ve kurak geçiyor. Hatun Hamamı, Karaman'ın coğrafi çeşitliliğini gösteren önemli bir nokta olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

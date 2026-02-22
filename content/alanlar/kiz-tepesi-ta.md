@@ -31,7 +31,7 @@ Kız Tepesi TA'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Tari
 
 ## Coğrafya
 
-Kız Tepesi TA, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve ormanlık alanlarla çevrilidir. 140 hektarlık bu milli park, ziyaretçilere geniş bir açık alan sunar. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik kura ve karasal iklimine uygun olarak değişir. Yaz aylarında sıca ve kuru, kış aylarında soğu ve kar yağışlı bir hava görülebilir. Bu coğrafi çeşitlilik, flora ve faunanın zenginleşmesine katkıda bulunur. Milli parkın coğrafi konumu, ziyaretçilerin doğayla iç içe bir deneyim yaşamalarına olanak tanır.
+Kız Tepesi TA, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve ormanlık alanlarla çevrilidir. 140 hektarlık bu milli park, ziyaretçilere geniş bir açık alan sunar. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik kura ve karasal iklimine uygun olarak değişir. Yaz aylarında sıcak ve kuru, kış aylarında soğuk ve kar yağışlı bir hava görülebilir. Bu coğrafi çeşitlilik, flora ve faunanın zenginleşmesine katkıda bulunur. Milli parkın coğrafi konumu, ziyaretçilerin doğayla iç içe bir deneyim yaşamalarına olanak tanır.
 
 ## Flora ve Fauna
 

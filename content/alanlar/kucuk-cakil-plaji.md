@@ -30,7 +30,7 @@ Küçük Çakıl Plajı, yüzyıllar boyunca doğanın güzelliği ile ziyaretç
 
 ## Coğrafya
 
-Küçük Çakıl Plajı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Plajın etrafında, çeşitli bitki türleri ve zengin fauna found. Bu bölge, iklim olarak karasal iklimin etkilerini taşıyor. Kış ayları soğu ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Plajın coğrafi konumu, bölgenin su kaynaklarına ve toprak yapısına bağlı olarak şekillenmiştir. Bölgenin topografyası, plajın doğal güzelliğini artırarak, ziyaretçilere geniş bir görüş açısı sunuyor. Plajın etrafında yer alan dağlar ve tepeler, manzarayı daha da güzelleştirerek, ziyaretçilere doğanın tüm ihtişamını gösteriyor. Bu coğrafi yapı, plajın çevresindeki ekosistemi de etkileyerek, çeşitli canlıların yaşam alanı haline geliyor.
+Küçük Çakıl Plajı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Plajın etrafında, çeşitli bitki türleri ve zengin fauna found. Bu bölge, iklim olarak karasal iklimin etkilerini taşıyor. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Plajın coğrafi konumu, bölgenin su kaynaklarına ve toprak yapısına bağlı olarak şekillenmiştir. Bölgenin topografyası, plajın doğal güzelliğini artırarak, ziyaretçilere geniş bir görüş açısı sunuyor. Plajın etrafında yer alan dağlar ve tepeler, manzarayı daha da güzelleştirerek, ziyaretçilere doğanın tüm ihtişamını gösteriyor. Bu coğrafi yapı, plajın çevresindeki ekosistemi de etkileyerek, çeşitli canlıların yaşam alanı haline geliyor.
 
 ## Flora ve Fauna
 

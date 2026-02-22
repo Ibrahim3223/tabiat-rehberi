@@ -36,7 +36,7 @@ Yurtyücesi Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği ya
 
 ## Coğrafya
 
-Yurtyücesi Tepesi, Hatay'ın merkezine uzun bir mesafe uzaklıkta bulunuyor. Bu tepe, şehrin kalabalığından uzaklaşma ve doğanın güzelliğini keşfetmek isteyenler için ideal bir destinasyon. Yurtyücesi Tepesi, 140 hektarlık bir yeşil alan üzerine kurulu. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Yurtyücesi Tepesi, Akdeniz Bölgesi'nin karakteristik iklimine sahip. Bu bölge, yazları sıca ve kurak, kışları ılık ve yağışlı bir iklime sahip. Yurtyücesi Tepesi, ziyaretçilerini dört mevsim boyunca ağırlıyor. Bu tepe, çeşitli bitki türleri ve zengin faunasıyla dikkat çekiyor. Yurtyücesi Tepesi, Hatay'ın en önemli doğal güzelliklerinden biri.
+Yurtyücesi Tepesi, Hatay'ın merkezine uzun bir mesafe uzaklıkta bulunuyor. Bu tepe, şehrin kalabalığından uzaklaşma ve doğanın güzelliğini keşfetmek isteyenler için ideal bir destinasyon. Yurtyücesi Tepesi, 140 hektarlık bir yeşil alan üzerine kurulu. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Yurtyücesi Tepesi, Akdeniz Bölgesi'nin karakteristik iklimine sahip. Bu bölge, yazları sıcak ve kurak, kışları ılık ve yağışlı bir iklime sahip. Yurtyücesi Tepesi, ziyaretçilerini dört mevsim boyunca ağırlıyor. Bu tepe, çeşitli bitki türleri ve zengin faunasıyla dikkat çekiyor. Yurtyücesi Tepesi, Hatay'ın en önemli doğal güzelliklerinden biri.
 
 ## Flora ve Fauna
 

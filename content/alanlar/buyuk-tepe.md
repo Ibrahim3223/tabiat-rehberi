@@ -43,7 +43,7 @@ Kırklareli'nin coğrafi zenginliklerine bir yenisi daha eklenen Büyük Tepe, 4
 
 Doğal güzellikleri ile dikkat çeken Büyük Tepe, coğrafi olarak bir tepe şeklinde oluşuyor. Ancak, fiziksel boyutları hakkında detaylı bilgi bulunmamasına rağmen, genel olarak bir şehir bloğu büyüklüğünde olduğu söylenebilir. Bu ölçek, bir birkaç olimpik havuzun yan yana gelmesiyle oluşan bir alanı kaplıyor. Jeolojik açıdan, Büyük Tepe'nin oluşumu ve yapısı hakkında daha fazla bilgi edinmek için detaylı araştırmalar yapılması gerekiyor.
 
-Mevsimsel değişikliklere göre hava durumu değişen Büyük Tepe, ilkbahar ve yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklim karakterine sahip. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Eiffel Kulesi'nin yaklaşık 10 katı yükseklikte olmayan Büyük Tepe, daha çok bir tepe olarak tanımlanabilir.
+Mevsimsel değişikliklere göre hava durumu değişen Büyük Tepe, ilkbahar ve yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklim karakterine sahip. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Eiffel Kulesi'nin yaklaşık 10 katı yükseklikte olmayan Büyük Tepe, daha çok bir tepe olarak tanımlanabilir.
 
 Çevresel açıdan, Büyük Tepe'nin komşu alanları ormanlık ve tarım arazilerinden oluşuyor. Su kaynakları açısından, yakın civarda akarsular ve göller bulunmuyor. Ekosistem bağlantıları açısından, Büyük Tepe'nin bölgedeki diğer doğal alanlarla ilişkisi về flora ve fauna çeşitliliği açısından önemli. Bu bağlantı, bölgenin ekolojik dengesini koruyor ve doğal güzelliklerini sürdürüyor.
 

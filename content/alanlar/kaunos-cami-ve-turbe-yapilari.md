@@ -37,7 +37,7 @@ Kaunos Cami ve Türbe Yapıları, tarihi geçmişi ile dikkat çeken bir bölged
 
 ## Coğrafya
 
-Kaunos Cami ve Türbe Yapıları, Köyceğiz'in merkezinde yer alan bir bölgedir. Bu bölge, Ege Bölgesi'nin en güzel doğal güzelliklerine sahip olan bir yerdir. 180 hektarlık bir orman alanı ile çevrili olan Kaunos, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunmaktadır. Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunmaktadır. Kaunos'un coğrafi konumu, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunmaktadır. Bu bölge, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve her birinin izlerini taşımaktadır. Kaunos'un iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine sahiptir. Bu bölgede, yaz ayları sıca ve kuru, kış ayları ise ılık ve yağışlı geçmektedir.
+Kaunos Cami ve Türbe Yapıları, Köyceğiz'in merkezinde yer alan bir bölgedir. Bu bölge, Ege Bölgesi'nin en güzel doğal güzelliklerine sahip olan bir yerdir. 180 hektarlık bir orman alanı ile çevrili olan Kaunos, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunmaktadır. Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunmaktadır. Kaunos'un coğrafi konumu, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunmaktadır. Bu bölge, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve her birinin izlerini taşımaktadır. Kaunos'un iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine sahiptir. Bu bölgede, yaz ayları sıcak ve kuru, kış ayları ise ılık ve yağışlı geçmektedir.
 
 ## Flora ve Fauna
 

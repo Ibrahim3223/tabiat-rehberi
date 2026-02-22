@@ -36,7 +36,7 @@ Musir Cebeli'nin tarihi geçmişi, yüzyıllar boyunca birçok uygarlığa ev sa
 
 ## Coğrafya
 
-Musir Cebeli, Hatay ilinin sınırları içerisinde yer alan bir tepe olup, Akdeniz Bölgesi'nin önemli coğrafi noktalarından biridir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Coğrafi olarak, Musir Cebeli, Akdeniz Bölgesi'nin karakteristik özelliklerini taşır. İklimi, Akdeniz ikliminin özellikleri gösterir ve bölgede genellikle sıca ve kuru yazlar, ılık ve yağışlı kışlar görülür. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Musir Cebeli, coğrafi konumu itibariyle, bölgenin ekolojik dengesinde önemli bir rol oynar.
+Musir Cebeli, Hatay ilinin sınırları içerisinde yer alan bir tepe olup, Akdeniz Bölgesi'nin önemli coğrafi noktalarından biridir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Coğrafi olarak, Musir Cebeli, Akdeniz Bölgesi'nin karakteristik özelliklerini taşır. İklimi, Akdeniz ikliminin özellikleri gösterir ve bölgede genellikle sıcak ve kuru yazlar, ılık ve yağışlı kışlar görülür. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Musir Cebeli, coğrafi konumu itibariyle, bölgenin ekolojik dengesinde önemli bir rol oynar.
 
 ## Flora ve Fauna
 

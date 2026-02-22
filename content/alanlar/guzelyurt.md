@@ -31,7 +31,7 @@ Güzelyurt'un tarihi oldukça eskidir. Bu bölge, yüzyıllar boyunca farklı me
 
 ## Coğrafya
 
-Güzelyurt, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Bu bölge, geniş ovaları, dağları ve doğal güzellikleriyle dikkat çekmektedir. Güzelyurt'un coğrafyası, ziyaretçilere çeşitli doğal güzellikler sunar. Burada, geniş ormanlar, dağlar ve nehirler gibi doğal oluşumlar bulunur. İklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal bir yapıya sahiptir. Yaz ayları sıca ve kurak, kış ayları ise soğu ve karlı geçer. Bu coğrafi çeşitlilik, Güzelyurt'u doğa severler için bir cennet haline getirir. Ziyaretçiler, bu bölgede doğanın güzelliğini keşfetme fırsatı bulurlar.
+Güzelyurt, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Bu bölge, geniş ovaları, dağları ve doğal güzellikleriyle dikkat çekmektedir. Güzelyurt'un coğrafyası, ziyaretçilere çeşitli doğal güzellikler sunar. Burada, geniş ormanlar, dağlar ve nehirler gibi doğal oluşumlar bulunur. İklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal bir yapıya sahiptir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve karlı geçer. Bu coğrafi çeşitlilik, Güzelyurt'u doğa severler için bir cennet haline getirir. Ziyaretçiler, bu bölgede doğanın güzelliğini keşfetme fırsatı bulurlar.
 
 ## Flora ve Fauna
 

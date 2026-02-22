@@ -30,7 +30,7 @@ Kapideresi Toros Sediri 2 milli parkının tarihi geçmişi, yüzyıllar boyunca
 
 ## Coğrafya
 
-Kapideresi Toros Sediri 2 milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak, çeşitli araziler ve iklimlerden oluşuyor. Parkın coğrafi yapısı, dağlar, ormanlar, ovalar ve akarsular gibi farklı unsurları içeriyor. Bu doğal unsurlar, parkın zengin flora ve faunasına katkı sağlıyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Kışlar soğu ve kar yağışlı, yazlar sıca ve kurak geçiyor. Bu iklim özellikleri, parkın flora ve faunasının çeşitliliğini etkiliyor. Parkın çevresinde, çeşitli köyler ve kasabalar yer alıyor. Bu yerleşim yerleri, parkın ekonomi ve sosyal gelişimine katkı sağlıyor.
+Kapideresi Toros Sediri 2 milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak, çeşitli araziler ve iklimlerden oluşuyor. Parkın coğrafi yapısı, dağlar, ormanlar, ovalar ve akarsular gibi farklı unsurları içeriyor. Bu doğal unsurlar, parkın zengin flora ve faunasına katkı sağlıyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar sıcak ve kurak geçiyor. Bu iklim özellikleri, parkın flora ve faunasının çeşitliliğini etkiliyor. Parkın çevresinde, çeşitli köyler ve kasabalar yer alıyor. Bu yerleşim yerleri, parkın ekonomi ve sosyal gelişimine katkı sağlıyor.
 
 ## Flora ve Fauna
 

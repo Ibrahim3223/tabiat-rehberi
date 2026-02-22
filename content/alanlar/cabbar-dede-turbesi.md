@@ -37,7 +37,7 @@ Cabbar Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca uzanmaktadır. Ta
 
 ## Coğrafya
 
-Cabbar Dede Türbesi, Yüreğir, Adana'da bulunur ve Akdeniz Bölgesi'nin önemli coğrafi noktalarından biridir. Türbe, 140 hektarlık bir alana yayılmış ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir genişlik sunar. Coğrafi açıdan, türbe, deniz seviyesinden yaklaşık yüksek bir konumdate bulunmaktadır. İklim, Akdeniz iklimi özellikleri taşır ve yaz ayları sıca ve khô, kış ayları ise ılıman ve yağışlı geçer. Çevre, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Ziyaretçiler, türbeyi gezerken, coğrafi açıdan zengin bir deneyimleyebilir edinebilirler.
+Cabbar Dede Türbesi, Yüreğir, Adana'da bulunur ve Akdeniz Bölgesi'nin önemli coğrafi noktalarından biridir. Türbe, 140 hektarlık bir alana yayılmış ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir genişlik sunar. Coğrafi açıdan, türbe, yüksek bir konumda bulunmaktadır. İklim, Akdeniz iklimi özellikleri taşır ve yaz ayları sıcak ve kuru, kış ayları ise ılıman ve yağışlı geçer. Çevre, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Ziyaretçiler, türbeyi gezerken, coğrafi açıdan zengin bir deneyimleyebilir edinebilirler.
 
 ## Flora ve Fauna
 

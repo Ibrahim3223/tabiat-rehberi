@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Merri Tepe, 37.9069°K enlem 
 
 Doğal güzelliği ile ön plana çıkan Merri Tepe, yaklaşık olarak birkaç olimpik havuz kadar bir alanı kaplamaktadır. Bu küçük ancak önemli bir alan, bölgenin jeolojik yapısını ve coğrafi özelliklerini yansıtmaktadır. Merri Tepe'nin yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'ine karşılık gelmektedir. Bu yükseklik, bölgenin manzarasını şekillendirmekte ve çevredeki diğer doğal unsurlarla birlikte bir bütün oluşturmaktadır.
 
-Mevsimsel değişiklikler, Merri Tepe'nin iklim karakterini şekillendirmektedir. Kış aylarında soğu ve kar yağışlı bir hava hakimken, yaz aylarında sıcaklık ve nem artmaktadır. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkilemekte ve Merri Tepe'nin ekosistemine şekil vermektedir.
+Mevsimsel değişiklikler, Merri Tepe'nin iklim karakterini şekillendirmektedir. Kış aylarında soğuk ve kar yağışlı bir hava hakimken, yaz aylarında sıcaklık ve nem artmaktadır. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkilemekte ve Merri Tepe'nin ekosistemine şekil vermektedir.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları, Merri Tepe'nin çevresel ilişkilerini belirlemektedir.Batman Çayı ve diğer su kaynakları, Merri Tepe'nin yakınından geçmekte ve bölgenin sulak alanlarını beslemektedir. Bu su kaynakları, Merri Tepe'nin ekosistemine life vermektedir ve bölgenin doğal dengesini korumaktadır.
 

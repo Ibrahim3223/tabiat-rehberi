@@ -38,7 +38,7 @@ Türbe plajının tarihi geçmişi, yüzyıllar boyunca insanların bu bölgeyi 
 
 ## Coğrafya
 
-Türbe plajı, Koçarlı ilçesinin güneyinde yer alan bir sahil şerididir. Plaj, Ege Denizi'nin sakin ve berrak sularıyla çevrilidir. 180 hektarlık bir alanda yer alan plaj, yaklaşık 300 futbol sahası büyüklüğündedir. Plajın kumsalı geniş ve kumların rengi altın sarısıdır. Çevresinde çeşitli bitki türleri ve ağaçlar yer almaktadır. İklimi, Ege Bölgesi'nin genel iklimi ile benzerlik göstermektedir, yani yaz ayları sıca ve kurak, kış ayları ise ılık ve yağışlı geçmektedir. Plajın coğrafi konumu, ziyaretçilere doğal güzellikler ve huzur dolu bir atmosfer sunmaktadır.
+Türbe plajı, Koçarlı ilçesinin güneyinde yer alan bir sahil şerididir. Plaj, Ege Denizi'nin sakin ve berrak sularıyla çevrilidir. 180 hektarlık bir alanda yer alan plaj, yaklaşık 300 futbol sahası büyüklüğündedir. Plajın kumsalı geniş ve kumların rengi altın sarısıdır. Çevresinde çeşitli bitki türleri ve ağaçlar yer almaktadır. İklimi, Ege Bölgesi'nin genel iklimi ile benzerlik göstermektedir, yani yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlı geçmektedir. Plajın coğrafi konumu, ziyaretçilere doğal güzellikler ve huzur dolu bir atmosfer sunmaktadır.
 
 ## Flora ve Fauna
 

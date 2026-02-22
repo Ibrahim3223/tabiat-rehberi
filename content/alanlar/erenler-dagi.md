@@ -45,7 +45,7 @@ Coğrafi konumu itibariyle, Erenler Dağı Konya ilinin merkezine yaklaşık 20 
 
 Jeolojik açıdan bakıldığında, Erenler Dağı'nın fiziksel yapısı oldukça ilginç. Maalesef, detaylı fiziksel verilere ulaşamadığımız bu dağ, Konya'nın genel jeolojik yapısına uygun olarak volkanik kökenli bir oluşum olarak kabul ediliyor. Erenler Dağı, çevresindeki bozkır alanlarına nazaran oldukça yüksek bir konumda yer alıyor. Bu yükseklik, Erenler Dağı'nı bölgenin önemli bir su kaynakları havzası haline getiriyor.
 
-Mevsimsel değişimler açısından, Erenler Dağı Konya'nın genel iklim karakterini yansıtıyor. Konya'nın karasal iklimine uygun olarak, Erenler Dağı'nda yazlar sıca ve kurak, kışlar ise soğu ve kar yağışlı geçiyor. Bu mevsimsel özellikler, Erenler Dağı'nın flora ve fauna yapısını da etkiliyor. Dağın eteklerinde ve yamaçlarında çeşitli bitki türleri ve hayvanlar yaşarken, zirvelerinde ise daha az çeşitlilik görülmektedir.
+Mevsimsel değişimler açısından, Erenler Dağı Konya'nın genel iklim karakterini yansıtıyor. Konya'nın karasal iklimine uygun olarak, Erenler Dağı'nda yazlar sıcak ve kurak, kışlar ise soğuk ve kar yağışlı geçiyor. Bu mevsimsel özellikler, Erenler Dağı'nın flora ve fauna yapısını da etkiliyor. Dağın eteklerinde ve yamaçlarında çeşitli bitki türleri ve hayvanlar yaşarken, zirvelerinde ise daha az çeşitlilik görülmektedir.
 
 Doğal çevresi itibariyle, Erenler Dağı Konya'nın önemli su kaynaklarını barındırıyor. Dağın eteklerinde yer alan su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılamada önemli bir rol oynuyor. Ayrıca, Erenler Dağı'nın komşu alanları ile olan bağlantısı, bölgenin ekosistem dengesini korumasında da önemli bir faktör olarak kabul ediliyor.
 

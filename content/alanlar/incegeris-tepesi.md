@@ -36,7 +36,7 @@ Yozgat'ın İç Anadolu Bölgesi'nde yer alan İncegeriş Tepesi, yaklaşık 200
 
 ## Coğrafya
 
-İncegeriş Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, geniş yeşil alanları, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. İncegeriş Tepesi, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir alanı kapsıyor. Bu geniş alan, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunuyor. İklim açısından bakıldığında, İncegeriş Tepesi ve çevresindeki bölge, İç Anadolu Bölgesi'nin karakteristik iklimine sahip. Bu bölge, kışları soğu ve karlı, yazları ise sıcak ve kuru geçiyor. İncegeriş Tepesi, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir yer olarak karşımıza çıkıyor.
+İncegeriş Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, geniş yeşil alanları, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. İncegeriş Tepesi, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir alanı kapsıyor. Bu geniş alan, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunuyor. İklim açısından bakıldığında, İncegeriş Tepesi ve çevresindeki bölge, İç Anadolu Bölgesi'nin karakteristik iklimine sahip. Bu bölge, kışları soğuk ve karlı, yazları ise sıcak ve kuru geçiyor. İncegeriş Tepesi, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir yer olarak karşımıza çıkıyor.
 
 ## Flora ve Fauna
 

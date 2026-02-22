@@ -37,7 +37,7 @@ Dündar Bey Hamamı, tarihi geçmişi ile dikkat çekiyor. Yüzyıllar boyunca b
 
 ## Coğrafya
 
-Dündar Bey Hamamı, Isparta'nın Eğirdir ilçesinde yer alıyor. Bu bölge, Akdeniz Bölgesi'nin coğrafi güzelliklerini tümüyle yansıtıyor. Hamamın bulunduğu alan, 140 hektarlık geniş bir yeşil alan sunuyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunuyor. Dündar Bey Hamamı'nın coğrafi konumu, ziyaretçilerin doğayı ve tarihi bir arada deneyimlemesine olanak tanıyor. Bölgenin iklimi, Akdeniz ikliminin özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir iklim hüküm sürüyor. Bu coğrafi yapı, Dündar Bey Hamamı'nı yıl boyunca ziyaret edilebilir bir destinasyon haline getiriyor.
+Dündar Bey Hamamı, Isparta'nın Eğirdir ilçesinde yer alıyor. Bu bölge, Akdeniz Bölgesi'nin coğrafi güzelliklerini tümüyle yansıtıyor. Hamamın bulunduğu alan, 140 hektarlık geniş bir yeşil alan sunuyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunuyor. Dündar Bey Hamamı'nın coğrafi konumu, ziyaretçilerin doğayı ve tarihi bir arada deneyimlemesine olanak tanıyor. Bölgenin iklimi, Akdeniz ikliminin özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir iklim hüküm sürüyor. Bu coğrafi yapı, Dündar Bey Hamamı'nı yıl boyunca ziyaret edilebilir bir destinasyon haline getiriyor.
 
 ## Flora ve Fauna
 

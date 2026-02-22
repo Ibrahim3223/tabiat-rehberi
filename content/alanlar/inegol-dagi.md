@@ -45,7 +45,7 @@ Amasya'nın kalbinde yer alan İnegöl Dağı, 40.9115°K, 35.0693°D koordinatl
 
 Boyutları hakkında detaylı bilgi olmasa da, İnegöl Dağı'nın genel yapısı, bölgenin diğer dağlık alanlarına benzerlik göstermektedir. Bu dağ, Amasya'nın coğrafi çeşitliliğini zenginleştiren bir unsurdur ve bölgenin jeolojik geçmişini yansıtan önemli bir formationdır. İnegöl Dağı, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplar ve bu ölçek, dağın boyutlarını daha iyi anlamamızı sağlar.
 
-İklim koşulları açısından, İnegöl Dağı, Amasya'nın genel iklim karakterini paylaşmaktadır. Bölge, karasal iklimin etkilerini gösterir ve mevsimsel değişikliklere göre hava durumu değişkenlik gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu iklim koşulları, İnegöl Dağı'nın flora ve fauna çeşitliliğini etkileyen önemli bir faktördür.
+İklim koşulları açısından, İnegöl Dağı, Amasya'nın genel iklim karakterini paylaşmaktadır. Bölge, karasal iklimin etkilerini gösterir ve mevsimsel değişikliklere göre hava durumu değişkenlik gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu iklim koşulları, İnegöl Dağı'nın flora ve fauna çeşitliliğini etkileyen önemli bir faktördür.
 
 Doğal bir unsur olarak, İnegöl Dağı, çevresindeki diğer coğrafi oluşumlar ve su kaynakları ile bağlantılıdır. Amasya'nın su kaynakları, bölgenin ekosistemini destekleyen önemli bir unsurdur ve İnegöl Dağı, bu su kaynaklarının bir parçası olarak görev yapmaktadır. Monaco'nun küçük bir bölümü kadar bir alanı kaplayan İnegöl Dağı, bölgenin doğal dengesini korumak için önemli bir role sahiptir.
 

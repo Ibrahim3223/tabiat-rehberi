@@ -37,7 +37,7 @@ Miletopolis Kalıntıları, antik dönemden kalan bir şehrin izlerini taşır. 
 
 ## Coğrafya
 
-Miletopolis Kalıntıları, Marmara Bölgesi'nin coğrafi çeşitliliğiçerisinde yer alır. Mustafakemalpaşa'da bulunan bu bölge, çevresindeki dağlar ve ovalarla birlikte, bir coğrafi çeşitlilik sunar. İklim, tipik Akdeniz ikliminin özelliklerini taşır; yazlar sıca ve kurak, kışlar ise ılıman ve yağışlı geçer. Bu coğrafi ve iklimsel koşullar, bölgenin flora ve faunasını da etkiler. Çevredeki doğal güzellikler, ziyaretçilere geniş bir açık alan sunar ve bu alanlar, hem gezi hem de doğa severler için ideal bir destinasyon oluşturur. Coğrafi konumu itibariyle, Miletopolis Kalıntıları, Marmara Denizi'ne yakın bir konumda yer alır ve bu, bölgenin coğrafi zenginliğini daha da artırır. Ayrıca, bölgenin coğrafi yapısı, tarihi boyunca çeşitli medeniyetlerin yerleşimine ve ticaretine elverişli olmuştur.
+Miletopolis Kalıntıları, Marmara Bölgesi'nin coğrafi çeşitliliğiçerisinde yer alır. Mustafakemalpaşa'da bulunan bu bölge, çevresindeki dağlar ve ovalarla birlikte, bir coğrafi çeşitlilik sunar. İklim, tipik Akdeniz ikliminin özelliklerini taşır; yazlar sıcak ve kurak, kışlar ise ılıman ve yağışlı geçer. Bu coğrafi ve iklimsel koşullar, bölgenin flora ve faunasını da etkiler. Çevredeki doğal güzellikler, ziyaretçilere geniş bir açık alan sunar ve bu alanlar, hem gezi hem de doğa severler için ideal bir destinasyon oluşturur. Coğrafi konumu itibariyle, Miletopolis Kalıntıları, Marmara Denizi'ne yakın bir konumda yer alır ve bu, bölgenin coğrafi zenginliğini daha da artırır. Ayrıca, bölgenin coğrafi yapısı, tarihi boyunca çeşitli medeniyetlerin yerleşimine ve ticaretine elverişli olmuştur.
 
 ## Flora ve Fauna
 

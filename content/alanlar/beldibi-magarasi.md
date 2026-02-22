@@ -52,7 +52,7 @@ Mağaranın bulunduğu bölge, Düden Çayı'nın kaynaklarına yakındır. Bu s
 
 Beldibi Mağarası, Antalya'nın zengin jeolojik mirasının bir parçası olarak, maki bitki örtüsünün hakim olduğu bir bölge içinde yer alır. İlkbahar aylarında, bu alan rengarenk çiçeklerle donanır ve kuraklığa dayanıklı türlerin çeşitliliği dikkat çeker. Kıyı ekosisteminin bir parçası olan bu bölge, denizden gelen nemin etkisiyle, zengin bir flora ve fauna çeşitliliğine sahiptir.
 
-Bölgede, orman ekosisteminin karakteristik ağaç türleri bulunur ve bu ormanlar, çeşitli memelilerin yaşam alanı olarak hizmet eder. Kuşlar, özellikle sonbahar aylarında göçmen kuşların geçiş güzergahında olan bu bölgeyi ziyaret eder. Sürüngenler de, bu sıca ve kuru ortamın bir parçası olarak, kayalık alanlarda yaşamlarını sürdürür.
+Bölgede, orman ekosisteminin karakteristik ağaç türleri bulunur ve bu ormanlar, çeşitli memelilerin yaşam alanı olarak hizmet eder. Kuşlar, özellikle sonbahar aylarında göçmen kuşların geçiş güzergahında olan bu bölgeyi ziyaret eder. Sürüngenler de, bu sıcak ve kuru ortamın bir parçası olarak, kayalık alanlarda yaşamlarını sürdürür.
 
 Bu ekosistemin değeri, sadece biyolojik çeşitliliği değil, aynı zamanda jeolojik oluşumları ve iklimsel dengesini korumasından gelir. Bu nedenlerle, Beldibi Mağarası ve çevresi, ekolojik olarak önemli bir alandır ve koruma altına alınarak, gelecekteki nesiller için de bu doğal güzellikleri korumak önemlidir.
 

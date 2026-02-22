@@ -38,7 +38,7 @@ Güzelköy Hamamı'nın tarihi geçmişi, yüzyıllar boyunca birçok medeniyete
 
 ## Coğrafya
 
-Güzelköy Hamamı, Şarköy ilçesinde yer alır ve Marmara Bölgesi'nin en güzel plajlarından biridir. Bu bölge, 140 hektarlık bir yeşil alan üzerine kurulmuş olup, yaklaşık 200 futbol sahası büyüklüğündedir. Güzelköy Hamamı, deniz kıyısında yer alır ve çevresinde çeşitli bitki türleri bulunur. Bu bölgenin coğrafi yapısı, ziyaretçilere hem deniz hem de doğanın güzelliğini sunar. Güzelköy Hamamı'nın iklimi, Marmara Bölgesi'nin genel iklimine benzer ve yaz aylarında sıca ve nemli, kış aylarında ise soğu ve yağışlı olur. Bu bölgenin coğrafi konumu, ziyaretçilere birçok aktivite imkanı sunar ve doğa ile iç içe bir tatil deneyimi sağlar.
+Güzelköy Hamamı, Şarköy ilçesinde yer alır ve Marmara Bölgesi'nin en güzel plajlarından biridir. Bu bölge, 140 hektarlık bir yeşil alan üzerine kurulmuş olup, yaklaşık 200 futbol sahası büyüklüğündedir. Güzelköy Hamamı, deniz kıyısında yer alır ve çevresinde çeşitli bitki türleri bulunur. Bu bölgenin coğrafi yapısı, ziyaretçilere hem deniz hem de doğanın güzelliğini sunar. Güzelköy Hamamı'nın iklimi, Marmara Bölgesi'nin genel iklimine benzer ve yaz aylarında sıcak ve nemli, kış aylarında ise soğuk ve yağışlı olur. Bu bölgenin coğrafi konumu, ziyaretçilere birçok aktivite imkanı sunar ve doğa ile iç içe bir tatil deneyimi sağlar.
 
 ## Flora ve Fauna
 

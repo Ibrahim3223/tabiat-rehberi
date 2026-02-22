@@ -43,7 +43,7 @@ Güneydoğu Anadolu Bölgesi'nin güzide illerinden biri olan Van, doğal güzel
 
 Doğal güzelliği ve jeolojik yapısı ile dikkat çeken Kartal Tepe, bölgenin jeolojik tarihini yansıtan bir oluşum. Ancak, detaylı fiziksel verileri bulunmamasına rağmen, Kartal Tepe'nin coğrafi konumu ve etraftaki dağlarla birlikte, bir शहर bloğu büyüklüğünde bir alanı kapladığı söylenebilir. Bu alanda, çeşitli jeolojik oluşumlar ve kayalar bulunmakta, bu da bölgenin jeolojik çeşitliliğini göstermektedir.
 
-İklim açısından, Kartal Tepe, Van'ın genel iklim karakterini yansıtmaktadır. Bölge, karasal iklimin etkisinde olup, yazları sıca ve kurak, kışları soğu ve kar yağışlı geçer. Dağın yüksekliği ve coğrafi konumu, iklimsel koşulların değişkenliğini etkilemektedir. Etrafındaki vadiler ve tepeler, rüzgar ve hava akımlarını yönlendirmekte, bu da bölgenin mikro iklimini şekillendirmektedir.
+İklim açısından, Kartal Tepe, Van'ın genel iklim karakterini yansıtmaktadır. Bölge, karasal iklimin etkisinde olup, yazları sıcak ve kurak, kışları soğuk ve kar yağışlı geçer. Dağın yüksekliği ve coğrafi konumu, iklimsel koşulların değişkenliğini etkilemektedir. Etrafındaki vadiler ve tepeler, rüzgar ve hava akımlarını yönlendirmekte, bu da bölgenin mikro iklimini şekillendirmektedir.
 
 Çevresel açıdan, Kartal Tepe, Van Gölü ve çevresindeki diğer dağlar ile birlikte, bir ekosistem ağı oluşturuyor. Bu dağ, bölgenin su kaynaklarını şekillendiren önemli bir unsur. Dağın eteklerinde ve çevresinde, çeşitli bitki ve hayvan türleri, bu da bölgenin biyolojik çeşitliliğini göstermektedir. Bu doğal güzelli ve biyolojik çeşitlilik, Kartal Tepe'yi önemli bir turizm ve koruma alanı haline getiriyor.
 

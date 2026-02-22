@@ -37,7 +37,7 @@ Feridun Ahmet Paşa Türbesi, tarihin derinliklerine uzanan bir geçmişe sahipt
 
 ## Coğrafya
 
-Feridun Ahmet Paşa Türbesi, Marmara Bölgesi'nin coğrafi güzelliklerine sahiptir. Bu bölge, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır. Coğrafi konumu itibariyle, ziyaretçilerine geniş bir görünüm sunar. Çevresinde çeşitli bitki türleri ve ağaçlar bulunur. Bu mekan, coğrafi açıdan zengin bir bölge olarak bilinir. İstanbul'un tarihi mekanlarından biri olan Feridun Ahmet Paşa Türbesi, coğrafi güzellikleri ve tarihi yapıları bir arada sunar. Ziyaretçiler, bu mekanın coğrafi güzelliklerini keşfetmek için çeşitli yürüyüş rotaları kullanabilir.
+Feridun Ahmet Paşa Türbesi, Marmara Bölgesi'nin coğrafi güzelliklerine sahiptir. Bu bölge, yüksek bir konumda yer alır. Coğrafi konumu itibariyle, ziyaretçilerine geniş bir görünüm sunar. Çevresinde çeşitli bitki türleri ve ağaçlar bulunur. Bu mekan, coğrafi açıdan zengin bir bölge olarak bilinir. İstanbul'un tarihi mekanlarından biri olan Feridun Ahmet Paşa Türbesi, coğrafi güzellikleri ve tarihi yapıları bir arada sunar. Ziyaretçiler, bu mekanın coğrafi güzelliklerini keşfetmek için çeşitli yürüyüş rotaları kullanabilir.
 
 ## Flora ve Fauna
 

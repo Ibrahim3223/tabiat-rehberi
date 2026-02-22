@@ -31,7 +31,7 @@ wikidata_id: "Q108228351"
 
 ## Coğrafya
 
-Şehitlik milli parkı, İç Anadolu Bölgesi'nde yer alan bir coğrafi bölgedir. Bu bölge, geniş otlaklar ve ormanlık alanlar ile karakterizedir. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli gezi olanakları sunar. Burada, yürüyüş parkurları, piknik alanları ve doğa noktaları gibi birçok olanak bulunmaktadır. Şehitlik'in iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösterir. Bu bölge, yazları sıca ve khô, kışları ise soğu ve kar yağışlı bir iklime sahiptir. Milli parkın coğrafi konumu, ziyaretçilere birçok farklı coğrafi oluşum sunar. Burada, dağlar, vadiler ve ova gibi coğrafi oluşumlar ile karşılaşma mümkün. Şehitlik, aynı zamanda birçok nehir ve akarsunun da kaynak bölgesidir.
+Şehitlik milli parkı, İç Anadolu Bölgesi'nde yer alan bir coğrafi bölgedir. Bu bölge, geniş otlaklar ve ormanlık alanlar ile karakterizedir. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli gezi olanakları sunar. Burada, yürüyüş parkurları, piknik alanları ve doğa noktaları gibi birçok olanak bulunmaktadır. Şehitlik'in iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösterir. Bu bölge, yazları sıcak ve kuru, kışları ise soğuk ve kar yağışlı bir iklime sahiptir. Milli parkın coğrafi konumu, ziyaretçilere birçok farklı coğrafi oluşum sunar. Burada, dağlar, vadiler ve ova gibi coğrafi oluşumlar ile karşılaşma mümkün. Şehitlik, aynı zamanda birçok nehir ve akarsunun da kaynak bölgesidir.
 
 ## Flora ve Fauna
 

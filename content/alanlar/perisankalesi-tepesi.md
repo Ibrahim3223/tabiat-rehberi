@@ -36,7 +36,7 @@ Perişankalesı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmişti
 
 ## Coğrafya
 
-Perişankalesı Tepesi, coğrafi olarak Akdeniz Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, genellikle sıca ve kurak bir iklime sahiptir. Tepenin etrafındaki arazi, genellikle engebeli ve dağlıktır. Perişankalesı Tepesi'nin yüksekliği, çevredeki diğer tepe ve dağlarla birlikte, bir bütün olarak ele alındığında, Akdeniz Bölgesi'nin coğrafi yapısını şekillendiren önemli bir faktördür. Bu tepe, aynı zamanda flora ve fauna açısından da zengin bir alandır. Çevresindeki ormanlar ve bitki türleri, bu bölgenin ekolojik dengesini korur.
+Perişankalesı Tepesi, coğrafi olarak Akdeniz Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, genellikle sıcak ve kurak bir iklime sahiptir. Tepenin etrafındaki arazi, genellikle engebeli ve dağlıktır. Perişankalesı Tepesi'nin yüksekliği, çevredeki diğer tepe ve dağlarla birlikte, bir bütün olarak ele alındığında, Akdeniz Bölgesi'nin coğrafi yapısını şekillendiren önemli bir faktördür. Bu tepe, aynı zamanda flora ve fauna açısından da zengin bir alandır. Çevresindeki ormanlar ve bitki türleri, bu bölgenin ekolojik dengesini korur.
 
 ## Flora ve Fauna
 

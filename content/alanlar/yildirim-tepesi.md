@@ -36,7 +36,7 @@ Yıldırım Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyet
 
 ## Coğrafya
 
-Yıldırım Tepesi, Denizli'nin Ege Bölgesi'nde yer alan bir tepe olup, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu tepe, deniz seviyesinden yüksek bir konumda yer alır ve çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Yıldırım Tepesi'nin coğrafi konumu, ziyaretçilerine büyüleyici manzaralar sunar. Bu tepe, hem doğal güzelliği hem de coğrafi konumuyla dikkat çeker. Yıldırım Tepesi'nin iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine benzer. Burada, yazlar sıca ve kurak, kışlar ise ılık ve yağışlı geçer. Yıldırım Tepesi, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunar.
+Yıldırım Tepesi, Denizli'nin Ege Bölgesi'nde yer alan bir tepe olup, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu tepe, deniz seviyesinden yüksek bir konumda yer alır ve çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Yıldırım Tepesi'nin coğrafi konumu, ziyaretçilerine büyüleyici manzaralar sunar. Bu tepe, hem doğal güzelliği hem de coğrafi konumuyla dikkat çeker. Yıldırım Tepesi'nin iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine benzer. Burada, yazlar sıcak ve kurak, kışlar ise ılık ve yağışlı geçer. Yıldırım Tepesi, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunar.
 
 ## Flora ve Fauna
 

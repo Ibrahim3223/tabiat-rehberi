@@ -44,7 +44,7 @@ Güneydoğu Anadolu'nun kalbinde yer alan Karaman ilinin dağlık bölgesinde, 3
 
 Doğal bir barriers olarak işlev gören Mihail Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplar. Jeolojik açıdan incelendiğinde, bu dağlık bölgenin oluşumu milyonlarca yıllık bir sürece dayanır. Ancak, fiziksel yapısı hakkında detaylı bilgiler bulunmamasına rağmen, bölgenin genel jeolojik özellikleri, kalker ve şist gibi kayaçların hakim olduğu bir yapıya işaret eder.
 
-Mevsimler boyunca değişen hava koşulları, Mihail Dağı'nın iklim karakterini şekillendirir. Kış aylarında soğu ve kar yağışlı olan bölgede, yaz ayları sıca ve kurudur. Bu mevsimsel değişimler, dağdaki bitki örtüsü ve canlı yaşamını etkiler. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olsa da, bölgenin genel yükseklik profili, daha alçak tepeler ve ovalarla çevrili bir alanı gösterir.
+Mevsimler boyunca değişen hava koşulları, Mihail Dağı'nın iklim karakterini şekillendirir. Kış aylarında soğuk ve kar yağışlı olan bölgede, yaz ayları sıcak ve kurudur. Bu mevsimsel değişimler, dağdaki bitki örtüsü ve canlı yaşamını etkiler. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olsa da, bölgenin genel yükseklik profili, daha alçak tepeler ve ovalarla çevrili bir alanı gösterir.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları, Mihail Dağı'nın çevresel ilişkilerini belirler. Dağın eteklerinde yer alan ovalar ve düzlükler, sulama amaçlı kullanılan nehirler ve dereler ile bağlantılıdır. Bu su kaynakları, bölgenin tarım ve hayvancılık faaliyetleri için önemli bir kaynak teşkil eder. Ayrıca, dağlık bölgenin flora ve fauna çeşitliliği, komşu alanlar ile birlikte bir bütün olarak değerlendirildiğinde, bölgenin biyolojik zenginliği ortaya çıkar.
 

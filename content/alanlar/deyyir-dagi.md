@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi zenginliklerini keşfetmek isteyenler 
 
 Doğal güzelliği ve coğrafi konumuyla dikkat çeken Deyyir Dağı, yaklaşık Taksim Meydanı'nın 10 katı büyüklüğe sahip bir alan kaplıyor. Bu genişlik, bölgenin ekolojik çeşitliliğini destekleyerek flora ve fauna açısından zengin bir ortam sunuyor. Dağın fiziksel yapısı, bölgenin jeolojik tarihini yansıtan kayaçlarla kaplı ve bu kayaçlar, zaman içinde oluşan doğal süreçlerin izlerini taşıyor.
 
-Yılın farklı mevsimlerinde Deyyir Dağı'nın iklim karakteri değişkenlik gösteriyor. Kış aylarında soğu ve kar yağışlı bir hava hakimken, yaz aylarında sıcaklık ve nem oranları artıyor. Bu mevsimsel değişimler, bölgenin ekosistemini şekillendiren önemli faktörler arasında yer alıyor. Deyyir Dağı, etrafındaki bitki örtüsü ve su kaynakları ile birlikte bir bütün olarak düşünüldüğünde, bölgenin doğal dengesini koruma açısından kritik bir role sahip olduğu anlaşılıyor.
+Yılın farklı mevsimlerinde Deyyir Dağı'nın iklim karakteri değişkenlik gösteriyor. Kış aylarında soğuk ve kar yağışlı bir hava hakimken, yaz aylarında sıcaklık ve nem oranları artıyor. Bu mevsimsel değişimler, bölgenin ekosistemini şekillendiren önemli faktörler arasında yer alıyor. Deyyir Dağı, etrafındaki bitki örtüsü ve su kaynakları ile birlikte bir bütün olarak düşünüldüğünde, bölgenin doğal dengesini koruma açısından kritik bir role sahip olduğu anlaşılıyor.
 
 Deyyir Dağı'nın çevresel ilişkileri, komşu alanlar ve su kaynakları ile şekilleniyor. Yakındaki akarsular ve göller, dağın ekosistemine katkıda bulunarak bölgenin biyolojik çeşitliliğini zenginleştiriyor. Bu doğal kaynaklar, aynı zamanda bölgenin ekonomisi ve halkının yaşam standartları için de önemli birer unsur olarak dikkat çekiyor.
 

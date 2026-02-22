@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde, Adıyaman ilinin sınırları içinde
 
 Doğal güzellikleri ve jeolojik yapısıyla dikkat çeken Çedirge Dağı, bölgenin jeolojik tarihini yansıtması açısından önemlidir. 37.7517°K ve 37.9592°D koordinatları, dağın konumunu ve çevresindeki diğer coğrafi özelliklerle olan ilişkisini belirlemede yardımcı olur. Bu bilgiler, bölgenin coğrafi yapısını ve Çedirge Dağı'nın içindeki yerini daha iyi anlamamızı sağlar.
 
-Mevsimsel değişikliklere göre hava durumu da değişen Çedirge Dağı, yaz aylarında sıca ve kuru, kış aylarında ise soğu ve yağışlı bir iklim karakterine sahiptir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve yerel ekosistemin şekillenmesinde önemli bir role sahiptir.
+Mevsimsel değişikliklere göre hava durumu da değişen Çedirge Dağı, yaz aylarında sıcak ve kuru, kış aylarında ise soğuk ve yağışlı bir iklim karakterine sahiptir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve yerel ekosistemin şekillenmesinde önemli bir role sahiptir.
 
 Çevresindeki diğer coğrafi özelliklerle olan ilişkisi, Çedirge Dağı'nın bölgedeki ekosistem bağlantılarını belirlemede önemli bir faktördür. Yakınındaki su kaynakları ve komşu alanlar, dağın çevresel ilişkilerini şekillendiren unsurlardır. Bu bağlantılar, bölgenin doğal dengesini korumak açısından önemlidir ve Çedirge Dağı'nın çevresel rollerini daha iyi anlamamızı sağlar.
 

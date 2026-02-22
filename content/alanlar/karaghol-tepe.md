@@ -36,7 +36,7 @@ Karaghol Tepe'nin tarihi geçmişi, İç Anadolu Bölgesi'nin genel tarihini yan
 
 ## Coğrafya
 
-Karaghol Tepe, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe olarak ortaya çıkar. Tepe, geniş ovaların arasında yükselir ve eteklerinde yer alan köyler, tepe ile birlikte bir bütün olarak düşünülür. Bu bölge, iklim olarak İç Anadolu Bölgesi'nin genel iklimini paylaşır, yani karasal iklimin özellikleri görülür. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurudur. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplıdır, bu da tepeyi doğal yaşam için önemli bir merkez haline getirir. Tepe, coğrafi konumu itibariyle, bölgenin önemli bir su kaynağıdır ve eteklerinde yer alan köylerin tarımsal faaliyetleri için önemli bir destek sağlar.
+Karaghol Tepe, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe olarak ortaya çıkar. Tepe, geniş ovaların arasında yükselir ve eteklerinde yer alan köyler, tepe ile birlikte bir bütün olarak düşünülür. Bu bölge, iklim olarak İç Anadolu Bölgesi'nin genel iklimini paylaşır, yani karasal iklimin özellikleri görülür. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplıdır, bu da tepeyi doğal yaşam için önemli bir merkez haline getirir. Tepe, coğrafi konumu itibariyle, bölgenin önemli bir su kaynağıdır ve eteklerinde yer alan köylerin tarımsal faaliyetleri için önemli bir destek sağlar.
 
 ## Flora ve Fauna
 

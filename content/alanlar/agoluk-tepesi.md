@@ -36,7 +36,7 @@ Ağoluk Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetleri
 
 ## Coğrafya
 
-Ağoluk Tepesi, Hatay'ın coğrafi olarak zengin bir bölgesinde yer alıyor. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve bu durum, bölgenin fauna açısından da zengin olmasını sağlıyor. Ağoluk Tepesi, özellikle Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürüyor. Bu iklim, bölgenin flora ve fauna açısından zenginleşmesine katkıda bulunuyor. Tepenin manzarası, Akdeniz Bölgesi'nin güzelliğini gözler önüne seriyor. Ağoluk Tepesi, coğrafi konumu itibariyle ziyaretçilerine geniş bir sunuyor.
+Ağoluk Tepesi, Hatay'ın coğrafi olarak zengin bir bölgesinde yer alıyor. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve bu durum, bölgenin fauna açısından da zengin olmasını sağlıyor. Ağoluk Tepesi, özellikle Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürüyor. Bu iklim, bölgenin flora ve fauna açısından zenginleşmesine katkıda bulunuyor. Tepenin manzarası, Akdeniz Bölgesi'nin güzelliğini gözler önüne seriyor. Ağoluk Tepesi, coğrafi konumu itibariyle ziyaretçilerine geniş bir sunuyor.
 
 ## Flora ve Fauna
 

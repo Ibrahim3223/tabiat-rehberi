@@ -37,7 +37,7 @@ Karakaya Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu
 
 ## Coğrafya
 
-Karakaya Hamamı, Ayaş'ta yer alan ve İç Anadolu Bölgesi'nde bulunan bir doğa harikasıdır. Bu bölge, 140 hektarlık geniş bir yeşil alan olarak dikkat çekmektedir. Geniş ve ferah bir ortam sunan Karakaya Hamamı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini ağırlamaktadır. İklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşımaktadır. Yaz aylarında sıca ve kuru, kış aylarında ise soğu ve kar yağışlı bir iklimi vardır. Bu bölge, geniş yeşil alanları ve ferah ortamı ile ziyaretçilerini doğanın güzelliği ile baş başa bırakmaktadır.
+Karakaya Hamamı, Ayaş'ta yer alan ve İç Anadolu Bölgesi'nde bulunan bir doğa harikasıdır. Bu bölge, 140 hektarlık geniş bir yeşil alan olarak dikkat çekmektedir. Geniş ve ferah bir ortam sunan Karakaya Hamamı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini ağırlamaktadır. İklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşımaktadır. Yaz aylarında sıcak ve kuru, kış aylarında ise soğuk ve kar yağışlı bir iklimi vardır. Bu bölge, geniş yeşil alanları ve ferah ortamı ile ziyaretçilerini doğanın güzelliği ile baş başa bırakmaktadır.
 
 ## Flora ve Fauna
 

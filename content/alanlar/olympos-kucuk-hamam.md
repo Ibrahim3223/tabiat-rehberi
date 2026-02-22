@@ -37,7 +37,7 @@ Olympos Küçük Hamam, yüzyıllar boyunca önemli bir yerleşim ve ticaret mer
 
 ## Coğrafya
 
-Olympos Küçük Hamam, Antalya'nın Kumluca ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Bu bölge, Toros Dağları'nın güney eteklerinde, deniz seviyesinden yaklaşık yüksek bir konumdate bulunuyor. Olympos Küçük Hamam, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, kumlu plajları, berra ve masmavi suyu ile ziyaretçileri cezbediyor. Çevresindeki dağlar ve ormanlar, bu bölgeye zengin bir flora ve fauna çeşitliliği kazandırıyor. İklimi, Akdeniz ikliminin karakteristik özelliklerini taşıyor: yazları sıca ve kuru, kışları ılık ve yağışlı. Bu coğrafi özellikler, Olympos Küçük Hamam'ı ziyaret edenler için unutulmaz bir deneyim sunuyor. Ayrıca, Olympos'un coğrafi konumu, önemli bir doğa koruma alanı olarak kabul ediliyor ve bu bölge, çeşitli doğa koruma projelerine ev sahipliği yapıyor.
+Olympos Küçük Hamam, Antalya'nın Kumluca ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Bu bölge, Toros Dağları'nın güney eteklerinde, yüksek bir konumda bulunuyor. Olympos Küçük Hamam, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, kumlu plajları, berra ve masmavi suyu ile ziyaretçileri cezbediyor. Çevresindeki dağlar ve ormanlar, bu bölgeye zengin bir flora ve fauna çeşitliliği kazandırıyor. İklimi, Akdeniz ikliminin karakteristik özelliklerini taşıyor: yazları sıcak ve kuru, kışları ılık ve yağışlı. Bu coğrafi özellikler, Olympos Küçük Hamam'ı ziyaret edenler için unutulmaz bir deneyim sunuyor. Ayrıca, Olympos'un coğrafi konumu, önemli bir doğa koruma alanı olarak kabul ediliyor ve bu bölge, çeşitli doğa koruma projelerine ev sahipliği yapıyor.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Doğal güzellikleri ile dikkat çeken Sinop ilinin bir parçası olan Küçük�
 
 Jeolojik açıdan bakıldığında, Küçükçukur Tepesi'nin fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel jeolojik özellikleri dikkate alınabilir. Sinop ilinin coğrafyası, genellikle Paleozoi ve Mezozoik dönemlere ait kayaçlardan oluşmaktadır. Bu kayaçlar, bölgenin jeolojik geçmişini şekillendirmiş ve günümüzde görülen coğrafi özelliklere katkıda bulunmuştur.
 
-Mevsimsel olarak, Küçükçukur Tepesi ve çevresi, Karadeniz ikliminin karakteristik özelliklerini taşır. Bu bölgede, yaz aylarında sıcaklık ve nem oranı artarken, kış aylarında soğu ve yağışlı bir hava hakim olur. Bu mevsimsel değişimler, bölgenin bitki örtüsü ve fauna yapısını etkiler.
+Mevsimsel olarak, Küçükçukur Tepesi ve çevresi, Karadeniz ikliminin karakteristik özelliklerini taşır. Bu bölgede, yaz aylarında sıcaklık ve nem oranı artarken, kış aylarında soğuk ve yağışlı bir hava hakim olur. Bu mevsimsel değişimler, bölgenin bitki örtüsü ve fauna yapısını etkiler.
 
 Çevresel açıdan, Küçükçukur Tepesi, komşu alanlar ve su kaynakları ile ilişkili bir ekosistem içinde yer alır. Bölge, Karadeniz kıyı şeridine yakınlığı nedeniyle, denizel etkiler ve yağışların getirdiği su kaynakları ile beslenir. Bu su kaynakları, bölgenin ekosistemini zenginleştiren önemli bir faktördür.
 

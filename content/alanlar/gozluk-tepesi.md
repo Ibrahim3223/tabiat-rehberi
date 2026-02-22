@@ -49,7 +49,7 @@ Gözlük Tepesi'ni ziyaret etmek, ziyaretçilere unutulmaz bir deneyim sunuyor. 
 ## İlginç Bilgiler
 
 - Gözlük Tepesi, Tokat ilinin en yüksek noktalarından biri
-- Tepenin zirvesi, yaklaşık yüksek bir konumdate
+- Tepenin zirvesi, yüksek bir konumda
 - Gözlük Tepesi, ziyaretçilere geniş bir manzara sunuyor
 - Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar bulunur
 - Gözlük Tepesi, özellikle gün batımında ziyaret ediliyor

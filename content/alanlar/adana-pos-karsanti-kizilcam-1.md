@@ -30,7 +30,7 @@ Adana-Pos-Karsanti Kızılçam 1 milli parkının tarihi geçmişi, yüzyıllar 
 
 ## Coğrafya
 
-Adana-Pos-Karsanti Kızılçam 1 milli parkı, Akdeniz Bölgesi'nde yer alan Adana ilinde bulunuyor. Bu milli park, coğrafi olarak zengin bir yapıya sahip. 140 hektarlık alanı, çeşitli bitki türleri ve ağaçlarla kaplı. Milli parkın iklimi, Akdeniz ikliminin özellikleri gösteriyor. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir iklim hüküm sürüyor. Bu coğrafi yapı, çeşitli canlıların yaşamasına elverişli bir ortam sunuyor.
+Adana-Pos-Karsanti Kızılçam 1 milli parkı, Akdeniz Bölgesi'nde yer alan Adana ilinde bulunuyor. Bu milli park, coğrafi olarak zengin bir yapıya sahip. 140 hektarlık alanı, çeşitli bitki türleri ve ağaçlarla kaplı. Milli parkın iklimi, Akdeniz ikliminin özellikleri gösteriyor. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir iklim hüküm sürüyor. Bu coğrafi yapı, çeşitli canlıların yaşamasına elverişli bir ortam sunuyor.
 
 ## Flora ve Fauna
 

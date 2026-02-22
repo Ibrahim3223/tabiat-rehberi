@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin tarihi ve kültürel zenginlikleriyle bilinen M
 
 Dik yamaçları ve kayalık zirvesiyle dikkat çeken Kelebek Tepe, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu büyüklük, çevresindeki diğer coğrafi oluşumlarla karşılaştırıldığında nispeten küçük olsa da, tepe kendi içinde zengin bir jeolojik yapıya sahiptir. Ancak, detaylı fiziksel verilerin bulunmaması nedeniyle tepe hakkında daha spesifik bilgiler elde etme mümkün değildir.
 
-Mardin'in iklim karakteri, Kelebek Tepe'nin çevresindeki coğrafi koşulları da etkiler. Bölge, yazları sıca ve kurak, kışları ise soğu ve yağışlı bir iklim özelliği gösterir. Bu mevsimsel özellikler, tepe ve çevresindeki bitki örtüsünü ve fauna çeşitliliğini şekillendirmektedir. Havaların değişkenliği, bölgenin ekolojik dengesini de etkilemektedir.
+Mardin'in iklim karakteri, Kelebek Tepe'nin çevresindeki coğrafi koşulları da etkiler. Bölge, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı bir iklim özelliği gösterir. Bu mevsimsel özellikler, tepe ve çevresindeki bitki örtüsünü ve fauna çeşitliliğini şekillendirmektedir. Havaların değişkenliği, bölgenin ekolojik dengesini de etkilemektedir.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları, Kelebek Tepe'nin çevresel ilişkilerini kompleks bir hale getirir. Tepe, Mardin'in diğer coğrafi oluşumları ile birlikte, bölgenin ekolojik zenginliğini destekler. Ancak, çevresel ilişkiler hakkında daha detaylı bilgi elde etmek için daha kapsamlı bir araştırma yapılması gerekmektedir.
 

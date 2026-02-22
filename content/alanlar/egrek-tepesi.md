@@ -36,7 +36,7 @@ Eğrek Tepesi'nin tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. Bu tep
 
 ## Coğrafya
 
-Eğrek Tepesi, coğrafi açıdan önemli bir konuma sahiptir. Bu tepe, Burdur'un merkezine uzun bir mesafe uzaklıktadır. Eğrek Tepesi, Akdeniz Bölgesi'nin karakteristik coğrafi özellikleri olan dağlar, ovalar ve platolardan oluşmaktadır. Bu tepe, çevresindeki diğer tepe ve dağlarla birlikte, bir doğal güzellik koridorunu oluşturmaktadır. Eğrek Tepesi'nin iklimi, Akdeniz ikliminin característicasını taşır. Bu tepe, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklimi sahiptir. Eğrek Tepesi, flora ve fauna açısından da zengindir. Bu tepe, çeşitli bitki türleri ve hayvan çeşitliliği ile önemli bir ekosistemi oluşturmaktadır.
+Eğrek Tepesi, coğrafi açıdan önemli bir konuma sahiptir. Bu tepe, Burdur'un merkezine uzun bir mesafe uzaklıktadır. Eğrek Tepesi, Akdeniz Bölgesi'nin karakteristik coğrafi özellikleri olan dağlar, ovalar ve platolardan oluşmaktadır. Bu tepe, çevresindeki diğer tepe ve dağlarla birlikte, bir doğal güzellik koridorunu oluşturmaktadır. Eğrek Tepesi'nin iklimi, Akdeniz ikliminin característicasını taşır. Bu tepe, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklimi sahiptir. Eğrek Tepesi, flora ve fauna açısından da zengindir. Bu tepe, çeşitli bitki türleri ve hayvan çeşitliliği ile önemli bir ekosistemi oluşturmaktadır.
 
 ## Flora ve Fauna
 

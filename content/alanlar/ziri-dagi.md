@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin gözde illerinden biri olan Tunceli, Ziri Dağı ile 
 
 Jeolojik açıdan bakıldığında, Ziri Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel olarak karmaşık bir jeolojik yapıya sahip olduğu biliniyor. Bu dağ, Türkiye'nin doğu kesiminde yaygın olan volkani ve sedimentatif kayaçlardan oluşuyor. Ziri Dağı'nın büyüklüğü, bir şehir bloğu büyüklüğünde düşünülse de, çevresindeki dağlarla birlikte önemli bir coğrafi bütünlük oluşturuyor.
 
-İklim açısından Ziri Dağı, Tunceli'nin karasal ikliminin etkilerini taşıyor. Kış aylarında sert ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürüyor. Bu mevsimsel farklılıklar, bölgenin flora ve fauna açısından zengin bir çeşitlilik göstermesine neden oluyor. Ziri Dağı'nın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte düşünülse de, bölgenin genel yüksekliği daha alçak.
+İklim açısından Ziri Dağı, Tunceli'nin karasal ikliminin etkilerini taşıyor. Kış aylarında sert ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürüyor. Bu mevsimsel farklılıklar, bölgenin flora ve fauna açısından zengin bir çeşitlilik göstermesine neden oluyor. Ziri Dağı'nın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte düşünülse de, bölgenin genel yüksekliği daha alçak.
 
 Çevresel açıdan bakıldığında, Ziri Dağı, Munzur Dağları'nın bir parçası olarak önemli bir ekosistem bağlantı noktası oluşturuyor. Bu dağ, komşu alanlar ve su kaynakları ile birlikte bir bütün olarak değerlendiriliyor. Ziri Dağı'nın etrafında, Munzur Çayı gibi önemli su kaynakları bulunuyor. Bu su kaynakları, bölgenin tarım ve hayvancılık faaliyetleri için önemli bir kaynak teşkil ediyor.
 

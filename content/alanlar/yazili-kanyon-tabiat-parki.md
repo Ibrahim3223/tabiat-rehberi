@@ -38,7 +38,7 @@ Yazılı Kanyon Tabiat Parkı, tarihi geçmişi ile dikkat çekiyor. Bu doğal a
 
 ## Coğrafya
 
-Yazılı Kanyon Tabiat Parkı, Isparta'nın Sütçüler ilçesinde, Akdeniz Bölgesi'nde bulunuyor. Parkın coğrafi konumu, 140 hektarlık bir alanı kapsıyor ve kanyon, etrafındaki dağlar ile çevrili. Bu coğrafi yapı, parkın iklimini ve bitki örtüsünü etkiliyor. Parkın iklimi, Akdeniz ikliminin özellikleri ile şekilleniyor ve yaz ayları sıca ve kurak, kış ayları ılık ve yağışlı geçiyor. Bu iklim, parkın bitki örtüsünü ve faunasını etkiliyor. Parkın etrafındaki dağlar, kanyonun oluşumunda büyük rol oynadı ve suyun aşındırıcı etkisine maruz kalan topraklar, kanyonun oluşmasına neden oldu. Bu coğrafi yapı, parkın doğal güzelliğini artırıyor ve ziyaretçilerini cezbediyor.
+Yazılı Kanyon Tabiat Parkı, Isparta'nın Sütçüler ilçesinde, Akdeniz Bölgesi'nde bulunuyor. Parkın coğrafi konumu, 140 hektarlık bir alanı kapsıyor ve kanyon, etrafındaki dağlar ile çevrili. Bu coğrafi yapı, parkın iklimini ve bitki örtüsünü etkiliyor. Parkın iklimi, Akdeniz ikliminin özellikleri ile şekilleniyor ve yaz ayları sıcak ve kurak, kış ayları ılık ve yağışlı geçiyor. Bu iklim, parkın bitki örtüsünü ve faunasını etkiliyor. Parkın etrafındaki dağlar, kanyonun oluşumunda büyük rol oynadı ve suyun aşındırıcı etkisine maruz kalan topraklar, kanyonun oluşmasına neden oldu. Bu coğrafi yapı, parkın doğal güzelliğini artırıyor ve ziyaretçilerini cezbediyor.
 
 ## Flora ve Fauna
 

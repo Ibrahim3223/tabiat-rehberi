@@ -37,7 +37,7 @@ wikidata_id: "Q34829890"
 
 ## Coğrafya
 
-Öğlekayasi Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölge. Tepenin yüksekliği ve konumu, burayı bir gözlem noktası haline getiriyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal. Yaz ayları sıca ve kurak, kış ayları soğu ve yağışlı geçer. Tepenin eteklerinde bulunan akarsular ve göller, bölgenin ekolojik dengesini koruyor. Öğlekayasi Tepesi, çevresindeki diğer tepe ve dağlarla birlikte bir dağ silsilesini oluşturuyor. Bu bölgenin coğrafi yapısı, çeşitli bitki ve hayvan türlerinin yaşamasına elverişli.
+Öğlekayasi Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölge. Tepenin yüksekliği ve konumu, burayı bir gözlem noktası haline getiriyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal. Yaz ayları sıcak ve kurak, kış ayları soğuk ve yağışlı geçer. Tepenin eteklerinde bulunan akarsular ve göller, bölgenin ekolojik dengesini koruyor. Öğlekayasi Tepesi, çevresindeki diğer tepe ve dağlarla birlikte bir dağ silsilesini oluşturuyor. Bu bölgenin coğrafi yapısı, çeşitli bitki ve hayvan türlerinin yaşamasına elverişli.
 
 ## Flora ve Fauna
 

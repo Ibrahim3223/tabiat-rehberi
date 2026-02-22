@@ -42,7 +42,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden Bitlis'in sınırlarında yer alan
 
 Jeolojik açıdan bakıldığında, Hap Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bu dağın bulunduğu coğrafya, genel olarak dağlık ve engebeli bir yapıya sahiptir. Bu bölgede, genellikle volkani ve sedimentatif kayaçlar bulunmaktadır. Hap Dağı'nın boyutları ve şekli, bölgeye özgü coğrafi özelliklerle uyumlu bir yapıya sahiptir.
 
-İklimsel olarak, Hap Dağı ve çevresindeki bölge, karasal iklim karakterine sahiptir. Bu bölgede, yaz ayları sıca ve kurak, kış ayları ise soğu ve karlı geçmektedir. Yıllık yağış miktarı, bölgenin coğrafi yüksekliği ve diğer faktörler tarafından etkilenmektedir. Hap Dağı'nın bulunduğu yükseklikte, hava durumu thường olarak değişken ve sert bir yapıya sahiptir.
+İklimsel olarak, Hap Dağı ve çevresindeki bölge, karasal iklim karakterine sahiptir. Bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise soğuk ve karlı geçmektedir. Yıllık yağış miktarı, bölgenin coğrafi yüksekliği ve diğer faktörler tarafından etkilenmektedir. Hap Dağı'nın bulunduğu yükseklikte, hava durumu thường olarak değişken ve sert bir yapıya sahiptir.
 
 Çevresel açıdan, Hap Dağı'nın bulunduğu bölge, çeşitli su kaynakları ve ekosistemlerle bağlantılıdır. Bu bölgede, akarsular, göller ve diğer su kaynakları, doğal yaşamı destekleyen önemli unsurlardır. Hap Dağı'nın komşu alanları, genellikle ormanlık ve dağlık arazilerden oluşmaktadır. Bu bölgenin ekosistemi, çeşitli bitki ve hayvan türlerini barındırmaktadır.
 

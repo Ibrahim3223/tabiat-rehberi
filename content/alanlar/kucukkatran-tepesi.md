@@ -36,7 +36,7 @@ Küçükkatran Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarl
 
 ## Coğrafya
 
-Küçükkatran Tepesi, Çanakkale'nin coğrafi yapısını oluşturan önemli bir parçadır. Tepenin coğrafi konumu, Marmara Bölgesi'nin kuzeybatı kesiminde bulunur. Bu bölge, deniz seviyesinden yaklaşık yüksek bir konumdatedir ve çevresi çeşitli bitki türleriyle kaplıdır. Tepenin eteklerinde, küçük akarsular ve derenin oluşturduğu vadiler bulunur. Bu vadiler, bölgenin coğrafi yapısını daha da zenginleştiren önemli bir özelliktir. Ayrıca, tepe ve çevresinin coğrafi yapısı, bölgenin iklimini de etkiler. Bu bölgede, Karadeniz ve Akdeniz iklimleri arasında bir geçiş iklimi görülür ve bu, bölgenin flora ve faunasını etkileyen önemli bir faktördür.
+Küçükkatran Tepesi, Çanakkale'nin coğrafi yapısını oluşturan önemli bir parçadır. Tepenin coğrafi konumu, Marmara Bölgesi'nin kuzeybatı kesiminde bulunur. Bu bölge, yüksek bir konumdadir ve çevresi çeşitli bitki türleriyle kaplıdır. Tepenin eteklerinde, küçük akarsular ve derenin oluşturduğu vadiler bulunur. Bu vadiler, bölgenin coğrafi yapısını daha da zenginleştiren önemli bir özelliktir. Ayrıca, tepe ve çevresinin coğrafi yapısı, bölgenin iklimini de etkiler. Bu bölgede, Karadeniz ve Akdeniz iklimleri arasında bir geçiş iklimi görülür ve bu, bölgenin flora ve faunasını etkileyen önemli bir faktördür.
 
 ## Flora ve Fauna
 

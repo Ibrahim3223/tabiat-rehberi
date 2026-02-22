@@ -30,7 +30,7 @@ Antalya-Antalya-Döşemealtı-Kızılçam'ın tarihi geçmişi, yüzyıllar boyu
 
 ## Coğrafya
 
-Antalya-Antalya-Döşemealtı-Kızılçam, coğrafi olarak Akdeniz Bölgesi'nin karakteristik özelliklerini taşır. Bölge, yemyeşil ormanlar, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Milli parkın coğrafyası, ziyaretçilerine birçok farklı peyzaj sunar. Burası, aynı zamanda iklim açısından da dikkat çekicidir. Akdeniz ikliminin hüküm sürdüğü bu bölgede, yazlar sıca ve kurak, kışlar ise ılık ve yağışlı geçer. Bu iklim, bölgeyi yıl boyunca ziyaret edilebilir hale getirir. Ayrıca, milli parkın coğrafi konumu, ziyaretçilere birçok farklı aktivite imkanı sunar. Burada, doğa yürüyüşleri, kampçılık, ve fotoğraf çekimi gibi aktiviteler yapılabilir.
+Antalya-Antalya-Döşemealtı-Kızılçam, coğrafi olarak Akdeniz Bölgesi'nin karakteristik özelliklerini taşır. Bölge, yemyeşil ormanlar, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Milli parkın coğrafyası, ziyaretçilerine birçok farklı peyzaj sunar. Burası, aynı zamanda iklim açısından da dikkat çekicidir. Akdeniz ikliminin hüküm sürdüğü bu bölgede, yazlar sıcak ve kurak, kışlar ise ılık ve yağışlı geçer. Bu iklim, bölgeyi yıl boyunca ziyaret edilebilir hale getirir. Ayrıca, milli parkın coğrafi konumu, ziyaretçilere birçok farklı aktivite imkanı sunar. Burada, doğa yürüyüşleri, kampçılık, ve fotoğraf çekimi gibi aktiviteler yapılabilir.
 
 ## Flora ve Fauna
 

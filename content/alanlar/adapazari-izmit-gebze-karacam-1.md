@@ -30,7 +30,7 @@ Adapazari-Izmit-Gebze Karacam 1 milli parkının tarihi geçmişi, yüzyıllar b
 
 ## Coğrafya
 
-Adapazari-Izmit-Gebze Karacam 1 milli parkı, İç Anadolu Bölgesi'nde yer alan bir coğrafyada bulunmaktadır. Bu coğrafya, geniş ovaları, dağları ve akarsuları ile çeşitlilik gösteren bir yapıya sahiptir. Milli parkın etrafında, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu bölgede iklim, karasal iklim özellikleri göstermektedir. Yaz ayları sıca ve kurak, kış ayları soğu ve karlı geçmektedir. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli aktiviteler ve keşif fırsatları sunmaktadır. Burada, doğa yürüyüşleri, pikni ve doğa gözlemi gibi aktiviteler yapılabilir.
+Adapazari-Izmit-Gebze Karacam 1 milli parkı, İç Anadolu Bölgesi'nde yer alan bir coğrafyada bulunmaktadır. Bu coğrafya, geniş ovaları, dağları ve akarsuları ile çeşitlilik gösteren bir yapıya sahiptir. Milli parkın etrafında, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu bölgede iklim, karasal iklim özellikleri göstermektedir. Yaz ayları sıcak ve kurak, kış ayları soğuk ve karlı geçmektedir. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli aktiviteler ve keşif fırsatları sunmaktadır. Burada, doğa yürüyüşleri, pikni ve doğa gözlemi gibi aktiviteler yapılabilir.
 
 ## Flora ve Fauna
 

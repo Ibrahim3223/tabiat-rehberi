@@ -42,7 +42,7 @@ Mersin'in güneşli kıyılarında yer alan Koru Tepe, 36.0842°K ve 32.7158°D 
 
 Jeolojik açıdan bakıldığında, Koru Tepe'nin fiziksel yapısı hakkında detaylı bilgi olmasa da, çevresindeki dağların yüksekliklerine bakarak, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte bir tepe olabilir. Bu yükseklik, Koru Tepe'nin eteklerinde yaşayanların ve ziyaretçilerin keyifle keşfedebileceği bir manzara sunuyor. Koru Tepe'nin boyutları, Monaco'nun küçük bir bölümü kadar büyük bir alanı kaplıyor, ancak bu küçük alan, ziyaretçilere zengin bir doğa deneyimi sunuyor.
 
-Mevsimsel değişimlerin etkisi altında kalan Koru Tepe, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve kurak olan hava, kış aylarında ılıman ve yağmurlu bir havaya dönüşüyor. Bu mevsimsel değişim, Koru Tepe'nin flora ve fauna çeşitliliğini etkiliyor ve ziyaretçilere her mevsim farklı bir deneyim sunuyor.
+Mevsimsel değişimlerin etkisi altında kalan Koru Tepe, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve kurak olan hava, kış aylarında ılıman ve yağmurlu bir havaya dönüşüyor. Bu mevsimsel değişim, Koru Tepe'nin flora ve fauna çeşitliliğini etkiliyor ve ziyaretçilere her mevsim farklı bir deneyim sunuyor.
 
 Çevresel açıdan bakıldığında, Koru Tepe, Mersin'in diğer doğal güzelliklerine yakınlığıyla dikkat çekiyor. Yakınlarında bulunan su kaynakları ve ekosistem bağlantıları, Koru Tepe'nin doğal dengesini koruyor ve bölgenin biyolojik çeşitliliğini zenginleştiriyor. Koru Tepe, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor ve ziyaretçilere, İstanbul'un Adalar ilçesi büyüklüğünde bir doğal alan sunuyor.
 

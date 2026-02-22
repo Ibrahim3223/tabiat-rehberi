@@ -44,13 +44,13 @@ Güneybatı Anadolu'nun eşsiz coğrafyasında yer alan Ilbıra Dağları, 37.37
 
 Doğal güzelliği ve coğrafi çeşitliliğiyle dikkat çeken Ilbıra Dağları, jeolojik açıdan da ilgi çekicidir. Ancak, detalı fiziksel veri bulunmamasına rağmen, bölgenin coğrafi yapısı ve komşu alanlarla olan ilişkileri, Ilbıra Dağları'nın önemli bir doğal kaynak olduğunu gösterir. Monaco'nun yarısı kadar bir alanı kaplayan bu dağlık bölge, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplar ve Eiffel Kulesi'nin birkaç katı yükseklikte zirveleri bulunan bir coğrafi oluşumdur.
 
-Mevsimsel değişikliklere göre iklim karakteri değişen Ilbıra Dağları, yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumuna sahiptir. Bu mevsimsel özellikler, bölgenin ekosistemini ve doğal kaynaklarını etkiler. Ilbıra Dağları, komşu alanlar ve su kaynaklarıyla bağlantılı bir coğrafi yapıya sahiptir ve bölgenin ekosistemini destekler. İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplayan bu dağlık bölge, çevresindeki su kaynakları ve ekosistem bağlantıları ile önemli bir doğal kaynak olarak dikkat çeker.
+Mevsimsel değişikliklere göre iklim karakteri değişen Ilbıra Dağları, yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumuna sahiptir. Bu mevsimsel özellikler, bölgenin ekosistemini ve doğal kaynaklarını etkiler. Ilbıra Dağları, komşu alanlar ve su kaynaklarıyla bağlantılı bir coğrafi yapıya sahiptir ve bölgenin ekosistemini destekler. İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplayan bu dağlık bölge, çevresindeki su kaynakları ve ekosistem bağlantıları ile önemli bir doğal kaynak olarak dikkat çeker.
 
 ## Flora ve Fauna
 
 Ilıbıra Dağları, yükseklik zonlarına bağlı olarak değişen bir bitki örtüsüne sahiptir. Step ve bozkır bitki örtüsünün hakim olduğu bu dağlık alanda, ilkbahar aylarında çiçeklerin renk cümbüşü yaşanır. 1200 metre yükseklikte, alpin flora çeşitliliği dikkat çeker.
 
-Dağların yaban hayatı, memeliler ve kuşlar açısından zengin bir yapıya sahiptir. Kış aylarında, bazı kuş türleri güneye göç ederken, diğerleri dağların yüksek kesimlerinde kalır. Sürüngenler, sıca ve kurak bölgelerde yaşar.
+Dağların yaban hayatı, memeliler ve kuşlar açısından zengin bir yapıya sahiptir. Kış aylarında, bazı kuş türleri güneye göç ederken, diğerleri dağların yüksek kesimlerinde kalır. Sürüngenler, sıcak ve kurak bölgelerde yaşar.
 
 Ilıbıra Dağları, ekolojik açıdan önemli bir alandır. Bu dağlık alan, çeşitli canlı türlerinin yaşam alanı olmasının yanı sıra, su kaynaklarının korunmasına da katkı sağlar. Kuraklığa adapte olmuş bitkiler ve hayvanlar, bu alanın benzersiz özelliklerini oluşturur.
 

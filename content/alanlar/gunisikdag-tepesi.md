@@ -36,7 +36,7 @@ Günışıkdağ Tepesi, tarihsel olarak önemli bir geçmişe sahip. Tarihi kayn
 
 ## Coğrafya
 
-Coğrafi olarak, Günışıkdağ Tepesi, Şanlıurfa'nın güneydoğu kesiminde yer alıyor. Tepenin etrafı, çeşitli bitki türleriyle kaplı geniş bir alanla çevrili. Bu bitki örtüsü, bölgenin iklimini ve ekolojisini etkileyen önemli bir faktör. Tepenin yüksekliği, çevredeki diğer tepelerle benzerlik gösteriyor ve bu da bölgenin coğrafi yapısının tekrarlanabilir olduğunu gösteriyor. Bölgenin iklimi, genellikle sıca ve kurak geçiyor, ancak yüksekli ve bitki örtüsü, mikro iklimin oluşmasına katkıda bulunabiliyor. Günışıkdağ Tepesi ve çevresi, coğrafi güzellikleri ve çeşitliliği ile dikkat çekiyor.
+Coğrafi olarak, Günışıkdağ Tepesi, Şanlıurfa'nın güneydoğu kesiminde yer alıyor. Tepenin etrafı, çeşitli bitki türleriyle kaplı geniş bir alanla çevrili. Bu bitki örtüsü, bölgenin iklimini ve ekolojisini etkileyen önemli bir faktör. Tepenin yüksekliği, çevredeki diğer tepelerle benzerlik gösteriyor ve bu da bölgenin coğrafi yapısının tekrarlanabilir olduğunu gösteriyor. Bölgenin iklimi, genellikle sıcak ve kurak geçiyor, ancak yüksekli ve bitki örtüsü, mikro iklimin oluşmasına katkıda bulunabiliyor. Günışıkdağ Tepesi ve çevresi, coğrafi güzellikleri ve çeşitliliği ile dikkat çekiyor.
 
 ## Flora ve Fauna
 

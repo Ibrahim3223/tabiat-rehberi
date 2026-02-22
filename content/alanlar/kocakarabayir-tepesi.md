@@ -36,7 +36,7 @@ Kocakarabayır Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
 
 ## Coğrafya
 
-Kocakarabayır Tepesi, Eskişehir'in coğrafi yapısında önemli bir yere sahiptir. Bu tepenin coğrafi konumu, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölge, genellikle karasal iklimin etkisindedir. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurudur. Kocakarabayır Tepesi'nin eteklerinde, çeşitli akarsular ve göller bulunur. Bu su kaynakları, bölgenin flora ve faunası için hayati önem taşır. Tepenin zirvesinden, Eskişehir'in geniş düzlükleri ve çevresindeki dağlar görülebilir. Coğrafi konumu nedeniyle, Kocakarabayır Tepesi, hem doğa severler hem de coğrafya meraklıları için bir çekim merkezidir.
+Kocakarabayır Tepesi, Eskişehir'in coğrafi yapısında önemli bir yere sahiptir. Bu tepenin coğrafi konumu, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölge, genellikle karasal iklimin etkisindedir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Kocakarabayır Tepesi'nin eteklerinde, çeşitli akarsular ve göller bulunur. Bu su kaynakları, bölgenin flora ve faunası için hayati önem taşır. Tepenin zirvesinden, Eskişehir'in geniş düzlükleri ve çevresindeki dağlar görülebilir. Coğrafi konumu nedeniyle, Kocakarabayır Tepesi, hem doğa severler hem de coğrafya meraklıları için bir çekim merkezidir.
 
 ## Flora ve Fauna
 

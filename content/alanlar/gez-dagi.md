@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden Van'ın dağlık coğrafyasında y
 
 Jeolojik açıdan bakıldığında, Gez Dağı'nın fiziksel yapı özellikleri tam olarak belirlenmemekle birlikte, Van Gölü çevresindeki dağların genel özelliklerini paylaştığı söylenebilir. Bu dağlar genellikle volkanik kökenli ve yer sedimentlerle kaplıdır. Eğer bir karşılaştırma yapacak olursak, bölgenin coğrafi yapısı Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor gibi düşünülebilir.
 
-Mevsimsel değişiklikler açısından, Gez Dağı'nın bulunduğu bölge karasal iklim özellikleri gösteriyor. Kışlar soğu ve kar yağışlı, yazlar ise sıca ve kurak geçiyor. Bu mevsimsel farklılıklar, bölgenin flora ve fauna çeşitliliğini etkiliyor. Örneğin, ilkbahar aylarında dağ yamaçları yeşillenirken, sonbaharın gelmesiyle birlikte yaprak dökümü başlıyor.
+Mevsimsel değişiklikler açısından, Gez Dağı'nın bulunduğu bölge karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu mevsimsel farklılıklar, bölgenin flora ve fauna çeşitliliğini etkiliyor. Örneğin, ilkbahar aylarında dağ yamaçları yeşillenirken, sonbaharın gelmesiyle birlikte yaprak dökümü başlıyor.
 
 Çevresel açıdan bakıldığında, Gez Dağı Van Gölü'nün su kaynakları ile bağlantılı görünüyor. Bölgede akan akarsular ve derenin su toplama havzaları, gölün su seviyesini etkiliyor. Bu su kaynakları aynı zamanda bölgenin ekosistemini Beslenmesini sağlıyor. Monaco'nun yarısı kadar büyük bir alanı kaplayan Van Gölü, bölgenin ekolojik dengesini koruyor.
 

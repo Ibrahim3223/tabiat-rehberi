@@ -36,7 +36,7 @@ Devedamı Tepesi'nin tarihi geçmişi, İç Anadolu Bölgesi'nin genel tarihinde
 
 ## Coğrafya
 
-Devedamı Tepesi, coğrafi açıdan bakıldığında, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, İç Anadolu Bölgesi'nin genel coğrafi yapısına uygun olarak, bozkır ve step özellikleri gösteriyor. Bu bölgenin iklimi, karasal iklim özellikleri gösteriyor ve bu nedenle, kışlar soğu ve yazlar sıcak geçiyor. Devedamı Tepesi'nin coğrafi konumu, aynı zamanda flora ve fauna açısından da önemli bir nokta. Bu tepe ve çevresi, çeşitli bitki türleri ve hayvanların yaşadığı bir bölge olarak biliniyor. Ancak, bu bölgenin coğrafi yapısı ve iklimi, flora ve fauna açısından bazı sınırlamalar getiriyor. Örneğin, bu bölgede, su kaynaklarının sınırlı olması, flora ve fauna açısından belirli zorluklar yaratıyor.
+Devedamı Tepesi, coğrafi açıdan bakıldığında, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, İç Anadolu Bölgesi'nin genel coğrafi yapısına uygun olarak, bozkır ve step özellikleri gösteriyor. Bu bölgenin iklimi, karasal iklim özellikleri gösteriyor ve bu nedenle, kışlar soğuk ve yazlar sıcak geçiyor. Devedamı Tepesi'nin coğrafi konumu, aynı zamanda flora ve fauna açısından da önemli bir nokta. Bu tepe ve çevresi, çeşitli bitki türleri ve hayvanların yaşadığı bir bölge olarak biliniyor. Ancak, bu bölgenin coğrafi yapısı ve iklimi, flora ve fauna açısından bazı sınırlamalar getiriyor. Örneğin, bu bölgede, su kaynaklarının sınırlı olması, flora ve fauna açısından belirli zorluklar yaratıyor.
 
 ## Flora ve Fauna
 

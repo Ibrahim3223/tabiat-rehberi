@@ -36,7 +36,7 @@ Keşa Tepe'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu tepe, Mard
 
 ## Coğrafya
 
-Keşa Tepe, Mardin'in coğrafi yapısını oluşturan tepe ve dağların arasında yer alıyor. Bu tepe, Mardin'in merkezine yakın bir konumda bulunuyor ve şehrin panoramik görünümünü sunuyor. Çevresinde yer alan diğer tepeler ve dağlar, Keşa Tepe'nin coğrafi konumu hakkında fikir veriyor. İklimi, Güneydoğu Anadolu Bölgesi'nin genel iklimine benzer şekilde sıca ve kurak geçiyor. Bu tepe, Mardin'in coğrafi yapısını ve iklimini anlamak için önemli bir nokta olarak biliniyor. Ziyaretçiler, bu tepeye çıktıklarında Mardin'in doğal güzelliklerini ve coğrafi yapısını keşfedebiliyorlar.
+Keşa Tepe, Mardin'in coğrafi yapısını oluşturan tepe ve dağların arasında yer alıyor. Bu tepe, Mardin'in merkezine yakın bir konumda bulunuyor ve şehrin panoramik görünümünü sunuyor. Çevresinde yer alan diğer tepeler ve dağlar, Keşa Tepe'nin coğrafi konumu hakkında fikir veriyor. İklimi, Güneydoğu Anadolu Bölgesi'nin genel iklimine benzer şekilde sıcak ve kurak geçiyor. Bu tepe, Mardin'in coğrafi yapısını ve iklimini anlamak için önemli bir nokta olarak biliniyor. Ziyaretçiler, bu tepeye çıktıklarında Mardin'in doğal güzelliklerini ve coğrafi yapısını keşfedebiliyorlar.
 
 ## Flora ve Fauna
 

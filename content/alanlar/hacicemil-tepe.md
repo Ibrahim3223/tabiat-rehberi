@@ -36,11 +36,11 @@ Hacıcemil Tepe'nin tarihi geçmişi, bölgenin zengin kültürel mirasını yan
 
 ## Coğrafya
 
-Hacıcemil Tepe, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölge, genel olarak dağlık ve engebeli bir yapıya sahiptir ve Hacıcemil Tepe, bu coğrafi yapının önemli bir parçasını oluşturur. Tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleri ve zengin faunaya ev sahipliği yapar. Bölgenin iklimi, genel olarak sıca ve kurak bir karaktere sahiptir, ancak yüksek rakımlarda daha serin bir iklim hakimdir. Hacıcemil Tepe, ziyaretçilere bölgenin coğrafi yapısını gözlemleme ve doğal güzelliklerini keşfetme fırsatı sunar.
+Hacıcemil Tepe, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölge, genel olarak dağlık ve engebeli bir yapıya sahiptir ve Hacıcemil Tepe, bu coğrafi yapının önemli bir parçasını oluşturur. Tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleri ve zengin faunaya ev sahipliği yapar. Bölgenin iklimi, genel olarak sıcak ve kurak bir karaktere sahiptir, ancak yüksek rakımlarda daha serin bir iklim hakimdir. Hacıcemil Tepe, ziyaretçilere bölgenin coğrafi yapısını gözlemleme ve doğal güzelliklerini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
-Hacıcemil Tepe, çeşitli bitki türleri ve zengin faunaya ev sahipliği yapar. Bölge, mevsimsel değişimlere göre farklı bitki türleri ve hayvanlarla karşılaşma mümkün olur. Bahar aylarında, tepe yeşil bir hal alır ve çeşitli çiçekler açar. Yaz aylarında, bölge sıca ve kurak bir karaktere bürünür, ancak yüksek rakımlarda serin bir iklim hakimdir. Sonbahar ve kış aylarında, bölge daha serin ve yağışlı bir karaktere sahiptir. Hacıcemil Tepe, ziyaretçilere bölgenin flora ve faunasını keşfetme fırsatı sunar ve doğal güzelliklerini gözlemleme imkanı sağlar.
+Hacıcemil Tepe, çeşitli bitki türleri ve zengin faunaya ev sahipliği yapar. Bölge, mevsimsel değişimlere göre farklı bitki türleri ve hayvanlarla karşılaşma mümkün olur. Bahar aylarında, tepe yeşil bir hal alır ve çeşitli çiçekler açar. Yaz aylarında, bölge sıcak ve kurak bir karaktere bürünür, ancak yüksek rakımlarda serin bir iklim hakimdir. Sonbahar ve kış aylarında, bölge daha serin ve yağışlı bir karaktere sahiptir. Hacıcemil Tepe, ziyaretçilere bölgenin flora ve faunasını keşfetme fırsatı sunar ve doğal güzelliklerini gözlemleme imkanı sağlar.
 
 ## Ziyaret Bilgileri
 

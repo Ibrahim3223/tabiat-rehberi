@@ -37,7 +37,7 @@ Kaya Tepesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge, b
 
 ## Coğrafya
 
-Kaya Tepesi, coğrafi güzelliği ile dikkat çekiyor. Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan bu tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu alanda, çeşitli bitki türleri ve zengin fauna bulunuyor. Kaya Tepesi, aynı zamanda coğrafi konumu ile de dikkat çekiyor. Bu tepe, Şırnak ilinin merkezine yakın bir konumda yer alıyor. Bu nedenle, Kaya Tepesi'ne ulaşım oldukça kolay. Kaya Tepesi'nin coğrafi konumu, aynı zamanda bu bölgenin iklimini de etkiliyor. Bu bölge, genellikle sıca ve kurak bir iklimi bulunuyor. Ancak, Kaya Tepesi'nin yüksekliği, bu bölgenin iklimini biraz daha ılıman hale getiriyor.
+Kaya Tepesi, coğrafi güzelliği ile dikkat çekiyor. Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan bu tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu alanda, çeşitli bitki türleri ve zengin fauna bulunuyor. Kaya Tepesi, aynı zamanda coğrafi konumu ile de dikkat çekiyor. Bu tepe, Şırnak ilinin merkezine yakın bir konumda yer alıyor. Bu nedenle, Kaya Tepesi'ne ulaşım oldukça kolay. Kaya Tepesi'nin coğrafi konumu, aynı zamanda bu bölgenin iklimini de etkiliyor. Bu bölge, genellikle sıcak ve kurak bir iklimi bulunuyor. Ancak, Kaya Tepesi'nin yüksekliği, bu bölgenin iklimini biraz daha ılıman hale getiriyor.
 
 ## Flora ve Fauna
 

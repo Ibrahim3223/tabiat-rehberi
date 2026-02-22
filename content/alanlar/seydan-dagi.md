@@ -44,7 +44,7 @@ Balıkesir'in dağlık coğrafyasında yer alan Seydan Dağı, 39.1192° kuzey e
 
 Doğal güzelliklerin bir araya geldiği bu bölgede, Seydan Dağı'nın fiziksel yapısı hakkında net bilgiler olmasa da, koordinatlarından hareketle dağlık bir yapıya sahip olduğu söylenebilir. Bu dağlık yapının, bölgenin jeolojisini etkileyen bir faktör olduğu düşünülebilir. Ancak, Seydan Dağı'nın boyutları veya şekli hakkında somut bir bilgi bulunmuyor.
 
-Mevsimsel değişikliklere bakıldığında, Seydan Dağı'nın iklim karakteri bölgenin genel iklimine paralel olarak değişiyor. Balıkesir'in karasal iklimi, Seydan Dağı'nda da hissediliyor. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir hava hakim oluyor. Bu mevsimsel özellikler, dağın ekosistemi üzerinde önemli bir etkiye sahip.
+Mevsimsel değişikliklere bakıldığında, Seydan Dağı'nın iklim karakteri bölgenin genel iklimine paralel olarak değişiyor. Balıkesir'in karasal iklimi, Seydan Dağı'nda da hissediliyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakim oluyor. Bu mevsimsel özellikler, dağın ekosistemi üzerinde önemli bir etkiye sahip.
 
 Dağların doğal birer sınır olarak görev yaptığı düşünüldüğünde, Seydan Dağı'nın çevresel ilişkileri de önemli bir konu olarak karşımıza çıkıyor. Seydan Dağı, komşu alanlarla birlikte bir bütün olarak düşünülürse, bölgenin su kaynakları ve ekosistem bağlantıları üzerinde bir etkisi olduğu anlaşılabilir. Ancak, somut veriler bulunmadığından, bu konularda net bir yorum yapma mümkün görünmüyor.
 

@@ -36,7 +36,7 @@ Afandağı Tepesi'nin tarihi geçmişi, bölgenin genel tarihine paralel olarak 
 
 ## Coğrafya
 
-Afandağı Tepesi, Yozgat ilinin coğrafyası içinde önemli bir yer tutar. İç Anadolu Bölgesi'nin genel coğrafyası, bozkırlar ve yüksek düzlükler ile karakterizedir. Afandağı Tepesi de, bu bölgenin coğrafi yapısına uygun olarak, bir tepe olarak ortaya çıkmaktadır. Tepenin çevresi, çeşitli bitki türleri ile kaplıdır ve fauna açısından da zengin bir alandır. İklim, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir karakterdedir. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kuraktır. Bu coğrafi koşullar, Afandağı Tepesi'nin doğal güzelliğini ve biyolojik çeşitliliğini etkilemektedir.
+Afandağı Tepesi, Yozgat ilinin coğrafyası içinde önemli bir yer tutar. İç Anadolu Bölgesi'nin genel coğrafyası, bozkırlar ve yüksek düzlükler ile karakterizedir. Afandağı Tepesi de, bu bölgenin coğrafi yapısına uygun olarak, bir tepe olarak ortaya çıkmaktadır. Tepenin çevresi, çeşitli bitki türleri ile kaplıdır ve fauna açısından da zengin bir alandır. İklim, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir karakterdedir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kuraktır. Bu coğrafi koşullar, Afandağı Tepesi'nin doğal güzelliğini ve biyolojik çeşitliliğini etkilemektedir.
 
 ## Flora ve Fauna
 

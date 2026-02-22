@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin eşsiz coğrafyasında yer alan Kengir Dağı, 
 
 Jeolojik açıdan bakıldığında, Kengir Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel jeolojik özellikleri dikkate alındığında, dağların genellikle kireçtaşı ve şist gibi kayaçlardan oluştuğu söylenebilir. Dağın yüksekliği, 85 katlı bir gökdelen kadar olmakla birlikte, tam olarak bilinmemektedir. Ancak, bölgenin coğrafi yapısı, dağların genellikle Eiffel Kulesi'nin birkaç katı yükseklikte olduğunu göstermektedir.
 
-Mevsimsel değişimlerin etkisi altında olan Kengir Dağı, yaz aylarında sıca ve kuru, kış aylarında ise soğu ve yağışlı bir iklime sahiptir. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Dağın çevresinde, çeşitli bitki türleri ve hayvanlar yaşarken, su kaynakları da bölgenin ekosistemini desteklemektedir.
+Mevsimsel değişimlerin etkisi altında olan Kengir Dağı, yaz aylarında sıcak ve kuru, kış aylarında ise soğuk ve yağışlı bir iklime sahiptir. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Dağın çevresinde, çeşitli bitki türleri ve hayvanlar yaşarken, su kaynakları da bölgenin ekosistemini desteklemektedir.
 
 Doğal kaynaklar açısından zengin bir bölge olan Kengir Dağı, çevresindeki su kaynaklarıyla da bağlantılıdır. Dağın eteklerinde, çeşitli akarsular ve dereler bulunmaktadır. Bu su kaynakları, bölgenin ekosistemini desteklerken, aynı zamanda komşu alanlarla da bağlantılıdır. Monaco'nun yarısı kadar bir alanı kaplayan bu bölge, İstanbul'un Adalar ilçesi büyüklüğünde bir coğrafi oluşumu temsil etmektedir.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31387368"
 
 # Kışla Tepe
 
-Kışla Tepe, Samsun'un doğal güzellikleri arasında yer alan bir tepe olup, yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu yeşil alan, yaklaşık yüksek bir konumdate ve eteklerinde çeşitli bitki türleri ile zengin fauna encontrabilir. Kışla Tepe, Samsun'un merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşım açısından kolay bir konumda bulunur. Kışla Tepe, Samsun'un önemli doğal güzelliklerinden biri olup, ziyaretçilerine güzel manzaralar sunar.
+Kışla Tepe, Samsun'un doğal güzellikleri arasında yer alan bir tepe olup, yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu yeşil alan, yüksek bir konumda ve eteklerinde çeşitli bitki türleri ile zengin fauna encontrabilir. Kışla Tepe, Samsun'un merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşım açısından kolay bir konumda bulunur. Kışla Tepe, Samsun'un önemli doğal güzelliklerinden biri olup, ziyaretçilerine güzel manzaralar sunar.
 
 ## Tarihçe
 
@@ -36,11 +36,11 @@ Kışla Tepe'nin tarihi geçmişi, yüzyıllar boyunca verschillande medeniyetle
 
 ## Coğrafya
 
-Kışla Tepe, Samsun'un Karadeniz Bölgesi'nde yer alan bir tepe olup, yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu yeşil alan, yaklaşık yüksek bir konumdate ve eteklerinde çeşitli bitki türleri ile zengin fauna encontrabilir. Kışla Tepe, Samsun'un merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşım açısından kolay bir konumda bulunur. Kışla Tepe, Samsun'un önemli doğal güzelliklerinden biri olup, ziyaretçilerine güzel manzaralar sunar. Bu bölge, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir ve ziyaretçilerine bu bölge hakkında bilgi veren çeşitli coğrafi eserler ve anıtlar bulunur.
+Kışla Tepe, Samsun'un Karadeniz Bölgesi'nde yer alan bir tepe olup, yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu yeşil alan, yüksek bir konumda ve eteklerinde çeşitli bitki türleri ile zengin fauna encontrabilir. Kışla Tepe, Samsun'un merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşım açısından kolay bir konumda bulunur. Kışla Tepe, Samsun'un önemli doğal güzelliklerinden biri olup, ziyaretçilerine güzel manzaralar sunar. Bu bölge, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir ve ziyaretçilerine bu bölge hakkında bilgi veren çeşitli coğrafi eserler ve anıtlar bulunur.
 
 ## Flora ve Fauna
 
-Kışla Tepe, çeşitli bitki türleri ile zengin fauna encontrabilir. Bu bölge, yaklaşık yüksek bir konumdate ve eteklerinde farklı mevsimlerde çeşitli bitki türleri yetişir. Kışla Tepe, Samsun'un önemli doğal güzelliklerinden biri olup, ziyaretçilerine güzel manzaralar sunar. Bu bölge, Karadeniz Bölgesi'nin karakteristik flora ve fauna özelliklerine sahiptir ve ziyaretçilerine bu bölge hakkında bilgi veren çeşitli flora ve fauna türleri bulunur.
+Kışla Tepe, çeşitli bitki türleri ile zengin fauna encontrabilir. Bu bölge, yüksek bir konumda ve eteklerinde farklı mevsimlerde çeşitli bitki türleri yetişir. Kışla Tepe, Samsun'un önemli doğal güzelliklerinden biri olup, ziyaretçilerine güzel manzaralar sunar. Bu bölge, Karadeniz Bölgesi'nin karakteristik flora ve fauna özelliklerine sahiptir ve ziyaretçilerine bu bölge hakkında bilgi veren çeşitli flora ve fauna türleri bulunur.
 
 ## Ziyaret Bilgileri
 
@@ -50,6 +50,6 @@ Kışla Tepe, Samsun'un merkezine uzun bir mesafe uzaklıkta yer alır ve ulaş�
 
 - Kışla Tepe, Samsun'un önemli doğal güzelliklerinden biri
 - Kışla Tepe, yaklaşık 140 hektarlık alan
-- Kışla Tepe, yaklaşık yüksek bir konumdate
+- Kışla Tepe, yüksek bir konumda
 - Kışla Tepe, Samsun'un merkezine uzun bir mesafe uzaklıkta
 - Kışla Tepe, ziyaretçilerine güzel manzaralar sunar

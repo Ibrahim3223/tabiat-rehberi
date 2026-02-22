@@ -37,7 +37,7 @@ wikidata_id: "Q131390884"
 
 ## Coğrafya
 
-Şeyh Halit Türbesi, Ilgın ilçesinin merkezi bir noktasında yer alır ve coğrafi olarak çeşitlilik gösteren bir bölgedir. Türbe, 140 hektarlık bir alan kaplar ve bu alan, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Çevresinde çeşitli bitki türleri ve zengin fauna bulunur. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kuru geçer. Bu coğrafi çeşitlilik, ziyaretçilere farklı mevsimlerde farklı deneyimler sunar. İlgin ve çevresinin coğrafi yapısı, tarihi ve doğal güzellikleri bir araya getiren benzersiz bir atmosfer sunar.
+Şeyh Halit Türbesi, Ilgın ilçesinin merkezi bir noktasında yer alır ve coğrafi olarak çeşitlilik gösteren bir bölgedir. Türbe, 140 hektarlık bir alan kaplar ve bu alan, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Çevresinde çeşitli bitki türleri ve zengin fauna bulunur. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kuru geçer. Bu coğrafi çeşitlilik, ziyaretçilere farklı mevsimlerde farklı deneyimler sunar. İlgin ve çevresinin coğrafi yapısı, tarihi ve doğal güzellikleri bir araya getiren benzersiz bir atmosfer sunar.
 
 ## Flora ve Fauna
 

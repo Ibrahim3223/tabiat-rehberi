@@ -38,7 +38,7 @@ Yunus Emre Türbesi, tarihsel olarak önemli bir figür olan Yunus Emre'nin haya
 
 ## Coğrafya
 
-Yunus Emre Türbesi, Eskişehir'in Mihalıççık ilçesinde bulunmaktadır. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genellikle step ve bozkır özellikleri gösterir ve iklim olarak karasal iklime sahiptir. Yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlı geçer. Türbenin bulunduğu alan, genel olarak düzlük bir arazide yer alır ve etrafı yeşilliklerle çevrilidir. Bu coğrafi konum, ziyaretçilere hem tarihi bir türbeyi gezme fırsatı sunar hem de doğanın güzelliğini seyretme imkânı verir. Ayrıca, türbenin yakınında çeşitli doğa yürüyüşleri ve gezinti alanları da mevcuttur, ancak bu alanlar hakkında daha detaylı bilgi bulunmamaktadır.
+Yunus Emre Türbesi, Eskişehir'in Mihalıççık ilçesinde bulunmaktadır. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genellikle step ve bozkır özellikleri gösterir ve iklim olarak karasal iklime sahiptir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçer. Türbenin bulunduğu alan, genel olarak düzlük bir arazide yer alır ve etrafı yeşilliklerle çevrilidir. Bu coğrafi konum, ziyaretçilere hem tarihi bir türbeyi gezme fırsatı sunar hem de doğanın güzelliğini seyretme imkânı verir. Ayrıca, türbenin yakınında çeşitli doğa yürüyüşleri ve gezinti alanları da mevcuttur, ancak bu alanlar hakkında daha detaylı bilgi bulunmamaktadır.
 
 ## Flora ve Fauna
 

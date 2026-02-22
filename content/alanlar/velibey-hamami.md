@@ -37,7 +37,7 @@ Velibey Hamamı'nın tarihi geçmişi, Şanlıurfa'nın tarihi ile iç içe geç
 
 ## Coğrafya
 
-Velibey Hamamı, Şanlıurfa'nın Eyyübiye ilçesinde yer almaktadır. Güneydoğu Anadolu Bölgesi'nin coğrafi özellikleri, bu bölgede de görülmektedir. İlçe, genellikle geniş ovaları ve dağlık alanları ile bilinmektedir. Velibey Hamamı da bu coğrafi özellikler arasında, doğal bir plaj olarak ziyaretçilerini ağırlamaktadır. Bölgenin iklimi, genellikle sıca ve kurudur. Yaz aylarında sıcakların yüksek olduğu bu region, özellikle bu mevsimde ziyaret edilmektedir. Velibey Hamamı'nın etrafı, genellikle tarım alanları ve güzellikleri ile çevrilidir. Ziyaretçiler, plajın yanı sıra, bölgenin diğer doğal güzelliklerini de keşfetme fırsatı bulmaktadırlar.
+Velibey Hamamı, Şanlıurfa'nın Eyyübiye ilçesinde yer almaktadır. Güneydoğu Anadolu Bölgesi'nin coğrafi özellikleri, bu bölgede de görülmektedir. İlçe, genellikle geniş ovaları ve dağlık alanları ile bilinmektedir. Velibey Hamamı da bu coğrafi özellikler arasında, doğal bir plaj olarak ziyaretçilerini ağırlamaktadır. Bölgenin iklimi, genellikle sıcak ve kurudur. Yaz aylarında sıcakların yüksek olduğu bu region, özellikle bu mevsimde ziyaret edilmektedir. Velibey Hamamı'nın etrafı, genellikle tarım alanları ve güzellikleri ile çevrilidir. Ziyaretçiler, plajın yanı sıra, bölgenin diğer doğal güzelliklerini de keşfetme fırsatı bulmaktadırlar.
 
 ## Flora ve Fauna
 

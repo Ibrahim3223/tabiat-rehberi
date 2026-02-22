@@ -44,7 +44,7 @@ Mersin'in güneşli sahillerinden, 36.2013°K, 33.2938°D koordinatlarında yer 
 
 Doğal güzelliği ile dikkat çeken Çeşme Dağı, jeolojik olarak kireçtaşı ve şist gibi farklı türdeki kayalardan oluşmaktadır. Ancak, detaylı fiziksel veriler bulunmaması, bu dağ hakkında daha derinlemesine bilgi edinmeyi zorlaştırmaktadır. Buna rağmen, Çeşme Dağı'nın Taksim Meydanı'nın yaklaşık 10 katı büyüklüğünde bir alanı kapladığı söylenebilir. Bu geniş alan, çeşitli bitki türlerinin yetişmesine ve yerel fauna için bir yaşam alanı oluşturmasına imkan tanımaktadır.
 
-İklimsel olarak, Çeşme Dağı Akdeniz ikliminin etkilerini taşımaktadır. Yaz aylarında sıca ve kuru, kış aylarında ise ılıman ve yağışlı bir hava hakimdir. Bu mevsimsel değişimler, bölgede çeşitli bitki türlerinin yetişmesine ve yerel ekosistemin zenginleşmesine katkıda bulunmaktadır. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu dağ, yerel hava koşullarını etkileyen önemli bir faktör olarak ortaya çıkmaktadır.
+İklimsel olarak, Çeşme Dağı Akdeniz ikliminin etkilerini taşımaktadır. Yaz aylarında sıcak ve kuru, kış aylarında ise ılıman ve yağışlı bir hava hakimdir. Bu mevsimsel değişimler, bölgede çeşitli bitki türlerinin yetişmesine ve yerel ekosistemin zenginleşmesine katkıda bulunmaktadır. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu dağ, yerel hava koşullarını etkileyen önemli bir faktör olarak ortaya çıkmaktadır.
 
 Çevresel açıdan, Çeşme Dağı komşu köyler ve kasabalarla birlikte, bir bütün olarak değerlendirilmelidir. Bu dağ, su kaynaklarını besleyen ve yerel ekosistemi destekleyen önemli bir role sahiptir. Monaco'nun yaklaşık yarısı büyüklüğünde bir alanı kaplayan bu dağ, bölgedeki ekosistem bağlantılarını ve su kaynaklarını korumak için önemli bir doğal alandır.
 

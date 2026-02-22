@@ -38,7 +38,7 @@ Turgutoğlu Pir Hüseyin Türbesi, tarihi geçmişi ile dikkat çekmektedir. Bu 
 
 ## Coğrafya
 
-Turgutoğlu Pir Hüseyin Türbesi, Konya'nın Meram ilçesinde, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer almaktadır. Bu bölgenin coğrafyası, genellikle step ve ova gibi geniş alanlardan oluşmaktadır. Türbe ve plaj, yaklaşık 140 hektarlık bir yeşil alan üzerinde kurulmuştur ve etrafı çeşitli bitki türleri ile çevrilidir. Burada, mevsimsel değişimlere göre farklı hava koşulları gözlemlenir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hakimdir. Bu coğrafi özellikler, Turgutoğlu Pir Hüseyin Türbesi'nin benzersiz bir konumda olmasını sağlar.
+Turgutoğlu Pir Hüseyin Türbesi, Konya'nın Meram ilçesinde, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer almaktadır. Bu bölgenin coğrafyası, genellikle step ve ova gibi geniş alanlardan oluşmaktadır. Türbe ve plaj, yaklaşık 140 hektarlık bir yeşil alan üzerinde kurulmuştur ve etrafı çeşitli bitki türleri ile çevrilidir. Burada, mevsimsel değişimlere göre farklı hava koşulları gözlemlenir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hakimdir. Bu coğrafi özellikler, Turgutoğlu Pir Hüseyin Türbesi'nin benzersiz bir konumda olmasını sağlar.
 
 ## Flora ve Fauna
 

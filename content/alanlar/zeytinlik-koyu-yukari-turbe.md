@@ -37,7 +37,7 @@ Zeytinlik Köyü Yukarı Türbe'nin tarihi geçmişi, bölgenin kültürel zengi
 
 ## Coğrafya
 
-Zeytinlik Köyü Yukarı Türbe, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, geniş otlaklarla ve ormanlık alanlarla çevrili, aynı zamanda çeşitli su kaynaklarına ev sahipliği yapıyor. Bu coğrafi yapı, bölgenin flora ve faunasının zengin olmasına katkıda bulunuyor. Zeytinlik Köyü Yukarı Türbe, ziyaretçilerini dört mevsim boyunca farklı güzelliklerle karşılayacak bir doğa harikasına dönüştüğü için, her mevsim ziyaret edilebilir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor, karasal iklimin etkilerini taşıyor. Burada, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve kar yağışlı bir hava hüküm sürüyor.
+Zeytinlik Köyü Yukarı Türbe, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, geniş otlaklarla ve ormanlık alanlarla çevrili, aynı zamanda çeşitli su kaynaklarına ev sahipliği yapıyor. Bu coğrafi yapı, bölgenin flora ve faunasının zengin olmasına katkıda bulunuyor. Zeytinlik Köyü Yukarı Türbe, ziyaretçilerini dört mevsim boyunca farklı güzelliklerle karşılayacak bir doğa harikasına dönüştüğü için, her mevsim ziyaret edilebilir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor, karasal iklimin etkilerini taşıyor. Burada, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve kar yağışlı bir hava hüküm sürüyor.
 
 ## Flora ve Fauna
 

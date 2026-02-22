@@ -42,7 +42,7 @@ Doğunun gizli köşelerinden biri olan Koç Dağı, Bayburt'un sınırları iç
 
 Boyut olarak, Koç Dağı'nın kesin ölçüleri bilinmese de, çevresindeki diğer dağlarla birlikte bir bütün olarak düşünüldüğünde, Monaco'nun yarısı kadar bir alanı kaplayabileceği söylenebilir. Jeolojik açıdan bakıldığında, bu bölgenin oluşumu milyonlarca yıl önce gerçekleşmiş ve zamanla şekillenmiştir. Ancak, detalılık seviyesi yüksek fiziksel veriler bulunmaması, bu konuda daha derinlemesine bilgi verilmesini zorlaştırıyor.
 
-İklim açısından, Koç Dağı ve çevresinin mevsimsel özelliklerine bakıldığında, karasal iklimin hakim olduğu görülür. Kış ayları soğu ve karlı, yaz ayları ise sıca ve kurudur. Hava durumu, bölgenin yüksekliği ve coğrafi konumu nedeniyle sık sık değişebilir. Bu durum, ziyaretçilerin daima hazırlıklı olmasını gerektirir.
+İklim açısından, Koç Dağı ve çevresinin mevsimsel özelliklerine bakıldığında, karasal iklimin hakim olduğu görülür. Kış ayları soğuk ve karlı, yaz ayları ise sıcak ve kurudur. Hava durumu, bölgenin yüksekliği ve coğrafi konumu nedeniyle sık sık değişebilir. Bu durum, ziyaretçilerin daima hazırlıklı olmasını gerektirir.
 
 Bölgenin çevresel ilişkilerine bakıldığında, Koç Dağı'nın su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahip olduğu görülür. Çevresindeki diğer dağlar ve ovalarla birlikte, bir bütün olarak düşünüldüğünde, bu bölge Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplayabilir. Bu geniş alan, çeşitli bitki ve hayvan türleri için yaşam alanı oluşturur ve bölgenin ekolojik dengesini korur.
 

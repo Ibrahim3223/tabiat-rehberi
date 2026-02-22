@@ -37,7 +37,7 @@ Zeytin Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölg
 
 ## Coğrafya
 
-Zeytin Tepe, Hatay ilinin coğrafi olarak önemli bir noktasında yer alıyor. Bu tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Çevresinde çeşitli bitki türleri ve zengin fauna bulunmakla birlikte, Zeytin Tepe'nin coğrafi yapısı, ziyaretçilerine geniş bir manzara sunuyor. İklim olarak, Akdeniz ikliminin etkilerini taşıyan bu bölge, yazları sıca ve kurak, kışları ılık ve yağışlı geçiyor. Zeytin Tepe'nin coğrafi konumu, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin kültürel zenginliğini deneyimleme fırsatı sunuyor. Bu tepe, ziyaretçilerini geniş ve yeşil bir alana davet ediyor ve onları doğanın kucağına bırakıyor.
+Zeytin Tepe, Hatay ilinin coğrafi olarak önemli bir noktasında yer alıyor. Bu tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Çevresinde çeşitli bitki türleri ve zengin fauna bulunmakla birlikte, Zeytin Tepe'nin coğrafi yapısı, ziyaretçilerine geniş bir manzara sunuyor. İklim olarak, Akdeniz ikliminin etkilerini taşıyan bu bölge, yazları sıcak ve kurak, kışları ılık ve yağışlı geçiyor. Zeytin Tepe'nin coğrafi konumu, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin kültürel zenginliğini deneyimleme fırsatı sunuyor. Bu tepe, ziyaretçilerini geniş ve yeşil bir alana davet ediyor ve onları doğanın kucağına bırakıyor.
 
 ## Flora ve Fauna
 

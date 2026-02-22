@@ -38,7 +38,7 @@ Kula-Salihli Jeoparkı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmişt
 
 ## Coğrafya
 
-Kula-Salihli Jeoparkı, Ege Bölgesi'nin coğrafi olarak en güzel yerlerinden birisidir. Jeoparkın coğrafi yapısı, çeşitli dağlar, tepeler, vadiler ve ova alanlarından oluşmaktadır. Bu doğal alan, zengin bir flora ve fauna çeşitliliğine sahiptir. Jeoparkın iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine sahiptir. Yaz ayları sıca ve kurak, kış ayları ılıman ve yağışlı geçer. Bu iklim, jeoparkın flora ve faunasının çeşitliliğini destekler. Kula-Salihli Jeoparkı, coğrafi güzelliği ve çeşitli alanları ile ziyaretçilerini cezbeder.
+Kula-Salihli Jeoparkı, Ege Bölgesi'nin coğrafi olarak en güzel yerlerinden birisidir. Jeoparkın coğrafi yapısı, çeşitli dağlar, tepeler, vadiler ve ova alanlarından oluşmaktadır. Bu doğal alan, zengin bir flora ve fauna çeşitliliğine sahiptir. Jeoparkın iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine sahiptir. Yaz ayları sıcak ve kurak, kış ayları ılıman ve yağışlı geçer. Bu iklim, jeoparkın flora ve faunasının çeşitliliğini destekler. Kula-Salihli Jeoparkı, coğrafi güzelliği ve çeşitli alanları ile ziyaretçilerini cezbeder.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Ticaret yollarının da bu bölgeden geçmesi, Kupekale Dağı'nı önemli bir k
 
 Doğal güzelliğin bir diğer yönü, fiziksel yapıdır. Kupekale Dağı, yüksekli ve genişlik bakımından dikkat çekici bir yapıya sahiptir. Ne yazık ki, ayrıntılı fiziksel veriler mevcut değildir, ancak koordinatlarından anlaşıldığı üzere, bu dağlık alanın konumu ve yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i yükseklikte olabilir. Bu yükseklik, bölgenin coğrafi yapısını etkileyen önemli bir faktördür.
 
-İklim karakteri, bir bölgenin doğal güzelliğini etkileyen önemli bir faktördür. Kupekale Dağı'nın bulunduğu bölge, mevsimsel olarak değişen bir iklim karakterine sahiptir. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir hava durumu hakimdir. Bu iklim karakteri, bölgenin flora ve fauna yapısını etkileyen önemli bir faktördür.
+İklim karakteri, bir bölgenin doğal güzelliğini etkileyen önemli bir faktördür. Kupekale Dağı'nın bulunduğu bölge, mevsimsel olarak değişen bir iklim karakterine sahiptir. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir hava durumu hakimdir. Bu iklim karakteri, bölgenin flora ve fauna yapısını etkileyen önemli bir faktördür.
 
 Bölgenin çevresel ilişkileri de önemlidir. Kupekale Dağı, komşu alanlarla ve su kaynaklarıyla bağlantılı bir ekosistem içinde yer alır. Bu dağlık alan, Monaco'nun yaklaşık 1/10'u büyüklüğünde bir alanı kaplar ve çevresindeki ekosistemi etkileyen önemli bir faktördür. Bu nedenle, Kupekale Dağı'nın doğal güzelliği, sadece kendi fiziksel yapısından değil, aynı zamanda çevresel ilişkilerinden de etkilenir.
 

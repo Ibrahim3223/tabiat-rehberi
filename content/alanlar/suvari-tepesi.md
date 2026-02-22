@@ -36,7 +36,7 @@ Süvarı Tepesi, tarihi geçmişiyle birlikte zengin bir kültürel mirasa sahip
 
 ## Coğrafya
 
-Süvarı Tepesi, Hakkari'nin coğrafi yapısı içerisinde önemli bir yere sahip. Bu tepe, yaklaşık yüksek bir konumdate bulunuyor ve çevresindeki diğer tepelerle birlikte, bir dağ silsilesi oluşturuyor. Süvarı Tepesi, aynı zamanda, çevresindeki ovalar ve vadilerle birlikte, bir coğrafi bütünü temsil ediyor. Bu bölgenin iklimi, genellikle soğu ve karasal bir yapıya sahip. Kış mevsiminde, Süvarı Tepesi ve çevresindeki bölgeler, karla kaplanarak, bir kış sporları merkezi haline geliyor. Süvarı Tepesi, ziyaretçilerine, hem doğal güzellikleri hem de coğrafi yapısıyla birlikte, bir gezi deneyimi sunuyor.
+Süvarı Tepesi, Hakkari'nin coğrafi yapısı içerisinde önemli bir yere sahip. Bu tepe, yüksek bir konumda bulunuyor ve çevresindeki diğer tepelerle birlikte, bir dağ silsilesi oluşturuyor. Süvarı Tepesi, aynı zamanda, çevresindeki ovalar ve vadilerle birlikte, bir coğrafi bütünü temsil ediyor. Bu bölgenin iklimi, genellikle soğu ve karasal bir yapıya sahip. Kış mevsiminde, Süvarı Tepesi ve çevresindeki bölgeler, karla kaplanarak, bir kış sporları merkezi haline geliyor. Süvarı Tepesi, ziyaretçilerine, hem doğal güzellikleri hem de coğrafi yapısıyla birlikte, bir gezi deneyimi sunuyor.
 
 ## Flora ve Fauna
 
@@ -51,5 +51,5 @@ Süvarı Tepesi, ziyaretçilerine, hem doğal güzellikleri hem de coğrafi yap�
 - Süvarı Tepesi, Hakkari'nin en yüksek noktalarından biri.
 - Bu bölge, zengin bir flora ve fauna çeşitliliğine sahip.
 - Süvarı Tepesi, bir doğa harikası olarak, yerli ve yabancı turistlerin ilgisini çekiyor.
-- Bu tepe, yaklaşık yüksek bir konumdate bulunuyor.
+- Bu tepe, yüksek bir konumda bulunuyor.
 - Süvarı Tepesi, bir gezi noktası olarak, hem doğal güzellikleri hem de coğrafi yapısıyla birlikte, bir gezi deneyimi sunuyor.

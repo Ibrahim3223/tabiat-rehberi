@@ -30,7 +30,7 @@ Akhisar Kent Ormanı'nın tarihi geçmişi, yüzyıllar boyunca bölgenin ekoloj
 
 ## Coğrafya
 
-Akhisar Kent Ormanı, İç Anadolu Bölgesi'nin coğrafi özelliklerine sahiptir. Orman, dağlık bir arazide kurulmuştur ve etrafı yüksek dağlar ile çevrilidir. Bu coğrafi konum, ormana özel bir iklim kazandırır. Ormanın iklimi, karasal iklim özellikleri taşır ve dört mevsim belirgin olarak yaşanır. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bu iklim, ormanın flora ve faunasının çeşitliliğini etkiler. Orman, çeşitli bitki türleri ile kaplıdır ve zengin fauna ile ziyaretçilerini karşılar. Ormanın coğrafi konumu, aynı zamanda birçok doğal kayna ile zenginleştirir. Orman içinde, çeşitli su kaynakları ve akarsular bulunmaktadır.
+Akhisar Kent Ormanı, İç Anadolu Bölgesi'nin coğrafi özelliklerine sahiptir. Orman, dağlık bir arazide kurulmuştur ve etrafı yüksek dağlar ile çevrilidir. Bu coğrafi konum, ormana özel bir iklim kazandırır. Ormanın iklimi, karasal iklim özellikleri taşır ve dört mevsim belirgin olarak yaşanır. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim, ormanın flora ve faunasının çeşitliliğini etkiler. Orman, çeşitli bitki türleri ile kaplıdır ve zengin fauna ile ziyaretçilerini karşılar. Ormanın coğrafi konumu, aynı zamanda birçok doğal kayna ile zenginleştirir. Orman içinde, çeşitli su kaynakları ve akarsular bulunmaktadır.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin kalbinde yer alan Göçür Dağı, 39.8188°K, 42.037
 
 Boyutları hakkında detaylı bilgi olmasa da, Göçür Dağı'nın genel yapısı hakkında fikir sahibi olma mümkün. Dağın zirvesi, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte yer alır. Bu yükseklik, bölgenin coğrafi çeşitliliğini ve dağların nasıl bir yapıya sahip olduğunu anlamamızı sağlar. Göçür Dağı, çevresindeki diğer dağlarla birlikte bir dağ silsilesini oluşturur ve bu silsile, bölgenin doğal güzelliğini tăngımlar.
 
-Mevsimsel özelliklere bakıldığında, Göçür Dağı'nın iklimi kış aylarında soğu ve karlı, yaz aylarında ise serin ve yağışlıdır. Bu mevsimsel değişimler, bölgenin florası ve faunası üzerinde önemli etkiler yaratır. Göçür Dağı, çevresindeki diğer coğrafi oluşumlarla birlikte bir ekosistem oluşturur ve bu ekosistem, bölgenin canlı çeşitliliğini korur.
+Mevsimsel özelliklere bakıldığında, Göçür Dağı'nın iklimi kış aylarında soğuk ve karlı, yaz aylarında ise serin ve yağışlıdır. Bu mevsimsel değişimler, bölgenin florası ve faunası üzerinde önemli etkiler yaratır. Göçür Dağı, çevresindeki diğer coğrafi oluşumlarla birlikte bir ekosistem oluşturur ve bu ekosistem, bölgenin canlı çeşitliliğini korur.
 
 Çevresel ilişkiler açısından bakıldığında, Göçür Dağı'nın komşu alanlar ve su kaynaklarıyla önemli bir bağlantısı vardır. Dağın eteklerinde yer alan su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılar. Ayrıca, Göçür Dağı'nın bulunduğu bölge, Monaco'nun yarısı kadar bir alanı kaplar ve bu da bölgenin coğrafi çeşitliliğini ve doğal güzelliğini gösterir.
 

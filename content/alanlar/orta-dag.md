@@ -45,7 +45,7 @@ Koordinatları 40.4667°K, 35.2000°D olan Orta Dağ, Çorum'un coğrafi yapıs�
 
 Orta Dağ'ın fiziksel yapısı, bölgenin jeolojik tarihini yansıtan bir yapıya sahiptir. Ancak, detaylı fiziksel veriler bulunmamasına rağmen, koordinatlarından hareketle, bu dağın konumunun bölgenin coğrafi dengesini etkileyen bir faktör olduğu söylenebilir. Bir şehrin merkezi gibi düşünülebilecek bir alanda, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alan kaplayan Orta Dağ, bölgenin coğrafi çeşitliliğini gösterir.
 
-İklim karakteri açısından bakıldığında, Orta Dağ'ın bulunduğu bölge, karasal iklimin hüküm sürdüğü bir alandır. Mevsimsel özellikler, bölgenin coğrafi konumuyla yakından ilgili olup, yaz aylarında sıca ve kurak, kış aylarında soğu ve karlı bir hava durumu hakimdir. Eiffel Kulesi'nin birkaç katı yükseklikte olan bazı zirveler, bölgenin iklimini etkileyen önemli faktörler arasında yer alır.
+İklim karakteri açısından bakıldığında, Orta Dağ'ın bulunduğu bölge, karasal iklimin hüküm sürdüğü bir alandır. Mevsimsel özellikler, bölgenin coğrafi konumuyla yakından ilgili olup, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı bir hava durumu hakimdir. Eiffel Kulesi'nin birkaç katı yükseklikte olan bazı zirveler, bölgenin iklimini etkileyen önemli faktörler arasında yer alır.
 
 Çevresel ilişkiler açısından, Orta Dağ, bölgenin su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahiptir. Komşu alanlardaki su kaynakları, bu dağdan beslenerek, bölgenin sulak alanlarını oluşturur. Monaco'nun küçük bir bölümü büyüklüğünde olan bu dağ, bölgenin ekolojik dengesini korumaında önemli bir görev üstlenir.
 

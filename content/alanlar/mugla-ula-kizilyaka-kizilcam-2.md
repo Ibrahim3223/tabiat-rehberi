@@ -30,7 +30,7 @@ Mugla-Ula-Kizilyaka Kızılçam 2 milli parkının tarihi geçmişi, yüzyıllar
 
 ## Coğrafya
 
-Mugla-Ula-Kizilyaka Kızılçam 2 milli parkı, Ege Bölgesi'nde bulunmaktadır. Bu bölge, coğrafi olarak dağlık ve ormanlık bir bölgeyi kapsar. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli doğal güzellikleri keşfetme fırsatı sunar. Bu bölge, iklim olarak Akdeniz ikliminin hakim olduğu bir bölge olup, yazları sıca ve kurak, kışları ılıman ve yağışlı bir iklimi vardır. Milli parkın coğrafi konumu, ziyaretçilere bu bölgenin doğal güzelliklerini keşfetmek için ideal bir olanak sunar. 140 hektarlık bu yeşil alan, ziyaretçilere doğanın güzelliğini keşfetmek için geniş bir olanak sunar. Coğrafi olarak, milli parkın çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu bölge, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunar ve yaban hayatının çeşitliliği ile dikkat çeker.
+Mugla-Ula-Kizilyaka Kızılçam 2 milli parkı, Ege Bölgesi'nde bulunmaktadır. Bu bölge, coğrafi olarak dağlık ve ormanlık bir bölgeyi kapsar. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli doğal güzellikleri keşfetme fırsatı sunar. Bu bölge, iklim olarak Akdeniz ikliminin hakim olduğu bir bölge olup, yazları sıcak ve kurak, kışları ılıman ve yağışlı bir iklimi vardır. Milli parkın coğrafi konumu, ziyaretçilere bu bölgenin doğal güzelliklerini keşfetmek için ideal bir olanak sunar. 140 hektarlık bu yeşil alan, ziyaretçilere doğanın güzelliğini keşfetmek için geniş bir olanak sunar. Coğrafi olarak, milli parkın çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu bölge, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunar ve yaban hayatının çeşitliliği ile dikkat çeker.
 
 ## Flora ve Fauna
 

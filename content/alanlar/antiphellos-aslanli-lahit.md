@@ -38,7 +38,7 @@ Antiphellos Aslanlı Lahit'in tarihi geçmişi, yüzyıllar boyunca şekillenmi�
 
 ## Coğrafya
 
-Antiphellos Aslanlı Lahit, Antalya'nın Kaş ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Bu bölge, geniş yeşil alanları, tarihi Lahit ve güzel doğası ile ziyaretçilerini çekiyor. Antiphellos Aslanlı Lahit'in coğrafyası, yaklaşık 140 hektarlık bir yeşil alan ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Burada, geniş açık alanlar, tarihi Lahit ve güzel doğa manzaraları ziyaretçilerini bekliyor. Antiphellos Aslanlı Lahit'in iklimi, Akdeniz iklimi özellikleri gösteriyor ve ziyaretçilerine sıca ve güneşli bir ortam sunuyor.
+Antiphellos Aslanlı Lahit, Antalya'nın Kaş ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Bu bölge, geniş yeşil alanları, tarihi Lahit ve güzel doğası ile ziyaretçilerini çekiyor. Antiphellos Aslanlı Lahit'in coğrafyası, yaklaşık 140 hektarlık bir yeşil alan ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Burada, geniş açık alanlar, tarihi Lahit ve güzel doğa manzaraları ziyaretçilerini bekliyor. Antiphellos Aslanlı Lahit'in iklimi, Akdeniz iklimi özellikleri gösteriyor ve ziyaretçilerine sıcak ve güneşli bir ortam sunuyor.
 
 ## Flora ve Fauna
 
@@ -46,7 +46,7 @@ Antiphellos Aslanlı Lahit, zengin flora ve fauna çeşitliliği ile ziyaretçil
 
 ## Ziyaret Bilgileri
 
-Antiphellos Aslanlı Lahit, ziyaretçilerine kolay ulaşım olanakları sunuyor. Buraya, Antalya'nın Kaş ilçesinden kolayca ulaşabilirsiniz. Antiphellos Aslanlı Lahit'i ziyaret etmek için en iyi zaman, ilkbahar ve yaz ayları. Bu mevsimlerde, hava sıca ve güneşli ve ziyaretçilere güzel bir ortam sunuyor. Antiphellos Aslanlı Lahit'i ziyaret etmek, historical bir atmosferi hissedece ve doğanın güzelliğini keşfedeceksiniz.
+Antiphellos Aslanlı Lahit, ziyaretçilerine kolay ulaşım olanakları sunuyor. Buraya, Antalya'nın Kaş ilçesinden kolayca ulaşabilirsiniz. Antiphellos Aslanlı Lahit'i ziyaret etmek için en iyi zaman, ilkbahar ve yaz ayları. Bu mevsimlerde, hava sıcak ve güneşli ve ziyaretçilere güzel bir ortam sunuyor. Antiphellos Aslanlı Lahit'i ziyaret etmek, historical bir atmosferi hissedece ve doğanın güzelliğini keşfedeceksiniz.
 
 ## İlginç Bilgiler
 

@@ -36,7 +36,7 @@ Hatay'ın dağlık bölgesinde yer alan Çağşak Tepesi, 140 hektarlık geniş 
 
 ## Coğrafya
 
-Çağşak Tepesi, Hatay'ın dağlık bölgesinde yer alıyor. Bu tepe, 140 hektarlık bir alanı kaplıyor ve çevresinde ormanlar yer alıyor. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıda. Bu yükseklik, ziyaretçilere panoramik bir manzara sunuyor. Çağşak Tepesi'nin coğrafi konumu, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, genellikle sıca ve kurak yazlar, ılık ve yağışlı kışlar ile karakterize ediliyor. Tepenin iklimi, bu bölgenin genel iklimine uygun. Çevresindeki ormanlar, çeşitli bitki türlerini barındırıyor ve bu tepenin doğal güzelliğini artırıyor.
+Çağşak Tepesi, Hatay'ın dağlık bölgesinde yer alıyor. Bu tepe, 140 hektarlık bir alanı kaplıyor ve çevresinde ormanlar yer alıyor. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıda. Bu yükseklik, ziyaretçilere panoramik bir manzara sunuyor. Çağşak Tepesi'nin coğrafi konumu, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, genellikle sıcak ve kurak yazlar, ılık ve yağışlı kışlar ile karakterize ediliyor. Tepenin iklimi, bu bölgenin genel iklimine uygun. Çevresindeki ormanlar, çeşitli bitki türlerini barındırıyor ve bu tepenin doğal güzelliğini artırıyor.
 
 ## Flora ve Fauna
 

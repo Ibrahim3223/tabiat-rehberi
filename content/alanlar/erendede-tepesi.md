@@ -36,7 +36,7 @@ Erendede Tepesi'nin tarihi geçmişi, yüzyıllar boyunca uzanıyor. Bu tepe, ta
 
 ## Coğrafya
 
-Erendede Tepesi, İzmir'in Ege Bölgesi'nde yer alan, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, şehrin doğal güzelliklerinin başında geliyor ve hem yerli hem de yabancı turistlerin ilgisini çekiyor. Erendede Tepesi'nin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Burada, doğa yürüyüşü yapmak, piknik yapma veya sadece şehrin gürültüsünden kaçmak için ideal bir yer. Erendede Tepesi, coğrafi açıdan, Ege Bölgesi'nin karakteristik özellikleri olan, sıca ve kuru yazlar ve ılık ve yağışlı kışlar ile karakterize edilen bir iklime sahip. Tepenin yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdate ve bu nedenle, Erendede Tepesi, şehrin doğal güzelliklerinin önemli bir parçası olarak kabul ediliyor. Erendede Tepesi, coğrafi açıdan, Ege Bölgesi'nin karakteristik özellikleri olan, sıca ve kuru yazlar ve ılık ve yağışlı kışlar ile karakterize edilen bir iklime sahip ve bu nedenle, bu tepe, hem doğa severler hem de turistler için ideal bir yer.
+Erendede Tepesi, İzmir'in Ege Bölgesi'nde yer alan, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, şehrin doğal güzelliklerinin başında geliyor ve hem yerli hem de yabancı turistlerin ilgisini çekiyor. Erendede Tepesi'nin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Burada, doğa yürüyüşü yapmak, piknik yapma veya sadece şehrin gürültüsünden kaçmak için ideal bir yer. Erendede Tepesi, coğrafi açıdan, Ege Bölgesi'nin karakteristik özellikleri olan, sıcak ve kuru yazlar ve ılık ve yağışlı kışlar ile karakterize edilen bir iklime sahip. Tepenin yüksekliği, yüksek bir konumda ve bu nedenle, Erendede Tepesi, şehrin doğal güzelliklerinin önemli bir parçası olarak kabul ediliyor. Erendede Tepesi, coğrafi açıdan, Ege Bölgesi'nin karakteristik özellikleri olan, sıcak ve kuru yazlar ve ılık ve yağışlı kışlar ile karakterize edilen bir iklime sahip ve bu nedenle, bu tepe, hem doğa severler hem de turistler için ideal bir yer.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Erendede Tepesi'ni ziyaret etmek, hem doğa severler hem de turistler için idea
 ## İlginç Bilgiler
 
 - Erendede Tepesi, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde
-- Erendede Tepesi, Ege Bölgesi'nin karakteristik özellikleri olan, sıca ve kuru yazlar ve ılık ve yağışlı kışlar ile karakterize edilen bir iklime sahip
+- Erendede Tepesi, Ege Bölgesi'nin karakteristik özellikleri olan, sıcak ve kuru yazlar ve ılık ve yağışlı kışlar ile karakterize edilen bir iklime sahip
 - Erendede Tepesi, flora ve fauna açısından, Ege Bölgesi'nin karakteristik özellikleri olan, zeytin ağaçları, kestane ağaçları ve diğer bitki türleri ile karakterize edilen bir bölge
 - Erendede Tepesi, hem doğa severler hem de turistler için ideal bir yer
 - Erendede Tepesi, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleri ve zengin fauna bulunmakta

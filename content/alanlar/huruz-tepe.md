@@ -42,7 +42,7 @@ Mardin'in coğrafi güzelliklerini keşfederken, Huruz Tepe dikkat çekici bir n
 
 Doğal yapısı itibariyle, Huruz Tepe'nin fiziksel özellikleri coğrafya severlerin ilgisini çekiyor. Veriler sınırlı olsa da, tepeyi çevreleyen coğrafi oluşumlar, onu bir şehir bloğu büyüklüğünde, belki de birkaç olimpik havuz kadar büyük bir alana benzetmemizi sağlıyor. Bu alan, Mardin'in genel coğrafi yapısı içerisinde önemli bir nokta olarak görünüyor.
 
-Mevsimsel değişimler, Huruz Tepe'nin iklim karakterini şekillendiriyor. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir hava durumuna sahip. Bu mevsimsel özellikler, tepe ve çevresinin flora ve fauna açısından zenginleşmesine katkıda bulunuyor. Etrafındaki bitki örtüsü, mevsimlere göre değişen renkler ve dokularla güzelliğini koruyor.
+Mevsimsel değişimler, Huruz Tepe'nin iklim karakterini şekillendiriyor. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir hava durumuna sahip. Bu mevsimsel özellikler, tepe ve çevresinin flora ve fauna açısından zenginleşmesine katkıda bulunuyor. Etrafındaki bitki örtüsü, mevsimlere göre değişen renkler ve dokularla güzelliğini koruyor.
 
 Çevresel açıdan, Huruz Tepe komşu alanlarla ve su kaynaklarıyla önemli bir ilişkiye sahip. Bölgedeki su kaynakları, tepe ve çevresindeki ekosistemin canlılığını korumasına yardımcı oluyor. Bu ilişki, tepe ve çevresinin doğal dengesini korurken, aynı zamanda bölgenin coğrafi güzelliklerini de zenginleştiriyor.
 

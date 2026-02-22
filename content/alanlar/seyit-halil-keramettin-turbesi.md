@@ -37,7 +37,7 @@ Seyit Halil Keramettin Türbesi, tarihi geçmişi ile dikkat çekiyor. Bu türkb
 
 ## Coğrafya
 
-Seyit Halil Keramettin Türbesi, coğrafi konumu itibariyle de dikkat çekici. İç Anadolu Bölgesi'nin ortasında yer alan bu mekan, yüksek bir tepenin üzerinde kurulmuş. Çevresinde, geniş otlaklar ve tarım arazileri bulunuyor. İklim, karasal iklim özellikleri gösteriyor; kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi konum, mekanın etrafındaki doğal güzellikleri şekillendirmiş. Türbenin yakınında, akan bir su kaynağı bulunuyor ve bu, çevreyi yeşillendiren bir unsur olarak kabul ediliyor. Ayrıca, buradaki flora, çeşitli bitkiler ve ağaçlardan oluşuyor; fauna ise, birçok canlı türünü barındırıyor.
+Seyit Halil Keramettin Türbesi, coğrafi konumu itibariyle de dikkat çekici. İç Anadolu Bölgesi'nin ortasında yer alan bu mekan, yüksek bir tepenin üzerinde kurulmuş. Çevresinde, geniş otlaklar ve tarım arazileri bulunuyor. İklim, karasal iklim özellikleri gösteriyor; kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi konum, mekanın etrafındaki doğal güzellikleri şekillendirmiş. Türbenin yakınında, akan bir su kaynağı bulunuyor ve bu, çevreyi yeşillendiren bir unsur olarak kabul ediliyor. Ayrıca, buradaki flora, çeşitli bitkiler ve ağaçlardan oluşuyor; fauna ise, birçok canlı türünü barındırıyor.
 
 ## Flora ve Fauna
 

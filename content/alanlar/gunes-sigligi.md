@@ -42,7 +42,7 @@ Ege Denizi'nin sakin suları arasında yer alan "Güneş Sığlığı" adası, 3
 
 Doğal güzelliği ile ön plana çıkan "Güneş Sığlığı" adası, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Ada'nın şekli ve jeolojik yapısı hakkında detaylı bilgiler olmasa da, Ege Bölgesi'nin genel jeolojik karakteristiği düşünüldüğünde, ada'nın yüzeyinin volkanik kayaçlardan oluşması muhtemel. Bu volkanik kayaçlar, ada'nın eşsiz manzarasına katkıda bulunuyor.
 
-İklim açısından bakıldığında, "Güneş Sığlığı" adası Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir hava durumu hakim. Ada'nın iklimi, çevredeki su kaynaklarının ve bitki örtüsünün çeşitliliğiyle de etkileşim halinde. Bu etkileşim, ada'nın doğal dengesini korumasına yardımcı oluyor.
+İklim açısından bakıldığında, "Güneş Sığlığı" adası Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava durumu hakim. Ada'nın iklimi, çevredeki su kaynaklarının ve bitki örtüsünün çeşitliliğiyle de etkileşim halinde. Bu etkileşim, ada'nın doğal dengesini korumasına yardımcı oluyor.
 
 Ada'nın çevresel ilişkileri, komşu alanlar ve su kaynaklarıyla yakından ilgili. "Güneş Sığlığı" adası, Ege Denizi'nin bir parçası olarak, bölgenin ekosistemini zenginleştiren bir rol oynuyor. Ada'nın su kaynakları ve bitki örtüsü, çevredeki ekosistemin bir parçası olarak, bölgeye özgü türlerin yaşamını destekliyor. Bu sayede, ada ve çevresi, bir bütün olarak düşünüldüğünde, Monaco'nun yarısı kadar bir alanı kaplayan bir doğal koruma alanı gibi düşünülebilir.
 

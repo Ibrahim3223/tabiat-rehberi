@@ -36,7 +36,7 @@ Ballıtaş Tepesi, tarihi geçmişi ile dikkat çekiyor. Bu bölgenin tarihi, y�
 
 ## Coğrafya
 
-Ballıtaş Tepesi, coğrafi konumu itibariyle oldukça ilgi çekici. Bu tepe, Erzurum'un merkezine uzun bir mesafe uzaklıkta bulunuyor ve ulaşımı oldukça kolay. Ballıtaş Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, çeşitli bitki türleri ile örtülü. Tepenin yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdate ve bu yükseklik, ziyaretçilere muhteşem bir manzara sunuyor. Ballıtaş Tepesi, aynı zamanda zengin fauna ile dikkat çekiyor. Bu bölgede, çeşitli hayvan türleri ve kuş türleri yaşamaktadır. Ballıtaş Tepesi, ziyaretçilerine hem doğal güzelliğini hem de coğrafi zenginliklerini sunuyor.
+Ballıtaş Tepesi, coğrafi konumu itibariyle oldukça ilgi çekici. Bu tepe, Erzurum'un merkezine uzun bir mesafe uzaklıkta bulunuyor ve ulaşımı oldukça kolay. Ballıtaş Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, çeşitli bitki türleri ile örtülü. Tepenin yüksekliği, yüksek bir konumda ve bu yükseklik, ziyaretçilere muhteşem bir manzara sunuyor. Ballıtaş Tepesi, aynı zamanda zengin fauna ile dikkat çekiyor. Bu bölgede, çeşitli hayvan türleri ve kuş türleri yaşamaktadır. Ballıtaş Tepesi, ziyaretçilerine hem doğal güzelliğini hem de coğrafi zenginliklerini sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Ballıtaş Tepesi, ziyaretçilerine birçok aktivite sunuyor. Ziyaretçiler, bu 
 ## İlginç Bilgiler
 
 - Ballıtaş Tepesi, Erzurum'un merkezine uzun bir mesafe uzaklıkta bulunuyor.
-- Tepenin yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdate.
+- Tepenin yüksekliği, yüksek bir konumda.
 - Ballıtaş Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Bu bölgede, çeşitli bitki türleri ve ağaçlar yetişiyor.
 - Ballıtaş Tepesi, zengin fauna ile dikkat çekiyor.

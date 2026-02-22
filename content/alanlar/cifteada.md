@@ -48,7 +48,7 @@ Jeolojik yapı itibarıyla incelendiğinde, Çifteada'nın boyutları hakkında 
 
 ## Flora ve Fauna
 
-Çifteada, İzmir'in kıyı şeridinde yer alan bir ada ekosistemi olarak dikkat çeker. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İklimi, Akdeniz ikliminin karakteristik özellikleri taşır; yazları sıca ve kurak, kışları ılıman ve yağışlıdır.
+Çifteada, İzmir'in kıyı şeridinde yer alan bir ada ekosistemi olarak dikkat çeker. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İklimi, Akdeniz ikliminin karakteristik özellikleri taşır; yazları sıcak ve kurak, kışları ılıman ve yağışlıdır.
 
 Bitki Örtüsü bölümünde, ada genelinde hakim olan zeytinlikler ve çam ormanları göze çarpar. İlkbaharla birlikte, ada çiçeklerle donanır ve renklenir. Kıyı bitkileri, ada çevresindeki kayalık alanlarda kendini gösterir. 
 

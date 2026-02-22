@@ -50,7 +50,7 @@ Davadya Dağı, çevresindeki diğer doğal alanlar ile önemli bir ekosistem ba
 
 Davadya Dağı, step bitki örtüsünün hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. İlbahar aylarında, dağ yamaçları rengarenk çiçeklerle kaplanıyor. Yükseklik zonlarına göre değişen bitki örtüsü, alpin flora örneklerini barındırıyor. Bozkır bitkileri, kuraklığa adapte olmuş türler, dağların zorlu koşullarına uyum sağlamış durumda.
 
-Yaban hayatı açısından zengin olan Davadya Dağı, memeliler, kuşlar ve sürüngenlerle dolu. Dağın yüksek kesimlerinde, dağ keçileri ve yaban sığırları yaşamını sürdürürken, aşağı kesimlerde step kedileri ve tilkiler görülüyor. Sonbahar aylarında, göçmen kuşlar dağları geçit olarak kullanıyor. Sürüngenler, özellikle yılanlar ve kertenkeleler, dağların sıca ve kurak bölgelerinde yaşamlarını sürdürüyor.
+Yaban hayatı açısından zengin olan Davadya Dağı, memeliler, kuşlar ve sürüngenlerle dolu. Dağın yüksek kesimlerinde, dağ keçileri ve yaban sığırları yaşamını sürdürürken, aşağı kesimlerde step kedileri ve tilkiler görülüyor. Sonbahar aylarında, göçmen kuşlar dağları geçit olarak kullanıyor. Sürüngenler, özellikle yılanlar ve kertenkeleler, dağların sıcak ve kurak bölgelerinde yaşamlarını sürdürüyor.
 
 Davadya Dağı, ekolojik açıdan önemli bir bölge olarak kabul ediliyor. Dağın ekosistemi, birçok canlı türünün yaşamını destekleyerek, bölgenin biyolojik çeşitliliğini koruyor. Ancak, insan faaliyetleri ve iklim değişikliği, bu hassas ekosistemi tehdit ediyor. Koruma çalışmaları, bu değerli ekosistemin korunması için gerekli görünüyor.
 

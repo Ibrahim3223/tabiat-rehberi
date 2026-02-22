@@ -36,7 +36,7 @@ KocaalanTepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu tepe,
 
 ## Coğrafya
 
-KocaalanTepesi, Ege Bölgesi'nde bulunan bir tepe. Bu tepe, Kütahya ilinin sınırları içinde yer alıyor. KocaalanTepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, doğu-batı yönünde uzanan bir sırtla çevrili. KocaalanTepesi'nin kuzeyinde, bir vadi bulunuyor. Bu vadi, tepeye gelen ziyaretçilerin keyifli bir yürüyüş yapmasına olanak tanıyor. KocaalanTepesi'nin iklimi, Ege Bölgesi'nin genel iklimine benzer. Bu tepe, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklime sahip. KocaalanTepesi, özellikle ilkbahar ve sonbahar aylarında ziyaret ediliyor. Bu mevsimlerde, tepeye gelen ziyaretçiler, doğanın güzelliğini ve sakinliğini deneyimleyebiliyorlar.
+KocaalanTepesi, Ege Bölgesi'nde bulunan bir tepe. Bu tepe, Kütahya ilinin sınırları içinde yer alıyor. KocaalanTepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, doğu-batı yönünde uzanan bir sırtla çevrili. KocaalanTepesi'nin kuzeyinde, bir vadi bulunuyor. Bu vadi, tepeye gelen ziyaretçilerin keyifli bir yürüyüş yapmasına olanak tanıyor. KocaalanTepesi'nin iklimi, Ege Bölgesi'nin genel iklimine benzer. Bu tepe, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklime sahip. KocaalanTepesi, özellikle ilkbahar ve sonbahar aylarında ziyaret ediliyor. Bu mevsimlerde, tepeye gelen ziyaretçiler, doğanın güzelliğini ve sakinliğini deneyimleyebiliyorlar.
 
 ## Flora ve Fauna
 

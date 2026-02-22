@@ -38,7 +38,7 @@ Gömeçli Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş 
 
 ## Coğrafya
 
-Gömeçli Dede Türbesi, İzmir'in Bayındır ilçesinde yer alıyor ve Ege Bölgesi'nin güzelliğini yansıtıyor. Bu bölge, genellikle sıca ve kurak yazları, ılıman ve yağışlı kışları ile karakterizedir. Gömeçli Dede Türbesi'nin bulunduğu alan, deniz seviyesinden yüksek bir konumda yer alıyor ve bu, ziyaretçilere geniş bir manzara sunuyor. Türbe, doğal güzellikleri ile dikkat çekiyor ve ziyaretçilerini Ege Bölgesi'nin benzersiz coğrafyasına davet ediyor. Gömeçli Dede Türbesi'nin çevresi, genellikle zeytinli ve ormanlık alanlarla kaplı ve bu, ziyaretçilere doğayla iç içe bir ortam sunuyor. Gömeçli Dede Türbesi, Ege Bölgesi'nin coğrafi güzelliklerinin önemli bir parçası olarak kabul ediliyor.
+Gömeçli Dede Türbesi, İzmir'in Bayındır ilçesinde yer alıyor ve Ege Bölgesi'nin güzelliğini yansıtıyor. Bu bölge, genellikle sıcak ve kurak yazları, ılıman ve yağışlı kışları ile karakterizedir. Gömeçli Dede Türbesi'nin bulunduğu alan, deniz seviyesinden yüksek bir konumda yer alıyor ve bu, ziyaretçilere geniş bir manzara sunuyor. Türbe, doğal güzellikleri ile dikkat çekiyor ve ziyaretçilerini Ege Bölgesi'nin benzersiz coğrafyasına davet ediyor. Gömeçli Dede Türbesi'nin çevresi, genellikle zeytinli ve ormanlık alanlarla kaplı ve bu, ziyaretçilere doğayla iç içe bir ortam sunuyor. Gömeçli Dede Türbesi, Ege Bölgesi'nin coğrafi güzelliklerinin önemli bir parçası olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

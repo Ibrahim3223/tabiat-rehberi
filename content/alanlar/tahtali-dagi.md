@@ -45,7 +45,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde, Adana'nın sınırları içinde yer a
 
 Doğal güzelliği ve coğrafi özellikleri ile dikkat çeken Tahtali Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Bu dağ, jeolojik açıdan bakıldığında, bölgenin jeolojik yapısını şekillendiren tektonik hareketlerin bir sonucu olarak oluşmuştur. Tahtali Dağı'nın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olup, bu özelliği ile bölgenin önemli bir coğrafi oluşumu olarak kabul edilebilir.
 
-Mevsimsel olarak, Tahtali Dağı'nın iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır. Kış aylarında ılıman, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu iklim özellikleri, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörlerdir. Örneğin, dağın eteklerinde ve zirvesinde farklı türlerde bitki örtüsü bulunmakta olup, bu da bölgenin biyolojik çeşitliliğini arttırmaktadır.
+Mevsimsel olarak, Tahtali Dağı'nın iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır. Kış aylarında ılıman, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu iklim özellikleri, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörlerdir. Örneğin, dağın eteklerinde ve zirvesinde farklı türlerde bitki örtüsü bulunmakta olup, bu da bölgenin biyolojik çeşitliliğini arttırmaktadır.
 
 Tahtali Dağı, çevresindeki ekosistem ile güçlü bir bağlantıyı sürdürmektedir. Örneğin, dağın eteklerinde yer alan su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılamaktadır. Ayrıca, Tahtali Dağı, komşu alanlar ile birlikte bir bütün olarak değerlendirildiğinde, bölgenin coğrafi yapısını ve doğal güzelliğini korumak için önemli bir role sahiptir. Bu nedenle, Tahtali Dağı, bölgenin doğal ve kültürel mirasının önemli bir parçasıdır.
 

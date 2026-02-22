@@ -31,7 +31,7 @@ Delmece Yaylası'nın tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkl
 
 ## Coğrafya
 
-Delmece Yaylası, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici bölgelerinden birisidir. Yayla, bir tarafında dağların yükseldiği, diğer tarafında ise geniş ovaların uzandığı bir alanda yer almaktadır. Bu coğrafi konum, yaylaya benzersiz bir manzara kazandırmaktadır. İklim olarak, Delmece Yaylası, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir iklime sahiptir. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bu iklim, yaylanın flora ve fauna çeşitliliği üzerinde önemli bir etkiye sahiptir. Yayla, çevresindeki dağlar ve ovalarla birlikte, bir ekosistem olarak işlev görmektedir. Bu nedenle, Delmece Yaylası, sadece doğal güzellikleri değil, aynı zamanda zengin bir ekolojik çeşitliliğe de sahiptir.
+Delmece Yaylası, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici bölgelerinden birisidir. Yayla, bir tarafında dağların yükseldiği, diğer tarafında ise geniş ovaların uzandığı bir alanda yer almaktadır. Bu coğrafi konum, yaylaya benzersiz bir manzara kazandırmaktadır. İklim olarak, Delmece Yaylası, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir iklime sahiptir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim, yaylanın flora ve fauna çeşitliliği üzerinde önemli bir etkiye sahiptir. Yayla, çevresindeki dağlar ve ovalarla birlikte, bir ekosistem olarak işlev görmektedir. Bu nedenle, Delmece Yaylası, sadece doğal güzellikleri değil, aynı zamanda zengin bir ekolojik çeşitliliğe de sahiptir.
 
 ## Flora ve Fauna
 

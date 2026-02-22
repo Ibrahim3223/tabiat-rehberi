@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi zenginliklerini keşfetmeye başladı�
 
 Jeolojik açıdan bakıldığında, Zini Dağı'nın fiziksel yapısı hakkındalı bilgiler olmasa da, bölgenin genel jeolojik yapılarından yola çıkarak bazı çıkarımlar yapılabilir. Güneydoğu Anadolu Bölgesi, genellikle dağlık ve engebeli bir coğrafyaya sahip. Bu bölge, tektonik hareketler sonucunda şekillenmiş ve çeşitli jeolojik oluşumları barındırıyor. Zini Dağı da bu jeolojik oluşumların bir parçası olarak düşünülebilir.
 
-İklim açısından Zini Dağı, bölgenin genel iklim karakterine uygun olarak kura ve sıcak yazlar, soğu ve yağışlı kışlar yaşıyor. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Zini Dağı'nın eteklerinde ve çevresinde, bu iklim koşullarına adapte olmuş çeşitli bitki ve hayvan türleri yaşayabiliyor.
+İklim açısından Zini Dağı, bölgenin genel iklim karakterine uygun olarak kura ve sıcak yazlar, soğuk ve yağışlı kışlar yaşıyor. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Zini Dağı'nın eteklerinde ve çevresinde, bu iklim koşullarına adapte olmuş çeşitli bitki ve hayvan türleri yaşayabiliyor.
 
 Son olarak, Zini Dağı'nın çevresel ilişkileri de önemli bir nokta. Bölge, çeşitli su kaynaklarına ev sahipliği yapıyor ve bu su kaynakları, yerel ekosistemlerin sürdürülebilirliğiçin hayati önem taşıyor. Zini Dağı, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgenin doğal dengesini koruyor ve bu denge, bölgenin biyolojik çeşitliliğini desteklemeye devam ediyor.
 
@@ -50,7 +50,7 @@ Son olarak, Zini Dağı'nın çevresel ilişkileri de önemli bir nokta. Bölge,
 
 Zini Dağı, step bitki örtüsü ve bozkırın hakim olduğu bir dağ ekosistemi olarak, çeşitli yükseklik zonlarına ev sahipliği yapar. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanır. Yükseklik arttıkça, alpin flora ortaya çıkar ve kuraklığa adapte olmuş türler ön plana çıkar.
 
-Yaban hayatında, dağ keçileri ve yaban domuzları gibi memeliler, dağların dik yamaçlarında yaşamını sürdürür. Kuşlar, özellikle sonbaharda göç eden türlerle birlikte, dağların gökyüzünü doldurur. Sürüngenler de, sıca ve kurak bölgelerde aktif olarak görülür.
+Yaban hayatında, dağ keçileri ve yaban domuzları gibi memeliler, dağların dik yamaçlarında yaşamını sürdürür. Kuşlar, özellikle sonbaharda göç eden türlerle birlikte, dağların gökyüzünü doldurur. Sürüngenler de, sıcak ve kurak bölgelerde aktif olarak görülür.
 
 Zini Dağı, ekolojik açıdan önemli bir bölge olup, çeşitli türlerin yaşamsal döngüsüne ev sahipliği yapar. Bu dağ ekosisteminin korunması, hem bölgesel hem de ulusal düzeyde önemlidir. Zini Dağı'nın benzersiz flora ve faunası, gelecek nesiller için korunmalıdır.
 

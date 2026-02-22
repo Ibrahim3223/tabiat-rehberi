@@ -37,7 +37,7 @@ Gümrük Hamamı, tarihi geçmişi ile dikkat çekmektedir. Bu bölge, yüzyıll
 
 ## Coğrafya
 
-Gümrük Hamamı, coğrafi olarak Doğu Anadolu Bölgesi'nin en güzel noktalarından biridir. Burada, dağların ve ovaların birleştiği noktada, geniş bir alan bulunmaktadır. Plaj, Yakutiye ilçesine bağlıdır ve Erzurum'un merkezine uzun bir mesafe uzaklıktadır. Gümrük Hamamı, 140 hektarlık bir alana sahiptir ve burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu bölge, iklim olarak karasal iklimin hüküm sürdüğü bir bölgedir. Kışları soğu ve kar yağışlı, yazları ise sıcak ve kurak geçmektedir. Gümrük Hamamı, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunmaktadır. İlkbahar ve yaz aylarında, burada, yeşilin ve mavinin tonlarını görebilirsiniz. Sonbahar ve kış aylarında ise, karların ve buzların güzelliğini keşfedebilirsiniz.
+Gümrük Hamamı, coğrafi olarak Doğu Anadolu Bölgesi'nin en güzel noktalarından biridir. Burada, dağların ve ovaların birleştiği noktada, geniş bir alan bulunmaktadır. Plaj, Yakutiye ilçesine bağlıdır ve Erzurum'un merkezine uzun bir mesafe uzaklıktadır. Gümrük Hamamı, 140 hektarlık bir alana sahiptir ve burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu bölge, iklim olarak karasal iklimin hüküm sürdüğü bir bölgedir. Kışları soğuk ve kar yağışlı, yazları ise sıcak ve kurak geçmektedir. Gümrük Hamamı, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunmaktadır. İlkbahar ve yaz aylarında, burada, yeşilin ve mavinin tonlarını görebilirsiniz. Sonbahar ve kış aylarında ise, karların ve buzların güzelliğini keşfedebilirsiniz.
 
 ## Flora ve Fauna
 

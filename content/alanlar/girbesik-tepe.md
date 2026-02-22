@@ -42,7 +42,7 @@ Diyarbakır'ın eşsiz coğrafyasında yer alan Girbeşik Tepe, 37.7889°K, 40.6
 
 Jeolojik açıdan bakıldığında, Girbeşik Tepe'nin fiziksel yapısı hakkında detaylı bilgi bulunmuyor. Ancak, bölgenin genel jeolojik özellikleri dikkate alındığında, tepe çevresinin kalker ve şist gibi farklı türde kayalardan oluştuğu söylenebilir. Bu kayalar, bölgenin jeolojik geçmişini ve coğrafi özelliklerini şekillendiren önemli faktörlerdir.
 
-Mevsimler değiştiğinde, Girbeşik Tepe'nin iklim karakteri değişiyor. Bölge, karasal iklimin hakim olduğu bir bölge olarak, yazları sıca ve kurak, kışları ise soğu ve yağışlı geçiyor. Bu mevsimsel değişimler, tepe çevresindeki bitki örtüsünü ve hayvan yaşamını etkiliyor. İlkbahar ve sonbahar aylarında, tepe çevresinde yeşillikler hüküm sürerken, yaz aylarında kuraklık ve sıcak hava hakim oluyor.
+Mevsimler değiştiğinde, Girbeşik Tepe'nin iklim karakteri değişiyor. Bölge, karasal iklimin hakim olduğu bir bölge olarak, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı geçiyor. Bu mevsimsel değişimler, tepe çevresindeki bitki örtüsünü ve hayvan yaşamını etkiliyor. İlkbahar ve sonbahar aylarında, tepe çevresinde yeşillikler hüküm sürerken, yaz aylarında kuraklık ve sıcak hava hakim oluyor.
 
 Çevresel açıdan bakıldığında, Girbeşik Tepe, bölgenin önemli su kaynaklarına yakın bir konumda bulunuyor. Tepe, Dicle Nehri'ne yaklaşık 10 kilometre uzaklıkta yer alıyor. Bu nehrin suladığı ovalar, bölgenin tarımsal faaliyetleri için önemli bir kaynak teşkil ediyor. Ayrıca, tepe çevresindeki ekosistem bağlantıları, bölgenin biyolojik çeşitliliğini zenginleştiren önemli faktörlerden biri olarak dikkat çekiyor.
 

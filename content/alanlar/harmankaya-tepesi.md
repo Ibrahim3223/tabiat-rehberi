@@ -36,7 +36,7 @@ Harmankaya Tepesi'nin tarihi geçmişi, bölgenin genel tarihine paralel olarak 
 
 ## Coğrafya
 
-Harmankaya Tepesi, Hatay ilinin coğrafi yapısını karakterize eden önemli bir doğal oluşumdur. Tepe, Akdeniz Bölgesi'nin genel coğrafi özellikleri ile uyumlu olarak, dağlık ve engebeli bir araziye sahiptir. Bölgenin iklimi, genellikle Akdeniz ikliminin özellikleri gösterir; yani yazları sıca ve kurak, kışları ılık ve yağışlı geçer. Harmankaya Tepesi'nin coğrafi konumu, aynı zamanda bölgenin flora ve faunasını da etkiler. Tepe ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşar. Bu doğal güzellikler, Harmankaya Tepesi'ni ziyaret edenler için önemli bir çekim noktası oluşturur. Ayrıca, tepe, bölgenin su kaynaklarının oluşumunda da önemli bir role sahiptir. Çevresindeki vadiler ve ovalar, Harmankaya Tepesi'nden doğan su kaynakları ile sulanır.
+Harmankaya Tepesi, Hatay ilinin coğrafi yapısını karakterize eden önemli bir doğal oluşumdur. Tepe, Akdeniz Bölgesi'nin genel coğrafi özellikleri ile uyumlu olarak, dağlık ve engebeli bir araziye sahiptir. Bölgenin iklimi, genellikle Akdeniz ikliminin özellikleri gösterir; yani yazları sıcak ve kurak, kışları ılık ve yağışlı geçer. Harmankaya Tepesi'nin coğrafi konumu, aynı zamanda bölgenin flora ve faunasını da etkiler. Tepe ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşar. Bu doğal güzellikler, Harmankaya Tepesi'ni ziyaret edenler için önemli bir çekim noktası oluşturur. Ayrıca, tepe, bölgenin su kaynaklarının oluşumunda da önemli bir role sahiptir. Çevresindeki vadiler ve ovalar, Harmankaya Tepesi'nden doğan su kaynakları ile sulanır.
 
 ## Flora ve Fauna
 

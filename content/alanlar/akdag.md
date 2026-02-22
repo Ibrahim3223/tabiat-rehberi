@@ -45,7 +45,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden biri olan Erzincan'da yer alan Akd
 
 Jeolojik açıdan incelendiğinde, Akdağ'ın oluşumunda volkanik faaliyetlerin önemli bir role sahip olduğu görülür. Ancak, detaylı fiziksel veriler bulunmaması nedeniyle, bu konuda daha derinlemesine bir analiz yapma mümkün değildir. Genel olarak, Erzincan bölgesinin jeolojik yapısı, volkani ve sedimenteer kayaçlardan oluşmaktadır. Bu durum, bölgenin coğrafi çeşitliliğini arttırmaktadır.
 
-Yıllık hava durumu değerlendirmesi yapıldığında, Akdağ'ın iklim karakterinin karasal iklim özelliklerine sahip olduğu görülür. Kış mevsiminde soğu ve kar yağışlı, yaz mevsiminde ise sıca ve kurak bir hava hüküm sürer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve farklı ekosistemlerin oluşmasına olanak tanır.
+Yıllık hava durumu değerlendirmesi yapıldığında, Akdağ'ın iklim karakterinin karasal iklim özelliklerine sahip olduğu görülür. Kış mevsiminde soğuk ve kar yağışlı, yaz mevsiminde ise sıcak ve kurak bir hava hüküm sürer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve farklı ekosistemlerin oluşmasına olanak tanır.
 
 Çevresel açıdan bakıldığında, Akdağ'ın komşu alanlar ve su kaynakları ile bağlantılı bir yapıya sahip olduğu görülür. Yakın çevresinde bulunan nehirler ve akarsular, bölgenin su kaynaklarını oluşturur ve ekosistem bağlantılarını sağlar. Ayrıca, Akdağ'ın eteklerinde yer alan tarım alanları ve ormanlık bölgeler, bölgenin biyolojik çeşitliliğini destekler ve ekosistem dengesini korur. Bu faktörler, Akdağ'ın çevreye duyarlı bir şekilde korunması ve yönetimi gerektiğini vurgular.
 

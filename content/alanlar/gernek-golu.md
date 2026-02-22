@@ -44,7 +44,7 @@ Samsun'un doğal güzelliklerini keşfetmek isteyenler için, Gernek Gölü öne
 
 Doğal bir su kaynağı olan Gernek Gölü, çevresindeki coğrafyanın şekillenmesinde önemli bir role sahiptir. Ne yazık ki, gölün fiziksel yapısı hakkında detaylı bilgiler bulunmuyor, ancak gölün büyüklüğü yaklaşık olarak bir şehir bloğu büyüklüğünde olabilir. Bu küçük alan, Samsun'un geniş arazisi içinde önemli bir ekosistem oluşturur.
 
-İklim karakteri açısından bakıldığında, Gernek Gölü ve çevresindeki bölge, Karadeniz ikliminin etkilerini taşır. Bölge, yaz aylarında serin ve yağmurlu, kış aylarında ise soğu ve yağışlı bir hava durumuna sahiptir. Bu mevsimsel özellikler, gölün su seviyesini ve çevresindeki bitki örtüsünü doğrudan etkiler. Gölün su seviyesi, yağışlı aylarda artarken, kurak aylarda azalır.
+İklim karakteri açısından bakıldığında, Gernek Gölü ve çevresindeki bölge, Karadeniz ikliminin etkilerini taşır. Bölge, yaz aylarında serin ve yağmurlu, kış aylarında ise soğuk ve yağışlı bir hava durumuna sahiptir. Bu mevsimsel özellikler, gölün su seviyesini ve çevresindeki bitki örtüsünü doğrudan etkiler. Gölün su seviyesi, yağışlı aylarda artarken, kurak aylarda azalır.
 
 Çevresel ilişkiler açısından, Gernek Gölü önemli bir su kaynağı olarak görev yapar. Göl, etrafındaki tarım arazileri ve ormanların sulanmasında kullanılır. Ayrıca, gölün suyu, nearby akarsulara da katkı sağlar. Bu şekilde, göl, bölgenin ekosistemine önemli bir katkıda bulunur ve çevredeki alanların doğal dengesini korur.
 

@@ -46,7 +46,7 @@ Van'ın dağlık arazisinde, 36.4525°K ve 34.1056°D koordinatlarında yer alan
 
 Doğal bir mağara sistemi olan Cennet ve Cehennem Çökükleri, jeolojik açıdan oldukça ilgi çekici bir yapıya sahip. Mağaraların oluşumu, bölgenin jeolojik tarihinde önemli bir rol oynuyor. Ancak, detaylı fiziksel veriler bulunmamasına rağmen, bu mağaraların Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kapladığı söylenebilir. Mağaraların derinliği ve genişliği, ziyaretçilerini büyülüyor.
 
-İklim açısından bakıldığında, Cennet ve Cehennem Çökükleri, Van'ın karasal ikliminin etkilerini taşıyor. Bölge, yazın sıca ve kurak, kışın soğu ve karlı bir iklime sahip. Bu mevsimsel özellikler, mağaraların oluşumunda ve şekillenmesinde önemli bir rol oynuyor. Eiffel Kulesi'nin birkaç katı yükseklikteki dağlar, bu bölgeye benzersiz bir hava kazandırıyor.
+İklim açısından bakıldığında, Cennet ve Cehennem Çökükleri, Van'ın karasal ikliminin etkilerini taşıyor. Bölge, yazın sıcak ve kurak, kışın soğuk ve karlı bir iklime sahip. Bu mevsimsel özellikler, mağaraların oluşumunda ve şekillenmesinde önemli bir rol oynuyor. Eiffel Kulesi'nin birkaç katı yükseklikteki dağlar, bu bölgeye benzersiz bir hava kazandırıyor.
 
 Cennet ve Cehennem Çökükleri, çevresindeki ekosistemi etkileyen bir coğrafi oluşum. Van Gölü'ne yakın konumu, bu mağaraların su kaynakları ve ekosistem bağlantıları açısından önemli bir rol oynadığını gösteriyor. Monaco'nun yarısı kadar büyük olan Van Gölü, bölgenin su kaynaklarının önemli bir kısmını sağlıyor. Bu mağaraların, bölgenin doğal dengesi ve ekosistemi açısından önemli bir yeri bulunuyor.
 

@@ -30,7 +30,7 @@ Adana-Kadirli Kızılçam 5 milli parkının tarihi geçmişi, yüzyıllar boyun
 
 ## Coğrafya
 
-Adana-Kadirli Kızılçam 5 milli parkı, Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır. Parkın coğrafi yapısı, geniş açık alanlar, yürüyüş yolları ve doğal güzelliklerden oluşmaktadır. Burada, kızılçam ağaçları, çam ağaçları ve çeşitli bitki türleri bulunmaktadır. Parkın iklimi, Akdeniz iklimi özellikleri göstermektedir. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir iklimi vardır. Parkın coğrafi konumu, ziyaretçilere doğanın güzelliğini sunmaktadır. Burada, doğanın seslerini dinleyerek, stresinizi atabilirsiniz. Parkın çevresi, çeşitli köyler ve kasabalarla çevrilidir. Burada, yerel halkın kültürünü öğrenerek, geleneksel yaşam tarzını keşfedebilirsiniz.
+Adana-Kadirli Kızılçam 5 milli parkı, Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır. Parkın coğrafi yapısı, geniş açık alanlar, yürüyüş yolları ve doğal güzelliklerden oluşmaktadır. Burada, kızılçam ağaçları, çam ağaçları ve çeşitli bitki türleri bulunmaktadır. Parkın iklimi, Akdeniz iklimi özellikleri göstermektedir. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir iklimi vardır. Parkın coğrafi konumu, ziyaretçilere doğanın güzelliğini sunmaktadır. Burada, doğanın seslerini dinleyerek, stresinizi atabilirsiniz. Parkın çevresi, çeşitli köyler ve kasabalarla çevrilidir. Burada, yerel halkın kültürünü öğrenerek, geleneksel yaşam tarzını keşfedebilirsiniz.
 
 ## Flora ve Fauna
 

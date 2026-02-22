@@ -45,7 +45,7 @@ Gökyüzüne doğru yükselen Manisa Dağı, 38.5567°K ve 27.4650°D koordinatl
 
 Jeolojik açıdan bakıldığında, Manisa Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, genel olarak bölgenin coğrafi özellikleri dikkate alındığında, dağlık alanların genellikle karmaşık bir jeolojik yapıya sahip olduğu söylenebilir. Bu dağların boyutları, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplayabilir ve bu da bölgenin coğrafi çeşitliliğini vurgular.
 
-Mevsimsel değişimlere bakıldığında, Manisa Dağı'nın iklim karakteri, Ege Bölgesi'nin genel iklim koşullarını yansıtır. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve dağların ekolojik dengesini korur.
+Mevsimsel değişimlere bakıldığında, Manisa Dağı'nın iklim karakteri, Ege Bölgesi'nin genel iklim koşullarını yansıtır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve dağların ekolojik dengesini korur.
 
 Doğal kaynaklar açısından, Manisa Dağı'nın çevresel ilişkileri, komşu alanlar ve su kaynakları ile bağlantılıdır. Dağın yakınında bulunan akarsular ve göller, bölgenin su dengesini sağlar ve ekosistemin sağlıklı bir şekilde işleyişine katkıda bulunur. Bu doğal kaynaklar, aynı zamanda bölgenin canlı çeşitliliğini destekler ve Manisa Dağı'nın coğrafi önemini vurgular.
 
@@ -53,7 +53,7 @@ Doğal kaynaklar açısından, Manisa Dağı'nın çevresel ilişkileri, komşu 
 
 Manisa Dağı, zeytinlikler ve çam ormanları ile çevrilidir. Bu dağ ekosisteminde, yükseklik zonlarına göre değişen bir flora çeşitliliği bulunur. İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanır. Çam ormanları, zeytinliklerle birlikte, dağın karakteristik bitki örtüsünü oluşturur.
 
-Yaban hayatı da zengin bir çeşitlilik gösterir. Dağda yaşayan memeliler, çam ormanları ve zeytinliklerle iç içe geçmiş bir yaşam sürer. Kuşlar, özellikle sonbaharda, göç ettikleri sırada bu dağları ziyaret eder. Sürüngenler de, dağın sıca ve kuru bölgelerinde yaşamlarını sürdürür.
+Yaban hayatı da zengin bir çeşitlilik gösterir. Dağda yaşayan memeliler, çam ormanları ve zeytinliklerle iç içe geçmiş bir yaşam sürer. Kuşlar, özellikle sonbaharda, göç ettikleri sırada bu dağları ziyaret eder. Sürüngenler de, dağın sıcak ve kuru bölgelerinde yaşamlarını sürdürür.
 
 Manisa Dağı, ekolojik açıdan önemli bir bölgedir. Dağın yükseklik zonları, farklı bitki ve hayvan türlerinin yaşamına ev sahipliği yapar. Bu çeşitlilik, bölgenin ekolojik dengesini korur. Ancak, insan faaliyetleri nedeniyle, bu dengenin bozulma tehlikesi vardır. Bu nedenle, Manisa Dağı'nın korunması ve muhafazası büyük önem taşır.
 

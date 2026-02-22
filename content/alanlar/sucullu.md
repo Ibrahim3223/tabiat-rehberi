@@ -30,7 +30,7 @@ Sucullu'nun tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. İnsanlık t
 
 ## Coğrafya
 
-Sucullu, İç Anadolu Bölgesi'nde yer alan bir milli parktır. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Bu yeşil alan, çeşitli bitki türleri ile birlikte zengin bir fauna sunuyor. Sucullu'nun coğrafi yapısı, ziyaretçilerine farklı bir deneyim sunuyor. Milli parkın içerisinde, yürüyüş parkurları, piknik alanları ve göletler bulunuyor. Sucullu'nun iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösteriyor. Kışları soğuk, yazları sıca ve kurak bir iklim hakim. Milli parkın coğrafi konumu, ziyaretçilerine birçok farklı güzelliği bir arada sunuyor.
+Sucullu, İç Anadolu Bölgesi'nde yer alan bir milli parktır. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Bu yeşil alan, çeşitli bitki türleri ile birlikte zengin bir fauna sunuyor. Sucullu'nun coğrafi yapısı, ziyaretçilerine farklı bir deneyim sunuyor. Milli parkın içerisinde, yürüyüş parkurları, piknik alanları ve göletler bulunuyor. Sucullu'nun iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösteriyor. Kışları soğuk, yazları sıcak ve kurak bir iklim hakim. Milli parkın coğrafi konumu, ziyaretçilerine birçok farklı güzelliği bir arada sunuyor.
 
 ## Flora ve Fauna
 

@@ -43,7 +43,7 @@ Güneydeki coğrafyanın güzelliğini keşfetmek isteyenler için, Antalya'nın
 
 Doğal güzelliğin yanı sıra, Sarı Dağ'ın fiziksel yapısı da dikkat çekici. Ne yazık ki, detaylı fiziksel veriler bulunmuyor, ancak dağın genel yapısı, bölgenin jeolojik geçmişini yansıtıyor. Sarı Dağ, etrafındaki diğer dağlar gibi, aynı jeolojik süreçlerin sonucu olarak oluşmuş ve bölgenin coğrafi çeşitliliğine katkıda bulunmuş.
 
-Mevsimsel özellikler ve hava durumu, Sarı Dağ'ın iklim karakterini şekillendiriyor. Akdeniz ikliminin hakim olduğu bu bölgede, yazlar sıca ve kurak, kışlar ise ılık ve yağışlı geçiyor. Bu mevsimsel değişimler, Sarı Dağ'ın doğal güzelliğini ve biyolojik çeşitliliğini etkiliyor.
+Mevsimsel özellikler ve hava durumu, Sarı Dağ'ın iklim karakterini şekillendiriyor. Akdeniz ikliminin hakim olduğu bu bölgede, yazlar sıcak ve kurak, kışlar ise ılık ve yağışlı geçiyor. Bu mevsimsel değişimler, Sarı Dağ'ın doğal güzelliğini ve biyolojik çeşitliliğini etkiliyor.
 
 Sarı Dağ, çevresindeki diğer coğrafi oluşumlarla ve su kaynaklarıyla bağlantılı bir ekosistem içerisinde yer alıyor. Bölgedeki diğer dağlar, vadiler ve nehirler, Sarı Dağ'ın çevresel ilişkilerini şekillendiriyor. Bu bağlantılar, bölgenin doğal dengesini koruyor ve biyolojik çeşitliliğin devamını sağlıyor.
 

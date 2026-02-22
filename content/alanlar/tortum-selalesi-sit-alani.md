@@ -30,7 +30,7 @@ Tortum Şelalesi Sit Alanı'nın tarihi geçmişi, yüzyıllar boyunca şekillen
 
 ## Coğrafya
 
-Tortum Şelalesi Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alır. Bu bölge, genel olarak yüksek bir arazi yapısına sahiptir ve şelale, bu yükseklikten dökülen suyun güzelliği ile dikkat çeker. Şelalenin etrafındaki arazi, çeşitli bitki türleri ve ağaçlarla kaplıdır. Bu bölge, dört mevsim boyunca farklı hava koşullarına sahiptir. Kış aylarında kar yağışı görülürken, yaz ayları genellikle sıca ve kurudur. İlkbahar ve sonbahar ayları, ziyaretçilerin bu alanı gezmek için uygun zamanlardır. Tortum Şelalesi Sit Alanı, coğrafi konumu ve doğal güzelliği ile ziyaretçilere benzersiz bir deneyim sunar. Bu alan, yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilerin keşfedebileceği birçok farklı yürüyüş parkuru ve güzergahı sunar.
+Tortum Şelalesi Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alır. Bu bölge, genel olarak yüksek bir arazi yapısına sahiptir ve şelale, bu yükseklikten dökülen suyun güzelliği ile dikkat çeker. Şelalenin etrafındaki arazi, çeşitli bitki türleri ve ağaçlarla kaplıdır. Bu bölge, dört mevsim boyunca farklı hava koşullarına sahiptir. Kış aylarında kar yağışı görülürken, yaz ayları genellikle sıcak ve kurudur. İlkbahar ve sonbahar ayları, ziyaretçilerin bu alanı gezmek için uygun zamanlardır. Tortum Şelalesi Sit Alanı, coğrafi konumu ve doğal güzelliği ile ziyaretçilere benzersiz bir deneyim sunar. Bu alan, yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilerin keşfedebileceği birçok farklı yürüyüş parkuru ve güzergahı sunar.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ Kızılcahamam Oruç Gazi Türbesi'nin tarihi geçmişi, Ankara'nın önemli tar
 
 ## Coğrafya
 
-Kızılcahamam Oruç Gazi Türbesi, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, genel olarak step ve ormanlık alanların bir karışımı olarak tanımlanabilir. Türbenin bulunduğu alan, geniş yeşil alanlar ve çevresindeki dağlarla çevrili. İklim, İç Anadolu Bölgesi'ne özgü karasal iklim özellikleri gösteriyor; yani kışlar soğu ve karlı, yazlar sıca ve kurak geçiyor. Bu coğrafi konum, ziyaretçilere hem doğanın güzelliğini hem de bölgenin kültürel zenginliklerini keşfetme fırsatı sunuyor. Ayrıca, bölgede çeşitli bitki türleri ve zengin fauna encontrabilir, bu da doğal yaşamın çeşitliliğini gösteriyor.
+Kızılcahamam Oruç Gazi Türbesi, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, genel olarak step ve ormanlık alanların bir karışımı olarak tanımlanabilir. Türbenin bulunduğu alan, geniş yeşil alanlar ve çevresindeki dağlarla çevrili. İklim, İç Anadolu Bölgesi'ne özgü karasal iklim özellikleri gösteriyor; yani kışlar soğuk ve karlı, yazlar sıcak ve kurak geçiyor. Bu coğrafi konum, ziyaretçilere hem doğanın güzelliğini hem de bölgenin kültürel zenginliklerini keşfetme fırsatı sunuyor. Ayrıca, bölgede çeşitli bitki türleri ve zengin fauna encontrabilir, bu da doğal yaşamın çeşitliliğini gösteriyor.
 
 ## Flora ve Fauna
 

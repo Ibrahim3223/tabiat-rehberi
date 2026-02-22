@@ -28,7 +28,7 @@ wikidata_id: "Q34930870"
 
 # Topraksu Sulama Göleti
 
-Şanlıurfa'nın sıca ve kurak ikliminde, Topraksu Sulama Göleti sakin bir sığınak gibi duruyor. Bu sulama göleti, bölgenin tarım alanlarını desteklemek amacıyla oluşturulmuş birsu kaynağı. Şanlıurfa'nın tarım topraklarını canlandıran bu gölet, yerel halk için önemli bir su kaynağını temsil ediyor. İl merkezine yakın bir konumda bulunan Topraksu Sulama Göleti, bölgenin sulama ihtiyaçlarını karşılayarak önemli bir role sahip.
+Şanlıurfa'nın sıcak ve kurak ikliminde, Topraksu Sulama Göleti sakin bir sığınak gibi duruyor. Bu sulama göleti, bölgenin tarım alanlarını desteklemek amacıyla oluşturulmuş birsu kaynağı. Şanlıurfa'nın tarım topraklarını canlandıran bu gölet, yerel halk için önemli bir su kaynağını temsil ediyor. İl merkezine yakın bir konumda bulunan Topraksu Sulama Göleti, bölgenin sulama ihtiyaçlarını karşılayarak önemli bir role sahip.
 
 ## Tarihçe
 

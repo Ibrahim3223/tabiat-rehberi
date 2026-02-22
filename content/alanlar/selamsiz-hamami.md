@@ -45,7 +45,7 @@ Selamsız Hamamı ve çevresi, zengin bir flora ve fauna çeşitliliğine sahipt
 
 ## Ziyaret Bilgileri
 
-Selamsız Hamamı'na ziyaret için en uygun zaman, genellikle ilkbahar ve yaz aylarıdır. Bu dönemlerde, hava sıca ve güneşli, deniz suyu ise serin ve sığdır. Ziyaretçiler, plajda güneşlenmek, denizde yüzmek, su sporları yapmak gibi çeşitli aktivitelerden yararlanabilirler. Ayrıca, çevredeki tarihi ve kültürel noktaları gezmek de mümkündür. Selamsız Hamamı'na ulaşım, İstanbul'un merkezi bölgelerinden dlıkla sağlanabilir. Toplu taşıma veya özel araçlarla, Üsküdar'a gelerek, ardından plaja kısa bir yürüyüş veya kısa bir yolculukla ulaşılabilir. Ziyaretçilerin, plajda yeterli miktarda zaman geçirmeleri önerilir, çünkü bu bölge sadece bir günün değil, birkaç günün keyfini çıkarmaya yeterli bir yerdir.
+Selamsız Hamamı'na ziyaret için en uygun zaman, genellikle ilkbahar ve yaz aylarıdır. Bu dönemlerde, hava sıcak ve güneşli, deniz suyu ise serin ve sığdır. Ziyaretçiler, plajda güneşlenmek, denizde yüzmek, su sporları yapmak gibi çeşitli aktivitelerden yararlanabilirler. Ayrıca, çevredeki tarihi ve kültürel noktaları gezmek de mümkündür. Selamsız Hamamı'na ulaşım, İstanbul'un merkezi bölgelerinden dlıkla sağlanabilir. Toplu taşıma veya özel araçlarla, Üsküdar'a gelerek, ardından plaja kısa bir yürüyüş veya kısa bir yolculukla ulaşılabilir. Ziyaretçilerin, plajda yeterli miktarda zaman geçirmeleri önerilir, çünkü bu bölge sadece bir günün değil, birkaç günün keyfini çıkarmaya yeterli bir yerdir.
 
 ## İlginç Bilgiler
 

@@ -42,7 +42,7 @@ Güneydoğu Anadolu'nun kalbinde yer alan Kösür Dağı, Osmaniye ilinin sını
 
 Doğal güzelliği ile dikkat çeken Kösür Dağı, jeolojik açıdan da zajímavdır. Ancak, detaylı fiziksel veriler bulunmamasına rağmen, dağın genel yapısı hakkında fikir sahibi olma mümkündür. Örneğin, Kösür Dağı, Eiffel Kulesi'nin 2 katı yükseklikte bir noktaya ulaşmaktadır. Bu yükseklik, bölgedeki diğer dağlarla karşılaştırıldığında, Kösür Dağı'nın önemli bir yükselti olduğu anlaşılabilir.
 
-Mevsimsel özellikler açısından Kösür Dağı, bölgenin genel iklim karakterini yansıtmaktadır. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürmektedir. Bu mevsimsel değişiklikler, bölgedeki ekosistemi şekillendirmekte ve flora ile fauna üzerinde önemli etkiler yaratmaktadır.
+Mevsimsel özellikler açısından Kösür Dağı, bölgenin genel iklim karakterini yansıtmaktadır. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürmektedir. Bu mevsimsel değişiklikler, bölgedeki ekosistemi şekillendirmekte ve flora ile fauna üzerinde önemli etkiler yaratmaktadır.
 
 Bölgenin su kaynakları açısından önemli bir role sahip olan Kösür Dağı, komşu alanlarla birlikte bir bütünü oluşturmaktadır. Monaco'nun yaklaşık olarak altıda biri büyüklüğünde olan bu dağ, bölgedeki diğer coğrafi oluşumlarla birlikte bir ekosistem bağlantısı oluşturmaktadır. Bu bağlantı, bölgenin doğal dengesini korumak açısından büyük önem taşımaktadır.
 

@@ -30,7 +30,7 @@ Burdur-Bucak-Melli Sedir'in tarihi geçmişi, yüzyıllar boyunca şekillenmiş 
 
 ## Coğrafya
 
-Burdur-Bucak-Melli Sedir, coğrafi olarak Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, 140 hektarlık geniş yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde ve bu özelliği ile bölgenin en önemli doğal alanlarından biri. Melli Sedir, Bucak ilçesinde yer alıyor ve Burdur iline yakın mesafede bulunmasıyla ulaşım açısından da kolaylık sağlıyor. Milli park, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini büyülüyor. Coğrafi konumu itibariyle, Melli Sedir'de Akdeniz ikliminin özellikleri göze çarpıyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir iklim hüküm sürüyor. Bu özellikler, milli parkın yıl boyunca ziyaret edilebilir olmasını sağlıyor.
+Burdur-Bucak-Melli Sedir, coğrafi olarak Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, 140 hektarlık geniş yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde ve bu özelliği ile bölgenin en önemli doğal alanlarından biri. Melli Sedir, Bucak ilçesinde yer alıyor ve Burdur iline yakın mesafede bulunmasıyla ulaşım açısından da kolaylık sağlıyor. Milli park, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini büyülüyor. Coğrafi konumu itibariyle, Melli Sedir'de Akdeniz ikliminin özellikleri göze çarpıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir iklim hüküm sürüyor. Bu özellikler, milli parkın yıl boyunca ziyaret edilebilir olmasını sağlıyor.
 
 ## Flora ve Fauna
 

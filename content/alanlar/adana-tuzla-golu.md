@@ -31,7 +31,7 @@ Tuzla Gölü, tarihi geçmişi ile birlikte önemli bir doğal miras olarak kabu
 
 ## Coğrafya
 
-Adana-Tuzla Gölü, Akdeniz Bölgesi'nin coğrafi yapısına uygun olarak yer alıyor. Göl, 140 hektarlık bir alan kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Gölün etrafındaki arazi, genellikle düzlük ve hafif eğimli. Gölün su seviyesi, mevsimsel olarak değişiyor ve yağmur mevsiminde su seviyesi yükseliyor. Gölün suyu, genellikle sodalı ve tuzlu. Gölün etrafındaki bitki örtüsü, genellikle çam, meşe ve zeytin ağaçlarından oluşuyor. Gölün iklimi, Akdeniz iklimi özellikleri gösteriyor ve genellikle sıca ve kurak geçiyor. Gölün coğrafi konumu, ziyaretçilere doğanın güzelliğini deneyimleme fırsatı sunuyor.
+Adana-Tuzla Gölü, Akdeniz Bölgesi'nin coğrafi yapısına uygun olarak yer alıyor. Göl, 140 hektarlık bir alan kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Gölün etrafındaki arazi, genellikle düzlük ve hafif eğimli. Gölün su seviyesi, mevsimsel olarak değişiyor ve yağmur mevsiminde su seviyesi yükseliyor. Gölün suyu, genellikle sodalı ve tuzlu. Gölün etrafındaki bitki örtüsü, genellikle çam, meşe ve zeytin ağaçlarından oluşuyor. Gölün iklimi, Akdeniz iklimi özellikleri gösteriyor ve genellikle sıcak ve kurak geçiyor. Gölün coğrafi konumu, ziyaretçilere doğanın güzelliğini deneyimleme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

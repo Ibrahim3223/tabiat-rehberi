@@ -36,7 +36,7 @@ Gırankale Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu
 
 ## Coğrafya
 
-Gırankale Tepesi, Doğu Anadolu Bölgesi'nde, Erzurum'un coğrafyası içinde yer alıyor. Bu tepe, bölgenin coğrafi özellikleri ile şekillenmiştir. Gırankale Tepesi'nin etrafı, dağlar ve vadiler ile çevrilidir. Bu bölgede, iklim, mevsimsel değişimlere göre farklılık gösteriyor. Gırankale Tepesi, ziyaretçilere, bölgenin coğrafyasını ve doğa güzelliklerini keşfetme imkanı sunuyor. Bu tepe, yaklaşık yüksek bir konumdate ve bu yükseklik, ziyaretçilere geniş bir manzara sunuyor. Gırankale Tepesi'nin coğrafyası, ziyaretçileri etkiliyor ve bölgenin güzelliklerini keşfetmeleri için teşvik ediyor.
+Gırankale Tepesi, Doğu Anadolu Bölgesi'nde, Erzurum'un coğrafyası içinde yer alıyor. Bu tepe, bölgenin coğrafi özellikleri ile şekillenmiştir. Gırankale Tepesi'nin etrafı, dağlar ve vadiler ile çevrilidir. Bu bölgede, iklim, mevsimsel değişimlere göre farklılık gösteriyor. Gırankale Tepesi, ziyaretçilere, bölgenin coğrafyasını ve doğa güzelliklerini keşfetme imkanı sunuyor. Bu tepe, yüksek bir konumda ve bu yükseklik, ziyaretçilere geniş bir manzara sunuyor. Gırankale Tepesi'nin coğrafyası, ziyaretçileri etkiliyor ve bölgenin güzelliklerini keşfetmeleri için teşvik ediyor.
 
 ## Flora ve Fauna
 

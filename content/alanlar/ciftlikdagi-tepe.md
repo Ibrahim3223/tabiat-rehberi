@@ -36,7 +36,7 @@ wikidata_id: "Q34829111"
 
 ## Coğrafya
 
-Çiftlikdağı Tepe, İzmir'in coğrafi yapısını yansıtan önemli bir nokta. Bu tepe, Ege Bölgesi'nin karakteristik coğrafi özellikleri olan dağlar, vadiler ve ovalarla çevrili. Tepe, deniz seviyesinden yaklaşık yüksek bir konumdate bulunuyor. Bu yükseklik, ziyaretçilere geniş bir manzara sunuyor. Çiftlikdağı Tepe'nin coğrafi konumu, ziyaretçilere bölgenin güzelliğini keşfetme fırsatı sunuyor. Tepe, etrafındaki yeşil alanlarla birlikte, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Çiftlikdağı Tepe, coğrafi güzelliği ve doğal zenginliğiyle dikkat çekiyor.
+Çiftlikdağı Tepe, İzmir'in coğrafi yapısını yansıtan önemli bir nokta. Bu tepe, Ege Bölgesi'nin karakteristik coğrafi özellikleri olan dağlar, vadiler ve ovalarla çevrili. Tepe, yüksek bir konumda bulunuyor. Bu yükseklik, ziyaretçilere geniş bir manzara sunuyor. Çiftlikdağı Tepe'nin coğrafi konumu, ziyaretçilere bölgenin güzelliğini keşfetme fırsatı sunuyor. Tepe, etrafındaki yeşil alanlarla birlikte, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Çiftlikdağı Tepe, coğrafi güzelliği ve doğal zenginliğiyle dikkat çekiyor.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ wikidata_id: "Q34829111"
 
 - Çiftlikdağı Tepe, Ege Bölgesi'nin önemli tepe noktalarından biri.
 - Tepe, 140 hektarlık bir alana sahip.
-- Çiftlikdağı Tepe, deniz seviyesinden yaklaşık yüksek bir konumdate bulunuyor.
+- Çiftlikdağı Tepe, yüksek bir konumda bulunuyor.
 - Tepe, yılın her dönemi ziyaret edilebilir.
 - İlkbahar ve sonbahar ayları, tepeyi ziyaret etmek için en ideal zamanlar.

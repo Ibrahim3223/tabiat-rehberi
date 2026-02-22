@@ -36,7 +36,7 @@ Tapır Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu tepe, 
 
 ## Coğrafya
 
-Tapır Tepesi, Niğde ilinin coğrafi yapısı içerisinde yer alıyor. Bu tepe, İç Anadolu Bölgesi'nin genel coğrafi özelliklerini taşıyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Tapır Tepesi'nin coğrafi yapısı, çeşitli bitki türlerinin yetişmesine olanak sağlıyor. Bu bölgede, çoğunlukla step ve otlaklar yer alıyor. Tapır Tepesi, bölgenin önemli su kaynaklarına da yakın bir konumda bulunuyor. Bu tepe, bölgenin doğal güzelliklerini korumak için önemli bir alan olarak görülüyor.
+Tapır Tepesi, Niğde ilinin coğrafi yapısı içerisinde yer alıyor. Bu tepe, İç Anadolu Bölgesi'nin genel coğrafi özelliklerini taşıyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Tapır Tepesi'nin coğrafi yapısı, çeşitli bitki türlerinin yetişmesine olanak sağlıyor. Bu bölgede, çoğunlukla step ve otlaklar yer alıyor. Tapır Tepesi, bölgenin önemli su kaynaklarına da yakın bir konumda bulunuyor. Bu tepe, bölgenin doğal güzelliklerini korumak için önemli bir alan olarak görülüyor.
 
 ## Flora ve Fauna
 

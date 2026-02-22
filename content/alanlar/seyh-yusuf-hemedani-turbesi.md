@@ -37,7 +37,7 @@ Mardin'in Artuklu ilçesinde, Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan
 
 ## Coğrafya
 
-Coğrafi olarak, Şeyh Yusuf Hemedani Türbesi Mardin'in Artuklu ilçesinde yer alıyor. Bölge, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Yüksek platolardan oluşan arazi, ziyaretçilere geniş ve açık manzaralar sunuyor. Türbe ve plajın birleşik konumu, ziyaretçilere hem dini bir deneyim hem de doğal güzellikleri keşfetme fırsatı veriyor. Bölgenin iklimi, genellikle sıca ve kurak yaz ayları ile ılıman ve yağışlı kış aylarından oluşuyor. Bu iklim koşulları, flora ve fauna için uygun bir ortam sağlıyor ve bölgenin biyolojik çeşitliliğini zenginleştiriyor. Çevre, tarihi ve doğal güzelliklerin birleşimi ile ziyaretçilere benzersiz bir deneyim sunuyor.
+Coğrafi olarak, Şeyh Yusuf Hemedani Türbesi Mardin'in Artuklu ilçesinde yer alıyor. Bölge, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Yüksek platolardan oluşan arazi, ziyaretçilere geniş ve açık manzaralar sunuyor. Türbe ve plajın birleşik konumu, ziyaretçilere hem dini bir deneyim hem de doğal güzellikleri keşfetme fırsatı veriyor. Bölgenin iklimi, genellikle sıcak ve kurak yaz ayları ile ılıman ve yağışlı kış aylarından oluşuyor. Bu iklim koşulları, flora ve fauna için uygun bir ortam sağlıyor ve bölgenin biyolojik çeşitliliğini zenginleştiriyor. Çevre, tarihi ve doğal güzelliklerin birleşimi ile ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

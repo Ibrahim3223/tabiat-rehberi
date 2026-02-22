@@ -42,7 +42,7 @@ Mersin'in coğrafi güzelliklerini keşfetmek isteyenler için Karadiken Dağı,
 
 Doğal güzelliklerin bir araya geldiği bu bölgede, Karadiken Dağı'nın fiziksel yapısı dikkat çekiyor. Veriler sınırlı olsa da, bu dağların Mersin'in genel coğrafi yapısı içerisinde önemli bir yer tuttuğu anlaşılıyor. Monaco'nun yarısı kadar bir alanı kaplayan bu dağlar, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor. Jeolojik açıdan bakıldığında, bu bölgenin Türkiye'nin Akdeniz Bölgesi'nin karakteristik özelliklerini taşıdığı görülüyor.
 
-Yaz aylarında sıcaklığın artmasıyla birlikte, Karadiken Dağı'nın iklim karakteri değişiyor. Mevsimsel özellikler, bu bölgenin yıl boyunca farklı hava koşullarına sahip olduğunu gösteriyor. Eiffel Kulesi'nin birkaç katı yükseklikte olan bu dağlar, hava koşullarının değişkenliğini de etkiliyor. Kış aylarında serin ve yağmurlu, yaz aylarında ise sıca ve kurak bir iklim hakim oluyor.
+Yaz aylarında sıcaklığın artmasıyla birlikte, Karadiken Dağı'nın iklim karakteri değişiyor. Mevsimsel özellikler, bu bölgenin yıl boyunca farklı hava koşullarına sahip olduğunu gösteriyor. Eiffel Kulesi'nin birkaç katı yükseklikte olan bu dağlar, hava koşullarının değişkenliğini de etkiliyor. Kış aylarında serin ve yağmurlu, yaz aylarında ise sıcak ve kurak bir iklim hakim oluyor.
 
 Çevresel açıdan bakıldığında, Karadiken Dağı'nın komşu alanlar ve su kaynaklarıyla önemli bir bağlantısı olduğu görülüyor. İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplayan bu dağlar, ekosistem bağlantıları açısından da önemli bir role sahip. Su kaynaklarının zenginliği ve çeşitliliği, bu bölgenin doğal güzelliklerini koruma altına almak için önemli bir neden olarak görülüyor.
 

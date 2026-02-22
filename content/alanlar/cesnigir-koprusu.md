@@ -38,7 +38,7 @@ wikidata_id: "Q19613355"
 
 ## Coğrafya
 
-Çeşnigir Köprüsü, Karakeçili ilçe sınırları içerisinde, Kırıkkale ilinin merkezine uzun bir mesafe uzaklıkta yer almakta. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşımakta. İklim, karasal iklim özellikleri göstermekte. Kışlar soğu ve yağışlı, yazlar ise sıcak ve kurak passing. Bu nedenle, Çeşnigir Köprüsü'nü ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar ayları. Bu aylarda, hava koşulları daha uygun olmakta. Çeşnigir Köprüsü, 140 hektarlık bir alana yayılmış durumda. Bu alan, çeşitli bitki türleri ve yaban hayatı ile zengin. Ayrıca, köprü yakınlarında, bazı tarihi yapılar ve kalıntılar bulunmakta. Bu nedenle, Çeşnigir Köprüsü, hem doğa severlerin hem de tarih meraklılarının ziyaret etmesi gereken bir yer.
+Çeşnigir Köprüsü, Karakeçili ilçe sınırları içerisinde, Kırıkkale ilinin merkezine uzun bir mesafe uzaklıkta yer almakta. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşımakta. İklim, karasal iklim özellikleri göstermekte. Kışlar soğuk ve yağışlı, yazlar ise sıcak ve kurak passing. Bu nedenle, Çeşnigir Köprüsü'nü ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar ayları. Bu aylarda, hava koşulları daha uygun olmakta. Çeşnigir Köprüsü, 140 hektarlık bir alana yayılmış durumda. Bu alan, çeşitli bitki türleri ve yaban hayatı ile zengin. Ayrıca, köprü yakınlarında, bazı tarihi yapılar ve kalıntılar bulunmakta. Bu nedenle, Çeşnigir Köprüsü, hem doğa severlerin hem de tarih meraklılarının ziyaret etmesi gereken bir yer.
 
 ## Flora ve Fauna
 

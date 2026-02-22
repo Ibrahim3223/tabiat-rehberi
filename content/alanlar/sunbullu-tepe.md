@@ -44,7 +44,7 @@ Güneydoğu Akdeniz Bölgesi'nde yer alan Sünbüllü Tepe, Hatay ilinin coğraf
 
 Doğal güzelliği ve jeolojik yapısı ile dikkat çeken Sünbüllü Tepe, coğrafi olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu büyüklük, İstanbul'un bazı semtlerinin birkaç katı kadar bir alanı temsil ediyor. Ancak, fiziksel verilerin sınırlı olması nedeniyle, Sünbüllü Tepe'nin tam olarak boyutları ve şekli hakkında net bilgi bulunmuyor.
 
-İklim açısından bakıldığında, Sünbüllü Tepe'nin bulunduğu bölgenin Akdeniz ikliminin karakteristik özelliklerini taşıdığı söylenebilir. Yaz aylarında sıca ve kurak, kış aylarında ılık ve yağışlı bir hava durumu hakim. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler.
+İklim açısından bakıldığında, Sünbüllü Tepe'nin bulunduğu bölgenin Akdeniz ikliminin karakteristik özelliklerini taşıdığı söylenebilir. Yaz aylarında sıcak ve kurak, kış aylarında ılık ve yağışlı bir hava durumu hakim. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler.
 
 Çevresel açıdan bakıldığında, Sünbüllü Tepe'nin komşu alanlar ile olan ilişkisi dikkat çekiyor. Bölge, çeşitli su kaynaklarına ve ekosistemlere ev sahipliği yapıyor. Sünbüllü Tepe, Monaco'nun yaklaşık yarısı kadar bir alanı kaplayan Hatay'ın doğal güzellikleri arasında önemli bir yer tutuyor. Bu coğrafi bağlantı, bölgenin ekolojik dengesini koruma açısından önemli bir rol oynuyor.
 

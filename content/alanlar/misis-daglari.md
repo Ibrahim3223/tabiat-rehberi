@@ -42,7 +42,7 @@ Doğal güzelliği ve coğrafi konumuyla dikkat çeken Misis Dağları, bölgeni
 Ancak, Misis Dağları hakkında fiziksel veriler sınırlıdır. 
 Bu dağ sırasının yüksekliği ve genişliği hakkında net bilgiler bulunmamaktadır. 
 
-Yaz aylarında sıca ve kurak, kış aylarında ılık ve yağışlı bir iklime sahip olan Misis Dağları, bölgenin iklim karakterini belirler. 
+Yaz aylarında sıcak ve kurak, kış aylarında ılık ve yağışlı bir iklime sahip olan Misis Dağları, bölgenin iklim karakterini belirler. 
 Bu dağ sırası, Akdeniz iklimininini taşır ve mevsimsel değişimler gösterir. 
 
 Misis Dağları, komşu alanlar ve su kaynakları ile bağlantılı bir ekosistemdir. 

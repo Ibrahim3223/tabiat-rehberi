@@ -45,7 +45,7 @@ Güneydoğu Anadolu'nun coğrafi zenginliklerini keşfederken, Şırnak ilinin �
 
 Doğal oluşumların çeşitliliği açısından zengin olan Kurt Dağı, jeolojik açıdan da ilgi çekici özellikler taşıyor. Ancak, ayrıntılı fiziksel verilerin bulunmaması nedeniyle, dağın boyutları ve şekli hakkında net bilgiler bulunmuyor. Buna rağmen, bölgenin genel coğrafi yapısı, Kurt Dağı'nın önemli bir yükseklikte olduğunu ve çevresindeki alanlardan belirgin bir şekilde ayrıldığını gösteriyor. Eiffel Kulesi'nin birkaç katı yükseklikte olan bu dağ, bölgenin coğrafi yapısını şekillendiren önemli bir unsurdur.
 
-Mevesimlik değişimlerin yaşandığı bir bölge olan Güneydoğu Anadolu, iklim açısından da çeşitlilik gösteriyor. Kurt Dağı'nın bulunduğu bölgede, yaz aylarında sıca ve kurak bir hava hüküm sürerken, kış aylarında soğu ve yağışlı bir hava görülüyor. Bu mevsimsel değişimler, bölgenin ekosistemini şekillendiren önemli bir faktör olarak ortaya çıkıyor.
+Mevesimlik değişimlerin yaşandığı bir bölge olan Güneydoğu Anadolu, iklim açısından da çeşitlilik gösteriyor. Kurt Dağı'nın bulunduğu bölgede, yaz aylarında sıcak ve kurak bir hava hüküm sürerken, kış aylarında soğuk ve yağışlı bir hava görülüyor. Bu mevsimsel değişimler, bölgenin ekosistemini şekillendiren önemli bir faktör olarak ortaya çıkıyor.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları açısından da önemli bir role sahip olan Kurt Dağı, çevresindeki alanlarla da  bir şekilde bağlantılı. Monaco'nun yarısı kadar bir alana sahip olan bu dağ, çevresindeki diğer doğal oluşumlarla birlikte, bölgenin doğal dengesini koruyor. Bu doğal denge, bölgenin flora ve fauna çeşitliliğini korumak açısından son derece önemli bir role sahip.
 

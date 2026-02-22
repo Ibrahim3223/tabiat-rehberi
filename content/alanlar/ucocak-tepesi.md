@@ -36,7 +36,7 @@ wikidata_id: "Q34820564"
 
 ## Coğrafya
 
-Üçocak Tepesi, Hatay ilinin coğrafi yapısında önemli bir yere sahip. Tepenin yüksekliği, çevredeki diğer tepelerden slightly daha fazla ve bu nedenle, tepeden panoramik bir manzara izlenebiliyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bölgenin iklimi, Akdeniz iklimi özellikleri gösteriyor ve bu nedenle, yaz ayları sıca ve kurak, kış ayları ise ılıman ve yağışlı geçiyor. Üçocak Tepesi, coğrafi konumu ve doğal güzelliği nedeniyle, ziyaretçilerin ilgisini çekiyor.
+Üçocak Tepesi, Hatay ilinin coğrafi yapısında önemli bir yere sahip. Tepenin yüksekliği, çevredeki diğer tepelerden slightly daha fazla ve bu nedenle, tepeden panoramik bir manzara izlenebiliyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bölgenin iklimi, Akdeniz iklimi özellikleri gösteriyor ve bu nedenle, yaz ayları sıcak ve kurak, kış ayları ise ılıman ve yağışlı geçiyor. Üçocak Tepesi, coğrafi konumu ve doğal güzelliği nedeniyle, ziyaretçilerin ilgisini çekiyor.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden Van'a göz atarken, Kepirdağı Te
 
 Jeolojik açıdan bakıldığında, Kepirdağı Tepe'nin fiziksel yapısı hakkında cụretilen bilgilerin sınırlı oluşu dikkat çekiyor. Ancak, tepeyi çevreleyen coğrafya, geniş ve dalgalı bir araziden oluşuyor. Bu dağlık bölge, Van Gölü'nün güneybatı kıyılarına kadar uzanıyor. Kepirdağı Tepe, bu geniş arazinin bir parçası olarak, bölgenin jeolojik yapısını şekillendiren etkenlerin bir sonucu olarak ortaya çıkmış gibi görünüyor.
 
-Mevsimsel değişimler açısından, Kepirdağı Tepe'nin bulunduğu bölge, karasal iklimin hüküm sürdüğü bir alan. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakim. Bu mevsimsel özellikler, tepe ve çevresinin flora ve fauna açısından zengin bir çeşitliliğe sahip olmasını sağlıyor. Bölgeyi ziyaret etmek isteyenler, mevsimsel değişimlere göre planlarını yapabilirler.
+Mevsimsel değişimler açısından, Kepirdağı Tepe'nin bulunduğu bölge, karasal iklimin hüküm sürdüğü bir alan. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakim. Bu mevsimsel özellikler, tepe ve çevresinin flora ve fauna açısından zengin bir çeşitliliğe sahip olmasını sağlıyor. Bölgeyi ziyaret etmek isteyenler, mevsimsel değişimlere göre planlarını yapabilirler.
 
 Komşu alanlar ve su kaynakları açısından bakıldığında, Kepirdağı Tepe, Van Gölü'ne yakınlığıyla dikkat çekiyor. Bu göl, Türkiye'nin en büyük gölü ve bölgenin su kaynaklarının önemli bir kısmını oluşturuyor. Tepe, Van Gölü'nün batısında yer aldığı için, gölün su seviyesindeki değişimler, tepe ve çevresinin ekosistemini etkileyebiliyor. Bu nedenle, Kepirdağı Tepe, bölgenin su kaynakları ve ekosistem bağlantıları açısından önemli bir nokta olarak görülüyor.
 

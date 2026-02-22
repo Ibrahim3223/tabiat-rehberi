@@ -44,7 +44,7 @@ Doğunun gizli köşelerinde, 36.9658°K ve 38.7325°D koordinatlarında yer ala
 
 Jeolojik açıdan incelendiğinde, Gora Khalladzhmansur'un coğrafi yapısı hakkında detaylı bilgiler bulunmasa da, genel olarak bu bölgedeki dağların kireçtaşı ve volkanik kayaçlardan oluştuğu bilinmektedir. Bu dağların oluşumu, milyon yıllarca süren tektonik hareketler ve volkanik faaliyetlerin sonucudur. Gora Khalladzhmansur'un boyutları hakkında net bir veri olmasa da, bölgenin coğrafi yapısı, Monaco'nun yarısı kadar bir alanı kaplayabilecek büyüklükte dağlarla dolu.
 
-Mevsimsel olarak bakıldığında, Gora Khalladzhmansur bölgesinin iklimi, güneydoğu Anadolu'nun genel iklim karakterine uygun olarak kura ve sıcak yazlar, soğu ve yağışlı kışlar ile karakterize edilir. Bu bölgede, yaz aylarında sıcaklık 40 dereceye kadar çıkabilirken, kış aylarında -10 dereceye kadar düşebilir. Hava durumu, bölgenin coğrafi yapısı ve yükseklik nedeniyle oldukça değişken olabilir.
+Mevsimsel olarak bakıldığında, Gora Khalladzhmansur bölgesinin iklimi, güneydoğu Anadolu'nun genel iklim karakterine uygun olarak kura ve sıcak yazlar, soğuk ve yağışlı kışlar ile karakterize edilir. Bu bölgede, yaz aylarında sıcaklık 40 dereceye kadar çıkabilirken, kış aylarında -10 dereceye kadar düşebilir. Hava durumu, bölgenin coğrafi yapısı ve yükseklik nedeniyle oldukça değişken olabilir.
 
 Çevresel açıdan, Gora Khalladzhmansur bölgesi, birçok su kaynağına ev sahipliği yapmaktadır. Bölgede yer alan dereler ve çaylar, Fırat Nehri'ne dökülen önemli su kaynaklarıdır. Ayrıca, bu bölgenin ekosistemi, çeşitli bitki ve hayvan türleri ile zengin bir biyolojik çeşitlilik sunar. Gora Khalladzhmansur, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini korumak için önemli bir role sahiptir.
 

@@ -45,7 +45,7 @@ Koordinatları 41.0250°K, 29.0145°D olan Yeni Valide Camii Yangın Havuzu, İs
 
 Doğal ve yapay unsurların birleştiği bu noktada, fiziksel yapı hakkında detaylı bilgi olmamasına rağmen, konumu itibariyle, İstanbul'un karmaşık jeolojisine uyumlu bir şekilde tasarlandığı anlaşılıyor. Birkaç olimpik havuz kadar büyüklüğe sahip olan bu havuz, şehrin su kaynaklarına katkıda bulunuyor.
 
-İklimsel olarak, İstanbul'un karasal ikliminin etkilerini taşıyan bu bölge, mevsimsel değişikliklere uyum gösteren bir yapıya sahip. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve nemli bir hava karakteri hakim. Bu mevsimsel özellikler, havuzun su seviyesini ve çevresindeki bitkilerin büyümesini etkiliyor.
+İklimsel olarak, İstanbul'un karasal ikliminin etkilerini taşıyan bu bölge, mevsimsel değişikliklere uyum gösteren bir yapıya sahip. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve nemli bir hava karakteri hakim. Bu mevsimsel özellikler, havuzun su seviyesini ve çevresindeki bitkilerin büyümesini etkiliyor.
 
 Çevresel açıdan bakıldığında, Yeni Valide Camii Yangın Havuzu, komşu alanlarla ve su kaynaklarıyla bağlantılı bir yapıya sahip. Taksim Meydanı'nın birkaç katı büyüklüğündeki bu alan, şehrin ekosistemine katkıda bulunarak, doğal dengenin korunmasına yardımcı oluyor. Bu bağlamda, havuzun çevresindeki yeşil alanlar ve su kaynakları, şehrin canlılarına yaşam alanı sunuyor.
 

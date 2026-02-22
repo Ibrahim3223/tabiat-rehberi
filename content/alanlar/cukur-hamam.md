@@ -38,7 +38,7 @@ wikidata_id: "Q131738702"
 
 ## Coğrafya
 
-Çukur Hamam, Manisa'nın Şehzadeler ilçesinde, Ege Bölgesi'nin kıyı şeridinde yer alır. Bu bölge, deniz seviyesinden yaklaşık yüksek bir konumdate ve çevresi dağlarla çevrilidir. Çukur Hamam'ın coğrafi konumu, ziyaretçilere Ege Denizi'nin tüm güzelliğini sunar. Plajın etrafı, çeşitli bitki türleri ile kaplıdır ve bu bitkiler, bölgeye özgü flora olarak kabul edilir. Çukur Hamam'ın iklimi, tipik Akdeniz iklimidir, yani yaz ayları sıca ve kurak, kış ayları ise ılıman ve yağışlıdır. Bu bölge, zengin fauna ile de dikkat çeker, özellikle kuş türleri ve deniz canlıları, bölgeye özgü fauna olarak kabul edilir.
+Çukur Hamam, Manisa'nın Şehzadeler ilçesinde, Ege Bölgesi'nin kıyı şeridinde yer alır. Bu bölge, yüksek bir konumda ve çevresi dağlarla çevrilidir. Çukur Hamam'ın coğrafi konumu, ziyaretçilere Ege Denizi'nin tüm güzelliğini sunar. Plajın etrafı, çeşitli bitki türleri ile kaplıdır ve bu bitkiler, bölgeye özgü flora olarak kabul edilir. Çukur Hamam'ın iklimi, tipik Akdeniz iklimidir, yani yaz ayları sıcak ve kurak, kış ayları ise ılıman ve yağışlıdır. Bu bölge, zengin fauna ile de dikkat çeker, özellikle kuş türleri ve deniz canlıları, bölgeye özgü fauna olarak kabul edilir.
 
 ## Flora ve Fauna
 

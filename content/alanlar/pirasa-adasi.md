@@ -44,7 +44,7 @@ Pırasa Adası, bölgenin tarihini ve kültürünü anlamak için önemli bir no
 
 Jeolojik açıdan bakıldığında, Pırasa Adası'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, ada genel olarak Ege Denizi'ndeki diğer adalar gibi kireç taşı ve volkanik kayaçlardan oluşuyor. Ada, Ege Denizi'nin sakin suları üzerinde yer alıyor ve etrafındaki su kaynakları, ada için hayati önem taşıyor. Ada, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor, ancak küçük boyutuna rağmen, doğal güzelliği ve sakin atmosferi ile ziyaretçilerini cezbediyor.
 
-Mevsimsel açıdan, Pırasa Adası, Ege Denizi'nin genel iklim karakterini paylaşıyor. Yaz aylarında sıca ve güneşli bir hava hakimken, kış aylarında ılıman ve yağışlı bir iklim görülüyor. Ada, Eiffel Kulesi'nin birkaç katı yükseklikte olmayan, düşük bir rakıma sahip ve bu nedenle, ada etrafındaki su sıcaklığı, yıl boyunca nispeten sabit kalıyor.
+Mevsimsel açıdan, Pırasa Adası, Ege Denizi'nin genel iklim karakterini paylaşıyor. Yaz aylarında sıcak ve güneşli bir hava hakimken, kış aylarında ılıman ve yağışlı bir iklim görülüyor. Ada, Eiffel Kulesi'nin birkaç katı yükseklikte olmayan, düşük bir rakıma sahip ve bu nedenle, ada etrafındaki su sıcaklığı, yıl boyunca nispeten sabit kalıyor.
 
 Çevresel açıdan, Pırasa Adası, İzmir'in diğer ada ve yarımadalarıyla birlikte, bir ekosistem ağını oluşturuyor. Ada, komşu alanlar ve su kaynaklarıyla bağlantılı ve bu bağlantılar, ada için hayati önem taşıyor. Monaco'nun küçük bir bölümü büyüklüğünde olan Pırasa Adası, doğal güzelliği ve sakin atmosferi ile ziyaretçilerini cezbediyor ve Ege Denizi'ndeki diğer adalar gibi, bir ekosistem olarak önemli bir rol oynuyor.
 

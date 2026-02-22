@@ -30,7 +30,7 @@ Mersin-Bozyazi-Kozagaci Sedir Milli Parkı'nın tarihi, bölgenin coğrafi yapı
 
 ## Coğrafya
 
-Mersin-Bozyazi-Kozagaci Sedir Milli Parkı, İç Anadolu Bölgesi'nin güneydoğu ucunda, Akdeniz kıyısında yer alır. Parkın coğrafi yapısı, sedir ağaçlarının yoğunlukta bulunduğu bir bölge olarak karakterizedir. Bu sedir ağaçları, parkın iklimini düzenlemede önemli bir rol oynar ve aynı zamanda bölgenin florası ve faunası açısından da büyük bir önem taşır. Parkın coğrafi konumu, aynı zamanda ziyaretçilerin bölgenin diğer doğal güzelliklerini keşfetmesine olanak tanır. Örneğin, parkın yakınında yer alan Toros Dağları, ziyaretçilere doğa yürüyüşleri ve dağ bisikleti gibi aktiviteleri sunar. Parkın coğrafi yapısı, ayrıca bölgenin iklimini de etkiler. Parkın bulunduğu bölge, Akdeniz ikliminin karakteristik özelliklerini taşır ve genellikle sıca ve kuru bir iklimi vardır. Bu iklim koşulları, sedir ağaçlarının büyümesi için ideal koşulları sağlar. Parkın coğrafi konumu ve iklimi, aynı zamanda bölgenin florası ve faunasının çeşitliliğini de etkiler. Örneğin, parkta yer alan bazı bitki türleri, sadece bu bölgede bulunur ve parkın coğrafi konumu, bu türlerin korunmasına yardımcı olur.
+Mersin-Bozyazi-Kozagaci Sedir Milli Parkı, İç Anadolu Bölgesi'nin güneydoğu ucunda, Akdeniz kıyısında yer alır. Parkın coğrafi yapısı, sedir ağaçlarının yoğunlukta bulunduğu bir bölge olarak karakterizedir. Bu sedir ağaçları, parkın iklimini düzenlemede önemli bir rol oynar ve aynı zamanda bölgenin florası ve faunası açısından da büyük bir önem taşır. Parkın coğrafi konumu, aynı zamanda ziyaretçilerin bölgenin diğer doğal güzelliklerini keşfetmesine olanak tanır. Örneğin, parkın yakınında yer alan Toros Dağları, ziyaretçilere doğa yürüyüşleri ve dağ bisikleti gibi aktiviteleri sunar. Parkın coğrafi yapısı, ayrıca bölgenin iklimini de etkiler. Parkın bulunduğu bölge, Akdeniz ikliminin karakteristik özelliklerini taşır ve genellikle sıcak ve kuru bir iklimi vardır. Bu iklim koşulları, sedir ağaçlarının büyümesi için ideal koşulları sağlar. Parkın coğrafi konumu ve iklimi, aynı zamanda bölgenin florası ve faunasının çeşitliliğini de etkiler. Örneğin, parkta yer alan bazı bitki türleri, sadece bu bölgede bulunur ve parkın coğrafi konumu, bu türlerin korunmasına yardımcı olur.
 
 ## Flora ve Fauna
 
@@ -46,4 +46,4 @@ Mersin-Bozyazi-Kozagaci Sedir Milli Parkı, ziyaretçilerine doğa yürüyüşle
 - Parkın florası, sedir ağaçlarının yanı sıra, çeşitli diğer bitki türlerini de içerir.
 - Parkta yer alan bazı hayvan türleri, sedir ağaçlarının meyveleriyle beslenir ve parkın ekosisteminin dengesini sağlar.
 - Parkın coğrafi konumu, aynı zamanda ziyaretçilerin bölgenin diğer doğal güzelliklerini keşfetmesine olanak tanır.
-- Parkın iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır ve genellikle sıca ve kuru bir iklimi vardır.
+- Parkın iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır ve genellikle sıcak ve kuru bir iklimi vardır.

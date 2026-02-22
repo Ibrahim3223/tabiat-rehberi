@@ -37,7 +37,7 @@ wikidata_id: "Q131391497"
 
 ## Coğrafya
 
-Şeyh Hadin Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak kurulmuş bir alandır. Bu bölge, genellikle sıca ve kurak bir iklim karakterine sahiptir. Şeyh Hadin Türbesi, denize yakın bir konumda bulunması nedeniyle, ziyaretçilerine serin ve ferah bir ortam sunuyor. Türbe ve plajın etrafındaki coğrafi yapı, genellikle düzlük ve hafif eğimli arazilerden oluşuyor. Bu coğrafi özellikler, ziyaretçilere geniş ve yeşil alanlar sunuyor. Şeyh Hadin Türbesi'nin konumu, aynı zamanda bölgenin diğer önemli tarihi ve doğal mekanlarına da yakın mesafede bulunuyor. Bu nedenle, ziyaretçiler Şeyh Hadin Türbesi'ni ziyaret ederken, aynı zamanda bölgenin diğer güzelliklerini de keşfedebilirler.
+Şeyh Hadin Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak kurulmuş bir alandır. Bu bölge, genellikle sıcak ve kurak bir iklim karakterine sahiptir. Şeyh Hadin Türbesi, denize yakın bir konumda bulunması nedeniyle, ziyaretçilerine serin ve ferah bir ortam sunuyor. Türbe ve plajın etrafındaki coğrafi yapı, genellikle düzlük ve hafif eğimli arazilerden oluşuyor. Bu coğrafi özellikler, ziyaretçilere geniş ve yeşil alanlar sunuyor. Şeyh Hadin Türbesi'nin konumu, aynı zamanda bölgenin diğer önemli tarihi ve doğal mekanlarına da yakın mesafede bulunuyor. Bu nedenle, ziyaretçiler Şeyh Hadin Türbesi'ni ziyaret ederken, aynı zamanda bölgenin diğer güzelliklerini de keşfedebilirler.
 
 ## Flora ve Fauna
 

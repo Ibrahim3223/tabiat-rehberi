@@ -37,7 +37,7 @@ Büyükaslıhanlar Üçtepeler Şehitliği, tarihin derin izlerini taşıyan bir
 
 ## Coğrafya
 
-Büyükaslıhanlar Üçtepeler Şehitliği, Kütahya'nın Dumlupınar ilçesinde, Ege Bölgesi'nin coğrafi olarak zengin bir bölümünde yer alıyor. Bu bölge, yeşilin her tonunu barındıran geniş araziler, tepe ve vadilerle çevrili. Şehitlik, bir tepe üzerine kurulmuş ve buradan bakıldığında manzarası ile ziyaretçilerini büyülüyor. Coğrafi olarak önemli bir konuma sahip olan bu alan, aynı zamanda iklim olarak da dikkat çekici. Ege Bölgesi'nin karakteristik iklimine sahip, yazları sıca ve kurak, kışları ise ılıman ve yağışlı bir hava hüküm sürüyor. Bu coğrafi ve iklimsel özellikler, Büyükaslıhanlar Üçtepeler Şehitliği'nin hem doğal güzelliğini hem de tarihsel önemini vurguluyor.
+Büyükaslıhanlar Üçtepeler Şehitliği, Kütahya'nın Dumlupınar ilçesinde, Ege Bölgesi'nin coğrafi olarak zengin bir bölümünde yer alıyor. Bu bölge, yeşilin her tonunu barındıran geniş araziler, tepe ve vadilerle çevrili. Şehitlik, bir tepe üzerine kurulmuş ve buradan bakıldığında manzarası ile ziyaretçilerini büyülüyor. Coğrafi olarak önemli bir konuma sahip olan bu alan, aynı zamanda iklim olarak da dikkat çekici. Ege Bölgesi'nin karakteristik iklimine sahip, yazları sıcak ve kurak, kışları ise ılıman ve yağışlı bir hava hüküm sürüyor. Bu coğrafi ve iklimsel özellikler, Büyükaslıhanlar Üçtepeler Şehitliği'nin hem doğal güzelliğini hem de tarihsel önemini vurguluyor.
 
 ## Flora ve Fauna
 

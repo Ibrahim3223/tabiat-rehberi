@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Anav Tepe, 37.9994°K ve 41.2772°D koor
 
 Boyutları hakkında detaylı bilgi olmasa da, Anav Tepe'nin konumu ve coğrafi özellikleri, onu bir şehir bloğu büyüklüğünde bir alana benzetmemizi sağlıyor. Bu küçük ama önemli alan, Batman'ın dağlık arazisinin bir parçası ve bölgenin jeolojik yapısını yansıtıyor. Anav Tepe'nin yüksekliği ve şekli, bölgenin genel coğrafi özelliklerini yansıtıyor ve Eiffel Kulesi'nin birkaç katı yükseklikte olan dağların bir parçası gibi görünüyor.
 
-İklim açısından bakıldığında, Anav Tepe'nin bulunduğu bölge, güneydoğu Anadolu'nun karakteristik iklimini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir hava hakim. Bu mevsimsel değişiklikler, bölgenin flora ve fauna'sını şekillendirmiş ve Anav Tepe'nin ekosistemini etkilemiştir.
+İklim açısından bakıldığında, Anav Tepe'nin bulunduğu bölge, güneydoğu Anadolu'nun karakteristik iklimini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir hava hakim. Bu mevsimsel değişiklikler, bölgenin flora ve fauna'sını şekillendirmiş ve Anav Tepe'nin ekosistemini etkilemiştir.
 
 Anav Tepe, Batman'ın dağlık bölgesinin bir parçası olarak, çevresindeki su kaynakları ve ekosistemlerle bağlantılıdır. Bölge, Fırat Nehri'nin kolları ve diğer su kaynakları tarafından sulanmakta ve bu su kaynakları, Anav Tepe'nin doğal güzelliklerini ve biyolojik çeşitliliğini desteklemektedir. Bu bağlamda, Anav Tepe, bölgenin doğal dengesini koruma ve ekosistemlerin sağlıklı bir şekilde işlemesini sağlamak için önemli bir rol oynuyor.
 

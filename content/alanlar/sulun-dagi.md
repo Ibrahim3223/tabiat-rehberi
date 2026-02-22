@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Sülün Dağı, 38.1000° kuzey enlemi v
 
 Sülün Dağı'nın fiziksel yapısına baktığımızda, detaylı veri olmasa da, koordinatlarından hareketle, bu dağın bölgedeki diğer coğrafi oluşumlarla birlikte nasıl bir bütün oluşturduğunu hayal edebiliriz. Monaco'nun yarısı kadar bir alana sahip olmasa da, Sülün Dağı'nın boyutları, çevresindeki coğrafi yapılarla birlikte, bir şehir bloğu büyüklüğünde bir alanı kaplıyor gibi düşünülebilir.
 
-İklim açısından bakıldığında, Sülün Dağı'nın bulunduğu bölge, Van'ın genel iklim karakterini yansıtıyor. Bölge, karasal iklimin etkilerini taşıyor ve mevsimsel olarak önemli farklılıklar gösteriyor. Kış aylarında soğu ve kar yağışlı bir hava, yaz aylarında ise ılıman ve güneşli bir hava hakim oluyor. Bu mevsimsel değişimler, Sülün Dağı'nın flora ve fauna açısından zengin bir çeşitlilik göstermesine katkıda bulunuyor.
+İklim açısından bakıldığında, Sülün Dağı'nın bulunduğu bölge, Van'ın genel iklim karakterini yansıtıyor. Bölge, karasal iklimin etkilerini taşıyor ve mevsimsel olarak önemli farklılıklar gösteriyor. Kış aylarında soğuk ve kar yağışlı bir hava, yaz aylarında ise ılıman ve güneşli bir hava hakim oluyor. Bu mevsimsel değişimler, Sülün Dağı'nın flora ve fauna açısından zengin bir çeşitlilik göstermesine katkıda bulunuyor.
 
 Çevresel açıdan, Sülün Dağı, Van Gölü ve çevresindeki ovalarla birlikte bir ekosistem oluşturuyor. Bu bölgede, su kaynakları ve doğal yaşam alanları, Sülün Dağı'nın varlığıyla birlikte korunuyor. Dağın eteklerinde ve çevresinde, çeşitli bitki türleri ve hayvan popülasyonları, bu coğrafi oluşumun bir parçası olarak yaşamlarını sürdürüyor. Bu geniş ve çeşitli ekosistem, Sülün Dağı'nın doğal güzelliğini ve önemini daha da artırıyor.
 

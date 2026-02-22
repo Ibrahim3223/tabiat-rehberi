@@ -38,7 +38,7 @@ Amasya Hamamı'nın tarihi geçmişi, bölgenin genel tarihi ile paralel olarak 
 
 ## Coğrafya
 
-Coğrafi olarak Amasya Hamamı, Ege Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, genellikle sıca ve kurak yazlar, ılıman ve yağışlı kışlar ile bilinen Akdeniz ikliminin etkisindedir. Amasya Hamamı'nın bulunduğu Bozdoğan ilçesi, dağlık ve engebeli bir araziye sahiptir. İlçe, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölgenin coğrafi yapısı, ziyaretçilere doğa yürüyüşleri, deniz keyfi ve diğer açık hava etkinlikleri için geniş olanaklar sunar. Amasya Hamamı, bu coğrafi çeşitlilik içinde, denize girme ve güneşlenme imkânları sunan bir plaj olarak dikkat çeker.
+Coğrafi olarak Amasya Hamamı, Ege Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, genellikle sıcak ve kurak yazlar, ılıman ve yağışlı kışlar ile bilinen Akdeniz ikliminin etkisindedir. Amasya Hamamı'nın bulunduğu Bozdoğan ilçesi, dağlık ve engebeli bir araziye sahiptir. İlçe, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölgenin coğrafi yapısı, ziyaretçilere doğa yürüyüşleri, deniz keyfi ve diğer açık hava etkinlikleri için geniş olanaklar sunar. Amasya Hamamı, bu coğrafi çeşitlilik içinde, denize girme ve güneşlenme imkânları sunan bir plaj olarak dikkat çeker.
 
 ## Flora ve Fauna
 

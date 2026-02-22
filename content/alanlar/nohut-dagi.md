@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin kalbinde yer alan Nohut Dağı, 38.3325°K ve 38.5325
 
 Jeolojik açıdan bakıldığında, Nohut Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, bu bölgenin genel coğrafi yapısı düşünüldüğünde, dağlık bir araziye sahip olduğu söylenebilir. Tıpkı bir şehir bloğu büyüklüğünde olan küçük bir ada gibi, Nohut Dağı da kendi içinde farklı coğrafi özellikler barındırmaktadır. Ancak, bu dağın yüksekliği ya da genişliği hakkında net bir veri bulunmaması, onun gerçek boyutlarını tam olarak anlamamızı engellemektedir.
 
-İklim açısından Nohut Dağı, Doğu Anadolu Bölgesi'nin karasal ikliminin etkilerini taşır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bazı zirveler, bu bölgede mevsimsel hava koşullarının nasıl değişebileceğini göstermektedir. Bu yükseklikte, hava koşulları daha sert ve değişken olabilir.
+İklim açısından Nohut Dağı, Doğu Anadolu Bölgesi'nin karasal ikliminin etkilerini taşır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bazı zirveler, bu bölgede mevsimsel hava koşullarının nasıl değişebileceğini göstermektedir. Bu yükseklikte, hava koşulları daha sert ve değişken olabilir.
 
 Çevresel açıdan bakıldığında, Nohut Dağı, Malatya ilinin diğer doğal güzellikleriyle birlikte bir bütünü oluşturur. Monaco'nun yarısı kadar büyük bir alana sahip olmayan bu dağ, yine de önemli bir ekosistemdir. Su kaynakları ve komşu alanlar, bu bölgenin doğal dengesini korumasında önemli rol oynar. Nohut Dağı, diğer coğrafi oluşumlarla birlikte, bölgenin biyolojik çeşitliliğini destekler ve korur.
 

@@ -50,7 +50,7 @@ Doğal kaynaklar açısından, Kılavuz Dağı ve çevresindeki bölge, su kayna
 
 Kılavuz Dağı, Diyarbakır'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliği bulunur. İlkbaharın gelmesiyle birlikte, dağ yamaçları çeşitli çiçeklerle renklenir ve step ekosisteminin karakteristik bitkileri görülür. 
 
-Yaban hayatını oluşturan memeliler, kuşlar ve sürüngenler, bu dağ ekosisteminin önemli bileşenleridir. Dağ keçileri ve yaban keçileri dağlık alanlarda yaşarken, çeşitli kuş türleri göç mevsimlerinde bu bölgeyi ziyaret eder. Sürüngenler ise, sıca ve kurak bölgelerde daha çok görülür.
+Yaban hayatını oluşturan memeliler, kuşlar ve sürüngenler, bu dağ ekosisteminin önemli bileşenleridir. Dağ keçileri ve yaban keçileri dağlık alanlarda yaşarken, çeşitli kuş türleri göç mevsimlerinde bu bölgeyi ziyaret eder. Sürüngenler ise, sıcak ve kurak bölgelerde daha çok görülür.
 
 Kılavuz Dağı, bölgenin ekolojik dengesini koruması açısından önemli bir role sahiptir. Bu alanın korunması, hem yerel fauna hem de flora için hayati öneme sahiptir.
 

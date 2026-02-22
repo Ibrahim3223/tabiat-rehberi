@@ -37,7 +37,7 @@ Eroğlu Nuri Yahşi Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanı
 
 ## Coğrafya
 
-Eroğlu Nuri Yahşi Türbesi, Finike/Antalya'da yer alan bir bölgede bulunuyor. Bu région, Akdeniz Bölgesi'nin önemli bir parçasını oluşturuyor. Türbe ve plaj, deniz seviyesinde ve kıyı şeridinde yer alıyor. Bölgenin coğrafi yapısı, dağlar, ovalar ve kıyı şeridi ile çeşitlilik gösteriyor. İklim, Akdeniz iklimi özellikleri gösteriyor; yazlar sıca ve kurak, kışlar ılık ve yağışlı geçiyor. Bu bölge, flora ve fauna açısından da zengin bir çeşitliliğe sahip. Deniz suyu, temiz ve berrak; plaj, kumlu ve geniş. Eroğlu Nuri Yahşi Türbesi ve plajı, doğal güzellikleri ile dikkat çekiyor ve birçok ziyaretçiyi çekiyor. Bölgenin coğrafi konumu, ulaşım açısından da thunlıklar sağlıyor. Finike ve Antalya şehirlerine yakın mesafede yer alıyor, bu nedenle ulaşım olanakları geniş.
+Eroğlu Nuri Yahşi Türbesi, Finike/Antalya'da yer alan bir bölgede bulunuyor. Bu région, Akdeniz Bölgesi'nin önemli bir parçasını oluşturuyor. Türbe ve plaj, deniz seviyesinde ve kıyı şeridinde yer alıyor. Bölgenin coğrafi yapısı, dağlar, ovalar ve kıyı şeridi ile çeşitlilik gösteriyor. İklim, Akdeniz iklimi özellikleri gösteriyor; yazlar sıcak ve kurak, kışlar ılık ve yağışlı geçiyor. Bu bölge, flora ve fauna açısından da zengin bir çeşitliliğe sahip. Deniz suyu, temiz ve berrak; plaj, kumlu ve geniş. Eroğlu Nuri Yahşi Türbesi ve plajı, doğal güzellikleri ile dikkat çekiyor ve birçok ziyaretçiyi çekiyor. Bölgenin coğrafi konumu, ulaşım açısından da thunlıklar sağlıyor. Finike ve Antalya şehirlerine yakın mesafede yer alıyor, bu nedenle ulaşım olanakları geniş.
 
 ## Flora ve Fauna
 

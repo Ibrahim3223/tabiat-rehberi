@@ -30,7 +30,7 @@ wikidata_id: "Q131391314"
 
 # Hacı Mustafa Türbesi
 
-Hacı Mustafa Türbesi, Dereli/Giresun'da yer alan ve Karadeniz Bölgesi'nin önemli turizm noktalarından biri olan bir türbedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Türbe, çevresindeki yeşilliklerle birlikte yaklaşık yüksek bir konumdate bulunuyor. Bu yükseklik, ziyaretçilere etraftaki manzarayı izleme fırsatı veriyor. Hacı Mustafa Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbetmeyi başarıyor.
+Hacı Mustafa Türbesi, Dereli/Giresun'da yer alan ve Karadeniz Bölgesi'nin önemli turizm noktalarından biri olan bir türbedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Türbe, çevresindeki yeşilliklerle birlikte yüksek bir konumda bulunuyor. Bu yükseklik, ziyaretçilere etraftaki manzarayı izleme fırsatı veriyor. Hacı Mustafa Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbetmeyi başarıyor.
 
 ## Tarihçe
 

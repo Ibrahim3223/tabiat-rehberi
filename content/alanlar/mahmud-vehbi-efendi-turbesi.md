@@ -38,7 +38,7 @@ Mahmud Vehbi Efendi Türbesi, tarihi geçmişi ile dikkat çekiyor. Türbenin ta
 
 ## Coğrafya
 
-Mahmud Vehbi Efendi Türbesi, coğrafi olarak Doğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, yüksek dağlar, geniş ovalar ve zengin su kaynakları ile znám. Pasinler ilçesi, Erzurum'un önemli bir bölümünü oluşturan yüksek platolardan birinde yer alıyor. Türbenin konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Yakınlardaki dağlar, trekking ve doğa yürüyüşü için ideal alanlar sunarken, ovalar ve vadiler ise zengin flora ve fauna ile dolu. Bölgenin iklimi, karasal iklim özellikleri gösteriyor; kışlar soğu ve karlı, yazlar ise serin ve yağışlı geçiyor.
+Mahmud Vehbi Efendi Türbesi, coğrafi olarak Doğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, yüksek dağlar, geniş ovalar ve zengin su kaynakları ile znám. Pasinler ilçesi, Erzurum'un önemli bir bölümünü oluşturan yüksek platolardan birinde yer alıyor. Türbenin konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Yakınlardaki dağlar, trekking ve doğa yürüyüşü için ideal alanlar sunarken, ovalar ve vadiler ise zengin flora ve fauna ile dolu. Bölgenin iklimi, karasal iklim özellikleri gösteriyor; kışlar soğuk ve karlı, yazlar ise serin ve yağışlı geçiyor.
 
 ## Flora ve Fauna
 

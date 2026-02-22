@@ -54,7 +54,7 @@ Körali Tepesi, Ankara'nın step bitki örtüsü ve bozkır ekosistemine ev sahi
 
 Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte, dağ yamaçlarında çeşitli çiçekler açar ve renklendirir. Step bitki örtüsünün hakim olduğu bu bölgede, kuraklığa adapte türler gibi çok yıllık otlar ve dikenli bitkiler bulunur. 
 
-Yaban Hayatı bölümünde, dağların yükseklik zonlarında, çeşitli memeliler ve kuşlar yaşar. Göç mevsiminde, birçok kuş türü bu bölgeyi ziyaret eder ve beslenir. Sürüngenler de, sıca ve kurak alanlarda yaşar. 
+Yaban Hayatı bölümünde, dağların yükseklik zonlarında, çeşitli memeliler ve kuşlar yaşar. Göç mevsiminde, birçok kuş türü bu bölgeyi ziyaret eder ve beslenir. Sürüngenler de, sıcak ve kurak alanlarda yaşar. 
 
 Ekolojik Değer bölümünde, bu dağ ekosisteminin önemini vurgular. Bu alan, birçok canlıyaşam alanı sağlar ve ekolojik dengenin korunmasına katkıda bulunur. Koruma durumu ise, bu alanın gelecek nesiller için korunmasına dikkat çekilir.
 

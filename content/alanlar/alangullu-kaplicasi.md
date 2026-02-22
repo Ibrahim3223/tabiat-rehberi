@@ -37,7 +37,7 @@ Alangüllü Kaplıcası, tarihsel geçmişiyle de dikkat çekmektedir. Yüzyıll
 
 ## Coğrafya
 
-Alangüllü Kaplıcası, Aydın'ın Germencik ilçesinde, Ege Bölgesi'nin güzelliklerini sunan bir konumda yer almaktadır. Kaplıcanın coğrafi konumu, ziyaretçilerine hem deniz hem de dağ manzarasının keyfini çıkarma fırsatı sunmaktadır. Bölge, Akdeniz ikliminin etkisi altında olup, yazları sıca ve kurak, kışları ılıman ve yağışlı bir hava durumuyla karakterizedir. Alangüllü Kaplıcası ve çevresi, çeşitli bitki türleri ve zengin fauna ile dikkat çekmekte olup, özellikle bahar ve yaz aylarında ziyaretçilerine renkli bir manzara sunmaktadır. Kaplıcanın bulunduğu Germencik ilçesi, Ege Bölgesi'nin önemli tarım ve turizm merkezlerinden biri olarak bilinmektedir. Alangüllü Kaplıcası, bu bölgede yer alan diğer turizm noktalarına da yakınlığıyla dikkat çekmektedir.
+Alangüllü Kaplıcası, Aydın'ın Germencik ilçesinde, Ege Bölgesi'nin güzelliklerini sunan bir konumda yer almaktadır. Kaplıcanın coğrafi konumu, ziyaretçilerine hem deniz hem de dağ manzarasının keyfini çıkarma fırsatı sunmaktadır. Bölge, Akdeniz ikliminin etkisi altında olup, yazları sıcak ve kurak, kışları ılıman ve yağışlı bir hava durumuyla karakterizedir. Alangüllü Kaplıcası ve çevresi, çeşitli bitki türleri ve zengin fauna ile dikkat çekmekte olup, özellikle bahar ve yaz aylarında ziyaretçilerine renkli bir manzara sunmaktadır. Kaplıcanın bulunduğu Germencik ilçesi, Ege Bölgesi'nin önemli tarım ve turizm merkezlerinden biri olarak bilinmektedir. Alangüllü Kaplıcası, bu bölgede yer alan diğer turizm noktalarına da yakınlığıyla dikkat çekmektedir.
 
 ## Flora ve Fauna
 

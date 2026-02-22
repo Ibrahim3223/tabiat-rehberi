@@ -45,7 +45,7 @@ Güneybatı Anadolu'nun gözde destinasyonlarından biri olan Muğla, Sarnıç D
 
 Jeolojik açıdan bakıldığında, Sarnıç Dağı'nın tam olarak boyutları hakkında bilgi bulunmasa da, bu dağ Muğla'nın genel coğrafi yapısına uygun olarak çeşitli jeolojik oluşumların bir araya gelmesiyle oluşmuş görünüyor. Muğla'nın geneline hakim olan dağlık ve engebeli arazi yapısı, Sarnıç Dağı'nda da kendini gösteriyor. Bu dağ, bölgenin diğer coğrafi oluşumları gibi, yer ormanlık alanlarla kaplı ve çeşitli bitki türlerine ev sahipliği yapıyor.
 
-İklim açısından, Sarnıç Dağı ve çevresindeki bölge, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kuru, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürer. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkiler ve Sarnıç Dağı'nın iklimi, komşu bölgelerle benzerlik gösterir. Bölgede yağışın meisten kış ve ilkbahar aylarında görüldüğü bilinir.
+İklim açısından, Sarnıç Dağı ve çevresindeki bölge, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kuru, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürer. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkiler ve Sarnıç Dağı'nın iklimi, komşu bölgelerle benzerlik gösterir. Bölgede yağışın meisten kış ve ilkbahar aylarında görüldüğü bilinir.
 
 Doğal kaynaklar ve çevre açısından, Sarnıç Dağı, Muğla'nın önemli su kaynaklarına yakın bir konumda bulunuyor. Bu dağ, bölgenin ekosistem dengesini korumak açısından önemli bir role sahip. Sarnıç Dağı, komşu ormanlık alanlar ve su kaynakları ile birlikte, bölgenin biyolojik çeşitliliğini destekleyen bir ekosistem oluşturuyor. Bu doğal güzellikler, aynı zamanda bölgenin turizm potansiyelini de artırıyor.
 

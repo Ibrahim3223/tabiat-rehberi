@@ -37,7 +37,7 @@ Labraunda Anıt Mezarı'nın tarihi geçmişi, bölgenin antik dönemlerine kada
 
 ## Coğrafya
 
-Labraunda Anıt Mezarı, Muğla'nın Milas ilçesinde, Ege Bölgesi'nin coğrafi güzelliklerinin birleştiği bir noktada yer alır. Bu bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Coğrafi olarak, Labraunda Anıt Mezarı'nın çevresi, doğal güzelliklerle dolu bir bölgedir. Burada, yeşilin çeşitli tonlarını görebileceğiniz ormanlar, ziyaretçilere doğanın güzelliğini sunar. Ayrıca, bölgenin iklimi, Akdeniz ikliminin özellikleri taşır ve ziyaretçilere sıca ve güneşli bir ortam sunar. Labraunda Anıt Mezarı'nın coğrafi konumu, aynı zamanda ziyaretçilere bölgenin diğer turistik noktalarına ulaşma imkanı sağlar.
+Labraunda Anıt Mezarı, Muğla'nın Milas ilçesinde, Ege Bölgesi'nin coğrafi güzelliklerinin birleştiği bir noktada yer alır. Bu bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Coğrafi olarak, Labraunda Anıt Mezarı'nın çevresi, doğal güzelliklerle dolu bir bölgedir. Burada, yeşilin çeşitli tonlarını görebileceğiniz ormanlar, ziyaretçilere doğanın güzelliğini sunar. Ayrıca, bölgenin iklimi, Akdeniz ikliminin özellikleri taşır ve ziyaretçilere sıcak ve güneşli bir ortam sunar. Labraunda Anıt Mezarı'nın coğrafi konumu, aynı zamanda ziyaretçilere bölgenin diğer turistik noktalarına ulaşma imkanı sağlar.
 
 ## Flora ve Fauna
 

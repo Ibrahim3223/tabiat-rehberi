@@ -36,7 +36,7 @@ Kuocka Tepesi, tarihi geçmişi ile de dikkat çekiyor. Yüzyıllar boyunca, bu 
 
 ## Coğrafya
 
-Kuocka Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısı içinde yer alıyor. Bu bölge, genel olarak dağlık ve engebeli arazilerden oluşuyor. Kuocka Tepesi de bu coğrafi yapı içinde, yaklaşık 140 hektarlık bir alanı kaplıyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu doğal güzellikler, Kuocka Tepesi'ni ziyaretçilerin ilgisini çekiyor. Tepenin iklimi, bölgenin genel iklimine uygun olarak, yazları sıca ve kurak, kışları soğu ve yağışlı passing. Bu iklim, bölgede yaşayan bitki ve hayvan türleri için uygun koşullar sağlıyor. Kuocka Tepesi, çevresindeki dağlar ve vadiler ile birlikte, bir bütün olarak düşünüldüğünde, ziyaretçilere geniş ve çeşitli bir coğrafi alan sunuyor. Bu reason, Kuocka Tepesi'nin coğrafyası, ziyaretçilerin doğa ile iç içe olmasını sağlıyor.
+Kuocka Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısı içinde yer alıyor. Bu bölge, genel olarak dağlık ve engebeli arazilerden oluşuyor. Kuocka Tepesi de bu coğrafi yapı içinde, yaklaşık 140 hektarlık bir alanı kaplıyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu doğal güzellikler, Kuocka Tepesi'ni ziyaretçilerin ilgisini çekiyor. Tepenin iklimi, bölgenin genel iklimine uygun olarak, yazları sıcak ve kurak, kışları soğuk ve yağışlı passing. Bu iklim, bölgede yaşayan bitki ve hayvan türleri için uygun koşullar sağlıyor. Kuocka Tepesi, çevresindeki dağlar ve vadiler ile birlikte, bir bütün olarak düşünüldüğünde, ziyaretçilere geniş ve çeşitli bir coğrafi alan sunuyor. Bu reason, Kuocka Tepesi'nin coğrafyası, ziyaretçilerin doğa ile iç içe olmasını sağlıyor.
 
 ## Flora ve Fauna
 

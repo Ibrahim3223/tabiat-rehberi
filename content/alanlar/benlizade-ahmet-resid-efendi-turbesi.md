@@ -37,7 +37,7 @@ Benlizade Ahmet Reşid Efendi Türbesi, tarihi geçmişi ile dikkat çeker. İst
 
 ## Coğrafya
 
-Benlizade Ahmet Reşid Efendi Türbesi, Marmara Bölgesi'nin coğrafi özellikleri ile uyumlu bir şekilde kurulmuştur. İstanbul'un Fatih ilçesinde yer alan türbe, deniz seviyesinden yaklaşık yüksek bir konumdate bulunur. Türbenin etrafında, çeşitli tarihi eserler ve yapılar yer alır. Bu yapılar, İstanbul'un tarihi dokusunu koruma altına almak için önemli bir role sahiptir. Türbenin coğrafi konumu, ziyaretçiler için ulaşım açısından kolaylık sağlar. Ziyaretçiler, türbeye çeşitli ulaşım araçları ile kolayca ulaşabilirler. Türbenin coğrafi özellikleri, İstanbul'un coğrafi çeşitliliği ile uyumlu bir şekilde bulunur.
+Benlizade Ahmet Reşid Efendi Türbesi, Marmara Bölgesi'nin coğrafi özellikleri ile uyumlu bir şekilde kurulmuştur. İstanbul'un Fatih ilçesinde yer alan türbe, yüksek bir konumda bulunur. Türbenin etrafında, çeşitli tarihi eserler ve yapılar yer alır. Bu yapılar, İstanbul'un tarihi dokusunu koruma altına almak için önemli bir role sahiptir. Türbenin coğrafi konumu, ziyaretçiler için ulaşım açısından kolaylık sağlar. Ziyaretçiler, türbeye çeşitli ulaşım araçları ile kolayca ulaşabilirler. Türbenin coğrafi özellikleri, İstanbul'un coğrafi çeşitliliği ile uyumlu bir şekilde bulunur.
 
 ## Flora ve Fauna
 

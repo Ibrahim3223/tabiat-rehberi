@@ -45,7 +45,7 @@ Coğrafi olarak bakıldığında, Gidengelmez Dağı 37.3011°K, 31.8447°D koor
 
 Doğrudan fiziksel özelliklerine baktığımızda, Gidengelmez Dağı'nın tam boyutları hakkında kesin bilgiler bulunmasa da, genel olarak dağlık bir arazi yapısına sahip olduğu söylenebilir. Bu bölgede, genellikle kalker ve şist gibi jeolojik oluşumlar görülür. Gidengelmez Dağı, Monaco'nun merkezi bölgesine benzer bir büyüklüğe sahip olabilir, ancak tam boyutları hakkında daha bilgi bulunmuyor.
 
-Mevsimsel açıdan, Gidengelmez Dağı'nın bulunduğu bölge, Akdeniz ikliminin karakteristik özellikleri gösterir. Yaz ayları sıca ve kurak, kış ayları ise ılıman ve yağışlı geçer. Bu iklim, bölgenin bitki örtüsünü ve fauna çeşitliliğini etkiler. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2-3 katı yükseklikte olabilir, ancak bu sadece bir tahmin olarak kalmaktadır.
+Mevsimsel açıdan, Gidengelmez Dağı'nın bulunduğu bölge, Akdeniz ikliminin karakteristik özellikleri gösterir. Yaz ayları sıcak ve kurak, kış ayları ise ılıman ve yağışlı geçer. Bu iklim, bölgenin bitki örtüsünü ve fauna çeşitliliğini etkiler. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2-3 katı yükseklikte olabilir, ancak bu sadece bir tahmin olarak kalmaktadır.
 
 Çevresel açıdan bakıldığında, Gidengelmez Dağı, komşu dağlar ve ovalarla birlikte bir ekosistem oluşturur. Bu bölgede, su kaynakları ve bitki örtüsü, fauna çeşitliliğini destekler. Dağın yakınında, muhtemelen küçük akarsular ve derenin bulunduğu bir vadi olabilir, ancak bu konuda daha fazla bilgiye ihtiyaç vardır. Gidengelmez Dağı, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplayabilir ve bu büyüklük, bölgenin coğrafi çeşitliliğine katkıda bulunur.
 

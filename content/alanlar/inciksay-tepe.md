@@ -36,7 +36,7 @@ wikidata_id: "Q31389462"
 
 ## Coğrafya
 
-İnciksay Tepe, Akdeniz Bölgesi'nin coğrafi olarak önemli bir noktasındadır. Bu tepe, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır ve bu yükseklik, bölgenin iklimini etkiler. İnciksay Tepe'nin coğrafi yapısı, genellikle dağlık ve engebeli arazilerden oluşur. Burada, çeşitli bitki türleri ve zengin fauna bulunur. Bu tepe, aynı zamanda bir su kaynağı olarak da düşünülebilir, çünkü buradaki su kaynakları, bölgenin sulama ihtiyacını karşılar. İnciksay Tepe'nin coğrafi konumu, aynı zamanda bir ulaşım merkezi olarak da düşünülebilir, çünkü buradan çevre bölgelere ulaşımümkündür.
+İnciksay Tepe, Akdeniz Bölgesi'nin coğrafi olarak önemli bir noktasındadır. Bu tepe, yüksek bir konumda yer alır ve bu yükseklik, bölgenin iklimini etkiler. İnciksay Tepe'nin coğrafi yapısı, genellikle dağlık ve engebeli arazilerden oluşur. Burada, çeşitli bitki türleri ve zengin fauna bulunur. Bu tepe, aynı zamanda bir su kaynağı olarak da düşünülebilir, çünkü buradaki su kaynakları, bölgenin sulama ihtiyacını karşılar. İnciksay Tepe'nin coğrafi konumu, aynı zamanda bir ulaşım merkezi olarak da düşünülebilir, çünkü buradan çevre bölgelere ulaşımümkündür.
 
 ## Flora ve Fauna
 

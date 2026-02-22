@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin en uzak köşesinde, Şırnak ilinin sınırlar
 
 Doğal güzelliği ile dikkat çeken bu dağ, fiziksel olarak belirli bir boyutu ifade etmemekle birlikte, coğrafi olarak önemli bir konumda bulunmaktadır. Derihastiva Tepe'nin yüksekliği ve genişliği tam olarak belirlenmese de, bölgenin genel jeolojik yapısı kayaçlar ve dağlarla karakterizedir. Bu bölgede yer alan dağlar, genellikle kalker ve şist gibi kayaçlardan oluşmaktadır ve bu da bölgenin jeolojik yapısını etkilemektedir.
 
-Mevsimsel özellikler açısından, Derihastiva Tepe ve çevresinde, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklim hakimdir. Bu bölgede, özellikle ilkbahar ve sonbahar aylarında, hava genellikle güneşli ve serin olmaktadır. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkilemekte ve bu da bölgenin ekosistemini zenginleştirmektedir.
+Mevsimsel özellikler açısından, Derihastiva Tepe ve çevresinde, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklim hakimdir. Bu bölgede, özellikle ilkbahar ve sonbahar aylarında, hava genellikle güneşli ve serin olmaktadır. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkilemekte ve bu da bölgenin ekosistemini zenginleştirmektedir.
 
 Bölgenin su kaynakları açısından, Derihastiva Tepe ve çevresinde, çeşitli nehirler ve akarsular bulunmaktadır. Bu su kaynakları, bölgenin ekosistemini desteklemektedir ve bu da bölgenin doğal güzelliğini korumakta bir rol oynamaktadır. Ayrıca, bu bölgede yer alan dağlar ve vadiler, çeşitli bitki ve hayvan türleri için yaşam alanı oluşturmakta ve bu da bölgenin biyolojik çeşitliliğini artırmaktadır.
 

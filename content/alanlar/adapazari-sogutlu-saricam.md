@@ -30,7 +30,7 @@ Adapazari-Sogutlu Saricam milli parkının tarihi geçmişi, bölgenin yüzyıll
 
 ## Coğrafya
 
-Adapazari-Sogutlu Saricam milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak da önemli bir bölgesinde yer alır. Parkın coğrafyası, genellikle düz ve hafif eğimli arazilerden oluşur. Bölge, iklim olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır; yani yazları sıca ve kurak, kışları soğu ve karlı geçer. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli yürüyüş parkurları ve doğal güzellikleri keşfetme fırsatı sunar. Parkın etrafı, yüksek dağlar ve ovalar ile çevrilidir ve bu coğrafi yapı, bölgenin flora ve faunasının çeşitliliğine katkıda bulunur. Ayrıca, parkın içinden geçen nehir ve akarsular, bölgenin su kaynaklarını zenginleştirir ve yaban hayvanları için yaşam alanı oluşturur.
+Adapazari-Sogutlu Saricam milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak da önemli bir bölgesinde yer alır. Parkın coğrafyası, genellikle düz ve hafif eğimli arazilerden oluşur. Bölge, iklim olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır; yani yazları sıcak ve kurak, kışları soğuk ve karlı geçer. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli yürüyüş parkurları ve doğal güzellikleri keşfetme fırsatı sunar. Parkın etrafı, yüksek dağlar ve ovalar ile çevrilidir ve bu coğrafi yapı, bölgenin flora ve faunasının çeşitliliğine katkıda bulunur. Ayrıca, parkın içinden geçen nehir ve akarsular, bölgenin su kaynaklarını zenginleştirir ve yaban hayvanları için yaşam alanı oluşturur.
 
 ## Flora ve Fauna
 

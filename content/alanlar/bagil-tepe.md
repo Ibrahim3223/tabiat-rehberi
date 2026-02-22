@@ -37,7 +37,7 @@ Bagıl Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölg
 
 ## Coğrafya
 
-Bagıl Tepe, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Yüksekli ve genişlik bakımından, çevredeki diğer tepelerden ayrışıyor. İklim olarak, bölgenin genel iklim özellikleri görülüyor; yaz ayları sıca ve kurak, kış ayları ise soğu ve yağışlı geçiyor. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplı. Bu tepe, doğa severler için bir cennet niteliğinde. Ziyaretçiler, tepeye tırmanırken, manzaranın güzelliği ve doğanın sesleri ile karşılaşabiliyorlar. Bagıl Tepe, Diyarbakır'ın coğrafi güzelliklerinin önemli bir bölümünü oluşturuyor.
+Bagıl Tepe, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Yüksekli ve genişlik bakımından, çevredeki diğer tepelerden ayrışıyor. İklim olarak, bölgenin genel iklim özellikleri görülüyor; yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçiyor. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplı. Bu tepe, doğa severler için bir cennet niteliğinde. Ziyaretçiler, tepeye tırmanırken, manzaranın güzelliği ve doğanın sesleri ile karşılaşabiliyorlar. Bagıl Tepe, Diyarbakır'ın coğrafi güzelliklerinin önemli bir bölümünü oluşturuyor.
 
 ## Flora ve Fauna
 

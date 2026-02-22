@@ -45,7 +45,7 @@ Doğunun güzide illerinden biri olan Malatya'nın dağlık bölgesinde yer alan
 
 Jeolojik açıdan incelendiğinde, Yılanlı Dağı'nın oluşumu ve yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel coğrafi yapısına bakıldığında, dağlık ve engebeli bir araziye sahip olduğu görülmektedir. Bu bölge, Malatya'nın diğer dağlık alanlarına benzer şekilde, farklı jeolojik oluşumların bir araya gelmesiyle oluşmuştur. Yılanlı Dağı'nın boyutları hakkında net bir veri olmasa da, bölgenin genel boyutlarına bakıldığında, Monaco'nun yarısı kadar bir alanı kaplayabileceği söylenebilir.
 
-İklim açısından Yılanlı Dağı, Malatya'nın genel iklim karakterini yansıtmaktadır. Bölge, karasal iklimin hakim olduğu birdır ve mevsimsel olarak önemli farklılıklar gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürer. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
+İklim açısından Yılanlı Dağı, Malatya'nın genel iklim karakterini yansıtmaktadır. Bölge, karasal iklimin hakim olduğu birdır ve mevsimsel olarak önemli farklılıklar gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürer. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
 
 Çevresel açıdan bakıldığında, Yılanlı Dağı, bölgenin su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahiptir. Dağın eteklerinde bulunan köyler ve kasabalar, bölgenin doğal kaynaklarını kullanmakta ve Yılanlı Dağı, bu kaynakların korunması için önemli bir görev üstlenmektedir. Ayrıca, dağ ve çevresindeki alanlar, bölgenin biyolojik çeşitliliğini korumak için önemli bir görev üstlenmektedir.
 

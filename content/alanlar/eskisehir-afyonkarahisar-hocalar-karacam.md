@@ -30,7 +30,7 @@ Eskişehir-Afyonkarahisar-Hocalar Karacam milli parkının tarihi geçmişi, yü
 
 ## Coğrafya
 
-Eskişehir-Afyonkarahisar-Hocalar Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Milli parkın coğrafi konumu, ziyaretçilerin doğanın güzelliklerini keşfetmelerine olanak tanımaktadır. 140 hektarlık bu alan, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Milli parkın etrafında, yüksek dağlar ve vadiler bulunmaktadır. Bu coğrafi yapı, ziyaretçilerin doğa ile iç içe olmasını sağlamaktadır. Ayrıca, milli parkın iklimi, İç Anadolu Bölgesi'nin iklimine uygun olarak karasal bir yapıya sahiptir. Kışları soğuk, yazları sıca ve kurak bir iklim hüküm sürmektedir. Bu iklim, ziyaretçilerin milli parkı gezerken, doğanın güzelliklerini keşfetmelerine olanak tanımaktadır.
+Eskişehir-Afyonkarahisar-Hocalar Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Milli parkın coğrafi konumu, ziyaretçilerin doğanın güzelliklerini keşfetmelerine olanak tanımaktadır. 140 hektarlık bu alan, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Milli parkın etrafında, yüksek dağlar ve vadiler bulunmaktadır. Bu coğrafi yapı, ziyaretçilerin doğa ile iç içe olmasını sağlamaktadır. Ayrıca, milli parkın iklimi, İç Anadolu Bölgesi'nin iklimine uygun olarak karasal bir yapıya sahiptir. Kışları soğuk, yazları sıcak ve kurak bir iklim hüküm sürmektedir. Bu iklim, ziyaretçilerin milli parkı gezerken, doğanın güzelliklerini keşfetmelerine olanak tanımaktadır.
 
 ## Flora ve Fauna
 

@@ -37,11 +37,11 @@ Kavak Tepesi, tarihi geçmişi ile dikkat çekiyor. Bu tepenin geçmişi, yüzy�
 
 ## Coğrafya
 
-Kavak Tepesi, Kars ilinin coğrafi yapısına uygun olarak, bir tepe olarak dikkat çekiyor. Tepenin etrafında bulunan 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Tepenin 높liği, çevresindeki diğer tepelere göre daha yüksek. Bu nedenle, Kavak Tepesi'nden, çevresindeki manzarayı izleme mümkün. Tepenin bulunduğu bölgede, iklim condicionesı, Doğu Anadolu Bölgesi'ne özgü. Kış ayları soğu ve karlı, yaz ayları ise sıcak ve kurak geçiyor. Bu nedenle, Kavak Tepesi'ni ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar ayları.
+Kavak Tepesi, Kars ilinin coğrafi yapısına uygun olarak, bir tepe olarak dikkat çekiyor. Tepenin etrafında bulunan 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Tepenin 높liği, çevresindeki diğer tepelere göre daha yüksek. Bu nedenle, Kavak Tepesi'nden, çevresindeki manzarayı izleme mümkün. Tepenin bulunduğu bölgede, iklim condicionesı, Doğu Anadolu Bölgesi'ne özgü. Kış ayları soğuk ve karlı, yaz ayları ise sıcak ve kurak geçiyor. Bu nedenle, Kavak Tepesi'ni ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar ayları.
 
 ## Flora ve Fauna
 
-Kavak Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Tepenin etrafında bulunan 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu alanda, çeşitli ağaçlar, çalılar ve otlar bulunmakta. Tepenin bulunduğu bölgede, mevsimsel değişimler, flora ve faunayı etkiliyor. Kış ayları, soğu ve karlı, bu nedenle, bazı bitkiler ve hayvanlar, bu dönemlerde daha az aktif. Yaz ayları, sıca ve kurak, bu nedenle, bazı bitkiler ve hayvanlar, bu dönemlerde daha aktif. Kavak Tepesi, aynı zamanda, çeşitli hayvan türlerine ev sahipliği yapıyor. Tepenin etrafında, kuşlar, kemirgenler, ve diğer küçük hayvanlar bulunmakta.
+Kavak Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Tepenin etrafında bulunan 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu alanda, çeşitli ağaçlar, çalılar ve otlar bulunmakta. Tepenin bulunduğu bölgede, mevsimsel değişimler, flora ve faunayı etkiliyor. Kış ayları, soğuk ve karlı, bu nedenle, bazı bitkiler ve hayvanlar, bu dönemlerde daha az aktif. Yaz ayları, sıcak ve kurak, bu nedenle, bazı bitkiler ve hayvanlar, bu dönemlerde daha aktif. Kavak Tepesi, aynı zamanda, çeşitli hayvan türlerine ev sahipliği yapıyor. Tepenin etrafında, kuşlar, kemirgenler, ve diğer küçük hayvanlar bulunmakta.
 
 ## Ziyaret Bilgileri
 

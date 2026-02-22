@@ -46,7 +46,7 @@ Gökyüzünde parıldayan bir inci gibi görünen İskinosa, Ege Denizi'nin mavi
 
 Doğal güzelliği ile ön plana çıkan İskinosa, fiziksel yapısı hakkında detaylı bilgi bulunmasa da, koordinatlarından yola çıkarak adanın konumunu belirleme mümkün. Ada, Ege Denizi'nin kuzeyinde, anakaradan yaklaşık 10 kilometre uzaklıkta yer alır. Bu konum, adayı bir şehir bloğu büyüklüğünde bir alan olarak hayal etmemize olanak tanır. İskinosa'nın jeolojik yapısı, bölgenin genel karakteristiği gibi volkanik kökenli olabileceği düşünülüyor.
 
-Mevsimsel değişikliklere göre iklimi değişen İskinosa, yaz aylarında sıca ve kurak bir hava deneyimlenirken, kış aylarında ılıman ve yağışlı bir hava hakim olur. Bu iklim karakteri, adayı ziyaret etmek isteyenler için önemli bir faktör. Hava durumu, genellikle Ege Denizi'nin genel iklim koşullarını takip eder ve adaya ulaşım, genellikle deniz yoluyla sağlanır.
+Mevsimsel değişikliklere göre iklimi değişen İskinosa, yaz aylarında sıcak ve kurak bir hava deneyimlenirken, kış aylarında ılıman ve yağışlı bir hava hakim olur. Bu iklim karakteri, adayı ziyaret etmek isteyenler için önemli bir faktör. Hava durumu, genellikle Ege Denizi'nin genel iklim koşullarını takip eder ve adaya ulaşım, genellikle deniz yoluyla sağlanır.
 
 Ada, Ege Denizi'nin zengin su kaynaklarına ve ekosistem bağlantılarına sahiptir. İskinosa, komşu adalar ve anakara ile birlikte bir bütün olarak düşünülür ve bu bölgenin doğal güzelliğini koruma altına almak önemlidir. Ada, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alan olarak düşünülürse, çevresel ilişkileri daha iyi anlaşılabilir. Bu küçük ada, büyük bir ekosistemin bir parçasıdır ve doğal güzelliğini korumak için çaba sarf etmek gerekmektedir.
 

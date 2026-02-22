@@ -43,7 +43,7 @@ Doğal güzellikleri ile dikkat çeken Karadağ, Burdur'un coğrafi dokusunda ö
 
 Jeolojik yapısı ile dikkat çeken Karadağ, bölgenin jeolojik oluşumunda önemli bir rol oynar. Ancak detaylı fiziksel veriler bulunmamasına rağmen, coğrafi konumu ve komşu alanlar ile karşılaştırıldığında, bir şehir bloğu büyüklüğünde bir alanı kapladığı söylenebilir. Bu büyüklük, Taksim Meydanı'nın birkaç katı büyüklüğüne karşılık gelir. Karadağ'ın yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olabilir, ancak tam yüksekli verisi bulunmamaktadır.
 
-Mevsimsel özellikler açısından Karadağ, Akdeniz ikliminin etkisi altındadır. Yaz aylarında sıca ve khô, kış aylarında ise ılık ve yağışlı bir hava durumu hakimdir. Bu iklim karakteri, bölgenin flora ve fauna oluşumunu etkiler. Karadağ'ın iklimi, komşu bölgelerle benzerlik gösterir, ancak yüksekli ve coğrafi konum debido olarak bazı farklılıklar gösterir.
+Mevsimsel özellikler açısından Karadağ, Akdeniz ikliminin etkisi altındadır. Yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı bir hava durumu hakimdir. Bu iklim karakteri, bölgenin flora ve fauna oluşumunu etkiler. Karadağ'ın iklimi, komşu bölgelerle benzerlik gösterir, ancak yüksekli ve coğrafi konum debido olarak bazı farklılıklar gösterir.
 
 Bölgenin ekosistem bağlantıları açısından Karadağ, önemli bir rol oynar. Burdur Gölü ve diğer su kaynaklarına yakınlığı, bölgenin su dengesini etkiler. Ayrıca, Karadağ'ın çevresindeki ekosistemler, flora ve fauna çeşitliliği açısından zengindir. Bu doğal güzellikler, Karadağ'ın turizm potansiyelini artırır ve bölgenin ekonomik kalkınmasına katkıda bulunur.
 

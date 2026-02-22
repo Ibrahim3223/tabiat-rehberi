@@ -53,7 +53,7 @@ Bölgenin ekosistem bağlantıları, Hezanlı Dağı'nın çevresel ilişkilerin
 
 Hezanlı Dağı, step bitki örtüsünün hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. İlkbaharda, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle bezeli bir hal alıyor. Yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği gösteriyor. Dağın farklı yüksekliklerinde, kuraklığa adapte olmuş bitkiler ve bozkır türleri görülüyor.
 
-Yaban hayatı da bir o kadar zengin. Memeliler, dağların kayalık bölgelerinde yaşamayı tercih ediyor. Kuşlar, özellikle sonbaharda göç ederken, dağların üzerinden geçiyor. Sürüngenler de, sıca ve kurak bölgelerde aktif olarak görülüyor. Bu canlıların yaşam alanları, dağ ekosisteminin çeşitliliği ile şekilleniyor.
+Yaban hayatı da bir o kadar zengin. Memeliler, dağların kayalık bölgelerinde yaşamayı tercih ediyor. Kuşlar, özellikle sonbaharda göç ederken, dağların üzerinden geçiyor. Sürüngenler de, sıcak ve kurak bölgelerde aktif olarak görülüyor. Bu canlıların yaşam alanları, dağ ekosisteminin çeşitliliği ile şekilleniyor.
 
 Hezanlı Dağı, ekolojik açıdan büyük bir önem taşıyor. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini sürdürmek için çok önemli. Bu nedenle, koruma çalışmaları ve çevre bilinci, bu alanın geleceğiçin kritik bir rol oynuyor.
 

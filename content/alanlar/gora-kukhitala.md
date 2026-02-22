@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden biri olan Van, coğrafi olarak old
 
 Jeolojik açıdan incelendiğinde, Gora Kukhitala dağının fiziksel yapısı hakkında net verilerin olmaması, bu konuda daha fazla araştırmaya ihtiyaç duyulduğunu gösterir. Ancak, bölgenin genel coğrafi yapısına bakıldığında, dağların ve tepelerin hakim olduğu bir coğrafya olduğu görülebilir. Bu dağlar, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplar ve bölgenin coğrafi yapısını şekillendiren önemli bir unsur olarak dikkat çeker.
 
-İklim açısından bakıldığında, Gora Kukhitala dağının bulunduğu bölge, karasal iklimin hakim olduğu bir bölgedir. Kış aylarında oldukça soğu ve kar yağışlı olan bu bölge, yaz aylarında ise sıca ve kurak bir iklimi experiences. Bu mevsimsel değişiklikler, bölgenin ekosistemini şekillendiren önemli bir faktördür.
+İklim açısından bakıldığında, Gora Kukhitala dağının bulunduğu bölge, karasal iklimin hakim olduğu bir bölgedir. Kış aylarında oldukça soğuk ve kar yağışlı olan bu bölge, yaz aylarında ise sıcak ve kurak bir iklimi experiences. Bu mevsimsel değişiklikler, bölgenin ekosistemini şekillendiren önemli bir faktördür.
 
 Çevresel açıdan bakıldığında, Gora Kukhitala dağının bulunduğu bölge, Van Gölü gibi önemli su kaynaklarına yakın bir konumda yer alır. Bu su kaynakları, bölgenin ekosistemini destekleyen önemli bir unsur olarak dikkat çeker. Ayrıca, bölgenin komşu alanları da, benzer coğrafi ve iklimsel özelliklere sahip olan bölgelerdir. Bu nedenle, Gora Kukhitala dağının bulunduğu bölge, doğal güzellikleri ve coğrafi özellikleri ile dikkat çeken bir bölgedir.
 

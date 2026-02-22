@@ -50,7 +50,7 @@ Doğal su kaynakları bakımından zengin bir bölge olan Kağılcık Dağı'nı
 
 ## Flora ve Fauna
 
-Kağılcık Dağı, Burdur'un maki bitki örtüsüne ev sahipliği yapan bir dağ ekosistemi. 800 ila 2000 metre arasındaki yükseklik zonlarında, kuraklığa dayanıklı türlerin yanı sıra, alpin flora da görülebilir. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Kışın karla kaplı zirveler, yazın ise sıca ve kurak bir hava alır.
+Kağılcık Dağı, Burdur'un maki bitki örtüsüne ev sahipliği yapan bir dağ ekosistemi. 800 ila 2000 metre arasındaki yükseklik zonlarında, kuraklığa dayanıklı türlerin yanı sıra, alpin flora da görülebilir. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Kışın karla kaplı zirveler, yazın ise sıcak ve kurak bir hava alır.
 
 Bu dağ ekosisteminde, dağ keçileri ve yaban keçileri gibi memeliler yaşar. Kuşlar ise, göç ettikleri zamanlar, gökyüzünü renklendirir. Sürüngenler de, bu kura ve kayalık arazide, yaşamını sürdürür. Tüm bu canlılar, birbirleriyle ve çevreleriyle ekolojik bir ilişki içinde yaşar. Dağların yükseklik zonları, her bir tür için özel yaşam alanları sunar.
 

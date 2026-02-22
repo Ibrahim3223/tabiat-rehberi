@@ -36,7 +36,7 @@ Tanrıdağı Tepe'nin tarihi geçmişi, yüzyıllar boyunca birçok uygarlığa 
 
 ## Coğrafya
 
-Tanrıdağı Tepe, Akdeniz Bölgesi'nde yer alan ve coğrafi olarak önemli bir konumda bulunan bir tepe. Bu tepe, Antalya'nın merkezine uzun bir mesafe uzaklıkta ve ulaşımı oldukça kolay. Tanrıdağı Tepe'nin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşuyor. Bu tepe, çevresi ile birlikte uzun bir mesafelik bir yürüyüş parkuruna sahip ve doğa severler için birçok gezi rotası mevcut. Tanrıdağı Tepe'nin iklimi, tipik Akdeniz iklimi özellikleri gösteriyor ve genellikle sıca ve kuru. Bu bölge, özellikle yaz aylarında ziyaretçilerin ilgisini çekiyor.
+Tanrıdağı Tepe, Akdeniz Bölgesi'nde yer alan ve coğrafi olarak önemli bir konumda bulunan bir tepe. Bu tepe, Antalya'nın merkezine uzun bir mesafe uzaklıkta ve ulaşımı oldukça kolay. Tanrıdağı Tepe'nin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşuyor. Bu tepe, çevresi ile birlikte uzun bir mesafelik bir yürüyüş parkuruna sahip ve doğa severler için birçok gezi rotası mevcut. Tanrıdağı Tepe'nin iklimi, tipik Akdeniz iklimi özellikleri gösteriyor ve genellikle sıcak ve kuru. Bu bölge, özellikle yaz aylarında ziyaretçilerin ilgisini çekiyor.
 
 ## Flora ve Fauna
 

@@ -30,7 +30,7 @@ Kahramanmaras-Antakya-Samandağ Şimşir milli parkının tarihi geçmişi, yüz
 
 ## Coğrafya
 
-Kahramanmaras-Antakya-Samandağ Şimşir milli parkı, İç Anadolu Bölgesi'nde yer alıyor. Coğrafi konumu itibariyle, çeşitli iklim tiplerinin bir araya geldiği bir bölgede yer alıyor. Milli parkın coğrafyası, dağlık ve ovalık alanların bir arada olduğu bir yapıya sahip. Dağların yüksekliği ve ovaların genişliği, milli parkın coğrafi çeşitliliğini oluşturuyor. İklim, genel olarak karasal iklim özelliklerini taşıyor. Kış ayları soğu ve kar yağışlı, yaz ayları ise sıcak ve kuru geçiyor. Bu iklim özellikleri, milli parkın flora ve faunasını etkiliyor. Milli parkın coğrafyası, aynı zamanda önemli bir su kaynağı olarak da hizmet vermeye devam ediyor. Çeşitli nehir ve akarsular, milli parkın su ihtiyacını karşılayan önemli bir kaynak olarak dikkat çekiyor.
+Kahramanmaras-Antakya-Samandağ Şimşir milli parkı, İç Anadolu Bölgesi'nde yer alıyor. Coğrafi konumu itibariyle, çeşitli iklim tiplerinin bir araya geldiği bir bölgede yer alıyor. Milli parkın coğrafyası, dağlık ve ovalık alanların bir arada olduğu bir yapıya sahip. Dağların yüksekliği ve ovaların genişliği, milli parkın coğrafi çeşitliliğini oluşturuyor. İklim, genel olarak karasal iklim özelliklerini taşıyor. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kuru geçiyor. Bu iklim özellikleri, milli parkın flora ve faunasını etkiliyor. Milli parkın coğrafyası, aynı zamanda önemli bir su kaynağı olarak da hizmet vermeye devam ediyor. Çeşitli nehir ve akarsular, milli parkın su ihtiyacını karşılayan önemli bir kaynak olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Huydani Tepesi'nin tarihi geçmişi oldukça zengin. Bu tepenin tarihi hakkında
 
 ## Coğrafya
 
-Huydani Tepesi, Mardin ilinin coğrafi yapısını yansıtan bir tepe. Bu tepenin coğrafi konumu, ziyaretçilerin Mardin'in doğal güzelliklerini gözlemlemesine olanak tanır. Tepenin etrafında çeşitli bitki türleri ve fauna bulunur. İklim, Güneydoğu Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak yazları sıca ve kurak, kışları ise soğu ve yağışlı geçer. Huydani Tepesi, ziyaretçilerine geniş bir manzara sunar ve Mardin'in coğrafi güzelliklerini keşfetme fırsatı sağlar. Tepenin yüksekliği ve konumu, ziyaretçilerin Mardin'in panoramik görünümünü izlemesine olanak tanır.
+Huydani Tepesi, Mardin ilinin coğrafi yapısını yansıtan bir tepe. Bu tepenin coğrafi konumu, ziyaretçilerin Mardin'in doğal güzelliklerini gözlemlemesine olanak tanır. Tepenin etrafında çeşitli bitki türleri ve fauna bulunur. İklim, Güneydoğu Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak yazları sıcak ve kurak, kışları ise soğuk ve yağışlı geçer. Huydani Tepesi, ziyaretçilerine geniş bir manzara sunar ve Mardin'in coğrafi güzelliklerini keşfetme fırsatı sağlar. Tepenin yüksekliği ve konumu, ziyaretçilerin Mardin'in panoramik görünümünü izlemesine olanak tanır.
 
 ## Flora ve Fauna
 

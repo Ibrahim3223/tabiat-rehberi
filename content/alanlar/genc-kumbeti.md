@@ -37,7 +37,7 @@ Genç Kümbeti'nin tarihi geçmişi, yüzyıllar boyunca uzanır. Bu bölge, çe
 
 ## Coğrafya
 
-Genç Kümbeti, coğrafi olarak Doğu Anadolu Bölgesi'nin kuzeydoğusunda yer alır. Bu bölge, dağlık ve engebeli bir araziye sahiptir. Genç Kümbeti, bölgenin önemli su kaynaklarından biri olan bir nehre yakın konumdadır. Bu nehrin çevredekiında, çeşitli bitki türleri ve zengin fauna bulunur. Bölgenin iklimi, karasal iklim özellikleri gösterir. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, bölgenin flora ve faunasını etkiler. Genç Kümbeti, ziyaretçilerine doğal güzelliklerinin yanı sıra, bölgenin coğrafi özelliklerini de keşfetme fırsatı sunar.
+Genç Kümbeti, coğrafi olarak Doğu Anadolu Bölgesi'nin kuzeydoğusunda yer alır. Bu bölge, dağlık ve engebeli bir araziye sahiptir. Genç Kümbeti, bölgenin önemli su kaynaklarından biri olan bir nehre yakın konumdadır. Bu nehrin çevredekiında, çeşitli bitki türleri ve zengin fauna bulunur. Bölgenin iklimi, karasal iklim özellikleri gösterir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, bölgenin flora ve faunasını etkiler. Genç Kümbeti, ziyaretçilerine doğal güzelliklerinin yanı sıra, bölgenin coğrafi özelliklerini de keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

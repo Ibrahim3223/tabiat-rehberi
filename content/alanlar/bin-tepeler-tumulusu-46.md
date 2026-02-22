@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 46'nın tarihi geçmişi, yüzyıllar öncesine dayanı
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 46, Ege Bölgesi'nin coğrafi güzelliğinin bir parçası olarak göze çarpıyor. Salihli ilçesinde yer alan bu tümülüs, geniş bir ovaya hakim bir konumda bulunuyor. Çevresindeki tepe gibi yükselen tümülüsler, bu bölgeyi bir doğa harikası haline getiriyor. Bin Tepeler Tümülüsü 46'nın coğrafyası, ziyaretçilerine Ege Bölgesi'nin karakteristik özelliklerini sunuyor. Bölge, genellikle yazları sıca ve kurak, kışları ise ılıman ve yağışlı bir iklime sahip. Bu iklim, tümülüsün çevresi için uygun koşullar sağlıyor ve ziyaretçilere yılın her döneminde gezebilecekleri bir mekan sunuyor. Bin Tepeler Tümülüsü 46'nın coğrafi konumu, aynı zamanda bölgenin flora ve faunasını da etkiliyor. Bu nedenle, tümülüs ve çevresi, çeşitli bitki türleri ve hayvanlarla dolu bir ekosistemi barındırıyor.
+Bin Tepeler Tümülüsü 46, Ege Bölgesi'nin coğrafi güzelliğinin bir parçası olarak göze çarpıyor. Salihli ilçesinde yer alan bu tümülüs, geniş bir ovaya hakim bir konumda bulunuyor. Çevresindeki tepe gibi yükselen tümülüsler, bu bölgeyi bir doğa harikası haline getiriyor. Bin Tepeler Tümülüsü 46'nın coğrafyası, ziyaretçilerine Ege Bölgesi'nin karakteristik özelliklerini sunuyor. Bölge, genellikle yazları sıcak ve kurak, kışları ise ılıman ve yağışlı bir iklime sahip. Bu iklim, tümülüsün çevresi için uygun koşullar sağlıyor ve ziyaretçilere yılın her döneminde gezebilecekleri bir mekan sunuyor. Bin Tepeler Tümülüsü 46'nın coğrafi konumu, aynı zamanda bölgenin flora ve faunasını da etkiliyor. Bu nedenle, tümülüs ve çevresi, çeşitli bitki türleri ve hayvanlarla dolu bir ekosistemi barındırıyor.
 
 ## Flora ve Fauna
 

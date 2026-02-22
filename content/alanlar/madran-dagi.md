@@ -45,7 +45,7 @@ Güneybatı Anadolu'nun yeşilliklerle kaplı dağlık bölgesinde, 37.6462°K v
 
 Doğal güzelliği ile ön plana çıkan Madran Dağı, coğrafi yapısı itibariyle bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu küçük ama önemli coğrafi oluşum, bölgenin jeolojik yapısını ve doğal güzelliklerini koruma altına almak için önemli bir role sahip. Madran Dağı'nın fiziksel yapısı, bölgenin jeolojik tarihini ve oluşumunu anlamak için önemli bir ipucu sunuyor.
 
-Mevsimsel değişikliklere göre değişen iklimi ile Madran Dağı, bölgenin iklim karakterini şekillendiren önemli bir faktör. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir iklimi olan bu bölge, mevsimsel özellikleriyle dikkat çekiyor. Hava durumu, bölgenin coğrafi yapısı ve yüksekliği ile doğrudan ilişkili olarak değişkenlik gösteriyor.
+Mevsimsel değişikliklere göre değişen iklimi ile Madran Dağı, bölgenin iklim karakterini şekillendiren önemli bir faktör. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir iklimi olan bu bölge, mevsimsel özellikleriyle dikkat çekiyor. Hava durumu, bölgenin coğrafi yapısı ve yüksekliği ile doğrudan ilişkili olarak değişkenlik gösteriyor.
 
 Bölgenin ekosistem bağlantıları ve su kaynakları açısından da önemli bir role sahip olan Madran Dağı, komşu alanlar ile birlikte bir doğal bütünlük oluşturuyor. Çevresindeki diğer dağlar ve ovalar ile birlikte, bölgenin doğal dengesini korumak için önemli bir görev üstleniyor. Bu doğal güzelliğin korunması, bölgenin ekolojik dengesini korumak için hayati önem taşıyor.
 

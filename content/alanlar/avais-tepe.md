@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin doğa harikalarından biri olan Avais Tepe, 37.
 
 Doğal güzelliği ve coğrafi konumuyla dikkat çeken Avais Tepe, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Bu küçük ama önemli alan, bölgenin jeolojik yapısını anlamak için önemli bir ROLE sahiptir. Avais Tepe'nin jeolojik yapısı, bölgenin diğer dağlarıyla benzerlik gösterir ve aynı zamanda bölgenin coğrafi tarihini de yansıtır.
 
-İklim açısından bakıldığında, Avais Tepe ve çevresinin karakteri, Güneydoğu Anadolu Bölgesi'nin genel iklim yapısına benzerlik gösterir. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklim karakterine sahiptir. Bu mevsimsel değişiklikler, Avais Tepe'ninnatural güzelliğini ve biyolojik çeşitliliğini etkiler.
+İklim açısından bakıldığında, Avais Tepe ve çevresinin karakteri, Güneydoğu Anadolu Bölgesi'nin genel iklim yapısına benzerlik gösterir. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklim karakterine sahiptir. Bu mevsimsel değişiklikler, Avais Tepe'ninnatural güzelliğini ve biyolojik çeşitliliğini etkiler.
 
 Çevresel açıdan, Avais Tepe, Batman Nehri gibi önemli su kaynaklarına yakınlığıyla dikkat çeker. Bu su kaynakları, bölgenin ekosistemini ve doğal dengesini korur. Avais Tepe, bölgenin diğer doğal alanlarıyla birlikte, bir bütün olarak düşünülerek koruma altına alınmalıdır. Bu şekilde, bölgenin doğal güzelliği ve biyolojik çeşitliliği korunabilir.
 

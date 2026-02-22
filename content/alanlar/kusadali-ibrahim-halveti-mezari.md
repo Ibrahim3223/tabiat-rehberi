@@ -37,7 +37,7 @@ Kuşadalı İbrahim Halveti Mezarı, yüzyıllar öncesine dayanan bir geçmişe
 
 ## Coğrafya
 
-Kuşadalı İbrahim Halveti Mezarı, Kuşadası'nın coğrafi yapısını yansıtan özel bir konuma sahip. Mezarlık, denize yakın bir konumda yer alıyor ve ziyaretçilere Ege Denizi'nin güzelliğini sunuyor. Bölgenin iklimi, tipik Akdeniz ikliminin özellikleri gösteriyor; yaz ayları sıca ve kurak, kış ayları ise ılıman ve yağışlı geçiyor. Mezarlık alanı, Kuşadası'nın doğal güzelliklerini yansıtan bir peyzaj sunuyor; çeşitli bitki türleri ve ağaçlar, ziyaretçilere bir doğa cenneti deneyimi yaşatıyor. Bu coğrafi konum, mezarın doğal güzelliğini ve tarihsel önemini bir araya getiren benzersiz bir atmosfer sunuyor.
+Kuşadalı İbrahim Halveti Mezarı, Kuşadası'nın coğrafi yapısını yansıtan özel bir konuma sahip. Mezarlık, denize yakın bir konumda yer alıyor ve ziyaretçilere Ege Denizi'nin güzelliğini sunuyor. Bölgenin iklimi, tipik Akdeniz ikliminin özellikleri gösteriyor; yaz ayları sıcak ve kurak, kış ayları ise ılıman ve yağışlı geçiyor. Mezarlık alanı, Kuşadası'nın doğal güzelliklerini yansıtan bir peyzaj sunuyor; çeşitli bitki türleri ve ağaçlar, ziyaretçilere bir doğa cenneti deneyimi yaşatıyor. Bu coğrafi konum, mezarın doğal güzelliğini ve tarihsel önemini bir araya getiren benzersiz bir atmosfer sunuyor.
 
 ## Flora ve Fauna
 

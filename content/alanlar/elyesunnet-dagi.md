@@ -42,7 +42,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden Van'a doğru ilerlerken, gözlerin
 
 Jeolojik açıdan bakıldığında, Elyesünnet Dağı'nın fiziksel yapısı hakkında ayrıntılı bilgiler olmasa da, bölgenin genel coğrafi özellikleri düşünüldüğünde, dağlık bir arazi yapısı olduğu söylenebilir. Bu dağlık alan, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplar ve Van Gölü'nün batı kıyısı boyunca uzanır. Bölgenin jeolojik yapısı, volkani ve sedimentatif kayaçların bir arada bulunmasıyla karakterizedir.
 
-Mevsimsel açıdan, Elyesünnet Dağı'nın bulunduğu bölge, Doğu Anadolu Bölgesi'nin tipik iklim karakterini taşır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir iklim hüküm sürer. Bu mevsimsel değişimler, bölgenin flora ve fauna yapısını şekillendirmiş ve çeşitliliği zenginleştirmiştir. Elyesünnet Dağı, bu iklim koşullarına uyum sağlamış ve bölgenin ekolojik dengesini korur.
+Mevsimsel açıdan, Elyesünnet Dağı'nın bulunduğu bölge, Doğu Anadolu Bölgesi'nin tipik iklim karakterini taşır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürer. Bu mevsimsel değişimler, bölgenin flora ve fauna yapısını şekillendirmiş ve çeşitliliği zenginleştirmiştir. Elyesünnet Dağı, bu iklim koşullarına uyum sağlamış ve bölgenin ekolojik dengesini korur.
 
 Çevresel açıdan, Elyesünnet Dağı, Van Gölü'nün su kaynaklarına yakınlığı ile dikkat çeker. Dağın eteklerinde ve çevresinde, çeşitli su kaynakları ve akarsular bulunur ve bu su kaynakları, bölgenin ekosistemini besler ve canlı yaşamını destekler. Elyesünnet Dağı, Van Gölü'nün batı kıyısı boyunca uzanan bir dağlık arazi yapısı olarak, bölgenin coğrafi ve ekolojik yapısında önemli bir rol oynar.
 

@@ -46,7 +46,7 @@ Doğal güzellikleri ile ön plana çıkan İnyoz adası, Santorin ilçesinde ye
 
 Ada hakkında fiziksel veriler sınırlı olsa da, İnyoz'un coğrafi konumu ve erişilebilirliği dikkat çekiyor. Birkaç olimpik havuz kadar küçük bir alanda yer alan ada, Santorin'in diğer adalarına göre nispeten küçük bir yüzölçümüne sahip. İnyoz'un şekli ve boyutları hakkında detaylı bilgiler olmasa da, ada genel olarak Ege Denizi'nin karakteristik coğrafyasına uygun bir yapıya sahip.
 
-İklim açısından bakıldığında, İnyoz adası Akdeniz ikliminin etkilerini taşıyor. Ada, yaz aylarında sıca ve kuru, kış aylarında ise ılık ve yağışlı bir hava durumuna sahip. Mevsimsel özellikler, ada için karakteristik bir özellik olarak dikkat çekiyor. Ada, Ege Denizi'nin genel iklim koşullarına uygun bir şekilde, ılıman bir iklimi deneyimlemekte.
+İklim açısından bakıldığında, İnyoz adası Akdeniz ikliminin etkilerini taşıyor. Ada, yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı bir hava durumuna sahip. Mevsimsel özellikler, ada için karakteristik bir özellik olarak dikkat çekiyor. Ada, Ege Denizi'nin genel iklim koşullarına uygun bir şekilde, ılıman bir iklimi deneyimlemekte.
 
 Santorin ilçesi içinde yer alan İnyoz adası, çevresel açıdan önemli bir konuma sahip. Ada, yakındaki diğer adalar ve anakara ile çevresel bağlantılar içerisinde yer alıyor. Ayrıca, Ege Denizi'nin su kaynakları ve ekosistemleri ile de bağlantılı bir şekilde, ada doğal yaşamın çeşitliliğini koruyor. İnyoz adasının Monaco'nun yarısı kadar büyüklüğünde olmayan küçük bir alan olması, çevresel ilişkiler açısından önemli bir faktör olarak dikkat çekiyor.
 

@@ -44,7 +44,7 @@ Van ilinin coğrafi güzelliği, Kavuşşahapdağı Tepe gibi noktalarda kendini
 
 Doğal güzelliği ile dikkat çeken bu tepe, yaklaşık 1 kilometrekarelik bir alanı kaplar. Bu, bir şehir bloğu büyüklüğünde bir alan olarak düşünülebilir. Jeolojik açıdan bakıldığında, Kavuşşahapdağı Tepe, bölgenin volkanik yapısına uygun olarak, volkanik kayaçlardan oluşur. Bu yapısı, tepeyi çevresindeki diğer oluşumlar arasında ayrıcalıklı bir konuma taşır.
 
-İklim açısından, Kavuşşahapdağı Tepe, Van ilinin genel iklim karakterini taşır. Bölge, karasal iklimin hakim olduğu bir alanda yer alır. Kışlar soğu ve karlı, yazlar ise sıca ve kurudur. Bu mevsimsel değişimler, tepe ve çevresinin ekosistemini etkiler. Hava durumu, bölgenin coğrafi konumuna bağlı olarak, sık sık değişebilir.
+İklim açısından, Kavuşşahapdağı Tepe, Van ilinin genel iklim karakterini taşır. Bölge, karasal iklimin hakim olduğu bir alanda yer alır. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu mevsimsel değişimler, tepe ve çevresinin ekosistemini etkiler. Hava durumu, bölgenin coğrafi konumuna bağlı olarak, sık sık değişebilir.
 
 Çevresel açıdan bakıldığında, Kavuşşahapdağı Tepe, Van Gölü'nün su kaynaklarına yakın bir konumda yer alır. Bu, bölgenin ekosistemini zenginleştiren önemli bir faktördür. Ayrıca, tepe, bölgenin flora ve faunasının çeşitliliğini destekleyen önemli bir noktadır. Komşu alanlar, tepeyi bir bütün olarak değerlendirmek için önemlidir. Bu açıdan, Kavuşşahapdağı Tepe, Van ilinin doğal güzelliğini temsil eden önemli bir coğrafi oluşumdur.
 

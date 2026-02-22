@@ -42,7 +42,7 @@ Hz. Kab Bin Malik Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alır. Bu b�
 
 ## Flora ve Fauna
 
-Hz. Kab Bin Malik Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Bu bölgede, özellikle tarihi yapılara ve yeşil alanlara yakın bölgelerde, yerel bitki türleri bulunur. İstanbul'un iklimi, bu bölgede de kendini göstermektedir. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıcak ve nemli bir iklim hakimdir. Bu iklim koşulları, bölgede yaşayan canlılar için uygun bir ortam sunmaktadır. Bölgede, özellikle kuş türleri ve diğer küçük hayvanlar bulunur. Bu nedenle, Hz. Kab Bin Malik Türbesi ve çevresindeki bölge, hem dinî hem de doğaçısından zengin bir deneyimleyebilir sunmaktadır. Ziyaretçiler, türbe ve çevresini gezerken, aynı zamanda bölgenin doğal güzelliklerini de keşfetme fırsatı bulabilirler.
+Hz. Kab Bin Malik Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Bu bölgede, özellikle tarihi yapılara ve yeşil alanlara yakın bölgelerde, yerel bitki türleri bulunur. İstanbul'un iklimi, bu bölgede de kendini göstermektedir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve nemli bir iklim hakimdir. Bu iklim koşulları, bölgede yaşayan canlılar için uygun bir ortam sunmaktadır. Bölgede, özellikle kuş türleri ve diğer küçük hayvanlar bulunur. Bu nedenle, Hz. Kab Bin Malik Türbesi ve çevresindeki bölge, hem dinî hem de doğaçısından zengin bir deneyimleyebilir sunmaktadır. Ziyaretçiler, türbe ve çevresini gezerken, aynı zamanda bölgenin doğal güzelliklerini de keşfetme fırsatı bulabilirler.
 
 ## Ziyaret Bilgileri
 

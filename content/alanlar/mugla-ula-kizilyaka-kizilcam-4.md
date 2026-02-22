@@ -30,7 +30,7 @@ Mugla-Ula-Kizilyaka Kızılçam 4 milli parkının tarihi geçmişi, yüzyıllar
 
 ## Coğrafya
 
-Mugla-Ula-Kizilyaka Kızılçam 4 milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alıyor. Bölge, dağlık ve engebeli bir araziye sahip ve bu coğrafi yapı, çeşitli bitki ve hayvan türlerinin yaşamına elverişli koşullar sağlıyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor. Burada, yaz aylarında sıca ve khô bir iklim hüküm sürerken, kış aylarında soğu ve kar yağışlı bir iklim görülmektedir. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler arasında yer alıyor. Milli parkın coğrafi konumu, ziyaretçilerin doğal güzellikleri keşfetmesine olanak tanıyan yürüyüş parkurları ve gözlem noktaları ile donatılmıştır.
+Mugla-Ula-Kizilyaka Kızılçam 4 milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alıyor. Bölge, dağlık ve engebeli bir araziye sahip ve bu coğrafi yapı, çeşitli bitki ve hayvan türlerinin yaşamına elverişli koşullar sağlıyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor. Burada, yaz aylarında sıcak ve kuru bir iklim hüküm sürerken, kış aylarında soğuk ve kar yağışlı bir iklim görülmektedir. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler arasında yer alıyor. Milli parkın coğrafi konumu, ziyaretçilerin doğal güzellikleri keşfetmesine olanak tanıyan yürüyüş parkurları ve gözlem noktaları ile donatılmıştır.
 
 ## Flora ve Fauna
 

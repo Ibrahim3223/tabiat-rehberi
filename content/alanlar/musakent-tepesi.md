@@ -36,7 +36,7 @@ Musakent Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapm�
 
 ## Coğrafya
 
-Musakent Tepesi, Doğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri. Bu tepe, Van şehrinin önemli bir bölümünü kapsıyor. Musakent Tepesi'nin coğrafi yapısı, ziyaretçilerini etkileyen önemli bir unsur. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahip. Musakent Tepesi'nin iklimi, Doğu Anadolu Bölgesi'nin genel iklimi ile benzerlik gösteriyor. Bu bölge, kışları soğu ve karlı, yazları ise sıcak ve kurak geçiyor. Musakent Tepesi, ziyaretçilerine çeşitli coğrafi oluşumlar sunuyor. Bu tepe, doğa severler için ideal bir destinasyon.
+Musakent Tepesi, Doğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri. Bu tepe, Van şehrinin önemli bir bölümünü kapsıyor. Musakent Tepesi'nin coğrafi yapısı, ziyaretçilerini etkileyen önemli bir unsur. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahip. Musakent Tepesi'nin iklimi, Doğu Anadolu Bölgesi'nin genel iklimi ile benzerlik gösteriyor. Bu bölge, kışları soğuk ve karlı, yazları ise sıcak ve kurak geçiyor. Musakent Tepesi, ziyaretçilerine çeşitli coğrafi oluşumlar sunuyor. Bu tepe, doğa severler için ideal bir destinasyon.
 
 ## Flora ve Fauna
 

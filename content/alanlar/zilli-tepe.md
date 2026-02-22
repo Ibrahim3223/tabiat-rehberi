@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi çeşitliliğiçinde yer alan Zilli Te
 
 Doğal bir anıt olarak karşımıza çıkan Zilli Tepe, bölgenin jeolojik yapısını yansıtan bir oluşumdur. Maalesef, detaylı fiziksel verilerin olmaması nedeniyle boyutları tam olarak belirleyemiyoruz, ancak bölgenin genel coğrafi yapısına bakarak, bir şehir bloğu büyüklüğünde bir alanı kapladığı söylenebilir. Zilli Tepe'nin jeolojik yapısı, bölgenin tarihini ve coğrafi oluşumunu anlamak için önemli bir ipucu sunar.
 
-İklim koşulları açısından bakıldığında, Zilli Tepe ve çevresinin Güneydoğu Anadolu Bölgesi'nin karakteristik iklimini yansıttığı görülür. Yaz aylarında sıca ve khô, kış aylarında ise soğu ve yağışlı bir hava durumu hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler ve Zilli Tepe'nin çevresindeki ekosistemi şekillendirir.
+İklim koşulları açısından bakıldığında, Zilli Tepe ve çevresinin Güneydoğu Anadolu Bölgesi'nin karakteristik iklimini yansıttığı görülür. Yaz aylarında sıcak ve kuru, kış aylarında ise soğuk ve yağışlı bir hava durumu hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler ve Zilli Tepe'nin çevresindeki ekosistemi şekillendirir.
 
 Zilli Tepe'nin çevresel ilişkileri, bölgenin su kaynakları ve ekosistem bağlantıları açısından önemlidir. Batman Çayı ve diğer su kaynaklarına yakınlığı, bölgenin hidrolojik dengesini etkileyen faktörlerden biridir. Ayrıca, Zilli Tepe'nin komşu alanlarla olan bağlantısı, bölgenin biyolojik çeşitliliğini koruma açısından da önemlidir. Bu bağlantılar, bölgenin doğal dengesini korumanın yanı sıra, turizm ve ekoturizm faaliyetleri için de potansiyel bir kaynak oluşturur.
 

@@ -36,7 +36,7 @@ wikidata_id: "Q31554291"
 
 ## Coğrafya
 
-Şeyhosman Tepesi, Mardin'in coğrafi yapısını oluşturan önemli bir tepe. Bu tepe, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerine sahip. Bölge, genellikle sıca ve kurak bir iklime sahip. Şeyhosman Tepesi, Mardin şehir merkezine yakın bir konumda bulunmasıyla dikkat çekiyor. Bu tepe, ziyaretçilere Mardin'in şehir manzarasını izleme fırsatı sunuyor. Ayrıca, tepe çevresinde çeşitli bitki türleri ve hayvanlar bulunması, bölgenin ekolojik zenginliğini gösteriyor. Şeyhosman Tepesi, Mardin'in coğrafi güzelliklerini keşfetmek isteyen ziyaretçiler için önemli bir destinasyon.
+Şeyhosman Tepesi, Mardin'in coğrafi yapısını oluşturan önemli bir tepe. Bu tepe, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerine sahip. Bölge, genellikle sıcak ve kurak bir iklime sahip. Şeyhosman Tepesi, Mardin şehir merkezine yakın bir konumda bulunmasıyla dikkat çekiyor. Bu tepe, ziyaretçilere Mardin'in şehir manzarasını izleme fırsatı sunuyor. Ayrıca, tepe çevresinde çeşitli bitki türleri ve hayvanlar bulunması, bölgenin ekolojik zenginliğini gösteriyor. Şeyhosman Tepesi, Mardin'in coğrafi güzelliklerini keşfetmek isteyen ziyaretçiler için önemli bir destinasyon.
 
 ## Flora ve Fauna
 

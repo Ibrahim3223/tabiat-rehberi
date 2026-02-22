@@ -30,7 +30,7 @@ Bursa-Mustafakemalpaşa-Karacabey Kızılçam 1 milli parkının tarihi geçmiş
 
 ## Coğrafya
 
-Bursa-Mustafakemalpaşa-Karacabey Kızılçam 1 milli parkı, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Bu bölgenin coğrafyası, geniş ormanlık alanlar, çeşitli bitki türleri ve zengin fauna çeşitliliği ile dikkat çekiyor. Milli parkın iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak değişkenlik gösteriyor. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıcak ve kurak olan iklim, bu bölgenin doğal güzelliğini ve ekosisteminin çeşitliliğini etkiliyor. Çevre güzelliği, ziyaretçileri bu bölgeye çekiyor ve burayı önemli bir turizm destinasyonu haline getiriyor.
+Bursa-Mustafakemalpaşa-Karacabey Kızılçam 1 milli parkı, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Bu bölgenin coğrafyası, geniş ormanlık alanlar, çeşitli bitki türleri ve zengin fauna çeşitliliği ile dikkat çekiyor. Milli parkın iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak değişkenlik gösteriyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak olan iklim, bu bölgenin doğal güzelliğini ve ekosisteminin çeşitliliğini etkiliyor. Çevre güzelliği, ziyaretçileri bu bölgeye çekiyor ve burayı önemli bir turizm destinasyonu haline getiriyor.
 
 ## Flora ve Fauna
 

@@ -45,7 +45,7 @@ Güneşin battığı saatlerde, Aydın'ın dağlık arazisinde yer alan Durmuş 
 
 Doğal güzelliği ile dikkat çeken bu dağ, coğrafi olarak oldukça çeşitli bir alanda bulunmaktadır. Ancak, fiziksel verilerin sınırlı olması nedeniyle, dağın boyutları ve şekli hakkında net bir bilgi bulunmamaktadır. Buna rağmen, Durmuş Dağı'nın bulunduğu bölgenin jeolojik yapısı, bölgeye özgü kayaçlar ve toprak türleri ile karakterizedir. Bu jeolojik yapı, bölgenin doğal güzelliğinin önemli bir parçasını oluşturur.
 
-İklim açısından bakıldığında, Durmuş Dağı'nın bulunduğu bölge, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kuru, kış aylarında ise ılık ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve Durmuş Dağı'nın doğal güzelliğini şekillendirir.
+İklim açısından bakıldığında, Durmuş Dağı'nın bulunduğu bölge, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve Durmuş Dağı'nın doğal güzelliğini şekillendirir.
 
 Çevresel açıdan, Durmuş Dağı, bölgenin diğer doğal alanlarıyla bağlantılıdır. Yakındaki su kaynakları ve ekosistemler, dağın doğal dengesini korur ve bölgenin biyolojik çeşitliliğini destekler. Durmuş Dağı, bu nedenle, bölgenin ekolojik bütünlüğünün önemli bir parçasıdır ve doğal güzelliği ile birlikte, bölgenin önemli bir turizm merkezi olarak da dikkat çeker.
 

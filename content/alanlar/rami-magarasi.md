@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde, Batman şehrinin yakınında yer alan
 
 Doğal bir jeopark olan Rami Mağarası, jeolojik açıdan ilgi çekici bir yapıya sahiptir. Mağaranın boyutları hakkında detaylı bilgi olmasa da, Batman'ın şehir merkezine yakın konumu ve bölgenin coğrafi yapısı, ziyaretçilerin mağaranın büyüklüğü ve şekli hakkında fikir edinmesine yardımcı olur. Mağaranın jeolojik yapısı, bölgenin tarih öncesi dönemlerinden kalan izleri taşımaktadır.
 
-Mevsimsel açıdan bakıldığında, Rami Mağarası ve çevresinin iklimi, Güneydoğu Anadolu Bölgesi'nin genel iklim karakterini yansıtır. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir hava durumu hakimdir. Bu mevsimsel değişiklikler, mağaranın ve çevresinin flora ve fauna çeşitliliğini etkiler.
+Mevsimsel açıdan bakıldığında, Rami Mağarası ve çevresinin iklimi, Güneydoğu Anadolu Bölgesi'nin genel iklim karakterini yansıtır. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir hava durumu hakimdir. Bu mevsimsel değişiklikler, mağaranın ve çevresinin flora ve fauna çeşitliliğini etkiler.
 
 Çevresel açıdan bakıldığında, Rami Mağarası, Batman Nehri ve çevresindeki doğal alanlarla bağlantılı bir ekosistem oluşturur. Mağaranın yakınlarında bulunan su kaynakları ve doğal yaşam alanları, bölgenin biyolojik çeşitliliğini destekler. Bu doğal bağlantılar, Rami Mağarası'nın bölgenin ekolojik dengesinde önemli bir role sahip olduğunu göstermektedir.
 

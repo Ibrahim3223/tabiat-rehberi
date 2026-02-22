@@ -37,7 +37,7 @@ Evranos Dede Türbesi, tarihi geçmişi ile dikkat çekiyor. İstanbul'un fethi 
 
 ## Coğrafya
 
-Evranos Dede Türbesi, İstanbul'un Fatih ilçesinde yer alıyor. Marmara Bölgesi'nin en önemli şehirlerinden biri olan İstanbul, coğrafi olarak ik bir konumda bulunuyor. Türbe, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor ve bu yükseklik, ziyaretçilere İstanbul'un panoramik manzarasını sunuyor. İstanbul'un iklimi, karasal ve denizel iklimlerin birleşmesiyle oluşuyor ve bu da şehirde dört mevsimi yaşatıyor. Evranos Dede Türbesi, çevresi yeşilliklerle dolu ve bu doğal güzellik, ziyaretçilere huzur dolu bir ortam sunuyor. Türbenin etrafında, çeşitli bitki türleri ve ağaçlar yer alıyor ve bu zengin flora, ziyaretçilere doğanın güzelliğini gösteriyor.
+Evranos Dede Türbesi, İstanbul'un Fatih ilçesinde yer alıyor. Marmara Bölgesi'nin en önemli şehirlerinden biri olan İstanbul, coğrafi olarak ik bir konumda bulunuyor. Türbe, yüksek bir konumda yer alıyor ve bu yükseklik, ziyaretçilere İstanbul'un panoramik manzarasını sunuyor. İstanbul'un iklimi, karasal ve denizel iklimlerin birleşmesiyle oluşuyor ve bu da şehirde dört mevsimi yaşatıyor. Evranos Dede Türbesi, çevresi yeşilliklerle dolu ve bu doğal güzellik, ziyaretçilere huzur dolu bir ortam sunuyor. Türbenin etrafında, çeşitli bitki türleri ve ağaçlar yer alıyor ve bu zengin flora, ziyaretçilere doğanın güzelliğini gösteriyor.
 
 ## Flora ve Fauna
 

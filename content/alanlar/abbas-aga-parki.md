@@ -44,7 +44,7 @@ Genel bir bakışla, Abbas Ağa Parkı, İstanbul'un kalbinde, 41.0461°K, 29.00
 
 Doğal bir perspektiften bakıldığında, Abbas Ağa Parkı, bir şehir bloğu büyüklüğünde bir alan kaplar. Bu boyut, parkın ziyaretçilere küçük ama şirin bir yeşil alan deneyimi sunmasını sağlar. Parkın şekli ve jeolojisi hakkında detaylı bilgi olmasa da, İstanbul'un genel coğrafyası dikkate alındığında, parkın bir tepe veya eğimli bir bölgede yer aldığını varsayma mümkün.
 
-Mevsimsel değişimlerin ışığında, Abbas Ağa Parkı, İstanbul'un ılıman ikliminin tüm özelliklerini taşır. Kış aylarında hafif soğuk, yaz aylarında ise sıca ve nemli bir hava hakimdir. Bu mevsimsel özellikler, parkın bitki örtüsünü ve ziyaretçi deneyimini etkiler.
+Mevsimsel değişimlerin ışığında, Abbas Ağa Parkı, İstanbul'un ılıman ikliminin tüm özelliklerini taşır. Kış aylarında hafif soğuk, yaz aylarında ise sıcak ve nemli bir hava hakimdir. Bu mevsimsel özellikler, parkın bitki örtüsünü ve ziyaretçi deneyimini etkiler.
 
 Çevresel açıdan, Abbas Ağa Parkı, komşu alanlarla ve su kaynaklarıyla bağlantılı bir ekosistem içinde yer alır. Park, İstanbul'un şehir içi yeşil alanlarından biri olarak, kentin ekolojik dengesini destekler ve yerel fauna için bir sığınak görevi görür. Bu bağlamda, parkın çevresel ilişkileri, şehrin daha geniş ölçekli ekolojik yapısını anlamak için önemlidir.
 

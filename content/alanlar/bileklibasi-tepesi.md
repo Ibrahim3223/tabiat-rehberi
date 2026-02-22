@@ -36,7 +36,7 @@ Bileklibaşı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca farklı kültürl
 
 ## Coğrafya
 
-Bileklibaşı Tepesi, Akdeniz Bölgesi'nin coğrafi yapısına uygun olarak, geniş ve yeşil bir alan. Tepenin yüksekliği, ziyaretçilere bölgenin güzel manzarasını sunuyor. Tepenin çevresinde, çeşitli bitki türleri ve zengin fauna found. Bu çeşitlilik, Bileklibaşı Tepesi'nin doğal güzelliğini artırıyor. Tepenin iklimi, Akdeniz Bölgesi'nin karakteristik iklimine uygun olarak, sıca ve kurak yazlar, ılıman ve yağışlı kışlar şeklinde. Bu iklim, tepenin florası ve faunası için uygun koşullar sağlıyor. Bileklibaşı Tepesi, coğrafi konumu ve doğal güzelliği ile, ziyaretçilere benzersiz bir deneyim sunuyor.
+Bileklibaşı Tepesi, Akdeniz Bölgesi'nin coğrafi yapısına uygun olarak, geniş ve yeşil bir alan. Tepenin yüksekliği, ziyaretçilere bölgenin güzel manzarasını sunuyor. Tepenin çevresinde, çeşitli bitki türleri ve zengin fauna found. Bu çeşitlilik, Bileklibaşı Tepesi'nin doğal güzelliğini artırıyor. Tepenin iklimi, Akdeniz Bölgesi'nin karakteristik iklimine uygun olarak, sıcak ve kurak yazlar, ılıman ve yağışlı kışlar şeklinde. Bu iklim, tepenin florası ve faunası için uygun koşullar sağlıyor. Bileklibaşı Tepesi, coğrafi konumu ve doğal güzelliği ile, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ Tarihçesi, Osmanlı İmparatorluğu'nun önemli isimlerinden biri olan Sadrazam
 
 ## Coğrafya
 
-Coğrafi olarak, Sadrazam Ahmet Cevat Paşa Türbesi, Marmara Bölgesi'nin kalbinde, Fatih ilçesinde yer alıyor. Bu bölge, deniz seviyesinden yaklaşık yüksek bir konumdate bulunuyor ve İstanbul Boğazı'na yakın bir konumda yer alıyor. Türbe ve plaj, birlikte uzun bir mesafelik bir sahil şeridini kapsıyor. Bu sahil şeridi, özellikle yaz aylarında ziyaretçilerin tercih ettiği bir nokta oluyor. Bölge, İstanbul'un merkezine oldukça yakın olmasına rağmen, şehrin gürültüsünden uzak bir atmosfere sahip. İklim olarak, İstanbul'un genel iklimine benzer şekilde, karasal ve denizel iklimin bir karışımını görüyoruz. Kışlar soğu ve yağışlı, yazlar ise sıcak ve nemli geçiyor. Bu coğrafi konum, türbenin ve plajın doğal güzelliğini daha da artırıyor.
+Coğrafi olarak, Sadrazam Ahmet Cevat Paşa Türbesi, Marmara Bölgesi'nin kalbinde, Fatih ilçesinde yer alıyor. Bu bölge, yüksek bir konumda bulunuyor ve İstanbul Boğazı'na yakın bir konumda yer alıyor. Türbe ve plaj, birlikte uzun bir mesafelik bir sahil şeridini kapsıyor. Bu sahil şeridi, özellikle yaz aylarında ziyaretçilerin tercih ettiği bir nokta oluyor. Bölge, İstanbul'un merkezine oldukça yakın olmasına rağmen, şehrin gürültüsünden uzak bir atmosfere sahip. İklim olarak, İstanbul'un genel iklimine benzer şekilde, karasal ve denizel iklimin bir karışımını görüyoruz. Kışlar soğuk ve yağışlı, yazlar ise sıcak ve nemli geçiyor. Bu coğrafi konum, türbenin ve plajın doğal güzelliğini daha da artırıyor.
 
 ## Flora ve Fauna
 

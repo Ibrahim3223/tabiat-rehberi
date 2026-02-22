@@ -44,7 +44,7 @@ Gökyüzünden bakıldığında, Küçükada Muğla'nın Ege Denizi'ndeki konumu
 
 Doğal güzelliği ile ön plana çıkan Küçükada, bir şehir bloğu büyüklüğünde bir alana sahip. Bu küçük ama güzel ada, Muğla'nın diğer adalarıyla birlikte bir araya gelerek bölgenin coğrafi çeşitliliğini gösteriyor. Jeolojik olarak bakıldığında, ada'nın yapısı ve şekli, Ege Bölgesi'nin karakteristik özelliklerini taşıyor.
 
-Mevsimsel özellikleriyle de dikkat çeken Küçükada, Akdeniz ikliminin etkilerini gösteriyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumu hakim. Bu iklim karakteri, ada'nın bitki örtüsü ve wildlife'ını etkiliyor ve bölgenin biyolojik çeşitliliğini zenginleştiriyor.
+Mevsimsel özellikleriyle de dikkat çeken Küçükada, Akdeniz ikliminin etkilerini gösteriyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumu hakim. Bu iklim karakteri, ada'nın bitki örtüsü ve wildlife'ını etkiliyor ve bölgenin biyolojik çeşitliliğini zenginleştiriyor.
 
 Su kaynakları ve ekosistem bağlantıları açısından da önemli bir role sahip olan Küçükada, Ege Denizi'ndeki diğer adalar ve kıyı regionsiyle bağlantılı. Ada'nın çevresindeki deniz suyu, bölgenin ekosistemini besliyor ve su canlılarının yaşamını destekliyor. Bu çevresel ilişkiler, Küçükada'nın doğal dengesini korumasını ve bölgenin biyolojik çeşitliliğini sürdürmesini sağlıyor.
 

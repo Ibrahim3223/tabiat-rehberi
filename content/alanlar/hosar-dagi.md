@@ -44,7 +44,7 @@ Hoşar Dağı'nın tarihsel önemi, sadece bölgenin genel tarihsel bağlamıyla
 
 Doğal güzelliği ile ön plana çıkan Hoşar Dağı, yaklaşık olarak Beşiktaş ilçesi büyüklüğünde bir alanı kaplıyor. Bu büyüklük, dağın çevresindeki yerleşim yerleri ve tarım alanları ile birlikte düşünüldüğünde, oldukça önemli bir doğal alan olduğunu gösteriyor. Hoşar Dağı'nın fiziksel yapısı, genellikle kalker ve şist gibi jeolojik oluşumları içeriyor. Bu oluşumlar, dağın yapısını şekillendirmiş ve çevresindeki coğrafyayı etkilemiştir.
 
-İklim koşulları açısından bakıldığında, Hoşar Dağı'nın bulunduğu bölge, karasal iklim özellikleri gösteriyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakim. Bu mevsimsel değişiklikler, dağdaki bitki örtüsünü ve wildlife'ı etkiliyor. Hoşar Dağı, mevsimsel olarak değişen hava koşullarıyla birlikte, doğal bir güzellik olarak dikkat çekmeye devam ediyor.
+İklim koşulları açısından bakıldığında, Hoşar Dağı'nın bulunduğu bölge, karasal iklim özellikleri gösteriyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakim. Bu mevsimsel değişiklikler, dağdaki bitki örtüsünü ve wildlife'ı etkiliyor. Hoşar Dağı, mevsimsel olarak değişen hava koşullarıyla birlikte, doğal bir güzellik olarak dikkat çekmeye devam ediyor.
 
 Çevresel açıdan bakıldığında, Hoşar Dağı, komşu alanlar ve su kaynakları ile önemli bir ilişkiye sahip. Dağ, çevresindeki tarım alanları ve yerleşim yerleri için su kaynağı olarak görev yapıyor. Ayrıca, dağdaki ekosistem, bölgedeki diğer doğal alanlar ile bağlantılı ve birlikte çalışıyor. Bu bağlantı, bölgenin doğal dengesini koruyor ve Hoşar Dağı'nın çevresindeki coğrafyanın önemli bir parçası olarak görülüyor.
 

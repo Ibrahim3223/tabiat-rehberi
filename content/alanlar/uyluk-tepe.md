@@ -45,7 +45,7 @@ Güneybatı Anadolu'nun dağlık bölgesinde, 36.5447°K ve 29.5672°D koordinat
 
 Doğal bir oluşum olan Uyluk Tepe, coğrafi yapısı itibariyle bir şehir bloğu büyüklüğünde düşünülebilecek bir alana yayılıyor. Bu küçük ama önemli coğrafi oluşum, bölgenin jeolojik yapısını anlamak için önemli bir ipucu sunuyor. Uyluk Tepe'nin yüksekliği, 85 katlı bir gökdelen kadar yüksek olmasa da, etraftaki diğer tepe ve dağlarla birlikte bir bütün olarak ele alındığında, bölgenin topografyasının nasıl şekillendiğini gösteriyor.
 
-Mevsimler değiştiğinde, Uyluk Tepe'nin iklimi değişiyor. Kışın soğu ve yağmurlu, yazın ise sıca ve kurak olan bu bölge, Akdeniz ikliminin tipik özelliklerini taşıyor. Uyluk Tepe'nin bulunduğu bölgede, yıllık yağış miktarı 600-800 mm arasında değişiyor, bu da bölgenin su kaynaklarının nasıl yönetildiği hakkında önemli bilgiler veriyor.
+Mevsimler değiştiğinde, Uyluk Tepe'nin iklimi değişiyor. Kışın soğu ve yağmurlu, yazın ise sıcak ve kurak olan bu bölge, Akdeniz ikliminin tipik özelliklerini taşıyor. Uyluk Tepe'nin bulunduğu bölgede, yıllık yağış miktarı 600-800 mm arasında değişiyor, bu da bölgenin su kaynaklarının nasıl yönetildiği hakkında önemli bilgiler veriyor.
 
 Uyluk Tepe, çevresindeki diğer coğrafi oluşumlarla da bağlantılı. Yakınlardaki su kaynakları, bölgenin ekosistemini şekillendiren önemli faktörler arasında. Uyluk Tepe, Monaco'nun yarısı kadar büyük olmayan bir alanda, Taksim Meydanı'nın birkaç katı büyüklüğünde bir coğrafi yapı olarak, bölgenin doğal dengesini koruması açısından önemli bir role sahip. Bu tepenin korunması, sadece bölgedeki su kaynaklarının değil, aynı zamanda bölgenin tüm ekosisteminin sağlığı için kritik önem taşıyor.
 

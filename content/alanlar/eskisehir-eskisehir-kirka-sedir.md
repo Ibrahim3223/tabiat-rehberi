@@ -30,7 +30,7 @@ Eskişehir-Eskişehir-Kırka-Sedir milli parkının tarihi geçmişi, yüzyılla
 
 ## Coğrafya
 
-Eskişehir-Eskişehir-Kırka-Sedir milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Parkın coğrafi yapısı, farklı yüksekliklerde ve eğimlerde bulunan arazileriyle dikkat çekiyor. Bu durum, çeşitli bitki türlerinin yetişmesine olanak tanıyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri doğrultusunda, karasal bir iklim özellikleri gösteriyor. Kış mevsimi soğu ve kar yağışlı, yaz mevsimi ise sıcak ve kurak geçiyor. Bu iklim koşulları, milli parkın flora ve faunasını şekillendiriyor. Parkın çevresi, doğal güzellikleriyle dikkat çekiyor ve ziyaretçilerine güzel manzaralar sunuyor.
+Eskişehir-Eskişehir-Kırka-Sedir milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Parkın coğrafi yapısı, farklı yüksekliklerde ve eğimlerde bulunan arazileriyle dikkat çekiyor. Bu durum, çeşitli bitki türlerinin yetişmesine olanak tanıyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri doğrultusunda, karasal bir iklim özellikleri gösteriyor. Kış mevsimi soğuk ve kar yağışlı, yaz mevsimi ise sıcak ve kurak geçiyor. Bu iklim koşulları, milli parkın flora ve faunasını şekillendiriyor. Parkın çevresi, doğal güzellikleriyle dikkat çekiyor ve ziyaretçilerine güzel manzaralar sunuyor.
 
 ## Flora ve Fauna
 

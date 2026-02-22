@@ -36,7 +36,7 @@ Razialigaa Tepesi'nin tarihi geçmişi, Diyarbakır'ın tarihi ile iç içe geç
 
 ## Coğrafya
 
-Razialigaa Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, genellikle dağlık ve engebeli araziler ile çevrili. Tepenin etrafı, çeşitli bitki türleri ile kaplı ve fauna açısından zengin bir bölge. Razialigaa Tepesi'nin coğrafi konumu, ziyaretçilere bölgenin doğal güzelliğini keşfetme fırsatı sunuyor. Tepenin zirvesinden, çevredeki dağları ve vadileri görme mümkün. Bu manzara, özellikle gün batımında daha da güzelleşiyor. Razialigaa Tepesi'nin iklimi, bölgenin genel iklimine uygun olarak, yazları sıca ve kurak, kışları ise soğu ve yağışlı geçiyor. Bu iklim koşulları, tepenin flora ve fauna'sını şekillendirmiş. Tepenin eteklerinde, çeşitli tarım ürünleri yetiştiriliyor ve bölgenin ekonomisine katkı sağlıyor.
+Razialigaa Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, genellikle dağlık ve engebeli araziler ile çevrili. Tepenin etrafı, çeşitli bitki türleri ile kaplı ve fauna açısından zengin bir bölge. Razialigaa Tepesi'nin coğrafi konumu, ziyaretçilere bölgenin doğal güzelliğini keşfetme fırsatı sunuyor. Tepenin zirvesinden, çevredeki dağları ve vadileri görme mümkün. Bu manzara, özellikle gün batımında daha da güzelleşiyor. Razialigaa Tepesi'nin iklimi, bölgenin genel iklimine uygun olarak, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı geçiyor. Bu iklim koşulları, tepenin flora ve fauna'sını şekillendirmiş. Tepenin eteklerinde, çeşitli tarım ürünleri yetiştiriliyor ve bölgenin ekonomisine katkı sağlıyor.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Tecdin Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmı�
 
 ## Coğrafya
 
-Tecdin Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe. Tepenin etrafında, geniş düzlükler ve uzak dağlar bulunuyor. Bu düzlükler, tarım için elverişli ve verimli. Tepenin zirvesine çıktığınızda, geniş bir manzara açıyor. Güneydoğu Anadolu Bölgesi'nin coğrafi çeşitliliği, Tecdin Tepesi'nde somutlaşıyor. Tepenin iklimi, bölgenin genel iklimine uygun. Yaz ayları sıca ve kurak, kış ayları ise soğu ve yağışlı. Bu iklim, bölgenin flora ve faunasını etkiliyor. Tecdin Tepesi, coğrafi açıdan zengin bir bölge ve ziyaretçilerine geniş bir perspektif sunuyor.
+Tecdin Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe. Tepenin etrafında, geniş düzlükler ve uzak dağlar bulunuyor. Bu düzlükler, tarım için elverişli ve verimli. Tepenin zirvesine çıktığınızda, geniş bir manzara açıyor. Güneydoğu Anadolu Bölgesi'nin coğrafi çeşitliliği, Tecdin Tepesi'nde somutlaşıyor. Tepenin iklimi, bölgenin genel iklimine uygun. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı. Bu iklim, bölgenin flora ve faunasını etkiliyor. Tecdin Tepesi, coğrafi açıdan zengin bir bölge ve ziyaretçilerine geniş bir perspektif sunuyor.
 
 ## Flora ve Fauna
 

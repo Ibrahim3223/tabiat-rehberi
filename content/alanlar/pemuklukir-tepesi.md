@@ -36,7 +36,7 @@ Pemuklukır Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyet
 
 ## Coğrafya
 
-Pemuklukır Tepesi, Akdeniz Bölgesi'nin karakteristik coğrafi yapısına uygun olarak, etrafını saran dağlar ve vadilerle birlikte bir bütünü oluşturur. Tepenin yüksekliği, bölgenin genel coğrafi yapısını etkileyen önemli bir faktör olup, eteklerinde akan nehirler ve dereler, bu tepeyle birlikte birleşerek zengin bir hidrolojik ağ oluşturur. Pemuklukır Tepesi'nin iklimi, Akdeniz ikliminin özelliklerini taşır; yani yazlar sıca ve kurak, kışlar ise ılıman ve yağışlı geçer. Bu iklim, tepe ve çevresinde çeşitli bitki türlerinin yetişmesine olanak sağlar ve bu nedenle Pemuklukır Tepesi, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. Tepenin coğrafi konumu ve yapısı, aynı zamanda burada yaşayan insanların yaşam tarzını da etkilemiştir. Tarım ve hayvancılık, bu bölgede önemli ekonomik faaliyetler olarak yer almıştır.
+Pemuklukır Tepesi, Akdeniz Bölgesi'nin karakteristik coğrafi yapısına uygun olarak, etrafını saran dağlar ve vadilerle birlikte bir bütünü oluşturur. Tepenin yüksekliği, bölgenin genel coğrafi yapısını etkileyen önemli bir faktör olup, eteklerinde akan nehirler ve dereler, bu tepeyle birlikte birleşerek zengin bir hidrolojik ağ oluşturur. Pemuklukır Tepesi'nin iklimi, Akdeniz ikliminin özelliklerini taşır; yani yazlar sıcak ve kurak, kışlar ise ılıman ve yağışlı geçer. Bu iklim, tepe ve çevresinde çeşitli bitki türlerinin yetişmesine olanak sağlar ve bu nedenle Pemuklukır Tepesi, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. Tepenin coğrafi konumu ve yapısı, aynı zamanda burada yaşayan insanların yaşam tarzını da etkilemiştir. Tarım ve hayvancılık, bu bölgede önemli ekonomik faaliyetler olarak yer almıştır.
 
 ## Flora ve Fauna
 

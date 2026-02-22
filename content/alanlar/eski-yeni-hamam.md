@@ -38,7 +38,7 @@ Eski Yeni Hamam'ın tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bölge,
 
 ## Coğrafya
 
-Eski Yeni Hamam, coğrafi konumu itibariyle, Marmara Bölgesi'nin en güzel noktalarından biridir. Bu bölge, deniz kenarında yer alır ve çevresi yeşilliklerle kaplıdır. Eski Yeni Hamam, yaklaşık 140 hektarlık bir alanı kaplar ve bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Eski Yeni Hamam'ın coğrafyası, ziyaretçilerine geniş alanlar sunar. Burada, kumsalın keyfini çıkarabilir, denizde serinleyebilir veya çevreyi keşfe çıkabilirsiniz. Eski Yeni Hamam'ın iklimi, Marmara Bölgesi'nin tipik iklimine benzer. Yaz ayları sıca ve güneşli, kış ayları ise serin ve yağışlı geçer. Eski Yeni Hamam, yılın dört mevsimi ziyaret edilebilir, ancak en çok tercih edilen zaman, yaz aylarıdır. Eski Yeni Hamam, doğal güzelliği, tarihi geçmişi ve coğrafi konumuyla ziyaretçilerini bekliyor.
+Eski Yeni Hamam, coğrafi konumu itibariyle, Marmara Bölgesi'nin en güzel noktalarından biridir. Bu bölge, deniz kenarında yer alır ve çevresi yeşilliklerle kaplıdır. Eski Yeni Hamam, yaklaşık 140 hektarlık bir alanı kaplar ve bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Eski Yeni Hamam'ın coğrafyası, ziyaretçilerine geniş alanlar sunar. Burada, kumsalın keyfini çıkarabilir, denizde serinleyebilir veya çevreyi keşfe çıkabilirsiniz. Eski Yeni Hamam'ın iklimi, Marmara Bölgesi'nin tipik iklimine benzer. Yaz ayları sıcak ve güneşli, kış ayları ise serin ve yağışlı geçer. Eski Yeni Hamam, yılın dört mevsimi ziyaret edilebilir, ancak en çok tercih edilen zaman, yaz aylarıdır. Eski Yeni Hamam, doğal güzelliği, tarihi geçmişi ve coğrafi konumuyla ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 

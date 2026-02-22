@@ -42,7 +42,7 @@ Doğunun gizli köşelerinden biri olan Ağak Burnu, Van'ın doğal güzellikler
 
 Jeolojik açıdan bakıldığında, Ağak Burnu'nun fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölgenin coğrafi özellikleri Van'ın genel yapısına benzerlik gösteriyor. Van Gölü'nün kıyısında yer alan bu bölge, gölün su seviyesine göre değişen bir fiziksel yapıya sahip. Bölgenin boyutları hakkında somut bir veri olmasa da, buranın bir birkaç olimpik havuz kadar büyük bir alanı kapladığı söylenebilir.
 
-İklim açısından Ağak Burnu, Van'ın karasal ikliminin etkilerini taşıyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kuru bir hava hüküm sürüyor. Bölgede mevsimsel özellikler belirgin bir şekilde hissediliyor ve hava durumu genellikle Van'ın genel iklimine benzerlik gösteriyor. Eiffel Kulesi'nin 2 katı yükseklikte olan çevredeki dağlar, bölgenin iklimini etkileyen önemli faktörlerden biri.
+İklim açısından Ağak Burnu, Van'ın karasal ikliminin etkilerini taşıyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kuru bir hava hüküm sürüyor. Bölgede mevsimsel özellikler belirgin bir şekilde hissediliyor ve hava durumu genellikle Van'ın genel iklimine benzerlik gösteriyor. Eiffel Kulesi'nin 2 katı yükseklikte olan çevredeki dağlar, bölgenin iklimini etkileyen önemli faktörlerden biri.
 
 Çevresel açıdan bakıldığında, Ağak Burnu'nun Van Gölü'ne olan yakınlığı, bölgenin ekosistem bağlantılarını önemli kılıyor. Gölün su kaynakları, bölgenin doğal yaşamını destekleyen temel unsurlardan biri. Monaco'nun yarısı kadar büyük olmayan bu bölge, Van'ın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon.
 

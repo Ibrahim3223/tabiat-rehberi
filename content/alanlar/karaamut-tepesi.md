@@ -36,7 +36,7 @@ Karaamut Tepesi'nin tarihi geçmişi, Şanlıurfa'nın tarihi ile iç içe geçm
 
 ## Coğrafya
 
-Karaamut Tepesi, Şanlıurfa'nın güneydoğusunda yer alan bir tepe ve şehrin merkezi bölgesine oldukça yakın. Tepenin coğrafi yapısı, şehrin genel coğrafi yapısına benzerlik gösteriyor ve bu bölge, çeşitli bitki türleri ve hayvanlarla dolu. Karaamut Tepesi, yaklaşık 200 futbol sahası büyüklüğünde ve 140 hektarlık bir alana sahip. Tepenin yüksekliği, şehrin merkezi bölgesine göre daha yükse ve bu, ziyaretçilere şehrin panoramik manzarasını sunuyor. Şanlıurfa'nın iklimi, genel olarak sıca ve kuru ancak Karaamut Tepesi, şehrin diğer bölgelerine göre daha serin ve nemli. Bu, ziyaretçilere daha konforlu bir gezi deneyimi sunuyor. Tepenin coğrafi konumu, ziyaretçilere şehrin doğal güzelliklerini keşfetmek için eşsiz bir fırsat sunuyor ve bu bölge, Şanlıurfa'nın en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
+Karaamut Tepesi, Şanlıurfa'nın güneydoğusunda yer alan bir tepe ve şehrin merkezi bölgesine oldukça yakın. Tepenin coğrafi yapısı, şehrin genel coğrafi yapısına benzerlik gösteriyor ve bu bölge, çeşitli bitki türleri ve hayvanlarla dolu. Karaamut Tepesi, yaklaşık 200 futbol sahası büyüklüğünde ve 140 hektarlık bir alana sahip. Tepenin yüksekliği, şehrin merkezi bölgesine göre daha yükse ve bu, ziyaretçilere şehrin panoramik manzarasını sunuyor. Şanlıurfa'nın iklimi, genel olarak sıcak ve kuru ancak Karaamut Tepesi, şehrin diğer bölgelerine göre daha serin ve nemli. Bu, ziyaretçilere daha konforlu bir gezi deneyimi sunuyor. Tepenin coğrafi konumu, ziyaretçilere şehrin doğal güzelliklerini keşfetmek için eşsiz bir fırsat sunuyor ve bu bölge, Şanlıurfa'nın en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

@@ -51,7 +51,7 @@ Ramazanoğlu Türbesi, tarihsel olarak önemli bir geçmişe sahiptir. Bu türbe
 Ramazanoğlu Türbesi, Adana'nın Seyhan ilçesinde bulunur ve yaklaşık 140 hektarlık bir yeşil alanı içinde yer alır.
    Bu geniş yeşil alan, ziyaretçilere geniş bir açık alan sunar ve şehir hayatının yoğunluğundan uzaklaşmak isteyenler için
    ideal bir kaçış noktasıdır. Türbe ve çevresindeki yeşil alan, Akdeniz Bölgesi'nin karakteristik ikliminin etkilerini taşır.
-   Bölge, genellikle sıca ve kuru yaz ayları ile ılıman ve yağışlı kış aylarıyla karakterizedir. Ramazanoğlu Türbesi
+   Bölge, genellikle sıcak ve kuru yaz ayları ile ılıman ve yağışlı kış aylarıyla karakterizedir. Ramazanoğlu Türbesi
    çevresindeki yeşil alanlar, çeşitli bitki türleri ile kaplıdır ve ziyaretçilere şehrin doğal güzelliklerini keşfetme
    fırsatı sunar. Bu türbe, Adana'nın şehir merkezine yakın bir konumda bulunmakta olup, ulaşımı kolaydır.
    Ziyaretçiler, toplu taşıma veya özel araçlarıyla kolayca ulaşabilirler. Ramazanoğlu Türbesi, Adana'nın önemli

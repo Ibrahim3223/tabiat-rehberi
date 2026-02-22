@@ -37,7 +37,7 @@ Salih Bey Türbesi, Perte ve Tunceli'nin tarihi geçmişiçerisinde önemli bir 
 
 ## Coğrafya
 
-Salih Bey Türbesi ve plajı, Pertek'in coğrafi güzellikleri arasında yer alıyor. Bu bölge, Doğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Yüksek dağlar, geniş ovalar ve nehirler, bölgenin coğrafi yapısını oluşturuyor. Türbe ve plaj, Fırat Nehri'nin kıyısında yer alıyor ve bu konum, ziyaretçilere muhteşem manzaralar sunuyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor; kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi ve iklimsel koşullar, bölgenin flora ve faunasını şekillendiriyor ve ziyaretçilere zengin bir doğa deneyimi sunuyor.
+Salih Bey Türbesi ve plajı, Pertek'in coğrafi güzellikleri arasında yer alıyor. Bu bölge, Doğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Yüksek dağlar, geniş ovalar ve nehirler, bölgenin coğrafi yapısını oluşturuyor. Türbe ve plaj, Fırat Nehri'nin kıyısında yer alıyor ve bu konum, ziyaretçilere muhteşem manzaralar sunuyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor; kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi ve iklimsel koşullar, bölgenin flora ve faunasını şekillendiriyor ve ziyaretçilere zengin bir doğa deneyimi sunuyor.
 
 ## Flora ve Fauna
 
@@ -45,7 +45,7 @@ Salih Bey Türbesi ve çevresindeki flora, bölgeye özgü çeşitli bitki türl
 
 ## Ziyaret Bilgileri
 
-Salih Bey Türbesi ve plajını ziyaret etmek, Perte ve Tunceli'nin tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir seçenektir. Türbeyi ziyaret etmek için en uygun zaman, ilkbahar ve yaz aylarıdır, çünkü bu dönemde hava daha sıca ve güneşli oluyor. Ziyaretçiler, türbeye saygı çerçevesinde giyinmelidir. Plajda, serinleme ve doğanın güzelliğini seyretmek için zaman ayırmak da mümkündür. Ziyaretçilere, bölgede bulunan restoranlarda yerel lezzetleri tadarak, kültürel deneyimi tamamlamak önerilir.
+Salih Bey Türbesi ve plajını ziyaret etmek, Perte ve Tunceli'nin tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir seçenektir. Türbeyi ziyaret etmek için en uygun zaman, ilkbahar ve yaz aylarıdır, çünkü bu dönemde hava daha sıcak ve güneşli oluyor. Ziyaretçiler, türbeye saygı çerçevesinde giyinmelidir. Plajda, serinleme ve doğanın güzelliğini seyretmek için zaman ayırmak da mümkündür. Ziyaretçilere, bölgede bulunan restoranlarda yerel lezzetleri tadarak, kültürel deneyimi tamamlamak önerilir.
 
 ## İlginç Bilgiler
 

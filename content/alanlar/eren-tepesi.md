@@ -37,7 +37,7 @@ Eren Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin i
 
 ## Coğrafya
 
-Eren Tepesi, Muğla'nın coğrafi olarak en güzel bölgelerinden birinde yer alır. Bu tepe, Ege Bölgesi'nin karakteristik coğrafi özellikleri olan dağlar, vadiler ve ovalarla çevrilidir. Eren Tepesi'nin zirvesinden, Ege Denizi'nin muhteşem manzarası izlenebilir. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, yerli ve göçmen kuş türleri için önemli bir göç yolu üzerinde yer alır. Eren Tepesi'nin iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine sahiptir. Yaz ayları sıca ve kurak, kış ayları ılık ve yağışlı geçer. İlkbahar ve sonbahar mevsimleri, Eren Tepesi'ni ziyaret etmek için en uygun zamanlardır.
+Eren Tepesi, Muğla'nın coğrafi olarak en güzel bölgelerinden birinde yer alır. Bu tepe, Ege Bölgesi'nin karakteristik coğrafi özellikleri olan dağlar, vadiler ve ovalarla çevrilidir. Eren Tepesi'nin zirvesinden, Ege Denizi'nin muhteşem manzarası izlenebilir. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, yerli ve göçmen kuş türleri için önemli bir göç yolu üzerinde yer alır. Eren Tepesi'nin iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine sahiptir. Yaz ayları sıcak ve kurak, kış ayları ılık ve yağışlı geçer. İlkbahar ve sonbahar mevsimleri, Eren Tepesi'ni ziyaret etmek için en uygun zamanlardır.
 
 ## Flora ve Fauna
 

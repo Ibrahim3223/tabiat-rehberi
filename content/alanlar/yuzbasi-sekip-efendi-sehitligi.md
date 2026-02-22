@@ -37,7 +37,7 @@ Yüzbaşı Şekip Efendi Şehitliği, tarihsel geçmişi olan bir alandır. Bu b
 
 ## Coğrafya
 
-Yüzbaşı Şekip Efendi Şehitliği, Ege Bölgesi'nin Kütahya iline bağlı Altıntaş'ta yer alır. Bu plaj, denizle iç içe bir konumda bulunuyor. Plajın etrafı, yeşilliklerle örtülü alanlarla çevrilidir. İklim olarak, Ege Bölgesi'nin karakteristik Akdeniz iklimini taşır. Yazları sıca ve kurak, kışları ise ılık ve yağışlı geçer. Bu bölge, coğrafi konumuyla birlikte, ziyaretçilerine geniş bir faaliyet yelpazesi sunar. Deniz, kumsal ve yeşilliklerin birleştiği bu nokta, ziyaretçilerini doğanın güzelliği ile baş başa bırakır.
+Yüzbaşı Şekip Efendi Şehitliği, Ege Bölgesi'nin Kütahya iline bağlı Altıntaş'ta yer alır. Bu plaj, denizle iç içe bir konumda bulunuyor. Plajın etrafı, yeşilliklerle örtülü alanlarla çevrilidir. İklim olarak, Ege Bölgesi'nin karakteristik Akdeniz iklimini taşır. Yazları sıcak ve kurak, kışları ise ılık ve yağışlı geçer. Bu bölge, coğrafi konumuyla birlikte, ziyaretçilerine geniş bir faaliyet yelpazesi sunar. Deniz, kumsal ve yeşilliklerin birleştiği bu nokta, ziyaretçilerini doğanın güzelliği ile baş başa bırakır.
 
 ## Flora ve Fauna
 

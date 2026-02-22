@@ -30,7 +30,7 @@ Mersin-Tarsus-Namrun Kızılçam Milli Parkı, tarihi geçmişi ile dikkat çeki
 
 ## Coğrafya
 
-Mersin-Tarsus-Namrun Kızılçam Milli Parkı, Mersin'in Tarsus ilçesinde yer alıyor. Parkın coğrafyası, kızılçam ormanları ve çeşitli bitki türleriyle kaplı. Bu bölgenin iklimi, Akdeniz ikliminin característicasını taşıyor; yani yazları sıca ve kurak, kışları ılıman ve yağışlı. Parkın içindeki su kaynakları, ziyaretçilerin serinleyip dinlenebileceği alanlar sunuyor. Mersin-Tarsus-Namrun Kızılçam Milli Parkı, coğrafi konumu itibariyle, ziyaretçilerin doğayı yakından tanımasına olanak tanır. Parkın çevresi, çeşitli dağlar ve vadilerle çevrilidir ve bu coğrafi özellikler, parkın doğal güzelliğini artırır.
+Mersin-Tarsus-Namrun Kızılçam Milli Parkı, Mersin'in Tarsus ilçesinde yer alıyor. Parkın coğrafyası, kızılçam ormanları ve çeşitli bitki türleriyle kaplı. Bu bölgenin iklimi, Akdeniz ikliminin característicasını taşıyor; yani yazları sıcak ve kurak, kışları ılıman ve yağışlı. Parkın içindeki su kaynakları, ziyaretçilerin serinleyip dinlenebileceği alanlar sunuyor. Mersin-Tarsus-Namrun Kızılçam Milli Parkı, coğrafi konumu itibariyle, ziyaretçilerin doğayı yakından tanımasına olanak tanır. Parkın çevresi, çeşitli dağlar ve vadilerle çevrilidir ve bu coğrafi özellikler, parkın doğal güzelliğini artırır.
 
 ## Flora ve Fauna
 

@@ -42,7 +42,7 @@ Mardin'in coğrafi güzelliğiçerisinde yer alan Şıhık Tepe, 37.5992°K, 40.
 
 Doğal güzelliği ile dikkat çeken Şıhık Tepe, Mardin'in coğrafi yapısını oluşturan dağlık alanların bir parçasıdır. Ancak, detaylı fiziksel verilerin bulunmaması nedeniyle, Şıhık Tepe'nin yüksekliği veya şekli hakkında net bir bilgi bulunmamaktadır. Buna rağmen, Mardin'in genel coğrafi yapısına bakıldığında, Şıhık Tepe'nin de benzer bir jeolojik yapıya sahip olduğu söylenebilir.
 
-Mardin'in iklimi, Şıhık Tepe'nin coğrafi yapısını etkileyen önemli bir faktördür. Bu bölge, karasal iklimin hakim olduğu bir alan olup, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir hava durumu görülmektedir. Bu mevsimsel özellikler, Şıhık Tepe'nin doğal güzelliğini ve biyolojik çeşitliliğini etkilemektedir.
+Mardin'in iklimi, Şıhık Tepe'nin coğrafi yapısını etkileyen önemli bir faktördür. Bu bölge, karasal iklimin hakim olduğu bir alan olup, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir hava durumu görülmektedir. Bu mevsimsel özellikler, Şıhık Tepe'nin doğal güzelliğini ve biyolojik çeşitliliğini etkilemektedir.
 
 Mardin'in coğrafi yapısı, Şıhık Tepe'nin çevresel ilişkilerini de etkilemektedir. Bu dağ, Mardin'in su kaynaklarına ve ekosistem bağlantılarına yakın bir konumda bulunmaktadır. Şıhık Tepe, Mardin'in doğal güzelliğini ve biyolojik çeşitliliğini korumak için önemli bir role sahiptir. Bu nedenle, Şıhık Tepe'nin korunması ve korunmasına yönelik çalışmalara ihtiyaç duyulmaktadır.
 

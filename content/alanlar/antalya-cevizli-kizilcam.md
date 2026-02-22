@@ -30,7 +30,7 @@ Antalya-Cevizli Kızılçam milli parkının tarihi geçmişi, yüzyıllar boyun
 
 ## Coğrafya
 
-Antalya-Cevizli Kızılçam milli parkı, coğrafi olarak oldukça çeşitli bir yapıya sahip. Parkın içinde, farklı yüksekliklerde ve eğimlerde yer alan araziler, ziyaretçilere çeşitli manzaralar sunuyor. Geniş ormanlık alanlar, dağlık bölgeler ve vadiler, parkın coğrafi yapısını oluşturuyor. Ayrıca, parkta yer alan akarsular ve göller, bölgenin su kaynaklarını oluşturuyor. İklim-wise, parkın bulunduğu bölge, Akdeniz ikliminin etkisi altında. Bu nedenle, parkta yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava hüküm sürüyor. Bu çeşitlilik, parkın flora ve fauna açısından zengin olmasını sağlıyor. Parkın coğrafi konumu ve iklimi, burada yaşayan bitkilerin ve hayvanların çeşitliliğini etkiliyor. Bu nedenle, Cevizli Kızılçam milli parkı, biyolojik çeşitlilik açısından önemli bir alan olarak kabul ediliyor.
+Antalya-Cevizli Kızılçam milli parkı, coğrafi olarak oldukça çeşitli bir yapıya sahip. Parkın içinde, farklı yüksekliklerde ve eğimlerde yer alan araziler, ziyaretçilere çeşitli manzaralar sunuyor. Geniş ormanlık alanlar, dağlık bölgeler ve vadiler, parkın coğrafi yapısını oluşturuyor. Ayrıca, parkta yer alan akarsular ve göller, bölgenin su kaynaklarını oluşturuyor. İklim-wise, parkın bulunduğu bölge, Akdeniz ikliminin etkisi altında. Bu nedenle, parkta yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava hüküm sürüyor. Bu çeşitlilik, parkın flora ve fauna açısından zengin olmasını sağlıyor. Parkın coğrafi konumu ve iklimi, burada yaşayan bitkilerin ve hayvanların çeşitliliğini etkiliyor. Bu nedenle, Cevizli Kızılçam milli parkı, biyolojik çeşitlilik açısından önemli bir alan olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

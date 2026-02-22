@@ -39,7 +39,7 @@ Doğal güzellikleri ile ünlü olan bu bölge, yılancık adası gibi birçok �
 
 ## Coğrafya
 
-Güneybatı Anadolu'nun güneşli kıyılarında, 36.7733°K ve 28.4392°D koordinatlarında yer alan Yılancık Ada, Muğla'nın doğal güzelliklerini barındıran bir bölgede bulunmaktadır. Bu ada, Datça Yarımadası'nın yakınında, Akdeniz'in mavi suları ile çevrilidir. Ege Denizi'nin serin sularının etkisi altında olan bu bölge, yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir iklimi deneyimlemektedir.
+Güneybatı Anadolu'nun güneşli kıyılarında, 36.7733°K ve 28.4392°D koordinatlarında yer alan Yılancık Ada, Muğla'nın doğal güzelliklerini barındıran bir bölgede bulunmaktadır. Bu ada, Datça Yarımadası'nın yakınında, Akdeniz'in mavi suları ile çevrilidir. Ege Denizi'nin serin sularının etkisi altında olan bu bölge, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir iklimi deneyimlemektedir.
 
 Doğal güzelliği ile dikkat çeken bu ada, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Jeolojik açıdan bakıldığında, ada genelde kireçtaşı ve volkanik kayaçlardan oluşmaktadır. Bu kayaların erozyonuna bağlı olarak, ada çevresinde çeşitli küçük koylar ve plajlar oluşmuştur. Bu oluşumlar, ada çevresinde bir dizi farklı habitat ve ekosistemi desteklemektedir.
 

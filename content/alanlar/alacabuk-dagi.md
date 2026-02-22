@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden Van'da yer alan Alacabük Dağı, 
 
 Jeolojik açıdan bakıldığında, Alacabük Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, koordinatlarından anlaşılacağı üzere, dağlık bir bölgede yer alıyor. Eğer bir karşılaştırma yapmak gerekirse, Alacabük Dağı'nın bulunduğu bölge, Monaco'nun yarısı kadar bir alanı kaplayacak büyüklükte. Bu da bize, dağın ve çevresinin oldukça geniş bir alanı kapsadığını gösteriyor.
 
-Mevsimsel olarak bakıldığında, Alacabük Dağı'nın iklim karakteri, Van'ın genel iklimi ile benzerlik gösteriyor. Kış aylarında kar yağışlarının hakim olduğu, yaz aylarında ise sıca ve kurak bir hava durumunun olduğu bölgede, dağların yüksekliği, iklimin değişken olmasına neden oluyor. Eiffel Kulesi'nin 2 katı yükseklikte olan bir nokta, Alacabük Dağı'nın zirvesinde bulunabilir. Bu yükseklik, bölgenin iklimini şekillendiren önemli bir faktör.
+Mevsimsel olarak bakıldığında, Alacabük Dağı'nın iklim karakteri, Van'ın genel iklimi ile benzerlik gösteriyor. Kış aylarında kar yağışlarının hakim olduğu, yaz aylarında ise sıcak ve kurak bir hava durumunun olduğu bölgede, dağların yüksekliği, iklimin değişken olmasına neden oluyor. Eiffel Kulesi'nin 2 katı yükseklikte olan bir nokta, Alacabük Dağı'nın zirvesinde bulunabilir. Bu yükseklik, bölgenin iklimini şekillendiren önemli bir faktör.
 
 Çevresel açıdan bakıldığında, Alacabük Dağı, Van Gölü'ne yakın bir konumda yer alıyor. Bu göl, bölgenin en önemli su kaynaklarından biri olarak dikkat çekiyor. Alacabük Dağı, bu su kaynağına yakın konumuyla, bölgenin ekosistem bağlantılarını da etkiliyor. İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplayan Van Gölü, Alacabük Dağı'nın bulunduğu bölgenin önemli bir parçası olarak görülüyor.
 

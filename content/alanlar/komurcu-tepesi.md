@@ -44,7 +44,7 @@ Kömürcü Tepesi gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli b
 
 Doğal güzellikleri ve jeolojik yapısıyla dikkat çeken Kömürcü Tepesi, bir şehir bloğu büyüklüğünde bir alanı kaplar. Tepenin şekli ve boyutları, çevresindeki dağlık arazinin bir parçası olarak görünür. Jeolojik açıdan, Kömürcü Tepesi, Isparta ilinin genel jeolojik yapısına benzer şekilde, kalker ve şist gibi kayaçlardan oluşur. Bu kayaçlar, tepeyi oluşturan ana bileşenlerdir.
 
-Yaz aylarında sıcaklık ve nemin arttığı Kömürcü Tepesi, mevsimsel olarak değişen bir iklim karakterine sahiptir. Kış aylarında ise soğu ve yağışlı bir hava hakimdir. Tepenin yüksekliği, Eiffel Kulesi'nin 1/5'i kadar bir yükseklikte olup, bu yükseklik, tepeyi çevreleyen dağlık arazinin bir parçası olarak görünür.
+Yaz aylarında sıcaklık ve nemin arttığı Kömürcü Tepesi, mevsimsel olarak değişen bir iklim karakterine sahiptir. Kış aylarında ise soğuk ve yağışlı bir hava hakimdir. Tepenin yüksekliği, Eiffel Kulesi'nin 1/5'i kadar bir yükseklikte olup, bu yükseklik, tepeyi çevreleyen dağlık arazinin bir parçası olarak görünür.
 
 Kömürcü Tepesi, Eğirdir Gölü'ne yakın bir konumda yer alır ve bu göl, tepeyi çevreleyen ekosistemin önemli bir parçasıdır. Tepenin yakınında, çeşitli su kaynakları ve dere yatakları bulunur. Bu su kaynakları, tepeyi çevreleyen ekosistemin canlılığını destekler ve tepe, Monaco'nun 1/20'si kadar bir alanı kaplayan bir yeşil cennet olarak görünür.
 

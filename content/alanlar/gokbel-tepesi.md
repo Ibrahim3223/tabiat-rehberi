@@ -36,7 +36,7 @@ Gökbel Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetleri
 
 ## Coğrafya
 
-Gökbel Tepesi, coğrafi olarak Antalya'nın kuzeyinde, Akdeniz Bölgesi'nin dağlık alanlarına yakın bir konumda yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve zirvesi, deniz seviyesinden yaklaşık yüksek bir konumdate bulunuyor. Gökbel Tepesi surroundingsında, çeşitli bitki türleri ve zengin fauna found. Bu bölgede, özellikle ilkbahar ve sonbahar mevsimlerinde, doğa yürüyüşleri ve trekking etkinlikleri popüler. Tepenin manzarası, Akdeniz'in geniş sularını ve Antalya'nın yeşil vadilerini kapsıyor. İklim, Akdeniz ikliminin karakteristik özellikleri gösteriyor; yani, yazlar sıca ve kurak, kışlar ılıman ve yağışlı. Bu coğrafi özellikler, Gökbel Tepesi'ni hem doğa severler hem de macera arayışındaki ziyaretçiler için çekici bir destinasyon haline getiriyor.
+Gökbel Tepesi, coğrafi olarak Antalya'nın kuzeyinde, Akdeniz Bölgesi'nin dağlık alanlarına yakın bir konumda yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve zirvesi, yüksek bir konumda bulunuyor. Gökbel Tepesi surroundingsında, çeşitli bitki türleri ve zengin fauna found. Bu bölgede, özellikle ilkbahar ve sonbahar mevsimlerinde, doğa yürüyüşleri ve trekking etkinlikleri popüler. Tepenin manzarası, Akdeniz'in geniş sularını ve Antalya'nın yeşil vadilerini kapsıyor. İklim, Akdeniz ikliminin karakteristik özellikleri gösteriyor; yani, yazlar sıcak ve kurak, kışlar ılıman ve yağışlı. Bu coğrafi özellikler, Gökbel Tepesi'ni hem doğa severler hem de macera arayışındaki ziyaretçiler için çekici bir destinasyon haline getiriyor.
 
 ## Flora ve Fauna
 
@@ -51,5 +51,5 @@ Gökbel Tepesi'ni ziyaret etmek, hem doğa severler hem de macera arayışındak
 - Gökbel Tepesi, Akdeniz Bölgesi'nin en önemli doğa alanlarından biri.
 - Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kapsıyor.
 - Gökbel Tepesi, zengin flora ve fauna çeşitliliği ile dikkat çekiyor.
-- Tepenin zirvesi, deniz seviyesinden yaklaşık yüksek bir konumdate bulunuyor.
+- Tepenin zirvesi, yüksek bir konumda bulunuyor.
 - Gökbel Tepesi, ilkbahar ve sonbahar mevsimlerinde en çok ziyaret edilen zamanlar.

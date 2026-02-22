@@ -30,7 +30,7 @@ Azizpaşa-Fatih milli parkının tarihi geçmişi, yüzyıllar boyunca şekillen
 
 ## Coğrafya
 
-Azizpaşa-Fatih milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, çeşitli araziler ve iklim tipleri sergiliyor. Parkın coğrafi konumu, ziyaretçilere farklı manzaralar sunuyor. Geniş çayırlar, ormanlık alanlar ve su kaynakları, parkın coğrafi çeşitliliğini oluşturuyor. Parkın iklimi, İç Anadolu Bölgesi'nin iklimine benzer olarak karasal bir yapıya sahip. Kışları soğu ve karlı, yazları ise sıcak ve kurak geçiyor. Bu iklim tipi, parkın flora ve fauna çeşitliliğini etkiliyor. Parkın coğrafi yapısı, aynı zamanda yaban hayatının çeşitliliğini de desteklıyor. Burada, çeşitli bitkiler ve hayvanlar, parkın coğrafi koşullarına uyum sağlamışlardır. Azizpaşa-Fatih milli parkı, coğrafi açıdan zengin bir bölge olarak tanımlanabilir ve ziyaretçilere doğanın güzelliğini sunar.
+Azizpaşa-Fatih milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, çeşitli araziler ve iklim tipleri sergiliyor. Parkın coğrafi konumu, ziyaretçilere farklı manzaralar sunuyor. Geniş çayırlar, ormanlık alanlar ve su kaynakları, parkın coğrafi çeşitliliğini oluşturuyor. Parkın iklimi, İç Anadolu Bölgesi'nin iklimine benzer olarak karasal bir yapıya sahip. Kışları soğuk ve karlı, yazları ise sıcak ve kurak geçiyor. Bu iklim tipi, parkın flora ve fauna çeşitliliğini etkiliyor. Parkın coğrafi yapısı, aynı zamanda yaban hayatının çeşitliliğini de desteklıyor. Burada, çeşitli bitkiler ve hayvanlar, parkın coğrafi koşullarına uyum sağlamışlardır. Azizpaşa-Fatih milli parkı, coğrafi açıdan zengin bir bölge olarak tanımlanabilir ve ziyaretçilere doğanın güzelliğini sunar.
 
 ## Flora ve Fauna
 

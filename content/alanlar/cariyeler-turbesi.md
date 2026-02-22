@@ -38,7 +38,7 @@ Cariyeler Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-Cariyeler Türbesi, Bursa'nın Osmangazi ilçesinde yer alır ve Marmara Bölgesi'nin önemli bir coğrafi merkezidir. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Plajın etrafında çeşitli bitkiler ve ağaçlar bulunur ve bu bölge, doğa severler için ideal bir destinasyondur. Cariyeler Türbesi, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır ve bu özelliği ile ziyaretçilerine güzel bir manzara sunar. Plajın iklimi, Marmara Bölgesi'nin genel iklimine benzer ve ziyaretçilerine dört mevsim boyunca güzel bir ortam sağlar.
+Cariyeler Türbesi, Bursa'nın Osmangazi ilçesinde yer alır ve Marmara Bölgesi'nin önemli bir coğrafi merkezidir. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Plajın etrafında çeşitli bitkiler ve ağaçlar bulunur ve bu bölge, doğa severler için ideal bir destinasyondur. Cariyeler Türbesi, yüksek bir konumda yer alır ve bu özelliği ile ziyaretçilerine güzel bir manzara sunar. Plajın iklimi, Marmara Bölgesi'nin genel iklimine benzer ve ziyaretçilerine dört mevsim boyunca güzel bir ortam sağlar.
 
 ## Flora ve Fauna
 
@@ -53,5 +53,5 @@ Cariyeler Türbesi'ni ziyaret etmek, ziyaretçiler için güzel bir deneyimdir. 
 - Cariyeler Türbesi, Marmara Bölgesi'nin en önemli turizm merkezlerinden biridir
 - Plaj, yaklaşık 140 hektarlık bir alanı kaplar
 - Cariyeler Türbesi, tarihinin her döneminde önemli bir merkez olarak kabul edilmiştir
-- Plaj, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır
+- Plaj, yüksek bir konumda yer alır
 - Cariyeler Türbesi, ekolojik açıdan önemli bir merkez olarak kabul edilir

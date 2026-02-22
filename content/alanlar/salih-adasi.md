@@ -45,7 +45,7 @@ Güneybatı Anadolu'nun incisi Muğla, birçok güzelliğe ev sahipliği yapıyo
 
 Salih Adası'nın fiziksel yapısı, küçük bir şehir bloğu büyüklüğünde ve bu ölçek, ada atmosferinin samimiyetini ve sakinliğini vurguluyor. Ada, Ege Denizi'nin sığ sularında yer alıyor ve bu konumu, adayı bir dinlenme ve doğa merkezine dönüştürüyor. Salih Adası, jeolojik açıdan da ilgi çekici, ada çevresindeki su kaynakları ve deniz canlıları, adanın doğal güzelliğini daha da artırıyor.
 
-Mevsimsel olarak, Salih Adası, Akdeniz ikliminin tüm özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava hakim. Bu iklim, adayı yıl boyunca ziyaretçiler için çekici kılıyor. Ada, çevredeki su kaynakları ve ekosistem bağlantıları ile de dikkat çekiyor. Ege Denizi'nin zengin deniz canlıları, adayı bir doğa severin cennetine dönüştürüyor.
+Mevsimsel olarak, Salih Adası, Akdeniz ikliminin tüm özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava hakim. Bu iklim, adayı yıl boyunca ziyaretçiler için çekici kılıyor. Ada, çevredeki su kaynakları ve ekosistem bağlantıları ile de dikkat çekiyor. Ege Denizi'nin zengin deniz canlıları, adayı bir doğa severin cennetine dönüştürüyor.
 
 Çevresel açıdan, Salih Adası, Muğla'nın diğer güzelliklerine yakın bir konumda yer alıyor. Ada, çevredeki adalar ve kıyı şeridi ile birlikte, bir doğa ve deniz severin gezi rotasına dahil edilebilecek bir güzelliğe sahip. Salih Adası, ziyaretçilerine, Ege Denizi'nin mavi sularında, doğa ile iç içe bir deneyim sunuyor.
 

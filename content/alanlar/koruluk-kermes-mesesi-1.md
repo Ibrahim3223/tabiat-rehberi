@@ -30,7 +30,7 @@ Koruluk Kermes Mesesi 1'in tarihi geçmişi, yüzyıllar boyunca süregelmiştir
 
 ## Coğrafya
 
-Koruluk Kermes Mesesi 1, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Bu bölge, coğrafi olarak 140 hektarlık bir yeşil alandan oluşmaktadır. Milli parkın coğrafi yapısı, ziyaretçilerin keyif alabileceği çeşitli yürüyüş parkurları ve doğa güzellikleriyle doludur. Koruluk Kermes Mesesi 1'in iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Bu bölgede, yaz ayları sıca ve khô, kış ayları ise soğu ve karlı geçmektedir. Milli parkın coğrafi konumu, ziyaretçilerin doğayı keşfetmeleri ve güzel anlar yaşamaları için ideal bir ortam sunmaktadır. Koruluk Kermes Mesesi 1, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmış bir milli parktır.
+Koruluk Kermes Mesesi 1, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Bu bölge, coğrafi olarak 140 hektarlık bir yeşil alandan oluşmaktadır. Milli parkın coğrafi yapısı, ziyaretçilerin keyif alabileceği çeşitli yürüyüş parkurları ve doğa güzellikleriyle doludur. Koruluk Kermes Mesesi 1'in iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Bu bölgede, yaz ayları sıcak ve kuru, kış ayları ise soğuk ve karlı geçmektedir. Milli parkın coğrafi konumu, ziyaretçilerin doğayı keşfetmeleri ve güzel anlar yaşamaları için ideal bir ortam sunmaktadır. Koruluk Kermes Mesesi 1, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmış bir milli parktır.
 
 ## Flora ve Fauna
 

@@ -38,7 +38,7 @@ Muhammed El-Ensari Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır
 
 ## Coğrafya
 
-Muhammed El-Ensari Türbesi, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Fatih/İstanbul'da bulunan türbe, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır. Türbenin çevresi, çeşitli bitki türleri ile kaplıdır ve ziyaretçilere doğal bir ortam sunar. Bölgenin iklimi, ılıman ve nemlidir, bu da türbenin çevresi için uygun koşullar sağlar. Muhammed El-Ensari Türbesi, denizden ve diğer doğal güzelliklerden uzak değildir, bu da ziyaretçilere geniş bir gezi seçeneği sunar. Türbenin etrafında, tarihi yapılar ve doğal güzellikler bulunmakta, bu da ziyaretçilere zengin bir experiencia sunar.
+Muhammed El-Ensari Türbesi, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Fatih/İstanbul'da bulunan türbe, yüksek bir konumda yer alır. Türbenin çevresi, çeşitli bitki türleri ile kaplıdır ve ziyaretçilere doğal bir ortam sunar. Bölgenin iklimi, ılıman ve nemlidir, bu da türbenin çevresi için uygun koşullar sağlar. Muhammed El-Ensari Türbesi, denizden ve diğer doğal güzelliklerden uzak değildir, bu da ziyaretçilere geniş bir gezi seçeneği sunar. Türbenin etrafında, tarihi yapılar ve doğal güzellikler bulunmakta, bu da ziyaretçilere zengin bir experiencia sunar.
 
 ## Flora ve Fauna
 

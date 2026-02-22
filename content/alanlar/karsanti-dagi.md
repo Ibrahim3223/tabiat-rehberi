@@ -44,7 +44,7 @@ Güney Anadolu'nun zengin coğrafyasında yer alan Karsantı Dağı, 37.7492°K,
 
 Doğal güzelliklerin yanı sıra, Karsantı Dağı'nın fiziksel yapısı da oldukça ilgi çekicidir. Koordinatlarına bakıldığında, bu dağın oldukça geniş bir alana yayıldığı görülmektedir. Taksim Meydanı'nın yaklaşık 10 katı büyüklüğünde olan bu alan, bölgeyi gezenler için bir çok keşif fırsatı sunmaktadır. Ancak, detaylı fiziksel verilerin bulunmaması nedeniyle, dağın yüksekliği ve şekli hakkında net bilgiler bulunmamaktadır.
 
-Bölgenin iklim karakteri, Karsantı Dağı'nın coğrafyasını önemli ölçüde etkilemektedir. Güney Anadolu'nun karakteristik Akdeniz ikliminin etkileri, bu dağda görülmektedir. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakimdir. Bu mevsimsel özellikler, dağın flora ve fauna yapısını şekillendirmektedir.
+Bölgenin iklim karakteri, Karsantı Dağı'nın coğrafyasını önemli ölçüde etkilemektedir. Güney Anadolu'nun karakteristik Akdeniz ikliminin etkileri, bu dağda görülmektedir. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakimdir. Bu mevsimsel özellikler, dağın flora ve fauna yapısını şekillendirmektedir.
 
 Çevresel ilişkiler açısından, Karsantı Dağı'nın komşu alanlar ve su kaynakları ile bağlantısı önemlidir. Bölge, birçok nehrin ve derenin kaynaklarını barındırmaktadır. Bu su kaynakları, bölgenin ekosistemini desteklemektedir. Ayrıca, Karsantı Dağı, bölgenin diğer doğal güzelliklerine de oldukça yakındır. Bu nedenle, bu dağ, bölgenin doğal güzelliklerini korumak için önemli bir role sahiptir.
 

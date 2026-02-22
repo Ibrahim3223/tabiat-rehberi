@@ -30,7 +30,7 @@ Hatilla Vadisi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölge
 
 ## Coğrafya
 
-Hatilla Vadisi, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde önemli bir yer tutuyor. Vadide, yüksek dağlar, derin vadiler ve geniş otlaklar encontrando. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve dört mevsim belirgin olarak yaşanıyor. Kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor. Vadide, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bölgenin coğrafi yapısı, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunuyor. Hatilla Vadisi, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu yeşil alan, ziyaretçilerini doğanın kucağına davet ediyor.
+Hatilla Vadisi, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde önemli bir yer tutuyor. Vadide, yüksek dağlar, derin vadiler ve geniş otlaklar encontrando. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve dört mevsim belirgin olarak yaşanıyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Vadide, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bölgenin coğrafi yapısı, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunuyor. Hatilla Vadisi, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu yeşil alan, ziyaretçilerini doğanın kucağına davet ediyor.
 
 ## Flora ve Fauna
 

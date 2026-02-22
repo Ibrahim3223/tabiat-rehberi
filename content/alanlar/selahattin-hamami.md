@@ -29,7 +29,7 @@ wikidata_id: "Q131738775"
 
 # Selahattin Hamamı
 
-Selahattin Hamamı, Melikgazi ilçesinde yer alan ve tarihi değerleri ile ön plana çıkan bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alan sunuyor. Burada yer alan tarihi hamam, ziyaretçilerin ilgisini çekiyor. Selahattin Hamamı, doğal güzellikleri ve tarihi yapıları ile ziyaretçilere benzersiz bir deneyim sunuyor. Bu alan, yaklaşık yüksek bir konumdate yer alıyor ve Kayseri'nin panoramik manzarasını seyretme imkanı tanıyor.
+Selahattin Hamamı, Melikgazi ilçesinde yer alan ve tarihi değerleri ile ön plana çıkan bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alan sunuyor. Burada yer alan tarihi hamam, ziyaretçilerin ilgisini çekiyor. Selahattin Hamamı, doğal güzellikleri ve tarihi yapıları ile ziyaretçilere benzersiz bir deneyim sunuyor. Bu alan, yüksek bir konumda yer alıyor ve Kayseri'nin panoramik manzarasını seyretme imkanı tanıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Selahattin Hamamı, tarihi geçmişi ile dikkat çekiyor. Bu hamam, Selçuklu d�
 
 ## Coğrafya
 
-Selahattin Hamamı, Kayseri'nin Melikgazi ilçesinde yer alıyor. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Hamam, yaklaşık yüksek bir konumdate yer alıyor ve çevresinde geniş bir yeşil alan bulunmakta. Bu yeşil alan, çeşitli bitkiler ve ağaçlar ile dolu ve ziyaretçilere doğayı seyretme imkanı tanıyor. Selahattin Hamamı'nın coğrafi konumu, ziyaretçilere Kayseri'nin panoramik manzarasını seyretme imkanı tanıyor. Bu mekan, aynı zamanda çevre il ve ilçelerden gelen ziyaretçilerin de tercih ettiği bir yer. Hamamın bulunduğu bölgede, çeşitli yürüyüş parkurları ve doğa güzelliği bulunan alanlar bulunmakta.
+Selahattin Hamamı, Kayseri'nin Melikgazi ilçesinde yer alıyor. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Hamam, yüksek bir konumda yer alıyor ve çevresinde geniş bir yeşil alan bulunmakta. Bu yeşil alan, çeşitli bitkiler ve ağaçlar ile dolu ve ziyaretçilere doğayı seyretme imkanı tanıyor. Selahattin Hamamı'nın coğrafi konumu, ziyaretçilere Kayseri'nin panoramik manzarasını seyretme imkanı tanıyor. Bu mekan, aynı zamanda çevre il ve ilçelerden gelen ziyaretçilerin de tercih ettiği bir yer. Hamamın bulunduğu bölgede, çeşitli yürüyüş parkurları ve doğa güzelliği bulunan alanlar bulunmakta.
 
 ## Flora ve Fauna
 

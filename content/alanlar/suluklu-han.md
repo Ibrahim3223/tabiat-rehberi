@@ -38,7 +38,7 @@ Sülüklü Han'ın tarihi geçmişi, Diyarbakır'ın tarihi ile iç içe geçmi�
 
 ## Coğrafya
 
-Sülüklü Han, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölge. Bu bölge, aproxim 140 hektarlık bir alanı kapsıyor ve ziyaretçilerini farklı coğrafi oluşumlar ile karşılaştırıyor. Sülüklü Han, dağlar, ovalar ve nehirler ile çevrilidir ve bu coğrafi oluşumlar, ziyaretçilere çeşitli doğa güzellikleri sunuyor. Bu bölge'nin iklimi, genellikle sıca ve kurak bir iklim olmakla birlikte, kış aylarında soğu ve yağışlı bir hava görülebilir. Sülüklü Han, coğrafi konumu ve iklimi ile birlikte ziyaretçilerine çeşitli doğa güzellikleri sunuyor. Bu bölge, flora ve fauna açısından da zengin bir bölge ve ziyaretçilere çeşitli bitki ve hayvan türleri sunuyor.
+Sülüklü Han, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölge. Bu bölge, aproxim 140 hektarlık bir alanı kapsıyor ve ziyaretçilerini farklı coğrafi oluşumlar ile karşılaştırıyor. Sülüklü Han, dağlar, ovalar ve nehirler ile çevrilidir ve bu coğrafi oluşumlar, ziyaretçilere çeşitli doğa güzellikleri sunuyor. Bu bölge'nin iklimi, genellikle sıcak ve kurak bir iklim olmakla birlikte, kış aylarında soğuk ve yağışlı bir hava görülebilir. Sülüklü Han, coğrafi konumu ve iklimi ile birlikte ziyaretçilerine çeşitli doğa güzellikleri sunuyor. Bu bölge, flora ve fauna açısından da zengin bir bölge ve ziyaretçilere çeşitli bitki ve hayvan türleri sunuyor.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ wikidata_id: "Q34829684"
 
 ## Coğrafya
 
-Öküz Tepesi, Doğu Anadolu Bölgesi'nin güzel illerinden Van'da bulunmaktadır. Bu tepe, çevresindeki diğer tepelerle birlikte güzel bir manzara sunmaktadır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerin keyifli bir gün geçirmesine olanak tanımaktadır. Öküz Tepesi'nin etrafında bulunan diğer tepeler ve vadiler, ziyaretçilere güzel bir doğa manzarası sunmaktadır. Bu tepe, aynı zamanda yürüyüş ve doğa yürüyüşü yapmak isteyenler için ideal bir yerdir. Öküz Tepesi'nin iklimi, Doğu Anadolu Bölgesi'nin genel iklimine benzemektedir. Bu bölgede, yaz ayları sıca ve kurak, kış ayları soğu ve karlı geçmektedir. ilkbahar ve sonbahar ayları, ziyaretçilerin bu tepeyi ziyaret etmesi için ideal zamanlardır.
+Öküz Tepesi, Doğu Anadolu Bölgesi'nin güzel illerinden Van'da bulunmaktadır. Bu tepe, çevresindeki diğer tepelerle birlikte güzel bir manzara sunmaktadır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerin keyifli bir gün geçirmesine olanak tanımaktadır. Öküz Tepesi'nin etrafında bulunan diğer tepeler ve vadiler, ziyaretçilere güzel bir doğa manzarası sunmaktadır. Bu tepe, aynı zamanda yürüyüş ve doğa yürüyüşü yapmak isteyenler için ideal bir yerdir. Öküz Tepesi'nin iklimi, Doğu Anadolu Bölgesi'nin genel iklimine benzemektedir. Bu bölgede, yaz ayları sıcak ve kurak, kış ayları soğuk ve karlı geçmektedir. ilkbahar ve sonbahar ayları, ziyaretçilerin bu tepeyi ziyaret etmesi için ideal zamanlardır.
 
 ## Flora ve Fauna
 

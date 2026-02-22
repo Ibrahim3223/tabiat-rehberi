@@ -41,7 +41,7 @@ Doğunun güzelliği, Van'ın dağlık coğrafyasında saklıdır. Ziyaret Tepe,
 
 Fiziksel olarak Ziyaret Tepe'nin büyüklüğü hakkında detaylı bilgi olmasa da, coğrafi konumu itibariyle Van'ın dağlık yapısına uyumlu bir şekilde yer alır. Tıpkı bir şehir bloğu büyüklüğünde olan bir alanın içinde yer alan bu tepe, Van'ın doğal güzelliklerinin bir parçasını oluşturur.
 
-İklim açısından Ziyaret Tepe, Van'ın karasal ikliminin etkilerini taşır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise ılıman ve güneşli bir hava hakimdir. Bu mevsimsel farklılıklar, tepe çevresinde çeşitli bitki türlerinin yetişmesine olanak tanır.
+İklim açısından Ziyaret Tepe, Van'ın karasal ikliminin etkilerini taşır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise ılıman ve güneşli bir hava hakimdir. Bu mevsimsel farklılıklar, tepe çevresinde çeşitli bitki türlerinin yetişmesine olanak tanır.
 
 Ziyaret Tepe'nin çevresel ilişkileri, Van Gölü ve çevresindeki dağlık alanlarla souvisidir. Bu tepe, Van'ın ekosistem bağlantılarının önemli bir parçasını oluşturur. Monaco'nun küçük bir bölümü kadar bir alanı kaplayan Ziyaret Tepe, Van'ın doğal güzelliklerini koruma altına almak için önemli bir role sahiptir.
 

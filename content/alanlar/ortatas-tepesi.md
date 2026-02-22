@@ -36,7 +36,7 @@ Ortataş Tepesi'nin tarihi geçmişi, bölgenin genel tarihi ile iç içe geçmi
 
 ## Coğrafya
 
-Ortataş Tepesi, Edirne'nin güzide bir bölgesinde yer alır ve Marmara Bölgesi'nin coğrafi yapısına uygun olarak, tepe ve vadilerle çevrili bir alanda bulunmaktadır. Bu bölgenin coğrafi özellikleri, flora ve fauna açısından zengin bir çeşitlilik sunmaktadır. Ortataş Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleri ile kaplıdır. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak, karasal ve ılıman bir yapıya sahiptir. Kış ayları soğu ve yağışlı, yaz ayları ise sıcak ve kurudur. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğine uygun bir ortam sunmaktadır.
+Ortataş Tepesi, Edirne'nin güzide bir bölgesinde yer alır ve Marmara Bölgesi'nin coğrafi yapısına uygun olarak, tepe ve vadilerle çevrili bir alanda bulunmaktadır. Bu bölgenin coğrafi özellikleri, flora ve fauna açısından zengin bir çeşitlilik sunmaktadır. Ortataş Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleri ile kaplıdır. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak, karasal ve ılıman bir yapıya sahiptir. Kış ayları soğuk ve yağışlı, yaz ayları ise sıcak ve kurudur. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğine uygun bir ortam sunmaktadır.
 
 ## Flora ve Fauna
 

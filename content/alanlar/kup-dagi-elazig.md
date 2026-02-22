@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin kalbinde, Elazığ ilinin sınırları içinde yer al
 
 Jeolojik açıdan bakıldığında, Küp Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, koordinatlarından hareketle, bölgenin genel jeolojik karakterini inceleme mümkün. Bu bölge, genellikle yüksekli ve engebe açısından zengin bir coğrafyaya sahiptir. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadar bir yükseklikte olduğu söylenebilir, ancak bu bilgiyle birlikte, daha net bir yükseklik değeri verilememektedir.
 
-Mevsimsel değişiklikler açısından, Küp Dağı ve çevresinin iklim karakteri, bölgenin genel iklim yapısına uygun olarak değişkenlik gösterir. Yaz aylarında sıcaklıkların arttığı, kış aylarında ise soğu ve kar yağışlı bir hava hakim olduğu biliniyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler arasında yer alıyor.
+Mevsimsel değişiklikler açısından, Küp Dağı ve çevresinin iklim karakteri, bölgenin genel iklim yapısına uygun olarak değişkenlik gösterir. Yaz aylarında sıcaklıkların arttığı, kış aylarında ise soğuk ve kar yağışlı bir hava hakim olduğu biliniyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler arasında yer alıyor.
 
 Çevresel açıdan, Küp Dağı, bölgenin ekosistem bağlantıları ve su kaynakları açısından kritik bir role sahip. Dağın eteklerinde ve çevresinde yer alan su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılamada önemli bir görev üstleniyor. Ayrıca, komşu alanlarla olan bağlantıları, bölgenin biyolojik çeşitliliğini koruma ve zenginleştirme açısından son derece değerli. Monaco'nun yarısı kadar büyük bir alana yayılmayan bu dağ, bölgenin doğal dengesini koruma konusunda önemli bir rol oynuyor.
 

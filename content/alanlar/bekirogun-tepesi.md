@@ -36,7 +36,7 @@ Bekirogun Tepesi'nin tarihi geçmişi, Hatay'ın tarihine paralel olarak şekill
 
 ## Coğrafya
 
-Bekirogun Tepesi, Hatay ilinin sınırları içinde yer alıyor ve Akdeniz Bölgesi'nin önemli bir doğal güzelliği olarak kabul ediliyor. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzelliği ile bekliyor. Bekirogun Tepesi, coğrafi olarak Akdeniz Bölgesi'nin karakteristik özellikleri ile örtüşüyor. Bu bölge, genel olarak sıca ve kurak yazlar ile ılık ve yağışlı kışlar ile karakterize ediliyor. Bekirogun Tepesi'nin coğrafi konumu, ziyaretçilerine yıl boyunca farklı mevsimsel deneyimler sunuyor. Bu tepe, ziyaretçilerine hem doğal güzelliği ile hem de coğrafi çeşitliliği ile önemli bir ziyaret noktası haline geliyor.
+Bekirogun Tepesi, Hatay ilinin sınırları içinde yer alıyor ve Akdeniz Bölgesi'nin önemli bir doğal güzelliği olarak kabul ediliyor. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzelliği ile bekliyor. Bekirogun Tepesi, coğrafi olarak Akdeniz Bölgesi'nin karakteristik özellikleri ile örtüşüyor. Bu bölge, genel olarak sıcak ve kurak yazlar ile ılık ve yağışlı kışlar ile karakterize ediliyor. Bekirogun Tepesi'nin coğrafi konumu, ziyaretçilerine yıl boyunca farklı mevsimsel deneyimler sunuyor. Bu tepe, ziyaretçilerine hem doğal güzelliği ile hem de coğrafi çeşitliliği ile önemli bir ziyaret noktası haline geliyor.
 
 ## Flora ve Fauna
 

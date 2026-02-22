@@ -36,7 +36,7 @@ Azik Tepesi'nin tarihi geçmişi, Şırnak'ın tarihi ile iç içe geçmiştir. 
 
 ## Coğrafya
 
-Azik Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan Şırnak ilinin merkezinde bulunur. Bu bölge, coğrafi olarak çeşitli dağlar, ovalar ve nehirler ile çevrilidir. Azik Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ve fauna için uygun bir ortam sunar. İklimi, genellikle sıca ve kurak olan Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Azik Tepesi, 140 hektarlık alanı ile oldukça geniş bir doğal alanı kapsar ve bu alan, yaklaşık 200 futbol sahası büyüklüğündedir. Coğrafi konumu ve iklimi, Azik Tepesi'ni ziyaretçiler için çekici bir destinasyon haline getirir. Ayrıca, bölgenin coğrafi yapısı, çeşitli fauna türleri için de uygun bir habitat sağlar.
+Azik Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan Şırnak ilinin merkezinde bulunur. Bu bölge, coğrafi olarak çeşitli dağlar, ovalar ve nehirler ile çevrilidir. Azik Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ve fauna için uygun bir ortam sunar. İklimi, genellikle sıcak ve kurak olan Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Azik Tepesi, 140 hektarlık alanı ile oldukça geniş bir doğal alanı kapsar ve bu alan, yaklaşık 200 futbol sahası büyüklüğündedir. Coğrafi konumu ve iklimi, Azik Tepesi'ni ziyaretçiler için çekici bir destinasyon haline getirir. Ayrıca, bölgenin coğrafi yapısı, çeşitli fauna türleri için de uygun bir habitat sağlar.
 
 ## Flora ve Fauna
 

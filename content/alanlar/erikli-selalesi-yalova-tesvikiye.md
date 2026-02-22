@@ -29,7 +29,7 @@ wikidata_id: "Q134592335"
 
 # Erikli Şelalesi (Yalova-Teşvikiye)
 
-Yalova ilinin Teşvikiye köyünde bulunan Erikli Şelalesi, yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanın içinde yer alıyor. Bu şelale, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak biliniyor. Şelalenin suyu, çevre dağlardan doğan derelerden geliyor ve yaklaşık yüksek bir konumdaten düşerek, muhteşem bir manzara sunuyor. Bu alan, hem doğa severlerin hem de fotoğraf tutkunlarının ilgisini çekiyor.
+Yalova ilinin Teşvikiye köyünde bulunan Erikli Şelalesi, yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanın içinde yer alıyor. Bu şelale, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak biliniyor. Şelalenin suyu, çevre dağlardan doğan derelerden geliyor ve yüksek bir konumdan düşerek, muhteşem bir manzara sunuyor. Bu alan, hem doğa severlerin hem de fotoğraf tutkunlarının ilgisini çekiyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Erikli Şelalesi, yüzyıllar boyunca insan yerleşimine sahne olmuş bir bölge
 
 ## Coğrafya
 
-Erikli Şelalesi, Marmara Bölgesi'nin kuzeyinde, Yalova ilinin Teşvikiye köyünde yer alıyor. Şelale, 140 hektarlık bir yeşil alanın içinde, yaklaşık yüksek bir konumdaten düşerek, muhteşem bir manzara sunuyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Şelalenin suyu, çevre dağlardan doğan derelerden geliyor ve bu su, şelalenin doğal güzelliğini daha da artırıyor. Şelale çevresinde, yürüyüş parkurları ve piknik alanları bulunuyor ve bu alanlar, ziyaretçilerin şelaleyi ve çevresini keşfetmesine olanak sağlıyor. Şelalenin iklimi, Marmara Bölgesi'nin genel iklimine benzer ve dört mevsim ziyaret edilebilir. Ancak, şelalenin en güzel zamanı, ilkbahar ve yaz ayları olarak biliniyor.
+Erikli Şelalesi, Marmara Bölgesi'nin kuzeyinde, Yalova ilinin Teşvikiye köyünde yer alıyor. Şelale, 140 hektarlık bir yeşil alanın içinde, yüksek bir konumdan düşerek, muhteşem bir manzara sunuyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Şelalenin suyu, çevre dağlardan doğan derelerden geliyor ve bu su, şelalenin doğal güzelliğini daha da artırıyor. Şelale çevresinde, yürüyüş parkurları ve piknik alanları bulunuyor ve bu alanlar, ziyaretçilerin şelaleyi ve çevresini keşfetmesine olanak sağlıyor. Şelalenin iklimi, Marmara Bölgesi'nin genel iklimine benzer ve dört mevsim ziyaret edilebilir. Ancak, şelalenin en güzel zamanı, ilkbahar ve yaz ayları olarak biliniyor.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ Dua Tepesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu tepe, uzun y
 
 ## Coğrafya
 
-Dua Tepesi, Antalya'nın Akdeniz Bölgesi'nde bulunmaktadır. Bu tepe, deniz seviyesinden yüksekte yer alır ve etrafını dağlar çevirmiştir. Dua Tepesi'nin coğrafyası, ziyaretçilerini etkileyen bir güzelliğe sahiptir. Burada, çeşitli bitki türleri ve zengin fauna bulunur. Dua Tepesi, farklı iklim koşullarına sahiptir. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıcak ve güneşli bir iklimi vardır. Dua Tepesi, ziyaretçilerine farklı mevsimlerde farklı deneyimler sunar. Bu tepe, Antalya'nın önemli coğrafi noktalarından biridir.
+Dua Tepesi, Antalya'nın Akdeniz Bölgesi'nde bulunmaktadır. Bu tepe, deniz seviyesinden yüksekte yer alır ve etrafını dağlar çevirmiştir. Dua Tepesi'nin coğrafyası, ziyaretçilerini etkileyen bir güzelliğe sahiptir. Burada, çeşitli bitki türleri ve zengin fauna bulunur. Dua Tepesi, farklı iklim koşullarına sahiptir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve güneşli bir iklimi vardır. Dua Tepesi, ziyaretçilerine farklı mevsimlerde farklı deneyimler sunar. Bu tepe, Antalya'nın önemli coğrafi noktalarından biridir.
 
 ## Flora ve Fauna
 

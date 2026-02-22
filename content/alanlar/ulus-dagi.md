@@ -45,7 +45,7 @@ Ulus Dağı, Balıkesir'in coğrafi güzelliğini vurgulayan bir nokta olarak, 3
 
 Doğal güzelliği ile dikkat çeken Ulus Dağı, çevresindeki coğrafi özelliklerle bir bütün halinde bulunuyor. Ancak, fiziksel veri eksikliği nedeniyle dağın boyutları hakkında net bir bilgiye ulaşamıyoruz. Buna rağmen, dağın jeolojik yapısı ve şekli, bölgenin coğrafi tarihini anlamak için önemli ipuçları sunuyor. Bu dağ, bölgenin jeolojik geçmişini yansıtan bir oluşum olarak, coğrafi zenginliği sergiliyor.
 
-Mevsimsel değişikliklere göre hava durumu da değişen Ulus Dağı, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklim karakterine sahip. Bu mevsimsel özellikler, dağın flora ve fauna yapısını şekillendiren önemli faktörler olarak ortaya çıkıyor. Dağın yüksekliği ve coğrafi konumu, bölgenin mikro iklimini etkileyen önemli unsurlar arasında yer alıyor.
+Mevsimsel değişikliklere göre hava durumu da değişen Ulus Dağı, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklim karakterine sahip. Bu mevsimsel özellikler, dağın flora ve fauna yapısını şekillendiren önemli faktörler olarak ortaya çıkıyor. Dağın yüksekliği ve coğrafi konumu, bölgenin mikro iklimini etkileyen önemli unsurlar arasında yer alıyor.
 
 Dağın çevresinde, komşu ormanlık alanlar ve su kaynakları bulunuyor. Bu doğal kaynaklar, dağ ekosisteminin bir parçası olarak, canlıların yaşamsal döngüsünü destekliyor. Ulus Dağı, bölgenin ekolojik dengesini koruma altına alan önemli bir coğrafi oluşum olarak, çevresindeki alanlarla bağlantılı bir şekilde bulunuyor. Bu bağlantı, dağın çevresel ilişkilerini anlama ve korumak için önemli bir nokta olarak karşımıza çıkıyor.
 

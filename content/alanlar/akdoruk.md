@@ -45,7 +45,7 @@ Doğunun gizli köşelerinden biri olan Akdoruk Dağı, 37.7992°K, 43.5617°D k
 
 Akdoruk Dağı'nın fiziksel yapısı, bölgenin jeolojik tarihini yansıtmaktadır. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olup, bölgenin en dikkat çekici özelliklerinden biridir. Ancak, detaylı fiziksel veriler bulunmamasına rağmen, dağlık arazilerin genel yapısına bakıldığında, bu bölgenin bir şehir bloğu büyüklüğünde bir alan kapladığı söylenebilir. Bu da, ziyaretçilerin keşfedebilecekleri bir dizi farklı ekosistem ve manzaraya sahip olabileceklerini göstermektedir.
 
-İklim karakteri açısından bakıldığında, Akdoruk Dağı ve çevresinin mevsimsel özellikler gösterdiği görülmektedir. Bölge, karasal iklimin etkilerini taşır ve kış aylarında soğu ve karlı, yaz aylarında ise ılıman ve güneşli bir hava durumu hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkilemekte ve her mevsim farklı bir güzelliği ziyaretçilere sunmaktadır.
+İklim karakteri açısından bakıldığında, Akdoruk Dağı ve çevresinin mevsimsel özellikler gösterdiği görülmektedir. Bölge, karasal iklimin etkilerini taşır ve kış aylarında soğuk ve karlı, yaz aylarında ise ılıman ve güneşli bir hava durumu hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkilemekte ve her mevsim farklı bir güzelliği ziyaretçilere sunmaktadır.
 
 Çevresel ilişkiler açısından, Akdoruk Dağı, Van Gölü'nün yaklaşık 20 kilometre kuzeyinde yer almaktadır. Bu su kaynağı, bölgenin ekosistemini destekleyen önemli bir faktördür. Ayrıca, dağlık araziler ve vadiler, bölgede çeşitli bitki ve hayvan türlerinin yaşamasına olanak tanıyan bir habitat oluşturmaktadır. Bu nedenle, Akdoruk Dağı, doğal güzellikleri ve çevresel önemini korumanın gerekli olduğu bir bölge olarak görülmektedir.
 

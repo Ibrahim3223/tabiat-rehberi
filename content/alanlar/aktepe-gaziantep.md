@@ -37,7 +37,7 @@ Aktepe'nin tarihi geçmişi, Gaziantep'in tarihçesi ile paralellik gösterir. B
 
 ## Coğrafya
 
-Aktepe, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genel olarak yüksek bir tepe ile çevrilidir. Aktepe'nin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıda olup, bölgenin coğrafi yapısını etkiler. Aktepe'nin etrafında, çeşitli diğer tepe ve dağlar bulunur. Bu tepe ve dağlar, bölgeyi zengin bir coğrafi çeşitlilik sunar. Aktepe, aynı zamanda çeşitli akarsular ve derelerle çevrilidir. Bu akarsular ve dereler, bölgenin ekolojisini zenginleştiren önemli faktörlerdir. Aktepe'nin iklimi, genel olarak Güneydoğu Anadolu Bölgesi'nin iklimine benzer. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklimi sahiptir.
+Aktepe, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genel olarak yüksek bir tepe ile çevrilidir. Aktepe'nin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıda olup, bölgenin coğrafi yapısını etkiler. Aktepe'nin etrafında, çeşitli diğer tepe ve dağlar bulunur. Bu tepe ve dağlar, bölgeyi zengin bir coğrafi çeşitlilik sunar. Aktepe, aynı zamanda çeşitli akarsular ve derelerle çevrilidir. Bu akarsular ve dereler, bölgenin ekolojisini zenginleştiren önemli faktörlerdir. Aktepe'nin iklimi, genel olarak Güneydoğu Anadolu Bölgesi'nin iklimine benzer. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklimi sahiptir.
 
 ## Flora ve Fauna
 

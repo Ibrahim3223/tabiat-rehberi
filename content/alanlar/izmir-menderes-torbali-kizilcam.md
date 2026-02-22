@@ -30,7 +30,7 @@ wikidata_id: "Q108228444"
 
 ## Coğrafya
 
-İzmir-Menderes-Torbalı-Kızılçam milli parkı, Ege Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Park, Menderes ilçesi ve Torbalı ile Kızılçam köyleri arasında bulunur. Coğrafi olarak bakıldığında, parkın toprakları genelde ormanlık ve çalılık arazilerden oluşur. İklimi, Ege Bölgesi'nin tipik Akdeniz ikliminin etkisindedir. Yaz ayları sıca ve kuru, kış ayları ılıman ve yağışlı geçer. Bu iklim, parkın flora ve faunasının zengin çeşitliliğine katkıda bulunur. Çevre, doğal güzellikleri ve biyolojik çeşitliliği ile dikkat çeker. Parkın coğrafi konumu, ziyaretçilere geniş bir yeşil alan ve çeşitli doğal güzellikler sunar.
+İzmir-Menderes-Torbalı-Kızılçam milli parkı, Ege Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Park, Menderes ilçesi ve Torbalı ile Kızılçam köyleri arasında bulunur. Coğrafi olarak bakıldığında, parkın toprakları genelde ormanlık ve çalılık arazilerden oluşur. İklimi, Ege Bölgesi'nin tipik Akdeniz ikliminin etkisindedir. Yaz ayları sıcak ve kuru, kış ayları ılıman ve yağışlı geçer. Bu iklim, parkın flora ve faunasının zengin çeşitliliğine katkıda bulunur. Çevre, doğal güzellikleri ve biyolojik çeşitliliği ile dikkat çeker. Parkın coğrafi konumu, ziyaretçilere geniş bir yeşil alan ve çeşitli doğal güzellikler sunar.
 
 ## Flora ve Fauna
 

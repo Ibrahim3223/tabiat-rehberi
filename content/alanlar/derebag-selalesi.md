@@ -31,7 +31,7 @@ Derebağ Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-Derebağ Şelalesi, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer almaktadır. Bu bölge, dağlar ve ovalarla çevrili olup, şelale, bir vadi içerisinde yer almaktadır. Derebağ Şelalesi'nin çevresi, çeşitli bitki türleri ile kaplıdır ve bu bitkiler, şelalenin doğal güzelliğini artırmaktadır. Şelale, bir nehrin üzerinde yer almakta ve nehirden akan su, şelaleyi oluşturmaktadır. Derebağ Şelalesi'nin iklimi, İç Anadolu Bölgesi'nin iklimine benzer olup, kışları soğuk, yazları sıca ve kurudur. Bu iklim, şelalenin ve çevresi bitkilerin büyümesi için elverişlidir. Derebağ Şelalesi, aynı zamanda bir milli park olarak korunmakta ve bu sayede, bölgenin ekolojik dengesi korunmaktadır.
+Derebağ Şelalesi, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer almaktadır. Bu bölge, dağlar ve ovalarla çevrili olup, şelale, bir vadi içerisinde yer almaktadır. Derebağ Şelalesi'nin çevresi, çeşitli bitki türleri ile kaplıdır ve bu bitkiler, şelalenin doğal güzelliğini artırmaktadır. Şelale, bir nehrin üzerinde yer almakta ve nehirden akan su, şelaleyi oluşturmaktadır. Derebağ Şelalesi'nin iklimi, İç Anadolu Bölgesi'nin iklimine benzer olup, kışları soğuk, yazları sıcak ve kurudur. Bu iklim, şelalenin ve çevresi bitkilerin büyümesi için elverişlidir. Derebağ Şelalesi, aynı zamanda bir milli park olarak korunmakta ve bu sayede, bölgenin ekolojik dengesi korunmaktadır.
 
 ## Flora ve Fauna
 

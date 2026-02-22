@@ -37,7 +37,7 @@ Arcosoliumlu Kaya Mezarı, Sason'un tarihi geçmişi hakkında önemli bilgiler 
 
 ## Coğrafya
 
-Arcosoliumlu Kaya Mezarı, Sason, Güneydoğu Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alıyor. Bu bölge, dağlık ve engebeli bir coğrafyaya sahip ve tarihi mezarlar, kaleler ve antik yerleşim yerleri ile dolu. Bölgenin iklimi, genellikle sıca ve kurak bir karakterde olup, yaz aylarında sıcaklık derecesi oldukça yüksek olabiliyor. Arcosoliumlu Kaya Mezarı, Sason'un coğrafi konumuna uygun olarak, dağların eteklerinde ve vadilerde yer alan bir bölgede inşa edilmiş. Bu coğrafi konum, mezarın inşa edilmesinde ve bölgenin tarihi gelişiminde önemli bir rol oynamış. Mezarın çevresi, zengin bir flora ve fauna ile kaplı olup, ziyaretçiler için bir doğa harikası sunuyor.
+Arcosoliumlu Kaya Mezarı, Sason, Güneydoğu Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alıyor. Bu bölge, dağlık ve engebeli bir coğrafyaya sahip ve tarihi mezarlar, kaleler ve antik yerleşim yerleri ile dolu. Bölgenin iklimi, genellikle sıcak ve kurak bir karakterde olup, yaz aylarında sıcaklık derecesi oldukça yüksek olabiliyor. Arcosoliumlu Kaya Mezarı, Sason'un coğrafi konumuna uygun olarak, dağların eteklerinde ve vadilerde yer alan bir bölgede inşa edilmiş. Bu coğrafi konum, mezarın inşa edilmesinde ve bölgenin tarihi gelişiminde önemli bir rol oynamış. Mezarın çevresi, zengin bir flora ve fauna ile kaplı olup, ziyaretçiler için bir doğa harikası sunuyor.
 
 ## Flora ve Fauna
 

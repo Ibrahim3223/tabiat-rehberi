@@ -46,7 +46,7 @@ Doğal güzelliklerin cenneti olan Ege Bölgesi, birçok güzel adaya ev sahipli
 
 Jeolojik yapısı itibariyle, Gemiler Adası bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu küçük ada, etrafındaki diğer adalarla birlikte bir takımadayı oluşturuyor. Ada, denizin ortasında yükselen bir kayalık olarak düşünülebilir ve etrafındaki su kaynakları ile birlikte bir bütünü oluşturuyor. Ada'nın boyutları, bir birkaç olimpik havuz kadar bir alanı kaplayacak büyüklükte.
 
-Mevsimsel özellikler bakımından, Gemiler Adası Akdeniz ikliminin tüm özelliklerini taşıyor. Yaz aylarında sıca ve kurak bir hava, kış aylarında ise ılıman bir hava hakim. Bu mevsimsel özellikler, ada'nın flora ve faunasını şekillendiriyor. Ada, çevredeki su kaynakları ile birlikte bir ekosistem oluşturuyor ve bu ekosistem, birçok canlıya ev sahipliği yapıyor.
+Mevsimsel özellikler bakımından, Gemiler Adası Akdeniz ikliminin tüm özelliklerini taşıyor. Yaz aylarında sıcak ve kurak bir hava, kış aylarında ise ılıman bir hava hakim. Bu mevsimsel özellikler, ada'nın flora ve faunasını şekillendiriyor. Ada, çevredeki su kaynakları ile birlikte bir ekosistem oluşturuyor ve bu ekosistem, birçok canlıya ev sahipliği yapıyor.
 
 Ada'nın çevresel ilişkileri, komşu alanlar ve su kaynakları ile oldukça önemli. Ada, Fethiye Körfezi'nin bir parçası ve bu körfez, birçok su kaynağına ev sahipliği yapıyor. Ada, bu su kaynakları ile birlikte bir bütünü oluşturuyor ve bu bütün, birçok canlıyı barındırıyor. Ada'nın çevresi, Monaco'nun küçük bir bölümü kadar bir alanı kaplayacak büyüklükte ve bu alan, birçok doğal güzelliği barındırıyor.
 

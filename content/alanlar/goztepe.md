@@ -44,7 +44,7 @@ Doğal güzellikleri keşfetmek isteyenler için Göztepe, bir hazine gibi sakl�
 
 Jeolojik açıdan bakıldığında, Göztepe'nin fiziksel yapısı hakkında detaylı bilgi olmasa da, coğrafi konumuna bakıldığında, çevredeki dağlarla birlikte bir bütün olarak düşünüldüğünde, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor gibi görünüyor. Bu büyüklük, bölgenin jeolojik geçmişine ve oluşumuna dair ipuçları sunuyor.
 
-İklimsel olarak, Göztepe'nin bulunduğu bölge mevsimsel farklılıklar gösteriyor. Kış aylarında daha soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir hava hakim oluyor. Bu mevsimsel değişimler, bölgenin flora ve fauna açısından zengin bir çeşitlilik sunmasına olanak sağlıyor.
+İklimsel olarak, Göztepe'nin bulunduğu bölge mevsimsel farklılıklar gösteriyor. Kış aylarında daha soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakim oluyor. Bu mevsimsel değişimler, bölgenin flora ve fauna açısından zengin bir çeşitlilik sunmasına olanak sağlıyor.
 
 Çevresel açıdan bakıldığında, Göztepe'nin bulunduğu bölge, çeşitli su kaynaklarına ve ekosistemlere ev sahipliği yapıyor. Bu su kaynakları, bölgenin canlıları için hayati önem taşıyor ve Göztepe, bu ekosistemlerin bir parçası olarak düşünülüyor. Monaco'nun küçük bir bölümü kadar bir alanı kaplayan bu bölge, doğal güzellikleri ve çeşitliliğiyle dikkat çekiyor.
 

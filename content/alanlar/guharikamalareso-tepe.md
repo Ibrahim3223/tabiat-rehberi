@@ -44,7 +44,7 @@ Mardin'in güneydoğusunda yer alan Guharikamalareşo Tepe, 37.5142°K enlem ve 
 
 Doğal bir oluşum olan Guharikamalareşo Tepe'nin fiziksel yapısı hakkında kesin bilgiler bulunmasa da, bu bölgenin Mardin'in genel jeolojik yapısına bakıldığında, tepe ve çevresinin kireçtaşı ve kalker katmanları ile kaplı olduğu söylenebilir. Eğer bir karşılaştırma yapılacak olsa, bu tepe ve çevresinin yaklaşık bir şehir bloğu büyüklüğünde bir alanı kapladığı varsayılabilir, ancak bu sadece bir tahmindir.
 
-İklim açısından bakıldığında, Guharikamalareşo Tepe ve çevresinin Mardin'in genel iklim karakterini paylaştığı söylenebilir. Bu bölgede yaz ayları genellikle sıca ve kuru, kış ayları ise soğu ve yağışlı geçer. Bu durum, tepe ve çevresinin flora ve fauna açısından zengin bir çeşitlilik göstermesine olanak sağlar.
+İklim açısından bakıldığında, Guharikamalareşo Tepe ve çevresinin Mardin'in genel iklim karakterini paylaştığı söylenebilir. Bu bölgede yaz ayları genellikle sıcak ve kuru, kış ayları ise soğuk ve yağışlı geçer. Bu durum, tepe ve çevresinin flora ve fauna açısından zengin bir çeşitlilik göstermesine olanak sağlar.
 
 Çevresel olarak Guharikamalareşo Tepe, Mardin'in diğer önemli coğrafi noktalarına yakınlığı ile dikkat çeker. Bu tepe, bölgenin su kaynaklarına ve ekosistem bağlantılarına yakınlığı ile önemli bir konuma sahiptir. Ancak, dahalı bilgiler için daha fazla araştırma yapılması gerekmektedir.
 

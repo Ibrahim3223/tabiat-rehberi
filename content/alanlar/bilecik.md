@@ -31,7 +31,7 @@ Bilecik'in tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bölge, birçok 
 
 ## Coğrafya
 
-Bilecik, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Burada, çeşitli coğrafi oluşumlar bulunur. Bilecik'in arazisi, genellikle engebeli ve dağlıktır. Bu coğrafi yapı, Bilecik'in iklimini de etkiler. Bilecik'in iklimi, genellikle karasal iklimdir. Burada, yazlar sıca ve kurak, kışlar ise soğu ve karlı geçer. Bilecik'in coğrafi konumu, aynı zamanda bölgenin flora ve faunasını da etkiler. Burada, çeşitli bitki ve hayvan türleri bulunur. Bilecik, coğrafi olarak önemli bir bölgede yer alır ve ziyaretçilerine doğanın güzelliğini gösterir.
+Bilecik, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Burada, çeşitli coğrafi oluşumlar bulunur. Bilecik'in arazisi, genellikle engebeli ve dağlıktır. Bu coğrafi yapı, Bilecik'in iklimini de etkiler. Bilecik'in iklimi, genellikle karasal iklimdir. Burada, yazlar sıcak ve kurak, kışlar ise soğuk ve karlı geçer. Bilecik'in coğrafi konumu, aynı zamanda bölgenin flora ve faunasını da etkiler. Burada, çeşitli bitki ve hayvan türleri bulunur. Bilecik, coğrafi olarak önemli bir bölgede yer alır ve ziyaretçilerine doğanın güzelliğini gösterir.
 
 ## Flora ve Fauna
 

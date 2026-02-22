@@ -36,7 +36,7 @@ Sulga Tepesi, tarihi geçmişi ile dikkat çekiyor. Bu bölge, yüzyıllar boyun
 
 ## Coğrafya
 
-Sulga Tepesi, Kars ilinin coğrafi yapısını oluşturan önemli bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bölgeyi keşfetmek isteyenler için önemli bir destinasyon. Sulga Tepesi, doğu-batı yönünde uzanan bir tepe ve bu yön, bölgenin iklimini etkiliyor. Tepenin kuzey kısmı, daha soğu ve nemli bir iklime sahipken, güney kısmı daha sıca ve kuru. Bu durum, bölgenin flora ve faunasını etkiliyor. Sulga Tepesi, Kars'ın coğrafi yapısını keşfetmek isteyenler için önemli bir nokta. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Tepenin yüksekliği, bölgenin manzarasını etkiliyor ve buradan, çevreyi izleme mümkün.
+Sulga Tepesi, Kars ilinin coğrafi yapısını oluşturan önemli bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bölgeyi keşfetmek isteyenler için önemli bir destinasyon. Sulga Tepesi, doğu-batı yönünde uzanan bir tepe ve bu yön, bölgenin iklimini etkiliyor. Tepenin kuzey kısmı, daha soğu ve nemli bir iklime sahipken, güney kısmı daha sıcak ve kuru. Bu durum, bölgenin flora ve faunasını etkiliyor. Sulga Tepesi, Kars'ın coğrafi yapısını keşfetmek isteyenler için önemli bir nokta. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Tepenin yüksekliği, bölgenin manzarasını etkiliyor ve buradan, çevreyi izleme mümkün.
 
 ## Flora ve Fauna
 

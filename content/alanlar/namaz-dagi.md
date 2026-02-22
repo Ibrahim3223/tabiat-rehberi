@@ -36,7 +36,7 @@ Namaz Dağı'nın tarihi geçmişi, bölgenin kültürel zenginliklerini yansıt
 
 ## Coğrafya
 
-Namaz Dağı, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını şekillendiren önemli bir dağ olarak ortaya çıkıyor. Dağın konumu, Şırnak ilinin merkezi ile çevredeki diğer yerleşim yerlerine yakınlığı, kolay ulaşılabilirliğini sağlıyor. Namaz Dağı'nın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Dağın eteklerinde, yeşilin her tonunu görebileceğiniz ormanlar ve tarım arazileri bulunuyor. Bu coğrafi çeşitlilik, Namaz Dağı'nı sadece bir doğal güzellik olarak değil, aynı zamanda ekolojik bir önemi olarak da değerlendirmemizi sağlıyor. Dağın iklimi, bölgenin genel iklim koşullarına uygun olarak, yazları sıca ve kurak, kışları ise soğu ve yağışlı geçiyor. Bu iklim koşulları, Namaz Dağı'nın flora ve faunasını şekillendirerek, ziyaretçilere her mevsim farklı bir güzelliği sunuyor.
+Namaz Dağı, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını şekillendiren önemli bir dağ olarak ortaya çıkıyor. Dağın konumu, Şırnak ilinin merkezi ile çevredeki diğer yerleşim yerlerine yakınlığı, kolay ulaşılabilirliğini sağlıyor. Namaz Dağı'nın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Dağın eteklerinde, yeşilin her tonunu görebileceğiniz ormanlar ve tarım arazileri bulunuyor. Bu coğrafi çeşitlilik, Namaz Dağı'nı sadece bir doğal güzellik olarak değil, aynı zamanda ekolojik bir önemi olarak da değerlendirmemizi sağlıyor. Dağın iklimi, bölgenin genel iklim koşullarına uygun olarak, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı geçiyor. Bu iklim koşulları, Namaz Dağı'nın flora ve faunasını şekillendirerek, ziyaretçilere her mevsim farklı bir güzelliği sunuyor.
 
 ## Flora ve Fauna
 

@@ -45,7 +45,7 @@ Güneşin altın ışıklarıyla aydınlanan Ege Denizi'nin sularında, Yeşil A
 
 Doğal güzellikleri ile dikkat çeken Yeşil Adası, coğrafi olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Ada, denizin dalgalarıyla şekillenmiş kaya oluşumları ve yeşil bitki örtüsünün birleşmesiyle formedir. Jeolojik yapısı, Ege Bölgesi'nin karakteristik özelliklerini taşıyor. Ada, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alan kaplıyor ve bu küçük boyutuna rağmen, ziyaretçilerini etkileyen bir doğal güzelliğe sahip.
 
-İklim açısından, Yeşil Adası, Akdeniz ikliminin tipik özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava hüküm sürüyor. Mevsimsel değişiklikler, adanın flora ve fauna'sını etkiliyor. İlkbahar ve sonbahar aylarında, ada, mis kokulu çiçeklerle ve renkli bitkilerle süslü bir görünüm sunuyor.
+İklim açısından, Yeşil Adası, Akdeniz ikliminin tipik özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava hüküm sürüyor. Mevsimsel değişiklikler, adanın flora ve fauna'sını etkiliyor. İlkbahar ve sonbahar aylarında, ada, mis kokulu çiçeklerle ve renkli bitkilerle süslü bir görünüm sunuyor.
 
 Yeşil Adası, Ege Denizi'nin su kaynaklarına ve ekosistem bağlantılarına yakınlığıyla dikkat çekiyor. Ada, Monaco'nun küçük bir bölümü büyüklüğünde bir alanı kaplıyor ve bu konumu, onu deniz canlıları için önemli bir yaşam alanı haline getiriyor. Çevresindeki su kaynakları, ada için yaşam kaynağı niteliğinde ve bu doğal denge, Yeşil Adası'nın güzelliğini ve canlılığını koruyor.
 

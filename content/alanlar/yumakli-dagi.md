@@ -44,7 +44,7 @@ Balıkesir'in kuzeydoğusunda, 39.3708°K ve 27.8825°D koordinatlarında yer al
 
 Doğrudan fiziksel verilere bakıldığında, Yumaklı Dağının boyutları hakkında net bir bilgi bulunmasa da, genel olarak bu tür dağların genellikle birkaç kilometrelik bir alanda yayıldıkları biliniyor. Monaco'nun küçük bir bölümü kadar bir alanda yer kaplayan bu dağ, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor. Jeolojik açıdan bakıldığında, Yumaklı Dağı ve etrafındaki bölge, Marmara bölgesinin karmaşık jeolojik yapısını yansıtıyor.
 
-Yumaklı Dağı'nın bulunduğu bölge, Karadeniz ve Ege bölgelerinin iklimsel özelliklerinin bir karışımını sergiler. Kış aylarında soğu ve yağışlı, yaz aylarında ise ılıman ve güneşli bir hava hüküm sürer. Bu mevsimsel değişiklikler, dağdaki bitki örtüsünü ve vahşi yaşamı etkiler. Eiffel Kulesi'nin birkaç katı yükseklikte olan bu dağ, bölgenin hava koşullarını şekillendiren önemli bir faktördür.
+Yumaklı Dağı'nın bulunduğu bölge, Karadeniz ve Ege bölgelerinin iklimsel özelliklerinin bir karışımını sergiler. Kış aylarında soğuk ve yağışlı, yaz aylarında ise ılıman ve güneşli bir hava hüküm sürer. Bu mevsimsel değişiklikler, dağdaki bitki örtüsünü ve vahşi yaşamı etkiler. Eiffel Kulesi'nin birkaç katı yükseklikte olan bu dağ, bölgenin hava koşullarını şekillendiren önemli bir faktördür.
 
 Çevresel açıdan bakıldığında, Yumaklı Dağı, komşu ormanlık alanlar ve su kaynakları ile önemli bir ekosistem bağlantısı oluşturur. İstanbul'un Adalar ilçesi büyüklüğünde bir alana yayılan bu dağ, bölgenin su döngüsünü ve vahşi yaşamını etkileyen önemli bir faktördür. Yumaklı Dağı, Marmara bölgesinin doğal güzelliğini ve biyolojik çeşitliliğini korumada önemli bir role sahiptir.
 

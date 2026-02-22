@@ -38,7 +38,7 @@ wikidata_id: "Q131738461"
 
 ## Coğrafya
 
-Çakır Hamamı, Osmangazi ilçesinde, Bursa'nın merkezine uzun bir mesafe uzaklıkta yer alır. Marmara Bölgesi'nin kuzeydoğu kesiminde bulunan bu plaj, deniz seviyesinde ve geniş bir sahil şeridine sahiptir. Çakır Hamamı'nın coğrafi konumu, ziyaretçilerine, Bursa'nın diğer turistik noktalarına kolayca ulaşma imkanı sunar. Plajın hemen arkasında, yeşilliklerle kaplı tepeler ve ormanlık alanlar yer alır. Bu coğrafi yapı, ziyaretçilere, hem deniz hem de ormanın güzelliğini aynı anda sunar. İklim olarak, Marmara Bölgesi'nin genel iklim özellikleri görülür. Yaz aylarında sıca ve nemli, kış aylarında ılıman ve yağışlı bir iklim hakimdir. Bu nedenle, Çakır Hamamı, özellikle yaz aylarında, yüzme ve güneşlenme için ideal bir destinasyondur.
+Çakır Hamamı, Osmangazi ilçesinde, Bursa'nın merkezine uzun bir mesafe uzaklıkta yer alır. Marmara Bölgesi'nin kuzeydoğu kesiminde bulunan bu plaj, deniz seviyesinde ve geniş bir sahil şeridine sahiptir. Çakır Hamamı'nın coğrafi konumu, ziyaretçilerine, Bursa'nın diğer turistik noktalarına kolayca ulaşma imkanı sunar. Plajın hemen arkasında, yeşilliklerle kaplı tepeler ve ormanlık alanlar yer alır. Bu coğrafi yapı, ziyaretçilere, hem deniz hem de ormanın güzelliğini aynı anda sunar. İklim olarak, Marmara Bölgesi'nin genel iklim özellikleri görülür. Yaz aylarında sıcak ve nemli, kış aylarında ılıman ve yağışlı bir iklim hakimdir. Bu nedenle, Çakır Hamamı, özellikle yaz aylarında, yüzme ve güneşlenme için ideal bir destinasyondur.
 
 ## Flora ve Fauna
 

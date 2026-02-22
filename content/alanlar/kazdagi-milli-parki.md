@@ -33,15 +33,15 @@ Kazdağı Milli Parkı, Marmara Bölgesi'nin en önemli doğal alanlarından bir
 
 ## Tarihçe
 
-Kazdağı Milli Parkı, tarihsel olarak önemli bir geçmişe sahiptir. Parkın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin yerleşim alanı olarak kullanılmıştır. Tarihi kazılar ve araştırmalar, bu bölgenin zengin kültürel mirasını ortaya çıkarmıştır. Parkın kuruluşu, doğal kaynakların korunması ve future nesiller için bo tn edilmesi amacıyla gerçekleştirilmiştir. Kazdağı Milli Parkı, günümüzde önemli bir ekolojik rezervuar olarak kabul edilmektedir ve ziyaretçilere, doğal güzellikleri ve tarihi değerleri hakkında bilgi veren rehberli turlar düzenlenmektedir.
+Kazdağı Milli Parkı, tarihsel olarak önemli bir geçmişe sahiptir. Parkın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin yerleşim alanı olarak kullanılmıştır. Tarihi kazılar ve araştırmalar, bu bölgenin zengin kültürel mirasını ortaya çıkarmıştır. Parkın kuruluşu, doğal kaynakların korunması ve gelecek nesiller için korunması amacıyla gerçekleştirilmiştir. Kazdağı Milli Parkı, günümüzde önemli bir ekolojik rezervuar olarak kabul edilmektedir ve ziyaretçilere, doğal güzellikleri ve tarihi değerleri hakkında bilgi veren rehberli turlar düzenlenmektedir.
 
 ## Coğrafya
 
-Kazdağı Milli Parkı, Marmara Bölgesi'nin batı kısmında, Edremit Körfezi'nin güneyinde yer almaktadır. Parkın coğrafi yapısı, dağlık ve engebeli arazilerle birlikte, çeşitli vadiler ve dere yataklarından oluşmaktadır. Kazdağı'nın zirvesi, 1.yüksek bir konumdatedir ve parkın en yüksek noktası olarak kabul edilmektedir. Parkın iklimi, Akdeniz iklimi özellikleri taşımakta olup, yazları sıca ve kurak, kışları ise ılıman ve yağışlı geçmektedir. Kazdağı Milli Parkı, çevresindeki diğer doğal alanlarla birlikte, bir bütün olarak değerlendirilmekte ve ekolojik olarak önemli bir bölge olarak kabul edilmektedir.
+Kazdağı Milli Parkı, Marmara Bölgesi'nin batı kısmında, Edremit Körfezi'nin güneyinde yer almaktadır. Parkın coğrafi yapısı, dağlık ve engebeli arazilerle birlikte, çeşitli vadiler ve dere yataklarından oluşmaktadır. Kazdağı'nın zirvesi, 1.yüksek bir konumdatedir ve parkın en yüksek noktası olarak kabul edilmektedir. Parkın iklimi, Akdeniz iklimi özellikleri taşımakta olup, yazları sıcak ve kurak, kışları ise ılıman ve yağışlı geçmektedir. Kazdağı Milli Parkı, çevresindeki diğer doğal alanlarla birlikte, bir bütün olarak değerlendirilmekte ve ekolojik olarak önemli bir bölge olarak kabul edilmektedir.
 
 ## Flora ve Fauna
 
-Kazdağı Milli Parkı, zengin bir flora ve fauna çeşitliliği sunmaktadır. Parkta, çeşitli ağaç türleri, çalı ve otlar bulunmakta olup, mevsimsel olarak değişen bitki örtüsü, ziyaretçilere renkli ve canlı bir manzara sunmaktadır. Parkın fauna çeşitliliği, çeşitli kuş türleri, memeliler ve sürüngenlerle birlikte, zengin bir yaban hayatı sunmaktadır. Kazdağı Milli Parkı, doğal yaşamın korunması ve future nesiller için bo tn edilmesi amacıyla, önemli bir ekolojik rezervuar olarak kabul edilmektedir.
+Kazdağı Milli Parkı, zengin bir flora ve fauna çeşitliliği sunmaktadır. Parkta, çeşitli ağaç türleri, çalı ve otlar bulunmakta olup, mevsimsel olarak değişen bitki örtüsü, ziyaretçilere renkli ve canlı bir manzara sunmaktadır. Parkın fauna çeşitliliği, çeşitli kuş türleri, memeliler ve sürüngenlerle birlikte, zengin bir yaban hayatı sunmaktadır. Kazdağı Milli Parkı, doğal yaşamın korunması ve gelecek nesiller için korunması amacıyla, önemli bir ekolojik rezervuar olarak kabul edilmektedir.
 
 ## Ziyaret Bilgileri
 
@@ -53,4 +53,4 @@ Kazdağı Milli Parkı, ziyaretçilere çeşitli aktiviteler sunmaktadır. Park�
 - Parkta, çeşitli ağaç türleri, çalı ve otlar bulunmakta
 - Kazdağı'nın zirvesi, 1.yüksek bir konumdatedir
 - Park, zengin bir flora ve fauna çeşitliliği sunmaktadır
-- Kazdağı Milli Parkı, future nesiller için bo tn edilmesi amacıyla kurulmuştur
+- Kazdağı Milli Parkı, gelecek nesiller için korunması amacıyla kurulmuştur

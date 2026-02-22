@@ -42,7 +42,7 @@ Konya'nın görkemli manzarasına hakim olan Büyük Gözetdağı Tepe, 37.3483�
 
 Doğal bir oluşum olan Büyük Gözetdağı Tepe, Konya Ovası'nın güneyinde yükselen bir tepe olarak dikkat çekiyor. Bu tepe, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Jeolojik olarak, tepe bölgesinde genellikle kireçtaşı ve kil gibi tortul kayaçlar found. Ancak, detaylı fiziksel veri bulunmaması, tepe hakkında daha derinlemesine bilgi edinmeyi zorlaştırıyor.
 
-Mevsimsel değişikliklere göre, Büyük Gözetdağı Tepe'nin iklimi değişkenlik gösteriyor. Konya'nın genel iklimi gibi, tepe bölgesinde de yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir hava hakim. Bu mevsimsel özellikler, tepe ve çevresinin ekosistemini şekillendiriyor.
+Mevsimsel değişikliklere göre, Büyük Gözetdağı Tepe'nin iklimi değişkenlik gösteriyor. Konya'nın genel iklimi gibi, tepe bölgesinde de yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir hava hakim. Bu mevsimsel özellikler, tepe ve çevresinin ekosistemini şekillendiriyor.
 
 Çevresel açıdan, Büyük Gözetdağı Tepe, Konya Ovası'nın güneyinde yer alan diğer tepe ve dağlarla birlikte bir bütün olarak düşünülüyor. Bu tepe, komşu alanlar ve su kaynakları ile bağlantılı olarak, bölgenin ekosistemini destekleyen önemli bir parça. Ancak, detaylı bilgi eksikliği, bu bağlantıların tam olarak anlaşılmasını engelliyor.
 

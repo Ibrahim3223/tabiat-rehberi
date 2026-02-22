@@ -37,7 +37,7 @@ Hızır Bey Açık Türbesi, tarihi geçmişiyle önemlidir. Bu türbenin tam ol
 
 ## Coğrafya
 
-Hızır Bey Açık Türbesi, Ürgüp'ün merkezine yakın bir konumda bulunmaktadır. Bu bölge, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Türbenin bulunduğu alan, 140 hektarlık bir yeşil alana sahiptir ve bu alan, yaklaşık 200 futbol sahası büyüklüğündedir. Bölge, doğal güzelliği ile dikkat çekmekte ve ziyaretçilere geniş açık alanlar sunmaktadır. Ürgüp'ün iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir ve bölgede karasal iklim hüküm sürer. Kışlar soğu ve karlı, yazlar ise sıcak ve kuru geçer. Bu coğrafi ve iklimsel özellikler, bölgenin flora ve faunasını da etkilemektedir. Hızır Bey Açık Türbesi ve etrafındaki bölge, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar.
+Hızır Bey Açık Türbesi, Ürgüp'ün merkezine yakın bir konumda bulunmaktadır. Bu bölge, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Türbenin bulunduğu alan, 140 hektarlık bir yeşil alana sahiptir ve bu alan, yaklaşık 200 futbol sahası büyüklüğündedir. Bölge, doğal güzelliği ile dikkat çekmekte ve ziyaretçilere geniş açık alanlar sunmaktadır. Ürgüp'ün iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir ve bölgede karasal iklim hüküm sürer. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuru geçer. Bu coğrafi ve iklimsel özellikler, bölgenin flora ve faunasını da etkilemektedir. Hızır Bey Açık Türbesi ve etrafındaki bölge, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar.
 
 ## Flora ve Fauna
 

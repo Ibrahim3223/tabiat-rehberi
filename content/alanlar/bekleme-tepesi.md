@@ -36,7 +36,7 @@ Bekleme Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b�
 
 ## Coğrafya
 
-Bekleme Tepesi, Akdeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Burdur'un şehir merkezine yakın konumu, Bekeleme Tepesi'ni ulaşılabilir kılar. Tepenin coğrafi yapısı, genellikle yeşilin farklı tonlarıyla kaplıdır ve çeşitli bitki türlerini barındırır. Bekeleme Tepesi, Burdur'un iklimine uygun olarak, yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava sahiptir. Bölge, zengin fauna ve flora çeşitliliğine sahiptir. Bekeleme Tepesi, Burdur'un coğrafi haritasında önemli bir yer tutar ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir noktadır.
+Bekleme Tepesi, Akdeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Burdur'un şehir merkezine yakın konumu, Bekeleme Tepesi'ni ulaşılabilir kılar. Tepenin coğrafi yapısı, genellikle yeşilin farklı tonlarıyla kaplıdır ve çeşitli bitki türlerini barındırır. Bekeleme Tepesi, Burdur'un iklimine uygun olarak, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava sahiptir. Bölge, zengin fauna ve flora çeşitliliğine sahiptir. Bekeleme Tepesi, Burdur'un coğrafi haritasında önemli bir yer tutar ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir noktadır.
 
 ## Flora ve Fauna
 

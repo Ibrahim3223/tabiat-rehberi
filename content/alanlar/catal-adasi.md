@@ -45,7 +45,7 @@ Doğal güzellikleri ile dikkat çeken Çatal Adası, Muğla'nın kıyı şeridi
 
 Jeolojik açıdan bakıldığında, Çatal Adası'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, adanın genel görünümü, Ege Bölgesi'nin karakteristik özelliklerini taşıyor. Ada, yaklaşık birkaç olimpik havuz kadar bir alanı kaplıyor ve bu küçük boyutuna rağmen, çevresi kayalık ve dik yamaçlarla çevrili. Bu özellikler, adanın bir korunan bölge olarak önemli bir ekosistem oluşturabileceğini gösteriyor.
 
-İklim açısından, Çatal Adası, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel özellikler, adanın bitki örtüsünü ve fauna çeşitliliğini şekillendiriyor. Ada, Ege Denizi'nin soğuk su akıntılarından etkileniyor ve bu nedenle, deniz suyu sıcaklığı, diğer Akdeniz bölgelerine göre daha serin oluyor.
+İklim açısından, Çatal Adası, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel özellikler, adanın bitki örtüsünü ve fauna çeşitliliğini şekillendiriyor. Ada, Ege Denizi'nin soğuk su akıntılarından etkileniyor ve bu nedenle, deniz suyu sıcaklığı, diğer Akdeniz bölgelerine göre daha serin oluyor.
 
 Çevresel açıdan, Çatal Adası, Marmaris Körfezi'nin güneybatı ucunda yer alıyor ve bu bölge, zengin bir deniz ekosistemine ev sahipliği yapıyor. Ada, su kaynakları açısından zengin değil, ancak Ege Denizi'nin temiz suları, adanın doğal güzelliklerini koruyor. Bu küçük ada, çevresindeki büyük adalar ve anakara ile birlikte, bir bütün olarak düşünülmesi gereken bir ekosistem oluşturuyor.
 

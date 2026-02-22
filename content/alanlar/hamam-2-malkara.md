@@ -37,7 +37,7 @@ Hamam 2, Malkara'nın tarihi geçmişi, Malkara'nın tarihi ile iç içe geçmi�
 
 ## Coğrafya
 
-Hamam 2, Malkara, coğrafi olarak Internal Anadolu Bölgesi'nde yer alır. Bu bölgenin coğrafyası, genellikle step ve ova gibi düzlük arazilerle karakterizedir. Plajın çevresinde, yeşilin farklı tonlarını sunan ağaçlar ve bitkiler, ziyaretçilere görsel bir şölen sunar. İklim, karasal iklimin característicasını taşır, yaz ayları sıca ve kurak, kış ayları soğu ve yağışlı geçer. Bu coğrafi özellikler, Hamam 2, Malkara'yı, hem yaz hem de kış mevsiminde ziyaret etmek için ideal bir destinasyon haline getirir. Plajın denizi, temiz ve berrak sularla ziyaretçilere huzurlu bir atmosfer sunar. Çevre, doğallığını koruyarak, ziyaretçilere doğayla iç içe bir deneyim sunar.
+Hamam 2, Malkara, coğrafi olarak Internal Anadolu Bölgesi'nde yer alır. Bu bölgenin coğrafyası, genellikle step ve ova gibi düzlük arazilerle karakterizedir. Plajın çevresinde, yeşilin farklı tonlarını sunan ağaçlar ve bitkiler, ziyaretçilere görsel bir şölen sunar. İklim, karasal iklimin característicasını taşır, yaz ayları sıcak ve kurak, kış ayları soğuk ve yağışlı geçer. Bu coğrafi özellikler, Hamam 2, Malkara'yı, hem yaz hem de kış mevsiminde ziyaret etmek için ideal bir destinasyon haline getirir. Plajın denizi, temiz ve berrak sularla ziyaretçilere huzurlu bir atmosfer sunar. Çevre, doğallığını koruyarak, ziyaretçilere doğayla iç içe bir deneyim sunar.
 
 ## Flora ve Fauna
 

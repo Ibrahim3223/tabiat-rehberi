@@ -37,7 +37,7 @@ Ankara'nın merkezinde yer alan İş Sağlığı ve İş Güvenliği Müzesi, ya
 
 ## Coğrafya
 
-İş Sağlığı ve İş Güvenliği Müzesi, Ankara'nın merkezi bir bölgesinde yer alıyor. Müzenin çevresi, yeşil alanlarla çevrili ve ziyaretçilere geniş bir otopark alanı sunuyor. Müzenin yapısı, modern ve işlevsel bir tasarıma sahip. İçinde çeşitli sergi alanları, konferans salonları ve eğitim odaları bulunuyor. Ankara'nın iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Müzenin konumu, ziyaretçilerin kolayca ulaşabileceği bir bölgede. Ankara'nın merkezi konumunda olması, müzenin ulaşılabilirliğini artırıyor.
+İş Sağlığı ve İş Güvenliği Müzesi, Ankara'nın merkezi bir bölgesinde yer alıyor. Müzenin çevresi, yeşil alanlarla çevrili ve ziyaretçilere geniş bir otopark alanı sunuyor. Müzenin yapısı, modern ve işlevsel bir tasarıma sahip. İçinde çeşitli sergi alanları, konferans salonları ve eğitim odaları bulunuyor. Ankara'nın iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Müzenin konumu, ziyaretçilerin kolayca ulaşabileceği bir bölgede. Ankara'nın merkezi konumunda olması, müzenin ulaşılabilirliğini artırıyor.
 
 ## Flora ve Fauna
 

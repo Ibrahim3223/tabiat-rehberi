@@ -37,7 +37,7 @@ Erimtan Arkeoloji ve Sanat Müzesi'nin tarihi geçmişi, Ankara'nın tarihi ile 
 
 ## Coğrafya
 
-Erimtan Arkeoloji ve Sanat Müzesi, Ankara'nın merkezinde yer alıyor. İç Anadolu Bölgesi'nin coğrafi olarak önemli bir konumda bulunan Ankara, tarihi ve kültürel açıdan zengin bir geçmişe sahip. Müze, Ankara'nın şehir merkezinde, ulaşım ağlarının kesiştiği bir noktada yer alıyor. Çevresinde bulunan diğer kültürel ve tarihi mekanlar ile birlikte, bir kültür ve sanat bölgesini oluşturuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Kışları soğu ve kar yağışlı, yazları sıca ve kuru bir iklim hüküm sürüyor. Bu coğrafi ve iklimsel özellikleri, müzenin kuruluş ve gelişim sürecini etkileyen önemli faktörler arasında yer alıyor.
+Erimtan Arkeoloji ve Sanat Müzesi, Ankara'nın merkezinde yer alıyor. İç Anadolu Bölgesi'nin coğrafi olarak önemli bir konumda bulunan Ankara, tarihi ve kültürel açıdan zengin bir geçmişe sahip. Müze, Ankara'nın şehir merkezinde, ulaşım ağlarının kesiştiği bir noktada yer alıyor. Çevresinde bulunan diğer kültürel ve tarihi mekanlar ile birlikte, bir kültür ve sanat bölgesini oluşturuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Kışları soğuk ve kar yağışlı, yazları sıcak ve kuru bir iklim hüküm sürüyor. Bu coğrafi ve iklimsel özellikleri, müzenin kuruluş ve gelişim sürecini etkileyen önemli faktörler arasında yer alıyor.
 
 ## Flora ve Fauna
 

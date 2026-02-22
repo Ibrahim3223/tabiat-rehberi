@@ -44,7 +44,7 @@ Güneybatı Konya'nın dağlık bölgesinde yer alan Kırdağı, 37.4692°K ve 3
 
 Doğal bir oluşum olarak Kırdağı'nın fiziksel yapısı, bölgenin jeolojik geçmişini yansıtmaktadır. Koordinatlarına bakıldığında, dağlık bir arazide yer aldığı anlaşılabilir. Bu bölge, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Jeolojik açıdan, Kırdağı'nın oluşumu bölgenin tektonik aktiviteleri ile şekillenmiştir. Ancak, fiziksel boyutlar ve şekli hakkında daha detaylı bilgi bulunmamaktadır.
 
-İklim açısından, Konya bölgesinin genel iklim karakterini paylaşıyor gibi görünmektedir. Bu bölgede, yaz ayları sıca ve kuru, kış ayları ise soğu ve yağışlı geçmektedir. Kırdağı'nın yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadar bir yükseklikte olabilir, ancak kesin bir veri bulunmamaktadır. Bu yükseklik, mevsimsel hava durumu değişimlerini etkileyebilir.
+İklim açısından, Konya bölgesinin genel iklim karakterini paylaşıyor gibi görünmektedir. Bu bölgede, yaz ayları sıcak ve kuru, kış ayları ise soğuk ve yağışlı geçmektedir. Kırdağı'nın yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadar bir yükseklikte olabilir, ancak kesin bir veri bulunmamaktadır. Bu yükseklik, mevsimsel hava durumu değişimlerini etkileyebilir.
 
 Çevresel açıdan, Kırdağı komşu dağlık arazilerle bağlantılıdır. Bölge, su kaynakları ve ekosistem bağlantıları açısından önemlidir. Kırdağı, çevredeki dağlık arazinin bir parçası olarak, bölgenin doğal güzelliğini ve coğrafi çeşitliliğini sunmaktadır. Bu dağlık arazi, Monaco'nun yaklaşık 1/20'si kadar bir alanı kaplayabilir. Bu bölge, doğal güzelliği ve coğrafi çeşitliliği ile dikkat çekmektedir.
 

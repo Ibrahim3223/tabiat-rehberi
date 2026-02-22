@@ -30,7 +30,7 @@ Adana-Pos-Sogukoluk Kızılçam milli parkının tarihi geçmişi, yüzyıllar b
 
 ## Coğrafya
 
-Adana-Pos-Sogukoluk Kızılçam milli parkı, coğrafi olarak Akdeniz Bölgesi'nde yer alıyor. Bu bölge, genellikle sıca ve kurak bir iklimi ile bilinir, ancak milli parkın bulunduğu alan, daha serin ve nemli bir ortam sunuyor. Milli parkın coğrafi yapısı, dağlık ve engebeli bir araziye sahip. Burada, kızılçam ağaçlarının yanı sıra, çeşitli bitki türleri de bulunmakta. Milli parkın çevresi, doğal güzelliği ile dikkat çekiyor ve ziyaretçilere, doğa ile iç içe bir deneyim sunuyor. Milli parkın coğrafi konumu, aynı zamanda, çeşitli hayvan türleri için de uygun bir yaşam alanı sunuyor.
+Adana-Pos-Sogukoluk Kızılçam milli parkı, coğrafi olarak Akdeniz Bölgesi'nde yer alıyor. Bu bölge, genellikle sıcak ve kurak bir iklimi ile bilinir, ancak milli parkın bulunduğu alan, daha serin ve nemli bir ortam sunuyor. Milli parkın coğrafi yapısı, dağlık ve engebeli bir araziye sahip. Burada, kızılçam ağaçlarının yanı sıra, çeşitli bitki türleri de bulunmakta. Milli parkın çevresi, doğal güzelliği ile dikkat çekiyor ve ziyaretçilere, doğa ile iç içe bir deneyim sunuyor. Milli parkın coğrafi konumu, aynı zamanda, çeşitli hayvan türleri için de uygun bir yaşam alanı sunuyor.
 
 ## Flora ve Fauna
 

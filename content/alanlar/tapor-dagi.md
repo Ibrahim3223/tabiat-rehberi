@@ -44,7 +44,7 @@ Tapor Dağı'nın bulunduğu bölgede, insanların bu doğal alanlarla kurduğu 
 
 Doğal yapısı itibariyle Tapor Dağı, bölgenin jeolojik geçmişini yansıtan önemli bir oluşumdur. Jeolojik açıdan incelendiğinde, bu dağda farklı kayaç türlerinin bir arada bulunduğu görülmektedir. Ancak, fiziksel boyutları hakkında detaylı bir bilgi bulunmamaktadır. Bu nedenle, Tapor Dağı'nın boyutlarını tam olarak belirleme mümkün olmamakla birlikte, bölgenin genel coğrafi yapısı dikkate alındığında, bir şehir bloğu büyüklüğünde bir alana yayıldığı söylenebilir.
 
-Mevsimsel olarak Tapor Dağı'nın iklim karakteri, İç Anadolu Bölgesi'nin genel iklim yapısına benzerlik gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir iklim hakimdir. Bu mevsimsel değişimler, bölgenin doğal kaynaklarını ve ekosistemini etkilemektedir. Örneğin, yaz aylarındaki yüksek sıcaklar, bölgedeki su kaynaklarının azalmasına neden olabilir.
+Mevsimsel olarak Tapor Dağı'nın iklim karakteri, İç Anadolu Bölgesi'nin genel iklim yapısına benzerlik gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hakimdir. Bu mevsimsel değişimler, bölgenin doğal kaynaklarını ve ekosistemini etkilemektedir. Örneğin, yaz aylarındaki yüksek sıcaklar, bölgedeki su kaynaklarının azalmasına neden olabilir.
 
 Bölgenin ekosistemine bakıldığında, Tapor Dağı'nın komşu alanlar ve su kaynaklarıyla önemli bir bağlantı içerisinde olduğu görülmektedir. Dağın eteklerinde yer alan köyler ve tarım alanları, bölgenin ekonomi ve sosyal yapısını etkilemektedir. Ayrıca, Tapor Dağı'nın yakınında bulunan su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılamaktadır. Bu nedenle, Tapor Dağı, bölgenin doğal ve ekonomik dengesini korumak açısından önemli bir role sahiptir.
 

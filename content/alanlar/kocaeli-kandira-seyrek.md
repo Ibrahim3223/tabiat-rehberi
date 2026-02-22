@@ -31,7 +31,7 @@ Kocaeli-Kandira Seyrek milli parkının tarihi geçmişi, yüzyıllar boyunca ş
 
 ## Coğrafya
 
-Kocaeli-Kandira Seyrek, Marmara Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziden oluşur. Bu milli park, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde. Kandira Seyrek'in coğrafi konumu, ziyaretçilere geniş bir manzara sunar. Burada, Marmara Denizi'ne doğru uzanan tepeler ve vadiler, ziyaretçilere eşsiz bir görünüm sağlar. Kocaeli-Kandira Seyrek, aynı zamanda iklim açısından da dikkat çekiyor. Bu bölgede, karasal iklim hakimdir ve mevsimsel değişimler belirgindir. Kışlar soğu ve yağışlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, Kandira Seyrek'in flora ve faunasını şekillendirmiştir. Burada, çeşitli bitki türleri ve hayvanlar, mevsimsel değişimlere uyum sağlamışlardır.
+Kocaeli-Kandira Seyrek, Marmara Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziden oluşur. Bu milli park, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde. Kandira Seyrek'in coğrafi konumu, ziyaretçilere geniş bir manzara sunar. Burada, Marmara Denizi'ne doğru uzanan tepeler ve vadiler, ziyaretçilere eşsiz bir görünüm sağlar. Kocaeli-Kandira Seyrek, aynı zamanda iklim açısından da dikkat çekiyor. Bu bölgede, karasal iklim hakimdir ve mevsimsel değişimler belirgindir. Kışlar soğuk ve yağışlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, Kandira Seyrek'in flora ve faunasını şekillendirmiştir. Burada, çeşitli bitki türleri ve hayvanlar, mevsimsel değişimlere uyum sağlamışlardır.
 
 ## Flora ve Fauna
 

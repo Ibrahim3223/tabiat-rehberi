@@ -38,7 +38,7 @@ Seyyid Mahmut Çağırgan Baba Türbesi'nin tarihi geçmişi, yüzyıllar önces
 
 ## Coğrafya
 
-Seyyid Mahmut Çağırgan Baba Türbesi, Giresun'un Alucra ilçesinde yer alan bir türbe ve plajdır. Bu türbe ve plaj, Karadeniz'in en güzel plajlarından biridir ve 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğündedir. Türbe, deniz seviyesinden yaklaşık yüksek bir konumdate yer almaktadır ve Karadeniz'in muhteşem manzarasına sahiptir. Seyyid Mahmut Çağırgan Baba Türbesi'nin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu türbe ve plaj, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biridir ve her yıl binlerce ziyaretçiyi ağırlamaktadır. Seyyid Mahmut Çağırgan Baba Türbesi'nin iklimi, Karadeniz iklimi olarak bilinir ve yaz ayları serin ve yağışlı, kış ayları ise soğu ve karlıdır.
+Seyyid Mahmut Çağırgan Baba Türbesi, Giresun'un Alucra ilçesinde yer alan bir türbe ve plajdır. Bu türbe ve plaj, Karadeniz'in en güzel plajlarından biridir ve 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğündedir. Türbe, yüksek bir konumda yer almaktadır ve Karadeniz'in muhteşem manzarasına sahiptir. Seyyid Mahmut Çağırgan Baba Türbesi'nin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu türbe ve plaj, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biridir ve her yıl binlerce ziyaretçiyi ağırlamaktadır. Seyyid Mahmut Çağırgan Baba Türbesi'nin iklimi, Karadeniz iklimi olarak bilinir ve yaz ayları serin ve yağışlı, kış ayları ise soğuk ve karlıdır.
 
 ## Flora ve Fauna
 

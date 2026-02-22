@@ -44,7 +44,7 @@ Güneydeki Antalya'nın dağlık bölgesinde yer alan Hatmeler Dağı, 36.9400°
 
 Doğal güzelliği ve coğrafi yapısıyla dikkat çeken Hatmeler Dağı, bir birkaç olimpik havuz kadar geniş bir alana yayılmaktadır. Dağın şekli ve jeolojisi, bölgenin tektonik aktivitesinin bir sonucu olarak etmiştir. Hatmeler Dağı'nın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olup, bu yükseklik bölgedeki diğer dağlardan slightly daha yüksektir.
 
-Mevsimsel olarak, Hatmeler Dağı'nın iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kuru, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu iklim, bölgenin flora ve fauna'sının çeşitliliğini etkiler ve zengin bir ekosistemin oluşmasına katkıda bulunur.
+Mevsimsel olarak, Hatmeler Dağı'nın iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kuru, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu iklim, bölgenin flora ve fauna'sının çeşitliliğini etkiler ve zengin bir ekosistemin oluşmasına katkıda bulunur.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları, Hatmeler Dağı'nın çevresel ilişkilerini belirler. Dağın eteklerinde, çeşitli su kaynakları ve akarsular bulunmakta olup, bu su kaynakları bölgenin tarım ve hayvancılık faaliyetlerine önemli katkılar sağlar. Ayrıca, Hatmeler Dağı, komşu alanlarla ekosistem bağlantıları yoluyla, bölgenin biyolojik çeşitliliğini korur ve zenginleştirir.
 
@@ -52,7 +52,7 @@ Bölgenin su kaynakları ve ekosistem bağlantıları, Hatmeler Dağı'nın çev
 
 Hatmeler Dağı, Antalya'nın kıyı ekosisteminin bir parçası olan maki bitki örtüsüyle kaplı bir dağ ekosistemidir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharda, dağ yamaçları renkli çiçeklerle donanıyor ve havayı mis kokularla dolduruyor. Kış aylarında, kuraklığa dayanıklı türler hakim oluyor ve dağ, bir mavi-yeşil tonuna bürünüyor.
 
-Dağın yükseklik zonlarında, alpin flora çeşitliliği göze çarpıyor. Dağ hayvanları, bu zorlu ortamda yaşamaya adapte olmuş durumda. Memeliler, dağların kaya oyuklarına ve mağaralarına sığınıyor. Kuşlar, özellikle sonbaharda, göç ettikleri için dağları bir geçiş noktası olarak kullanıyor. Sürüngenler, dağların sıca ve kuru bölgelerinde yaşıyor.
+Dağın yükseklik zonlarında, alpin flora çeşitliliği göze çarpıyor. Dağ hayvanları, bu zorlu ortamda yaşamaya adapte olmuş durumda. Memeliler, dağların kaya oyuklarına ve mağaralarına sığınıyor. Kuşlar, özellikle sonbaharda, göç ettikleri için dağları bir geçiş noktası olarak kullanıyor. Sürüngenler, dağların sıcak ve kuru bölgelerinde yaşıyor.
 
 Hatmeler Dağı, ekolojik açıdan önemli bir bölge. Bu dağ ekosisteminin korunması, bölgedeki canlıların yaşamını sürdürmesi için gerekli. Dağın yükseklik zonları, alpin flora ve fauna çeşitliliği, bu bölgenin neden önemli olduğunu gösteriyor. Koruma durumu, bölgeye verilen önem ve alınan önlemler, bu doğal alanın geleceğini güvence altına almak için çok önemli.
 

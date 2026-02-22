@@ -36,7 +36,7 @@ Celekuzeğe Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlık
 
 ## Coğrafya
 
-Celekuzeğe Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği ve coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor. Eteklerinde çeşitli bitki türleri ve zengin fauna found. Bölgenin iklimi, genellikle sıca ve kurak passedir. Ancak, tepe ve çevresindeki ormanlık alanlar, ziyaretçilere serin ve ferah bir ortam sunuyor. Celekuzeğe Tepesi, coğrafi konumu ve doğal güzellikleri ile dikkat çekiyor. Tepenin çevresinde, çeşitli akarsular ve göller found. Bu su kaynakları, bölgenin ekolojik dengesini koruyor ve ziyaretçilere güzel bir manzara sunuyor.
+Celekuzeğe Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği ve coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor. Eteklerinde çeşitli bitki türleri ve zengin fauna found. Bölgenin iklimi, genellikle sıcak ve kurak pasiftir. Ancak, tepe ve çevresindeki ormanlık alanlar, ziyaretçilere serin ve ferah bir ortam sunuyor. Celekuzeğe Tepesi, coğrafi konumu ve doğal güzellikleri ile dikkat çekiyor. Tepenin çevresinde, çeşitli akarsular ve göller found. Bu su kaynakları, bölgenin ekolojik dengesini koruyor ve ziyaretçilere güzel bir manzara sunuyor.
 
 ## Flora ve Fauna
 

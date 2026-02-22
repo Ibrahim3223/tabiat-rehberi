@@ -38,7 +38,7 @@ Mehmet Gazi Türbesi, tarihin derinliklerinden gelen bir miras. Bu türbe, yüzy
 
 ## Coğrafya
 
-Mehmet Gazi Türbesi, Denizli'nin Merkezefendi ilçesinde, Ege Bölgesi'nin kalbinde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. Türbenin çevresinde, yeşilin çeşitli tonlarını görebileceğiniz ormanlık alanlar ve tarım arazileri bulunuyor. Bölgenin iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak yazları sıca ve kurak, kışları ılık ve yağışlı geçiyor. Mehmet Gazi Türbesi vei, ziyaretçilere hem tarihi bir deneyim hem de doğanın güzelliğini keşfetme fırsatı sunuyor. Türbenin mimarisi, bölgenin geleneksel mimari özelliklerini taşıyor ve lch histórik dokusu içinde önemli bir yere sahip.
+Mehmet Gazi Türbesi, Denizli'nin Merkezefendi ilçesinde, Ege Bölgesi'nin kalbinde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. Türbenin çevresinde, yeşilin çeşitli tonlarını görebileceğiniz ormanlık alanlar ve tarım arazileri bulunuyor. Bölgenin iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak yazları sıcak ve kurak, kışları ılık ve yağışlı geçiyor. Mehmet Gazi Türbesi vei, ziyaretçilere hem tarihi bir deneyim hem de doğanın güzelliğini keşfetme fırsatı sunuyor. Türbenin mimarisi, bölgenin geleneksel mimari özelliklerini taşıyor ve lch histórik dokusu içinde önemli bir yere sahip.
 
 ## Flora ve Fauna
 

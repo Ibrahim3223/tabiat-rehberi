@@ -42,7 +42,7 @@ Güneybatı Anadolu'nun yeşilliklerle kaplı dağlık alanlarından biri olan E
 
 Jeolojik açıdan incelendiğinde, Elgin Dağı'nın cấuşu hakkında detaylı bilgiler bulunmasa da, bölgenin genel jeolojik yapısından hareketle, bu dağın da aynı şekilde karmaşık bir yapıya sahip olabileceği söylenebilir. Bu dağ, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplayan bir yeşil cennet olarak, çevresindeki yerleşim yerleri için önemli bir ekoloji ve coğrafi unsur olarak görülebilir.
 
-Mevsimsel değişimlerin etkisi altındaki Elgin Dağı, yıl boyunca farklı hava koşullarına maruz kalır. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir iklime sahip olan bu dağ, bölgenin iklim yapısını etkileyen önemli bir faktördür. Monaco'nun yarısı kadar bir alanı kaplamayan Elgin Dağı, bölgenin su kaynakları ve ekosistem bağlantıları açısından da önemli bir rol oynamaktadır.
+Mevsimsel değişimlerin etkisi altındaki Elgin Dağı, yıl boyunca farklı hava koşullarına maruz kalır. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir iklime sahip olan bu dağ, bölgenin iklim yapısını etkileyen önemli bir faktördür. Monaco'nun yarısı kadar bir alanı kaplamayan Elgin Dağı, bölgenin su kaynakları ve ekosistem bağlantıları açısından da önemli bir rol oynamaktadır.
 
 Doğal güzelliği ve çeşitliliği ile dikkat çeken Elgin Dağı, çevresindeki su kaynakları ve ekosistemler ile bağlantılıdır. İstanbul'un Adalar ilçesi büyüklüğünde olmayan bu dağ, yerel ekosistemi destekleyen önemli bir doğal kaynak olarak görülebilir. Eiffel Kulesi'nin birkaç katı yükseklikte olmayan Elgin Dağı, bölgenin coğrafi yapısını ve doğal güzelliklerini korumak için önemli bir doğal alan olarak değerlendirilebilir.
 

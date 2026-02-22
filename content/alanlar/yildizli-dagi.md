@@ -45,7 +45,7 @@ Doğal güzellikleri keşfetmek isteyenler için, 37.0947°K enlem ve 31.9878°D
 
 Jeolojik açıdan bakıldığında, Yıldızlı Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, koordinatlarından yola çıkarak, dağların genellikle karmaşık jeolojik yapıları olduğunu söyleyebiliriz. Bu dağlar, genellikle bir şehir bloğu büyüklüğünde veya birkaç olimpik havuz kadar küçük alanlarda yer alabiliyorlar, ancak Yıldızlı Dağı'nın boyutları hakkında daha fazla bilgiye ihtiyacımız var.
 
-Mevsimsel özelliklere baktığımızda, Yıldızlı Dağı'nın bulunduğu Akdeniz Bölgesi, geralde sıca ve kurak yazlar ile ılıman ve yağışlı kışlar yaşayan bir iklim karakterine sahiptir. Bu bölgede, Eiffel Kulesi'nin 2-3 katı yükseklikte bulunan dağlar, sıcaklık ve hava koşullarının değişkenliğini gösterebilir, ancak Yıldızlı Dağı'nın yüksekliği hakkında kesin bir bilgi bulunmuyor.
+Mevsimsel özelliklere baktığımızda, Yıldızlı Dağı'nın bulunduğu Akdeniz Bölgesi, geralde sıcak ve kurak yazlar ile ılıman ve yağışlı kışlar yaşayan bir iklim karakterine sahiptir. Bu bölgede, Eiffel Kulesi'nin 2-3 katı yükseklikte bulunan dağlar, sıcaklık ve hava koşullarının değişkenliğini gösterebilir, ancak Yıldızlı Dağı'nın yüksekliği hakkında kesin bir bilgi bulunmuyor.
 
 Çevresel açıdan, Yıldızlı Dağı, Monaco'nun yarısı kadar büyük bir alanda yer alan ve İstanbul'un Adalar ilçesi büyüklüğünde bir coğrafi yapıya sahip olabilecek bir bölgenin parçası olabilir. Bu dağ, komşu alanlar, su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahip olabilir, ancak daha fazla bilgiye ihtiyacımız var.
 

@@ -31,7 +31,7 @@ Doğal Sit Alani'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Doğal Sit Alani, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlakları, ormanlık alanları ve su kaynaklarıyla birlikte, zengin bir ekosistemi barındırmaktadır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, çeşitli bitki türleri ve hayvanlarla dolu bir doğa harikasıdır. İklimi, karasal iklim özellikleri göstermekte olup, yazları sıca ve kurak, kışları ise soğu ve kar yağışlı geçmektedir. Bu coğrafi yapı, doğal sit alanının zengin fauna ve floraya sahip olmasını sağlamıştır. Doğal Sit Alani, aynı zamanda birçok su kaynağına ev sahipliği yapmakta olup, bu su kaynakları, ziyaretçilerin ve canlıların yararlanabileceği önemli bir kaynaktır.
+Doğal Sit Alani, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlakları, ormanlık alanları ve su kaynaklarıyla birlikte, zengin bir ekosistemi barındırmaktadır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, çeşitli bitki türleri ve hayvanlarla dolu bir doğa harikasıdır. İklimi, karasal iklim özellikleri göstermekte olup, yazları sıcak ve kurak, kışları ise soğuk ve kar yağışlı geçmektedir. Bu coğrafi yapı, doğal sit alanının zengin fauna ve floraya sahip olmasını sağlamıştır. Doğal Sit Alani, aynı zamanda birçok su kaynağına ev sahipliği yapmakta olup, bu su kaynakları, ziyaretçilerin ve canlıların yararlanabileceği önemli bir kaynaktır.
 
 ## Flora ve Fauna
 

@@ -42,7 +42,7 @@ Doğal güzellikleri ile ön plana çıkan Erdas Dağı, Nevşehir'in coğrafi z
 
 Jeolojik açıdan incelendiğinde, Erdas Dağı'nın yapısı bölgenin genel jeolojik karakterini yansıtır. Ancak, detaylı fiziksel veri bulunmaması nedeniyle, dağın yüksekliği ve diğer fiziksel özellikleri hakkında net bilgiler yoktur. Buna rağmen, bölgenin genel coğrafi yapısı, Erdas Dağı'nın bir ova veya yüksek bir plato üzerinde yer aldığını gösterir. Bu konum, dağın etrafındaki coğrafi oluşumlar ile ilişkisini de belirler.
 
-Mevsimsel değişimler, Erdas Dağı'nın iklim karakterini şekillendirir. Bölgenin genel iklimi, karasal iklimin özellikleri gösterir ve mevsimlere göre önemli değişimler gösterir. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürer. Bu iklim karakteri, dağın ekosistemini ve bitki örtüsünü de etkiler.
+Mevsimsel değişimler, Erdas Dağı'nın iklim karakterini şekillendirir. Bölgenin genel iklimi, karasal iklimin özellikleri gösterir ve mevsimlere göre önemli değişimler gösterir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürer. Bu iklim karakteri, dağın ekosistemini ve bitki örtüsünü de etkiler.
 
 Çevresel açıdan bakıldığında, Erdas Dağı'nin komşu alanlar ve su kaynakları ile ilişkisi önemlidir. Bölgenin hidrolojik yapısı, dağların su toplama ve su kaynaklarının oluşumunda önemli bir rol oynar. Erdas Dağı da, bu su kaynaklarının bir parçasını oluşturur ve bölgenin ekosistem bağlantılarını güçlendirir. Bu bağlantılar, bölgenin biyolojik çeşitliliğini de korumaya yardımcı olur.
 

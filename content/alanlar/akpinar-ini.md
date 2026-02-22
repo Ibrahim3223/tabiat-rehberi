@@ -44,7 +44,7 @@ Mersin'in doğal güzelliklerini keşfetmek isteyenler için Akpınar İni, bir 
 
 Jeolojik açıdan bakıldığında, Akpınar İni'nin fiziksel yapısı hakkında detaylı bilgi olmasa da, bu bölgenin Mersin'in genel jeolojik yapısına benzer olduğu söylenebilir. Mersin'in coğrafyası, Toros Dağları'nın bir parçası olan dağlık ve engebeli bir araziden oluşur. Bu bölgede, kireç taşı, kum taşı ve şist gibi farklı jeolojik oluşumlar bulunur. Ancak, Akpınar İni'nin boyutları veya şekli hakkında net bir bilgi bulunmuyor.
 
-İklim açısından, Akpınar İni'nin bulunduğu bölge, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı olan bu iklim, bölgenin bitki örtüsünü ve fauna çeşitliliğini etkiler. Bu mevsimsel özellikler, Akpınar İni'nin doğal güzelliklerinin korunmasına ve sürdürülebilirliğine katkıda bulunur.
+İklim açısından, Akpınar İni'nin bulunduğu bölge, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı olan bu iklim, bölgenin bitki örtüsünü ve fauna çeşitliliğini etkiler. Bu mevsimsel özellikler, Akpınar İni'nin doğal güzelliklerinin korunmasına ve sürdürülebilirliğine katkıda bulunur.
 
 Doğal bir jeopark olan Akpınar İni, Mersin'in diğer doğal güzelliklerine de yakındır. Bu bölgenin komşu alanları, ormanlar, dağlar ve su kaynakları ile çevrilidir. Akpınar İni, bu doğal kaynaklar ile bağlantılı bir ekosistem olarak, bölgenin biyolojik çeşitliliğine katkıda bulunur. Bu nedenle, Akpınar İni'nin korunması ve sürdürülebilir kullanımı, Mersin'in doğal güzelliklerinin geleceğiçin önemlidir.
 

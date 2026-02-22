@@ -37,7 +37,7 @@ Pir Esad Sultan Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş
 
 ## Coğrafya
 
-Pir Esad Sultan Türbesi, Karatay ilçesinde yer alan bir plaj ve türbe olarak coğrafi olarak önemli bir konuma sahiptir. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu türbenin ve plajın güzelliğini daha da artırmaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Bölgenin iklimi, karasal iklim özellikleri göstermektedir. Yaz aylarında sıca ve kurak, kış aylarında soğu ve karlı bir hava hüküm sürmektedir. Ziyaretçiler, bu coğrafi özellikler hakkında bilgi sahibi olabilirler. Türbenin çevresi, çeşitli bitki türleri ile kaplıdır ve zengin fauna özellikleri göstermektedir. Doğal güzelliği ve coğrafi özellikleri ile Pir Esad Sultan Türbesi, ziyaretçilerini beklemektedir.
+Pir Esad Sultan Türbesi, Karatay ilçesinde yer alan bir plaj ve türbe olarak coğrafi olarak önemli bir konuma sahiptir. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu türbenin ve plajın güzelliğini daha da artırmaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Bölgenin iklimi, karasal iklim özellikleri göstermektedir. Yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı bir hava hüküm sürmektedir. Ziyaretçiler, bu coğrafi özellikler hakkında bilgi sahibi olabilirler. Türbenin çevresi, çeşitli bitki türleri ile kaplıdır ve zengin fauna özellikleri göstermektedir. Doğal güzelliği ve coğrafi özellikleri ile Pir Esad Sultan Türbesi, ziyaretçilerini beklemektedir.
 
 ## Flora ve Fauna
 

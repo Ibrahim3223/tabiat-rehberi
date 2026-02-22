@@ -36,7 +36,7 @@ Büyükalıçlı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uyga
 
 ## Coğrafya
 
-Büyükalıçlı Tepesi, Hatay ilinin sınırları içerisinde yer alıyor ve coğrafi olarak Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve etrafındaki köylerle ve ovalarla birlikte bir bütünü oluşturuyor. Tepenin coğrafi yapısı, çoğunlukla kayalık ve taşlık arazilerden oluşuyor ve bazı bölgelerde ağaçlar ve çalılar bulunuyor. İklim-wise, Akdeniz ikliminin etkilerini gösteriyor ve yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı passing. Çevre, çeşitli bitki türleri ve hayvanlarla dolu ve bu tepe, doğa severler için bir cennet. Büyükalıçlı Tepesi, coğrafi konumu itibariyle, ziyaretçilerine geniş bir görüş açısı sunuyor ve manzaranın güzelliği ile büyülüyor.
+Büyükalıçlı Tepesi, Hatay ilinin sınırları içerisinde yer alıyor ve coğrafi olarak Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve etrafındaki köylerle ve ovalarla birlikte bir bütünü oluşturuyor. Tepenin coğrafi yapısı, çoğunlukla kayalık ve taşlık arazilerden oluşuyor ve bazı bölgelerde ağaçlar ve çalılar bulunuyor. İklim-wise, Akdeniz ikliminin etkilerini gösteriyor ve yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı passing. Çevre, çeşitli bitki türleri ve hayvanlarla dolu ve bu tepe, doğa severler için bir cennet. Büyükalıçlı Tepesi, coğrafi konumu itibariyle, ziyaretçilerine geniş bir görüş açısı sunuyor ve manzaranın güzelliği ile büyülüyor.
 
 ## Flora ve Fauna
 

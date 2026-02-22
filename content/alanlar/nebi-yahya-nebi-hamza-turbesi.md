@@ -45,7 +45,7 @@ Nebi Yahya Nebi Hamza Türbesi çevresinde, çeşitli bitki türleri yer alıyor
 
 ## Ziyaret Bilgileri
 
-Nebi Yahya Nebi Hamza Türbesi'ni ziyaret etmek, özellikle dini açıdan önemli bir deneyim olabilir. Bu mekan, Samandağ'da yer alıyor. Ziyaretçiler, bu tarihi mekanın dini önemi ve tarihi değerleri hakkında bilgi edinebilirler. En iyi ziyaret mevsimi, bahar ve yaz ayları olabilir. Bu dönemde, hava daha sıca ve güneşli. Ziyaret süresi, yaklaşık 1-2 saat olabilir. Ziyaretçiler, bu süre zarfında, türbenin dini önemi ve tarihi değerleri hakkında bilgi edinebilirler.
+Nebi Yahya Nebi Hamza Türbesi'ni ziyaret etmek, özellikle dini açıdan önemli bir deneyim olabilir. Bu mekan, Samandağ'da yer alıyor. Ziyaretçiler, bu tarihi mekanın dini önemi ve tarihi değerleri hakkında bilgi edinebilirler. En iyi ziyaret mevsimi, bahar ve yaz ayları olabilir. Bu dönemde, hava daha sıcak ve güneşli. Ziyaret süresi, yaklaşık 1-2 saat olabilir. Ziyaretçiler, bu süre zarfında, türbenin dini önemi ve tarihi değerleri hakkında bilgi edinebilirler.
 
 ## İlginç Bilgiler
 

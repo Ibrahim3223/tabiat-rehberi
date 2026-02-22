@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 47'nin tarihi geçmişi, yüzyıllar boyunca çeşitli 
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 47, coğrafi olarak Ege Bölgesi'nin ortasında, Salihli, Manisa'da yer alıyor. Bu bölge, denize yakınlığı ve verimli topraklarıyla dikkat çekiyor. Çevre, yeşilin çeşitli tonlarını sunan ormanlık alanlar ve tarlalarla çevrili. İklim, genel olarak Akdeniz ikliminin özellikleri gösteriyor; yani yazlar sıca ve kurak, kışlar ise ılıman ve yağışlı. Bu coğrafi konumu, hem tarım için elverişli hem de turizm açısından çekici kılıyor. Bin Tepeler Tümülüsü 47, ziyaretçilerini bu güzel coğrafyanın içine çekerek, doğayla iç içe bir deneyim sunuyor. Bu özel coğrafi konumu, ziyaretçilere hem tarihi bir gezi hem de doğanın güzelliğini keşfetme fırsatı veriyor.
+Bin Tepeler Tümülüsü 47, coğrafi olarak Ege Bölgesi'nin ortasında, Salihli, Manisa'da yer alıyor. Bu bölge, denize yakınlığı ve verimli topraklarıyla dikkat çekiyor. Çevre, yeşilin çeşitli tonlarını sunan ormanlık alanlar ve tarlalarla çevrili. İklim, genel olarak Akdeniz ikliminin özellikleri gösteriyor; yani yazlar sıcak ve kurak, kışlar ise ılıman ve yağışlı. Bu coğrafi konumu, hem tarım için elverişli hem de turizm açısından çekici kılıyor. Bin Tepeler Tümülüsü 47, ziyaretçilerini bu güzel coğrafyanın içine çekerek, doğayla iç içe bir deneyim sunuyor. Bu özel coğrafi konumu, ziyaretçilere hem tarihi bir gezi hem de doğanın güzelliğini keşfetme fırsatı veriyor.
 
 ## Flora ve Fauna
 

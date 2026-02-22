@@ -42,7 +42,7 @@ Koca Sinan Paşa Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nde y
 
 ## Flora ve Fauna
 
-Koca Sinan Paşa Türbesi, flora ve fauna açısından zengin bir bölge değildir. Ancak, türbenin etrafında, çeşitli bitki türleri ve ağaçlar bulunmakta olup, bu mekânın doğal güzellikleri dikkat çekmektedir. Mevsimsel değişimler, türbenin etrafındaki doğayı etkilemekte olup, ziyaretçilere farklı bir atmosfer sunmaktadır. Kış aylarında, soğu ve yağmurlu bir hava hakimken, yaz aylarında sıca ve güneşli bir iklim hüküm sürmektedir. Bu mevsimsel değişimler, türbenin etrafındaki flora ve faunayı etkilemekte olup, ziyaretçilere farklı bir deneyim sunmaktadır.
+Koca Sinan Paşa Türbesi, flora ve fauna açısından zengin bir bölge değildir. Ancak, türbenin etrafında, çeşitli bitki türleri ve ağaçlar bulunmakta olup, bu mekânın doğal güzellikleri dikkat çekmektedir. Mevsimsel değişimler, türbenin etrafındaki doğayı etkilemekte olup, ziyaretçilere farklı bir atmosfer sunmaktadır. Kış aylarında, soğu ve yağmurlu bir hava hakimken, yaz aylarında sıcak ve güneşli bir iklim hüküm sürmektedir. Bu mevsimsel değişimler, türbenin etrafındaki flora ve faunayı etkilemekte olup, ziyaretçilere farklı bir deneyim sunmaktadır.
 
 ## Ziyaret Bilgileri
 

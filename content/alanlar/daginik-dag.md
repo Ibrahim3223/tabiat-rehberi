@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan "Dağınık Dağ", Erzincan'ın coğrafi
 
 Jeolojik açıdan bakıldığında, "Dağınık Dağ"ın boyutları ve şekli, bölgenin karmaşık jeolojik historiağını yansıtıyor. Ancak, ayrıntılı fiziksel veriler bulunmamasına rağmen, dağın Erzincan'ın coğrafi yapısına entegre edildiği görülüyor. Bu entegrasyon, bölgenin doğal güzelliğini ve jeolojik çeşitliliğini vurguluyor. "Dağınık Dağ"ın yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadar bir yükseklikte yer alıyor, bu da bölgenin coğrafi çeşitliliğini gösteriyor.
 
-Mevsimsel açıdan bakıldığında, "Dağınık Dağ"ın bulunduğu bölge, karasal iklim karakteristiğine sahip. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürüyor. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini şekillendiriyor. "Dağınık Dağ"ın bulunduğu coğrafi bölgede, su kaynakları ve ekosistem bağlantıları da önemli bir rol oynuyor. Çevresindeki nehirler ve akarsular, bölgenin su döngüsünü düzenleyerek, ekosistemin dengesini koruyor.
+Mevsimsel açıdan bakıldığında, "Dağınık Dağ"ın bulunduğu bölge, karasal iklim karakteristiğine sahip. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürüyor. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini şekillendiriyor. "Dağınık Dağ"ın bulunduğu coğrafi bölgede, su kaynakları ve ekosistem bağlantıları da önemli bir rol oynuyor. Çevresindeki nehirler ve akarsular, bölgenin su döngüsünü düzenleyerek, ekosistemin dengesini koruyor.
 
 ## Flora ve Fauna
 

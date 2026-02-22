@@ -36,7 +36,7 @@ Ahmetüryan Tepesi'nin tarihi geçmişi, Eskişehir'in tarihine paralel olarak g
 
 ## Coğrafya
 
-Ahmetüryan Tepesi, Eskişehir'in coğrafi yapısı içerisinde önemli bir yere sahip. Bu tepe, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Tepenin hörgüç şeklinde bir yapısı var ve etrafı geniş bir ova ile çevrili. Ahmetüryan Tepesi'nin yüksekliği ve konumundan dolayı, bölgenin panoramik manzarasını izleme mümkün. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve ağaçlar bulunmakta. İklim, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak karasal bir yapıya sahip. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kuru geçiyor.
+Ahmetüryan Tepesi, Eskişehir'in coğrafi yapısı içerisinde önemli bir yere sahip. Bu tepe, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Tepenin hörgüç şeklinde bir yapısı var ve etrafı geniş bir ova ile çevrili. Ahmetüryan Tepesi'nin yüksekliği ve konumundan dolayı, bölgenin panoramik manzarasını izleme mümkün. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve ağaçlar bulunmakta. İklim, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak karasal bir yapıya sahip. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kuru geçiyor.
 
 ## Flora ve Fauna
 

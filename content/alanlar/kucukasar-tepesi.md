@@ -44,7 +44,7 @@ Hatay'ın dağlık bölgesinde yer alan Küçükasar Tepesi, 36.7689°K, 36.3464
 
 Jeolojik açıdan bakıldığında, Küçükasar Tepesi'nin fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bu bölgenin genel jeolojisi, kalker ve şist gibi kayaçların hakim olduğu bir yapıyı gösterir. Tepenin şekli ve boyutları hakkında somut veriler olmasa da, bu tür tepelerin genellikle birkaç olimpik havuz kadar bir alanı kapladığı düşünülebilir. Bu boyut, tepeyi bir şehir bloğu büyüklüğünde bir alana benzeteceğimiz anlamına gelir.
 
-İklim açısından, Küçükasar Tepesi, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir hava hakimdir. Bu mevsimsel özellikler, tepe ve çevresinde çeşitli bitki türlerinin yetişmesine olanak tanır. Tepenin yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olabilir, ancak bu konuda net bir veri bulunmuyor.
+İklim açısından, Küçükasar Tepesi, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava hakimdir. Bu mevsimsel özellikler, tepe ve çevresinde çeşitli bitki türlerinin yetişmesine olanak tanır. Tepenin yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olabilir, ancak bu konuda net bir veri bulunmuyor.
 
 Çevresel açıdan, Küçükasar Tepesi, Asi Nehri'nin suladığı vadiyle bağlantılı bir ekosistem içinde yer alır. Bu vadi, tepeye yakın olan diğer dağlık alanlarla birlikte, bir su toplama havzası oluşturur. Tepenin komşu alanları, genellikle tarım arazileri ve ormanlık bölgelerden oluşur. Bu çeşitlilik, bölgede zengin bir biyolojik çeşitliliğin oluşmasına katkıda bulunur.
 

@@ -29,7 +29,7 @@ Buzluk Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
 
 ## Coğrafya
 
-Buzluk Tabiat Parkı, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğal alandır. Parkın coğrafi yapısı, genel olarak yeşil alanlar, ağaçlar ve yürüyüş yolları ile karakterizedir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ankara'nın en büyük doğal alanlarından biri olarak kabul ediliyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösterir; yani karasal iklim hakimdir. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Parkın coğrafi konumu, ziyaretçilerin Ankara'nın merkezinden kolayca ulaşabilmesini sağlar. Ayrıca, parkın çevresi, Ankara'nın önemli yerleşim alanlarına yakın bir konumda yer alır.
+Buzluk Tabiat Parkı, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğal alandır. Parkın coğrafi yapısı, genel olarak yeşil alanlar, ağaçlar ve yürüyüş yolları ile karakterizedir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ankara'nın en büyük doğal alanlarından biri olarak kabul ediliyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösterir; yani karasal iklim hakimdir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Parkın coğrafi konumu, ziyaretçilerin Ankara'nın merkezinden kolayca ulaşabilmesini sağlar. Ayrıca, parkın çevresi, Ankara'nın önemli yerleşim alanlarına yakın bir konumda yer alır.
 
 ## Flora ve Fauna
 

@@ -30,7 +30,7 @@ Kastanbera Şelalesi, tarihi geçmişiyle de dikkat çekiyor. Yüzyıllar boyunc
 
 ## Coğrafya
 
-Kastanbera Şelalesi, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, ormanlık bir alanda yer alıyor. Şelalenin çevresi, çeşitli ağaç türleriyle kaplı. Bu ağaçlar, especially kayın ve çam ağaçları, şelaleye kendine özgü bir atmosfer kazandırıyor. Şelale, bir vadi içinde yer alıyor ve etrafı dağlarla çevrili. Bu coğrafi konumu, şelaleye ulaşımı biraz zorlaştırıyor, ancak manzarası, ziyaretçilerin bu zorluğu unutturuyor. Kastanbera Şelalesi, yaklaşık yüksek bir konumdaten dökülüyor. Bu yükseklik, şelaleye etkileyici bir görünüm kazandırıyor. Şelalenin suyu, bir nehrin kaynağını oluşturuyor. Bu nehir, çevresindeki köylerin su ihtiyacını karşılıyor.
+Kastanbera Şelalesi, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, ormanlık bir alanda yer alıyor. Şelalenin çevresi, çeşitli ağaç türleriyle kaplı. Bu ağaçlar, especially kayın ve çam ağaçları, şelaleye kendine özgü bir atmosfer kazandırıyor. Şelale, bir vadi içinde yer alıyor ve etrafı dağlarla çevrili. Bu coğrafi konumu, şelaleye ulaşımı biraz zorlaştırıyor, ancak manzarası, ziyaretçilerin bu zorluğu unutturuyor. Kastanbera Şelalesi, yüksek bir konumdan dökülüyor. Bu yükseklik, şelaleye etkileyici bir görünüm kazandırıyor. Şelalenin suyu, bir nehrin kaynağını oluşturuyor. Bu nehir, çevresindeki köylerin su ihtiyacını karşılıyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Kastanbera Şelalesi'ne ulaşım, özellikle araba veya motorsiklet ile daha kol
 ## İlginç Bilgiler
 
 - Kastanbera Şelalesi, Trabzon'un en önemli turizm noktalarından biri.
-- Şelale, yaklaşık yüksek bir konumdaten dökülüyor.
+- Şelale, yüksek bir konumdan dökülüyor.
 - Şelalenin suyu, bir nehrin kaynağını oluşturuyor.
 - Kastanbera Şelalesi, birçok hayvan türünün yaşam alanı olarak kullanılıyor.
 - Şelale, özellikle ilkbahar ve yaz aylarında ziyaret ediliyor.

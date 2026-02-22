@@ -37,7 +37,7 @@ Abdi Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve b�
 
 ## Coğrafya
 
-Abdi Dede Türbesi, Kayseri'nin İncesu ilçesinde, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu bölge, genellikle step ve ova gibi coğrafi özelliklere sahip. Abdi Dede Türbesi'nin bulunduğu alan, 140 hektarlık bir yeşil alan ve yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, çeşitli bitki türleri ve zengin fauna ile çevrilidir. İklim olarak, İç Anadolu Bölgesi'nin karakteristik karasal iklimine sahiptir; yazlar sıca ve kurak, kışlar ise soğu ve kar yağışlı geçer. Abdi Dede Türbesi, bu coğrafi ve iklimsel koşulların bir araya geldiği özel bir noktada yer alır ve ziyaretçilerine benzersiz bir deneyimleyebilir sunar. Bu mekan, aynı zamanda çevredeki dağların ve ovaların manzarasını da sunar, Böylece ziyaretçiler, hem tarihi, hem de doğal güzelliği bir arada keşfedebilirler.
+Abdi Dede Türbesi, Kayseri'nin İncesu ilçesinde, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu bölge, genellikle step ve ova gibi coğrafi özelliklere sahip. Abdi Dede Türbesi'nin bulunduğu alan, 140 hektarlık bir yeşil alan ve yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, çeşitli bitki türleri ve zengin fauna ile çevrilidir. İklim olarak, İç Anadolu Bölgesi'nin karakteristik karasal iklimine sahiptir; yazlar sıcak ve kurak, kışlar ise soğuk ve kar yağışlı geçer. Abdi Dede Türbesi, bu coğrafi ve iklimsel koşulların bir araya geldiği özel bir noktada yer alır ve ziyaretçilerine benzersiz bir deneyimleyebilir sunar. Bu mekan, aynı zamanda çevredeki dağların ve ovaların manzarasını da sunar, Böylece ziyaretçiler, hem tarihi, hem de doğal güzelliği bir arada keşfedebilirler.
 
 ## Flora ve Fauna
 

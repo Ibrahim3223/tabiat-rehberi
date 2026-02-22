@@ -37,7 +37,7 @@ Mehmet Şah Dede Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. 
 
 ## Coğrafya
 
-Mehmet Şah Dede Türbesi, Çankırı'nın Kurşunlu ilçesinde yer alır ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genel olarak karasal iklimin hakim olduğu bir bölgedir ve yaz ayları sıca ve kurak, kış ayları soğu ve kar yağışlı geçer. Türbe, çevresindeki doğal güzelliklerle birlikte, ziyaretçilerine güzel bir manzara sunar. Bölgenin coğrafi konumu, ziyaretçilerin doğal güzellikleri keşfetmesine olanak tanır. Mehmet Şah Dede Türbesi, çevresindeki ormanlık alanlar, nehirler ve dağlarla birlikte, bir doğa harikası olarak kabul edilebilir. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilere geniş bir alan sunar.
+Mehmet Şah Dede Türbesi, Çankırı'nın Kurşunlu ilçesinde yer alır ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genel olarak karasal iklimin hakim olduğu bir bölgedir ve yaz ayları sıcak ve kurak, kış ayları soğuk ve kar yağışlı geçer. Türbe, çevresindeki doğal güzelliklerle birlikte, ziyaretçilerine güzel bir manzara sunar. Bölgenin coğrafi konumu, ziyaretçilerin doğal güzellikleri keşfetmesine olanak tanır. Mehmet Şah Dede Türbesi, çevresindeki ormanlık alanlar, nehirler ve dağlarla birlikte, bir doğa harikası olarak kabul edilebilir. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilere geniş bir alan sunar.
 
 ## Flora ve Fauna
 

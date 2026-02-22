@@ -43,7 +43,7 @@ Antalya'nın doğusunda, Akdeniz kıyı şeridinin güzergahında yer alan Beyme
 
 Doğal bir liman görünümünde olan lagün, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu küçük ama önemli ekosistem, jeolojik olarak çevredeki dağların erozyon ürünleri ve deniz sedimanlarının birleşmesiyle oluşmuştur. Lagünün şekli, bir yarıçap içinde kavisli bir şekilde uzanır ve bu forma, bölgedeki rüzgar ve su akıntılarının etkisi neden olmuştur.
 
-Beymelek Lagünü'nün iklim karakteri, Akdeniz ikliminin tipik özelliklerini taşır. Yaz aylarında sıca ve kuru, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürer. Bu mevsimsel farklılıklar, lagünün su seviyesini ve canlı çeşitliliğini etkiler. Lagün, özellikle kış aylarında su kuşlarının önemli bir barınma alanı haline gelir.
+Beymelek Lagünü'nün iklim karakteri, Akdeniz ikliminin tipik özelliklerini taşır. Yaz aylarında sıcak ve kuru, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürer. Bu mevsimsel farklılıklar, lagünün su seviyesini ve canlı çeşitliliğini etkiler. Lagün, özellikle kış aylarında su kuşlarının önemli bir barınma alanı haline gelir.
 
 Lagünün çevresel ilişkileri, komşu alanlar ve su kaynaklarıyla yakından ilgilidir. Bölgedeki nehirlerin ve yağmur sularının lagünü beslemesi, suyun kimyasını ve canlı yaşamını etkiler. Ayrıca, lagün, dağların ve ormanların bir parçası olarak, daha geniş bir ekosistem içinde yer alır. Bu bağlantı, bölgenin biyolojik çeşitliliğini ve ekolojik dengesini korur.
 

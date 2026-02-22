@@ -44,7 +44,7 @@ Doğu Anadolu'nun kalbinde, Erzurum'un Pasinler ilçesinde yer alan Pasinler Ova
 
 Jeolojik açıdan bakıldığında, Pasinler Ovası'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, bu bölgenin coğrafi konumu ve komşu bölgeler dikkate alındığında, bir şehir bloğu büyüklüğünde bir alanı kapladığı söylenebilir. Pasinler Ovası, Erzurum'un genel coğrafyası içerisinde küçük bir alan olarak görülebilir, ancak bu alanın jeolojik özellikleri ve oluşumu hakkında daha fazla bilgi edinmek için detaylı araştırmalar yapılması gerekmektedir.
 
-İklim açısından Pasinler Ovası, Doğu Anadolu'nun karasal ikliminin etkilerini taşır. Bu bölgede, yaz aylarında sıcaklık ve nem oranları değişkenlik gösterirken, kış aylarında soğu ve kar yağışlı bir hava hakimdir. Pasinler Ovası, Erzurum'un genel iklim koşullarına benzer bir yapıya sahiptir ve mevsimsel değişiklikler bu bölgede belirgindir.
+İklim açısından Pasinler Ovası, Doğu Anadolu'nun karasal ikliminin etkilerini taşır. Bu bölgede, yaz aylarında sıcaklık ve nem oranları değişkenlik gösterirken, kış aylarında soğuk ve kar yağışlı bir hava hakimdir. Pasinler Ovası, Erzurum'un genel iklim koşullarına benzer bir yapıya sahiptir ve mevsimsel değişiklikler bu bölgede belirgindir.
 
 Çevresel açıdan bakıldığında, Pasinler Ovası'nın komşu alanlar ve su kaynakları ile bağlantıları önemlidir. Bu bölge, Aras Nehri'nin bir kolu olan Çıldır Gölü'ne yakın bir konumda yer almaktadır. Pasinler Ovası, çevresindeki dağlarla çevrili bir vadi olarak, kendi içerisinde bir ekosistem oluşturur ve bu ekosistem, bölgenin flora ve fauna çeşitliliği açısından önemlidir.
 

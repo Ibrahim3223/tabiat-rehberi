@@ -20,7 +20,7 @@ aktiviteler: ["tarih gezisi","doğa yürüyüşü","manzara izleme","fotografç�
 images:
   hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gireberana%20Tepesi","alt":"Gireberana Tepesi","caption":"Gireberana Tepesi"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gireberana%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31556000","tip":"genel"}]
-description: "Mardin'in tarihi ve doğal güzelliklerini birleştiren Gireberana Tepesi, yaklaşık yüksek bir konumdate yer alır."
+description: "Mardin'in tarihi ve doğal güzelliklerini birleştiren Gireberana Tepesi, yüksek bir konumda yer alır."
 keywords: ["Mardin","Gireberana Tepesi","tarih","doğa","gezi","turizm","Güneydoğu Anadolu Bölgesi","tepe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31556000"

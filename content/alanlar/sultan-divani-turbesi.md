@@ -37,7 +37,7 @@ Sultan Divanı Türbesi, tarihi geçmişi ile önemli bir kültürel mirastır. 
 
 ## Coğrafya
 
-Sultan Divanı Türbesi, Afyonkarahisar'ın merkezinde yer alan bir tepe üzerinde kurulmuştur. Bu tepe, yaklaşık yüksek bir konumdate olup, şehrin önemli bir bölümünü görmeyi sağlamaktadır. Türbenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Sultan Divanı Türbesi, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşımaktadır. Bölge, genellikle sıca ve kurak bir iklime sahiptir. Ancak, türbenin bulunduğu tepe, şehir merkezine nazaran daha serin bir iklim sunmaktadır. Sultan Divanı Türbesi, coğrafi konumu itibari ile ziyaretçilerine çeşitli manzaralar sunmaktadır. Türbenin etrafında, şehir merkezinin yanı sıra, çeşitli doğal güzellikler bulunmaktadır. Sultan Divanı Türbesi, coğrafi konumu ile ziyaretçilerine geniş bir görüş açısı sunmaktadır.
+Sultan Divanı Türbesi, Afyonkarahisar'ın merkezinde yer alan bir tepe üzerinde kurulmuştur. Bu tepe, yüksek bir konumda olup, şehrin önemli bir bölümünü görmeyi sağlamaktadır. Türbenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Sultan Divanı Türbesi, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşımaktadır. Bölge, genellikle sıcak ve kurak bir iklime sahiptir. Ancak, türbenin bulunduğu tepe, şehir merkezine nazaran daha serin bir iklim sunmaktadır. Sultan Divanı Türbesi, coğrafi konumu itibari ile ziyaretçilerine çeşitli manzaralar sunmaktadır. Türbenin etrafında, şehir merkezinin yanı sıra, çeşitli doğal güzellikler bulunmaktadır. Sultan Divanı Türbesi, coğrafi konumu ile ziyaretçilerine geniş bir görüş açısı sunmaktadır.
 
 ## Flora ve Fauna
 

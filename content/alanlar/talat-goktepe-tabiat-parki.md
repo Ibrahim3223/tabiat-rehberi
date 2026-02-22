@@ -37,7 +37,7 @@ Talat Göktepe Tabiat Parkı, tarihi geçmişi ile birlikte ziyaretçilerini cez
 
 ## Coğrafya
 
-Talat Göktepe Tabiat Parkı, Mersin'in Erdemli ilçesinde yer alıyor ve Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Parkın coğrafi yapısı, yemyeşil ormanlar, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Parkın iklimi, Akdeniz ikliminin özellikleri ile uyumlu olarak sıca ve kuru yazlar, ılık ve yağışlı kışlar şeklinde tanımlanıyor. Talat Göktepe Tabiat Parkı, ziyaretçilerine geniş ve çeşitli bir coğrafi yapı sunuyor. Parkın 140 hektarlık alanı, ziyaretçilerin doğanın güzelliğini keşfetmeleri için ideal bir ortam sağlıyor. Parkın coğrafi konumu, ziyaretçilerin kolayca ulaşabileceği bir konumda yer alıyor.
+Talat Göktepe Tabiat Parkı, Mersin'in Erdemli ilçesinde yer alıyor ve Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Parkın coğrafi yapısı, yemyeşil ormanlar, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Parkın iklimi, Akdeniz ikliminin özellikleri ile uyumlu olarak sıcak ve kuru yazlar, ılık ve yağışlı kışlar şeklinde tanımlanıyor. Talat Göktepe Tabiat Parkı, ziyaretçilerine geniş ve çeşitli bir coğrafi yapı sunuyor. Parkın 140 hektarlık alanı, ziyaretçilerin doğanın güzelliğini keşfetmeleri için ideal bir ortam sağlıyor. Parkın coğrafi konumu, ziyaretçilerin kolayca ulaşabileceği bir konumda yer alıyor.
 
 ## Flora ve Fauna
 

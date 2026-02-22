@@ -36,7 +36,7 @@ wikidata_id: "Q34829565"
 
 ## Coğrafya
 
-Çukurbaşı Tepesi, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, genel olarak step ve ormanlık alanlardan oluşur. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve yaban hayatı bulunur. İklim, karasal iklim özellikleri gösterir ve mevsimsel değişimler belirgindir. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bu mevsimsel değişimler, bölgenin flora ve faunasını etkiler. Çukurbaşı Tepesi, coğrafi konumu ve iklimi ile birlikte, bir ekosistemi destekler. Tepenin yüksekliği ve çevresi, manzarası ile dikkat çekiyor ve ziyaretçilere geniş bir görüş alanı sunuyor.
+Çukurbaşı Tepesi, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, genel olarak step ve ormanlık alanlardan oluşur. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve yaban hayatı bulunur. İklim, karasal iklim özellikleri gösterir ve mevsimsel değişimler belirgindir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu mevsimsel değişimler, bölgenin flora ve faunasını etkiler. Çukurbaşı Tepesi, coğrafi konumu ve iklimi ile birlikte, bir ekosistemi destekler. Tepenin yüksekliği ve çevresi, manzarası ile dikkat çekiyor ve ziyaretçilere geniş bir görüş alanı sunuyor.
 
 ## Flora ve Fauna
 

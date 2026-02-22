@@ -44,7 +44,7 @@ Güney kıyılarımızın güzelliğine tanıklık ettiğimiz Mersin'de, Toldağ
 
 Doğal güzelliklerin bir araya geldiği bu bölgede, Toldağ Tepe'nin fiziksel yapısına baktığımızda, detaylı veri olmasa da, genel olarak Akdeniz Bölgesi'nin jeolojik oluşumlarını görebiliriz. Bu bölge, genellikle kireçtaşı ve killi arazilerden oluşmaktadır. Toldağ Tepe, muhtemelen bu jeolojik yapıların bir parçasıdır. Bir şehir bloğu büyüklüğünde olan bu tepe, çevresi ile uyumlu bir şekilde doğanın güzelliğini sergiler.
 
-Mevsimsel değişimlerin yaşandığı Toldağ Tepe, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ılık ve yağışlı bir hava hakimdir. Bu iklim, tepe ve çevresindeki bitki örtüsünü şekillendirir. Yeşilin farklı tonlarını görebileceğimiz bu bölgede, mevsimsel özellikler doğanın güzelliğini tăngır.
+Mevsimsel değişimlerin yaşandığı Toldağ Tepe, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ılık ve yağışlı bir hava hakimdir. Bu iklim, tepe ve çevresindeki bitki örtüsünü şekillendirir. Yeşilin farklı tonlarını görebileceğimiz bu bölgede, mevsimsel özellikler doğanın güzelliğini tăngır.
 
 Çevresel açıdan bakıldığında, Toldağ Tepe, komşu alanlarla ve su kaynaklarıyla bağlantılıdır. Monaco'nun yaklaşık 1/20'si kadar büyüklüğü olan bu tepe, bölgedeki ekosistemlerin bir parçasıdır. Su kaynaklarının yakınında yer alması, bitki örtüsünün çeşitliliğini ve zenginliğini artırır. Bu bölgede, Toldağ Tepe'nin doğal güzelliği, çevreye uyum içinde sergilenir.
 

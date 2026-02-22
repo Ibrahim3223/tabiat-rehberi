@@ -44,7 +44,7 @@ Güney kıyılarımızın güneşli bir köşesinde, 36.1386°K ve 33.3653°D ko
 
 Doğal güzelliği ve coğrafi yapısı ile dikkat çeken Yelkenli Adası, boyutları itibariyle Monaco'nun küçük bir bölümü gibi düşünülebilir. Ada, jeolojik açıdan incelendiğinde, Akdeniz'in karakteristik özelliklerini taşıyor. Ancak, ayrıntılı fiziksel veri bulunmaması, ada hakkında daha derin bir analiz yapmayı zorlaştırıyor. Buna rağmen, Yelkenli Adası'nın coğrafi konumu ve çevresindeki su kaynakları, onu özel bir ekosistem olarak ortaya koyuyor.
 
-Mevsimsel değişimlerin etkisi altında olan Yelkenli Adası, Akdeniz ikliminin karakteristik özelliklerini sergiliyor. Yaz aylarında sıca ve güneşli bir hava, kış aylarında ise ılıman bir iklim hakim oluyor. Bu mevsimsel özellikler, adanın flora ve fauna açısından zengin bir çeşitliliğe sahip olmasını sağlıyor. Hava durumu, ada ziyaretçileri için önemli bir faktör olarak görülüyor ve mevsimlere göre planlama yapılması gerekiyor.
+Mevsimsel değişimlerin etkisi altında olan Yelkenli Adası, Akdeniz ikliminin karakteristik özelliklerini sergiliyor. Yaz aylarında sıcak ve güneşli bir hava, kış aylarında ise ılıman bir iklim hakim oluyor. Bu mevsimsel özellikler, adanın flora ve fauna açısından zengin bir çeşitliliğe sahip olmasını sağlıyor. Hava durumu, ada ziyaretçileri için önemli bir faktör olarak görülüyor ve mevsimlere göre planlama yapılması gerekiyor.
 
 Çevresel açıdan bakıldığında, Yelkenli Adası, komşu adalar ve su kaynakları ile birlikte bir bütün olarak düşünülüyor. Ada, ekosistem bağlantıları açısından önemli bir role sahip ve çevresindeki alanlarla birlikte, bir doğal denge içinde bulunuyor. Yelkenli Adası'nın bu konumu, onu özel bir coğrafi nokta olarak ortaya koyuyor ve ziyaretçileri için bir çekim merkezi haline getiriyor.
 

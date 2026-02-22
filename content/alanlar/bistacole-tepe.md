@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin dağlık coğrafyasında yer alan Bistacole Tep
 
 Doğudan batıya uzanan bir dağ silsilesinin parçası olan Bistacole Tepe, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Bu tepe, jeolojik açıdan incelendiğinde, bölgenin genelinde görülen kireçtaşı ve şist gibi kayaların hakim olduğu bir yapıya sahiptir. Bistacole Tepe'nin yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadar bir yükseklikte yer almaktadır.
 
-Mevsimsel açıdan incelendiğinde, Bistacole Tepe'nin iklimi, Güneydoğu Anadolu Bölgesi'nin genel iklimine benzemektedir. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklim hakimdir. Bu bölgede, yılın her mevsiminde farklı hava koşulları görülmektedir. İlkbahar ve sonbahar aylarında, ılıman bir hava hüküm sürerken, yaz aylarında sıcaklık 30 dereceleri aşabilmektedir.
+Mevsimsel açıdan incelendiğinde, Bistacole Tepe'nin iklimi, Güneydoğu Anadolu Bölgesi'nin genel iklimine benzemektedir. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklim hakimdir. Bu bölgede, yılın her mevsiminde farklı hava koşulları görülmektedir. İlkbahar ve sonbahar aylarında, ılıman bir hava hüküm sürerken, yaz aylarında sıcaklık 30 dereceleri aşabilmektedir.
 
 Çevresel açıdan incelendiğinde, Bistacole Tepe, geniş ormanlık alanlar ve dağlarla çevrilidir. Bu tepe, bölgedeki su kaynaklarına da yakındır. Yakınlarında bulunan Botan Çayı, bu bölgenin ekosistemini desteklemektedir. Bistacole Tepe, Monaco'nun yaklaşık 1/100'ü kadar bir alanı kaplayan küçük bir tepe olmasına rağmen, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini korumak için önemli bir role sahiptir.
 

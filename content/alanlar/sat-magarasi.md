@@ -40,7 +40,7 @@ Doğal güzellikleri ve jeolojik oluşumlarıyla dikkat çeken Sat Mağarası, b
 
 ## Coğrafya
 
-Güneydoğu Anadolu'nun zengin jeolojik mirasını keşfetmek isteyenler için, Hatay'da bulunan Sat Mağarası, 36.9086°K ve 36.3461°D koordinatlarında yer alıyor. Bu mağara, Akdeniz'in sıca ve nemli havasının etkilerini taşıyan bir bölgede, Amik Ovası'nın yakınında bulunuyor. Etrafındaki dağların eteklerinde konuşlanan köylerle çevrili bu bölge, ziyaretçilere hem coğrafi hem de kültürel çeşitlilik sunuyor.
+Güneydoğu Anadolu'nun zengin jeolojik mirasını keşfetmek isteyenler için, Hatay'da bulunan Sat Mağarası, 36.9086°K ve 36.3461°D koordinatlarında yer alıyor. Bu mağara, Akdeniz'in sıcak ve nemli havasının etkilerini taşıyan bir bölgede, Amik Ovası'nın yakınında bulunuyor. Etrafındaki dağların eteklerinde konuşlanan köylerle çevrili bu bölge, ziyaretçilere hem coğrafi hem de kültürel çeşitlilik sunuyor.
 
 Doğal bir oluşum olan Sat Mağarası, jeolojik süreçlerin sonucu olarak ortaya çıkmış bir harikadır. Mağaranın büyüklüğü, yaklaşık birkaç olimpik havuz kadar bir alanı kaplıyor. Bu boyutlar, ziyaretçilere mağaranın içini keşfetmek için yeterli bir alan sunuyor. Mağara, kireç taşı gibi jeolojik oluşumların erimesi sonucu oluşmuş ve binlerce yıl boyunca şekillenmiştir. İçinde bulunan çeşitli jeolojik oluşumlar, mağaranın tarihini ve coğrafi özelliklerini anlamak için önemli ipuçları sağlıyor.
 

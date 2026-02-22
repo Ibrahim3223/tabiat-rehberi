@@ -42,7 +42,7 @@ Marmara Bölgesi'nin kuzeydoğusunda, Kocaeli ilinin sınırları içinde yer al
 
 Doğal bir su kaynağı olan Sipahiler Göleti, çevresindeki coğrafyanın şekillenmesinde önemli bir rol oynuyor. Ancak, detaylı fiziksel veri bulunmamasına rağmen, bu göletin bir şehir bloğu büyüklüğünde bir alanı kapladığı söylenebilir. Bu büyüklük, göletin küçük ama önemli bir su kaynağı olduğunu gösteriyor.
 
-İklimsel açıdan bakıldığında, Sipahiler Göleti, Karadeniz ikliminin etkisi altında bulunuyor. Bu bölgede, yaz aylarında sıcaklık ve nem artarken, kış aylarında soğu ve yağışlı bir hava hakim oluyor. Bu mevsimsel değişimler, göletin su seviyesini ve çevresindeki ekosistemi etkiliyor.
+İklimsel açıdan bakıldığında, Sipahiler Göleti, Karadeniz ikliminin etkisi altında bulunuyor. Bu bölgede, yaz aylarında sıcaklık ve nem artarken, kış aylarında soğuk ve yağışlı bir hava hakim oluyor. Bu mevsimsel değişimler, göletin su seviyesini ve çevresindeki ekosistemi etkiliyor.
 
 Sipahiler Göleti, çevresindeki ekosistemle güçlü bir bağlantı içinde bulunuyor. Bu gölet, komşu alanlardaki su kaynakları ile bağlantılı ve bölgenin su döngüsünde önemli bir rol oynuyor. Ayrıca, göletin etrafındaki flora ve fauna, bu su kaynağının varlığından faydalanıyor. Bu nedenle, Sipahiler Göleti, bölgenin doğal dengesini korumak için önemli bir unsur olarak görülüyor.
 

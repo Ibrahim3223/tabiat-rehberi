@@ -44,7 +44,7 @@ Güneyde Akdeniz'in sıcaklığını hissederken, Şam Dağı'nın eteklerinde k
 
 Doğal güzelliği ve coğrafi konumuyla dikkat çeken Şam Dağı, jeolojik açıdan da zajímavadır. Ancak, fiziksel boyutları hakkında detaylı bilgi bulunmamasına rağmen, bu dağın eteklerinde yer alan settlementlerin arasında bir geçiş bölgesi olarak görev yaptığı söylenebilir. Şam Dağı, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplamaktadır, ancak bu karşılaştırma, dağın gerçek boyutlarını tam olarak yansıtmayabilir. Daha doğru bir ölçek olarak, Monaco'nun küçük bir bölümü kadar bir alanı kapladığı söylenebilir.
 
-İklim açısından bakıldığında, Şam Dağı'nın bulunduğu bölgede Akdeniz iklimi hakimdir. Yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumu söz konusudur. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve Şam Dağı'nın doğal güzelliğini farklı mevsimlerde farklı şekillerde gösterir.
+İklim açısından bakıldığında, Şam Dağı'nın bulunduğu bölgede Akdeniz iklimi hakimdir. Yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumu söz konusudur. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve Şam Dağı'nın doğal güzelliğini farklı mevsimlerde farklı şekillerde gösterir.
 
 Çevresel açıdan, Şam Dağı'nın komşu alanlar ve su kaynakları ile bağlantılı bir ekosistem içinde yer aldığı söylenebilir. Dağın eteklerinde yer alan nehirler ve dereler, bölgenin su kaynaklarını beslemekte ve doğal hayatın sürmesi için önemli bir rol oynamaktadır. Ayrıca, Şam Dağı'nın bulunduğu bölgede çeşitli bitki ve hayvan türleri yaşamaktadır, bu da bölgenin biyolojik çeşitliliğini zenginleştirmektedir.
 

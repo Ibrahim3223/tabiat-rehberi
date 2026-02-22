@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin kalbinde yer alan Haydarlar Dağı, 38.0715°K ve 38.
 
 Jeolojik açıdan bakıldığında, Haydarlar Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, koordinatlarından hareketle, bölgenin coğrafi özelliklerini analiz edebiliriz. Dağın boyutları ve şekli, Malatya'nın toplam yüzölçümüne kıyasla önemli bir alanı kaplamaktadır. Monaco'nun yarısı kadar büyük bir alana sahip olduğu düşünülürse, Haydarlar Dağı'nın boyutları hakkında bir fikir oluşabilir.
 
-Mevsimsel açıdan, Haydarlar Dağı'nın iklim karakteri, Doğu Anadolu Bölgesi'nin genel iklim koşullarını yansıtmaktadır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir iklim hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Hava durumu, bölgenin coğrafi yapısı ve yüksekliklerine göre değişkenlik göstermektedir.
+Mevsimsel açıdan, Haydarlar Dağı'nın iklim karakteri, Doğu Anadolu Bölgesi'nin genel iklim koşullarını yansıtmaktadır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Hava durumu, bölgenin coğrafi yapısı ve yüksekliklerine göre değişkenlik göstermektedir.
 
 Çevresel açıdan, Haydarlar Dağı, komşu alanlar ve su kaynaklarıyla önemli bir ilişkiye sahiptir. Bölgede yer alan nehirler ve akarsular, dağların eteklerinden kaynaklanmaktadır. Bu su kaynakları, bölgenin ekosistemini desteklemektedir. Ayrıca, dağların yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olduğu düşünülürse, bölgenin coğrafi çeşitliliğini anlama mümkün olabilir.
 

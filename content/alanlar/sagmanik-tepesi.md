@@ -36,7 +36,7 @@ Sağmanık Tepesi'nin tarihi geçmişi, Sivas şehrinin tarihi ile iç içe geç
 
 ## Coğrafya
 
-Sağmanık Tepesi, Sivas şehrinin coğrafi yapısını etkileyen önemli bir faktör. Bu tepe, şehrin kuzeyinde yer alıyor ve yaklaşık 140 hektarlık bir alanı kaplıyor. Tepenin yüksekliği, şehrin diğer bölgelerine göre daha yükse ve bu nedenle ziyaretçiler, şehrin panoramik manzarasını izleme fırsatı buluyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahip. Kışlar soğu ve karlı, yazlar ise sıcak ve kuru passing. Bu iklim, bölgenin florası ve faunası üzerinde önemli bir etkiye sahip ve ziyaretçiler, bu çeşitlilik hakkında bilgi sahibi oluyor.
+Sağmanık Tepesi, Sivas şehrinin coğrafi yapısını etkileyen önemli bir faktör. Bu tepe, şehrin kuzeyinde yer alıyor ve yaklaşık 140 hektarlık bir alanı kaplıyor. Tepenin yüksekliği, şehrin diğer bölgelerine göre daha yükse ve bu nedenle ziyaretçiler, şehrin panoramik manzarasını izleme fırsatı buluyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahip. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuru passing. Bu iklim, bölgenin florası ve faunası üzerinde önemli bir etkiye sahip ve ziyaretçiler, bu çeşitlilik hakkında bilgi sahibi oluyor.
 
 ## Flora ve Fauna
 

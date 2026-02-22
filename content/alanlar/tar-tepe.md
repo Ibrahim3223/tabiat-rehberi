@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin en güzel köşelerinden biri olan Tar Tepe, 37
 
 Doğal güzellikleri ile dikkat çeken Tar Tepe, yaklaşık olarak Taksim Meydanı'nın 10 katı büyüklüğünde bir alanı kaplıyor. Bu büyüklük, tepeyi bir şehir bloğu büyüklüğünden çok daha büyük, ancak Monaco'nun yarısı kadar büyük olmayan bir alan olarak tanımlamaya olanak sağlıyor. Tepe, dağlık bir arazide yer alıyor ve etrafındaki diğer tepelerle birlikte bir dağ silsilesini oluşturuyor.
 
-İklim açısından bakıldığında, Tar Tepe güneydoğu Anadolu Bölgesi'nin karakteristik iklimini taşır. Yaz aylarında sıcaklık 35 dereceye ulaşabilirken, kış aylarında 0 dereceye kadar düşebilir. Bu mevsimsel değişimler, tepeye farklı mevsimlerde farklı bir güzellik kazandırıyor. Hava durumu ise, bölgenin genel iklimine uygun olarak yazın sıca ve khô, kışın soğu ve yağışlı geçiyor.
+İklim açısından bakıldığında, Tar Tepe güneydoğu Anadolu Bölgesi'nin karakteristik iklimini taşır. Yaz aylarında sıcaklık 35 dereceye ulaşabilirken, kış aylarında 0 dereceye kadar düşebilir. Bu mevsimsel değişimler, tepeye farklı mevsimlerde farklı bir güzellik kazandırıyor. Hava durumu ise, bölgenin genel iklimine uygun olarak yazın sıcak ve kuru, kışın soğuk ve yağışlı geçiyor.
 
 Çevresel açıdan bakıldığında, Tar Tepe Batman Nehri'ne yakın bir konumda bulunuyor. Nehir, tepeye hayat veren su kaynağını sağlıyor ve bölgenin ekosistemini destekleyen önemli bir unsur olarak görev yapıyor. Ayrıca, tepeye yakın olan diğer doğal alanlar, bölgenin biyolojik çeşitliliğini zenginleştiren önemli ekosistem bağlantıları oluşturuyor. Bu bağlantılar, Tar Tepe'nin çevresindeki diğer doğal güzelliklerle birlikte bir bütün olarak değerlendirilmesini sağlıyor.
 

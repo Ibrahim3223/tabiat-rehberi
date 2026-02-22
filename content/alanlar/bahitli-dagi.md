@@ -45,7 +45,7 @@ Doğu Anadolu Bölgesi'nin güzide noktalarından biri olan Bahıtlı Dağı, 40
 
 Jeolojik açıdan incelendiğinde, Bahıtlı Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, genel olarak bu bölgenin dağlık bir araziye sahip olduğu bilinmektedir. Dağın boyutları tam olarak bilinmese de, yaklaşık olarak bir şehir bloğu büyüklüğündethought bir alanı kapladığı söylenebilir. Bu büyüklük, Bahıtlı Dağı'nı çevresindeki diğer dağlardan ayıran önemli bir özelliktir.
 
-Mevsimsel özellikler açısından bakıldığında, Bahıtlı Dağı'nın iklim karakteri oldukça değişkenlik göstermektedir. Kış aylarında karla kaplanan dağ, yaz aylarında ise yeşillenerek doğal bir güzelliğe bürünmektedir. Hava durumu, özellikle kış aylarında oldukça soğu ve kar yağışlıdır, bu nedenle bölgeyi ziyaret etmek isteyenler için uygun zamanın seçilmesi önemlidir.
+Mevsimsel özellikler açısından bakıldığında, Bahıtlı Dağı'nın iklim karakteri oldukça değişkenlik göstermektedir. Kış aylarında karla kaplanan dağ, yaz aylarında ise yeşillenerek doğal bir güzelliğe bürünmektedir. Hava durumu, özellikle kış aylarında oldukça soğuk ve kar yağışlıdır, bu nedenle bölgeyi ziyaret etmek isteyenler için uygun zamanın seçilmesi önemlidir.
 
 Çevresel açıdan bakıldığında, Bahıtlı Dağı'nın komşu alanlar ve su kaynakları ile önemli bir ilişkisi bulunmaktadır. Dağın eteklerinde bulunan su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılamaktadır. Ayrıca, Bahıtlı Dağı'nın ekosistem bağlantıları da oldukça önemlidir, çünkü bu dağ, birçok farklı türün yaşam alanı olarak hizmet vermektedir. Bu nedenle, Bahıtlı Dağı'nın korunması ve doğal güzelliğinin muhafaza edilmesi büyük önem taşımaktadır.
 

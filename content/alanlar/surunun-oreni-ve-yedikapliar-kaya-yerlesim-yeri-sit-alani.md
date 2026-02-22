@@ -30,7 +30,7 @@ Sürünün Öreni Ve Yedikaplıar Kaya Yerleşim Yeri Sit Alanı'nın tarihi ge�
 
 ## Coğrafya
 
-Sürünün Öreni Ve Yedikaplıar Kaya Yerleşim Yeri Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici yerlerinden biri olarak kabul ediliyor. Bu alan, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bölge, kaya oluşumları ve doğal güzelliği ile dikkat çekiyor. İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri, bu bölgede de görülmektedir. Bölge, yüksek rakımlı araziler, vadiler ve doğal güzelliklerle dolu. Ziyaretçiler, bu bölgede yapılan doğa yürüyüşleri ve trekking aktiviteleriyle coğrafi güzelliği keşfedebilir. Ayrıca, bu bölge, İç Anadolu Bölgesi'nin iklimsel özellikleri olan karasal iklimin etkilerini taşımaktadır. Bölge, yazları sıca ve kurak, kışları soğu ve karlı passedir.
+Sürünün Öreni Ve Yedikaplıar Kaya Yerleşim Yeri Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici yerlerinden biri olarak kabul ediliyor. Bu alan, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bölge, kaya oluşumları ve doğal güzelliği ile dikkat çekiyor. İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri, bu bölgede de görülmektedir. Bölge, yüksek rakımlı araziler, vadiler ve doğal güzelliklerle dolu. Ziyaretçiler, bu bölgede yapılan doğa yürüyüşleri ve trekking aktiviteleriyle coğrafi güzelliği keşfedebilir. Ayrıca, bu bölge, İç Anadolu Bölgesi'nin iklimsel özellikleri olan karasal iklimin etkilerini taşımaktadır. Bölge, yazları sıcak ve kurak, kışları soğuk ve karlı pasiftir.
 
 ## Flora ve Fauna
 

@@ -42,7 +42,7 @@ Güney Türkiye'nin coğrafi çeşitliliği, Hatay ilinin dağlık bölgelerinde
 
 Doğuya bakan yamaçlarıyla dikkat çeken Susuz Tepe, coğrafi olarak bakıldığında, bir şehir bloğu büyüklüğünde alan kaplar. Bu küçük ama önemli coğrafi oluşum, bölgenin jeolojik yapısını şekillendiren tektonik hareketlerin bir sonucu olarak ortaya çıkmıştır. Susuz Tepe'nin yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadardır, bu da bölgenin genel yükseklik profiline uygun bir değerdir.
 
-Mevsimsel değişikliklere bağlı olarak, Susuz Tepe'nin iklimi karakteristik Akdeniz iklimini yansıtır. Kışlar ılıman, yazlar ise sıca ve kurak geçer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve Susuz Tepe'nin çevresindeki ekosistemin dinamik yapısını korur. 
+Mevsimsel değişikliklere bağlı olarak, Susuz Tepe'nin iklimi karakteristik Akdeniz iklimini yansıtır. Kışlar ılıman, yazlar ise sıcak ve kurak geçer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve Susuz Tepe'nin çevresindeki ekosistemin dinamik yapısını korur. 
 
 Bölgenin su kaynakları ve komşu alanlar, Susuz Tepe'nin çevresel ilişkilerini belirler. Dağın eteklerinde yer alan ovalar ve Vadiler, yeraltı su kaynaklarının beslendiği önemli alanlardır. Bu su kaynakları, bölgenin tarım ve sulama faaliyetleri için hayati önem taşır. Susuz Tepe, komşu dağlarla birlikte, bölgenin ekolojik dengesini korur ve biyolojik çeşitliliğin sürdürülmesine katkı sağlar.
 
@@ -52,7 +52,7 @@ Susuz Tepe, Hatay'ın dağlık bölgesinde yer alan 1200 hektarlık bir yeşil c
 
 Bitki örtüsünde, yükseklik zonlarına göre değişen türler bulunur. Alpin flora, dağların yüksek kesimlerinde görülürken, daha alçak kesimlerde maki türleri hakimdir. Bu bitkiler, dağ hayvanlarının yaşam alanlarını oluşturur ve onların beslenmelerini sağlar.
 
-Yaban hayatı da oldukça zengin olan Susuz Tepe'de, memeliler, kuşlar ve sürüngenler yaşamaktadır. Dağ keçileri, yaban domuzları ve tilkiler, bu bölgede yaşayan bazı memeli türleridir. Kuşlar, özellikle göç mevsimlerinde bu alanı ziyaret ederler ve dağların yüksek kesimlerinde yuvalanirler. Sürüngenler ise, kuraklığa dayanıklı türler olarak, bu bölgenin sıca ve kuru iklimine adapte olmuşlardır.
+Yaban hayatı da oldukça zengin olan Susuz Tepe'de, memeliler, kuşlar ve sürüngenler yaşamaktadır. Dağ keçileri, yaban domuzları ve tilkiler, bu bölgede yaşayan bazı memeli türleridir. Kuşlar, özellikle göç mevsimlerinde bu alanı ziyaret ederler ve dağların yüksek kesimlerinde yuvalanirler. Sürüngenler ise, kuraklığa dayanıklı türler olarak, bu bölgenin sıcak ve kuru iklimine adapte olmuşlardır.
 
 Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğinin sürdürülmesi için önemlidir. Susuz Tepe, doğal güzelliği ve biyolojik zenginliğiyle, korumaya değer bir alandır.
 

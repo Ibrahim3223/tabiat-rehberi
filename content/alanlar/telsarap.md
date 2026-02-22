@@ -36,7 +36,7 @@ Telşarap'ın tarihi geçmişi, çok eskilere dayanır. Bu bölge, yüzyıllar b
 
 ## Coğrafya
 
-Telşarap, coğrafi olarak Güneydoğu Anadolu Bölgesi'nde yer alır. Bu bölge, Mardin'in merkezine yakın bir konumda bulunur ve Burada, çeşitli coğrafi özelliklere rastlama mümkün. Telşarap, 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu bölge, coğrafi olarak çeşitli bitki türleri ve fauna ile zengin bir yapıya sahiptir. Telşarap, ziyaretçilerine doğal güzellikleri, çeşitli bitki türleri ve fauna ile bir doğa harikası sunar. Telşarap'ın iklimi, Güneydoğu Anadolu Bölgesi'nin iklimine benzer ve Bu bölge, yazları sıca ve kurak, kışları soğu ve yağışlı bir iklime sahiptir.
+Telşarap, coğrafi olarak Güneydoğu Anadolu Bölgesi'nde yer alır. Bu bölge, Mardin'in merkezine yakın bir konumda bulunur ve Burada, çeşitli coğrafi özelliklere rastlama mümkün. Telşarap, 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu bölge, coğrafi olarak çeşitli bitki türleri ve fauna ile zengin bir yapıya sahiptir. Telşarap, ziyaretçilerine doğal güzellikleri, çeşitli bitki türleri ve fauna ile bir doğa harikası sunar. Telşarap'ın iklimi, Güneydoğu Anadolu Bölgesi'nin iklimine benzer ve Bu bölge, yazları sıcak ve kurak, kışları soğuk ve yağışlı bir iklime sahiptir.
 
 ## Flora ve Fauna
 

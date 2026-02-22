@@ -32,7 +32,7 @@ Gazlıgöl Kaplıcası'nın tarihi geçmişi, yüzyıllar boyunca süregelmişti
 
 ## Coğrafya
 
-Gazlıgöl Kaplıcası, İç Anadolu Bölgesi'nin İhsaniye ilçesinde yer alır. Bu bölge, coğrafi olarak zengin bir yapıya sahiptir. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Kaplıcanın çevresi, doğal güzelliği ile dikkat çeker. Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunur. İklim olarak, İç Anadolu Bölgesi'nin genel iklim özellikleri görülür. Yaz ayları sıca ve kurak, kış ayları soğu ve kar yağışlı geçer. Gazlıgöl Kaplıcası, ziyaretçilerine doğal güzelliği ve sağlık imkanları sunuyor.
+Gazlıgöl Kaplıcası, İç Anadolu Bölgesi'nin İhsaniye ilçesinde yer alır. Bu bölge, coğrafi olarak zengin bir yapıya sahiptir. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Kaplıcanın çevresi, doğal güzelliği ile dikkat çeker. Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunur. İklim olarak, İç Anadolu Bölgesi'nin genel iklim özellikleri görülür. Yaz ayları sıcak ve kurak, kış ayları soğuk ve kar yağışlı geçer. Gazlıgöl Kaplıcası, ziyaretçilerine doğal güzelliği ve sağlık imkanları sunuyor.
 
 ## Flora ve Fauna
 

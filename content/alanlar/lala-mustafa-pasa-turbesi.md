@@ -37,7 +37,7 @@ Lala Mustafa Paşa Türbesi, tarihin önemli isimlerinden biri olan Lala Mustafa
 
 ## Coğrafya
 
-Lala Mustafa Paşa Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alır. Bu ilçe, İstanbul'un en eski ve tarihi bölgelerinden biridir. Türbe, çevresi tarihi yapılarla dolu olan bir bölgede yer alır. İstanbul'un coğrafi konumu, türbenin inşa edildiği dönemde önemli bir stratejik nokta olarak değerlendirilmiştir. Türbenin bulunduğu bölge, birçok tarihi eseri barındıran bir alan olarak bilinir. İstanbul Boğazı'nın güzelliği, türbenin çevresini süsleyen önemli bir coğrafi özelliktir. Türbe, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır ve çevresi yeşil alanlarla kaplıdır. İstanbul'un iklimi, türbenin bulunduğu bölgede ılıman bir hava sağlar.
+Lala Mustafa Paşa Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alır. Bu ilçe, İstanbul'un en eski ve tarihi bölgelerinden biridir. Türbe, çevresi tarihi yapılarla dolu olan bir bölgede yer alır. İstanbul'un coğrafi konumu, türbenin inşa edildiği dönemde önemli bir stratejik nokta olarak değerlendirilmiştir. Türbenin bulunduğu bölge, birçok tarihi eseri barındıran bir alan olarak bilinir. İstanbul Boğazı'nın güzelliği, türbenin çevresini süsleyen önemli bir coğrafi özelliktir. Türbe, yüksek bir konumda yer alır ve çevresi yeşil alanlarla kaplıdır. İstanbul'un iklimi, türbenin bulunduğu bölgede ılıman bir hava sağlar.
 
 ## Flora ve Fauna
 

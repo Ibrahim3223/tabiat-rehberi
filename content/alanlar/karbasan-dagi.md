@@ -42,7 +42,7 @@ Ankara'nın kuzeydoğusunda, 40.1831°K ve 33.2397°D koordinatlarında yer alan
 
 Doğal güzelliği ile dikkat çeken Karbasan Dağı, kendi içinde bir dünya oluşturuyor. 40.1831°K ve 33.2397°D koordinatlarına sahip bu dağ, Ankara'nın coğrafi yapısında önemli bir yer tutuyor. Ancak, fiziksel verileri sınırlı olduğundan, boyutları ve şekli hakkında net bir fikir vermek zor. Buna rağmen, Karbasan Dağı'nın jeolojik yapısı, Ankara'nın genel jeolojisine benzerlik gösteriyor. Bölge, genellikle kireçtaşı ve şist gibi kayaçlardan oluşuyor.
 
-Mevsimsel değişikliklere göre hava durumu da değişen Karbasan Dağı, Ankara'nın genel iklim karakterini yansıtıyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakim. Bu mevsimsel özellikler, Karbasan Dağı'nın flora ve faunasını şekillendiriyor. Dağın eteklerinde ve zirvesinde, çeşitli bitki türleri ve hayvanlar yaşamlarını sürdürüyor.
+Mevsimsel değişikliklere göre hava durumu da değişen Karbasan Dağı, Ankara'nın genel iklim karakterini yansıtıyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakim. Bu mevsimsel özellikler, Karbasan Dağı'nın flora ve faunasını şekillendiriyor. Dağın eteklerinde ve zirvesinde, çeşitli bitki türleri ve hayvanlar yaşamlarını sürdürüyor.
 
 Çevresel ilişkiler açısından Karbasan Dağı, Ankara'nın ekosistemine önemli katkılar sağlıyor. Dağın eteklerinde ve yakınında birkaç su kaynağı bulunuyor. Bu su kaynakları, bölgenin flora ve faunasını destekleyerek, doğal dengenin korunmasına yardımcı oluyor. Ayrıca, Karbasan Dağı, komşu alanlarla birlikte, Ankara'nın doğal güzelliklerini korumak için önemli bir rol üstleniyor.
 

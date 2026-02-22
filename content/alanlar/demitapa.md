@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Demitapa Dağı, Iğdır ilinin sınırl
 
 Bölgenin coğrafi yapısına bakıldığında, Demitapa Dağı'nın boyutları hakkında net bir veri olmasa da, genel olarak bu tür dağların genellikle birkaç olimpik havuz kadar alanı kapladığı düşünülebilir. Jeolojik açıdan incelendiğinde, bölgenin genel olarak volkanik kayaçlardan oluştuğu görülür. Bu volkanik yapı, Demitapa Dağı'nın oluşumunda da önemli bir rol oynamıştır.
 
-Yıllık hava koşullarına bakıldığında, Demitapa Dağı'nın bulunduğu bölgenin karasal iklim özellikleri gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna yapısını etkiler. Demitapa Dağı, bu iklim koşullarına uyum sağlayan çeşitli bitki türlerine ev sahipliği yapar.
+Yıllık hava koşullarına bakıldığında, Demitapa Dağı'nın bulunduğu bölgenin karasal iklim özellikleri gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna yapısını etkiler. Demitapa Dağı, bu iklim koşullarına uyum sağlayan çeşitli bitki türlerine ev sahipliği yapar.
 
 Çevresel açıdan değerlendirildiğinde, Demitapa Dağı, Aras Nehri'nin kuzeyindeki yüksek bir tepe olarak, bölgenin su kaynakları ve ekosistemleri ile önemli bir bağlantı içerisindedir. Bu dağ, Aras Nehri'nin kuzeyindeki su toplama alanını etkileyen önemli bir coğrafi unsur olarak görülebilir. Demitapa Dağı, bölgenin doğal dengesini koruma açısından da kritik bir role sahiptir.
 

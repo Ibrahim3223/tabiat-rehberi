@@ -44,7 +44,7 @@ Türkiye'de doğal alanların tarihsel önemi, yalnızca bölgesel değil, ulusa
 
 Doğal güzellikleri ve jeolojik yapısıyla dikkat çeken Zangağ Dağı, yaklaşık olarak 1200 hektarlık bir alanı kaplamaktadır. Bu alan, Beşiktaş ilçesinin neredeyse yarısı kadar bir büyüklüğe sahip olup, Taksim Meydanı'nın 20 katı büyüklüğünde bir alanı kaplar. Dağın yüksekliği, Eiffel Kulesi'nin 2 katı yükseklikte olup, 85 katlı bir gökdelenin yüksekliğine eşittir.
 
-Mevsimsel özellikler bakımından, Zangağ Dağı ve çevresinde karasal iklim hüküm sürer. Kışlar soğu ve karlı, yazlar ise sıca ve kurudur. Bu bölgede, yıllık ortalama sıcaklık 10 derece civarında olup, yıllık yağış miktarı 400 mm'dir. Bu durum, bölgenin tarımsal faaliyetler için elverişli olmadığını göstermektedir.
+Mevsimsel özellikler bakımından, Zangağ Dağı ve çevresinde karasal iklim hüküm sürer. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu bölgede, yıllık ortalama sıcaklık 10 derece civarında olup, yıllık yağış miktarı 400 mm'dir. Bu durum, bölgenin tarımsal faaliyetler için elverişli olmadığını göstermektedir.
 
 Zangağ Dağı, çevresindeki ekosistemle önemli bir bağlantı içindedir. Aras Nehri'nin yakınında yer alması, bölgenin su kaynakları bakımından zengin olmasını sağlar. Ayrıca, dağların eteklerinde ve civarında çeşitli bitki ve hayvan türleri yaşamaktadır. Bu bölgede, flora ve fauna çeşitliliği oldukça zengindir ve doğa severler için önemli bir çekim merkezi oluşturur.
 

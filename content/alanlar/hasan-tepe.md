@@ -45,7 +45,7 @@ Doğu Anadolu Bölgesi'nin kalbinde yer alan Hasan Tepe, 38.6103°K ve 38.8733°
 
 Jeolojik açıdan bakıldığında, Hasan Tepe'nin fiziksel yapısı hakkında ayrıntılı bilgi bulunmuyor. Ancak, bu dağların yükseklikleri Eiffel Kulesi'nin birkaç katı yükseklikte olabilir. Bu yükseklik, ziyaretçilere muhteşem manzaralar sunmakla birlikte, coğrafi olarak önemli bir konumda yer alıyor.
 
-Mevsimsel olarak, Hasan Tepe'nin iklimi karasal iklim özellikleri gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürer. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkileyerek, ekosistemin dinamiklerini şekillendirir.
+Mevsimsel olarak, Hasan Tepe'nin iklimi karasal iklim özellikleri gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürer. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkileyerek, ekosistemin dinamiklerini şekillendirir.
 
 Çevresel açıdan, Hasan Tepe'nin komşu alanları ile güçlü bir bağlantısı vardır. Bölge, su kaynakları açısından zengin olup, yakın çevresinde birçok nehir ve akarsu bulunur. Bu su kaynakları, bölgenin ekosistemini destekler ve canlı çeşitliliğini korur. Ayrıca, Hasan Tepe, Monaco'nun yarısı kadar bir alanı kaplayan bir bölge olarak, doğal güzellikleri ve coğrafi konumuyla dikkat çekici bir yerdir.
 

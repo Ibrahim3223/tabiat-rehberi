@@ -44,7 +44,7 @@ Boztepe Dağı, Muğla'nın güzide bir bölgesinde yer alan 36.9247°K, 28.9844
 
 Doğal güzelliği ile dikkat çeken Boztepe Dağı, çevresindeki diğer dağlarla birlikte bir dağ sırası oluşturuyor. Bu dağ sırasının uzunluğu, yaklaşık 10 kilometre kadardır. Bu uzunluk, Taksim Meydanı'nın yaklaşık 20 katı büyüklüğüne karşılık geliyor. Boztepe Dağı'nın yüksekliği ve uzunluğu, bölgede önemli bir coğrafi oluşum oluşturuyor.
 
-Bölgenin iklim karakterine bakıldığında, Akdeniz ikliminin hakim olduğu görülüyor. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir hava durumu hakim. Bu iklim karakteri, bölgede zeytin, incir ve kestane gibi ağaçların yetişmesine uygun koşullar sağlıyor. Boztepe Dağı'nın eteklerinde, bu ağaçlardan oluşan geniş ormanlar yer alıyor.
+Bölgenin iklim karakterine bakıldığında, Akdeniz ikliminin hakim olduğu görülüyor. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava durumu hakim. Bu iklim karakteri, bölgede zeytin, incir ve kestane gibi ağaçların yetişmesine uygun koşullar sağlıyor. Boztepe Dağı'nın eteklerinde, bu ağaçlardan oluşan geniş ormanlar yer alıyor.
 
 Çevresel ilişkiler açısından bakıldığında, Boztepe Dağı, komşu alanlarla doğal bir bağlantıyı oluşturuyor. Dağın eteklerinde, küçüköyler ve tarım arazileri yer alıyor. Bu köyler, dağdan elde edilen su kaynaklarını kullanarak tarım faaliyetlerini sürdürüyorlar. Boztepe Dağı, bölgedeki su kaynaklarının wichtig bir kısmını oluşturuyor ve bu nedenle bölgenin ekosistem bağlantıları için önemli bir role sahip.
 

@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin doğa harikalarından biri olan Kozdağ, 37.868
 
 Doğal güzelliği ile dikkat çeken Kozdağ, coğrafi olarak bakıldığında, yaklaşık olarak Beşiktaş ilçesi büyüklüğünde bir alanı kaplıyor. Bu büyük alan, farklı bitki türleri ve hayvanlarla dolu zengin bir ekosisteme ev sahipliği yapıyor. Kozdağ'ın yüksekliği, 85 katlı bir gökdelen kadar yükseklikte değil, ancak dağlık bir arazide yer alıyor ve bölgenin en yüksek noktalarından biri olma özelliğini taşıyor.
 
-Mevsimsel değişikliklere göre hava durumu da değişen Kozdağ, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklim karakterine sahip. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor ve Kozdağ, zengin bir biodiversityye sahip bir alan olarak dikkat çekiyor.
+Mevsimsel değişikliklere göre hava durumu da değişen Kozdağ, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklim karakterine sahip. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor ve Kozdağ, zengin bir biodiversityye sahip bir alan olarak dikkat çekiyor.
 
 Çevresel açıdan bakıldığında, Kozdağ, Batman Nehri'nin yakınında yer alıyor ve bölgenin su kaynakları açısından önemli bir role sahip. Kozdağ'ın eteklerinde yer alan köyler ve kasabalar, bu dağdan akan su kaynaklarından faydalanıyor ve bölgenin tarımsal faaliyetleri için önemli bir kaynak teşkil ediyor. Ayrıca, Kozdağ, Monaco'nun yarısı kadar bir alanı kaplayan büyük bir doğal alan olarak, bölgenin ekosistem bağlantıları açısından da önemli bir rol oynuyor.
 

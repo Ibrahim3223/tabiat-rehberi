@@ -36,7 +36,7 @@ Ayliyas Tepesi, tarihsel geçmişi ile dikkat çekiyor. Yüzyıllar boyunca, bu 
 
 ## Coğrafya
 
-Ayliyas Tepesi, Karadeniz Bölgesi'nin güzide bir noktasında yer alıyor. Bu tepe, Gümüşhane ilinin sınırları içerisinde bulunuyor. Tepenin yüksekliği, deniz seviyesinden yaklaşık 2000 metre yukarıda. Ayliyas Tepesi'nin etrafı, çeşitli bitki türleri ile kaplı ve zengin fauna bulunuyor. Tepenin manzarası, özellikle gün batımı sırasında gerçekten büyüleyici. Ayliyas Tepesi, aynı zamanda çevredeki dağların ve ormanların arasında yer alıyor. Bu durum, ziyaretçilere doğanın güzelliğini ve zenginliğini gösteriyor. Tepenin iklimi, Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Kış ayları soğu ve kar yağışlı, yaz ayları ise serin ve yağmurlu.
+Ayliyas Tepesi, Karadeniz Bölgesi'nin güzide bir noktasında yer alıyor. Bu tepe, Gümüşhane ilinin sınırları içerisinde bulunuyor. Tepenin yüksekliği, deniz seviyesinden yaklaşık 2000 metre yukarıda. Ayliyas Tepesi'nin etrafı, çeşitli bitki türleri ile kaplı ve zengin fauna bulunuyor. Tepenin manzarası, özellikle gün batımı sırasında gerçekten büyüleyici. Ayliyas Tepesi, aynı zamanda çevredeki dağların ve ormanların arasında yer alıyor. Bu durum, ziyaretçilere doğanın güzelliğini ve zenginliğini gösteriyor. Tepenin iklimi, Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Kış ayları soğuk ve kar yağışlı, yaz ayları ise serin ve yağmurlu.
 
 ## Flora ve Fauna
 

@@ -42,7 +42,7 @@ Genel olarak bakıldığında, Kırklar Tepe, Balıkesir'in coğrafi yapısı i�
 
 Doğrudan coğrafi özelliklerine bakıldığında, Kırklar Tepe'nin tam boyutları hakkında net bir veri bulunmuyor. Ancak, bu dağların bulunduğu bölge, genel olarak Marmara Bölgesi'nin coğrafi yapısına uygun olarak, karmaşık bir jeolojik yapıya sahip. Bu bölgede, çeşitli jeolojik oluşumlar ve farklı türde kayaçlar bulunması, buranın jeolojik zenginliğini gösteriyor.
 
-İklim açısından, Kırklar Tepe ve çevresinin karakteri, Marmara Bölgesi'nin genel iklim özellikleri doğrultusunda şekilleniyor. Bu bölge, karasal ve Akdeniz iklimleri arasında bir geçiş bölgesi olarak kabul ediliyor. Mevsimsel olarak, ilkbahar ve sonbahar aylarında ılıman bir hava, yaz aylarında sıca ve kurak, kış aylarında ise serin ve yağışlı bir iklim hüküm sürüyor.
+İklim açısından, Kırklar Tepe ve çevresinin karakteri, Marmara Bölgesi'nin genel iklim özellikleri doğrultusunda şekilleniyor. Bu bölge, karasal ve Akdeniz iklimleri arasında bir geçiş bölgesi olarak kabul ediliyor. Mevsimsel olarak, ilkbahar ve sonbahar aylarında ılıman bir hava, yaz aylarında sıcak ve kurak, kış aylarında ise serin ve yağışlı bir iklim hüküm sürüyor.
 
 Çevresel açıdan, Kırklar Tepe, bölgenin ekosistemini destekleyen önemli bir bileşen olarak görülüyor. Bu dağların eteklerinde ve çevresinde, çeşitli su kaynakları ve doğal yaşam alanları bulunuyor. Bu su kaynakları, bölgenin ekosistemini besliyor ve yerel canlıların yaşamasına olanak tanıyor. Ayrıca, Kırklar Tepe, bölgedeki diğer doğal alanlarla da bağlantılı olarak, daha geniş bir ekosistem içerisinde yer alıyor.
 

@@ -44,7 +44,7 @@ Sivas'ın doğusunda yer alan Tecer Dağı, 39.4342°K, 37.1416°D koordinatlar�
 
 Doğal güzelliği ve jeolojik yapısı ile dikkat çeken Tecer Dağı, yaklaşık olarak 1200 hektarlık bir alanı kaplar. Bu alan, Monaco'nun yaklaşık yarısı kadar bir büyüklüğe sahiptir. Dağın fiziksel yapısı, bölgenin jeolojik geçmişini yansıtan bir şekilde oluşmuştur. Ancak, dahalı fiziksel verileri bulunmaması nedeniyle, dağın yüksekliği ve şekli hakkında net bilgiler elde edilememektedir.
 
-Yöre'nin iklimi, karasal iklim özellikleri gösterir. Kış mevsimi soğu ve kar yağışlı, yaz mevsimi ise sıca ve kurudur. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olabilir, ancak bu bilgi kesin değildir. Tecer Dağı'nın iklim karakteri, bölgenin flora ve fauna çeşitliliğini etkileyen önemli bir faktördür.
+Yöre'nin iklimi, karasal iklim özellikleri gösterir. Kış mevsimi soğuk ve kar yağışlı, yaz mevsimi ise sıcak ve kurudur. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olabilir, ancak bu bilgi kesin değildir. Tecer Dağı'nın iklim karakteri, bölgenin flora ve fauna çeşitliliğini etkileyen önemli bir faktördür.
 
 Tecer Dağı, çevresindeki diğer dağlar ve ovalar ile birlikte bir ekosistem oluşturur. Dağın eteklerinde yer alan su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılar. Ayrıca, dağın komşu alanları, Sivas'ın diğer doğal güzelliklerine de ev sahipliği yapar. Bu doğal güzellikler, bölgenin turizm potansiyelini artıran önemli faktörlerdir.
 

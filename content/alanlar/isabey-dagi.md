@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi güzelliklerini keşfetmek isteyenler 
 
 Jeolojik açıdan bakıldığında, İsabey Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, bölgenin genel coğrafi özelliklerine bakıldığında, dağlık bir araziye sahip olduğu anlaşılıyor. Bu bölgede, genellikle volkanik kayaçlar ve sedimentler görülüyor. Dağın yüksekliği ve eğimleri, bölgenin iklimini ve bitki örtüsünü etkileyen önemli faktörler arasında yer alıyor.
 
-Mevsimsel değişikliklere bakıldığında, İsabey Dağı ve çevresinde karasal iklim hüküm sürüyor. Kışlar soğu ve karlı, yazlar ise sıca ve kurak geçiyor. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini şekillendiriyor. Dağın eteklerinde ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor.
+Mevsimsel değişikliklere bakıldığında, İsabey Dağı ve çevresinde karasal iklim hüküm sürüyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini şekillendiriyor. Dağın eteklerinde ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor.
 
 Bölgenin su kaynakları açısından bakıldığında, İsabey Dağı, Van Gölü'ne yakınlığıyla dikkat çekiyor. Türkiye'nin en büyük göllerinden biri olan Van Gölü, bölgenin ekosistemini destekleyen önemli bir su kaynağı. Dağın eteklerinde ve çevresinde, çeşitli su kaynakları ve akarsular bulunuyor. Bu su kaynakları, bölgenin tarım ve hayvancılık faaliyetlerini destekliyor ve ekosistemin dengesini koruyor.
 

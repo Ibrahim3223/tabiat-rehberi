@@ -30,7 +30,7 @@ Ankara-Kizilcahamam Karacam Milli Parkı'nın tarihi geçmişi, yüzyıllar önc
 
 ## Coğrafya
 
-Ankara-Kizilcahamam Karacam Milli Parkı, coğrafi olarak oldukça zengin bir yapıya sahip. Park, 140 hektarlık bir alan kaplıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Parkın coğrafi yapısı, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Burada, ormanlar, çayır ve meralar gibi farklı ekosistemler bulunmakta. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer, karasal bir iklime sahip. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, parkın flora ve faunasının çeşitliliğini etkiliyor. Parka gelenler, bu doğal güzelliği ve coğrafi çeşitliliği keşfetme fırsatı buluyor.
+Ankara-Kizilcahamam Karacam Milli Parkı, coğrafi olarak oldukça zengin bir yapıya sahip. Park, 140 hektarlık bir alan kaplıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Parkın coğrafi yapısı, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Burada, ormanlar, çayır ve meralar gibi farklı ekosistemler bulunmakta. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer, karasal bir iklime sahip. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, parkın flora ve faunasının çeşitliliğini etkiliyor. Parka gelenler, bu doğal güzelliği ve coğrafi çeşitliliği keşfetme fırsatı buluyor.
 
 ## Flora ve Fauna
 

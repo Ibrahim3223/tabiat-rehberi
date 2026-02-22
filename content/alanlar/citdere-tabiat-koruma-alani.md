@@ -30,7 +30,7 @@ wikidata_id: "Q108227065"
 
 ## Coğrafya
 
-Çitdere Tabiat Koruma Alanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş. Bu alan, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bölgenin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna için uygun koşullar sağlıyor. İklim, mevsimsel değişimlere göre şekilleniyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıcak ve kuru bir iklim hüküm sürüyor. Bu mevsimsel değişimler, bölgenin doğal güzelliklerini daha da artırıyor. Çitdere Tabiat Koruma Alanı, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunuyor.
+Çitdere Tabiat Koruma Alanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş. Bu alan, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bölgenin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna için uygun koşullar sağlıyor. İklim, mevsimsel değişimlere göre şekilleniyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kuru bir iklim hüküm sürüyor. Bu mevsimsel değişimler, bölgenin doğal güzelliklerini daha da artırıyor. Çitdere Tabiat Koruma Alanı, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerine ev sahipli
 
 İrade Tepe'nin fiziksel yapısı, bölgenin genel jeolojik yapısıyla paralellik gösterir. Ancak, cụ thể fiziksel veriler bulunmamasına rağmen, tepe ve çevresinin coğrafi özellikleri, bölgenin genel olarak dağlık ve engebeli bir yapıya sahip olduğunu gösterir. Bu coğrafi özellikler, tepeyi bir şehir bloğu büyüklüğünde bir alan olarak düşündüğümüzde, çevresindeki daha geniş arazilerle birlikte Monaco'nun yarısı kadar büyük bir alanı kaplayan bir coğrafi oluşumun parçası olarak görebiliriz.
 
-Mevsimsel değişikliklere bağlı olarak, İrade Tepe'nin iklim karakteri, Güneydoğu Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir. Yaz aylarında sıcaklık ve kuraklık hüküm sürerken, kış aylarında soğu ve yağışlı bir hava hakim olur. Bu mevsimsel özellikler, tepe ve çevresinin ekosistemini şekillendiren önemli faktörlerdir.
+Mevsimsel değişikliklere bağlı olarak, İrade Tepe'nin iklim karakteri, Güneydoğu Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir. Yaz aylarında sıcaklık ve kuraklık hüküm sürerken, kış aylarında soğuk ve yağışlı bir hava hakim olur. Bu mevsimsel özellikler, tepe ve çevresinin ekosistemini şekillendiren önemli faktörlerdir.
 
 Çevresel açıdan bakıldığında, İrade Tepe, Dicle Nehri'nin batısında yer alan bir tepe olarak, nehre ve çevresindeki diğer coğrafi oluşumlara bağlı bir ekosistem içerisinde yer alır. Bu ekosistem, tepe ve çevresindeki diğer arazilerle birlikte, bölgenin su kaynaklarını, bitki örtüsünü ve hayvan çeşitliliğini etkileyen önemli bir bileşendir. İrade Tepe, bu nedenle, bölgenin doğal ve kültürel zenginliklerini korumak için önemli bir noktadır.
 

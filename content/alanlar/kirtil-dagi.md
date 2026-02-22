@@ -42,7 +42,7 @@ Güneyde Akdeniz'in sınırlayıcı bir çizgisi olan Kırtıl Dağı, Mersin il
 
 Doğal güzellikleri ve coğrafi özellikleri itibariyle, Kırtıl Dağı bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu alan, Taksim Meydanı'nın birkaç katı büyüklüğünde bir yeşil cenneti andırır. Jeolojik olarak, dağların oluşumu ve şekillenmesi, bölgenin tarihini ve coğrafyasını anlamak için önemli bir anahtardır. Ancak, detaylı fiziksel veriler bulunmaması, bu dağ hakkında daha derinlemesine bilgi edinmemizi sınırlar.
 
-Mevsimsel olarak, Kırtıl Dağı'nın iklimi Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel değişimler, dağın florası ve faunası üzerinde önemli etkiler yaratır. Eiffel Kulesi'nin birkaç katı yükseklikte olan bu dağ, bölgenin hava koşullarını etkileyen önemli bir faktördür.
+Mevsimsel olarak, Kırtıl Dağı'nın iklimi Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel değişimler, dağın florası ve faunası üzerinde önemli etkiler yaratır. Eiffel Kulesi'nin birkaç katı yükseklikte olan bu dağ, bölgenin hava koşullarını etkileyen önemli bir faktördür.
 
 Çevresel olarak, Kırtıl Dağı komşu alanlarla ve su kaynaklarıyla önemli bir ilişki içindedir. Monaco'nun yarısı kadar büyük bir alanı kaplayan bu dağ, bölgenin ekosistem bağlantılarını etkileyen bir rol oynar. İstanbul'un Adalar ilçesi büyüklüğünde olan bu coğrafi oluşum, Mersin'in doğal güzelliklerini koruma ve geliştirmek için önemli bir potansiyel sunar.
 

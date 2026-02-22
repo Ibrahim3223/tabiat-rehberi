@@ -37,7 +37,7 @@ Nebiler Ilıcası'nın tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu b�
 
 ## Coğrafya
 
-Nebiler Ilıcası, Dikili'nin Ege Bölgesi'nde yer alan bir bölümünde bulunmaktadır. Bu ılıca, deniz seviyesinden yaklaşık yüksek bir konumdate ve denize olan uzaklığı uzun bir mesafe. İlçe merkezine olan uzaklığı ise 5 kilometre civarında. İklim olarak, Ege Bölgesi'nin tipik Akdeniz iklim şartlarına sahiptir; yani yazları sıca ve kurak, kışları ılıman ve yağışlı. Bu bölge, yeşilliklerle çevrili ve özellikle zeytin ağaçları ile ünlü. Zeytin ağaçları, ılıcanın çevresini kaplıyor ve ziyaretçilere güzel bir manzara sunuyor. Nebiler Ilıcası'nın coğrafi konumu, hem doğa severlerin hem de dinlenmek isteyenlerin ilgisini çekiyor. İlın etrafındaki tepeler ve dağlar, ılıcaya gelen ziyaretçilere güzel bir panorama sunuyor.
+Nebiler Ilıcası, Dikili'nin Ege Bölgesi'nde yer alan bir bölümünde bulunmaktadır. Bu ılıca, yüksek bir konumda ve denize olan uzaklığı uzun bir mesafe. İlçe merkezine olan uzaklığı ise 5 kilometre civarında. İklim olarak, Ege Bölgesi'nin tipik Akdeniz iklim şartlarına sahiptir; yani yazları sıcak ve kurak, kışları ılıman ve yağışlı. Bu bölge, yeşilliklerle çevrili ve özellikle zeytin ağaçları ile ünlü. Zeytin ağaçları, ılıcanın çevresini kaplıyor ve ziyaretçilere güzel bir manzara sunuyor. Nebiler Ilıcası'nın coğrafi konumu, hem doğa severlerin hem de dinlenmek isteyenlerin ilgisini çekiyor. İlın etrafındaki tepeler ve dağlar, ılıcaya gelen ziyaretçilere güzel bir panorama sunuyor.
 
 ## Flora ve Fauna
 

@@ -53,7 +53,7 @@ Doğal güzelliği ile ön plana çıkan Güvercinlik Vadisi, coğrafi olarak bi
 
 Güvercinlik Vadisi, 1200 hektarlık bir kanyon olarak, step bitki örtüsünün ve bozkırın karakteristik özelliklerini taşır. İlkbaharın gelmesiyle birlikte, vadide çeşitli çiçek türleri açmaya başlar. Bu mevsimsel değişim, bölgeyi renklendirir ve güzelliğini artırır. Step bitkileri, kuraklığa adapte olmuş türlerdir ve vadide hakimdir.
 
-Vadideki yaban hayatı, memeliler, kuşlar ve sürüngenlerle temsil edilir. Kuşlar, özellikle ilkbahar ve sonbahar aylarında, göç yolları üzerinde bulunduğundan, vadide görülebilir. Sürüngenler, sıca ve kuru bölgelerde yaşamlarını sürdürürler. Memeliler, vadideki bitkilerle beslenir ve ekosistemin dengesini sağlarlar.
+Vadideki yaban hayatı, memeliler, kuşlar ve sürüngenlerle temsil edilir. Kuşlar, özellikle ilkbahar ve sonbahar aylarında, göç yolları üzerinde bulunduğundan, vadide görülebilir. Sürüngenler, sıcak ve kuru bölgelerde yaşamlarını sürdürürler. Memeliler, vadideki bitkilerle beslenir ve ekosistemin dengesini sağlarlar.
 
 Güvercinlik Vadisi, ekolojik açıdan önemli bir alandır. Bu bölge, çeşitli türlerin yaşam alanını oluşturur ve doğanın dengesini korur. Koruma durumu, bu alanın geleceğiçin önemlidir. Doğal alanların korunması, gelecek nesiller için önemlidir ve bu vadideki canlıların yaşamını sürdürmesi için gereklidir.
 

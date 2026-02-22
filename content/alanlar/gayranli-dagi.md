@@ -44,7 +44,7 @@ Coğrafi konumuyla Gayranlı Dağı, Kahramanmaraş ilinin sınırları içerisi
 
 Jeolojik açıdan bakıldığında, Gayranlı Dağı'nın fiziksel yapısı hakkında cụ thể bilgiler olmasa da, genel olarak bölgenin jeolojik özellikleri dikkate alınabilir. Bölge genellikle kalker ve şist gibi kayaçlardan oluşur. Gayranlı Dağı'nın yüksekliği veya genişliği hakkında somut veriler olmasa da, bu tür dağların genellikle birkaç kilometre genişliğinde ve birkaç yüz metre yüksekliğinde olduğu düşünülebilir. Bu büyüklük, Monaco'nun bir bölümü kadar bir alanı kaplayabilir.
 
-Mevsimsel açıdan, Gayranlı Dağı'nın bulunduğu bölge Türkiye'nin Akdeniz Bölgesi'nin karasallığını taşır. Kışlar ılımandır, yazlar ise sıca ve kurudur. Bölge, yıllık ortalama 600-800 mm yağış alır. Bu yağış, genellikle ilkbahar ve sonbahar aylarında yoğunlaşır. Gayranlı Dağı'nın iklimi, bölgenin bitki örtüsünü ve fauna çeşitliliğini etkiler.
+Mevsimsel açıdan, Gayranlı Dağı'nın bulunduğu bölge Türkiye'nin Akdeniz Bölgesi'nin karasallığını taşır. Kışlar ılımandır, yazlar ise sıcak ve kurudur. Bölge, yıllık ortalama 600-800 mm yağış alır. Bu yağış, genellikle ilkbahar ve sonbahar aylarında yoğunlaşır. Gayranlı Dağı'nın iklimi, bölgenin bitki örtüsünü ve fauna çeşitliliğini etkiler.
 
 Çevresel açıdan Gayranlı Dağı, bölgedeki su kaynaklarına ve ekosistemlere önemli katkılar sağlar. Dağın eteklerinde ve civarında çeşitli akarsular ve dereler bulunur. Bu su kaynakları, bölgenin tarım ve hayvancılık faaliyetleri için hayati önem taşır. Gayranlı Dağı, aynı zamanda bölgenin biyolojik çeşitliliğini korur ve birçok bitki ve hayvan türünün yaşam alanı olarak hizmet eder. Bu açıdan, Gayranlı Dağı'nın korunması ve sürdürülebilir kullanımı, bölgenin ekolojik dengesi için son derece önemlidir.
 

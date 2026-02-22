@@ -30,7 +30,7 @@ Kutahya-Merkez Altıntas milli parkının tarihi geçmişi, yüzyıllar boyunca 
 
 ## Coğrafya
 
-Kutahya-Merkez Altıntas milli parkı, coğrafi açıdan oldukça zengin bir yapıya sahiptir. 140 hektarlık yeşil alan, çeşitli bitki türleriyle kaplıdır ve bu bölgede fauna da oldukça çeşitlidir. Milli parkın coğrafi yapısı, ziyaretçilere farklı ekosistemleri keşfetme fırsatı sunar. İklim, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu iklim yapısı, flora ve fauna üzerinde önemli bir etkiye sahiptir. Milli parkın çevresi, doğa ile iç içe olup, ziyaretçilere çeşitli manzaralar sunar. Bu coğrafi özellikler, Kutahya-Merkez Altıntas milli parkını ziyaretçiler için çekici bir destinasyon haline getirir.
+Kutahya-Merkez Altıntas milli parkı, coğrafi açıdan oldukça zengin bir yapıya sahiptir. 140 hektarlık yeşil alan, çeşitli bitki türleriyle kaplıdır ve bu bölgede fauna da oldukça çeşitlidir. Milli parkın coğrafi yapısı, ziyaretçilere farklı ekosistemleri keşfetme fırsatı sunar. İklim, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu iklim yapısı, flora ve fauna üzerinde önemli bir etkiye sahiptir. Milli parkın çevresi, doğa ile iç içe olup, ziyaretçilere çeşitli manzaralar sunar. Bu coğrafi özellikler, Kutahya-Merkez Altıntas milli parkını ziyaretçiler için çekici bir destinasyon haline getirir.
 
 ## Flora ve Fauna
 

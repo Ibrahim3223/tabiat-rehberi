@@ -36,7 +36,7 @@ Otulcakuz Tepesi'nin tarihi geçmişi, Amasya'nın tarihine paralel olarak şeki
 
 ## Coğrafya
 
-Otulcakuz Tepesi, Amasya'nın coğrafi yapısının tipik bir örneğini sunuyor. Tepenin etrafında akan dereler ve surroundingsındaki ormanlar, bu bölgeyi bir doğa harikası haline getiriyor. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli aktiviteler sunuyor. Tepenin zirvesinden Amasya'nın panoramik manzarasını izleme mümkün. Coğrafi konumu itibariyle, Otulcakuz Tepesi, Karadeniz Bölgesi'nin iklim şartlarına uygun bir yapıya sahiptir. Bölge, yaz aylarında serin ve ferah, kış aylarında ise soğu ve karlı bir iklime sahiptir. Bu çeşitlilik, ziyaretçilere her mevsim farklı bir güzellik sunuyor.
+Otulcakuz Tepesi, Amasya'nın coğrafi yapısının tipik bir örneğini sunuyor. Tepenin etrafında akan dereler ve surroundingsındaki ormanlar, bu bölgeyi bir doğa harikası haline getiriyor. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli aktiviteler sunuyor. Tepenin zirvesinden Amasya'nın panoramik manzarasını izleme mümkün. Coğrafi konumu itibariyle, Otulcakuz Tepesi, Karadeniz Bölgesi'nin iklim şartlarına uygun bir yapıya sahiptir. Bölge, yaz aylarında serin ve ferah, kış aylarında ise soğuk ve karlı bir iklime sahiptir. Bu çeşitlilik, ziyaretçilere her mevsim farklı bir güzellik sunuyor.
 
 ## Flora ve Fauna
 

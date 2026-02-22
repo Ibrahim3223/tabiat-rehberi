@@ -44,7 +44,7 @@ Kayalı Dağ gibi doğal oluşumlar, sadece coğrafi birer unsur olarak değil, 
 
 Jeolojik açıdan, Kayalı Dağ'ın yapısı hakkında detaylı bilgiler olmasa da, bölgenin genel coğrafyası dikkate alındığında, dağlık bir arazinin hakim olduğu söylenebilir. Bu dağlık bölge, Çanakkale'nin genel topografyasını oluşturan karmaşık bir coğrafi yapıya sahip. Boyutları hakkında kesin bilgiler olmasa da, bu dağlık alanın bir şehir bloğu büyüklüğünde olduğu düşünülüyor.
 
-Mevsimsel özellikler açısından, Kayalı Dağ'ın iklimi Çanakkale'nin genel iklim karakterini yansıtıyor. Bölge, Akdeniz ikliminin etkisi altında, sıca ve kurak yazlar ile ılık ve yağışlı kışlar yaşıyor. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini şekillendiriyor.
+Mevsimsel özellikler açısından, Kayalı Dağ'ın iklimi Çanakkale'nin genel iklim karakterini yansıtıyor. Bölge, Akdeniz ikliminin etkisi altında, sıcak ve kurak yazlar ile ılık ve yağışlı kışlar yaşıyor. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini şekillendiriyor.
 
 Doğal kaynaklar ve ekosistem açısından, Kayalı Dağ'ın çevresinde çeşitli su kaynakları ve ekosistemler bulunuyor. Bu dağlık alan, bölgenin su döngüsünü etkileyen önemli bir faktör, ve çevre ekosistemlerin dengesini koruyor. Monaco'nun yarısı kadar büyük bir alanı kaplayan bu dağlık bölge, bölgenin doğal güzelliklerini koruma altına almak için önemli bir rol oynuyor.
 

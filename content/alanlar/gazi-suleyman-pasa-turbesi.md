@@ -37,7 +37,7 @@ Gazi Süleyman Paşa Türbesi, Osmanlı döneminde inşa edilmiştir. Türbenin 
 
 ## Coğrafya
 
-Gazi Süleyman Paşa Türbesi, Çanakkale'nin Gelibolu ilçesinde bulunmaktadır. Türbe, Gelibolu Yarımadası'nın güney kıyısında yer almaktadır. Türbenin bulunduğu alan, deniz seviyesinden yaklaşık yüksek bir konumdatedir. Alan, yaklaşık 140 hektarlık bir yeşil alana sahiptir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Türbenin yakınında, çeşitli tarım arazileri bulunmaktadır. Bu araziler, Gelibolu'nun önemli tarım bölgelerinden biridir. Türbenin bulunduğu yer, aynı zamanda bir plajın da bulunduğu yerdir. Plaj, ziyaretçilerin denize girmesine olanak tanır. Plajın yakınında, çeşitli restoran ve kafeler bulunmaktadır. Bunlar, ziyaretçilerin yeme ve içme ihtiyaçlarını karşılar.
+Gazi Süleyman Paşa Türbesi, Çanakkale'nin Gelibolu ilçesinde bulunmaktadır. Türbe, Gelibolu Yarımadası'nın güney kıyısında yer almaktadır. Türbenin bulunduğu alan, yüksek bir konumdadir. Alan, yaklaşık 140 hektarlık bir yeşil alana sahiptir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Türbenin yakınında, çeşitli tarım arazileri bulunmaktadır. Bu araziler, Gelibolu'nun önemli tarım bölgelerinden biridir. Türbenin bulunduğu yer, aynı zamanda bir plajın da bulunduğu yerdir. Plaj, ziyaretçilerin denize girmesine olanak tanır. Plajın yakınında, çeşitli restoran ve kafeler bulunmaktadır. Bunlar, ziyaretçilerin yeme ve içme ihtiyaçlarını karşılar.
 
 ## Flora ve Fauna
 
@@ -53,4 +53,4 @@ Gazi Süleyman Paşa Türbesi, yılın her döneminde ziyaret edilebilir. Ancak,
 - Türbenin mimari özellikleri, Osmanlı dönemine ait olduğunu göstermektedir.
 - Türbe, yüzyıllar boyunca çeşitli restorasyonlar geçirmiştir.
 - Türbenin yakınında, çeşitli tarım arazileri bulunmaktadır.
-- Türbenin bulunduğu alan, deniz seviyesinden yaklaşık yüksek bir konumdatedir.
+- Türbenin bulunduğu alan, yüksek bir konumdadir.

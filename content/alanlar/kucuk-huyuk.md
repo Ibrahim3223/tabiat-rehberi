@@ -36,7 +36,7 @@ Küçük Hüyük'ün tarihi geçmişi, yüzyıllar boyunca farklı uygarlıklar�
 
 ## Coğrafya
 
-Küçük Hüyük, Hatay ilinin coğrafi olarak zengin bir bölgesinde yer alır. Bu bölge, 140 hektarlık bir alanı kaplamaktadır ve coğrafi açıdan önemli bir konumda bulunur. Küçük Hüyük'ün coğrafyası, ziyaretçilere doğal güzellikleri sunmaktadır. Bölge, çeşitli bitki türleri ve hayvanlarla zengin bir ekosisteme sahiptir. İklimi, Akdeniz Bölgesi'ne özgü olarak sıca ve nemlidir. Küçük Hüyük'ün coğrafyası, ziyaretçilere geniş bir alan sunmaktadır ve bu da ziyaretçilere çeşitli aktiviteler yapma imkanı vermektedir. Bölgenin coğrafi yapısı, ziyaretçilere doğayı keşfetme fırsatı sunmaktadır.
+Küçük Hüyük, Hatay ilinin coğrafi olarak zengin bir bölgesinde yer alır. Bu bölge, 140 hektarlık bir alanı kaplamaktadır ve coğrafi açıdan önemli bir konumda bulunur. Küçük Hüyük'ün coğrafyası, ziyaretçilere doğal güzellikleri sunmaktadır. Bölge, çeşitli bitki türleri ve hayvanlarla zengin bir ekosisteme sahiptir. İklimi, Akdeniz Bölgesi'ne özgü olarak sıcak ve nemlidir. Küçük Hüyük'ün coğrafyası, ziyaretçilere geniş bir alan sunmaktadır ve bu da ziyaretçilere çeşitli aktiviteler yapma imkanı vermektedir. Bölgenin coğrafi yapısı, ziyaretçilere doğayı keşfetme fırsatı sunmaktadır.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ wikidata_id: "Q34828039"
 
 ## Coğrafya
 
-Çaldağı Tepesi, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölge, genellikle step ve bozkır alanlarıyla kaplıdır, ancak Çaldağı Tepesi, 140 hektarlık yeşil alanıyla, bu coğrafi yapının içinde bir istisna oluşturur. Tepenin yüksekliği ve genişliği, ziyaretçilere, geniş bir görüş açısı sunar ve buradan, etraftaki diğer coğrafi oluşumları izleme mümkündür. Çaldağı Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve karasal iklim özellikleri gösterir. Yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlı geçer. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirmiş ve burada, bu coğrafi koşullara uyum sağlamış çeşitli bitki ve hayvan türleri yaşamaktadır.
+Çaldağı Tepesi, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölge, genellikle step ve bozkır alanlarıyla kaplıdır, ancak Çaldağı Tepesi, 140 hektarlık yeşil alanıyla, bu coğrafi yapının içinde bir istisna oluşturur. Tepenin yüksekliği ve genişliği, ziyaretçilere, geniş bir görüş açısı sunar ve buradan, etraftaki diğer coğrafi oluşumları izleme mümkündür. Çaldağı Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve karasal iklim özellikleri gösterir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçer. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirmiş ve burada, bu coğrafi koşullara uyum sağlamış çeşitli bitki ve hayvan türleri yaşamaktadır.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Kayaklı Tepe'nin tarihi geçmişi, Kastamonu'nun tarihini yansıtan önemli bir
 
 ## Coğrafya
 
-Kayaklı Tepe, Kastamonu'nun dağlık bölgesinde, Karadeniz Bölgesi'nde yer almaktadır. Bölgenin coğrafi yapısı, dağlık ve engebeli arazilerle karakterizedir. Kayaklı Tepe, çevresindeki diğer tepe ve dağlarla birlikte, bir bütün olarak Kastamonu'nun coğrafi yapısını oluşturmaktadır. Bölgenin iklimi, Karadeniz ikliminin özelliklerini taşır; yağışlı ve nemli bir iklim hüküm sürer. Yaz ayları serin ve yağışlı, kış ayları ise soğu ve karlı geçer. Kayaklı Tepe, bu coğrafi özellikler nedeniyle, çeşitli bitki ve hayvan türlerine ev sahipliği yapmaktadır. Bölgenin flora ve faunası, ziyaretçilere benzersiz bir doğa deneyimi sunmaktadır. Kayaklı Tepe'nin yüksekliği ve coğrafi konumu, ziyaretçilere Kastamonu'nun geniş bir bölümünü kapsayan panoramik manzaralar sunmaktadır.
+Kayaklı Tepe, Kastamonu'nun dağlık bölgesinde, Karadeniz Bölgesi'nde yer almaktadır. Bölgenin coğrafi yapısı, dağlık ve engebeli arazilerle karakterizedir. Kayaklı Tepe, çevresindeki diğer tepe ve dağlarla birlikte, bir bütün olarak Kastamonu'nun coğrafi yapısını oluşturmaktadır. Bölgenin iklimi, Karadeniz ikliminin özelliklerini taşır; yağışlı ve nemli bir iklim hüküm sürer. Yaz ayları serin ve yağışlı, kış ayları ise soğuk ve karlı geçer. Kayaklı Tepe, bu coğrafi özellikler nedeniyle, çeşitli bitki ve hayvan türlerine ev sahipliği yapmaktadır. Bölgenin flora ve faunası, ziyaretçilere benzersiz bir doğa deneyimi sunmaktadır. Kayaklı Tepe'nin yüksekliği ve coğrafi konumu, ziyaretçilere Kastamonu'nun geniş bir bölümünü kapsayan panoramik manzaralar sunmaktadır.
 
 ## Flora ve Fauna
 

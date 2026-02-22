@@ -37,7 +37,7 @@ Ankara Frig Tümülüsü 3, Yücetepe, tarihin sayfalarında gizli kalan bir ge�
 
 ## Coğrafya
 
-Ankara Frig Tümülüsü 3, Yücetepe, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, yüksek bir tepe üzerinde yer alır ve etrafı geniş bir ova ile çevrilidir. Yücetepe'nin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunur. Bölgenin iklimi, İç Anadolu Bölgesi'nin tipik karasal iklimini yansıtır. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bu coğrafi koşullar, bölgeyi ziyaret edenleri dört mevsim boyunca farklı güzelliklerle karşılar. Yücetepe'nin manzarası, özellikle gün batımında, ziyaretçilerini büyüler. Bu bölge, doğa ve tarih severler için bir cennettir.
+Ankara Frig Tümülüsü 3, Yücetepe, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, yüksek bir tepe üzerinde yer alır ve etrafı geniş bir ova ile çevrilidir. Yücetepe'nin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunur. Bölgenin iklimi, İç Anadolu Bölgesi'nin tipik karasal iklimini yansıtır. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu coğrafi koşullar, bölgeyi ziyaret edenleri dört mevsim boyunca farklı güzelliklerle karşılar. Yücetepe'nin manzarası, özellikle gün batımında, ziyaretçilerini büyüler. Bu bölge, doğa ve tarih severler için bir cennettir.
 
 ## Flora ve Fauna
 

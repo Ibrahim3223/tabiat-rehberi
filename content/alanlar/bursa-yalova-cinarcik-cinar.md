@@ -26,7 +26,7 @@ Bursa-Yalova-Cinarcik Cinar, Marmara Bölgesi'nin kalbinde yer alan bir doğa ce
 
 ## Tarihçe
 
-Bursa-Yalova-Cinarcik Cinar'ın tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu bölge, uzun yıllar boyunca orman olarak kullanilmiş ve bölgenin ekonomisine katkı sağlamış. Ancak zamanla, bu ormanların korunması ve gelecekteki nesiller için bo tn edilmesi gerektiği fark edilmiş ve milli park olarak ilan edilmiştir. Bursa-Yalova-Cinarcik Cinar, bugün Türkiye'nin en önemli milli parklarından biri olarak kabul ediliyor. Bu milli parkın tarihi, sadece ormanların korunmasıyla sınırlı değil, aynı zamanda bölgenin kültürel ve sosyal gelişimine de katkı sağlamış. Bursa-Yalova-Cinarcik Cinar, bölgenin önemli doğal güzelliklerinden biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
+Bursa-Yalova-Cinarcik Cinar'ın tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu bölge, uzun yıllar boyunca orman olarak kullanilmiş ve bölgenin ekonomisine katkı sağlamış. Ancak zamanla, bu ormanların korunması ve gelecekteki nesiller için korunması gerektiği fark edilmiş ve milli park olarak ilan edilmiştir. Bursa-Yalova-Cinarcik Cinar, bugün Türkiye'nin en önemli milli parklarından biri olarak kabul ediliyor. Bu milli parkın tarihi, sadece ormanların korunmasıyla sınırlı değil, aynı zamanda bölgenin kültürel ve sosyal gelişimine de katkı sağlamış. Bursa-Yalova-Cinarcik Cinar, bölgenin önemli doğal güzelliklerinden biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
 
 ## Coğrafya
 

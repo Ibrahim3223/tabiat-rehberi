@@ -36,7 +36,7 @@ Doğu Anadolu'nun görkemli dağ silsilesi içinde yer alan Frfrkar Dağı, Muş
 
 Jeolojik açıdan incelendiğinde, Frfrkar Dağı'nın oluşumu, bölgenin karmaşık tektonik geçmişine bağlanmaktadır. Dağın yapısı, volkani ve sedimentatif kayaçlardan oluşmaktadır. Ancak, fiziksel boyutları hakkında net bir veri bulunmamasına rağmen, bu dağların genel olarak bölgedeki diğer dağlar gibi geniş ve yüksek bir yapıya sahip olduğu düşünülmektedir.
 
-İklim açısından, Frfrkar Dağı ve çevresi, karasal iklimin hakim olduğu bir bölgedir. Kış ayları soğu ve karlı, yaz ayları ise sıca ve kurudur. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Dağın yüksekliği ve eğimleri, yerel hava koşullarını da etkileyerek, micro klima oluşumlarına neden olabilmektedir.
+İklim açısından, Frfrkar Dağı ve çevresi, karasal iklimin hakim olduğu bir bölgedir. Kış ayları soğuk ve karlı, yaz ayları ise sıcak ve kurudur. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Dağın yüksekliği ve eğimleri, yerel hava koşullarını da etkileyerek, micro klima oluşumlarına neden olabilmektedir.
 
 Çevresel açıdan bakıldığında, Frfrkar Dağı, bölgenin su kaynaklarının oluşumunda önemli bir role sahiptir. Dağın eteklerinde ve yamaçlarında oluşan kaynak suları, yakın yerleşim yerlerinin su ihtiyacını karşılamaktadır. Ayrıca, dağların flora ve fauna çeşitliliği, bölgenin biyolojik zenginliğini artırmaktadır. Bu nedenle, Frfrkar Dağı ve çevresi, ekosistem bağlantıları açısından önemli bir bölgedir.
 

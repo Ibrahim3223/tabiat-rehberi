@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi güzellikleriyle dolu bir köşesinde,
 
 Doğal bir oluşum olan Sarımsak Mağarası, çevresindeki kireç taşı oluşumlarından oluşur. Mağaranın içi, binlerce yıllık erozyon sonucu oluşan ilginç şekiller ve oluşumlar ile doludur. Mağara, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplar ve içerisinde yer alan dikitler, sütunlar ve duvarlar, Eiffel Kulesi'nin birkaç katı yükseklikte değildir ancak kendi içinde bir dünya olan bu mağara, ziyaretçilerini büyüler.
 
-İklim açısından bakıldığında, Sarımsak Mağarası'nın bulunduğu bölge, yazları sıca ve kurak, kışları ise soğu ve yağışlı bir iklime sahiptir. Mevsimsel değişiklikler, mağaranın içini etkiler ve burada yaşayan canlılar, bu değişikliklere uyum sağlar. Mağaranın içi, genellikle serin ve nemlidir, bu da burada yaşayan canlılar için ideal bir ortam sağlar.
+İklim açısından bakıldığında, Sarımsak Mağarası'nın bulunduğu bölge, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı bir iklime sahiptir. Mevsimsel değişiklikler, mağaranın içini etkiler ve burada yaşayan canlılar, bu değişikliklere uyum sağlar. Mağaranın içi, genellikle serin ve nemlidir, bu da burada yaşayan canlılar için ideal bir ortam sağlar.
 
 Bölgenin ekosistemi, Sarımsak Mağarası'nın varlığıyla birlikte zenginleşir. Mağara, çevresindeki su kaynaklarına bağlı olarak, çeşitli canlı türleri için bir sığınak görevi görür. Monaco'nun çok küçük bir bölümü kadar bir alanı kaplayan bu mağara, bölgenin doğal dengesini korumada önemli bir rol oynar. Bu doğal güzelliği ziyaret etmek, sadece mağaranın içini keşfetmek değil, aynı zamanda bölgenin tüm ekosistemini anlamak için bir fırsat sağlar.
 

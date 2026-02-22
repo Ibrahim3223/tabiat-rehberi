@@ -45,7 +45,7 @@ Güneydeki dağlık coğrafyanın kalbinde yer alan Sıra Dağ, 37.2192°K ve 30
 
 Doğal güzelliği ve coğrafi konumuyla dikkat çeken Sıra Dağ, boyutları hakkında detaylı bilgi olmasa da, genel olarak küçük ila orta büyüklükte bir alanı kaplıyor olabilir. Bu alan, yaklaşık olarak Beşiktaş ilçesi büyüklüğünde düşünülse, coğrafi olarak önemli bir yer kapladığı anlaşılabilir. Jeolojik açıdan bakıldığında, Toros Dağları'nın genel yapısına uygun olarak kireçtaşı ve diğer sedimentler ile oluşmuş bir yapıya sahip olduğu söylenebilir.
 
-Mevsimsel değişikliklere bağlı olarak, Sıra Dağ'ın iklim karakteri, Akdeniz ikliminin genel özellikleri doğrultusunda şekilleniyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakim. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler arasında yer alıyor.
+Mevsimsel değişikliklere bağlı olarak, Sıra Dağ'ın iklim karakteri, Akdeniz ikliminin genel özellikleri doğrultusunda şekilleniyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakim. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler arasında yer alıyor.
 
 Bölgenin çevresel ilişkileri açısından bakıldığında, Sıra Dağ, komşu alanlar ve su kaynakları ile önemli bir bağlantıya sahip. Toros Dağları'nın bir parçası olarak, bölgedeki ekosistemlerin korunmasına katkıda bulunuyor. Ayrıca, yakın çevresindeki su kaynakları ile birlikte, yerel ekosistemin işleyişini destekleyen bir role sahip. Bu bağlamda, Sıra Dağ, sadece doğal bir güzellik değil, aynı zamanda bölgenin ekolojik dengesini sağlayan önemli bir bileşen olarak görülüyor.
 

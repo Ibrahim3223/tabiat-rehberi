@@ -44,7 +44,7 @@ Güneydeki Akdeniz kıyılarına yaklaştığımızda, Antalya'nın dağlık ara
 
 Jeolojik açıdan bakıldığında, Ümmü Dağı'nın fiziksel yapısı oldukça ilginçtir. Dağın şekli ve boyutları, bölgenin jeolojik geçmişini yansıtır. 1200 hektarlık bir alana yayılmayan Ümmü Dağı, çevresindeki dağlarla birlikte, Beşiktaş ilçesi kadar bir alanı kaplayan geniş bir coğrafi yapıya sahiptir. Bu dağlık bölgenin yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte değildir, ancak çevresindeki vadiler ve ovalarla birlikte, bir bütün olarak değerlendirildiğinde, oldukça etkileyici bir manzara sunar.
 
-Mevsimsel açıdan bakıldığında, Ümmü Dağı'nın iklimi, Akdeniz ikliminin tipik özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakimdir. Bu mevsimsel değişim, bölgenin flora ve fauna çeşitliliğini etkiler ve Ümmü Dağı, zengin bir ekosisteme ev sahipliği yapar.
+Mevsimsel açıdan bakıldığında, Ümmü Dağı'nın iklimi, Akdeniz ikliminin tipik özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakimdir. Bu mevsimsel değişim, bölgenin flora ve fauna çeşitliliğini etkiler ve Ümmü Dağı, zengin bir ekosisteme ev sahipliği yapar.
 
 Çevresel açıdan bakıldığında, Ümmü Dağı, komşu alanlar ve su kaynakları ile bağlantılı bir ekosistem binnen yer alır. Dağın eteklerinde, çeşitli su kaynakları ve akarsular bulunur ve bu su kaynakları, bölgenin tarım ve hayvancılık faaliyetleri için önemlidir. Ayrıca, Ümmü Dağı, Monaco'nun yarısı kadar bir alanı kaplayan geniş bir coğrafi yapıya sahiptir ve bu yapı, bölgenin ekolojik dengesini korur.
 

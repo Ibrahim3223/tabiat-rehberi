@@ -37,7 +37,7 @@ Nefes Tepesi'nin tarihi geçmişi, binlerce yıl öncesine dayanıyor. Bu bölge
 
 ## Coğrafya
 
-Nefes Tepesi, Yozgat ilinin merkezine uzun bir mesafe uzaklıkta yer alıyor. Bu tepe, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor ve bölgenin karakteristik iklimini yansıtıyor. Nefes Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor ve tepe, doğu-batı yönünde uzanıyor. Tepenin yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdate olup, bu yükseklik, bölgenin iklimini ve bitki örtüsünü etkiliyor. Nefes Tepesi, aynı zamanda çevresindeki diğer tepelerle birlikte, bir dağ silsilesini oluşturuyor. Bu dağ silsilesi, bölgenin coğrafi yapısını şekillendiriyor ve bölgedeki iklimi etkiliyor. Nefes Tepesi'nin iklimi, karasal iklim özellikleri gösteriyor ve tepe, özellikle kış mevsimlerinde soğu ve kar yağışlı geçiyor.
+Nefes Tepesi, Yozgat ilinin merkezine uzun bir mesafe uzaklıkta yer alıyor. Bu tepe, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor ve bölgenin karakteristik iklimini yansıtıyor. Nefes Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor ve tepe, doğu-batı yönünde uzanıyor. Tepenin yüksekliği, yüksek bir konumda olup, bu yükseklik, bölgenin iklimini ve bitki örtüsünü etkiliyor. Nefes Tepesi, aynı zamanda çevresindeki diğer tepelerle birlikte, bir dağ silsilesini oluşturuyor. Bu dağ silsilesi, bölgenin coğrafi yapısını şekillendiriyor ve bölgedeki iklimi etkiliyor. Nefes Tepesi'nin iklimi, karasal iklim özellikleri gösteriyor ve tepe, özellikle kış mevsimlerinde soğuk ve kar yağışlı geçiyor.
 
 ## Flora ve Fauna
 

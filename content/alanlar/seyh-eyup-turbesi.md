@@ -38,7 +38,7 @@ wikidata_id: "Q131391400"
 
 ## Coğrafya
 
-Şeyh Eyüp Türbesi, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alır. Akşehir ilçesi, Konya ilinin merkezi ile arasında uzun bir mesafelik bir mesafe bulunur. Türbe, şehrin merkezine yakındır ve ulaşım açısından kolaylık sağlar. Çevresinde, geniş otlaklar ve tarım alanları yer alır. İklim, İç Anadolu Bölgesi'nin karakteristik kara iklimi ile uyumludur. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bölgenin coğrafi yapıları,i açıdan önemli bir geçiş noktası olmasını sağlamıştır. Şeyh Eyüp Türbesi, bu coğrafi ve kültürel zenginliğin bir parçasıdır.
+Şeyh Eyüp Türbesi, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alır. Akşehir ilçesi, Konya ilinin merkezi ile arasında uzun bir mesafelik bir mesafe bulunur. Türbe, şehrin merkezine yakındır ve ulaşım açısından kolaylık sağlar. Çevresinde, geniş otlaklar ve tarım alanları yer alır. İklim, İç Anadolu Bölgesi'nin karakteristik kara iklimi ile uyumludur. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bölgenin coğrafi yapıları,i açıdan önemli bir geçiş noktası olmasını sağlamıştır. Şeyh Eyüp Türbesi, bu coğrafi ve kültürel zenginliğin bir parçasıdır.
 
 ## Flora ve Fauna
 

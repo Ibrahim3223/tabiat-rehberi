@@ -42,7 +42,7 @@ Güneybatı Anadolu'nun en güzel köşelerinden biri olan İzmir, 38.1867°K ve
 
 Doğal güzelliği ile ön plana çıkan Çubuklu Dağı, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu alan, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Dağın fiziksel yapısı, bölgenin jeolojik tarihini yansıtıyor. Ege Bölgesi'nin karmaşık jeolojisi, Çubuklu Dağı'nın oluşumunda etkili olmuş ve burada çeşitli kayaç türleri ortaya çıkmıştır.
 
-İzmir'in iklimi, Akdeniz ikliminin karakteristik özelliklerini taşıyor ve Çubuklu Dağı da bu iklimin etkisi altında. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumuna sahip. Çubuklu Dağı, bu mevsimsel özelliklere uyum gösteren bitki örtüsüne ev sahipliği yapıyor. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadar bir yükseklikte, ancak bu yükseklik, bölgenin doğal güzelliğini artıran önemli bir faktör.
+İzmir'in iklimi, Akdeniz ikliminin karakteristik özelliklerini taşıyor ve Çubuklu Dağı da bu iklimin etkisi altında. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumuna sahip. Çubuklu Dağı, bu mevsimsel özelliklere uyum gösteren bitki örtüsüne ev sahipliği yapıyor. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadar bir yükseklikte, ancak bu yükseklik, bölgenin doğal güzelliğini artıran önemli bir faktör.
 
 Çevresel açıdan bakıldığında, Çubuklu Dağı, İzmir'in doğal kaynaklarını koruma altına alan önemli bir alan. Dağın yakınında, various su kaynakları ve ekosistemler yer alıyor. Bu su kaynakları, bölgenin tarım ve hayvancılık faaliyetleri için önemli bir kaynak teşkil ediyor. Çubuklu Dağı, aynı zamanda, bölgedeki diğer doğal güzelliklerle bağlantılı bir ekosistem parçası olarak değerlendirilebilir.
 

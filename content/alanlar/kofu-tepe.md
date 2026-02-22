@@ -44,7 +44,7 @@ Doğunun gizli köşelerinde yer alan Kofu Tepe, 36.5000°K ve 29.8500°D koordi
 
 Jeolojik açıdan bakıldığında, Kofu Tepe'nin fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bu bölgenin coğrafi konumu ve çevresindeki diğer dağlar düşünüldüğünde, bu tepe de benzer jeolojik özelliklere sahip olabilir. Boyutları hakkında net bir veri olmamakla birlikte, bu tepeyi Monaco'nun küçük bir bölümü gibi düşünme mümkün, yani oldukça büyük bir alan değil, ama yine de önemli bir coğrafi oluşum.
 
-Mevsimler değiştiğinde, Kofu Tepe'nin iklim karakteri değişir. Yaz aylarında sıca ve kurak bir hava hakim olurken, kış aylarında ılıman bir iklim göze çarpar. Bu mevsimsel değişimler, tepe ve çevresindeki bitki örtüsünü ve hayvan yaşamını etkiler. Hava durumu da önemli bir faktördür, çünkü bölgenin coğrafi konumu nedeniyle, hava koşulları hızlı bir şekilde değişebilir.
+Mevsimler değiştiğinde, Kofu Tepe'nin iklim karakteri değişir. Yaz aylarında sıcak ve kurak bir hava hakim olurken, kış aylarında ılıman bir iklim göze çarpar. Bu mevsimsel değişimler, tepe ve çevresindeki bitki örtüsünü ve hayvan yaşamını etkiler. Hava durumu da önemli bir faktördür, çünkü bölgenin coğrafi konumu nedeniyle, hava koşulları hızlı bir şekilde değişebilir.
 
 Çevresel açıdan bakıldığında, Kofu Tepe diğer dağlar ve tepelerle birlikte bir ekosistem oluşturur. Bu bölgede yer alan su kaynakları, bitki örtüsü ve hayvan yaşamı, tepe ve çevresindeki diğer coğrafi oluşumlarla bağlantılıdır. Bu bağlantı, bölgenin doğal dengesini korur ve Kofu Tepe'nin bir parçası olduğu daha büyük bir ekosistemin var olmasına katkıda bulunur.
 
@@ -52,7 +52,7 @@ Mevsimler değiştiğinde, Kofu Tepe'nin iklim karakteri değişir. Yaz ayların
 
 Kofu Tepe, step bitki örtüsü ve bozkırın hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharda, dağ yamaçları renkli çiçeklerle donanıyor ve havayı aromatik kokularla dolduruyor. Sonbaharda ise, göç eden kuşlar dağların üzerinden geçerek yeni yaşam alanlarına ulaşıyor.
 
-Dağın yükseklik zonlarına göre değişen bitki örtüsü, alpin flora ile süsleniyor. Bu yükseklikte, kuraklığa adapte olan bitkiler hüküm sürüyor. Yaban hayatı da bu dağda çeşitlilik gösteriyor. Memeliler, dağların dik yamaçlarında yaşamını sürdürürken, kuşlar dağların üzerinde özgürce uçuyor. Sürüngenler ise, step bölgesinin sıca ve kuru topraklarında yaşamlarını devam ettiriyor.
+Dağın yükseklik zonlarına göre değişen bitki örtüsü, alpin flora ile süsleniyor. Bu yükseklikte, kuraklığa adapte olan bitkiler hüküm sürüyor. Yaban hayatı da bu dağda çeşitlilik gösteriyor. Memeliler, dağların dik yamaçlarında yaşamını sürdürürken, kuşlar dağların üzerinde özgürce uçuyor. Sürüngenler ise, step bölgesinin sıcak ve kuru topraklarında yaşamlarını devam ettiriyor.
 
 Kofu Tepe, ekolojik açıdan önemli bir bölge olarak koruma altına alınması gereken bir alan. Bu dağ ekosisteminin korunması, sadece burada yaşayan canlılar için değil, aynı zamanda bölgenin ekolojik dengesi için de çok önemli. Bu nedenle, Kofu Tepe'nin doğal güzelliğini koruma ve gelecek nesiller için yaşatmak, bizim elimizde.
 

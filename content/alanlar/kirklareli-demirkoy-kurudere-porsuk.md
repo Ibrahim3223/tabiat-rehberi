@@ -30,7 +30,7 @@ Kırklareli-Demirkoy-Kurudere-Porsuk milli parkının tarihi geçmişi, yüzyıl
 
 ## Coğrafya
 
-Kırklareli-Demirkoy-Kurudere-Porsuk milli parkı, Marmara Bölgesi'nde bulunan Kırklareli ilinin Demirköy ilçesinde yer alıyor. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş ve ferah bir ortam sunuyor. Milli parkın coğrafi konumu, Marmara Bölgesi'nin kuzeydoğusunda yer alıyor. Bu konum, milli parkın iklimini ve coğrafi yapısını etkiliyor. Milli parkın iklimi, Marmara Bölgesi'nin karakteristik iklimi ile benzerlik gösteriyor. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıcak ve kuru bir iklim hakim. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Milli parkın içinde, çeşitli bitki türleri ve hayvanlar bulunmakta.
+Kırklareli-Demirkoy-Kurudere-Porsuk milli parkı, Marmara Bölgesi'nde bulunan Kırklareli ilinin Demirköy ilçesinde yer alıyor. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş ve ferah bir ortam sunuyor. Milli parkın coğrafi konumu, Marmara Bölgesi'nin kuzeydoğusunda yer alıyor. Bu konum, milli parkın iklimini ve coğrafi yapısını etkiliyor. Milli parkın iklimi, Marmara Bölgesi'nin karakteristik iklimi ile benzerlik gösteriyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kuru bir iklim hakim. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Milli parkın içinde, çeşitli bitki türleri ve hayvanlar bulunmakta.
 
 ## Flora ve Fauna
 

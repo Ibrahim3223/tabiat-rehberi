@@ -38,7 +38,7 @@ Hızır Baba Türbesi, tarihi geçmişi ile dikkat çekmektedir. Yüzyıllar boy
 
 ## Coğrafya
 
-Hızır Baba Türbesi, Kırklareli ilinin merkezinde yer almaktadır. Türbenin çevresinde, 140 hektarlık yeşil alan, ziyaretçilere doğayı keşfetme fırsatı sunmaktadır. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Hızır Baba Türbesi, Marmara Bölgesi'nin coğrafi özelliklerini taşımaktadır. Bölgenin iklimi, karasal iklim özellikleri göstermektedir. Kışlar soğu ve yağışlı, yazlar sıca ve kurudur. Hızır Baba Türbesi, ziyaretçiler için yılın her döneminde ziyaret edilebilir bir destinasyondur. Türbenin yakınında, çeşitli restoran ve kafeler bulunmaktadır. Ziyaretçiler, burada geleneksel yemekleri tadabilir ve keyifli saatler geçirebilirler. Hızır Baba Türbesi, Kırklareli'nin en önemli turistik noktalarından biridir ve ziyaretçiler, burada hem dinî hem de kültürel bir expérience yaşayabilirler.
+Hızır Baba Türbesi, Kırklareli ilinin merkezinde yer almaktadır. Türbenin çevresinde, 140 hektarlık yeşil alan, ziyaretçilere doğayı keşfetme fırsatı sunmaktadır. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Hızır Baba Türbesi, Marmara Bölgesi'nin coğrafi özelliklerini taşımaktadır. Bölgenin iklimi, karasal iklim özellikleri göstermektedir. Kışlar soğuk ve yağışlı, yazlar sıcak ve kurudur. Hızır Baba Türbesi, ziyaretçiler için yılın her döneminde ziyaret edilebilir bir destinasyondur. Türbenin yakınında, çeşitli restoran ve kafeler bulunmaktadır. Ziyaretçiler, burada geleneksel yemekleri tadabilir ve keyifli saatler geçirebilirler. Hızır Baba Türbesi, Kırklareli'nin en önemli turistik noktalarından biridir ve ziyaretçiler, burada hem dinî hem de kültürel bir expérience yaşayabilirler.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Müslümankale Tepesi, yüzyıllar boyunca birçok uygarlığa ev sahipliği yap
 
 ## Coğrafya
 
-Müslümankale Tepesi, Ankara'nın coğrafi yapısı içinde önemli bir yer tutuyor. Bu tepe, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal karakterde. Yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlı geçiyor. Müslümankale Tepesi, bu coğrafi ve iklimsel özellikleri ile ziyaretçilerine benzersiz bir deneyim sunuyor. Tepenin manzarası, özellikle gün batımı saatlerinde, ziyaretçilere unutulmaz bir görsel şölen sunuyor.
+Müslümankale Tepesi, Ankara'nın coğrafi yapısı içinde önemli bir yer tutuyor. Bu tepe, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal karakterde. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçiyor. Müslümankale Tepesi, bu coğrafi ve iklimsel özellikleri ile ziyaretçilerine benzersiz bir deneyim sunuyor. Tepenin manzarası, özellikle gün batımı saatlerinde, ziyaretçilere unutulmaz bir görsel şölen sunuyor.
 
 ## Flora ve Fauna
 

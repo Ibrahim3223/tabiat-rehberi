@@ -44,7 +44,7 @@ Doğal güzellikleri ile dikkat çeken Elmalı Tepe, Çorum ilinin sınırları 
 
 Jeolojik açıdan bakıldığında, Elmalı Tepe'nin precise fiziksel özellikleri hakkında detalı bilgi bulunmasa da, genel olarak çevresindeki dağların yapısına benzerlik gösterdiği söylenebilir. Bu dağlar, genellikle kalker ve şist gibi kayalardan oluşmaktadır. Elmalı Tepe'nin boyutları, yaklaşık olarak bir şehir bloğu büyüklüğünde olabilir, ancak tam ölçülerini belirlemek için daha fazla veriye ihtiyaç vardır. Bu büyüklük, tepeyi çevreleyen vadilere nazaran göreceli olarak küçük bir alan olarak düşünülebilir.
 
-Mevsimsel özelliklerine baktığımızda, Elmalı Tepe'nin iklimi, İç Anadolu Bölgesi'nin genel karakterini taşır. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve kar yağışlı bir iklim hakimdir. Bu mevsimsel değişimler, tepe ve çevresindeki bitki örtüsünü etkiler ve çeşitli ekosistemlerin oluşmasına neden olur. Elmalı Tepe, çevresindeki su kaynaklarına yakınlığı ile de dikkat çeker. Bu su kaynakları, tepe ve çevresindeki ekosistemin canlılığını sağlar ve bölgenin doğal dengesini korur.
+Mevsimsel özelliklerine baktığımızda, Elmalı Tepe'nin iklimi, İç Anadolu Bölgesi'nin genel karakterini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve kar yağışlı bir iklim hakimdir. Bu mevsimsel değişimler, tepe ve çevresindeki bitki örtüsünü etkiler ve çeşitli ekosistemlerin oluşmasına neden olur. Elmalı Tepe, çevresindeki su kaynaklarına yakınlığı ile de dikkat çeker. Bu su kaynakları, tepe ve çevresindeki ekosistemin canlılığını sağlar ve bölgenin doğal dengesini korur.
 
 ## Flora ve Fauna
 

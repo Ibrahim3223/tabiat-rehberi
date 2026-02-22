@@ -38,7 +38,7 @@ Koza Hanı'nın tarihi geçmişi, yüzyıllar boyunca birçok önemli olaya sahn
 
 ## Coğrafya
 
-Koza Hanı, Bursa ilinin merkezinde yer almaktadır. Bu bölge, Marmara Bölgesi'nin en önemli coğrafi merkezlerinden biridir. Koza Hanı'nın coğrafi konumu, birçok önemli ulaşım yolunun kesişme noktasında bulunmaktadır. Bu bölge, deniz seviyesinden yaklaşık yüksek bir konumdate yer almaktadır. Koza Hanı'nın iklimi, Marmara Bölgesi'nin genel iklimine benzemektedir. Bu bölge, genellikle ılıman ve nemli bir iklimi sahiptir. Koza Hanı'nın coğrafi özellikleri, ziyaretçilerine birçok güzellik sunmaktadır. Bu bölge, birçok tarihi ve doğal güzelliğe ev sahipliği yapmaktadır.
+Koza Hanı, Bursa ilinin merkezinde yer almaktadır. Bu bölge, Marmara Bölgesi'nin en önemli coğrafi merkezlerinden biridir. Koza Hanı'nın coğrafi konumu, birçok önemli ulaşım yolunun kesişme noktasında bulunmaktadır. Bu bölge, yüksek bir konumda yer almaktadır. Koza Hanı'nın iklimi, Marmara Bölgesi'nin genel iklimine benzemektedir. Bu bölge, genellikle ılıman ve nemli bir iklimi sahiptir. Koza Hanı'nın coğrafi özellikleri, ziyaretçilerine birçok güzellik sunmaktadır. Bu bölge, birçok tarihi ve doğal güzelliğe ev sahipliği yapmaktadır.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Doğrudan Ankara'nın kalbinde yer alan Halakayası, 40.2258°K, 31.6383°D koor
 
 Jeolojik açıdan bakıldığında, Halakayası'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, Ankara'nın genel coğrafyası düşünüldüğünde, bu bölgenin de aynı jeolojik özelliklere sahip olduğu söylenebilir. Ankara'nın coğrafyası genellikle dağlık ve engebeli arazilerden oluşur ve Halakayası da bu dağlık yapının bir parçasını oluşturur. Bu dağ, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte değil, ancak Ankara'nın genel yüksekliklerine göre değerlendirildiğinde, önemli bir yükseklikte yer alır.
 
-İklim açısından, Halakayası Ankara'nın genel iklim karakterini paylaşır. Ankara, karasal iklimin hüküm sürdüğü bir bölgedir ve mevsimsel farklılıklar oldukça belirgindir. Kışlar soğu ve kar yağışlı, yazlar ise sıca ve kurudur. Halakayası da bu mevsimsel değişimlere tabi olarak, yıl boyunca farklı hava koşullarına maruz kalır.
+İklim açısından, Halakayası Ankara'nın genel iklim karakterini paylaşır. Ankara, karasal iklimin hüküm sürdüğü bir bölgedir ve mevsimsel farklılıklar oldukça belirgindir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Halakayası da bu mevsimsel değişimlere tabi olarak, yıl boyunca farklı hava koşullarına maruz kalır.
 
 Çevresel açıdan bakıldığında, Halakayası'nın komşu alanları genellikle ormanlık ve dağlık arazilerden oluşur. Bu dağ, Ankara'nın kuzeybatı kesimindeki diğer dağlarla birlikte, bir bütün olarak ele alındığında, Monaco'nun yarısı kadar bir alanı kaplar. Ayrıca, bu bölgede çeşitli su kaynakları ve ekosistem bağlantıları bulunur, ancak Halakayası özelinde bu tür detaylar hakkında bilgi bulunmamaktadır.
 

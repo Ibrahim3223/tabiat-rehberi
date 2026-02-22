@@ -30,7 +30,7 @@ Marmaris Cetibeli Sigla milli parkının tarihi geçmişi, bölgenin jeoloji ve 
 
 ## Coğrafya
 
-Marmaris Cetibeli Sigla, Ege Bölgesi'nin Muğla ilinde, Marmaris ilçesinde yer alıyor. Bu milli park, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Bölge, Akdeniz ikliminin etkisi altında ve genellikle sıca ve kurak yazlar, ılıman ve yağışlı kışlar görülüyor. Cetibeli Sigla, Ege Denizi'ne yakın bir konumda bulunuyor ve bu nedenle, bölgenin coğrafyası ve iklimi, denizel etkiler tarafından şekilleniyor. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunuyor: ormanlık alanlar, dağlar ve deniz manzaraları. Bu doğal güzellikler, ziyaretçilerin doğayla iç içe olmasını sağlıyor.
+Marmaris Cetibeli Sigla, Ege Bölgesi'nin Muğla ilinde, Marmaris ilçesinde yer alıyor. Bu milli park, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Bölge, Akdeniz ikliminin etkisi altında ve genellikle sıcak ve kurak yazlar, ılıman ve yağışlı kışlar görülüyor. Cetibeli Sigla, Ege Denizi'ne yakın bir konumda bulunuyor ve bu nedenle, bölgenin coğrafyası ve iklimi, denizel etkiler tarafından şekilleniyor. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunuyor: ormanlık alanlar, dağlar ve deniz manzaraları. Bu doğal güzellikler, ziyaretçilerin doğayla iç içe olmasını sağlıyor.
 
 ## Flora ve Fauna
 

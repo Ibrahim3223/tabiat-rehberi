@@ -36,7 +36,7 @@ Kaysan Tepesi'nin tarihi geçmişi, yüzyıllar boyunca farklı medeniyetlerin y
 
 ## Coğrafya
 
-Kaysan Tepesi, Manisa'nın Ege Bölgesi'nde yer alan bir tepe. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıda. Bu yükseklik, Kaysan Tepesi'ne, Manisa'nın panoramik manzarasını izleme olanağı sağlıyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna found. Kaysan Tepesi'nin iklimi, Ege Bölgesi'nin genel iklimine benzer. Yaz aylarında sıca ve kuru, kış aylarında ise serin ve yağışlı. Tepenin çevresinde, çeşitli su kaynakları ve akarsular bulunmakta. Bu su kaynakları, Kaysan Tepesi'nin flora ve faunasının zenginleşmesine katkıda bulunuyor.
+Kaysan Tepesi, Manisa'nın Ege Bölgesi'nde yer alan bir tepe. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıda. Bu yükseklik, Kaysan Tepesi'ne, Manisa'nın panoramik manzarasını izleme olanağı sağlıyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna found. Kaysan Tepesi'nin iklimi, Ege Bölgesi'nin genel iklimine benzer. Yaz aylarında sıcak ve kuru, kış aylarında ise serin ve yağışlı. Tepenin çevresinde, çeşitli su kaynakları ve akarsular bulunmakta. Bu su kaynakları, Kaysan Tepesi'nin flora ve faunasının zenginleşmesine katkıda bulunuyor.
 
 ## Flora ve Fauna
 

@@ -43,7 +43,7 @@ Doğal güzellikleri ve stratejik konumuyla, Ağı Dağı ve çevresindeki alanl
 
 Doğal güzelliği ile dikkat çeken Ağı Dağı, yaklaşık olarak 1200 hektarlık bir alanı kaplıyor. Bu alan, İstanbul'un Adalar ilçesi büyüklüğüne eşdeğer bir büyüklüğe sahip. Ağı Dağı'nın fiziksel yapısı, bölgenin jeolojik özelliklerini yansıtıyor. Ancak, detaylı fiziksel veriler bulunmamasına rağmen, bu dağın coğrafi konumu ve büyüklüğü, ziyaretçilere geniş bir doğal alan sunuyor.
 
-İklim karakteri açısından bakıldığında, Ağı Dağı, Akdeniz ikliminin etkilerini taşıyor. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu sergiliyor. Bu mevsimsel özellikler, Ağı Dağı'nın doğal güzelliğini farklı mevsimlerde farklı şekilde deneyimlemeyi mümkün kılıyor.
+İklim karakteri açısından bakıldığında, Ağı Dağı, Akdeniz ikliminin etkilerini taşıyor. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu sergiliyor. Bu mevsimsel özellikler, Ağı Dağı'nın doğal güzelliğini farklı mevsimlerde farklı şekilde deneyimlemeyi mümkün kılıyor.
 
 Çevresel açıdan bakıldığında, Ağı Dağı, komşu alanlar ve su kaynakları ile önemli bir ekosistem bağlantısına sahip. Bu dağ, bölgenin su kaynaklarını besleyen önemli bir doğal kaynak olarak görev yapıyor. Ayrıca, Ağı Dağı'nın çevresindeki ekosistem, zengin bir bitki ve hayvan çeşitliliğine ev sahipliği yapıyor. Bu nedenle, Ağı Dağı, hem doğal güzelliği hem de çevresel önemi ile dikkat çekiyor.
 
@@ -53,7 +53,7 @@ Ağı Dağı, Çanakkale'nin güzide bir köşesinde yer alan bir dağ ekosistem
 
 Bitki örtüsüne baktığımızda, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle donanıyor. Sonbaharda, yaprak döken ağaçlar sarı, turuncu ve kırmızı tonlarına bürünerek doğanın bir ressam gibi çalıştığına şahit oluyoruz. Dağın yükseklik zonlarına çıkıldıkça, alpin flora karşımıza çıkıyor.
 
-Yaban hayatı da bir o kadar zengin. Memeliler, dağların kaya oyuklarında ve ormanlık alanlarda yaşamlarını sürdürüyor. Kuşlar, özellikle sonbahar aylarında göçmen kuş rotalarının üzerinde yer alan Ağı Dağı'nı ziyaret ediyor. Sürüngenler de, dağların sıca ve kurak regionsinde yaşamını sürdürüyor. Bu canlıların yaşam alanları, dağ ekosisteminin çeşitliliği ve ekolojik dengesi için son derece önemli.
+Yaban hayatı da bir o kadar zengin. Memeliler, dağların kaya oyuklarında ve ormanlık alanlarda yaşamlarını sürdürüyor. Kuşlar, özellikle sonbahar aylarında göçmen kuş rotalarının üzerinde yer alan Ağı Dağı'nı ziyaret ediyor. Sürüngenler de, dağların sıcak ve kurak regionsinde yaşamını sürdürüyor. Bu canlıların yaşam alanları, dağ ekosisteminin çeşitliliği ve ekolojik dengesi için son derece önemli.
 
 ## Ziyaret Bilgileri
 

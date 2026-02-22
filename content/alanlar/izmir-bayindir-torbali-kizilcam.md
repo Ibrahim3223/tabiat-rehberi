@@ -30,7 +30,7 @@ Izmir-Bayindir-Torbali Kızılçam milli parkının tarihi geçmişi, yüzyılla
 
 ## Coğrafya
 
-Izmir-Bayindir-Torbali Kızılçam milli parkı, İç Anadolu Bölgesi'nde yer alıyor. Parkın coğrafi yapısı, çeşitli tepeler ve vadilerden oluşuyor. Bu tepeler, ziyaretçilere parkın farklı noktalarından manzaralar sunuyor. Vadiler ise, parkın içinde çeşitli yürüyüş yolları ve piknik alanları sunuyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kışları soğu ve kar yağışlı, yazları ise sıcak ve kurak geçer. Bu iklim, parkın flora ve faunasının zenginleşmesine katkıda bulunuyor. Parkın çevresi, çeşitli köyler ve kasabalarla çevrili. Bu köyler ve kasabalar, parkın doğal güzelliğini koruma altına almaya yardımcı oluyor.
+Izmir-Bayindir-Torbali Kızılçam milli parkı, İç Anadolu Bölgesi'nde yer alıyor. Parkın coğrafi yapısı, çeşitli tepeler ve vadilerden oluşuyor. Bu tepeler, ziyaretçilere parkın farklı noktalarından manzaralar sunuyor. Vadiler ise, parkın içinde çeşitli yürüyüş yolları ve piknik alanları sunuyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kışları soğuk ve kar yağışlı, yazları ise sıcak ve kurak geçer. Bu iklim, parkın flora ve faunasının zenginleşmesine katkıda bulunuyor. Parkın çevresi, çeşitli köyler ve kasabalarla çevrili. Bu köyler ve kasabalar, parkın doğal güzelliğini koruma altına almaya yardımcı oluyor.
 
 ## Flora ve Fauna
 

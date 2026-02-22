@@ -52,7 +52,7 @@ Mevsimsel değişikliklere baktığımızda, Ürmük Dağı'nın iklim karakteri
 
 Ürmük Dağı, Denizli'nin zeytinlikler ve çam ormanları ile çevrili bir bölgesinde yer alır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çeker. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle donanır. Çam ormanları, dağların eteklerinde hakim tür olarak bulunurken, daha yüksek zonlarda alpin flora çeşitliliği artar.
 
-Yaban hayatı da aynı derecede zenginlik gösterir. Memeliler ve kuşlar, dağların farklı yükseklik zonlarında yaşam alanlarını bulurlar. Sonbaharda, göç eden kuşlar dağların üzerinden geçer. Sürüngenler de, özellikle sıca ve kuru bölgelerde görülür. Bu ekosistemdeki canlılar, birbiriyle sıkı bir şekilde bağlantılıdır. Örneğin, bazı kuş türleri, çam ormanlarında yaşayan memelilerin avcısı olarak rol alır.
+Yaban hayatı da aynı derecede zenginlik gösterir. Memeliler ve kuşlar, dağların farklı yükseklik zonlarında yaşam alanlarını bulurlar. Sonbaharda, göç eden kuşlar dağların üzerinden geçer. Sürüngenler de, özellikle sıcak ve kuru bölgelerde görülür. Bu ekosistemdeki canlılar, birbiriyle sıkı bir şekilde bağlantılıdır. Örneğin, bazı kuş türleri, çam ormanlarında yaşayan memelilerin avcısı olarak rol alır.
 
 Ürmük Dağı, ekolojik açıdan önemli bir bölgedir. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve doğa dengesini korumak için çok önemlidir. Zeytinlikler ve çam ormanları, bölgenin karakteristik özelliklerini oluşturur ve bu dağ ekosisteminin bir parçası olarak görülür.
 

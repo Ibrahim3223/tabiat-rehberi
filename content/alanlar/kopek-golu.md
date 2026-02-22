@@ -42,7 +42,7 @@ Konya'nın kalbinde yer alan "Köpek Gölü", 38.7914°K ve 33.0203°D koordinat
 
 Doğal bir oluşum olan "Köpek Gölü", yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu küçük alan, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alan düşünüldüğünde, gölü nispeten küçük bir oluşum olarak tanımlayabiliriz. Ancak, gölün şekli ve jeolojisi hakkında daha fazla bilgi edinerek, bu doğal oluşumun gerçek boyutlarını ve özelliklerini daha iyi anlayabiliriz.
 
-İklim koşulları açısından, "Köpek Gölü" Konya'nın karakteristik iç Anadolu iklimine sahiptir. Bu bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir hava durumuna sahiptir. Gölün mevsimsel özelliklerini anlamak için, bu iklim koşullarının gölün su seviyesi ve ekosistemi üzerindeki etkilerini incelemek gerekir.
+İklim koşulları açısından, "Köpek Gölü" Konya'nın karakteristik iç Anadolu iklimine sahiptir. Bu bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir hava durumuna sahiptir. Gölün mevsimsel özelliklerini anlamak için, bu iklim koşullarının gölün su seviyesi ve ekosistemi üzerindeki etkilerini incelemek gerekir.
 
 Gölün çevresel ilişkileri, komşu alanlar ve su kaynakları açısından önemli bir role sahiptir. "Köpek Gölü", Konya'nın şehir merkezine yakın bir konumda yer alması nedeniyle, şehirdeki su kaynakları ve ekosistem bağlantıları ile bağlantılı olabilir. Gölün bu bağlantıları ve çevresel ilişkileri, gölü daha iyi anlama ve koruma altına almak için önemli bir araştırma konusudur.
 

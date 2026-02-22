@@ -30,7 +30,7 @@ Eskişehir-Kalabak Karacam milli parkının tarihi geçmişi, yüzyıllar boyunc
 
 ## Coğrafya
 
-Eskişehir-Kalabak Karacam milli parkı, Eskişehir ilinin merkezine uzun bir mesafe uzaklıkta bulunuyor. Parkın coğrafi yapısı, çeşitli bitki türleri ve hayvanlarla dolu. Bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Parkın içerisinde bulunan tepe ve vadiler, ziyaretçilere geniş bir görüş açısı sunuyor. Kalabak Karacam, Eskişehir'in coğrafi çeşitliliğini gözler önüne seren bir bölge. Parkın iklimi, karasal iklim özellikleri gösteriyor. Kışları soğu ve karlı, yazları sıca ve kurak geçiyor. Bu iklim özellikleri, parkın flora ve faunasını şekillendiriyor. Kalabak Karacam, Eskişehir'in coğrafi güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Eskişehir-Kalabak Karacam milli parkı, Eskişehir ilinin merkezine uzun bir mesafe uzaklıkta bulunuyor. Parkın coğrafi yapısı, çeşitli bitki türleri ve hayvanlarla dolu. Bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Parkın içerisinde bulunan tepe ve vadiler, ziyaretçilere geniş bir görüş açısı sunuyor. Kalabak Karacam, Eskişehir'in coğrafi çeşitliliğini gözler önüne seren bir bölge. Parkın iklimi, karasal iklim özellikleri gösteriyor. Kışları soğuk ve karlı, yazları sıcak ve kurak geçiyor. Bu iklim özellikleri, parkın flora ve faunasını şekillendiriyor. Kalabak Karacam, Eskişehir'in coğrafi güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Flora ve Fauna
 

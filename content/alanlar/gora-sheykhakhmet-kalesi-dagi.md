@@ -42,7 +42,7 @@ Mardin'in tarihi ve kültürel zenginliklerine ev sahipliği yapan Gora Sheykhak
 
 Doğal güzellikleri ve coğrafi çeşitliliği ile ön plana çıkan Gora Sheykhakhmet-Kalesi Dağı, Mardin'in coğrafi yapısını etkileyen önemli bir faktördür. Ancak, detaylı fiziksel verileri bulunmamasına rağmen, koordinatlarından hareketle, bu dağın Mardin'in toplam coğrafi yapısı içinde önemli bir yer tuttuğu söylenebilir. Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplayan bu dağ, Mardin'in şehir hayatına yakınlığı ile dikkat çekmektedir.
 
-İklim açısından Gora Sheykhakhmet-Kalesi Dağı, Mardin'in genel iklim karakterini yansıtmaktadır. Bölge, yazları sıca ve kurak, kışları ise soğu ve yağışlı bir iklimi sahiptir. Bu mevsimsel değişiklikler, dağın etrafındaki flora ve fauna üzerinde önemli etkilere sahiptir. Eiffel Kulesi'nin birkaç katı yükseklikte olan bu dağ, Mardin'in coğrafi yapısını ve iklimini şekillendirmektedir.
+İklim açısından Gora Sheykhakhmet-Kalesi Dağı, Mardin'in genel iklim karakterini yansıtmaktadır. Bölge, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı bir iklimi sahiptir. Bu mevsimsel değişiklikler, dağın etrafındaki flora ve fauna üzerinde önemli etkilere sahiptir. Eiffel Kulesi'nin birkaç katı yükseklikte olan bu dağ, Mardin'in coğrafi yapısını ve iklimini şekillendirmektedir.
 
 Çevresel açıdan Gora Sheykhakhmet-Kalesi Dağı, Mardin'in ekosistem bağlantılarını etkileyen önemli bir faktördür. Dağın etrafındaki su kaynakları ve komşu alanlar, bölgenin doğal dengesini korumak açısından önemlidir. Monaco'nun yarısı kadar bir alanı kaplayan Mardin, bu dağ ile birlikte, benzersiz bir coğrafi çeşitliliğe sahiptir. Bu çeşitlilik, bölgenin doğal güzelliklerini ve kültürel zenginliklerini korumak için önemlidir.
 

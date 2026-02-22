@@ -31,7 +31,7 @@ Mavikent'in tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge, geçm
 
 ## Coğrafya
 
-Mavikent, coğrafi olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, genel olarak, geniş otlaklarla ve dağlık arazilerle çevrili. Mavikent'in coğrafi yapısı, aynı zamanda, çeşitli bitki türlerinin ve hayvanların yaşamasına uygun koşullar sunuyor. Mavikent'in iklimi, İç Anadolu Bölgesi'nin tipik iklimine benzer, yani kışları soğu ve yazları sıcak. Bu bölgenin coğrafi özellikleri, ziyaretçilere, doğanın güzelliğini keşfetme fırsatı sunuyor. Mavikent, aynı zamanda, birçok nehir ve akarsuya ev sahipliği yapıyor, bu da, bu bölgenin su kaynaklarının zenginliğini gösteriyor. Mavikent'in coğrafi yapısı, aynı zamanda, ziyaretçilere, bu bölgenin neden önemli bir milli park olduğunu açıklıyor.
+Mavikent, coğrafi olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, genel olarak, geniş otlaklarla ve dağlık arazilerle çevrili. Mavikent'in coğrafi yapısı, aynı zamanda, çeşitli bitki türlerinin ve hayvanların yaşamasına uygun koşullar sunuyor. Mavikent'in iklimi, İç Anadolu Bölgesi'nin tipik iklimine benzer, yani kışları soğuk ve yazları sıcak. Bu bölgenin coğrafi özellikleri, ziyaretçilere, doğanın güzelliğini keşfetme fırsatı sunuyor. Mavikent, aynı zamanda, birçok nehir ve akarsuya ev sahipliği yapıyor, bu da, bu bölgenin su kaynaklarının zenginliğini gösteriyor. Mavikent'in coğrafi yapısı, aynı zamanda, ziyaretçilere, bu bölgenin neden önemli bir milli park olduğunu açıklıyor.
 
 ## Flora ve Fauna
 

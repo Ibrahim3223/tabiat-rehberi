@@ -30,7 +30,7 @@ Adana-Feke-Bahcecik Sedir'in tarihi geçmişi, yüzyıllar boyunca çeşitli med
 
 ## Coğrafya
 
-Adana-Feke-Bahcecik Sedir, Akdeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Bu bölge, dağlık ve ormanlık bir yapıya sahiptir. Bahcecik Sedir ormanları, 140 hektarlık bir yeşil alan üzerinde kurulmuştur. Bu ormanlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzelliği ile büyülemektedir. Bölgenin iklimi, Akdeniz iklimi özellikleri taşımaktadır. Yaz ayları sıca ve kurak, kış ayları ılık ve yağışlı geçmektedir. Bahcecik Sedir, coğrafi konumu itibariyle ziyaretçilerine çeşitli doğal güzellikler sunmaktadır. Bu bölge, doğa yürüyüşleri, pikni ve doğa fotoğrafçılığı için ideal bir destinasyon olarak kabul edilebilir.
+Adana-Feke-Bahcecik Sedir, Akdeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Bu bölge, dağlık ve ormanlık bir yapıya sahiptir. Bahcecik Sedir ormanları, 140 hektarlık bir yeşil alan üzerinde kurulmuştur. Bu ormanlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzelliği ile büyülemektedir. Bölgenin iklimi, Akdeniz iklimi özellikleri taşımaktadır. Yaz ayları sıcak ve kurak, kış ayları ılık ve yağışlı geçmektedir. Bahcecik Sedir, coğrafi konumu itibariyle ziyaretçilerine çeşitli doğal güzellikler sunmaktadır. Bu bölge, doğa yürüyüşleri, pikni ve doğa fotoğrafçılığı için ideal bir destinasyon olarak kabul edilebilir.
 
 ## Flora ve Fauna
 

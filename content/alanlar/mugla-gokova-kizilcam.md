@@ -30,7 +30,7 @@ Mugla-Gokova Kızılçam milli parkının tarihi geçmişi, yüzyıllar boyunca 
 
 ## Coğrafya
 
-Mugla-Gokova Kızılçam milli parkı, Muğla'nın Ege Bölgesi'nde yer alır. Bu bölge, 140 hektarlık bir yeşil alan üzerine kurulmuştur. Parkın coğrafi yapısı, kızılçam ağaçları ile kaplı bir araziye sahiptir. Bölgenin iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak yazları sıca ve kurak, kışları ılık ve yağışlı geçer. Bu iklim, parkın flora ve faunası için ideal koşulları sağlar. Milli parkın çevresi, doğal güzelliği ile dikkat çeken bir bölgedir. Parkın içinde yer alan yürüyüş yolları, ziyaretçilerin doğayı keşfetmesine olanak tanır.
+Mugla-Gokova Kızılçam milli parkı, Muğla'nın Ege Bölgesi'nde yer alır. Bu bölge, 140 hektarlık bir yeşil alan üzerine kurulmuştur. Parkın coğrafi yapısı, kızılçam ağaçları ile kaplı bir araziye sahiptir. Bölgenin iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak yazları sıcak ve kurak, kışları ılık ve yağışlı geçer. Bu iklim, parkın flora ve faunası için ideal koşulları sağlar. Milli parkın çevresi, doğal güzelliği ile dikkat çeken bir bölgedir. Parkın içinde yer alan yürüyüş yolları, ziyaretçilerin doğayı keşfetmesine olanak tanır.
 
 ## Flora ve Fauna
 

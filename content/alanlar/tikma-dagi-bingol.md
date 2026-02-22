@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Tikma Dağı, 41.3888°K enlem ve 42.671
 
 Jeolojik açıdan incelendiğinde, Tikma Dağı'nın coğrafi özellikleri hakkında detaylı bilgi bulunmasa da, bölgenin genel jeolojik yapısı dikkate alındığında, volkani ve sedimentatif kayaçlardan oluştuğu söylenebilir. Bu dağ, bölgenin diğer coğrafi oluşumlarıyla birlikte, binlerce yıllık jeolojik süreçlerin bir sonucu olarak şekillenmiştir.
 
-İklim açısından bakıldığında, Tikma Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir alan olarak karşımıza çıkıyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakim. Bu mevsimsel farklılıklar, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler arasında yer alıyor.
+İklim açısından bakıldığında, Tikma Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir alan olarak karşımıza çıkıyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakim. Bu mevsimsel farklılıklar, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler arasında yer alıyor.
 
 Tikma Dağı, çevresindeki diğer dağlar ve vadilerle birlikte, bölgenin ekosistemini şekillendiren önemli bir bileşen. Bu dağ, komşu alanlarla birlikte, su kaynaklarının oluşumunda ve bölgenin doğal dengesinin korunmasında önemli bir rol oynuyor. Aynı zamanda, bölgenin flora ve fauna çeşitliliğini destekleyen, önemli bir habitat olarak da görev yapıyor.
 

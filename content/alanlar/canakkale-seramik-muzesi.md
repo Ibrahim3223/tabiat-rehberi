@@ -38,7 +38,7 @@ wikidata_id: "Q131738785"
 
 ## Coğrafya
 
-Çanakkale Seramik Müzesi, Çanakkale ilinin merkezinde yer alıyor. Bu bölge, coğrafi konumu itibariyle, Ege Bölgesi'nin önemli kültür merkezlerinden biri. Müze, yaklaşık 140 hektarlık bir alanda kurulmuş ve geniş bir yeşil alan sunuyor. Çevresinde, çeşitli bitki türleri ve ağaçlar bulunuyor. İklimi, Ege Bölgesi'nin genel iklim özellikleri gösteriyor; yazları sıca ve kurak, kışları ılıman ve yağışlı geçiyor. Bu coğrafi konum, müzenin ziyaretçilerine doğal bir ortam sunuyor. Müzenin yapısı, tarihi ve kültürel değerlerin sergilendiği bir mimariyle tasarlanmış.
+Çanakkale Seramik Müzesi, Çanakkale ilinin merkezinde yer alıyor. Bu bölge, coğrafi konumu itibariyle, Ege Bölgesi'nin önemli kültür merkezlerinden biri. Müze, yaklaşık 140 hektarlık bir alanda kurulmuş ve geniş bir yeşil alan sunuyor. Çevresinde, çeşitli bitki türleri ve ağaçlar bulunuyor. İklimi, Ege Bölgesi'nin genel iklim özellikleri gösteriyor; yazları sıcak ve kurak, kışları ılıman ve yağışlı geçiyor. Bu coğrafi konum, müzenin ziyaretçilerine doğal bir ortam sunuyor. Müzenin yapısı, tarihi ve kültürel değerlerin sergilendiği bir mimariyle tasarlanmış.
 
 ## Flora ve Fauna
 

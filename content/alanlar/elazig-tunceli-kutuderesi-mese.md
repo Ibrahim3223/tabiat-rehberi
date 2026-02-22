@@ -30,7 +30,7 @@ Elazig-Tunceli-Kutuderesi Mese'nin tarihi geçmişi, yüzyıllar öncesine uzan�
 
 ## Coğrafya
 
-Elazig-Tunceli-Kutuderesi Mese, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, dağlık ve engebeli bir araziye sahip. 140 hektarlık milli park, çeşitli bitki türleriyle kaplı ve zengin bir fauna barındırıyor. İklim, karasal özellikleri gösteriyor; kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor. Çevre, doğal güzelliklerle dolu; akarsular, göller ve ormanlar bu bölgenin önemli coğrafi özellikleri arasında yer alıyor. Milli parkın coğrafi konumu, ziyaretçilere geniş bir faaliyet yelpazesi sunuyor. Doğa yürüyüşleri, kamp yapma, fotoğrafçılık ve doğa gözlemi gibi aktiviteler, bu bölgede yapabileceğiniz birçok şey arasında yer alıyor.
+Elazig-Tunceli-Kutuderesi Mese, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, dağlık ve engebeli bir araziye sahip. 140 hektarlık milli park, çeşitli bitki türleriyle kaplı ve zengin bir fauna barındırıyor. İklim, karasal özellikleri gösteriyor; kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Çevre, doğal güzelliklerle dolu; akarsular, göller ve ormanlar bu bölgenin önemli coğrafi özellikleri arasında yer alıyor. Milli parkın coğrafi konumu, ziyaretçilere geniş bir faaliyet yelpazesi sunuyor. Doğa yürüyüşleri, kamp yapma, fotoğrafçılık ve doğa gözlemi gibi aktiviteler, bu bölgede yapabileceğiniz birçok şey arasında yer alıyor.
 
 ## Flora ve Fauna
 

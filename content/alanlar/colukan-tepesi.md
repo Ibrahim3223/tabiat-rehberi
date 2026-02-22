@@ -36,7 +36,7 @@ Batman şehrinin güzide noktalarından biri olan Çolukan Tepesi, yaklaşık 14
 
 ## Coğrafya
 
-Çolukan Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi güzelliklerini bünyesinde barındırıyor. Tepenin eteklerinde yer alan köyler, çevredeki flora ve fauna, ziyaretçilere bölgenin doğal zenginliğini sunuyor. Çolukan Tepesi, Batman şehrinin merkezine yakın bir konumda yer alıyor ve ulaşımı kolay. Tepenin etrafını saran dağlar ve vadiler, manzarası ile ziyaretçileri büyülüyor. Bölgenin iklimi, yaz aylarında sıca ve kuru, kış aylarında soğu ve yağışlı. Çolukan Tepesi, yılın her dönemi ziyaret edilebilir, ancak ilkbahar ve sonbahar ayları en uygun ziyaret zamanları. Tepenin yüksekliği ve genişliği, ziyaretçilere bölgenin coğrafi güzelliklerini sunuyor ve trekking, doğa yürüyüşü gibi aktivitelere olanak sağlıyor.
+Çolukan Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi güzelliklerini bünyesinde barındırıyor. Tepenin eteklerinde yer alan köyler, çevredeki flora ve fauna, ziyaretçilere bölgenin doğal zenginliğini sunuyor. Çolukan Tepesi, Batman şehrinin merkezine yakın bir konumda yer alıyor ve ulaşımı kolay. Tepenin etrafını saran dağlar ve vadiler, manzarası ile ziyaretçileri büyülüyor. Bölgenin iklimi, yaz aylarında sıcak ve kuru, kış aylarında soğuk ve yağışlı. Çolukan Tepesi, yılın her dönemi ziyaret edilebilir, ancak ilkbahar ve sonbahar ayları en uygun ziyaret zamanları. Tepenin yüksekliği ve genişliği, ziyaretçilere bölgenin coğrafi güzelliklerini sunuyor ve trekking, doğa yürüyüşü gibi aktivitelere olanak sağlıyor.
 
 ## Flora ve Fauna
 

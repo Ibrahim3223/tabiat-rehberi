@@ -44,7 +44,7 @@ Kuzey Anadolu'nun güzide illerinden Sinop'un dağlık arazisinde yer alan Zinda
 
 Jeolojik açıdan incelendiğinde, Zindan Dağı'nın fiziksel yapısı hakkında elimizde detaylı bilgiler olmasa da, coğrafi olarak önemli bir nokta teşkil ettiği aşikar. Bu dağ, Sinop'un coğrafi yapısına önemli bir katkı sağlıyor ve bölgenin doğal dengesini koruyor. Monaco'nun yarısı kadar bir alanı kaplayan bu dağ, bölgenin coğrafi zenginliğini göstermesi açısından önemli bir örnek olarak karşımıza çıkıyor.
 
-Mevsimsel olarak incelendiğinde, Zindan Dağı'nın iklim karakteri, Karadeniz Bölgesi'nin tipik iklim özelliklerini taşıyor. Bu bölgede, yazları serin ve yağışlı, kışları ise soğu ve kar yağışlı geçiyor. Eiffel Kulesi'nin 2 katı yükseklikte olan bu dağ, mevsimsel değişimlere göre farklı hava koşullarına sahip oluyor.
+Mevsimsel olarak incelendiğinde, Zindan Dağı'nın iklim karakteri, Karadeniz Bölgesi'nin tipik iklim özelliklerini taşıyor. Bu bölgede, yazları serin ve yağışlı, kışları ise soğuk ve kar yağışlı geçiyor. Eiffel Kulesi'nin 2 katı yükseklikte olan bu dağ, mevsimsel değişimlere göre farklı hava koşullarına sahip oluyor.
 
 Doğal bir koridor olarak görev yapan Zindan Dağı, çevreye önemli bir etkide bulunuyor. Komşu alanlar, su kaynakları ve ekosistem bağlantıları açısından önemli bir nokta teşkil ediyor. İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplayan bu dağ, bölgenin ekolojik dengesini koruyor ve doğal güzelliğini sunuyor.
 

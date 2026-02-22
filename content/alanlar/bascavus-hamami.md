@@ -37,7 +37,7 @@ Başçavuş Hamamı'nın tarihi geçmişi, Yozgat ilinin tarihi ile paralellik g
 
 ## Coğrafya
 
-Başçavuş Hamamı, Yozgat ilinin coğrafi yapısı ile uyumlu olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşımaktadır. Plajın etrafında bulunan dağlar ve ovalar, ziyaretçilere geniş bir manzara sunmaktadır. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik göstermektedir. Kış mevsimi soğu ve kar yağışlı, yaz mevsimi ise sıcak ve kurudur. Bu iklim özellikleri, plajın çevresindeki flora ve faunayı etkilemektedir. Başçavuş Hamamı, çevresindeki doğal güzelliklerle birlikte, ziyaretçilere doğa ile iç içe bir gezi deneyimi sunmaktadır. Plajın coğrafi konumu, ziyaretçilere geniş bir gezi alanı sunmaktadır. Ziyaretçiler, plajın etrafında bulunan yürüyüş parkurlarını kullanarak, bölgenin doğal güzelliklerini keşfedebilirler.
+Başçavuş Hamamı, Yozgat ilinin coğrafi yapısı ile uyumlu olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşımaktadır. Plajın etrafında bulunan dağlar ve ovalar, ziyaretçilere geniş bir manzara sunmaktadır. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik göstermektedir. Kış mevsimi soğuk ve kar yağışlı, yaz mevsimi ise sıcak ve kurudur. Bu iklim özellikleri, plajın çevresindeki flora ve faunayı etkilemektedir. Başçavuş Hamamı, çevresindeki doğal güzelliklerle birlikte, ziyaretçilere doğa ile iç içe bir gezi deneyimi sunmaktadır. Plajın coğrafi konumu, ziyaretçilere geniş bir gezi alanı sunmaktadır. Ziyaretçiler, plajın etrafında bulunan yürüyüş parkurlarını kullanarak, bölgenin doğal güzelliklerini keşfedebilirler.
 
 ## Flora ve Fauna
 

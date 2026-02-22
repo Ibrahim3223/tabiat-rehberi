@@ -36,7 +36,7 @@ Dagok Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin 
 
 ## Coğrafya
 
-Dagok Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerine sahiptir. Bu tepe, bölgenin yüksekliklerine göre önemli bir noktadır. Çevresinde yer alan dağlar ve vadiler, bu tepenin coğrafi yapısını etkilemektedir. İklim olarak, bölgenin genel iklimine uygun olarak yazları sıca ve kışları soğuk geçmektedir. Bu tepe, Batman şehrinin önemli bir coğrafi noktası olarak bilinmektedir. Ayrıca, bu tepenin etrafında yer alan nehirler ve akarsular, bölgenin su kaynaklarını oluşturmaktadır. Dagok Tepesi, Batman'ın coğrafi yapısını anlamak için önemli bir noktadır.
+Dagok Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerine sahiptir. Bu tepe, bölgenin yüksekliklerine göre önemli bir noktadır. Çevresinde yer alan dağlar ve vadiler, bu tepenin coğrafi yapısını etkilemektedir. İklim olarak, bölgenin genel iklimine uygun olarak yazları sıcak ve kışları soğuk geçmektedir. Bu tepe, Batman şehrinin önemli bir coğrafi noktası olarak bilinmektedir. Ayrıca, bu tepenin etrafında yer alan nehirler ve akarsular, bölgenin su kaynaklarını oluşturmaktadır. Dagok Tepesi, Batman'ın coğrafi yapısını anlamak için önemli bir noktadır.
 
 ## Flora ve Fauna
 

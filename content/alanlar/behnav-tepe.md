@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Behnav Tepe, Siirt ilinin sınırları i
 
 Jeolojik açıdan bakıldığında, Behnav Tepe'nin fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, bölgenin genel coğrafi característicası, dağlık bir arazinin olduğunu gösteriyor. Bu dağlık alan, bir şehir bloğu büyüklüğünde düşünülse de, Siirt'in genel coğrafyası içerisinde önemli bir yer tutuyor. Behnav Tepe'nin yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte düşünülse, bu da yaklaşık 600-700 metre yükseklikte bir dağ olduğunu gösteriyor.
 
-İklim açısından bakıldığında, Behnav Tepe ve çevresi, Doğu Anadolu Bölgesi'nin karakteristik iklimini taşıyor. Bu bölgede, yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlı geçiyor. Behnav Tepe, mevsimsel olarak değişen hava koşullarına adapte olmuş bir ekosisteme sahip ve bu sayede, bölgede çeşitli bitki ve hayvan türleri barınıyor.
+İklim açısından bakıldığında, Behnav Tepe ve çevresi, Doğu Anadolu Bölgesi'nin karakteristik iklimini taşıyor. Bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçiyor. Behnav Tepe, mevsimsel olarak değişen hava koşullarına adapte olmuş bir ekosisteme sahip ve bu sayede, bölgede çeşitli bitki ve hayvan türleri barınıyor.
 
 Çevresel açıdan bakıldığında, Behnav Tepe, Siirt'in diğer doğal güzelliklerine yakın bir konumda bulunuyor. Bu dağ, bölgedeki su kaynakları ve ekosistem bağlantıları ile birlikte, bir doğal denge oluşturuyor. Behnav Tepe'nin komşu alanları, Monaco'nun yarısı kadar bir alanı kaplıyor ve bu bölgede, çeşitli doğal güzellikler ve tarihi yerler bulunüyor.
 

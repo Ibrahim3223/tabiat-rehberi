@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin gözde şehri Gaziantep'in hemen dışında, 37
 
 Jeolojik açıdan bakıldığında, Gökçe Dağ'ın yapısı hakkında detaylı bilgiler bulunmasa da, bölgenin genel coğrafi yapısı, Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölgede genellikle kalker, şist ve granit gibi kayalar görülür. Gökçe Dağ'ın yüksekliği hakkında da net bilgiler olmasa da, bölgenin coğrafi yapısı, Eiffel Kulesi'nin birkaç katı yükseklikte olan dağlarla dolu.
 
-Mevsimsel açıdan, Gökçe Dağ'ın bulunduğu bölge, karasal iklimin etkilerini gösterir. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna açısından zengin bir çeşitliliğe sahip olmasını sağlar. Gökçe Dağ'ın eteklerinde ve çevresinde, çeşitli bitki türleri ve hayvan popülasyonları, bu iklim koşullarına adapte olmuş şekilde yaşamlarını sürdürürler.
+Mevsimsel açıdan, Gökçe Dağ'ın bulunduğu bölge, karasal iklimin etkilerini gösterir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna açısından zengin bir çeşitliliğe sahip olmasını sağlar. Gökçe Dağ'ın eteklerinde ve çevresinde, çeşitli bitki türleri ve hayvan popülasyonları, bu iklim koşullarına adapte olmuş şekilde yaşamlarını sürdürürler.
 
 Doğal bir koridor olarak işlev gören Gökçe Dağ, çevresindeki ekosistemlerin bağlantısını sağlar. Bölgedeki su kaynakları, Gökçe Dağ'ın eteklerinden doğan ve Gaziantep'in su ihtiyacını karşılayan akarsular tarafından beslenir. Bu akarsular, aynı zamanda bölgenin tarım alanlarını sulayarak ekonomik açıdan da önemli bir rol oynar. Gökçe Dağ, Gaziantep'in doğal güzelliğinin ve ekonomik zenginliğinin önemli bir parçasıdır.
 

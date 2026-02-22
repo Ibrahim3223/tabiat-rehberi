@@ -36,7 +36,7 @@ Seregir Tepesi, tarihi geçmişiyle birlikte, ziyaretçilerini etkileyen bir yer
 
 ## Coğrafya
 
-Seregir Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısı içinde yer alır. Bu tepe, Siirt'in merkezine uzun bir mesafe uzaklıkta bulunur ve ulaşımı kolaydır. Seregir Tepesi, bölgenin iklimine uygun olarak, yazları sıca ve kışları soğuk bir havaya sahiptir. Bu tepe, çevre düzenlemesiyle birlikte, ziyaretçilerine güzel bir manzara sunar. Seregir Tepesi, bölgenin flora ve faunasını da barındırır. Bu tepe, çeşitli bitki türleri ve hayvanlarla birlikte, zengin bir ekosisteme sahiptir. Seregir Tepesi, bölgede yaşayan halkın da doğal kaynaklarını karşılar.
+Seregir Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısı içinde yer alır. Bu tepe, Siirt'in merkezine uzun bir mesafe uzaklıkta bulunur ve ulaşımı kolaydır. Seregir Tepesi, bölgenin iklimine uygun olarak, yazları sıcak ve kışları soğuk bir havaya sahiptir. Bu tepe, çevre düzenlemesiyle birlikte, ziyaretçilerine güzel bir manzara sunar. Seregir Tepesi, bölgenin flora ve faunasını da barındırır. Bu tepe, çeşitli bitki türleri ve hayvanlarla birlikte, zengin bir ekosisteme sahiptir. Seregir Tepesi, bölgede yaşayan halkın da doğal kaynaklarını karşılar.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ Aydul Baba Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bö
 
 ## Coğrafya
 
-Aydul Baba Türbesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genellikle step ve ormanlarla kaplıdır. Türbenin bulunduğu alan, 140 hektarlık bir yeşil alandır ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu alan, ziyaretçilerine geniş bir açık alan sunar. Aydul Baba Türbesi'nin coğrafi konumu, ziyaretçilerine geniş bir görüş açısı sunar. Burada, çevredeki dağlar, ormanlar ve diğer doğal güzellikler görülebilir. Bölgenin iklimi, genellikle karasal iklimdir. Kışlar soğuk, yazlar sıca ve kuraktır. Bu iklim, bölgenin doğal güzelliğini etkiler. Aydul Baba Türbesi, bu coğrafi ve iklimsel özellikleriyle birlikte, ziyaretçilerine benzersiz bir deneyim sunar.
+Aydul Baba Türbesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genellikle step ve ormanlarla kaplıdır. Türbenin bulunduğu alan, 140 hektarlık bir yeşil alandır ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu alan, ziyaretçilerine geniş bir açık alan sunar. Aydul Baba Türbesi'nin coğrafi konumu, ziyaretçilerine geniş bir görüş açısı sunar. Burada, çevredeki dağlar, ormanlar ve diğer doğal güzellikler görülebilir. Bölgenin iklimi, genellikle karasal iklimdir. Kışlar soğuk, yazlar sıcak ve kuraktır. Bu iklim, bölgenin doğal güzelliğini etkiler. Aydul Baba Türbesi, bu coğrafi ve iklimsel özellikleriyle birlikte, ziyaretçilerine benzersiz bir deneyim sunar.
 
 ## Flora ve Fauna
 

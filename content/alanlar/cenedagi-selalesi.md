@@ -29,7 +29,7 @@ Kocaeli'nin saklı güzelliği olan Çenedağı Şelalesi, Marmara Bölgesi'nin 
 
 ## Coğrafya
 
-Çenedağı Şelalesi, Kocaeli'nin merkezine uzun bir mesafe uzaklıkta, Marmara Bölgesi'nin en yeşil alanlarından birinde yer alır. Şelalenin çevresi, çeşitli ağaç türleriyle kaplı olup, özellikle kayın, çam ve meşe ağaçları bolca bulunur. Şelalenin yüksekliği 10 metre civarında olup, suyun şelaleden düşerken oluşturduğu ses, ziyaretçilere huzur dolu bir deneyim sunar. Çenedağı Şelalesi, özellikle ilkbahar ve sonbahar aylarında ziyaretçilerini ağırlar. Bu mevsimlerde, şelalenin çevresi rengarenk çiçeklerle donar ve ziyaretçilere büyüleyici bir manzara sunar. Şelalenin iklimi, Marmara Bölgesi'nin genel iklimine benzer olup, yaz aylarında sıca ve nemli, kış aylarında ise soğu ve yağışlıdır.
+Çenedağı Şelalesi, Kocaeli'nin merkezine uzun bir mesafe uzaklıkta, Marmara Bölgesi'nin en yeşil alanlarından birinde yer alır. Şelalenin çevresi, çeşitli ağaç türleriyle kaplı olup, özellikle kayın, çam ve meşe ağaçları bolca bulunur. Şelalenin yüksekliği 10 metre civarında olup, suyun şelaleden düşerken oluşturduğu ses, ziyaretçilere huzur dolu bir deneyim sunar. Çenedağı Şelalesi, özellikle ilkbahar ve sonbahar aylarında ziyaretçilerini ağırlar. Bu mevsimlerde, şelalenin çevresi rengarenk çiçeklerle donar ve ziyaretçilere büyüleyici bir manzara sunar. Şelalenin iklimi, Marmara Bölgesi'nin genel iklimine benzer olup, yaz aylarında sıcak ve nemli, kış aylarında ise soğuk ve yağışlıdır.
 
 ## Flora ve Fauna
 
@@ -45,4 +45,4 @@ Kocaeli'nin saklı güzelliği olan Çenedağı Şelalesi, Marmara Bölgesi'nin 
 - Şelalenin çevresi, çeşitli ağaç türleriyle kaplı olup, özellikle kayın, çam ve meşe ağaçları bolca bulunur.
 - Şelalenin yüksekliği 10 metre civarında olup, suyun şelaleden düşerken oluşturduğu ses, ziyaretçilere huzur dolu bir deneyim sunar.
 - Çenedağı Şelalesi, özellikle ilkbahar ve sonbahar aylarında ziyaretçilerini ağırlar.
-- Şelalenin iklimi, Marmara Bölgesi'nin genel iklimine benzer olup, yaz aylarında sıca ve nemli, kış aylarında ise soğu ve yağışlıdır.
+- Şelalenin iklimi, Marmara Bölgesi'nin genel iklimine benzer olup, yaz aylarında sıcak ve nemli, kış aylarında ise soğuk ve yağışlıdır.

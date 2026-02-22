@@ -36,7 +36,7 @@ Hanımeli Tepesi'nin tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev
 
 ## Coğrafya
 
-Hanımeli Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını temsil eden bir tepe. Bu tepe, bölgenin genel coğrafi özellikleri ile uyumlu olarak, dağlık bir araziye sahip. Tepenin çevresinde ve eteklerinde, çeşitli bitki türleri bulunuyor ve bu bitki türleri, tepe ve çevresinin ekolojisine önemli katkılar sağlıyor. Hanımeli Tepesi, Siirt ilinin merkezi ile uzun bir mesafe uzaklıkta yer alıyor ve tepeye ulaşım, il merkezinden sağlanabiliyor. Tepenin iklimi, bölgenin genel iklimi ile benzerlik gösteriyor ve yazları sıca ve kurak, kışları ise soğu ve yağışlı geçiyor. Bu iklim koşulları, tepe ve çevresinin flora ve faunasını etkileyen önemli faktörler.
+Hanımeli Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını temsil eden bir tepe. Bu tepe, bölgenin genel coğrafi özellikleri ile uyumlu olarak, dağlık bir araziye sahip. Tepenin çevresinde ve eteklerinde, çeşitli bitki türleri bulunuyor ve bu bitki türleri, tepe ve çevresinin ekolojisine önemli katkılar sağlıyor. Hanımeli Tepesi, Siirt ilinin merkezi ile uzun bir mesafe uzaklıkta yer alıyor ve tepeye ulaşım, il merkezinden sağlanabiliyor. Tepenin iklimi, bölgenin genel iklimi ile benzerlik gösteriyor ve yazları sıcak ve kurak, kışları ise soğuk ve yağışlı geçiyor. Bu iklim koşulları, tepe ve çevresinin flora ve faunasını etkileyen önemli faktörler.
 
 ## Flora ve Fauna
 

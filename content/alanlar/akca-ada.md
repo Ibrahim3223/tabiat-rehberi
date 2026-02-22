@@ -52,7 +52,7 @@ Ada çevresindeki ekosistem, su kaynakları ve komşu alanlarla bağlantılı ol
 
 ## Flora ve Fauna
 
-Akça Ada, İzmir'in kıyılarında yer alan bir ada ekosistemi olarak, step bitki örtüsü ve bozkırın hakim olduğu bir bölgeyi oluşturur. Bu kuraklığa adapte edilmiş türlerin yaşam alanı, ilkbaharın gelmesiyle birlikte renklenir. Ada, mevsimsel değişimlere göre farklı bir görünüm sunar; ilkbaharda çiçeklerin açtığı, yazın sıca ve kurak bir ortamın hakim olduğu, sonbaharda ise göçmen kuşların uğrak noktası haline gelir.
+Akça Ada, İzmir'in kıyılarında yer alan bir ada ekosistemi olarak, step bitki örtüsü ve bozkırın hakim olduğu bir bölgeyi oluşturur. Bu kuraklığa adapte edilmiş türlerin yaşam alanı, ilkbaharın gelmesiyle birlikte renklenir. Ada, mevsimsel değişimlere göre farklı bir görünüm sunar; ilkbaharda çiçeklerin açtığı, yazın sıcak ve kurak bir ortamın hakim olduğu, sonbaharda ise göçmen kuşların uğrak noktası haline gelir.
 
 Ada, çeşitli deniz kuşlarının yuvalanma alanı olup, kıyı bitkileri de bu ekosistemin önemli bir parçasını oluşturur. Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Bu canlılar, adanın izole popülasyonlarını oluşturur ve birbirleriyle ekolojik ilişkilere sahiptir. Ada ekosisteminin korunması, bu türlerin yaşamlarının devamlılığı açısından büyük önem taşır.
 

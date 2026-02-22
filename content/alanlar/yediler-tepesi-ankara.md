@@ -36,7 +36,7 @@ Yediler Tepesi'nin tarihi geçmişi, Ankara'nın tarihine paralel olarak gelişm
 
 ## Coğrafya
 
-Yediler Tepesi, Ankara'nın coğrafi yapısı içinde önemli bir yere sahiptir. Tepenin yüksekliği ve genişliği, burayı ziyaret edenlerin Ankara'nın panoramik manzarasını izlemesine olanak tanır. Tepenin etrafında bulunan köyler ve tarihi alanlar, burayı ziyaret edenlerin ilgisini çekmektedir. İç Anadolu Bölgesi'nin karakteristik coğrafi yapısına sahip olan Yediler Tepesi, step ve ormanlık alanların birleştiği bir bölgede yer almaktadır. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik göstermektedir. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçmektedir. Bu iklim koşulları, Yediler Tepesi'nin flora ve faunasını şekillendirmiştir.
+Yediler Tepesi, Ankara'nın coğrafi yapısı içinde önemli bir yere sahiptir. Tepenin yüksekliği ve genişliği, burayı ziyaret edenlerin Ankara'nın panoramik manzarasını izlemesine olanak tanır. Tepenin etrafında bulunan köyler ve tarihi alanlar, burayı ziyaret edenlerin ilgisini çekmektedir. İç Anadolu Bölgesi'nin karakteristik coğrafi yapısına sahip olan Yediler Tepesi, step ve ormanlık alanların birleştiği bir bölgede yer almaktadır. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik göstermektedir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçmektedir. Bu iklim koşulları, Yediler Tepesi'nin flora ve faunasını şekillendirmiştir.
 
 ## Flora ve Fauna
 

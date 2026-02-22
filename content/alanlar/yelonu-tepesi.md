@@ -36,7 +36,7 @@ Yelönü Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetler
 
 ## Coğrafya
 
-Yelönü Tepesi, Afyonkarahisar'ın Ege Bölgesi'nde yer alıyor ve coğrafi olarak oldukça zengin bir bölge. Tepenin etrafında, çeşitli bitki türleri ve ağaçlar yer alıyor ve bu bitkiler, tepenin doğal güzelliğini arttırıyor. Yelönü Tepesi, 140 hektarlık bir alanı kaplıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdate ve bu yükseklik, ziyaretçilere geniş bir manzara sunuyor. Yelönü Tepesi, etrafındaki köylerle birlikte, bir bütün olarak düşünülüyor ve bu köyler, tepenin doğal güzelliğini tamamlıyor. Tepenin coğrafi konumu, ziyaretçilere çeşitli aktivite seçenekleri sunuyor ve ziyaretçiler, bu aktivitelerden yararlanarak Yelönü Tepesi'nin güzelliğini keşfedebilirler. Yelönü Tepesi, coğrafi olarak zengin bir bölge ve ziyaretçiler, bu bölgeyi keşfetme fırsatı buluyor.
+Yelönü Tepesi, Afyonkarahisar'ın Ege Bölgesi'nde yer alıyor ve coğrafi olarak oldukça zengin bir bölge. Tepenin etrafında, çeşitli bitki türleri ve ağaçlar yer alıyor ve bu bitkiler, tepenin doğal güzelliğini arttırıyor. Yelönü Tepesi, 140 hektarlık bir alanı kaplıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği, yüksek bir konumda ve bu yükseklik, ziyaretçilere geniş bir manzara sunuyor. Yelönü Tepesi, etrafındaki köylerle birlikte, bir bütün olarak düşünülüyor ve bu köyler, tepenin doğal güzelliğini tamamlıyor. Tepenin coğrafi konumu, ziyaretçilere çeşitli aktivite seçenekleri sunuyor ve ziyaretçiler, bu aktivitelerden yararlanarak Yelönü Tepesi'nin güzelliğini keşfedebilirler. Yelönü Tepesi, coğrafi olarak zengin bir bölge ve ziyaretçiler, bu bölgeyi keşfetme fırsatı buluyor.
 
 ## Flora ve Fauna
 

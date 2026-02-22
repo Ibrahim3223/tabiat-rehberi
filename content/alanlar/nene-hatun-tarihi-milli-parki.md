@@ -37,7 +37,7 @@ Nene Hatun Tarihi Milli Parkı, adını 19. yüzyılda yaşamış ve 93 Harbi'nd
 
 ## Coğrafya
 
-Nene Hatun Tarihi Milli Parkı, Doğu Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiş. Parkın bulunduğu bölge, 1800-2000 metre yükseklikte yer alıyor. Bu yükseklik, parkın iklimini önemli ölçüde etkiliyor. Kış ayları soğu ve karlı, yaz ayları ise serin ve yağışlı geçiyor. Parkın coğrafi yapısı, ziyaretçilere geniş ve açık alanlar sunuyor.
+Nene Hatun Tarihi Milli Parkı, Doğu Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiş. Parkın bulunduğu bölge, 1800-2000 metre yükseklikte yer alıyor. Bu yükseklik, parkın iklimini önemli ölçüde etkiliyor. Kış ayları soğuk ve karlı, yaz ayları ise serin ve yağışlı geçiyor. Parkın coğrafi yapısı, ziyaretçilere geniş ve açık alanlar sunuyor.
 
 ## Flora ve Fauna
 

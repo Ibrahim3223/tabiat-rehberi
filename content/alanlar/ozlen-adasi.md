@@ -44,7 +44,7 @@ Gökyüzünde güneşin battığı anı hayal edin, 36.3140°K enlem ve 29.2400�
 
 Doğal güzelliği ile dikkat çeken Özlen Adası, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Ada, Ege Denizi'nin kristal suları ile çevrili ve bu sular, adanın sahillerini şekillendiren ana faktör. Jeolojik yapı hakkında detaylı bilgi olmasa da, adanın konumu ve Ege Denizi'nin genel özellikleri, adanın bir volkani veya kireçtaşı oluşumuna sahip olabileceğini düşündürüyor.
 
-Mevsimsel olarak, Özlen Adası, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve güneşli günler, kış aylarında ise ılıman ve yağışlı bir hava hakim. Bu mevsimsel değişimler, adanın doğal güzelliklerini ve flora-faunasını şekillendiriyor. Ada, çevreye duyarlı bir şekilde korunuyor ve bu sayede, ziyaretçiler yılın her dönemi adanın güzelliğini deneyimleyebiliyor.
+Mevsimsel olarak, Özlen Adası, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve güneşli günler, kış aylarında ise ılıman ve yağışlı bir hava hakim. Bu mevsimsel değişimler, adanın doğal güzelliklerini ve flora-faunasını şekillendiriyor. Ada, çevreye duyarlı bir şekilde korunuyor ve bu sayede, ziyaretçiler yılın her dönemi adanın güzelliğini deneyimleyebiliyor.
 
 Çevresel açıdan, Özlen Adası, Ege Denizi'nin ekosistemine önemli bir katkı sağlıyor. Ada, su kaynakları ve deniz canlıları için bir yaşam alanı sunuyor. Ayrıca, adanın komşu alanlar ile olan bağlantısı, bölgenin biyolojik çeşitliliğini zenginleştirmeye yardımcı oluyor. Bu nedenle, Özlen Adası, sadece bir turistik destinasyon değil, aynı zamanda bir doğal koruma alanı olarak da önem taşıyor.
 

@@ -44,7 +44,7 @@ Mardin'in coğrafi güzelliğiçinde yer alan Davpilki Tepe, 37.3992°K ve 41.05
 
 Davpilki Tepe'nin fiziksel yapısı, bölgeye özgü kireçtaşı ve kiltaşları gibi jeolojik oluşumları içeriyor. Ancak, tepe hakkında detaylı fiziksel veriler bulunmuyor. Buna rağmen, tepe ve çevresinin coğrafi özellikleri, bölgenin geniş ve çeşitli ekosistemini yansıtıyor. Örneğin, bir şehir bloğu büyüklüğünde olan bazı küçük vadiler, tepe eteklerinde yer alıyor.
 
-İklim açısından bakıldığında, Davpilki Tepe ve çevresinin karakteri, bölgenin genel iklim özellikleri ile uyumlu. Yazları sıca ve kurak, kışları ise soğu ve yağışlı geçen bir iklim hüküm sürüyor. Bu mevsimsel değişiklikler, tepe ve çevresinin flora ve fauna çeşitliliğini etkiliyor.
+İklim açısından bakıldığında, Davpilki Tepe ve çevresinin karakteri, bölgenin genel iklim özellikleri ile uyumlu. Yazları sıcak ve kurak, kışları ise soğuk ve yağışlı geçen bir iklim hüküm sürüyor. Bu mevsimsel değişiklikler, tepe ve çevresinin flora ve fauna çeşitliliğini etkiliyor.
 
 Son olarak, Davpilki Tepe'nin çevresel ilişkileri, komşu alanlar ve su kaynakları ile bağlantılı. Tepe, bölgenin önemli su kaynaklarına yakın bir konumda yer alıyor ve çevresindeki ekosistemlerle bağlantılı bir role sahip. Örneğin, tepe eteklerinde yer alan küçük akarsular, bölgenin sulak alanlarına ve tarımsal alanlarına su sağlıyor. Bu bağlantılar, tepe ve çevresinin ekolojik dengesini korumanın önemini vurguluyor.
 

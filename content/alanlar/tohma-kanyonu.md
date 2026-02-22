@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden biri olan Malatya, Tohma Kanyonu g
 
 Jeolojik açıdan bakıldığında, Tohma Kanyonu'nun oluşumu milyonlarca yıllık bir süreç sonucunda gerçekleşmiştir. Ancak, detaylı fiziksel veri bulunmaması nedeniyle kanyonun boyutları hakkında net bir fikir oluşmuyor. Buna rağmen, kanyonun bulunduğu bölge, Malatya'nın genel coğrafyasına bakıldığında, Beşiktaş ilçesi kadar bir alanı kaplayabilecek bir büyüklüğe sahip olabileceği düşünülebilir.
 
-İklim açısından, Tohma Kanyonu'nun bulunduğu bölge, Doğu Anadolu Bölgesi'nin karasal ikliminin etkilerini taşır. Kanyon, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve kar yağışlı bir hava durumuna sahiptir. Bu mevsimsel özellikler, kanyonun flora ve fauna çeşitliliğini etkiler. Eiffel Kulesi'nin 2 katı yükseklikte bir noktanın bulunduğu bu bölgede, hava koşulları oldukça değişken olabilir.
+İklim açısından, Tohma Kanyonu'nun bulunduğu bölge, Doğu Anadolu Bölgesi'nin karasal ikliminin etkilerini taşır. Kanyon, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve kar yağışlı bir hava durumuna sahiptir. Bu mevsimsel özellikler, kanyonun flora ve fauna çeşitliliğini etkiler. Eiffel Kulesi'nin 2 katı yükseklikte bir noktanın bulunduğu bu bölgede, hava koşulları oldukça değişken olabilir.
 
 Son olarak, Tohma Kanyonu'nun çevresel ilişkileri açısından bakıldığında, kanyonun su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahip olduğu görülür. Kanyon, çevresindeki diğer doğal alanlarla bağlantılı olarak, bir ekosistem olarak işlev görür. Monaco'nun yarısı kadar bir alanı kaplayabilecek bir bölgede yer alan Tohma Kanyonu, çevresindeki diğer doğal güzelliklerle birlikte, bölgenin ekolojik dengesini korur.
 

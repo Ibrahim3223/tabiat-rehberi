@@ -37,7 +37,7 @@ Kıztaşı Hamamı'nın tarihi geçmişi, İstanbul'un zengin kültür mirasın�
 
 ## Coğrafya
 
-Kıztaşı Hamamı, coğrafi olarak Marmara Bölgesi'nde, İstanbul'un Fatih ilçesinde yer alır. Bu bölge, deniz seviyesinden yaklaşık yüksek bir konumdate bulunur. Coğrafi yapısı itibariyle, genelde düzlük bir araziye sahiptir, ancak etrafındaki tepe ve vadiler ile birlikte çeşitlilik gösterir. İklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik gösterir, yani ılıman ve nemlidir. Bahar ve yaz aylarında sıcaklıklar artarken, kış aylarında soğumalar gözlemlenir. Çevresinde çeşitli bitki türleri ve fauna zenginliği bulunmaktadır. Bu coğrafi konum ve iklim, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini destekler.
+Kıztaşı Hamamı, coğrafi olarak Marmara Bölgesi'nde, İstanbul'un Fatih ilçesinde yer alır. Bu bölge, yüksek bir konumda bulunur. Coğrafi yapısı itibariyle, genelde düzlük bir araziye sahiptir, ancak etrafındaki tepe ve vadiler ile birlikte çeşitlilik gösterir. İklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik gösterir, yani ılıman ve nemlidir. Bahar ve yaz aylarında sıcaklıklar artarken, kış aylarında soğumalar gözlemlenir. Çevresinde çeşitli bitki türleri ve fauna zenginliği bulunmaktadır. Bu coğrafi konum ve iklim, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini destekler.
 
 ## Flora ve Fauna
 

@@ -42,7 +42,7 @@ Doğunun gizli köşelerinden biri olan Gavurdağları, 40.2167° kuzey enlemi v
 
 Jeolojik açıdan bakıldığında, Gavurdağları'nın yapısı hakkında detaylı bilgiler bulunmasa da, genel olarak Doğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, volkani ve sedimentolojik oluşumlarla kaplıdır. Gavurdağları, bir şehir bloğu büyüklüğünde bir alanı kaplar ve bu küçük ama önemli bir coğrafi oluşumdur.
 
-Mevsimsel değişiklikler açısından, Gavurdağları'nın iklimi, Doğu Anadolu Bölgesi'nin karasal ikliminin etkilerini taşır. Kış aylarında soğu ve karlı, yaz aylarında ise serin ve nemli bir hava hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler.
+Mevsimsel değişiklikler açısından, Gavurdağları'nın iklimi, Doğu Anadolu Bölgesi'nin karasal ikliminin etkilerini taşır. Kış aylarında soğuk ve karlı, yaz aylarında ise serin ve nemli bir hava hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler.
 
 Gavurdağları, çevresindeki diğer dağlık alanlarla birlikte, bölgenin ekosistemini oluşturan önemli bir bileşendir. Su kaynakları açısından, bölgede küçük dereler ve çaylar bulunur. Bu su kaynakları, bölgenin canlılarına yaşam alanı sağlar ve çevredeki ekosistemi besler. Gavurdağları, Monaco'nun küçük bir bölümü kadar bir alanı kaplar ve bu küçük alan, bölgenin doğal güzelliklerine önemli bir katkı sağlar.
 

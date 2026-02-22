@@ -42,7 +42,7 @@ Kayseri'nin coğrafi zenginliklerini keşfetmek isteyenler için Nohutluk Dağı
 
 Boyut olarak Nohutluk Dağı'nın tam ölçüsü bilinmese de, genel olarak bir şehir bloğu büyüklüğünde düşünülmesi mümkün. Bu alan, bir olimpik havuzun birkaç katı kadar bir büyüklüğe sahip ve bu ölçek, dağın çevresindeki diğer coğrafi oluşumlarla karşılaştırıldığında daha iyi anlaşılabilir. Jeolojik açıdan, Nohutluk Dağı'nın yapısı ve oluşumu, bölgenin genel jeolojik karakterini yansıtmaktadır.
 
-Mevsimsel değişikliklere bakıldığında, Nohutluk Dağı'nın iklim karakteri Kayseri'nin genel iklimine benzerlik göstermektedir. İlkbahar ve sonbahar aylarında ılıman bir hava hakim olurken, kış aylarında soğu ve kar yağışlı bir hava hüküm sürmektedir. Yaz aylarında ise sıcaklık artmakta ve kurak bir dönem başlamaktadır. Bu mevsimsel özellikler, dağın ekosistemini ve bitki örtüsünü etkilemektedir.
+Mevsimsel değişikliklere bakıldığında, Nohutluk Dağı'nın iklim karakteri Kayseri'nin genel iklimine benzerlik göstermektedir. İlkbahar ve sonbahar aylarında ılıman bir hava hakim olurken, kış aylarında soğuk ve kar yağışlı bir hava hüküm sürmektedir. Yaz aylarında ise sıcaklık artmakta ve kurak bir dönem başlamaktadır. Bu mevsimsel özellikler, dağın ekosistemini ve bitki örtüsünü etkilemektedir.
 
 Nohutluk Dağı, çevresindeki diğer coğrafi oluşumlarla birlikte bir bütünü oluşturuyor ve su kaynakları, ekosistem bağlantıları açısından önemli bir role sahip. Dağın yakınında bulunan su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılamaktadır. Ayrıca, dağın bitki örtüsü ve fauna çeşitliliği, bölgenin biyolojik zenginliğini artırmaktadır. Bu bağlamda, Nohutluk Dağı'nın korunması ve sürdürülebilir kullanımı, bölgenin ekolojik dengesini korumak için önemlidir.
 

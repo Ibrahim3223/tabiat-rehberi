@@ -38,7 +38,7 @@ Gülbahar Hatun Camii'nin tarihi, Trabzon'un tarihi geçmişiyle yakından bağl
 
 ## Coğrafya
 
-Gülbahar Hatun Camii, Trabzon'un merkezi bölgesinde yer almaktadır. Şehrin coğrafi konumu, Karadeniz Bölgesi'nin kuzeydoğu kesiminde, deniz seviyesinden yaklaşık yüksek bir konumdate bulunmaktadır. Cami, şehrin ana caddelerinden biri olan Trabzon Caddesi üzerinde yer almakta ve ziyaretçilerin kolayca ulaşabileceği bir konuma sahiptir. Trabzon'un iklimi, Karadeniz iklimi özellikleri taşımakta ve yıl boyunca ılıman ve yağışlı bir hava görülmektedir. Cami, şehrin diğer tarihi yapılarıyla birlikte, Trabzon'un coğrafi ve kültürel zenginliklerini ziyaretçilere sunmaktadır. 180 hektarlık bir alanda yer alan cami ve çevresindeki tarihi yapılar, şehrin coğrafi ve kültürel kimliğini yansıtmaktadır.
+Gülbahar Hatun Camii, Trabzon'un merkezi bölgesinde yer almaktadır. Şehrin coğrafi konumu, Karadeniz Bölgesi'nin kuzeydoğu kesiminde, yüksek bir konumda bulunmaktadır. Cami, şehrin ana caddelerinden biri olan Trabzon Caddesi üzerinde yer almakta ve ziyaretçilerin kolayca ulaşabileceği bir konuma sahiptir. Trabzon'un iklimi, Karadeniz iklimi özellikleri taşımakta ve yıl boyunca ılıman ve yağışlı bir hava görülmektedir. Cami, şehrin diğer tarihi yapılarıyla birlikte, Trabzon'un coğrafi ve kültürel zenginliklerini ziyaretçilere sunmaktadır. 180 hektarlık bir alanda yer alan cami ve çevresindeki tarihi yapılar, şehrin coğrafi ve kültürel kimliğini yansıtmaktadır.
 
 ## Flora ve Fauna
 

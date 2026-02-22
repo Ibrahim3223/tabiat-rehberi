@@ -44,7 +44,7 @@ Mardin'in coğrafi güzelliği, Gölüşk Tepe'nin bulunduğu bölgede de kendin
 
 Doğal güzelliği ve jeolojik yapısıyla dikkat çeken Gölüşk Tepe, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu küçük ama önemli alan, Mardin'in tarihi ve kültürel zenginliklerini yansıtan bir bölgede yer alır. Gölüşk Tepe'nin yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadardır. Bu yükseklik, ziyaretçilere bölgenin geniş panoramasını sunar.
 
-İklim açısından bakıldığında, Gölüşk Tepe ve çevresindeAkdeniz ikliminin özellikleri görülür. Yaz aylarında sıca ve kuru, kış aylarında ise soğu ve yağışlı bir hava hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler. Gölüşk Tepe, bu iklim koşullarına uyum gösteren çeşitli bitki ve hayvan türlerine ev sahipliği yapar.
+İklim açısından bakıldığında, Gölüşk Tepe ve çevresindeAkdeniz ikliminin özellikleri görülür. Yaz aylarında sıcak ve kuru, kış aylarında ise soğuk ve yağışlı bir hava hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler. Gölüşk Tepe, bu iklim koşullarına uyum gösteren çeşitli bitki ve hayvan türlerine ev sahipliği yapar.
 
 Çevresel açıdan, Gölüşk Tepe, Mardin'in diğer doğal güzellikleriyle bağlantılı bir ekosistem dentro yer alır. Bölge, su kaynakları ve komşu alanlarla birlikte bir bütünü oluşturur. Gölüşk Tepe, Monaco'nun küçük bir bölümü kadar bir alanı kaplayan bir bölge olarak, bölgenin doğal dengesini koruma altına almaya yardımcı olur. Bu doğal denge, bölgenin ekolojik zenginliğini korur ve gelecek nesiller için önemli bir miras olarak kalır.
 

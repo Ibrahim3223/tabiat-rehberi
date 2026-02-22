@@ -45,7 +45,7 @@ Doğal güzelliklerin bir araya geldiği Tödürge Gölü, 39.8825°K, 37.5998°
 
 Jeolojik açıdan bakıldığında, Tödürge Gölü'nün fiziksel yapısı hakkında detaylı bilgi bulunmuyor. Ancak, gölün bulunduğu bölge, genel olarak Sivas'ın jeolojik yapısına benzerlik gösteriyor. Bu bölge, genellikle volkanik kayaçlardan oluşuyor ve yer allüvyonlu ovalara rastlanıyor. Gölün boyutları hakkında kesin bir bilgi olmasa da, Sivas ilinin toplam yüzölçümünün küçük bir bölümünü kapsıyor.
 
-Mevsimsel değişimler, Tödürge Gölü'nü önemli ölçüde etkiliyor. İlkbahar ve yaz aylarında, bölgede genellikle sıca ve kurak bir hava hakimken, sonbahar ve kış aylarında soğuyan hava, gölün su seviyesini etkileyebiliyor. Gölün su seviyesi, yağış miktarına bağlı olarak değişkenlik gösteriyor. Bu durum, gölün ekosistemi üzerinde önemli bir rol oynuyor.
+Mevsimsel değişimler, Tödürge Gölü'nü önemli ölçüde etkiliyor. İlkbahar ve yaz aylarında, bölgede genellikle sıcak ve kurak bir hava hakimken, sonbahar ve kış aylarında soğuyan hava, gölün su seviyesini etkileyebiliyor. Gölün su seviyesi, yağış miktarına bağlı olarak değişkenlik gösteriyor. Bu durum, gölün ekosistemi üzerinde önemli bir rol oynuyor.
 
 Tödürge Gölü, çevresindeki ekosistemi zenginleştiren önemli bir su kaynağı. Göl, yakınlarında bulunan köyler ve kasabalar için hem sulama hem de içme suyu kaynağı olarak kullanılıyor. Ayrıca, gölün etrafındaki otlaklar, bölgede yaşayan hayvanlar için önemli bir besin kaynağı görevi görüyor. Bu nedenle, Tödürge Gölü, bölgedeki doğa dengesini korumak için önemli bir rol oynuyor.
 

@@ -36,7 +36,7 @@ Kurusırt Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetle
 
 ## Coğrafya
 
-Kurusırt Tepesi, Doğu Anadolu Bölgesi'nin coğrafi olarak en önemli noktalarından biridir. 2400 metrelik yüksekliği ile bölgenin en yüksek noktalarından biri olan bu tepe, Erzurum'un merkezine uzun bir mesafe uzaklıkta yer alır. Tepenin eteklerinde yer alan vadiler ve dere yatakları, bölgenin su kaynaklarını oluşturur ve çevreyi yeşillendirir. Kurusırt Tepesi'nin coğrafi özellikleri, bölgenin iklimini da etkilemektedir. Tepenin yüksekliği ve çevredeki dağlar, bölgenin yağışlarını ve sıcaklık derecesini belirler. Bölge, yaz aylarında serin ve yağışlı, kış aylarında ise soğu ve karlı bir iklimi sahiptir. Kurusırt Tepesi'nin coğrafi özellikleri, ziyaretçilerine doğal güzellikler sunarken, aynı zamanda da bölgenin ekolojik dengesini korumak için önemlidir.
+Kurusırt Tepesi, Doğu Anadolu Bölgesi'nin coğrafi olarak en önemli noktalarından biridir. 2400 metrelik yüksekliği ile bölgenin en yüksek noktalarından biri olan bu tepe, Erzurum'un merkezine uzun bir mesafe uzaklıkta yer alır. Tepenin eteklerinde yer alan vadiler ve dere yatakları, bölgenin su kaynaklarını oluşturur ve çevreyi yeşillendirir. Kurusırt Tepesi'nin coğrafi özellikleri, bölgenin iklimini da etkilemektedir. Tepenin yüksekliği ve çevredeki dağlar, bölgenin yağışlarını ve sıcaklık derecesini belirler. Bölge, yaz aylarında serin ve yağışlı, kış aylarında ise soğuk ve karlı bir iklimi sahiptir. Kurusırt Tepesi'nin coğrafi özellikleri, ziyaretçilerine doğal güzellikler sunarken, aynı zamanda da bölgenin ekolojik dengesini korumak için önemlidir.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ Kurusırt Tepesi'ni ziyaret etmek, doğa severler ve macera tutkunları için bi
 
 - Kurusırt Tepesi, 2400 metrelik yüksekliği ile bölgenin en yüksek noktalarından biridir.
 - Tepenin eteklerinde yer alan vadiler ve dere yatakları, bölgenin su kaynaklarını oluşturur.
-- Bölge, yaz aylarında serin ve yağışlı, kış aylarında ise soğu ve karlı bir iklimi sahiptir.
+- Bölge, yaz aylarında serin ve yağışlı, kış aylarında ise soğuk ve karlı bir iklimi sahiptir.
 - Kurusırt Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekicidir.
 - Tepenin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin yerleşim yerleri olarak kullanılmıştır.

@@ -38,7 +38,7 @@ Ortaköy Camii'nin tarihi geçmişi, 18. yüzyıla kadar uzanmaktadır. Cami, Su
 
 ## Coğrafya
 
-Ortaköy Camii, Beşiktaş ilçesinin Ortaköy semtinde, Boğaz'ın kıyısında yer almaktadır. Cami, deniz seviyesinden yaklaşık yüksek bir konumdate kurulmuştur. Caminin bulunduğu bölge, doğal güzelliği ile dikkat çekmektedir. Boğaz'ın kıyısında yer alan cami, manzarası ile ziyaretçilerini büyülemektedir. Cami çevresinde, çeşitli restoranlar, cafes ve dükkanlar yer almaktadır. Bu bölgede, ziyaretçiler hem camiyi ziyaret hem de çevreyi keşfedebilirler. Ortaköy Camii'nin coğrafi konumu, ziyaretçilerin kolayca ulaşabileceği bir yerdedir.
+Ortaköy Camii, Beşiktaş ilçesinin Ortaköy semtinde, Boğaz'ın kıyısında yer almaktadır. Cami, yüksek bir konumda kurulmuştur. Caminin bulunduğu bölge, doğal güzelliği ile dikkat çekmektedir. Boğaz'ın kıyısında yer alan cami, manzarası ile ziyaretçilerini büyülemektedir. Cami çevresinde, çeşitli restoranlar, cafes ve dükkanlar yer almaktadır. Bu bölgede, ziyaretçiler hem camiyi ziyaret hem de çevreyi keşfedebilirler. Ortaköy Camii'nin coğrafi konumu, ziyaretçilerin kolayca ulaşabileceği bir yerdedir.
 
 ## Flora ve Fauna
 

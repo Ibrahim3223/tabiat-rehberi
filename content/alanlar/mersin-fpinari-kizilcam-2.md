@@ -30,7 +30,7 @@ Mersin-F.Pinari Kızılçam 2 milli parkının tarihi geçmişi, bölgeye özgü
 
 ## Coğrafya
 
-Mersin-F.Pinari Kızılçam 2 milli parkı, Akdeniz Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve ormanlık bir bölgede yer alıyor. Milli parkın coğrafi konumu, ziyaretçilerine çeşitli flora ve fauna türlerini gözlemleme fırsatı sunuyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Mersin'in doğal güzellikleri arasında önemli bir yer tutuyor. Milli parkın coğrafi yapısı, ziyaretçilere doğanın güzelliği ile baş başa kalma fırsatı sunuyor. Dağlık ve ormanlık bölgede yer alan milli park, aynı zamanda önemli bir ekosistem olarak koruma altına alınmıştır. Milli parkın iklimi, Akdeniz iklimine uygun olarak, sıca ve kuru yazlar ile ılık ve yağışlı kışlar ile karakterizedir.
+Mersin-F.Pinari Kızılçam 2 milli parkı, Akdeniz Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve ormanlık bir bölgede yer alıyor. Milli parkın coğrafi konumu, ziyaretçilerine çeşitli flora ve fauna türlerini gözlemleme fırsatı sunuyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Mersin'in doğal güzellikleri arasında önemli bir yer tutuyor. Milli parkın coğrafi yapısı, ziyaretçilere doğanın güzelliği ile baş başa kalma fırsatı sunuyor. Dağlık ve ormanlık bölgede yer alan milli park, aynı zamanda önemli bir ekosistem olarak koruma altına alınmıştır. Milli parkın iklimi, Akdeniz iklimine uygun olarak, sıcak ve kuru yazlar ile ılık ve yağışlı kışlar ile karakterizedir.
 
 ## Flora ve Fauna
 
@@ -46,4 +46,4 @@ Mersin-F.Pinari Kızılçam 2 milli parkını ziyaret etmek, doğanın güzelli�
 - Milli park, Akdeniz Bölgesi'nin önemli doğal alanlarından biridir.
 - Milli parkın flora ve fauna çeşitliliği, mevsimsel değişimlere göre değişkenlik gösterir.
 - Milli park, önemli bir ekosistem olarak koruma altına alınmıştır.
-- Milli parkın iklimi, Akdeniz iklimine uygun olarak, sıca ve kuru yazlar ile ılık ve yağışlı kışlar ile karakterizedir.
+- Milli parkın iklimi, Akdeniz iklimine uygun olarak, sıcak ve kuru yazlar ile ılık ve yağışlı kışlar ile karakterizedir.

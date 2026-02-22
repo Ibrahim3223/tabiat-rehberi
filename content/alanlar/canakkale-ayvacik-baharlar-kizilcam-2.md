@@ -30,7 +30,7 @@ Canakkale-Ayvacik-Baharlar Kızılçam 2 milli parkının tarihi geçmişi, yüz
 
 ## Coğrafya
 
-Canakkale-Ayvacik-Baharlar Kızılçam 2 milli parkı, Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. Bölge, genellikle engebeli arazilerden oluşuyor ve yükseltilerle çevrili. Milli parkın coğrafyası, ziyaretçilere çeşitli manzaralar sunuyor. Parkın içinde ve çevresinde, çeşitli bitki türleri ve yaban hayatının çeşitliliği dikkat çekiyor. İklim olarak, bölgede karasal iklim özellikleri hakim. Kış ayları soğu ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Çevre, milli parkın doğal güzelliklerini koruma altına almak için önemli bir role sahip. Milli parkın coğrafyası, ziyaretçilere çeşitli aktiviteler ve keşif fırsatları sunuyor.
+Canakkale-Ayvacik-Baharlar Kızılçam 2 milli parkı, Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. Bölge, genellikle engebeli arazilerden oluşuyor ve yükseltilerle çevrili. Milli parkın coğrafyası, ziyaretçilere çeşitli manzaralar sunuyor. Parkın içinde ve çevresinde, çeşitli bitki türleri ve yaban hayatının çeşitliliği dikkat çekiyor. İklim olarak, bölgede karasal iklim özellikleri hakim. Kış ayları soğuk ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Çevre, milli parkın doğal güzelliklerini koruma altına almak için önemli bir role sahip. Milli parkın coğrafyası, ziyaretçilere çeşitli aktiviteler ve keşif fırsatları sunuyor.
 
 ## Flora ve Fauna
 

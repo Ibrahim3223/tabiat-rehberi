@@ -37,7 +37,7 @@ Kapan Tepesi'nin tarihi geçmişi, Diyarbakır'ın tarihi ile iç içe geçmiş 
 
 ## Coğrafya
 
-Kapan Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölge. Tepenin yüksekliği, şehrin panoramik manzarasının keyfini çıkarmak için ideal bir nokta sunuyor. Etrafında yer alan tarihi yapılar ve yeşil alanlar, tepeye ayrı bir güzellik katıyor. Bölgenin iklimi, Güneydoğu Anadolu'nun karakteristik iklimine uygun olarak yazları sıca ve kurak, kışları ise ılıman ve yağışlı geçiyor. Kapan Tepesi, çevre bölgelerin coğrafi özellikleri ile de uyum içinde. Tepenin eteklerinde, şehrin önemli suyolları ve yeşil alanları yer alıyor. Bu nedenle, Kapan Tepesi hem şehir içi hem de bölgesel coğrafya açısından önemli bir nokta.
+Kapan Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölge. Tepenin yüksekliği, şehrin panoramik manzarasının keyfini çıkarmak için ideal bir nokta sunuyor. Etrafında yer alan tarihi yapılar ve yeşil alanlar, tepeye ayrı bir güzellik katıyor. Bölgenin iklimi, Güneydoğu Anadolu'nun karakteristik iklimine uygun olarak yazları sıcak ve kurak, kışları ise ılıman ve yağışlı geçiyor. Kapan Tepesi, çevre bölgelerin coğrafi özellikleri ile de uyum içinde. Tepenin eteklerinde, şehrin önemli suyolları ve yeşil alanları yer alıyor. Bu nedenle, Kapan Tepesi hem şehir içi hem de bölgesel coğrafya açısından önemli bir nokta.
 
 ## Flora ve Fauna
 

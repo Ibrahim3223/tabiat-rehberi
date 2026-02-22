@@ -42,7 +42,7 @@ Doğu Anadolu Bölgesi'nin en uzak köşesinde, Tunceli ilinin sınırları içi
 
 Jeolojik açıdan bakıldığında, Kırmızı Dağ'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, koordinatlarından hareketle, bu dağın Tunceli ilinin kuzeydoğu kesiminde, Munzur Dağları silsilesinin bir parçası olarak yer aldığını söyleyebiliriz. Bu bölge, geniş ve dalgalı arazilerle kaplıdır, ancak bir boyut bilgisi olmadan, bu alanın büyüklüğünü tam olarak tanımlama mümkün değildir.
 
-İklim açısından, Kırmızı Dağ ve çevresinin karakteristiği, karasal iklimin hakim olmasıdır. Kışlar soğu ve kar yağışlı, yazlar ise sıca ve kurudur. Yöre, mevsimsel farklılıkların belirgin olduğu bir bölgedir. Hava durumu, yüksek rakımlarda ve dağlık alanlarda görülen tipik özellikler gösterir.
+İklim açısından, Kırmızı Dağ ve çevresinin karakteristiği, karasal iklimin hakim olmasıdır. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Yöre, mevsimsel farklılıkların belirgin olduğu bir bölgedir. Hava durumu, yüksek rakımlarda ve dağlık alanlarda görülen tipik özellikler gösterir.
 
 Çevresel açıdan, Kırmızı Dağ, Munzur Nehri'nin kaynağına yakın bir konumda yer alır ve bu nehrin etrafındaki ekosistemle güçlü bir bağlantısı vardır. Bölgenin flora ve fauna çeşitliliği, dağlık arazilerin_getirdiği zorlu koşullara rağmen, oldukça zengindir. Bu dağ, komşu alanlar ve su kaynakları ile birlikte, bir bütün olarak düşünüldüğünde, doğa koruma alanları ve milli parklar açısından önemli bir potansiyele sahiptir.
 

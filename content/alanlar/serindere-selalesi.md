@@ -30,7 +30,7 @@ Serindere Şelalesi, tarihi geçmişi ile de dikkat çekmektedir. Yüzyıllar bo
 
 ## Coğrafya
 
-Serindere Şelalesi, coğrafi olarak Kocaeli ilinin sınırları içerisinde yer almaktadır. Marmara Bölgesi'nin kuzeydoğusunda bulunan bu şelale, deniz seviyesinden yaklaşık yüksek bir konumdate yer almaktadır. Şelalenin etrafı, farklı türlerdeki ağaçlar ve bitkilerle kaplı ormanlarla çevrilidir ve bu ormanlar, birçok yaban hayvanına ev sahipliği yapmaktadır. Şelalenin coğrafi konumu, aynı zamanda iklimini de etkilemektedir. Bölge, ılıman bir iklime sahiptir ve yazları sıcak, kışları ise serin geçmektedir. Bu coğrafi konum ve iklim, Serindere Şelalesi'ni yıl boyunca ziyaret edilebilecek bir destinasyon haline getirmektedir.
+Serindere Şelalesi, coğrafi olarak Kocaeli ilinin sınırları içerisinde yer almaktadır. Marmara Bölgesi'nin kuzeydoğusunda bulunan bu şelale, yüksek bir konumda yer almaktadır. Şelalenin etrafı, farklı türlerdeki ağaçlar ve bitkilerle kaplı ormanlarla çevrilidir ve bu ormanlar, birçok yaban hayvanına ev sahipliği yapmaktadır. Şelalenin coğrafi konumu, aynı zamanda iklimini de etkilemektedir. Bölge, ılıman bir iklime sahiptir ve yazları sıcak, kışları ise serin geçmektedir. Bu coğrafi konum ve iklim, Serindere Şelalesi'ni yıl boyunca ziyaret edilebilecek bir destinasyon haline getirmektedir.
 
 ## Flora ve Fauna
 

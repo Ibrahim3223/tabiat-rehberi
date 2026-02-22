@@ -38,11 +38,11 @@ Tarihî Sinop Cezaevi, tarihin derinliklerine uzanan bir geçmişe sahiptir. Sin
 
 ## Coğrafya
 
-Tarihî Sinop Cezaevi, Karadeniz Bölgesi'nin en güzel plajlarından birine sahiptir. Plaj, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Sinop'un merkezine uzun bir mesafe uzaklıkta olan plaj, şehir içi ulaşım araçları ile kolayca ulaşılabilir. Plajın çevresinde çeşitli restoranlar ve kafeler bulunmaktadır ve ziyaretçilere geniş bir yemek seçeneği sunar. Karadeniz Bölgesi'nin karakteristik iklimi, bu plajı yıl boyunca ziyaret etmek için ideal bir yer haline getirir. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıcak ve güneşli bir hava hüküm sürer. Bu iklim, plajın doğal güzelliklerini daha da belirginleştirir ve ziyaretçilere unutulmaz bir deneyim sunar.
+Tarihî Sinop Cezaevi, Karadeniz Bölgesi'nin en güzel plajlarından birine sahiptir. Plaj, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Sinop'un merkezine uzun bir mesafe uzaklıkta olan plaj, şehir içi ulaşım araçları ile kolayca ulaşılabilir. Plajın çevresinde çeşitli restoranlar ve kafeler bulunmaktadır ve ziyaretçilere geniş bir yemek seçeneği sunar. Karadeniz Bölgesi'nin karakteristik iklimi, bu plajı yıl boyunca ziyaret etmek için ideal bir yer haline getirir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve güneşli bir hava hüküm sürer. Bu iklim, plajın doğal güzelliklerini daha da belirginleştirir ve ziyaretçilere unutulmaz bir deneyim sunar.
 
 ## Flora ve Fauna
 
-Tarihî Sinop Cezaevi'nin etrafı, çeşitli bitki türleri ile çevrilidir. Bu bölgede, Karadeniz Bölgesi'nin karakteristik flora ve fauna örnekleri bulunabilir. Mevsimsel değişimler, bu bölgenin doğal güzelliklerini daha da belirginleştirir. Kış aylarında, bölgenin flora ve fauna örnekleri, soğu ve yağışlı hava koşullarına adapte olurken, yaz aylarında ise sıcak ve güneşli hava, bu örneklerin büyümesi ve gelişmesi için ideal koşullar sağlar. Ziyaretçiler, bu bölgenin doğal güzelliklerini gözlemleyebilir ve Karadeniz Bölgesi'nin zengin flora ve fauna çeşitliliğini keşfedebilir.
+Tarihî Sinop Cezaevi'nin etrafı, çeşitli bitki türleri ile çevrilidir. Bu bölgede, Karadeniz Bölgesi'nin karakteristik flora ve fauna örnekleri bulunabilir. Mevsimsel değişimler, bu bölgenin doğal güzelliklerini daha da belirginleştirir. Kış aylarında, bölgenin flora ve fauna örnekleri, soğuk ve yağışlı hava koşullarına adapte olurken, yaz aylarında ise sıcak ve güneşli hava, bu örneklerin büyümesi ve gelişmesi için ideal koşullar sağlar. Ziyaretçiler, bu bölgenin doğal güzelliklerini gözlemleyebilir ve Karadeniz Bölgesi'nin zengin flora ve fauna çeşitliliğini keşfedebilir.
 
 ## Ziyaret Bilgileri
 

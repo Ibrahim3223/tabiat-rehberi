@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Çiyaygoçyan Tepe, Van'ın dağlık bö
 
 Jeolojik açıdan bakıldığında, Çiyaygoçyan Tepe'nin fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, genel olarak Van bölgesinin jeolojisine bakıldığında, volkani ve sediment kayaçların hakim olduğu görülür. Bu tepe, muhtemelen bir şehir bloğu büyüklüğünde bir alanı kaplar ve Eiffel Kulesi'nin yaklaşık 1/5'i kadar bir yükseklikte yer alır.
 
-İklim açısından bakıldığında, Çiyaygoçyan Tepe'nin bulunduğu bölge, karasal iklimin hakim olduğu bir alan olarak bilinir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu mevsimsel değişiklikler, tepe ve çevresindeki ekosistemi şekillendirmiştir.
+İklim açısından bakıldığında, Çiyaygoçyan Tepe'nin bulunduğu bölge, karasal iklimin hakim olduğu bir alan olarak bilinir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu mevsimsel değişiklikler, tepe ve çevresindeki ekosistemi şekillendirmiştir.
 
 Çevresel açıdan bakıldığında, Çiyaygoçyan Tepe, Van Gölü'nün su toplama havzasının bir parçası olarak önemlidir. Tepenin etrafındaki dağlar ve vadiler, su kaynaklarını toplar ve Van Gölü'ne ulaştırır. Bu bölgedeki ekosistem, tepe ve çevresindeki bitki ve hayvan türlerinin çeşitliliği ile zengin bir doğal yaşam sunar. Monaco'nun yarısı kadar bir alanı kaplayan Van Gölü, Çiyaygoçyan Tepe'nin bulunduğu bölgenin önemli bir parçasıdır.
 

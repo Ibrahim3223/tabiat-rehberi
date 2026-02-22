@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Dirhan Mağarası, Batman ili
 
 Doğal bir anıt olan Dirhan Mağarası, jeolojik açıdan oldukça ilgi çekicidir. Mağaranın jeolojik yapısı, bölgenin karmaşık tektonik tarihini yansıtır. Ancak, detaylı fiziksel verilerin olmaması nedeniyle, mağaranın boyutları ve şekli hakkında net bir fikir oluşmuyor. Buna rağmen, mağaranın bulunduğu coğrafi bölgenin özellikleri, ziyaretçilere benzersiz bir deneyim sunuyor.
 
-Mevsimsel değişikliklere bağlı olarak, Dirhan Mağarası'nın iklimi değişkenlik gösteriyor. Güneydoğu Anadolu Bölgesi'nin genel iklim karakterine uygun olarak, mağara ve çevresinin hava durumu, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı passage đangir. Bu mevsimsel özellikler, mağaranın doğal güzelliğini farklı açılardan ortaya koyuyor.
+Mevsimsel değişikliklere bağlı olarak, Dirhan Mağarası'nın iklimi değişkenlik gösteriyor. Güneydoğu Anadolu Bölgesi'nin genel iklim karakterine uygun olarak, mağara ve çevresinin hava durumu, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı passage đangir. Bu mevsimsel özellikler, mağaranın doğal güzelliğini farklı açılardan ortaya koyuyor.
 
 Bölgenin ekolojik dengesini koruyan su kaynakları ve ekosistem bağlantıları, Dirhan Mağarası'nın çevresel ilişkilerini de etkiliyor. Mağaranın yakınında bulunan nehirler ve akarsular, bölgenin su kaynaklarını zenginleştiriyor. Ayrıca, mağaranın bulunduğu coğrafi bölgenin flora ve fauna çeşitliliği, ziyaretçilere doğal hayatın güzelliğini keşfetme fırsatı sunuyor.
 

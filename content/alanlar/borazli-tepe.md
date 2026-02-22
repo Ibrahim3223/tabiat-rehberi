@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi zenginliklerini keşfetmek isteyenler 
 
 Jeolojik açıdan incelendiğinde, Borazlı Tepe'nin fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel coğrafyası, Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu dağ, bölgenin geniş ve çeşitli coğrafi yapısının bir parçası olarak, farklı yüksekli ve eğimlere sahip bir arazide yer alıyor. Monaco'nun küçük bir bölümü kadar bir alanı kaplayan Borazlı Tepe, bölgenin coğrafi çeşitliliğini temsil ediyor.
 
-Mevsimsel değişikliklere bağlı olarak, Borazlı Tepe'nin iklim karakteri, Güneydoğu Anadolu Bölgesi'nin genel iklim özelliklerini yansıtıyor. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklim özelliği gösteriyor. Eiffel Kulesi'nin yüksekliğine yaklaşan bu dağ, bölgenin iklimsel çeşitliliğini ve mevsimsel değişimlerini gözlemlemek için önemli bir nokta olarak ortaya çıkıyor.
+Mevsimsel değişikliklere bağlı olarak, Borazlı Tepe'nin iklim karakteri, Güneydoğu Anadolu Bölgesi'nin genel iklim özelliklerini yansıtıyor. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklim özelliği gösteriyor. Eiffel Kulesi'nin yüksekliğine yaklaşan bu dağ, bölgenin iklimsel çeşitliliğini ve mevsimsel değişimlerini gözlemlemek için önemli bir nokta olarak ortaya çıkıyor.
 
 Doğal kaynaklar ve ekosistem bağlantıları açısından, Borazlı Tepe, bölgenin su kaynaklarına ve diğer coğrafi oluşumlarına yakınlık gösteriyor. İstanbul'un Adalar ilçesi büyüklüğünde bir bölgeyi kaplayan Diyarbakır ilinin coğrafi yapısı, Borazlı Tepe'nin çevresinde, çeşitli su kaynakları ve doğal yaşam alanları yer alıyor. Bu dağ, bölgenin ekosistem bağlantılarını ve doğal kaynaklarını koruma altına almak için önemli bir rol oynuyor.
 

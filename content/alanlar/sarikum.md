@@ -31,7 +31,7 @@ Sarikum'un tarihi geçmişi, yüzyılların ötesine uzanır. Tarihi belgelerde 
 
 ## Coğrafya
 
-Sarikum, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu milli park, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alandır. Sarikum'un coğrafyası, genellikle bozkır ve step karakteri gösterir. Bölge, iklim olarak karasal iklim özellikleri taşır ve mevsimsel değişimler belirgindir. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Sarikum'un coğrafi konumu, ziyaretçilerine doğanın güzelliklerini ve zenginliğini sunar. Milli parkın etrafı, çeşitli bitki türleri ve fauna ile çevrilidir. Bu coğrafi çeşitlilik, Sarikum'u bir doğa cenneti haline getirir.
+Sarikum, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu milli park, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alandır. Sarikum'un coğrafyası, genellikle bozkır ve step karakteri gösterir. Bölge, iklim olarak karasal iklim özellikleri taşır ve mevsimsel değişimler belirgindir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Sarikum'un coğrafi konumu, ziyaretçilerine doğanın güzelliklerini ve zenginliğini sunar. Milli parkın etrafı, çeşitli bitki türleri ve fauna ile çevrilidir. Bu coğrafi çeşitlilik, Sarikum'u bir doğa cenneti haline getirir.
 
 ## Flora ve Fauna
 

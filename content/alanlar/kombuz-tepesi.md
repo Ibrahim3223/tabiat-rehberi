@@ -36,7 +36,7 @@ Kombuz Tepesi'nin tarihi geçmişi, zengin bir kültürel mirası da beraberinde
 
 ## Coğrafya
 
-Kombuz Tepesi, coğrafi olarak Akdeniz Bölgesi'nde yer alıyor. Bu bölge, genellikle sıca ve kurak bir iklime sahip. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve yaban hayatı açısından zengin. Kombuz Tepesi'nin yüksekliği, ziyaretçilere geniş bir manzara sunuyor. Tepenin eteklerinde, küçüköyler ve kasabalar bulunmakta. Bu bölge, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Kombuz Tepesi, coğrafi konumu itibarıyla, doğa yürüyüşleri ve trekking için ideal bir destinasyon. Ziyaretçiler, bu bölgenin güzelliğini keşfedebilir ve doğayla iç içe zaman geçirebilir.
+Kombuz Tepesi, coğrafi olarak Akdeniz Bölgesi'nde yer alıyor. Bu bölge, genellikle sıcak ve kurak bir iklime sahip. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve yaban hayatı açısından zengin. Kombuz Tepesi'nin yüksekliği, ziyaretçilere geniş bir manzara sunuyor. Tepenin eteklerinde, küçüköyler ve kasabalar bulunmakta. Bu bölge, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Kombuz Tepesi, coğrafi konumu itibarıyla, doğa yürüyüşleri ve trekking için ideal bir destinasyon. Ziyaretçiler, bu bölgenin güzelliğini keşfedebilir ve doğayla iç içe zaman geçirebilir.
 
 ## Flora ve Fauna
 

@@ -5,6 +5,35 @@
 {{- $bolge    := .Params.bolge | default "" -}}
 
 {{/* ─────────────────────────────────────────────
+     YÖNELME EKİ – Türkçe sesli uyumu
+     a→'ya  e→'ye  ı/o/u→'na  i/ö/ü→'ne
+     ünsüz sonu: son sesli ünlüye göre 'a/'e
+───────────────────────────────────────────── */}}
+{{- $lc     := lower .Title -}}
+{{- $dative := "'e" -}}
+{{- if strings.HasSuffix $lc "a" -}}
+  {{- $dative = "'ya" -}}
+{{- else if strings.HasSuffix $lc "e" -}}
+  {{- $dative = "'ye" -}}
+{{- else if or (strings.HasSuffix $lc "ı") (strings.HasSuffix $lc "o") (strings.HasSuffix $lc "u") -}}
+  {{- $dative = "'na" -}}
+{{- else if or (strings.HasSuffix $lc "i") (strings.HasSuffix $lc "ö") (strings.HasSuffix $lc "ü") -}}
+  {{- $dative = "'ne" -}}
+{{- else -}}
+  {{/* Ünsüz son harf → son ünlüye göre uyum */}}
+  {{- $vowels := findRE "[aeıioöuü]" $lc -}}
+  {{- if $vowels -}}
+    {{- $lv := index (last 1 $vowels) 0 -}}
+    {{- if or (eq $lv "a") (eq $lv "ı") (eq $lv "o") (eq $lv "u") -}}
+      {{- $dative = "'a" -}}
+    {{- else -}}
+      {{- $dative = "'e" -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $titleDat := printf "%s%s" .Title $dative -}}
+
+{{/* ─────────────────────────────────────────────
      Q1 · NEREDE?
 ───────────────────────────────────────────── */}}
 {{- $q1 := "" -}}
@@ -27,11 +56,11 @@
 ───────────────────────────────────────────── */}}
 {{- $q2 := "" -}}
 {{- if and $il $coords $coords.lat $coords.lon -}}
-  {{- $q2 = printf "%s'e ulaşmak için %s il merkezinden yola çıkabilirsiniz. Özel araç ile gelmek en pratik seçenek olmakla birlikte toplu taşıma araçlarından da yararlanabilirsiniz. Navigasyon için %.5f, %.5f koordinatlarını kullanabilir ya da sayfadaki \"Yol Tarifi Al\" butonuna tıklayabilirsiniz." .Title $il $coords.lat $coords.lon -}}
+  {{- $q2 = printf "%s ulaşmak için %s il merkezinden yola çıkabilirsiniz. Özel araç ile gelmek en pratik seçenek olmakla birlikte toplu taşıma araçlarından da yararlanabilirsiniz. Navigasyon için %.5f, %.5f koordinatlarını kullanabilir ya da sayfadaki \"Yol Tarifi Al\" butonuna tıklayabilirsiniz." $titleDat $il $coords.lat $coords.lon -}}
 {{- else if $il -}}
-  {{- $q2 = printf "%s'e ulaşmak için %s il merkezinden yola çıkabilirsiniz. Özel araç ile gelmek en pratik seçenek olmakla birlikte toplu taşıma araçlarından da yararlanabilirsiniz. Ulaşım detayları için yerel turizm ofisleriyle iletişime geçebilirsiniz." .Title $il -}}
+  {{- $q2 = printf "%s ulaşmak için %s il merkezinden yola çıkabilirsiniz. Özel araç ile gelmek en pratik seçenek olmakla birlikte toplu taşıma araçlarından da yararlanabilirsiniz. Ulaşım detayları için yerel turizm ofisleriyle iletişime geçebilirsiniz." $titleDat $il -}}
 {{- else -}}
-  {{- $q2 = printf "%s'e özel araç veya toplu taşıma araçlarıyla ulaşabilirsiniz. Ulaşım detayları için yerel turizm ofisleriyle iletişime geçebilirsiniz." .Title -}}
+  {{- $q2 = printf "%s özel araç veya toplu taşıma araçlarıyla ulaşabilirsiniz. Ulaşım detayları için yerel turizm ofisleriyle iletişime geçebilirsiniz." $titleDat -}}
 {{- end -}}
 
 {{/* ─────────────────────────────────────────────
@@ -109,7 +138,7 @@
 ───────────────────────────────────────────── */}}
 {{- $faqs := slice -}}
 {{- $faqs  = $faqs | append (dict "q" (printf "%s nerede?" .Title)                              "a" $q1) -}}
-{{- $faqs  = $faqs | append (dict "q" (printf "%s'e nasıl gidilir?" .Title)                     "a" $q2) -}}
+{{- $faqs  = $faqs | append (dict "q" (printf "%s nasıl gidilir?" $titleDat)                   "a" $q2) -}}
 {{- if $il -}}
 {{- $faqs  = $faqs | append (dict "q" (printf "%s ilinde başka hangi doğal alanlar var?" $il)   "a" $q3) -}}
 {{- end -}}

@@ -32,7 +32,7 @@ Halıcı Ahmet Urkay Müzesi'nin tarihi geçmişi, yüzyıllar boyunca şekillen
 
 ## Coğrafya
 
-Halıcı Ahmet Urkay Müzesi, Marmaris'in merkezinden uzun bir mesafe uzaklıkta bulunan bir yaylada yer alıyor. Müzenin bulunduğu yayla, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor. Bu yayla, Ege Bölgesi'nin en güzel ve en önemli yaylalarından biri olarak kabul ediliyor. Yaylanın iklimi, genel olarak ılıman ve ziyaretçiler, her mevsim rahat bir şekilde gezebilirler. Yayla, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor ve bu yükseklik, ziyaretçiler için güzel bir manzara sunuyor. Müzenin bulunduğu bölgede, çeşitli bitki türleri ve hayvanlar yer alıyor ve bu çeşitlilik, ziyaretçiler için önemli bir doğa deneyimi sunuyor.
+Halıcı Ahmet Urkay Müzesi, Marmaris'in merkezinden uzun bir mesafe uzaklıkta bulunan bir yaylada yer alıyor. Müzenin bulunduğu yayla, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor. Bu yayla, Ege Bölgesi'nin en güzel ve en önemli yaylalarından biri olarak kabul ediliyor. Yaylanın iklimi, genel olarak ılıman ve ziyaretçiler, her mevsim rahat bir şekilde gezebilirler. Yayla, yüksek bir konumda yer alıyor ve bu yükseklik, ziyaretçiler için güzel bir manzara sunuyor. Müzenin bulunduğu bölgede, çeşitli bitki türleri ve hayvanlar yer alıyor ve bu çeşitlilik, ziyaretçiler için önemli bir doğa deneyimi sunuyor.
 
 ## Flora ve Fauna
 

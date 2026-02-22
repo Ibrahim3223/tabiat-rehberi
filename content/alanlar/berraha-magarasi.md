@@ -44,7 +44,7 @@ Mardin'in tarihi ve kültürel zenginliklerinin yanı sıra, ilin doğal güzell
 
 Doğal bir oluşum olarak Berraha Mağarası, Mardin'in jeolojik yapısının bir parçasını oluşturur. Mağaranın içinde bulunan kaya oluşumları ve jeolojik yapı, bölgenin milyonlarca yıllık geçmişini gözler önüne serer. Mağara, bir şehir bloğu büyüklüğünde bir alanı kaplar ve Mardin'in genel jeolojik yapısına uygun olarak kalker ve diğer kayaçlardan oluşur.
 
-İklim açısından, Berraha Mağarası ve çevresinde Mardin'in genel iklim özellikleri görülür. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklim karakterine sahiptir. Mağaranın içi ise, outside sıcaklık ve nem koşullarından etkilenmez ve yıl boyunca nispeten sabit bir sıcaklıkta kalır.
+İklim açısından, Berraha Mağarası ve çevresinde Mardin'in genel iklim özellikleri görülür. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklim karakterine sahiptir. Mağaranın içi ise, outside sıcaklık ve nem koşullarından etkilenmez ve yıl boyunca nispeten sabit bir sıcaklıkta kalır.
 
 Mardin'in genel coğrafi yapısı içinde, Berraha Mağarası ve civarı, ilin diğer doğal güzelliklerine ve tarihi alanlarına yakındır. Mağara, Dicle Nehri'nin kuzeyinde yer alır ve bölgenin ekosistem bağlantıları içinde önemli bir rol oynar. Çevresindeki tarım alanları ve doğal bitki örtüsü, mağaranın kendi ekosistemini destekler ve Mardin'in biyolojik çeşitliliğine katkıda bulunur.
 

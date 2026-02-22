@@ -38,7 +38,7 @@ wikidata_id: "Q131390833"
 
 ## Coğrafya
 
-Ümmü Sultan Türbesi, İzmir'in Ödemiş ilçesinde yer alır ve Ege Bölgesi'nin en güzel plajlarından biridir. Plaj, 140 hektarlık bir alan üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Plajın çevresinde çeşitli bitki türleri bulunur ve zengin bir fauna sahiptir. Ümmü Sultan Türbesi, aynı zamanda bölgede önemli bir coğrafi merkez olarak kabul edilir ve birçok ziyaretçi, bu güzel mekânı görmek için gelir. Plajın iklimi, Ege Bölgesi'nin karakteristik iklimine uygun olarak sıca ve kurudur. Yaz aylarında plaj, birçok ziyaretçiyi çekmektedir ve bölgede çeşitli turistik tesisler bulunmaktadır.
+Ümmü Sultan Türbesi, İzmir'in Ödemiş ilçesinde yer alır ve Ege Bölgesi'nin en güzel plajlarından biridir. Plaj, 140 hektarlık bir alan üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Plajın çevresinde çeşitli bitki türleri bulunur ve zengin bir fauna sahiptir. Ümmü Sultan Türbesi, aynı zamanda bölgede önemli bir coğrafi merkez olarak kabul edilir ve birçok ziyaretçi, bu güzel mekânı görmek için gelir. Plajın iklimi, Ege Bölgesi'nin karakteristik iklimine uygun olarak sıcak ve kurudur. Yaz aylarında plaj, birçok ziyaretçiyi çekmektedir ve bölgede çeşitli turistik tesisler bulunmaktadır.
 
 ## Flora ve Fauna
 

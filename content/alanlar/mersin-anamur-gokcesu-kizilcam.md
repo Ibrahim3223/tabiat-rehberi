@@ -30,7 +30,7 @@ Mersin-Anamur-Gokcesu Kızılçam milli parkının tarihi geçmişi, yüzyıllar
 
 ## Coğrafya
 
-Mersin-Anamur-Gokcesu Kızılçam milli parkı, Akdeniz Bölgesi'nde, Mersin ilinin Anamur ilçesinde bulunur. Parkın coğrafi konumu, eşsiz bir manzara sunar. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bölgenin iklimi, Akdeniz iklimi özellikleri taşır. Kışlar ılıman, yazlar sıca ve kurudur. Parkın coğrafi yapısı, ziyaretçilere çeşitli doğa güzelliklerini keşfetme imkanı sunar. Mersin-Anamur-Gokcesu Kızılçam milli parkı, ziyaretçilere doğa ile iç içe bir deneyim sunar.
+Mersin-Anamur-Gokcesu Kızılçam milli parkı, Akdeniz Bölgesi'nde, Mersin ilinin Anamur ilçesinde bulunur. Parkın coğrafi konumu, eşsiz bir manzara sunar. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bölgenin iklimi, Akdeniz iklimi özellikleri taşır. Kışlar ılıman, yazlar sıcak ve kurudur. Parkın coğrafi yapısı, ziyaretçilere çeşitli doğa güzelliklerini keşfetme imkanı sunar. Mersin-Anamur-Gokcesu Kızılçam milli parkı, ziyaretçilere doğa ile iç içe bir deneyim sunar.
 
 ## Flora ve Fauna
 

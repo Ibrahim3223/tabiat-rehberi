@@ -36,7 +36,7 @@ wikidata_id: "Q31389057"
 
 ## Coğrafya
 
-Şahmelek Tepesi, Doğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölgede yer alıyor. Bu bölge, yüksek dağlar, geniş ovalar ve nehirler ile çevrili. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna found. İklim, karasal özellikleri taşıyor ve mevsimsel değişimler belirgin. Kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi özellikler, Şahmelek Tepesi'nin doğal güzelliklerini daha da artırıyor ve ziyaretçilere benzersiz bir deneyim sunuyor. Çevre, geniş ve yeşil alanlar ile kaplı ve tepeye çıkan yol, manzaralı bir güzergah sunuyor.
+Şahmelek Tepesi, Doğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölgede yer alıyor. Bu bölge, yüksek dağlar, geniş ovalar ve nehirler ile çevrili. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna found. İklim, karasal özellikleri taşıyor ve mevsimsel değişimler belirgin. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi özellikler, Şahmelek Tepesi'nin doğal güzelliklerini daha da artırıyor ve ziyaretçilere benzersiz bir deneyim sunuyor. Çevre, geniş ve yeşil alanlar ile kaplı ve tepeye çıkan yol, manzaralı bir güzergah sunuyor.
 
 ## Flora ve Fauna
 

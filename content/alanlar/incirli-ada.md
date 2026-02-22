@@ -45,7 +45,7 @@ Bu doğal cennetler, tarihin her döneminde insanların yaşamını etkileyen ö
 
 Doğal güzellikleri ve sakin atmosferiyle ön plana çıkan İncirli Ada, jeolojik açıdan da ilgi çekici bir yapıya sahiptir. Ada, Ege Denizi'nin dibinden yükselen volkanik kayalardan oluşmaktadır. Bu kayalar, binlerce yıl boyunca deniz suyuyla şekillenerek bugünkü halini almıştır. İncirli Ada, yaklaşık olarak Taksim Meydanı'nın 10 katı büyüklüğünde bir alana sahiptir ve bu küçük ama güzel ada, ziyaretçilerine doğanın güzelliğini sunmaktadır.
 
-Mevesimlik değişikliklere göre iklim karakteri değişen İncirli Ada, yaz aylarında sıca ve nemli bir hava koşullarına sahiptir. Kış aylarında ise ılıman bir iklim hüküm sürer. Ada, Ege Denizi'nin etkisiyle, bölgeye özgü Akdeniz ikliminin tüm özelliklerini taşır. Bu iklim, adaflorasının çeşitliliğini ve zenginliğini sağlar.
+Mevesimlik değişikliklere göre iklim karakteri değişen İncirli Ada, yaz aylarında sıcak ve nemli bir hava koşullarına sahiptir. Kış aylarında ise ılıman bir iklim hüküm sürer. Ada, Ege Denizi'nin etkisiyle, bölgeye özgü Akdeniz ikliminin tüm özelliklerini taşır. Bu iklim, adaflorasının çeşitliliğini ve zenginliğini sağlar.
 
 İncirli Ada, Ege Denizi'ne kıyısı olan diğer adalar ve karayla bir bütün olarak düşünüldüğünde, bölgenin ekosistem bağlantıları açısından önemli bir role sahiptir. Ada, bölgedeki su kaynaklarının korunması ve deniz canlılarının yaşam alanlarının korunması için önemli bir görev üstlenmektedir. Ayrıca, İncirli Ada, İzmir'in turizm potansiyeline katkıda bulunarak, bölge ekonomisinin gelişmesine de katkı sağlamaktadır.
 

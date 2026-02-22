@@ -37,7 +37,7 @@ Mehmed Şemseddin Efendi Türbesi, 15. yüzyılda inşa edilmiştir. Bu dönemde
 
 ## Coğrafya
 
-Mehmed Şemseddin Efendi Türbesi, Fatih ilçesinde, İstanbul'un merkezi bölgesinde yer alır. Bu bölge, tarihi yapılar, camiler, kiliseler ve diğer kültürel mekanlarla çevrilidir. Türbenin çevresinde, çeşitli dükkanlar, restoranlar ve cafes bulunur. Mekan, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır. İstanbul'un iklimi, ılıman ve nemlidir. Kışlar ılımandır, yazlar ise sıcak ve nemlidir. Mehmed Şemseddin Efendi Türbesi, yılın her dönemi ziyaret edilebilir. Ancak, ilkbahar ve sonbahar ayları, ziyaret için en uygun zamanlardır. Bu dönemde, hava daha serin ve güneşli olur. Türbenin çevresi, yeşilliklerle dolu parklar ve bahçelerle çevrilidir. Bu, ziyaretçilere huzurlu ve doğal bir ortam sunar.
+Mehmed Şemseddin Efendi Türbesi, Fatih ilçesinde, İstanbul'un merkezi bölgesinde yer alır. Bu bölge, tarihi yapılar, camiler, kiliseler ve diğer kültürel mekanlarla çevrilidir. Türbenin çevresinde, çeşitli dükkanlar, restoranlar ve cafes bulunur. Mekan, yüksek bir konumda yer alır. İstanbul'un iklimi, ılıman ve nemlidir. Kışlar ılımandır, yazlar ise sıcak ve nemlidir. Mehmed Şemseddin Efendi Türbesi, yılın her dönemi ziyaret edilebilir. Ancak, ilkbahar ve sonbahar ayları, ziyaret için en uygun zamanlardır. Bu dönemde, hava daha serin ve güneşli olur. Türbenin çevresi, yeşilliklerle dolu parklar ve bahçelerle çevrilidir. Bu, ziyaretçilere huzurlu ve doğal bir ortam sunar.
 
 ## Flora ve Fauna
 

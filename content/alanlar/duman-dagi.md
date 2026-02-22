@@ -44,7 +44,7 @@ Doğunun uzak köşesinde, Hakkari ilinin dağlık arazisinde yer alan Duman Da�
 
 Jeolojik olarak Duman Dağı, Türkiye'nin güneydoğu bölgesinin karmaşık jeolojisine sahiptir. Ancak, cụ thể boyut bilgileri bulunmamasına rağmen, bu dağlık alanın büyüklüğü Beşiktaş ilçesi kadar olabilir. Bu büyüklük, Taksim Meydanı'nın birkaç katı kadar bir alanı kapsıyor. Dağın yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olabilir, ancak net bir veri bulunmuyor.
 
-İklim açısından Duman Dağı, Türkiye'nin güneydoğu bölgesinin karakteristik iklimine sahiptir. Bu bölgede, yaz ayları sıca ve kurak, kış ayları ise soğu ve karlı geçer. Dağın yüksekliği ve coğrafi konumu, iklimini şekillendirmektedir. Duman Dağı, çevresindeki dağların oluşturduğu bir mikro iklim bölgesinde yer almaktadır.
+İklim açısından Duman Dağı, Türkiye'nin güneydoğu bölgesinin karakteristik iklimine sahiptir. Bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise soğuk ve karlı geçer. Dağın yüksekliği ve coğrafi konumu, iklimini şekillendirmektedir. Duman Dağı, çevresindeki dağların oluşturduğu bir mikro iklim bölgesinde yer almaktadır.
 
 Çevresel açıdan Duman Dağı, Hakkari ilinin diğer dağlık alanları ile bağlantılıdır. Bu dağlar, su kaynaklarını ve ekosistemleri desteklemektedir. Duman Dağı, bölgenin flora ve fauna çeşitliliğine katkıda bulunmaktadır. Dağın eteklerinde ve çevresinde, çeşitli bitki ve hayvan türleri yaşamaktadır. Bu doğal kaynaklar, bölgenin ekolojik dengesini korumaktadır.
 

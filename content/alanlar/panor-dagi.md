@@ -45,7 +45,7 @@ Güneydoğu Anadolu Bölgesi'nin dağlık coğrafyasında yer alan Panor Dağı,
 
 Doğal güzelliği ile dikkat çeken Panor Dağı, yaklaşık olarak Taksim Meydanı'nın 100 katı büyüklüğünde bir alanı kaplar. Ancak, bu büyüklükteki bir alanı kaplamasına rağmen, fiziksel yapısı hakkında detaylı bilgiler bulunmamaktadır. Jeolojik açıdan incelendiğinde, bölgenin volkanik faaliyetlere sahne olduğu görülür. Bu volkanik faaliyetler, dağların oluşumunda önemli bir rol oynamıştır.
 
-İklim açısından incelendiğinde, Panor Dağı'nın bulunduğu bölge karasal iklimin özellikleri gösterir. Kış mevsiminde soğu ve kar yağışlı, yaz mevsiminde ise sıca ve kurak bir hava hüküm sürer. Bu mevsimsel değişiklikler, bölgenin flora ve faunasını etkiler. Dağın yüksekliği, Eiffel Kulesi'nin 2 katı yükseklikte olduğu için, bölgenin hava durumu da bu yükseklikten etkilenir.
+İklim açısından incelendiğinde, Panor Dağı'nın bulunduğu bölge karasal iklimin özellikleri gösterir. Kış mevsiminde soğuk ve kar yağışlı, yaz mevsiminde ise sıcak ve kurak bir hava hüküm sürer. Bu mevsimsel değişiklikler, bölgenin flora ve faunasını etkiler. Dağın yüksekliği, Eiffel Kulesi'nin 2 katı yükseklikte olduğu için, bölgenin hava durumu da bu yükseklikten etkilenir.
 
 Bölgenin hidrolojisi açısından önemli bir role sahip olan Panor Dağı, etrafındaki ovalara su kaynakları sağlar. Dağın eteklerinde formed olan dereler, bölgenin sulama ihtiyacını karşılar. Ayrıca, dağların etrafındaki ekosistem, bölgenin biyolojik çeşitliliğini korur. Bu nedenle, Panor Dağı ve etrafındaki bölgelerin korunması, bölgenin doğal dengesinin korunması için önemlidir.
 

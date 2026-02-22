@@ -38,7 +38,7 @@ Alanya Tersanesi ve Tophane'nin tarihi geçmişi, Alanya'nın tarihi ile iç iç
 
 ## Coğrafya
 
-Alanya Tersanesi ve Tophane, Akdeniz Bölgesi'nin güzel kıyı şeridinde yer almaktadır. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsamakta ve 200 futbol sahası büyüklüğünde bir yeşil alan sunmaktadır. Bölge, deniz seviyesinde yer almakta ve Akdeniz'in güzel plajlarına ev sahipliği yapmaktadır. Alanya Tersanesi ve Tophane, Alanya'nın merkezine yakın bir konumda yer almakta ve şehrin önemli turistik noktalarından biridir. Bölgenin iklimi, Akdeniz iklimi özellikleri göstermekte ve yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir hava sürmektedir. Alanya Tersanesi ve Tophane, ziyaretçiler için güzel bir doğa ve tarihi bir geçmişin birleştiği bir bölge olarak dikkat çekmektedir.
+Alanya Tersanesi ve Tophane, Akdeniz Bölgesi'nin güzel kıyı şeridinde yer almaktadır. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsamakta ve 200 futbol sahası büyüklüğünde bir yeşil alan sunmaktadır. Bölge, deniz seviyesinde yer almakta ve Akdeniz'in güzel plajlarına ev sahipliği yapmaktadır. Alanya Tersanesi ve Tophane, Alanya'nın merkezine yakın bir konumda yer almakta ve şehrin önemli turistik noktalarından biridir. Bölgenin iklimi, Akdeniz iklimi özellikleri göstermekte ve yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava sürmektedir. Alanya Tersanesi ve Tophane, ziyaretçiler için güzel bir doğa ve tarihi bir geçmişin birleştiği bir bölge olarak dikkat çekmektedir.
 
 ## Flora ve Fauna
 

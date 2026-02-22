@@ -44,7 +44,7 @@ Mardin'in coğrafi güzelliğiçinde yer alan Çalık Tepe, 37.5658°K, 40.9378�
 
 Doğal yapısı itibariyle Çalık Tepe, Mardin'in coğrafi çeşitliliğini yansıtan bir bölge. Jeolojik açıdan incelendiğinde, bu bölgenin oluşumu ve yapısı ile ilgili detaylı fiziksel veriler bulunmuyor. Ancak, Çalık Tepe'nin bulunduğu coğrafi bölge, genel olarak Güneydoğu Anadolu Bölgesi'nin karmaşık jeolojik yapısını yansıtıyor. Bu bölge, tarih öncesi dönemlerden beri çeşitli jeolojik olayların etkisi altında kalmış ve bu reasonla farklı jeolojik oluşumlar gösterebiliyor.
 
-İklim açısından, Çalık Tepe ve çevresinde hakim olan iklim, Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölgede, yaz aylarında sıca ve kurak bir hava hakim olurken, kış aylarında soğu ve yağışlı bir hava görülüyor. Mevsimsel değişimler, bu bölgenin iklim karakterini şekillendiriyor ve ziyaretçilere farklı mevsimlerde farklı deneyimler sunuyor.
+İklim açısından, Çalık Tepe ve çevresinde hakim olan iklim, Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölgede, yaz aylarında sıcak ve kurak bir hava hakim olurken, kış aylarında soğuk ve yağışlı bir hava görülüyor. Mevsimsel değişimler, bu bölgenin iklim karakterini şekillendiriyor ve ziyaretçilere farklı mevsimlerde farklı deneyimler sunuyor.
 
 Çevresel açıdan, Çalık Tepe ve komşu alanlar, birbiriyle bağlantılı bir ekosistem oluşturuyor. Bu bölge, su kaynakları ve doğal yaşam alanları açısından zengin bir çeşitlilik gösteriyor. Çalık Tepe'nin bulunduğu coğrafi bölge, Mardin şehrinin su kaynaklarına katkıda bulunan bir olarak da önem taşıyor. Bu reasonla, Çalık Tepe ve çevresi, hem doğal güzellikleri hem de ekosistem bağlantıları açısından önemli bir bölge olarak görülüyor.
 

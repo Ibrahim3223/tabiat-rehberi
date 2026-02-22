@@ -30,7 +30,7 @@ Balikesir-Bigadic Kızılçam2 milli parkının tarihi geçmişi, yüzyıllar bo
 
 ## Coğrafya
 
-Balikesir-Bigadic Kızılçam2 milli parkı, İç Anadolu Bölgesi'nin coğrafi çeşitliliğiçinde yer alır. Parkın coğrafyası, dağlık araziler, ormanlık alanlar ve çeşitli su kaynaklarından oluşur. Bu coğrafi çeşitlilik, farklı türlerin yaşamasına olanak tanır ve ziyaretçilere zengin bir flora ve fauna sunar. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, parkın doğal güzelliklerinin yıl boyunca değişkenlik göstermesine neden olur. Ziyaretçiler, parkı gezerken bu coğrafi ve iklimsel çeşitliliği deneyimleyebilirler.
+Balikesir-Bigadic Kızılçam2 milli parkı, İç Anadolu Bölgesi'nin coğrafi çeşitliliğiçinde yer alır. Parkın coğrafyası, dağlık araziler, ormanlık alanlar ve çeşitli su kaynaklarından oluşur. Bu coğrafi çeşitlilik, farklı türlerin yaşamasına olanak tanır ve ziyaretçilere zengin bir flora ve fauna sunar. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, parkın doğal güzelliklerinin yıl boyunca değişkenlik göstermesine neden olur. Ziyaretçiler, parkı gezerken bu coğrafi ve iklimsel çeşitliliği deneyimleyebilirler.
 
 ## Flora ve Fauna
 

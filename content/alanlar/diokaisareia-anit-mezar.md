@@ -37,7 +37,7 @@ Diokaisareia Anıt Mezar'ın tarihi geçmişi, Roma İmparatorluğu dönemine ka
 
 ## Coğrafya
 
-Diokaisareia Anıt Mezar, Silifke ilçesinin güneydoğusunda yer alan bir bölgedir. Bu alan, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır ve genellikle sıca ve kuru bir iklimi bulunmaktadır. Diokaisareia Anıt Mezar, deniz seviyesinden yaklaşık yüksek bir konumdate yer almaktadır ve bu nedenle denizden eser bir mesafede bulunmaktadır. Bu bölgede, genellikle çam ve zeytin ağaçları gibi Akdeniz bitki türleri yetişmektedir. Diokaisareia Anıt Mezar, Silifke'nin merkezine uzun bir mesafe uzaklıktadır ve bu nedenle ulaşım bakımından nispeten kolay bir konumdadır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve ziyaretçiler için geniş bir gezi alanı sunmaktadır. Diokaisareia Anıt Mezar, çevresi ile birlikte yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçiler için oldukça geniş bir alan oluşturmaktadır.
+Diokaisareia Anıt Mezar, Silifke ilçesinin güneydoğusunda yer alan bir bölgedir. Bu alan, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır ve genellikle sıcak ve kuru bir iklimi bulunmaktadır. Diokaisareia Anıt Mezar, yüksek bir konumda yer almaktadır ve bu nedenle denizden eser bir mesafede bulunmaktadır. Bu bölgede, genellikle çam ve zeytin ağaçları gibi Akdeniz bitki türleri yetişmektedir. Diokaisareia Anıt Mezar, Silifke'nin merkezine uzun bir mesafe uzaklıktadır ve bu nedenle ulaşım bakımından nispeten kolay bir konumdadır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve ziyaretçiler için geniş bir gezi alanı sunmaktadır. Diokaisareia Anıt Mezar, çevresi ile birlikte yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçiler için oldukça geniş bir alan oluşturmaktadır.
 
 ## Flora ve Fauna
 
@@ -45,7 +45,7 @@ Diokaisareia Anıt Mezar, çeşitli bitki ve hayvan türleri ile zengin bir faun
 
 ## Ziyaret Bilgileri
 
-Diokaisareia Anıt Mezar, yıl boyunca ziyaret edilebilecek bir bölgedir. Ancak, özellikle ilkbahar ve sonbahar aylarında ziyaret edildiğinde, ziyaretçiler tarafından büyük ilgi görmektedir. Bu bölgede, genellikle sıca ve kuru bir iklim hakim olduğu için, ziyaretçiler için en uygun zaman sabah veya akşam saatleri olarak kabul edilmektedir. Diokaisareia Anıt Mezar, Silifke'nin merkezine uzun bir mesafe uzaklıktadır ve bu nedenle ulaşım bakımından nispeten kolay bir konumdadır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve ziyaretçiler için geniş bir gezi alanı sunmaktadır.
+Diokaisareia Anıt Mezar, yıl boyunca ziyaret edilebilecek bir bölgedir. Ancak, özellikle ilkbahar ve sonbahar aylarında ziyaret edildiğinde, ziyaretçiler tarafından büyük ilgi görmektedir. Bu bölgede, genellikle sıcak ve kuru bir iklim hakim olduğu için, ziyaretçiler için en uygun zaman sabah veya akşam saatleri olarak kabul edilmektedir. Diokaisareia Anıt Mezar, Silifke'nin merkezine uzun bir mesafe uzaklıktadır ve bu nedenle ulaşım bakımından nispeten kolay bir konumdadır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve ziyaretçiler için geniş bir gezi alanı sunmaktadır.
 
 ## İlginç Bilgiler
 

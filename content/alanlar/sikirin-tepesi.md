@@ -36,7 +36,7 @@ wikidata_id: "Q31389243"
 
 ## Coğrafya
 
-Şıkırın Tepesi, Doğu Anadolu Bölgesi'nin coğrafi olarak en güzel noktalarından biri. Bu tepe, yaklaşık yüksek bir konumdate yer alıyor. Şıkırın Tepesi, çevresindeki dağlarla birlikte bir bütün olarak düşünülüyor. Bu bölge, çeşitli bitki türleri ve hayvanlarla dolu. Şıkırın Tepesi, aynı zamanda birçok nehrin ve derenin kaynağını oluşturuyor. Bu tepe, doğu ve batı arasında bir köprü gibi duruyor. Şıkırın Tepesi'nin iklimi, karasal iklim özellikleri gösteriyor. Bu bölge, kışın soğuk ve karlı, yazın ise serin ve yağmurlu passing. Ziyaretçiler, bu güzel doğa alanını ziyaret etmek için en uygun zamanı seçmeliler.
+Şıkırın Tepesi, Doğu Anadolu Bölgesi'nin coğrafi olarak en güzel noktalarından biri. Bu tepe, yüksek bir konumda yer alıyor. Şıkırın Tepesi, çevresindeki dağlarla birlikte bir bütün olarak düşünülüyor. Bu bölge, çeşitli bitki türleri ve hayvanlarla dolu. Şıkırın Tepesi, aynı zamanda birçok nehrin ve derenin kaynağını oluşturuyor. Bu tepe, doğu ve batı arasında bir köprü gibi duruyor. Şıkırın Tepesi'nin iklimi, karasal iklim özellikleri gösteriyor. Bu bölge, kışın soğuk ve karlı, yazın ise serin ve yağmurlu passing. Ziyaretçiler, bu güzel doğa alanını ziyaret etmek için en uygun zamanı seçmeliler.
 
 ## Flora ve Fauna
 

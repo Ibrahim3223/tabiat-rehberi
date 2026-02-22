@@ -45,7 +45,7 @@ Doğunun gizli köşelerinden biri olan Yasdar Dağı, 40.3333°K ve 39.3500°D 
 
 Jeolojik açıdan incelendiğinde, Yasdar Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmuyor. Ancak, koordinatlarına bakıldığında, bu bölgenin coğrafi olarak önemli bir konumda olduğu anlaşılıyor. Bir şehir bloğu büyüklüğünde olan bu alan, çevreye nazaran küçük bir bölge olarak düşünülebilir. Bu küçük alan, Taksim Meydanı'nın birkaç katı büyüklüğünde bir bölgeyi kaplıyor.
 
-İklim açısından bakıldığında, Yasdar Dağı'nın bulunduğu bölge mevsimsel değişikliklere tabi. Yaz aylarında sıca ve kurak bir hava, kış aylarında ise serin ve yağışlı bir hava hakim. Bu mevsimsel değişiklikler, bölgenin ekosistemini şekillendiriyor. Eiffel Kulesi'nin birkaç katı yükseklikte olan bu dağ, çevresindeki ovaları ve vadileri etkiliyor.
+İklim açısından bakıldığında, Yasdar Dağı'nın bulunduğu bölge mevsimsel değişikliklere tabi. Yaz aylarında sıcak ve kurak bir hava, kış aylarında ise serin ve yağışlı bir hava hakim. Bu mevsimsel değişiklikler, bölgenin ekosistemini şekillendiriyor. Eiffel Kulesi'nin birkaç katı yükseklikte olan bu dağ, çevresindeki ovaları ve vadileri etkiliyor.
 
 Çevresel açıdan bakıldığında, Yasdar Dağı'nın komşu alanlar ve su kaynakları ile önemli bir bağlantısı var. Monaco'nun yarısı kadar büyük olan bu bölge, çevresindeki ekosistemleri etkiliyor. İstanbul'un Adalar ilçesi büyüklüğünde olan bu alan, doğa severler için önemli bir destinasyon olarak düşünülebilir. Yasdar Dağı, doğal güzellikleri ve coğrafi konumu ile dikkat çekiyor.
 

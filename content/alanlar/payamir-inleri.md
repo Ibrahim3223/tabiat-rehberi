@@ -42,7 +42,7 @@ Mersin'in coğrafi güzelliklerini keşfetmek isteyenler için Payamir İnleri, 
 
 Doğal bir oluşum olan Payamir İnleri, coğrafi yapısı itibariyle dikkat çekici özellikler taşıyor. Ancak, ayrıntılı fiziksel veriler bulunmamasına rağmen, bu bölgeyi ziyaret edenler, çevredeki doğal güzellikleri ve jeolojik oluşumları keşfetme fırsatı buluyorlar. Birkaç olimpik havuz kadar büyük bir alana yayılan bu inler, ziyaretçilere doğanın mucizelerini keşfetme imkanı sunuyor.
 
-İklim açısından bakıldığında, Payamir İnleri, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakim oluyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor ve ziyaretçilere her mevsim farklı bir güzellik sunuyor.
+İklim açısından bakıldığında, Payamir İnleri, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakim oluyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor ve ziyaretçilere her mevsim farklı bir güzellik sunuyor.
 
 Çevresel açıdan bakıldığında, Payamir İnleri, Mersin'in diğer doğal güzelliklerine yakın bir konumda yer alıyor. Bölge, su kaynakları ve ekosistem bağlantıları açısından da önemli bir role sahip. Monaco'nun yarısı kadar büyük bir alana yayılmayan bu bölge, rağmen, zengin bir biodiversity sunuyor ve ziyaretçilere doğanın güzelliklerini keşfetme fırsatı veriyor.
 

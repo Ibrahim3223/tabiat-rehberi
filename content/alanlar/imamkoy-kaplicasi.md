@@ -37,7 +37,7 @@ wikidata_id: "Q131739017"
 
 ## Coğrafya
 
-İmamköy Kaplıcası, Ege Bölgesi'nin Efeler ilçesinde yer alıyor. Bu bölge, coğrafi olarak oldukça zengin bir yapıya sahip. 140 hektarlık yeşil alan, ziyaretçilere geniş bir açık alan sunuyor. Kaplıcanın çevresinde, ormanlık alanlar, doğal güzellikler ve çeşitli bitki türleri bulunuyor. İklim bakımından, İmamköy Kaplıcası'nın bulunduğu région, ılıman bir iklimi sahip. Yaz ayları sıca ve kurak, kış ayları ise ılık ve yağışlı geçiyor. Bu coğrafi özellikler, İmamköy Kaplıcası'nı yıl boyunca ziyaret edilebilir bir destinasyon haline getiriyor. Ayrıca, kaplıcanın yakınında bulunan Aydın il merkezi, ziyaretçilere kültürel ve tarihi açıdan da zengin bir deneyim sunuyor.
+İmamköy Kaplıcası, Ege Bölgesi'nin Efeler ilçesinde yer alıyor. Bu bölge, coğrafi olarak oldukça zengin bir yapıya sahip. 140 hektarlık yeşil alan, ziyaretçilere geniş bir açık alan sunuyor. Kaplıcanın çevresinde, ormanlık alanlar, doğal güzellikler ve çeşitli bitki türleri bulunuyor. İklim bakımından, İmamköy Kaplıcası'nın bulunduğu région, ılıman bir iklimi sahip. Yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlı geçiyor. Bu coğrafi özellikler, İmamköy Kaplıcası'nı yıl boyunca ziyaret edilebilir bir destinasyon haline getiriyor. Ayrıca, kaplıcanın yakınında bulunan Aydın il merkezi, ziyaretçilere kültürel ve tarihi açıdan da zengin bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

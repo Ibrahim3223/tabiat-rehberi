@@ -44,7 +44,7 @@ Tokat ilinin coğrafi yapısı içinde yer alan Poyrazlık Tepe, 40.5180°K ve 3
 
 Doğal yapısı itibariyle Poyrazlık Tepe, bir ova veya düzlükten ziyade, daha çok bir tepe olarak tanımlanabilir. Yüksekliği, yaklaşık olarak 85 katlı bir gökdelenin yüksekliğine eşittir. Jeolojik olarak incelendiğinde, tepe ve çevresinin çoğunlukla kalker ve şist gibi kayaçlardan oluştuğu görülür. Bu jeolojik yapı, tepe ve çevresinin coğrafi oluşumunda önemli bir rol oynamıştır.
 
-İklim açısından Poyrazlık Tepe, Karadeniz Bölgesi'nin ılıman ikliminin etkilerini taşır. Bu bölgede, yaz ayları sıca ve yağışlı, kış ayları ise soğu ve yağışlı geçer. Poyrazlık Tepe'nin bulunduğu bölgede, yıllık ortalama yağış miktarı 600 mm civarındadır. Bu durum, tepe ve çevresinin yeşillik açısından zengin olmasını sağlar.
+İklim açısından Poyrazlık Tepe, Karadeniz Bölgesi'nin ılıman ikliminin etkilerini taşır. Bu bölgede, yaz ayları sıca ve yağışlı, kış ayları ise soğuk ve yağışlı geçer. Poyrazlık Tepe'nin bulunduğu bölgede, yıllık ortalama yağış miktarı 600 mm civarındadır. Bu durum, tepe ve çevresinin yeşillik açısından zengin olmasını sağlar.
 
 Çevresel açıdan Poyrazlık Tepe, Tokat Nehri'nin kuzeyinde yer alır. Bu nehrin suyu, tepe ve çevresindeki bitki örtüsünün büyümesi için önemlidir. Ayrıca, tepe ve çevresindeki ormanlık alanlar, bölgenin ekosistemini destekleyen önemli bir bileşendir. Bu ormanlık alanlar, bölgede yaşayan çeşitli hayvan türleri için de önemli bir yaşam alanı oluşturur.
 

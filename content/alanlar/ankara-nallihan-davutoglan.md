@@ -31,7 +31,7 @@ Nallıhan Davutoglan milli parkı, tarihinin derinliklerine sahip bir bölge ola
 
 ## Coğrafya
 
-Nallıhan Davutoglan milli parkı, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. 140 hektarlık yeşil alanı, ziyaretçilere geniş bir açık alan sunuyor. Nallıhan Davutoglan'ın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir iklim özelliği gösteriyor. Kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor. Nallıhan Davutoglan, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunuyor. İlkbahar ve sonbahar aylarında, bölgenin bitki örtüsü renkli bir görünüm sunarken, kış aylarında karla kaplanan manzaralar ziyaretçileri büyülüyor.
+Nallıhan Davutoglan milli parkı, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. 140 hektarlık yeşil alanı, ziyaretçilere geniş bir açık alan sunuyor. Nallıhan Davutoglan'ın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir iklim özelliği gösteriyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Nallıhan Davutoglan, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunuyor. İlkbahar ve sonbahar aylarında, bölgenin bitki örtüsü renkli bir görünüm sunarken, kış aylarında karla kaplanan manzaralar ziyaretçileri büyülüyor.
 
 ## Flora ve Fauna
 

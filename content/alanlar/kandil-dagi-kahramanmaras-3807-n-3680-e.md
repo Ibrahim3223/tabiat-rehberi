@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Kandil Dağı, Kahramanmaraş
 
 Jeolojik açıdan incelendiğinde, Kandil Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, koordinatlarından hareketle, dağlık bir arazinin parçası olduğu anlaşılabilir. Bu bölge, coğrafi olarak karmaşık bir yapıya sahiptir ve Kandil Dağı, bu karmaşıklığın önemli bir parçasını oluşturur. Monaco'nun yarısı kadar büyük bir alanı kaplayan bu dağlık alan, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplayan bir şehir bloğundan daha büyük bir alanı kaplar.
 
-İklim açısından, Kandil Dağı'nın bulunduğu bölge, genellikle sıca ve kurak yazlar ile soğu ve yağışlı kışlar yaşayan bir iklim karakterine sahiptir. Bu mevsimsel değişiklikler, bölgenin flora ve fauna'sını şekillendirmiş ve benzersiz bir ekosistem oluşturmuştur. Eiffel Kulesi'nin birkaç katı yükseklikte bulunan zirveler, bölgenin iklim karakterini etkileyen önemli faktörlerden biridir.
+İklim açısından, Kandil Dağı'nın bulunduğu bölge, genellikle sıcak ve kurak yazlar ile soğuk ve yağışlı kışlar yaşayan bir iklim karakterine sahiptir. Bu mevsimsel değişiklikler, bölgenin flora ve fauna'sını şekillendirmiş ve benzersiz bir ekosistem oluşturmuştur. Eiffel Kulesi'nin birkaç katı yükseklikte bulunan zirveler, bölgenin iklim karakterini etkileyen önemli faktörlerden biridir.
 
 Doğal kaynaklar açısından, Kandil Dağı'nın bulunduğu bölge, birçok su kaynağına ev sahipliği yapar. Bu su kaynakları, bölgenin ekosistemini destekler ve komşu alanlarla bağlantılı bir şekilde işler. İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplayan bu dağlık bölge, bölgenin diğer önemli coğrafi özellikleriyle birlikte, bir bütün olarak ele alınmalıdır.
 

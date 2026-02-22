@@ -44,7 +44,7 @@ Dede Dağı gibi doğal alanlar, sadece coğrafi güzellikleri ile değil, aynı
 
 Doğal güzelliği ile dikkat çeken bu dağ, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Dede Dağı'nın fiziksel yapısı, bölgenin jeolojik özelliklerini taşıyor. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 1/3'ü kadar bir yükseklikte yer alıyor. Bu yükseklik, bölgenin manzarasını şekillendiren önemli bir unsur olarak dikkat çekiyor.
 
-İklim karakteri bakımından Dede Dağı, Akdeniz ikliminin etkilerini taşıyor. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava alıyor. Bu mevsimsel özellikler, Dede Dağı'nın flora ve fauna yapısını etkiliyor. Dağın eteklerinde ve zirvesinde, mevsimsel olarak değişen hava koşullarına adapte olmuş çeşitli bitki türleri bulunuyor.
+İklim karakteri bakımından Dede Dağı, Akdeniz ikliminin etkilerini taşıyor. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava alıyor. Bu mevsimsel özellikler, Dede Dağı'nın flora ve fauna yapısını etkiliyor. Dağın eteklerinde ve zirvesinde, mevsimsel olarak değişen hava koşullarına adapte olmuş çeşitli bitki türleri bulunuyor.
 
 Bölgenin ekosistemine bakıldığında, Dede Dağı, komşu alanlara ve su kaynaklarına önemli bir bağlantı noktası olarak dikkat çekiyor. Dağın yakınındaki su kaynakları, bölgenin fauna yapısını destekleyen önemli bir unsur olarak dikkat çekiyor. Dede Dağı, bu nedenle bölgenin doğal dengesini sağlayan önemli bir unsur olarak kabul ediliyor.
 

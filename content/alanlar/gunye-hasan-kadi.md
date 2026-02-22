@@ -30,7 +30,7 @@ Gunye-Hasan Kadi milli parkının tarihi geçmişi, yüzyıllar boyunca bölgede
 
 ## Coğrafya
 
-Gunye-Hasan Kadi milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve ormanlık alanlardan oluşmaktadır. Milli parkın coğrafi konumu, bölgede çeşitli iklim tiplerinin görülmesine neden olmaktadır. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve karlı bir iklime sahiptir. Bu iklim tipleri, milli parkın flora ve faunasını etkilemektedir. Milli parkın coğrafi yapısı, ziyaretçilerin doğayı keşfetmesine olanak tanıyan yürüyüş yolları ve gözlem noktaları ile zenginleştirilmiştir. Milli parkın çevresinde, çeşitli su kaynakları ve akarsular bulunmaktadır. Bu su kaynakları, milli parkın ekosistemini desteklemektedir. Milli parkın coğrafi konumu ve yapısı, ziyaretçilere, doğa hakkında bilgi edinme fırsatı sunmaktadır.
+Gunye-Hasan Kadi milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve ormanlık alanlardan oluşmaktadır. Milli parkın coğrafi konumu, bölgede çeşitli iklim tiplerinin görülmesine neden olmaktadır. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı bir iklime sahiptir. Bu iklim tipleri, milli parkın flora ve faunasını etkilemektedir. Milli parkın coğrafi yapısı, ziyaretçilerin doğayı keşfetmesine olanak tanıyan yürüyüş yolları ve gözlem noktaları ile zenginleştirilmiştir. Milli parkın çevresinde, çeşitli su kaynakları ve akarsular bulunmaktadır. Bu su kaynakları, milli parkın ekosistemini desteklemektedir. Milli parkın coğrafi konumu ve yapısı, ziyaretçilere, doğa hakkında bilgi edinme fırsatı sunmaktadır.
 
 ## Flora ve Fauna
 

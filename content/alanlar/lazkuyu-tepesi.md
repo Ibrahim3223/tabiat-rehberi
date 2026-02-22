@@ -36,7 +36,7 @@ Lazkuyu Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu te
 
 ## Coğrafya
 
-Lazkuyu Tepesi, Konya'nın İç Anadolu Bölgesi'nde yer alır. Bu bölge, İç Anadolu'nun coğrafi özelliklerini taşır. Tepenin etrafı, genellikle bozkır ve step alanlarıyla çevrilidir. Lazkuyu Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğündedir. Tepenin yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdatedir. Bu yükseklik, ziyaretçilerin, etraftaki manzarayı net bir şekilde görmesine olanak sağlar. Lazkuyu Tepesi, özellikle bahar ve yaz aylarında, yeşilin her tonunu görmek isteyenler için ideal bir destinasyondur. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar bulunur. Bu bitki türleri, genellikle step ve bozkır alanlarına özgüdür. Lazkuyu Tepesi, aynı zamanda, çeşitli hayvan türlerine de ev sahipliği yapar. Tepenin etrafında, genellikle küçükbaş hayvanlar ve yırtıcı kuşlar bulunur.
+Lazkuyu Tepesi, Konya'nın İç Anadolu Bölgesi'nde yer alır. Bu bölge, İç Anadolu'nun coğrafi özelliklerini taşır. Tepenin etrafı, genellikle bozkır ve step alanlarıyla çevrilidir. Lazkuyu Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğündedir. Tepenin yüksekliği, yüksek bir konumdadir. Bu yükseklik, ziyaretçilerin, etraftaki manzarayı net bir şekilde görmesine olanak sağlar. Lazkuyu Tepesi, özellikle bahar ve yaz aylarında, yeşilin her tonunu görmek isteyenler için ideal bir destinasyondur. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar bulunur. Bu bitki türleri, genellikle step ve bozkır alanlarına özgüdür. Lazkuyu Tepesi, aynı zamanda, çeşitli hayvan türlerine de ev sahipliği yapar. Tepenin etrafında, genellikle küçükbaş hayvanlar ve yırtıcı kuşlar bulunur.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Basrıkale Tepesi, tarihin sâu sayfalarında gizli bir geçmişe sahip. Bu tepe
 
 ## Coğrafya
 
-Basrıkale Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısına uygun bir şekilde, bozkır ve step bölgeleri arasında yer alıyor. Bu tepe, Ankara'nın merkezine oldukça yakın. Basrıkale Tepesi'nin coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunuyor. Tepenin etrafı, çeşitli bitki türleri ile kaplı. Burada, bir çok farklı bitki türü görülebiliyor. Basrıkale Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun. Bu tepe, yazları sıca ve kurak, kışları soğu ve kar yağışlı bir iklime sahip. Basrıkale Tepesi, coğrafi açıdan önemli bir yer. Burada, bir çok farklı coğrafi formation görülebiliyor.
+Basrıkale Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısına uygun bir şekilde, bozkır ve step bölgeleri arasında yer alıyor. Bu tepe, Ankara'nın merkezine oldukça yakın. Basrıkale Tepesi'nin coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunuyor. Tepenin etrafı, çeşitli bitki türleri ile kaplı. Burada, bir çok farklı bitki türü görülebiliyor. Basrıkale Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun. Bu tepe, yazları sıcak ve kurak, kışları soğuk ve kar yağışlı bir iklime sahip. Basrıkale Tepesi, coğrafi açıdan önemli bir yer. Burada, bir çok farklı coğrafi formation görülebiliyor.
 
 ## Flora ve Fauna
 

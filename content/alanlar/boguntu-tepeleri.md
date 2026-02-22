@@ -36,7 +36,7 @@ Boğuntu Tepeleri'nin tarihi geçmişi, İç Anadolu Bölgesi'nin genel tarihini
 
 ## Coğrafya
 
-Boğuntu Tepeleri, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir destinasyon. Bu bölge, tepe ve dağların birleştiği bir coğrafi yapıya sahip ve çevresinde geniş otlaklar ve ormanlar bulunuyor. Coğrafi olarak zengin bir yapıya sahip olan Boğuntu Tepeleri, ziyaretçilere doğanın güzelliklerini sunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimini yansıtıyor ve yaz ayları sıca ve kurak, kış ayları soğu ve karlı geçiyor. Bu coğrafi ve iklimsel çeşitlilik, Boğuntu Tepeleri'ni doğa severler için bir cennet haline getiriyor.
+Boğuntu Tepeleri, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir destinasyon. Bu bölge, tepe ve dağların birleştiği bir coğrafi yapıya sahip ve çevresinde geniş otlaklar ve ormanlar bulunuyor. Coğrafi olarak zengin bir yapıya sahip olan Boğuntu Tepeleri, ziyaretçilere doğanın güzelliklerini sunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimini yansıtıyor ve yaz ayları sıcak ve kurak, kış ayları soğuk ve karlı geçiyor. Bu coğrafi ve iklimsel çeşitlilik, Boğuntu Tepeleri'ni doğa severler için bir cennet haline getiriyor.
 
 ## Flora ve Fauna
 

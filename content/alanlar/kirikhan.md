@@ -31,7 +31,7 @@ KIRIKHAN milli parkının tarihi geçmişi yüzyıllar öncesine dayanır. Bu b�
 
 ## Coğrafya
 
-KIRIKHAN milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, çeşitli araziler ve iklim koşullarına sahiptir. Parkın coğrafi konumu, ziyaretçilere farklı doğa güzellikleri sunar. Burada, çeşitli bitki türleri, dağlar, vadiler ve akarsular bulunur. KIRIKHAN'ın coğrafi yapısı, ziyaretçilere trekking, doğa yürüyüşü ve diğer açık hava etkinlikleri için ideal bir ortam sağlar. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer, yazları sıca ve kurak, kışları soğu ve karlıdır. Bu coğrafi çeşitlilik, KIRIKHAN'ı ziyaretçilere zengin bir doğa deneyimi sunar.
+KIRIKHAN milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, çeşitli araziler ve iklim koşullarına sahiptir. Parkın coğrafi konumu, ziyaretçilere farklı doğa güzellikleri sunar. Burada, çeşitli bitki türleri, dağlar, vadiler ve akarsular bulunur. KIRIKHAN'ın coğrafi yapısı, ziyaretçilere trekking, doğa yürüyüşü ve diğer açık hava etkinlikleri için ideal bir ortam sağlar. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer, yazları sıcak ve kurak, kışları soğuk ve karlıdır. Bu coğrafi çeşitlilik, KIRIKHAN'ı ziyaretçilere zengin bir doğa deneyimi sunar.
 
 ## Flora ve Fauna
 

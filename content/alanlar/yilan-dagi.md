@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Yılan Dağı, 39.2242°K ve 38.9117°D 
 
 Jeolojik açıdan bakıldığında, Yılan Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, genel olarak bu bölgenin karmaşık bir jeolojik yapıya sahip olduğu biliniyor. Bu dağlık alan, bir şehir bloğu büyüklüğünde değil, daha geniş bir alanı kaplıyor, ancak tam olarak boyutları bilinmiyor.
 
-İklim açısından, Yılan Dağı'nın bulunduğu bölge karasal iklimin etkilerini taşıyor. Kış aylarında soğu ve kar Yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürüyor. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor.
+İklim açısından, Yılan Dağı'nın bulunduğu bölge karasal iklimin etkilerini taşıyor. Kış aylarında soğu ve kar Yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürüyor. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor.
 
 Çevresel açıdan, Yılan Dağı'nın komşu alanları ile güçlü bir bağlantısı var. Bu dağlık bölge, su kaynakları açısından zengin bir alan olarak biliniyor. Çevresindeki akarsular ve dereler, bölgenin ekosistemini besliyor ve canlılara yaşam alanı sunuyor. Monaco'nun yarısı kadar büyük olmayan bu bölge, kendi içinde küçük bir ekosistem oluşturuyor.
 

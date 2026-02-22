@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin güzide yerlerinden biri olan Memkher Dağı, 3
 
 Doğal güzellikleri ve coğrafi yapısıyla dikkat çeken Memkher Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Dağın fiziksel yapısı, bölgenin jeolojik özelliklerini yansıtması bakımından önemli bir role sahip. Memkher Dağı'nın yüksekliği, Eiffel Kulesi'nin birkaç katı kadar yükseklikte ve bu özelliği ile bölgenin önemli bir coğrafi noktası olarak karşımıza çıkıyor.
 
-Mevsimsel değişimlerin etkilerini gösteren Memkher Dağı, iklim karakteri bakımından oldukça zengin bir yapıya sahip. Bölgenin genel iklim koşullarına uygun olarak, Memkher Dağı'nda da yaz ayları sıca ve kuru, kış ayları ise soğu ve yağışlı geçiyor. Bu mevsimsel özellikler, dağın ekosistemini ve çevresindeki doğal yaşamı etkiliyor.
+Mevsimsel değişimlerin etkilerini gösteren Memkher Dağı, iklim karakteri bakımından oldukça zengin bir yapıya sahip. Bölgenin genel iklim koşullarına uygun olarak, Memkher Dağı'nda da yaz ayları sıcak ve kuru, kış ayları ise soğuk ve yağışlı geçiyor. Bu mevsimsel özellikler, dağın ekosistemini ve çevresindeki doğal yaşamı etkiliyor.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları açısından Memkher Dağı önemli bir role sahip. Dağın çevresinde çeşitli su kaynakları ve ekosistemler yer alıyor ve bu doğal kaynaklar, bölgenin canlı yaşamını desteklemeye yardımcı oluyor. Memkher Dağı, Monaco'nun küçük bir bölümü kadar bir alanı kaplıyor ve bu özelliği ile bölgenin önemli bir coğrafi ve ekolojik alanı olarak dikkat çekiyor.
 

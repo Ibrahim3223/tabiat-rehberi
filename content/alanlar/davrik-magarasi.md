@@ -42,7 +42,7 @@ Mardin'in tarihi ve kültürel zenginliklerinin yanı sıra, coğrafi güzellikl
 
 Doğal bir anıt olan Davrik Mağarası, coğrafi olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Mağaranın girişinden itibaren, ziyaretçiler dar ve uzun bir geçitten geçerek, geniş ve yüksek tavanlı bir mağara bölümüne ulaşıyorlar. Mağaranın jeolojik yapısı, bölgenin kalkerli arazilerinden oluşuyor ve binlerce yıl süren erozyon süreci, bu doğal anıtı şekillendirmiş.
 
-Mardin'in iklimi, genel olarak sıca ve kurak bir karaktere sahip. Yaz aylarında sıcaklık 40 derecelere ulaşabilirken, kış aylarında 0 derecenin altına düşebiliyor. Davrik Mağarası, bu iklim koşullarından kısmen izole bir şekilde, daha serin ve nemli bir ortam sunuyor. Mağaranın içi, Eiffel Kulesi'nin yaklaşık 1/5'i yükseklikte, geniş ve yüksek tavanlı bir alan olarak ziyaretçilere huzur verici bir atmosfer sunuyor.
+Mardin'in iklimi, genel olarak sıcak ve kurak bir karaktere sahip. Yaz aylarında sıcaklık 40 derecelere ulaşabilirken, kış aylarında 0 derecenin altına düşebiliyor. Davrik Mağarası, bu iklim koşullarından kısmen izole bir şekilde, daha serin ve nemli bir ortam sunuyor. Mağaranın içi, Eiffel Kulesi'nin yaklaşık 1/5'i yükseklikte, geniş ve yüksek tavanlı bir alan olarak ziyaretçilere huzur verici bir atmosfer sunuyor.
 
 Davrik Mağarası, Mardin'in coğrafi yapısı ve iklimi ile yakından ilişkili. Mağara, bölgenin su kaynakları ve ekosistem bağlantıları açısından da önemli bir noktada yer alıyor. Yakınlardaki ovalar ve vadiler, mağaranın oluşumunda ve şekillenmesinde önemli rol oynamış. Aynı zamanda, mağaranın bulunduğu bölge, bölgenin flora ve faunası açısından da zengin bir çeşitlilik sunuyor.
 

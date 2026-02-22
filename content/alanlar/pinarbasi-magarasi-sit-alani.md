@@ -30,7 +30,7 @@ Pınarbaşı Mağarası Sit Alanı, yüzyıllar boyunca oluşmuş bir doğal gü
 
 ## Coğrafya
 
-Pınarbaşı Mağarası Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Mağara, bölgenin jeolojik oluşumlarına uygun olarak oluşmuş bir mağaradır. Pınarbaşı Mağarası, yaklaşık 140 hektarlık bir alan kaplamaktadır. Mağaranın iç kısmı, çeşitli oluşumlar ve doğal güzelliklerle doludur. Mağaranın girişi, bölgenin en önemli turizm merkezlerinden biri olarak dikkat çekmektedir. Pınarbaşı Mağarası Sit Alanı, aynı zamanda yaban hayatı açısından da zengin bir alandır. Mağaranın etrafı, çeşitli bitki türleri ve hayvanlar ile doludur. Pınarbaşı Mağarası, bölgenin iklimine uygun olarak, yaz aylarında sıca ve kurak, kış aylarında soğu ve karlı bir iklimi sahiptir.
+Pınarbaşı Mağarası Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Mağara, bölgenin jeolojik oluşumlarına uygun olarak oluşmuş bir mağaradır. Pınarbaşı Mağarası, yaklaşık 140 hektarlık bir alan kaplamaktadır. Mağaranın iç kısmı, çeşitli oluşumlar ve doğal güzelliklerle doludur. Mağaranın girişi, bölgenin en önemli turizm merkezlerinden biri olarak dikkat çekmektedir. Pınarbaşı Mağarası Sit Alanı, aynı zamanda yaban hayatı açısından da zengin bir alandır. Mağaranın etrafı, çeşitli bitki türleri ve hayvanlar ile doludur. Pınarbaşı Mağarası, bölgenin iklimine uygun olarak, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı bir iklimi sahiptir.
 
 ## Flora ve Fauna
 

@@ -30,7 +30,7 @@ Van-toprakkale Sit Alanı, tarihi geçmişiyle dikkat çekiyor. Bu alan, Urartu 
 
 ## Coğrafya
 
-Van-toprakkale Sit Alanı, Doğu Anadolu Bölgesi'nin Van şehrinde yer alıyor. Bu alan, Van Gölü'nün batısındaki Urartu Krallığı'nın en önemli merkezlerinden biri olarak biliniyor. Toprakkale, Van şehrinin merkezine uzun bir mesafe uzaklıkta yer alıyor. Bu alan, 140 hektarlık bir yeşil alan olarak, yaklaşık 200 futbol sahası büyüklüğünde. Van-toprakkale Sit Alanı, coğrafi olarak, Van Gölü'nün batısında, Urartu Krallığı'nın tarihi topraklarında yer alıyor. Bu alanın iklimi, karasal iklim özellikleri gösteriyor. Kışları soğu ve karlı, yazları sıca ve kurak olan bu iklim, Van-toprakkale Sit Alanı'nın doğal güzelliklerini etkiliyor. Bu alan, coğrafi ve iklimsel özellikleri nedeniyle, tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Van-toprakkale Sit Alanı, Doğu Anadolu Bölgesi'nin Van şehrinde yer alıyor. Bu alan, Van Gölü'nün batısındaki Urartu Krallığı'nın en önemli merkezlerinden biri olarak biliniyor. Toprakkale, Van şehrinin merkezine uzun bir mesafe uzaklıkta yer alıyor. Bu alan, 140 hektarlık bir yeşil alan olarak, yaklaşık 200 futbol sahası büyüklüğünde. Van-toprakkale Sit Alanı, coğrafi olarak, Van Gölü'nün batısında, Urartu Krallığı'nın tarihi topraklarında yer alıyor. Bu alanın iklimi, karasal iklim özellikleri gösteriyor. Kışları soğuk ve karlı, yazları sıcak ve kurak olan bu iklim, Van-toprakkale Sit Alanı'nın doğal güzelliklerini etkiliyor. Bu alan, coğrafi ve iklimsel özellikleri nedeniyle, tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Flora ve Fauna
 

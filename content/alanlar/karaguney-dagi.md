@@ -43,7 +43,7 @@ Doğal güzelliği ile dikkat çeken Karagüney Dağı, 39.9500°K, 33.5667°D k
 
 Jeolojik açıdan bakıldığında, Karagüney Dağı'nın yüksekliği Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte. Bu dağ, çevresindeki düzlük arazilere nazaran oldukça yükse ve dik bir yapıya sahip. Ancak, fiziksel boyutları hakkında detaylı bilgi bulunmaması, bu dağ hakkında daha net bir fikir edinmemizi engelliyor. Buna rağmen, Karagüney Dağı'nın şekli ve yapısı, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alana yayıldığını gösteriyor.
 
-İklim açısından, Karagüney Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir alan. Kışlar soğu ve karlı, yazlar ise sıca ve kurak geçiyor. Bu mevsimsel değişimler, dağın etrafındaki bitki örtüsünü ve hayvan yaşamını etkiliyor. Hava durumu, özellikle kış aylarında, dağda yaşayanların yaşamını zorlaştırabiliyor.
+İklim açısından, Karagüney Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir alan. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu mevsimsel değişimler, dağın etrafındaki bitki örtüsünü ve hayvan yaşamını etkiliyor. Hava durumu, özellikle kış aylarında, dağda yaşayanların yaşamını zorlaştırabiliyor.
 
 Çevresel açıdan, Karagüney Dağı, komşu ormanlık alanlar ve su kaynakları ile bağlantılı. Bu bağlantı, dağdaki ekosistemin zenginleşmesine katkıda bulunarak, çeşitli bitki ve hayvan türlerinin yaşamasına olanak tanıyor. Monaco'nun yaklaşık onda biri büyüklüğündeki bu dağ, çevresindeki doğal güzellikleri ile bir bütün olarak değerlendirildiğinde, önemli bir ekosistem olarak karşımıza çıkıyor.
 

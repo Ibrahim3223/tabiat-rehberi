@@ -45,7 +45,7 @@ Konya'nın coğrafi zenginliklerini keşfederken, Ak Dağ'ın 37.3263°K, 31.780
 
 Doğal güzelliklerin bir parçası olarak, Ak Dağ'ın fiziki yapısı, Konya'nın genel coğrafi yapısına uygun olarak, geniş ve geniş bir alana yayılmıştır. Ancak, cụ thể boyutlar hakkında bilgi bulunmamasına rağmen, bu bölge, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplayabilir. Bu geniş alan, bölgenin jeolojik yapısını anlamak için önemli bir başlangıç noktası sunar.
 
-Mevsimsel değişikliklere baktığımızda, Ak Dağ'ın iklim karakteri, Konya'nın karasal ikliminin etkilerini taşır. Yaz aylarında sıca ve kuru, kış aylarında ise soğu ve kar yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin doğal yaşamını ve bitki örtüsünü şekillendirmektedir.
+Mevsimsel değişikliklere baktığımızda, Ak Dağ'ın iklim karakteri, Konya'nın karasal ikliminin etkilerini taşır. Yaz aylarında sıcak ve kuru, kış aylarında ise soğuk ve kar yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin doğal yaşamını ve bitki örtüsünü şekillendirmektedir.
 
 Çevresel açıdan bakıldığında, Ak Dağ'ın komşu alanlar ve su kaynakları ile olan ilişkileri, bölgenin ekosistem bağlantılarını anlamak için önemlidir. Konya'nın diğer doğal güzelliklerine benzer şekilde, Ak Dağ da bölgenin su kaynaklarına ve ekosistemine bağlanmış durumdadır. Ancak, cụ thể bilgiler bulunmamasına rağmen, bu bölge, Monaco'nun yarısı kadar büyük bir alanı kapsayan İstanbul'un Adalar ilçesi büyüklüğünde bir alana benzer bir ekosistem bağlantısına sahip olabilir.
 

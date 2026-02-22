@@ -36,7 +36,7 @@ Mizancık Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetle
 
 ## Coğrafya
 
-Mizancık Tepesi, coğrafi olarak Ege Bölgesi'nin karakteristik özelliklerini taşıyor. Bu tepe, Muğla'nın dağlık ve engebeli arazisi içerisinde yer alıyor ve etrafı çeşitli bitki türleri ile kaplı. İklimi, Ege Bölgesi'nin genel iklimi ile benzerlik gösteriyor; yazları sıca ve kurak, kışları ılık ve yağışlı geçiyor. Bu coğrafi konum, Mizancık Tepesi'ni bir doğa cenneti haline getiriyor. Tepenin manzarası, çevredeki dağlar, vadiler ve ormanlık alanlar ile birlikte ziyaretçilere panorama gibi bir görünüm sunuyor.
+Mizancık Tepesi, coğrafi olarak Ege Bölgesi'nin karakteristik özelliklerini taşıyor. Bu tepe, Muğla'nın dağlık ve engebeli arazisi içerisinde yer alıyor ve etrafı çeşitli bitki türleri ile kaplı. İklimi, Ege Bölgesi'nin genel iklimi ile benzerlik gösteriyor; yazları sıcak ve kurak, kışları ılık ve yağışlı geçiyor. Bu coğrafi konum, Mizancık Tepesi'ni bir doğa cenneti haline getiriyor. Tepenin manzarası, çevredeki dağlar, vadiler ve ormanlık alanlar ile birlikte ziyaretçilere panorama gibi bir görünüm sunuyor.
 
 ## Flora ve Fauna
 

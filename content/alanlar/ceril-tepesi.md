@@ -36,7 +36,7 @@ Yozgat'ın İç Anadolu Bölgesi'nde yer alan Çeril Tepesi, yaklaşık 140 hekt
 
 ## Coğrafya
 
-Çeril Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş ve açık bir bölgede yer alıyor. Tepenin etrafı, çeşitli bitki türleri ve ağaçlarla çevrili ve bu doğal güzellik, ziyaretçilere huzur veren bir atmosfer sunuyor. Çeril Tepesi, Yozgat ilinin merkezi ve diğer kasabalarına yakın bir konumda olmasıyla, ulaşım açısından kolaylık sağlıyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak, karasal bir iklim özelliği gösteriyor. Kış ayları soğu ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor.
+Çeril Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş ve açık bir bölgede yer alıyor. Tepenin etrafı, çeşitli bitki türleri ve ağaçlarla çevrili ve bu doğal güzellik, ziyaretçilere huzur veren bir atmosfer sunuyor. Çeril Tepesi, Yozgat ilinin merkezi ve diğer kasabalarına yakın bir konumda olmasıyla, ulaşım açısından kolaylık sağlıyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak, karasal bir iklim özelliği gösteriyor. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor.
 
 ## Flora ve Fauna
 

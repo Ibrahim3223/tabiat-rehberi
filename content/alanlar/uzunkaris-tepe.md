@@ -44,7 +44,7 @@ Güneydeki dağ silsilesinin bir parçası olan Uzunkarış Tepe, Antalya'nın c
 
 Jeolojik açıdan bakıldığında, Uzunkarış Tepe'nin fiziksel yapısı hakkında detaylı bilgi bulunmasa da, coğrafi konumu itibariyle dağlık bir bölgede yer aldığını söyleyebiliriz. Taksim Meydanı'nın birkaç katı büyüklüğündeki bu tepe, Antalya'nın dağlık arazisinin bir parçası olarak görülebilir. Yüksekliği hakkında kesin bir bilgi olmasa da, Eiffel Kulesi'nin birkaç katı yükseklikte olan diğer dağlarla benzerlik gösterdiği düşünülebilir.
 
-Mevsimsel değişikliklere bakıldığında, Uzunkarış Tepe'nin iklim karakteri Akdeniz ikliminin özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel özellikler, tepe ve çevresindeki bitki örtüsünü doğrudan etkiliyor.
+Mevsimsel değişikliklere bakıldığında, Uzunkarış Tepe'nin iklim karakteri Akdeniz ikliminin özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel özellikler, tepe ve çevresindeki bitki örtüsünü doğrudan etkiliyor.
 
 Çevresel açıdan bakıldığında, Uzunkarış Tepe'nin komşu alanlar ve su kaynaklarıyla olan ilişkisi oldukça önemli. Monaco'nun küçük bir bölümü kadar büyüklüğe sahip olan bu tepe, çevresindeki diğer coğrafi oluşumlarla birlikte bir ekosistem oluşturuyor. Yakındaki nehirler ve akarsular, tepe ve çevresindeki bitki örtüsünü besliyor ve canlılığın devam etmesini sağlıyor.
 

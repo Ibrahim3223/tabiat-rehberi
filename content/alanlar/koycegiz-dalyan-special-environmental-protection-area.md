@@ -31,7 +31,7 @@ Köyceğiz-Dalyan Special Environmental Protection alan'nın tarihi, bölgenin i
 
 ## Coğrafya
 
-Köyceğiz-Dalyan Special Environmental Protection alan, İç Anadolu Bölgesi'nin güneyinde, Akdeniz Bölgesi'nin kuzeyinde yer almaktadır. Bölge, 461 hektarlık bir alan üzerinde kurulmuştur ve deniz seviyesinden yaklaşık 1000 metre yüksekliktedir. Bölgenin coğrafi yapısı, dağlık ve engebeli arazilerden oluşmaktadır. İklim, karasal iklim özellikleri göstermekte olup, yazları sıca ve kurak, kışları soğu ve yağışlı geçmektedir. Bölge, önemli bir su kaynağı olan Köyceğiz Gölü'ne ev sahipliği yapmaktadır.
+Köyceğiz-Dalyan Special Environmental Protection alan, İç Anadolu Bölgesi'nin güneyinde, Akdeniz Bölgesi'nin kuzeyinde yer almaktadır. Bölge, 461 hektarlık bir alan üzerinde kurulmuştur ve deniz seviyesinden yaklaşık 1000 metre yüksekliktedir. Bölgenin coğrafi yapısı, dağlık ve engebeli arazilerden oluşmaktadır. İklim, karasal iklim özellikleri göstermekte olup, yazları sıcak ve kurak, kışları soğuk ve yağışlı geçmektedir. Bölge, önemli bir su kaynağı olan Köyceğiz Gölü'ne ev sahipliği yapmaktadır.
 
 ## Flora ve Fauna
 

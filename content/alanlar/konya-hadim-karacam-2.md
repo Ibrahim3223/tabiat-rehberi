@@ -30,7 +30,7 @@ Konya-Hadim-Karacam 2 milli parkının tarihi geçmişi, yüzyıllar boyunca şe
 
 ## Coğrafya
 
-Konya-Hadim-Karacam 2 milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, geniş otlaklar ve ormanlık alanlarla çevrilidir. Milli parkın coğrafi yapısı, çeşitli bitki ve hayvan türlerinin yaşamasına uygun bir ortam sağlar. Bölge, iklimsel olarak karasal bir yapıya sahiptir. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kuru geçer. Bu iklimsel koşullar, milli parkın flora ve fauna çeşitliliği üzerinde önemli bir etkiye sahiptir. Konya-Hadim-Karacam 2, coğrafi konumu itibariyle birçok farklı ekosistemi bir arada barındırmaktadır. Milli parkın çevre bölgesi, tarım arazileri ve yerleşim yerleri ile çevrilidir. Bu nedenle, milli parkın doğal dengesi, çevresel faktörlerden etkilenmektedir.
+Konya-Hadim-Karacam 2 milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, geniş otlaklar ve ormanlık alanlarla çevrilidir. Milli parkın coğrafi yapısı, çeşitli bitki ve hayvan türlerinin yaşamasına uygun bir ortam sağlar. Bölge, iklimsel olarak karasal bir yapıya sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kuru geçer. Bu iklimsel koşullar, milli parkın flora ve fauna çeşitliliği üzerinde önemli bir etkiye sahiptir. Konya-Hadim-Karacam 2, coğrafi konumu itibariyle birçok farklı ekosistemi bir arada barındırmaktadır. Milli parkın çevre bölgesi, tarım arazileri ve yerleşim yerleri ile çevrilidir. Bu nedenle, milli parkın doğal dengesi, çevresel faktörlerden etkilenmektedir.
 
 ## Flora ve Fauna
 

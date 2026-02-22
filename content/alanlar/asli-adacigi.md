@@ -44,7 +44,7 @@ Marmara Denizi'nin sularında gizli bir hazine olarak bulunan Aslı Adacığı, 
 
 Coğrafi açıdan bakıldığında, Aslı Adacığı'nın fiziksel yapısı oldukça ilginç. Ada, küçük bir kayalık olarak görülebilir ve yüzey şekli düzensizdir. Jeolojik açıdan, ada muhtemelen Marmara Denizi'nin oluşumu sırasında ortaya çıkan bir yapıdır. Bu bölgede bulunan diğer adalar gibi, Aslı Adacığı da deniz seviyesinin değişmesi sonucu oluşmuş bir ada olabilir. Ada, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor, ancak bu karşılaştırma ada için çok büyük bir alan olduğunu gösteriyor.
 
-Mevsimsel olarak, Aslı Adacığı'nın iklim karakteri Marmara Bölgesi'nin genel iklimine benzer. Kış aylarında lạnh ve yağışlı, yaz aylarında ise sıca ve güneşli bir hava hakim. Ada, çevredeki suların etkisine bağlı olarak, nemli bir iklimi sahip. Bu iklim, ada çevresindeki su kaynakları ve ekosistem bağlantıları için önemli bir rol oynuyor.
+Mevsimsel olarak, Aslı Adacığı'nın iklim karakteri Marmara Bölgesi'nin genel iklimine benzer. Kış aylarında lạnh ve yağışlı, yaz aylarında ise sıcak ve güneşli bir hava hakim. Ada, çevredeki suların etkisine bağlı olarak, nemli bir iklimi sahip. Bu iklim, ada çevresindeki su kaynakları ve ekosistem bağlantıları için önemli bir rol oynuyor.
 
 Çevresel açıdan, Aslı Adacığı'nın komşu alanlar ve su kaynakları ile bağlantısı önemli. Ada, Marmara Denizi'nin bir parçası olarak, çevredeki ekosistemlerin bir bileşenini oluşturuyor. Ada, Monaco'nun çok küçük bir bölümü büyüklüğünde bir alanı kapladığı için, çevresindeki büyük ekosistemlerin bir parçası olarak görülüyor. Bu küçük ada, büyük bir ekosistemin bir parçası olarak, çevresindeki su kaynakları ve diğer adalar ile birlikte bir bütün teşkil ediyor.
 

@@ -36,7 +36,7 @@ Karlıdağ Tepesi, tarihsel geçmişi ile dikkat çekiyor. Yüzyıllar boyunca �
 
 ## Coğrafya
 
-Karlıdağ Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş ovalar ve dağlık alanlarla çevrili. Bu bölge, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği, ziyaretçilere geniş bir açıyla çevreyi izleme fırsatı sunuyor. Karlıdağ Tepesi'nin coğrafi konumu, çeşitli bitki türlerinin ve zengin faunanın gelişmesine olanak sağlıyor. Bu bölge, aynı zamanda iklim olarak İç Anadolu Bölgesi'nin genel característicasını taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve kar yağışlı bir iklim hakim. Bu coğrafi özellikler, Karlıdağ Tepesi'ni ziyaretçileri için çekici bir destinasyon haline getiriyor.
+Karlıdağ Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş ovalar ve dağlık alanlarla çevrili. Bu bölge, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği, ziyaretçilere geniş bir açıyla çevreyi izleme fırsatı sunuyor. Karlıdağ Tepesi'nin coğrafi konumu, çeşitli bitki türlerinin ve zengin faunanın gelişmesine olanak sağlıyor. Bu bölge, aynı zamanda iklim olarak İç Anadolu Bölgesi'nin genel característicasını taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve kar yağışlı bir iklim hakim. Bu coğrafi özellikler, Karlıdağ Tepesi'ni ziyaretçileri için çekici bir destinasyon haline getiriyor.
 
 ## Flora ve Fauna
 

@@ -45,7 +45,7 @@ Kuzey Anadolu'nun doğa harikalarından biri olan Dikmen Dağı, 41.8444°K, 33.
 
 Doğal bir miras olarak Dikmen Dağı, coğrafi olarak oldukça çeşitli bir yapıya sahip. Dağın yüksekliği ve genişliği hakkında detaylı fiziksel veriler olmasa da, bu dağ Kastamonu'nun önemli bir doğal alanı olarak kabul ediliyor. Dikmen Dağı, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor ve bu özelliği ile Kastamonu'nun önemli bir doğal güzelliği olarak ön plana çıkıyor.
 
-İklim açısından Dikmen Dağı, Karadeniz Bölgesi'nin karakteristik yağışlı ve nemli havasına sahip. Bölge, yaz aylarında serin ve yağışlı, kış aylarında ise soğu ve karlı bir iklime sahip. Bu mevsimsel özellikler, Dikmen Dağı'nın flora ve fauna çeşitliliğini etkiliyor ve bu dağ, çeşitli bitki ve hayvan türleri için önemli bir yaşam alanı oluyor.
+İklim açısından Dikmen Dağı, Karadeniz Bölgesi'nin karakteristik yağışlı ve nemli havasına sahip. Bölge, yaz aylarında serin ve yağışlı, kış aylarında ise soğuk ve karlı bir iklime sahip. Bu mevsimsel özellikler, Dikmen Dağı'nın flora ve fauna çeşitliliğini etkiliyor ve bu dağ, çeşitli bitki ve hayvan türleri için önemli bir yaşam alanı oluyor.
 
 Çevresel açıdan Dikmen Dağı, Kastamonu'nun diğer doğal alanları ile bağlantılı olarak çalışıyor. Dağın eteklerinde ve yakınında çeşitli su kaynakları ve ekosistemler bulunuyor. Bu su kaynakları, Dikmen Dağı'nın flora ve fauna çeşitliliğini destekleyen önemli bir kaynak olarak kabul ediliyor. Ayrıca, Dikmen Dağı, Kastamonu'nun diğer doğal güzellikleri ile birlikte, bölgenin önemli bir ekoloji ve turistik alanı olarak kabul ediliyor.
 

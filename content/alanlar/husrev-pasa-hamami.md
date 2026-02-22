@@ -37,7 +37,7 @@ Hüsrev Paşa Hamamı, tarihi geçmişi ile dikkat çekmektedir. Bu hamam, yüzy
 
 ## Coğrafya
 
-Hüsrev Paşa Hamamı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer almaktadır. Hamam, Han ilçesinin merkezine yakın bir konumda bulunmaktadır. Çevre, çeşitli bitki türleri ve hayvanlarla dolu zengin bir fauna sunmaktadır. Hamamın etrafında, ziyaretçilerin gezebileceği tarihi ve doğal alanlar bulunmaktadır. İklim, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kuru geçmektedir. Husrev Paşa Hamamı ve çevresi, ziyaretçilere yılın dört mevsimi boyunca farklı güzellikler sunmaktadır.
+Hüsrev Paşa Hamamı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer almaktadır. Hamam, Han ilçesinin merkezine yakın bir konumda bulunmaktadır. Çevre, çeşitli bitki türleri ve hayvanlarla dolu zengin bir fauna sunmaktadır. Hamamın etrafında, ziyaretçilerin gezebileceği tarihi ve doğal alanlar bulunmaktadır. İklim, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kuru geçmektedir. Husrev Paşa Hamamı ve çevresi, ziyaretçilere yılın dört mevsimi boyunca farklı güzellikler sunmaktadır.
 
 ## Flora ve Fauna
 

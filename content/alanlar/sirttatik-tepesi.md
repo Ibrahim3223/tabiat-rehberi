@@ -36,7 +36,7 @@ Sırttatik Tepesi'nin tarihi geçmişi, Diyarbakır'ın zengin kültürel miras�
 
 ## Coğrafya
 
-Sırttatik Tepesi, coğrafi açıdan oldukça zengin bir bölgede yer alıyor. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar bulunmakta. Bu bölgenin iklimi, genel olarak Güneydoğu Anadolu Bölgesi'nin iklimine benzer. Yaz aylarında sıca ve kurak, kış aylarında ise serin ve yağışlı bir hava hüküm sürer. Tepenin manzarası, özellikle güneşin doğuşu ve batışı sırasında ziyaretçileri büyülüyor. Çevre köyler ve kasabalar, geleneksel tarım ve hayvancılıkla uğraşıyor ve bu da bölgenin ekonomisine katkıda bulunuyor. Sırttatik Tepesi, coğrafi güzellikleri ve tarihi zenginlikleriyle ziyaretçilerini cezbediyor.
+Sırttatik Tepesi, coğrafi açıdan oldukça zengin bir bölgede yer alıyor. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar bulunmakta. Bu bölgenin iklimi, genel olarak Güneydoğu Anadolu Bölgesi'nin iklimine benzer. Yaz aylarında sıcak ve kurak, kış aylarında ise serin ve yağışlı bir hava hüküm sürer. Tepenin manzarası, özellikle güneşin doğuşu ve batışı sırasında ziyaretçileri büyülüyor. Çevre köyler ve kasabalar, geleneksel tarım ve hayvancılıkla uğraşıyor ve bu da bölgenin ekonomisine katkıda bulunuyor. Sırttatik Tepesi, coğrafi güzellikleri ve tarihi zenginlikleriyle ziyaretçilerini cezbediyor.
 
 ## Flora ve Fauna
 

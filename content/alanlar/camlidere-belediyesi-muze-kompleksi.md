@@ -37,7 +37,7 @@ wikidata_id: "Q132950133"
 
 ## Coğrafya
 
-Çamlıdere Belediyesi Müze Kompleksi, Marmara Bölgesi'nin doğal güzelliklerini sergileyen bir mekan. Bu kompleks, İstanbul'un kuzeybatısında, Çamlıdere ilçesinde yer alıyor. Bölge, coğrafi olarak zengin bir yapıya sahip ve ziyaretçilere çeşitli manzaralar sunuyor.Kompleksin etrafı, yemyeşil ormanlarla çevrili ve bu ormanlar, birçok bitki ve hayvan türünün yaşadığı bir habitat oluşturuyor. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak ılıman ve nemli. Kışlar soğu ve yağışlı, yazlar ise sıcak ve nemli passing. Bu mevsimsel değişimler, kompleksin doğal güzelliklerini daha da belirginleştiriyor. Çamlıdere'nin coğrafi konumu, ziyaretçilere doğa ile iç içe bir deneyim sunuyor.
+Çamlıdere Belediyesi Müze Kompleksi, Marmara Bölgesi'nin doğal güzelliklerini sergileyen bir mekan. Bu kompleks, İstanbul'un kuzeybatısında, Çamlıdere ilçesinde yer alıyor. Bölge, coğrafi olarak zengin bir yapıya sahip ve ziyaretçilere çeşitli manzaralar sunuyor.Kompleksin etrafı, yemyeşil ormanlarla çevrili ve bu ormanlar, birçok bitki ve hayvan türünün yaşadığı bir habitat oluşturuyor. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak ılıman ve nemli. Kışlar soğuk ve yağışlı, yazlar ise sıcak ve nemli passing. Bu mevsimsel değişimler, kompleksin doğal güzelliklerini daha da belirginleştiriyor. Çamlıdere'nin coğrafi konumu, ziyaretçilere doğa ile iç içe bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

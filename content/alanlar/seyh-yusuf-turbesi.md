@@ -38,7 +38,7 @@ wikidata_id: "Q131391514"
 
 ## Coğrafya
 
-Şeyh Yusuf Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini yansıtmaktadır. Bu mekan, 140 hektarlık bir alana yayılmış olup, yaklaşık 200 futbol sahası büyüklüğündedir. Şeyh Yusuf Türbesi, doğal güzelliği ile dikkat çekmektedir. Bu mekan, ziyaretçilerine çeşitli coğrafi özellikler sunmaktadır. Şeyh Yusuf Türbesi, Güneydoğu Anadolu Bölgesi'nin iklimine uygun olarak, sıca ve kurak bir iklimi bulunmaktadır. Bu mekan, ziyaretçilerine farklı mevsimlerde çeşitli coğrafi güzellikler sunmaktadır. Şeyh Yusuf Türbesi, coğrafi olarak önemli bir konuma sahiptir ve ziyaretçilerine birçok coğrafi güzellik sunmaktadır.
+Şeyh Yusuf Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini yansıtmaktadır. Bu mekan, 140 hektarlık bir alana yayılmış olup, yaklaşık 200 futbol sahası büyüklüğündedir. Şeyh Yusuf Türbesi, doğal güzelliği ile dikkat çekmektedir. Bu mekan, ziyaretçilerine çeşitli coğrafi özellikler sunmaktadır. Şeyh Yusuf Türbesi, Güneydoğu Anadolu Bölgesi'nin iklimine uygun olarak, sıcak ve kurak bir iklimi bulunmaktadır. Bu mekan, ziyaretçilerine farklı mevsimlerde çeşitli coğrafi güzellikler sunmaktadır. Şeyh Yusuf Türbesi, coğrafi olarak önemli bir konuma sahiptir ve ziyaretçilerine birçok coğrafi güzellik sunmaktadır.
 
 ## Flora ve Fauna
 

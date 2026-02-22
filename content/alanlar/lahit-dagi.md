@@ -43,7 +43,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi mozaiğiçinde yer alan Lahit Dağı, 
 
 Doğal güzellikleri ile ön plana çıkan bu bölge, büyüklüğü hakkında detaylı fiziksel veri olmasa da, genel olarak coğrafi yapısı ile dikkat çekiyor. Lahit Dağı'nın boyutları, bir şehir bloğu büyüklüğünde düşünülse de, gerçek boyutu hakkında net bir bilgi bulunmuyor. Bu durum, bölgenin keşfedilmeyi bekleyen birçok gizli güzelliğe sahip olabileceğini gösteriyor.
 
-İklim açısından incelendiğinde, Lahit Dağı'nın bulunduğu bölge, mevsimsel olarak farklı hava koşullarına sahip. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklim hüküm sürüyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini şekillendiren önemli etkenler arasında yer alıyor.
+İklim açısından incelendiğinde, Lahit Dağı'nın bulunduğu bölge, mevsimsel olarak farklı hava koşullarına sahip. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklim hüküm sürüyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini şekillendiren önemli etkenler arasında yer alıyor.
 
 Çevresel açıdan bakıldığında, Lahit Dağı, komşu alanlar ve su kaynakları ile önemli bir ekosistem bağlantısı içinde yer alıyor. Bölge, Monaco'nun yarısı kadar büyük bir alana spread ediliyor ve bu genişlik, Lahit Dağı'nın çevresindeki diğer coğrafi oluşumlar ile birlikte bir bütünü oluşturuyor. Bu genişlik, bölgenin doğal kaynaklarını ve ekosistemini korumanın önemini vurguluyor.
 

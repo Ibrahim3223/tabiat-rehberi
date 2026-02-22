@@ -38,7 +38,7 @@ Hasan Efendi Türbesi'nin tarihi geçmişi, Demirci ve Manisa'nın zengin kült�
 
 ## Coğrafya
 
-Hasan Efendi Türbesi, Demirci, Manisa'da Ege Bölgesi'nin coğrafi güzellikleri arasında yer alır. Bu bölge, deniz seviyesinden yaklaşık yüksek bir konumdate bulunur ve çevresi dağlar ve ormanlarla çevrilidir. Hasan Efendi Türbesi, Demirci'nin merkezine uzun bir mesafe uzaklıkta bulunur ve ulaşımı kolaydır. Bu bölge, yıl boyunca ılıman bir iklime sahiptir ve turizm açısından önemli bir potansiyele sahiptir. Ege Bölgesi'nin coğrafi yapısı, Hasan Efendi Türbesi'nin bulunduğu bölgede de kendini gösterir. Bu bölge, yeşilin ve mavinin birleştiği bir noktada yer alır ve ziyaretçilere doğanın güzelliğini sunar. 180 hektarlık bir alanda yer alan bu türbe, ziyaretçilere geniş bir yeşil alan sunar ve doğal güzellikleri deneyimleme fırsatı sağlar.
+Hasan Efendi Türbesi, Demirci, Manisa'da Ege Bölgesi'nin coğrafi güzellikleri arasında yer alır. Bu bölge, yüksek bir konumda bulunur ve çevresi dağlar ve ormanlarla çevrilidir. Hasan Efendi Türbesi, Demirci'nin merkezine uzun bir mesafe uzaklıkta bulunur ve ulaşımı kolaydır. Bu bölge, yıl boyunca ılıman bir iklime sahiptir ve turizm açısından önemli bir potansiyele sahiptir. Ege Bölgesi'nin coğrafi yapısı, Hasan Efendi Türbesi'nin bulunduğu bölgede de kendini gösterir. Bu bölge, yeşilin ve mavinin birleştiği bir noktada yer alır ve ziyaretçilere doğanın güzelliğini sunar. 180 hektarlık bir alanda yer alan bu türbe, ziyaretçilere geniş bir yeşil alan sunar ve doğal güzellikleri deneyimleme fırsatı sağlar.
 
 ## Flora ve Fauna
 

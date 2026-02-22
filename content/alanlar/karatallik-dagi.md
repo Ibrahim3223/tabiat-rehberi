@@ -45,7 +45,7 @@ Güneyde yükselen Karatallık Dağı, 36.4611°K, 32.7456°D koordinatlarında 
 
 Doğal güzelliği ve coğrafi çeşitliliği ile dikkat çeken Karatallık Dağı, bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Dağın fiziksel yapısı, farklı jeolojik oluşumları barındırıyor. Ancak, detaylı fiziksel veriler bulunmaması, bu konuda daha derinlemesine bilgi verilmesini sınırlıyor. Genel olarak, dağlık bir bölge olan Karatallık Dağı, etrafındaki diğer coğrafi oluşumlarla birlikte bir bütünü oluşturuyor.
 
-Mevsimsel değişiklikler, Karatallık Dağı'nın iklim karakterini şekillendiriyor. Akdeniz ikliminin hakim olduğu bu bölgede, yazlar genellikle sıca ve kurak, kışlar ise ılıman ve yağışlı geçiyor. Dağın yüksekliği, Eiffel Kulesi'nin 2 katı yükseklikte değil, ancak bu yükseklik, bölgedeki hava durumunu etkileyen faktörlerden biri olarak görünüyor.
+Mevsimsel değişiklikler, Karatallık Dağı'nın iklim karakterini şekillendiriyor. Akdeniz ikliminin hakim olduğu bu bölgede, yazlar genellikle sıcak ve kurak, kışlar ise ılıman ve yağışlı geçiyor. Dağın yüksekliği, Eiffel Kulesi'nin 2 katı yükseklikte değil, ancak bu yükseklik, bölgedeki hava durumunu etkileyen faktörlerden biri olarak görünüyor.
 
 Çevresel açıdan, Karatallık Dağı, komşu alanlar ve su kaynakları ile bir ekosistem içinde yer alıyor. Monaco'nun onda biri büyüklüğünde bir alanı kaplayan bu dağ, bölgenin doğal dengesini koruyor. Su kaynakları ve bitki örtüsü, bu dağlık bölgenin canlılığını sürdüren önemli faktörler arasında yer alıyor.
 

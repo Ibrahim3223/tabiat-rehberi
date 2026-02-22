@@ -37,7 +37,7 @@ wikidata_id: "Q131390875"
 
 ## Coğrafya
 
-Şeyh Mehmed Amadin Türbesi, Güneydoğu Anadolu Bölgesi'nin Kilis ilinde yer almaktadır. Bu bölge, Akdeniz Bölgesi ile Doğu Anadolu Bölgesi arasında bir geçiş alanıdır. Şeyh Mehmed Amadin Türbesi, Kilis il merkezine uzun bir mesafe uzaklıktadır. Türbe, bir tepe üzerine kurulmuştur ve çevresi yeşil alanlarla kaplıdır. Şeyh Mehmed Amadin Türbesi, deniz seviyesinden yaklaşık yüksek bir konumdatedir. Bu bölgenin iklimi, karasal iklimdir. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurudur. Şeyh Mehmed Amadin Türbesi, doğal güzellikleri ile dikkat çeken bir alana sahiptir. Türbenin etrafında, çeşitli bitki türleri ve ağaçlar bulunmaktadır. Şeyh Mehmed Amadin Türbesi, ziyaretçilerine doğayla iç içe bir ortam sunmaktadır. Şeyh Mehmed Amadin Türbesi, Kilis ilinin en önemli doğal güzelliklerinden biridir.
+Şeyh Mehmed Amadin Türbesi, Güneydoğu Anadolu Bölgesi'nin Kilis ilinde yer almaktadır. Bu bölge, Akdeniz Bölgesi ile Doğu Anadolu Bölgesi arasında bir geçiş alanıdır. Şeyh Mehmed Amadin Türbesi, Kilis il merkezine uzun bir mesafe uzaklıktadır. Türbe, bir tepe üzerine kurulmuştur ve çevresi yeşil alanlarla kaplıdır. Şeyh Mehmed Amadin Türbesi, yüksek bir konumdadir. Bu bölgenin iklimi, karasal iklimdir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Şeyh Mehmed Amadin Türbesi, doğal güzellikleri ile dikkat çeken bir alana sahiptir. Türbenin etrafında, çeşitli bitki türleri ve ağaçlar bulunmaktadır. Şeyh Mehmed Amadin Türbesi, ziyaretçilerine doğayla iç içe bir ortam sunmaktadır. Şeyh Mehmed Amadin Türbesi, Kilis ilinin en önemli doğal güzelliklerinden biridir.
 
 ## Flora ve Fauna
 

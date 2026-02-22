@@ -36,7 +36,7 @@ Samo Tepe'nin tarihi geçmişi, Mardin'in tarihine paralel olarak gelişmiştir.
 
 ## Coğrafya
 
-Samo Tepe, Mardin'in coğrafi yapısını yansıtan bir bölgedir. Bu tepe, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Samo Tepe'nin etrafı, çeşitli bitki türleriyle kaplı ve bu bitki türleri, tepe'nin doğal güzelliğini artırıyor. Samo Tepe, Mardin'in ikliminin etkilerini de yansıtıyor. Bu bölgede, yaz ayları sıca ve kurak geçerken, kış ayları soğu ve yağışlı geçiyor. Samo Tepe, coğrafi konumu itibariyle, ziyaretçilere Mardin'in doğal güzelliklerini keşfetme fırsatı sunuyor. Samo Tepe'nin coğrafi yapısı, Mardin'in genel coğrafi yapısına benzerlik gösteriyor. Bu tepe, Mardin'in coğrafi çeşitliliğini yansıtan önemli bir nokta olarak kabul ediliyor.
+Samo Tepe, Mardin'in coğrafi yapısını yansıtan bir bölgedir. Bu tepe, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Samo Tepe'nin etrafı, çeşitli bitki türleriyle kaplı ve bu bitki türleri, tepe'nin doğal güzelliğini artırıyor. Samo Tepe, Mardin'in ikliminin etkilerini de yansıtıyor. Bu bölgede, yaz ayları sıcak ve kurak geçerken, kış ayları soğuk ve yağışlı geçiyor. Samo Tepe, coğrafi konumu itibariyle, ziyaretçilere Mardin'in doğal güzelliklerini keşfetme fırsatı sunuyor. Samo Tepe'nin coğrafi yapısı, Mardin'in genel coğrafi yapısına benzerlik gösteriyor. Bu tepe, Mardin'in coğrafi çeşitliliğini yansıtan önemli bir nokta olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ Cerrahpaşa Hamamı'nın tarihi geçmişi, İstanbul'un fethiyle birlikte başla
 
 ## Coğrafya
 
-Cerrahpaşa Hamamı, İstanbul'un Fatih ilçesinde yer alır. Bu bölge, tarihi ve kültürel açıdan zengin bir bölge olup, birçok önemli tarihi yapıya ev sahipliği yapar. Hamam, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır ve çevresinde historik yapılar yer alır. Cerrahpaşa Hamamı'nın bulunduğu bölge, Marmara Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Bölge, genellikle ılıman bir iklime sahiptir ve yazları sıcak, kışları ılık geçer. Hamamın çevresinde, çeşitli bitki türleri ve ağaçlar yer alır, ancak bu konuda net bir bilgi bulunmamaktadır. Cerrahpaşa Hamamı, İstanbul'un tarihi dokusunu koruma altına almak adına önemli bir rol oynar. Hamamın mimari yapısı, Osmanlı dönemi hamamlarının klasik özelliklerini taşır. Hamamın içi, histórik bir atmosfere sahiptir ve ziyaretçilerini geçmişe götürmeyi başarır.
+Cerrahpaşa Hamamı, İstanbul'un Fatih ilçesinde yer alır. Bu bölge, tarihi ve kültürel açıdan zengin bir bölge olup, birçok önemli tarihi yapıya ev sahipliği yapar. Hamam, yüksek bir konumda yer alır ve çevresinde historik yapılar yer alır. Cerrahpaşa Hamamı'nın bulunduğu bölge, Marmara Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Bölge, genellikle ılıman bir iklime sahiptir ve yazları sıcak, kışları ılık geçer. Hamamın çevresinde, çeşitli bitki türleri ve ağaçlar yer alır, ancak bu konuda net bir bilgi bulunmamaktadır. Cerrahpaşa Hamamı, İstanbul'un tarihi dokusunu koruma altına almak adına önemli bir rol oynar. Hamamın mimari yapısı, Osmanlı dönemi hamamlarının klasik özelliklerini taşır. Hamamın içi, histórik bir atmosfere sahiptir ve ziyaretçilerini geçmişe götürmeyi başarır.
 
 ## Flora ve Fauna
 

@@ -30,7 +30,7 @@ Zeytinlik Camii'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu böl
 
 ## Coğrafya
 
-Zeytinlik Camii, İç Anadolu Bölgesi'nin coğrafi olarak özel bir bölgesinde yer alıyor. Bu bölge, geniş ovaları, dağları ve nehirleri ile çeşitlilik gösteren bir coğrafyaya sahip. Camii, bir tepe üzerinde kurulmuş ve bu konum, ziyaretçilere geniş bir manzara sunuyor. Çevre, çeşitli bitki türleri ile zengin bir flora sunuyor. İklim, karasal iklim özellikleri gösteriyor; kışlar soğu ve yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi koşullar, Zeytinlik Camii'nin çevresindeki flora ve faunayı etkiliyor. Camii, doğal güzellikleri ve tarihi önemini korumak için özel bir koruma alanı olarak belirlenmiş.
+Zeytinlik Camii, İç Anadolu Bölgesi'nin coğrafi olarak özel bir bölgesinde yer alıyor. Bu bölge, geniş ovaları, dağları ve nehirleri ile çeşitlilik gösteren bir coğrafyaya sahip. Camii, bir tepe üzerinde kurulmuş ve bu konum, ziyaretçilere geniş bir manzara sunuyor. Çevre, çeşitli bitki türleri ile zengin bir flora sunuyor. İklim, karasal iklim özellikleri gösteriyor; kışlar soğuk ve yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi koşullar, Zeytinlik Camii'nin çevresindeki flora ve faunayı etkiliyor. Camii, doğal güzellikleri ve tarihi önemini korumak için özel bir koruma alanı olarak belirlenmiş.
 
 ## Flora ve Fauna
 

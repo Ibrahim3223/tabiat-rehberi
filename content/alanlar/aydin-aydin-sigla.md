@@ -30,7 +30,7 @@ Aydın-Aydın Sigla'nın tarihi geçmişi, bölgenin doğal ve kültürel değer
 
 ## Coğrafya
 
-Aydın-Aydın Sigla, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Milli parkın coğrafyası, çeşitli topoğrafik özellikler sunar; düzlükler, tepeler ve vadiler, ziyaretçilere farklı manzaralar sunar. İklim, İç Anadolu Bölgesi'ne özgü karasal iklimdir; kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, milli parkın florası ve faunası üzerinde önemli bir etkiye sahiptir. Aydın-Aydın Sigla, ziyaretçilerini büyüleyici manzaralarıyla karşılar ve doğa severlerin keşfetmek için chlu bir yer sunar. Milli parkın içinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+Aydın-Aydın Sigla, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Milli parkın coğrafyası, çeşitli topoğrafik özellikler sunar; düzlükler, tepeler ve vadiler, ziyaretçilere farklı manzaralar sunar. İklim, İç Anadolu Bölgesi'ne özgü karasal iklimdir; kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, milli parkın florası ve faunası üzerinde önemli bir etkiye sahiptir. Aydın-Aydın Sigla, ziyaretçilerini büyüleyici manzaralarıyla karşılar ve doğa severlerin keşfetmek için chlu bir yer sunar. Milli parkın içinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Flora ve Fauna
 

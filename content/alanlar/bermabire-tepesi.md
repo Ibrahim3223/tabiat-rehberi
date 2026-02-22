@@ -36,7 +36,7 @@ Bermabıre Tepesi, tarihsel geçmişi ile de dikkat çekiyor. Yüzyıllar boyunc
 
 ## Coğrafya
 
-Coğrafi olarak Bermabıre Tepesi, Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Tepenin etrafını saran dağlar ve vadiler, bir doğa belgeseli gibi görüntüler sunuyor. Bölge, çeşitli bitki türleri ile zengin bir flora sahip. Mevsimsel değişimlerle birlikte bu flora, renkli bir görsellik sunuyor. İklim, genel olarak Güneydoğu Anadolu Bölgesi'nin iklim özellikleri ile benzerlik gösteriyor. Yaz ayları sıca ve kuru iken, kış ayları ılıman ve yağışlı geçiyor. Bu iklim koşulları, bölgenin flora ve faunasını şekillendiriyor.
+Coğrafi olarak Bermabıre Tepesi, Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Tepenin etrafını saran dağlar ve vadiler, bir doğa belgeseli gibi görüntüler sunuyor. Bölge, çeşitli bitki türleri ile zengin bir flora sahip. Mevsimsel değişimlerle birlikte bu flora, renkli bir görsellik sunuyor. İklim, genel olarak Güneydoğu Anadolu Bölgesi'nin iklim özellikleri ile benzerlik gösteriyor. Yaz ayları sıcak ve kuru iken, kış ayları ılıman ve yağışlı geçiyor. Bu iklim koşulları, bölgenin flora ve faunasını şekillendiriyor.
 
 ## Flora ve Fauna
 

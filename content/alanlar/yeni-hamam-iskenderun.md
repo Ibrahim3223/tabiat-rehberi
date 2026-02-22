@@ -37,7 +37,7 @@ Yeni Hamam Plajı'nın tarihi geçmişi, İskenderun'un tarihi ile iç içe geç
 
 ## Coğrafya
 
-Yeni Hamam Plajı, İskenderun'un kıyı şeridinde yer alıyor ve Akdeniz'in güneşli sularına açılıyor. Plajın coğrafi konumu, güneşin ve denizin keyfini çıkarmak için ideal. İskenderun'un iklimi, genel olarak Akdeniz iklimi özellikleri gösteriyor; yani yazları sıca ve kurak, kışları ılık ve yağışlı. Bu iklim, plajın yıl boyunca ziyaretçilerini ağırlamasına uygun bir ortam sunuyor. Plajın etrafı, yeşilliklerle dolu ve çeşitli bitki türleri bulunmakta. Ayrıca, plajın yakınlarında, tarihi yapılar ve turistik noktalar da yer alıyor. Yeni Hamam Plajı, İskenderun'un coğrafi güzelliğinin bir parçası olarak kabul ediliyor ve ziyaretçilere zengin bir deneyim sunuyor.
+Yeni Hamam Plajı, İskenderun'un kıyı şeridinde yer alıyor ve Akdeniz'in güneşli sularına açılıyor. Plajın coğrafi konumu, güneşin ve denizin keyfini çıkarmak için ideal. İskenderun'un iklimi, genel olarak Akdeniz iklimi özellikleri gösteriyor; yani yazları sıcak ve kurak, kışları ılık ve yağışlı. Bu iklim, plajın yıl boyunca ziyaretçilerini ağırlamasına uygun bir ortam sunuyor. Plajın etrafı, yeşilliklerle dolu ve çeşitli bitki türleri bulunmakta. Ayrıca, plajın yakınlarında, tarihi yapılar ve turistik noktalar da yer alıyor. Yeni Hamam Plajı, İskenderun'un coğrafi güzelliğinin bir parçası olarak kabul ediliyor ve ziyaretçilere zengin bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

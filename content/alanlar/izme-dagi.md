@@ -42,7 +42,7 @@ Doğuya doğru ilerlediğimizde, Hakkari ilinin dağlık coğrafyasında yer ala
 
 Jeolojik açıdan bakıldığında, İzme Dağı'nın oluşumu ve yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel jeolojik karakteri düşünüldüğünde, bu dağların genellikle kalker ve şist gibi kayalardan oluştuğu söylenebilir. Bu tür kayalar, bölgenin yüksekli ve eğimine göre farklılerde ve büyüklüklerde olabilir. Örneğin, Monaco'nun yarısı kadar bir alanı kaplayan bir dağlık bölge, farklı jeolojik oluşumlar ve şekiller barındırabilir.
 
-Hakkari ilinin genel iklim karakteri, İzme Dağı'nın bulunduğu bölgede de hissedilir. Kışlar soğu ve karlı, yazlar ise sıca ve kurak geçer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve dağlık alanların ekosistemini şekillendirir. Eiffel Kulesi'nin 5 katı yükseklikte olan bir dağ, iklimin değişkenliğini ve bölgenin coğrafi çeşitliliğini gösterir.
+Hakkari ilinin genel iklim karakteri, İzme Dağı'nın bulunduğu bölgede de hissedilir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve dağlık alanların ekosistemini şekillendirir. Eiffel Kulesi'nin 5 katı yükseklikte olan bir dağ, iklimin değişkenliğini ve bölgenin coğrafi çeşitliliğini gösterir.
 
 İzme Dağı'nın bulunduğu bölge, çevresindeki diğer dağlar ve vadilerle birlikte bir ekosistem oluşturur. Bu ekosistem, bölgenin su kaynaklarını, flora ve fauna çeşitliliğini ve coğrafi yapısını etkiler. Örneğin, Taksim Meydanı'nın 10 katı büyüklüğünde bir alan, birçok farklı bitki ve hayvan türünü barındıran bir ekosistemi destekleyebilir. Bu tür ekosistemler, bölgenin doğal güzelliğini ve coğrafi zenginliğini korumak açısından önemlidir.
 

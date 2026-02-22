@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin en kuzey ucunda, Kilis ilinin sınırları içi
 
 Doğal güzelliği ve stratejik konumuyla dikkat çeken Kürri Tepe, coğrafi olarak önemli bir noktadır. Ancak, detaylı fiziksel verilerin bulunmaması nedeniyle, boyutları ve şekli hakkında net bilgiler mevcut değildir. Buna rağmen, bu dağlık alanın, Monaco'nun yarısı kadar bir alanı kaplayacak büyüklükte olduğunu varsayabiliriz. Bu karşılaştırma, Kürri Tepe'nin genişliğini anlamamıza yardımcı olabilir.
 
-İklim açısından, Kürri Tepe ve çevresinin, Akdeniz ikliminin karakteristik özelliklerini taşıdığı söylenebilir. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
+İklim açısından, Kürri Tepe ve çevresinin, Akdeniz ikliminin karakteristik özelliklerini taşıdığı söylenebilir. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
 
 Ekosistem bağlamında, Kürri Tepe, çevresindeki diğer dağlık alanlarla birlikte, bir bütün olarak düşünülür. Su kaynakları ve bitki örtüsü, bu dağlık bölgenin canlı çeşitliliğini desteklemektedir. Örneğin, bölgedeki dereler ve çaylar, su kaynaklarını oluşturmakta ve bu da yerel ekosistemi beslemektedir. Bu doğal kaynaklar, Kürri Tepe'nin çevresindeki diğer alanlarla bağlantılıdır ve birlikte bir daha büyük ekosistemi oluşturmaktadır.
 

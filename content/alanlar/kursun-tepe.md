@@ -36,7 +36,7 @@ Kurşun Tepe'nin tarihi geçmişi oldukça zengin. Bu bölge, yüzyıllar boyunc
 
 ## Coğrafya
 
-Kurşun Tepe, coğrafi konumu itibariyle oldukça ilgi çekici. Bu tepe, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, genellikle karasal iklim özellikleri gösteriyor. Kış ayları soğu ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Kurşun Tepe'nin eteklerinde, çeşitli bitki türleri yer alıyor. Bu bitki türleri, mevsimsel değişimlere göre farklılık gösteriyor. İlkbahar ve yaz aylarında, tepe etrafındaki bitkiler yeşil ve canlı bir görünüm sergilerken, sonbahar ve kış aylarında daha sakin bir hava hakim oluyor. Kurşun Tepe, aynı zamanda fauna açısından da zengin. Bu bölgede, çeşitli hayvan türleri yaşamını sürdürüyor.
+Kurşun Tepe, coğrafi konumu itibariyle oldukça ilgi çekici. Bu tepe, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, genellikle karasal iklim özellikleri gösteriyor. Kış ayları soğuk ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Kurşun Tepe'nin eteklerinde, çeşitli bitki türleri yer alıyor. Bu bitki türleri, mevsimsel değişimlere göre farklılık gösteriyor. İlkbahar ve yaz aylarında, tepe etrafındaki bitkiler yeşil ve canlı bir görünüm sergilerken, sonbahar ve kış aylarında daha sakin bir hava hakim oluyor. Kurşun Tepe, aynı zamanda fauna açısından da zengin. Bu bölgede, çeşitli hayvan türleri yaşamını sürdürüyor.
 
 ## Flora ve Fauna
 

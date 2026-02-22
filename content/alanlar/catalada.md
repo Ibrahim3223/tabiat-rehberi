@@ -45,7 +45,7 @@ Doğal güzellikleri ile dikkat çeken Çatalada, Muğla'nın eşsiz coğrafyas�
 
 Jeolojik açıdan bakıldığında, Çatalada'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, ada genel olarak Ege Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölgede bulunan diğer adalar gibi, Çatalada'nın da coğrafyası, küçük boyutuna rağmen, çeşitli yüksekli ve alçaklıkları içeriyor. Ada, birkaç olimpik havuz kadar bir alanı kaplıyor ve bu küçük boyutuna rağmen, ziyaretçilerini cezbeden bir güzelliğe sahip.
 
-Mevsimsel değişikliklere bakıldığında, Çatalada'nın iklim karakteri Ege Bölgesi'nin genel iklimine benzerlik gösteriyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakim. Bu mevsimsel özellikler, adanın florası ve faunası üzerinde önemli bir etkiye sahip ve ada, zengin bir ekosisteme ev sahipliği yapıyor.
+Mevsimsel değişikliklere bakıldığında, Çatalada'nın iklim karakteri Ege Bölgesi'nin genel iklimine benzerlik gösteriyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakim. Bu mevsimsel özellikler, adanın florası ve faunası üzerinde önemli bir etkiye sahip ve ada, zengin bir ekosisteme ev sahipliği yapıyor.
 
 Çevresel açıdan bakıldığında, Çatalada komşu adalar ve su kaynakları ile bağlantılı bir ekosistem içinde yer alıyor. Ada, Ege Denizi'nin bir parçası olarak, bu bölgedeki diğer adalar ve su kaynakları ile birlikte, bir bütün olarak değerlendiriliyor. Bu bağlantı, adanın doğal güzelliklerini koruma ve sürdürmek için önemli bir faktör ve ada, ziyaretçilerini bu eşsiz güzelliği ile büyülüyor.
 

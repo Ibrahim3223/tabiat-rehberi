@@ -45,7 +45,7 @@ Esma Hanım Türbesi ve çevresi, çeşitli flora ve fauna türlerine ev sahipli
 
 ## Ziyaret Bilgileri
 
-Esma Hanım Türbesi'ni ziyaret etmek için, Talas'a ulaşmak gerekiyor. Talas, Kayseri'nin merkezi ile bağlantılı ve ulaşım oldukça kolay. Türbeye ulaşmak için, Talas'ın merkezinden hareket eden toplu taşıma araçları veya özel araçlar kullanabilirsiniz. Esma Hanım Türbesi'ni ziyaret etmek için en uygun zaman, bahar ve yaz ayları olarak kabul ediliyor. Bu dönemde, hava daha sıca ve güneşli oluyor ve ziyaretçilere daha iyi bir deneyim sunuyor.
+Esma Hanım Türbesi'ni ziyaret etmek için, Talas'a ulaşmak gerekiyor. Talas, Kayseri'nin merkezi ile bağlantılı ve ulaşım oldukça kolay. Türbeye ulaşmak için, Talas'ın merkezinden hareket eden toplu taşıma araçları veya özel araçlar kullanabilirsiniz. Esma Hanım Türbesi'ni ziyaret etmek için en uygun zaman, bahar ve yaz ayları olarak kabul ediliyor. Bu dönemde, hava daha sıcak ve güneşli oluyor ve ziyaretçilere daha iyi bir deneyim sunuyor.
 
 ## İlginç Bilgiler
 

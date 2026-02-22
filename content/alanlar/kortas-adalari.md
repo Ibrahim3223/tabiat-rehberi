@@ -45,7 +45,7 @@ Körtaş Adaları, bu tarihi ve kültürel zenginliğin bir parçası olarak, do
 
 Doğal güzellikleri ile dikkat çeken Körtaş Adaları, fiziki yapısı hakkında detaylı bilgi bulunmasa da, koordinatlarından adaların konumunu ve çevresini anlamamız mümkün. Birkaç olimpik havuz kadar küçük bir alanda yer alan bu adalar, Ege Denizi'nin mavilikleri içinde birer gizli cennet gibi duruyor. Jeolojik açıdan bakıldığında, adaların oluşumu ve yapısı hakkında daha fazla bilgiye ihtiyaç duyuyoruz, ancak bu küçük ada grubunun güzelliği, Ege Denizi'nin genel coğrafyası içinde önemli bir yer tutuyor.
 
-Mevsimsel özelliklere bakıldığında, Körtaş Adaları'nın iklim karakteri, Ege Bölgesi'nin genel iklimine benzerlik gösteriyor. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir hava durumu hakim. Bu mevsimsel değişimler, adaların flora ve fauna'sını şekillendirmiş ve burada yaşayan canlıların uyum sağlamasını sağlamış.
+Mevsimsel özelliklere bakıldığında, Körtaş Adaları'nın iklim karakteri, Ege Bölgesi'nin genel iklimine benzerlik gösteriyor. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava durumu hakim. Bu mevsimsel değişimler, adaların flora ve fauna'sını şekillendirmiş ve burada yaşayan canlıların uyum sağlamasını sağlamış.
 
 Çevresel açıdan bakıldığında, Körtaş Adaları, İzmir'in şehir merkezine yakın bir konumda yer alıyor. Komşu alanlar ve su kaynakları, adaların ekosistem bağlantılarını etkiliyor. Monaco'nun küçük bir bölümü büyüklüğünde olan bu adalar, Ege Denizi'nin su kaynakları ile bağlantılı ve bu su kaynakları, adaların doğal yaşamını desteklemekte önemli bir rol oynuyor.
 

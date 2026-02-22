@@ -30,7 +30,7 @@ Kahramanmaras-Elmalar Toros Sediri milli parkının tarihi geçmişi, yüzyılla
 
 ## Coğrafya
 
-Kahramanmaras-Elmalar Toros Sediri milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Parkın coğrafyası, dağlık ve engebeli bir araziye sahiptir. Burada, çeşitli bitki türleri ve zengin fauna bulunur. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde, karasal bir iklimdir. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kuraktır. Kahramanmaras-Elmalar Toros Sediri milli parkı, ziyaretçilerine doğa yürüyüşü, kamp ve diğer açık hava etkinlikleri için ideal bir ortam sunar. Parkın çevresi, diğer doğal alanlara ve önemli yapılara yakındır, bu nedenle ziyaretçiler için birçok seçenek sunar.
+Kahramanmaras-Elmalar Toros Sediri milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Parkın coğrafyası, dağlık ve engebeli bir araziye sahiptir. Burada, çeşitli bitki türleri ve zengin fauna bulunur. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde, karasal bir iklimdir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kuraktır. Kahramanmaras-Elmalar Toros Sediri milli parkı, ziyaretçilerine doğa yürüyüşü, kamp ve diğer açık hava etkinlikleri için ideal bir ortam sunar. Parkın çevresi, diğer doğal alanlara ve önemli yapılara yakındır, bu nedenle ziyaretçiler için birçok seçenek sunar.
 
 ## Flora ve Fauna
 

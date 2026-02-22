@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Nakabaderba Sırtı, Batman'ın dağlık
 
 Jeolojik açıdan bakıldığında, Nakabaderba Sırtı'nın fiziksel yapısı hakkında net bilgiler olmasa da, bölgenin genel coğrafyası dağlık ve engebeli bir yapıya sahip. Bu dağlık bölgenin boyutları tam olarak bilinmese de, genel olarak bölgenin genişliği birkaç kilometrelik bir alana yayıldığı söylenebilir. Bu boyutlar, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplayabilir.
 
-Mevsimsel açıdan, Nakabaderba Sırtı'nın iklim karakteri bölgenin coğrafi konumu nedeniyle oldukça değişken. Kış aylarında soğu ve kar yağışlı bir hava hakimken, yaz aylarında sıcaklık artıyor. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Eiffel Kulesi'nin yüksekliğine yakın noktalara ulaşan bu dağlık bölgenin zirvelerinde, hava koşulları daha sert ve soğuk oluyor.
+Mevsimsel açıdan, Nakabaderba Sırtı'nın iklim karakteri bölgenin coğrafi konumu nedeniyle oldukça değişken. Kış aylarında soğuk ve kar yağışlı bir hava hakimken, yaz aylarında sıcaklık artıyor. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Eiffel Kulesi'nin yüksekliğine yakın noktalara ulaşan bu dağlık bölgenin zirvelerinde, hava koşulları daha sert ve soğuk oluyor.
 
 Çevresel açıdan bakıldığında, Nakabaderba Sırtı'nın komşu alanlar ve su kaynaklarıyla bağlantılı bir ekosisteme sahip olduğu görülüyor. Bölgenin yakınında bulunan su kaynakları, yerel flora ve fauna için hayati önem taşıyor. Bu doğal dengenin korunması, bölgenin uzun vadeli ekolojik sağlığı için son derece önemli. Monaco'nun yarısı kadar bir alanı kaplayacak büyüklükte olan bu dağlık bölge, bölgenin doğal güzelliğini korumanın yanı sıra, ekolojik çeşitliliğin devamı için de büyük bir önem taşıyor.
 

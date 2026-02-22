@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden Siirt'in merkezine yaklaşık 30 k
 
 Jeolojik açıdan bakıldığında, Gehaşin Boğazı'nın oluşumu oldukça ilginç. Bölgenin jeolojik yapısı, kayaçların aşınması ve suyun etkisiyle şekillenmiş. Bu bölgenin yüksekliği, 85 katlı bir gökdelen kadar yükseklikte olan dağlarla çevrili. Bu dağların eteklerinde yer alan Gehaşin Boğazı, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor.
 
-İklim açısından Gehaşin Boğazı, Doğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, karasal iklimin hakim olduğu bir bölge olarak biliniyor. Kışlar soğu ve kar yağışlı, yazlar ise sıca ve kurak geçiyor. Gehaşin Boğazı, bu mevsimsel özelliklere göre şekillenmiş ve bu iklim şartlarına uyum sağlamış.
+İklim açısından Gehaşin Boğazı, Doğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, karasal iklimin hakim olduğu bir bölge olarak biliniyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Gehaşin Boğazı, bu mevsimsel özelliklere göre şekillenmiş ve bu iklim şartlarına uyum sağlamış.
 
 Çevresel açıdan Gehaşin Boğazı, bölgenin su kaynaklarına ve ekosistemine önemli katkılar sağlıyor. Monaco'nun yarısı kadar büyüklüğünde bir alanı kaplayan bu bölge, komşu alanlarla birlikte bir bütün olarak işlev görüyor. Gehaşin Boğazı, aynı zamanda bölgenin biyolojik çeşitliliğine de katkıda bulunuyor. Bu nedenle, Gehaşin Boğazı, doğa severler ve coğrafya meraklıları için önemli bir destinasyon olarak dikkat çekiyor.
 
@@ -52,7 +52,7 @@ Jeolojik açıdan bakıldığında, Gehaşin Boğazı'nın oluşumu oldukça ilg
 
 Gehaşin Boğazı, yarı kurak iklimin hakim olduğu bir bölgede yer alan bir kanyon olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapar. Bitki örtüsü olarak, bozkır ve ova ekolojisinin karakteristik türleri, ilkbaharın gelmesiyle birlikte renkli çiçekler açarak bölgenin manzarasını değiştirir. Sonbaharda, gökyüzü göçmen kuşların geçiş güzergahı haline gelir.
 
-Kanyonun yaban hayatı, memeliler, kuşlar ve sürüngenler olmak üzere çeşitli canlılarla zenginleştirir. Yöre karakteristik türleri olan küçük memeliler, kayalık alanlarda ve otsu bitkilerin arasında yaşamını sürdürür. Kuşlar, özellikle sonbahar ve ilkbahar aylarında, kanyonun gökyüzünü doldurur. Sürüngenler ise, sıca ve kurak bölgede, kayaların arasında ve otların arasında yaşamlarını sürdürürler.
+Kanyonun yaban hayatı, memeliler, kuşlar ve sürüngenler olmak üzere çeşitli canlılarla zenginleştirir. Yöre karakteristik türleri olan küçük memeliler, kayalık alanlarda ve otsu bitkilerin arasında yaşamını sürdürür. Kuşlar, özellikle sonbahar ve ilkbahar aylarında, kanyonun gökyüzünü doldurur. Sürüngenler ise, sıcak ve kurak bölgede, kayaların arasında ve otların arasında yaşamlarını sürdürürler.
 
 Gehaşin Boğazı, ekolojik olarak önemli bir bölgedir. Bu bölge, çeşitli canlı türlerinin yaşam alanlarını destekler ve göçmen kuşlar için önemli bir durak noktasıdır. Koruma altına alınması, bu benzersiz ekosistemin sürekliliğini sağlar ve gelecekteki nesiller için önemli bir doğal mirasın korunmasına katkıda bulunur.
 

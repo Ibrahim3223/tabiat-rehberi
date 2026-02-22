@@ -37,7 +37,7 @@ Hoca Ahmet Fakih Türbesi, tarihi geçmişi olan bir mekan olarak bilinir. Ancak
 
 ## Coğrafya
 
-Hoca Ahmet Fakih Türbesi, Meram'da, Konya ilinin İç Anadolu Bölgesi'nde bulunur. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahiptir. Türbenin etrafındaki plaj, doğal güzellikleriyle dikkat çeker. Burada, çeşitli bitki türleri ve zengin fauna foundir. Mekan, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Hoca Ahmet Fakih Türbesi, Meram'ın coğrafi güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Bu bölgede, iklim genellikle karasal iklim özelliklerini taşır. Yaz ayları sıca ve kurak, kış ayları ise soğu ve karlı geçer. Bahar ve sonbahar ayları, mevsimsel değişimlerin yaşandığı ve doğanın canlandığı dönemlerdir. Hoca Ahmet Fakih Türbesi, ziyaretçilerini dört mevsim boyunca farklı güzelliklerle karşılar.
+Hoca Ahmet Fakih Türbesi, Meram'da, Konya ilinin İç Anadolu Bölgesi'nde bulunur. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahiptir. Türbenin etrafındaki plaj, doğal güzellikleriyle dikkat çeker. Burada, çeşitli bitki türleri ve zengin fauna foundir. Mekan, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Hoca Ahmet Fakih Türbesi, Meram'ın coğrafi güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Bu bölgede, iklim genellikle karasal iklim özelliklerini taşır. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve karlı geçer. Bahar ve sonbahar ayları, mevsimsel değişimlerin yaşandığı ve doğanın canlandığı dönemlerdir. Hoca Ahmet Fakih Türbesi, ziyaretçilerini dört mevsim boyunca farklı güzelliklerle karşılar.
 
 ## Flora ve Fauna
 

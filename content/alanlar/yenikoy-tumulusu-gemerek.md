@@ -37,7 +37,7 @@ Yeniköy Tümülüsü, tarihi geçmişi ile dikkat çekiyor. Bu tümülüsün ta
 
 ## Coğrafya
 
-Yeniköy Tümülüsü, Sivas'ın Gemerek ilçesinde yer alıyor. Bu bölge, coğrafi olarak İç Anadolu Bölgesi'nin merkezi konumunda yer alıyor. Tümülüs, 140 hektarlık alan üzerine kurulu ve yaklaşık 200 futbol sahası büyüklüğünde. Coğrafi olarak, bölgenin iklimi karasal iklim özellikleri gösteriyor. Bölge, yazları sıca ve kurak, kışları ise soğu ve kar yağışlı geçiyor. Bu coğrafi özellikler, bölgenin flora ve faunasını etkiliyor. Bölgenin coğrafi konumu, tarihi ve kültürel zenginliğini de şekillendiriyor.
+Yeniköy Tümülüsü, Sivas'ın Gemerek ilçesinde yer alıyor. Bu bölge, coğrafi olarak İç Anadolu Bölgesi'nin merkezi konumunda yer alıyor. Tümülüs, 140 hektarlık alan üzerine kurulu ve yaklaşık 200 futbol sahası büyüklüğünde. Coğrafi olarak, bölgenin iklimi karasal iklim özellikleri gösteriyor. Bölge, yazları sıcak ve kurak, kışları ise soğuk ve kar yağışlı geçiyor. Bu coğrafi özellikler, bölgenin flora ve faunasını etkiliyor. Bölgenin coğrafi konumu, tarihi ve kültürel zenginliğini de şekillendiriyor.
 
 ## Flora ve Fauna
 

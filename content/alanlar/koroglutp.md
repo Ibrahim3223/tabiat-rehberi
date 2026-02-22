@@ -30,7 +30,7 @@ KÖROĞLU_TP'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bölgede, 
 
 ## Coğrafya
 
-KÖROĞLU_TP, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. 140 hektarlık geniş yeşil alanı, çeşitli bitki türleriyle kaplıdır ve ziyaretçilerine geniş açık alanlar sunuyor. Milli parkın coğrafi konumu, ziyaretçilerin doğayla iç içe olmasını sağlıyor. İklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal özellikleri taşıyor. Kışları soğu ve karlı, yazları ise sıcak ve kurak passing. KÖROĞLU_TP, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunuyor. Çevre düzenlemeleri, ziyaretçilerin konforunu düşünerek tasarlanmış ve doğal güzelliği bozmadan gerçekleştirilmiştir. KÖROĞLU_TP, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
+KÖROĞLU_TP, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. 140 hektarlık geniş yeşil alanı, çeşitli bitki türleriyle kaplıdır ve ziyaretçilerine geniş açık alanlar sunuyor. Milli parkın coğrafi konumu, ziyaretçilerin doğayla iç içe olmasını sağlıyor. İklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal özellikleri taşıyor. Kışları soğuk ve karlı, yazları ise sıcak ve kurak passing. KÖROĞLU_TP, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunuyor. Çevre düzenlemeleri, ziyaretçilerin konforunu düşünerek tasarlanmış ve doğal güzelliği bozmadan gerçekleştirilmiştir. KÖROĞLU_TP, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

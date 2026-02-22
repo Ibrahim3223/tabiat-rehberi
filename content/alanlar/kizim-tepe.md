@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin tarihi kentlerinden biri olan Mardin'in sınır
 
 Doğal güzellikleri ve tarihi önemiyle dikkat çeken bu bölge, boyut olarak yaklaşık bir şehir bloğu büyüklüğündedir. Jeolojik yapısı itibariyle, tepe ve çevresindeki araziler genelde kireçtaşı ve kiltaşı gibi sedimanter kayaçlardan oluşmaktadır. Bu jeolojik özellikler, bölgenin coğrafi yapısını şekillendirmiş veUnique bir manzara ortaya çıkarmıştır.
 
-Mevsimsel olarak, Mardin ve çevresinin iklimi karasal iklim özellikleri gösterir. Yaz ayları oldukça sıca ve kurak, kış ayları ise soğu ve yağışlı geçer. Bu iklim koşulları, bölgenin flora ve fauna yapısını etkiler ve belirli bir ekosistemi destekler. Kızım Tepe'nin iklimi de bu genel eğilimden etkilenir ve mevsimsel olarak değişken bir hava durumu sergiler.
+Mevsimsel olarak, Mardin ve çevresinin iklimi karasal iklim özellikleri gösterir. Yaz ayları oldukça sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçer. Bu iklim koşulları, bölgenin flora ve fauna yapısını etkiler ve belirli bir ekosistemi destekler. Kızım Tepe'nin iklimi de bu genel eğilimden etkilenir ve mevsimsel olarak değişken bir hava durumu sergiler.
 
 Çevresel açıdan bakıldığında, Kızım Tepe Mardin'in diğer doğal ve tarihi alanlarına oldukça yakındır. Bölge, Dicle Nehri'nin kuzeyinde yer alır ve bu büyük su kaynağı, bölgenin ekosistemini destekler. Ayrıca, tepe ve çevresindeki araziler, bölgenin flora ve fauna çeşitliliğini korur ve bir doğal yaşam alanı olarak işlev görür. Bu nedenle, Kızım Tepe ve çevresi, Mardin'in önemli bir doğal ve tarihi zenginliği olarak kabul edilir.
 

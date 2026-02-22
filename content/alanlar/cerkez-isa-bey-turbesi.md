@@ -37,7 +37,7 @@ wikidata_id: "Q131391709"
 
 ## Coğrafya
 
-Çerkez İsa Bey Türbesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir mekan olarak dikkat çekmektedir. Bu alan, Çayıralan ilçesinin merkezi kısmında yer almaktadır ve çevresinde çeşitli doğal güzellikler bulunmaktadır. Özellikle ilkbahar ve yaz aylarında yeşeren flora ile birlikte, bu bölge ziyaretçilerine doğanın güzelliğini sunmaktadır. Çerkez İsa Bey Türbesi'nin coğrafi konumu, aynı zamanda bölgenin iklimini de etkilemektedir. İç Anadolu Bölgesi'nin karasal ikliminin hüküm sürdüğü bu bölgede, kış ayları soğu ve kar yağışlı geçerken, yaz ayları sıca ve kurak geçmektedir. Bu coğrafi özellikler, Çerkez İsa Bey Türbesi'nin ziyaretçileri için önemli bir deneyim oluşturmaktadır.
+Çerkez İsa Bey Türbesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir mekan olarak dikkat çekmektedir. Bu alan, Çayıralan ilçesinin merkezi kısmında yer almaktadır ve çevresinde çeşitli doğal güzellikler bulunmaktadır. Özellikle ilkbahar ve yaz aylarında yeşeren flora ile birlikte, bu bölge ziyaretçilerine doğanın güzelliğini sunmaktadır. Çerkez İsa Bey Türbesi'nin coğrafi konumu, aynı zamanda bölgenin iklimini de etkilemektedir. İç Anadolu Bölgesi'nin karasal ikliminin hüküm sürdüğü bu bölgede, kış ayları soğuk ve kar yağışlı geçerken, yaz ayları sıcak ve kurak geçmektedir. Bu coğrafi özellikler, Çerkez İsa Bey Türbesi'nin ziyaretçileri için önemli bir deneyim oluşturmaktadır.
 
 ## Flora ve Fauna
 

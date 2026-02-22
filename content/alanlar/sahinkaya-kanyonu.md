@@ -45,7 +45,7 @@ Doğal güzelliklerin yoğunlaştığı bir bölge olan Şahinkaya Kanyonu, 41.2
 
 Jeolojik açıdan incelendiğinde, kanyonun yapısı oldukça ilginç. Yüksekliği Eiffel Kulesi'nin 2 katı yükseklikte olan bazı noktaları bulunan Şahinkaya Kanyonu, bir şehir bloğu büyüklüğünde olan bazı küçük alanlara da sahip. Bu farklılıklar, kanyonun karmaşık ve çeşitli bir jeolojik yapıya sahip olduğunu gösteriyor. Ancak, daha detaylı fiziksel verilere ihtiyaç duyuluyor.
 
-Mevsimsel özelliklere bakıldığında, Şahinkaya Kanyonu'nun iklim karakteri oldukça değişken. Kış aylarında soğu ve yağışlı olan kanyon, yaz aylarında sıca ve kurak bir hava durumu sergiliyor. Bu mevsimsel değişimler, kanyonun ekosisteminin çeşitlilik göstermesine neden oluyor. Monaco'nun yarısı kadar büyüklüğünde olan bazı komşu alanlar, kanyonun çevresel ilişkilerini etkiliyor.
+Mevsimsel özelliklere bakıldığında, Şahinkaya Kanyonu'nun iklim karakteri oldukça değişken. Kış aylarında soğuk ve yağışlı olan kanyon, yaz aylarında sıcak ve kurak bir hava durumu sergiliyor. Bu mevsimsel değişimler, kanyonun ekosisteminin çeşitlilik göstermesine neden oluyor. Monaco'nun yarısı kadar büyüklüğünde olan bazı komşu alanlar, kanyonun çevresel ilişkilerini etkiliyor.
 
 Çevresel açıdan incelendiğinde, Şahinkaya Kanyonu'nun su kaynakları ve ekosistem bağlantıları oldukça önemli. Beşiktaş ilçesi kadar büyük olan bazı komşu alanlar, kanyonun su kaynaklarını etkiliyor. Bu su kaynakları, kanyonun ekosisteminin çeşitlilik göstermesine yardımcı oluyor. Ancak, daha detaylı bilgiler benötılıyor.
 

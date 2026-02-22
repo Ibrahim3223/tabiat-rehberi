@@ -44,7 +44,7 @@ Bahadır Adası, İzmir'in tarihî ve kültürel zenginliğinin bir yansıması 
 
 Doğal güzelliği ile dikkat çeken Bahadır Adası, yaklaşık bir şehir bloğu büyüklüğünde bir alana sahiptir. Ada, Ege Denizi'nin dalgalı suları tarafından şekillenmiş bir jeolojiye sahiptir. Ada'nın şekli, zaman içinde oluşan erozyon ve sedimentasyon süreçlerinin bir sonucu olarak oluşmuştur. Bu doğal süreçler, adanın yüzeyini şekillendirmiş ve eşsiz bir coğrafi yapı oluşturmuştur.
 
-İklim açısından, Bahadır Adası, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava hüküm sürer. Ada, mevsimsel değişimlere göre farklı bir güzelliğe bürünür. Yazın, ada sıcaklığın 30 dereceye ulaştığı günlerde, serin Ege Denizi suları ziyaretçilere ferahlık sağlar.
+İklim açısından, Bahadır Adası, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava hüküm sürer. Ada, mevsimsel değişimlere göre farklı bir güzelliğe bürünür. Yazın, ada sıcaklığın 30 dereceye ulaştığı günlerde, serin Ege Denizi suları ziyaretçilere ferahlık sağlar.
 
 Bahadır Adası'nın çevresel ilişkileri, bölgenin ekosistemini önemli ölçüde etkiler. Ada, Karaburun Yarımadası'nın karşı kıyısında yer alır ve Ege Denizi'nin zengin su kaynaklarına erişim sağlar. Bu su kaynakları, ada çevresindeki deniz ekosistemini destekler ve çeşitli deniz canlılarına ev sahipliği yapar. Ada, bölgenin doğal dengesini korumak için önemli bir rol oynar ve çevre ile uyumlu bir şekilde korunması gerekmektedir.
 

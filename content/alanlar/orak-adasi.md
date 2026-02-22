@@ -44,7 +44,7 @@ Doğal güzellikleri ile göz dolduran Orak Adası, İzmir'in kıyı şeridinde 
 
 Jeolojik açıdan incelendiğinde, Orak Adası'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, koordinatlarından hareketle adanın konumunu ve çevresini analiz etme mümkün. Ada, İzmir'in kıyı şeridinin bir parçası olarak, Ege Denizi'nin suları ile çevrili durumda. Birkaç olimpik havuz kadar küçük bir alan olan Orak Adası, küçük boyutuna rağmen doğal güzellikleri ile dikkat çekiyor.
 
-Mevsimsel olarak incelendiğinde, Orak Adası'nın iklim karakteri, Ege Bölgesi'nin genel iklim yapısına benzerlik gösteriyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir iklim hüküm sürüyor. Bu durum, adanın flora ve fauna çeşitliliği açısından zengin bir ekosisteme sahip olmasını sağlıyor.
+Mevsimsel olarak incelendiğinde, Orak Adası'nın iklim karakteri, Ege Bölgesi'nin genel iklim yapısına benzerlik gösteriyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir iklim hüküm sürüyor. Bu durum, adanın flora ve fauna çeşitliliği açısından zengin bir ekosisteme sahip olmasını sağlıyor.
 
 Çevresel açıdan bakıldığında, Orak Adası'nın komşu alanlar ile bağlantılı bir yapıya sahip olduğu görülüyor. Ada, Ege Denizi'nin su kaynakları ile çevrili durumda ve bu su kaynakları, adanın ekosistemini besliyor. Ayrıca, adanın yakınında bulunan diğer adalar ve kıyı şeridi, Orak Adası'nın doğal güzelliklerini tamamlıyor ve bir bütün olarak değerlendirildiğinde, bu bölge, Ege Bölgesi'nin en önemli doğal güzelliklerinden biri olarak ortaya çıkıyor.
 

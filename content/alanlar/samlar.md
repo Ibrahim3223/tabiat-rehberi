@@ -31,7 +31,7 @@ wikidata_id: "Q108228356"
 
 ## Coğrafya
 
-Şamlar, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, geniş otlaklar ve ormanlarla kaplıdır. Şamlar'da iklim, karasal iklim özellikleri gösterir ve mevsimsel değişimler belirgindir. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Şamlar, coğrafi olarak çeşitlilik gösterir ve burada farklı yüksekliklerde farklı bitki türleri bulunur. Bu milli park, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapar. Şamlar'da, coğrafi özellikler, ziyaretçilere doğanın güzelliğini gösterir.
+Şamlar, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, geniş otlaklar ve ormanlarla kaplıdır. Şamlar'da iklim, karasal iklim özellikleri gösterir ve mevsimsel değişimler belirgindir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Şamlar, coğrafi olarak çeşitlilik gösterir ve burada farklı yüksekliklerde farklı bitki türleri bulunur. Bu milli park, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapar. Şamlar'da, coğrafi özellikler, ziyaretçilere doğanın güzelliğini gösterir.
 
 ## Flora ve Fauna
 

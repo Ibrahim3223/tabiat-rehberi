@@ -54,7 +54,7 @@ Ada'nın çevresel ilişkileri, komşu adalar ve su kaynakları ile bağlantıl�
 
 Irakliye adası, Ege Denizi'nin sularında bir gizli cennet olarak bekliyor. Bu 1200 hektarlık yeşil cennet, step bitki örtüsüne ve bozkırın kuraklığına adapte olmuş türlerle dolu. Adanın ekosistemi, izole popülasyonlar, deniz kuşları ve kıyı bitkileriyle benzersiz bir yaşam alanı sunuyor.
 
-İlkbaharın gelmesiyle birlikte, ada çiçeklerle kaplanıyor. Çalılar ve otlar, adanın kurak arazilerini renklendiriyor. Sonbaharın yaklaşmasıyla, göçmen kuşlar ada üzerinde konaklıyor. Bu mevsimsel değişimler, adanın canlılarını etkiliyor. Memeliler, ada üzerinde bulunan bitkilerle beslenirken, deniz kuşları kıyıların zengin balık kaynaklarından yararlanıyor. Sürüngenler ise, adanın sıca ve kurak bölgelerinde yaşamını sürdürüyor.
+İlkbaharın gelmesiyle birlikte, ada çiçeklerle kaplanıyor. Çalılar ve otlar, adanın kurak arazilerini renklendiriyor. Sonbaharın yaklaşmasıyla, göçmen kuşlar ada üzerinde konaklıyor. Bu mevsimsel değişimler, adanın canlılarını etkiliyor. Memeliler, ada üzerinde bulunan bitkilerle beslenirken, deniz kuşları kıyıların zengin balık kaynaklarından yararlanıyor. Sürüngenler ise, adanın sıcak ve kurak bölgelerinde yaşamını sürdürüyor.
 
 Irakliye adasının ekolojik değeri, bu izole ekosistemin korunmasına bağlı. Ada, deniz kuşları ve diğer canlılar için önemli bir yaşam alanı sunuyor. Ancak, insan faaliyetleri ve iklim değişikliği, adanın hassas dengesini tehdit ediyor. Koruma çalışmaları, adanın doğal güzelliğini ve canlı çeşitliliğini korumak için gerekli görünüyor.
 

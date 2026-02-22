@@ -30,7 +30,7 @@ Hassa Lav Tüpü Mağaraları TA'nın tarihi geçmişi, binlerce yıl öncesine 
 
 ## Coğrafya
 
-Hassa Lav Tüpü Mağaraları TA, İç Anadolu Bölgesi'nin coğrafi yapısı itibariyle oldukça önemli bir konuma sahiptir. Bu mağaralar, bölgenin volkanik oluşumlarının bir sonucu olarak ortaya çıkmıştır. Mağaraların etrafında, çeşitli bitki türleri ve hayvanlar bulunur. Bu bölgede, mevsimsel değişimler sonucu farklı iklim koşulları hüküm sürer. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıcak ve kuru bir iklim hakimdir. Mağaraların içi, dışarıdaki iklim koşullarından izole bir şekilde sabit bir sıcaklığa sahiptir. Bu, mağaraların içinde yaşayan canlılar için ideal bir ortam oluşturur. Mağaraların coğrafi konumu, aynı zamanda bölgedeki su kaynaklarının oluşumunda da önemli bir rol oynar.
+Hassa Lav Tüpü Mağaraları TA, İç Anadolu Bölgesi'nin coğrafi yapısı itibariyle oldukça önemli bir konuma sahiptir. Bu mağaralar, bölgenin volkanik oluşumlarının bir sonucu olarak ortaya çıkmıştır. Mağaraların etrafında, çeşitli bitki türleri ve hayvanlar bulunur. Bu bölgede, mevsimsel değişimler sonucu farklı iklim koşulları hüküm sürer. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kuru bir iklim hakimdir. Mağaraların içi, dışarıdaki iklim koşullarından izole bir şekilde sabit bir sıcaklığa sahiptir. Bu, mağaraların içinde yaşayan canlılar için ideal bir ortam oluşturur. Mağaraların coğrafi konumu, aynı zamanda bölgedeki su kaynaklarının oluşumunda da önemli bir rol oynar.
 
 ## Flora ve Fauna
 

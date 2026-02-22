@@ -42,7 +42,7 @@ Tunceli'nin coğrafi zenginliklerine bir örnek olan Kırklar Dağı, 39.0492°K
 
 Doğal güzellikleri ve jeolojik yapısıyla dikkat çeken Kırklar Dağı, Tunceli'nin toplam yüzölçümünün küçük bir bölümünü kaplamaktadır. Monaco'nun yarısı kadar büyük bir alan kaplayan bu dağ, Tunceli'nin coğrafi çeşitliliğini göstermektedir. Yüksekliği Eiffel Kulesi'nin yaklaşık 2 katı olan bu dağ, Tunceli'nin en yüksek noktalarından biridir.
 
-Kış aylarında karla kaplanan Kırklar Dağı, yaz aylarında ise yeşilin her tonunu sunmaktadır. Mevsimsel değişikliklere göre hava durumu da değişmektedir. Kışın soğu ve karlı, yazın ise serin ve nemli bir iklimi vardır. Bu mevsimsel özellikler, dağın ekosistemine uyum sağlayan çeşitli bitki ve hayvan türlerinin yaşamına olanak sağlamaktadır.
+Kış aylarında karla kaplanan Kırklar Dağı, yaz aylarında ise yeşilin her tonunu sunmaktadır. Mevsimsel değişikliklere göre hava durumu da değişmektedir. Kışın soğuk ve karlı, yazın ise serin ve nemli bir iklimi vardır. Bu mevsimsel özellikler, dağın ekosistemine uyum sağlayan çeşitli bitki ve hayvan türlerinin yaşamına olanak sağlamaktadır.
 
 Kırklar Dağı, Tunceli'nin su kaynaklarına da önemli katkılar sağlamaktadır. Dağın eteklerinde oluşan su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılamaktadır. Ayrıca, dağın etrafındaki ormanlar, bölgenin ekosistem dengesini korumaktadır. Bu doğal dengenin korunması, Kırklar Dağı'nın çevresel ilişkilerinin önemini vurgulamaktadır.
 

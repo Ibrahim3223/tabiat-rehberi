@@ -46,7 +46,7 @@ Nakşa-Barre belediyesinin bir parçası olan İstanos adası, 37.1050°K ve 25.
 
 Doğal güzelliği ile dikkat çeken İstanos, bir olimpik havuz kadar küçük bir alana sahip. Adanın fiziksel yapısı, küçük boyutuna rağmen farklı jeolojik oluşumları barındırıyor. İstanos'un boyutları, bir birkaç kentsel parkın birleşmesiyle oluşan bir alanı kaplıyor. Bu küçük ama zengin coğrafya, ziyaretçilerini keşfetmeye davet ediyor.
 
-Mevsimsel değişikliklere uyum gösteren İstanos, Ege Denizi'nin karakteristik iklimini yansıtıyor. Yaz aylarında sıca ve kuru, kış aylarında ise ılık ve yağışlı bir hava durumu hakim. Bu iklim karakteri, adanın flora ve fauna çeşitliliğini etkiliyor. İstanos'un iklimi, Monaco'nun iklimine benzeyen bir Akdeniz iklimi tipini gösteriyor.
+Mevsimsel değişikliklere uyum gösteren İstanos, Ege Denizi'nin karakteristik iklimini yansıtıyor. Yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı bir hava durumu hakim. Bu iklim karakteri, adanın flora ve fauna çeşitliliğini etkiliyor. İstanos'un iklimi, Monaco'nun iklimine benzeyen bir Akdeniz iklimi tipini gösteriyor.
 
 İstanos'un çevresel ilişkileri, komşu adalar ve anakara ile yakın bir bağlantıyı içeriyor. Ege Denizi'nin bir parçası olan ada, su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahip. İstanos, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alana yayılmış olan bir ekosistem içinde yer alıyor. Bu ekosistem, çeşitli deniz canlılarına ev sahipliği yapıyor ve İstanos'un doğal güzelliğini koruyor.
 

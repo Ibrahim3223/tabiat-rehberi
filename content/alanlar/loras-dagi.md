@@ -43,7 +43,7 @@ Konya'nın dağlık bölgelerinde yer alan Loras Dağı, 37.8219°K, 32.2961°D 
 
 Jeolojik açıdan bakıldığında, Loras Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, koordinatlarından hareketle, bu dağın bulunduğu bölgenin coğrafyası về büyük bir çeşitlilik gösterir. Monaco'nun yarısı kadar bir alana sahip olmasa da, Loras Dağı'nın boyutları, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplar. Bu büyüklük, ziyaretçilerin doğayı keşfetmeleri için yeterli bir alan sunar.
 
-İklim açısından, Loras Dağı'nın bulunduğu bölge, Konya'nın genel iklim karakterini yansıtır. Mevsimsel özellikler, yaz aylarında sıca ve kurak, kış aylarında soğu ve kar yağışlı bir hava durumu gösterir. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkiler. Eiffel Kulesi'nin birkaç katı yükseklikte olmayan Loras Dağı, rağmen, ziyaretçilere, geniş bir manzara sunar.
+İklim açısından, Loras Dağı'nın bulunduğu bölge, Konya'nın genel iklim karakterini yansıtır. Mevsimsel özellikler, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve kar yağışlı bir hava durumu gösterir. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkiler. Eiffel Kulesi'nin birkaç katı yükseklikte olmayan Loras Dağı, rağmen, ziyaretçilere, geniş bir manzara sunar.
 
 Doğal kaynaklar açısından, Loras Dağı'nın bulunduğu bölge, su kaynakları ve ekosistem bağlantıları açısından önemlidir. Bölgenin komşu alanları, su kaynaklarını besler ve ekosistem bağlantılarını sağlar. Bu bağlantılar, bölgenin doğal dengesini korur ve ziyaretçilere, doğanın güzelliğini keşfetme fırsatı sunar.
 

@@ -42,7 +42,7 @@ Doğunun gizli köşelerinden biri olan Gora Serdi Dağı, 37.6497°K, 41.1714°
 
 Jeolojik açıdan bakıldığında, Gora Serdi Dağı'nın oluşumu ve yapısı hakkında detaylı bilgi bulunmuyor. Ancak, bölgenin genel jeolojik yapısı dikkate alındığında, Gora Serdi'nin de benzer özellikler taşıdığı söylenebilir. Dağın yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olabilir, ancak bu konuda net veriler bulunmuyor. Gora Serdi, bulunduğu bölgenin doğal güzelliğini ve çeşitliliğini koruyor.
 
-İklim açısından, Gora Serdi Dağı ve çevresinin mevsimsel özelliklerini değerlendirdiğimizde, bölgenin karasal iklimin etkisinde olduğu görülüyor. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kuru bir hava hüküm sürüyor. Bu mevsimsel değişimler, bölgenin flora ve fauna yapısını da etkiliyor.
+İklim açısından, Gora Serdi Dağı ve çevresinin mevsimsel özelliklerini değerlendirdiğimizde, bölgenin karasal iklimin etkisinde olduğu görülüyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kuru bir hava hüküm sürüyor. Bu mevsimsel değişimler, bölgenin flora ve fauna yapısını da etkiliyor.
 
 Gora Serdi Dağı, çevreyi etkileyen önemli bir faktör. Batman ilinin su kaynaklarının bir kısmını besleyen dağ, aynı zamanda bölgedeki ekosistem bağlantılarını da sağlıyor. Çevresindeki düzlükler ve diğer dağlarla birlikte, bir bütünü oluşturan Gora Serdi, Monaco'nun küçük bir kısmına eşit büyüklükte bir alanı kaplıyor. Bu doğal cennet, bölgenin doğal güzelliğini ve çeşitliliğini koruyor.
 

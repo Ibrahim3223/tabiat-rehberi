@@ -36,7 +36,7 @@ Tekeburcak Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Tari
 
 ## Coğrafya
 
-Tekeburcak Tepe, coğrafi olarak Akdeniz Bölgesi'nin bir parçasıdır. Bu tepe, Antalya'nın önemli coğrafi noktalarından biri olarak karşımıza çıkar. Tekeburcak Tepe, etrafındaki dağlarla birlikte bir bütün halinde bulunur. Bu tepe, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır. Tepe, coğrafi konumu itibarıyla önemli bir noktadır. Bu tepe, ziyaretçilerine doğal güzellikleri sunar. Tekeburcak Tepe'nin coğrafyası, ziyaretçilerini etkileyen bir güzelliğe sahiptir. Bu tepe, coğrafi güzellikleriyle birlikte önemli bir turizm merkezi haline gelmiştir.
+Tekeburcak Tepe, coğrafi olarak Akdeniz Bölgesi'nin bir parçasıdır. Bu tepe, Antalya'nın önemli coğrafi noktalarından biri olarak karşımıza çıkar. Tekeburcak Tepe, etrafındaki dağlarla birlikte bir bütün halinde bulunur. Bu tepe, yüksek bir konumda yer alır. Tepe, coğrafi konumu itibarıyla önemli bir noktadır. Bu tepe, ziyaretçilerine doğal güzellikleri sunar. Tekeburcak Tepe'nin coğrafyası, ziyaretçilerini etkileyen bir güzelliğe sahiptir. Bu tepe, coğrafi güzellikleriyle birlikte önemli bir turizm merkezi haline gelmiştir.
 
 ## Flora ve Fauna
 

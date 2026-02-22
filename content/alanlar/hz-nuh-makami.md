@@ -37,7 +37,7 @@ Hz. Nuh Makamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Hz. Nuh Makamı, Güneydoğu Anadolu Bölgesi'nin coğrafi açıdan en önemli noktalarından biridir. Bu özel yer, Cizre'de yer alır ve bölgenin en güzel doğal güzelliklerinden biridir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Bu mekan, aynı zamanda iklim açısından da dikkat çeker. Bölgenin iklimi, genellikle sıca ve kuru olarak tanımlanır, ancak Hz. Nuh Makamı'nın bulunduğu yer, daha serin ve nemli bir iklime sahiptir. Bu özel yer, doğal güzelliği ve coğrafi konumuyla bölgeye gelen ziyaretçilerin mutlaka ziyaret etmesi gereken bir yerdir.
+Hz. Nuh Makamı, Güneydoğu Anadolu Bölgesi'nin coğrafi açıdan en önemli noktalarından biridir. Bu özel yer, Cizre'de yer alır ve bölgenin en güzel doğal güzelliklerinden biridir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Bu mekan, aynı zamanda iklim açısından da dikkat çeker. Bölgenin iklimi, genellikle sıcak ve kuru olarak tanımlanır, ancak Hz. Nuh Makamı'nın bulunduğu yer, daha serin ve nemli bir iklime sahiptir. Bu özel yer, doğal güzelliği ve coğrafi konumuyla bölgeye gelen ziyaretçilerin mutlaka ziyaret etmesi gereken bir yerdir.
 
 ## Flora ve Fauna
 

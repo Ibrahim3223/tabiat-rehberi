@@ -38,7 +38,7 @@ Duatepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, �
 
 ## Coğrafya
 
-Duatepe, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, yüksek bir tepe olduğu için etrafındaki manzarayı net bir şekilde görebilme imkanı sunar. Duatepe'nin coğrafi yapısı, çeşitli bitki türlerinin yetişmesine elverişli bir ortam sağlar. Bu bölge, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal iklim özellikleri gösterir. Kışları soğu ve kar yağışlı, yazları ise sıcak ve kurak geçer. Duatepe, çevresindeki diğer tepelerle birlikte bir bütün olarak coğrafi bir sistem oluşturur. Bu sistem, bölgenin ekolojik dengesini korur ve flora ile fauna çeşitliliğini destekler. Duatepe'nin coğrafi konumu, çeşitli yaban hayvanlarının yaşamasına uygun bir ortam sağlar.
+Duatepe, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, yüksek bir tepe olduğu için etrafındaki manzarayı net bir şekilde görebilme imkanı sunar. Duatepe'nin coğrafi yapısı, çeşitli bitki türlerinin yetişmesine elverişli bir ortam sağlar. Bu bölge, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal iklim özellikleri gösterir. Kışları soğuk ve kar yağışlı, yazları ise sıcak ve kurak geçer. Duatepe, çevresindeki diğer tepelerle birlikte bir bütün olarak coğrafi bir sistem oluşturur. Bu sistem, bölgenin ekolojik dengesini korur ve flora ile fauna çeşitliliğini destekler. Duatepe'nin coğrafi konumu, çeşitli yaban hayvanlarının yaşamasına uygun bir ortam sağlar.
 
 ## Flora ve Fauna
 

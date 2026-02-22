@@ -43,7 +43,7 @@ Göller Yöresi'nin kalbinde yer alan Yeşil Ada, Isparta ilinin sınırları i�
 
 Doğal güzellikleri ile dikkat çeken Yeşil Ada, yaklaşık 1200 hektarlık bir yeşil cennet olarak karşımıza çıkmaktadır. Bu büyüklük, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Ada, Eğirdir Gölü'nün suları ile çevrilidir ve bu su kaynakları, adanın ekosistemini desteklemektedir. Ada, jeolojik olarak volkanik kökenli kayaçlardan oluşmaktadır.
 
-Mevsimsel değişimlerin etkisi altında olan Yeşil Ada, kış aylarında serin ve yağışlı, yaz aylarında ise sıca ve kurak bir iklime sahiptir. Bu iklim karakteri, adanın bitki örtüsünü ve wildlife'ını şekillendirmektedir. Ada, komşu alanlar ile birlikte bir ekosistem oluşturmaktadır. Eğirdir Gölü, adanın su kaynakları için önemli bir role sahiptir ve ada, gölün su dengesini desteklemektedir. Bu çevresel ilişkiler, adanın doğal güzelliklerini korumanın önemini vurgulamaktadır.
+Mevsimsel değişimlerin etkisi altında olan Yeşil Ada, kış aylarında serin ve yağışlı, yaz aylarında ise sıcak ve kurak bir iklime sahiptir. Bu iklim karakteri, adanın bitki örtüsünü ve wildlife'ını şekillendirmektedir. Ada, komşu alanlar ile birlikte bir ekosistem oluşturmaktadır. Eğirdir Gölü, adanın su kaynakları için önemli bir role sahiptir ve ada, gölün su dengesini desteklemektedir. Bu çevresel ilişkiler, adanın doğal güzelliklerini korumanın önemini vurgulamaktadır.
 
 ## Flora ve Fauna
 

@@ -31,7 +31,7 @@ wikidata_id: "Q108228239"
 
 ## Coğrafya
 
-Çamlık, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş bir yeşil alan. 140 hektarlık bu geniş alan, bölgeye özgü flora ve fauna çeşitliliğini barındırıyor. Coğrafi konumu itibarıyla, Çamlık'ın iklimi bölge için tipik bir İç Anadolu iklimi. Yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlı. Bu coğrafi özellikler, Çamlık'ın doğal güzelliklerini ve biyolojik çeşitliliğini şekillendiriyor. Alanın coğrafi yapısı, ziyaretçiler için çeşitli doğa aktivitelerine imkân tanıyor.
+Çamlık, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş bir yeşil alan. 140 hektarlık bu geniş alan, bölgeye özgü flora ve fauna çeşitliliğini barındırıyor. Coğrafi konumu itibarıyla, Çamlık'ın iklimi bölge için tipik bir İç Anadolu iklimi. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı. Bu coğrafi özellikler, Çamlık'ın doğal güzelliklerini ve biyolojik çeşitliliğini şekillendiriyor. Alanın coğrafi yapısı, ziyaretçiler için çeşitli doğa aktivitelerine imkân tanıyor.
 
 ## Flora ve Fauna
 

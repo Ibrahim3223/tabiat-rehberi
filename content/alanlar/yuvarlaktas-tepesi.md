@@ -36,7 +36,7 @@ Yuvarlaktaş Tepesi, tarihi geçmişiyle dikkat çeker. Bu tepe, yüzyıllar boy
 
 ## Coğrafya
 
-Yuvarlaktaş Tepesi, Van ilinin coğrafi yapısında önemli bir yer tutar. Bu tepe, yaklaşık yüksek bir konumdate bulunmaktadır ve eteklerinde çeşitli bitki türleri bulunur. Tepenin çevresi, yaban hayatı açısından zengindir ve ziyaretçiler, bu bölgede birçok farklı hayvan türüyle karşılaşabilir. Yuvarlaktaş Tepesi, Van'ın iklimine uygun olarak, yaz aylarında sıca ve kurak, kış aylarında soğu ve karlı bir hava koşuluna sahiptir. Bu tepenin manzarası, özellikle gün batımında ziyaret edilecek olursa, ziyaretçilere unutulmaz bir deneyim sunar. Tepenin geniş arazisi, ziyaretçilere geniş bir panorama sunar ve bu bölge, doğa severler için bir cennet gibidir.
+Yuvarlaktaş Tepesi, Van ilinin coğrafi yapısında önemli bir yer tutar. Bu tepe, yüksek bir konumda bulunmaktadır ve eteklerinde çeşitli bitki türleri bulunur. Tepenin çevresi, yaban hayatı açısından zengindir ve ziyaretçiler, bu bölgede birçok farklı hayvan türüyle karşılaşabilir. Yuvarlaktaş Tepesi, Van'ın iklimine uygun olarak, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı bir hava koşuluna sahiptir. Bu tepenin manzarası, özellikle gün batımında ziyaret edilecek olursa, ziyaretçilere unutulmaz bir deneyim sunar. Tepenin geniş arazisi, ziyaretçilere geniş bir panorama sunar ve bu bölge, doğa severler için bir cennet gibidir.
 
 ## Flora ve Fauna
 

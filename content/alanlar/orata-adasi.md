@@ -44,7 +44,7 @@ Güneybatı Anadolu'nun gözdesi Muğla'nın sınırları içinde yer alan Orata
 
 Doğal güzelliği ile ön plana çıkan Orata Adası, jeolojik açıdan da dikkat çekici özellikler gösteriyor. Ada, Ege Denizi'nin kıyılarına yakın bir konumda yer alıyor ve bu bölgede genellikle kireçtaşı ve volkanik kayaçlar hakim. Orata Adası'nın boyutları, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor, ancak ada henüz tam olarak incelenmediğiçin dahalı fiziksel veriler bulunmuyor.
 
-Mevsimsel değişimlerin yaşandığı bir iklim bölgesinde yer alan Orata Adası, yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir hava durumuna sahip. Bu iklim karakteri, adanın flora ve faunasını şekillendirmiş ve ziyaretçilere her mevsim farklı bir güzellik sunuyor. Ege Denizi'nin etkileri, adanın iklimini yumuşatıyor ve bu bölgede yıl boyunca ılıman bir hava hakim.
+Mevsimsel değişimlerin yaşandığı bir iklim bölgesinde yer alan Orata Adası, yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava durumuna sahip. Bu iklim karakteri, adanın flora ve faunasını şekillendirmiş ve ziyaretçilere her mevsim farklı bir güzellik sunuyor. Ege Denizi'nin etkileri, adanın iklimini yumuşatıyor ve bu bölgede yıl boyunca ılıman bir hava hakim.
 
 Komşu adalar ve anakara ile bağlantılı olan Orata Adası, çevresindeki su kaynakları ve ekosistemlerle de önemli bir ilişkiye sahip. Ada, Ege Denizi'nin zengin deniz yaşamına ev sahipliği yapıyor ve bu bölgede çeşitli balık türleri ve diğer deniz canlıları bulunabilir. Orata Adası, Monaco'nun küçük bir bölümü kadar bir alanı kaplıyor ve bu küçük ada, Ege Denizi'nin güzelliğini ve zenginliğini ziyaretçilerine sunuyor.
 

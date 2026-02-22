@@ -37,7 +37,7 @@ Mersin'in zengin tarihi ve doğal güzelliklerinin birleştiği noktada yer alan
 
 ## Coğrafya
 
-Şeyh Yusuf Reyhani Türbesi, Mersin'in Akdeniz sahil şeridinde yer alır. Bu bölge, Akdeniz ikliminin etkisinde olup, yazları sıca ve kurak, kışları ılıman ve yağışlı geçer. Türbe, deniz seviyesinden yaklaşık yüksek bir konumdate ve 140 hektarlık bir alana yayılır. Bu alan, çeşitli bitkiler ve ağaçlar ile kaplıdır ve doğa severler için bir cennet olarak kabul edilebilir. Akdeniz'in güzel plajlarına yakınlığı, türbeyi ziyaret edenlerin aynı zamanda deniz ve güneşin tadını çıkarmalarına olanak sağlar. Şeyh Yusuf Reyhani Türbesi, Mersin'in coğrafi güzelliklerinin birleştiği noktada yer alır ve ziyaretçilerini bu güzelliklerle baş başa bırakır.
+Şeyh Yusuf Reyhani Türbesi, Mersin'in Akdeniz sahil şeridinde yer alır. Bu bölge, Akdeniz ikliminin etkisinde olup, yazları sıcak ve kurak, kışları ılıman ve yağışlı geçer. Türbe, yüksek bir konumda ve 140 hektarlık bir alana yayılır. Bu alan, çeşitli bitkiler ve ağaçlar ile kaplıdır ve doğa severler için bir cennet olarak kabul edilebilir. Akdeniz'in güzel plajlarına yakınlığı, türbeyi ziyaret edenlerin aynı zamanda deniz ve güneşin tadını çıkarmalarına olanak sağlar. Şeyh Yusuf Reyhani Türbesi, Mersin'in coğrafi güzelliklerinin birleştiği noktada yer alır ve ziyaretçilerini bu güzelliklerle baş başa bırakır.
 
 ## Flora ve Fauna
 

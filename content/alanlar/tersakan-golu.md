@@ -46,7 +46,7 @@ Konya'nın doğusunda, 38.5884° kuzey enlemi ve 33.0856° doğu boylamında yer
 
 Doğal güzelliği ile dikkat çeken Tersakan Gölü, yaklaşık olarak Taksim Meydanı'nın 10 katı büyüklüğünde bir alanı kaplar. Gölün şekli ve boyutları, çevresindeki jeolojik yapıyla şekillenmiştir. Ancak, gölün fiziksel yapısı hakkında daha detaylı bilgi bulunmamaktadır. Bu reason, gölün coğrafi konumunu ve çevresel özelliklerini daha iyi anlamak için daha fazla araştırmaya ihtiyaç duyulduğunu göstermektedir.
 
-İklim koşulları açısından, Tersakan Gölü ve çevresindeki bölge, karasal iklimin hakim olduğu bir bölgedir. Kış aylarında soğu ve bazen kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürer. Bu mevsimsel değişiklikler, gölün su seviyesini ve çevresindeki ekosistemi etkiler. Gölün su kaynakları ve çevresindeki su döngüsü, bölgenin iklim karakterini şekillendiren önemli faktörlerdir.
+İklim koşulları açısından, Tersakan Gölü ve çevresindeki bölge, karasal iklimin hakim olduğu bir bölgedir. Kış aylarında soğu ve bazen kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürer. Bu mevsimsel değişiklikler, gölün su seviyesini ve çevresindeki ekosistemi etkiler. Gölün su kaynakları ve çevresindeki su döngüsü, bölgenin iklim karakterini şekillendiren önemli faktörlerdir.
 
 Çevresel açıdan, Tersakan Gölü, Konya'nın doğal yaşam alanları arasındaki önemli bir bağlantıyı oluşturur. Göl, çevresindeki stepler, ormanlar ve diğer su kaynaklarıyla birlikte bir ekosistem ağını oluşturur. Bu ekosistem, çok çeşitli bitki ve hayvan türlerini barındırır ve bölgenin biyolojik çeşitliliğini zenginleştirir. Gölün korunması ve sürdürülebilir yönetimi, bölgenin doğal dengesini korumak için önemlidir.
 

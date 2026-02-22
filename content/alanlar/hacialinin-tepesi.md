@@ -36,7 +36,7 @@ Hacıalinin Tepesi, tarihin derinliklerinden gelen bir geçmişe sahiptir. Güne
 
 ## Coğrafya
 
-Hacıalinin Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, genellikle sıca ve kurak bir iklimi olan bir coğrafyada yer alır. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve hayvanlar bulunur. Coğrafi konumu itibariyle, Hacıalinin Tepesi, bölgenin en önemli doğal ve kültürel merkezlerinden biri olarak kabul edilir. Tepenin zirvesinden, çevreyi kapsayan geniş bir manzara açılır ve ziyaretçiler, bölgenin coğrafi güzelliğini keşfedebilir.
+Hacıalinin Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, genellikle sıcak ve kurak bir iklimi olan bir coğrafyada yer alır. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve hayvanlar bulunur. Coğrafi konumu itibariyle, Hacıalinin Tepesi, bölgenin en önemli doğal ve kültürel merkezlerinden biri olarak kabul edilir. Tepenin zirvesinden, çevreyi kapsayan geniş bir manzara açılır ve ziyaretçiler, bölgenin coğrafi güzelliğini keşfedebilir.
 
 ## Flora ve Fauna
 

@@ -42,7 +42,7 @@ Doğu Anadolu Bölgesi'nin güneydoğusunda yer alan Batman, coğrafi açıdan o
 
 Jeolojik açıdan incelendiğinde, Gelika Mağarası'nın oluşumu oldukça ilginçtir. Mağaranın bulunduğu bölgenin jeolojik yapısı, kireç taşı ve diğer kayaçlardan oluşmaktadır. Bu kayaçlar, milyonlarca yıllık bir süreçte erozyon ve kimyasal çözünme sonucu şekillenmiştir. Gelika Mağarası, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplar ve bu küçük alanda bile doğanın mucizelerine şahit olma mümkündür.
 
-İklim açısından bakıldığında, Gelika Mağarası ve çevresinin iklimi, Doğu Anadolu Bölgesi'nin genel iklim karakterine benzerlik gösterir. Bölge, karasal iklim özellikleri taşır ve mevsimsel olarak önemli farklılıklar gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu iklim koşulları, mağaranın içinde ve dışında farklı ekosistemlerin oluşmasına neden olmuştur.
+İklim açısından bakıldığında, Gelika Mağarası ve çevresinin iklimi, Doğu Anadolu Bölgesi'nin genel iklim karakterine benzerlik gösterir. Bölge, karasal iklim özellikleri taşır ve mevsimsel olarak önemli farklılıklar gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu iklim koşulları, mağaranın içinde ve dışında farklı ekosistemlerin oluşmasına neden olmuştur.
 
 Gelika Mağarası, doğal güzelliği ve jeolojik önemi nedeniyle çevresindeki diğer doğal alanlarla bağlantılıdır. Mağaranın yakın çevresinde, çeşitli su kaynakları ve ekosistemler bulunmaktadır. Bu su kaynakları, mağaranın oluşumunda ve şekillenmesinde önemli bir rol oynamıştır. Ayrıca, mağara ve çevresindeki diğer doğal güzellikler, bölgenin turizm potansiyelini artırmaktadır ve bu nedenle korunmaları gerekmektedir.
 

@@ -37,7 +37,7 @@ Yemişkumu Anıt Mezarı'nın tarihi geçmişi, Erdemli ve Mersin'in tarihine ba
 
 ## Coğrafya
 
-Yemişkumu Anıt Mezarı, Erdemli'nin sahildeki bir bölümünde yer alır ve Akdeniz Bölgesi'nin doğal güzelliklerini sunar. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, geniş ve yeşil bir arazidir. Anıt mezarın etrafı, çeşitli bitki türleri ve ağaçlarla çevrilidir ve ziyaretçilere doğal bir ortam sunar. İklim, Akdeniz iklimi özellikleri taşır ve yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı geçer. Yemişkumu Anıt Mezarı, Erdemli'nin sahildeki konumundan dolayı, deniz ve kumsal manzaralarına da sahiptir. Bu doğal güzellikler, ziyaretçilerin keyifli ve dinlendirici bir gezi deneyimi yaşamasını sağlar.
+Yemişkumu Anıt Mezarı, Erdemli'nin sahildeki bir bölümünde yer alır ve Akdeniz Bölgesi'nin doğal güzelliklerini sunar. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, geniş ve yeşil bir arazidir. Anıt mezarın etrafı, çeşitli bitki türleri ve ağaçlarla çevrilidir ve ziyaretçilere doğal bir ortam sunar. İklim, Akdeniz iklimi özellikleri taşır ve yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı geçer. Yemişkumu Anıt Mezarı, Erdemli'nin sahildeki konumundan dolayı, deniz ve kumsal manzaralarına da sahiptir. Bu doğal güzellikler, ziyaretçilerin keyifli ve dinlendirici bir gezi deneyimi yaşamasını sağlar.
 
 ## Flora ve Fauna
 

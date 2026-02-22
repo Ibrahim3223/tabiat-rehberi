@@ -38,7 +38,7 @@ Güdük Minare'nin tarihi geçmişi oldukça eskidir. Bu plaj, yüzyıllar boyun
 
 ## Coğrafya
 
-Güdük Minare, Sivas ilinin merkezinde yer alan bir plajdır. Bu plaj, İç Anadolu Bölgesi'nin coğrafi özelliklerine sahiptir. Plajın çevresi, çeşitli dağlar ve tepelerle çevrilidir. Bu dağlar ve tepeler, plaja doğal bir güzellik kazandırır. Güdük Minare, aynı zamanda geniş bir sahile sahiptir. Bu sahil, ziyaretçiler tarafından güneşlenmek, denize girme ve çeşitli su sporları yapmak için kullanılır. Plajın iklimi, İç Anadolu Bölgesi'nin iklimine benzer. Kış ayları soğu ve karlı, yaz ayları ise sıcak ve kurudur. Bu nedenle, ziyaretçiler genellikle plaja yaz aylarında gelirler. Güdük Minare'nin coğrafi konumu, ziyaretçilere çeşitli faaliyetler yapmak için olanaklar sunar. Ziyaretçiler, plajda dolaşabilir, doğa yürüyüşleri yapabilir ve çeşitli su sporları yapabilirler.
+Güdük Minare, Sivas ilinin merkezinde yer alan bir plajdır. Bu plaj, İç Anadolu Bölgesi'nin coğrafi özelliklerine sahiptir. Plajın çevresi, çeşitli dağlar ve tepelerle çevrilidir. Bu dağlar ve tepeler, plaja doğal bir güzellik kazandırır. Güdük Minare, aynı zamanda geniş bir sahile sahiptir. Bu sahil, ziyaretçiler tarafından güneşlenmek, denize girme ve çeşitli su sporları yapmak için kullanılır. Plajın iklimi, İç Anadolu Bölgesi'nin iklimine benzer. Kış ayları soğuk ve karlı, yaz ayları ise sıcak ve kurudur. Bu nedenle, ziyaretçiler genellikle plaja yaz aylarında gelirler. Güdük Minare'nin coğrafi konumu, ziyaretçilere çeşitli faaliyetler yapmak için olanaklar sunar. Ziyaretçiler, plajda dolaşabilir, doğa yürüyüşleri yapabilir ve çeşitli su sporları yapabilirler.
 
 ## Flora ve Fauna
 

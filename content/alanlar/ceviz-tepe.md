@@ -36,7 +36,7 @@ Ceviz Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bu bölge,
 
 ## Coğrafya
 
-Ceviz Tepe, coğrafi olarak Marmara Bölgesi'nin kuzeybatısında yer alıyor. Kırklareli ilinin sınırları içerisinde bulunan bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Ceviz Tepe'nin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşuyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna encontruluyor. Ceviz Tepe'nin iklimi, Marmara Bölgesi'nin genel iklim şartlarına uygun olarak karasal ve ılıman bir yapıya sahip. Kışları soğu ve yağışlı, yazları ise sıcak ve kurak geçiyor. Bu coğrafi özellikler, Ceviz Tepe'yi doğa severler için bir cennet haline getiriyor.
+Ceviz Tepe, coğrafi olarak Marmara Bölgesi'nin kuzeybatısında yer alıyor. Kırklareli ilinin sınırları içerisinde bulunan bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Ceviz Tepe'nin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşuyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna encontruluyor. Ceviz Tepe'nin iklimi, Marmara Bölgesi'nin genel iklim şartlarına uygun olarak karasal ve ılıman bir yapıya sahip. Kışları soğuk ve yağışlı, yazları ise sıcak ve kurak geçiyor. Bu coğrafi özellikler, Ceviz Tepe'yi doğa severler için bir cennet haline getiriyor.
 
 ## Flora ve Fauna
 

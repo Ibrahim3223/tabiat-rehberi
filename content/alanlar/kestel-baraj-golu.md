@@ -46,7 +46,7 @@ Kestel Baraj Gölü, İzmir'in kuzeydoğusunda, 39.1383° kuzey enlemi ve 27.191
 
 Doğal bir gölle karşılaştırıldığında, Kestel Baraj Gölü'nün boyutları, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor. Ancak, gölün fiziksel yapısı hakkında detaylı bilgi bulunmuyor. Bununla birlikte, baraj gölleri genellikle uzun ve dar bir forma sahip oluyorlar. Kestel Baraj Gölü de, muhtemelen benzer bir forma sahip ve çevresi dağlık bir araziyle çevrili.
 
-İzmir'in iklimi, Akdeniz ikliminin özelliklerini taşıyor ve Kestel Baraj Gölü de bu iklimin etkilerini gösteriyor. Gölün çevresi, yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumuna sahip. Bu mevsimsel değişiklikler, gölün su seviyesini ve çevresindeki bitki örtüsünü etkiliyor. Göle komşu olan ormanlık alanlar, bu değişikliklere adapte olmuş ve zengin bir bitki çeşitliliğine sahip.
+İzmir'in iklimi, Akdeniz ikliminin özelliklerini taşıyor ve Kestel Baraj Gölü de bu iklimin etkilerini gösteriyor. Gölün çevresi, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumuna sahip. Bu mevsimsel değişiklikler, gölün su seviyesini ve çevresindeki bitki örtüsünü etkiliyor. Göle komşu olan ormanlık alanlar, bu değişikliklere adapte olmuş ve zengin bir bitki çeşitliliğine sahip.
 
 Çevresel açıdan, Kestel Baraj Gölü, bölgedeki su kaynakları ve ekosistemlerle bağlantılı. Göl, yakınlarında bulunan diğer su kaynaklarına göre, Monaco'nun küçük bir bölgesi kadar bir alanı kaplayacak büyüklüğe sahip. Bu boyut, gölü önemli bir su kaynağı haline getiriyor ve bölgenin ekosistemini etkiliyor. Gölün suyu, bölgedeki tarım ve sanayi faaliyetlerini desteklemekte önemli bir rol oynuyor.
 

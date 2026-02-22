@@ -30,7 +30,7 @@ Mugla-Kemer-Akcay Kızılçam 2 milli parkının tarihi geçmişi, yüzyıllar b
 
 ## Coğrafya
 
-Mugla-Kemer-Akcay Kızılçam 2 milli parkı, İç Anadolu Bölgesi'nde yer alır. Bu bölgenin coğrafyası, çeşitli dağlar, ovalar ve nehirler ile şekillenmiştir. Milli parkın konumu, ziyaretçilerin doğa ile iç içe bir deneyim yaşamalarına olanak tanır. 140 hektarlık bu yeşil alan, ziyaretçilere geniş bir açık alan sunar. Burada, ziyaretçiler doğa yürüyüşleri yapabilir, flora ve fauna hakkında bilgi edinebilirler. Milli parkın iklimi, karasal iklim özellikleri taşır. Kışlar soğu ve yağışlı, yazlar ise sıcak ve kurudur. Bu iklim, çeşitli bitki türleri ve fauna için elverişlidir. Milli parkın çevresi, çeşitli dağlar ve ovalar ile çevrilidir. Bu bölge, ziyaretçilere geniş bir açık alan sunar ve doğa ile iç içe bir deneyim yaşamalarına olanak tanır.
+Mugla-Kemer-Akcay Kızılçam 2 milli parkı, İç Anadolu Bölgesi'nde yer alır. Bu bölgenin coğrafyası, çeşitli dağlar, ovalar ve nehirler ile şekillenmiştir. Milli parkın konumu, ziyaretçilerin doğa ile iç içe bir deneyim yaşamalarına olanak tanır. 140 hektarlık bu yeşil alan, ziyaretçilere geniş bir açık alan sunar. Burada, ziyaretçiler doğa yürüyüşleri yapabilir, flora ve fauna hakkında bilgi edinebilirler. Milli parkın iklimi, karasal iklim özellikleri taşır. Kışlar soğuk ve yağışlı, yazlar ise sıcak ve kurudur. Bu iklim, çeşitli bitki türleri ve fauna için elverişlidir. Milli parkın çevresi, çeşitli dağlar ve ovalar ile çevrilidir. Bu bölge, ziyaretçilere geniş bir açık alan sunar ve doğa ile iç içe bir deneyim yaşamalarına olanak tanır.
 
 ## Flora ve Fauna
 

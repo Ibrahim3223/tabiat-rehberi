@@ -30,7 +30,7 @@ Mersin-Anamur-Abanoz Sedir milli parkı, uzun bir geçmişe sahiptir. Tarihi kay
 
 ## Coğrafya
 
-Mersin-Anamur-Abanoz Sedir milli parkı, İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak dağlık ve engebeli bir yapıya sahip. Milli parkın toplam alanı 1200 hektar olup, bu alanın büyük bir kısmı ormanlarla kaplıdır. Bölgenin iklimi, karasal iklim özellikleri gösteriyor. Yaz ayları sıca ve kurak, kış ayları ise soğu ve yağışlı geçiyor. Milli parkın coğrafi yapısı, çeşitli flora ve fauna türlerine ev sahipliği yapıyor.
+Mersin-Anamur-Abanoz Sedir milli parkı, İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak dağlık ve engebeli bir yapıya sahip. Milli parkın toplam alanı 1200 hektar olup, bu alanın büyük bir kısmı ormanlarla kaplıdır. Bölgenin iklimi, karasal iklim özellikleri gösteriyor. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçiyor. Milli parkın coğrafi yapısı, çeşitli flora ve fauna türlerine ev sahipliği yapıyor.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ Pirê Merdan Türbesi, tarihsel geçmişi ile önemli bir yere sahiptir. Tarihi 
 
 ## Coğrafya
 
-Pirê Merdan Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer almaktadır. Artuklu ilçesinde bulunan bu mekan, Mardin şehir merkezine yakın bir mesafededir. Coğrafi olarak, bu bölge, dağlık ve engebeli bir araziden oluşmaktadır. İklim-wise, Pirê Merdan Türbesi, bölgenin karakteristik sıca ve kurak yazları ile serin ve yağışlı kışları yaşamaktadır. Çevre, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Ziyaretçiler, bu coğrafi bölgeyi keşfederek, doğanın güzelliklerini yakından görebilirler. 180 hektarlık bir alana yayılan bu bölge, ziyaretçilere geniş bir alan sunmaktadır.
+Pirê Merdan Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer almaktadır. Artuklu ilçesinde bulunan bu mekan, Mardin şehir merkezine yakın bir mesafededir. Coğrafi olarak, bu bölge, dağlık ve engebeli bir araziden oluşmaktadır. İklim-wise, Pirê Merdan Türbesi, bölgenin karakteristik sıcak ve kurak yazları ile serin ve yağışlı kışları yaşamaktadır. Çevre, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Ziyaretçiler, bu coğrafi bölgeyi keşfederek, doğanın güzelliklerini yakından görebilirler. 180 hektarlık bir alana yayılan bu bölge, ziyaretçilere geniş bir alan sunmaktadır.
 
 ## Flora ve Fauna
 

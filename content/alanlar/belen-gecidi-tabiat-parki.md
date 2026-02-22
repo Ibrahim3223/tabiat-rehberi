@@ -37,7 +37,7 @@ Belen Geçidi Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca şekillen
 
 ## Coğrafya
 
-Belen Geçidi Tabiat Parkı, Akdeniz Bölgesi'nin coğrafi yapısını yansıtan bir alandır. Park, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır ve etrafı dağlarla çevrilidir. Bu coğrafi konum, parkın iklimini ve bitki örtüsünü etkiler. Parkın içinde çeşitli bitki türleri ve zengin fauna bulunur. Parkın coğrafi yapısı, ziyaretçilere doğanın çeşitliliğini ve güzelliğini göstermektedir. Parkın sunduğu manzaralar, ziyaretçilerin doğayla iç içe bir deneyim sunarken, aynı zamanda bölgenin coğrafi özelliklerini de gözlemlemelerine olanak tanır. Parkın coğrafi konumu, ziyaretçilere bu bölgenin neden önemli olduğunu ve neden korunması gerektiğini anlatıyor.
+Belen Geçidi Tabiat Parkı, Akdeniz Bölgesi'nin coğrafi yapısını yansıtan bir alandır. Park, yüksek bir konumda yer alır ve etrafı dağlarla çevrilidir. Bu coğrafi konum, parkın iklimini ve bitki örtüsünü etkiler. Parkın içinde çeşitli bitki türleri ve zengin fauna bulunur. Parkın coğrafi yapısı, ziyaretçilere doğanın çeşitliliğini ve güzelliğini göstermektedir. Parkın sunduğu manzaralar, ziyaretçilerin doğayla iç içe bir deneyim sunarken, aynı zamanda bölgenin coğrafi özelliklerini de gözlemlemelerine olanak tanır. Parkın coğrafi konumu, ziyaretçilere bu bölgenin neden önemli olduğunu ve neden korunması gerektiğini anlatıyor.
 
 ## Flora ve Fauna
 

@@ -46,7 +46,7 @@ Doğal güzellikleri ile dikkat çeken Sömbeki adası, Rodos ilçesinin kıyı 
 
 Jeolojik açıdan bakıldığında, Sömbeki adası hakkında detaylı fiziksel veri bulunmaması nedeniyle, ada hakkındaki bilgimiz sınırlı kalıyor. Ancak, ada küçük bir ada olduğu için, bir şehir bloğu büyüklüğünde olduğunu söyleyebiliriz. Bu küçük ada, Rodos'un kıyı şeridinin bir parçası olarak, Ege Denizi'nin güzelliklerini sunuyor.
 
-Mevsimsel açıdan bakıldığında, Sömbeki adası Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve güneşli bir hava, kış aylarında ise ılıman bir iklim hakim oluyor. Ada, Rodos'un genel iklim koşullarını paylaşıyor ve bu nedenle, ziyaretçilerin yılın her dönemi adayı ziyaret etmeleri mümkün oluyor.
+Mevsimsel açıdan bakıldığında, Sömbeki adası Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve güneşli bir hava, kış aylarında ise ılıman bir iklim hakim oluyor. Ada, Rodos'un genel iklim koşullarını paylaşıyor ve bu nedenle, ziyaretçilerin yılın her dönemi adayı ziyaret etmeleri mümkün oluyor.
 
 Çevresel açıdan bakıldığında, Sömbeki adası Rodos'un diğer adaları ve kıyı şeridi ile bağlantılı bir şekilde yer alıyor. Ada, Ege Denizi'nin su kaynaklarına sahip ve bu nedenle, ada çevresinde zengin bir deniz yaşamı bulunuyor. Ayrıca, ada Rodos'un diğer doğal güzelliklerine de yakın bir konumda bulunuyor ve bu nedenle, ziyaretçiler ada çevresinde yer alan diğer güzellikleri de keşfedebiliyorlar.
 

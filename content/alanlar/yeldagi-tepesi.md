@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden Tunceli'de yer alan Yeldağı Tepe
 
 Jeolojik açıdan bakıldığında, Yeldağı Tepesi'nin fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, genel olarak Tunceli'nin coğrafyası kayaçlarla kaplıdır. Bu bölgede yer alan dağlar, genellikle volkanik kökenli kayaçlardan oluşmaktadır. Yeldağı Tepesi de bu coğrafyanın bir parçası olarak, bölgenin jeolojik özelliklerini taşır.
 
-Mevsimsel olarak, Yeldağı Tepesi ve çevresinin iklimi soğu ve karasal bir karakterdedir. Kış aylarında sık sık kar yağışları görülür ve bu bölgede yer alan tepe ve dağlar, kış sporları için elverişli bir ortam sunar. Hava durumu genellikle soğu ve yağışlıdır, özellikle kış aylarında sıcaklık derecesi düşük seviyelere düşer.
+Mevsimsel olarak, Yeldağı Tepesi ve çevresinin iklimi soğu ve karasal bir karakterdedir. Kış aylarında sık sık kar yağışları görülür ve bu bölgede yer alan tepe ve dağlar, kış sporları için elverişli bir ortam sunar. Hava durumu genellikle soğuk ve yağışlıdır, özellikle kış aylarında sıcaklık derecesi düşük seviyelere düşer.
 
 Çevresel açıdan bakıldığında, Yeldağı Tepesi ve etrafındaki dağlık arazi, bölgenin ekosistemini önemli ölçüde etkiler. Bu bölgede yer alan su kaynakları, vadiler ve ormanlar, yerel fauna ve floranın yaşamını sürdürmesi için gerekli koşulları sağlar. Yeldağı Tepesi, bu doğal dengenin korunmasına katkıda bulunan önemli bir coğrafi unsur olarak görülebilir.
 

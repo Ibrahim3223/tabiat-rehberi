@@ -31,7 +31,7 @@ KANDIRA'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bölge, çe�
 
 ## Coğrafya
 
-KANDIRA, İç Anadolu Bölgesi'nin coğrafi konumu itibariyle, karasal iklimin hüküm sürdüğü bir bölgede yer alır. Milli parkın coğrafyası, geniş otluk alanlar, ormanlık bölgeler ve çeşitli su kaynaklarından oluşur. KANDIRA'nın coğrafi yapısı, flora ve fauna türleri için uygun bir ortam sunar. Milli parkın iklimi, yazları sıca ve kurak, kışları soğu ve karlı olarak tanımlanabilir. Bu iklim koşulları, KANDIRA'nın doğasını şekillendirmiş ve çeşitli mevsimsel değişimlere neden olmuştur. KANDIRA, coğrafi olarak farklı yüksekliklerde ve eğimlerde yer alır, bu da çeşitli manzaralara velara ev sahipliği yapar.
+KANDIRA, İç Anadolu Bölgesi'nin coğrafi konumu itibariyle, karasal iklimin hüküm sürdüğü bir bölgede yer alır. Milli parkın coğrafyası, geniş otluk alanlar, ormanlık bölgeler ve çeşitli su kaynaklarından oluşur. KANDIRA'nın coğrafi yapısı, flora ve fauna türleri için uygun bir ortam sunar. Milli parkın iklimi, yazları sıcak ve kurak, kışları soğuk ve karlı olarak tanımlanabilir. Bu iklim koşulları, KANDIRA'nın doğasını şekillendirmiş ve çeşitli mevsimsel değişimlere neden olmuştur. KANDIRA, coğrafi olarak farklı yüksekliklerde ve eğimlerde yer alır, bu da çeşitli manzaralara velara ev sahipliği yapar.
 
 ## Flora ve Fauna
 

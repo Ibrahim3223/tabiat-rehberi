@@ -36,7 +36,7 @@ Eskitme Tepesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge
 
 ## Coğrafya
 
-Eskitme Tepesi, Sinop'un merkezi konumunda yer alıyor ve Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Tepenin surroundingsı, ormanlarla kaplı ve bu ormanlar, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Tepenin yüksekliği, manzara açısından önemli bir nokta ve buradan, Karadeniz'in muhteşem manzarasını izleme mümkün. Ayrıca, Eskitme Tepesi'nin iklimi, Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, yazları serin ve yağışlı, kışları ise soğu ve yağışlı bir iklime sahip. Bu coğrafi konum ve iklim, Eskitme Tepesi'ni, doğal güzellikleri ve tarihi yapıları ile birlikte, ziyaretçilere benzersiz bir deneyim sunuyor.
+Eskitme Tepesi, Sinop'un merkezi konumunda yer alıyor ve Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Tepenin surroundingsı, ormanlarla kaplı ve bu ormanlar, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Tepenin yüksekliği, manzara açısından önemli bir nokta ve buradan, Karadeniz'in muhteşem manzarasını izleme mümkün. Ayrıca, Eskitme Tepesi'nin iklimi, Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, yazları serin ve yağışlı, kışları ise soğuk ve yağışlı bir iklime sahip. Bu coğrafi konum ve iklim, Eskitme Tepesi'ni, doğal güzellikleri ve tarihi yapıları ile birlikte, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Böğlek Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapm�
 
 ## Coğrafya
 
-Böğlek Tepesi, Ankara'nın coğrafi yapısının önemli bir parçasını oluşturuyor. Tepenin konumu, şehrin merkezi ile doğal alanlar arasındaki sınırı belirliyor. 140 hektarlık yeşil alanı, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Tepenin zirvesi, Ankara şehrinin panoramik manzarasını sunuyor ve çevresindeki dağlar ile birlikte bir doğa koridoru oluşturuyor. Böğlek Tepesi, Ankara'nın iklimine uygun olarak karasal bir iklime sahiptir. Kışları soğu ve karlı, yazları ise sıcak ve kurak olan bu iklim, tepeyi ziyaret etmek isteyenler için önemli bir faktör oluyor.
+Böğlek Tepesi, Ankara'nın coğrafi yapısının önemli bir parçasını oluşturuyor. Tepenin konumu, şehrin merkezi ile doğal alanlar arasındaki sınırı belirliyor. 140 hektarlık yeşil alanı, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Tepenin zirvesi, Ankara şehrinin panoramik manzarasını sunuyor ve çevresindeki dağlar ile birlikte bir doğa koridoru oluşturuyor. Böğlek Tepesi, Ankara'nın iklimine uygun olarak karasal bir iklime sahiptir. Kışları soğuk ve karlı, yazları ise sıcak ve kurak olan bu iklim, tepeyi ziyaret etmek isteyenler için önemli bir faktör oluyor.
 
 ## Flora ve Fauna
 

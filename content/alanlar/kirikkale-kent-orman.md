@@ -30,7 +30,7 @@ Kırıkkale Kent Ormanı'nın tarihi geçmişi, bölgenin yerleşim tarihine kad
 
 ## Coğrafya
 
-Kırıkkale Kent Ormanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Orman, genel olarak düzlük bir arazide yer almakla birlikte, bazı kesimlerde hafif eğimler ve tepeler mevcut. Bu coğrafi yapı, ormanın çeşitli bitki türlerinin yetişmesine elverişli koşullar sunmakta. Orman, çoğunlukla geniş yapraklı ağaç türlerinden oluşmakta olup, bu ağaçlar ormanın ekolojik dengesini korumakta önemli bir rol oynamaktadır. İklim olarak İç Anadolu Bölgesi'nin karasal ikliminin etkisinde kalan orman, yazları sıca ve kurak, kışları soğu ve kar yağışlı bir iklimi yaşamaktadır. Bu iklim koşulları, ormanın flora ve faunasının çeşitliliğini etkilemekte. Orman, aynı zamanda bölgede yaşayan yaban hayvanları için de önemli bir yaşam alanı sunmakta.
+Kırıkkale Kent Ormanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Orman, genel olarak düzlük bir arazide yer almakla birlikte, bazı kesimlerde hafif eğimler ve tepeler mevcut. Bu coğrafi yapı, ormanın çeşitli bitki türlerinin yetişmesine elverişli koşullar sunmakta. Orman, çoğunlukla geniş yapraklı ağaç türlerinden oluşmakta olup, bu ağaçlar ormanın ekolojik dengesini korumakta önemli bir rol oynamaktadır. İklim olarak İç Anadolu Bölgesi'nin karasal ikliminin etkisinde kalan orman, yazları sıcak ve kurak, kışları soğuk ve kar yağışlı bir iklimi yaşamaktadır. Bu iklim koşulları, ormanın flora ve faunasının çeşitliliğini etkilemekte. Orman, aynı zamanda bölgede yaşayan yaban hayvanları için de önemli bir yaşam alanı sunmakta.
 
 ## Flora ve Fauna
 

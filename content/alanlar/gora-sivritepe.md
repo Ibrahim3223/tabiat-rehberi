@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Gora Sivritepe, 37.7442°K, 4
 
 Doğal güzelliği ile dikkat çeken Gora Sivritepe, coğrafi konumu itibariyle bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu bölge, jeolojik olarak incelendiğinde, bölgenin karmaşık bir yapıya sahip olduğu görülür. Gora Sivritepe'nin yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olarak hesaplanabilir. Bu yükseklik, bölgenin coğrafi yapısını etkileyen önemli bir faktördür.
 
-Mevsimsel olarak incelendiğinde, Gora Sivritepe'nin iklim karakteri oldukça değişkenlik gösterir. İlkbahar ve sonbahar aylarında ılıman bir hava hakimken, kış aylarında soğu ve kar yağışlı bir hava görülür. Yaz aylarında ise sıcaklık 30 dereceye kadar çıkabilir. Bu mevsimsel değişiklikler, bölgenin ekosistemini etkileyen önemli faktörlerdir.
+Mevsimsel olarak incelendiğinde, Gora Sivritepe'nin iklim karakteri oldukça değişkenlik gösterir. İlkbahar ve sonbahar aylarında ılıman bir hava hakimken, kış aylarında soğuk ve kar yağışlı bir hava görülür. Yaz aylarında ise sıcaklık 30 dereceye kadar çıkabilir. Bu mevsimsel değişiklikler, bölgenin ekosistemini etkileyen önemli faktörlerdir.
 
 Gora Sivritepe, çevresindeki ekosistem ile önemli bir bağlantıyı sağlar. Batman Nehri'nin yakınında yer alması, bölgenin su kaynaklarını korumasına yardımcı olur. Ayrıca, bu bölge, Monaco'nun yarısı kadar bir alanı kaplayan Batman ilinin doğal güzelliklerini koruma altına alan önemli bir noktayı oluşturur. Bu doğal güzelliğin korunması, bölgenin ekosistemini ve su kaynaklarını koruma altına almak için önemlidir.
 

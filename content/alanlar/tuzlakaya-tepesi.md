@@ -36,7 +36,7 @@ Tuzlakaya Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Tuzlakaya Tepesi, Kırklareli ilinin sınırları içerisinde yer alıyor. Bu tepe, Marmara Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Tuzlakaya Tepesi, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Tuzlakaya Tepesi'nin çevresi, ormanlık alanlar ile çevrili. Bu tepe, doğal güzelliği ile ön plana çıkıyor. Tuzlakaya Tepesi, ziyaretçilerini doğanın güzelliği ve büyüklüğü ile baş başa bırakıyor. Bu tepe, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
+Tuzlakaya Tepesi, Kırklareli ilinin sınırları içerisinde yer alıyor. Bu tepe, Marmara Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Tuzlakaya Tepesi, yüksek bir konumda yer alıyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Tuzlakaya Tepesi'nin çevresi, ormanlık alanlar ile çevrili. Bu tepe, doğal güzelliği ile ön plana çıkıyor. Tuzlakaya Tepesi, ziyaretçilerini doğanın güzelliği ve büyüklüğü ile baş başa bırakıyor. Bu tepe, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

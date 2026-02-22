@@ -37,11 +37,11 @@ Kuyucak Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Kuyucak Hamamı, Akdeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Bu bölge, genellikle sıca ve kurak bir iklimi sahiptir, ancak Kuyucak Hamamı, deniz suyu ve yeşillikler sayesinde daha serin ve ferah bir ortam sunar. Bölgenin coğrafi yapısı, denizle iç içe passedir, bu da Kuyucak Hamamı'nı önemli bir plaj alanı haline getirir. Kuyucak Hamamı'nın etrafı, çeşitli bitki türleri ve ağaçlarla çevrilidir, bu da ziyaretçilere doğayla iç içe bir deneyim sunar. Coğrafi olarak, Kuyucak Hamamı, Kahramanmaraş'ın Dulkadiroğlu ilçesinde yer alır ve Akdeniz Bölgesi'nin önemli bir doğal güzelliğidir.
+Kuyucak Hamamı, Akdeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Bu bölge, genellikle sıcak ve kurak bir iklimi sahiptir, ancak Kuyucak Hamamı, deniz suyu ve yeşillikler sayesinde daha serin ve ferah bir ortam sunar. Bölgenin coğrafi yapısı, denizle iç içe pasiftir, bu da Kuyucak Hamamı'nı önemli bir plaj alanı haline getirir. Kuyucak Hamamı'nın etrafı, çeşitli bitki türleri ve ağaçlarla çevrilidir, bu da ziyaretçilere doğayla iç içe bir deneyim sunar. Coğrafi olarak, Kuyucak Hamamı, Kahramanmaraş'ın Dulkadiroğlu ilçesinde yer alır ve Akdeniz Bölgesi'nin önemli bir doğal güzelliğidir.
 
 ## Flora ve Fauna
 
-Kuyucak Hamamı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu doğal alan, mevsimsel değişimlere göre, farklı canlı türlerini barındırır. Kuyucak Hamamı'nın flora ve faunası, Akdeniz Bölgesi'nin özellikleri ile şekillenmiştir. Bu bölge, genellikle sıca ve kurak bir iklimi sahiptir, ancak Kuyucak Hamamı, deniz suyu ve yeşillikler sayesinde daha serin ve ferah bir ortam sunar. Kuyucak Hamamı, ziyaretçilerine doğayla iç içe bir deneyim sunar ve bu doğal alan, ekolojik açıdan da önemlidir.
+Kuyucak Hamamı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu doğal alan, mevsimsel değişimlere göre, farklı canlı türlerini barındırır. Kuyucak Hamamı'nın flora ve faunası, Akdeniz Bölgesi'nin özellikleri ile şekillenmiştir. Bu bölge, genellikle sıcak ve kurak bir iklimi sahiptir, ancak Kuyucak Hamamı, deniz suyu ve yeşillikler sayesinde daha serin ve ferah bir ortam sunar. Kuyucak Hamamı, ziyaretçilerine doğayla iç içe bir deneyim sunar ve bu doğal alan, ekolojik açıdan da önemlidir.
 
 ## Ziyaret Bilgileri
 

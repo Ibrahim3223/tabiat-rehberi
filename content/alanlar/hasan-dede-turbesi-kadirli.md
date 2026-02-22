@@ -37,7 +37,7 @@ Hasan Dede Türbesi'nin tarihi geçmişi, yüzyıllar öncesine uzanır. Bu böl
 
 ## Coğrafya
 
-Hasan Dede Türbesi, Kadirli, coğrafi olarak Akdeniz Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, genellikle sıca ve kurak yazlar, ılık ve yağışlı kışlar ile karakterizedir. Coğrafi konumu itibariyle, türbe ve çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunar. Hasan Dede Türbesi'nin coğrafi konumu, ziyaretçilerin hem tarihi hem de doğal güzellikleri keşfetmesine olanak tanır. Çevre, çeşitli bitki türleri ve hayvanlar ile zengin bir ekosistemi destekler.
+Hasan Dede Türbesi, Kadirli, coğrafi olarak Akdeniz Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, genellikle sıcak ve kurak yazlar, ılık ve yağışlı kışlar ile karakterizedir. Coğrafi konumu itibariyle, türbe ve çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunar. Hasan Dede Türbesi'nin coğrafi konumu, ziyaretçilerin hem tarihi hem de doğal güzellikleri keşfetmesine olanak tanır. Çevre, çeşitli bitki türleri ve hayvanlar ile zengin bir ekosistemi destekler.
 
 ## Flora ve Fauna
 

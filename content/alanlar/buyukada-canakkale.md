@@ -43,7 +43,7 @@ Doğanın güzelliği, Çanakkale'nin eşsiz ada dünyasında kendini gösterir.
 
 Jeolojik açıdan bakıldığında, Büyükada'nın fiziksel yapısı hakkında spesifik bilgiler bulunmasa da, genel olarak Çanakkale bölgesinin jeolojik özellikleri dikkate alındığında, ada'nın kireç taşı ve kil gibi sedimentler ile oluştuğu söylenebilir. Ada'nın boyutları hakkında kesin bir veri olmasa da, genel olarak bakıldığında, bir şehir bloğu büyüklüğünde olduğu düşünülebilir. Bu büyüklük, ada'nın sakin ve doğal bir atmosfer sunmasını sağlar.
 
-İklim açısından, Büyükada'nın karakteri Akdeniz ikliminin etkilerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava hakimdir. Ada, mevsimsel olarak değişen hava koşullarına uyum sağlayan flora ve fauna ile örtülüdür. Bu iklim, ada'nın yeşilliği ve canlı çeşitliliğiçin elverişlidir.
+İklim açısından, Büyükada'nın karakteri Akdeniz ikliminin etkilerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava hakimdir. Ada, mevsimsel olarak değişen hava koşullarına uyum sağlayan flora ve fauna ile örtülüdür. Bu iklim, ada'nın yeşilliği ve canlı çeşitliliğiçin elverişlidir.
 
 Çevresel açıdan, Büyükada, Çanakkale Boğazı'nın önemli su kaynaklarına yakınlığıyla dikkat çeker. Ada, su kaynaklarının zenginliği ve anakaraya olan yakınlığı nedeniyle, ekosistem bağlantıları açısından önemli bir konuma sahiptir. Bu konumu, ada'nın doğal güzelliğinin korunması ve sürdürülebilirliğinin sağlanması için büyük önem taşır.
 

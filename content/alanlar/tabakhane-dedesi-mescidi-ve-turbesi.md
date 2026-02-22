@@ -37,7 +37,7 @@ Tabakhane Dedesi Mescidi ve Türbesi'nin tarihi geçmişi, yüzyıllar boyunca �
 
 ## Coğrafya
 
-Tabakhane Dedesi Mescidi ve Türbesi, Ege Bölgesi'nin güzide illerinden biri olan Aydın'ın Karacasu ilçesinde yer alıyor. Bu bölge, Ege Denizi'ne yakınlığı ile bilinen ve doğal güzellikleri ile dikkat çeken bir yöre. Karacasu ilçesi, tarihi ve kültürel zenginliklerin yanı sıra, doğal güzelliklere de ev sahipliği yapıyor. İlçe, dağlık ve engebeli bir araziye sahip ve bu coğrafi yapı, çeşitli bitki türlerinin ve fauna çeşitliliğinin gelişmesine katkıda bulunmuş. Bölgenin iklimi, Akdeniz ikliminin özelliklerini taşıyor ve yazları sıca ve kurak, kışları ılıman ve yağışlı geçiyor. Bu coğrafi ve iklimsel özellikler, Tabakhane Dedesi Mescidi ve Türbesi'nin bulunduğu bölgenin doğal güzelliklerini ve biyolojik çeşitliliğini şekillendiriyor.
+Tabakhane Dedesi Mescidi ve Türbesi, Ege Bölgesi'nin güzide illerinden biri olan Aydın'ın Karacasu ilçesinde yer alıyor. Bu bölge, Ege Denizi'ne yakınlığı ile bilinen ve doğal güzellikleri ile dikkat çeken bir yöre. Karacasu ilçesi, tarihi ve kültürel zenginliklerin yanı sıra, doğal güzelliklere de ev sahipliği yapıyor. İlçe, dağlık ve engebeli bir araziye sahip ve bu coğrafi yapı, çeşitli bitki türlerinin ve fauna çeşitliliğinin gelişmesine katkıda bulunmuş. Bölgenin iklimi, Akdeniz ikliminin özelliklerini taşıyor ve yazları sıcak ve kurak, kışları ılıman ve yağışlı geçiyor. Bu coğrafi ve iklimsel özellikler, Tabakhane Dedesi Mescidi ve Türbesi'nin bulunduğu bölgenin doğal güzelliklerini ve biyolojik çeşitliliğini şekillendiriyor.
 
 ## Flora ve Fauna
 

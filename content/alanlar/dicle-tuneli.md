@@ -38,7 +38,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde, Diyarbakır'ın merkezine yaklaşık 
 
 Jeolojik açıdan incelendiğinde, Dicle Tüneli'nin oluşumu milyonlarca yıllık bir sürecin ürünüdür. Mağaranın içi, binlerce yıllık erozyon sonucu oluşmuş devasa kaya oluşumlarıyla dolu bir labirenti andırır. Mağaranın boyutları hakkında detaylı veri olmasa da, bu a harikası, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplayabilecek bir genişliğe sahiptir.
 
-İklim açısından, Dicle Tüneli'nin bulunduğu bölge, karakteristik olarak sıca ve kurak yazlar ile ılıman ve yağışlı kışlar yaşayan bir bölgeye sahiptir. Mağaranın içi, ise yıl boyunca nispeten sabit bir sıcaklıkta kalır, bu da onu bir doğal serinlik kaynağı haline getirir. Bu özellikler, Dicle Tüneli'ni diğer coğrafi oluşumlardan ayrıştıran önemli faktörler arasında yer alır.
+İklim açısından, Dicle Tüneli'nin bulunduğu bölge, karakteristik olarak sıcak ve kurak yazlar ile ılıman ve yağışlı kışlar yaşayan bir bölgeye sahiptir. Mağaranın içi, ise yıl boyunca nispeten sabit bir sıcaklıkta kalır, bu da onu bir doğal serinlik kaynağı haline getirir. Bu özellikler, Dicle Tüneli'ni diğer coğrafi oluşumlardan ayrıştıran önemli faktörler arasında yer alır.
 
 Dicle Tüneli'nin bulunduğu bölge, Dicle Nehri'nin suladığı geniş tarım arazilerine ev sahipliği yapmaktadır. Bu nehrin varlığı, bölgenin ekosistemini şekillendirmekte ve mağaranın çevresindeki flora ve fauna için hayati önem taşımaktadır. Dicle Tüneli, Monaco'nun yarısı kadar büyük bir bölgeyi kaplasa da, bu doğal oluşumun gerçek değeri, bölgenin jeoloji ve ekolojik çeşitliliği açısından yatmaktadır.
 

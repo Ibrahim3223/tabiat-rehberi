@@ -43,7 +43,7 @@ Doğal güzellikleri ile ön plana çıkan Çanakkale'nin Sakar Dağı, 39.8833�
 
 Sakar Dağı'nın fiziksel yapısı, bölgenin jeolojik özelliklerini yansıtıyor. Dağın yüksekliği ve boyutları, bölgenin genel coğrafi yapısına uygun olarak şekilleniyor. Sakar Dağı, Monaco'nun yarısı kadar bir alana yayılmış gibi düşünülse, yaklaşık 1200 hektarlık bir alanı kaplıyor. Bu boyutlar, Taksim Meydanı'nın 10 katı büyüklüğüne eşdeğer. Dağın yüksekliği, Eiffel Kulesi'nin 2 katı yükseklikte gibi düşünülse, yaklaşık 500 metre yüksekliğe sahip.
 
-İklim açısından bakıldığında, Sakar Dağı ve çevresindeki bölge, Akdeniz ikliminin etkisi altında. Bölge, yaz aylarında sıca ve kuru, kış aylarında ise ılıman ve yağışlı bir iklim karakterine sahip. Sakar Dağı, bu iklim koşullarına uyum sağlayan bitki örtüsüne ev sahipliği yapıyor. Dağın eteklerinde ve çevresinde, zeytinli ve ormanlık alanlar bulunuyor.
+İklim açısından bakıldığında, Sakar Dağı ve çevresindeki bölge, Akdeniz ikliminin etkisi altında. Bölge, yaz aylarında sıcak ve kuru, kış aylarında ise ılıman ve yağışlı bir iklim karakterine sahip. Sakar Dağı, bu iklim koşullarına uyum sağlayan bitki örtüsüne ev sahipliği yapıyor. Dağın eteklerinde ve çevresinde, zeytinli ve ormanlık alanlar bulunuyor.
 
 Çevresel ilişkiler açısından, Sakar Dağı, bölgenin su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahip. Dağın eteklerinde, çeşitli su kaynakları ve dereler bulunuyor. Bu su kaynakları, bölgenin tarım ve hayvancılık faaliyetleri için önemli bir kaynak teşkil ediyor. Ayrıca, Sakar Dağı, bölgenin biyolojik çeşitliliğini destekleyen önemli bir habitat olarak değerlendiriliyor.
 

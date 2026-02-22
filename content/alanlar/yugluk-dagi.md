@@ -45,7 +45,7 @@ Güneydeki dağ silsilesinin bir parçası olarak, Yüğlük Dağı Mersin'in co
 
 Doğal bir sınır oluşturan Yüğlük Dağı, coğrafi olarak bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu küçük ama önemli coğrafi oluşum, bölgenin jeolojik yapısını şekillendiren bir rol oynar. Jeolojik açıdan incelendiğinde, Yüğlük Dağı'nın oluşumu ve yapısı, Türkiye'nin güneyindeki dağ sistemlerinin genel karakteristiğini taşır. Ancak, daha ayrıntılı fiziksel veriler bulunmaması, bu dağ hakkında daha derinlemesine bir analiz yapılmasını sınırlar.
 
-Mersin'in ikliminin karakteristiğini taşıyan Yüğlük Dağı, Akdeniz ikliminin tüm özelliklerini gösterir. Kış aylarında ılıman, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu mevsimsel değişimler, dağın flora ve faunasını şekillendiren önemli faktörlerdir. Yüğlük Dağı, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte değildir, ancak bölgenin topoğrafyasını belirleyen önemli bir coğrafi oluşumdur.
+Mersin'in ikliminin karakteristiğini taşıyan Yüğlük Dağı, Akdeniz ikliminin tüm özelliklerini gösterir. Kış aylarında ılıman, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu mevsimsel değişimler, dağın flora ve faunasını şekillendiren önemli faktörlerdir. Yüğlük Dağı, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte değildir, ancak bölgenin topoğrafyasını belirleyen önemli bir coğrafi oluşumdur.
 
 Bölgenin ekosistemini destekleyen Yüğlük Dağı, komşu alanlarla ve su kaynaklarıyla bağlantılıdır. Yakınlardaki nehirler ve akarsular, dağın çevresel ilişkilerini belirler. Bu bağlantılar, bölgenin biyolojik çeşitliliğini zenginleştiren önemli faktörlerdir. Monaco'nun yarısı kadar büyük olmayan Yüğlük Dağı, bölgenin coğrafi ve ekolojik dengesini korumak açısından önemli bir role sahiptir.
 

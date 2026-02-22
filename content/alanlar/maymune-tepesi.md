@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin doğa harikaları arasında yer alan Maymune Te
 
 Doğal güzellikleri ile dikkat çeken Maymune Tepesi, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Tepenin yüksekliği, 85 katlı bir gökdelenin yaklaşık 1/5'i kadar yükseklikte olup, bu özelliği ile çevredeki diğer tepelerden leicht ayırt edilebilmektedir. Jeolojik yapı itibariyle, bölgede yer alan kireç taşı ve şist gibi kayaların bir araya gelmesi ile oluşmuş olan Maymune Tepesi, coğrafi olarak ilginç bir yapıya sahiptir.
 
-Mevsimsel olarak, Maymune Tepesi ve çevresinde karasal bir iklim hüküm sürmektedir. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kuru bir hava durumu hakimdir. Bu mevsimsel değişimler, bölgede yer alan bitki örtüsünü ve fauna çeşitliliğini etkilemektedir. Tepenin iklim karakteri, bölgenin coğrafi yapısı ve yüksekliği ile yakından ilgilidir.
+Mevsimsel olarak, Maymune Tepesi ve çevresinde karasal bir iklim hüküm sürmektedir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kuru bir hava durumu hakimdir. Bu mevsimsel değişimler, bölgede yer alan bitki örtüsünü ve fauna çeşitliliğini etkilemektedir. Tepenin iklim karakteri, bölgenin coğrafi yapısı ve yüksekliği ile yakından ilgilidir.
 
 Bölgenin ekosistem bağlantıları açısından önemli bir role sahip olan Maymune Tepesi, komşu alanlar ile birlikte bir bütün oluşturmaktadır. Batman Çayı gibi önemli su kaynaklarına yakın olan tepe, bölgenin su döngüsünü etkilemektedir. Ayrıca, Maymune Tepesi ve çevresinde yer alan diğer tepe ve dağlar, bölgenin flora ve fauna çeşitliliğini destekleyen önemli ekosistemlerdir.
 

@@ -31,7 +31,7 @@ Sarikamis Allahu Ekber Daglari milli parkının tarihi geçmişi, yüzyıllar bo
 
 ## Coğrafya
 
-Sarikamis Allahu Ekber Daglari milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısı ile şekillenmiştir. Bu bölge, dağlar, ovalar ve nehirler ile çevrilidir. Sarikamis Allahu Ekber Daglari milli parkı, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu milli park, deniz seviyesinden yüksek bir konumda bulunur. Sarikamis Allahu Ekber Daglari milli parkının iklimi, İç Anadolu Bölgesi'nin iklimi ile benzerlik gösterir. Burada, dört mevsim belirgin bir şekilde yaşanır. Kış mevsimi soğu ve kar yağışlı, yaz mevsimi sıca ve kurudur. İlkbahar ve sonbahar mevsimleri, ılıman ve yağışlıdır. Sarikamis Allahu Ekber Daglari milli parkı, coğrafi yapısı ve iklimi ile ziyaretçilerini cezbeder.
+Sarikamis Allahu Ekber Daglari milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısı ile şekillenmiştir. Bu bölge, dağlar, ovalar ve nehirler ile çevrilidir. Sarikamis Allahu Ekber Daglari milli parkı, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu milli park, deniz seviyesinden yüksek bir konumda bulunur. Sarikamis Allahu Ekber Daglari milli parkının iklimi, İç Anadolu Bölgesi'nin iklimi ile benzerlik gösterir. Burada, dört mevsim belirgin bir şekilde yaşanır. Kış mevsimi soğuk ve kar yağışlı, yaz mevsimi sıcak ve kurudur. İlkbahar ve sonbahar mevsimleri, ılıman ve yağışlıdır. Sarikamis Allahu Ekber Daglari milli parkı, coğrafi yapısı ve iklimi ile ziyaretçilerini cezbeder.
 
 ## Flora ve Fauna
 

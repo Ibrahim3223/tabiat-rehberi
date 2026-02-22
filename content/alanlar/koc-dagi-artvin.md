@@ -42,7 +42,7 @@ Doğunun gizli cenneti olan Artvin ilinin sınırları içerisinde yer alan Koç
 
 Jeolojik açıdan bakıldığında, Koç Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bu bölgenin coğrafi özellikleri, benzer yükseklikteki dağlarla karşılaştırılabilir. Örneğin, Eiffel Kulesi'nin yaklaşık 5 katı yükseklikte bir nokta, bu dağların büyüklüğünü anlamamıza yardımcı olabilir. Ancak, Koç Dağı'nın tam yüksekliği ve boyutları hakkında net bilgiler bulunmadığından, bu karşılaştırmalar sadece yaklaşık değerler olarak kabul edilmelidir.
 
-İklim açısından, Koç Dağı ve çevresi, Karadeniz Bölgesi'nin karakteristik yağışlı ve nemli iklimine sahiptir. Mevsimsel olarak, bu bölgede yaz ayları genellikle serin ve yağışlı, kış ayları ise soğu ve karlı geçer. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörlerdir.
+İklim açısından, Koç Dağı ve çevresi, Karadeniz Bölgesi'nin karakteristik yağışlı ve nemli iklimine sahiptir. Mevsimsel olarak, bu bölgede yaz ayları genellikle serin ve yağışlı, kış ayları ise soğuk ve karlı geçer. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörlerdir.
 
 Çevresel açıdan, Koç Dağı, bölgenin su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahiptir. Dağın eteklerinde ve çevresinde, çeşitli su kaynakları ve akarsular bulunmakta, bu da bölgenin ekosistemini desteklemektedir. Ayrıca, bu dağlık alan, komşu alanlar ve daha geniş coğrafi bölgelerle bağlantılı olarak, bölgenin doğal güzelliklerini ve biyolojik çeşitliliğini koruma altına almada önemli bir görev üstlenmektedir.
 

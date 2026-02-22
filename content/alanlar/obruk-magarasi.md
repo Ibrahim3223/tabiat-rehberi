@@ -42,7 +42,7 @@ Konya'nın merkezi bölgesinde, 37.9478°K ve 31.9597°D koordinatlarında yer a
 
 Doğal bir anıt olan Obruk Mağarası, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplar. Mağaranın jeolojik yapısı, bölgenin tarihini ve jeolojik geçmişini ortaya koyar. Obruk Mağarası, jeolojik oluşumlar açısından giàu bir bölge olan Konya'nın önemli bir parçasıdır. Bu bölgede, farklı jeolojik dönemlere ait kayaçlar ve oluşumlar bulunabilir.
 
-Konya'nın iklimi, Obruk Mağarası'nın çevresindeki coğrafyayı da etkiler. Bu bölge, karasal iklimin hakim olduğu bir bölgedir. Kışlar soğu ve yağışlı, yazlar ise sıca ve kurudur. Obruk Mağarası, bu iklim koşullarına adapte olmuş bir şekilde, mevsimsel değişikliklere göre farklı bir görünüm kazanır. Etrafındaki bozkırlar ve tarlalar, mevsimsel olarak değişen hava koşullarına göre farklı renkler ve görünümler alır.
+Konya'nın iklimi, Obruk Mağarası'nın çevresindeki coğrafyayı da etkiler. Bu bölge, karasal iklimin hakim olduğu bir bölgedir. Kışlar soğuk ve yağışlı, yazlar ise sıcak ve kurudur. Obruk Mağarası, bu iklim koşullarına adapte olmuş bir şekilde, mevsimsel değişikliklere göre farklı bir görünüm kazanır. Etrafındaki bozkırlar ve tarlalar, mevsimsel olarak değişen hava koşullarına göre farklı renkler ve görünümler alır.
 
 Obruk Mağarası, çevresindeki su kaynakları ve ekosistemlerle de bağlantılıdır. Bu bölge, çeşitli su kaynaklarına yakın bir konumda bulunur. Mağaranın etrafındaki bozkırlar ve tarlalar, su kaynaklarının yönetimi ve ekosistemlerin dengesi açısından önemli bir role sahiptir. Obruk Mağarası, Konya'nın doğal ve kültürel zenginliklerini korumak için önemli bir bölgedir.
 

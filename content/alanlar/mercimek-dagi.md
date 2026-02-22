@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi zenginliklerini keşfederken, Batman i
 
 Doğal güzelliği ve coğrafi konumuyla dikkat çeken Mercimek Dağı, Batman ilinin toplam yüzölçümünün küçük bir bölümünü kaplamaktadır. Ancak, bu küçük alan, bölgenin jeolojik zenginliklerini ve çeşitliliğini yansıtmaktadır. Dağın fiziksel yapısı, bölgenin genel jeolojik özelliklerini yansıtan bir yapıya sahiptir, ancak detaylı fiziksel veriler bulunmaması, bu konudaki araştırmaları sınırlamaktadır.
 
-Mevsimsel değişikliklere bağlı olarak, Mercimek Dağı ve çevresinin iklim karakteri, bölgenin genel iklim koşullarını yansıtmaktadır. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
+Mevsimsel değişikliklere bağlı olarak, Mercimek Dağı ve çevresinin iklim karakteri, bölgenin genel iklim koşullarını yansıtmaktadır. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
 
 Bölgenin ekosistem bağlantıları açısından Mercimek Dağı, önemli bir role sahiptir. Çevresindeki su kaynakları ve komşu alanlarla birlikte, bir bütün olarak düşünüldüğünde, bu dağ, bölgenin doğal dengesini korumak için önemli bir unsur olarak görülebilir. Mercimek Dağı, Batman ilinin doğal güzelliklerini ve kültürel zenginliklerini koruma altına almak için, bölgenin diğer coğrafi oluşumlarıyla birlikte ele alınmalıdır.
 

@@ -44,7 +44,7 @@ Kürklüdağı Tepesi, Ankara'nın doğal mirasının bir parçası olarak, böl
 
 Jeolojik açıdan bakıldığında, Kürklüdağı Tepesi'nin fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, genel olarak Ankara'nın coğrafi yapısı, volkani ve sedimentolojik oluşumlarla karakterizedir. Bu bölgede, tepe ve dağların şekillenmesinde, volkanik faaliyetlerin önemli bir rolü olmuştur. Kürklüdağı Tepesi de bu coğrafi oluşumların bir parçası olarak, Ankara'nın kuzeydoğusunda yer alan diğer tepeler gibi, volkanik kökenli bir oluşumdur.
 
-Mevsimsel değişiklikler açısından, Kürklüdağı Tepesi, İç Anadolu Bölgesi'nin karasal ikliminin etkilerini taşır. Bu bölgede, yazlar sıca ve kuru, kışlar ise soğu ve karlı geçer. Kürklüdağı Tepesi'nin yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadar yükseklikte olsa da, bu mevsimsel farklılıklar, tepe ve çevresinin ekosisteminde önemli bir rol oynar.
+Mevsimsel değişiklikler açısından, Kürklüdağı Tepesi, İç Anadolu Bölgesi'nin karasal ikliminin etkilerini taşır. Bu bölgede, yazlar sıcak ve kuru, kışlar ise soğuk ve karlı geçer. Kürklüdağı Tepesi'nin yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadar yükseklikte olsa da, bu mevsimsel farklılıklar, tepe ve çevresinin ekosisteminde önemli bir rol oynar.
 
 Doğal çevre açısından, Kürklüdağı Tepesi, Ankara'nın kuzeydoğusundaki tepeler ve dağlarla birlikte, bir ekosistem ağı oluşturur. Bu ağ, komşu alanlar, su kaynakları ve diğer doğal oluşumlar arasında önemli bir bağlantı sağlar. Kürklüdağı Tepesi, bu bağlantıların merkezinde yer alır ve Ankara'nın doğal dengesini koruma açısından önemli bir role sahiptir.
 

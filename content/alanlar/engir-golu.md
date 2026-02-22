@@ -44,7 +44,7 @@ Yaklaşık 38.8028° kuzey enlemi ve 35.5911° doğu boylamında yer alan Engir 
 
 Doğal bir su kaynağı olan Engir Gölü, etrafındaki coğrafi yapıyla birlikte düşünüldüğünde, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu büyüklük, gölü çevreleyen ve göle su sağlayan küçük akarsuların ve derenin genişliğini de kapsar. Göllerin ve su kaynaklarının bir bölgenin ekosistemini nasıl şekillendirdiğini görmek için, Engir Gölü'nün yakın çevresini incelemek yeterli olur.
 
-İklim koşulları açısından, Engir Gölü ve çevresinin karakteristik bir İç Anadolu Bölgesi iklimi vardır. Kışlar soğu ve kar yağışlı, yazlar ise sıca ve kurak geçer. Bu mevsimsel değişiklikler, gölle ilgili olarak su seviyesinde ve çevresindeki bitki örtüsünde değişikliklere yol açar. Örneğin, ilkbahar aylarında yağan yağmurlar, göle su taşkınlarını artırabilirken, yaz aylarında kuraklık, su seviyesinin düşmesine neden olabilir.
+İklim koşulları açısından, Engir Gölü ve çevresinin karakteristik bir İç Anadolu Bölgesi iklimi vardır. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçer. Bu mevsimsel değişiklikler, gölle ilgili olarak su seviyesinde ve çevresindeki bitki örtüsünde değişikliklere yol açar. Örneğin, ilkbahar aylarında yağan yağmurlar, göle su taşkınlarını artırabilirken, yaz aylarında kuraklık, su seviyesinin düşmesine neden olabilir.
 
 Engir Gölü, çevresindeki diğer su kaynakları ve ekosistemler ile bağlantılıdır. Bu bağlantılar, gölden su alan veya göle su veren diğer su kaynakları ile kurulur. Örneğin, yakın çevresindeki küçük akarsular ve deren, göle su sağlar ve bu su, gölden sonra diğer su kaynaklarına aktarılır. Bu şekilde, Engir Gölü, bölgenin su dengesini sağlayan önemli bir bileşendir.
 

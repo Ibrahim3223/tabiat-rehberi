@@ -31,7 +31,7 @@ Beypazarı Kent Tarihi Müzesi, yüzyıllar boyunca zengin bir tarihi geçmişe 
 
 ## Coğrafya
 
-Beypazarı Kent Tarihi Müzesi, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Bu bölge, dağlar, ovalar ve nehirler ile çevrili olarak, ziyaretçilerine doğal güzellikler sunuyor. Müze, Beypazarı'nın coğrafi konumunu ve çevresini yansıtacak şekilde tasarlandı. Beypazarı'nın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer olarak, karasal bir iklim özelliği gösteriyor. Bu bölgede, yaz ayları sıca ve kurak, kış ayları ise soğu ve karlı olarak geçiyor. Çevre, çeşitli bitki türleri ve hayvanlar ile zengin bir fauna ve flora çeşitliliğine sahip.
+Beypazarı Kent Tarihi Müzesi, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Bu bölge, dağlar, ovalar ve nehirler ile çevrili olarak, ziyaretçilerine doğal güzellikler sunuyor. Müze, Beypazarı'nın coğrafi konumunu ve çevresini yansıtacak şekilde tasarlandı. Beypazarı'nın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer olarak, karasal bir iklim özelliği gösteriyor. Bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise soğuk ve karlı olarak geçiyor. Çevre, çeşitli bitki türleri ve hayvanlar ile zengin bir fauna ve flora çeşitliliğine sahip.
 
 ## Flora ve Fauna
 

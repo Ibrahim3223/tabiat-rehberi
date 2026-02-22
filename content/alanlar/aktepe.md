@@ -45,7 +45,7 @@ Diyarbakır'ın coğrafi haritasında önemli bir nokta olan Aktepe, 37.5858°K,
 
 Aktepe'nin fiziksel yapısı hakkında detaylı bilgi olmasa da, genel olarak dağlık bir bölge olduğunu söyleyebiliriz. Bu dağlık alan, Taksim Meydanı'nın yaklaşık 10 katı büyüklüğünde bir alanı kaplar. Jeolojik açıdan bakıldığında, bölgenin oluşumunda volkani ve sedimentler etkili olmuştur. Bu oluşumlar, bölgenin coğrafi yapısını şekillendirmiştir.
 
-Mevsimsel olarak Aktepe, Diyarbakır'ın genel iklim karakterini taşır. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu iklim özellikleri, bölgenin flora ve fauna yapısını etkiler. Bölge, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte yer alır ve bu yükseklik, bölgenin iklimini etkileyen önemli bir faktördür.
+Mevsimsel olarak Aktepe, Diyarbakır'ın genel iklim karakterini taşır. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu iklim özellikleri, bölgenin flora ve fauna yapısını etkiler. Bölge, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte yer alır ve bu yükseklik, bölgenin iklimini etkileyen önemli bir faktördür.
 
 Bölgenin çevresel ilişkileri, komşu alanlar ve su kaynakları ile ilgilidir. Aktepe, çevresindeki diğer dağlık alanlarla birlikte bir ekosistem oluşturur. Bu ekosistem, bölgenin flora ve fauna çeşitliliğini destekler. Ayrıca, bölgede yer alan su kaynakları, bölgenin tarım ve hayvancılık faaliyetleri için önemli bir kaynak teşkil eder. Monaco'nun yarısı kadar büyük bir alanı kaplayan bu bölge, Diyarbakır'ın coğrafi yapısında önemli bir role sahiptir.
 

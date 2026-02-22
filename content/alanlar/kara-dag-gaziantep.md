@@ -45,7 +45,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi güzelliklerini barındıran Gaziantep
 
 Doğal güzelliklerinin yanı sıra, Kara Dağ'ın fiziksel yapısı da dikkat çekicidir. Dağın yüksekliği, yaklaşık olarak 85 katlı bir gökdelenin yüksekliğine eşittir. Bu yükseklik, bölgenin jeolojik yapısını ve coğrafi özelliklerini anlamak için önemli bir ölçüttür. Kara Dağ, Gaziantep'in coğrafi çeşitliliğini gösteren bir örnek olarak karşımıza çıkmaktadır.
 
-İklim açısından bakıldığında, Kara Dağ ve çevresinin mevsimsel özellikleri dikkat çekicidir. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklim hüküm sürer. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkiler ve Kara Dağ'ın ekolojik dengesini korur.
+İklim açısından bakıldığında, Kara Dağ ve çevresinin mevsimsel özellikleri dikkat çekicidir. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklim hüküm sürer. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkiler ve Kara Dağ'ın ekolojik dengesini korur.
 
 Çevresel açıdan, Kara Dağ'ın komşu alanlar ve su kaynakları ile olan ilişkileri önemli bir role sahiptir. Dağın eteklerinde yer alan köyler ve kasabalar, bölgenin ekonomi ve sosyal yapısını etkileyen önemli faktörlerdir. Ayrıca, Kara Dağ'ın su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılar ve bölgenin ekosistem dengesini korur. Bu açıdan, Kara Dağ'ın çevresel ilişkileri, Gaziantep'in doğal kaynaklarını korumak için önemli bir unsur olarak görülebilir.
 

@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Kurulaval Dağı, Bitlis'in coğrafi zen
 
 Jeolojik açıdan bakıldığında, Kurulaval Dağı'nın oluşumu ve yapısı hakkında detaylı bilgi bulunmuyor. Ancak, bölgenin genel jeolojik yapısı dikkate alındığında, dağların genellikle volkani ve sedimentatif kayalardan oluştuğu söylenebilir. Bu dağ, bir şehir bloğu büyüklüğünde bir alanı kaplıyor ve çevresindeki diğer dağlarla birlikte bir dağ silsilesi oluşturuyor. Bu dağların yükseklikleri, Eiffel Kulesi'nin birkaç katı yükseklikte olabilir, ancak tam ölçeklendirmeler yapılmamıştır.
 
-İklim açısından, Kurulaval Dağı'nın bulunduğu bölge, karasal iklimin hüküm sürdüğü bir alan. Kışlar soğu ve kar yağışlı, yazlar ise sıca ve kurak geçiyor. Bölgenin yüksek rakımı, iklimin sertleşmesine neden oluyor. Dağın eteklerinde ve yakınlarında, mevsimsel olarak değişen hava koşulları, bitki örtüsünü ve yaşamı etkiliyor.
+İklim açısından, Kurulaval Dağı'nın bulunduğu bölge, karasal iklimin hüküm sürdüğü bir alan. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bölgenin yüksek rakımı, iklimin sertleşmesine neden oluyor. Dağın eteklerinde ve yakınlarında, mevsimsel olarak değişen hava koşulları, bitki örtüsünü ve yaşamı etkiliyor.
 
 Bölgenin ekolojik dengesi, Kurulaval Dağı'nın konumu ve çevresindeki su kaynaklarıyla yakından ilgili. Dağın eteklerinde ve yakınında, çeşitli su kaynakları ve akarsular bulunuyor. Bu su kaynakları, bölgenin ekosistemini destekleyen önemli bir bileşen. Dağın komşu alanları, genellikle tarım arazileri ve ormanlık alanlar olarak kullanılıyor. Bu doğal kaynaklar, bölgenin ekonomi ve çevresel zenginliğini oluşturuyor.
 

@@ -37,7 +37,7 @@ Muğdat Dede Türbesi'nin tarihi oldukça eskilere dayanmakta. Bu mekan, yüzyı
 
 ## Coğrafya
 
-Muğdat Dede Türbesi, Mersin'in Yenişehir ilçesinde yer almakta. Bu bölge, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. İlçe, deniz seviyesinden yaklaşık yüksek bir konumdate bulunmakta ve etrafı dağlarla çevrilidir. Bu coğrafi konum, Muğdat Dede Türbesi'nin etrafını zengin bir flora ve fauna ile çevirmekte. Bölge, çeşitli bitki türleri ve hayvanlarla dolu bir ekosisteme ev sahipliği yapmakta. Akdeniz ikliminin hakim olduğu bu bölgede, yazları sıca ve kurak, kışları ılık ve yağışlı bir hava hüküm sürmekte. Bu coğrafi özellikler, Muğdat Dede Türbesi'nin doğal güzelliğini ve ziyaretçilerin bu bölgeyi keşfetme deneyimini zenginleştirmekte.
+Muğdat Dede Türbesi, Mersin'in Yenişehir ilçesinde yer almakta. Bu bölge, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. İlçe, yüksek bir konumda bulunmakta ve etrafı dağlarla çevrilidir. Bu coğrafi konum, Muğdat Dede Türbesi'nin etrafını zengin bir flora ve fauna ile çevirmekte. Bölge, çeşitli bitki türleri ve hayvanlarla dolu bir ekosisteme ev sahipliği yapmakta. Akdeniz ikliminin hakim olduğu bu bölgede, yazları sıcak ve kurak, kışları ılık ve yağışlı bir hava hüküm sürmekte. Bu coğrafi özellikler, Muğdat Dede Türbesi'nin doğal güzelliğini ve ziyaretçilerin bu bölgeyi keşfetme deneyimini zenginleştirmekte.
 
 ## Flora ve Fauna
 

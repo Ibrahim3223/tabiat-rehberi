@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi çeşitliliğiçinde yer alan Huati Te
 
 Doğal güzellikleri ve coğrafi özellikleriyle dikkat çeken Huati Tepesi, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplar. Tepenin fiziksel yapısı, bölgenin jeolojik geçmişini yansıtan kayaçlardan oluşur. Ancak, detaylı fiziksel verilerin bulunmaması, tepenin boyutları ve şekli hakkında dahalı bilgi edinmeyi zorlaştırır. Buna rağmen, tepenin yüksekliği Eiffel Kulesi'nin yaklaşık 1/5'i kadardır ve bu yükseklik, çevredeki diğer tepelerden slightly daha yüksektir.
 
-Mevsimsel değişikliklere göre şekillenen iklim karakteri, Huati Tepesi'nin coğrafi konumunu etkiler. Kış aylarında soğu ve kar yağışlı bir hava, yaz aylarında ise sıca ve kurak bir iklim hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve tepenin ekosistemini şekillendirir.
+Mevsimsel değişikliklere göre şekillenen iklim karakteri, Huati Tepesi'nin coğrafi konumunu etkiler. Kış aylarında soğuk ve kar yağışlı bir hava, yaz aylarında ise sıcak ve kurak bir iklim hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve tepenin ekosistemini şekillendirir.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları, Huati Tepesi'nin çevresel ilişkilerini belirler. Tepenin eteklerinde yer alan nehirler ve akarsular, bölgenin sulak alanlarını besler ve bölgenin canlı yaşamını destekler. Ayrıca, tepenin yakınında bulunan ormanlık alanlar, bölgenin biyolojik çeşitliliğini korur ve bölgeyi gezegenin önemli ekosistemlerinden biri haline getirir.
 

@@ -45,7 +45,7 @@ Yaklaşık 38.0456° kuzey enlemi ve 27.3940° doğu boylamında yer alan Galesi
 
 Doğrudan fiziksel ölçümler olmasa da, Galesios Dağı'nın koordinatları, bu dağın İzmir'in genel coğrafi dokusuna nasıl entegre edildiğini anlamamıza yardımcı oluyor. Galesios Dağı, bir şehir bloğu büyüklüğünde bir alanı kaplayacak kadar büyüktür, ancak tam boyutları hakkında daha fazla bilgi edinmek için daha detaylı araştırmalar gerekli. Jeolojik açıdan, bu bölgenin oluşumunda gioceno ve daha sonraki jeolojik dönemlerin izleri görülebilmektedir.
 
-İklim açısından, Galesios Dağı, Ege Bölgesi'nin genel iklim karakterini yansıtmaktadır. Bu bölgede, yazlar sıca ve kurak, kışlar ise ılıman ve yağışlı geçer. Galesios Dağı, bu mevsimsel değişimlere uyum sağlayan flora ve fauna ile kaplıdır. Etrafındaki coğrafi oluşumlar gibi, bu dağ da bölgenin ekosistem dengesini korumada önemli bir rol oynamaktadır.
+İklim açısından, Galesios Dağı, Ege Bölgesi'nin genel iklim karakterini yansıtmaktadır. Bu bölgede, yazlar sıcak ve kurak, kışlar ise ılıman ve yağışlı geçer. Galesios Dağı, bu mevsimsel değişimlere uyum sağlayan flora ve fauna ile kaplıdır. Etrafındaki coğrafi oluşumlar gibi, bu dağ da bölgenin ekosistem dengesini korumada önemli bir rol oynamaktadır.
 
 Galesios Dağı, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgenin su kaynakları ve ekosistem bağlantılarını etkileyen bir faktördür. Monaco'nun yarısı kadar büyük bir alanı kaplayan İzmir'in genel coğrafi yapısı içinde, Galesios Dağı, bölgenin doğal güzelliklerini ve kaynaklarını koruma altına almak için önemli bir parçadır. Bu dağ, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgenin jeoloji ve ekolojik yapısını şekillendiren önemli bir bileşen olarak görülebilir.
 

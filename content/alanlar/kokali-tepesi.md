@@ -28,7 +28,7 @@ wikidata_id: "Q31555937"
 
 # Kokali Tepesi
 
-Kokali Tepesi, Güneydoğu Anadolu Bölgesi'ninBatman ilinde yer alan bir doğal güzellik noktasıdır. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve 200 futbol sahası büyüklüğünde geniş bir alan sunuyor. Kokali Tepesi, çevresi ile birlikte yaklaşık yüksek bir konumdate bulunuyor ve ziyaretçilerine muhteşem bir manzara sunuyor. Bu tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna gefunden. Ayrıca, tepenin zirvesine ulaşan ziyaretçiler, Batman şehrinin panoramik görünümünü izleme fırsatı buluyor.
+Kokali Tepesi, Güneydoğu Anadolu Bölgesi'ninBatman ilinde yer alan bir doğal güzellik noktasıdır. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve 200 futbol sahası büyüklüğünde geniş bir alan sunuyor. Kokali Tepesi, çevresi ile birlikte yüksek bir konumda bulunuyor ve ziyaretçilerine muhteşem bir manzara sunuyor. Bu tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna gefunden. Ayrıca, tepenin zirvesine ulaşan ziyaretçiler, Batman şehrinin panoramik görünümünü izleme fırsatı buluyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kokali Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bö
 
 ## Coğrafya
 
-Kokali Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu tepe, Batman ilinin kuzeybatısında yer alıyor ve yaklaşık yüksek bir konumdate bulunuyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna yaşamaktadır. Ayrıca, tepenin civarında, bazı akarsular ve dereler bulunmakta. Bu bölge, iklim olarak ılıman ve kurak bir yapıya sahip. Kış aylarında, yağışlar görülse de, yaz aylarında kuru ve sıcak bir hava hüküm sürüyor. Kokali Tepesi'nin coğrafi konumu, ziyaretçilerine farklı mevsimlerde farklı deneyimler sunuyor. İlkbahar ve sonbahar aylarında, doğa yürüyüşleri ve trekking yapmak için ideal bir zaman.
+Kokali Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu tepe, Batman ilinin kuzeybatısında yer alıyor ve yüksek bir konumda bulunuyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna yaşamaktadır. Ayrıca, tepenin civarında, bazı akarsular ve dereler bulunmakta. Bu bölge, iklim olarak ılıman ve kurak bir yapıya sahip. Kış aylarında, yağışlar görülse de, yaz aylarında kuru ve sıcak bir hava hüküm sürüyor. Kokali Tepesi'nin coğrafi konumu, ziyaretçilerine farklı mevsimlerde farklı deneyimler sunuyor. İlkbahar ve sonbahar aylarında, doğa yürüyüşleri ve trekking yapmak için ideal bir zaman.
 
 ## Flora ve Fauna
 

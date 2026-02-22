@@ -37,7 +37,7 @@ Sadrazam Silahtar Kara Vezir Hamamı'nın tarihi geçmişi, yüzyıllar öncesin
 
 ## Coğrafya
 
-Sadrazam Silahtar Kara Vezir Hamamı, Gülşehir'in merkezinde yer alan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alanı kapsamakta olup, geniş ve yeşil bir alana sahiptir. Plajın etrafında çeşitli bitki türleri ve zengin fauna found, ziyaretçilerin doğayla iç içe bir deneyim sunmaktadır. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, yazları sıca ve kuru, kışları soğu ve kar yağışlı geçmektedir. Plajın coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunmakta olup, bölgenin doğal güzelliklerini gözler önüne sermektadır. Bu plaj, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunan bir turizm merkezidir.
+Sadrazam Silahtar Kara Vezir Hamamı, Gülşehir'in merkezinde yer alan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alanı kapsamakta olup, geniş ve yeşil bir alana sahiptir. Plajın etrafında çeşitli bitki türleri ve zengin fauna found, ziyaretçilerin doğayla iç içe bir deneyim sunmaktadır. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, yazları sıcak ve kuru, kışları soğuk ve kar yağışlı geçmektedir. Plajın coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunmakta olup, bölgenin doğal güzelliklerini gözler önüne sermektadır. Bu plaj, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunan bir turizm merkezidir.
 
 ## Flora ve Fauna
 

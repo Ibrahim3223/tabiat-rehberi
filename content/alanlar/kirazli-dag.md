@@ -42,7 +42,7 @@ Coğrafi konumu itibariyle, Kirazlı Dağ, Kayseri'nin güneydoğusunda yer alı
 
 Jeolojik açıdan bakıldığında, Kirazlı Dağ'ın fiziksel yapısı, bölgenin genel jeolojik karakterini yansıtır. Dağın boyutları hakkında detaylı bilgi olmasa da, genel olarak Kayseri bölgesinin coğrafi yapısında benzer dağ oluşumları mevcuttur. Bu dağlar, genellikle birkaç olimpik havuz kadar bir alanı kaplar ve çevresindeki coğrafi yapıyla birlikte bir bütünü oluşturur.
 
-İklim açısından, Kirazlı Dağ, Kayseri'nin karasal ikliminin etkilerini taşır. Bölge, yazın sıca ve kurak, kışın soğu ve kar yağışlı geçer. Bu mevsimsel özellikler, dağın iklim karakterini belirler ve çevresindeki bitki örtüsünü etkiler. Kirazlı Dağ'ın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olabilir, ancak bu sadece bir tahmindir, çünkü detaylı yüksekli verileri mevcut değildir.
+İklim açısından, Kirazlı Dağ, Kayseri'nin karasal ikliminin etkilerini taşır. Bölge, yazın sıcak ve kurak, kışın soğuk ve kar yağışlı geçer. Bu mevsimsel özellikler, dağın iklim karakterini belirler ve çevresindeki bitki örtüsünü etkiler. Kirazlı Dağ'ın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olabilir, ancak bu sadece bir tahmindir, çünkü detaylı yüksekli verileri mevcut değildir.
 
 Çevresel açıdan, Kirazlı Dağ, bölgenin ekosistem bağlantılarını sağlayan önemli bir coğrafi oluşumdur. Yakınlardaki su kaynakları ve komşu alanlar, dağın çevresel ilişkilerini belirler. Monaco'nun yarısı kadar bir alanı kaplayan bu dağ, bölgenin doğal dengesini korur ve çevresindeki canlılara yaşam alanı sağlar.
 

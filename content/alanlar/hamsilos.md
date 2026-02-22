@@ -31,7 +31,7 @@ Hamsilos'un tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge, uzun 
 
 ## Coğrafya
 
-Hamsilos, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Bu milli park, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Hamsilos'un coğrafyası, genellikle düz ve yeşil alanlardan oluşuyor. Bu bölge, yerel flora ve faunaya ev sahipliği yapıyor. İklim olarak, İç Anadolu Bölgesi'nin genel iklim koşullarını paylaşıyor. Yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlı geçiyor. Hamsilos, çevresindeki doğal güzellikleriyle birlikte bir bütün olarak değerlendiriliyor. Bu bölge, ziyaretçilerine geniş ve yeşil alanlar sunuyor.
+Hamsilos, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Bu milli park, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Hamsilos'un coğrafyası, genellikle düz ve yeşil alanlardan oluşuyor. Bu bölge, yerel flora ve faunaya ev sahipliği yapıyor. İklim olarak, İç Anadolu Bölgesi'nin genel iklim koşullarını paylaşıyor. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçiyor. Hamsilos, çevresindeki doğal güzellikleriyle birlikte bir bütün olarak değerlendiriliyor. Bu bölge, ziyaretçilerine geniş ve yeşil alanlar sunuyor.
 
 ## Flora ve Fauna
 

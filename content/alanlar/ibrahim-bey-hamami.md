@@ -37,7 +37,7 @@ Didim'in gözde mekanlarından İbrahim Bey Hamamı, Ege Bölgesi'nin Aydın ili
 
 ## Coğrafya
 
-İbrahim Bey Hamamı, Didim'in merkezinde yer alan bir plaj olarak, Ege Bölgesi'nin güzelliklerini bir araya getiriyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu bakımdan oldukça geniş bir alana sahip. Plajın konumu, deniz ve kara arasındaki doğal dengenin güzel bir örneğini sunuyor. İklimi, Ege Bölgesi'nin genel iklimine uygun olarak sıca ve kurak yazları, ılıman ve yağışlı kışları ile karakterize ediliyor. Çevre, yeşilin ve mavinin birlikteliği ile ziyaretçilere huzur veren bir atmosfer sunuyor. İbrahim Bey Hamamı, doğal güzelliği ve coğrafi konumu ile ziyaretçilerini etkileyen bir destinasyon olarak dikkat çekiyor.
+İbrahim Bey Hamamı, Didim'in merkezinde yer alan bir plaj olarak, Ege Bölgesi'nin güzelliklerini bir araya getiriyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu bakımdan oldukça geniş bir alana sahip. Plajın konumu, deniz ve kara arasındaki doğal dengenin güzel bir örneğini sunuyor. İklimi, Ege Bölgesi'nin genel iklimine uygun olarak sıcak ve kurak yazları, ılıman ve yağışlı kışları ile karakterize ediliyor. Çevre, yeşilin ve mavinin birlikteliği ile ziyaretçilere huzur veren bir atmosfer sunuyor. İbrahim Bey Hamamı, doğal güzelliği ve coğrafi konumu ile ziyaretçilerini etkileyen bir destinasyon olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 

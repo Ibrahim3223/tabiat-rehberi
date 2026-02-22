@@ -36,7 +36,7 @@ Ganikırki Tepesi'nin tarihi geçmişi, yüzyıllar boyunca bölgede yaşayan ç
 
 ## Coğrafya
 
-Ganikırki Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölgenin coğrafyası, dağlık ve engebeli arazilerle karakterizedir. Ganikırki Tepesi de bu coğrafi yapı içinde yer alır ve eteklerinde çeşitli bitki türleri bulunur. Bölgenin iklimi, genel olarak sıca ve kurudur, ancak Ganikırki Tepesi'nin yüksekliği nedeniyle, burada daha serin bir iklim hüküm sürer. Tepenin etrafında, çeşitli su kaynakları ve vahşi yaşam alanları da mevcuttur. Coğrafi konumu itibariyle, Ganikırki Tepesi, bölgenin ekolojik dengesinin korunmasına da katkıda bulunur.
+Ganikırki Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölgenin coğrafyası, dağlık ve engebeli arazilerle karakterizedir. Ganikırki Tepesi de bu coğrafi yapı içinde yer alır ve eteklerinde çeşitli bitki türleri bulunur. Bölgenin iklimi, genel olarak sıcak ve kurudur, ancak Ganikırki Tepesi'nin yüksekliği nedeniyle, burada daha serin bir iklim hüküm sürer. Tepenin etrafında, çeşitli su kaynakları ve vahşi yaşam alanları da mevcuttur. Coğrafi konumu itibariyle, Ganikırki Tepesi, bölgenin ekolojik dengesinin korunmasına da katkıda bulunur.
 
 ## Flora ve Fauna
 

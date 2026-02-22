@@ -40,7 +40,7 @@ Bu doğal cennet, sadece bilimsel bir merkez olarak değil, aynı zamanda halkı
 
 Doğal güzelliği ve çeşitliliği ile dikkat çeken bu botanik bahçesi, farklı türlerde bitkileri barındırmaktadır. Ancak, detaylı fiziksel veri bulunmaması nedeniyle, bu alanın boyutları ve şekli hakkında net bir bilgi verilememektedir. Buna rağmen, botanik bahçesinin Ege Üniversitesi'nin geniş kampüs alanı içinde yer alması, ziyaretçilerin geniş bir yeşil alanda dolaşma fırsatı sunmaktadır.
 
-İzmir'in iklimi, botanik bahçesinin çeşitliliğini ve güzelliğini etkileyen önemli bir faktördür. Akdeniz ikliminin hakim olduğu bu bölgede, yaz ayları sıca ve kurak, kış ayları ılık ve yağışlı geçmektedir. Bu mevsimsel özellikler, botanik bahçesinde bulunan bitkilerin yetişme ve gelişme koşullarını etkilemekte ve ziyaretçilere her mevsim farklı bir güzellik sunmaktadır.
+İzmir'in iklimi, botanik bahçesinin çeşitliliğini ve güzelliğini etkileyen önemli bir faktördür. Akdeniz ikliminin hakim olduğu bu bölgede, yaz ayları sıcak ve kurak, kış ayları ılık ve yağışlı geçmektedir. Bu mevsimsel özellikler, botanik bahçesinde bulunan bitkilerin yetişme ve gelişme koşullarını etkilemekte ve ziyaretçilere her mevsim farklı bir güzellik sunmaktadır.
 
 Ege Üniversitesi botanik bahçesi, çevresindeki doğal ve kentsel alanlarla güçlü bir şekilde bağlantılıdır. Kampüs alanı içinde yer alması, ziyaretçilerin aynı zamanda üniversitenin diğer doğal ve kültürel zenginliklerini keşfetmesine olanak sağlar. Ayrıca, botanik bahçesi, yakın çevresindeki su kaynakları ve ekosistem bağlantıları ile de önemli bir role sahiptir. Bu bağlantılar, bölgenin ekolojik dengesini koruma ve zenginleştirmek için önemli bir unsur olarak görülebilir.
 

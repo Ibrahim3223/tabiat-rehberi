@@ -37,7 +37,7 @@ Tura Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölgen
 
 ## Coğrafya
 
-Tura Tepe, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin Batman ilinde yer alıyor. 140 hektarlık bir alana sahip olan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde. Tura Tepe'nin etrafı, çeşitli bitki türleriyle dolu zengin bir flora ile çevrilidir. Bu eşsiz coğrafya, ziyaretçilerini bir doğa belgeseli içindeymiş gibi hissettiriyor. Tura Tepe'nin iklimi, bölgenin genel iklimine uygun olarak karasal iklim özellikleri gösteriyor. Yaz ayları sıca ve kurak, kış ayları ise soğu ve yağışlı geçiyor. Tura Tepe, Batman ilinin coğrafi yapısını da yansıtıyor. Bu tepe, bölgenin en önemli doğal noktalarından biri olarak kabul ediliyor.
+Tura Tepe, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin Batman ilinde yer alıyor. 140 hektarlık bir alana sahip olan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde. Tura Tepe'nin etrafı, çeşitli bitki türleriyle dolu zengin bir flora ile çevrilidir. Bu eşsiz coğrafya, ziyaretçilerini bir doğa belgeseli içindeymiş gibi hissettiriyor. Tura Tepe'nin iklimi, bölgenin genel iklimine uygun olarak karasal iklim özellikleri gösteriyor. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçiyor. Tura Tepe, Batman ilinin coğrafi yapısını da yansıtıyor. Bu tepe, bölgenin en önemli doğal noktalarından biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

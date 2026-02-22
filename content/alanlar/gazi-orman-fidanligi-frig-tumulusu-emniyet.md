@@ -37,7 +37,7 @@ Gazi Orman Fidanlığı Frig Tümülüsü, Emniyet'in tarihi geçmişi, Ankara'n
 
 ## Coğrafya
 
-Gazi Orman Fidanlığı Frig Tümülüsü, Emniyet, coğrafi olarak İç Anadolu Bölgesi'nde yer alan Ankara'nın Yenimahalle ilçesinde bulunmaktadır. Bu bölge, geniş ormanlık alanları, çeşitli bitki türleri ve zengin fauna yapısıyla dikkat çeker. Orman fidanlığının coğrafi yapısı, ziyaretçilere hem dinlenme hem de doğa yürüyüşü yapma imkanı sunar. Emniyet Plajı ise, serin ve temiz bir su kaynağı olarak hizmet verir. İklim olarak, İç Anadolu Bölgesi'nin karasal iklimine sahip olan bu bölge, yazları sıca ve kurak, kışları ise soğu ve kar yağışlı geçer. Gazi Orman Fidanlığı Frig Tümülüsü, Emniyet'in coğrafi konumu, ziyaretçilere dört mevsim boyunca farklı güzellikler sunar. Bahar aylarında yeşeren orman, yaz aylarında serin bir sığınak, sonbahar aylarında renk cümbüşü ve kış aylarında ise kar manzaraları sunar.
+Gazi Orman Fidanlığı Frig Tümülüsü, Emniyet, coğrafi olarak İç Anadolu Bölgesi'nde yer alan Ankara'nın Yenimahalle ilçesinde bulunmaktadır. Bu bölge, geniş ormanlık alanları, çeşitli bitki türleri ve zengin fauna yapısıyla dikkat çeker. Orman fidanlığının coğrafi yapısı, ziyaretçilere hem dinlenme hem de doğa yürüyüşü yapma imkanı sunar. Emniyet Plajı ise, serin ve temiz bir su kaynağı olarak hizmet verir. İklim olarak, İç Anadolu Bölgesi'nin karasal iklimine sahip olan bu bölge, yazları sıcak ve kurak, kışları ise soğuk ve kar yağışlı geçer. Gazi Orman Fidanlığı Frig Tümülüsü, Emniyet'in coğrafi konumu, ziyaretçilere dört mevsim boyunca farklı güzellikler sunar. Bahar aylarında yeşeren orman, yaz aylarında serin bir sığınak, sonbahar aylarında renk cümbüşü ve kış aylarında ise kar manzaraları sunar.
 
 ## Flora ve Fauna
 

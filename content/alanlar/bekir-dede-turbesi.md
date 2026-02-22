@@ -37,7 +37,7 @@ Bekir Dede Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu m
 
 ## Coğrafya
 
-Bekir Dede Türbesi, Bursa'nın Osmangazi ilçesinde bulunuyor. Bu bölge, coğrafi olarak zengin bir yapıya sahip. Türbe, çevredeki dağlar ve ormanlar ile çevrilidir. Burada, çeşitli bitki türleri ve hayvanlar yaşıyor. Bekir Dede Türbesi, coğrafi konumu nedeniyle birçok ziyaretçi tarafından tercih ediliyor. Türbe, çevredeki tarafından da ilgi görüyor. Burada, doğa ile iç içe bir gezi deneyimi yaşayabilirsiniz. Bekir Dede Türbesi, coğrafi olarak yaklaşık yüksek bir konumdate bulunuyor. Bu bölge, coğrafi olarak zengin bir yapıya sahip.
+Bekir Dede Türbesi, Bursa'nın Osmangazi ilçesinde bulunuyor. Bu bölge, coğrafi olarak zengin bir yapıya sahip. Türbe, çevredeki dağlar ve ormanlar ile çevrilidir. Burada, çeşitli bitki türleri ve hayvanlar yaşıyor. Bekir Dede Türbesi, coğrafi konumu nedeniyle birçok ziyaretçi tarafından tercih ediliyor. Türbe, çevredeki tarafından da ilgi görüyor. Burada, doğa ile iç içe bir gezi deneyimi yaşayabilirsiniz. Bekir Dede Türbesi, coğrafi olarak yüksek bir konumda bulunuyor. Bu bölge, coğrafi olarak zengin bir yapıya sahip.
 
 ## Flora ve Fauna
 

@@ -38,7 +38,7 @@ Aizanoi 2. Roma Hamamı, tarihin sayfalarında önemli bir yer tutuyor. Roma İm
 
 ## Coğrafya
 
-Aizanoi 2. Roma Hamamı, Çavdarhisar'ın merkezinde, Ege Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bölge, coğrafi çeşitlilik bakımından zengin bir yapıya sahip. Hamamın bulunduğu alan, yaklaşık 140 hektar büyüklüğünde ve bu geniş alanda, antik şehir kalıntıları ve tarihi yapılar bulunuyor. Bölgenin iklimi, tipik Akdeniz iklimi özellikleri gösteriyor; yani yazları sıca ve kurak, kışları ise ılıman ve yağışlı geçiyor. Aizanoi 2. Roma Hamamı'nın bulunduğu bölge,histori ve kültürel zenginliklerinin yanı sıra, coğrafi güzellikleri ile de dikkat çekiyor. Çevre, yeşillik alanlarla dolu ve ziyaretçilere, tarihi bir atmosferde dinlenme ve gezi imkanı sunuyor. Bu coğrafi konum, Aizanoi 2. Roma Hamamı'nı ziyaret Edenler için önemli bir çekim noktası oluşturuyor.
+Aizanoi 2. Roma Hamamı, Çavdarhisar'ın merkezinde, Ege Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bölge, coğrafi çeşitlilik bakımından zengin bir yapıya sahip. Hamamın bulunduğu alan, yaklaşık 140 hektar büyüklüğünde ve bu geniş alanda, antik şehir kalıntıları ve tarihi yapılar bulunuyor. Bölgenin iklimi, tipik Akdeniz iklimi özellikleri gösteriyor; yani yazları sıcak ve kurak, kışları ise ılıman ve yağışlı geçiyor. Aizanoi 2. Roma Hamamı'nın bulunduğu bölge,histori ve kültürel zenginliklerinin yanı sıra, coğrafi güzellikleri ile de dikkat çekiyor. Çevre, yeşillik alanlarla dolu ve ziyaretçilere, tarihi bir atmosferde dinlenme ve gezi imkanı sunuyor. Bu coğrafi konum, Aizanoi 2. Roma Hamamı'nı ziyaret Edenler için önemli bir çekim noktası oluşturuyor.
 
 ## Flora ve Fauna
 

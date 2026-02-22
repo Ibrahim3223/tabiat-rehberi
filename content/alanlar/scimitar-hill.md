@@ -37,7 +37,7 @@ Scimitar Hill'in tarihi geçmişi, İç Anadolu Bölgesi'nin eski uygarlıkları
 
 ## Coğrafya
 
-Scimitar Hill, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biridir. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası olarak tanımlanabilir. Bu tepe, eteklerinde uzanan geniş otlaklarla birlikte, bir bütün olarak ele alındığında, yaklaşık yüksek bir konumdate yer alıyor. Scimitar Hill'in coğrafi konumu, ziyaretçilere bölgenin diğer önemli noktalarına kolayca ulaşma imkanı sunuyor. Bu tepe, aynı zamanda çevresindeki dağlarla birlikte, bir bütün olarak ele alındığında, uzun bir mesafelik bir alan kaplıyor. Scimitar Hill'in coğrafyası, ziyaretçilere geniş bir manzara sunuyor ve doğa severler için ideal bir gezi noktası olarak kabul ediliyor.
+Scimitar Hill, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biridir. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası olarak tanımlanabilir. Bu tepe, eteklerinde uzanan geniş otlaklarla birlikte, bir bütün olarak ele alındığında, yüksek bir konumda yer alıyor. Scimitar Hill'in coğrafi konumu, ziyaretçilere bölgenin diğer önemli noktalarına kolayca ulaşma imkanı sunuyor. Bu tepe, aynı zamanda çevresindeki dağlarla birlikte, bir bütün olarak ele alındığında, uzun bir mesafelik bir alan kaplıyor. Scimitar Hill'in coğrafyası, ziyaretçilere geniş bir manzara sunuyor ve doğa severler için ideal bir gezi noktası olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

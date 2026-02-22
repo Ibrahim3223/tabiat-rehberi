@@ -37,7 +37,7 @@ Seki Çeşme Hamamı'nın tarihi geçmişi, Karaman'ın tarihine bağlı olarak 
 
 ## Coğrafya
 
-Seki Çeşme Hamamı, Karaman ilinin merkezinde yer alıyor ve iç Anadolu Bölgesi'nin coğrafi özelliklerine sahip. Bu bölgenin coğrafyası genellikle step ve ova şeklinde tanımlanabilir. Seki Çeşme Hamamı'nın bulunduğu alan, geniş bir yeşil alana sahip ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Hamamın etrafı, çeşitli bitki türleriyle çevrili ve bu durum, ziyaretçilere bir ortam sunuyor. İç Anadolu Bölgesi'nin iklimi, karasal iklim özellikleri gösteriyor ve bu, Seki Çeşme Hamamı'nın bulunduğu bölgenin de iklimini etkiliyor. Bu bölgede, yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlı geçiyor. Seki Çeşme Hamamı, bu coğrafi ve iklimsel koşulların birleşimiyle, ziyaretçilerine benzersiz bir deneyim sunuyor.
+Seki Çeşme Hamamı, Karaman ilinin merkezinde yer alıyor ve iç Anadolu Bölgesi'nin coğrafi özelliklerine sahip. Bu bölgenin coğrafyası genellikle step ve ova şeklinde tanımlanabilir. Seki Çeşme Hamamı'nın bulunduğu alan, geniş bir yeşil alana sahip ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Hamamın etrafı, çeşitli bitki türleriyle çevrili ve bu durum, ziyaretçilere bir ortam sunuyor. İç Anadolu Bölgesi'nin iklimi, karasal iklim özellikleri gösteriyor ve bu, Seki Çeşme Hamamı'nın bulunduğu bölgenin de iklimini etkiliyor. Bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçiyor. Seki Çeşme Hamamı, bu coğrafi ve iklimsel koşulların birleşimiyle, ziyaretçilerine benzersiz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

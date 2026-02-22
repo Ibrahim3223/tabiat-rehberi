@@ -38,7 +38,7 @@ Mahkeme Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Mahkeme Hamamı, Marmara Bölgesi'nin coğrafi güzellikleri arasında yer almaktadır. Bu alan, deniz seviyesinden yaklaşık yüksek bir konumdate yer almaktadır. Mahkeme Hamamı'nın coğrafi konumu, ziyaretçilere doğal güzellikleri ve tarihi yapıları keşfetme fırsatı sunmaktadır. Çevredeki dağlar ve ormanlar, bu yerin doğal güzelliklerini zenginleştirmektedir. Mahkeme Hamamı, Bursa'nın Osmangazi ilçesinde yer alan bir plaj olarak da bilinmektedir. Bu plaj, Marmara Denizi'nin güzelliklerini sunmaktadır. Mahkeme Hamamı'nın coğrafi konumu, ziyaretçilere çeşitli aktiviteleri ve güzellikleri bir arada sunmaktadır.
+Mahkeme Hamamı, Marmara Bölgesi'nin coğrafi güzellikleri arasında yer almaktadır. Bu alan, yüksek bir konumda yer almaktadır. Mahkeme Hamamı'nın coğrafi konumu, ziyaretçilere doğal güzellikleri ve tarihi yapıları keşfetme fırsatı sunmaktadır. Çevredeki dağlar ve ormanlar, bu yerin doğal güzelliklerini zenginleştirmektedir. Mahkeme Hamamı, Bursa'nın Osmangazi ilçesinde yer alan bir plaj olarak da bilinmektedir. Bu plaj, Marmara Denizi'nin güzelliklerini sunmaktadır. Mahkeme Hamamı'nın coğrafi konumu, ziyaretçilere çeşitli aktiviteleri ve güzellikleri bir arada sunmaktadır.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Afyonkarahisar'da yer alan Şabalı Tepesi, 140 hektarlık yeşil alanıyla yakl
 
 ## Coğrafya
 
-Şabalı Tepesi, Afyonkarahisar ilinin merkezine uzun bir mesafe uzaklıkta yer alıyor. Tepenin yüksekliği 1000 metreyi aşarken, eteklerinde yer alan köyler 500-yüksek bir konumdate bulunuyor. Bölge, Ege Bölgesi'nin karakteristik coğrafyasını yansıtan tepe ve vadilerle dolu. Şabalı Tepesi'nin iklimi, karasal iklimin özellikleri gösteriyor. Kış aylarında kar yağışı görülürken, yaz ayları sıca ve kurak geçiyor. Tepenin etrafında yer alan ormanlar, çeşitli ağaç türleriyle dolu. Bölgede, zengin fauna da dikkat çekiyor; çeşitli kuş türleri, keçiler ve yaban domuzları gibi hayvanlar tepenin eteklerinde ve zirvesinde yaşamlarını sürdürüyor.
+Şabalı Tepesi, Afyonkarahisar ilinin merkezine uzun bir mesafe uzaklıkta yer alıyor. Tepenin yüksekliği 1000 metreyi aşarken, eteklerinde yer alan köyler 500-yüksek bir konumdate bulunuyor. Bölge, Ege Bölgesi'nin karakteristik coğrafyasını yansıtan tepe ve vadilerle dolu. Şabalı Tepesi'nin iklimi, karasal iklimin özellikleri gösteriyor. Kış aylarında kar yağışı görülürken, yaz ayları sıcak ve kurak geçiyor. Tepenin etrafında yer alan ormanlar, çeşitli ağaç türleriyle dolu. Bölgede, zengin fauna da dikkat çekiyor; çeşitli kuş türleri, keçiler ve yaban domuzları gibi hayvanlar tepenin eteklerinde ve zirvesinde yaşamlarını sürdürüyor.
 
 ## Flora ve Fauna
 

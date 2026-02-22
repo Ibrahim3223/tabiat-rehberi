@@ -45,7 +45,7 @@ Doğudan batıya uzanan Ege Bölgesi'nin kalbinde, 38.3417°K ve 27.7683°D koor
 
 Jeolojik olarak ele aldığımızda, Çatma Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, koordinatlarından anlaşıldığı üzere belirli bir yüksekli ve genişlikte bir oluşum olduğu söylenebilir. Örneğin, bir şehir bloğu büyüklüğünde bir alana sahip olan bu dağ, yerel ekosistemi destekleyen önemli bir doğal kaynak olarak görülebilir.
 
-Mevsimsel olarak ele alındığında, Çatma Dağı'nın iklim karakteri Ege Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, dağın çevresindeki bitki örtüsünü ve yerel wildlife'ı etkiler.
+Mevsimsel olarak ele alındığında, Çatma Dağı'nın iklim karakteri Ege Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, dağın çevresindeki bitki örtüsünü ve yerel wildlife'ı etkiler.
 
 Çevresel açıdan bakıldığında, Çatma Dağı komşu alanlar ve su kaynakları ile önemli bir ilişkiye sahiptir. Örneğin, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alana sahip olan bu dağ, bölgenin hidrolojik döngüsünü destekleyen önemli bir doğal kaynak olarak görülebilir. Ayrıca, Monaco'nun yarısı kadar büyüklüğünde bir alanda yer alan Çatma Dağı, yerel ekosistemi koruma altına alan önemli bir coğrafi oluşumdur.
 
@@ -53,7 +53,7 @@ Mevsimsel olarak ele alındığında, Çatma Dağı'nın iklim karakteri Ege Bö
 
 Çatma Dağı, step bitki örtüsü ve bozkırın hakim olduğu bir dağ ekosistemi olarak dikkat çeker. Bu bölgede, kuraklığa adapte türler ön plana çıkar. Yükseklik zonlarına bağlı olarak değişen flora, ilkbahar aylarında rengarenk çiçeklerle donanır. Alpin flora, dağın yüksek kesimlerinde görülür.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri ve yaban kedileri gibi memeliler, dağlık alanların kayalık bölgelerinde yaşar. Kuşlar, özellikle sonbahar aylarında göç ederken, dağların yüksek kesimlerinde görülür. Sürüngenler, sıca ve kurak bölgelerde động eder.
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri ve yaban kedileri gibi memeliler, dağlık alanların kayalık bölgelerinde yaşar. Kuşlar, özellikle sonbahar aylarında göç ederken, dağların yüksek kesimlerinde görülür. Sürüngenler, sıcak ve kurak bölgelerde động eder.
 
 Çatma Dağı'nın ekolojik değeri, bu dağ ekosisteminin koruma altına alınması gerekliliğini vurgular. Bu bölge, birçok canlı türünün yaşam alanı olarak önemli bir role sahiptir. Koruma durumu, bu dağ ekosisteminin geleceğiçin kritik öneme sahiptir.
 

@@ -45,7 +45,7 @@ Doğunun gizli köşelerinden biri olan Değirmen Tepe, Van'ın dağlık bölges
 
 Fiziksel olarak, Değirmen Tepe'nin tam boyutları hakkında detaylı bilgi olmasa da, genel olarak dağlık bir araziye sahip olduğu biliniyor. Koordinatları, bu bölgenin Van Gölü'ne yakınlığını gösteriyor. Bir şehir bloğu büyüklüğünde olan bu tepe, çevresindeki dağlarla birlikte birWhole bir coğrafi bütünlük oluşturuyor. Jeolojik açıdan, bölgenin volkanik bir geçmişe sahip olduğu ve bu nedenle única bir toprak yapısına sahip olduğu düşünülüyor.
 
-İklim açısından, Değirmen Tepe ve çevresinin karasal bir iklim karakterine sahip olduğu söylenebilir. Kışlar soğu ve karlı, yazlar ise sıca ve kurak geçiyor. Bölgenin yüksek rakımı, iklimin daha serin ve nemli olmasına neden oluyor. Eiffel Kulesi'nin 2 katı yükseklikte olan bu tepe, mevsimsel değişimlerin belirgin olarak hissedildiği bir nokta.
+İklim açısından, Değirmen Tepe ve çevresinin karasal bir iklim karakterine sahip olduğu söylenebilir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bölgenin yüksek rakımı, iklimin daha serin ve nemli olmasına neden oluyor. Eiffel Kulesi'nin 2 katı yükseklikte olan bu tepe, mevsimsel değişimlerin belirgin olarak hissedildiği bir nokta.
 
 Çevresel açıdan, Değirmen Tepe'nin Van Gölü'ne ve çevresindeki dağlara yakınlığı, bu bölgenin ekosistem bağlantıları açısından önemli bir role sahip olduğunu gösteriyor. Monaco'nun yarısı kadar büyük bir alana sahip olan Van Gölü, bölgenin su kaynakları açısından merkezi bir konumda bulunuyor. Bu göl ve çevresindeki dağlar, bir bütün olarak düşünüldüğünde, Değirmen Tepe'nin doğal güzelliği ve ekolojik önemi daha da anlaşılır hale geliyor.
 

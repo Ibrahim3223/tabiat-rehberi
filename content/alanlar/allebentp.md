@@ -30,11 +30,11 @@ ALLEBEN_TP'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge
 
 ## Coğrafya
 
-ALLEBEN_TP, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir bölgedir. 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölgenin iklimi, İç Anadolu Bölgesi'nin tipik karasal iklimine sahiptir. Kışları soğu ve kar yağışlı, yazları ise sıcak ve kuru geçmektedir. ALLEBEN_TP'nin coğrafi konumu, ziyaretçilerin dört mevsim boyunca farklı doğa güzelliklerini deneyimlemesine olanak tanır. İlkbahar ve sonbahar aylarında, bölgenin rengarenk bitki örtüsü, ziyaretçilere unutulmaz manzaralar sunar. Kış aylarında ise, karla kaplı alanlar, ziyaretçilere kaya ve snowboard gibi kış sporları yapma imkanı verir.
+ALLEBEN_TP, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir bölgedir. 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölgenin iklimi, İç Anadolu Bölgesi'nin tipik karasal iklimine sahiptir. Kışları soğuk ve kar yağışlı, yazları ise sıcak ve kuru geçmektedir. ALLEBEN_TP'nin coğrafi konumu, ziyaretçilerin dört mevsim boyunca farklı doğa güzelliklerini deneyimlemesine olanak tanır. İlkbahar ve sonbahar aylarında, bölgenin rengarenk bitki örtüsü, ziyaretçilere unutulmaz manzaralar sunar. Kış aylarında ise, karla kaplı alanlar, ziyaretçilere kaya ve snowboard gibi kış sporları yapma imkanı verir.
 
 ## Flora ve Fauna
 
-ALLEBEN_TP, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölgede, mevsimsel değişimlere bağlı olarak, farklı bitki ve hayvan türleri görülmektedir. İlkbahar aylarında, bölgenin rengarenk bitki örtüsü, ziyaretçilere unutulmaz manzaralar sunar. Yaz aylarında, sıca ve kuru hava, bazı bitki türlerinin büyümesini engellemektedir. Kış aylarında ise, karla kaplı alanlar, bazı hayvan türlerinin barınma alanları trmektedir. ALLEBEN_TP, ekolojik dengesi ile dikkat çekmekte ve ziyaretçilerine, doğanın güzelliklerini deneyimleme fırsatı vermektedir.
+ALLEBEN_TP, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölgede, mevsimsel değişimlere bağlı olarak, farklı bitki ve hayvan türleri görülmektedir. İlkbahar aylarında, bölgenin rengarenk bitki örtüsü, ziyaretçilere unutulmaz manzaralar sunar. Yaz aylarında, sıcak ve kuru hava, bazı bitki türlerinin büyümesini engellemektedir. Kış aylarında ise, karla kaplı alanlar, bazı hayvan türlerinin barınma alanları trmektedir. ALLEBEN_TP, ekolojik dengesi ile dikkat çekmekte ve ziyaretçilerine, doğanın güzelliklerini deneyimleme fırsatı vermektedir.
 
 ## Ziyaret Bilgileri
 

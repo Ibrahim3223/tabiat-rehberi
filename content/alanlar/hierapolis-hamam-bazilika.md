@@ -37,7 +37,7 @@ Hierapolis Hamam Bazilika, antik kent Hierapolis'in en önemli yapılarından bi
 
 ## Coğrafya
 
-Hierapolis Hamam Bazilika, Pamukkale'nin merkezinde, Denizli ilinde yer almaktadır. Bu bölge, Ege Bölgesi'nin coğrafi olarak en güzel yerlerinden biri. Hierapolis Hamam Bazilika, 140 hektarlık bir alanı kaplamakta. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, antik kent Hierapolis'in kalıntılarını ve Pamukkale travertenlerini içinde barındırmakta. Hierapolis Hamam Bazilika, coğrafi olarak Ege Bölgesi'nin en güzel yerlerinden biri. Bu bölge, yemyeşil ormanlarla ve tarihi kalıntılarla çevrilidir. İklimi, Ege Bölgesi'nin tipik Akdeniz iklimi. Yazları sıca ve kurak, kışları ılıman ve yağışlı.
+Hierapolis Hamam Bazilika, Pamukkale'nin merkezinde, Denizli ilinde yer almaktadır. Bu bölge, Ege Bölgesi'nin coğrafi olarak en güzel yerlerinden biri. Hierapolis Hamam Bazilika, 140 hektarlık bir alanı kaplamakta. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, antik kent Hierapolis'in kalıntılarını ve Pamukkale travertenlerini içinde barındırmakta. Hierapolis Hamam Bazilika, coğrafi olarak Ege Bölgesi'nin en güzel yerlerinden biri. Bu bölge, yemyeşil ormanlarla ve tarihi kalıntılarla çevrilidir. İklimi, Ege Bölgesi'nin tipik Akdeniz iklimi. Yazları sıcak ve kurak, kışları ılıman ve yağışlı.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Yaylacık Tepesi, tarihi geçmişiyle dolu bir mekan olarak bilinir. Bu tepenin 
 
 ## Coğrafya
 
-Yaylacık Tepesi, Adana'nın Akdeniz Bölgesi'nde yer alır ve bu bölgenin coğrafi özellikleri ile dikkat çeker. Tepenin bulunduğu bölge, Akdeniz ikliminin karakteristik özellikleri taşır ve ziyaretçilerine sıca ve kurak bir ortam sunar. Yaylacık Tepesi, deniz seviyesinden yüksek bir noktada yer alır ve bu yükseklik, ziyaretçilerine muhteşem bir manzara sunar. Tepenin etrafındaki çevre, çeşitli bitki türleriyle süslenmiş ve zengin bir fauna barındırır. Yaylacık Tepesi, ziyaretçilerine hem doğal güzellikleri hem de coğrafi özellikleri ile dolu bir deneyim sunar. Tepenin coğrafi konumu, ziyaretçilerine birçok farklı manzara sunar ve onları büyüler.
+Yaylacık Tepesi, Adana'nın Akdeniz Bölgesi'nde yer alır ve bu bölgenin coğrafi özellikleri ile dikkat çeker. Tepenin bulunduğu bölge, Akdeniz ikliminin karakteristik özellikleri taşır ve ziyaretçilerine sıcak ve kurak bir ortam sunar. Yaylacık Tepesi, deniz seviyesinden yüksek bir noktada yer alır ve bu yükseklik, ziyaretçilerine muhteşem bir manzara sunar. Tepenin etrafındaki çevre, çeşitli bitki türleriyle süslenmiş ve zengin bir fauna barındırır. Yaylacık Tepesi, ziyaretçilerine hem doğal güzellikleri hem de coğrafi özellikleri ile dolu bir deneyim sunar. Tepenin coğrafi konumu, ziyaretçilerine birçok farklı manzara sunar ve onları büyüler.
 
 ## Flora ve Fauna
 

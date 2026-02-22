@@ -31,7 +31,7 @@ Tillo'nun tarihi geçmişi, oldukça zengin ve renkli bir geçmişe dayanır. Bu
 
 ## Coğrafya
 
-Tillo, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir konumda yer alıyor. Bu bölge, geniş otlaklar, ormanlık alanlar ve dağlar ile çevrilidir. Tillo'nun coğrafyası, ziyaretçilere çeşitli manzaralar sunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere doğayı keşfetme fırsatı sunuyor. Tillo'nun iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahip. Kışlar soğu ve karlı, yazlar ise sıcak ve kuru geçiyor. Bu iklim, Tillo'nun florası ve faunası üzerinde önemli bir etkiye sahip. Tillo, doğa severler için bir cennet. Burada, çeşitli bitki türleri ve hayvanlar ziyaretçileri karşılıyor.
+Tillo, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir konumda yer alıyor. Bu bölge, geniş otlaklar, ormanlık alanlar ve dağlar ile çevrilidir. Tillo'nun coğrafyası, ziyaretçilere çeşitli manzaralar sunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere doğayı keşfetme fırsatı sunuyor. Tillo'nun iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahip. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuru geçiyor. Bu iklim, Tillo'nun florası ve faunası üzerinde önemli bir etkiye sahip. Tillo, doğa severler için bir cennet. Burada, çeşitli bitki türleri ve hayvanlar ziyaretçileri karşılıyor.
 
 ## Flora ve Fauna
 

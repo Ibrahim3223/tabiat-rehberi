@@ -36,7 +36,7 @@ Antalya'nın eşsiz doğasında yer alan Çığlıkdede Tepesi, yaklaşık 140 h
 
 ## Coğrafya
 
-Çığlıkdede Tepesi, Antalya'nın coğrafi yapısında önemli bir yer tutuyor. Bu tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. İklimi, genel olarak Akdeniz ikliminin özelliklerini gösteriyor; yazları sıca ve kurak, kışları ılık ve yağışlı. Çevresinde, çeşitli bitki türleri ve zengin fauna encontruyor. Çığlıkdede Tepesi, deniz seviyesinden yüksek bir konumda yer alıyor ve bu nedenle, manzarası oldukça geniş ve etkileyici. Tepenin eteklerinde, çeşitli akarsular ve su kaynakları bulunmakta. Bu coğrafi özellikler, Çığlıkdede Tepesi'ni ziyaretçileri için çekici bir destinasyon haline getiriyor.
+Çığlıkdede Tepesi, Antalya'nın coğrafi yapısında önemli bir yer tutuyor. Bu tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. İklimi, genel olarak Akdeniz ikliminin özelliklerini gösteriyor; yazları sıcak ve kurak, kışları ılık ve yağışlı. Çevresinde, çeşitli bitki türleri ve zengin fauna encontruyor. Çığlıkdede Tepesi, deniz seviyesinden yüksek bir konumda yer alıyor ve bu nedenle, manzarası oldukça geniş ve etkileyici. Tepenin eteklerinde, çeşitli akarsular ve su kaynakları bulunmakta. Bu coğrafi özellikler, Çığlıkdede Tepesi'ni ziyaretçileri için çekici bir destinasyon haline getiriyor.
 
 ## Flora ve Fauna
 

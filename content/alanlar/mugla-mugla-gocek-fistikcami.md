@@ -30,7 +30,7 @@ Gocek Fıstıkçamı'nın tarihi geçmişi, yüzyıllar boyunca sürmüştür. B
 
 ## Coğrafya
 
-Gocek Fıstıkçamı, Muğla'nın Ege Bölgesi'nde yer alan bir milli parktır. Bu bölge, 140 hektarlık geniş bir yeşil alana sahiptir. Coğrafi olarak, Ege Bölgesi'nin karakteristik özelliklerini taşıyan bu bölge, genellikle sıca ve kurak yazlar, ılık ve yağışlı kışlar ile karakterizedir. Gocek Fıstıkçamı, deniz seviyesinden yaklaşık yüksek bir konumdate yer almaktadır. Bu milli park, çevresindeki doğal güzellikleriyle birlikte bir bütün olarak değerlendirildiğinde, ziyaretçilere geniş bir coğrafi çeşitlilik sunmaktadır. Ayrıca, bu bölgenin flora ve faunası da oldukça zengindir. Çeşitli ağaç türleri, çalılar ve yabani otlar, bu bölgenin karakteristik özellikleridir.
+Gocek Fıstıkçamı, Muğla'nın Ege Bölgesi'nde yer alan bir milli parktır. Bu bölge, 140 hektarlık geniş bir yeşil alana sahiptir. Coğrafi olarak, Ege Bölgesi'nin karakteristik özelliklerini taşıyan bu bölge, genellikle sıcak ve kurak yazlar, ılık ve yağışlı kışlar ile karakterizedir. Gocek Fıstıkçamı, yüksek bir konumda yer almaktadır. Bu milli park, çevresindeki doğal güzellikleriyle birlikte bir bütün olarak değerlendirildiğinde, ziyaretçilere geniş bir coğrafi çeşitlilik sunmaktadır. Ayrıca, bu bölgenin flora ve faunası da oldukça zengindir. Çeşitli ağaç türleri, çalılar ve yabani otlar, bu bölgenin karakteristik özellikleridir.
 
 ## Flora ve Fauna
 

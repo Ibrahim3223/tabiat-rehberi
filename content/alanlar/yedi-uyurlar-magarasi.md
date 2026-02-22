@@ -46,7 +46,7 @@ Diyarbakır'ın tarihi ve kültürel zenginliklerinin arasında yer alan Yedi Uy
 
 Jeolojik açıdan bakıldığında, Yedi Uyurlar Mağarası, bölgenin kireç taşı formasyonlarından oluşmaktadır. Mağaranın girişi, bir olimpik havuz kadar geniş bir alana sahiptir ve ziyaretçileri, Diyarbakır'ın jeolojik geçmişine götürür. Mağaranın içinde, yeraltı su kaynaklarının şekillendirdiği ilginç kaya oluşumları ve damlataşlar bulunmaktadır.
 
-Mevsimsel olarak, Yedi Uyurlar Mağarası ve çevresi, Diyarbakır'ın karakteristik iklimini paylaşır. Yaz aylarında sıcaklık, Monaco'nun güneyindeki gibi sıca ve kurudur. Kış aylarında ise, hava soğur ve bazen hafif yağışlar görülür. Bu mevsimsel özellikler, mağaranın iç ortamını etkiler ve ziyaretçilerin deneyimi üzerinde önemli bir rol oynar.
+Mevsimsel olarak, Yedi Uyurlar Mağarası ve çevresi, Diyarbakır'ın karakteristik iklimini paylaşır. Yaz aylarında sıcaklık, Monaco'nun güneyindeki gibi sıcak ve kurudur. Kış aylarında ise, hava soğur ve bazen hafif yağışlar görülür. Bu mevsimsel özellikler, mağaranın iç ortamını etkiler ve ziyaretçilerin deneyimi üzerinde önemli bir rol oynar.
 
 Doğal çevre açısından, Yedi Uyurlar Mağarası, Diyarbakır'ın geniş ovaları ve tarım arazileriyle çevrilidir. Mağara, bölgenin ekosistemine önemli bir katkıda bulunur ve yeraltı su kaynakları ile bağlantılıdır. Çevresindeki tarım arazileri, bölgenin ekonomisini destekler ve mağaranın korunmasına yardımcı olur. Bu şekilde, Yedi Uyurlar Mağarası, Diyarbakır'ın coğrafi ve kültürel zenginliklerinin bir parçasını oluşturur.
 

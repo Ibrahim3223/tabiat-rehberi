@@ -45,7 +45,7 @@ Doğunun gizli köşelerinden biri olan Hodul Dağı, 38.5097°K ve 35.0322°D k
 
 Jeolojik açıdan bakıldığında, Hodul Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmuyor. Ancak, bu bölgenin coğrafi yapısı, Türkiye'nin genel jeolojik özelliklerine benzerlik gösteriyor. Dağın boyutları ve şekli hakkında kesin bilgiler olmasa da, bulunduğu bölgenin coğrafi yapısı, bir olimpik atletizm yarışması alanı kadar geniş bir alanı kapsıyor.
 
-İklim açısından, Hodul Dağı'nın bulunduğu bölge, mevsimsel değişiklik gösteren bir iklime sahip. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakim. Bu bölgede, yıl boyunca çeşitli hava koşullarıyla karşılaşma mümkün. Eiffel Kulesi'nin birkaç katı yükseklikte olan bu dağ, hava koşullarının değişkenliğini etkileyen önemli bir faktör.
+İklim açısından, Hodul Dağı'nın bulunduğu bölge, mevsimsel değişiklik gösteren bir iklime sahip. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakim. Bu bölgede, yıl boyunca çeşitli hava koşullarıyla karşılaşma mümkün. Eiffel Kulesi'nin birkaç katı yükseklikte olan bu dağ, hava koşullarının değişkenliğini etkileyen önemli bir faktör.
 
 Çevresel açıdan, Hodul Dağı, komşu dağlarla birlikte bir ekosistem oluşturuyor. Bu bölgede, çeşitli su kaynakları ve bitki türleri bulunması, Hodul Dağı'nın çevresel ilişkilerini zenginleştiriyor. Monaco'nun onda biri kadar büyük bir alanı kaplayan bu dağ, çevresindeki diğer coğrafi oluşumlarla birlikte bir bütünü oluşturuyor.
 

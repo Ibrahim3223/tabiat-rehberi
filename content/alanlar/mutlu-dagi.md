@@ -42,7 +42,7 @@ Doğu Anadolu Bölgesi'nin uzak köşesinde, Hakkari ilinin dağlık arazisinde 
 
 Jeolojik açıdan bakıldığında, Mutlu Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, genel olarak Hakkari ilinin coğrafyası, dağlık ve engebeli bir yapıya sahiptir. Bu bölgede yer alan dağlar, genellikle kalker ve şist gibi kayalardan oluşmaktadır. Mutlu Dağı'nın boyutları hakkında kesin bir bilgi olmasa da, bölgenin dağlık yapısı düşünüldüğünde, Monaco'nun bir bölümü kadar bir alanı kaplayabileceği söylenebilir.
 
-İklim açısından Mutlu Dağı, Doğu Anadolu Bölgesi'nin karakteristik iklim koşullarını taşır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise serin ve yağışlı bir hava hüküm sürer. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkiler. Mutlu Dağı'nın zirvesi, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olabilir, ancak bu bilgi kesin değildir.
+İklim açısından Mutlu Dağı, Doğu Anadolu Bölgesi'nin karakteristik iklim koşullarını taşır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise serin ve yağışlı bir hava hüküm sürer. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkiler. Mutlu Dağı'nın zirvesi, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olabilir, ancak bu bilgi kesin değildir.
 
 Çevresel açıdan bakıldığında, Mutlu Dağı'nın komşu alanlar ve su kaynakları ile önemli bir ilişkiye sahip olduğu görülmektedir. Dağın eteklerinde akan Zap Suyu, bölgenin sulama ve içme suyu ihtiyacını karşılar. Ayrıca, Mutlu Dağı'nın ekosistemi, bölgede yaşayan çeşitli bitki ve hayvan türleri için önemli bir habitat oluşturmaktadır. Bu reasonsel bağlantı, bölgenin doğal dengesini korumak için önemlidir.
 

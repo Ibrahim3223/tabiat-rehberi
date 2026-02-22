@@ -37,7 +37,7 @@ Xanthos Roma Hamamı'nın tarihi geçmişi, Roma İmparatorluğu dönemine kadar
 
 ## Coğrafya
 
-Xanthos Roma Hamamı, Kaş ilçesinin merkezinde yer alıyor ve Akdeniz Bölgesi'nin en güzel ve en önemli turizm merkezlerinden biri olarak biliniyor. Bu mekan, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor ve etrafı, çeşitli bitki türleri ile kaplı bir doğal alan ile çevrili. Xanthos Roma Hamamı, aynı zamanda, bölgenin iklimini de etkileyen bir faktör olarak, Akdeniz ikliminin karakteristik özellikleri ile birlikte, ziyaretçilerine sunduğu doğal güzellikleri ile dikkat çekiyor. Xanthos Roma Hamamı'nın coğrafi konumu, ziyaretçilerine, denize sıfır bir plajın yanı sıra, tarihi ve doğal güzellikleri bir araya getiren bir mekan olarak, önemli bir tercih nedeni oluşturuyor.
+Xanthos Roma Hamamı, Kaş ilçesinin merkezinde yer alıyor ve Akdeniz Bölgesi'nin en güzel ve en önemli turizm merkezlerinden biri olarak biliniyor. Bu mekan, yüksek bir konumda yer alıyor ve etrafı, çeşitli bitki türleri ile kaplı bir doğal alan ile çevrili. Xanthos Roma Hamamı, aynı zamanda, bölgenin iklimini de etkileyen bir faktör olarak, Akdeniz ikliminin karakteristik özellikleri ile birlikte, ziyaretçilerine sunduğu doğal güzellikleri ile dikkat çekiyor. Xanthos Roma Hamamı'nın coğrafi konumu, ziyaretçilerine, denize sıfır bir plajın yanı sıra, tarihi ve doğal güzellikleri bir araya getiren bir mekan olarak, önemli bir tercih nedeni oluşturuyor.
 
 ## Flora ve Fauna
 

@@ -31,7 +31,7 @@ Arslanbey Milli Parkı'nın tarihi geçmişi, yüzyıllar öncesine dayanıyor. 
 
 ## Coğrafya
 
-Arslanbey Milli Parkı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktada bulunuyor. Parkın coğrafyası, dağlar, ormanlar ve çaylarla çevrilidir. Bu coğrafi yapı, bölgeye özel bir iklim kazandırıyor. Kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, bölgede çeşitli bitki türlerinin yetişmesine uygun ortam sağlıyor. Arslanbey Milli Parkı, aynı zamanda önemli bir su kaynağı olarak kabul ediliyor. Burada bulunan çaylar ve göller, bölgenin su Needsini karşılıyor.
+Arslanbey Milli Parkı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktada bulunuyor. Parkın coğrafyası, dağlar, ormanlar ve çaylarla çevrilidir. Bu coğrafi yapı, bölgeye özel bir iklim kazandırıyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, bölgede çeşitli bitki türlerinin yetişmesine uygun ortam sağlıyor. Arslanbey Milli Parkı, aynı zamanda önemli bir su kaynağı olarak kabul ediliyor. Burada bulunan çaylar ve göller, bölgenin su Needsini karşılıyor.
 
 ## Flora ve Fauna
 

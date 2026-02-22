@@ -36,7 +36,7 @@ Göngerçalı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniy
 
 ## Coğrafya
 
-Göngerçalı Tepesi, Eskişehir'in coğrafi yapısını temsil eden önemli bir nokta. Bu tepe, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçilerine geniş bir manzara sunuyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. İklim olarak, İç Anadolu Bölgesi'nin karasal iklimini yansıtan Göngerçalı Tepesi, yazları sıca ve kurak, kışları soğu ve karlı passing. Çevre, doğal güzelliği koruma altına almak amacıyla çeşitli düzenlemeler yapılmış.
+Göngerçalı Tepesi, Eskişehir'in coğrafi yapısını temsil eden önemli bir nokta. Bu tepe, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçilerine geniş bir manzara sunuyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. İklim olarak, İç Anadolu Bölgesi'nin karasal iklimini yansıtan Göngerçalı Tepesi, yazları sıcak ve kurak, kışları soğuk ve karlı passing. Çevre, doğal güzelliği koruma altına almak amacıyla çeşitli düzenlemeler yapılmış.
 
 ## Flora ve Fauna
 

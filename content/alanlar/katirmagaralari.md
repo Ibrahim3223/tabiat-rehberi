@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin tarihi ve coğrafi zenginliklerini barındıran
 
 Doğal bir anıttan daha çok bir sanat eserini andıran Katırmağaraları, coğrafi yapısı itibariyle bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Bu küçük ama önemli coğrafi oluşum, Mardin'in jeolojik geçmişini ve coğrafi özelliklerini yansıtan bir yapıya sahiptir. Jeolojik açıdan incelendiğinde, Katırmağaraları'nın oluşumu, bölgenin jeolojik tarihine ışık tutmaktadır.
 
-Mardin'in karakteristik iklimi, Katırmağaraları'nın çevresinde de hüküm sürmektedir. Bu bölgede, yaz aylarında yüksek sıcaklar ve kuraklık, kış aylarında ise soğu ve yağışlı hava koşulları hakimdir. Bu mevsimsel özellikler, Katırmağaraları'nın doğal yapısını şekillendirmiş ve coğrafi özelliklerini belirlemiştir.
+Mardin'in karakteristik iklimi, Katırmağaraları'nın çevresinde de hüküm sürmektedir. Bu bölgede, yaz aylarında yüksek sıcaklar ve kuraklık, kış aylarında ise soğuk ve yağışlı hava koşulları hakimdir. Bu mevsimsel özellikler, Katırmağaraları'nın doğal yapısını şekillendirmiş ve coğrafi özelliklerini belirlemiştir.
 
 Çevresel açıdan bakıldığında, Katırmağaraları, Mardin'in diğer doğal ve tarihi alanlarına yakınlığıyla dikkat çekmektedir. Bu jeopark, bölgenin ekosistem bağlantılarını ve su kaynaklarını etkileyen önemli bir coğrafi unsur olarak görülmektedir. Monaco'nun yarısı kadar büyük olmayan bu küçük coğrafi oluşum, Mardin'in doğal güzelliğini ve coğrafi çeşitliliğini korumak için önemli bir role sahiptir.
 

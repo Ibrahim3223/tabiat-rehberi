@@ -30,7 +30,7 @@ Mugla-Kemer-Yapraktepe Karacam milli parkının tarihi geçmişi zengin ve çeş
 
 ## Coğrafya
 
-Mugla-Kemer-Yapraktepe Karacam milli parkı, Ege Bölgesi'nin Muğla ilinde yer alıyor. Bu bölgenin coğrafi yapısı, dağlar, ormanlar ve nehirler ile çevrilidir. Milli parkın iklimi, Akdeniz iklimi özellikleri gösteriyor. Yaz ayları sıca ve kurak, kış ayları ılık ve yağışlı geçiyor. Bu iklim, bölgenin flora ve faunası için ideal. Milli parkın coğrafi konumu, ziyaretçilere çeşitli aktiviteler sunuyor. Örneğin, yürüyüş, kamp ve doğa fotoğrafçılığı gibi etkinlikler, ziyaretçilerin doğa ile iç içe olması için mükemmel oportunite sunuyor.
+Mugla-Kemer-Yapraktepe Karacam milli parkı, Ege Bölgesi'nin Muğla ilinde yer alıyor. Bu bölgenin coğrafi yapısı, dağlar, ormanlar ve nehirler ile çevrilidir. Milli parkın iklimi, Akdeniz iklimi özellikleri gösteriyor. Yaz ayları sıcak ve kurak, kış ayları ılık ve yağışlı geçiyor. Bu iklim, bölgenin flora ve faunası için ideal. Milli parkın coğrafi konumu, ziyaretçilere çeşitli aktiviteler sunuyor. Örneğin, yürüyüş, kamp ve doğa fotoğrafçılığı gibi etkinlikler, ziyaretçilerin doğa ile iç içe olması için mükemmel oportunite sunuyor.
 
 ## Flora ve Fauna
 

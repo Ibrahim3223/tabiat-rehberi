@@ -36,7 +36,7 @@ Kule Tepesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge, t
 
 ## Coğrafya
 
-Kule Tepesi, Bursa'nın merkezinde bulunan bir tepe olarak tanımlanabilir. Bu bölge, Marmara Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahip. Kule Tepesi, deniz seviyesinden yaklaşık yüksek bir konumdate bulunuyor ve bu yükseklik, ziyaretçilere çevreyi panoramik olarak görme imkanı sunuyor. Kule Tepesi'nin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak, karasal ve ılıman bir iklim özelliği gösteriyor. Bu bölge, yıl boyunca farklı mevsimlerde ziyaret edilebiliyor ve her mevsim, Kule Tepesi'nde farklı bir güzelliğe tanık olma mümkün. Kule Tepesi, aynı zamanda zengin bir flora ve faunaya sahip ve bu bölge, birçok bitki ve hayvan türüne ev sahipliği yapıyor.
+Kule Tepesi, Bursa'nın merkezinde bulunan bir tepe olarak tanımlanabilir. Bu bölge, Marmara Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahip. Kule Tepesi, yüksek bir konumda bulunuyor ve bu yükseklik, ziyaretçilere çevreyi panoramik olarak görme imkanı sunuyor. Kule Tepesi'nin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak, karasal ve ılıman bir iklim özelliği gösteriyor. Bu bölge, yıl boyunca farklı mevsimlerde ziyaret edilebiliyor ve her mevsim, Kule Tepesi'nde farklı bir güzelliğe tanık olma mümkün. Kule Tepesi, aynı zamanda zengin bir flora ve faunaya sahip ve bu bölge, birçok bitki ve hayvan türüne ev sahipliği yapıyor.
 
 ## Flora ve Fauna
 

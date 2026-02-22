@@ -44,7 +44,7 @@ Gökyüzünden baktığımızda, 38.2942°K, 26.2097°D koordinatlarında yer al
 
 Doğal güzelliği ile dikkat çeken Boğaz Adası, coğrafi olarak küçük bir alanı kaplıyor. Bu küçük ada, yaklaşık bir şehir bloğu büyüklüğünde ve İzmir'in şehir hayatından uzakta, sakin bir atmosfer sunuyor. Ada'nın şekli ve jeolojisi hakkında detaylı bilgi olmasa da, adanın doğal güzelliği ve çevresi, onu özel bir yer haline getiriyor.
 
-İzmir'in iklim karakteri, Boğaz Adası'nı da etkiliyor. Ada, Akdeniz ikliminin característicasını taşıyor ve mevsimsel olarak sıca ve kurak yazlar, ılıman ve yağışlı kışlar yaşıyor. Hava durumu genellikle güneşli ve açık, ancak kış aylarında yağmur yağışı görülebiliyor. Bu mevsimsel özellikler, adanın flora ve faunasını da etkiliyor.
+İzmir'in iklim karakteri, Boğaz Adası'nı da etkiliyor. Ada, Akdeniz ikliminin característicasını taşıyor ve mevsimsel olarak sıcak ve kurak yazlar, ılıman ve yağışlı kışlar yaşıyor. Hava durumu genellikle güneşli ve açık, ancak kış aylarında yağmur yağışı görülebiliyor. Bu mevsimsel özellikler, adanın flora ve faunasını da etkiliyor.
 
 Boğaz Adası, İzmir'in kıyı şeridi ile çevrilidir ve su kaynakları açısından zengin bir bölgede yer alır. Ada, komşu alanlar ile birlikte, bir ekosistem olarak çalışıyor ve su kaynakları, flora ve fauna arasındaki ilişki, adanın doğal dengesini koruyor. Bu nedenle, Boğaz Adası, çevresel ilişkiler açısından önemli bir nokta olarak görülüyor ve adanın korunması, bölgenin ekolojik dengesini korumak için önemli bir rol oynuyor.
 

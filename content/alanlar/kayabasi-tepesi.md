@@ -36,7 +36,7 @@ Kayabaşı Tepesi'nin tarihi geçmişi oldukça eskilere dayanıyor. Bu tepe, y�
 
 ## Coğrafya
 
-Kayabaşı Tepesi, Karadeniz Bölgesi'nin coğrafi özellikleri ile dikkat çekiyor. Bu tepe, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor. Tepenin etrafında, ormanlık alanlar ve yeşil vadiler bulunuyor. Bu vadiler, çeşitli bitki türleri ve zengin fauna ile dolu. Kayabaşı Tepesi'nin iklimi, Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Bu tepe, yıl boyunca farklı mevsimlerin güzelliklerini sunuyor. Kış aylarında karla kaplanan tepe, yaz aylarında yeşil bir örtü ile örtülüyor. Kayabaşı Tepesi, coğrafi güzellikleri ile ziyaretçileri büyülüyor.
+Kayabaşı Tepesi, Karadeniz Bölgesi'nin coğrafi özellikleri ile dikkat çekiyor. Bu tepe, yüksek bir konumda yer alıyor. Tepenin etrafında, ormanlık alanlar ve yeşil vadiler bulunuyor. Bu vadiler, çeşitli bitki türleri ve zengin fauna ile dolu. Kayabaşı Tepesi'nin iklimi, Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Bu tepe, yıl boyunca farklı mevsimlerin güzelliklerini sunuyor. Kış aylarında karla kaplanan tepe, yaz aylarında yeşil bir örtü ile örtülüyor. Kayabaşı Tepesi, coğrafi güzellikleri ile ziyaretçileri büyülüyor.
 
 ## Flora ve Fauna
 

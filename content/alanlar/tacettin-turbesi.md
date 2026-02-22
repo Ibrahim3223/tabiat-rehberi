@@ -37,7 +37,7 @@ Tacettin Türbesi, yüzyıllar boyunca önemli bir dini merkez olarak kabul edil
 
 ## Coğrafya
 
-Tacettin Türbesi, Kayseri'nin Melikgazi ilçesinde, yaklaşık yüksek bir konumdate yer almaktadır. Çevresi, dağlık ve ormanlık alanlarla çevrilidir. Bu coğrafi yapı, türbenin etrafını yeşilliklerle süslemekte ve ziyaretçilere doğal bir ortam sunmaktadır. Ayrıca, bu bölgede çeşitli iklim tipleri görülmektedir. Kış aylarında kar yağışları, ilkbahar ve sonbahar aylarında ise ılıman bir hava hakimdir. Bu coğrafi ve iklimsel özellikler, bölgeyi yıl boyunca ziyaret edilebilir kılmaktadır. Bölgenin coğrafyası, aynı zamanda çeşitli bitki türleri ve hayvanların yaşamasına uygun bir ortam sağlamaktadır.
+Tacettin Türbesi, Kayseri'nin Melikgazi ilçesinde, yüksek bir konumda yer almaktadır. Çevresi, dağlık ve ormanlık alanlarla çevrilidir. Bu coğrafi yapı, türbenin etrafını yeşilliklerle süslemekte ve ziyaretçilere doğal bir ortam sunmaktadır. Ayrıca, bu bölgede çeşitli iklim tipleri görülmektedir. Kış aylarında kar yağışları, ilkbahar ve sonbahar aylarında ise ılıman bir hava hakimdir. Bu coğrafi ve iklimsel özellikler, bölgeyi yıl boyunca ziyaret edilebilir kılmaktadır. Bölgenin coğrafyası, aynı zamanda çeşitli bitki türleri ve hayvanların yaşamasına uygun bir ortam sağlamaktadır.
 
 ## Flora ve Fauna
 

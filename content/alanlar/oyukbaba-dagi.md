@@ -44,7 +44,7 @@ Aydın ilinin coğrafi zenginliklerinin arasında yer alan Oyukbaba Dağı, 37.5
 
 Doğal güzelliği ve coğrafi özellikleri ile dikkat çeken Oyukbaba Dağı, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgenin ekosistemini destekleyen önemli bir bileşen. Dağın boyutları ve şekli, bölgenin jeolojik tarihini yansıtan bir şekilde, farklı jeolojik katmanlardan oluşuyor. Bu katmanlar, milyonlarca yıllık bir süreçte, çeşitli jeolojik olaylar sonucu şekillenmiş.
 
-İklim açısından, Oyukbaba Dağı ve çevresindeki bölge, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve kuru, kış aylarında ise ılık ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli bir faktör. Dağın yüksekliği, bölgenin yerel iklimini şekillendiren bir faktör olarak, sıcaklık ve nem dağılımını etkiliyor.
+İklim açısından, Oyukbaba Dağı ve çevresindeki bölge, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli bir faktör. Dağın yüksekliği, bölgenin yerel iklimini şekillendiren bir faktör olarak, sıcaklık ve nem dağılımını etkiliyor.
 
 Çevresel açıdan, Oyukbaba Dağı, komşu alanlar ve su kaynakları ile birlikte, bölgenin ekosistemini destekleyen bir bileşen. Dağın eteklerinde ve çevresinde, çeşitli bitki ve hayvan türleri yaşiyor. Bu türler, bölgenin doğal dengesini korumak için önemli bir rol oynuyor. Oyukbaba Dağı, bölgenin doğal güzelliklerini ve ekosistemini korumak için önemli bir coğrafi oluşum olarak, Aydın ilinin doğal zenginliklerini temsil ediyor.
 

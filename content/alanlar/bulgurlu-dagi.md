@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden Van'da yer alan Bulgurlu Dağı, 3
 
 Fiziksel yapısını incelediğimizde, Bulgurlu Dağı'nın boyutları hakkında net veriler olmasa da, genel olarak bölgenin coğrafi özelliklerine bakıldığında, dağların genellikle Monaco'nun yarısı kadar büyük alanları kapladığı görülüyor. Ancak Bulgurlu Dağı'nın boyutları hakkında daha bilgiler bulunmuyor. Dağın jeolojik yapısı, bölgeye özgü kayaçlardan oluşuyor ve bu kayaçlar, milyonlarca yıl önce oluşan tektonik hareketlerin izlerini taşıyor.
 
-Mevesimlik özellikler açısından bakıldığında, Bulgurlu Dağı'nın bulunduğu bölge, karasal iklimin etkilerini gösteriyor. Kış aylarında oldukça soğu ve kar yağışlı olan bölgede, yaz ayları ise sıca ve kurak geçiyor. Dağın yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte gibi görünse de, precisa veriler bulunmuyor. Bu yükseklik, bölgenin iklimini şekillendiren önemli bir faktör olarak karşımıza çıkıyor.
+Mevesimlik özellikler açısından bakıldığında, Bulgurlu Dağı'nın bulunduğu bölge, karasal iklimin etkilerini gösteriyor. Kış aylarında oldukça soğuk ve kar yağışlı olan bölgede, yaz ayları ise sıcak ve kurak geçiyor. Dağın yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte gibi görünse de, precisa veriler bulunmuyor. Bu yükseklik, bölgenin iklimini şekillendiren önemli bir faktör olarak karşımıza çıkıyor.
 
 Bölgenin su kaynakları açısından zengin olduğu görülüyor. Van Gölü'nün yakınında yer alan Bulgurlu Dağı, bu gölün su dengesini etkileyen önemli bir faktör. Dağın eteklerinde yer alan su kaynakları, bölgenin ekosistemini zenginleştiren unsurlar arasında yer alıyor. Ayrıca, dağların komşu alanlarla bağlantıları, bölgenin biyolojik çeşitliliğini artıran önemli bir unsur olarak karşımıza çıkıyor.
 

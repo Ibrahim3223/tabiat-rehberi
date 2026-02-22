@@ -34,7 +34,7 @@ Frig Bölgesi Sit alanı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir b
 
 ## Flora ve Fauna
 
-Frig Bölgesi Sit alanı, zengin bir flora ve fauna'ya sahip olup, bu doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunuyor. Bölgede, genellikle bozkır bitkileri ve çam ormanları bulunmakta olup, bu doğal güzellikler, bölgeyi önemli bir doğa koruma alanı haline getiriyor. Burada, çeşitli hayvan türleri yaşamlarını sürdürüyor ve bu fauna, bölgenin ekolojik dengesini koruyor. Mevsimsel değişimler, bu bölgede önemli bir rol oynuyor ve her mevsim, farklı bir güzelliği ortaya çıkarıyor. İlkbahar, bölgenin yeşillenmesiyle birlikte, renkli bir manzara sunarken, yaz ayları, sıca ve kurak geçiyor. Sonbahar ve kış ayları ise, bölgenin doğal güzelliklerini farklı bir boyuta taşıyor.
+Frig Bölgesi Sit alanı, zengin bir flora ve fauna'ya sahip olup, bu doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunuyor. Bölgede, genellikle bozkır bitkileri ve çam ormanları bulunmakta olup, bu doğal güzellikler, bölgeyi önemli bir doğa koruma alanı haline getiriyor. Burada, çeşitli hayvan türleri yaşamlarını sürdürüyor ve bu fauna, bölgenin ekolojik dengesini koruyor. Mevsimsel değişimler, bu bölgede önemli bir rol oynuyor ve her mevsim, farklı bir güzelliği ortaya çıkarıyor. İlkbahar, bölgenin yeşillenmesiyle birlikte, renkli bir manzara sunarken, yaz ayları, sıcak ve kurak geçiyor. Sonbahar ve kış ayları ise, bölgenin doğal güzelliklerini farklı bir boyuta taşıyor.
 
 ## Ziyaret Bilgileri
 

@@ -45,7 +45,7 @@ Güneybatı Anadolu'nun kalbinde, Isparta ilinin sınırları içerisinde yer al
 
 Doğal güzellikleri ve jeolojik yapısıyla dikkat çeken Yan Dağ, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Bu dağ, Isparta'nın genel coğrafi yapısına uygun olarak, kireç taşı ve diğer tortul kayalardan oluşmaktadır. Jeolojik olarak, bu bölge, Toros Dağları'nın bir uzantısı olarak düşünülebilir ve bu dağların genel özellikleri, Yan Dağ'ın yapısında da görülmektedir.
 
-İklim açısından, Yan Dağ ve çevresinde Akdeniz iklimi hüküm sürmektedir. Bu bölgede, yaz ayları sıca ve kuru, kış ayları ise ılıman ve yağışlı geçmektedir. Hava durumu, mevsimsel olarak değişkenlik göstermekle birlikte, genel olarak ılıman bir iklim karakteri görülür. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
+İklim açısından, Yan Dağ ve çevresinde Akdeniz iklimi hüküm sürmektedir. Bu bölgede, yaz ayları sıcak ve kuru, kış ayları ise ılıman ve yağışlı geçmektedir. Hava durumu, mevsimsel olarak değişkenlik göstermekle birlikte, genel olarak ılıman bir iklim karakteri görülür. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
 
 Çevresel açıdan, Yan Dağ, Isparta'nın diğer doğal güzelliklerine ve su kaynaklarına yakındır. Bu dağ, bölgenin ekosistem bağlantılarını sağlayan önemli bir noktadır. Ayrıca, bu bölge, komşu iller ve ilçelerle birlikte, büyük bir ekosistemin bir parçasını oluşturmaktadır. Bu bağlantılar, bölgenin biyolojik çeşitliliğini koruma ve sürdürmek için önemlidir.
 

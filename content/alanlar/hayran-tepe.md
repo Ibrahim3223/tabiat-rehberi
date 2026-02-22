@@ -36,7 +36,7 @@ Hayran Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu tepe,
 
 ## Coğrafya
 
-Hayran Tepe, Kahramanmaraş ilinin Akdeniz Bölgesi'nde yer alan bir tepe olarak coğrafi olarak önemli bir konuma sahiptir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Hayran Tepe'nin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Tepe, doğu-batı yönünde uzanmaktadır ve kuzey-güney yönünde slightly eğimli bir yapıya sahiptir. Hayran Tepe'nin iklimi, Akdeniz iklimi özellikleri taşımaktadır. Burada, yaz aylarında sıca ve kurak bir hava hüküm sürerken, kış aylarında ılıman ve yağışlı bir hava görülmektedir. Hayran Tepe, çevresi ile birlikte bir bütün olarak düşünüldüğünde, ziyaretçilerine geniş bir doğal alan sunmaktadır.
+Hayran Tepe, Kahramanmaraş ilinin Akdeniz Bölgesi'nde yer alan bir tepe olarak coğrafi olarak önemli bir konuma sahiptir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Hayran Tepe'nin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Tepe, doğu-batı yönünde uzanmaktadır ve kuzey-güney yönünde slightly eğimli bir yapıya sahiptir. Hayran Tepe'nin iklimi, Akdeniz iklimi özellikleri taşımaktadır. Burada, yaz aylarında sıcak ve kurak bir hava hüküm sürerken, kış aylarında ılıman ve yağışlı bir hava görülmektedir. Hayran Tepe, çevresi ile birlikte bir bütün olarak düşünüldüğünde, ziyaretçilerine geniş bir doğal alan sunmaktadır.
 
 ## Flora ve Fauna
 

@@ -38,7 +38,7 @@ Cami Tepe'nin tarihi geçmişi, bölgenin genel tarihine paralel olarak gelişmi
 
 ## Coğrafya
 
-Cami Tepe, İç Anadolu Bölgesi'nin coğrafi özellikleri ile dikkat çeken bir bölgede yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve çevresindeki coğrafi oluşumlar ile birlikte bir bütün olarak düşünülür. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal bir yapı gösterir. Yaz ayları sıca ve kurak, kış ayları soğu ve karlı geçer. Bu tepe, çevresindeki dağlar ve ovalar ile birlikte bir coğrafi bütünlük oluşturur. Cami Tepe'nin coğrafi konumu, ziyaretçilerin bu bölgeyi keşfetmeleri için ideal bir opportunities sunar. Ziyaretçiler, bu tepeyi ziyaret ederek hem coğrafi güzellikleri hem de tarihi değerleri keşfedebilirler.
+Cami Tepe, İç Anadolu Bölgesi'nin coğrafi özellikleri ile dikkat çeken bir bölgede yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve çevresindeki coğrafi oluşumlar ile birlikte bir bütün olarak düşünülür. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal bir yapı gösterir. Yaz ayları sıcak ve kurak, kış ayları soğuk ve karlı geçer. Bu tepe, çevresindeki dağlar ve ovalar ile birlikte bir coğrafi bütünlük oluşturur. Cami Tepe'nin coğrafi konumu, ziyaretçilerin bu bölgeyi keşfetmeleri için ideal bir opportunities sunar. Ziyaretçiler, bu tepeyi ziyaret ederek hem coğrafi güzellikleri hem de tarihi değerleri keşfedebilirler.
 
 ## Flora ve Fauna
 

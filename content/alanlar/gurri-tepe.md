@@ -42,7 +42,7 @@ Mardin'in coğrafi zenginliklerinin arasında yer alan Gurri Tepe, 37.5961°K, 4
 
 Doğal bir oluşum olan Gurri Tepe, çevresindeki diğer coğrafi oluşumlarla birlikte bir bütünü oluşturur. Maalesef, Gurri Tepe hakkında detaylı fiziksel veri bulunmaması, bu oluşumun tam olarak anlaşılmasını zorlaştırır. Ancak, coğrafi konumu itibariyle, Gurri Tepe'nin bir şehir bloğu büyüklüğünde bir alanı kapladığı söylenebilir. Bu da, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alan olarak düşünülebilir.
 
-Gurri Tepe'nin bulunduğu bölge, Güneydoğu Anadolu Bölgesi'nin karakteristik iklim özelliklerini taşır. Bu bölgede, yaz ayları sıca ve kurak, kış ayları ise soğu ve yağışlı geçer. Gurri Tepe'nin yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olabilir; ancak bu bilgi kesin olarak doğrulanamadığı için, sadece bir tahmin olarak düşünülebilir. Bu yükseklik, bölgenin iklim karakterini etkileyen önemli faktörlerden biridir.
+Gurri Tepe'nin bulunduğu bölge, Güneydoğu Anadolu Bölgesi'nin karakteristik iklim özelliklerini taşır. Bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçer. Gurri Tepe'nin yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olabilir; ancak bu bilgi kesin olarak doğrulanamadığı için, sadece bir tahmin olarak düşünülebilir. Bu yükseklik, bölgenin iklim karakterini etkileyen önemli faktörlerden biridir.
 
 Gurri Tepe, çevresindeki diğer coğrafi oluşumlarla birlikte bir bütünü oluşturur. Bu bölgede, su kaynakları ve ekosistem bağlantıları wichtig bir role sahiptir. Gurri Tepe'nin Monaco'nun onda biri kadar büyüklüğünde bir alanı kapladığı düşünülürse, bu bölgenin ekosistemi üzerinde önemli bir etkisi olduğu anlaşılabilir. Bu bölgenin komşu alanları, Mardin'in tarihi ve kültürel zenginliklerine de ev sahipliği yapar.
 

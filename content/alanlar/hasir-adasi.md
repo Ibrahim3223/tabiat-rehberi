@@ -42,7 +42,7 @@ Doğal güzellikleri ile dikkat çeken Haşır Adası, 39.3533°K, 26.6689°D ko
 
 Ada hakkında fiziksel veriler sınırlı olsa da, genel olarak bakıldığında Haşır Adası, bir şehir bloğu büyüklüğünde bir alan olarak düşünülebilir. Bu küçük ama güzel ada, Marmara Denizi'nin diğer adalarıyla birlikte eşsiz bir manzara sunar. Jeolojik açıdan bakıldığında, ada genellikle deniz ve rüzgar erozyonunun şekillendirdiği bir yapıya sahiptir.
 
-Mevsimsel olarak bakıldığında, Haşır Adası'nın iklimi Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve güneşli, kış aylarında ise ılıman ve yağışlı bir hava hakimdir. Bu mevsimsel değişimler, adanın flora ve faunasını da etkiler ve her mevsim farklı bir güzelliği ziyaretçilere sunar.
+Mevsimsel olarak bakıldığında, Haşır Adası'nın iklimi Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve güneşli, kış aylarında ise ılıman ve yağışlı bir hava hakimdir. Bu mevsimsel değişimler, adanın flora ve faunasını da etkiler ve her mevsim farklı bir güzelliği ziyaretçilere sunar.
 
 Ada, Marmara Denizi'nin zengin ekosistemine bağlı olarak, çeşitli su kaynaklarına ve deniz canlılarına ev sahipliği yapar. Komşu alanlar ve su kaynakları ile olan ilişkileri, adanın doğal dengesini korumasında önemli bir rol oynar. Bu nedenle, Haşır Adası'nın korunması ve sürdürülebilir kullanımı, hem bölgenin ekolojik dengesi hem de gelecek nesiller için büyük önem taşır.
 

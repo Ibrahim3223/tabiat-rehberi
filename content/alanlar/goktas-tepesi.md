@@ -36,7 +36,7 @@ Göktaş Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Tepe
 
 ## Coğrafya
 
-Göktaş Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir tepe. Tepenin bulunduğu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bölge, geniş ovalar ve tepelerle kaplı. Göktaş Tepesi, bu bölgede yer alan en önemli doğal güzelliklerden biri. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun. Yaz ayları sıca ve kurak, kış ayları soğu ve karlı. Göktaş Tepesi, bu coğrafi özelliklerle ziyaretçilerine benzersiz bir deneyim sunuyor. Tepenin bulunduğu bölge, doğal güzelliği ve tarihi geçmişiyle birlikte, ziyaretçilerini büyüleyen bir destinasyon.
+Göktaş Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir tepe. Tepenin bulunduğu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bölge, geniş ovalar ve tepelerle kaplı. Göktaş Tepesi, bu bölgede yer alan en önemli doğal güzelliklerden biri. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun. Yaz ayları sıcak ve kurak, kış ayları soğuk ve karlı. Göktaş Tepesi, bu coğrafi özelliklerle ziyaretçilerine benzersiz bir deneyim sunuyor. Tepenin bulunduğu bölge, doğal güzelliği ve tarihi geçmişiyle birlikte, ziyaretçilerini büyüleyen bir destinasyon.
 
 ## Flora ve Fauna
 

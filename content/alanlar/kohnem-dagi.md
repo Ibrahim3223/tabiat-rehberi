@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin kalbinde yer alan Köhnem Dağı, Erzincan ilinin sı
 
 Jeolojik açıdan incelendiğinde, Köhnem Dağı'nın yapısı hakkında detaylı bilgi bulunmasa da, genel olarak bölgenin coğrafi özellikleri düşünüldüğünde, dağlık bir arazi yapısına sahip olduğu söylenebilir. Monaco'nun yaklaşık yarısı kadar bir alanı kaplayan bu dağ, çevresindeki diğer coğrafi oluşumlarla birlikte bir bütünü oluşturmaktadır. Yüksekliği Eiffel Kulesi'nin 2 katı yükseklikte olan bir nokta olarak düşünülse, Köhnem Dağı'nın bölgedeki diğer dağlarla benzerlik gösterdiği söylenebilir.
 
-İklim açısından bakıldığında, Köhnem Dağı'nın bulunduğu bölge karasal iklim özellikleri gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna zenginliğini etkileyen önemli faktörlerdir. Köhnem Dağı'nın bulunduğu coğrafi bölgede, mevsimsel değişiklikler oldukça belirgindir.
+İklim açısından bakıldığında, Köhnem Dağı'nın bulunduğu bölge karasal iklim özellikleri gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna zenginliğini etkileyen önemli faktörlerdir. Köhnem Dağı'nın bulunduğu coğrafi bölgede, mevsimsel değişiklikler oldukça belirgindir.
 
 Çevresel açıdan bakıldığında, Köhnem Dağı'nın bulunduğu bölge su kaynakları ve ekosistem bağlantıları açısından zengindir. Yeraltı ve yerüstü su kaynaklarının bulunması, bölgenin canlı çeşitliliğini destekleyen önemli bir faktördür. İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplayan bu dağ, bölgenin doğal dengesini korumak açısından önemli bir role sahiptir.
 

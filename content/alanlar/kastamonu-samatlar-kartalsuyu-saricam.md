@@ -30,7 +30,7 @@ Kartalsuyu Saricam milli parkı, yüzyıllar boyunca insanların doğayı koruma
 
 ## Coğrafya
 
-Kastamonu-Samatlar-Kartalsuyu Saricam milli parkı, Karadeniz Bölgesi'nin Kastamonu ilinde yer alır. Bu bölge, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Kartalsuyu Saricam, coğrafi konumu itibariyle, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır. Burada, ziyaretçilere, yaban hayatı ve flora çeşitliliği hakkında geniş bilgi sunan bir doğal güzellik bulunur. Milli park, çeşitli bitki türleri ve hayvanlar ile dikkat çeker. Kastamonu'nun iklimi, Karadeniz Bölgesi'nin tipik iklimini yansıtır. Burada, ziyaretçiler, yağışlı ve nemli bir havayı deneyimleyebilir. Coğrafi konumu, doğal güzellikleri ve yaban hayatı ile Kartalsuyu Saricam, ziyaretçilere eşsiz bir doğa deneyimi sunar.
+Kastamonu-Samatlar-Kartalsuyu Saricam milli parkı, Karadeniz Bölgesi'nin Kastamonu ilinde yer alır. Bu bölge, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Kartalsuyu Saricam, coğrafi konumu itibariyle, yüksek bir konumda yer alır. Burada, ziyaretçilere, yaban hayatı ve flora çeşitliliği hakkında geniş bilgi sunan bir doğal güzellik bulunur. Milli park, çeşitli bitki türleri ve hayvanlar ile dikkat çeker. Kastamonu'nun iklimi, Karadeniz Bölgesi'nin tipik iklimini yansıtır. Burada, ziyaretçiler, yağışlı ve nemli bir havayı deneyimleyebilir. Coğrafi konumu, doğal güzellikleri ve yaban hayatı ile Kartalsuyu Saricam, ziyaretçilere eşsiz bir doğa deneyimi sunar.
 
 ## Flora ve Fauna
 

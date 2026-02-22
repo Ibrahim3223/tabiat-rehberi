@@ -53,7 +53,7 @@ Osmaniye Dumanlı Dağ, maki bitki örtüsünün hakim olduğu bir dağ ekosiste
 
 Dağın yükseklik zonlarında, alpin flora hakimdir. Bu bölgede, yüksekliklere adapte olmuş bitkiler bulunur. Mevsimsel değişimlerle birlikte, göçmen kuşlar sonbaharda dağları ziyaret eder ve ilkbaharda geri döner. Bu göçmen kuşlar, dağların ekolojik dengesini korur.
 
-Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Dağ keçileri, tilkiler ve diğer memeliler, dağların yükseklik zonlarında yaşarken, çeşitli kuş türleri dağların hava akımlarından yararlanırlar. Sürüngenler ise, dağların sıca ve kuru bölgelerinde yaşarlar. Bu canlılar, dağların ekolojik ilişkilerinde önemli bir rol oynar ve birbirlerine bağımlıdır.
+Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Dağ keçileri, tilkiler ve diğer memeliler, dağların yükseklik zonlarında yaşarken, çeşitli kuş türleri dağların hava akımlarından yararlanırlar. Sürüngenler ise, dağların sıcak ve kuru bölgelerinde yaşarlar. Bu canlılar, dağların ekolojik ilişkilerinde önemli bir rol oynar ve birbirlerine bağımlıdır.
 
 ## Ziyaret Bilgileri
 

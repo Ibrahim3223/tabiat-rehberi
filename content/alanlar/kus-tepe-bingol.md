@@ -43,7 +43,7 @@ Doğu Anadolu'nun kalbinde yer alan Kuş Tepe, Bingöl ilinin güzelliği ile di
 
 Jeolojik açıdan incelendiğinde, Kuş Tepe'nin belirli bir fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel olarak dağlık bir yapıya sahip olduğu bilinmektedir. Bu dağlık yapı, bölgenin iklimini ve bitki örtüsünü etkileyen önemli bir faktördür. Örneğin, Kuş Tepe'nin bulunduğu bölgede, yüksekli ve eğim nedeniyle farklı iklim kuşakları oluşabilir.
 
-Bölgenin iklim karakteri, mevsimsel olarak önemli değişiklikler gösteren bir yapıya sahiptir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir iklim hüküm sürer. Bu mevsimsel değişiklikler, bölgenin bitki örtüsü ve fauna yapısını da etkiler. Örneğin, Kuş Tepe'nin eteklerinde yer alan ormanlar, bölgenin iklimine adapte olmuş çeşitli ağaç türleriyle kaplıdır.
+Bölgenin iklim karakteri, mevsimsel olarak önemli değişiklikler gösteren bir yapıya sahiptir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürer. Bu mevsimsel değişiklikler, bölgenin bitki örtüsü ve fauna yapısını da etkiler. Örneğin, Kuş Tepe'nin eteklerinde yer alan ormanlar, bölgenin iklimine adapte olmuş çeşitli ağaç türleriyle kaplıdır.
 
 Çevresel açıdan bakıldığında, Kuş Tepe, bölgenin su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahiptir. Dağın eteklerinde yer alan nehirler ve dereler, bölgenin su ihtiyacını karşılar ve aynı zamanda bölgenin fauna yapısını destekler. Ayrıca, Kuş Tepe'nin bulunduğu bölgede, çeşitli bitki ve hayvan türleri bulunur ve bu da bölgenin biyolojik çeşitliliğini artırır.
 

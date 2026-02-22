@@ -37,7 +37,7 @@ Dağ Hamamı'nın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin
 
 ## Coğrafya
 
-Dağ Hamamı, coğrafi olarak Marmara Bölgesi'nin önemli bir bölümünü oluşturan Üsküdar ilçesinde yer almaktadır. Bu bölge, deniz seviyesinden yaklaşık yüksek bir konumdate bulunmakta ve etrafı yeşilliklerle çevrili geniş bir alana sahiptir. Dağ Hamamı'nın coğrafi yapısı, ziyaretçilere çeşitli etkinlikler yapma olanağı sunmaktadır. Plajın hinterlandında bulunan ormanlık alanlar, trekking ve doğa yürüyüşleri için idealdir. Ayrıca, plajın bulunduğu bölgede çeşitli su sporları da yapılabilmektedir. Dağ Hamamı, coğrafi konumu itibariyle hem doğa severler hem de su sporları tutkunları için ideal bir destinasyondur.
+Dağ Hamamı, coğrafi olarak Marmara Bölgesi'nin önemli bir bölümünü oluşturan Üsküdar ilçesinde yer almaktadır. Bu bölge, yüksek bir konumda bulunmakta ve etrafı yeşilliklerle çevrili geniş bir alana sahiptir. Dağ Hamamı'nın coğrafi yapısı, ziyaretçilere çeşitli etkinlikler yapma olanağı sunmaktadır. Plajın hinterlandında bulunan ormanlık alanlar, trekking ve doğa yürüyüşleri için idealdir. Ayrıca, plajın bulunduğu bölgede çeşitli su sporları da yapılabilmektedir. Dağ Hamamı, coğrafi konumu itibariyle hem doğa severler hem de su sporları tutkunları için ideal bir destinasyondur.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nde yer alan Ger Orink Dağı, Van ilinin güzide noktala
 
 Jeolojik yapı itibariyle bakıldığında, Ger Orink Dağı'nın etrafındaki coğrafya oldukça ilginçtir. Ancak, bu dağ hakkında detaylı fiziksel veriler bulunmamasına rağmen, koordinatlarından hareketle, bölgenin topografyasını analiz etme mümkündür. Monaco'nun yarısı kadar büyük bir alanı kaplayan bu dağ, İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplıyor gibi düşünülebilir.
 
-İklim açısından bakıldığında, Ger Orink Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir bölgedir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürer. Bu mevsimsel değişiklikler, bölgenin flora ve faunasını etkiler. Örneğin, Eiffel Kulesi'nin 2 katı yükseklikte bulunan bazı zirveler, kış aylarında karla kaplanırken, yaz aylarında ise yeşillenir.
+İklim açısından bakıldığında, Ger Orink Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir bölgedir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürer. Bu mevsimsel değişiklikler, bölgenin flora ve faunasını etkiler. Örneğin, Eiffel Kulesi'nin 2 katı yükseklikte bulunan bazı zirveler, kış aylarında karla kaplanırken, yaz aylarında ise yeşillenir.
 
 Çevresel açıdan bakıldığında, Ger Orink Dağı, Van Gölü'nün su kaynaklarına yakındır. Bu göl, bölgenin ekosistemini destekleyen önemli bir su kaynağıdır. Ayrıca, dağların eteklerinde bulunan köyler ve kasabalar, bölgenin sosyal ve ekonomik yapısını etkiler. Beşiktaş ilçesi kadar büyük bir alana yayılan bu köyler, bölgenin kültürel mirasını korurken, aynı zamanda turizmi de destekler.
 

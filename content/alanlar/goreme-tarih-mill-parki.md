@@ -37,7 +37,7 @@ Göreme Tarihî Millî Parkı'nın tarihi, Bizans Dönemi'ne kadar uzanmaktadır
 
 ## Coğrafya
 
-Göreme Tarihî Millî Parkı, Kapadokya'nın kalbinde yer alan bir bölgedir. Peribacaları, vadileri ve yüksek noktalarıyla eşsiz bir coğrafyaya sahiptir. Parkın toplam alanı 1200 hektar olup, bu alanın büyük bir bölümü orman ve meralardan oluşmaktadır. Bölgenin iklimi, İç Anadolu Bölgesi'nin karasal ikliminin etkisindedir. Yaz ayları sıca ve kurak, kış ayları soğu ve karlı geçmektedir.
+Göreme Tarihî Millî Parkı, Kapadokya'nın kalbinde yer alan bir bölgedir. Peribacaları, vadileri ve yüksek noktalarıyla eşsiz bir coğrafyaya sahiptir. Parkın toplam alanı 1200 hektar olup, bu alanın büyük bir bölümü orman ve meralardan oluşmaktadır. Bölgenin iklimi, İç Anadolu Bölgesi'nin karasal ikliminin etkisindedir. Yaz ayları sıcak ve kurak, kış ayları soğuk ve karlı geçmektedir.
 
 ## Flora ve Fauna
 

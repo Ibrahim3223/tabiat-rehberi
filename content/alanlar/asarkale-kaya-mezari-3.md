@@ -38,11 +38,11 @@ Asarkale Kaya Mezarı -3'ün tarihi geçmişi, yüzyıllar boyunca çeşitli med
 
 ## Coğrafya
 
-Asarkale Kaya Mezarı -3, coğrafi olarak, İç Anadolu Bölgesi'nin kuzeydoğu ucunda, Bafra ilçesi sınırları içerisinde yer alıyor. Bu bölge, yaklaşık 140 hektarlık bir alanda, kaya mezarları, tarihi kalıntılar ve doğal güzelliklerle dolu. Bölge, deniz seviyesinden yaklaşık yüksek bir konumdate ve iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi özellikler, bölgenin flora ve faunasını da etkiliyor ve çeşitli bitki ve hayvan türlerinin yaşamasına olanak tanıyor. Asarkale Kaya Mezarı -3'ün coğrafi konumu, tarihi ve doğal güzelliklerin bir arada sunulduğu ender yerlerden biri yapıyor.
+Asarkale Kaya Mezarı -3, coğrafi olarak, İç Anadolu Bölgesi'nin kuzeydoğu ucunda, Bafra ilçesi sınırları içerisinde yer alıyor. Bu bölge, yaklaşık 140 hektarlık bir alanda, kaya mezarları, tarihi kalıntılar ve doğal güzelliklerle dolu. Bölge, yüksek bir konumda ve iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi özellikler, bölgenin flora ve faunasını da etkiliyor ve çeşitli bitki ve hayvan türlerinin yaşamasına olanak tanıyor. Asarkale Kaya Mezarı -3'ün coğrafi konumu, tarihi ve doğal güzelliklerin bir arada sunulduğu ender yerlerden biri yapıyor.
 
 ## Flora ve Fauna
 
-Asarkale Kaya Mezarı -3, flora ve fauna açısından zengin bir bölgedir. Bölgede, çeşitli bitki türleri, mevsimsel değişimlere göre farklılık gösteriyor. Kış aylarında, bölgeyi kaplayan kar tabakası, ilkbaharın gelmesi ile birlikte, çeşitli çiçek türleri ile renklendiriyor. Yaz aylarında ise, sıca ve kurak hava, bölgenin flora yapısını etkiliyor. Fauna açısından da, bölgede, çeşitli hayvan türleri yaşadığı biliniyor. Özellikle, kuş türleri, bölgenin flora yapısından yararlanıyor ve burada yuvalanıyor. Asarkale Kaya Mezarı -3'ün flora ve faunası, bölgenin coğrafi özellikleri ve iklimi ile doğrudan ilişkili.
+Asarkale Kaya Mezarı -3, flora ve fauna açısından zengin bir bölgedir. Bölgede, çeşitli bitki türleri, mevsimsel değişimlere göre farklılık gösteriyor. Kış aylarında, bölgeyi kaplayan kar tabakası, ilkbaharın gelmesi ile birlikte, çeşitli çiçek türleri ile renklendiriyor. Yaz aylarında ise, sıcak ve kurak hava, bölgenin flora yapısını etkiliyor. Fauna açısından da, bölgede, çeşitli hayvan türleri yaşadığı biliniyor. Özellikle, kuş türleri, bölgenin flora yapısından yararlanıyor ve burada yuvalanıyor. Asarkale Kaya Mezarı -3'ün flora ve faunası, bölgenin coğrafi özellikleri ve iklimi ile doğrudan ilişkili.
 
 ## Ziyaret Bilgileri
 

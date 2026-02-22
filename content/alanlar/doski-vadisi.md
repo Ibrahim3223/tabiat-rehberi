@@ -46,7 +46,7 @@ Güneydoğu Anadolu Bölgesi'nin uzak köşesinde, Hakkari ilinin dağlık arazi
 
 Doğal bir kanyon olarak Doski Vadisi, bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Vadinin fiziksel yapısı, yüksek dağlarla çevrili ve derin bir şekilde oyulmuş bir yapıya sahiptir. Jeolojik açıdan, bölgenin oluşumu milyonlarca yıl önce başlamış ve zamanla su ve rüzgarın aşındırıcı etkileri ile şekillenmiştir. Vadide, farklı jeolojik katmanlar ve kayalar görülebilmektedir.
 
-Mevsimsel olarak, Doski Vadisi'nin iklimi oldukça değişkenlik gösterir. Kış aylarında, vadide kar yağışı ve don olayları görülürken, yaz aylarında sıca ve kurak bir hava hakimdir. Bu mevsimsel değişimler, vadide yaşayan bitki ve hayvan türleri için önemli bir faktördür. Hava durumu, bölgenin yüksek rakımı ve dağların etkisi ile şekillenmektedir.
+Mevsimsel olarak, Doski Vadisi'nin iklimi oldukça değişkenlik gösterir. Kış aylarında, vadide kar yağışı ve don olayları görülürken, yaz aylarında sıcak ve kurak bir hava hakimdir. Bu mevsimsel değişimler, vadide yaşayan bitki ve hayvan türleri için önemli bir faktördür. Hava durumu, bölgenin yüksek rakımı ve dağların etkisi ile şekillenmektedir.
 
 Doski Vadisi, çevresindeki dağlık arazilerle ve su kaynaklarıyla güçlü bir şekilde bağlantılıdır. Vadiden geçen su kaynakları, bölgenin ekosistemini destekler ve nearby olan tarım alanlarına su sağlar. Ayrıca, vadide bulunan flora ve fauna, komşu alanlarla birlikte bir bütün olarak değerlendirilmelidir. Bu bağlantılar, Doski Vadisi'nin doğal güzelliğini ve biyolojik çeşitliliğini korumak için önemlidir.
 

@@ -37,7 +37,7 @@ wikidata_id: "Q131391528"
 
 ## Coğrafya
 
-Çakır Dede Türbesi, Ege Bölgesi'nin güneşli iklimine sahiptir. Bu bölge, yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir iklime sahiptir. Plajın geniş sahili, ziyaretçilerin güneşlenmeleri ve denize girmeleri için idealdir. Yaklaşık 200 metre uzunluğundaki sahil şeridi, kumlu ve taşlı alanlardan oluşmaktadır. Bu bölge, aynı zamanda çeşitli bitki türlerine ev sahipliği yapmakta ve zengin bir faunaya sahiptir. Çakır Dede Türbesi'nin coğrafi konumu, ziyaretçilerin diğer turistik noktalarına kolayca ulaşabilmelerine olanak sağlar. Bu plaj, özellikle yaz aylarında ziyaretçilerin tercih ettiği bir destinasyon olarak bilinir ve Ege Bölgesi'nin en güzel plajlarından biri olarak kabul edilir.
+Çakır Dede Türbesi, Ege Bölgesi'nin güneşli iklimine sahiptir. Bu bölge, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir iklime sahiptir. Plajın geniş sahili, ziyaretçilerin güneşlenmeleri ve denize girmeleri için idealdir. Yaklaşık 200 metre uzunluğundaki sahil şeridi, kumlu ve taşlı alanlardan oluşmaktadır. Bu bölge, aynı zamanda çeşitli bitki türlerine ev sahipliği yapmakta ve zengin bir faunaya sahiptir. Çakır Dede Türbesi'nin coğrafi konumu, ziyaretçilerin diğer turistik noktalarına kolayca ulaşabilmelerine olanak sağlar. Bu plaj, özellikle yaz aylarında ziyaretçilerin tercih ettiği bir destinasyon olarak bilinir ve Ege Bölgesi'nin en güzel plajlarından biri olarak kabul edilir.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Buluşlu Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin
 
 ## Coğrafya
 
-Buluşlu Tepe, coğrafi olarak Ege Bölgesi'nin karakteristik özelliklerini taşıyor. 140 hektarlık bu alan, tepe ve çevresindeki vadilerle birlikte, zengin bir coğrafi çeşitlilik sunuyor. İklim, Akdeniz ikliminin özellikleri gösteriyor; yazlar sıca ve khô, kışlar ılıman ve yağışlı geçiyor. Çevre, çeşitli bitki türleri ve fauna ile kaplı; özellikle çam, zeytin ve kestane ağaçları bolca bulunuyor. Bu coğrafi özellikler, ziyaretçilere doğanın güzelliğini ve zenginliğini keşfetme fırsatı veriyor.
+Buluşlu Tepe, coğrafi olarak Ege Bölgesi'nin karakteristik özelliklerini taşıyor. 140 hektarlık bu alan, tepe ve çevresindeki vadilerle birlikte, zengin bir coğrafi çeşitlilik sunuyor. İklim, Akdeniz ikliminin özellikleri gösteriyor; yazlar sıcak ve kuru, kışlar ılıman ve yağışlı geçiyor. Çevre, çeşitli bitki türleri ve fauna ile kaplı; özellikle çam, zeytin ve kestane ağaçları bolca bulunuyor. Bu coğrafi özellikler, ziyaretçilere doğanın güzelliğini ve zenginliğini keşfetme fırsatı veriyor.
 
 ## Flora ve Fauna
 

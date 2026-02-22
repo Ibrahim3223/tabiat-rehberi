@@ -37,7 +37,7 @@ Ankara Üniversitesi Tarihi Müzesi'nin tarihi geçmişi, Ankara Üniversitesi'n
 
 ## Coğrafya
 
-Ankara Üniversitesi Tarihi Müzesi, Ankara'nın merkezinde yer alan bir bölgede bulunuyor. Bu bölge, Ankara'nın en önemli kültür ve eğitim merkezlerinden biri olan Ankara Üniversitesi'nin içinde yer alıyor. Müzenin coğrafi konumu, ziyaretçilere Ankara'nın diğer önemli noktalarına kolayca ulaşma imkanı sunuyor. Müze, yaklaşık 140 hektarlık bir alanda yer alıyor ve bu alan, ziyaretçilere geniş bir açık alan deneyimi sunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin karasal iklimine uygun olarak, yazları sıca ve kışları soğuk geçiyor. Bu iklim, müzenin bahçesinde ve çevresinde çeşitli bitki türlerinin yetişmesine olanak tanıyor. Müzenin coğrafi konumu ve iklimi, ziyaretçilere bir nevi açık hava müzesi deneyimi sunuyor.
+Ankara Üniversitesi Tarihi Müzesi, Ankara'nın merkezinde yer alan bir bölgede bulunuyor. Bu bölge, Ankara'nın en önemli kültür ve eğitim merkezlerinden biri olan Ankara Üniversitesi'nin içinde yer alıyor. Müzenin coğrafi konumu, ziyaretçilere Ankara'nın diğer önemli noktalarına kolayca ulaşma imkanı sunuyor. Müze, yaklaşık 140 hektarlık bir alanda yer alıyor ve bu alan, ziyaretçilere geniş bir açık alan deneyimi sunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin karasal iklimine uygun olarak, yazları sıcak ve kışları soğuk geçiyor. Bu iklim, müzenin bahçesinde ve çevresinde çeşitli bitki türlerinin yetişmesine olanak tanıyor. Müzenin coğrafi konumu ve iklimi, ziyaretçilere bir nevi açık hava müzesi deneyimi sunuyor.
 
 ## Flora ve Fauna
 

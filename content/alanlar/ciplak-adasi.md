@@ -43,7 +43,7 @@ Türkiye'de, özellikle Ege ve Marmara bölgelerinde, doğal alanlar tarihsel ol
 
 Doğal güzelliği ile ön plana çıkan Çıplak Adası, bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu küçük ama etkileyici ada, Ege Denizi'nin zengin jeolojik geçmişinin bir ürünü olarak ortaya çıkıyor. Ada'nın jeolojik yapısı, bölgenin tarihini ve coğrafi oluşumunu anlamak için önemli bir ipucu sunuyor. Ancak, ada hakkında daha detaylı fiziksel veriler bulunmuyor.
 
-Mevesimlik değişimlerin yaşanabildiği Çıplak Adası, Ege bölgesinin karakteristik iklimine sahip. Yaz aylarında sıca ve güneşli bir hava hakimken, kış aylarında ılıman bir iklim hüküm sürüyor. Bu mevsimsel değişiklikler, adanın florası ve faunası üzerinde önemli bir etkiye sahip.
+Mevesimlik değişimlerin yaşanabildiği Çıplak Adası, Ege bölgesinin karakteristik iklimine sahip. Yaz aylarında sıcak ve güneşli bir hava hakimken, kış aylarında ılıman bir iklim hüküm sürüyor. Bu mevsimsel değişiklikler, adanın florası ve faunası üzerinde önemli bir etkiye sahip.
 
 Ada, Ege Denizi'nin geniş su kaynaklarına ve komşu adalara bağlı bir ekosistem içinde yer alıyor. Bu bağlamda, Çıplak Adası, bölgenin biyolojik çeşitliliğinin korunması açısından önemli bir role sahip. Ada ve çevresinin doğal güzellikleri, ziyaretçilere benzersiz bir deneyimi sunuyor.
 

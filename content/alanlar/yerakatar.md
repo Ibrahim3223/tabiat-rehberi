@@ -68,5 +68,5 @@ Yerakatar dağının güzel manzarasını görmek için sabah erken gitmenizi ö
 - Dağlık bir bölge olan Ardahan'ın toplam yüzölçümü 5.661 kilometrekaredir.
 - Ardahan ili, 1993 yılında il statüsüne kavuşmuştur.
 - Yerakatar ve çevresindeki dağlık bölgeler, flora ve fauna çeşitliliği açısından zengindir.
-- Ardahan'ın yüksek rakımı nedeniyle, kış aylarında oldukça soğu ve kar yağışlıdır.
+- Ardahan'ın yüksek rakımı nedeniyle, kış aylarında oldukça soğuk ve kar yağışlıdır.
 - Bölge, 1994 yılında kurulan Çıldır Gölü Milli Parkı'na yakındır.

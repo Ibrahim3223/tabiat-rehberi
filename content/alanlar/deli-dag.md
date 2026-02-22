@@ -42,7 +42,7 @@ Gözlerimizi doğuya doğru çevirerek, Sivas ilinin güzide bir bölgesinde yer
 
 Doğal güzelliği ile ön plana çıkan Deli Dağ, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu büyüklük, bir kaç olimpik havuz kadar bir alanla eşdeğer. Jeolojik yapısı itibariyle, Deli Dağ'ın oluşumu hakkında detaylı bilgi bulunmuyor, ancak bölgenin genel jeolojik yapısı edilerek, volkani ve sedimentatif kayaçların bir arada olduğu bir bölge olduğu söylenebilir.
 
-Mevsimsel özelliklere baktığımızda, Deli Dağ'ın bulunduğu bölge, karasal iklimin característicasını taşıyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakim. Bu mevsimsel değişimler, Deli Dağ'ın iklim karakterini şekillendiriyor. Hava durumu, bölgenin coğrafi konumuna göre değişkenlik gösteriyor, ancak genel olarak, Deli Dağ'ın bulunduğu bölgede, yıl boyunca ortalama 400-500 mm yağış alıyor.
+Mevsimsel özelliklere baktığımızda, Deli Dağ'ın bulunduğu bölge, karasal iklimin característicasını taşıyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakim. Bu mevsimsel değişimler, Deli Dağ'ın iklim karakterini şekillendiriyor. Hava durumu, bölgenin coğrafi konumuna göre değişkenlik gösteriyor, ancak genel olarak, Deli Dağ'ın bulunduğu bölgede, yıl boyunca ortalama 400-500 mm yağış alıyor.
 
 Deli Dağ, çevresindeki diğer doğal alanlarla bağlantılı bir ekosistem içerisinde yer alıyor. Bölge, çeşitli su kaynaklarına ve tarım arazilerine ev sahipliği yapıyor. Deli Dağ'ın komşu alanları, geniş otlaklar ve ormanlık bölgeler olarak dikkat çekiyor. Bu doğal güzellikler, Deli Dağ'ın çevresel ilişkilerini zenginleştiriyor ve bölgenin biyolojik çeşitliliğini artırıyor.
 

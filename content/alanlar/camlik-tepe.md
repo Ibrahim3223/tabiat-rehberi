@@ -43,7 +43,7 @@ Güneydeki dağlık araziler arasında yer alan Çamlık Tepe, Osmaniye ilinin d
 
 Doğal güzelliği ile dikkat çeken Çamlık Tepe'nin fiziksel yapısı, bölgenin jeolojik özelliklerini yansıtmaktadır. Ancak, fiziksel veriler bulunmamasına rağmen, tepeyi çevreleyen dağların yüksekliği ve bölgenin topografyası, burasının bir şehir bloğu büyüklüğünde olduğunu düşündürmektedir. Bu alan, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplamaktadır.
 
-Mevsimsel değişikliklere göre farklı hava koşullarına sahip olan Çamlık Tepe, ilkbahar ve yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklime sahiptir. Bu mevsimsel özellikler, tepe etrafındaki bitki örtüsünü ve yerel ekosistemi etkilemektedir. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu tepe, bölgenin önemli bir yükseklik noktasını oluşturmaktadır.
+Mevsimsel değişikliklere göre farklı hava koşullarına sahip olan Çamlık Tepe, ilkbahar ve yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklime sahiptir. Bu mevsimsel özellikler, tepe etrafındaki bitki örtüsünü ve yerel ekosistemi etkilemektedir. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu tepe, bölgenin önemli bir yükseklik noktasını oluşturmaktadır.
 
 Bölgenin su kaynaklarına yakın olan Çamlık Tepe, komşu alanlardaki ekosistemlerle bağlantılı bir şekilde bulunmaktadır. Çevresindeki dağlar ve vadilerle birlikte, burası bir bütün olarak düşünüldüğünde, Monaco'nun yaklaşık yarısı kadar bir alanı kaplayabilir. Bu geniş alan, yerel flora ve faunanın yaşam alanı olarak hizmet vermekte ve bölgenin doğal dengesini korumaktadır.
 
@@ -64,6 +64,6 @@ Dağın ekolojik değeri, yükseklik zonlarına bağlı olarak oluşan farklı e
 - Çamlık Tepe, Osmaniye ilinin güneydoğu kesiminde yer alır.
 - Osmaniye ili, Türkiye'nin Akdeniz Bölgesi'nde bulunur ve Çamlık Tepe bu bölgenin önemli coğrafi noktalarından biridir.
 - Osmaniye ilinin yüzölçümü 3.767 kilometrekare olup, Çamlık Tepe bu alan içerisinde yer alır.
-- Bölge, Akdeniz ikliminin özellikleri göstermektedir; yazları sıca ve kurak, kışları ılık ve yağışlı geçer.
+- Bölge, Akdeniz ikliminin özellikleri göstermektedir; yazları sıcak ve kurak, kışları ılık ve yağışlı geçer.
 - Osmaniye'nin nüfusu yaklaşık 538.759 kişi olup, ilin coğrafi özellikleri ve doğal güzelliği turizm için önemli potansiyel sunar.
 - Çamlık Tepe'nin tam yüksekliği ve özellikleri hakkında net bilgiler bulunmamakla birlikte, Osmaniye'nin coğrafi çeşitliliği ziyaretçilere zengin bir deneyim sunar.

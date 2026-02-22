@@ -44,7 +44,7 @@ Genel olarak Güneydoğu Anadolu Bölgesi'nin coğrafi çeşitliliğiçinde yer 
 
 Doğal bir oluşum olarak Karhan Tepe, bölgenin jeolojik yapısını yansıtan bir yapıya sahiptir. Ancak, detaylı fiziksel verilerin bulunmaması nedeniyle, tam olarak boyutları veya şekli hakkında bilgi verilememektedir. Ancak, genel olarak bölgenin coğrafi yapısına bakıldığında, Karhan Tepe'nin bir şehir bloğu büyüklüğünde bir alan kapladığı söylenebilir.
 
-İklim açısından bakıldığında, Karhan Tepe'nin bulunduğu bölge, Güneydoğu Anadolu Bölgesi'nin genel iklim karakterini yansıtmaktadır. Bu bölgede, yaz aylarında sıca ve khô bir hava hüküm sürerken, kış aylarında soğu ve yağışlı bir hava görülmektedir. Bu mevsimsel özellikler, Karhan Tepe'nin doğal güzelliklerini keşfetmek isteyenler için bir planlama unsuru olabilir.
+İklim açısından bakıldığında, Karhan Tepe'nin bulunduğu bölge, Güneydoğu Anadolu Bölgesi'nin genel iklim karakterini yansıtmaktadır. Bu bölgede, yaz aylarında sıcak ve kuru bir hava hüküm sürerken, kış aylarında soğuk ve yağışlı bir hava görülmektedir. Bu mevsimsel özellikler, Karhan Tepe'nin doğal güzelliklerini keşfetmek isteyenler için bir planlama unsuru olabilir.
 
 Çevresel açıdan bakıldığında, Karhan Tepe, Batman ilinin diğer doğal güzelliklerine yakınlık göstermektedir. Bölgenin su kaynakları ve ekosistem bağlantıları, Karhan Tepe'nin doğal yapısını desteklemektedir. Örneğin, bölgede bulunan nehirler ve akarsular, Karhan Tepe'nin etrafındaki ekosistemi beslemektedir. Bu nedenle, Karhan Tepe, bölgenin doğal güzelliklerini keşfetmek isteyenler için bir önemli noktadır.
 

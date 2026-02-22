@@ -44,7 +44,7 @@ Keleş Tepesi, çeşitli bitki türleri ve hayvanlarla dolu bir doğal alan olar
 
 ## Ziyaret Bilgileri
 
-Keleş Tepesi'ni ziyaret etmek, doğa severler ve manzara tutkunları için bir zorunluluktur. Tepenin zirvesine ulaşmak için, ziyaretçiler yürüyüş yapabilir veya araçla ulaşabilir. Keleş Tepesi'ni ziyaret etmek için en iyi mevsim, bahar ve yaz aylarıdır. Bu mevsimlerde, hava daha sıca ve güneşli olur ve ziyaretçilere daha güzel bir manzara sunar. Ziyaret süresi, ziyaretçilerin tercihine bağlı olarak değişebilir. Ancak, genel olarak, Keleş Tepesi'ni ziyaret etmek için en az 2-3 saat gereklidir.
+Keleş Tepesi'ni ziyaret etmek, doğa severler ve manzara tutkunları için bir zorunluluktur. Tepenin zirvesine ulaşmak için, ziyaretçiler yürüyüş yapabilir veya araçla ulaşabilir. Keleş Tepesi'ni ziyaret etmek için en iyi mevsim, bahar ve yaz aylarıdır. Bu mevsimlerde, hava daha sıcak ve güneşli olur ve ziyaretçilere daha güzel bir manzara sunar. Ziyaret süresi, ziyaretçilerin tercihine bağlı olarak değişebilir. Ancak, genel olarak, Keleş Tepesi'ni ziyaret etmek için en az 2-3 saat gereklidir.
 
 ## İlginç Bilgiler
 

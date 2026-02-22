@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Akpınar Dağı, 38.9656° kuzey enlemi 
 
 Jeolojik açıdan incelendiğinde, Akpınar Dağı'nın coğrafi yapısı hakkında detaylı bilgi bulunmuyor. Ancak, bu dağlık alanın Bingöl'ün genel coğrafi yapısına bakıldığında, bölgenin dağlık ve engebeli bir coğrafyaya sahip olduğu görülüyor. Akpınar Dağı, bu coğrafyanın önemli bir parçasını oluşturuyor ve bölgenin doğal dokusunu koruma altına alıyor.
 
-Mevsimsel özellikler açısından bakıldığında, Akpınar Dağı ve çevresinin karasal iklim özellikleri gösterdiği görülüyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakim oluyor. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkiliyor ve Akpınar Dağı'nın ekosistemini şekillendiriyor.
+Mevsimsel özellikler açısından bakıldığında, Akpınar Dağı ve çevresinin karasal iklim özellikleri gösterdiği görülüyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakim oluyor. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkiliyor ve Akpınar Dağı'nın ekosistemini şekillendiriyor.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları açısından bakıldığında, Akpınar Dağı'nın çevresi çeşitli nehir ve akarsularla çevrili bulunuyor. Bu su kaynakları, bölgenin doğal yaşamını destekleyerek, flora ve fauna çeşitliliğinin korunmasına yardımcı oluyor. Akpınar Dağı, bu su kaynakları ve ekosistem bağlantıları ile birlikte, bölgenin doğal zenginliklerini koruma altına alıyor ve önemli bir coğrafi konumda yer alıyor.
 

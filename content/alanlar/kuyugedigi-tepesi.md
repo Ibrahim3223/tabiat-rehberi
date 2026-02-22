@@ -36,7 +36,7 @@ Kuyugediği Tepesi'nin tarihi geçmişi, bölgenin tarihi ile iç içe geçmiş 
 
 ## Coğrafya
 
-Kuyugediği Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahiptir. Tepe, yaklaşık yüksek bir konumdate yer almakta ve çevredeki diğer tepe ve dağlarla birlikte bir bütün oluşturmaktadır. Bölgenin iklimi, karasal iklim özellikleri göstermekte ve yazları sıcak, kışları soğuk geçmektedir. Kuyugediği Tepesi, özellikle ilkbahar ve sonbahar aylarında ziyaret edilmekte ve bu mevsimlerde, tepe üzerindeki flora ve fauna zenginliği dikkat çekmektedir. Tepe, Malatya il merkezine uzun bir mesafe uzaklıkta yer almakta ve ulaşım açısından ziyaretçilere kolaylık sağlamaktadır.
+Kuyugediği Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahiptir. Tepe, yüksek bir konumda yer almakta ve çevredeki diğer tepe ve dağlarla birlikte bir bütün oluşturmaktadır. Bölgenin iklimi, karasal iklim özellikleri göstermekte ve yazları sıcak, kışları soğuk geçmektedir. Kuyugediği Tepesi, özellikle ilkbahar ve sonbahar aylarında ziyaret edilmekte ve bu mevsimlerde, tepe üzerindeki flora ve fauna zenginliği dikkat çekmektedir. Tepe, Malatya il merkezine uzun bir mesafe uzaklıkta yer almakta ve ulaşım açısından ziyaretçilere kolaylık sağlamaktadır.
 
 ## Flora ve Fauna
 

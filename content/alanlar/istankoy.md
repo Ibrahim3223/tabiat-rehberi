@@ -46,7 +46,7 @@ Doğal güzelliği ile dikkat çeken İstanköy, Ege Denizi'nin sakin sularında
 
 Jeolojik açıdan bakıldığında, İstanköy'ün fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, adanın genel olarak küçük bir şehir bloğu büyüklüğünde olduğu söylenebilir. Bu büyüklük, İstanköy'ü Taksim Meydanı'nın birkaç katı kadar büyük bir alan olarak hayal etmemize olanak tanır. Ada, bir dizi küçüköy ve yerleşim yerinden oluşuyor ve coğrafi olarak çeşitli araziler sunuyor.
 
-İklim açısından İstanköy, tipik bir Akdeniz iklimine sahip. Yaz aylarında sıca ve güneşli, kış aylarında ise serin ve yağmurlu bir hava hakim. Bu mevsimsel özellikler, adanın flora ve fauna çeşitliliğini etkiliyor ve İstanköy'ü bir doğa cenneti haline getiriyor. Eiffel Kulesi'nin yaklaşık 1/10'u kadar yükseklikteki tepeleri, adanın manzarasını zenginleştiren önemli coğrafi özelliklerden biri.
+İklim açısından İstanköy, tipik bir Akdeniz iklimine sahip. Yaz aylarında sıcak ve güneşli, kış aylarında ise serin ve yağmurlu bir hava hakim. Bu mevsimsel özellikler, adanın flora ve fauna çeşitliliğini etkiliyor ve İstanköy'ü bir doğa cenneti haline getiriyor. Eiffel Kulesi'nin yaklaşık 1/10'u kadar yükseklikteki tepeleri, adanın manzarasını zenginleştiren önemli coğrafi özelliklerden biri.
 
 Çevresel açıdan İstanköy, Ege Denizi'nin su kaynakları ve ekosistem bağlantıları ile bağlantılı. Ada, Monaco'nun yaklaşık 1/20'si kadar büyüklüğünde bir alan kaplıyor ve bu konum itibariyle, komşu alanlar ve su kaynakları ile etkileşim içinde bulunuyor. İstanköy'ün doğal güzelliği ve coğrafi özellikleri, adayı bir turizm merkezi haline getiriyor ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor.
 

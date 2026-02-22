@@ -30,7 +30,7 @@ Antalya-Manavgat-Köprülü Servi milli parkının tarihi geçmişi, yüzyıllar
 
 ## Coğrafya
 
-Antalya-Manavgat-Köprülü Servi milli parkı, Akdeniz Bölgesi'nde yer alıyor. Parkın coğrafi yapısı, dağlar ve ormanlarla çevrili. Köprülü Servi, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Milli parkın iklimi, Akdeniz iklimi özellikleri gösteriyor. Kışları ılık, yazları sıca ve kurak olan bu bölge, ziyaretçilere dört mevsim gezi imkanı sunuyor. Milli parkın çevresi, çeşitli bitki türleri ve yaban hayatıyla zengin.
+Antalya-Manavgat-Köprülü Servi milli parkı, Akdeniz Bölgesi'nde yer alıyor. Parkın coğrafi yapısı, dağlar ve ormanlarla çevrili. Köprülü Servi, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Milli parkın iklimi, Akdeniz iklimi özellikleri gösteriyor. Kışları ılık, yazları sıcak ve kurak olan bu bölge, ziyaretçilere dört mevsim gezi imkanı sunuyor. Milli parkın çevresi, çeşitli bitki türleri ve yaban hayatıyla zengin.
 
 ## Flora ve Fauna
 

@@ -42,7 +42,7 @@ Mardin'in coğrafi zenginliklerini keşfederken, Alitepe Dağı ilk dikkati çek
 
 Doğal güzelliği ile dikkat çeken Alitepe Dağı, coğrafi olarak Mardin'in güneyinde yer alıyor. Dağın fiziksel yapısı hakkında detaylı bilgi olmasa da, 1200 hektarlık bir alan kapsıyor. Bu alan, Monaco'nun yaklaşık olarak 1/10'u kadar bir büyüklüğe sahip. Şekil ve jeoloji bakımından, Alitepe Dağı'nın Mardin'in genel coğrafi yapısına uygun bir şekilde oluştuğu söylenebilir.
 
-Mevsimsel olarak, Alitepe Dağı ve çevresinin iklim karakteri oldukça değişken. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak olan bu bölge, her mevsim farklı bir güzellik sunuyor. Hava durumu ise, Mardin'in genel iklimine uygun olarak, yazın yüksek sıcaklıklar ve kışın soğuk hava koşulları ile karakterize ediliyor.
+Mevsimsel olarak, Alitepe Dağı ve çevresinin iklim karakteri oldukça değişken. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak olan bu bölge, her mevsim farklı bir güzellik sunuyor. Hava durumu ise, Mardin'in genel iklimine uygun olarak, yazın yüksek sıcaklıklar ve kışın soğuk hava koşulları ile karakterize ediliyor.
 
 Çevresel açıdan bakıldığında, Alitepe Dağı Mardin'in diğer coğrafi oluşumları ile bağlantılı. Dağın eteklerinde ve çevresinde, çeşitli su kaynakları ve ekosistemler bulunuyor. Bu su kaynakları, bölgenin tarımsal faaliyetleri için önemli bir rol oynuyor. Ayrıca, Alitepe Dağı'nın komşu alanları ile olan ilişkisi, bölgenin biyolojik çeşitliliğini koruma açısından oldukça önemli.
 

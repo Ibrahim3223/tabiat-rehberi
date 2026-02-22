@@ -36,7 +36,7 @@ Harami Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkları
 
 ## Coğrafya
 
-Harami Tepesi, Doğu Anadolu Bölgesi'nde, Malatya ilinin sınırları içerisinde yer alıyor. Bu tepe, çevresindeki diğer tepelerle birlikte, bölgenin coğrafi yapısını oluşturan önemli bir parçayı temsil ediyor. Tepenin yüksekliği, bölgenin ortalama yüksekliğine göre daha yükse ve bu nedenle, tepe zirvesinden, geniş bir görüş açısı sunuyor. İklim olarak, bölgenin genel iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Kış ayları soğu ve kar yağışlı, yaz ayları ise sıcak ve kuru geçiyor. Bu iklim koşulları, bölgenin flora ve faunasını etkileyerek, çeşitli bitki ve hayvan türlerinin yaşamasına olanak sağlıyor. Tepenin etekleri, genellikle tarım arazileri ve ormanlık alanlarla kaplı iken, zirvesi ise genellikle çıpla ve kayalık bir yapıya sahip.
+Harami Tepesi, Doğu Anadolu Bölgesi'nde, Malatya ilinin sınırları içerisinde yer alıyor. Bu tepe, çevresindeki diğer tepelerle birlikte, bölgenin coğrafi yapısını oluşturan önemli bir parçayı temsil ediyor. Tepenin yüksekliği, bölgenin ortalama yüksekliğine göre daha yükse ve bu nedenle, tepe zirvesinden, geniş bir görüş açısı sunuyor. İklim olarak, bölgenin genel iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kuru geçiyor. Bu iklim koşulları, bölgenin flora ve faunasını etkileyerek, çeşitli bitki ve hayvan türlerinin yaşamasına olanak sağlıyor. Tepenin etekleri, genellikle tarım arazileri ve ormanlık alanlarla kaplı iken, zirvesi ise genellikle çıpla ve kayalık bir yapıya sahip.
 
 ## Flora ve Fauna
 

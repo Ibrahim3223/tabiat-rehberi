@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi güzelliklerini keşfetmek isteyenler 
 
 Doğal güzelliklerin yoğunlaştığı bu bölgede, Lif Dağı'nın fiziksel yapısı dikkat çekicidir. Veriler sınırlı olsa da, bu bölgenin jeolojik yapısı ve coğrafi özellikleri, ziyaretçilerin dikkatini çekmektedir. Monaco'nun yarısı kadar büyük bir alanı kaplamasa da, Lif Dağı'nın boyutları küçük bir şehir bloğu büyüklüğünde düşünülebilir. Bu boyut, ziyaretçilere bölgenin güzelliklerini keşfetmek için yeterli bir alan sunar.
 
-İklim karakteri bakımından Lif Dağı, güneydoğu Anadolu Bölgesi'nin genel iklim özelliklerini taşır. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklimi experiencia eder. Eiffel Kulesi'nin 2 katı yükseklikte olmayan bu dağ, mevsimsel olarak değişen hava koşullarına sahiptir. Bu özellikler, bölgede farklı ekosistemlerin oluşmasına neden olur.
+İklim karakteri bakımından Lif Dağı, güneydoğu Anadolu Bölgesi'nin genel iklim özelliklerini taşır. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklimi experiencia eder. Eiffel Kulesi'nin 2 katı yükseklikte olmayan bu dağ, mevsimsel olarak değişen hava koşullarına sahiptir. Bu özellikler, bölgede farklı ekosistemlerin oluşmasına neden olur.
 
 Çevresel ilişkiler açısından Lif Dağı, komşu alanlar ve su kaynaklarıyla bağlantılıdır. Taksim Meydanı'nın birkaç katı büyüklüğünde olmayan bu bölge, çevresindeki diğer coğrafi oluşumlarla birlikte bir bütünü oluşturur. Lif Dağı, bölgedeki ekosistem bağlantılarını destekler ve doğal güzelliklerin korunmasına katkıda bulunur. Bu özellikleri ile Lif Dağı, ziyaretçilere doğa ile iç içe bir deneyim sunar.
 

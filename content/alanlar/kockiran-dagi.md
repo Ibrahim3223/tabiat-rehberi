@@ -42,7 +42,7 @@ Doğunun gizli köşelerinden biri olan Koçkıran Dağı, 38.0953°K ve 43.5794
 
 Jeolojik açıdan bakıldığında, Koçkıran Dağı'nın fiziksel yapısı hakkında detaylı bilgi olmasa da, bölgenin genel olarak volkani ve sedimentolojik oluşumların hakim olduğu bir coğrafyada yer aldığını söyleyebiliriz. Dağın boyutları hakkında net bir veri olmasa da, Van'ın genel coğrafyası düşünüldüğünde, bu dağın çevresindeki diğer dağlık oluşumlarla benzerlik gösterdiği anlaşılabilir. Bu bölgedeki dağlar, genellikle yükse ve engebeli arazilerle karakterize ediliyor.
 
-Mevsimsel açıdan bakıldığında, Koçkıran Dağı'nın iklim karakteri, Van'ın genel iklimi ile benzerlik gösteriyor. Bölge, karasal iklimin hakim olduğu bir coğrafyada yer alıyor ve kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakim. Bu iklim koşulları, dağların yüksekliklerinde ve eteklerinde farklı ekosistemlerin oluşmasına yol açıyor.
+Mevsimsel açıdan bakıldığında, Koçkıran Dağı'nın iklim karakteri, Van'ın genel iklimi ile benzerlik gösteriyor. Bölge, karasal iklimin hakim olduğu bir coğrafyada yer alıyor ve kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakim. Bu iklim koşulları, dağların yüksekliklerinde ve eteklerinde farklı ekosistemlerin oluşmasına yol açıyor.
 
 Çevresel açıdan, Koçkıran Dağı, Van Gölü'nün batısındaki diğer dağlık oluşumlarla birlikte, bölgenin su kaynaklarının korunmasına önemli bir katkı sağlıyor. Dağın eteklerinde ve çevresinde, çeşitli su kaynakları ve akarsular yer alıyor. Bu su kaynakları, bölgenin ekosistemini destekleyen önemli bir faktör ve Koçkıran Dağı, bu ekosistemlerin korunmasına katkıda bulunan önemli bir coğrafi oluşum.
 

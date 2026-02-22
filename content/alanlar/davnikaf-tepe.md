@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi zenginliklerini keşfetmeye başladı�
 
 Doğal güzelliklerin yanı sıra, Davnikaf Tepe'nin fiziksel yapısını da incelemek gerekiyor. Maalesef, tepe hakkında detaylı fiziksel veri bulunmuyor, ancak coğrafi konumuna bakıldığında, bölgenin diğer dağlık alanlarına benzer özellikler taşıdığı söylenebilir. Tepe, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor ve çevresindeki diğer dağlarla birlikte bir bütün olarak değerlendirilebilir.
 
-İklim açısından bakıldığında, Davnikaf Tepe'nin bulunduğu bölge, Güneydoğu Anadolu Bölgesi'nin tipik iklim özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel özellikler, tepe ve çevresinin ekosistemini şekillendiriyor ve bölgenin flora ve fauna çeşitliliğini etkiliyor.
+İklim açısından bakıldığında, Davnikaf Tepe'nin bulunduğu bölge, Güneydoğu Anadolu Bölgesi'nin tipik iklim özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel özellikler, tepe ve çevresinin ekosistemini şekillendiriyor ve bölgenin flora ve fauna çeşitliliğini etkiliyor.
 
 Çevresel açıdan bakıldığında, Davnikaf Tepe, Batman Nehri'nin kaynaklarına yakın bir konumda yer alıyor. Nehir, tepeye yaklaşık 10 kilometre uzaklıkta akıyor ve bölgenin su kaynaklarını oluşturuyor. Tepe, ayrıca çevresindeki diğer dağlık alanlarla birlikte bir ekosistem oluşturuyor ve bölgenin biyolojik çeşitliliğini koruyor. Bu nedenle, Davnikaf Tepe, sadece bir doğal güzellik değil, aynı zamanda bölgenin ekolojik dengesini sağlayan önemli bir unsur olarak değerlendirilebilir.
 

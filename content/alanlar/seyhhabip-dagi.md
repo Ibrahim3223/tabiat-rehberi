@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden biri olan Bitlis, coğrafi güzell
 
 Şeyhhabip Dağı'nın fiziksel yapısını incelemeye başladığımızda, maalesef ayrıntılı verilerle karşılaşmıyoruz. Ancak bu dağ, Bitlis'in genel coğrafi yapısına bakıldığında, ilin dağlık ve engebeli arazisinin bir parçası olduğunu söyleyebiliriz. Bitlis'in toplam yüzölçümü yaklaşık 8.307 kilometrekare iken, Şeyhhabip Dağı'nın bu büyük coğrafi mozaiğin içinde önemli bir bileşen olduğu anlaşılıyor.
 
-Bitlis'in iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğu ve karlı, yazlar ise sıca ve kurak geçiyor. Şeyhhabip Dağı da bu iklimin etkilerini taşıyor. Dağın yüksekli ve eğimine bağlı olarak, mevsimsel değişiklikler burada daha belirgin şekilde hissediliyor. Örneğin, dağların yüksek kesimlerinde karın kalma süresi, ilin merkezi ile karşılaştırıldığında daha uzun oluyor.
+Bitlis'in iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Şeyhhabip Dağı da bu iklimin etkilerini taşıyor. Dağın yüksekli ve eğimine bağlı olarak, mevsimsel değişiklikler burada daha belirgin şekilde hissediliyor. Örneğin, dağların yüksek kesimlerinde karın kalma süresi, ilin merkezi ile karşılaştırıldığında daha uzun oluyor.
 
 Bitlis'in su kaynakları açısından zengin bir il olduğunu düşünürsek, Şeyhhabip Dağı da bu su kaynaklarının bir parçası olarak görülebilir. Dağın eteklerinde ve çevresindeki vadilerde, ilin önemli su kaynaklarından bazıları bulunuyor. Bu su kaynakları, ilin tarım ve hayvancılık faaliyetleri için büyük önem taşıyor. Şeyhhabip Dağı, bu açıdan bakıldığında, Bitlis'in ekosistemine önemli bir katkı sağlıyor.
 

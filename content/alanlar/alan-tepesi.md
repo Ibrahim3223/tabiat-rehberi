@@ -37,7 +37,7 @@ Alan Tepesi, yüzyıllar boyunca çeşitli medeniyetlerin etkisi altında kalmı
 
 ## Coğrafya
 
-Alan Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan, 140 hektarlık genişlikteki bir yeşil alan olarak karşımıza çıkıyor. Tepenin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Tepenin eteklerinde, küçük akarsular ve dereler yer alıyor. Tepenin yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdate ve bu reasonla, bölgede iklim ve hava koşulları değişkenlik gösteriyor. Tepenin coğrafi yapısı, ziyaretçilere farklı mevsimlerde farklı deneyimler sunuyor. İlkbahar ve yaz aylarında, tepenin eteklerinde çiçekler açıyor ve yeşil alanlar oluşuyor. Sonbahar ve kış aylarında ise, tepenin eteklerinde kar yağışı görülüyor ve bölge, kış sporları için uygun bir ortam sunuyor.
+Alan Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan, 140 hektarlık genişlikteki bir yeşil alan olarak karşımıza çıkıyor. Tepenin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Tepenin eteklerinde, küçük akarsular ve dereler yer alıyor. Tepenin yüksekliği, yüksek bir konumda ve bu reasonla, bölgede iklim ve hava koşulları değişkenlik gösteriyor. Tepenin coğrafi yapısı, ziyaretçilere farklı mevsimlerde farklı deneyimler sunuyor. İlkbahar ve yaz aylarında, tepenin eteklerinde çiçekler açıyor ve yeşil alanlar oluşuyor. Sonbahar ve kış aylarında ise, tepenin eteklerinde kar yağışı görülüyor ve bölge, kış sporları için uygun bir ortam sunuyor.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Alan Tepesi, ziyaretçiler için, çeşitli aktiviteler sunuyor. Tepenin etekler
 
 - Alan Tepesi, 140 hektarlık genişlikteki bir yeşil alan olarak karşımıza çıkıyor.
 - Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna yer alıyor.
-- Tepenin yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdate.
+- Tepenin yüksekliği, yüksek bir konumda.
 - Tepenin coğrafi yapısı, ziyaretçilere farklı mevsimlerde farklı deneyimler sunuyor.
 - Tepenin flora ve fauna yapısı, mevsimsel değişimlere göre farklılıklar gösteriyor.

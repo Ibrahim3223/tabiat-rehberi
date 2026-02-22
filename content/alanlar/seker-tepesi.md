@@ -37,7 +37,7 @@ wikidata_id: "Q31385475"
 
 ## Coğrafya
 
-Şeker Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını şekillendiren önemli bir bileşen. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu tepe, bölgenin diğer tepe ve dağlarıyla birlikte, coğrafi yapısını oluşturan temel unsurlardan biri. Şeker Tepesi'nin yüksekliği ve genişliği, burayı bir gözlem noktası haline getiriyor ve ziyaretçilere geniş bir manzara sunuyor. Tepenin etrafında, çeşitli bitki türleri ve hayvanlar yaşamlarını sürdürüyor. Bu bölge, İç Anadolu Bölgesi'nin karakteristik iklimini yansıtıyor; yazları sıca ve kurak, kışları ise soğu ve kar yağışlı. Bu iklim, bölgenin flora ve faunasını şekillendiren önemli bir faktör.
+Şeker Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını şekillendiren önemli bir bileşen. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu tepe, bölgenin diğer tepe ve dağlarıyla birlikte, coğrafi yapısını oluşturan temel unsurlardan biri. Şeker Tepesi'nin yüksekliği ve genişliği, burayı bir gözlem noktası haline getiriyor ve ziyaretçilere geniş bir manzara sunuyor. Tepenin etrafında, çeşitli bitki türleri ve hayvanlar yaşamlarını sürdürüyor. Bu bölge, İç Anadolu Bölgesi'nin karakteristik iklimini yansıtıyor; yazları sıcak ve kurak, kışları ise soğuk ve kar yağışlı. Bu iklim, bölgenin flora ve faunasını şekillendiren önemli bir faktör.
 
 ## Flora ve Fauna
 

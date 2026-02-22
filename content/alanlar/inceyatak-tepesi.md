@@ -36,7 +36,7 @@ Eskişehir'in İç Anadolu Bölgesi'nde yer alan İnceyatak Tepesi, şehrin öne
 
 ## Coğrafya
 
-İnceyatak Tepesi, Eskişehir'in coğrafi yapısını etkileyen önemli bir faktördür. Tepenin yüksekliği, şehrin etrafındaki ovaları ve dağları kapsar. Bu coğrafi yapı, şehre bir görünüm kazandırır. İnceyatak Tepesi'nin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine benzer. Kış ayları soğu ve karlı, yaz ayları ise sıcak ve kurudur. Tepenin etrafındaki bitkiler ve ağaçlar, mevsimsel değişimlere göre renklenerek güzel manzaralar oluşturur. İnceyatak Tepesi, Eskişehir'in coğrafi güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Tepenin etrafındaki çeşitli coğrafi oluşumlar, ziyaretçilere farklı deneyimler sunar.
+İnceyatak Tepesi, Eskişehir'in coğrafi yapısını etkileyen önemli bir faktördür. Tepenin yüksekliği, şehrin etrafındaki ovaları ve dağları kapsar. Bu coğrafi yapı, şehre bir görünüm kazandırır. İnceyatak Tepesi'nin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine benzer. Kış ayları soğuk ve karlı, yaz ayları ise sıcak ve kurudur. Tepenin etrafındaki bitkiler ve ağaçlar, mevsimsel değişimlere göre renklenerek güzel manzaralar oluşturur. İnceyatak Tepesi, Eskişehir'in coğrafi güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Tepenin etrafındaki çeşitli coğrafi oluşumlar, ziyaretçilere farklı deneyimler sunar.
 
 ## Flora ve Fauna
 

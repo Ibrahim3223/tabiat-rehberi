@@ -36,7 +36,7 @@ Gebe Dağı'nın tarihi geçmişi, bölgenin genel tarihçesi ile paralellik gö
 
 ## Coğrafya
 
-Gebe Dağı, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşımaktadır. Bu bölge, genellikle yüksek platolardan oluşmakta ve dağlık alanlar ile çevrilidir. Gebe Dağı, 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı temsil etmektedir. Dağın etrafı, çeşitli bitki türleri ile kaplıdır ve bölgenin ekolojik dengesini korumaktadır. İklim olarak, Gebe Dağı ve çevresi, karasal iklimin etkilerini göstermektedir. Yaz ayları sıca ve kurak, kış ayları ise soğu ve yağışlı geçmektedir. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirmekte ve çeşitliliği artırmaktadır. Gebe Dağı, bu coğrafi özellikleriyle birlikte, bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak dikkat çekmektedir.
+Gebe Dağı, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşımaktadır. Bu bölge, genellikle yüksek platolardan oluşmakta ve dağlık alanlar ile çevrilidir. Gebe Dağı, 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı temsil etmektedir. Dağın etrafı, çeşitli bitki türleri ile kaplıdır ve bölgenin ekolojik dengesini korumaktadır. İklim olarak, Gebe Dağı ve çevresi, karasal iklimin etkilerini göstermektedir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçmektedir. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirmekte ve çeşitliliği artırmaktadır. Gebe Dağı, bu coğrafi özellikleriyle birlikte, bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak dikkat çekmektedir.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q61076478"
 
 # Vandri Şelalesi
 
-Vandri Şelalesi, İç Anadolu Bölgesi'nin gizli bir köşesinde yer alan, ziyaretçilerini doğanın mucizelerine davet eden bir doğal güzellik. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyük alan, şelalenin güzelliğini daha da artırıyor. Vandri Şelalesi, çevresi ile birlikte yaklaşık yüksek bir konumdate ve bu yükseklik, ziyaretçilere muhteşem manzaralar sunuyor. Şelalenin güzelliği, sadece yüksekliği ile değil, aynı zamanda çevresi ile birlikte oluşan eşsiz manzarası ile de dikkat çekiyor.
+Vandri Şelalesi, İç Anadolu Bölgesi'nin gizli bir köşesinde yer alan, ziyaretçilerini doğanın mucizelerine davet eden bir doğal güzellik. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyük alan, şelalenin güzelliğini daha da artırıyor. Vandri Şelalesi, çevresi ile birlikte yüksek bir konumda ve bu yükseklik, ziyaretçilere muhteşem manzaralar sunuyor. Şelalenin güzelliği, sadece yüksekliği ile değil, aynı zamanda çevresi ile birlikte oluşan eşsiz manzarası ile de dikkat çekiyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Vandri Şelalesi, yüzyıllar boyunca bölgenin en önemli doğal güzelliklerin
 
 ## Coğrafya
 
-Vandri Şelalesi, İç Anadolu Bölgesi'nin coğrafi olarak en güzel yerlerinden biri olan vadide yer alıyor. Şelalenin çevresi, yaklaşık yüksek bir konumdate ve bu yükseklik, ziyaretçilere muhteşem manzaralar sunuyor. Vandri Şelalesi, çevresi ile birlikte yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyük alan, şelalenin güzelliğini daha da artırıyor. Şelalenin coğrafi konumu, ziyaretçilere unutulmaz bir deneyim sunuyor ve bu nedenle, Vandri Şelalesi, doğa severlerin ve gezi tutkunlarının en çok ziyaret ettiği yerlerden biri. Vandri Şelalesi, çevresi ile birlikte zengin bir flora ve fauna çeşitliliğine sahip ve bu nedenle, şelale, doğa severlerin ve bilim insanlarının ilgisini çekiyor.
+Vandri Şelalesi, İç Anadolu Bölgesi'nin coğrafi olarak en güzel yerlerinden biri olan vadide yer alıyor. Şelalenin çevresi, yüksek bir konumda ve bu yükseklik, ziyaretçilere muhteşem manzaralar sunuyor. Vandri Şelalesi, çevresi ile birlikte yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyük alan, şelalenin güzelliğini daha da artırıyor. Şelalenin coğrafi konumu, ziyaretçilere unutulmaz bir deneyim sunuyor ve bu nedenle, Vandri Şelalesi, doğa severlerin ve gezi tutkunlarının en çok ziyaret ettiği yerlerden biri. Vandri Şelalesi, çevresi ile birlikte zengin bir flora ve fauna çeşitliliğine sahip ve bu nedenle, şelale, doğa severlerin ve bilim insanlarının ilgisini çekiyor.
 
 ## Flora ve Fauna
 

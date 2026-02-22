@@ -44,7 +44,7 @@ Güneydeki dağların eteklerinde yer alan Sütsüz Dağı, Antalya'nın doğal 
 
 Doğal güzellikleri ile dikkat çeken Sütsüz Dağı, çevresindeki diğer dağlarla birlikte bir bütünü oluşturuyor. Ancak, detaylı fiziksel verilerin eksikliği nedeniyle, dağın yüksekliği, şekli ve jeolojik yapısı hakkında net bilgiler bulunmuyor. Buna rağmen, dağların genel olarak Eiffel Kulesi'nin birkaç katı yükseklikte olduğunu düşünürsek, Sütsüz Dağı'nın da benzer bir yükseklikte olduğu söylenebilir.
 
-Mevsimsel olarak değişen hava koşulları, Sütsüz Dağı'nın iklim karakterini şekillendirmektedir. Kış aylarında serin ve yağışlı, yaz aylarında ise sıca ve kurak bir iklim hüküm sürmektedir. Bu mevsimsel değişiklikler, dağın etrafındaki bitki örtüsünü ve hayvan yaşamını etkilemektedir.
+Mevsimsel olarak değişen hava koşulları, Sütsüz Dağı'nın iklim karakterini şekillendirmektedir. Kış aylarında serin ve yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürmektedir. Bu mevsimsel değişiklikler, dağın etrafındaki bitki örtüsünü ve hayvan yaşamını etkilemektedir.
 
 Çevresel açıdan bakıldığında, Sütsüz Dağı, bölgenin su kaynakları ve ekosistem bağlantıları ile önemli bir role sahiptir. Dağın eteklerinde bulunan su kaynakları, bölgenin tarım ve hayvancılık faaliyetlerini desteklemektedir. Ayrıca, dağların doğal güzellikleri, bölgenin turizm potansiyelini artırmaktadır. Monaco'nun yarısı kadar bir alanı kaplayan bu dağ, bölgenin ekosistemini korumak için önemli bir görev üstlenmektedir.
 

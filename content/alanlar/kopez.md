@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Kopez Dağı, 39.1042°K ve 37.7008°D k
 
 Jeolojik açıdan incelendiğinde, Kopez Dağı'nın detaylı fiziksel verisi bulunmuyor, ancak coğrafi konumu itibariyle dikkat çekici bir yükseklikte yer alıyor. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu dağ, bölgenin en önemli coğrafi oluşumlarından biri olarak kabul ediliyor. Ancak, yüksekliği tam olarak bilinmese de, Kopez Dağı'nın bölgedeki diğer dağlarla karşılaştırıldığında önemli bir yer tuttuğu söylenebilir.
 
-İklim açısından bakıldığında, Kopez Dağı'nın bulunduğu bölge mevsimsel olarak farklılık gösteriyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise ılıman ve yağmurlu bir hava hüküm sürüyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler arasında yer alıyor.
+İklim açısından bakıldığında, Kopez Dağı'nın bulunduğu bölge mevsimsel olarak farklılık gösteriyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise ılıman ve yağmurlu bir hava hüküm sürüyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler arasında yer alıyor.
 
 Çevresel açıdan ele alındığında, Kopez Dağı'nın bulunduğu bölge su kaynakları ve ekosistem bağlantıları açısından zengin bir coğrafyaya sahip. Bölge, birçok küçük akarsu ve derenin buluşma noktası olarak görev yapıyor. Bu su kaynakları, bölgenin canlı yaşamını destekleyen önemli bir unsur olarak karşımıza çıkıyor. Monaco'nun yarısı kadar büyük bir alanı kaplayan bu bölge, İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kapsıyor ve doğal güzelliği ile dikkat çekiyor.
 

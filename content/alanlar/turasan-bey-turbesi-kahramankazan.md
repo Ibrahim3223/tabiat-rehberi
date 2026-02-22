@@ -37,7 +37,7 @@ Turasan Bey Türbesi, tarihi geçmişi ile dikkat çeker. Selçuklu döneminde i
 
 ## Coğrafya
 
-Turasan Bey Türbesi, Kahramankazan ilçesinde, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanın içerisinde yer alır. Bu yeşil alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar. Türbenin çevresinde, Ankara'nın karakteristik coğrafi özellikleri görülür. İç Anadolu Bölgesi'nin iklimi, türbenin bulunduğu alanda da hissedilir. Kışlar soğu ve karlı, yazlar sıca ve kurak geçer. Türbenin mimarisi, bu coğrafi koşullara uygun olarak tasarlanmış ve inşa edilmiştir. Turasan Bey Türbesi, ziyaretçilerine Ankara'nın coğrafi güzelliklerini ve tarihi zenginliklerini sunar.
+Turasan Bey Türbesi, Kahramankazan ilçesinde, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanın içerisinde yer alır. Bu yeşil alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar. Türbenin çevresinde, Ankara'nın karakteristik coğrafi özellikleri görülür. İç Anadolu Bölgesi'nin iklimi, türbenin bulunduğu alanda da hissedilir. Kışlar soğuk ve karlı, yazlar sıcak ve kurak geçer. Türbenin mimarisi, bu coğrafi koşullara uygun olarak tasarlanmış ve inşa edilmiştir. Turasan Bey Türbesi, ziyaretçilerine Ankara'nın coğrafi güzelliklerini ve tarihi zenginliklerini sunar.
 
 ## Flora ve Fauna
 

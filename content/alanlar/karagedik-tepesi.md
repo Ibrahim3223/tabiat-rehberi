@@ -36,7 +36,7 @@ Karagedik Tepesi'nin tarihi geçmişi, yüzyıllar boyunca pek çok medeniyete e
 
 ## Coğrafya
 
-Karagedik Tepesi, Adana'nın coğrafi olarak en dikkat çekici noktalarından biri. Tepenin zirvesinden, Akdeniz Bölgesi'nin geniş bir bölümünü görme mümkün. Etrafında yer alan dağlar ve vadiler, manzarayı daha da güzelleştiriyor. İklimi, Akdeniz ikliminin karakteristik özellikleri taşıyor: yazları sıca ve kurak, kışları ılık ve yağışlı. Bu coğrafi konum, Karagedik Tepesi'ni hem doğa severler hem de fotoğrafçılar için bir çekim noktası haline getiriyor.
+Karagedik Tepesi, Adana'nın coğrafi olarak en dikkat çekici noktalarından biri. Tepenin zirvesinden, Akdeniz Bölgesi'nin geniş bir bölümünü görme mümkün. Etrafında yer alan dağlar ve vadiler, manzarayı daha da güzelleştiriyor. İklimi, Akdeniz ikliminin karakteristik özellikleri taşıyor: yazları sıcak ve kurak, kışları ılık ve yağışlı. Bu coğrafi konum, Karagedik Tepesi'ni hem doğa severler hem de fotoğrafçılar için bir çekim noktası haline getiriyor.
 
 ## Flora ve Fauna
 

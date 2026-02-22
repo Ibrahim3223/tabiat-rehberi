@@ -44,7 +44,7 @@ Doğal güzellikleri keşfetmek isteyenler için Kapı Dağı, Balıkesir'in giz
 
 Jeolojik açıdan incelendiğinde, Kapı Dağı'nın coğrafi yapısı hakkında detaylı bilgi bulunmasa da, bu bölgenin Marmara Bölgesi'nin karmaşık jeolojisine dahil olduğu biliniyor. Bu bölgede, farklı jeolojik oluşumlar bir araya gelerek benzersiz bir coğrafi yapı oluşturuyor. Kapı Dağı, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor ve bu özelliği ile bölgenin önemli bir doğal oluşumu olarak öne çıkıyor.
 
-Mevsimsel değişikliklere bakıldığında, Kapı Dağı'nın iklim karakteri, bölgenin karakteristik Akdeniz ikliminin etkilerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakim. Bu mevsimsel özellikler, Kapı Dağı'nın flora ve fauna çeşitliliğini etkiliyor. Etrafındaki doğal kaynaklar ve su kaynakları, bu dağın ekosistem bağlantılarını güçlendiriyor ve biyolojik çeşitliliğini zenginleştiriyor.
+Mevsimsel değişikliklere bakıldığında, Kapı Dağı'nın iklim karakteri, bölgenin karakteristik Akdeniz ikliminin etkilerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakim. Bu mevsimsel özellikler, Kapı Dağı'nın flora ve fauna çeşitliliğini etkiliyor. Etrafındaki doğal kaynaklar ve su kaynakları, bu dağın ekosistem bağlantılarını güçlendiriyor ve biyolojik çeşitliliğini zenginleştiriyor.
 
 Çevresel açıdan bakıldığında, Kapı Dağı, bölgenin su kaynaklarına ve komşu alanlara önemli bir bağlantı noktası olarak görev yapıyor. Monaco'nun yaklaşık onda biri büyüklüğünde bir alanı kaplayan bu dağ, bölgenin ekolojik dengesini korumak için önemli bir rol üstleniyor. Bu doğal alan, bölgenin biyolojik çeşitliliğini destekleme ve korumak için önemli bir görev üstleniyor.
 

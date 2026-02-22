@@ -36,7 +36,7 @@ Gövdeli Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu böl
 
 ## Coğrafya
 
-Gövdeli Tepesi, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, genellikle bozkır ve step türünden bitki örtüsüne sahip. Gövdeli Tepesi'nin etrafı, çeşitli çayırlar ve ormanlık alanlarla çevrili. Burada, özellikle ilkbahar ve sonbahar aylarında, doğa gerçekten renklendiriyor. Tepenin yüksekliği, bölgenin diğer noktalarına göre daha yüksekte yer alıyor. Bu nedenle, Gövdeli Tepesi'nden, Kayseri'nin ve çevrenin panoramik manzarasını izleyebilirsiniz. İklim olarak, İç Anadolu Bölgesi'nin genel iklim şartlarına uygun. Kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor.
+Gövdeli Tepesi, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, genellikle bozkır ve step türünden bitki örtüsüne sahip. Gövdeli Tepesi'nin etrafı, çeşitli çayırlar ve ormanlık alanlarla çevrili. Burada, özellikle ilkbahar ve sonbahar aylarında, doğa gerçekten renklendiriyor. Tepenin yüksekliği, bölgenin diğer noktalarına göre daha yüksekte yer alıyor. Bu nedenle, Gövdeli Tepesi'nden, Kayseri'nin ve çevrenin panoramik manzarasını izleyebilirsiniz. İklim olarak, İç Anadolu Bölgesi'nin genel iklim şartlarına uygun. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor.
 
 ## Flora ve Fauna
 

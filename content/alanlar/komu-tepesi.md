@@ -36,7 +36,7 @@ Komu Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlere ev
 
 ## Coğrafya
 
-Komu Tepesi, Akdeniz Bölgesi'nde yer alan bir tepe ve önemli bir coğrafi oluşumdur. Bu tepe, yaklaşık yüksek bir konumdate ve etrafı ormanlarla çevrili. Tepenin etrafında, çeşitli bitki türleri ve zengin bir fauna bulunmakta. Bölge, iklim bakımından ılıman ve yazları sıcak, kışları soğuk passedir. Komu Tepesi, manzarasıyla da dikkat çekiyor. Buradan, Akdeniz Bölgesi'nin geniş bir alanını gözler önüne seren bir manzara izlenebiliyor. Ayrıca, tepe ve çevresinde, birçok yürüyüş ve trekking rotası bulunmakta.
+Komu Tepesi, Akdeniz Bölgesi'nde yer alan bir tepe ve önemli bir coğrafi oluşumdur. Bu tepe, yüksek bir konumda ve etrafı ormanlarla çevrili. Tepenin etrafında, çeşitli bitki türleri ve zengin bir fauna bulunmakta. Bölge, iklim bakımından ılıman ve yazları sıcak, kışları soğuk pasiftir. Komu Tepesi, manzarasıyla da dikkat çekiyor. Buradan, Akdeniz Bölgesi'nin geniş bir alanını gözler önüne seren bir manzara izlenebiliyor. Ayrıca, tepe ve çevresinde, birçok yürüyüş ve trekking rotası bulunmakta.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,7 @@ Komu Tepesi'ni ziyaret etmek, hem doğal güzellikleri hem de tarihi geçmişiyl
 
 ## İlginç Bilgiler
 
-- Komu Tepesi, yaklaşık yüksek bir konumdate
+- Komu Tepesi, yüksek bir konumda
 - Tepenin etrafı ormanlarla çevrili
 - Bölge, iklim bakımından ılıman
 - Komu Tepesi, manzarasıyla dikkat çekiyor

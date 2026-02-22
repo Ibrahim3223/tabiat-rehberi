@@ -37,7 +37,7 @@ Göz alabildiğine uzanan yeşillikler arasında, Akdağ Millî Parkı, Afyonkar
 
 Doğal güzelliğinin yanı sıra, parkın fiziksel yapısı da dikkat çekici. 14.678,287 hektarlık bu geniş alan, İstanbul'un Adalar ilçesi büyüklüğünde bir bölgeyi kaplıyor. Parkın topoğrafyası, yüksek dağlar ve vadilerle karakterize ediliyor. Bu dağlık arazi, parkın jeolojik yapısını şekillendiren önemli bir faktör olarak görülüyor.
 
-Mevsimsel değişimlerin yaşandığı bir bölge olan Akdağ Millî Parkı, iklim karakteri açısından da oldukça ilgi çekici. Park, karasal iklimin hakim olduğu bir bölgede yer alıyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hüküm sürüyor. Bu mevsimsel özellikler, parkın flora ve fauna çeşitliliğini şekillendiren önemli etkenler arasında yer alıyor.
+Mevsimsel değişimlerin yaşandığı bir bölge olan Akdağ Millî Parkı, iklim karakteri açısından da oldukça ilgi çekici. Park, karasal iklimin hakim olduğu bir bölgede yer alıyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hüküm sürüyor. Bu mevsimsel özellikler, parkın flora ve fauna çeşitliliğini şekillendiren önemli etkenler arasında yer alıyor.
 
 Çevresel açıdan bakıldığında, Akdağ Millî Parkı, komşu alanlar ve su kaynaklarıyla önemli bir ekosistem bağlantısı içinde bulunuyor. Park, bölgedeki su döngüsünü düzenleyen önemli bir rol oynuyor. Ayrıca, parkın bitki ve hayvan çeşitliliği, komşu ekosistemlerle etkileşim halinde ve bu etkileşim, bölgenin biyolojik zenginliğini koruyor. Bu doğal denge, parkın korunması ve yönetimi açısından büyük önem taşıyor.
 

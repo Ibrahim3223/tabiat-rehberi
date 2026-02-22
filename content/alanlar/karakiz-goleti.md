@@ -45,7 +45,7 @@ Mersin'in doğal güzelliklerinin arasında yer alan Karakız Göleti, 36.8486°
 
 Doğal bir oluşum olan Karakız Göleti, jeolojik olarak Mersin'in Toros Dağları'nın eteklerinde bulunmakta. Bu bölgede, kireçtaşı ve killi topraklar hakim, bu da göletin suyunun berra ve temiz olmasını sağlıyor. Göletin büyüklüğü, yaklaşık birkaç olimpik havuz kadar, ancak bu küçük alan, çevredeki flora ve fauna için önemli bir yaşam alanı oluşturuyor.
 
-İklim açısından, Karakız Göleti, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağmurlu bir hava hüküm sürüyor. Bu mevsimsel değişim, göletin su seviyesini ve çevresindeki bitki örtüsünü etkiliyor. Göletin suyu, özellikle ilkbahar ve sonbahar aylarında, çevredeki dağlardan gelen yağmur sularıyla besleniyor.
+İklim açısından, Karakız Göleti, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağmurlu bir hava hüküm sürüyor. Bu mevsimsel değişim, göletin su seviyesini ve çevresindeki bitki örtüsünü etkiliyor. Göletin suyu, özellikle ilkbahar ve sonbahar aylarında, çevredeki dağlardan gelen yağmur sularıyla besleniyor.
 
 Çevresel açıdan, Karakız Göleti, Mersin'in diğer doğal alanlarıyla bağlantılı. Gölet, çevredeki ormanlık alanlarla çevrili ve bu ormanlar, çeşitli kuş türleri ve küçük memelilerin yaşam alanı olarak hizmet ediyor. Ayrıca, göletin suyu, komşu tarım alanlarına sulama kaynağı olarak kullanılıyor. Bu şekilde, Karakız Göleti, Mersin'in ekosistemine önemli bir katkı sağlıyor ve bölgenin doğal dengesini koruyor.
 

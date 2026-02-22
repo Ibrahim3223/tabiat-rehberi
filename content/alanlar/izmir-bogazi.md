@@ -44,7 +44,7 @@ Bu tür doğal alanlar, sadece güzellikleri nedeniyle değil, aynı zamanda eko
 
 Doğal bir oluşum olan İzmir Boğazı, çevresindeki coğrafi yapılardan farklı bir jeolojik yapıya sahiptir. Ancak, fiziksel veri eksikliği nedeniyle boyutları hakkında net bir bilgi bulunmamaktadır. Bu bölgenin jeolojik yapısı, Ege Bölgesi'nin genel özelliklerini taşır ve volkanik kayalar ile sedimentler tarafından şekillenmiştir.
 
-İklim açısından bakıldığında, İzmir Boğazı'nın bulunduğu bölge, Akdeniz ikliminin karakteristik özelliklerini taşır. Bu bölgede, yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Mevsimsel değişiklikler, bu bölgenin flora ve fauna çeşitliliğini etkiler ve farklı türlerin yaşamını destekler.
+İklim açısından bakıldığında, İzmir Boğazı'nın bulunduğu bölge, Akdeniz ikliminin karakteristik özelliklerini taşır. Bu bölgede, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Mevsimsel değişiklikler, bu bölgenin flora ve fauna çeşitliliğini etkiler ve farklı türlerin yaşamını destekler.
 
 Çevresel açıdan, İzmir Boğazı, komşu alanlar ve su kaynakları ile önemli bir ekosistem bağlantısı içerisinde yer alır. Bu bölgenin doğal güzelliği, aynı zamanda çevresindeki sulak alanlar ve orman ekosistemleri ile de bağlantılıdır. İzmir Boğazı, bu nedenle, doğal koruma ve sürdürülebilirlik açısından önemli bir alan olarak görülmektedir.
 

@@ -36,7 +36,7 @@ Dikili Tepesi'nin tarihi geçmişi, yüzyıllar boyunca uzanan bir geçmişe sah
 
 ## Coğrafya
 
-Dikili Tepesi, İstanbul'un Marmara Bölgesi'nde yer alan bir tepe olarak coğrafi açıdan önemli bir konumda bulunuyor. Tepenin zirvesi, deniz seviyesinden yaklaşık yüksek bir konumdate ve bu yükseklik, ziyaretçilere geniş bir manzara sunuyor. Tepenin eteklerinde ve zirvesinde bulunan çeşitli bitki türleri, bu bölgeyi bir doğa cenneti haline getiriyor. Dikili Tepesi, aynı zamanda önemli bir su kaynaklarına sahip ve bu su kaynakları, bölgenin ekolojisini zenginleştirmektedir. Tepenin coğrafi yapısı, ziyaretçilere çeşitli gezi rotaları sunuyor ve bu rotalar, ziyaretçilere farklı doğa güzellikleri ve manzaralar sunuyor. Dikili Tepesi, aynı zamanda önemli bir iklim bölgesinde yer alıyor ve bu iklim, bölgenin flora ve faunasını zenginleştirmektedir.
+Dikili Tepesi, İstanbul'un Marmara Bölgesi'nde yer alan bir tepe olarak coğrafi açıdan önemli bir konumda bulunuyor. Tepenin zirvesi, yüksek bir konumda ve bu yükseklik, ziyaretçilere geniş bir manzara sunuyor. Tepenin eteklerinde ve zirvesinde bulunan çeşitli bitki türleri, bu bölgeyi bir doğa cenneti haline getiriyor. Dikili Tepesi, aynı zamanda önemli bir su kaynaklarına sahip ve bu su kaynakları, bölgenin ekolojisini zenginleştirmektedir. Tepenin coğrafi yapısı, ziyaretçilere çeşitli gezi rotaları sunuyor ve bu rotalar, ziyaretçilere farklı doğa güzellikleri ve manzaralar sunuyor. Dikili Tepesi, aynı zamanda önemli bir iklim bölgesinde yer alıyor ve bu iklim, bölgenin flora ve faunasını zenginleştirmektedir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Dikili Tepesi'ni ziyaret etmek, bir doğa ve tarih sever için ideal bir gezi de
 ## İlginç Bilgiler
 
 - Dikili Tepesi, 140 hektarlık bir alana sahip
-- Tepenin zirvesi, deniz seviyesinden yaklaşık yüksek bir konumdate
+- Tepenin zirvesi, yüksek bir konumda
 - Dikili Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - Tepenin eteklerinde ve zirvesinde bulunan tarihi kalıntılar, bir açık hava müzesi haline getiriyor
 - Dikili Tepesi, önemli bir su kaynağı ve iklim bölgesinde yer alıyor

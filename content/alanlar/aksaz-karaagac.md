@@ -30,7 +30,7 @@ Aksaz-Karaagac milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenm
 
 ## Coğrafya
 
-Aksaz-Karaagac milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir alanda yer alıyor. Bölge, geniş otlaklarla çevrili ve yüksek dağlarla kuşatılan bir vadide bulunuyor. Milli parkın coğrafyası, çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosistemi desteklemektedir. Aksaz-Karaagac'ın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir karakterdedir. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Milli parkın coğrafi konumu ve iklimi, ziyaretçilere dört mevsim farklı güzellikler sunar. Aksaz-Karaagac, coğrafi güzelliği ve zengin fauna çeşitliliğiyle ziyaretçilerini cezbediyor.
+Aksaz-Karaagac milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir alanda yer alıyor. Bölge, geniş otlaklarla çevrili ve yüksek dağlarla kuşatılan bir vadide bulunuyor. Milli parkın coğrafyası, çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosistemi desteklemektedir. Aksaz-Karaagac'ın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir karakterdedir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Milli parkın coğrafi konumu ve iklimi, ziyaretçilere dört mevsim farklı güzellikler sunar. Aksaz-Karaagac, coğrafi güzelliği ve zengin fauna çeşitliliğiyle ziyaretçilerini cezbediyor.
 
 ## Flora ve Fauna
 

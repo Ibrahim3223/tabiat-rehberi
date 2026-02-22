@@ -36,7 +36,7 @@ Kırıntılı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Kırıntılı Tepesi, Kayseri'nin coğrafi yapısı içinde önemli bir yer tutuyor. Bu tepe, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Tepenin etrafı, çeşitli bitki türleri ile kaplı ve fauna açısından zengin bir bölge. İklim, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kuru passing. Kırıntılı Tepesi, bu coğrafi ve iklimsel koşullar nedeniyle, çeşitli canlı türleri için uygun bir yaşam alanı sunuyor. Tepenin yüksekliği, manzarası ve çevresi, ziyaretçilere geniş bir görünüm ve doğal güzellikler sunuyor. Kırıntılı Tepesi, coğrafi konumu itibariyle, hem doğa severler hem de coğrafya tutkunları için önemli bir destinasyon.
+Kırıntılı Tepesi, Kayseri'nin coğrafi yapısı içinde önemli bir yer tutuyor. Bu tepe, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Tepenin etrafı, çeşitli bitki türleri ile kaplı ve fauna açısından zengin bir bölge. İklim, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kuru passing. Kırıntılı Tepesi, bu coğrafi ve iklimsel koşullar nedeniyle, çeşitli canlı türleri için uygun bir yaşam alanı sunuyor. Tepenin yüksekliği, manzarası ve çevresi, ziyaretçilere geniş bir görünüm ve doğal güzellikler sunuyor. Kırıntılı Tepesi, coğrafi konumu itibariyle, hem doğa severler hem de coğrafya tutkunları için önemli bir destinasyon.
 
 ## Flora ve Fauna
 

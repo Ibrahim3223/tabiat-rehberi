@@ -37,7 +37,7 @@ wikidata_id: "Q131391710"
 
 ## Coğrafya
 
-Şeyh Abdurrahman Erzincani Türbesi, Adıyaman ilinin merkezinde yer alır ve Güneydoğu Anadolu Bölgesi'nin önemli bir parçasıdır. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunar. Türbenin yanında bulunan plaj, ziyaretçilerin dinlenebileceği ve doğayı keşfedebileceği bir alandır. Plajın yanında yer alan dağlar ve ormanlar, bölgenin doğal güzelliklerini sergiler. İklim, genellikle sıca ve kurudur, ancak bölgenin yüksek rakımı nedeniyle bazı mevsimlerde serin olabilir. Bölgenin coğrafi özellikleri, ziyaretçilerin farklı deneyimler yaşayabilmesini sağlar. Türbenin ve plajın yakınında bulunan diğer tarihi ve kültürel yerler, ziyaretçilerin bölgenin zengin kültürel mirasını keşfetmesine olanak tanır.
+Şeyh Abdurrahman Erzincani Türbesi, Adıyaman ilinin merkezinde yer alır ve Güneydoğu Anadolu Bölgesi'nin önemli bir parçasıdır. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunar. Türbenin yanında bulunan plaj, ziyaretçilerin dinlenebileceği ve doğayı keşfedebileceği bir alandır. Plajın yanında yer alan dağlar ve ormanlar, bölgenin doğal güzelliklerini sergiler. İklim, genellikle sıcak ve kurudur, ancak bölgenin yüksek rakımı nedeniyle bazı mevsimlerde serin olabilir. Bölgenin coğrafi özellikleri, ziyaretçilerin farklı deneyimler yaşayabilmesini sağlar. Türbenin ve plajın yakınında bulunan diğer tarihi ve kültürel yerler, ziyaretçilerin bölgenin zengin kültürel mirasını keşfetmesine olanak tanır.
 
 ## Flora ve Fauna
 

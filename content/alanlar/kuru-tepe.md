@@ -44,7 +44,7 @@ Güneybatı Anadolu'nun doğal güzelliklerine ev sahipliği yapan Isparta ilini
 
 Doğal bir oluşum olarak Kuru Tepe, Isparta ilinin coğrafi yapısını etkileyen önemli bir faktördür. Ancak, ayrıntılı fiziksel verilerin olmaması nedeniyle, boyutları ve şekli hakkında net bir bilgiye sahip değiliz. Buna karşın, coğrafi konumuna bakıldığında, Isparta ilinin toplam yüzölçümünün önemli bir kısmını kapladığı söylenebilir.
 
-İklim açısından bakıldığında, Kuru Tepe'nin bulunduğu bölge, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörlerdir.
+İklim açısından bakıldığında, Kuru Tepe'nin bulunduğu bölge, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörlerdir.
 
 Çevresel açıdan bakıldığında, Kuru Tepe, Isparta ilinin doğal ekosistemine önemli katkılar sağlar. İldeki su kaynaklarının oluşumunda ve akışında etkili olan bu dağ, aynı zamanda bölgenin biyolojik çeşitliliğini destekleyen önemli bir faktördür. Isparta ilinin coğrafi yapısını tamamlayan Kuru Tepe, doğal güzelliklerin korunması ve sürdürülmesi açısından önemli bir role sahiptir.
 

@@ -36,11 +36,11 @@ Koyaklarüstü Tepesi'nin tarihi geçmişi, bölgenin tarihi ile iç içe geçiy
 
 ## Coğrafya
 
-Koyaklarüstü Tepesi, Diyarbakır ilinin coğrafi yapısını anlamak için önemli bir nokta. Tepenin yüksekliği ve genişliği, bölgenin iklimini ve yaban hayatını etkiliyor. Tepenin etrafında, çeşitli bitki türleri ve yaban hayatı bulunabiliyor. Bölgenin iklimi, genellikle sıca ve kurak. Ancak, Koyaklarüstü Tepesi'nin yüksekliği, iklimi biraz daha ılıman hale getiriyor. Tepenin etrafında, çeşitli su kaynakları bulunabiliyor. Bu su kaynakları, bölgenin yaban hayatını desteklemekte önemli bir rol oynuyor. Koyaklarüstü Tepesi, bölgenin coğrafi yapısını anlamak için önemli bir nokta.
+Koyaklarüstü Tepesi, Diyarbakır ilinin coğrafi yapısını anlamak için önemli bir nokta. Tepenin yüksekliği ve genişliği, bölgenin iklimini ve yaban hayatını etkiliyor. Tepenin etrafında, çeşitli bitki türleri ve yaban hayatı bulunabiliyor. Bölgenin iklimi, genellikle sıcak ve kurak. Ancak, Koyaklarüstü Tepesi'nin yüksekliği, iklimi biraz daha ılıman hale getiriyor. Tepenin etrafında, çeşitli su kaynakları bulunabiliyor. Bu su kaynakları, bölgenin yaban hayatını desteklemekte önemli bir rol oynuyor. Koyaklarüstü Tepesi, bölgenin coğrafi yapısını anlamak için önemli bir nokta.
 
 ## Flora ve Fauna
 
-Koyaklarüstü Tepesi'nin etrafında, çeşitli bitki türleri ve yaban hayatı bulunabiliyor. Bölgenin iklimi, genellikle sıca ve kurak. Ancak, Koyaklarüstü Tepesi'nin yüksekliği, iklimi biraz daha ılıman hale getiriyor. Bu nedenle, tepenin etrafında, çeşitli bitki türleri yetişebiliyor. Bölgenin yaban hayatı, genellikle step ve çöl hayvanlarından oluşuyor. Ancak, Koyaklarüstü Tepesi'nin etrafında, çeşitli kuş türleri ve memeliler de bulunabiliyor. Tepenin yüksekliği, yaban hayatının çeşitliliğini artırıyor.
+Koyaklarüstü Tepesi'nin etrafında, çeşitli bitki türleri ve yaban hayatı bulunabiliyor. Bölgenin iklimi, genellikle sıcak ve kurak. Ancak, Koyaklarüstü Tepesi'nin yüksekliği, iklimi biraz daha ılıman hale getiriyor. Bu nedenle, tepenin etrafında, çeşitli bitki türleri yetişebiliyor. Bölgenin yaban hayatı, genellikle step ve çöl hayvanlarından oluşuyor. Ancak, Koyaklarüstü Tepesi'nin etrafında, çeşitli kuş türleri ve memeliler de bulunabiliyor. Tepenin yüksekliği, yaban hayatının çeşitliliğini artırıyor.
 
 ## Ziyaret Bilgileri
 
@@ -50,6 +50,6 @@ Koyaklarüstü Tepesi'ni ziyaret etmek, bölge hakkında derin bilgiler edinmek 
 
 - Koyaklarüstü Tepesi, Diyarbakır ilinin sınırları içerisinde yer alıyor.
 - Tepenin yüksekliği ve genişliği, bölgenin iklimini ve yaban hayatını etkiliyor.
-- Bölgenin iklimi, genellikle sıca ve kurak.
+- Bölgenin iklimi, genellikle sıcak ve kurak.
 - Koyaklarüstü Tepesi'nin etrafında, çeşitli bitki türleri ve yaban hayatı bulunabiliyor.
 - Tepenin etrafında, tarihi eserler ve kalıntılar bulunabiliyor.

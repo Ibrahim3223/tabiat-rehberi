@@ -31,7 +31,7 @@ BALÇOVA TERAPİ'nin tarihi geçmişi, yüzyıllar boyunca süregelmiştir. Bu b
 
 ## Coğrafya
 
-BALÇOVA TERAPİ, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici bölgelerinden birisidir. Park, 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile dolu. Parkın coğrafi yapısı, ziyaretçilere doğa yürüyüşleri, piknik alanları ve çevreyi keşfetmek için ideal bir ortam sunuyor. BALÇOVA TERAPİ, İç Anadolu Bölgesi'nin iklimine uygun olarak, yazları sıca ve kışları soğuk bir iklime sahiptir. Parkın çevresi, birçok doğal güzelliğe ev sahipliği yapmakta ve ziyaretçilere geniş bir faaliyet yelpazesi sunuyor.
+BALÇOVA TERAPİ, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici bölgelerinden birisidir. Park, 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile dolu. Parkın coğrafi yapısı, ziyaretçilere doğa yürüyüşleri, piknik alanları ve çevreyi keşfetmek için ideal bir ortam sunuyor. BALÇOVA TERAPİ, İç Anadolu Bölgesi'nin iklimine uygun olarak, yazları sıcak ve kışları soğuk bir iklime sahiptir. Parkın çevresi, birçok doğal güzelliğe ev sahipliği yapmakta ve ziyaretçilere geniş bir faaliyet yelpazesi sunuyor.
 
 ## Flora ve Fauna
 

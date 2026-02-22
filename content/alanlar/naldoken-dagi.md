@@ -42,7 +42,7 @@ Marmara Bölgesi'nin güzide şehirlerinden biri olan Bursa, doğal güzellikler
 
 Doğal güzelliği ve coğrafi yapısıyla dikkat çeken Naldöken Dağı, bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu küçük ama önemli bir alan, bölgenin jeolojik yapısını anlamak için önemli bir noktadır. Naldöken Dağı, çevresindeki diğer dağlarla birlikte Bursa'nın dağlık coğrafyasını şekillendirmiş ve bu bölgeye özgü bir karakter kazandırmıştır.
 
-Marmara Bölgesi'nin iklim karakteri, Naldöken Dağı'nın bulunduğu bölgede de kendini gösterir. Bu bölgede, karasal iklimin etkileri göze çarpar ve mevsimsel değişimler belirgindir. Kış aylarında kar yağışı ve soğuk hava, yaz aylarında ise sıca ve nemli bir hava hakim olur. Bu iklim koşulları, Naldöken Dağı'nın çevresindeki bitki örtüsünü ve vahşi yaşamını etkiler.
+Marmara Bölgesi'nin iklim karakteri, Naldöken Dağı'nın bulunduğu bölgede de kendini gösterir. Bu bölgede, karasal iklimin etkileri göze çarpar ve mevsimsel değişimler belirgindir. Kış aylarında kar yağışı ve soğuk hava, yaz aylarında ise sıcak ve nemli bir hava hakim olur. Bu iklim koşulları, Naldöken Dağı'nın çevresindeki bitki örtüsünü ve vahşi yaşamını etkiler.
 
 Naldöken Dağı, çevresindeki diğer coğrafi oluşumlarla birlikte bir ekosistem oluşturur. Bu dağ, su kaynaklarının oluşumunda ve bölgenin su dengesinde önemli bir role sahiptir. Ayrıca, Naldöken Dağı, komşu alanlarla bağlantılı bir şekilde, bölgenin biyolojik çeşitliliğini destekler ve vahşi yaşamın korunmasına katkı sağlar. Bu açıdan, Naldöken Dağı, Bursa'nın doğal mirasının önemli bir parçasıdır.
 

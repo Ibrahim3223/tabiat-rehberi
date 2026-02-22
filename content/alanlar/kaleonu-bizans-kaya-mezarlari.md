@@ -37,7 +37,7 @@ Kaleönü Bizans Kaya Mezarları, tarihi geçmişi ile dikkat çekiyor. Bu kaya 
 
 ## Coğrafya
 
-Kaleönü Bizans Kaya Mezarları, coğrafi konumu itibariyle de dikkat çekiyor. Ayrancı ilçesinde, Karaman'ın merkezine uzun bir mesafe uzaklıkta yer alan bu bölge, doğal güzellikleri ile ziyaretçilerini etkileyen bir destinasyon. 140 hektarlık bir alanda, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak karşımıza çıkan Kaleönü Bizans Kaya Mezarları, ziyaretçilerine hem tarihi bir yolculuk hem de doğal bir güzellik sunuyor. Bu bölgenin coğrafyası, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Genellikle step iklimi hakim olan bu bölgede, yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlı geçiyor. Kaleönü Bizans Kaya Mezarları, coğrafi konumu ve doğal güzellikleri ile ziyaretçilerini bir keşif yolculuğuna çıkarıyor.
+Kaleönü Bizans Kaya Mezarları, coğrafi konumu itibariyle de dikkat çekiyor. Ayrancı ilçesinde, Karaman'ın merkezine uzun bir mesafe uzaklıkta yer alan bu bölge, doğal güzellikleri ile ziyaretçilerini etkileyen bir destinasyon. 140 hektarlık bir alanda, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak karşımıza çıkan Kaleönü Bizans Kaya Mezarları, ziyaretçilerine hem tarihi bir yolculuk hem de doğal bir güzellik sunuyor. Bu bölgenin coğrafyası, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Genellikle step iklimi hakim olan bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçiyor. Kaleönü Bizans Kaya Mezarları, coğrafi konumu ve doğal güzellikleri ile ziyaretçilerini bir keşif yolculuğuna çıkarıyor.
 
 ## Flora ve Fauna
 

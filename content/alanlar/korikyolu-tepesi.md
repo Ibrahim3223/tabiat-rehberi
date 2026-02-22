@@ -36,7 +36,7 @@ Körikyolu Tepesi'nin tarihi geçmişi, bölgenin yerleşim tarihi ile paralel o
 
 ## Coğrafya
 
-Körikyolu Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını şekillendiren önemli bir nokta. Bu tepe, Batman ilinin sınırları içerisinde yer alıyor. Tepenin etrafında çeşitli bitki türleri ve fauna yer alıyor. Bölgenin iklimi, genellikle sıca ve kurak olarak tanımlanıyor. Körikyolu Tepesi, bölgenin coğrafi yapısını şekillendiren önemli bir nokta olarak, bu bölgenin doğal güzelliğini vurguluyor. Tepenin yüksekliği ve konumu, bölgenin coğrafi yapısını etkileyen önemli faktörler arasında yer alıyor. Körikyolu Tepesi'nin coğrafi konumu, bölgenin yerleşim tarihi ile paralel olarak gelişiyor.
+Körikyolu Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını şekillendiren önemli bir nokta. Bu tepe, Batman ilinin sınırları içerisinde yer alıyor. Tepenin etrafında çeşitli bitki türleri ve fauna yer alıyor. Bölgenin iklimi, genellikle sıcak ve kurak olarak tanımlanıyor. Körikyolu Tepesi, bölgenin coğrafi yapısını şekillendiren önemli bir nokta olarak, bu bölgenin doğal güzelliğini vurguluyor. Tepenin yüksekliği ve konumu, bölgenin coğrafi yapısını etkileyen önemli faktörler arasında yer alıyor. Körikyolu Tepesi'nin coğrafi konumu, bölgenin yerleşim tarihi ile paralel olarak gelişiyor.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ Körikyolu Tepesi'ni ziyaret etmek, bölgenin doğal güzelliğini ve coğrafi y
 
 - Körikyolu Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi noktalarından biri
 - Tepenin etrafında çeşitli bitki türleri ve fauna yer alıyor
-- Bölgenin iklimi, genellikle sıca ve kurak olarak tanımlanıyor
+- Bölgenin iklimi, genellikle sıcak ve kurak olarak tanımlanıyor
 - Körikyolu Tepesi, bölgenin coğrafi yapısını şekillendiren önemli bir nokta
 - Tepenin yüksekliği ve konumu, bölgenin coğrafi yapısını etkileyen önemli faktörler

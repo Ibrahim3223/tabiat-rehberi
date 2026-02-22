@@ -31,7 +31,7 @@ Nıksar milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Nıksar milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak ilgi çekici bir bölgesinde bulunur. Parkın coğrafyası, çeşitli dağlar, vadiler ve ovalardan oluşur. Bu coğrafi çeşitlilik, parkın ekosistemini zenginleştirir. Nıksar milli parkı, yaklaşık 140 hektarlık bir alanı kapsar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı ifade eder. Parkın coğrafyası, ziyaretçilerin kolayca gezebileceği bir şekilde düzenlenmiştir. Parkta, çeşitli patikalar ve yürüyüş yolları bulunur. Nıksar milli parkının iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Parkın iklimi, yazları sıca ve kurak, kışları soğu ve karlıdır. Bu iklim, parkın flora ve fauna çeşitliliğini etkiler.
+Nıksar milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak ilgi çekici bir bölgesinde bulunur. Parkın coğrafyası, çeşitli dağlar, vadiler ve ovalardan oluşur. Bu coğrafi çeşitlilik, parkın ekosistemini zenginleştirir. Nıksar milli parkı, yaklaşık 140 hektarlık bir alanı kapsar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı ifade eder. Parkın coğrafyası, ziyaretçilerin kolayca gezebileceği bir şekilde düzenlenmiştir. Parkta, çeşitli patikalar ve yürüyüş yolları bulunur. Nıksar milli parkının iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Parkın iklimi, yazları sıcak ve kurak, kışları soğuk ve karlıdır. Bu iklim, parkın flora ve fauna çeşitliliğini etkiler.
 
 ## Flora ve Fauna
 

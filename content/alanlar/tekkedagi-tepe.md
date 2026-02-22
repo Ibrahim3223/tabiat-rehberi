@@ -44,7 +44,7 @@ Gözlerimizi Ege Bölgesi'ne çevirdiğimizde, 38.3182°K, 27.0070°D koordinatl
 
 Doğal güzellikleri ve coğrafi özellikleriyle dikkat çeken Tekkedağı Tepe, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu küçük ama önemli alan, bölgenin jeolojik yapısını anlamak için önemli bir örnek olarak gösterilebilir. Ancak, fiziksel veri eksikliği nedeniyle tepe hakkında dahalı bilgi verme mümkün değildir.
 
-İklim koşulları açısından bakıldığında, Tekkedağı Tepe'nin bulunduğu bölge Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ılık ve yağışlı bir hava durumu hakimdir. Bu mevsimsel değişimler, tepe ve çevresindeki bitki örtüsünü ve vahşi yaşamı etkiler.
+İklim koşulları açısından bakıldığında, Tekkedağı Tepe'nin bulunduğu bölge Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ılık ve yağışlı bir hava durumu hakimdir. Bu mevsimsel değişimler, tepe ve çevresindeki bitki örtüsünü ve vahşi yaşamı etkiler.
 
 Çevresel açıdan bakıldığında, Tekkedağı Tepe, komşu alanlar ve su kaynaklarıyla önemli bir bağlantıyı sağlar. Bölgedeki ekosistem, tepe ve çevresindeki doğal kaynakların korunmasına bağlıdır. Monaco'nun küçük bir bölümü kadar olan bu alan, bölgenin doğal dengesini korumak için önemli bir rol oynar.
 

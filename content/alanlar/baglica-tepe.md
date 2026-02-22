@@ -36,7 +36,7 @@ Bağlıca Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenerek bugünkü
 
 ## Coğrafya
 
-Bağlıca Tepe, Mersin'in coğrafi yapısını oluşturan önemli bir bölgedir. Bu tepe, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyan bir coğrafi yapıya sahiptir. İklimi, tipik Akdeniz ikliminin özelliklerini gösteren Bağlıca Tepe, sıca ve kurak yazlar ile ılıman kışlar ile ziyaretçilerini ağırlar. Çevresinde, çeşitli bitki türleri ve fauna bulunması, bu tepeyi doğa severlerin ziyaret etmek isteyeceği bir nokta haline getirir. Bağlıca Tepe, Mersin'in coğrafi zenginliklerinin önemli bir parçasıdır ve ziyaretçilerine doğanın güzelliklerini sunar.
+Bağlıca Tepe, Mersin'in coğrafi yapısını oluşturan önemli bir bölgedir. Bu tepe, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyan bir coğrafi yapıya sahiptir. İklimi, tipik Akdeniz ikliminin özelliklerini gösteren Bağlıca Tepe, sıcak ve kurak yazlar ile ılıman kışlar ile ziyaretçilerini ağırlar. Çevresinde, çeşitli bitki türleri ve fauna bulunması, bu tepeyi doğa severlerin ziyaret etmek isteyeceği bir nokta haline getirir. Bağlıca Tepe, Mersin'in coğrafi zenginliklerinin önemli bir parçasıdır ve ziyaretçilerine doğanın güzelliklerini sunar.
 
 ## Flora ve Fauna
 

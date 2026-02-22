@@ -30,7 +30,7 @@ Kayseri-Develi-Toros Goknari milli parkının tarihi geçmişi, yüzyıllar önc
 
 ## Coğrafya
 
-Kayseri-Develi-Toros Goknari milli parkı, coğrafi olarak quite dikkat çekici bir konumda yer alıyor. Toros Dağları'nın eteklerinde kurulu olan milli park, 140 hektarlık geniş bir alana yayılmış durumda. Milli parkın coğrafyası, dağlık araziler, ormanlık alanlar ve çeşitli bitki türleriyle çeşitlilik gösteriyor. Ayrıca, milli parkın iklimi, İç Anadolu Bölgesi'nin karasal iklimine uygun olarak kuru ve soğuk kışlar, sıca ve kurak yazlar şeklinde karakterize ediliyor. Milli parkın çevresi, diğer doğal güzelliklerle ve tarihi mekanlarla çevrili olduğu için, ziyaretçilere geniş bir gezi ve keşif alanı sunuyor.
+Kayseri-Develi-Toros Goknari milli parkı, coğrafi olarak quite dikkat çekici bir konumda yer alıyor. Toros Dağları'nın eteklerinde kurulu olan milli park, 140 hektarlık geniş bir alana yayılmış durumda. Milli parkın coğrafyası, dağlık araziler, ormanlık alanlar ve çeşitli bitki türleriyle çeşitlilik gösteriyor. Ayrıca, milli parkın iklimi, İç Anadolu Bölgesi'nin karasal iklimine uygun olarak kuru ve soğuk kışlar, sıcak ve kurak yazlar şeklinde karakterize ediliyor. Milli parkın çevresi, diğer doğal güzelliklerle ve tarihi mekanlarla çevrili olduğu için, ziyaretçilere geniş bir gezi ve keşif alanı sunuyor.
 
 ## Flora ve Fauna
 

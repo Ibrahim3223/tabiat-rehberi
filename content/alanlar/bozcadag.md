@@ -42,7 +42,7 @@ Güneybatı Anadolu'nun en güzel köşelerinden biri olan Bozcadağ, Muğla'nı
 
 Doğal güzellikleri ve coğrafi yapısıyla dikkat çeken Bozcadağ, bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Dağın şekli, bölgenin jeolojik yapısını yansıtan bir forma sahip. Ancak, detailed fiziksel verilerin olmaması, dağın tam boyutlarını ve şeklini tam olarak belirlememizi engelliyor. Buna rağmen, Bozcadağ'ın bir tepe gibi yükselen yapısı, bölgenin coğrafi çeşitliliğini gösteriyor.
 
-Mevsimsel özelliklere bakıldığında, Bozcadağ'ın iklim karakteri, bölgenin genel iklim yapısına uygun olarak değişiyor. Kış aylarında soğu ve yağışlı bir hava hakimken, yaz aylarında sıca ve kurak bir iklim hüküm sürüyor. Bu mevsimsel değişimler, bölgenin flora ve fauna yapısını da etkiliyor. Bozcadağ'ın eteklerinde yer alan ormanlar, bu iklim karakterine uygun olarak gelişmiş ve çeşitli bitki türlerini barındırıyor.
+Mevsimsel özelliklere bakıldığında, Bozcadağ'ın iklim karakteri, bölgenin genel iklim yapısına uygun olarak değişiyor. Kış aylarında soğuk ve yağışlı bir hava hakimken, yaz aylarında sıcak ve kurak bir iklim hüküm sürüyor. Bu mevsimsel değişimler, bölgenin flora ve fauna yapısını da etkiliyor. Bozcadağ'ın eteklerinde yer alan ormanlar, bu iklim karakterine uygun olarak gelişmiş ve çeşitli bitki türlerini barındırıyor.
 
 Bölgenin su kaynaklarına bakıldığında, Bozcadağ'ın çevresinde beberapa dere ve çay encontrado. Bu su kaynakları, bölgenin ekosistemine canlılık kazandırıyor ve çeşitli canlı türlerinin yaşamasına olanak tanıyor. Bozcadağ, komşu alanlarla birlikte bir bütün olarak düşünüldüğünde, bölgenin coğrafi ve çevresel yapısını tamamlayan önemli bir parça olarak görülüyor.
 

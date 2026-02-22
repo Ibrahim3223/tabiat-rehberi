@@ -41,7 +41,7 @@ Güneşin battığı noktalardan biri olan Arap Adası, Muğla'nın sınırları
 
 Doğal güzellikleri ile dikkat çeken Arap Adası, çevresindeki adalar ile benzerlik gösteriyor. Birkaç olimpik havuz kadar küçük bir alanda yer alan ada, jeolojik olarak da ilgi çekici özellikler barındırıyor. Ada çevresinde yer alan su kaynakları, bölgenin ekosistemini destekleyen önemli faktörlerden biri.
 
-İklimsel olarak bakıldığında, Arap Adası'nın mevsimsel özelliklerini incelemek gerekiyor. Ada, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakim. Bu mevsimsel değişimler, ada çevresindeki su kaynakları ve ekosistemi etkiliyor.
+İklimsel olarak bakıldığında, Arap Adası'nın mevsimsel özelliklerini incelemek gerekiyor. Ada, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakim. Bu mevsimsel değişimler, ada çevresindeki su kaynakları ve ekosistemi etkiliyor.
 
 Ada çevresindeki sularda yer alan canlılar, bölgenin biyolojik çeşitliliğini zenginleştiriyor. Çevresel açıdan önemli bir nokta olan ada, komşu alanlar ile birlikte bir bütünü oluşturuyor. Monaco'nun küçük bir bölümü kadar büyük olan bu ada, kendi içinde bir ekosistem oluşturuyor ve bölgenin doğal dengesini koruyor.
 

@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Katranlıdağ, Gaziantep'in c
 
 Doğal güzellikleri ve coğrafi özellikleri ile dikkat çeken Katranlıdağ, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu büyüklük, Taksim Meydanı'nın birkaç katı kadar bir alanı ifade ediyor. Jeolojik açıdan bakıldığında, Katranlıdağ'ın bölgenin tektonik hareketleri ile şekillendiği anlaşılıyor. Ancak detalı fiziksel verilerin ı, bu konuda daha derin bir analiz yapılmasını engelleyici bir faktör.
 
-Mevsimsel olarak bakıldığında, Katranlıdağ'ın iklimi Güneydoğu Anadolu Bölgesi'nin karakteristik özellikleri gösteriyor. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir hava hakim. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler. Hava durumu ise, bölgenin coğrafi konumu ve yüksekliği nedeniyle değişkenlik gösterebiliyor.
+Mevsimsel olarak bakıldığında, Katranlıdağ'ın iklimi Güneydoğu Anadolu Bölgesi'nin karakteristik özellikleri gösteriyor. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir hava hakim. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler. Hava durumu ise, bölgenin coğrafi konumu ve yüksekliği nedeniyle değişkenlik gösterebiliyor.
 
 Bölgenin ekosistem bağlantıları açısından bakıldığında, Katranlıdağ'ın komşu alanlar ve su kaynakları ile önemli bir ilişkiye sahip olduğu görülüyor. Çevresindeki diğer coğrafi oluşumlar ile birlikte, bir bütün olarak düşünüldüğünde, Katranlıdağ'ın bölgenin doğal dengesini sağlayan önemli bir bileşen olduğu anlaşılıyor. Monaco'nun küçük bir bölümü kadar bir alanı kaplayan bu dağ, bölgenin doğal güzelliklerini koruma altına almak için önemli bir role sahip.
 

@@ -37,7 +37,7 @@ Melikşah Köyü Taş Hamamı, tarihi geçmişi ile dikkat çekiyor. Köyün tar
 
 ## Coğrafya
 
-Melikşah Köyü Taş Hamamı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Köy, Ankara'nın Çubuk ilçesinde, şehrin merkezine uzun bir mesafe uzaklıkta bulunuyor. Köyün coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunuyor. Hamamın etrafında, köylülerin evleri, tarihi yapılar ve tarım alanları bulunuyor. Köyde, çeşitli bitkiler ve ağaçlar yetişiyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Melikşah Köyü Taş Hamamı, bu coğrafi özellikler içinde, ziyaretçilerine doğal bir atmosfer sunuyor. Köyün coğrafi konumu, aynı zamanda, ziyaretçilere birçok gezi imkânı sunuyor. Köyün etrafında, tarihi yapılar, doğal güzellikler ve tarım alanları bulunuyor.
+Melikşah Köyü Taş Hamamı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Köy, Ankara'nın Çubuk ilçesinde, şehrin merkezine uzun bir mesafe uzaklıkta bulunuyor. Köyün coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunuyor. Hamamın etrafında, köylülerin evleri, tarihi yapılar ve tarım alanları bulunuyor. Köyde, çeşitli bitkiler ve ağaçlar yetişiyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Melikşah Köyü Taş Hamamı, bu coğrafi özellikler içinde, ziyaretçilerine doğal bir atmosfer sunuyor. Köyün coğrafi konumu, aynı zamanda, ziyaretçilere birçok gezi imkânı sunuyor. Köyün etrafında, tarihi yapılar, doğal güzellikler ve tarım alanları bulunuyor.
 
 ## Flora ve Fauna
 

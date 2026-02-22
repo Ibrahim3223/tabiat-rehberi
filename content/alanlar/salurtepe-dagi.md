@@ -43,7 +43,7 @@ Güneybatı Anadolu'nun dağlık kesiminde yer alan Salurtepe Dağı, 36.7850°K
 
 Jeolojik olarak incelendiğinde, Salurtepe Dağı'nın precise boyutları hakkında detaylı bilgi bulunmasa da, genel olarak Türkiye'nin dağlık yapısına uygun bir şekilde oluştuğu söylenebilir. Dağın yüksekliği ve genişliği, çevresindeki diğer dağlarla benzerlik gösteriyor. Örneğin, bir şehir bloğu büyüklüğünde bir alan kaplayan bu dağ, çevresindeki diğer coğrafi oluşumlarla birlikte bir bütün oluşturuyor.
 
-Mevsimsel özelliklere bakıldığında, Salurtepe Dağı'nın iklimi, Akdeniz ikliminin etkisinde kalıyor. Kış aylarında ılıman, yaz aylarında ise sıca ve kurak bir hava durumu hakim. Bu iklim özelliği, dağın flora ve fauna çeşitliliğini etkiliyor. Örneğin, dağın eteklerinde yetişen bitki türleri, kuraklığa dayanıklı türlerden oluşuyor.
+Mevsimsel özelliklere bakıldığında, Salurtepe Dağı'nın iklimi, Akdeniz ikliminin etkisinde kalıyor. Kış aylarında ılıman, yaz aylarında ise sıcak ve kurak bir hava durumu hakim. Bu iklim özelliği, dağın flora ve fauna çeşitliliğini etkiliyor. Örneğin, dağın eteklerinde yetişen bitki türleri, kuraklığa dayanıklı türlerden oluşuyor.
 
 Çevresel açıdan bakıldığında, Salurtepe Dağı, komşu alanlarla birlikte bir ekosistem oluşturuyor. Dağın yakınında bulunan su kaynakları, dağdan inen dereler ve akarsular, bölgenin su döngüsünü etkiliyor. Örneğin, dağdan inen bir derenin, yakınlardaki bir göl veya nehre dökülmesi, bölgenin su kaynaklarının devamlılığını sağlıyor. Bu nedenle, Salurtepe Dağı, bölgenin ekolojik dengesini koruma açısından önemli bir rol oynuyor.
 

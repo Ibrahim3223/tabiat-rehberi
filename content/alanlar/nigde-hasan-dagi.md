@@ -43,7 +43,7 @@ Türkiye'de doğal alanlar, tarihin her döneminde önemli bir role sahip olmuş
 
 Doğal güzelliği ve jeolojik yapısıyla dikkat çeken Niğde Hasan Dağı, yaklaşık olarak 1200 hektarlık bir alanı kaplamaktadır. Bu büyüklük, Monaco'nun yarısı kadar bir alanı kaplayan bir yeşil cennete benzemektedir. Dağın şekli ve boyutları, bölgenin jeolojik geçmişine ışık tutmaktadır. Ancak, detaylı fiziksel verilerin eksikliği, bu konuda daha derin bir analiz yapmayı zorlaştırmaktadır.
 
-Mevsimsel özelliklerine bakıldığında, Niğde Hasan Dağı, İç Anadolu'nun karasal ikliminin etkilerini göstermektedir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı zirveleri, bölgenin yükseklik farklılıklarını göstermektedir.
+Mevsimsel özelliklerine bakıldığında, Niğde Hasan Dağı, İç Anadolu'nun karasal ikliminin etkilerini göstermektedir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı zirveleri, bölgenin yükseklik farklılıklarını göstermektedir.
 
 Bölgenin çevresel ilişkileri, komşu alanlar ve su kaynakları açısından önemlidir. Hasan Dağı, çevresindeki ovalar ve steplerle birlikte bir ekosistem bütünü oluşturmaktadır. Bölgedeki su kaynakları, yeraltı suları ve mevsimsel akarsularla sağlanmaktadır. İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplayan bu bölge, doğal kaynakların korunması ve sürdürülebilir kullanımının önemini vurgulamaktadır.
 

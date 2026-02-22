@@ -45,7 +45,7 @@ Doğu Anadolu Bölgesi'nin coğrafi zenginliklerini keşfederken, Serçelik Dağ
 
 Jeolojik açıdan bakıldığında, Serçelik Dağı'nın coğrafi yapısı hakkında detaylı bilgi bulunmasa da, genel olarak bölgenin jeolojik özelliklerini inceleyebiliriz. Bu dağ, bölgenin diğer dağları gibi, yükseklik bakımından Eiffel Kulesi'nin birkaç katı yükseklikte değildir, ancak çevresindeki coğrafi oluşumlarla birlikte önemli bir yükseklik oluşturur.
 
-Mevsimsel açıdan, Serçelik Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir alandır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirmiştir.
+Mevsimsel açıdan, Serçelik Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir alandır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirmiştir.
 
 Çevresel açıdan, Serçelik Dağı, bölgenin diğer dağları ve ovalarıyla birlikte büyük bir ekosistemi oluşturur. Bu dağ, komşu alanlarla birlikte, su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahiptir. Örneğin, Monaco'nun yarısı kadar büyük olmayan bu alan, bölgenin su kaynaklarını desteklemektedir.
 

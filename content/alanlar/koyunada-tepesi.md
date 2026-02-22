@@ -36,7 +36,7 @@ Koyunada Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetler
 
 ## Coğrafya
 
-Koyunada Tepesi, İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiş bir bölge. Bu tepe, Ankara'nın çevresindeki ovalar ve dağlarla çevrili bir konumda bulunuyor. Koyunada Tepesi'nin coğrafyası, çeşitli bitki türleri ve hayvanlarla zengin bir ekosistemi destekler. Tepenin etrafındaki araziler, genellikle step ve otlaklarla kaplıdır ve bu nedenle bölgede geniş çayırlar bulunur. Koyunada Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve karasal bir yapıya sahiptir. Bölge, yaz aylarında sıca ve kuru, kış aylarında ise soğu ve kar yağışlı geçer. Koyunada Tepesi, ziyaretçilerine doğa ile iç içe bir deneyim sunar ve bu nedenle, özellikle doğa severler için ideal bir destinasyondur.
+Koyunada Tepesi, İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiş bir bölge. Bu tepe, Ankara'nın çevresindeki ovalar ve dağlarla çevrili bir konumda bulunuyor. Koyunada Tepesi'nin coğrafyası, çeşitli bitki türleri ve hayvanlarla zengin bir ekosistemi destekler. Tepenin etrafındaki araziler, genellikle step ve otlaklarla kaplıdır ve bu nedenle bölgede geniş çayırlar bulunur. Koyunada Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve karasal bir yapıya sahiptir. Bölge, yaz aylarında sıcak ve kuru, kış aylarında ise soğuk ve kar yağışlı geçer. Koyunada Tepesi, ziyaretçilerine doğa ile iç içe bir deneyim sunar ve bu nedenle, özellikle doğa severler için ideal bir destinasyondur.
 
 ## Flora ve Fauna
 

@@ -53,7 +53,7 @@ Doğal güzelliği ile dikkat çeken Baklaçal Dağı, çevresindeki coğrafi ol
 
 Baklaçal Dağı, yükseklik zonları ve alpin flora ile karakterize edilen bir dağ ekosistemi sunar. Step bitki örtüsü ve bozkırın hakim olduğu bu bölgede, kuraklığa adapte türler dikkat çeker. İlkbaharın arrivaliyle birlikte, dağ yamaçları renkli çiçeklerle dolar. Sonbaharda ise, göç eden kuşlar bu bölgeyi önemli bir durak olarak kullanır.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Dağların yüksek kesimlerinde, dağ keçileri ve yaban keçileri yaşamını sürdürür. Kuşlar ise, dağların kayalık yüzlerinde yuvalanır ve avlanmaya devam eder. Sürüngenler, sıca ve kuru alanlarda faaliyet gösterir.
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Dağların yüksek kesimlerinde, dağ keçileri ve yaban keçileri yaşamını sürdürür. Kuşlar ise, dağların kayalık yüzlerinde yuvalanır ve avlanmaya devam eder. Sürüngenler, sıcak ve kuru alanlarda faaliyet gösterir.
 
 Baklaçal Dağı, ekolojik değerinin yanı sıra, koruma durumu açısından da önemlidir. Bu dağ ekosisteminin korunması, bölgeye özgü türlerin yaşamını sürdürmesi için kritik öneme sahiptir.
 

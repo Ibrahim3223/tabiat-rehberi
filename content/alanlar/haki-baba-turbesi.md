@@ -37,7 +37,7 @@ Haki Baba Türbesi, tarihi geçmişi ile dikkat çeker. Bu türbenin tam olarak 
 
 ## Coğrafya
 
-Haki Baba Türbesi, Eyüpsultan ilçesinde, Marmara Bölgesi'nin kuzeybatı kısmında yer alır. Bu bölge, deniz seviyesinden yaklaşık yüksek bir konumdate bulunmaktadır. Türbe ve plaj alanı, geniş bir yeşil alan ile çevrilidir. Bu yeşil alan, çeşitli bitki türleri ile zengin bir flora sunar. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimi ile benzerlik gösterir. Kışlar ılıman, yazlar ise sıcak ve nemlidir. Haki Baba Türbesi, İstanbul Boğazı'na yakın bir konumda yer alır. Bu nedenle, bölgede deniz suyu ve hava akımları önemli bir rol oynar. Türbenin etrafındaki coğrafi yapı, ziyaretçilere hem tarihi hem de doğal güzellikleri bir arada sunar. Bu bölge, geniş plaj alanı ve deniz manzarası ile de dikkat çeker.
+Haki Baba Türbesi, Eyüpsultan ilçesinde, Marmara Bölgesi'nin kuzeybatı kısmında yer alır. Bu bölge, yüksek bir konumda bulunmaktadır. Türbe ve plaj alanı, geniş bir yeşil alan ile çevrilidir. Bu yeşil alan, çeşitli bitki türleri ile zengin bir flora sunar. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimi ile benzerlik gösterir. Kışlar ılıman, yazlar ise sıcak ve nemlidir. Haki Baba Türbesi, İstanbul Boğazı'na yakın bir konumda yer alır. Bu nedenle, bölgede deniz suyu ve hava akımları önemli bir rol oynar. Türbenin etrafındaki coğrafi yapı, ziyaretçilere hem tarihi hem de doğal güzellikleri bir arada sunar. Bu bölge, geniş plaj alanı ve deniz manzarası ile de dikkat çeker.
 
 ## Flora ve Fauna
 

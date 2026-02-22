@@ -44,7 +44,7 @@ Sorgun Köyü Kaya, bu bağlamda, bölgenin doğal güzellikleri ve tarihsel ön
 
 Doğal bir oluşum olan Sorgun Köyü Kaya, jeolojik açıdan incelendiğinde, bölgenin tarihi geçmişi ve jeolojik aktivitelerinin bir sonucu olarak ortaya çıkmıştır. Ancak, fiziksel boyutları hakkında detaylı bilgi bulunmamasına rağmen, bu oluşumun bir şehir bloğu büyüklüğünde olduğu düşünülebilir. Bu boyut, ziyaretçilere küçük ama etkileyici bir deneyimi vaat etmektedir. Jeolojik yapısı, bölgenin volkanik geçmişi ve erozyon süreçlerinin birleşimiyle şekillenmiştir.
 
-Mevsimsel değişikliklere bakıldığında, Sorgun Köyü Kaya'nın bulunduğu bölge, karasal iklimin hüküm sürdüğü bir coğrafyadır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak olan hava durumu, bu bölgenin iklim karakterini belirlemektedir. Bu mevsimsel özellikler, Sorgun Köyü Kaya'nın güzelliğini ve ziyaret değerini arttırmaktadır.
+Mevsimsel değişikliklere bakıldığında, Sorgun Köyü Kaya'nın bulunduğu bölge, karasal iklimin hüküm sürdüğü bir coğrafyadır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak olan hava durumu, bu bölgenin iklim karakterini belirlemektedir. Bu mevsimsel özellikler, Sorgun Köyü Kaya'nın güzelliğini ve ziyaret değerini arttırmaktadır.
 
 Çevresel açıdan bakıldığında, Sorgun Köyü Kaya, Çorum'un doğal güzellikleriyle dolu bir bölgede yer almaktadır. Komşu alanlar, ormanlık bölgeler ve su kaynaklarıyla çevrilidir. Bu bölgenin ekosistemi, flora ve fauna çeşitliliği açısından zengin bir yapıya sahiptir. Sorgun Köyü Kaya, bu ekosistemin bir parçası olarak, ziyaretçilere doğayla iç içe bir deneyim sunmaktadır. Monaco'nun küçük bir köyü büyüklüğünde olan bu bölge, doğa severlerin ilgisini çekmektedir.
 

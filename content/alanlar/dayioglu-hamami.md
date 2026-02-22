@@ -38,7 +38,7 @@ Dayıoğlu Hamamı'nın tarihi geçmişi, Osmangazi/Bursa'nın zengin kültürel
 
 ## Coğrafya
 
-Dayıoğlu Hamamı, Marmara Bölgesi'nin en güzel noktalarından biri olan Osmangazi/Bursa'da yer alır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar ve Marmara Denizi'ne açılır. Plajın kumsalı, geniş ve temizdir, ziyaretçilerin güneşin tadını çıkarmalarına olanak tanır. Dayıoğlu Hamamı'nın coğrafi konumu, ziyaretçilerine birçok olanak sunar. Bu plajın çevresinde, çeşitli bitkiler ve ağaçlar bulunur, bu da plaja doğal bir güzellik kazandırır. Dayıoğlu Hamamı'nın iklimi, Marmara Bölgesi'nin genel iklimine benzer, yaz ayları sıca ve yağışlı, kış ayları ise soğu ve yağışlı geçer. Bu plaj, yılın her dönemi ziyaret edilebilir, ancak en çok yaz aylarında tercih edilir.
+Dayıoğlu Hamamı, Marmara Bölgesi'nin en güzel noktalarından biri olan Osmangazi/Bursa'da yer alır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar ve Marmara Denizi'ne açılır. Plajın kumsalı, geniş ve temizdir, ziyaretçilerin güneşin tadını çıkarmalarına olanak tanır. Dayıoğlu Hamamı'nın coğrafi konumu, ziyaretçilerine birçok olanak sunar. Bu plajın çevresinde, çeşitli bitkiler ve ağaçlar bulunur, bu da plaja doğal bir güzellik kazandırır. Dayıoğlu Hamamı'nın iklimi, Marmara Bölgesi'nin genel iklimine benzer, yaz ayları sıca ve yağışlı, kış ayları ise soğuk ve yağışlı geçer. Bu plaj, yılın her dönemi ziyaret edilebilir, ancak en çok yaz aylarında tercih edilir.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ Tacü’n-Nisa Sultan Hatun Türbesi, 15. yüzyılda inşa edildi. Osmanlı Dön
 
 ## Coğrafya
 
-Tacü’n-Nisa Sultan Hatun Türbesi, İnegöl'ün merkezinde yer alıyor. İnegöl, Bursa ilinin bir ilçesi ve Marmara Bölgesi'nde bulunuyor. Türbe, yaklaşık 140 hektarlık bir alan üzerine kurulmuş ve 200 futbol sahası büyüklüğünde bir yeşil alana sahip. İnegöl'ün coğrafi konumu, türbenin inşa edilmesinde önemli bir rol oynamış. İnegöl'ün iklimi, karasal iklim özellikleri taşıyor. Kışları soğu ve yağışlı, yazları ise sıcak ve kurak geçiyor. Türbenin bulunduğu alan, İnegöl'ün şehir merkezine yakın bir konumda yer alıyor. Şehir merkezinden yürüyere veya toplu taşıma araçları ile kolayca ulaşılabilir.
+Tacü’n-Nisa Sultan Hatun Türbesi, İnegöl'ün merkezinde yer alıyor. İnegöl, Bursa ilinin bir ilçesi ve Marmara Bölgesi'nde bulunuyor. Türbe, yaklaşık 140 hektarlık bir alan üzerine kurulmuş ve 200 futbol sahası büyüklüğünde bir yeşil alana sahip. İnegöl'ün coğrafi konumu, türbenin inşa edilmesinde önemli bir rol oynamış. İnegöl'ün iklimi, karasal iklim özellikleri taşıyor. Kışları soğuk ve yağışlı, yazları ise sıcak ve kurak geçiyor. Türbenin bulunduğu alan, İnegöl'ün şehir merkezine yakın bir konumda yer alıyor. Şehir merkezinden yürüyere veya toplu taşıma araçları ile kolayca ulaşılabilir.
 
 ## Flora ve Fauna
 

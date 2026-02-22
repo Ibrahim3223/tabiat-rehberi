@@ -30,7 +30,7 @@ Kahramanmaras-Elmalar Karacam milli parkı, yüzyıllar boyunca bölgenin doğal
 
 ## Coğrafya
 
-Kahramanmaras-Elmalar Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir arazide yer alıyor. Parkın coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunuyor. Dağların eteklerinde, geniş otlaklar ve ormanlık alanlar bulunuyor. Bu ormanlık alanlar, farklı türlerde ağaçlara ev sahipliği yapıyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer, kışları soğu ve kar yağışlı, yazları sıca ve kurak geçiyor. Bu iklim, parkın flora ve faunasını şekillendirmiş ve bölgeye özgü birçok bitki ve hayvan türünün gelişmesine katkıda bulunmuştur. Parkın coğrafi konumu, birçok su kaynağının da bulunmasına olanak sağlıyor. Bu su kaynakları, parkın ekosistemini destekleyerek, canlıların yaşamasına yardımcı oluyor.
+Kahramanmaras-Elmalar Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir arazide yer alıyor. Parkın coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunuyor. Dağların eteklerinde, geniş otlaklar ve ormanlık alanlar bulunuyor. Bu ormanlık alanlar, farklı türlerde ağaçlara ev sahipliği yapıyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer, kışları soğuk ve kar yağışlı, yazları sıcak ve kurak geçiyor. Bu iklim, parkın flora ve faunasını şekillendirmiş ve bölgeye özgü birçok bitki ve hayvan türünün gelişmesine katkıda bulunmuştur. Parkın coğrafi konumu, birçok su kaynağının da bulunmasına olanak sağlıyor. Bu su kaynakları, parkın ekosistemini destekleyerek, canlıların yaşamasına yardımcı oluyor.
 
 ## Flora ve Fauna
 

@@ -45,7 +45,7 @@ Bu doğal alanlar, sadece ekonomik değil, aynı zamanda kültürel ve sosyal a�
 
 Doğal güzelliği ve jeolojik yapısı ile dikkat çeken Kervansaray Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Dağın fiziksel yapısı, bölgenin jeolojik özelliklerini yansıtmaktadır. Ancak, detaylı fiziksel veriler bulunmaması nedeniyle, dağın yüksekliği ve diğer fiziksel özellikleri hakkında kesin bilgiler elde edilememektedir.
 
-Mevsimsel değişimler, Kervansaray Dağı'nın iklim karakterini şekillendirmektedir. İç Anadolu Bölgesi'nin genel iklim koşullarına benzer şekilde, dağda karasal iklim özellikleri hakimdir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu mevsimsel değişimler, dağın flora ve fauna yapısını etkilemektedir.
+Mevsimsel değişimler, Kervansaray Dağı'nın iklim karakterini şekillendirmektedir. İç Anadolu Bölgesi'nin genel iklim koşullarına benzer şekilde, dağda karasal iklim özellikleri hakimdir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu mevsimsel değişimler, dağın flora ve fauna yapısını etkilemektedir.
 
 Çevresel ilişkiler açısından, Kervansaray Dağı, komşu alanlar ve su kaynakları ile bağlantılıdır. Bölgede yer alan otlaklar ve tarım arazileri, dağ ile iç içe geçmiş durumdadır. Ayrıca, dağın eteklerinde yer alan su kaynakları, bölgenin ekosistemini desteklemektedir. Bu bağlantılar, Kervansaray Dağı'nın çevresel önemini vurgulamaktadır.
 

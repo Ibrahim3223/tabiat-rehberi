@@ -43,7 +43,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi zenginliklerini keşfederken, Baruş T
 
 Jeolojik açıdan bakıldığında, Baruş Tepe'nin coğrafi yapısı oldukça ilginç. Ne yazık ki, detaylı fiziksel veriler bulunmuyor, ancak tepeyi çevreleyen dağlık alanlar, bölgenin jeolojikini anlamamıza yardımcı oluyor. Bu dağlar, milyonlarca yıl önce oluşan tektonik hareketlerin bir sonucu olarak oluşmuş ve bölgenin coğrafi yapısını şekillendirmiş.
 
-Mevsimsel değişiklikler, Baruş Tepe'nin iklim karakterini etkiliyor. Kış aylarında, tepe ve etrafındaki dağlar karla kaplanıyor ve bölgenin havası soğu ve yağmurlu oluyor. Yaz aylarında ise, hava sıcaklığı artıyor ve bölge, sıca ve kurak bir iklim karakteri gösteriyor. Bu mevsimsel değişiklikler, tepe ve etrafındaki ekosistemin canlılarına adapte olmalarını sağlıyor.
+Mevsimsel değişiklikler, Baruş Tepe'nin iklim karakterini etkiliyor. Kış aylarında, tepe ve etrafındaki dağlar karla kaplanıyor ve bölgenin havası soğu ve yağmurlu oluyor. Yaz aylarında ise, hava sıcaklığı artıyor ve bölge, sıcak ve kurak bir iklim karakteri gösteriyor. Bu mevsimsel değişiklikler, tepe ve etrafındaki ekosistemin canlılarına adapte olmalarını sağlıyor.
 
 Doğal kaynaklar açısından, Baruş Tepe'nin etrafındaki su kaynakları, bölgenin ekosistemini destekleyen önemli bir faktör. Tepe, çeşitli nehir ve derelerin kaynaklarına yakın bir konumda bulunuyor ve bu su kaynakları, bölgenin flora ve faunasını besliyor. Ayrıca, tepe ve etrafındaki dağlık alanlar, çeşitli bitki ve hayvan türleri için bir habitat oluşturuyor ve bölgenin biyolojik çeşitliliğini zenginleştiriyor.
 

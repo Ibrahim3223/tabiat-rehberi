@@ -37,7 +37,7 @@ Duatepe Türbesi'nin tarihi geçmişi, Tarsus'un tarihi ile iç içe geçmiş du
 
 ## Coğrafya
 
-Duatepe Türbesi, coğrafi olarak Mersin'in Akdeniz Bölgesi'nde yer alan Tarsus ilçesinde bulunmaktadır. Bu bölge, Akdeniz ikliminin etkisi altında olup, sıca ve kurak yazlar ile ılık ve yağışlı kışlar karakteristiktir. Duatepe Türbesi, 140 hektarlık geniş bir alana yayılmış durumdadır ve bu alanı, çeşitli bitki türleri ve zengin fauna çeşitliliği ile paylaşmaktadır. Bölge, doğal güzelliği ve tarihi yapıları ile birlikte, ziyaretçilere geniş bir gezi alanı sunar. Duatepe Türbesi'nin coğrafi konumu, aynı zamanda bölgenin ekolojik dengesini de etkilemektedir. Burada, mevsimsel değişimler, canlıların yaşamını etkileyen önemli bir faktördür.
+Duatepe Türbesi, coğrafi olarak Mersin'in Akdeniz Bölgesi'nde yer alan Tarsus ilçesinde bulunmaktadır. Bu bölge, Akdeniz ikliminin etkisi altında olup, sıcak ve kurak yazlar ile ılık ve yağışlı kışlar karakteristiktir. Duatepe Türbesi, 140 hektarlık geniş bir alana yayılmış durumdadır ve bu alanı, çeşitli bitki türleri ve zengin fauna çeşitliliği ile paylaşmaktadır. Bölge, doğal güzelliği ve tarihi yapıları ile birlikte, ziyaretçilere geniş bir gezi alanı sunar. Duatepe Türbesi'nin coğrafi konumu, aynı zamanda bölgenin ekolojik dengesini de etkilemektedir. Burada, mevsimsel değişimler, canlıların yaşamını etkileyen önemli bir faktördür.
 
 ## Flora ve Fauna
 

@@ -45,7 +45,7 @@ Güneydoğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini barındır
 
 Doğal yapısı itibariyle Kur Tepe, bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu büyüklük, Taksim Meydanı'nın birkaç katı kadar bir alanı ifade eder. Ancak, fiziksel verileri sınırlı olduğundan, tam olarak boyutları hakkında net bir bilgi bulunmamaktadır. Jeolojik açıdan incelendiğinde, Kur Tepe'nin oluşumu ve yapısı bölgenin genel jeolojik karakteri ile paralellik göstermektedir.
 
-Mevsimsel açıdan Kur Tepe, Güneydoğu Anadolu Bölgesi'nin karakteristik iklimini yansıtır. Bu bölge, yazları sıca ve kurak, kışları ise soğu ve yağışlı bir iklim yapısına sahiptir. Kur Tepe'nin iklim karakteri, bu mevsimsel özelliklere uygun olarak değişir. Eiffel Kulesi'nin birkaç katı yükseklikte olan bu dağ, bölgenin hava durumunu etkileyen önemli faktörlerden biridir.
+Mevsimsel açıdan Kur Tepe, Güneydoğu Anadolu Bölgesi'nin karakteristik iklimini yansıtır. Bu bölge, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı bir iklim yapısına sahiptir. Kur Tepe'nin iklim karakteri, bu mevsimsel özelliklere uygun olarak değişir. Eiffel Kulesi'nin birkaç katı yükseklikte olan bu dağ, bölgenin hava durumunu etkileyen önemli faktörlerden biridir.
 
 Ekosistem açısından Kur Tepe, çevresindeki su kaynakları ve komşu alanlarla önemli bir ilişkiye sahiptir. Bölgedeki su kaynakları, Kur Tepe'nin eteklerinde yer alan köylerin tarımsal faaliyetleri için hayati önem taşır. Ayrıca, Kur Tepe'nin etrafındaki arazi, Monaco'nun küçük bir bölümü kadar bir alanı kaplayan çeşitli bitki türleri ve hayvanlarla zengin bir ekosisteme ev sahipliği yapar. Bu doğal kaynaklar, Kur Tepe'nin çevresel ilişkilerini ve bölgenin biyolojik çeşitliliğini etkileyen önemli faktörlerdir.
 

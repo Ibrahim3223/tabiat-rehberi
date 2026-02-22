@@ -44,7 +44,7 @@ Güneybatı Anadolu'nun yeşilliklerle kaplı dağlık bölgesinde, 37.0075°K v
 
 Jeolojik açıdan incelendiğinde, Çetibeli Dağı'nın precise boyutları hakkında detaylı bilgi bulunmasa da, genel olarak Muğla'nın dağlık yapısının bir parçası olarak kabul edilebilir. Bu dağlık alan, bölgeye özgü flora ve fauna türlerini barındırmasıyla dikkat çekmektedir. Monaco'nun yarısı kadar büyüklüğünde bir alanı kaplayan bu dağlık bölgenin, coğrafi yapısı ve jeolojik özellikleri, bölgenin doğal güzelliklerini ve biyolojik çeşitliliğini desteklemektedir.
 
-Mevsimsel özellikler açısından, Çetibeli Dağı ve çevresinin iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kuru, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bölgenin yüksekliği, Eiffel Kulesi'nin 2 katı yükseklikte olan bazı zirveleri içermekle birlikte, genel olarak ılıman bir iklim karakteri gösterir.
+Mevsimsel özellikler açısından, Çetibeli Dağı ve çevresinin iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kuru, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bölgenin yüksekliği, Eiffel Kulesi'nin 2 katı yükseklikte olan bazı zirveleri içermekle birlikte, genel olarak ılıman bir iklim karakteri gösterir.
 
 Doğal kaynaklar ve ekosistem bağlantıları açısından, Çetibeli Dağı, çevresindeki su kaynakları ve bitki örtüsüyle birlikte bir bütün olarak değerlendirilmelidir. Bölge, komşu alanlarla birlikte bir ekosistem ağını oluşturur ve bu ağ, bölgenin biyolojik çeşitliliğini ve doğal güzelliklerini destekler. Taksim Meydanı'nın 10 katı büyüklüğünde bir alanı kaplayan bu dağlık bölgenin, çevresindeki ekosistemle olan ilişkileri, bölgenin doğal dengesini korumak açısından önemlidir.
 

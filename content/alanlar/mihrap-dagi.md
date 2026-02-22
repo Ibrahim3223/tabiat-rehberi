@@ -42,7 +42,7 @@ Doğunun gizli köşelerinden biri olan Mihrap Dağı, 38.4000°K, 39.5833°D ko
 
 Jeolojik açıdan bakıldığında, Mihrap Dağı'nın yapısı kalker ve şist gibi farklı türlerdeki kayalardan oluşuyor. Dağın fiziksel yapısı, Taksim Meydanı'nın yaklaşık 5 katı büyüklüğünde bir alanı kaplıyor. Ancak, Mihrap Dağı'nın yüksekliği hakkında ayrıntılı bilgi bulunmuyor. Bu dağ, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte gibi düşünebilirsek, bu dağın büyüklüğünü ve ihtişamını hayal edebiliyoruz.
 
-İklim açısından, Mihrap Dağı ve çevresindeki bölge, karasal iklimin özelliklerini taşıyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakim. Bu iklim, bölgenin flora ve fauna çeşitliliğini etkiliyor ve dağda çeşitli bitki ve hayvan türlerinin yaşamasına imkân sağlıyor.
+İklim açısından, Mihrap Dağı ve çevresindeki bölge, karasal iklimin özelliklerini taşıyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakim. Bu iklim, bölgenin flora ve fauna çeşitliliğini etkiliyor ve dağda çeşitli bitki ve hayvan türlerinin yaşamasına imkân sağlıyor.
 
 Mihrap Dağı, Fırat Nehri'ne yakın bir konumda bulunduğundan, bu nehrin su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahip. Dağın kuzeyinde, Fırat Nehri'nin kolu olan bir derenin aktığı görülüyor. Bu derenin suyu, bölgedeki tarım ve hayvancılık faaliyetleri için önemli bir kaynak teşkil ediyor. Ayrıca, Mihrap Dağı, Monaco'nun yarısı kadar büyüklüğünde bir alanı kaplayan Elazığ Ovası'na da komşu bir konumda yer alıyor. Bu ovalar, bölgenin tarım ve ekosistem açısından önemli bir bölgesi olarak kabul ediliyor.
 

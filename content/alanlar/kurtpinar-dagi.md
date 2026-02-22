@@ -42,7 +42,7 @@ Doğu Anadolu Bölgesi'nin coğrafi zenginliklerini keşfetmek isteyenler için,
 
 Jeolojik açıdan incelendiğinde, Kurtpınar Dağı'nın bulunduğu bölgenin volkanik faaliyetlere sahne olduğu görülüyor. Bu volkanik faaliyetler, bölgenin coğrafi yapısını etkileyerek dağların oluşmasına neden olmuş. Ancak, ayrıntılı fiziksel veri bulunmaması nedeniyle, dağın boyutları ve şekli hakkında net bir fikir oluşmuyor. Buna karşın, bölgenin genel coğrafi yapısını inceleyerek, Kurtpınar Dağı'nın bir şehir bloğu büyüklüğünde bir alanı kapladığı söylenebilir.
 
-Mevsimsel değişikliklere bakıldığında, Kurtpınar Dağı'nın bulunduğu bölge karasal iklimin etkilerini gösteriyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakim. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini etkileyerek, ekosistemin dengesini koruyor. Çevresel açıdan, Kurtpınar Dağı'nın bulunduğu bölge, su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahip. Ağrı'nın tarım ve hayvancılık faaliyetleri için önemli olan su kaynakları, bu bölgede yer alıyor.
+Mevsimsel değişikliklere bakıldığında, Kurtpınar Dağı'nın bulunduğu bölge karasal iklimin etkilerini gösteriyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakim. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini etkileyerek, ekosistemin dengesini koruyor. Çevresel açıdan, Kurtpınar Dağı'nın bulunduğu bölge, su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahip. Ağrı'nın tarım ve hayvancılık faaliyetleri için önemli olan su kaynakları, bu bölgede yer alıyor.
 
 ## Flora ve Fauna
 

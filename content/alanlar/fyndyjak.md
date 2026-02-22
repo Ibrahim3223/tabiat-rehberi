@@ -38,7 +38,7 @@ Güneydoğu Anadolu Bölgesi'nin en yüksek dağlarından biri olan Fyndyjak, Ka
 
 Jeolojik açıdan bakıldığında, Fyndyjak dağının oluşumu, bölgenin karmaşık jeolojik tarihinde önemli bir role sahip. Ancak, detaylı fiziksel veriler bulunmamasına rağmen, bu dağın diğer dağlar ile benzer özellikler taşıdığı söylenebilir. Fyndyjak, etrafındaki diğer dağlar gibi, bir şehir bloğu büyüklüğünde bir alanı kaplıyor ve etrafındaki coğrafyanın şekillenmesinde önemli bir etken.
 
-İklim açısından, Fyndyjak dağının bulunduğu bölge, karasal iklim özellikleri gösteriyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürüyor. Bu mevsimsel özellikler, Fyndyjak dağının flora ve fauna çeşitliliğini şekillendirmiş ve bu dağ, bölgenin ekolojik dengesinde önemli bir rol oynuyor.
+İklim açısından, Fyndyjak dağının bulunduğu bölge, karasal iklim özellikleri gösteriyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürüyor. Bu mevsimsel özellikler, Fyndyjak dağının flora ve fauna çeşitliliğini şekillendirmiş ve bu dağ, bölgenin ekolojik dengesinde önemli bir rol oynuyor.
 
 Doğal kaynaklar açısından, Fyndyjak dağının bulunduğu bölge, su kaynakları açısından zengin bir coğrafyada yer alıyor. Dağın eteklerinde ve çevresinde, birkaç olimpik havuz kadar su kaynakları bulunmakta ve bu su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılamakta. Fyndyjak dağının komşu alanları, benzer coğrafi özellikler taşıyor ve bu dağ, bölgenin ekosistem bağlantılarının önemli bir parçası olarak görülüyor.
 

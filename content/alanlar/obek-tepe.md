@@ -36,7 +36,7 @@ Mersin'in Akdeniz Bölgesi'nde yer alan Öbek Tepe, yaklaşık 140 hektarlık bi
 
 ## Coğrafya
 
-Öbek Tepe, Mersin'in Akdeniz Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve doğal güzelliği ile dikkat çekiyor. Öbek Tepe, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor ve bölgenin en önemli coğrafi noktalarından biri. Bu tepe, Akdeniz ikliminin karakteristik özelliklerini taşıyor ve yıl boyunca ılıman bir hava hüküm sürüyor. Öbek Tepe, flora ve fauna açısından oldukça zengin ve çeşitli bitki türleri ile hayvanları barındırıyor. Bu tepe, Mersin'in en önemli doğal güzelliklerinden biri ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
+Öbek Tepe, Mersin'in Akdeniz Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve doğal güzelliği ile dikkat çekiyor. Öbek Tepe, yüksek bir konumda yer alıyor ve bölgenin en önemli coğrafi noktalarından biri. Bu tepe, Akdeniz ikliminin karakteristik özelliklerini taşıyor ve yıl boyunca ılıman bir hava hüküm sürüyor. Öbek Tepe, flora ve fauna açısından oldukça zengin ve çeşitli bitki türleri ile hayvanları barındırıyor. Bu tepe, Mersin'in en önemli doğal güzelliklerinden biri ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Konya'nın coğrafi zenginliklerinin arasında yer alan Meke Krater Gölü, 37.6
 
 Doğal bir krater gölü olan Meke Gölü, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplar. Göllerin oluşumu, volkanik faaliyetler sonucu oluşan kraterlerin suyla dolmasıyla gerçekleşir. Meke Krater Gölü de, benzer bir oluşum süreci sonucunda meydana gelmiştir. Ancak, gölün boyutları hakkında dahalı fiziksel veriler bulunmamaktadır.
 
-Meke Krater Gölü'nün iklim karakteri, İç Anadolu Bölgesi'nin genel iklim özelliklerini taşır. Bu bölge, karasal iklimin hüküm sürdüğü bir alan olup, yaz aylarında sıca ve kurak, kış aylarında soğu ve yağışlı bir hava durumu hakimdir. Göle yakın bölgede, mevsimsel olarak değişen hava koşulları, gölün su seviyesini ve suyun kimyasal bileşimini etkileyebilir.
+Meke Krater Gölü'nün iklim karakteri, İç Anadolu Bölgesi'nin genel iklim özelliklerini taşır. Bu bölge, karasal iklimin hüküm sürdüğü bir alan olup, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve yağışlı bir hava durumu hakimdir. Göle yakın bölgede, mevsimsel olarak değişen hava koşulları, gölün su seviyesini ve suyun kimyasal bileşimini etkileyebilir.
 
 Gölün çevresel ilişkileri, komşu alanlar ve su kaynakları açısından önemlidir. Meke Krater Gölü, Konya'nın sulak alanlarından biridir ve bölgedeki ekosistemin bir parçasını oluşturur. Göle yakın bölgede, tarım alanları ve çayırlar bulunmaktadır ve bu alanlar, gölün su kaynakları ve su kalitesi açısından önemli bir role sahiptir. Ayrıca, gölün etrafındaki araziler, flora ve fauna açısından zengin bir çeşitlilik gösterir ve bu nedenle, bölgenin ekolojik dengesi açısından önemli bir değer taşır.
 

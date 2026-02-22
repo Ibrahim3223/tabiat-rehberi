@@ -31,7 +31,7 @@ Kovanlık'ın tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu bölge, ge
 
 ## Coğrafya
 
-Kovanlık, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, geniş otlakları, ormanları ve doğal güzellikleriyle dikkat çekiyor. Kovanlık'ın coğrafyası, ziyaretçilere çeşitli manzaralar sunuyor. Bölge, dağlar, vadiler ve ovalarla çevrili. İklimi, karasal iklim özellikleri gösteriyor. Kovanlık, dört mevsimi yaşayan bir bölge. Bahar aylarında yeşillenen bitki örtüsü, yaz aylarında sıca ve kurak bir hava, sonbahar aylarında renkli bir manzara ve kış aylarında karla kaplı bir doğa sunuyor. Kovanlık'ın coğrafyası, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
+Kovanlık, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, geniş otlakları, ormanları ve doğal güzellikleriyle dikkat çekiyor. Kovanlık'ın coğrafyası, ziyaretçilere çeşitli manzaralar sunuyor. Bölge, dağlar, vadiler ve ovalarla çevrili. İklimi, karasal iklim özellikleri gösteriyor. Kovanlık, dört mevsimi yaşayan bir bölge. Bahar aylarında yeşillenen bitki örtüsü, yaz aylarında sıcak ve kurak bir hava, sonbahar aylarında renkli bir manzara ve kış aylarında karla kaplı bir doğa sunuyor. Kovanlık'ın coğrafyası, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

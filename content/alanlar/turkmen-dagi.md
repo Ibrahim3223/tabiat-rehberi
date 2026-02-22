@@ -44,7 +44,7 @@ Doğal güzellikleri ile bilinen Manisa ilinin bir parçası olan Türkmen Dağ�
 
 Jeolojik olarak incelendiğinde, Türkmen Dağı'nın yapısı bölgenin genel özelliklerini taşıyor. Ancak, fiziksel verileri sınırlı olduğu için dağın boyutları ve şekli hakkında net bir bilgi bulunmuyor. Buna rağmen, dağların genel olarak çevreyi şekillendiren önemli faktörler olduğunu söyleme mümkün. Örneğin, bir şehir bloğu büyüklüğünde bir alan, Türkmen Dağı'nın eteklerinde oluşmuş olabilir ve bu da yerel ekosistemi etkileyen önemli bir faktör olabilir.
 
-İklim açısından bakıldığında, Türkmen Dağı ve çevresinin Ege Bölgesi'nin ılıman iklimini paylaştığı görülüyor. Bölge, yazları sıca ve kurak, kışları ise ılıman ve yağışlı bir iklime sahip. Bu mevsimsel özellikler, dağların çevresindeki bitki örtüsünü ve hayvan yaşamını etkiliyor. Örneğin, dağların yamaçlarında yetişen bitkiler, bölgenin nemli ve serin havasından yararlanıyor.
+İklim açısından bakıldığında, Türkmen Dağı ve çevresinin Ege Bölgesi'nin ılıman iklimini paylaştığı görülüyor. Bölge, yazları sıcak ve kurak, kışları ise ılıman ve yağışlı bir iklime sahip. Bu mevsimsel özellikler, dağların çevresindeki bitki örtüsünü ve hayvan yaşamını etkiliyor. Örneğin, dağların yamaçlarında yetişen bitkiler, bölgenin nemli ve serin havasından yararlanıyor.
 
 Çevresel açıdan incelendiğinde, Türkmen Dağı'nın komşu alanlar ile bağlantılı bir ekosistem içinde yer aldığı görülüyor. Dağın yakınında bulunan su kaynakları, bölgenin ekolojik dengesini koruyor. Örneğin, bir olimpik havuz kadar su kapasitesine sahip bir göl, Türkmen Dağı'nın eteklerinde bulunabilir ve bu da yerel su döngüsünü etkileyen önemli bir faktör olabilir.
 

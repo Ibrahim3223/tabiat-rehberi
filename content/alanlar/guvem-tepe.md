@@ -36,7 +36,7 @@ Güvem Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin y
 
 ## Coğrafya
 
-Güvem Tepe, coğrafi olarak Çankırı şehir merkezine yakın bir konumda yer alıyor. Bu tepe, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bölge, geniş otlak alanları, yeşil örtü ve çeşitli bitki türleriyle dikkat çekiyor. Güvem Tepe, ziyaretçilerine geniş bir manzara sunuyor ve etraftaki diğer tepe ve dağları görme mümkün. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir iklim. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu tepe, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunuyor. Bahar aylarında yeşeren bitkiler, yaz aylarında sıcak güneşin tadını çıkarmak, sonbahar aylarında renkli manzaralar ve kış aylarında karla kaplı bir peyzaj görme mümkün.
+Güvem Tepe, coğrafi olarak Çankırı şehir merkezine yakın bir konumda yer alıyor. Bu tepe, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bölge, geniş otlak alanları, yeşil örtü ve çeşitli bitki türleriyle dikkat çekiyor. Güvem Tepe, ziyaretçilerine geniş bir manzara sunuyor ve etraftaki diğer tepe ve dağları görme mümkün. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir iklim. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu tepe, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunuyor. Bahar aylarında yeşeren bitkiler, yaz aylarında sıcak güneşin tadını çıkarmak, sonbahar aylarında renkli manzaralar ve kış aylarında karla kaplı bir peyzaj görme mümkün.
 
 ## Flora ve Fauna
 

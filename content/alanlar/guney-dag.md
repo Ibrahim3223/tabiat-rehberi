@@ -45,7 +45,7 @@ Karaman ilinin güzide bir noktasında yer alan Güney Dağ, 37.3365°K, 33.8738
 
 Doğal güzellikleri ve coğrafi yapısı ile dikkat çeken Güney Dağ, yaklaşık olarak 1200 hektarlık bir alanı kaplamaktadır. Bu alan, Taksim Meydanı'nın yaklaşık 10 katı büyüklüğünde bir bölgeyi kapsıyor. Dağın fiziksel yapısı, bölgenin jeolojik özelliklerini yansıtmakta ve ziyaretçilere benzersiz bir deneyim sunmaktadır. Güney Dağ'ın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte bulunmakta ve bu yükseklik, ziyaretçilere muhteşem bir manzara sunmakta.
 
-İklim açısından Güney Dağ, İç Anadolu Bölgesi'nin karakteristik özelliklerine sahip. Bölge, yaz aylarında sıca ve kuru, kış aylarında ise soğu ve karlı bir iklimi yaşamakta. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini şekillendirmekte ve ziyaretçilere farklı mevsimlerde farklı deneyimler sunmakta.
+İklim açısından Güney Dağ, İç Anadolu Bölgesi'nin karakteristik özelliklerine sahip. Bölge, yaz aylarında sıcak ve kuru, kış aylarında ise soğuk ve karlı bir iklimi yaşamakta. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini şekillendirmekte ve ziyaretçilere farklı mevsimlerde farklı deneyimler sunmakta.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları açısından, Güney Dağ önemli bir rol oynamakta. Dağın eteklerinde bulunan su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılamakta ve bölgenin ekosistemini desteklemektedir. Ayrıca, Güney Dağ, bölgedeki diğer doğal güzelliklerle bağlantılı ve ziyaretçiler, buradan hareketle diğer destinasyonlara kolayca ulaşabilmekte.
 

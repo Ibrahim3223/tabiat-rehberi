@@ -37,7 +37,7 @@ Stratonikeia Roma Hamamı 2'nin tarihi, MÖ 3. yüzyıla kadar uzanmaktadır. O 
 
 ## Coğrafya
 
-Stratonikeia Roma Hamamı 2, Muğla'nın Yatağan ilçesinde, Ege Bölgesi'nin güneyinde yer almaktadır. Bu bölgenin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşmaktadır. Hamamın bulunduğu Stratonikeia antik kenti, bir vadi içinde kurulmuş ve etraftaki dağlarla çevrilidir. İklim, tipik Akdeniz iklimi olarak caracterizedir; yani yazlar sıca ve kurak, kışlar ılıman ve yağışlı geçer. Bu coğrafi konum, Stratonikeia kentine ve hamamına, bölgenin diğer önemli tarihi mekanlarına yakın bir konumda yer vermiştir. Yatağan ilçesi, Muğla şehir merkezine uzun bir mesafe uzaklıkta olup, ulaşım oldukça kolaydır. Stratonikeia Roma Hamamı 2, Muğla ve çevresinin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur.
+Stratonikeia Roma Hamamı 2, Muğla'nın Yatağan ilçesinde, Ege Bölgesi'nin güneyinde yer almaktadır. Bu bölgenin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşmaktadır. Hamamın bulunduğu Stratonikeia antik kenti, bir vadi içinde kurulmuş ve etraftaki dağlarla çevrilidir. İklim, tipik Akdeniz iklimi olarak caracterizedir; yani yazlar sıcak ve kurak, kışlar ılıman ve yağışlı geçer. Bu coğrafi konum, Stratonikeia kentine ve hamamına, bölgenin diğer önemli tarihi mekanlarına yakın bir konumda yer vermiştir. Yatağan ilçesi, Muğla şehir merkezine uzun bir mesafe uzaklıkta olup, ulaşım oldukça kolaydır. Stratonikeia Roma Hamamı 2, Muğla ve çevresinin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Flora ve Fauna
 

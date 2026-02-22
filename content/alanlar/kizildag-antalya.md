@@ -43,7 +43,7 @@ Güneyde yer alan Kızıldağ, Antalya'nın dağlık bölgelerinden biridir. 37.
 
 Doğal güzellikleri ve jeolojik yapısıyla dikkat çeken Kızıldağ, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu küçük ama önemli alan, bölgenin jeolojik oluşumunda önemli bir rol oynamaktadır. Kızıldağ'ın jeolojik yapısı, Türkiye'nin güneyindeki dağlık bölgelerin karakteristik özelliklerini taşır.
 
-Mevsimsel olarak değişen hava koşulları, Kızıldağ'ın iklim karakterini şekillendirmektedir. Yaz aylarında sıca ve kurak bir iklim hüküm sürerken, kış aylarında ılıman ve yağışlı bir hava görülür. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
+Mevsimsel olarak değişen hava koşulları, Kızıldağ'ın iklim karakterini şekillendirmektedir. Yaz aylarında sıcak ve kurak bir iklim hüküm sürerken, kış aylarında ılıman ve yağışlı bir hava görülür. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
 
 Kızıldağ, çevresindeki ekosistemle güçlü bir bağlantı içindedir. Yakındaki su kaynakları ve ormanlık alanlar, bu dağlık bölgenin doğal dengesini korumaktadır. Monaco'nun küçük bir bölümü kadar bir alanı kaplayan Kızıldağ, bölgenin doğal güzellikleri ve jeolojik yapısıyla önemli bir coğrafi oluşumdur.
 

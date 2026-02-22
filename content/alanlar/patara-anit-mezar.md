@@ -41,7 +41,7 @@ Patara Anıt Mezar, Kaş ilçesinde yer alıyor ve Akdeniz Bölgesi'nin en önem
 
 ## Flora ve Fauna
 
-Patara Anıt Mezar, zengin flora ve faunası ile dikkat çekiyor. Bu mekan, çeşitli bitki türleri ile kaplı ve bu bitki türleri, mekanın doğal güzelliklerine katkıda bulunuyor. Patara Anıt Mezar, çevresi ile birlikte uzun bir mesafelik bir sahil şeridine sahip ve bu sahil şeridi, ziyaretçilerin keyifli bir gün geçirmesine olanak sağlıyor. Ayrıca, Patara Anıt Mezar'ın çevresi, zengin fauna ile kaplı ve bu fauna, mekanın doğal güzelliklerine katkıda bulunuyor. Patara Anıt Mezar, mevsimsel değişimlere göre ziyaret edilebilir ve her mevsim, ziyaretçilere farklı bir güzellik sunuyor. Kış aylarında, mekanın çevresi yeşillenir ve ziyaretçilere doğanın güzelliğini gösterir. Yaz aylarında, ise mekanın çevresi, sıca ve güneşli bir hava alır ve ziyaretçilere keyifli bir gün geçirmesine olanak sağlar.
+Patara Anıt Mezar, zengin flora ve faunası ile dikkat çekiyor. Bu mekan, çeşitli bitki türleri ile kaplı ve bu bitki türleri, mekanın doğal güzelliklerine katkıda bulunuyor. Patara Anıt Mezar, çevresi ile birlikte uzun bir mesafelik bir sahil şeridine sahip ve bu sahil şeridi, ziyaretçilerin keyifli bir gün geçirmesine olanak sağlıyor. Ayrıca, Patara Anıt Mezar'ın çevresi, zengin fauna ile kaplı ve bu fauna, mekanın doğal güzelliklerine katkıda bulunuyor. Patara Anıt Mezar, mevsimsel değişimlere göre ziyaret edilebilir ve her mevsim, ziyaretçilere farklı bir güzellik sunuyor. Kış aylarında, mekanın çevresi yeşillenir ve ziyaretçilere doğanın güzelliğini gösterir. Yaz aylarında, ise mekanın çevresi, sıcak ve güneşli bir hava alır ve ziyaretçilere keyifli bir gün geçirmesine olanak sağlar.
 
 ## Ziyaret Bilgileri
 

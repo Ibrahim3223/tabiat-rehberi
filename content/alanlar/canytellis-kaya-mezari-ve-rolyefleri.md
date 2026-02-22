@@ -37,7 +37,7 @@ Canytellis Kaya Mezarı ve Rölyefleri, yüzyıllar boyunca çeşitli uygarlıkl
 
 ## Coğrafya
 
-Canytellis Kaya Mezarı ve Rölyefleri, Mersin'in Erdemli ilçesinde, Akdeniz Bölgesi'nin güneyinde yer alıyor. Bu bölge, Toros Dağları'nın eteklerinde, deniz seviyesinden yaklaşık yüksek bir konumdate konumlanıyor. Alan, 140 hektarlık bir büyüklüğe sahip ve çeşitli bitki türleri ile kaplı bir doğa harikası sunuyor. Canytellis, Mersin'in genel iklimi gibi Akdeniz ikliminin özellikleri gösteriyor; yani yazları sıca ve kurak, kışları ılıman ve yağışlı bir iklim hüküm sürüyor. Bölge, zengin fauna ve flora çeşitliliği ile dikkat çekiyor ve ziyaretçilere, både tarihi bir gezi hem de doğal bir ortamda dinlenme fırsatı sunuyor. Canytellis'in coğrafi konumu, ziyaretçilerin hem tarihi alanları gezmelerine hem de Akdeniz'in güzelliklerini keşfetmelerine olanak tanıyor.
+Canytellis Kaya Mezarı ve Rölyefleri, Mersin'in Erdemli ilçesinde, Akdeniz Bölgesi'nin güneyinde yer alıyor. Bu bölge, Toros Dağları'nın eteklerinde, yüksek bir konumda konumlanıyor. Alan, 140 hektarlık bir büyüklüğe sahip ve çeşitli bitki türleri ile kaplı bir doğa harikası sunuyor. Canytellis, Mersin'in genel iklimi gibi Akdeniz ikliminin özellikleri gösteriyor; yani yazları sıcak ve kurak, kışları ılıman ve yağışlı bir iklim hüküm sürüyor. Bölge, zengin fauna ve flora çeşitliliği ile dikkat çekiyor ve ziyaretçilere, både tarihi bir gezi hem de doğal bir ortamda dinlenme fırsatı sunuyor. Canytellis'in coğrafi konumu, ziyaretçilerin hem tarihi alanları gezmelerine hem de Akdeniz'in güzelliklerini keşfetmelerine olanak tanıyor.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ wikidata_id: "Q31386150"
 
 ## Coğrafya
 
-İtdağı Tepe, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu tepe, bölgenin genel yapısına uygun olarak, geniş otlak alanları ve çeşitli bitki türleriyle örtülü. İklimi, bölgenin genel iklim koşullarına uygun olarak yazları sıca ve kurak, kışları ise soğu ve yağışlı passing. İtdağı Tepe, çevresindeki doğal güzellikleriyle birlikte, bir bütün olarak düşünüldüğünde, ziyaretçilerine geniş bir coğrafi çeşitlilik sunuyor. Tepe, aynı zamanda bölgenin su kaynaklarına da ev sahipliği yapıyor ve çevresindeki ekosistemi desteklemeye yardımcı oluyor. İtdağı Tepe'nin coğrafi konumu, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor ve unutulmaz bir deneyim sunuyor.
+İtdağı Tepe, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu tepe, bölgenin genel yapısına uygun olarak, geniş otlak alanları ve çeşitli bitki türleriyle örtülü. İklimi, bölgenin genel iklim koşullarına uygun olarak yazları sıcak ve kurak, kışları ise soğuk ve yağışlı passing. İtdağı Tepe, çevresindeki doğal güzellikleriyle birlikte, bir bütün olarak düşünüldüğünde, ziyaretçilerine geniş bir coğrafi çeşitlilik sunuyor. Tepe, aynı zamanda bölgenin su kaynaklarına da ev sahipliği yapıyor ve çevresindeki ekosistemi desteklemeye yardımcı oluyor. İtdağı Tepe'nin coğrafi konumu, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor ve unutulmaz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

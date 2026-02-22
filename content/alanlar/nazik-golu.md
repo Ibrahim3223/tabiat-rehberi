@@ -48,7 +48,7 @@ Doğu Anadolu Bölgesi'nin en güzel köşelerinden biri olan Nazik Gölü, 38.8
 
 Gölün fiziksel yapısı hakkında detaylı bilgi olmasa da, Nazik Gölü'nün bir şehir bloğu büyüklüğünde olduğunu varsayabiliriz. Bu büyüklük, gölü çevredeki dağlar ve yeşil alanlar ile birlikte düşünüldüğünde, ziyaretçilere güzel bir manzara sunmaktadır. Gölün jeolojisi hakkında bilgi verilmese de, bölgenin genel jeolojik yapısı dikkate alındığında, gölün etrafındaki dağların volkanik kökenli olduğu söylenebilir.
 
-Nazik Gölü'nün iklim karakteri, Doğu Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik göstermektedir. Bölge, karasal iklimin hüküm sürdüğü bir alan olup, yaz ayları sıca ve kurak, kış ayları ise soğu ve karlı geçmektedir. Gölün su seviyesi, mevsimsel yağışlar ve eriyen kar suları ile değişkenlik göstermektedir. Bu durum, gölü çevredeki ekosistemi için önemli bir kaynak oluşturmaktadır.
+Nazik Gölü'nün iklim karakteri, Doğu Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik göstermektedir. Bölge, karasal iklimin hüküm sürdüğü bir alan olup, yaz ayları sıcak ve kurak, kış ayları ise soğuk ve karlı geçmektedir. Gölün su seviyesi, mevsimsel yağışlar ve eriyen kar suları ile değişkenlik göstermektedir. Bu durum, gölü çevredeki ekosistemi için önemli bir kaynak oluşturmaktadır.
 
 Gölün çevresel ilişkileri, komşu alanlar ve su kaynakları ile yakından ilgilidir. Nazik Gölü, çevredeki dağlar ve ormanlarla birlikte bir ekosistem oluşturmaktadır. Göl, bölgede yaşayan çeşitli canlı türleri için önemli bir yaşam alanı oluşturmaktadır. Ayrıca, gölün su kaynakları, çevredeki tarım alanları ve yerleşim yerleri için de önemli bir kaynak teşkil etmektedir. Bu nedenle, Nazik Gölü'nün korunması ve sürdürülebilir kullanımı, bölgenin ekolojik dengesi için çok önemlidir.
 

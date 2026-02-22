@@ -43,7 +43,7 @@ Coğrafi olarak, Baba Adası, Akdeniz'in sularında, Muğla ilinin kıyı şerid
 
 Doğal güzellikleri ile dikkat çeken Baba Adası, küçük bir yapısı sahiptir. Birkaç olimpik havuz kadar bir alanı kaplayan bu ada, sade ve şirin bir görünüm sunar. Ada'nın fiziksel yapısı, jeolojik olarak da ilgi çekicidir. Ancak, detaylı fiziksel verilerin olmaması, adanın gizemini korur ve ziyaretçileri keşfetmeye davet eder.
 
-İklim açısından, Baba Adası, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, adanın florası ve faunası üzerinde önemli bir etkiye sahiptir ve ziyaretçilere her mevsim farklı bir deneyim sunar.
+İklim açısından, Baba Adası, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, adanın florası ve faunası üzerinde önemli bir etkiye sahiptir ve ziyaretçilere her mevsim farklı bir deneyim sunar.
 
 Çevresel açıdan, Baba Adası, komşu alanlar ve su kaynakları ile bağlantılı bir ekosistem içinde yer alır. Monaco'nun küçük bir adasından daha büyük olmayan bu ada, deniz ekosisteminin bir parçası olarak, su kaynakları ve deniz canlıları ile etkileşim halindedir. Bu çevresel ilişkiler, adanın doğal dengesini korur ve ziyaretçilere bir doğa harikası sunar.
 

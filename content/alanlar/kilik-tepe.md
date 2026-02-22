@@ -44,7 +44,7 @@ Diyarbakır'ın coğrafi çeşitliliğiçinde yer alan Kilik Tepe, 37.7956°K, 4
 
 Jeolojik açıdan incelendiğinde, Kilik Tepe'nin çevresindeki coğrafi yapı, bölgenin karmaşık jeolojik geçmişini yansıtıyor. Dağın boyutları ve şekli, bölgenin tektonik aktivitesinin bir sonucu olarak oluşmuş. Bu dağ, Monaco'nun yarısı kadar bir alanı kaplayan bir coğrafi oluşum olarak düşünülebilir. Ancak, Kilik Tepe'nin fiziksel yapısı hakkında daha fazla bilgi bulunmuyor.
 
-Mevsimsel değişikliklere baktığımızda, Kilik Tepe ve çevresinin iklim karakteri, bölgenin genel iklim koşullarını yansıtıyor. Yaz aylarında sıcaklık ve kuraklık, kış aylarında ise soğu ve yağışlı hava conditions hakim. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkiliyor. Eiffel Kulesi'nin 2 katı yükseklikte olan bir noktada bulunan Kilik Tepe, bölgenin hava durumunu etkileyen önemli bir faktör.
+Mevsimsel değişikliklere baktığımızda, Kilik Tepe ve çevresinin iklim karakteri, bölgenin genel iklim koşullarını yansıtıyor. Yaz aylarında sıcaklık ve kuraklık, kış aylarında ise soğuk ve yağışlı hava conditions hakim. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkiliyor. Eiffel Kulesi'nin 2 katı yükseklikte olan bir noktada bulunan Kilik Tepe, bölgenin hava durumunu etkileyen önemli bir faktör.
 
 Çevresel açıdan bakıldığında, Kilik Tepe, bölgenin su kaynakları ve ekosistem bağlantıları ile önemli bir ilişkiye sahip. Dağın eteklerinde yer alan dere ve çaylar, bölgenin su kaynaklarını oluşturuyor. Ayrıca, Kilik Tepe'nin bulunduğu bölge, Taksim Meydanı'nın 5 katı büyüklüğünde bir alanı kaplıyor ve bölgenin doğal dengesini koruyor. Bu doğal denge, bölgenin flora ve fauna çeşitliliğini korumak için önemli.
 

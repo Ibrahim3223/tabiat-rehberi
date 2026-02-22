@@ -45,7 +45,7 @@ Doğu Anadolu Bölgesi'nin güneydoğusunda yer alan Gora Darat Dağı, Batman i
 
 Jeolojik açıdan bakıldığında, Gora Darat Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel jeolojik özellikleri dikkate alındığında, dağlık bir arazide yer aldığı söylenebilir. Bu bölge, Beşiktaş ilçesi büyüklüğünde bir alanı kaplar ve Taksim Meydanı'nın birkaç katı genişliğinde bir coğrafi oluşum olarak düşünülebilir. Gora Darat Dağı'nın yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olabilir, ancak tam yükseklik bilgisi bulunmuyor.
 
-İklim açısından bakıldığında, Gora Darat Dağı'nın bulunduğu bölge, Doğu Anadolu Bölgesi'nin karakteristik iklimini taşır. Bu région, kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir iklime sahiptir. Gora Darat Dağı, bu mevsimsel değişimlerin yaşandığı bir coğrafi oluşum olarak, bölgenin iklim karakterini etkileyen önemli bir faktördür.
+İklim açısından bakıldığında, Gora Darat Dağı'nın bulunduğu bölge, Doğu Anadolu Bölgesi'nin karakteristik iklimini taşır. Bu région, kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklime sahiptir. Gora Darat Dağı, bu mevsimsel değişimlerin yaşandığı bir coğrafi oluşum olarak, bölgenin iklim karakterini etkileyen önemli bir faktördür.
 
 Çevresel açıdan bakıldığında, Gora Darat Dağı, Batman ilinin kuzeydoğu kesiminde yer alan diğer dağlık oluşumlarla birlikte, bölgenin ekosistemini şekillendiren önemli bir bileşendir. Bu dağ, bölgenin su kaynaklarını besleyen önemli bir faktör olarak, çevreye olan etkisini gösterir. Monaco'nun yarısı kadar bir alanı kaplayan bu dağlık bölge, İstanbul'un Adalar ilçesi büyüklüğünde bir coğrafi oluşum olarak düşünülebilir.
 

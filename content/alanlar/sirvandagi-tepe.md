@@ -42,7 +42,7 @@ Doğal güzellikleri ile dikkat çeken Şirvandağı Tepe, Kayseri ilinin öneml
 
 Jeolojik açıdan incelendiğinde, Şirvandağı Tepe'nin fiziksel yapısı hakkında detaylı bilgi bulunmasa da, coğrafi konumu itibariyle etrafındaki dağlar ve tepeelerle benzerlik gösterdiği söylenebilir. Bu bölgede, genellikle volkanik kayaçlar ve sedimanter tabakaların bir arada bulunduğu görülür. Şirvandağı Tepe'nin yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan 550 metre civarındadır, ancak bu bilgi kesin değildir.
 
-İklim açısından Şirvandağı Tepe, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölgede, yaz ayları sıca ve kurak, kış ayları ise soğu ve karlı geçer. Bahar aylarında ise yağışlar daha sık görülmeye başlar. Şirvandağı Tepe'nin iklimi, Monaco'nun yarısı kadar büyüklüğündeki bir alanda görülen iklim çeşitliliğine benzer.
+İklim açısından Şirvandağı Tepe, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise soğuk ve karlı geçer. Bahar aylarında ise yağışlar daha sık görülmeye başlar. Şirvandağı Tepe'nin iklimi, Monaco'nun yarısı kadar büyüklüğündeki bir alanda görülen iklim çeşitliliğine benzer.
 
 Çevresel açıdan bakıldığında, Şirvandağı Tepe, Kayseri'nin diğer doğal güzelliklerine yakındır. Bu tepe, Taksim Meydanı'nın yaklaşık 10 katı büyüklüğündeki bir alanda yer alır ve etrafındaki su kaynakları ile ekosistem bağlantıları önemli bir role sahiptir. Şirvandağı Tepe, bölgedeki diğer dağlık alanlarla birlikte bir bütünü oluşturur ve bu bölgenin ekolojik dengesini korur.
 

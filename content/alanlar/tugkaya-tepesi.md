@@ -37,7 +37,7 @@ Tuğkaya Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b
 
 ## Coğrafya
 
-Tuğkaya Tepesi, İç Anadolu Bölgesi'nin coğrafi olarak en ilginç noktalarından biridir. Bu tepe, yaklaşık yüksek bir konumdate yer alır ve çevresindeki ovalardan nettice yükseklik kazanır. Tepenin zirvesinden, bölgenin geniş bir alanı gözlemlenebilir. Tuğkaya Tepesi'nin coğrafi yapısı, genellikle karasal iklim özellikleri gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürer. Bu coğrafi özellikler, tepenin flora ve faunasını da etkiler. Tuğkaya Tepesi'nin çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır.
+Tuğkaya Tepesi, İç Anadolu Bölgesi'nin coğrafi olarak en ilginç noktalarından biridir. Bu tepe, yüksek bir konumda yer alır ve çevresindeki ovalardan nettice yükseklik kazanır. Tepenin zirvesinden, bölgenin geniş bir alanı gözlemlenebilir. Tuğkaya Tepesi'nin coğrafi yapısı, genellikle karasal iklim özellikleri gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürer. Bu coğrafi özellikler, tepenin flora ve faunasını da etkiler. Tuğkaya Tepesi'nin çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır.
 
 ## Flora ve Fauna
 

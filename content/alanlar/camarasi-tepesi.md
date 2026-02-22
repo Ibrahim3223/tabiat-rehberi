@@ -36,7 +36,7 @@ Konya, İç Anadolu Bölgesi'nin önemli kültür ve turizm merkezlerinden biri.
 
 ## Coğrafya
 
-Çamarası Tepesi, Konya'nın coğrafi yapısını yansıtan önemli bir nokta. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu tepe, geniş ve açık bir araziye sahip. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve bu bölgede fauna da oldukça zengin. Çamarası Tepesi, ziyaretçilerine geniş bir manzara sunuyor ve özellikle gün batımı saatlerinde, muhteşem bir görünüme sahip. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal özellik gösteriyor. Bu nedenle, yazları sıca ve kurak, kışları ise soğu ve karlı geçiyor. Çamarası Tepesi, bu coğrafi özellikleriyle hem doğa severleri hem de fotoğraf sanatçılarını cezbediyor.
+Çamarası Tepesi, Konya'nın coğrafi yapısını yansıtan önemli bir nokta. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu tepe, geniş ve açık bir araziye sahip. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve bu bölgede fauna da oldukça zengin. Çamarası Tepesi, ziyaretçilerine geniş bir manzara sunuyor ve özellikle gün batımı saatlerinde, muhteşem bir görünüme sahip. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal özellik gösteriyor. Bu nedenle, yazları sıcak ve kurak, kışları ise soğuk ve karlı geçiyor. Çamarası Tepesi, bu coğrafi özellikleriyle hem doğa severleri hem de fotoğraf sanatçılarını cezbediyor.
 
 ## Flora ve Fauna
 

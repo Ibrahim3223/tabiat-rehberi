@@ -42,7 +42,7 @@ Doğunun gizli köşelerinden biri olan İsmailbaba Dağı, Van'ın büyüleyici
 
 Jeolojik açıdan bakıldığında, İsmailbaba Dağı'nın precise boyutları bilinmese de, bulunduğu bölgenin coğrafi yapısı hakkında fikir verebilir. Bu dağ, Türkiye'nin en büyük gölü olan Van Gölü'nün yakınında bulunuyor. Van Gölü, yaklaşık 3.755 kilometrekarelik bir alanı kaplıyor ve bu da Monaco'nun yarısı kadar bir alanı kaplayan bir göl olarak dikkat çekiyor. İsmailbaba Dağı da bu gölün yakınlarında yer alıyor ve bölgenin coğrafi yapısını etkileyen önemli bir faktör olarak görülebilir.
 
-İklim açısından, İsmailbaba Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir alan. Kışlar soğu ve kar yağışlı, yazlar ise sıca ve kurak geçiyor. Bu mevsimsel değişiklikler, bölgenin flora ve fauna'sını şekillendiren önemli bir faktör. Örneğin, Van Gölü'nün etrafındaki dağlar, bölgenin iklimini etkileyen önemli bir unsur olarak görülüyor.
+İklim açısından, İsmailbaba Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir alan. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu mevsimsel değişiklikler, bölgenin flora ve fauna'sını şekillendiren önemli bir faktör. Örneğin, Van Gölü'nün etrafındaki dağlar, bölgenin iklimini etkileyen önemli bir unsur olarak görülüyor.
 
 Çevresel açıdan bakıldığında, İsmailbaba Dağı, Van Gölü'nün ve çevresindeki diğer dağların bir parçası olarak, bölgenin ekosistemini şekillendiren önemli bir unsur. Bu dağ, bölgenin su kaynaklarını şekillendiren önemli bir faktör ve aynı zamanda bölgenin flora ve fauna'sını etkileyen bir unsur olarak görülebilir. Örneğin, Van Gölü'nün suyu, bölgenin tarım ve sulama faaliyetleri için önemli bir kaynak olarak kullanılıyor.
 

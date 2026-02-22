@@ -44,7 +44,7 @@ Doğal güzellikleri ile ön plana çıkan Muğla'nın bir parçası olan Bedir 
 
 Jeolojik açıdan bakıldığında, Bedir Adası'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, adanın konumu ve çevresi, benzer ada oluşumlarına benzeyen bir coğrafyayı andırıyor. Ada, birkaç olimpik havuz kadar bir alanı kaplıyor ve bu küçük boyutu, ziyaretçilere sakin ve huzurlu bir atmosfer sunuyor. Ada ile birlikte, çevresindeki su alanları ve diğer küçük adalar, bir bütün olarak ele alındığında, bir şehir bloğu büyüklüğünde bir alanı kaplıyorlar.
 
-Mevsimsel olarak, Bedir Adası'nın iklimi, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve kuru, kış aylarında ise ılık ve yağışlı bir hava hakim. Bu iklim, ada florası ve faunası için uygun koşullar sunuyor ve ziyaretçilere de yılın her dönemi farklı bir güzellik sunuyor.
+Mevsimsel olarak, Bedir Adası'nın iklimi, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı bir hava hakim. Bu iklim, ada florası ve faunası için uygun koşullar sunuyor ve ziyaretçilere de yılın her dönemi farklı bir güzellik sunuyor.
 
 Çevresel açıdan, Bedir Adası, Marmaris Körfezi'ne ve Ege Denizi'ne bağlı olarak, zengin bir su altı ekosistemine sahip. Ada, su kaynakları ve diğer komşu adalar ile birlikte, bir bütün olarak düşünüldüğünde, Monaco'nun küçük bir bölümü kadar bir alanı kaplıyor. Bu küçük ama önemli ekosistem, bölgede yaşayan çeşitli deniz canlıları için önemli bir yaşam alanı sunuyor.
 

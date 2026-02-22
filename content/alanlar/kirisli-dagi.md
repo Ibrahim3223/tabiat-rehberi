@@ -38,7 +38,7 @@ Kirişli Dağı, Antalya'nın doğal güzelliklerinin bir parçası olarak, böl
 
 ## Coğrafya
 
-Doğrudan Antalya'nın kalbinde yer alan Kirişli Dağı, 36.9111°K, 29.8850°D koordinatlarında, Akdeniz'in sıca ve güneşli ikliminin etkisi altında bulunmaktadır. Bu dağ, Antalya'nın şehir merkezine oldukça yakın bir konumda olup, şehrin hareketli yaşamını arka planında tutarak, ziyaretçilerine bir oylum ve sakinlik sunar.
+Doğrudan Antalya'nın kalbinde yer alan Kirişli Dağı, 36.9111°K, 29.8850°D koordinatlarında, Akdeniz'in sıcak ve güneşli ikliminin etkisi altında bulunmaktadır. Bu dağ, Antalya'nın şehir merkezine oldukça yakın bir konumda olup, şehrin hareketli yaşamını arka planında tutarak, ziyaretçilerine bir oylum ve sakinlik sunar.
 
 Jeolojik açıdan incelendiğinde, Kirişli Dağı'nın etrafındaki coğrafyanın şekillenmesinde önemli bir rolü olduğu anlaşılabilir. Dağın boyutları tam olarak belirlenmese de, Antalya'nın toplam coğrafyası içinde önemli bir yer tuttuğu söylenebilir. Monaco'nun küçük bir bölümü kadar bir alanı kaplayan bu dağ, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanın üzerinde yükselmektedir.
 

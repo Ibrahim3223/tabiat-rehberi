@@ -36,7 +36,7 @@ wikidata_id: "Q34819605"
 
 ## Coğrafya
 
-Çokrak Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle step iklimi ile karakterizedir. Yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlı geçer. Tepenin etrafında, çeşitli bitki türleri bulunur. Bu bitkiler, genellikle step bölgesine özgü türlerdir. Çokrak Tepesi, Ankara'nın merkezine yakın olmasına rağmen, şehrin gürültüsünden uzak bir noktada yer alır. Tepenin yüksekliği, ziyaretçilere geniş bir bakış açısı sunar ve Ankara'nın panoramik manzarasını izleme imkanı sağlar. Tepenin eteklerinde, çeşitli hayvan türleri ile karşılaşma mümkün. Bu hayvanlar, genellikle step bölgesine özgü türlerdir. Çokrak Tepesi, coğrafi konumu itibari ile hem doğa severlerin hem de Ankara'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenlerin ziyaret edebileceği bir noktadır.
+Çokrak Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle step iklimi ile karakterizedir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçer. Tepenin etrafında, çeşitli bitki türleri bulunur. Bu bitkiler, genellikle step bölgesine özgü türlerdir. Çokrak Tepesi, Ankara'nın merkezine yakın olmasına rağmen, şehrin gürültüsünden uzak bir noktada yer alır. Tepenin yüksekliği, ziyaretçilere geniş bir bakış açısı sunar ve Ankara'nın panoramik manzarasını izleme imkanı sağlar. Tepenin eteklerinde, çeşitli hayvan türleri ile karşılaşma mümkün. Bu hayvanlar, genellikle step bölgesine özgü türlerdir. Çokrak Tepesi, coğrafi konumu itibari ile hem doğa severlerin hem de Ankara'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenlerin ziyaret edebileceği bir noktadır.
 
 ## Flora ve Fauna
 

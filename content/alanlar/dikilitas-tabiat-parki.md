@@ -31,7 +31,7 @@ Dikilitaş Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmi�
 
 ## Coğrafya
 
-Dikilitaş Tabiat Parkı, Mersin'in Akdeniz Bölgesi'nde yer alıyor. Parkın coğrafi konumu, ziyaretçilerine muhteşem bir manzara sunuyor. 140 hektarlık yeşil alanı, çeşitli bitki türleri ve zengin fauna ile birlikte, gerçek bir doğa harikası olarak tanımlanıyor. Parkın iklimi, Akdeniz ikliminin karakteristik özelliklerini taşıyor; yani yazları sıca ve kurak, kışları ise ılıman ve yağışlı geçiyor. Bu iklim, parkın bitki örtüsü için ideal koşulları sağlıyor. Dikilitaş Tabiat Parkı, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunuyor. Parkın coğrafi yapısı, ziyaretçilerin doğayla iç içe bir deneyim yaşamalarına olanak tanıyor. Yürüyüş parkurları, piknik alanları veleme noktaları, ziyaretçilerin parkın güzelliğini keşfetmeleri için ideal olanaklar sağlıyor.
+Dikilitaş Tabiat Parkı, Mersin'in Akdeniz Bölgesi'nde yer alıyor. Parkın coğrafi konumu, ziyaretçilerine muhteşem bir manzara sunuyor. 140 hektarlık yeşil alanı, çeşitli bitki türleri ve zengin fauna ile birlikte, gerçek bir doğa harikası olarak tanımlanıyor. Parkın iklimi, Akdeniz ikliminin karakteristik özelliklerini taşıyor; yani yazları sıcak ve kurak, kışları ise ılıman ve yağışlı geçiyor. Bu iklim, parkın bitki örtüsü için ideal koşulları sağlıyor. Dikilitaş Tabiat Parkı, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunuyor. Parkın coğrafi yapısı, ziyaretçilerin doğayla iç içe bir deneyim yaşamalarına olanak tanıyor. Yürüyüş parkurları, piknik alanları veleme noktaları, ziyaretçilerin parkın güzelliğini keşfetmeleri için ideal olanaklar sağlıyor.
 
 ## Flora ve Fauna
 

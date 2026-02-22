@@ -42,7 +42,7 @@ Van'ın doğal güzelliklerinden biri olan Gevneras Burnu, 38.4697°K, 42.7814°
 
 Doğal olarak, Gevneras Burnu'nun fiziksel yapısı, bu bölgenin coğrafi özelliklerini yansıtıyor. Burnun boyutları, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor. Bu büyüklük, buranın bir şehir bloğu büyüklüğünde olmasından daha büyük, ancak Monaco'nun yarısı kadar büyük olmaktan daha küçük. Jeolojik açıdan, bu bölgenin yapısı, Van Gölü'nün oluşumuna benzer şekilde, tektonik hareketler sonucu şekillenmiş.
 
-Mevsimsel özellikler, Gevneras Burnu'nun iklim karakterini beliriyor. Kış aylarında, burası soğu ve kar yağışlı oluyor. Yaz aylarında ise, sıcaklıklar artıyor ve havalar kuraklaşıyor. Bu mevsimsel değişimler, buranın iklimini şekillendiriyor. Etkileri, Eiffel Kulesi'nin yüksekliğine benzer bir şekilde, atmosferin farklı katmanlarına yayılıyor.
+Mevsimsel özellikler, Gevneras Burnu'nun iklim karakterini beliriyor. Kış aylarında, burası soğuk ve kar yağışlı oluyor. Yaz aylarında ise, sıcaklıklar artıyor ve havalar kuraklaşıyor. Bu mevsimsel değişimler, buranın iklimini şekillendiriyor. Etkileri, Eiffel Kulesi'nin yüksekliğine benzer bir şekilde, atmosferin farklı katmanlarına yayılıyor.
 
 Çevresel açıdan, Gevneras Burnu'nun komşu alanları, ekosistem bağlantılarını da etkiliyor. Van Gölü'nün suları, bu bölgenin su kaynaklarını oluşturuyor. Ayrıca, buranın yakınında, çeşitli bitki ve hayvan türleri de yaşıyor. Bu çeşitlilik, İstanbul'un Adalar ilçesi büyüklüğünde bir ekosistemi oluşturuyor. Bu bağlantılar, Gevneras Burnu'nun çevresel önemini vurguluyor.
 

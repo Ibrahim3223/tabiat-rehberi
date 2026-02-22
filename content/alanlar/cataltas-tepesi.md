@@ -36,7 +36,7 @@ wikidata_id: "Q34828618"
 
 ## Coğrafya
 
-Çataltaş Tepesi, Muğla'nın Ege Bölgesi'nde yer alıyor. Bu tepe, deniz seviyesinden yaklaşık yüksek bir konumdate ve 140 hektarlık bir alana yayılmış durumda. Tepenin etrafında çeşitli bitki türleri ve zengin fauna found. Bu bölgenin iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak sıca ve kurak yazlar, ılık ve yağışlı kışlar şeklinde tanımlanabilir. Çataltaş Tepesi, Muğla'nın diğer önemli doğal güzelliklerine yakın bir konumda yer alıyor. Tepenin coğrafi yapısı, ziyaretçilerin çeşitli aktivitelere katılmasına olanak tanıyor. Çataltaş Tepesi, Muğla'nın önemli bir turizm merkezi olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
+Çataltaş Tepesi, Muğla'nın Ege Bölgesi'nde yer alıyor. Bu tepe, yüksek bir konumda ve 140 hektarlık bir alana yayılmış durumda. Tepenin etrafında çeşitli bitki türleri ve zengin fauna found. Bu bölgenin iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak sıcak ve kurak yazlar, ılık ve yağışlı kışlar şeklinde tanımlanabilir. Çataltaş Tepesi, Muğla'nın diğer önemli doğal güzelliklerine yakın bir konumda yer alıyor. Tepenin coğrafi yapısı, ziyaretçilerin çeşitli aktivitelere katılmasına olanak tanıyor. Çataltaş Tepesi, Muğla'nın önemli bir turizm merkezi olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
 
 ## Flora ve Fauna
 
@@ -51,5 +51,5 @@ wikidata_id: "Q34828618"
 - Çataltaş Tepesi, Muğla'nın en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
 - Tepenin etrafında çeşitli bitki türleri ve zengin fauna found.
 - Çataltaş Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış.
-- Bu tepe, deniz seviyesinden yaklaşık yüksek bir konumdate ve 140 hektarlık bir alana yayılmış durumda.
+- Bu tepe, yüksek bir konumda ve 140 hektarlık bir alana yayılmış durumda.
 - Çataltaş Tepesi, Muğla'nın önemli bir turizm merkezi olarak kabul ediliyor.

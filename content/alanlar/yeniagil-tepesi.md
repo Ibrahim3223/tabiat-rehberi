@@ -36,7 +36,7 @@ Yeniağıl Tepesi'nin tam olarak ne zaman oluştuğu bilinmemekle birlikte, yüz
 
 ## Coğrafya
 
-Yeniağıl Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir coğrafi oluşumdur. Bu tepe, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Coğrafi olarak, tepe ve vadilerin birleşmesiyle oluşmuş bir arazidir. İklim olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır; yani kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Çevre, çeşitli bitki türleriyle kaplıdır ve fauna açısından da zengin bir alandır. Yeniağıl Tepesi, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur. Bu bölgenin coğrafi yapısı, ziyaretçilere hem doğayı keşfetme hem de çevreyi panoramik olarak izleme imkanı sunar.
+Yeniağıl Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir coğrafi oluşumdur. Bu tepe, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Coğrafi olarak, tepe ve vadilerin birleşmesiyle oluşmuş bir arazidir. İklim olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır; yani kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Çevre, çeşitli bitki türleriyle kaplıdır ve fauna açısından da zengin bir alandır. Yeniağıl Tepesi, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur. Bu bölgenin coğrafi yapısı, ziyaretçilere hem doğayı keşfetme hem de çevreyi panoramik olarak izleme imkanı sunar.
 
 ## Flora ve Fauna
 

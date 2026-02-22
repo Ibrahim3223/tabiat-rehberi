@@ -36,7 +36,7 @@ Karşıkaya Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlık
 
 ## Coğrafya
 
-Karşıkaya Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölge. Tepenin coğrafyası, genellikle step ve ormanlık alanlardan oluşuyor. Bölge, Ankara'nın merkezi ile çevredeki dağların birleşiminde yer alıyor. Tepenin yüksekliği, şehrin diğer bölgelerine nazaran daha yüksek, bu nedenle ziyaretçiler, şehrin panoramik manzarasını izleyebiliyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor; yazlar sıca ve kurak, kışlar ise soğu ve kar yağışlı geçiyor. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirmiş.
+Karşıkaya Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölge. Tepenin coğrafyası, genellikle step ve ormanlık alanlardan oluşuyor. Bölge, Ankara'nın merkezi ile çevredeki dağların birleşiminde yer alıyor. Tepenin yüksekliği, şehrin diğer bölgelerine nazaran daha yüksek, bu nedenle ziyaretçiler, şehrin panoramik manzarasını izleyebiliyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor; yazlar sıcak ve kurak, kışlar ise soğuk ve kar yağışlı geçiyor. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirmiş.
 
 ## Flora ve Fauna
 

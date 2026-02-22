@@ -44,7 +44,7 @@ Güneydoğu Anadolu'nun kalbinde yer alan Kahramanmaraş'ta bulunan Tekne Dağı
 
 Doğal güzelliği ile dikkat çeken bu bölge, coğrafi olarak ilginç bir yapıya sahip. Koordinatlarından anlaşılacağı gibi, dağlık bir arazi yapısına sahip olan Tekne Dağı, bölgenin jeolojik yapısını belirleyen bir faktör. Yüksekliği Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu dağ, bölgenin coğrafi özelliklerini etkileyen önemli bir unsur.
 
-Mevsimsel değişikliklere göre hava durumu da değişen bu bölgede, yaz ayları genellikle sıca ve kurak geçerken, kış ayları soğu ve yağışlı olabilir. Bu mevsimsel özellikler, bölgenin iklim karakterini şekillendiren önemli faktörler. Taksim Meydanı'nın yaklaşık 10 katı büyüklüğünde olan bu alan, çevresindeki ekosistemi etkileyen önemli bir unsur.
+Mevsimsel değişikliklere göre hava durumu da değişen bu bölgede, yaz ayları genellikle sıcak ve kurak geçerken, kış ayları soğuk ve yağışlı olabilir. Bu mevsimsel özellikler, bölgenin iklim karakterini şekillendiren önemli faktörler. Taksim Meydanı'nın yaklaşık 10 katı büyüklüğünde olan bu alan, çevresindeki ekosistemi etkileyen önemli bir unsur.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahip olan Tekne Dağı, komşu alanlar ile birlikte büyük bir ekosistem oluşturuyor. Monaco'nun yaklaşık yarısı kadar büyük olan bu alan, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini korumanın önemli bir parçası. Bu nedenle, Tekne Dağı ve çevresinin korunması, bölgenin doğal dengesini korumak için çok önemli.
 

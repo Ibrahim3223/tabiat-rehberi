@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin kuzeydoğu ucunda, Kars ilinin sınırları içinde y
 
 Jeolojik açıdan bakıldığında, Busu Tapa'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölge genel olarak volkani ve sedimentatif kayaçlardan oluşmaktadır. Bu dağ, çevresindeki diğer dağlarla benzer özellikler taşımaktadır ve régionun jeolojik yapısını oluşturan ana unsurlardan biridir. Busu Tapa'nın boyutları hakkında kesin bir bilgi olmasa da, bölgenin genel topoğrafyası, geniş ve dalgalı bir arazi yapısını andırmaktadır.
 
-Mevsimsel açıdan, Busu Tapa ve çevresindeki bölge, karasal iklimin hakim olduğu bir bölgedir. Kışlar soğu ve kar yağışlı, yazlar ise serin ve kurak geçmektedir. Bu durum, bölgenin flora ve fauna açısından zengin bir çeşitlilik göstermesine neden olmaktadır. Hava durumu, yıl boyunca değişkenlik göstermekle birlikte, genel olarak bölgenin yüksek rakımı ve coğrafi konumu, iklim karakterini belirlemektedir.
+Mevsimsel açıdan, Busu Tapa ve çevresindeki bölge, karasal iklimin hakim olduğu bir bölgedir. Kışlar soğuk ve kar yağışlı, yazlar ise serin ve kurak geçmektedir. Bu durum, bölgenin flora ve fauna açısından zengin bir çeşitlilik göstermesine neden olmaktadır. Hava durumu, yıl boyunca değişkenlik göstermekle birlikte, genel olarak bölgenin yüksek rakımı ve coğrafi konumu, iklim karakterini belirlemektedir.
 
 Çevresel açıdan, Busu Tapa, Kars ilinin diğer dağları ve ovalarıyla birlikte, bölge ekosisteminin önemli bir parçasını oluşturmaktadır. Bölge, çeşitli su kaynaklarına ev sahipliği yapmakta ve komşu alanlarla birlikte, bir bütün olarak düşünüldüğünde, Monaco'nun yaklaşık üçte biri büyüklüğünde bir alanı kaplamaktadır. Bu durum, Busu Tapa'nın bölgenin doğal dengesi açısından önemli bir role sahip olduğunu göstermektedir.
 

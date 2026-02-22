@@ -36,7 +36,7 @@ Gödeşin Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapm
 
 ## Coğrafya
 
-Gödeşin Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinin merkezinde yer alıyor. Bu tepe, bölgenin coğrafi yapısını oluşturan dağlar ve vadiler ile çevrili. Gödeşin Tepesi, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor ve bu yükseklik, tepeye benzersiz bir manzara sunuyor. Bu tepe, özellikle çevredeki dağlar ve vadiler ile birlikte, bölgenin coğrafi çeşitliliğini gösteriyor. Gödeşin Tepesi, aynı zamanda bölgeye özgü bitki ve hayvan türleri ile dikkat çekiyor. Bu tepe, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor ve bölgenin coğrafi zenginliğini deneyimleme imkanı veriyor.
+Gödeşin Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinin merkezinde yer alıyor. Bu tepe, bölgenin coğrafi yapısını oluşturan dağlar ve vadiler ile çevrili. Gödeşin Tepesi, yüksek bir konumda yer alıyor ve bu yükseklik, tepeye benzersiz bir manzara sunuyor. Bu tepe, özellikle çevredeki dağlar ve vadiler ile birlikte, bölgenin coğrafi çeşitliliğini gösteriyor. Gödeşin Tepesi, aynı zamanda bölgeye özgü bitki ve hayvan türleri ile dikkat çekiyor. Bu tepe, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor ve bölgenin coğrafi zenginliğini deneyimleme imkanı veriyor.
 
 ## Flora ve Fauna
 

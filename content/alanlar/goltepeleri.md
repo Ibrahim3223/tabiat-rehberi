@@ -42,7 +42,7 @@ Doğunun güzide illerinden biri olan Erzincan'da yer alan Göltepeleri, 39.5025
 
 Jeolojik açıdan incelendiğinde, Göltepeleri'nin coğrafi yapısı hakkında detaylı bilgi olmasa da, bölgenin genel jeolojik özellikleri dikkate alındığında, dağlık bir arazinin hakim olduğu anlaşılıyor. Bu dağ, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor ve çevresi ile birlikte bir bütün olarak düşünüldüğünde, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kapsıyor.
 
-İklim açısından bakıldığında, Göltepeleri ve çevresinin karasal iklim özellikleri gösterdiği görülüyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürüyor. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor ve doğa severler için yılın farklı zamanlarında farklı deneyimler sunuyor.
+İklim açısından bakıldığında, Göltepeleri ve çevresinin karasal iklim özellikleri gösterdiği görülüyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürüyor. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor ve doğa severler için yılın farklı zamanlarında farklı deneyimler sunuyor.
 
 Çevresel açıdan bakıldığında, Göltepeleri, Erzincan'ın önemli su kaynaklarına yakın bir konumda yer alıyor. Bölge, Fırat Nehri'nin kollarından biri olan Karasu Nehri'nin havzasında bulunuyor ve bu su kaynakları, bölgenin ekosistemini ve canlı çeşitliliğini destekleyen önemli faktörler. Göltepeleri, bu su kaynakları ve çevresindeki diğer doğal alanlar ile birlikte bir bütün olarak düşünüldüğünde, Monaco'nun yarısı kadar bir alanı kapsayan geniş bir ekosistemi temsil ediyor.
 

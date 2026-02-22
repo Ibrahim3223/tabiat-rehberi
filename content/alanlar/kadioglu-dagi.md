@@ -43,7 +43,7 @@ Kuzeyde Karadeniz'in sularını gören Kadıoğlu Dağı, 41.2833°K, 31.6500°D
 
 Doğal güzelliği ile dikkat çeken Kadıoğlu Dağı, jeolojik olarak çeşitlilik gösterir. Fiziksel yapısı, bölgenin oluşumuna ışık tutar. Monaco'nun yarısı kadar bir alanı kaplayan bu dağ, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplar. Yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olan bu dağ, ziyaretçilerini etkileyen bir manzaraya sahiptir.
 
-Mevsimsel değişikliklere bağlı olarak, Kadıoğlu Dağı'nın iklimi değişir. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve nemli bir hava hakimdir. Bu mevsimsel özellikler, dağın ekosistemini etkiler. Çevresindeki su kaynakları ve komşu alanlar, bu dağın doğal dengesini korur.
+Mevsimsel değişikliklere bağlı olarak, Kadıoğlu Dağı'nın iklimi değişir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve nemli bir hava hakimdir. Bu mevsimsel özellikler, dağın ekosistemini etkiler. Çevresindeki su kaynakları ve komşu alanlar, bu dağın doğal dengesini korur.
 
 Bölgenin ekosistem bağlantıları, Kadıoğlu Dağı'nın önemini gösterir. İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplayan bu dağ, komşu alanlarla bağlantılıdır. Su kaynakları ve diğer doğal kaynaklar, bu dağın çevresel ilişkilerini etkiler. 85 katlı bir gökdelen kadar yüksek olan bu dağ, ziyaretçilerini doğal güzelliği ile etkiler.
 

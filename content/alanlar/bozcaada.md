@@ -45,7 +45,7 @@ Bozcaada'nın coğrafi konumu, Çanakkale Boğazı'nın girişinde, Avrupa ve As
 
 Jeolojik açıdan bakıldığında, Bozcaada'nın fiziksel yapısı hakkında ayrıntılı bilgi olmasa da, ada genel olarak küçük bir yapıya sahiptir. Bu küçük ada, bir şehir bloğu büyüklüğünde bir alanı kaplar ve bu ölçek, ada üzerindeki yerleşim ve doğal alanların birbiri ile yakın ilişkisini gösterir. Ada'nın şekli ve boyutları, coğrafi konumu ile birleşerek, benzersiz bir doğal ve kültürel ortam oluşturur.
 
-İklim açısından, Bozcaada Ege Denizi'nin ılıman ikliminin etkisinde kalır. Mevsimsel özellikler, yaz aylarında sıca ve kuru, kış aylarında ılık ve yağışlı bir hava durumunu gösterir. Bu iklim karakteri, ada'nın flora ve fauna'sı için uygun bir ortam sağlar ve turizm açısından da önemli bir çekim merkezi oluşturur.
+İklim açısından, Bozcaada Ege Denizi'nin ılıman ikliminin etkisinde kalır. Mevsimsel özellikler, yaz aylarında sıcak ve kuru, kış aylarında ılık ve yağışlı bir hava durumunu gösterir. Bu iklim karakteri, ada'nın flora ve fauna'sı için uygun bir ortam sağlar ve turizm açısından da önemli bir çekim merkezi oluşturur.
 
 Çevresel ilişkiler açısından, Bozcaada Çanakkale Boğazı'nın bir parçası olarak, su kaynakları ve ekosistem bağlantıları açısından önemli bir konuma sahiptir. Ada, Ege Denizi'nin zengin su kaynaklarına bağlı olarak, bir dizi deniz canlısına ev sahipliği yapar. Ayrıca, ada'nın komşu alanlar ile olan bağlantısı, bölgenin ekolojik dengesini koruma açısından önemlidir. Bu doğal ve kültürel zenginlikler, Bozcaada'yı ziyaretçilerin keşfetmek isteyeceği bir destinasyon haline getirir.
 

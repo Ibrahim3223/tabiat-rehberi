@@ -40,7 +40,7 @@ Türkiye'de, Ulu Burun gibi doğal alanlar, sadece biyolojik çeşitlilik açıs
 
 ## Coğrafya
 
-Güney kıyılarımızda, Antalya'nın güneşli sahillerinin yakınında, 36.2502°K, 30.4255°D koordinatlarında yer alan Ulu Burun, doğal bir cennet olarak karşımıza çıkıyor. Bu bölgenin coğrafyası, Akdeniz'in sıca ve kurak ikliminin etkilerini taşıyor. Etrafını saran dağların eteklerinde, deniz seviyesinden yaklaşık 100 metre yükseklikte yer alan Ulu Burun, bir şehir bloğu büyüklüğünde bir alan olarak düşünülebilir.
+Güney kıyılarımızda, Antalya'nın güneşli sahillerinin yakınında, 36.2502°K, 30.4255°D koordinatlarında yer alan Ulu Burun, doğal bir cennet olarak karşımıza çıkıyor. Bu bölgenin coğrafyası, Akdeniz'in sıcak ve kurak ikliminin etkilerini taşıyor. Etrafını saran dağların eteklerinde, deniz seviyesinden yaklaşık 100 metre yükseklikte yer alan Ulu Burun, bir şehir bloğu büyüklüğünde bir alan olarak düşünülebilir.
 
 Doğal güzelliği ile dikkat çeken Ulu Burun, jeolojik açıdan da ilgi çekici özellikler taşıyor. Bölge, genellikle kireçtaşı ve kil gibi tortul kayalardan oluşuyor. Bu kayalar, milyonlarca yıl boyunca denizlerin ve nehirlerin etkisiyle şekillenmiş ve bugün görkemli bir manzara oluşturuyor. Ulu Burun'un fiziksel yapısı, Monaco'nun küçük bir bölümü kadar bir alanı kaplıyor ve bu alanda çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor.
 

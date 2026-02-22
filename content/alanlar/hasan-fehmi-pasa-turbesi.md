@@ -37,7 +37,7 @@ Hasan Fehmi Paşa Türbesi, histórik bir geçmişe sahiptir. Türbenin tam olar
 
 ## Coğrafya
 
-Hasan Fehmi Paşa Türbesi, Fatih ilçesinde yer almaktadır. Türbenin bulunduğu alan, Marmara Bölgesi'nin coğrafi özelliklerini taşmaktadır. Bu bölgede, çeşitli bitkiler ve ağaçlar bulunmaktadır. Türbenin etrafı, yeşilliklerle çevrilidir. Hasan Fehmi Paşa Türbesi, deniz seviyesinden yaklaşık yüksek bir konumdate bulunmaktadır. Türbenin bulunduğu alan, İstanbul'un merkezine yakındır. Türbe, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası olarak hizmet vermektedir. Hasan Fehmi Paşa Türbesi, coğrafi konumu ile dikkat çekmektedir. Türbenin bulunduğu alan, birçok önemli noktaya yakındır. Türbe, ziyaretçilerini coğrafi konumu ile çekmektedir. Hasan Fehmi Paşa Türbesi, coğrafi zenginliği ile ziyaretçilerini bekliyor.
+Hasan Fehmi Paşa Türbesi, Fatih ilçesinde yer almaktadır. Türbenin bulunduğu alan, Marmara Bölgesi'nin coğrafi özelliklerini taşmaktadır. Bu bölgede, çeşitli bitkiler ve ağaçlar bulunmaktadır. Türbenin etrafı, yeşilliklerle çevrilidir. Hasan Fehmi Paşa Türbesi, yüksek bir konumda bulunmaktadır. Türbenin bulunduğu alan, İstanbul'un merkezine yakındır. Türbe, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası olarak hizmet vermektedir. Hasan Fehmi Paşa Türbesi, coğrafi konumu ile dikkat çekmektedir. Türbenin bulunduğu alan, birçok önemli noktaya yakındır. Türbe, ziyaretçilerini coğrafi konumu ile çekmektedir. Hasan Fehmi Paşa Türbesi, coğrafi zenginliği ile ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 

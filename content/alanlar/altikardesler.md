@@ -30,7 +30,7 @@ Altıkardesler milli parkı, yüzyıllar boyunca çeşitli medeniyetlere ev sahi
 
 ## Coğrafya
 
-Altıkardesler milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir bölge. Parkın coğrafyası, yüksek dağlar, derin vadiler ve geniş otlaklardan oluşuyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor. Kış ayları soğu ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Parkın coğrafi yapısı, çeşitli bitki türlerinin yetişmesine olanak sağlıyor. Altıkardesler, ziyaretçilere doğanın güzelliğini sunuyor. Parkın coğrafyası, ziyaretçilerin doğa ile baş başa kalmasına olanak sağlıyor.
+Altıkardesler milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir bölge. Parkın coğrafyası, yüksek dağlar, derin vadiler ve geniş otlaklardan oluşuyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Parkın coğrafi yapısı, çeşitli bitki türlerinin yetişmesine olanak sağlıyor. Altıkardesler, ziyaretçilere doğanın güzelliğini sunuyor. Parkın coğrafyası, ziyaretçilerin doğa ile baş başa kalmasına olanak sağlıyor.
 
 ## Flora ve Fauna
 

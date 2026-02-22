@@ -30,7 +30,7 @@ Balikesir-Bandirma-Susurluk Kızılçam milli parkının tarihi geçmişi, yüzy
 
 ## Coğrafya
 
-Balikesir-Bandirma-Susurluk Kızılçam milli parkı, coğrafi konumu itibariyle İç Anadolu Bölgesi'nde yer alıyor. Bu bölgenin coğrafyası, doğu-batı doğrultusunda uzanan dağ sıraları ve vadiler ile karakterize ediliyor. Milli parkın iklimi, karasal iklim özellikleri gösteriyor ve mevsimsel değişimler ile birlikte ziyaretçilere farklı deneyimler sunuyor. Bahar aylarında yeşeren bitkiler ve çiçekler, Yaz aylarında sıca ve kurak bir hava, Sonbahar aylarında renk değiştiren yapraklar ve Kış aylarında karla kaplı dağlar, bu bölgenin coğrafyasının güzelliğini gözler önüne seriyor. Milli parkın coğrafyası, ziyaretçilere çeşitli doğa güzellikleri sunuyor ve bu güzelliği korumak için büyük bir önem taşıyor.
+Balikesir-Bandirma-Susurluk Kızılçam milli parkı, coğrafi konumu itibariyle İç Anadolu Bölgesi'nde yer alıyor. Bu bölgenin coğrafyası, doğu-batı doğrultusunda uzanan dağ sıraları ve vadiler ile karakterize ediliyor. Milli parkın iklimi, karasal iklim özellikleri gösteriyor ve mevsimsel değişimler ile birlikte ziyaretçilere farklı deneyimler sunuyor. Bahar aylarında yeşeren bitkiler ve çiçekler, Yaz aylarında sıcak ve kurak bir hava, Sonbahar aylarında renk değiştiren yapraklar ve Kış aylarında karla kaplı dağlar, bu bölgenin coğrafyasının güzelliğini gözler önüne seriyor. Milli parkın coğrafyası, ziyaretçilere çeşitli doğa güzellikleri sunuyor ve bu güzelliği korumak için büyük bir önem taşıyor.
 
 ## Flora ve Fauna
 

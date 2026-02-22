@@ -38,7 +38,7 @@ Kurşunlu Hamamı'nın tarihi geçmişi, Sivas'ın tarihi ile iç içe geçmiş 
 
 ## Coğrafya
 
-Kurşunlu Hamamı, Sivas ilinin merkezinde, İç Anadolu Bölgesi'nde yer alır. Hamam, şehrin tarihi merkezi içinde bulunmakta ve çevresinde çeşitli tarihi yapılar, parklar ve yeşil alanlar bulunmaktadır. İklim olarak, İç Anadolu Bölgesi'nin karasal iklimine sahiptir. Yaz ayları sıca ve kuru, kış ayları ise soğu ve kar yağışlıdır. Bu coğrafi konum, hamamın etrafını zengin bir bitki örtüsü ve fauna ile çevrelemiştir. Çevre, çeşitli bitki türleri ve hayvanlarla dolu olan bir ekosistemi barındırmaktadır. Kurşunlu Hamamı ve etrafındaki yeşil alanlar, Sivas'ın doğal güzelliklerini keşfetmek için ideal bir destinasyon sunar.
+Kurşunlu Hamamı, Sivas ilinin merkezinde, İç Anadolu Bölgesi'nde yer alır. Hamam, şehrin tarihi merkezi içinde bulunmakta ve çevresinde çeşitli tarihi yapılar, parklar ve yeşil alanlar bulunmaktadır. İklim olarak, İç Anadolu Bölgesi'nin karasal iklimine sahiptir. Yaz ayları sıcak ve kuru, kış ayları ise soğuk ve kar yağışlıdır. Bu coğrafi konum, hamamın etrafını zengin bir bitki örtüsü ve fauna ile çevrelemiştir. Çevre, çeşitli bitki türleri ve hayvanlarla dolu olan bir ekosistemi barındırmaktadır. Kurşunlu Hamamı ve etrafındaki yeşil alanlar, Sivas'ın doğal güzelliklerini keşfetmek için ideal bir destinasyon sunar.
 
 ## Flora ve Fauna
 

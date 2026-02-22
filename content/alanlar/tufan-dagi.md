@@ -45,7 +45,7 @@ Güneydeki dağlık arazilerde yer alan Tufan Dağı, Antalya'nın doğal güzel
 
 Doğal bir oluşum olan Tufan Dağı, kendi içinde birçok jeolojik özelliği barındırıyor. Ancak, fiziksel veriler sınırlı olduğu için tam bir boyutlandırma yapılamıyor. Buna rağmen, bu dağlık alanın bir şehir bloğu büyüklüğünde olduğu düşünülüyor. Bu büyüklük, Tufan Dağı'nın çevresindeki diğer coğrafik oluşumlarla karşılaştırıldığında oldukça dikkat çekici bir özellik sunuyor.
 
-Yaz aylarında sıca ve kurak bir iklim karakterine sahip olan Tufan Dağı, kış aylarında ise ılıman bir hava durumuna sahip. Bu mevsimsel özellikler, dağlık alanın flora ve fauna çeşitliliği açısından zengin bir ekosisteme sahip olmasını sağlıyor. Tufan Dağı, etrafındaki diğer doğal alanlarla birlikte bir bütünü oluşturuyor ve bu reason, bölgenin doğal güzelliklerini koruma altına almak açısından oldukça önemli.
+Yaz aylarında sıcak ve kurak bir iklim karakterine sahip olan Tufan Dağı, kış aylarında ise ılıman bir hava durumuna sahip. Bu mevsimsel özellikler, dağlık alanın flora ve fauna çeşitliliği açısından zengin bir ekosisteme sahip olmasını sağlıyor. Tufan Dağı, etrafındaki diğer doğal alanlarla birlikte bir bütünü oluşturuyor ve bu reason, bölgenin doğal güzelliklerini koruma altına almak açısından oldukça önemli.
 
 Tufan Dağı'nın çevresindeki komşu alanlar, dağlık araziler ve vadilerden oluşuyor. Bu dağlık alan, su kaynakları açısından zengin bir bölge ve etrafındaki ekosistem bağlantıları, doğal yaşamın çeşitliliği açısından büyük bir önem taşıyor. Monaco'nun yarısı kadar büyük bir alana sahip olan Tufan Dağı, çevresindeki diğer doğal güzelliklerle birlikte bir bütünü oluşturuyor ve bu reason, bölgenin güzelliklerini koruma altına almak açısından oldukça önemli.
 

@@ -44,7 +44,7 @@ Diyarbakır'ın coğrafi güzelliğini keşfederken, Erbat Dağı'nın 38.2333°
 
 Jeolojik yapısını incelediğimizde, Erbat Dağı'nın karmaşık bir yapıya sahip olduğunu görüyoruz. Ancak, detaylı fiziksel veri bulunmaması nedeniyle, dağın boyutları ve şekli hakkında net bir fikir sahibi olamıyoruz. Buna rağmen, dağın yüksekliği ve eğimleri, bölgenin iklimini ve ekosistemini etkileyen önemli faktörler.
 
-Mevsimsel değişimler, Erbat Dağı'nın iklimini şekillendiren önemli bir etken. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kuru bir iklim hakim. Bu mevsimsel farklılıklar, dağda yaşayan bitki ve hayvan türlerini etkiliyor. Örneğin, dağların yüksek kesimlerinde, bazı bitki türleri sadece belirli mevsimlerde yetişebiliyor.
+Mevsimsel değişimler, Erbat Dağı'nın iklimini şekillendiren önemli bir etken. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kuru bir iklim hakim. Bu mevsimsel farklılıklar, dağda yaşayan bitki ve hayvan türlerini etkiliyor. Örneğin, dağların yüksek kesimlerinde, bazı bitki türleri sadece belirli mevsimlerde yetişebiliyor.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları, Erbat Dağı'nın çevresel ilişkilerini etkiliyor. Dağın eteklerinde, bazı küçük akarsular ve derecikler bulunuyor. Bu su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılıyor. Ayrıca, dağda yaşayan çeşitli hayvan türleri, bölgenin biyolojik çeşitliliğine katkıda bulunuyor. Erbat Dağı, Diyarbakır'ın doğal güzelliğini ve biyolojik çeşitliliğini korumanın önemli bir parçası.
 

@@ -45,7 +45,7 @@ Doğal güzellikleri ile dikkat çeken Karadağ, İzmir'in gözde noktalarından
 
 Ülkemizin coğrafi çeşitliliği düşünüldüğünde, Karadağ'ın fiziksel yapısı oldukça dikkat çekicidir. Ancak, detaylı fiziksel verilerin bulunmaması nedeniyle, bu bölgenin büyüklüğü ve yüksekliği konusunda net bir bilgi verilememektedir. Buna rağmen, Karadağ'ın Ege Bölgesi'nin en önemli dağlarından biri olduğu ve bölgenin coğrafi yapısına büyük ölçüde katkı sağladığı bilinmektedir.
 
-Mevsimsel değişiklikler açısından bakıldığında, Karadağ'ın iklim karakteri oldukça ilgi çekicidir. Ege Bölgesi'nin genel iklimi gibi, Karadağ'da yazları sıca ve kurak, kışları ılıman ve yağışlı bir iklim hüküm sürmektedir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini büyük ölçüde etkilemektedir.
+Mevsimsel değişiklikler açısından bakıldığında, Karadağ'ın iklim karakteri oldukça ilgi çekicidir. Ege Bölgesi'nin genel iklimi gibi, Karadağ'da yazları sıcak ve kurak, kışları ılıman ve yağışlı bir iklim hüküm sürmektedir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini büyük ölçüde etkilemektedir.
 
 Çevresel açıdan bakıldığında, Karadağ'ın komşu alanlar ve su kaynakları ile önemli bir bağlantısı bulunmaktadır. İzmir'in önemli su kaynaklarına yakın bir konumda bulunan Karadağ, bölgenin ekosistem dengesini korumak için büyük bir önem taşımaktadır. Ayrıca, Karadağ'ın etrafındaki diğer doğal alanlar ile olan bağlantıları, bölgenin biyolojik çeşitliliğini desteklemektedir.
 

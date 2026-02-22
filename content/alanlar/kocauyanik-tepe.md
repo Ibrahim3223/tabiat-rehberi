@@ -42,7 +42,7 @@ Güneybatı Anadolu'nun kalbinde yer alan Kocauyanık Tepe, Burdur ilinin sını
 
 Doğal güzelliği ve jeolojik yapısı ile dikkat çeken Kocauyanık Tepe, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alana yayılır. Bu boyutlar, tepeyi çeviren geniş ovalar ve dağlık arazilerle karşılaştırıldığında oldukça küçük görünse de, tepe kendi içinde zengin bir ekosisteme sahiptir. Jeolojik olarak incelendiğinde, tepe ve çevresinin çoğunlukla kireçtaşı ve şist gibi kayaçlardan oluştuğu görülür.
 
-Kocauyanık Tepe'nin iklim karakteri, Akdeniz ikliminin etkisi altındadır. Bu bölge, yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir hava durumuna sahiptir. Tepe, mevsimsel olarak değişen hava koşullarına uyum gösteren bitki örtüsüne ev sahipliği yapar. Bu özelliğiyle, Kocauyanık Tepe, bölgedeki diğer dağlar ve ovalarla birlikte bir bütün olarak işleyen bir ekosistemin parçası haline gelir.
+Kocauyanık Tepe'nin iklim karakteri, Akdeniz ikliminin etkisi altındadır. Bu bölge, yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava durumuna sahiptir. Tepe, mevsimsel olarak değişen hava koşullarına uyum gösteren bitki örtüsüne ev sahipliği yapar. Bu özelliğiyle, Kocauyanık Tepe, bölgedeki diğer dağlar ve ovalarla birlikte bir bütün olarak işleyen bir ekosistemin parçası haline gelir.
 
 Çevresel açıdan bakıldığında, Kocauyanık Tepe, Burdur Gölü gibi önemli su kaynaklarına yakınlığıyla dikkat çeker. Bu su kaynakları, tepe ve çevresindeki ekosistemin canlılığını destekler. Ayrıca, tepe ve çevresindeki araziler, çeşitli bitki ve hayvan türleri için yaşam alanı oluşturur. Bu nedenle, Kocauyanık Tepe, bölgedeki doğal dengenin korunması açısından önemli bir role sahiptir.
 

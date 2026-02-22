@@ -44,7 +44,7 @@ Doğal güzelliklerin cenneti Muğla'da, 37.3333°K ve 27.9167°D koordinatları
 
 Jeolojik açıdan bakıldığında, Kurukümes Dağı'nın fiziksel yapısı hakkında detaylı bilgiler olmasa da, bu dağların genellikle geniş bir alana yayıldıkları biliniyor. Monaco'nun yarısı kadar bir alanı kaplayabilen bu gibi dağlar, coğrafi olarak önemli bir yer tutuyorlar. Ancak, Kurukümes Dağı'nın boyutları hakkında net bir veri olmasa da, benzer dağların genellikle birkaç kilometre genişliğinde ve uzunluğunda olduğu düşünülüyor.
 
-Mevsimsel değişimlere bakıldığında, Kurukümes Dağı'nın iklim karakteri Akdeniz ikliminin özelliklerini taşıyor. Yaz aylarında sıca ve khô, kış aylarında ise ılıman ve yağışlı bir hava hakim. Bu iklim, bölgenin bitki örtüsünü ve fauna çeşitliliğini etkiliyor.
+Mevsimsel değişimlere bakıldığında, Kurukümes Dağı'nın iklim karakteri Akdeniz ikliminin özelliklerini taşıyor. Yaz aylarında sıcak ve kuru, kış aylarında ise ılıman ve yağışlı bir hava hakim. Bu iklim, bölgenin bitki örtüsünü ve fauna çeşitliliğini etkiliyor.
 
 Çevresel açıdan bakıldığında, Kurukümes Dağı'nın komşu alanlarla ve su kaynaklarıyla important bir bağlantısı var. Bu dağ, etrafındaki diğer doğal güzelliklerle birlikte bir ekosistem oluşturuyor ve bölgenin su döngüsünü etkiliyor. Örneğin, bir şehir bloğu büyüklüğünde olan küçük vadiler, bu dağların eteklerinde oluşabiliyor ve su kaynaklarını besliyor.
 

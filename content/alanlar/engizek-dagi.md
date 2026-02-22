@@ -42,7 +42,7 @@ Güneydoğu Toroslar'ın eteklerinde yer alan Engizek Dağı, Kahramanmaraş ili
 
 Doğal güzellikleri ve jeolojik yapısıyla dikkat çeken Engizek Dağı, yaklaşık olarak 1200 hektarlık bir alanı kaplamaktadır. Bu alan, Monaco'nun yarısı kadar bir büyüklüğe sahiptir. Ancak, Engizek Dağı'nın tam olarak ne kadar yüksek olduğu veya şekli hakkında detaylı bilgi bulunmamaktadır. Buna rağmen, coğrafi konumu ve büyüklüğü, bölgenin önemli bir doğal oluşumu olduğunu göstermektedir.
 
-Mevsimsel özelliklere bakıldığında, Engizek Dağı'nın bulunduğu bölge, karasal iklimin etkilerini taşımaktadır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Engizek Dağı, bu doğal döngünün bir parçası olarak, bölgenin ekosistemini şekillendirmektedir.
+Mevsimsel özelliklere bakıldığında, Engizek Dağı'nın bulunduğu bölge, karasal iklimin etkilerini taşımaktadır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Engizek Dağı, bu doğal döngünün bir parçası olarak, bölgenin ekosistemini şekillendirmektedir.
 
 Çevresel açıdan bakıldığında, Engizek Dağı, bölgenin su kaynaklarına ve ekosistemine önemli katkılar sağlamaktadır. Dağın eteklerinde yer alan su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılamaktadır. Ayrıca, Engizek Dağı, bölgenin biyolojik çeşitliliğini korumak açısından da önemlidir. Bu nedenle, Engizek Dağı'nın korunması ve sürdürülebilir kullanımı, bölgenin doğal dengesini korumak için önemlidir.
 
@@ -50,7 +50,7 @@ Mevsimsel özelliklere bakıldığında, Engizek Dağı'nın bulunduğu bölge, 
 
 Engizek Dağı, Kahramanmaraş'ta yer alan bir dağ ekosistemi olarak, maki bitki örtüsüne ev sahipliği yapar. Bu bölgede, kuraklığa dayanıklı türler hakimdir. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Kış aylarında, dağların yüksek kesimlerinde karla kaplı alanlar oluşur.
 
-Dağın yükseklik zonlarında, alpin flora çeşitliliği dikkat çeker. Bu bölgede, dağ keçileri ve diğer yaban hayvanları yaşam alanlarını bulur. Kuşlar, özellikle sonbahar aylarında göç ederken, Engizek Dağı'nda önemli bir duraklama noktası oluşturur. Sürüngenler de, bu bölgenin sıca ve kuru alanlarında yaşamlarını sürdürür.
+Dağın yükseklik zonlarında, alpin flora çeşitliliği dikkat çeker. Bu bölgede, dağ keçileri ve diğer yaban hayvanları yaşam alanlarını bulur. Kuşlar, özellikle sonbahar aylarında göç ederken, Engizek Dağı'nda önemli bir duraklama noktası oluşturur. Sürüngenler de, bu bölgenin sıcak ve kuru alanlarında yaşamlarını sürdürür.
 
 Engizek Dağı, ekolojik açıdan önemli bir bölgedir. Bu dağ ekosisteminin korunması, sadece burada yaşayan canlılar için değil, aynı zamanda bölgenin su döngüsü ve toprak kalitesi için de büyük önem taşır. Bu nedenle, Engizek Dağı'nın korunmasına yönelik çalışmalar, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini korumak için son derece önemlidir.
 

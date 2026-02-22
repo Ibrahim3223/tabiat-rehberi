@@ -36,7 +36,7 @@ Hatunkaya Deresi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Hatunkaya Deresi, Doğu Anadolu Bölgesi'nin Malatya şehrinde bulunuyor. Bu bölge, coğrafi olarak oldukça zengin bir yapıya sahip. Derenin etrafında bulunan dağlar, yeşil alanlar ve ormanlar, bu bölgenin doğal güzelliğini artırıyor. Derenin kenarında bulunan ağaçlar, mevsimsel olarak değişen renkleriyle ziyaretçilere renkli bir manzara sunuyor. Bu bölge, iklim olarak karasal iklim özellikleri gösteriyor. Kışları soğu ve karlı, yazları ise sıcak ve kurak olan bu bölge, ziyaretçilerine dört mevsim boyunca farklı deneyimler sunuyor. Hatunkaya Deresi, yaklaşık 200 futbol sahası büyüklüğünde geniş bir bölgeyi kapsıyor ve 140 hektarlık yeşil alanı ile ziyaretçilerini büyülüyor.
+Hatunkaya Deresi, Doğu Anadolu Bölgesi'nin Malatya şehrinde bulunuyor. Bu bölge, coğrafi olarak oldukça zengin bir yapıya sahip. Derenin etrafında bulunan dağlar, yeşil alanlar ve ormanlar, bu bölgenin doğal güzelliğini artırıyor. Derenin kenarında bulunan ağaçlar, mevsimsel olarak değişen renkleriyle ziyaretçilere renkli bir manzara sunuyor. Bu bölge, iklim olarak karasal iklim özellikleri gösteriyor. Kışları soğuk ve karlı, yazları ise sıcak ve kurak olan bu bölge, ziyaretçilerine dört mevsim boyunca farklı deneyimler sunuyor. Hatunkaya Deresi, yaklaşık 200 futbol sahası büyüklüğünde geniş bir bölgeyi kapsıyor ve 140 hektarlık yeşil alanı ile ziyaretçilerini büyülüyor.
 
 ## Flora ve Fauna
 

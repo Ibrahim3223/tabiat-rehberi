@@ -37,7 +37,7 @@ Gözecik Tümülüsünün tarihi geçmişi, yüzyıllar boyunca çeşitli uygarl
 
 ## Coğrafya
 
-Gözecik Tümülüsü, Sivas'ın Divriği ilçesinde, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun bir konumda yer alıyor. Bölge, geniş otlaklar ve step bitkileri ile kaplı bir araziye sahip olup, coğrafi olarak çevredeki dağlar ve ovalarla çevrilidir. Tümülüsün bulunduğu alan, coğrafi olarak 140 hektarlık bir büyüklüğe sahip ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir iklim özelliği gösteriyor. Yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlı geçiyor. Bu coğrafi ve iklimsel özellikler, Gözecik Tümülüsünü ziyaret etmek isteyenler için önemli bir bilgi kaynağı oluşturuyor.
+Gözecik Tümülüsü, Sivas'ın Divriği ilçesinde, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun bir konumda yer alıyor. Bölge, geniş otlaklar ve step bitkileri ile kaplı bir araziye sahip olup, coğrafi olarak çevredeki dağlar ve ovalarla çevrilidir. Tümülüsün bulunduğu alan, coğrafi olarak 140 hektarlık bir büyüklüğe sahip ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir iklim özelliği gösteriyor. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçiyor. Bu coğrafi ve iklimsel özellikler, Gözecik Tümülüsünü ziyaret etmek isteyenler için önemli bir bilgi kaynağı oluşturuyor.
 
 ## Flora ve Fauna
 

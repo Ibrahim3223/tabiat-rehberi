@@ -38,7 +38,7 @@ Yerköprü Çağlayanı, tarihin derinliklerinde gizli bir hazine gibi bekliyor.
 
 ## Coğrafya
 
-Yerköprü Çağlayanı, coğrafi olarak, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, genellikle, dağlık ve engebeli arazilerle kaplı olup, Yerköprü Çağlayanı da, bu coğrafi yapı içinde yer alıyor. Çağlayan, bir vadi içerisinde yer alıyor ve çevresi, çam ağacı ve diğer maki türleri ile kaplı. Yerköprü Çağlayanı, iklim olarak, Akdeniz ikliminin özelliklerini gösteriyor. Yaz ayları, sıca ve kurak geçerken, kış ayları ılık ve yağışlı geçiyor. Yerköprü Çağlayanı, coğrafi konumu itibariyle, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor. Bu nedenle, Yerköprü Çağlayanı, doğa severlerin ve biyologların ilgisini çekiyor.
+Yerköprü Çağlayanı, coğrafi olarak, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, genellikle, dağlık ve engebeli arazilerle kaplı olup, Yerköprü Çağlayanı da, bu coğrafi yapı içinde yer alıyor. Çağlayan, bir vadi içerisinde yer alıyor ve çevresi, çam ağacı ve diğer maki türleri ile kaplı. Yerköprü Çağlayanı, iklim olarak, Akdeniz ikliminin özelliklerini gösteriyor. Yaz ayları, sıcak ve kurak geçerken, kış ayları ılık ve yağışlı geçiyor. Yerköprü Çağlayanı, coğrafi konumu itibariyle, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor. Bu nedenle, Yerköprü Çağlayanı, doğa severlerin ve biyologların ilgisini çekiyor.
 
 ## Flora ve Fauna
 

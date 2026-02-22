@@ -45,7 +45,7 @@ Doğunun kalbinde, Sivas ilinin sınırları içerisinde yer alan Kızıl Dağ, 
 
 Jeolojik açıdan bakıldığında, Kızıl Dağ'ın fiziksel yapısı hakkında detaylı bilgi olmasa da, genel olarak bölgeye hakim olan dağlık yapı, bu bölgenin jeolojik geçmişinin karmaşıklığını ortaya koymaktadır. Dağın boyutları ve şekli, bölgenin tektonik aktivitesinin bir sonucu olarak oluşmuş olabilir. Ancak, 40.0067°K ve 37.1458°D koordinatlarında bulunan bu dağ, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplar ve bu büyüklük, bölgenin coğrafi çeşitliliğini gözler önüne serer.
 
-İklim açısından, Kızıl Dağ'ın bulunduğu bölge, karasal iklimin hüküm sürdüğü bir bölgedir. Mevsimsel değişiklikler belirgindir ve yaz ayları sıca ve kuru, kış ayları ise soğu ve karlı geçer. Bu iklim karakteri, bölgenin flora ve faunasını etkileyen önemli bir faktördür. Hava durumu, yıl boyunca değişkenlik gösterir ve dağlık bölgede, yüksekli ve yön gibi faktörler, mikroklimatik farklılıklar yaratır.
+İklim açısından, Kızıl Dağ'ın bulunduğu bölge, karasal iklimin hüküm sürdüğü bir bölgedir. Mevsimsel değişiklikler belirgindir ve yaz ayları sıcak ve kuru, kış ayları ise soğuk ve karlı geçer. Bu iklim karakteri, bölgenin flora ve faunasını etkileyen önemli bir faktördür. Hava durumu, yıl boyunca değişkenlik gösterir ve dağlık bölgede, yüksekli ve yön gibi faktörler, mikroklimatik farklılıklar yaratır.
 
 Çevresel açıdan, Kızıl Dağ, komşu alanlar ve su kaynakları ile bağlantılıdır. Bölgede yer alan akarsular ve göller, dağlık arazinin şekillenmesinde önemli rol oynamıştır. Ekosistem bağlantıları, bölgenin biyolojik çeşitliliğini destekler ve dağ, geniş otlaklar ve ormanlık alanlarla çevrilidir. Bu doğal güzellik, bölgenin turizm potansiyelini artırır ve ziyaretçilere, eşsiz bir deneyim sunar.
 

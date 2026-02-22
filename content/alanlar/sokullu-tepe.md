@@ -36,7 +36,7 @@ Sokullu Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu tepe
 
 ## Coğrafya
 
-Sokullu Tepe, coğrafi konumu itibariyle Ege Bölgesi'nin önemli noktalarından biridir. Bu tepe, Afyonkarahisar'ın merkezine yakın bir konumda yer alır ve ziyaretçilerine şehir merkezine kolay ulaşım imkanı sunar. Sokullu Tepe'nin coğrafi yapısı, ziyaretçilerine çeşitli doğal güzellikler sunar. Bu tepe, yeşilin farklı tonlarını barındıran bir alanı kapsar ve ziyaretçilerine doğayla iç içe bir deneyim sunar. Sokullu Tepe'nin iklimi, Ege Bölgesi'nin karakteristik iklimine uygun olarak sıca ve kurak yazlar, ılık ve yağışlı kışlar şeklinde tanımlanabilir. Bu tepe, ziyaretçilerine yılın her döneminde farklı bir deneyim sunar. Sokullu Tepe, aynı zamanda çevresindeki diğer doğal güzelliklere de yakın bir konumda yer alır ve ziyaretçilerine geniş bir keşif alanı sunar.
+Sokullu Tepe, coğrafi konumu itibariyle Ege Bölgesi'nin önemli noktalarından biridir. Bu tepe, Afyonkarahisar'ın merkezine yakın bir konumda yer alır ve ziyaretçilerine şehir merkezine kolay ulaşım imkanı sunar. Sokullu Tepe'nin coğrafi yapısı, ziyaretçilerine çeşitli doğal güzellikler sunar. Bu tepe, yeşilin farklı tonlarını barındıran bir alanı kapsar ve ziyaretçilerine doğayla iç içe bir deneyim sunar. Sokullu Tepe'nin iklimi, Ege Bölgesi'nin karakteristik iklimine uygun olarak sıcak ve kurak yazlar, ılık ve yağışlı kışlar şeklinde tanımlanabilir. Bu tepe, ziyaretçilerine yılın her döneminde farklı bir deneyim sunar. Sokullu Tepe, aynı zamanda çevresindeki diğer doğal güzelliklere de yakın bir konumda yer alır ve ziyaretçilerine geniş bir keşif alanı sunar.
 
 ## Flora ve Fauna
 

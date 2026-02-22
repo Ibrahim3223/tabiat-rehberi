@@ -30,7 +30,7 @@ Vakif Çamligi'nin tarihi geçmişi, yüzyıllar boyunca bölgeye hükmetmiş fa
 
 ## Coğrafya
 
-Vakif Çamligi, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır. Bölge, genellikle step ikliminin hakim olduğu bir bölgede yer alır. Bu step iklimi, yazları sıca ve kurak, kışları ise soğu ve kar yağışlı olarak karakterize edilir. Vakif Çamligi, bu coğrafi koşullara uygun olarak, çoğunlukla çam ağaçlarından oluşan ormanlık bir alandır. Bu ormanlık alan, bölgenin fauna çeşitliliğini destekler ve çeşitli hayvan türlerinin yaşam alanı olarak hizmet eder. Ayrıca, bu bölge, farklı bitki türleri ile de dikkat çeker ve doğa severler için bir cennet olarak görülür. Coğrafi olarak, bu alanın yer aldığı İç Anadolu Bölgesi, Türkiye'nin merkezi bir bölgesidir ve ülkenin diğer bölgelerine ulaşım bakımından stratejik bir konumda bulunur.
+Vakif Çamligi, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır. Bölge, genellikle step ikliminin hakim olduğu bir bölgede yer alır. Bu step iklimi, yazları sıcak ve kurak, kışları ise soğuk ve kar yağışlı olarak karakterize edilir. Vakif Çamligi, bu coğrafi koşullara uygun olarak, çoğunlukla çam ağaçlarından oluşan ormanlık bir alandır. Bu ormanlık alan, bölgenin fauna çeşitliliğini destekler ve çeşitli hayvan türlerinin yaşam alanı olarak hizmet eder. Ayrıca, bu bölge, farklı bitki türleri ile de dikkat çeker ve doğa severler için bir cennet olarak görülür. Coğrafi olarak, bu alanın yer aldığı İç Anadolu Bölgesi, Türkiye'nin merkezi bir bölgesidir ve ülkenin diğer bölgelerine ulaşım bakımından stratejik bir konumda bulunur.
 
 ## Flora ve Fauna
 

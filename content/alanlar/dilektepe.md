@@ -45,7 +45,7 @@ Güneydoğu Anadolu Bölgesi'nin güzide yerlerinden biri olan Dilektepe, 38.034
 
 Jeolojik açıdan incelendiğinde, Dilektepe'nin coğrafyası oldukça ilginçtir. Ancak, detaylı fiziksel veriler bulunmamasına rağmen, bu dağların bölge için önemli bir yer tuttuğu söylenebilir. Monaco'nun yarısı kadar bir alanı kaplayacak büyüklükte olsaydı, etkileyici bir manzara sunardı. Ancak, mevcut bilgilerle bu dağın boyutları hakkında net bir karşılaştırma yapma mümkün değildir.
 
-Mevsimsel olarak, Dilektepe'nin iklimi bölgenin genel karakterini taşır. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Hava durumu, mevsimlere göre değişkenlik gösterir ve ziyaretçiler, mevsime uygun hazırlık yaparak bu güzide yere gelebilirler.
+Mevsimsel olarak, Dilektepe'nin iklimi bölgenin genel karakterini taşır. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Hava durumu, mevsimlere göre değişkenlik gösterir ve ziyaretçiler, mevsime uygun hazırlık yaparak bu güzide yere gelebilirler.
 
 Doğal kaynaklar açısından, Dilektepe'nin etrafında su kaynakları ve ekosistemler bulunur. Bu dağ, komşu alanlarla birlikte bir bütün olarak değerlendirildiğinde, bölgenin ekolojik dengesine önemli katkılar sağlar. Taksim Meydanı'nın birkaç katı büyüklüğünde bir alana sahip olsaydı, bu dağların çevresel ilişkileri daha da önemli hale gelirdi. Ancak, mevcut bilgiler ışığında, Dilektepe'nin bölgedeki doğal güzelliği ve ekolojik önemi vurgulanabilir.
 

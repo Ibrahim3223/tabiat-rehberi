@@ -36,7 +36,7 @@ wikidata_id: "Q34829264"
 
 ## Coğrafya
 
-Çıplakdağ Tepesi, Kars ilinin coğrafi yapısını oluşturan dağlık bir bölgede yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alan sunar. Çıplakdağ Tepesi'nin yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdatedir. Bu tepe, etrafındaki dağlarla birlikte, bölgenin coğrafi yapısını oluşturan önemli bir unsurdur. Çıplakdağ Tepesi'nin iklimi, Doğu Anadolu Bölgesi'nin karakteristik iklimine benzer. Bu tepe, kış aylarında soğu ve karlı, yaz aylarında ise serin ve yağışlı bir iklim sunar. Çıplakdağ Tepesi'nin etrafında yer alan nehirler ve akarsular, bölgenin su kaynaklarını oluşturan önemli bir unsurdur.
+Çıplakdağ Tepesi, Kars ilinin coğrafi yapısını oluşturan dağlık bir bölgede yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alan sunar. Çıplakdağ Tepesi'nin yüksekliği, yüksek bir konumdadir. Bu tepe, etrafındaki dağlarla birlikte, bölgenin coğrafi yapısını oluşturan önemli bir unsurdur. Çıplakdağ Tepesi'nin iklimi, Doğu Anadolu Bölgesi'nin karakteristik iklimine benzer. Bu tepe, kış aylarında soğuk ve karlı, yaz aylarında ise serin ve yağışlı bir iklim sunar. Çıplakdağ Tepesi'nin etrafında yer alan nehirler ve akarsular, bölgenin su kaynaklarını oluşturan önemli bir unsurdur.
 
 ## Flora ve Fauna
 

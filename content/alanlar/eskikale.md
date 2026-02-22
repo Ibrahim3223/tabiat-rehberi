@@ -45,7 +45,7 @@ Doğal güzelliklerin bir araya geldiği bu coğrafyada, Eskikale Dağı, 40.135
 
 Jeolojik açıdan bakıldığında, Eskikale Dağı'nın fiziksel yapısı hakkında detaylı bilgi olmasa da, koordinatlarından anlaşıldığı üzere, deniz seviyesinden belirli bir yükseklikte yer alıyor. Bu yükseklik, Eiffel Kulesi'nin yaklaşık 2/3'üne denk geliyor. Dağın boyutları ve şekli, bölgenin jeolojik geçmişini ve oluşum süreçlerini anlamak için önemli ipuçları sunuyor.
 
-Mevsimsel değişikliklere baktığımızda, Eskikale Dağı ve çevresi, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakim. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini şekillendirmiş.
+Mevsimsel değişikliklere baktığımızda, Eskikale Dağı ve çevresi, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakim. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini şekillendirmiş.
 
 Çevresel açıdan bakıldığında, Eskikale Dağı, komşu alanlar ve su kaynaklarıyla bağlantılı bir ekosistem içerisinde yer alıyor. Monaco'nun yaklaşık 1/5'i büyüklüğünde bir alanı kaplayan bu dağ, çevresindeki diğer coğrafi oluşumlarla birlikte, bir bütün olarak düşünüldüğünde, önemli bir ekosistem parçası olarak değerlendiriliyor.
 

@@ -45,7 +45,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Berit Dağı, 37.9151°K ve 3
 
 Doğal güzelliği ile ön plana çıkan Berit Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplar. Ancak, fiziksel yapısı hakkında detaylı bilgiler bulunmaması, bu alanın tam olarak ne kadar büyük olduğunu kestirmeyi zorlaştırır. Jeolojik açıdan incelendiğinde, bölgenin karmaşık bir yapıya sahip olduğu söylenebilir, ancak daha spesifik bilgiler elde edilebilmesi için daha fazla veriye ihtiyaç duyulur.
 
-Mevsimsel değişikliklere göre değişen hava durumu, Berit Dağı'nın iklim karakterini şekillendirir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve ekosistemin dengesini sağlar.
+Mevsimsel değişikliklere göre değişen hava durumu, Berit Dağı'nın iklim karakterini şekillendirir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve ekosistemin dengesini sağlar.
 
 Berit Dağı, çevresindeki su kaynakları ve ekosistem bağlantıları ile önemli bir rol oynar. Bölgede yer alan su kaynakları, dağdan doğan akarsular ve derenin oluşturduğu vadiler, ekosistemin temel bileşenlerini oluşturur. Bu su kaynakları, bölgenin tarımsal faaliyetleri için de hayati önem taşır ve komşu alanların doğal dengesini korur.
 

@@ -45,7 +45,7 @@ Gelibolu Adası, Ege Denizi'nde, Muğla ilinin sınırları içerisinde yer alan
 
 Doğal güzellikleri ile ön plana çıkan Gelibolu Adası, coğrafi yapısı itibariyle ilgi çekici bir profil sunuyor. Ada, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Jeolojik yapısı itibariyle de dikkat çeken ada, Ege Denizi'nin diğer adaları ile benzerlik gösteriyor.
 
-İklim açısından bakıldığında, Gelibolu Adası, Akdeniz ikliminin hakim olduğu bir bölge olarak karşımıza çıkıyor. Mevsimsel olarak sıcaklık ve yağış oranları değişkenlik gösteriyor. Yaz aylarında sıca ve kurak bir hava, kış aylarında ise ılıman bir iklim hakim oluyor.
+İklim açısından bakıldığında, Gelibolu Adası, Akdeniz ikliminin hakim olduğu bir bölge olarak karşımıza çıkıyor. Mevsimsel olarak sıcaklık ve yağış oranları değişkenlik gösteriyor. Yaz aylarında sıcak ve kurak bir hava, kış aylarında ise ılıman bir iklim hakim oluyor.
 
 Ada, çevresindeki diğer adalar ve anakara ile ekosistem bağlantısı açısından da önemli bir role sahip. Ege Denizi'nin zengin su kaynakları ve deniz canlıları, Gelibolu Adası'nın doğal güzelliklerini daha da zenginleştirmiş durumda. Ada, Monaco'nun çok küçük bir bölümü kadar bir alanı kaplıyor ve bu nedenle de doğal kaynaklarının korunmasına dikkat edilmesi gerekiyor.
 

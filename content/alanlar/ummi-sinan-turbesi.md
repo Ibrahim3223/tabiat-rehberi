@@ -37,7 +37,7 @@ wikidata_id: "Q131391004"
 
 ## Coğrafya
 
-Ümmi Sinan Türbesi, coğrafi olarak Marmara Bölgesi'nin kalbinde yer alıyor. Bu bölge, İstanbul'un Eyüpsultan ilçesinde bulunuyor ve 140 hektarlık alanı kapsıyor. Ümmi Sinan Türbesi, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor ve çevresi çeşitli bitki türleriyle dolu. Bu bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak ılıman ve nemli. Kış ayları genellikle ılık ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Ümmi Sinan Türbesi, coğrafi konumu itibariyle ziyaretçilere doğanın güzelliğini ve tarihi bir mekanın değerini deneyimleme fırsatı sunuyor.
+Ümmi Sinan Türbesi, coğrafi olarak Marmara Bölgesi'nin kalbinde yer alıyor. Bu bölge, İstanbul'un Eyüpsultan ilçesinde bulunuyor ve 140 hektarlık alanı kapsıyor. Ümmi Sinan Türbesi, yüksek bir konumda yer alıyor ve çevresi çeşitli bitki türleriyle dolu. Bu bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak ılıman ve nemli. Kış ayları genellikle ılık ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Ümmi Sinan Türbesi, coğrafi konumu itibariyle ziyaretçilere doğanın güzelliğini ve tarihi bir mekanın değerini deneyimleme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

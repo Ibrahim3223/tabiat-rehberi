@@ -30,7 +30,7 @@ Canakkale-Bayramic-Gokceici Kızılçam 2 milli parkının tarihi geçmişi, yü
 
 ## Coğrafya
 
-Canakkale-Bayramic-Gokceici Kızılçam 2 milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısı ile şekillenmiştir. Yaklaşık 140 hektarlık bir alanı kaplayan bu park, çeşitli bitki türleri ve zengin fauna ile birlikte ziyaretçilerine unutulmaz bir deneyim sunuyor. Parkın coğrafi yapısı, ziyaretçilerin doğa ile iç içe olmasını sağlıyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimi ile benzerlik gösteriyor. Kış ayları soğu ve kar yağışlı, yaz ayları ise sıcak ve kuru geçiyor. Bu iklim koşulları, parkın flora ve faunasını şekillendirmiştir. Canakkale-Bayramic-Gokceici Kızılçam 2, ziyaretçilerine doğanın güzelliğini ve coğrafi yapısını keşfetme fırsatı sunuyor.
+Canakkale-Bayramic-Gokceici Kızılçam 2 milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısı ile şekillenmiştir. Yaklaşık 140 hektarlık bir alanı kaplayan bu park, çeşitli bitki türleri ve zengin fauna ile birlikte ziyaretçilerine unutulmaz bir deneyim sunuyor. Parkın coğrafi yapısı, ziyaretçilerin doğa ile iç içe olmasını sağlıyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimi ile benzerlik gösteriyor. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kuru geçiyor. Bu iklim koşulları, parkın flora ve faunasını şekillendirmiştir. Canakkale-Bayramic-Gokceici Kızılçam 2, ziyaretçilerine doğanın güzelliğini ve coğrafi yapısını keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

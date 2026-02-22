@@ -45,7 +45,7 @@ Doğunun gizli cenneti olarak bilinen Ili Gölü, 38.6428°K, 42.2467°D koordin
 
 Gölün fiziksel yapısını incelediğimizde, precise fiziksel boyutlar hakkında bilgi sahibi olmasak da, gölü çevreleyen dağların yüksekliği Eiffel Kulesi'nin 3 katı yükseklikte olduğunu söyleyebiliriz. Bu yükseklik, göle olan erişimi slightly zorlaştırıyor, ancak aynı zamanda gölü koruyor. Gölün jeolojik yapısı, volkani ve sedimenttik kayaçlardan oluşuyor ve bu, göle eşsiz bir karakter kazandırıyor.
 
-Mevsimsel özelliklere baktığımızda, Ili Gölü'nün iklimi karasal bir karakter taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve karlı bir hava hakim. Bu mevsimsel değişiklikler, göle gelen ziyaretçilerin, farklı mevsimlerde farklı deneyimler yaşamasına olanak sağlıyor. Örneğin, yaz aylarında gölün suyu, birkaç olimpik havuz kadar bir alanı kapsıyor ve bu, ziyaretçilere serin bir atmosfer sunuyor.
+Mevsimsel özelliklere baktığımızda, Ili Gölü'nün iklimi karasal bir karakter taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı bir hava hakim. Bu mevsimsel değişiklikler, göle gelen ziyaretçilerin, farklı mevsimlerde farklı deneyimler yaşamasına olanak sağlıyor. Örneğin, yaz aylarında gölün suyu, birkaç olimpik havuz kadar bir alanı kapsıyor ve bu, ziyaretçilere serin bir atmosfer sunuyor.
 
 Gölün çevresel ilişkilerine baktığımızda, Ili Gölü, etrafındaki dağlarla ve su kaynaklarıyla bir bütün olarak düşünülüyor. Göl, Monaco'nun yarısı kadar bir alanı kapsıyor ve bu, göle önemli bir ekosistem oluşturuyor. Gölün su kaynakları, komşu alanlarla bağlantılı ve bu, göle gelen ziyaretçilerin, farklı ekosistemleri keşfetmesine olanak sağlıyor.
 

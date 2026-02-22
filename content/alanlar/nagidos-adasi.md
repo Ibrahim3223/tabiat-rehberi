@@ -42,7 +42,7 @@ Doğal güzellikleri ile dikkat çeken Nagidos Adası, Akdeniz'in sularında, 36
 
 Jeolojik açıdan bakıldığında, ada hakkındaki detaylı fiziksel verilerin eksikliği, ada hakkında net bir fikir edinmeyi zorlaştırıyor. Ancak, ada ile birlikte düşünülen komşu bölgeler, Akdeniz'in karakteristik coğrafi özelliklerini taşıyor. Bu bölgede, genellikle kireç taşı ve volkanik kayaların hakim olduğu bir jeolojik yapı görülüyor.
 
-İklimsel olarak, Nagidos Adası, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakim. Bu mevsimsel değişimler, ada çevresindeki bitki örtüsünü ve vahşi yaşamı doğrudan etkiliyor.
+İklimsel olarak, Nagidos Adası, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakim. Bu mevsimsel değişimler, ada çevresindeki bitki örtüsünü ve vahşi yaşamı doğrudan etkiliyor.
 
 Çevresel açıdan bakıldığında, Nagidos Adası, Mersin'in kıyı şeridi ile birlikte, önemli bir ekosistem olarak görülüyor. Ada, komşu su kaynakları ve diğer adalar ile birlikte, bir bütün olarak düşünülüyor. Bu bölge, deniz yaşamı için önemli bir habitat oluşturuyor ve çeşitli türlerin yaşam alanı olarak hizmet ediyor.
 

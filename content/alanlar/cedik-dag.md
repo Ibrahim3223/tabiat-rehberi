@@ -50,7 +50,7 @@ Doğal bir koridor olarak işlev gören Cedik Dağ, çevresindeki su kaynakları
 
 Cedik Dağ, Karaman'ın step bitki örtüsüne ve bozkırına ev sahipliği yapan bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet,İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Burada yükseklik zonlarına bağlı olarak değişen bir flora çeşitliliği göze çarpar. İlkbaharın gelmesiyle, dağ yamaçları rengarenk çiçeklerle kaplanır. step bitkileri ve bozkır türleri, kuraklığa adapte olmuş türlerle bir arada yaşar.
 
-Yaban hayatı da aynı derecede çeşitlidir. Memeliler, dağların kayalık bölgelerine yuva yapar. Kuşlar, sonbaharda göç ederken Cedik Dağ üzerinden geçer. Sürüngenler ise, sıca ve kuru bölgelerde yaşamayı tercih eder. Bu dağ ekosisteminin ekolojik değeri oldukça yüksektir. Çünkü, burada yaşayan türler birbirleriyle ve çevreleriyle sıkı bir ilişki içinde yaşar. Örneğin, bazı bitkiler, belirli hayvan türlerine bağımlıdır ve onların varlığı olmadan yaşayamaz. Bu nedenle, Cedik Dağ'ın korunması büyük önem taşır.
+Yaban hayatı da aynı derecede çeşitlidir. Memeliler, dağların kayalık bölgelerine yuva yapar. Kuşlar, sonbaharda göç ederken Cedik Dağ üzerinden geçer. Sürüngenler ise, sıcak ve kuru bölgelerde yaşamayı tercih eder. Bu dağ ekosisteminin ekolojik değeri oldukça yüksektir. Çünkü, burada yaşayan türler birbirleriyle ve çevreleriyle sıkı bir ilişki içinde yaşar. Örneğin, bazı bitkiler, belirli hayvan türlerine bağımlıdır ve onların varlığı olmadan yaşayamaz. Bu nedenle, Cedik Dağ'ın korunması büyük önem taşır.
 
 ## Ziyaret Bilgileri
 

@@ -44,7 +44,7 @@ Güneybatı Anadolu'nun göbeğinde, Burdur ilinin sınırları içerisinde yer 
 
 Doğal güzelliği ve coğrafi konumuyla dikkat çeken Kırkık Dağı, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu alan, Taksim Meydanı'nın birkaç katı büyüklüğünde ve Monaco'nun küçük bir bölümü kadar bir bölgeyi kapsıyor. Dağın fiziksel yapısı hakkında detaylı bilgiler olmasa da, coğrafi konumu ve etrafındaki arazilerle birlikte düşünüldüğünde, bir tepe veya küçük bir dağ olarak tanımlanabilir.
 
-İklim açısından bakıldığında, Kırkık Dağı ve çevresinin Akdeniz ikliminin karakteristik özelliklerini taşıdığı söylenebilir. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler arasında yer alır.
+İklim açısından bakıldığında, Kırkık Dağı ve çevresinin Akdeniz ikliminin karakteristik özelliklerini taşıdığı söylenebilir. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler arasında yer alır.
 
 Çevresel açıdan ele alındığında, Kırkık Dağı, Burdur'un diğer coğrafi oluşumları ve su kaynaklarıyla bağlantılı bir şekilde görülüyor. Burdur Gölü gibi önemli bir su kaynağının yakınında yer alması, bu bölgenin ekosistem bağlantıları açısından önemli bir konumda olduğunu gösteriyor. Bu bağlamda, Kırkık Dağı, çevresindeki diğer doğal alanlarla birlikte, bir bütün olarak değerlendirilmeli ve koruma altına alınmalıdır.
 

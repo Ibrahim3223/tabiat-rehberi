@@ -44,7 +44,7 @@ Doğuya doğru ilerlerken, Bayburt'un dağlık arazisinde yer alan Çaşkır Tep
 
 Jeolojik açıdan bakıldığında, Çaşkır Tepe'nin oluşumu ve yapısı hakkında detaylı bilgiler bulunmasa da, koordinatlarından anlaşıldığı üzere, bir olimpik havuzun birkaç katı büyüklüğünde bir alanı kaplıyor. Bu tepe, Bayburt'un genel jeolojik yapısına uygun olarak, bölgenin karakteristik dağlık ve engebeli arazisini temsil etmektedir. Yüksekliği, 85 katlı bir gökdelenin yaklaşık yüksekliğine eşdeğer olan bu tepe, bölgenin coğrafi çeşitliliğini göstermektedir.
 
-İklimsel olarak, Çaşkır Tepe ve çevresinde, Bayburt'un genel iklim özellikleri hüküm sürmektedir. Bölge, karasal iklimin etkisinde olup, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve kar yağışlı bir hava durumu hakimdir. Mevsimsel değişimler, bu bölgede doğal yaşamı ve bitki örtüsünü önemli ölçüde etkilemektedir. Etrafındaki dağlar, bölgenin mikro iklimini de şekillendirmektedir.
+İklimsel olarak, Çaşkır Tepe ve çevresinde, Bayburt'un genel iklim özellikleri hüküm sürmektedir. Bölge, karasal iklimin etkisinde olup, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve kar yağışlı bir hava durumu hakimdir. Mevsimsel değişimler, bu bölgede doğal yaşamı ve bitki örtüsünü önemli ölçüde etkilemektedir. Etrafındaki dağlar, bölgenin mikro iklimini de şekillendirmektedir.
 
 Çaşkır Tepe'nin bulunduğu bölge, komşu alanlar ve su kaynakları ile önemli bir ekosistem bağlantısına sahiptir. Bu tepe, Bayburt'unsu kaynaklarına ve ekosistemine katkıda bulunan bir bölgede yer almaktadır. Çevresindeki diğer dağlar ve arazilerle birlikte, bir bütün olarak düşünülen bu bölge, doğal yaşamın korunması ve sürdürülmesi açısından büyük önem taşımaktadır.
 

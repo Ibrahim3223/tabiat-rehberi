@@ -42,7 +42,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden biri olan Siirt'in dağlık coğra
 
 Jeolojik yapı itibariyle, Sağlık Dağı'nın fiziksel özellikleri hakkında detaylı bilgi bulunmasa da, bu dağlık bölgenin coğrafi yapısı, bölgenin tarihçesi ve jeolojik oluşumları hakkında fikir verir. Bu dağlık alan, birkaç olimpik havuz kadar bir alanı kaplar ve etrafındaki diğer dağlarla birlikte bir bütünü oluşturur. Bu bölge, coğrafi olarak önemli bir konumda yer alır ve bölgenin jeolojik yapısını anlamak için önemli bir noktadır.
 
-İklim karakteri bakımından, Sağlık Dağı ve çevresinin iklimi, Doğu Anadolu Bölgesi'nin genel iklimsel özelliklerini taşır. Bölge, kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir iklimi experiences. Bu mevsimsel değişimler, bölgenin flora ve fauna yapısını etkiler ve bu dağlık alanın ekolojik dengesini korur.
+İklim karakteri bakımından, Sağlık Dağı ve çevresinin iklimi, Doğu Anadolu Bölgesi'nin genel iklimsel özelliklerini taşır. Bölge, kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklimi experiences. Bu mevsimsel değişimler, bölgenin flora ve fauna yapısını etkiler ve bu dağlık alanın ekolojik dengesini korur.
 
 Bölgenin çevresel ilişkileri bakımından, Sağlık Dağı, komşu dağlarla birlikte bir bütünü oluşturur ve bölgenin su kaynaklarını etkiler. Bu dağlık alan, bölgenin ekosistemini korur ve bölgenin doğal güzelliklerini sunar. Sağlık Dağı, Monaco'nun küçük bir bölümü kadar bir alanı kaplar ve bölgenin coğrafi yapısını anlamak için önemli bir noktadır. Bu dağlık alan, bölgenin jeoloji ve iklimsel özelliklerini taşıyan bir coğrafyada yer alır.
 

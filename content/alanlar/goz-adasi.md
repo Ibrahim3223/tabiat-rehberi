@@ -44,7 +44,7 @@ Marmara Denizi'nin sularında, Balıkesir'in kıyı şeridinin hemen önünde ye
 
 Jeolojik açıdan incelendiğinde, Göz Adası'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, koordinatlarından hareketle adanın konumu ve boyutları hakkında fikir edinilebilir. Birkaç olimpik havuz kadar küçük bir alanı kaplayan ada, küçük bir şehir bloğu büyüklüğünde bir alan olarak düşünülebilir. Bu boyutlar, adanın sakin ve mütevazi bir atmosfere sahip olmasını sağlar.
 
-Marmara Denizi'nin etkisinde kalan Göz Adası, bölgenin iklim karakterine uygun olarak mevsimsel olarak değişen hava koşullarına sahiptir. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve güneşli bir hava hakimdir. Bu iklim koşulları, adanın flora ve fauna çeşitliliğini etkiler ve bölgenin ekolojik dengesini belirler.
+Marmara Denizi'nin etkisinde kalan Göz Adası, bölgenin iklim karakterine uygun olarak mevsimsel olarak değişen hava koşullarına sahiptir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve güneşli bir hava hakimdir. Bu iklim koşulları, adanın flora ve fauna çeşitliliğini etkiler ve bölgenin ekolojik dengesini belirler.
 
 Doğal bir çevre olarak, Göz Adası'nın komşu alanlarla ve su kaynaklarıyla güçlü bir bağı vardır. Adanın bulunduğu Marmara Denizi, çeşitli su canlılarının yaşam alanı olarak hizmet eder ve adanın ekosistemine önemli bir katkı sağlar. Monaco'nun küçük bir bölümü kadar büyük bir alan olan ada, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini korumak açısından önemli bir role sahiptir.
 

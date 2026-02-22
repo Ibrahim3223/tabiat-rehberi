@@ -30,7 +30,7 @@ Artvin Savsat-Dogu Ladini'nin tarihi geçmişi, yüzyıllar boyunca şekillenmi�
 
 ## Coğrafya
 
-Artvin Savsat-Dogu Ladini, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Coğrafi olarak, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Ayrıca, doğa ile iç içe geçmiş bu milli park, ziyaretçilerine doğal güzelliği sunar. İklim olarak, İç Anadolu Bölgesi'nde yer alması nedeniyle karasal iklim özellikleri gösterir. Yazları sıca ve kurak, kışları soğu ve karlı geçen bir iklim yapısı vardır. Çevre olarak, doğa ile iç içe geçmiş bu bölge, ziyaretçilerine doğal güzelliği sunar.
+Artvin Savsat-Dogu Ladini, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Coğrafi olarak, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Ayrıca, doğa ile iç içe geçmiş bu milli park, ziyaretçilerine doğal güzelliği sunar. İklim olarak, İç Anadolu Bölgesi'nde yer alması nedeniyle karasal iklim özellikleri gösterir. Yazları sıcak ve kurak, kışları soğuk ve karlı geçen bir iklim yapısı vardır. Çevre olarak, doğa ile iç içe geçmiş bu bölge, ziyaretçilerine doğal güzelliği sunar.
 
 ## Flora ve Fauna
 

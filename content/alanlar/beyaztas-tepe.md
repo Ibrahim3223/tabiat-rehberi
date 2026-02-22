@@ -42,7 +42,7 @@ Doğu Anadolu Bölgesi'nin uzak köşesinde, Hakkari ilinin dağlık arazisinde 
 
 Genel olarak bakıldığında, Beyaztaş Tepe'nin fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bu dağlık alanın yüksekliği ve genişliği, bölgenin coğrafi özelliklerini etkilemektedir. Taksim Meydanı'nın birkaç katı büyüklüğünde olan bu alan, bölgenin jeolojik yapısını şekillendiren önemli bir faktördür. Beyaztaş Tepe, çevresindeki diğer dağlarla birlikte, bölgenin ekosistemini destekleyen önemli bir doğal kaynak olarak görülebilir.
 
-İklim açısından bakıldığında, Beyaztaş Tepe ve çevresinin mevsimsel özellikler gösterdiği görülmektedir. Bölge, kış aylarında soğu ve karlı, yaz aylarında ise sıca ve kurak bir iklim karakteri gösterir. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Eiffel Kulesi'nin birkaç katı yükseklikte olan bu tepe, bölgenin hava durumunu da etkileyen önemli bir faktördür.
+İklim açısından bakıldığında, Beyaztaş Tepe ve çevresinin mevsimsel özellikler gösterdiği görülmektedir. Bölge, kış aylarında soğuk ve karlı, yaz aylarında ise sıcak ve kurak bir iklim karakteri gösterir. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Eiffel Kulesi'nin birkaç katı yükseklikte olan bu tepe, bölgenin hava durumunu da etkileyen önemli bir faktördür.
 
 Beyaztaş Tepe, çevresindeki diğer dağlık alanlarla birlikte, bölgenin ekosistemini destekleyen önemli bir doğal kaynak olarak görülebilir. Bu tepe, aynı zamanda bölgenin su kaynaklarını da etkilemektedir. Monaco'nun yarısı kadar büyük olan bu dağlık alan, bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir merkezdir. Beyaztaş Tepe ve çevresindeki diğer dağlar, bölgenin doğal dengesini korumak için önemli bir rol oynamaktadır.
 

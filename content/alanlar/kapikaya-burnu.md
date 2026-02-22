@@ -42,7 +42,7 @@ Coğrafi olarak Çanakkale'nin önemli noktalarından biri olan Kapıkaya Burnu,
 
 Doğal güzelliği ve jeolojik yapısıyla dikkat çeken Kapıkaya Burnu, bir şehir bloğu büyüklüğünde bir alan olarak düşünülebilir. Bu büyüklük, ziyaretçilerin rahatça gezebileceği ve doğanın güzelliklerini keşfedebileceği bir ölçek sunuyor. Ancak, fiziksel yapı hakkında dahalı bilgiler olmasa da, burunların genellikle kayaçlardan oluştuğunu ve jeolojik süreçlerle şekillendiğini biliyoruz.
 
-İklim karakteri açısından Kapıkaya Burnu, Çanakkale'nin genel iklimine benzerlik gösteriyor. Bu bölge, Akdeniz ikliminin özelliklerini taşıyor; yaz aylarında sıca ve kuru, kış aylarında ise ılık ve yağışlı geçiyor. Bu mevsimsel özellikler, burunların flora ve fauna açısından zengin bir çeşitlilik sunmasına katkıda bulunuyor.
+İklim karakteri açısından Kapıkaya Burnu, Çanakkale'nin genel iklimine benzerlik gösteriyor. Bu bölge, Akdeniz ikliminin özelliklerini taşıyor; yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı geçiyor. Bu mevsimsel özellikler, burunların flora ve fauna açısından zengin bir çeşitlilik sunmasına katkıda bulunuyor.
 
 Çevresel ilişkiler açısından Kapıkaya Burnu, Ege Denizi'ne olan yakınlığıyla dikkat çekiyor. Bu su kaynakları, burunların ekosistem bağlantılarını zenginleştiren önemli bir faktör. Ayrıca, komşu alanlar ile birlikte Kapıkaya Burnu, bir ekosistem olarak düşünülebilir ve bu bölgenin korunması, doğal dengenin sürdürülmesi açısından önemli.
 

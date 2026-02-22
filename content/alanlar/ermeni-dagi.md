@@ -42,7 +42,7 @@ Güneybatı Anadolu'nun coğrafi olarak zengin bölgelerinden biri olan Burdur'd
 
 Jeolojik açıdan incelendiğinde, Ermeni Dağı'nın etrafındaki coğrafi yapı, Türkiye'nin güneybatı kesiminde yer alan diğer dağlarla benzerlik gösterir. Ancak, detaylı fiziksel verilerin eksik olması nedeniyle, dağın yüksekliği, şekli ve jeolojik yapısı hakkında net bilgiler bulunmamaktadır. Buna rağmen, Ermeni Dağı, bölgenin topoğrafik haritasında önemli bir yer tutar ve çevresindeki ovaları ve akarsuları etkileyen bir faktör olarak görülür.
 
-Mevsimsel açıdan bakıldığında, Ermeni Dağı'nın iklim karakteri, Akdeniz ikliminin özellikleri gösterir. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, dağın flora ve fauna yapısını etkiler ve bölgede yaşayan canlıların uyum sağlamasına neden olur.
+Mevsimsel açıdan bakıldığında, Ermeni Dağı'nın iklim karakteri, Akdeniz ikliminin özellikleri gösterir. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, dağın flora ve fauna yapısını etkiler ve bölgede yaşayan canlıların uyum sağlamasına neden olur.
 
 Çevresel açıdan incelendiğinde, Ermeni Dağı, bölgenin ekosistem bağlantıları açısından önemli bir role sahiptir. Dağın yakınındaki su kaynakları ve akarsular, bölgenin sulak alanlarını besler ve bölgede yaşayan canlıların yaşamsal faaliyetlerini sürdürmelerine yardımcı olur. Ayrıca, Ermeni Dağı, komşu alanlar ile birlikte bir bütün olarak değerlendirildiğinde, bölgenin biyolojik çeşitliliğini koruma altına almak açısından da önemli bir görev üstlenmektedir.
 

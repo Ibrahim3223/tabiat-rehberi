@@ -38,7 +38,7 @@ Zeytin Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Zeytin Baba Türbesi, Tuzla'nın merkeziunda yer alan ve Marmara Bölgesi'nin önemli coğrafi noktalarından biri olan bir alandır. Bu bölge, deniz seviyesinden yaklaşık yüksek bir konumdate yer almaktadır. Alanın coğrafi yapısı, genel olarak düz ve hafif eğimli arazilerden oluşmaktadır. Zeytin Baba Türbesi'nin etrafı, çeşitli bitki türleri ve ağaçlarla kaplıdır ve bu bölgede çeşitli hayvanlar da yaşamaktadır. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik göstermekte ve ılıman bir karaktere sahiptir. Kış aylarında yağmur ve kar yağışları görülmekte, yaz aylarında ise sıcak ve nemli bir hava hakim olmaktadır. Zeytin Baba Türbesi, Tuzla'nın merkeziunda yer alması nedeniyle, ulaşım açısından kolaylık sağlamaktadır.
+Zeytin Baba Türbesi, Tuzla'nın merkeziunda yer alan ve Marmara Bölgesi'nin önemli coğrafi noktalarından biri olan bir alandır. Bu bölge, yüksek bir konumda yer almaktadır. Alanın coğrafi yapısı, genel olarak düz ve hafif eğimli arazilerden oluşmaktadır. Zeytin Baba Türbesi'nin etrafı, çeşitli bitki türleri ve ağaçlarla kaplıdır ve bu bölgede çeşitli hayvanlar da yaşamaktadır. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik göstermekte ve ılıman bir karaktere sahiptir. Kış aylarında yağmur ve kar yağışları görülmekte, yaz aylarında ise sıcak ve nemli bir hava hakim olmaktadır. Zeytin Baba Türbesi, Tuzla'nın merkeziunda yer alması nedeniyle, ulaşım açısından kolaylık sağlamaktadır.
 
 ## Flora ve Fauna
 

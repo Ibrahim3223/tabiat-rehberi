@@ -54,7 +54,7 @@ Mevsimsel açıdan, Çınartepe ve çevresi, Karadeniz Bölgesi'nin tipik iklim 
 
 Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte dağ yamaçlarında çeşitli çiçekler açar, sonbaharda ise yaprak döken ağaçlar sarı, turuncu ve kırmızının tonlarıyla dağ manzarasını renklendirir. Yükseklik zonlarına bağlı olarak, alpin flora da görülebilir.
 
-Yaban Hayatı bölümünde, dağların yüksek kesimlerinde yaşayan memeliler, vadilerde ve ova kesimlerinde ise çeşitli kuş türleri yaşamaktadır. Sürüngenler de bu dağ ekosisteminin bir parçası olup, özellikle sıca ve kurak bölgelerde görülürler.
+Yaban Hayatı bölümünde, dağların yüksek kesimlerinde yaşayan memeliler, vadilerde ve ova kesimlerinde ise çeşitli kuş türleri yaşamaktadır. Sürüngenler de bu dağ ekosisteminin bir parçası olup, özellikle sıcak ve kurak bölgelerde görülürler.
 
 Ekolojik Değer bölümünde, Çınartepe Dağı'nın neden önemli olduğu ve koruma durumuna değinilebilir. Bu dağ ekosisteminin korunması, hem bölgedeki canlıların yaşamını sürdürmesi hem de ekolojik dengenin korunması açısından önemlidir. Çınartepe Dağı, 1200 hektarlık bir alanı kaplayan ve İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplayan bir yeşil cennettir.
 

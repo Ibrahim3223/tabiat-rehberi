@@ -36,7 +36,7 @@ Kurukavşak Tepe, Van ilinin tarihi geçmişiçerisinde önemli bir yere sahipti
 
 ## Coğrafya
 
-Kurukavşak Tepe, Van ilinin coğrafi olarak önemli bir bölgesinde yer alır. Tepe, 140 hektarlık alanıyla birlikte, Van Gölü'nün ve çevrenin panoramik manzarasını sunar. Bu bölgenin coğrafi özellikleri, flora ve fauna zenginliği, tarihi geçmişi ile önemli bir turizm merkezi olarak kabul edilir. Tepe, Van ilinin merkezi ile uzun bir mesafe uzaklıkta yer alır. Bu reason, tepeye ulaşım oldukça kolaydır. Tepe çevresinde, çeşitli bitki türleri ve hayvanlar bulunur. Bu bölgenin iklimi, Doğu Anadolu Bölgesi'nin genel iklimi ile benzerlik gösterir. Yaz aylarında sıca ve kurak, kış aylarında soğu ve karlı bir iklim hakimdir. Bu reason, tepeyi ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar aylarıdır.
+Kurukavşak Tepe, Van ilinin coğrafi olarak önemli bir bölgesinde yer alır. Tepe, 140 hektarlık alanıyla birlikte, Van Gölü'nün ve çevrenin panoramik manzarasını sunar. Bu bölgenin coğrafi özellikleri, flora ve fauna zenginliği, tarihi geçmişi ile önemli bir turizm merkezi olarak kabul edilir. Tepe, Van ilinin merkezi ile uzun bir mesafe uzaklıkta yer alır. Bu reason, tepeye ulaşım oldukça kolaydır. Tepe çevresinde, çeşitli bitki türleri ve hayvanlar bulunur. Bu bölgenin iklimi, Doğu Anadolu Bölgesi'nin genel iklimi ile benzerlik gösterir. Yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı bir iklim hakimdir. Bu reason, tepeyi ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar aylarıdır.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Gemlik Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmı�
 
 ## Coğrafya
 
-Gemlik Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir oluşum. Tepenin coğrafi konumu, ziyaretçilerine bölgenin doğal güzelliklerini sunuyor. Tepenin etrafında, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Bölgenin iklimi, genellikle sıca ve kuru olmakla birlikte, tepenin yüksekliği nedeniyle, zirvede daha serin bir hava hakim. Gemlik Tepesi, ziyaretçilerine bölgenin coğrafi çeşitliliğini gösteriyor. Tepenin zirvesinden, Kilis'in ve çevresinin manzarası izlenebiliyor. Bu manzara, ziyaretçilere bölgenin doğal güzelliklerini ve coğrafi yapısını gösteriyor.
+Gemlik Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir oluşum. Tepenin coğrafi konumu, ziyaretçilerine bölgenin doğal güzelliklerini sunuyor. Tepenin etrafında, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Bölgenin iklimi, genellikle sıcak ve kuru olmakla birlikte, tepenin yüksekliği nedeniyle, zirvede daha serin bir hava hakim. Gemlik Tepesi, ziyaretçilerine bölgenin coğrafi çeşitliliğini gösteriyor. Tepenin zirvesinden, Kilis'in ve çevresinin manzarası izlenebiliyor. Bu manzara, ziyaretçilere bölgenin doğal güzelliklerini ve coğrafi yapısını gösteriyor.
 
 ## Flora ve Fauna
 

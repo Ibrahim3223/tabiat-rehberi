@@ -37,7 +37,7 @@ Daskyleion Kaya Mezarı'nın tarihi geçmişi, Lidya Krallığı dönemine kadar
 
 ## Coğrafya
 
-Daskyleion Kaya Mezarı, Marmara Bölgesi'nin coğrafi çeşitliliğini yansıtan bir bölgede yer alır. Bu bölge, deniz seviyesinden yaklaşık yüksek bir konumdate bulunur ve etrafı, çeşitli bitki türleri ile kaplı tepelerle çevrilidir. Mezar alanının coğrafyası, ziyaretçilere hem tarihi yapıları hem de doğal güzellikleri sunar. Yaklaşık 140 hektarlık bu alan, ziyaretçilerin keşfetmek için geniş bir araziyi kapsar. Daskyleion'un iklimi, Marmara Bölgesi'nin ılıman iklimine benzer ve ziyaretçilere, farklı mevsimlerde çeşitli deneyimler sunar.
+Daskyleion Kaya Mezarı, Marmara Bölgesi'nin coğrafi çeşitliliğini yansıtan bir bölgede yer alır. Bu bölge, yüksek bir konumda bulunur ve etrafı, çeşitli bitki türleri ile kaplı tepelerle çevrilidir. Mezar alanının coğrafyası, ziyaretçilere hem tarihi yapıları hem de doğal güzellikleri sunar. Yaklaşık 140 hektarlık bu alan, ziyaretçilerin keşfetmek için geniş bir araziyi kapsar. Daskyleion'un iklimi, Marmara Bölgesi'nin ılıman iklimine benzer ve ziyaretçilere, farklı mevsimlerde çeşitli deneyimler sunar.
 
 ## Flora ve Fauna
 

@@ -38,7 +38,7 @@ Mahmud Türbesi'nin tarihi çok eskilere dayanır. Bu bölge, yüzyıllar boyunc
 
 ## Coğrafya
 
-Mahmud Türbesi, Niğde'nin merkezinde yer alır ve coğrafi olarak özel bir konuma sahiptir. Bu bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Mahmud Türbesi, geniş otlaklarıyla ve histórik yapılarıyla dikkat çeker. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu coğrafi ve iklimsel özellikler, Mahmud Türbesi'nin flora ve faunasını etkiler. Bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Mahmud Türbesi, doğal güzellikleri ile ziyaretçilerini çekmektedir. 140 hektarlık bu yeşil alan, ziyaretçilere geniş bir açık alan sunar.
+Mahmud Türbesi, Niğde'nin merkezinde yer alır ve coğrafi olarak özel bir konuma sahiptir. Bu bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Mahmud Türbesi, geniş otlaklarıyla ve histórik yapılarıyla dikkat çeker. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu coğrafi ve iklimsel özellikler, Mahmud Türbesi'nin flora ve faunasını etkiler. Bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Mahmud Türbesi, doğal güzellikleri ile ziyaretçilerini çekmektedir. 140 hektarlık bu yeşil alan, ziyaretçilere geniş bir açık alan sunar.
 
 ## Flora ve Fauna
 

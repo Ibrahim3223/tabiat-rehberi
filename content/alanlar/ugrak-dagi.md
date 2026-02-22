@@ -42,7 +42,7 @@ Doğal güzellikleri ile bilinen Artvin ilinin bir parçası olan Uğrak Dağı,
 
 Jeolojik açıdan incelendiğinde, Uğrak Dağı'nın coğrafi yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel jeolojik özellikleri dikkate alındığında, dağlık bir arazi yapısına sahip olduğu söylenebilir. Tıpkı Taksim Meydanı'nın birkaç katı büyüklüğünde olan bu doğal alan, bölgeyi coğrafi olarak karakterize eder.
 
-Mevsimsel açıdan bakıldığında, Uğrak Dağı'nın iklimi, bölgenin karasal ikliminin etkilerini taşır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise ılıman ve yağışlı bir hava hüküm sürer. Bu mevsimsel değişimler, dağın ekosistemi üzerinde önemli bir etkiye sahiptir.
+Mevsimsel açıdan bakıldığında, Uğrak Dağı'nın iklimi, bölgenin karasal ikliminin etkilerini taşır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise ılıman ve yağışlı bir hava hüküm sürer. Bu mevsimsel değişimler, dağın ekosistemi üzerinde önemli bir etkiye sahiptir.
 
 Çevresel açıdan, Uğrak Dağı, bölgenin su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahiptir. Monaco'nun çok küçük bir bölümü kadar olan bu dağ, bölgenin doğal dengesini korur ve komşu alanlar ile birlikte bir bütün teşkil eder. Bu doğal dengenin korunması, bölgenin ekolojik zenginliğini sürdürmek açısından önemlidir.
 

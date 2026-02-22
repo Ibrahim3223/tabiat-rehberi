@@ -37,7 +37,7 @@ wikidata_id: "Q131390545"
 
 ## Coğrafya
 
-Şeyh Sinan Türbesi, Antalya'nın Muratpaşa ilçesinde bulunmaktadır. Bu bölge, Akdeniz Bölgesi'nin önemli turistik merkezlerinden biridir. Şeyh Sinan Türbesi, denize yakın bir konumda olup, plajın keyfini çıkarmak isteyenler için ideal bir yerdir. Türbe ve çevresinin coğrafi yapısı, genellikle düz ve yeşil alanlardan oluşur. Bu bölge, çeşitli bitki türleri ile kaplıdır ve zengin bir fauna yapısına sahiptir. Şeyh Sinan Türbesi'nin iklimi, Akdeniz iklimi özellikleri taşır. Yaz ayları sıca ve kurak, kış ayları ılık ve yağışlı geçer. Bu bölgede, yıl boyunca çeşitli mevsimsel değişimler yaşanır ve her mevsim, ziyaretçilere farklı bir güzellik sunar. Şeyh Sinan Türbesi, Antalya'nın diğer turistik noktalarına da yakın bir konumda olup, ziyaretçiler tarafından kolayca ulaşılabilir.
+Şeyh Sinan Türbesi, Antalya'nın Muratpaşa ilçesinde bulunmaktadır. Bu bölge, Akdeniz Bölgesi'nin önemli turistik merkezlerinden biridir. Şeyh Sinan Türbesi, denize yakın bir konumda olup, plajın keyfini çıkarmak isteyenler için ideal bir yerdir. Türbe ve çevresinin coğrafi yapısı, genellikle düz ve yeşil alanlardan oluşur. Bu bölge, çeşitli bitki türleri ile kaplıdır ve zengin bir fauna yapısına sahiptir. Şeyh Sinan Türbesi'nin iklimi, Akdeniz iklimi özellikleri taşır. Yaz ayları sıcak ve kurak, kış ayları ılık ve yağışlı geçer. Bu bölgede, yıl boyunca çeşitli mevsimsel değişimler yaşanır ve her mevsim, ziyaretçilere farklı bir güzellik sunar. Şeyh Sinan Türbesi, Antalya'nın diğer turistik noktalarına da yakın bir konumda olup, ziyaretçiler tarafından kolayca ulaşılabilir.
 
 ## Flora ve Fauna
 

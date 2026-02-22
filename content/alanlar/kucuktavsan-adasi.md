@@ -46,7 +46,7 @@ Güneşin altın ışıklarıyla aydınlanan Ege Denizi'nin mavi sularında, Kü
 
 Doğal güzelliği ile ön plana çıkan ada, büyüklüğü hakkında kesin bilgiler olmasa da, bir birkaç olimpik havuz kadar küçük bir alanı kaplıyor gibi görünüyor. Ada'nın şekli ve jeolojik yapısı hakkında ayrıntılı bilgi bulunmasa da, Ege Denizi'nin diğer adalarıyla benzer özellikler taşıdığı söylenebilir. Ada'nın coğrafi yapısı, ziyaretçilerine küçük ama güzel bir cennet sunuyor.
 
-İklim açısından, Küçüktavşan Adası, Ege Bölgesi'nin karakteristik Akdeniz ikliminin etkilerini taşıyor. Yaz aylarında sıca ve güneşli, kış aylarında ise ılıman ve yağışlı bir hava hakim. Ada, mevsimsel değişimlerin etkisi altında, her mevsim ziyaretçilerine farklı bir güzellik sunuyor. Ege Denizi'nin serin esintileri, ada ziyaretçilerini yaz aylarında serinletirken, kış aylarında ise ılıman bir sığınak sunuyor.
+İklim açısından, Küçüktavşan Adası, Ege Bölgesi'nin karakteristik Akdeniz ikliminin etkilerini taşıyor. Yaz aylarında sıcak ve güneşli, kış aylarında ise ılıman ve yağışlı bir hava hakim. Ada, mevsimsel değişimlerin etkisi altında, her mevsim ziyaretçilerine farklı bir güzellik sunuyor. Ege Denizi'nin serin esintileri, ada ziyaretçilerini yaz aylarında serinletirken, kış aylarında ise ılıman bir sığınak sunuyor.
 
 Çevresel açıdan, Küçüktavşan Adası, Ege Denizi'nin zengin ekosistemine dahil. Ada, su kaynakları ve komşu alanlarla bağlantılı, doğal bir denge içinde yer alıyor. Ege Denizi'nin canlı çeşitliliği, ada çevresinde de görülebiliyor. Bu küçük ada, büyük bir ekosistemin önemli bir parçası olarak, ziyaretçilerine doğal güzelliği ve sakinliği sunuyor.
 

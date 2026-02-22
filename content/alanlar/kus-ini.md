@@ -45,7 +45,7 @@ Mersin'in güneşli kıyılarında, 36.6675°K, 34.2122°D koordinatlarında yer
 
 Doğal bir anıt olan "Kuş İni", geniş bir alana yayılmış. Ancak, tam olarak boyutlarını belirlemek için yeterli veri bulunmuyor. Buna rağmen, bu bölgeyi Taksim Meydanı'nın birkaç katı büyüklüğünde düşünme mümkün. Jeolojik olarak, Toros Dağları'nın kalkerli ve volkanik kayalarından oluşuyor. Bu kayalar, milyonlarca yıllık doğal süreçlerin ürünü ve bölgenin jeolojik tarihini anlatıyor.
 
-İklim açısından, "Kuş İni" jeopark, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ılıman bir hava hüküm sürüyor. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Hava durumu genellikle güneşli, ancak Toros Dağları'ndan gelen serin rüzgarlar, ziyaretçilere ferahlık sağlıyor.
+İklim açısından, "Kuş İni" jeopark, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ılıman bir hava hüküm sürüyor. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Hava durumu genellikle güneşli, ancak Toros Dağları'ndan gelen serin rüzgarlar, ziyaretçilere ferahlık sağlıyor.
 
 Çevresel açıdan, "Kuş İni" jeopark, Mersin'in diğer doğal güzelliklerine yakınlık gösteriyor. Yakınlarında, Göksu Nehri'nin kolları ve çeşitli su kaynakları bulunuyor. Bu su kaynakları, bölgenin ekosistemini destekleyen önemli faktörler. Ayrıca, Toros Dağları'ndaki diğer doğal alanlarla bağlantıları, bölgenin biyolojik çeşitliliğini koruyor. Bu bağlantıların korunması, "Kuş İni" jeoparkının doğal dengesini sürdürmeye yardımcı oluyor.
 

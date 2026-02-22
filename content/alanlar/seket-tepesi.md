@@ -36,7 +36,7 @@ Seket Tepesi'nin tarihi geçmişi, binlerce yıl öncesine dayanıyor. Bu tepeni
 
 ## Coğrafya
 
-Seket Tepesi, coğrafi açıdan önemli bir konumda yer alıyor. Güneydoğu Anadolu Bölgesi'nin güneybatısında bulunan bu tepe, bölgenin en yüksek noktalarından biri. Tepenin yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdate. Seket Tepesi, aynı zamanda bölgenin iklimini de etkileyen önemli bir faktör. Bu tepe, bölgenin yağış režimini ve sıcaklık dağılımını etkileyen bir faktör olarak biliniyor. Ayrıca, bu tepe, bölgenin flora ve faunasını da etkileyen önemli bir faktör. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşadığı için, bu bölge, biyolojik çeşitlilik açısından önemli bir nokta.
+Seket Tepesi, coğrafi açıdan önemli bir konumda yer alıyor. Güneydoğu Anadolu Bölgesi'nin güneybatısında bulunan bu tepe, bölgenin en yüksek noktalarından biri. Tepenin yüksekliği, yüksek bir konumda. Seket Tepesi, aynı zamanda bölgenin iklimini de etkileyen önemli bir faktör. Bu tepe, bölgenin yağış režimini ve sıcaklık dağılımını etkileyen bir faktör olarak biliniyor. Ayrıca, bu tepe, bölgenin flora ve faunasını da etkileyen önemli bir faktör. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşadığı için, bu bölge, biyolojik çeşitlilik açısından önemli bir nokta.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ Seket Tepesi'ni ziyaret etmek, ziyaretçilere doğanın güzelliğini ve bölgen
 
 - Seket Tepesi, Diyarbakır ilinin güneybatısında yer alıyor
 - Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
-- Tepenin yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdate
+- Tepenin yüksekliği, yüksek bir konumda
 - Seket Tepesi, flora ve fauna açısından önemli bir bölge
 - Bu tepe, yılın her döneminde ziyaret edilebilir

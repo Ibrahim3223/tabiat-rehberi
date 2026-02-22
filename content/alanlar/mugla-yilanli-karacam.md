@@ -30,7 +30,7 @@ Mugla-Yilanli Karacam milli parkının tarihi geçmişi, yüzyıllar boyunca şe
 
 ## Coğrafya
 
-Mugla-Yilanli Karacam milli parkı, Ege Bölgesi'nin Muğla ilinde yer alıyor. Bu milli park, 140 hektarlık bir alanı kapsıyor ve Ege Bölgesi'nin önemli doğal sitelerinden biri olarak kabul ediliyor. Bu alan, yaban hayatı ve çeşitli bitki türleri ile zengin bir ekosisteme sahip. Milli parkın iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine uygun olarak sıca ve kurak yazlar, ılık ve yağışlı kışlar şeklinde gerçekleşiyor. Bu milli park, ziyaretçiler için çeşitli aktivite olanakları sunuyor. Ziyaretçiler, bu alanda doğa yürüyüşleri yapabilir, yaban hayvanlarını gözlemleyebilir ve çevrenin güzelliğini keşfedebilir. Milli parkın coğrafi konumu, ziyaretçiler için ulaşım açısından da kolaylık sağlıyor.
+Mugla-Yilanli Karacam milli parkı, Ege Bölgesi'nin Muğla ilinde yer alıyor. Bu milli park, 140 hektarlık bir alanı kapsıyor ve Ege Bölgesi'nin önemli doğal sitelerinden biri olarak kabul ediliyor. Bu alan, yaban hayatı ve çeşitli bitki türleri ile zengin bir ekosisteme sahip. Milli parkın iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine uygun olarak sıcak ve kurak yazlar, ılık ve yağışlı kışlar şeklinde gerçekleşiyor. Bu milli park, ziyaretçiler için çeşitli aktivite olanakları sunuyor. Ziyaretçiler, bu alanda doğa yürüyüşleri yapabilir, yaban hayvanlarını gözlemleyebilir ve çevrenin güzelliğini keşfedebilir. Milli parkın coğrafi konumu, ziyaretçiler için ulaşım açısından da kolaylık sağlıyor.
 
 ## Flora ve Fauna
 
@@ -44,6 +44,6 @@ Mugla-Yilanli Karacam milli parkını ziyaret etmek, doğa severler ve çevre tu
 
 - Mugla-Yilanli Karacam milli parkı, 140 hektarlık bir alanı kapsıyor.
 - Bu milli park, yaban hayatı ve çeşitli bitki türleri ile zengin bir ekosisteme sahip.
-- Milli parkın iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine uygun olarak sıca ve kurak yazlar, ılık ve yağışlı kışlar şeklinde gerçekleşiyor.
+- Milli parkın iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine uygun olarak sıcak ve kurak yazlar, ılık ve yağışlı kışlar şeklinde gerçekleşiyor.
 - Ziyaretçiler, bu alanda doğa yürüyüşleri yapabilir, yaban hayvanlarını gözlemleyebilir ve çevrenin güzelliğini keşfedebilir.
 - Milli parkın coğrafi konumu, ziyaretçiler için ulaşım açısından da kolaylık sağlıyor.

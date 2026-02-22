@@ -36,7 +36,7 @@ Dağardı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Dağardı Tepesi, Muğla'nın Ege Bölgesi'nde yer alıyor. Bu tepe, deniz seviyesinden yüksek bir noktada bulunuyor. Dağardı Tepesi, çevresindeki diğer tepelerle birlikte bir dağ silsilesini oluşturuyor. Bu tepe, aynı zamanda çeşitli bitki türleriyle kaplı. Dağardı Tepesi'nin iklimi, genel olarak Akdeniz iklimi özelliği gösteriyor. Bu tepe, yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir iklimi deneyimleyebilir ediyor. Dağardı Tepesi, aynı zamanda birçok doğal kaynakla da zengin. Bu tepe, ziyaretçilerine doğal güzelliklerinin yanı sıra, aynı zamanda birçok aktivite imkanı da sunuyor.
+Dağardı Tepesi, Muğla'nın Ege Bölgesi'nde yer alıyor. Bu tepe, deniz seviyesinden yüksek bir noktada bulunuyor. Dağardı Tepesi, çevresindeki diğer tepelerle birlikte bir dağ silsilesini oluşturuyor. Bu tepe, aynı zamanda çeşitli bitki türleriyle kaplı. Dağardı Tepesi'nin iklimi, genel olarak Akdeniz iklimi özelliği gösteriyor. Bu tepe, yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir iklimi deneyimleyebilir ediyor. Dağardı Tepesi, aynı zamanda birçok doğal kaynakla da zengin. Bu tepe, ziyaretçilerine doğal güzelliklerinin yanı sıra, aynı zamanda birçok aktivite imkanı da sunuyor.
 
 ## Flora ve Fauna
 

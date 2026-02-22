@@ -36,7 +36,7 @@ Susuzkır Tepesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Tepenin
 
 ## Coğrafya
 
-Susuzkır Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi açıdan oldukça çeşitli ve zengin bir yapıya sahip. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Ayrıca, tepeye tırmanarak Sivas'ın panoramik manzarasını izlemek de mümkündür. Susuzkır Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor ve bu, tepeye tırmanarak manzaranın keyfini çıkarmak için ideal bir konum sunuyor. Susuzkır Tepesi'nin coğrafi konumu, ziyaretçilere çeşitli coğrafi oluşumları ve doğal güzellikleri tanıtmaya devam ediyor. Tepenin etrafındaki köyler, misafirperverlikleriyle ünlü ve ziyaretçilere sıcak bir karşılama sunuyor.
+Susuzkır Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi açıdan oldukça çeşitli ve zengin bir yapıya sahip. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Ayrıca, tepeye tırmanarak Sivas'ın panoramik manzarasını izlemek de mümkündür. Susuzkır Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği, yüksek bir konumda yer alıyor ve bu, tepeye tırmanarak manzaranın keyfini çıkarmak için ideal bir konum sunuyor. Susuzkır Tepesi'nin coğrafi konumu, ziyaretçilere çeşitli coğrafi oluşumları ve doğal güzellikleri tanıtmaya devam ediyor. Tepenin etrafındaki köyler, misafirperverlikleriyle ünlü ve ziyaretçilere sıcak bir karşılama sunuyor.
 
 ## Flora ve Fauna
 
@@ -51,5 +51,5 @@ Susuzkır Tepesi'ni ziyaret etmek, hem doğal güzellikleri hem de tarihi geçmi
 - Susuzkır Tepesi, Sivas'ın merkezine uzun bir mesafe uzaklıkta yer alıyor.
 - Tepenin etrafındaki köyler, misafirperverlikleriyle ünlü.
 - Susuzkır Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor.
-- Tepenin yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor.
+- Tepenin yüksekliği, yüksek bir konumda yer alıyor.
 - Susuzkır Tepesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini büyülüyor.

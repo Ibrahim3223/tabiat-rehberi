@@ -45,7 +45,7 @@ Türkiye'de, bu tür doğal alanlar, ülkenin biyolojik çeşitliliğinin korunm
 
 Doğal güzelliği ile dikkat çeken Bababurnu, jeolojik açıdan ilginç bir yapıya sahip. Bu bölge, çoğunlukla kireçtaşı ve killi kayaçlardan oluşuyor. 1200 hektarlık bir yeşil cennet olan bu alan, İstanbul'un toplam yüzölçümünün neredeyse %0.2'sine tekabül ediyor. Bu büyüklük, Taksim Meydanı'nın yaklaşık 10 katı bir alanı kapsıyor.
 
-İklim açısından bakıldığında, Bababurnu'nun bulunduğu bölge Akdeniz ikliminin etkisinde. Bu bölgede, yazlar sıca ve kurak, kışlar ise ılıman ve yağışlı geçiyor. Mevsimsel olarak değişen hava durumu, bu bölgenin flora ve fauna çeşitliliğini etkiliyor. Örneğin, ilkbahar aylarında, bölgede birçok kuş türü yuva yapıyor.
+İklim açısından bakıldığında, Bababurnu'nun bulunduğu bölge Akdeniz ikliminin etkisinde. Bu bölgede, yazlar sıcak ve kurak, kışlar ise ılıman ve yağışlı geçiyor. Mevsimsel olarak değişen hava durumu, bu bölgenin flora ve fauna çeşitliliğini etkiliyor. Örneğin, ilkbahar aylarında, bölgede birçok kuş türü yuva yapıyor.
 
 Bababurnu, çevresindeki ekosistemle güçlü bir bağlantı içinde. Ege Denizi'ne kıyısı olan bu bölge, su kaynakları açısından zengin. Bölge, komşu alanlar ve su kaynaklarıyla birlikte bir bütün olarak düşünülürse, Monaco'nun yaklaşık %1'i kadar bir alanı kapsıyor. Bu bölgenin doğal güzelliği ve biyolojik çeşitliliği, onu önemli bir çevresel değer haline getiriyor.
 

@@ -37,7 +37,7 @@ Güneydoğu Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan Yukarı
 
 Jeolojik açıdan incelendiğinde, Yukarı Kaleköy Baraj Gölü'nün çevresindeki arazinin yapısı, bölgenin tarihini ve coğrafi oluşumunu yansıtıyor. Bu bölgede, farklı jeolojik dönemlere ait kayaçlar ve topraklar bulunuyor. Ancak, fiziksel veri eksikliği nedeniyle, gölün boyutları ve şekli hakkında net bilgiler bulunmuyor. Buna rağmen, bölgenin coğrafi yapısı, su kaynaklarının zenginliğini ve doğal güzellikleri vurguluyor.
 
-Mevsimsel açıdan ele alındığında, Yukarı Kaleköy Baraj Gölü'nün bulunduğu bölge, karasal iklim özellikleri gösteriyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakim. Bu mevsimsel değişimler, bölgenin ekosistemini ve su kaynaklarını etkiliyor. Gölün su seviyesi, mevsimsel yağışlara ve bölgedeki su kullanımına bağlı olarak değişkenlik gösteriyor.
+Mevsimsel açıdan ele alındığında, Yukarı Kaleköy Baraj Gölü'nün bulunduğu bölge, karasal iklim özellikleri gösteriyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakim. Bu mevsimsel değişimler, bölgenin ekosistemini ve su kaynaklarını etkiliyor. Gölün su seviyesi, mevsimsel yağışlara ve bölgedeki su kullanımına bağlı olarak değişkenlik gösteriyor.
 
 Doğal birsu kaynağına sahip olan Yukarı Kaleköy Baraj Gölü, çevresindeki diğer su kaynakları ve ekosistemlerle bağlantılı olarak çalışıyor. Bu bağlamda, gölün suyu, bölgenin sulama, içme suyu ve hidroelektrik enerji üretiminde önemli bir rol oynuyor. Ayrıca, gölün çevresindeki flora ve fauna, bölgenin biyolojik çeşitliliğini zenginleştirmektedir.
 

@@ -42,7 +42,7 @@ Dünyanın birçok coğrafyasında olduğu gibi, Türkiye'nin de dağlık bölge
 
 Jeolojik açıdan incelendiğinde, Sersik Dağı'nın yapısı hakkında detaylı bilgiler bulunmuyor. Ancak, bu bölgede genellikle dağların oluşumunda rol oynayan tektonik hareketler ve volkanik faaliyetler gözlenmiştir. Bu dağların çoğu, Monaco'nun yarısı kadar büyük alanları kaplayan daha büyük dağ sistemlerinin bir parçasıdır. Sersik Dağı'nın boyutları ise Taksim Meydanı'nın birkaç katı büyüklüğünde olabilir.
 
-Doğal çevreyi incelemek önemli olduğu için, Sersik Dağı'nın iklim karakterini de anlamak gerekir. Bu bölgede mevsimsel özellikler, Türkiye'nin genel iklim yapısına benzerlik gösterir. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Hava durumu, Eiffel Kulesi'nin yüksekliğine benzer bir rakımda bulunan dağların eteklerinde daha değişken olabilir.
+Doğal çevreyi incelemek önemli olduğu için, Sersik Dağı'nın iklim karakterini de anlamak gerekir. Bu bölgede mevsimsel özellikler, Türkiye'nin genel iklim yapısına benzerlik gösterir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Hava durumu, Eiffel Kulesi'nin yüksekliğine benzer bir rakımda bulunan dağların eteklerinde daha değişken olabilir.
 
 Sersik Dağı, çevresindeki diğer coğrafi oluşumlarla birlikte bir ekosistem oluşturur. Bu bölgede su kaynakları, bitki örtüsü ve hayvan çeşitliliği önemli bir role sahiptir. İstanbul'un Adalar ilçesi büyüklüğünde olan bu bölge, komşu alanlarla birlikte büyük bir doğal ağ oluşturur. Bu doğal ağ, bölgenin biyolojik çeşitliliğini korur ve destekler.
 

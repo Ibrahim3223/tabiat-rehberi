@@ -38,7 +38,7 @@ Nişantaşı'nın tarihi geçmişi, Osmanlı İmparatorluğu dönemine kadar uza
 
 ## Coğrafya
 
-Nişantaşı, coğrafi olarak Marmara Bölgesi'nde yer alıyor ve İstanbul'un merkezinde bulunuyor. Bölgenin coğrafyası, geniş yeşil alanlar, tarihi yapılar ve modern binaların bir araya geldiği özel bir yapıya sahip. Nişantaşı, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor ve bu nedenle, bölgeden İstanbul Boğazı'nın güzel manzaraları izlenebiliyor. Bölgenin iklimi, genel olarak ılıman ve dört mevsim yaşanabilir. Kışlar ılık ve yağmurlu, yazlar ise sıcak ve kurak geçer. Bu nedenle, Nişantaşı, yılın her dönemi ziyaret edilebilir. Bölgenin coğrafi konumu ve iklimi, birçok bitki ve hayvan türünün yaşamasına olanak tanır ve bu nedenle, Nişantaşı, zengin bir flora ve faunaya sahiptir.
+Nişantaşı, coğrafi olarak Marmara Bölgesi'nde yer alıyor ve İstanbul'un merkezinde bulunuyor. Bölgenin coğrafyası, geniş yeşil alanlar, tarihi yapılar ve modern binaların bir araya geldiği özel bir yapıya sahip. Nişantaşı, yüksek bir konumda yer alıyor ve bu nedenle, bölgeden İstanbul Boğazı'nın güzel manzaraları izlenebiliyor. Bölgenin iklimi, genel olarak ılıman ve dört mevsim yaşanabilir. Kışlar ılık ve yağmurlu, yazlar ise sıcak ve kurak geçer. Bu nedenle, Nişantaşı, yılın her dönemi ziyaret edilebilir. Bölgenin coğrafi konumu ve iklimi, birçok bitki ve hayvan türünün yaşamasına olanak tanır ve bu nedenle, Nişantaşı, zengin bir flora ve faunaya sahiptir.
 
 ## Flora ve Fauna
 

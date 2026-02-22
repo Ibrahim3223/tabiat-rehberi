@@ -31,7 +31,7 @@ Beykoz-Göknarlik milli parkının tarihi geçmişi, yüzyıllar boyunca şekill
 
 ## Coğrafya
 
-Beykoz-Göknarlik milli parkı, İç Anadolu Bölgesi'nde yer alır. Bu bölgenin coğrafi yapısı, geniş ormanlık alanlar ve yeşil düzlüklerden oluşur. Milli parkın alanı, 140 hektarlık bir alanı kaplar. Bu geniş alan, ziyaretçilere geniş bir faaliyet alanı sunar. Parkın coğrafi konumu, ziyaretçilere birçok olanak sağlar. Ziyaretçiler, bu bölgede doğa yürüyüşleri yapabilir, piknik alanlarında dinlenebilir ve doğal güzelliğin keyfini çıkarabilir. Milli parkın iklimi, İç Anadolu Bölgesi'nin tipik iklimine benzer. Kış ayları soğu ve karlı, yaz ayları ise sıcak ve kurudur. Bu iklim koşulları, ziyaretçilere yıl boyunca çeşitli faaliyetler sunar.
+Beykoz-Göknarlik milli parkı, İç Anadolu Bölgesi'nde yer alır. Bu bölgenin coğrafi yapısı, geniş ormanlık alanlar ve yeşil düzlüklerden oluşur. Milli parkın alanı, 140 hektarlık bir alanı kaplar. Bu geniş alan, ziyaretçilere geniş bir faaliyet alanı sunar. Parkın coğrafi konumu, ziyaretçilere birçok olanak sağlar. Ziyaretçiler, bu bölgede doğa yürüyüşleri yapabilir, piknik alanlarında dinlenebilir ve doğal güzelliğin keyfini çıkarabilir. Milli parkın iklimi, İç Anadolu Bölgesi'nin tipik iklimine benzer. Kış ayları soğuk ve karlı, yaz ayları ise sıcak ve kurudur. Bu iklim koşulları, ziyaretçilere yıl boyunca çeşitli faaliyetler sunar.
 
 ## Flora ve Fauna
 

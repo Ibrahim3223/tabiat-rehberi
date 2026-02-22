@@ -42,7 +42,7 @@ Konya'nın coğrafi zenginliklerinin arasında yer alan Hacıömer Dağı, 37.19
 
 Doğal güzellikleri ve jeolojik yapısı ile dikkat çeken Hacıömer Dağı, bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu alan, Taksim Meydanı'nın birkaç katı büyüklüğünde bir coğrafi oluşum olarak düşünülebilir. Ancak, fiziksel veriler sınırlı olduğu için dağın boyutları ve şekli hakkında daha ayrıntılı bilgi verme mümkün değildir.
 
-Mevsimsel değişiklikler, Hacıömer Dağı'nın iklim karakterini şekillendirir. Konya'nın genel iklimi gibi, Hacıömer Dağı da karasal iklimin etkilerini taşır. Yaz aylarında sıcaklık ve kuraklık hüküm sürerken, kış aylarında soğu ve yağışlı bir hava hakim olur. Bu mevsimsel özellikler, dağın ekosistemini ve bitki örtüsünü etkiler.
+Mevsimsel değişiklikler, Hacıömer Dağı'nın iklim karakterini şekillendirir. Konya'nın genel iklimi gibi, Hacıömer Dağı da karasal iklimin etkilerini taşır. Yaz aylarında sıcaklık ve kuraklık hüküm sürerken, kış aylarında soğuk ve yağışlı bir hava hakim olur. Bu mevsimsel özellikler, dağın ekosistemini ve bitki örtüsünü etkiler.
 
 Çevresel ilişkilere bakıldığında, Hacıömer Dağı'nın komşu alanlar ve su kaynakları ile bağlantılı bir coğrafi yapıya sahip olduğu görülür. Dağ, çevresindeki ovalar ve düzlükler ile birlikte bir su toplama havzası oluşturur. Bu su kaynakları, bölgenin ekosistemini destekler ve yerel tarım faaliyetlerine katkı sağlar.
 

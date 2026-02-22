@@ -30,7 +30,7 @@ Antalya-Gundogmus-Eskibag Karacam Milli Parkı'nın tarihi geçmişi, yüzyılla
 
 ## Coğrafya
 
-Antalya-Gundogmus-Eskibag Karacam Milli Parkı, Akdeniz Bölgesi'nin güneyinde yer alıyor. Parkın coğrafi konumu, dağlık ve ormanlık alanların birleştiği bir bölgede bulunuyor. Burada, çeşitli bitki türleri ve hayvanlar yaşıyor. Parkın iklimi, Akdeniz iklimi özellikleri gösteriyor. Kışlar ılıman, yazlar sıca ve kurak geçiyor. Parkın coğrafi yapısı, birçok farklı habitatı barındırıyor. Burada, dağlar, ormanlar, nehirler ve akarsular bulunuyor. Parkın coğrafi konumu ve yapısı, onu önemli bir doğal güzellik haline getirdi. Parkın yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdate bulunuyor.
+Antalya-Gundogmus-Eskibag Karacam Milli Parkı, Akdeniz Bölgesi'nin güneyinde yer alıyor. Parkın coğrafi konumu, dağlık ve ormanlık alanların birleştiği bir bölgede bulunuyor. Burada, çeşitli bitki türleri ve hayvanlar yaşıyor. Parkın iklimi, Akdeniz iklimi özellikleri gösteriyor. Kışlar ılıman, yazlar sıcak ve kurak geçiyor. Parkın coğrafi yapısı, birçok farklı habitatı barındırıyor. Burada, dağlar, ormanlar, nehirler ve akarsular bulunuyor. Parkın coğrafi konumu ve yapısı, onu önemli bir doğal güzellik haline getirdi. Parkın yüksekliği, yüksek bir konumda bulunuyor.
 
 ## Flora ve Fauna
 

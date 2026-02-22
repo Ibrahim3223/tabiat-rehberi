@@ -37,7 +37,7 @@ Hamam'ın tarihi geçmişi, yörenin kültürel zenginliğine önemli katkılar 
 
 ## Coğrafya
 
-Hamam, Yozgat'ın Boğazlıyan ilçesinde yer alıyor ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve çevresindeki dağlarla birlikte bir vadi oluşturuyor. Hamam'ın coğrafi yapısı, doğal güzelliği ve tarihi önemiyle birlikte, yörenin önemli bir turizm merkezi haline gelmesini sağlıyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmakta. Ayrıca, Hamam'ın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahip. Kışlar soğu ve karlı, yazlar ise sıcak ve kuru passing.
+Hamam, Yozgat'ın Boğazlıyan ilçesinde yer alıyor ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve çevresindeki dağlarla birlikte bir vadi oluşturuyor. Hamam'ın coğrafi yapısı, doğal güzelliği ve tarihi önemiyle birlikte, yörenin önemli bir turizm merkezi haline gelmesini sağlıyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmakta. Ayrıca, Hamam'ın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahip. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuru passing.
 
 ## Flora ve Fauna
 

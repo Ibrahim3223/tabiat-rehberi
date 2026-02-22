@@ -52,7 +52,7 @@ Mevsimsel açıdan, Daht Dağı'nın iklim karakteri Van Gölü'nün etkisini ta
 
 Daht Dağı, Van'ın yüksek dağ ekosistemine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Bu bölgede, alpin çayırlar ve endemik türler hakimdir. İlkbaharın gelişiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Yaz aylarında, yükseklik zonlarına bağlı olarak farklı bitki toplulukları görülebilir. Sonbaharda, göç eden kuşlar dağların üstünden geçer.
 
-Daht Dağı, çeşitli yaban hayvanlarına da ev sahipliği yapar. Memeliler, dağların zorlu koşullarına adapte olmuşlardır. Kuşlar, dağların yüksek kesimlerinde yuvalanır ve göç eder. Sürüngenler, sıca ve kurak bölgelerde yaşarlar. Bu canlılar, dağ ekosisteminin bir parçası olarak, birbirleriyle ve çevreleriyle etkileşim halindedir. Daht Dağı, bu nedenle ekolojik olarak önemli bir alandır. Bu alanın korunması, bölgenin biyolojik çeşitliliğinin sürdürülmesi için büyük önem taşımaktadır.
+Daht Dağı, çeşitli yaban hayvanlarına da ev sahipliği yapar. Memeliler, dağların zorlu koşullarına adapte olmuşlardır. Kuşlar, dağların yüksek kesimlerinde yuvalanır ve göç eder. Sürüngenler, sıcak ve kurak bölgelerde yaşarlar. Bu canlılar, dağ ekosisteminin bir parçası olarak, birbirleriyle ve çevreleriyle etkileşim halindedir. Daht Dağı, bu nedenle ekolojik olarak önemli bir alandır. Bu alanın korunması, bölgenin biyolojik çeşitliliğinin sürdürülmesi için büyük önem taşımaktadır.
 
 ## Ziyaret Bilgileri
 

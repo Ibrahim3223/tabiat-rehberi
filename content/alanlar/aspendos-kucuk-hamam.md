@@ -37,7 +37,7 @@ Aspendos Küçük Hamam, yüzyıllar boyunca çeşitli uygarlıklara ev sahipli�
 
 ## Coğrafya
 
-Aspendos Küçük Hamam, Akdeniz Bölgesi'nde yer alan Antalya'nın Serik ilçesinde bulunmaktadır. Bu plaj, yaklaşık 140 hektarlık bir alana yayılmıştır ve denize sıfır bir konumdadır. Plajın çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Aspendos Küçük Hamam, Akdeniz ikliminin hüküm sürdüğü bir bölgedir ve genellikle sıca ve güneşli bir havaya sahiptir. Kış ayları ise ılıman ve yağışlı geçmektedir. Bu bölgede, denizin serinliklerinden ve güneşin sıcaklığından yararlanabilirsiniz. Ayrıca, Aspendos Antik Tiyatrosu gibi tarihi eserleri de ziyaret edebilirsiniz.
+Aspendos Küçük Hamam, Akdeniz Bölgesi'nde yer alan Antalya'nın Serik ilçesinde bulunmaktadır. Bu plaj, yaklaşık 140 hektarlık bir alana yayılmıştır ve denize sıfır bir konumdadır. Plajın çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Aspendos Küçük Hamam, Akdeniz ikliminin hüküm sürdüğü bir bölgedir ve genellikle sıcak ve güneşli bir havaya sahiptir. Kış ayları ise ılıman ve yağışlı geçmektedir. Bu bölgede, denizin serinliklerinden ve güneşin sıcaklığından yararlanabilirsiniz. Ayrıca, Aspendos Antik Tiyatrosu gibi tarihi eserleri de ziyaret edebilirsiniz.
 
 ## Flora ve Fauna
 

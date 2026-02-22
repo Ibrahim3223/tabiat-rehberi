@@ -36,7 +36,7 @@ Bestfarkin Tepesi'nin tarihi geçmişi, Diyarbakır'ın eski dönemlerine kadar 
 
 ## Coğrafya
 
-Bestfarkin Tepesi, Diyarbakır'ın coğrafi yapısını temsil eden önemli bir noktadır. Tepenin konumu, şehrin merkezine yakınlığı ve doğal güzelliği ile dikkat çeker. 140 hektarlık bir alanı kaplayan Bestfarkin Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Tepenin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bölgenin iklimi, Güneydoğu Anadolu Bölgesi'nin karakteristik iklimine uygun olarak yazları sıca ve kurak, kışları ise soğu ve yağışlı geçer. Bestfarkin Tepesi, çevresi ile birlikte önemli bir ekosistem oluşturur ve bölgenin doğal güzelliğine katkıda bulunur.
+Bestfarkin Tepesi, Diyarbakır'ın coğrafi yapısını temsil eden önemli bir noktadır. Tepenin konumu, şehrin merkezine yakınlığı ve doğal güzelliği ile dikkat çeker. 140 hektarlık bir alanı kaplayan Bestfarkin Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Tepenin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bölgenin iklimi, Güneydoğu Anadolu Bölgesi'nin karakteristik iklimine uygun olarak yazları sıcak ve kurak, kışları ise soğuk ve yağışlı geçer. Bestfarkin Tepesi, çevresi ile birlikte önemli bir ekosistem oluşturur ve bölgenin doğal güzelliğine katkıda bulunur.
 
 ## Flora ve Fauna
 

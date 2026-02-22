@@ -45,7 +45,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden biri olan Van, coğrafyasıyla dik
 
 Jeolojik açıdan bakıldığında, Ziyaret Tepesi'nin fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bu bölgenin genel coğrafyası oldukça ilgi çekicidir. Van Gölü'nün etrafındaki dağlar ve tepeler, bölgenin jeolojisini şekillendiren önemli faktörlerdir. Bu tepelerin arasında yer alan Ziyaret Tepesi, Van'ın coğrafi yapısını anlamak için önemli bir noktadır.
 
-Mevsimsel açıdan bakıldığında, Ziyaret Tepesi ve çevresinin iklim karakteri oldukça değişkenlik gösterir. Van'ın karasal iklimi, yazları sıca ve kurak, kışları soğu ve karlı passedir. Bu mevsimsel özellikler, Ziyaret Tepesi'nin çevresi ile birlikte ekosistemi etkiler ve bölgedeki flora ve fauna'nın çeşitliliğini şekillendirir.
+Mevsimsel açıdan bakıldığında, Ziyaret Tepesi ve çevresinin iklim karakteri oldukça değişkenlik gösterir. Van'ın karasal iklimi, yazları sıcak ve kurak, kışları soğuk ve karlı pasiftir. Bu mevsimsel özellikler, Ziyaret Tepesi'nin çevresi ile birlikte ekosistemi etkiler ve bölgedeki flora ve fauna'nın çeşitliliğini şekillendirir.
 
 Çevresel açıdan bakıldığında, Ziyaret Tepesi'nin Van Gölü ve diğer su kaynaklarına yakınlığı, bölgenin ekosistem bağlantılarını önemli kılar. Van Gölü, Türkiye'nin en büyük gölüdür ve bu gölün etrafındaki tepeler ve dağlar, bölgenin su kaynaklarını etkileyen önemli faktörlerdir. Ziyaret Tepesi, bu su kaynaklarına yakınlığıyla birlikte, Van'ın çevresel ilişkilerini anlamak için önemli bir noktadır.
 

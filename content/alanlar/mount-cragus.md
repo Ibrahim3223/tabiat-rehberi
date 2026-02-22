@@ -39,7 +39,7 @@ Mount Cragus ve çevresindeki dağlar, aynı zamanda kültürel ve dini öneme s
 
 Jeolojik açıdan bakıldığında, Mount Cragus'un yapısı oldukça karmaşık. Dağ, kalker ve şist gibi farklı jeolojik oluşumların birleşmesiyle oluşmuş. Bu dağ, Monaco'nun yarısı kadar bir alanı kaplıyor ve Eiffel Kulesi'nin 2 katı yükseklikte zirveleri bulunan bir dağ olarak dikkat çekiyor. Ancak, fiziksel veriler sınırlı olduğu için, dağın tam olarak boyutları ve şekli hakkında net bilgiler bulunmuyor.
 
-Mevsimsel değişikliklere bakıldığında, Mount Cragus'un iklimi, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Kış aylarında ılıman ve yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakim. Bu mevsimsel özellikler, dağın flora ve faunasını etkileyen önemli faktörler arasında yer alıyor.
+Mevsimsel değişikliklere bakıldığında, Mount Cragus'un iklimi, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Kış aylarında ılıman ve yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakim. Bu mevsimsel özellikler, dağın flora ve faunasını etkileyen önemli faktörler arasında yer alıyor.
 
 Doğal kaynaklar açısından, Mount Cragus, çevresindeki diğer dağlarla birlikte, su kaynakları için önemli bir role sahip. Dağ, komşu alanlara su sağlayan bir kaynak olarak görev yapıyor ve bu bölgenin ekosistemine katkıda bulunuyor. Taksim Meydanı'nın 10 katı büyüklüğünde bir alanı kaplayan bu dağ, çevresindeki diğer doğal alanlarla birlikte, bir bütün olarak değerlendirildiğinde, Türkiye'nin doğal güzelliklerini koruma altına alma çabalarına önemli bir katkı sağlıyor.
 

@@ -36,7 +36,7 @@ Harunahaka Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetl
 
 ## Coğrafya
 
-Harunahaka Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahip. Tepenin yüksekliği, çevreyi panoramik olarak izlemek için ideal bir nokta oluşturuyor. Bölge, çeşitli bitki türleri ve zengin fauna ile kaplı. Tepenin eteklerinde ve çevresinde, farklı mevsimlerde renk değiştiren çayırlar ve ormanlık alanlar yer alıyor. İklim, bölgenin coğrafi konumuna göre değişkenlik gösteriyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürüyor. Bu coğrafi çeşitlilik, Harunahaka Tepesi'ni doğa severler için bir cennet haline getiriyor. Tepenin konumu, ziyaretçilere geniş bir görüş açısı sunuyor ve bölgenin doğal güzelliklerini keşfetmek için ideal bir başlangıç noktası oluşturuyor.
+Harunahaka Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahip. Tepenin yüksekliği, çevreyi panoramik olarak izlemek için ideal bir nokta oluşturuyor. Bölge, çeşitli bitki türleri ve zengin fauna ile kaplı. Tepenin eteklerinde ve çevresinde, farklı mevsimlerde renk değiştiren çayırlar ve ormanlık alanlar yer alıyor. İklim, bölgenin coğrafi konumuna göre değişkenlik gösteriyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürüyor. Bu coğrafi çeşitlilik, Harunahaka Tepesi'ni doğa severler için bir cennet haline getiriyor. Tepenin konumu, ziyaretçilere geniş bir görüş açısı sunuyor ve bölgenin doğal güzelliklerini keşfetmek için ideal bir başlangıç noktası oluşturuyor.
 
 ## Flora ve Fauna
 

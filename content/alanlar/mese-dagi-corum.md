@@ -44,7 +44,7 @@ Bu tür doğal alanlar, yalnızca yerel halkın yaşamını desteklemekle kalmam
 
 Doğal şekilleri ve jeolojik özellikleri ile dikkat çeken Meşe Dağı, bir ova veya düzlüğe kıyasla daha engebeli bir araziyi kaplar. Monaco'nun yarısı kadar büyüklüğünde bir alanı kaplayan bu dağ, İstanbul'un Adalar ilçesi büyüklüğünde bir coğrafyaya spreade edilmiş gibi görünse de, daha dağınık ve engebeli bir yapıya sahiptir. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı noktalara sahip bu dağ, coğrafi olarak ilginç bir yapıya sahiptir.
 
-Mevsimsel değişikliklere göre farklılık gösteren Meşe Dağı'nın iklimi, İç Anadolu Bölgesi'nin genel iklim karakterini yansıtmaktadır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu iklim koşulları, bölgenin flora ve fauna yapısını etkileyerek, yerel ekosistemin oluşmasına katkıda bulunmaktadır.
+Mevsimsel değişikliklere göre farklılık gösteren Meşe Dağı'nın iklimi, İç Anadolu Bölgesi'nin genel iklim karakterini yansıtmaktadır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu iklim koşulları, bölgenin flora ve fauna yapısını etkileyerek, yerel ekosistemin oluşmasına katkıda bulunmaktadır.
 
 Meşe Dağı, çevresindeki diğer coğrafi oluşumlar ile bağlantılı bir şekilde, daha geniş bir ekosistem içerisinde yer almaktadır. Bölge, komşu orman alanları ve su kaynakları ile birlikte, bir bütün olarak düşünülmesi gereken bir coğrafi yapıyı oluşturmaktadır. 85 katlı bir gökdelen kadar yüksek olan bazı noktalara sahip bu dağ, çevreye duyarlı bir şekilde değerlendirilmesi gereken bir doğal kaynak olarak görülmelidir.
 

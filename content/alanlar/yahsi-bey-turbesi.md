@@ -37,7 +37,7 @@ Yahşi Bey Türbesi'nin tarihi geçmişi, Osmanlı döneminde beganlıyor. Bu d�
 
 ## Coğrafya
 
-Yahşi Bey Türbesi, Çanakkale'nin Bayramiç ilçesinde, Marmara Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak çeşitlilik gösteren bir alan. Türbenin, yeşilin farklı tonlarını görme mümkün. Ayrıca, bu mekanın bulunduğu bölgede, çeşitli bitki türleri ve zengin fauna encontrabilir. İklim olarak, bölgede karasal iklim hüküm sürüyor. Yaz ayları sıca ve kurak, kış ayları ise soğu ve yağışlı geçiyor. Bu mekan, coğrafi konumu itibariyle, ziyaretçilerine farklı mevsimlerde farklı deneyimler sunuyor. Bahar aylarında, yeşilin farklı tonlarını görme mümkün iken, kış aylarında, karın güzelliği ile karşılaşma mümkün. Bu mekan, coğrafi güzellikleri ve iklimi ile ziyaretçilerini etkiliyor.
+Yahşi Bey Türbesi, Çanakkale'nin Bayramiç ilçesinde, Marmara Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak çeşitlilik gösteren bir alan. Türbenin, yeşilin farklı tonlarını görme mümkün. Ayrıca, bu mekanın bulunduğu bölgede, çeşitli bitki türleri ve zengin fauna encontrabilir. İklim olarak, bölgede karasal iklim hüküm sürüyor. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçiyor. Bu mekan, coğrafi konumu itibariyle, ziyaretçilerine farklı mevsimlerde farklı deneyimler sunuyor. Bahar aylarında, yeşilin farklı tonlarını görme mümkün iken, kış aylarında, karın güzelliği ile karşılaşma mümkün. Bu mekan, coğrafi güzellikleri ve iklimi ile ziyaretçilerini etkiliyor.
 
 ## Flora ve Fauna
 

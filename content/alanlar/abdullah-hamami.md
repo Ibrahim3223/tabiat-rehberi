@@ -38,7 +38,7 @@ Abdullah Hamamı'nın tarihi geçmişi, Edirne'nin tarihi ile iç içe geçmişt
 
 ## Coğrafya
 
-Abdullah Hamamı, Edirne'nin merkezinde, Marmara Denizi'nin kıyısında yer almaktadır. Bu bölgenin coğrafyası, genel olarak düzlük bir araziye sahiptir ve deniz seviyesinden fazla yüksek değildir. İklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak, ılıman ve nemli bir yapıya sahiptir. Yaz ayları, genellikle sıca ve khô, kış ayları ise ılık ve yağışlı geçer. Abdullah Hamamı'nın etrafı, çeşitli bitki türleri ile çevrilidir ve bu bölgede, zengin bir fauna bulunmaktadır. Özellikle deniz kıyısında, deniz kuşlarının görülebileceği bir noktadır. Coğrafi konumu ve iklimi, Abdullah Hamamı'nı yıl boyunca ziyaret edilebilir bir destinasyon haline getirmektedir.
+Abdullah Hamamı, Edirne'nin merkezinde, Marmara Denizi'nin kıyısında yer almaktadır. Bu bölgenin coğrafyası, genel olarak düzlük bir araziye sahiptir ve deniz seviyesinden fazla yüksek değildir. İklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak, ılıman ve nemli bir yapıya sahiptir. Yaz ayları, genellikle sıcak ve kuru, kış ayları ise ılık ve yağışlı geçer. Abdullah Hamamı'nın etrafı, çeşitli bitki türleri ile çevrilidir ve bu bölgede, zengin bir fauna bulunmaktadır. Özellikle deniz kıyısında, deniz kuşlarının görülebileceği bir noktadır. Coğrafi konumu ve iklimi, Abdullah Hamamı'nı yıl boyunca ziyaret edilebilir bir destinasyon haline getirmektedir.
 
 ## Flora ve Fauna
 

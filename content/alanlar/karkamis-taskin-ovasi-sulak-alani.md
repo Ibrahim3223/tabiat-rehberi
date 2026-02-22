@@ -30,7 +30,7 @@ Karkamış Taşkın Ovası Sulak Alanı, binlerce yıldır doğal yaşamın bir 
 
 ## Coğrafya
 
-Karkamış Taşkın Ovası Sulak Alanı, Fırat Nehri'nin kıyısında, Gaziantep'in güneydoğusunda yer alır. Bu alan, 1200 hektarlık bir alanı kaplar ve bölgenin en önemli sulak alanlarından biridir. Karkamış Taşkın Ovası Sulak Alanı, deniz seviyesinden 350 metre yükseklikte yer alır. Bu bölge, sıca ve kurak yazlar, soğu ve yağışlı kışlar ile karakterize edilen bir iklimi sahiptir. Fırat Nehri, bu bölgenin en önemli su kaynağı olup, sulak alanın canlılarına yaşam kaynağı sağlar.
+Karkamış Taşkın Ovası Sulak Alanı, Fırat Nehri'nin kıyısında, Gaziantep'in güneydoğusunda yer alır. Bu alan, 1200 hektarlık bir alanı kaplar ve bölgenin en önemli sulak alanlarından biridir. Karkamış Taşkın Ovası Sulak Alanı, deniz seviyesinden 350 metre yükseklikte yer alır. Bu bölge, sıcak ve kurak yazlar, soğuk ve yağışlı kışlar ile karakterize edilen bir iklimi sahiptir. Fırat Nehri, bu bölgenin en önemli su kaynağı olup, sulak alanın canlılarına yaşam kaynağı sağlar.
 
 ## Flora ve Fauna
 

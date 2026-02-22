@@ -45,7 +45,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi zenginliklerini keşfetmek isteyenler 
 
 Doğal güzelliği ile dikkat çeken Bagok Dağı, yüksekliği ve genişliğiyle bölgenin önemli coğrafi oluşumlarından biri. Ancak, detaylı fiziksel verileri bulunmamasına rağmen, bu dağın Mardin'in genel coğrafi yapısına katkıda bulunduğu söylenebilir. Monaco'nun küçük bir kısmını kaplayacak büyüklükte olan bu alan, bölgenin jeolojik yapısını anlamak için önemli bir nokta.
 
-Mevsimsel değişikliklere göre şekillenen iklimi, Bagok Dağı'nın karakterini belirler. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu dağ, bölgenin hava koşullarını şekillendirmede önemli bir rol oynar.
+Mevsimsel değişikliklere göre şekillenen iklimi, Bagok Dağı'nın karakterini belirler. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu dağ, bölgenin hava koşullarını şekillendirmede önemli bir rol oynar.
 
 Çevresel açıdan bakıldığında, Bagok Dağı'nın komşu alanlarla ve su kaynaklarıyla bağlantıları önemlidir. Bölgenin ekosistemini destekleyen bu dağ, doğal yaşamın sürdürülmesi için gerekli koşulları sağlar. İstanbul'un Adalar ilçesi büyüklüğünde olmayan, ancak bölgenin doğal güzelliklerine katkıda bulunan Bagok Dağı, ziyaretçilerini bekliyor.
 

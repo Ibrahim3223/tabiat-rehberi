@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Zel Dağı, 39.2286°K enlem ve 39.6967�
 
 Jeolojik açıdan bakıldığında, Zel Dağı'nın exact boyutları hakkında bilgi bulunmasa da, Tunceli'nin genel jeolojik yapısı düşünüldüğünde, dağlık bir arazide yer aldığı anlaşılıyor. Bu bölge, Türkiye'nin Doğu Anadolu Bölgesi'nin bir parçası ve volkanik faaliyetlerin sonucu oluşan bir coğrafyaya sahip. Zel Dağı, bu volkanik faaliyetlerin bir ürünü olarak ortaya çıkmış ve bölgenin jeolojik yapısını etkilemiştir.
 
-Mevsimsel açıdan, Zel Dağı ve çevresi, karasal iklimin característicasını taşıyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakim. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkiliyor. Zel Dağı, Tunceli'nin doğal kaynaklarını koruma altına alan bir alan olarak, bölgenin ekolojik dengesini sağlıyor.
+Mevsimsel açıdan, Zel Dağı ve çevresi, karasal iklimin característicasını taşıyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakim. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkiliyor. Zel Dağı, Tunceli'nin doğal kaynaklarını koruma altına alan bir alan olarak, bölgenin ekolojik dengesini sağlıyor.
 
 Bölgenin su kaynaklarına bakıldığında, Zel Dağı, komşu nehir ve akarsuların oluşumunda önemli bir rol oynuyor. Dağın eteklerinde ve yakınında bulunan su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılıyor. Zel Dağı, Tunceli'nin doğal güzelliklerini koruma altına alan ve bölgenin ekolojik dengesini sağlayan bir alan olarak, önemli bir doğal kaynak olarak değerlendiriliyor.
 

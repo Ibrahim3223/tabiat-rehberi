@@ -31,7 +31,7 @@ Ankara-Nallihan Sacak milli parkı, İç Anadolu Bölgesi'nin tarihi geçmişi i
 
 ## Coğrafya
 
-Ankara-Nallihan Sacak milli parkı, coğrafi olarak Internal Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, yüksek platolardan oluşuyor ve Ankara-Nallihan Sacak, bu platolardan birinde yer alıyor. Milli parkın coğrafyası, çeşitli bitki türleri ile zengin bir flora sunuyor. Ayrıca, fauna açısından da oldukça zengin olan bu bölgede, çeşitli hayvan türleri yaşamlarını sürdürüyor. Ankara-Nallihan Sacak, iklim olarak İç Anadolu Bölgesi'nin karasal ikliminin etkilerini gösteriyor. Kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, milli parkın flora ve faunasını etkiliyor ve mevsimsel değişimlere neden oluyor. Milli parkın coğrafyası, aynı zamanda çeşitli jeolojik oluşumları da içeriyor. Burada, farklı jeolojik dönemlere ait kayaçlar ve oluşumlar bulunabiliyor.
+Ankara-Nallihan Sacak milli parkı, coğrafi olarak Internal Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, yüksek platolardan oluşuyor ve Ankara-Nallihan Sacak, bu platolardan birinde yer alıyor. Milli parkın coğrafyası, çeşitli bitki türleri ile zengin bir flora sunuyor. Ayrıca, fauna açısından da oldukça zengin olan bu bölgede, çeşitli hayvan türleri yaşamlarını sürdürüyor. Ankara-Nallihan Sacak, iklim olarak İç Anadolu Bölgesi'nin karasal ikliminin etkilerini gösteriyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, milli parkın flora ve faunasını etkiliyor ve mevsimsel değişimlere neden oluyor. Milli parkın coğrafyası, aynı zamanda çeşitli jeolojik oluşumları da içeriyor. Burada, farklı jeolojik dönemlere ait kayaçlar ve oluşumlar bulunabiliyor.
 
 ## Flora ve Fauna
 

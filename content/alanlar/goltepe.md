@@ -45,7 +45,7 @@ Doğrudan coğrafi bir nokta olarak ele aldığımızda, Göltepe Dağı, 36.926
 
 Jeolojik açıdan bakıldığında, Göltepe Dağı'nın fiziksel yapısı hakkında detaylı bilgiler olmasa da, bölgenin genel coğrafyası, Türkiye'nin güneyinde yer alan Toros Dağları'nın bir uzantısı olarak görülüyor. Bu dağlık bölgenin yükseklikleri, Eiffel Kulesi'nin birkaç katı yükseklikte olan zirvelerle karşılaştırılabiliyor. Göltepe Dağı, bu coğrafi yapının bir parçası olarak, Antalya'nın doğal güzelliklerini zenginleştiren önemli bir bileşen.
 
-Mevsimsel açıdan ele alındığında, Göltepe Dağı'nın iklim karakteri, Akdeniz ikliminin tipik özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliği üzerinde önemli bir etkiye sahip.
+Mevsimsel açıdan ele alındığında, Göltepe Dağı'nın iklim karakteri, Akdeniz ikliminin tipik özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliği üzerinde önemli bir etkiye sahip.
 
 Çevresel açıdan ele alındığında, Göltepe Dağı, Antalya'nın diğer doğal güzelliklerine ve su kaynaklarına oldukça yakın bir konumda bulunuyor. Bölge, Monaco'nun yarısı kadar bir alana spread olan geniş ormanlık alanlarla çevrilidir. Ayrıca, bölgedeki ekosistem bağlantıları, Göltepe Dağı'nın doğal yaşamı için önemli bir rol oynuyor.
 

@@ -42,7 +42,7 @@ Sokullu Mehmet Paşa Türbesi, Eyüpsultan ilçesinde yer alır ve Marmara Bölg
 
 ## Flora ve Fauna
 
-Sokullu Mehmet Paşa Türbesi, tarihi bir mekân olarak önemli bir kültürel mirasa sahiptir. Türbenin bulunduğu bölgede, çeşitli bitkiler ve ağaçlar yer alır. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişkenlik gösterir. Kış aylarında soğu ve yağışlı, yaz aylarında sıca ve nemli bir hava hakimdir. Türbenin etrafındaki yeşil alanlar, ziyaretçilere dinlenme ve doğayı seyretme imkanı sunar. Bu bölgede, çeşitli kuş türleri ve diğer hayvanlar da yaşar. Sokullu Mehmet Paşa Türbesi, yalnızca bir tarihi mekân olarak değil, aynı zamanda doğal güzellikleri ile de ziyaretçileri cezbeder.
+Sokullu Mehmet Paşa Türbesi, tarihi bir mekân olarak önemli bir kültürel mirasa sahiptir. Türbenin bulunduğu bölgede, çeşitli bitkiler ve ağaçlar yer alır. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişkenlik gösterir. Kış aylarında soğuk ve yağışlı, yaz aylarında sıcak ve nemli bir hava hakimdir. Türbenin etrafındaki yeşil alanlar, ziyaretçilere dinlenme ve doğayı seyretme imkanı sunar. Bu bölgede, çeşitli kuş türleri ve diğer hayvanlar da yaşar. Sokullu Mehmet Paşa Türbesi, yalnızca bir tarihi mekân olarak değil, aynı zamanda doğal güzellikleri ile de ziyaretçileri cezbeder.
 
 ## Ziyaret Bilgileri
 

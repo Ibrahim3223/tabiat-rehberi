@@ -38,7 +38,7 @@ Hallac-ı Mansur Türbesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli me
 
 ## Coğrafya
 
-Hallac-ı Mansur Türbesi, Gelibolu'nun merkezinde, Marmara Denizi'nin kıyısında yer alıyor. 180 hektarlık bir alana yayılan bu bölge, deniz seviyesinden yaklaşık yüksek bir konumdate bulunuyor. Türbenin etrafı, historical ve doğal güzelliklerle dolu. Bölge, Marmara Bölgesi'nin karakteristik iklimine sahip; ılıman ve nemli bir hava hakim. Kış ayları ılık ve yağışlı, yaz ayları ise sıcak ve güneşli geçiyor. Hallac-ı Mansur Türbesi'nin coğrafi konumu, ziyaretçilere hem tarihi bir gezi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Türbenin yakınında, Gelibolu'nun tarihi merkezini keşfetme ve Marmara Denizi'nin sahillerini gezme mümkün.
+Hallac-ı Mansur Türbesi, Gelibolu'nun merkezinde, Marmara Denizi'nin kıyısında yer alıyor. 180 hektarlık bir alana yayılan bu bölge, yüksek bir konumda bulunuyor. Türbenin etrafı, historical ve doğal güzelliklerle dolu. Bölge, Marmara Bölgesi'nin karakteristik iklimine sahip; ılıman ve nemli bir hava hakim. Kış ayları ılık ve yağışlı, yaz ayları ise sıcak ve güneşli geçiyor. Hallac-ı Mansur Türbesi'nin coğrafi konumu, ziyaretçilere hem tarihi bir gezi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Türbenin yakınında, Gelibolu'nun tarihi merkezini keşfetme ve Marmara Denizi'nin sahillerini gezme mümkün.
 
 ## Flora ve Fauna
 

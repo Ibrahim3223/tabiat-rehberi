@@ -45,7 +45,7 @@ Asas Dağı, Antalya'nın doğal ve kültürel mirasının bir parçasıdır. Bu
 
 Jeolojik açıdan bakıldığında, Asas Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, dağların genel olarak karmaşık bir jeolojik yapıya sahip olduğu biliniyor. Bu dağlar, genellikle kalker, şist ve granit gibi farklı türde kayalardan oluşuyor. Asas Dağı'nın büyüklüğü, Monaco'nun yaklaşık 1/10'u kadar bir alanı kaplıyor. Bu alan, Taksim Meydanı'nın 40 katı büyüklüğünde bir bölgeyi kapsıyor.
 
-Mevsimsel açıdan bakıldığında, Asas Dağı'nın iklim karakteri, Akdeniz ikliminin özelliklerini taşıyor. Kış aylarında ılıman, yaz aylarında ise sıca ve kurak bir hava hüküm sürüyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Asas Dağı, yılın belirli dönemlerinde, özellikle ilkbahar ve sonbahar aylarında, turuncu, sarı ve kırmızı gibi renklerle kaplanıyor.
+Mevsimsel açıdan bakıldığında, Asas Dağı'nın iklim karakteri, Akdeniz ikliminin özelliklerini taşıyor. Kış aylarında ılıman, yaz aylarında ise sıcak ve kurak bir hava hüküm sürüyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Asas Dağı, yılın belirli dönemlerinde, özellikle ilkbahar ve sonbahar aylarında, turuncu, sarı ve kırmızı gibi renklerle kaplanıyor.
 
 Doğal bir süreklilik içinde yer alan Asas Dağı, komşu alanlar ve su kaynaklarıyla bağlantılı bir ekosistem içinde bulunuyor. Dağın eteklerinde, çeşitli bitki türleri ve hayvanlar yaşadığından, bu bölge, önemli bir ekosistem olarak kabul ediliyor. Asas Dağı, aynı zamanda, bölgedeki su kaynaklarının beslenmesine de katkıda bulunuyor. Bu dağ, yaklaşık 10 hektarlık bir alana yayılan bir ormanlık alanı kapsıyor. Bu ormanlık alan, bir şehir bloğundan biraz daha büyük bir alanı kaplıyor.
 

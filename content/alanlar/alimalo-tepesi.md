@@ -36,7 +36,7 @@ Alimalo Tepesi'nin tarihi geçmişi, yüzyıllar boyunca farklı uygarlıkların
 
 ## Coğrafya
 
-Alimalo Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, genellikle dağlık ve engebeli arazilerle çevrilidir. Tepenin yüksekliği, bölgenin diğer noktalarına göre daha yüksektir ve bu nedenle Alimalo Tepesi'nden Batman şehri ve çevresinin manzarası izlenebilir. İklim olarak, Alimalo Tepesi ve çevresi, karasal iklimin özellikleri gösterir. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir hava hüküm sürer. Bu coğrafi ve iklimsel özellikler, Alimalo Tepesi'nin flora ve faunasını da etkilemektedir. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri yetişir ve bu bölgede yaşayan hayvanlar, bu coğrafi koşullara adapte olmuşlardır.
+Alimalo Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, genellikle dağlık ve engebeli arazilerle çevrilidir. Tepenin yüksekliği, bölgenin diğer noktalarına göre daha yüksektir ve bu nedenle Alimalo Tepesi'nden Batman şehri ve çevresinin manzarası izlenebilir. İklim olarak, Alimalo Tepesi ve çevresi, karasal iklimin özellikleri gösterir. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir hava hüküm sürer. Bu coğrafi ve iklimsel özellikler, Alimalo Tepesi'nin flora ve faunasını da etkilemektedir. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri yetişir ve bu bölgede yaşayan hayvanlar, bu coğrafi koşullara adapte olmuşlardır.
 
 ## Flora ve Fauna
 

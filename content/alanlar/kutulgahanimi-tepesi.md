@@ -36,7 +36,7 @@ Kutulgahanımı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş v
 
 ## Coğrafya
 
-Kutulgahanımı Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısı içinde önemli bir yer tutmakta. Tepenin etrafı, dağlar ve vadilerle dolu ve bu coğrafi yapı, bölgenin iklimini ve bitki örtüsünü etkilemekte. Bölge, genellikle sıca ve kurak bir iklime sahip, ancak tepenin yüksekliği ve eteklerinde bulunan su kaynakları, burada farklı bir mikro iklim yaratmakta. Tepenin zirvesinden, Batman'ın ve çevresinin panoramik manzarası izlenebilmekte ve bu manzara, özellikle gün batımında çok etkileyici. Tepenin eteklerinde, çeşitli bitki türleri bulunmakta ve bunlar, bölgenin ekolojik dengesini korumakta.
+Kutulgahanımı Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısı içinde önemli bir yer tutmakta. Tepenin etrafı, dağlar ve vadilerle dolu ve bu coğrafi yapı, bölgenin iklimini ve bitki örtüsünü etkilemekte. Bölge, genellikle sıcak ve kurak bir iklime sahip, ancak tepenin yüksekliği ve eteklerinde bulunan su kaynakları, burada farklı bir mikro iklim yaratmakta. Tepenin zirvesinden, Batman'ın ve çevresinin panoramik manzarası izlenebilmekte ve bu manzara, özellikle gün batımında çok etkileyici. Tepenin eteklerinde, çeşitli bitki türleri bulunmakta ve bunlar, bölgenin ekolojik dengesini korumakta.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Kışlabağ Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu b
 
 ## Coğrafya
 
-Kışlabağ Tepesi, Kırıkkale'nin coğrafi yapısında önemli bir yere sahip. Bu tepe, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Tepenin etrafı, geniş otlaklar ve ormanlarla dolu ve bu durum, burayı doğa severler için bir cennet haline getiriyor. Kışlabağ Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Bu bölgede, yazlar sıca ve kurak, kışlar ise soğu ve karlı geçer. Tepenin coğrafi yapısı, aynı zamanda birçok farklı bitki ve hayvan türünün yaşamasına olanak sağlıyor. Bu durum, burayı biyolojik çeşitlilik açısından önemli bir bölge haline getiriyor. Kışlabağ Tepesi, aynı zamanda birçok farklı coğrafi oluşuma da ev sahipliği yapıyor. Burada, vadiler, dağlar ve ovalar bulunmakta ve bu coğrafi oluşumlar, buranın güzelliğini arttırmış.
+Kışlabağ Tepesi, Kırıkkale'nin coğrafi yapısında önemli bir yere sahip. Bu tepe, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Tepenin etrafı, geniş otlaklar ve ormanlarla dolu ve bu durum, burayı doğa severler için bir cennet haline getiriyor. Kışlabağ Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Bu bölgede, yazlar sıcak ve kurak, kışlar ise soğuk ve karlı geçer. Tepenin coğrafi yapısı, aynı zamanda birçok farklı bitki ve hayvan türünün yaşamasına olanak sağlıyor. Bu durum, burayı biyolojik çeşitlilik açısından önemli bir bölge haline getiriyor. Kışlabağ Tepesi, aynı zamanda birçok farklı coğrafi oluşuma da ev sahipliği yapıyor. Burada, vadiler, dağlar ve ovalar bulunmakta ve bu coğrafi oluşumlar, buranın güzelliğini arttırmış.
 
 ## Flora ve Fauna
 

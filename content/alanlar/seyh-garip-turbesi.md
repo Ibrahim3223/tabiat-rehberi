@@ -38,7 +38,7 @@ wikidata_id: "Q131391553"
 
 ## Coğrafya
 
-Şeyh Garip Türbesi, Doğu Anadolu Bölgesi'nin coğrafi olarak özel bir bölgesinde yer alıyor. Bitlis ilinin merkezinde bulunan bu türbe, bölgenin en önemli doğal güzelliklerinden biri. Türbenin etrafında, birçok dağ ve tepe bulunmakta. Bu dağlar, bölgenin iklimini ve doğasını şekillendiriyor. Şeyh Garip Türbesi, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Şeyh Garip Türbesi, birçok nehir ve akarsunun yakınında bulunuyor. Bu nehirler, bölgenin sulak alanlarını oluşturuyor ve birçok canlıyaşam alanı sağlıyor.
+Şeyh Garip Türbesi, Doğu Anadolu Bölgesi'nin coğrafi olarak özel bir bölgesinde yer alıyor. Bitlis ilinin merkezinde bulunan bu türbe, bölgenin en önemli doğal güzelliklerinden biri. Türbenin etrafında, birçok dağ ve tepe bulunmakta. Bu dağlar, bölgenin iklimini ve doğasını şekillendiriyor. Şeyh Garip Türbesi, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Şeyh Garip Türbesi, birçok nehir ve akarsunun yakınında bulunuyor. Bu nehirler, bölgenin sulak alanlarını oluşturuyor ve birçok canlıyaşam alanı sağlıyor.
 
 ## Flora ve Fauna
 

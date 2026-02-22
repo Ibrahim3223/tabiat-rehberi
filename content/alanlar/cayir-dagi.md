@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden biri olan Bitlis'in dağlık arazi
 
 Jeolojik açıdan bakıldığında, Çayır Dağı'nın fiziksel yapısı hakkında detaylı bilgi olmasa da, genel olarak Doğu Anadolu Bölgesi'nin dağlık ve engebeli yapısına benzerlik gösterir. Bu dağ, bölgenin coğrafi yapısını şekillendiren önemli bir unsur olarak dikkat çeker. Çayır Dağı'nın büyüklüğü, yaklaşık olarak birkaç yüz metre yükseklikte ve genişlikte bir alanı kaplar, ancak tam olarak boyutları hakkında net bir veri bulunmamaktadır.
 
-İklim açısından, Çayır Dağı ve çevresi, karasal iklimin hakim olduğu bir bölgedir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürer. Bu mevsimsel değişiklik, bölgenin flora ve fauna yapısını etkileyen önemli bir faktördür. Çayır Dağı'nın iklimi, bölgenin tarım ve hayvancılık faaliyetlerini de etkiler.
+İklim açısından, Çayır Dağı ve çevresi, karasal iklimin hakim olduğu bir bölgedir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürer. Bu mevsimsel değişiklik, bölgenin flora ve fauna yapısını etkileyen önemli bir faktördür. Çayır Dağı'nın iklimi, bölgenin tarım ve hayvancılık faaliyetlerini de etkiler.
 
 Çevresel açıdan bakıldığında, Çayır Dağı, Bitlis'in önemli su kaynaklarına yakın bir konumda yer alır. Bu dağ, bölgenin ekosistemini destekleyen önemli bir unsur olarak dikkat çeker. Çayır Dağı, etraftaki köylerin yaşamını etkileyen bir doğal unsur olarak, bölgenin doğal güzelliğini koruma altına almak için önemli bir rol oynar. Bu dağ, bölgenin turizm potansiyelini artıran önemli bir doğal güzellik olarak da değerlendirilebilir.
 

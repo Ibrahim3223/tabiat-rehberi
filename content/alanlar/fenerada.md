@@ -45,7 +45,7 @@ Kuzey Ege Denizi'nin sakin sularında gizlenen Fenerada, 40.6322°K, 27.7583°D 
 
 Doğal güzelliği ile dikkat çeken Fenerada, khoảng 1200 hektarlık bir alanı kaplar. Bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Ada, bir şehir bloğu büyüklüğünde bir alan olarak düşünülürse, Fenerada'nın boyutları daha iyi anlaşılabilir. Fenerada'nın fiziksel yapısı, küçük boyutuna rağmen, oldukça ilgi çekici bir jeolojiye sahiptir.
 
-Mevsimler değiştiğinde, Fenerada'nın iklim karakteri değişir. Kış aylarında, ada soğu ve yağmurlu bir hava alırken, yaz aylarında ise sıca ve güneşli bir hava hakimdir. Fenerada, Monaco'nun yarısı kadar büyük olan bir ada olarak düşünülürse, iklim karakterinin de benzer bir şekilde değiştiği söylenebilir. Ada, çevresindeki su kaynakları ve komşu adalarla birlikte, bir bütün olarak düşünüldüğünde, bölgenin önemli bir parçası haline gelir.
+Mevsimler değiştiğinde, Fenerada'nın iklim karakteri değişir. Kış aylarında, ada soğu ve yağmurlu bir hava alırken, yaz aylarında ise sıcak ve güneşli bir hava hakimdir. Fenerada, Monaco'nun yarısı kadar büyük olan bir ada olarak düşünülürse, iklim karakterinin de benzer bir şekilde değiştiği söylenebilir. Ada, çevresindeki su kaynakları ve komşu adalarla birlikte, bir bütün olarak düşünüldüğünde, bölgenin önemli bir parçası haline gelir.
 
 Çevresel olarak, Fenerada, komşu adalar ve su kaynaklarıyla birlikte bir bütün olarak düşünülür. Ada, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alan olarak düşünülürse, çevresel ilişkileri daha iyi anlaşılabilir. Fenerada, bölgenin ekosistem bağlantıları açısından önemli bir rol oynar ve çevresindeki su kaynakları ve komşu adalarla birlikte, bir bütün olarak düşünüldüğünde, bölgenin önemli bir parçası haline gelir.
 

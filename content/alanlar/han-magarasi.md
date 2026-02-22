@@ -53,7 +53,7 @@ Han Mağarası ve çevresindeki jeopark, step bitki örtüsü ve bozkırın kara
 
 Bitki örtüsünün hakim türleri, kuraklığa adapte olan ve su kaynaklarını verimli kullanan türlerdir. Bu türler, bölgenin zorlu koşullarına uyum sağlamış ve uzun yıllar boyunca hayatta kalmayı başarmışlardır. Mevsimsel değişimlerle birlikte, bitki örtüsü değişir; ilkbahar ve yaz aylarında yeşillenir, sonbahar ve kış aylarında ise kurur.
 
-Bu bölgede yaşayan yaban hayatın temelini memeliler, kuşlar ve sürüngenler oluşturur. Memeliler, genellikle gece aktif olan türlerdir ve mağaraları barınma alanı olarak kullanır. Kuşlar ise, göç edişlerine bağlı olarak mevsimsel olarak değişen bir popülasyona sahiptir. Sürüngenler, sıca ve kuru bölgelerde động olan türlerdir ve avlarını bu alanlarda avlarlar. Ekolojik değer olarak, bu bölge önemli bir koruma alanıdır; çünkü burada yaşayan türler, bölgeye özgüdür ve başka hiçbir yerde bulunmaz.
+Bu bölgede yaşayan yaban hayatın temelini memeliler, kuşlar ve sürüngenler oluşturur. Memeliler, genellikle gece aktif olan türlerdir ve mağaraları barınma alanı olarak kullanır. Kuşlar ise, göç edişlerine bağlı olarak mevsimsel olarak değişen bir popülasyona sahiptir. Sürüngenler, sıcak ve kuru bölgelerde động olan türlerdir ve avlarını bu alanlarda avlarlar. Ekolojik değer olarak, bu bölge önemli bir koruma alanıdır; çünkü burada yaşayan türler, bölgeye özgüdür ve başka hiçbir yerde bulunmaz.
 
 ## Ziyaret Bilgileri
 

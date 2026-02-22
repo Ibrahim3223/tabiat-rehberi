@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Komis Dağı, 38.6167°K, 41.
 
 Jeolojik açıdan bakıldığında, Komis Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bu bölgenin coğrafi özellikleri, genel olarak Güneydoğu Anadolu Bölgesi'nin karakteristiğini taşır. Bu bölge, genellikle geniş ovalar ve dağlık alanlardan oluşur. Komis Dağı, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgenin karmaşık jeolojik yapısını oluşturan bir parçadır. Monaco'nun yarısı kadar bir alanı kaplayan bu dağ, coğrafi çeşitlilik açısından zengin bir bölgede yer alır.
 
-Mevsimsel değişiklikler açısından, Komis Dağı ve çevresindeki bölge, karakteristik olarak kura ve sıcak yazlarla, soğu ve yağışlı kışlara sahip bir iklimi experience eder. Bu mevsimsel özellikler, bölgenin flora ve fauna'sını şekillendiren önemli faktörlerdir. Hava durumu, yıl boyunca önemli değişiklikler gösterir ve bu da bölgenin ekosistemini etkiler.
+Mevsimsel değişiklikler açısından, Komis Dağı ve çevresindeki bölge, karakteristik olarak kura ve sıcak yazlarla, soğuk ve yağışlı kışlara sahip bir iklimi experience eder. Bu mevsimsel özellikler, bölgenin flora ve fauna'sını şekillendiren önemli faktörlerdir. Hava durumu, yıl boyunca önemli değişiklikler gösterir ve bu da bölgenin ekosistemini etkiler.
 
 Çevresel açıdan bakıldığında, Komis Dağı, bölgenin su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahiptir. Bu dağ, çevresindeki ovaları ve tarım alanlarını besleyen su kaynaklarının bir kısmını oluşturan nehirlerin ve akarsuların kaynağını oluşturur. İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplayan bu dağ, bölgenin doğal dengesini koruma altına almak için önemli bir coğrafi unsurdur.
 

@@ -36,7 +36,7 @@ Gürük Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölge
 
 ## Coğrafya
 
-Gürük Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alıyor. Bu tepe, coğrafi konumu itibariyle, ziyaretçilere şehrin ve çevresinin panorama görüntüsünü sunuyor. Gürük Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölgenin iklimi, Güneydoğu Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, yazları sıca ve kurak, kışları ise soğu ve yağışlı geçiyor. Gürük Tepesi'nin zirvesine çıktığınızda, şehrin ve civarının geniş bir manzarasını izleyebilirsiniz. Bu tepe, coğrafi konumu ve doğal güzellikleriyle, ziyaretçilere doğanın içinde bir deneyim sunuyor. Bölge, yaban hayatının çeşitliliği ve coğrafi yapısı ile dikkat çekiyor ve ziyaretçilere, şehrin gürültüsünden uzak, sakin bir ortam sunuyor.
+Gürük Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alıyor. Bu tepe, coğrafi konumu itibariyle, ziyaretçilere şehrin ve çevresinin panorama görüntüsünü sunuyor. Gürük Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölgenin iklimi, Güneydoğu Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı geçiyor. Gürük Tepesi'nin zirvesine çıktığınızda, şehrin ve civarının geniş bir manzarasını izleyebilirsiniz. Bu tepe, coğrafi konumu ve doğal güzellikleriyle, ziyaretçilere doğanın içinde bir deneyim sunuyor. Bölge, yaban hayatının çeşitliliği ve coğrafi yapısı ile dikkat çekiyor ve ziyaretçilere, şehrin gürültüsünden uzak, sakin bir ortam sunuyor.
 
 ## Flora ve Fauna
 

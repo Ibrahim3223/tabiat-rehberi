@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden biri olan Bingöl'de yer alan Hada
 
 Jeolojik açıdan bakıldığında, Hadar Dağı'nın fiziksel yapısı hakkında detaylı bilgiler olmamasına rağmen, coğrafi konumu itibariyle etrafındaki diğer dağlar ve ovalarla birlikte bir bütünü oluşturur. Bu dağ, bir şehir bloğu büyüklüğünde bir alanı kaplayarak çevreye uyum sağlar. Hadar Dağı, şekli itibariyle bölgenin diğer dağlarıyla benzerlik gösterir ve jeolojik oluşumları açısından da dikkat çekicidir.
 
-Mevsimsel değişimlere baktığımızda, Hadar Dağı'nın iklim karakteri, bölgenin genel iklimine uygun şekilde şekillenir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise serin ve yağmurlu bir hava hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve Hadar Dağı'nın ekosistemini zenginleştirir. Eiffel Kulesi'nin 2 katı yükseklikte olan bu dağ, bölgenin en yüksek noktalarından biridir.
+Mevsimsel değişimlere baktığımızda, Hadar Dağı'nın iklim karakteri, bölgenin genel iklimine uygun şekilde şekillenir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise serin ve yağmurlu bir hava hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve Hadar Dağı'nın ekosistemini zenginleştirir. Eiffel Kulesi'nin 2 katı yükseklikte olan bu dağ, bölgenin en yüksek noktalarından biridir.
 
 Çevresel açıdan bakıldığında, Hadar Dağı, bölgenin su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahiptir. Monaco'nun yarısı kadar büyüklüğe sahip olan bu dağ, etrafındaki ovaları ve nehirleri besler ve bölgenin doğal dengesini korur. Hadar Dağı, bu özellikleri ile birlikte, bölgenin coğrafi yapısını şekillendiren önemli bir unsurdur ve doğal güzelliği ile dikkat çeker.
 

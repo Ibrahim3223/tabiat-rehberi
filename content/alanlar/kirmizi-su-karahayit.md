@@ -37,7 +37,7 @@ Kırmızı Su Karahayıt'ın tarihi geçmişi, yüzyıllar öncesine kadar uzan�
 
 ## Coğrafya
 
-Kırmızı Su Karahayıt, Denizli'nin Pamukkale ilçesinde, Ege Bölgesi'nin ortasında yer alır. Bu bölge, coğrafi olarak zengin bir çeşitlilik gösterir. Karahayıt, kırmızı suyunun yanı sıra, çam ormanları, dağlar ve ovalar ile çevrilidir. Bölgenin iklimi, tipik Akdeniz iklimidir, yani yazları sıca ve kurak, kışları ise ılıman ve yağışlı geçer. Bu coğrafi çeşitlilik, Karahayıt'ı yıl boyunca ziyaret edilebilecek bir destinasyon haline getirir. Ziyaretçiler, buradaki ılıcaların yanı sıra, doğa yürüyüşleri, dağ bisikleti ve diğer outdoor aktivitelerine de katılabilirler.
+Kırmızı Su Karahayıt, Denizli'nin Pamukkale ilçesinde, Ege Bölgesi'nin ortasında yer alır. Bu bölge, coğrafi olarak zengin bir çeşitlilik gösterir. Karahayıt, kırmızı suyunun yanı sıra, çam ormanları, dağlar ve ovalar ile çevrilidir. Bölgenin iklimi, tipik Akdeniz iklimidir, yani yazları sıcak ve kurak, kışları ise ılıman ve yağışlı geçer. Bu coğrafi çeşitlilik, Karahayıt'ı yıl boyunca ziyaret edilebilecek bir destinasyon haline getirir. Ziyaretçiler, buradaki ılıcaların yanı sıra, doğa yürüyüşleri, dağ bisikleti ve diğer outdoor aktivitelerine de katılabilirler.
 
 ## Flora ve Fauna
 

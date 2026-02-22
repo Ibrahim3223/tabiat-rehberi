@@ -31,7 +31,7 @@ Mersin-Erdemli-Kizilcam Milli Parkı'nın tarihi geçmişi, yüzyıllar öncesin
 
 ## Coğrafya
 
-Mersin-Erdemli-Kizilcam Milli Parkı, Akdeniz Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahip. 140 hektarlık bu alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Milli parkın iklimi, Akdeniz ikliminin özellikleri gösteriyor. Yazlar sıca ve kuru, kışlar ılık ve yağışlı geçiyor. Bu iklim, bölgenin flora ve faunasının çeşitliliğini artırıyor. Milli parkın coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor. Ziyaretçiler, burada Akdeniz'in güzelliğini ve çevrenin doğal yapısını görebiliyor.
+Mersin-Erdemli-Kizilcam Milli Parkı, Akdeniz Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahip. 140 hektarlık bu alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Milli parkın iklimi, Akdeniz ikliminin özellikleri gösteriyor. Yazlar sıcak ve kuru, kışlar ılık ve yağışlı geçiyor. Bu iklim, bölgenin flora ve faunasının çeşitliliğini artırıyor. Milli parkın coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor. Ziyaretçiler, burada Akdeniz'in güzelliğini ve çevrenin doğal yapısını görebiliyor.
 
 ## Flora ve Fauna
 

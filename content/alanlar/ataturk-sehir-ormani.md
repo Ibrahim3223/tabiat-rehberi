@@ -30,7 +30,7 @@ Atatürk Şehir Ormanı'nın tarihi geçmişi, yüzyıllar boyunca farklı meden
 
 ## Coğrafya
 
-Atatürk Şehir Ormanı, İç Anadolu Bölgesi'nin coğrafi yapısının karakteristik özelliklerini taşır. Orman, geniş ve düz bir arazide kurulmuştur. Toprak yapısı, çeşitli ağaç türlerinin yetişmesine elverişlidir. İklim, karasal iklimin özelliklerini taşır: yazlar sıca ve kurak, kışlar soğu ve karlıdır. Bu iklim, ormanın zengin faunası için idealdir. Orman, birçok küçük dere ve çay ile çevrilidir. Bu sular, ormanın ekolojik dengesini korumada önemli bir rol oynar. Atatürk Şehir Ormanı, İç Anadolu Bölgesi'nin en büyük şehir ormanlarından biri olarak, bölgenin coğrafi çeşitliliğini gözler önüne serer.
+Atatürk Şehir Ormanı, İç Anadolu Bölgesi'nin coğrafi yapısının karakteristik özelliklerini taşır. Orman, geniş ve düz bir arazide kurulmuştur. Toprak yapısı, çeşitli ağaç türlerinin yetişmesine elverişlidir. İklim, karasal iklimin özelliklerini taşır: yazlar sıcak ve kurak, kışlar soğuk ve karlıdır. Bu iklim, ormanın zengin faunası için idealdir. Orman, birçok küçük dere ve çay ile çevrilidir. Bu sular, ormanın ekolojik dengesini korumada önemli bir rol oynar. Atatürk Şehir Ormanı, İç Anadolu Bölgesi'nin en büyük şehir ormanlarından biri olarak, bölgenin coğrafi çeşitliliğini gözler önüne serer.
 
 ## Flora ve Fauna
 

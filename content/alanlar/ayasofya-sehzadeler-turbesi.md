@@ -38,7 +38,7 @@ Ayasofya Şehzadeler Türbesi, Bizans İmparatorluğu döneminde inşa edilmişt
 
 ## Coğrafya
 
-Ayasofya Şehzadeler Türbesi, İstanbul'un tarihi merkezi Fatih'te yer almaktadır. Marmara Bölgesi'nde bulunan bu türbe, Ayasofya'nın kuzeydoğu köşesinde yer almaktadır. İstanbul'un coğrafi özellikleri ile dikkat çeken bu bölge, tarihi ve doğal güzellikleri ile ziyaretçilerini çekmektedir. Ayasofya Şehzadeler Türbesi, deniz seviyesinden yaklaşık yüksek bir konumdate yer almaktadır. Bu yükseklik, ziyaretçilere İstanbul'un tarihi merkezi ve Marmara Denizi'nin güzel manzarasını sunmaktadır. Ayasofya Şehzadeler Türbesi, İstanbul'un iklim özellikleri ile de dikkat çeken bir bölgede yer almaktadır. Bu bölge, ılıman bir iklime sahip olmakta ve ziyaretçilerine yıl boyunca güzel bir atmosfer sunmaktadır.
+Ayasofya Şehzadeler Türbesi, İstanbul'un tarihi merkezi Fatih'te yer almaktadır. Marmara Bölgesi'nde bulunan bu türbe, Ayasofya'nın kuzeydoğu köşesinde yer almaktadır. İstanbul'un coğrafi özellikleri ile dikkat çeken bu bölge, tarihi ve doğal güzellikleri ile ziyaretçilerini çekmektedir. Ayasofya Şehzadeler Türbesi, yüksek bir konumda yer almaktadır. Bu yükseklik, ziyaretçilere İstanbul'un tarihi merkezi ve Marmara Denizi'nin güzel manzarasını sunmaktadır. Ayasofya Şehzadeler Türbesi, İstanbul'un iklim özellikleri ile de dikkat çeken bir bölgede yer almaktadır. Bu bölge, ılıman bir iklime sahip olmakta ve ziyaretçilerine yıl boyunca güzel bir atmosfer sunmaktadır.
 
 ## Flora ve Fauna
 

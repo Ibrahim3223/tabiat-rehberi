@@ -52,7 +52,7 @@ Mevsimsel değişikliklere baktığımızda, Gora Chiyareshk'in iklim karakteri 
 
 "Gora Chiyareshk" dağ ekosistemi, step bitki örtüsü ve bozkırın birleştiği benzersiz bir bölge. 1200 metre yükseklikteki bu dağ, mevsimsel değişimlere göre farklı bir görünüm sunar. İlkbaharın başlangıcında, karların erimesiyle birlikte, dağ yamaçlarında çeşitli çiçekler açar. Step bitkileri, bozkırın kurak koşullarına adapte olmuş türlerle birlikte, dağın flora çeşitliliğini oluşturur.
 
-Dağın yükseklik zonlarında, alpin flora hakimdir. Bu bölgede, çalılar ve bodurlar gibi adaptasyon gösteren bitkiler bulunur. Yaban hayatı dağın ekosistemine bağlı olarak şekillenir. Memeliler, dağ keçileri ve yaban sığırları gibi türler, dağlık alanlarda yaşar. Kuşlar, özellikle göç mevsimlerinde, bu bölgede önemli bir rol oynar. Sürüngenler de, dağlık alanların sıca ve kurak bölgelerinde yaşamlarını sürdürür.
+Dağın yükseklik zonlarında, alpin flora hakimdir. Bu bölgede, çalılar ve bodurlar gibi adaptasyon gösteren bitkiler bulunur. Yaban hayatı dağın ekosistemine bağlı olarak şekillenir. Memeliler, dağ keçileri ve yaban sığırları gibi türler, dağlık alanlarda yaşar. Kuşlar, özellikle göç mevsimlerinde, bu bölgede önemli bir rol oynar. Sürüngenler de, dağlık alanların sıcak ve kurak bölgelerinde yaşamlarını sürdürür.
 
 "Gora Chiyareshk" dağ ekosisteminin ekolojik değeri, bölgenin biyolojik çeşitliliğini korumasından kaynaklanır. Bu bölge, birçok tür için yaşam alanı ve göç yolu oluşturur. Koruma durumu, bölgenin doğal kaynaklarının sürdürülebilir kullanımını sağlamak için önemlidir. Bu dağ ekosisteminin korunması, gelecek nesiller için önemli bir doğal mirasın korunmasını sağlar.
 

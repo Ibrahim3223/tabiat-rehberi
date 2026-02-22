@@ -36,7 +36,7 @@ wikidata_id: "Q34827805"
 
 ## Coğrafya
 
-Çakıllıca Tepe, Antalya'nın coğrafi yapısı içerisinde önemli bir yere sahip. Bu tepe, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Coğrafi olarak, tepe ve çevresindeki arazi, çeşitli bitki türleri ve zengin fauna ile kaplı. İklim, tipik Akdeniz iklimi özellikleri gösteriyor; yazları sıca ve kurak, kışları ılık ve yağışlı. Çevre, doğal güzelliği ve biyolojik çeşitliliği koruma altına almak için önemli çalışmalara sahne oluyor. Çakıllıca Tepe, ziyaretçilerine geniş bir manzara ve doğal güzellik sunuyor. Bu bölge, coğrafi olarak da önemli bir noktada bulunuyor, çünkü Antalya'nın diğer turistik noktalarına da yakında.
+Çakıllıca Tepe, Antalya'nın coğrafi yapısı içerisinde önemli bir yere sahip. Bu tepe, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Coğrafi olarak, tepe ve çevresindeki arazi, çeşitli bitki türleri ve zengin fauna ile kaplı. İklim, tipik Akdeniz iklimi özellikleri gösteriyor; yazları sıcak ve kurak, kışları ılık ve yağışlı. Çevre, doğal güzelliği ve biyolojik çeşitliliği koruma altına almak için önemli çalışmalara sahne oluyor. Çakıllıca Tepe, ziyaretçilerine geniş bir manzara ve doğal güzellik sunuyor. Bu bölge, coğrafi olarak da önemli bir noktada bulunuyor, çünkü Antalya'nın diğer turistik noktalarına da yakında.
 
 ## Flora ve Fauna
 

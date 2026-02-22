@@ -42,7 +42,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden biri olan Erzincan, coğrafi olara
 
 Polatgölü Dağı'nın fiziksel yapısına bakıldığında, detalı fiziksel verilerin yokluğu nedeniyle kesin boyutlar hakkında bilgi verilememektedir. Ancak, genel olarak dağlık bir yapıya sahip olduğu ve bölgenin jeolojik özellikleri dikkate alındığında, volkanik kökenli bir dağ olma ihtimali yüksektir. Bu tür dağlar, genellikle dik yamaçlara ve keskin zirvelere sahip olurlar.
 
-İklimsel açıdan bakıldığında, Polatgölü Dağı ve çevresindeki bölge, karasal iklimin hüküm sürdüğü bir alandır. Kışlar soğu ve kar yağışlı, yazlar ise sıca ve kurak geçer. Bu mevsimsel farklılıklar, bölgenin flora ve fauna çeşitliliğini etkiler ve burada yaşayan canlıların uyum sağlamalarına neden olur.
+İklimsel açıdan bakıldığında, Polatgölü Dağı ve çevresindeki bölge, karasal iklimin hüküm sürdüğü bir alandır. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçer. Bu mevsimsel farklılıklar, bölgenin flora ve fauna çeşitliliğini etkiler ve burada yaşayan canlıların uyum sağlamalarına neden olur.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahip olan Polatgölü Dağı, çevresindeki diğer doğal oluşumlarla birlikte bir bütünü oluşturur. Dağın eteklerinde ve çevresinde bulunan akarsular ve göller, bölgenin su dengesini sağlar ve su kaynaklarının sürdürülebilirliğini sağlar. Bu doğal kaynaklar, aynı zamanda bölgenin ekonomi ve sosyal açıdan gelişimine de katkıda bulunurlar.
 

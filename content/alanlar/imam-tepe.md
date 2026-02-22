@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin en yüksek noktalarından biri olan İmam Tepe, 39.01
 
 Jeolojik açıdan bakıldığında, İmam Tepe'nin fiziksel yapısı hakkında detaylı bilgi olmasa da, bölgeyi tanımlayan dağlık yapının genişliği yaklaşık olarak bir büyükşehir ilçesi büyüklüğünde olduğunu söyleyebiliriz. Bu genişlik, İmam Tepe'nin çevreye olan etkisini gösteriyor ve bölgenin coğrafi çeşitliliğini vurguluyor.
 
-Mevsimsel değişimler açısından, İmam Tepe'nin bulunduğu bölge karasal iklim özellikleri gösteriyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise serin ve yağışlı bir hava hakim. Bu iklim özellikleri, bölgenin flora ve fauna çeşitliliğini etkiliyor ve İmam Tepe'nin çevreye olan ilişkilerini belirliyor.
+Mevsimsel değişimler açısından, İmam Tepe'nin bulunduğu bölge karasal iklim özellikleri gösteriyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise serin ve yağışlı bir hava hakim. Bu iklim özellikleri, bölgenin flora ve fauna çeşitliliğini etkiliyor ve İmam Tepe'nin çevreye olan ilişkilerini belirliyor.
 
 Ekosistem bağlamında, İmam Tepe çevresindeki su kaynakları ve komşu alanlar, bölgenin doğal dengesini koruyor. İmam Tepe, bölgenin su toplama havzalarına katkıda bulunarak, çevredeki ekosistemin sağlıklı bir şekilde işlemesini sağlıyor. Bu doğal süreç, İmam Tepe'nin çevresel ilişkilerini güçlendiriyor ve bölgenin biyolojik çeşitliliğini koruyor.
 

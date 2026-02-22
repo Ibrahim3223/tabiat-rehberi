@@ -36,7 +36,7 @@ Bedni Tepesi'nin tarihi geçmişi, bölgenin kültürel zenginliğini anlamak i�
 
 ## Coğrafya
 
-Coğrafi olarak, Bedni Tepesi Gümüşhane'nin önemli bir noktası olarak yer alıyor. Bu tepe, Karadeniz Bölgesi'nin karakteristik coğrafyasını taşıyor; yeşilin çeşitli tonları, dağlar ve vadiler. Bedni Tepesi'nin etrafı, çeşitli bitki türleri ile kaplı ve bu bölge, zengin fauna ile de dikkat çekiyor. İklim, Karadeniz Bölgesi'nin nemli ve ılıman iklimine uygun olarak değişiyor. Kışlar soğu ve yağışlı, yazlar ise serin ve nemli geçiyor. Bu coğrafi özellikler, Bedni Tepesi'ni doğal güzellikler açısından önemli bir destinasyon haline getiriyor.
+Coğrafi olarak, Bedni Tepesi Gümüşhane'nin önemli bir noktası olarak yer alıyor. Bu tepe, Karadeniz Bölgesi'nin karakteristik coğrafyasını taşıyor; yeşilin çeşitli tonları, dağlar ve vadiler. Bedni Tepesi'nin etrafı, çeşitli bitki türleri ile kaplı ve bu bölge, zengin fauna ile de dikkat çekiyor. İklim, Karadeniz Bölgesi'nin nemli ve ılıman iklimine uygun olarak değişiyor. Kışlar soğuk ve yağışlı, yazlar ise serin ve nemli geçiyor. Bu coğrafi özellikler, Bedni Tepesi'ni doğal güzellikler açısından önemli bir destinasyon haline getiriyor.
 
 ## Flora ve Fauna
 

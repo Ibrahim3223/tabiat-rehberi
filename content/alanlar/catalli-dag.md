@@ -45,7 +45,7 @@ Coğrafi olarak, Çatallı Dağ 39.0242°K enlem ve 33.9656°D boylamda yer alı
 
 Doğal yapısı itibariyle, Çatallı Dağ'ın fiziksel özellikleri hakkında detaylı bilgiler olmasa da, coğrafi konumu ve çevresi düşünüldüğünde, bu bölgenin genel olarak Anadolu'nun karmaşık jeolojik yapısını yansıttığı söylenebilir. Bu bölgedeki dağlar ve tepeler, genellikle volkani ve sedimentatif kayaçlardan oluşur. Çatallı Dağ'ın boyutları hakkında somut veriler olmasa da, genel olarak bu tür dağların bir şehir bloğu büyüklüğünde veya birkaç olimpik havuz kadar bir alanı kaplayabileceği düşünülebilir.
 
-Mevsimsel değişiklikler, Çatallı Dağ'ın iklim karakterini şekillendirir. İç Anadolu Bölgesi'nde yer alan bu dağ, karasal iklimin etkilerini taşır. Kışlar soğu ve kar yağışlı, yazlar ise sıca ve kurudur. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler.
+Mevsimsel değişiklikler, Çatallı Dağ'ın iklim karakterini şekillendirir. İç Anadolu Bölgesi'nde yer alan bu dağ, karasal iklimin etkilerini taşır. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler.
 
 Çevresel açıdan bakıldığında, Çatallı Dağ komşu alanlarla ve su kaynaklarıyla önemli bir ekosistem bağlantısı oluşturur. Bu bölgedeki dağlar, genellikle su kaynaklarının oluşumunda önemli bir role sahiptir. Çatallı Dağ'ın çevresindeki su kaynakları ve ekosistem bağlantıları, bölgenin biyolojik çeşitliliğini destekler ve doğal dengeyi korur.
 

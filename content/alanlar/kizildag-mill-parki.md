@@ -38,7 +38,7 @@ Kızıldağ Millî Parkı, 1969 yılında milli park olarak ilan edilmiştir. An
 
 ## Coğrafya
 
-Kızıldağ Millî Parkı, Akdeniz Bölgesi'nin coğrafi yapısına uygun olarak dağlık ve engebeli bir araziye sahiptir. Parkın yüksekliği 2400 metreye ulaşıyor ve bu özelliği ile bölgenin en yüksek noktalarından biri olarak dikkat çekiyor. Parkın çevresinde, 1000 metre yüksekliğe kadar çıkan dağlar ve vadiler bulunuyor. Parkın iklimi, Akdeniz ikliminin característicasını taşıyor ve yazları sıca ve kurak, kışları ise soğu ve yağışlı geçiyor. Parkın suyu, bölgenin en önemli doğal kaynaklarından biri olarak kabul ediliyor ve birçok derenin kaynağı olarak kullanılıyor.
+Kızıldağ Millî Parkı, Akdeniz Bölgesi'nin coğrafi yapısına uygun olarak dağlık ve engebeli bir araziye sahiptir. Parkın yüksekliği 2400 metreye ulaşıyor ve bu özelliği ile bölgenin en yüksek noktalarından biri olarak dikkat çekiyor. Parkın çevresinde, 1000 metre yüksekliğe kadar çıkan dağlar ve vadiler bulunuyor. Parkın iklimi, Akdeniz ikliminin característicasını taşıyor ve yazları sıcak ve kurak, kışları ise soğuk ve yağışlı geçiyor. Parkın suyu, bölgenin en önemli doğal kaynaklarından biri olarak kabul ediliyor ve birçok derenin kaynağı olarak kullanılıyor.
 
 ## Flora ve Fauna
 

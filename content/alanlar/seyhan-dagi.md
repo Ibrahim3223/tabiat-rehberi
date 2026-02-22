@@ -45,7 +45,7 @@ Güneydoğu Anadolu Bölgesi'nde, Diyarbakır ilinin merkezine yaklaşık 20 kil
 
 Doğal güzelliği ve jeolojik yapısıyla dikkat çeken Şeyhan Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplar. Ancak, fiziksel yapısı hakkındalı bilgiler bulunmamasına rağmen, bölgenin genel jeolojik özellikleri dikkate alındığında, Şeyhan Dağı'nın da benzer özellikler taşıdığı söylenebilir. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan 150-200 metre civarında olabilir, ancak bu değerlerin kesinliği hakkında bilgi bulunmamaktadır.
 
-Mevsimsel özellikler açısından bakıldığında, Şeyhan Dağı'nın iklim karakteri, Güneydoğu Anadolu Bölgesi'nin genel iklim koşullarına benzerlik gösterir. Yaz aylarında sıcaklık yüksek, kış aylarında ise soğu ve yağışlı bir iklim hüküm sürer. Bu mevsimsel değişimler, bölgedeki flora ve fauna üzerinde önemli etkiler yaratır.
+Mevsimsel özellikler açısından bakıldığında, Şeyhan Dağı'nın iklim karakteri, Güneydoğu Anadolu Bölgesi'nin genel iklim koşullarına benzerlik gösterir. Yaz aylarında sıcaklık yüksek, kış aylarında ise soğuk ve yağışlı bir iklim hüküm sürer. Bu mevsimsel değişimler, bölgedeki flora ve fauna üzerinde önemli etkiler yaratır.
 
 Çevresel açıdan bakıldığında, Şeyhan Dağı, komşu alanlar ve su kaynakları ile önemli bir ekosistem bağlantısı içerisinde yer alır. Bölgedeki diğer dağlar ve ovalarla birlikte, bir bütün olarak değerlendirildiğinde, Şeyhan Dağı'nın çevresel ilişkileri, bölgenin doğal dengesini korumak açısından önemli bir rol oynar. Şeyhan Dağı, Monaco'nun yarısı kadar büyüklüğünde bir alanı kaplayan ve İstanbul'un Adalar ilçesi büyüklüğünde bir coğrafi yapıya sahip olan bir bölgenin parçası olarak düşünülebilir.
 

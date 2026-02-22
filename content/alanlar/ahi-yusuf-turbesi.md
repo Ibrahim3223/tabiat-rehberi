@@ -37,7 +37,7 @@ Ahi Yusuf Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Türb
 
 ## Coğrafya
 
-Ahi Yusuf Türbesi, Sivas'ın Divriği ilçesinde, İç Anadolu Bölgesi'nde yer alıyor. Türbenin bulunduğu alan, coğrafi olarak zengin bir bölge. Çevrede, çeşitli bitki türleri ve fauna bulunmakta. İklim, karasal iklim özellikleri gösteriyor. Kışlar soğu ve karlı, yazlar ise sıcak ve kuru passing. Türbenin yakınındaki araziler, genellikle tarıma elverişli ve verimli. Bu bölge, coğrafi konumu itibariyle, birçok ziyaretçi tarafından tercih ediliyor. Ahi Yusuf Türbesi'nin çevresi, hem doğal güzellikleri hem de tarihi yapıları ile ziyaretçilerini cezbediyor.
+Ahi Yusuf Türbesi, Sivas'ın Divriği ilçesinde, İç Anadolu Bölgesi'nde yer alıyor. Türbenin bulunduğu alan, coğrafi olarak zengin bir bölge. Çevrede, çeşitli bitki türleri ve fauna bulunmakta. İklim, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuru passing. Türbenin yakınındaki araziler, genellikle tarıma elverişli ve verimli. Bu bölge, coğrafi konumu itibariyle, birçok ziyaretçi tarafından tercih ediliyor. Ahi Yusuf Türbesi'nin çevresi, hem doğal güzellikleri hem de tarihi yapıları ile ziyaretçilerini cezbediyor.
 
 ## Flora ve Fauna
 

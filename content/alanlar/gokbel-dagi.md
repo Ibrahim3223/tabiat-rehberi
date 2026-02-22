@@ -54,7 +54,7 @@ Gökbel Dağı'nın çevresel ilişkileri, komşu alanlar, su kaynakları ve eko
 
 Gökbel Dağı, step bitki örtüsünün hakim olduğu bir bölgede yer alır. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanır. Bu mevsimde, çayırlar ve otlaklar yeşerir ve dağ ekosisteminin zenginliğini gösterir. Sonbaharda ise, kuraklığa adapte olan bitkiler öne çıkar ve dağ manzarasını sarı, kahverengi ve kırmızı tonlara boyar.
 
-Dağın yükseklik zonalarında, alpin flora çeşitliliği dikkat çeker. Bu bölgede, çeşitli dağ hayvanları yaşamını sürdürür. Memeliler, özellikle dağ keçileri ve yaban keçileri, dağ yamaçlarında ve kayalık alanlarda görülür. Kuşlar, özellikle göçmen türler, sonbaharda ve ilkbaharda dağları ziyaret eder. Sürüngenler ise, dağların sıca ve kuru bölgelerinde yaşamlarını sürdürür.
+Dağın yükseklik zonalarında, alpin flora çeşitliliği dikkat çeker. Bu bölgede, çeşitli dağ hayvanları yaşamını sürdürür. Memeliler, özellikle dağ keçileri ve yaban keçileri, dağ yamaçlarında ve kayalık alanlarda görülür. Kuşlar, özellikle göçmen türler, sonbaharda ve ilkbaharda dağları ziyaret eder. Sürüngenler ise, dağların sıcak ve kuru bölgelerinde yaşamlarını sürdürür.
 
 Gökbel Dağı, ekolojik açıdan önemli bir bölgedir. Dağın yükseklik zonaları, çeşitli canlı türleri için yaşam alanı sağlar. Bu bölgenin korunması, ekosistemin dengesinin korunması için önemlidir. Gökbel Dağı, doğal güzelliği ve biyolojik çeşitliliği ile dikkat çeker ve koruma altına alınması gereken bir alandır.
 

@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Gebyürlütepe Dağı, 36.3425°K, 36.04
 
 Jeolojik açıdan bakıldığında, Gebyürlütepe Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmuyor. Ancak, bu dağların genellikle Türkiye'nin güneydoğu bölgesinde bulunan diğer dağlarla benzer özelliklere sahip olduğu söylenebilir. Örneğin, bir olimpik havuzun uzunluğunun yaklaşık 10 katı kadar uzun bir dağ sırtı olarak düşünülebilir. Yükseklik açısından, Eiffel Kulesi'nin yaklaşık 1/5'i kadar yükseklikte bir tepe olarak hayal edilebilir.
 
-Mevsimsel açıdan, Gebyürlütepe Dağı'nın bulunduğu bölge, genellikle sıca ve kurak yazlar ile ılıman kışlar yaşayan bir iklime sahiptir. Bu bölgede, yaz aylarında sıcaklık 30 dereceye kadar çıkabilirken, kış aylarında 10 dereceye kadar düşebilir. Bu mevsimsel değişiklikler, bölgenin flora ve fauna için önemli sonuçlar doğurur.
+Mevsimsel açıdan, Gebyürlütepe Dağı'nın bulunduğu bölge, genellikle sıcak ve kurak yazlar ile ılıman kışlar yaşayan bir iklime sahiptir. Bu bölgede, yaz aylarında sıcaklık 30 dereceye kadar çıkabilirken, kış aylarında 10 dereceye kadar düşebilir. Bu mevsimsel değişiklikler, bölgenin flora ve fauna için önemli sonuçlar doğurur.
 
 Çevresel açıdan, Gebyürlütepe Dağı, komşu alanlarla ve su kaynaklarıyla bağlantılı bir ekosistem içerisinde yer alıyor. Bu dağ, bir havzasının başlangıç noktası olarak düşünülebilir ve bölgedeki diğer dağlarla birlikte, bir doğa koruma alanı olarak işlev görüyor. Örneğin, Monaco'nun yarısı kadar büyük bir alanı kaplayan bir ormanlık alan, bu bölgede yer alıyor ve bu dağlar, bu ormanların bir parçası olarak düşünülebilir.
 

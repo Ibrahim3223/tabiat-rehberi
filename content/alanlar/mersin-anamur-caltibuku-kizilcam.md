@@ -30,7 +30,7 @@ Mersin-Anamur-Caltibuku Kızılçam milli parkının tarihi geçmişi, yüzyıll
 
 ## Coğrafya
 
-Mersin-Anamur-Caltibuku Kızılçam milli parkı, Mersin'in Akdeniz Bölgesi'nde yer alıyor. Milli parkın coğrafi yapısı, 140 hektarlık yeşil alanı ve çeşitli bitki türleriyle dikkat çekiyor. Bölgenin iklimi, Akdeniz ikliminin karakteristik özellikleri gösteriyor. Yaz ayları sıca ve kurak, kış ayları ise ılık ve yağışlı geçiyor. Milli parkın bulunduğu bölge, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor. Bu yükseklik, bölgenin iklimini ve bitki örtüsünü etkiliyor. Milli parkın coğrafi konumu, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunuyor.
+Mersin-Anamur-Caltibuku Kızılçam milli parkı, Mersin'in Akdeniz Bölgesi'nde yer alıyor. Milli parkın coğrafi yapısı, 140 hektarlık yeşil alanı ve çeşitli bitki türleriyle dikkat çekiyor. Bölgenin iklimi, Akdeniz ikliminin karakteristik özellikleri gösteriyor. Yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlı geçiyor. Milli parkın bulunduğu bölge, yüksek bir konumda yer alıyor. Bu yükseklik, bölgenin iklimini ve bitki örtüsünü etkiliyor. Milli parkın coğrafi konumu, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

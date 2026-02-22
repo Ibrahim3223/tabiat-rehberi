@@ -42,7 +42,7 @@ Mardin'in eşsiz coğrafyasında yer alan Bayderşeyh Tepe, 37.5303°K, 41.0622�
 
 Doğal güzelliği ve jeolojik yapısı ile dikkat çeken Bayderşeyh Tepe, bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Dağın fiziksel yapısı, bölgenin jeolojik özelliklerini yansıtmaktadır. Ancak, detaylı fiziksel veriler bulunmaması nedeniyle, dağın yüksekliği ve diğer fiziksel özellikleri hakkında net bilgiler yoktur.
 
-İklim açısından bakıldığında, Bayderşeyh Tepe'nin bulunduğu bölge, karakteristik bir Akdeniz iklimine sahiptir. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir hava hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
+İklim açısından bakıldığında, Bayderşeyh Tepe'nin bulunduğu bölge, karakteristik bir Akdeniz iklimine sahiptir. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir hava hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
 
 Ekosistem bağlantıları açısından, Bayderşeyh Tepe, çevresindeki diğer doğal alanlarla bağlantılıdır. Bu dağ, bölgenin su kaynaklarının oluşumunda önemli bir role sahiptir. Ayrıca, Bayderşeyh Tepe'nin yakınında bulunan diğer dağlar ve vadiler, bölgenin ekosistemini zenginleştirmektedir. Bu doğal güzellikler, bölgeyi önemli bir turizm merkezi haline getirmektedir.
 

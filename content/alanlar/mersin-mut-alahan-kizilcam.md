@@ -30,7 +30,7 @@ Mersin-Mut-Alahan-Kızılcam milli parkının tarihi geçmişi, yüzyıllar boyu
 
 ## Coğrafya
 
-Mersin-Mut-Alahan-Kızılcam milli parkı, Mersin'in Mut ilçesinde yer alıyor. Bu milli park, Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Mersin-Mut-Alahan-Kızılcam milli parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir bölge. Bu milli park, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor. Mersin-Mut-Alahan-Kızılcam milli parkının iklimi, Akdeniz iklimi özellikleri taşıyor. Bu milli park, yaz aylarında sıca ve khô, kış aylarında ise ılık ve yağışlı bir iklimi var. Mersin-Mut-Alahan-Kızılcam milli parkı, çevre açısından önemli bir bölge. Burada, çeşitli bitki türleri ve zengin fauna bulunmakta.
+Mersin-Mut-Alahan-Kızılcam milli parkı, Mersin'in Mut ilçesinde yer alıyor. Bu milli park, Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Mersin-Mut-Alahan-Kızılcam milli parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir bölge. Bu milli park, yüksek bir konumda yer alıyor. Mersin-Mut-Alahan-Kızılcam milli parkının iklimi, Akdeniz iklimi özellikleri taşıyor. Bu milli park, yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı bir iklimi var. Mersin-Mut-Alahan-Kızılcam milli parkı, çevre açısından önemli bir bölge. Burada, çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Flora ve Fauna
 

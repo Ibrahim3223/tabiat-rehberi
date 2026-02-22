@@ -36,7 +36,7 @@ Aliöflez Dağı'nın tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkl
 
 ## Coğrafya
 
-Aliöflez Dağı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, bozkır ve step ekosistemlerinin birleştiği bir noktada yer alıyor. Aliöflez Dağı'nın çevresi, geniş otlaklarla ve çeşitli bitki türleriyle kaplı. Dağın yamacında, bölgenin su kaynaklarını besleyen küçük akarsular ve göletler bulunuyor. İklim, İç Anadolu'nun genel iklim yapısına uygun olarak karasal özellikleri taşıyor. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Aliöflez Dağı, bu coğrafi özellikleriyle birlikte, bölgenin ekolojik dengesini koruyor.
+Aliöflez Dağı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, bozkır ve step ekosistemlerinin birleştiği bir noktada yer alıyor. Aliöflez Dağı'nın çevresi, geniş otlaklarla ve çeşitli bitki türleriyle kaplı. Dağın yamacında, bölgenin su kaynaklarını besleyen küçük akarsular ve göletler bulunuyor. İklim, İç Anadolu'nun genel iklim yapısına uygun olarak karasal özellikleri taşıyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Aliöflez Dağı, bu coğrafi özellikleriyle birlikte, bölgenin ekolojik dengesini koruyor.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ Adamkıran Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu
 
 ## Coğrafya
 
-Adamkıran Tepesi, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre. Bu tepe, etrafındaki ovalarla birlikte, bir bütün olarak düşünülürse, yaklaşık 500 metrelik bir yükseklik farkı oluşuyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Ayrıca, tepeye çıkan yol boyunca, güzel manzaralar ve tarihi kalıntılar görülebiliyor. Tepenin iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kuru passing. Bu tepe, coğrafi olarak, bölgenin en önemli doğal mekanlarından biri olarak kabul ediliyor.
+Adamkıran Tepesi, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre. Bu tepe, etrafındaki ovalarla birlikte, bir bütün olarak düşünülürse, yaklaşık 500 metrelik bir yükseklik farkı oluşuyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Ayrıca, tepeye çıkan yol boyunca, güzel manzaralar ve tarihi kalıntılar görülebiliyor. Tepenin iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kuru passing. Bu tepe, coğrafi olarak, bölgenin en önemli doğal mekanlarından biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

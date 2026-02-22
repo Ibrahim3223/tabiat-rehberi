@@ -44,7 +44,7 @@ Doğunun uzak köşesinde, Hakkari ilinin sınırları içinde yer alan Kılıç
 
 Jeolojik açıdan bakıldığında, Kılıçlı Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel özellikleri hakkında fikir sahibi olabiliriz. Örneğin, Hakkari ilinin genel olarak dağlık bir araziye sahip olduğu düşünülürse, Kılıçlı Dağı'nın da benzer bir yapıya sahip olabileceği varsayılabilir. Bir şehir bloğu büyüklüğünde olan bu alan, küçük ama önemli bir coğrafi özelliğe sahiptir.
 
-Mevsimsel değişiklikler açısından, Kılıçlı Dağı'nın iklim karakteri, bölgenin genel iklim koşullarına benzerlik gösterir. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve karlı bir hava durumu hakimdir. Eiffel Kulesi'nin लगभग 2 katı yükseklikte olan bazı zirveler, bölgenin dağlık yapısını vurgular.
+Mevsimsel değişiklikler açısından, Kılıçlı Dağı'nın iklim karakteri, bölgenin genel iklim koşullarına benzerlik gösterir. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı bir hava durumu hakimdir. Eiffel Kulesi'nin लगभग 2 katı yükseklikte olan bazı zirveler, bölgenin dağlık yapısını vurgular.
 
 Bölgenin ekosistem bağlantıları açısından, Kılıçlı Dağı, komşu alanlarla birlikte bir bütünü oluşturur. Su kaynakları ve bitki örtüsü, bu dağlık bölgenin önemli bir parçasını oluşturur. Monaco'nun yaklaşık yarısı kadar bir alanı kaplayan Hakkari ilinin genel coğrafi yapısı, Kılıçlı Dağı'nın çevresel ilişkilerini anlamak için önemli bir faktördür.
 

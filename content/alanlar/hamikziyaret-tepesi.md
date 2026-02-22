@@ -36,7 +36,7 @@ Hamikziyaret Tepesi'nin tarihi geçmişi, bölgeye özgü kültürel zenginlikle
 
 ## Coğrafya
 
-Hamikziyaret Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Tepenin deniz seviyesinden yüksekliği, bölgenin genel coğrafi yapısını yansıtır. Etrafındaki dağlar ve vadiler, bu tepenin coğrafi konumunu belirler. Hamikziyaret Tepesi'nin iklimi, bölgenin genel iklimine benzerlik gösterir. Yaz aylarında sıca ve kurak, kış aylarında ise serin ve yağışlı bir hava hakimdir. Tepenin coğrafi konumu, çeşitli bitki türlerinin ve canlıların yaşam alanı olmasını sağlar. Bu coğrafi çeşitlilik, Hamikziyaret Tepesi'ni ziyaretçileri için çekici kılar. Tepenin etrafındaki su kaynakları, bölgenin ekolojik dengesini korur.
+Hamikziyaret Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Tepenin deniz seviyesinden yüksekliği, bölgenin genel coğrafi yapısını yansıtır. Etrafındaki dağlar ve vadiler, bu tepenin coğrafi konumunu belirler. Hamikziyaret Tepesi'nin iklimi, bölgenin genel iklimine benzerlik gösterir. Yaz aylarında sıcak ve kurak, kış aylarında ise serin ve yağışlı bir hava hakimdir. Tepenin coğrafi konumu, çeşitli bitki türlerinin ve canlıların yaşam alanı olmasını sağlar. Bu coğrafi çeşitlilik, Hamikziyaret Tepesi'ni ziyaretçileri için çekici kılar. Tepenin etrafındaki su kaynakları, bölgenin ekolojik dengesini korur.
 
 ## Flora ve Fauna
 

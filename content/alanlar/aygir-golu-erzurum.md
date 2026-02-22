@@ -43,7 +43,7 @@ Doğu Anadolu Bölgesi'nin coğrafi güzelliğiçinde yer alan Aygır Gölü, 40
 
 Jeolojik açıdan bakıldığında, Aygır Gölü'nün oluşumu ve yapısı hakkında detaylı bilgi bulunmasa da, genel olarak bölgenin coğrafi yapısı dağlık ve engebeli bir karakterdedir. Gölün büyüklüğü ve derinliği hakkında somut veriler olmasa da, bu gibi göller genellikle birkaç olimpik havuz büyüklüğünde alanları kaplarlar. Bu boyut, gölü çevreleyen dağların ve doğal peyzajın güzelliğini vurgular.
 
-İklim açısından, Aygır Gölü ve çevresinin karakteri, Doğu Anadolu Bölgesi'nin genel iklim özelliklerini taşır. Bölge, karasal iklimin hakim olduğu bir coğrafyada yer alır ve mevsimsel farklılıklar oldukça belirgindir. Kış ayları soğu ve karlı, yaz ayları ise serin ve yağışlı geçer. Bu mevsimsel değişimler, gölün su seviyesini ve çevresindeki bitki örtüsünü etkiler.
+İklim açısından, Aygır Gölü ve çevresinin karakteri, Doğu Anadolu Bölgesi'nin genel iklim özelliklerini taşır. Bölge, karasal iklimin hakim olduğu bir coğrafyada yer alır ve mevsimsel farklılıklar oldukça belirgindir. Kış ayları soğuk ve karlı, yaz ayları ise serin ve yağışlı geçer. Bu mevsimsel değişimler, gölün su seviyesini ve çevresindeki bitki örtüsünü etkiler.
 
 Gölün çevresel ilişkileri, su kaynakları ve ekosistem bağlantıları açısından önemlidir. Aygır Gölü, bölgedeki su döngüsünde yer alan önemli bir su kaynağı olarak, komşu alanların ekosistemleri için hayati bir role sahiptir. Gölün su kalitesi ve miktarı, bölgedeki diğer su kaynaklarıyla bağlantılı olarak değerlendirilmelidir. Bu bağlamda, gölün korunması ve sürdürülebilir yönetimi, bölgenin doğal dengesi için kritik öneme sahiptir.
 

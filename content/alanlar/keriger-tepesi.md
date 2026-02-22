@@ -36,7 +36,7 @@ Kerıger Tepesi'nin tarihi geçmişi, Diyarbakır'ın tarihi ile iç içe geçiy
 
 ## Coğrafya
 
-Kerıger Tepesi, Diyarbakır'ın coğrafi yapısını yansıtan önemli bir nokta. Tepenin yüksekliği ve çevresindeki doğal güzellikler, ziyaretçilere geniş bir manzara sunuyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, 200 futbol sahası büyüklüğünde bir yeşil alanı temsil ediyor. Tepenin etrafında yer alan dağlar ve vadiler, coğrafi çeşitliliği ile dikkat çekiyor. Kerıger Tepesi, coğrafi konumu itibariyle, ziyaretçilerine geniş bir panorama sunuyor ve bu panoramayı görmek için ziyaret edilmeye değer. Tepenin iklimi, Güneydoğu Anadolu Bölgesi'nin genel iklimine uygun olarak, yazları sıca ve kışları soğuk passing.
+Kerıger Tepesi, Diyarbakır'ın coğrafi yapısını yansıtan önemli bir nokta. Tepenin yüksekliği ve çevresindeki doğal güzellikler, ziyaretçilere geniş bir manzara sunuyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, 200 futbol sahası büyüklüğünde bir yeşil alanı temsil ediyor. Tepenin etrafında yer alan dağlar ve vadiler, coğrafi çeşitliliği ile dikkat çekiyor. Kerıger Tepesi, coğrafi konumu itibariyle, ziyaretçilerine geniş bir panorama sunuyor ve bu panoramayı görmek için ziyaret edilmeye değer. Tepenin iklimi, Güneydoğu Anadolu Bölgesi'nin genel iklimine uygun olarak, yazları sıcak ve kışları soğuk passing.
 
 ## Flora ve Fauna
 

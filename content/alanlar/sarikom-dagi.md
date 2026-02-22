@@ -45,7 +45,7 @@ Doğunun gizli köşelerinden biri olan Sarıkom Dağı, 39.9204°K ve 42.5796°
 
 Jeolojik açıdan bakıldığında, Sarıkom Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel jeolojik özellikleri dikkate alındığında, dağlık bir arazi yapısına sahip olduğu söylenebilir. Bu bölgede, genellikle Paleozoi ve Mezozoik dönemlere ait kayaçlar bulunur. Dağın boyutları hakkında net bir veri olmasa da, genel olarak bu tür dağlık alanların genişliği birkaç kilometre kadar olabilir.
 
-İklim açısından, Sarıkom Dağı ve çevresinin karasal iklim özellikleri gösterdiği biliniyor. Bu bölgede, kışlar soğu ve karlı, yazlar ise serin ve yağışlı geçer. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2-3 katı yükseklikte olabilir, ancak kesin bir veri bulunmuyor. Bu yükseklikte, mevsimsel değişimler daha belirgin hale gelir.
+İklim açısından, Sarıkom Dağı ve çevresinin karasal iklim özellikleri gösterdiği biliniyor. Bu bölgede, kışlar soğuk ve karlı, yazlar ise serin ve yağışlı geçer. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2-3 katı yükseklikte olabilir, ancak kesin bir veri bulunmuyor. Bu yükseklikte, mevsimsel değişimler daha belirgin hale gelir.
 
 Çevresel açıdan bakıldığında, Sarıkom Dağı, Oltu Çayı'nın kaynaklarını oluşturan önemli bir su kaynağı olarak görülüyor. Bu dağlık alan, bölgenin ekosistemini destekleyen önemli bir bileşen. Dağın eteklerinde ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşar. Sarıkom Dağı, Monaco'nun yaklaşık yarısı kadar bir alanı kaplıyor ve bu büyüklükte bir alan, bölgenin doğal dengesini koruması açısından önemli.
 

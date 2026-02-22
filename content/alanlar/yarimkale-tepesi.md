@@ -36,7 +36,7 @@ Yarımkale Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetl
 
 ## Coğrafya
 
-Yarımkale Tepesi, coğrafi konumu itibariyle İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, genellikle step ve bozkır bitkileri ile kaplı geniş alanlara sahip. Yarımkale Tepesi'nin coğrafyası, ziyaretçilere geniş ve açık bir görüş alanı sunuyor. Tepe, etrafındaki diğer tepe ve dağlarla birlikte, bir bütün olarak coğrafi bir yapı oluşturuyor. Bu coğrafi yapı, ziyaretçilere bölgenin doğal güzelliğini deneyimleme fırsatı sunuyor. Yarımkale Tepesi'nin coğrafi konumu, aynı zamanda bölgenin iklimini de etkiliyor. İç Anadolu Bölgesi'nin karasal iklimi, Yarımkale Tepesi'nde de hissediliyor. Bu tepe, özellikle kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıcak ve kuru bir iklimi yaşıyor.
+Yarımkale Tepesi, coğrafi konumu itibariyle İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, genellikle step ve bozkır bitkileri ile kaplı geniş alanlara sahip. Yarımkale Tepesi'nin coğrafyası, ziyaretçilere geniş ve açık bir görüş alanı sunuyor. Tepe, etrafındaki diğer tepe ve dağlarla birlikte, bir bütün olarak coğrafi bir yapı oluşturuyor. Bu coğrafi yapı, ziyaretçilere bölgenin doğal güzelliğini deneyimleme fırsatı sunuyor. Yarımkale Tepesi'nin coğrafi konumu, aynı zamanda bölgenin iklimini de etkiliyor. İç Anadolu Bölgesi'nin karasal iklimi, Yarımkale Tepesi'nde de hissediliyor. Bu tepe, özellikle kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kuru bir iklimi yaşıyor.
 
 ## Flora ve Fauna
 

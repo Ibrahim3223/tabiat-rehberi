@@ -30,7 +30,7 @@ Eskipazar Turbe Çamı'nın tarihi geçmişi, bölgenin yerleşim tarihi ile par
 
 ## Coğrafya
 
-Eskipazar Turbe Çamı, İç Anadolu Bölgesi'nde yer alır. Bu bölge, coğrafi açıdan zengin bir çeşitlilik gösterir. Eskipazar Turbe Çamı'nın coğrafyası, çamlık alanların bolluğu ve yaban hayatının zenginliği ile dikkat çeker. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Yaz ayları sıca ve kuru, kış ayları soğu ve karlı geçer. Eskipazar Turbe Çamı, aynı zamanda çeşitli su kaynaklarına sahiptir. Bu su kaynakları, bölgenin flora ve faunası için önemli bir yaşam alanı oluşturur. Eskipazar Turbe Çamı, coğrafi açıdan zengin bir bölge olarak bilinir ve ziyaretçilerini beklemektedir.
+Eskipazar Turbe Çamı, İç Anadolu Bölgesi'nde yer alır. Bu bölge, coğrafi açıdan zengin bir çeşitlilik gösterir. Eskipazar Turbe Çamı'nın coğrafyası, çamlık alanların bolluğu ve yaban hayatının zenginliği ile dikkat çeker. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Yaz ayları sıcak ve kuru, kış ayları soğuk ve karlı geçer. Eskipazar Turbe Çamı, aynı zamanda çeşitli su kaynaklarına sahiptir. Bu su kaynakları, bölgenin flora ve faunası için önemli bir yaşam alanı oluşturur. Eskipazar Turbe Çamı, coğrafi açıdan zengin bir bölge olarak bilinir ve ziyaretçilerini beklemektedir.
 
 ## Flora ve Fauna
 

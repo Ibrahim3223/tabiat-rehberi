@@ -37,7 +37,7 @@ Ulukışla Öküz Mehmet Paşa Hamamı Niğde, İç Anadolu Bölgesi'nin önemli
 
 ## Coğrafya
 
-Ulukışla Öküz Mehmet Paşa Hamamı, Niğde'nin Ulukışla ilçesinde yer alır. İç Anadolu Bölgesi'nin coğrafi özellikleri, hamamın bulunduğu bölgede de görülmektedir. Hamamın etrafında bulunan dağlar, ovalar ve nehirler, bölgenin coğrafi çeşitliliğini gösterir. Hamam, yaklaşık yüksek bir konumdate kurulmuş olup, ziyaretçilere bölgenin doğal güzelliklerini sunar. İç Anadolu Bölgesi'nin karakteristik iklimi, hamamın bulunduğu bölgede de hüküm sürer. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıcak ve kurak olan iklim, bölgenin coğrafi özelliklerini şekillendirir. Hamamın mimarisi, bölgenin coğrafi koşullarına uygun olarak tasarlanmıştır.
+Ulukışla Öküz Mehmet Paşa Hamamı, Niğde'nin Ulukışla ilçesinde yer alır. İç Anadolu Bölgesi'nin coğrafi özellikleri, hamamın bulunduğu bölgede de görülmektedir. Hamamın etrafında bulunan dağlar, ovalar ve nehirler, bölgenin coğrafi çeşitliliğini gösterir. Hamam, yüksek bir konumda kurulmuş olup, ziyaretçilere bölgenin doğal güzelliklerini sunar. İç Anadolu Bölgesi'nin karakteristik iklimi, hamamın bulunduğu bölgede de hüküm sürer. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak olan iklim, bölgenin coğrafi özelliklerini şekillendirir. Hamamın mimarisi, bölgenin coğrafi koşullarına uygun olarak tasarlanmıştır.
 
 ## Flora ve Fauna
 

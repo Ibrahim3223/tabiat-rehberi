@@ -42,7 +42,7 @@ Konya'nın kalbinde yer alan Lale Dağı, 37.6167°K ve 32.4833°D koordinatlar�
 
 Doğal yapısı itibariyle, Lale Dağı yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu boyut, Konya'nın şehir merkezinin bir bölümü kadar küçük bir alan olarak düşünülebilir. Dağın şekli, tepelerin ve vadilerin bir bileşimi olarak lộmlüyor ve bu da bölgenin jeolojik yapısını etkileyen önemli faktörlerden biri.
 
-Mevsimsel olarak, Lale Dağı'nın iklimi Konya'nın genel iklimine benzer. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakim. Bu mevsimsel değişimler, bölgenin flora ve fauna'sını etkileyen önemli faktörler arasında yer alıyor.
+Mevsimsel olarak, Lale Dağı'nın iklimi Konya'nın genel iklimine benzer. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakim. Bu mevsimsel değişimler, bölgenin flora ve fauna'sını etkileyen önemli faktörler arasında yer alıyor.
 
 Lale Dağı, çevresindeki geniş ovaları ve su kaynaklarıyla birlikte bir ekosistem oluşturuyor. Bölge, Konya'nın su kaynaklarına önemli katkılar sağlıyor ve bu da bölgenin tarım ve hayvancılık faaliyetleri için büyük önem taşıyor. Ayrıca, Lale Dağı'nın eteklerinde yer alan küçüköyler ve yerleşim yerleri, bölgenin ekonomi ve sosyal yapısını etkileyen faktörler arasında yer alıyor.
 

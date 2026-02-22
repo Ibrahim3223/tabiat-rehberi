@@ -45,7 +45,7 @@ Doğal güzellikler açısından zengin bir bölge olan Adana, Akyatan Gölü gi
 
 Jeolojik açıdan bakıldığında, Akyatan Gölü'nün fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, bölgenin jeolojik özellikleri dikkate alındığında, gölün oluşumunun bölgenin tektonik hareketliliklerine bağlı olduğu söylenebilir. Gölün büyüklüğü, bir şehir bloğu büyüklüğünden daha büyük, ancak Monaco'nun yarısı kadar büyük olmayan bir alanı kaplıyor. Bu ölçek, gölün önemli bir ekosistem oluşturabileceğini gösteriyor.
 
-İklimsel olarak, Akyatan Gölü ve çevresinin karakteri, Akdeniz ikliminin özellikleri tarafından şekilleniyor. Bölge, yazları sıca ve kurak, kışları ılıman ve yağışlı bir iklim karakterine sahip. Bu mevsimsel özellikler, gölün su seviyesini ve çevresindeki bitki örtüsünü etkiliyor. Örneğin, yaz aylarında gölün su seviyesi düşerken, kış aylarında su seviyesi yükseliyor.
+İklimsel olarak, Akyatan Gölü ve çevresinin karakteri, Akdeniz ikliminin özellikleri tarafından şekilleniyor. Bölge, yazları sıcak ve kurak, kışları ılıman ve yağışlı bir iklim karakterine sahip. Bu mevsimsel özellikler, gölün su seviyesini ve çevresindeki bitki örtüsünü etkiliyor. Örneğin, yaz aylarında gölün su seviyesi düşerken, kış aylarında su seviyesi yükseliyor.
 
 Çevresel açıdan, Akyatan Gölü, bölgedeki diğer su kaynakları ve ekosistemlerle bağlantıları olan önemli bir bileşen. Göl, çevresindeki sulak alanlar ve tarım arazileri ile birlikte, birbiriyle bağlantılı bir ekosistem oluşturuyor. Bu ekosistem, çeşitli türlerin yaşam alanı olarak hizmet ediyor ve bölgenin biyolojik çeşitliliğini desteklıyor.
 

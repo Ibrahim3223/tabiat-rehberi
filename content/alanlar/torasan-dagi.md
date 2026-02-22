@@ -44,7 +44,7 @@ Güneydoğu Toros Dağları'nın bir parçası olan Torasan Dağı, 37.7942°K e
 
 Doğal güzelliği ve jeolojik yapısıyla dikkat çeken Torasan Dağı, bölgedeki diğer dağlarla benzerlik gösterir. Ancak, ayrıntılı fiziksel veriler bulunmamasına rağmen, dağın konumunu ve çevresindeki coğrafi özellikleri inceleme mümkün olur. Dağın yüksekliği ve şekli, bölgenin iklimini ve bitki örtüsünü etkileyen önemli faktörlerdir. Örneğin, Eiffel Kulesi'nin 2 katı yükseklikte bir tepe, bu bölgede önemli bir coğrafi oluşum olarak kabul edilebilir.
 
-İklimsel açıdan, Torasan Dağı'nın bulunduğu bölge, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler. Dağın yüksek kesimlerinde, karın uzun süre kalması, bitki örtüsünün oluşumunu ve hayvanların yaşamını etkileyen önemli bir faktördür.
+İklimsel açıdan, Torasan Dağı'nın bulunduğu bölge, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler. Dağın yüksek kesimlerinde, karın uzun süre kalması, bitki örtüsünün oluşumunu ve hayvanların yaşamını etkileyen önemli bir faktördür.
 
 Bölgenin hidrolojik dengesini sağlayan su kaynakları, Torasan Dağı'nın eteklerinde yer alan akarsular ve göllerdir. Bu su kaynakları, bölgenin ekosistemini destekleyen önemli bir bileşendir. Dağın komşu alanları, benzer coğrafi özelliklere sahip diğer dağlık arazilerle çevrilidir. Bu dağlık araziler, bölgenin coğrafi çeşitliliğine katkıda bulunarak, doğal güzellikleri ve ekonomik fırsatları sunar.
 

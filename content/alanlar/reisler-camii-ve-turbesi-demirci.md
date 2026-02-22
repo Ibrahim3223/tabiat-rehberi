@@ -37,7 +37,7 @@ Reisler Camii ve Türbesi'nin tarihi geçmişi, Demirci'nin ve Manisa'nın tarih
 
 ## Coğrafya
 
-Reisler Camii ve Türbesi, Demirci'nin merkezinde yer alıyor ve Ege Bölgesi'nin coğrafi özelliklerini yansıtıyor. Bu bölge, genellikle sıca ve kurak bir iklime sahip, ancak Reisler Camii ve Türbesi'nin bulunduğu alan, yeşilliği ve serinliği ile dikkat çekiyor. Cami ve türbenin etrafında, çeşitli ağaçlar ve bitkiler bulunuyor, ziyaretçilere doğal bir ortam sunuyor. Reisler Camii ve Türbesi, Demirci'nin coğrafi yapısını ve çevresini yansıtan önemli bir nokta olarak kabul ediliyor. Bu mekan, Ege Bölgesi'nin coğrafi çeşitliliğini ve güzelliğini gözler önüne seriyor.
+Reisler Camii ve Türbesi, Demirci'nin merkezinde yer alıyor ve Ege Bölgesi'nin coğrafi özelliklerini yansıtıyor. Bu bölge, genellikle sıcak ve kurak bir iklime sahip, ancak Reisler Camii ve Türbesi'nin bulunduğu alan, yeşilliği ve serinliği ile dikkat çekiyor. Cami ve türbenin etrafında, çeşitli ağaçlar ve bitkiler bulunuyor, ziyaretçilere doğal bir ortam sunuyor. Reisler Camii ve Türbesi, Demirci'nin coğrafi yapısını ve çevresini yansıtan önemli bir nokta olarak kabul ediliyor. Bu mekan, Ege Bölgesi'nin coğrafi çeşitliliğini ve güzelliğini gözler önüne seriyor.
 
 ## Flora ve Fauna
 

@@ -42,7 +42,7 @@ Güney kıyılarımızın güzelliği, Kovan Adası'nın da bulunduğu Antalya b
 
 Doğal güzelliği ile dikkat çeken bu ada, jeolojik açıdan da ilgi çekici özellikler taşır. Ancak bu küçük ada hakkındaDetailed fiziksel veriler bulunmamasına rağmen, coğrafi konumu ve komşu alanlar ile olan ilişkisi önemlidir. Kovan Adası, Antalya'nın turistik bölgelerine yakınlığı ile dikkat çeker ve bu konumu ile ziyaretçilerini cezbeder.
 
-İklim açısından bakıldığında, Kovan Adası'nın bulunduğu bölge, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumu hakimdir. Bu mevsimsel değişimler, adanın florası ve faunası üzerinde önemli etkiler yaratır.
+İklim açısından bakıldığında, Kovan Adası'nın bulunduğu bölge, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumu hakimdir. Bu mevsimsel değişimler, adanın florası ve faunası üzerinde önemli etkiler yaratır.
 
 Çevresel açıdan, Kovan Adası, komşu adalar ve anakara ile birlikte bir ekosistem oluşturur. Su kaynakları ve deniz canlıları, bu ekosistemin önemli bileşenleridir. Ada, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alan kaplar ve bu küçük ama önemli bir nokta, bölgenin doğal dengesi için önemli bir role sahiptir.
 

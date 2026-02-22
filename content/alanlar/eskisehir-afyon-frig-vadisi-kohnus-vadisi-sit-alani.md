@@ -30,7 +30,7 @@ ESKISEHIR AFYON FRIG VADISI Köhnüş Vadisi Sit Alanı, tarihi geçmişi ile di
 
 ## Coğrafya
 
-ESKISEHIR AFYON FRIG VADISI Köhnüş Vadisi Sit Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir alandır. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsamakta ve İç Anadolu Bölgesi'nin en önemli doğal sit alanlarından biridir. Köhnüş Vadisi, dağların arasında yer alan bir vadi olarak dikkat çekmektedir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik göstermektedir. Yaz ayları sıca ve kurak, kış ayları ise soğu ve karlı geçmektedir. Köhnüş Vadisi, bölgenin en önemli su kaynaklarından biridir ve bölgede yer alan akarsular, bölgenin doğal güzelliklerini zenginleştirmektedir. Bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
+ESKISEHIR AFYON FRIG VADISI Köhnüş Vadisi Sit Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir alandır. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsamakta ve İç Anadolu Bölgesi'nin en önemli doğal sit alanlarından biridir. Köhnüş Vadisi, dağların arasında yer alan bir vadi olarak dikkat çekmektedir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik göstermektedir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve karlı geçmektedir. Köhnüş Vadisi, bölgenin en önemli su kaynaklarından biridir ve bölgede yer alan akarsular, bölgenin doğal güzelliklerini zenginleştirmektedir. Bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
 
 ## Flora ve Fauna
 

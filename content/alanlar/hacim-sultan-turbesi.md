@@ -37,7 +37,7 @@ Hacım Sultan Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu 
 
 ## Coğrafya
 
-Hacım Sultan Türbesi, Uşak'ın Sivaslı ilçesinde yer alır ve Ege Bölgesi'nin coğrafi güzelliklerini yansıtan bir bölgedir. Bu bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Turbe ve plaj, birbirine yakın konumdadır ve ziyaretçiler, hem dinî bir deneyim yaşamak hem de doğal güzellikleri keşfetmek için buraya gelirler. Hacım Sultan Türbesi ve çevresindeki plaj, Ege Denizi'nin kıyısında yer alır ve bu nedenle deniz suyu ve plajın sunduğu olanaklardan faydalanma mümkündür. Bölge, yaz aylarında sıca ve nemli bir iklime sahiptir, ancak turbe ve plajın sunduğu olanaklar, ziyaretçilere konforlu bir deneyim sunar. Hacım Sultan Türbesi, Ege Bölgesi'nin önemli bir turizm merkezi olarak kabul edilir ve hem yerli hem de yabancı turistler tarafından ziyaret edilir.
+Hacım Sultan Türbesi, Uşak'ın Sivaslı ilçesinde yer alır ve Ege Bölgesi'nin coğrafi güzelliklerini yansıtan bir bölgedir. Bu bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Turbe ve plaj, birbirine yakın konumdadır ve ziyaretçiler, hem dinî bir deneyim yaşamak hem de doğal güzellikleri keşfetmek için buraya gelirler. Hacım Sultan Türbesi ve çevresindeki plaj, Ege Denizi'nin kıyısında yer alır ve bu nedenle deniz suyu ve plajın sunduğu olanaklardan faydalanma mümkündür. Bölge, yaz aylarında sıcak ve nemli bir iklime sahiptir, ancak turbe ve plajın sunduğu olanaklar, ziyaretçilere konforlu bir deneyim sunar. Hacım Sultan Türbesi, Ege Bölgesi'nin önemli bir turizm merkezi olarak kabul edilir ve hem yerli hem de yabancı turistler tarafından ziyaret edilir.
 
 ## Flora ve Fauna
 

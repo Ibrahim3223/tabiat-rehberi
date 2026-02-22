@@ -37,7 +37,7 @@ Karadiken Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapm
 
 ## Coğrafya
 
-Karadiken Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, genel olarak geniş ovalar ve yüksek tepelerden oluşuyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna found. Bölgenin iklimi, karasal iklim özellikleri taşıyor, yani kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi yapı, ziyaretçilere yıl boyunca farklı deneyimler sunuyor. İlkbahar ve sonbahar mevsimlerinde, bölgenin rengarenk manzaraları ziyaretçileri cezbediyor. Kış mevsiminde, karla kaplı tepeler, ziyaretçilere güzel bir kış manzarası sunuyor.
+Karadiken Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, genel olarak geniş ovalar ve yüksek tepelerden oluşuyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna found. Bölgenin iklimi, karasal iklim özellikleri taşıyor, yani kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi yapı, ziyaretçilere yıl boyunca farklı deneyimler sunuyor. İlkbahar ve sonbahar mevsimlerinde, bölgenin rengarenk manzaraları ziyaretçileri cezbediyor. Kış mevsiminde, karla kaplı tepeler, ziyaretçilere güzel bir kış manzarası sunuyor.
 
 ## Flora ve Fauna
 

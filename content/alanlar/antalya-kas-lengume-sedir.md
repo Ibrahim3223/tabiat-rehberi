@@ -30,7 +30,7 @@ Antalya-Kas-Lengume Sedir milli parkının tarihi geçmişi, yüzyıllar boyunca
 
 ## Coğrafya
 
-Antalya-Kas-Lengume Sedir milli parkı, Akdeniz Bölgesi'nin en güzel coğrafi bölgelerinden birini oluşturuyor. Bu bölge, 140 hektarlık yeşil alanı ile birlikte, ziyaretçilerine geniş bir doğa alanı sunuyor. Parkın coğrafi yapısı, dağlar, ormanlar ve kıyı şeridi ile birlikte, ziyaretçilere çeşitli doğa güzellikleri sunuyor. Ayrıca, bu bölgede, çeşitli bitki türleri ve yaban hayatı da bulunmakta olup, ziyaretçilerin doğayı keşfetmesine olanak sağlıyor. Lengume Sedir, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor ve bu yükseklik, ziyaretçilere geniş bir manzara sunuyor.
+Antalya-Kas-Lengume Sedir milli parkı, Akdeniz Bölgesi'nin en güzel coğrafi bölgelerinden birini oluşturuyor. Bu bölge, 140 hektarlık yeşil alanı ile birlikte, ziyaretçilerine geniş bir doğa alanı sunuyor. Parkın coğrafi yapısı, dağlar, ormanlar ve kıyı şeridi ile birlikte, ziyaretçilere çeşitli doğa güzellikleri sunuyor. Ayrıca, bu bölgede, çeşitli bitki türleri ve yaban hayatı da bulunmakta olup, ziyaretçilerin doğayı keşfetmesine olanak sağlıyor. Lengume Sedir, yüksek bir konumda yer alıyor ve bu yükseklik, ziyaretçilere geniş bir manzara sunuyor.
 
 ## Flora ve Fauna
 
@@ -44,6 +44,6 @@ Antalya-Kas-Lengume Sedir milli parkını ziyaret etmek, doğa severler ve foto�
 
 - Lengume Sedir, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor.
 - Bu bölge, yaban hayatı ve doğanın güzelliği ile birlikte, ziyaretçilerine benzersiz bir deneyim sunuyor.
-- Lengume Sedir, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor.
+- Lengume Sedir, yüksek bir konumda yer alıyor.
 - Bu bölgede, çeşitli bitki türleri ve yaban hayatı bulunmakta olup, ziyaretçilerin doğayı keşfetmesine olanak sağlıyor.
 - Antalya-Kas-Lengume Sedir milli parkı, yılın her dönemi ziyaret edilebilir.

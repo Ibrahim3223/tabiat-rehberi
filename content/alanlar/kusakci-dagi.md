@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin kalbinde, Elazığ ilinin güzide bir köşesinde yer
 
 Jeolojik açıdan incelendiğinde, Kuşakcı Dağı'nın específik fiziksel özellikleri hakkında detaylı bilgi bulunmasa da, genel olarak Doğu Anadolu Bölgesi'nin karmaşık jeolojik yapısından etkilendiği anlaşılır. Bu bölgede, volkani ve sedimentolojik oluşumlar bir arada bulunur. Ancak, Kuşakcı Dağı'nın boyutları veya şekli hakkında somut rakamlar olmasa da, bir şehir bloğu büyüklüğündeki küçük alanlar gibi düşünülebilecek küçük bir dağ olarak hayal edilebilir.
 
-İklim açısından bakıldığında, Kuşakcı Dağı ve çevresi karasal iklimin hüküm sürdüğü bir bölgedir. Kışlar soğu ve karlı, yazlar ise sıca ve kuru geçer. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler. Etrafındaki dağlar ve ovalarla birlikte, Kuşakcı Dağı, bölgenin ekolojik dengesini korur.
+İklim açısından bakıldığında, Kuşakcı Dağı ve çevresi karasal iklimin hüküm sürdüğü bir bölgedir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuru geçer. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler. Etrafındaki dağlar ve ovalarla birlikte, Kuşakcı Dağı, bölgenin ekolojik dengesini korur.
 
 Çevresel açıdan, Kuşakcı Dağı, Harput Ovası ve Fırat Nehri gibi önemli su kaynaklarıyla çevrilidir. Bu su kaynakları, bölgenin tarım ve hayvancılık faaliyetleri için hayati önem taşır. Ayrıca, Kuşakcı Dağı, komşu dağlarla birlikte, bölgenin biyolojik çeşitliliğini destekleyen bir ekosistem oluşturur. Bu dağ, bölgenin coğrafi ve ekolojik yapısını koruma altına almak için önemli bir unsurdur.
 

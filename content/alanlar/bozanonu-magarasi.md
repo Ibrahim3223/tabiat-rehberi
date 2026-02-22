@@ -44,7 +44,7 @@ Güneybatı Türkiye'nin doğal güzelliklerinin arasında yer alan Bozanönü M
 
 Doğal bir jeopark olan Bozanönü Mağarası, jeolojik açıdan oldukça zengin bir yapıya sahip. Mağaranın içinde, binlerce yıl önce oluşmuş çeşitli kaya oluşumları ve yeraltı galerileri encontruyor. Mağaranın boyutları hakkında detaylı bilgi olmasa da, bu doğal harikaların Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kapladığı söylenebilir. Mağaranın jeolojik yapısı, bölgeye özgü kireçtaşı ve diğer tortul kayalardan oluşuyor.
 
-Isparta'nın iklimi, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Bozanönü Mağarası'nın bulunduğu bölgede, yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava hakim. Bu mevsimsel özellikler, mağaranın çevresindeki bitki örtüsünü ve yeraltı su kaynaklarını etkiliyor. Mağara, Eiffel Kulesi'nin birkaç katı yükseklikte olan dağların eteğinde yer alıyor.
+Isparta'nın iklimi, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Bozanönü Mağarası'nın bulunduğu bölgede, yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava hakim. Bu mevsimsel özellikler, mağaranın çevresindeki bitki örtüsünü ve yeraltı su kaynaklarını etkiliyor. Mağara, Eiffel Kulesi'nin birkaç katı yükseklikte olan dağların eteğinde yer alıyor.
 
 Bozanönü Mağarası, çevresindeki doğal güzelliklerle bağlantılı bir ekosistem içinde yer alıyor. Mağaranın yakın çevresinde, çeşitli su kaynakları ve akarsular encontruyor. Bu su kaynakları, mağaranın içinde ve dışında oluşan çeşitli ekosistemleri besliyor. Mağara, Monaco'nun küçük bir bölümü kadar bir alanı kaplasa da, çevresindeki doğal güzelliklerle birlikte, bir bütün olarak düşünülmesi gereken bir jeopark alanıdır.
 

@@ -44,7 +44,7 @@ Coğrafya bölümünde, Acıgöl'ün konumunu ve fiziksel yapısını inceleyece
 
 Doğal bir oluşum olan Acıgöl, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Bu küçük ama önemli alan, çevresindeki coğrafi yapıyla birlikte değerlendirildiğinde, bölgenin ekolojik dengesinde önemli bir rol oynamaktadır. Acıgöl'ün şekli ve boyutları, jeolojik oluşumlar ve su kaynaklarının etkileşimiyle şekillenmiştir.
 
-Mevsimsel özellikler açısından bakıldığında, Acıgöl'ün iklim karakteri, Konya ilinin genel iklimine benzemektedir. Bölgesi, karasal iklimin etkisinde olup, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir hava durumuna sahiptir. Bu iklim koşulları, gölden ve çevredeki araziden yararlanan ekosistemi etkilemektedir.
+Mevsimsel özellikler açısından bakıldığında, Acıgöl'ün iklim karakteri, Konya ilinin genel iklimine benzemektedir. Bölgesi, karasal iklimin etkisinde olup, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir hava durumuna sahiptir. Bu iklim koşulları, gölden ve çevredeki araziden yararlanan ekosistemi etkilemektedir.
 
 Son olarak, çevresel ilişkiler açısından, Acıgöl'ün komşu alanlar, su kaynakları ve ekosistem bağlantıları ile önemli bir bağlantısı bulunmaktadır. Bu göl, bölgedeki su döngüsünde önemli bir rol oynamakta ve çevredeki arazideki canlıların yaşamsal faaliyetlerini desteklemektedir. Bu nedenle, Acıgöl'ün korunması ve sürdürülebilirliği, bölgenin doğal dengesi için büyük önem taşımaktadır.
 

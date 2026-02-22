@@ -30,7 +30,7 @@ wikidata_id: "Q108228196"
 
 ## Coğrafya
 
-İnbükü milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici noktalarından birisidir. Parkın coğrafyası, çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosistemi destekler. İnbükü'nün iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer, yazları sıca ve kuru, kışları soğu ve karlı geçer. Bu iklim, parkın flora ve faunasının çeşitliliğine katkıda bulunur. İnbükü'nün coğrafyası, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Parkın içinde çeşitli yürüyüş yolları ve gözlem noktaları bulunur, bu da ziyaretçilerin parkın güzelliğini keşfetmelerine yardımcı olur.
+İnbükü milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici noktalarından birisidir. Parkın coğrafyası, çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosistemi destekler. İnbükü'nün iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer, yazları sıcak ve kuru, kışları soğuk ve karlı geçer. Bu iklim, parkın flora ve faunasının çeşitliliğine katkıda bulunur. İnbükü'nün coğrafyası, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Parkın içinde çeşitli yürüyüş yolları ve gözlem noktaları bulunur, bu da ziyaretçilerin parkın güzelliğini keşfetmelerine yardımcı olur.
 
 ## Flora ve Fauna
 

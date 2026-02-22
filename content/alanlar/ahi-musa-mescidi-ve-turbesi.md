@@ -37,11 +37,11 @@ Ahi Musa Mescidi ve Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanı
 
 ## Coğrafya
 
-Ahi Musa Mescidi ve Türbesi, Elazığ'ın merkezinde yer alıyor. Bu kompleks, şehrin önemli ulaşım hatlarına yakın bir konumda bulunuyor. Mescid ve türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve çevresinde çeşitli dini ve kültürel yapılar yer alıyor. Ahi Musa Mescidi ve Türbesi, Doğu Anadolu Bölgesi'nin coğrafi özellikleri nedeniyle, karasal iklimin etkilerini gösteriyor. Kışları soğu ve kar yağışlı, yazları ise sıcak ve kurak olan bu bölgede, mescid ve türbe, ziyaretçilerini dört mevsim ağırlıyor. Ahi Musa Mescidi ve Türbesi'nin çevresi, yeşillik alanları ve su kaynakları ile zengin bir coğrafi yapıya sahip.
+Ahi Musa Mescidi ve Türbesi, Elazığ'ın merkezinde yer alıyor. Bu kompleks, şehrin önemli ulaşım hatlarına yakın bir konumda bulunuyor. Mescid ve türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve çevresinde çeşitli dini ve kültürel yapılar yer alıyor. Ahi Musa Mescidi ve Türbesi, Doğu Anadolu Bölgesi'nin coğrafi özellikleri nedeniyle, karasal iklimin etkilerini gösteriyor. Kışları soğuk ve kar yağışlı, yazları ise sıcak ve kurak olan bu bölgede, mescid ve türbe, ziyaretçilerini dört mevsim ağırlıyor. Ahi Musa Mescidi ve Türbesi'nin çevresi, yeşillik alanları ve su kaynakları ile zengin bir coğrafi yapıya sahip.
 
 ## Flora ve Fauna
 
-Ahi Musa Mescidi ve Türbesi'nin çevresinde, çeşitli bitki türleri ve fauna örnekleri yer alıyor. Bu kompleks, Doğu Anadolu Bölgesi'nin flora ve faunasını yansıtan bir bölge. Çevredeki yeşillik alanları, çeşitli ağaç ve bitki türlerine ev sahipliği yapıyor. Ahi Musa Mescidi ve Türbesi'nin bulunduğu bölgede, mevsimsel değişimler nedeniyle, flora ve fauna da şim gösteriyor. Kış aylarında, kar yağışları ve soğuk hava, bitki ve hayvan yaşamını etkiliyor. Yaz aylarında ise, sıca ve kurak hava, bitki ve hayvan yaşamını farklı şekilde etkiliyor.
+Ahi Musa Mescidi ve Türbesi'nin çevresinde, çeşitli bitki türleri ve fauna örnekleri yer alıyor. Bu kompleks, Doğu Anadolu Bölgesi'nin flora ve faunasını yansıtan bir bölge. Çevredeki yeşillik alanları, çeşitli ağaç ve bitki türlerine ev sahipliği yapıyor. Ahi Musa Mescidi ve Türbesi'nin bulunduğu bölgede, mevsimsel değişimler nedeniyle, flora ve fauna da şim gösteriyor. Kış aylarında, kar yağışları ve soğuk hava, bitki ve hayvan yaşamını etkiliyor. Yaz aylarında ise, sıcak ve kurak hava, bitki ve hayvan yaşamını farklı şekilde etkiliyor.
 
 ## Ziyaret Bilgileri
 

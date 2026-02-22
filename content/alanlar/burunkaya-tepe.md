@@ -42,7 +42,7 @@ Samsun'un coğrafi güzelliklerini keşfetmek isteyenler için Burunkaya Tepe, �
 
 Jeolojik açıdan incelendiğinde, Burunkaya Tepe'nin boyutları ve şekli hakkında net bir bilgi bulunmasa da, genel olarak Samsun'un coğrafi yapısını düşündüğümüzde, bu bölgenin de benzer özellikler taşıdığı söylenebilir. Samsun'un toplam yüzölçümünün küçük bir parçası olan Burunkaya Tepe, Monaco'nun onda biri kadar bir alanı kaplıyor. Bu küçük ama önemli alan, Samsun'un coğrafi çeşitliliğini göstermesi açısından önemli.
 
-Mevsimsel özelliklere baktığımızda, Burunkaya Tepe'nin iklimi Samsun'un genel iklimine benzerlik gösteriyor. Karasal iklimin etkileri görülüyor ve yaz ayları sıca ve kurak, kış ayları ise soğu ve yağışlı geçiyor. Burunkaya Tepe, Eiffel Kulesi'nin yaklaşık iki katı yükseklikte değil, ancak Samsun'un genel yüksekliklerine göre önemli bir nokta olarak dikkat çekiyor.
+Mevsimsel özelliklere baktığımızda, Burunkaya Tepe'nin iklimi Samsun'un genel iklimine benzerlik gösteriyor. Karasal iklimin etkileri görülüyor ve yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçiyor. Burunkaya Tepe, Eiffel Kulesi'nin yaklaşık iki katı yükseklikte değil, ancak Samsun'un genel yüksekliklerine göre önemli bir nokta olarak dikkat çekiyor.
 
 Çevresel açıdan bakıldığında, Burunkaya Tepe'nin komşu alanlar ve su kaynakları ile önemli bir bağlantısı bulunuyor. Yaklaşık olarak Taksim Meydanı'nın 10 katı büyüklüğünde bir alana sahip olmayan bu bölge, Samsun'un doğal su kaynaklarına ve ekosistemine önemli katkılar sağlıyor. Bu bağlantı, Samsun'un doğal güzelliklerini koruma ve geliştirmek için önemli bir unsur olarak görülüyor.
 

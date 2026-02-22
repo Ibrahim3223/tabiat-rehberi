@@ -37,7 +37,7 @@ Kleopatra Plajı, tarihi geçmişiyle de dikkat çeker. Bu plaj, yüzyıllar boy
 
 ## Coğrafya
 
-Kleopatra Plajı, Antalya'nın Alanya ilçesinde bulunur ve Akdeniz'in kıyısında yer alır. Plaj, doğu-batı yönünde uzun bir mesafe uzunluğundadır. Plajın kuzeyinde, Toros Dağları'nın etekleri bulunur ve plajın güneyinde ise Akdeniz'in suları uzanır. Plajın çevresi, çeşitli bitki türleriyle kaplıdır ve plajın itself de kum ve çakıldan oluşur. Plajın iklimi, Akdeniz iklimi olarak bilinir ve yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlıdır. Plajın su sıcaklığı, yaz aylarında 28 dereceye kadar çıkabilir ve kış aylarında ise 15 dereceye kadar düşebilir.
+Kleopatra Plajı, Antalya'nın Alanya ilçesinde bulunur ve Akdeniz'in kıyısında yer alır. Plaj, doğu-batı yönünde uzun bir mesafe uzunluğundadır. Plajın kuzeyinde, Toros Dağları'nın etekleri bulunur ve plajın güneyinde ise Akdeniz'in suları uzanır. Plajın çevresi, çeşitli bitki türleriyle kaplıdır ve plajın itself de kum ve çakıldan oluşur. Plajın iklimi, Akdeniz iklimi olarak bilinir ve yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlıdır. Plajın su sıcaklığı, yaz aylarında 28 dereceye kadar çıkabilir ve kış aylarında ise 15 dereceye kadar düşebilir.
 
 ## Flora ve Fauna
 

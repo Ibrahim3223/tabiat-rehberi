@@ -45,7 +45,7 @@ Geçmişte birçok uygarlığa ev sahipliği yapan İzmir'in doğal güzellikler
 
 Doğal güzellikleri ile ön plana çıkan Yamanlar Dağı, büyüklüğü ve şekli ile dikkat çeker. Ancak, detaylı fiziksel veriler bulunmamasına rağmen, bu dağın coğrafi konumu ve jeolojik yapısı, bölgenin tarih öncesi dönemlerden bu yana oluşumuna ışık tutar. Yamanlar Dağı, çevresi ile birlikte bir bütün olarak, Beşiktaş ilçesi büyüklüğünde bir alanı kaplar. Bu geniş alan, İzmir'in doğal güzelliklerini ve coğrafi çeşitliliğini gözler önüne serer.
 
-İklim açısından, Yamanlar Dağı ve çevresinde Akdeniz iklimi hakimdir. Bu bölge, yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu gösterir. Dağın yüksekliği, Eiffel Kulesi'nin 2 katı yükseklikte olmasa da, çevredeki diğer tepelerle birlikte bir bütün olarak, bölge ikliminin oluşumunda önemli bir rol oynar.
+İklim açısından, Yamanlar Dağı ve çevresinde Akdeniz iklimi hakimdir. Bu bölge, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu gösterir. Dağın yüksekliği, Eiffel Kulesi'nin 2 katı yükseklikte olmasa da, çevredeki diğer tepelerle birlikte bir bütün olarak, bölge ikliminin oluşumunda önemli bir rol oynar.
 
 Son olarak, Yamanlar Dağı, çevresindeki su kaynakları ve ekosistem bağlantıları ile de önemlidir. Bu dağ, İzmir'in su kaynaklarının korunması ve bölgenin ekolojik dengesinin sağlanması açısından kritik bir role sahiptir. Yamanlar Dağı, Monaco'nun yarısı kadar bir alanı kaplayan bir doğal güzelliği ve zenginliği sunar. Bu doğal güzellik, bölgenin turizm potansiyelini artırmakla birlikte, aynı zamanda ekosistemin korunması için önemli bir görev üstlenmektedir.
 

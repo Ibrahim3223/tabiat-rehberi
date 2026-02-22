@@ -36,7 +36,7 @@ Bagaraza Tepesi, tarihi geçmişiyle dikkat çeker. Yüzyıllar boyunca çeşitl
 
 ## Coğrafya
 
-Bagaraza Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi çeşitliliğiçinde yer alır. 1400 metrelik yüksekliğiyle dikkat çeken bu tepe, etrafındaki ovalardan ve dağlardan ayrılır. Tepenin zirvesinden, Siirt ilinin panoramik manzarasını izleme mümkün. Bagaraza Tepesi, aynı zamanda çevresindeki diğer coğrafi oluşumlarla da ilgilidir. Tepenin eteklerinde, çeşitli bitki türleri ve zengin bir fauna bulunur. İklim, mevsimsel değişimlere göre farklılık gösterir. Kış aylarında soğu ve kar yağışlı olan iklim, yaz aylarında sıca ve kurak bir hava koşulu alır.
+Bagaraza Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi çeşitliliğiçinde yer alır. 1400 metrelik yüksekliğiyle dikkat çeken bu tepe, etrafındaki ovalardan ve dağlardan ayrılır. Tepenin zirvesinden, Siirt ilinin panoramik manzarasını izleme mümkün. Bagaraza Tepesi, aynı zamanda çevresindeki diğer coğrafi oluşumlarla da ilgilidir. Tepenin eteklerinde, çeşitli bitki türleri ve zengin bir fauna bulunur. İklim, mevsimsel değişimlere göre farklılık gösterir. Kış aylarında soğuk ve kar yağışlı olan iklim, yaz aylarında sıcak ve kurak bir hava koşulu alır.
 
 ## Flora ve Fauna
 

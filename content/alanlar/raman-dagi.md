@@ -43,7 +43,7 @@ Doğunun gizli cennetlerinden biri olan Raman Dağı, 37.7861°K ve 41.2150°D k
 
 Jeolojik açıdan bakıldığında, Raman Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, bölgenin genel jeolojik yapısı dikkate alındığında, dağlık bir arazinin parçası olduğu söylenebilir. Bu bölgede, genellikle kireçtaşı, şist ve granit gibi kayalar yaygın olarak bulunur. Dağın yüksekliği ve boyutları hakkında kesin bilgiler olmasa da, Batman ilinin genel yükseklik ortalaması dikkate alındığında, Raman Dağı'nın da benzer bir yükseklikte olduğu varsayılabilir.
 
-Mevsimsel açıdan bakıldığında, Raman Dağı'nın iklim karakteri, Güneydoğu Anadolu Bölgesi'nin genel iklim şartlarına benzerlik gösterir. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürer. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler ve Raman Dağı'nın ekosistemini şekillendirir.
+Mevsimsel açıdan bakıldığında, Raman Dağı'nın iklim karakteri, Güneydoğu Anadolu Bölgesi'nin genel iklim şartlarına benzerlik gösterir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürer. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler ve Raman Dağı'nın ekosistemini şekillendirir.
 
 Çevresel açıdan bakıldığında, Raman Dağı, Batman ilinin diğer coğrafi özellikleriyle birlikte, bir bütün olarak değerlendirilmelidir. Dağın yakınında, Dicle Nehri gibi önemli su kaynakları bulunur ve bu su kaynakları, bölgenin ekosistemini destekler. Ayrıca, Raman Dağı, bölgedeki diğer dağlık alanlarla birlikte, bir bütün olarak düşünüldüğunda, Monaco'nun yarısı kadar bir alanı kaplayabilen geniş bir coğrafi alanı temsil eder.
 

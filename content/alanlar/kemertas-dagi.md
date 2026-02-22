@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Kemertaş Dağı, 40.0317°K ve 42.9667�
 
 Jeolojik açıdan bakıldığında, Kemertaş Dağı'nın yapısı hakkında detaylı bilgiler bulunmasa da, bölgenin genel jeolojik özellikleri dikkate alındığında, burada yer alan kayaçların genellikle Paleozoyi ve Mezozoyik dönemlere ait olduğu söylenebilir. Dağın boyutları hakkında kesin rakamlar olmasa da, genel olarak bu tür dağların yüksekliklerinin Eiffel Kulesi'nin birkaç katı yükseklikte olduğunu ve genişliklerinin Monaco'nun yarısı kadar alanı kaplayabildiğini düşünebiliriz.
 
-Kemertaş Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir alandır. Kışlar soğu ve karlı, yazlar ise serin ve yağışlı geçer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler. Dağın eteklerinde ve çevresinde yer alan su kaynakları, bölgenin ekosistemini destekler. Bölgede yer alan nehirler ve akarsular, Kemertaş Dağı'ndan doğan su kaynaklarını taşır.
+Kemertaş Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir alandır. Kışlar soğuk ve karlı, yazlar ise serin ve yağışlı geçer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler. Dağın eteklerinde ve çevresinde yer alan su kaynakları, bölgenin ekosistemini destekler. Bölgede yer alan nehirler ve akarsular, Kemertaş Dağı'ndan doğan su kaynaklarını taşır.
 
 Çevresel açıdan bakıldığında, Kemertaş Dağı, bölgenin diğer doğal alanlarıyla bağlantılıdır. Dağın yakınında yer alan ormanlar ve vadiler, bölgenin biyolojik çeşitliliğini zenginleştirir. Kemertaş Dağı, bölgenin ekolojik dengesini korumada önemli bir role sahiptir. Bu dağ, aynı zamanda bölgenin turizm potansiyelini de artırır. Dağın güzelliği ve çevresindeki doğal alanlar, ziyaretçileri çekerek bölgenin ekonomisine katkıda bulunur.
 

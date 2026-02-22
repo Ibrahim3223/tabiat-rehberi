@@ -30,7 +30,7 @@ Kargalı Gölcük Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca şeki
 
 ## Coğrafya
 
-Kargalı Gölcük Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde yer alıyor. Parkın etrafı, yüksek dağlarla çevrili ve bu da burayı bir doğa cenneti haline getiriyor. 140 hektarlık geniş bir alanı kaplayan park, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Parkın coğrafi konumu, iklimi ve doğal kaynakları, burayı bir ekosistem olarak önemli kılıyor. Kargalı Gölcük'ün coğrafi yapısı, aynı zamanda burada yaşayan çeşitli bitki ve hayvan türlerine de ev sahipliği yapıyor. Parkın yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdate ve bu da burayı bir yüksek dağ bölgesi haline getiriyor. Bu yükseklik, parkın iklimini ve bitki örtüsünü etkiliyor.
+Kargalı Gölcük Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde yer alıyor. Parkın etrafı, yüksek dağlarla çevrili ve bu da burayı bir doğa cenneti haline getiriyor. 140 hektarlık geniş bir alanı kaplayan park, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Parkın coğrafi konumu, iklimi ve doğal kaynakları, burayı bir ekosistem olarak önemli kılıyor. Kargalı Gölcük'ün coğrafi yapısı, aynı zamanda burada yaşayan çeşitli bitki ve hayvan türlerine de ev sahipliği yapıyor. Parkın yüksekliği, yüksek bir konumda ve bu da burayı bir yüksek dağ bölgesi haline getiriyor. Bu yükseklik, parkın iklimini ve bitki örtüsünü etkiliyor.
 
 ## Flora ve Fauna
 
@@ -46,4 +46,4 @@ Kargalı Gölcük Tabiat Parkı, ziyaretçilere birçok olanak sunuyor. Parka ul
 - Parkın etrafı, yüksek dağlarla çevrili.
 - Burada, çeşitli bitki türleri ve zengin fauna encontrabilir.
 - Parkın coğrafi konumu, iklimi ve doğal kaynakları, burayı bir ekosistem olarak önemli kılıyor.
-- Kargalı Gölcük'ün yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdate.
+- Kargalı Gölcük'ün yüksekliği, yüksek bir konumda.

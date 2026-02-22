@@ -37,7 +37,7 @@ wikidata_id: "Q131390540"
 
 ## Coğrafya
 
-Öksüz İbrahim Baba Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alıyor. Adıyaman'ın coğrafyası, genellikle dağlık ve engebeli arazilerden oluşuyor. Türbe, bu coğrafi yapının içerisinde, ziyaretçilere geniş bir görüş açısı sunuyor. Bölge, çeşitli bitki türleri ve zengin fauna ile dolu. Mevsimsel değişimler, bölgenin güzelliğini daha da artırıyor. İlkbahar ve yaz aylarında yeşeren bitkiler, sonbahar ve kış aylarında farklı bir güzellik kazanıyor. Bölgenin iklimi, genellikle sıca ve kurak geçiyor. ancak, türbenin konumu, ziyaretçilere serin ve ferah bir ortam sunuyor. Çevre, çeşitli tarihi ve kültürel yapılardan oluşuyor ve ziyaretçilere zengin bir coğrafi deneyimleyebilir sunuyor.
+Öksüz İbrahim Baba Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alıyor. Adıyaman'ın coğrafyası, genellikle dağlık ve engebeli arazilerden oluşuyor. Türbe, bu coğrafi yapının içerisinde, ziyaretçilere geniş bir görüş açısı sunuyor. Bölge, çeşitli bitki türleri ve zengin fauna ile dolu. Mevsimsel değişimler, bölgenin güzelliğini daha da artırıyor. İlkbahar ve yaz aylarında yeşeren bitkiler, sonbahar ve kış aylarında farklı bir güzellik kazanıyor. Bölgenin iklimi, genellikle sıcak ve kurak geçiyor. ancak, türbenin konumu, ziyaretçilere serin ve ferah bir ortam sunuyor. Çevre, çeşitli tarihi ve kültürel yapılardan oluşuyor ve ziyaretçilere zengin bir coğrafi deneyimleyebilir sunuyor.
 
 ## Flora ve Fauna
 

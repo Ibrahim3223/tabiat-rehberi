@@ -30,7 +30,7 @@ Sulu Mağara, tarih öncesi dönemlerden beri insanların yaşamına ev sahipli�
 
 ## Coğrafya
 
-Sulu Mağara, Kırıkkale'nin coğrafi çeşitliliğiçinde yer alıyor. Mağara, 1200 hektarlık bir alana yayılmış ve 500 metrelik bir yürüyüş yolu ziyaretçileri bekliyor. Mağaranın içinde, yeraltı nehri ve gölleri, ziyaretçilere benzersiz bir doğa deneyimi sunuyor. Mağara, İç Anadolu Bölgesi'nin iklim conditionsına uygun olarak, yazları sıca ve kurak, kışları soğu ve karlı bir iklime sahip. Mağaranın yüksekliği, deniz seviyesinden 800 metre yukarıda ve bu yükseklik, ziyaretçilere bölgeye hakim bir görüş açısı sağlıyor.
+Sulu Mağara, Kırıkkale'nin coğrafi çeşitliliğiçinde yer alıyor. Mağara, 1200 hektarlık bir alana yayılmış ve 500 metrelik bir yürüyüş yolu ziyaretçileri bekliyor. Mağaranın içinde, yeraltı nehri ve gölleri, ziyaretçilere benzersiz bir doğa deneyimi sunuyor. Mağara, İç Anadolu Bölgesi'nin iklim conditionsına uygun olarak, yazları sıcak ve kurak, kışları soğuk ve karlı bir iklime sahip. Mağaranın yüksekliği, deniz seviyesinden 800 metre yukarıda ve bu yükseklik, ziyaretçilere bölgeye hakim bir görüş açısı sağlıyor.
 
 ## Flora ve Fauna
 

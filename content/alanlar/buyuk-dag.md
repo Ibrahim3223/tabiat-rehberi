@@ -45,7 +45,7 @@ Güneydoğu Anadolu Bölgesi'nde yer alan Büyük Dağ, Gaziantep'in doğusunda 
 
 Doğudan batıya uzanan bu dağ sırası, yaklaşık olarak 20 km uzunluğundadır. Boyut olarak, Büyük Dağ bir şehir bloğu büyüklüğünde değildir, ancak birkaç olimpik havuz kadar geniş bir alanı kaplar. Jeolojik açıdan, Büyük Dağ'ın yapısı kireçtaşı ve şist gibi farklı kayaçlardan oluşmaktadır. Bu kayaçlar, milyonlarca yıl boyunca oluşan tektonik hareketler ve erozyon ile şekillenmiştir.
 
-Yıllık ortalama sıcaklık 18°C olan bu bölgede, yaz ayları sıca ve kurak geçerken, kış ayları ılımandır. Büyük Dağ'ın iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır. Mevsimsel olarak, ilkbahar ve sonbahar ayları ılıman ve yağışlıdır. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkiler.
+Yıllık ortalama sıcaklık 18°C olan bu bölgede, yaz ayları sıcak ve kurak geçerken, kış ayları ılımandır. Büyük Dağ'ın iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır. Mevsimsel olarak, ilkbahar ve sonbahar ayları ılıman ve yağışlıdır. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkiler.
 
 Büyük Dağ, çevresindeki ekosistemle güçlü bir bağlantı içindedir. Bölge, çeşitli bitki ve hayvan türlerinin yaşam alanıdır. Dağın eteklerinde, sulak alanlar ve nehirler bulunmaktadır. Bu su kaynakları, bölgenin tarım ve hayvancılık faaliyetleri için önemlidir. Ayrıca, Büyük Dağ'ın komşu alanları, Gaziantep'in diğer coğrafi oluşumları ile bağlantılıdır. Bu bağlantı, bölgenin coğrafi ve ekolojik dengesini sağlar.
 

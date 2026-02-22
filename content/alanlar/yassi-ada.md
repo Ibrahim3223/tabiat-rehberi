@@ -45,7 +45,7 @@ Denizlerin mavi sularının arasında, Muğla'nın güzide ilçelerinden biri ol
 
 Jeolojik açıdan bakıldığında, Yassı Ada'nın fiziksel yapısı hakkında detaylı bilgi olmasa da, Ege Denizi'nin diğer adalarına benzer özellikler taşıdığı söylenebilir. Ada, etrafındaki su kaynaklarıyla birlikte ekosistemin önemli bir parçası olarak görülebilir. Yassı Ada, Monaco'nun küçük bir bölümü kadar bir alanı kaplıyor ve bu yönüyle Ege Denizi'nin önemli bir noktası olarak dikkat çekiyor.
 
-İklim açısından, Yassı Ada Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, adanın flora ve fauna çeşitliliğini etkiler. Yassı Ada, Eiffel Kulesi'nin yüksekliğine benzer bir yükseklikte olmasa da, deniz seviyesine yakın bir konumda bulunuyor.
+İklim açısından, Yassı Ada Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, adanın flora ve fauna çeşitliliğini etkiler. Yassı Ada, Eiffel Kulesi'nin yüksekliğine benzer bir yükseklikte olmasa da, deniz seviyesine yakın bir konumda bulunuyor.
 
 Doğal güzellikleri ve coğrafi konumuyla dikkat çeken Yassı Ada, çevresindeki su kaynakları ve komşu adalarla birlikte bir ekosistem oluşturur. İstanbul'un Adalar ilçesi büyüklüğünde olmayan bu küçük ada, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplasa da, Ege Denizi'nin güzelliğini yansıtan önemli bir nokta olarak görülebilir.
 

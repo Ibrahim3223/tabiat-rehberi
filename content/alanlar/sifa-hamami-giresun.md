@@ -38,7 +38,7 @@ Giresun'un merkezinde, Karadeniz Bölgesi'nin en güzel plajlarından biri olan 
 
 ## Coğrafya
 
-Şifa Hamamı, Karadeniz Bölgesi'nin en güzel coğrafyalarından birine sahip. Burada, geniş ve temiz bir plaj, yeşillik alanlar ve zengin fauna encontrar. Şifa Hamamı, Giresun'un merkezinde yer alıyor ve ulaşımı oldukça kolay. Şifa Hamamı'nın coğrafyası, Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Burada, genellikle Karadeniz iklimi hüküm sürer ve yaz ayları sıca ve nemli, kış ayları ise soğu ve yağmurlu geçer. Şifa Hamamı'nın çevresi, çeşitli bitki türleriyle dolu ve bu bölgede, birçok endemik tür encontrar. Şifa Hamamı, aynı zamanda, birçok farklı hayvan türüne de ev sahipliği yapıyor.
+Şifa Hamamı, Karadeniz Bölgesi'nin en güzel coğrafyalarından birine sahip. Burada, geniş ve temiz bir plaj, yeşillik alanlar ve zengin fauna encontrar. Şifa Hamamı, Giresun'un merkezinde yer alıyor ve ulaşımı oldukça kolay. Şifa Hamamı'nın coğrafyası, Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Burada, genellikle Karadeniz iklimi hüküm sürer ve yaz ayları sıcak ve nemli, kış ayları ise soğu ve yağmurlu geçer. Şifa Hamamı'nın çevresi, çeşitli bitki türleriyle dolu ve bu bölgede, birçok endemik tür encontrar. Şifa Hamamı, aynı zamanda, birçok farklı hayvan türüne de ev sahipliği yapıyor.
 
 ## Flora ve Fauna
 

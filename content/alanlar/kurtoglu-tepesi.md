@@ -36,7 +36,7 @@ Kurtoğlu Tepesi'nin tarihi geçmişi, bölgenin yerleşim tarihi ile paralel ol
 
 ## Coğrafya
 
-Kurtoğlu Tepesi, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölge, genellikle step ve bozkırlarla kaplıdır ve kurak bir iklime sahiptir. Tepenin etrafı, genellikle buğday ve arpa tarlaları ile çevrilidir. Coğrafi konum itibariyle, tepe yaklaşık yüksek bir konumdatedir. Bu yükseklik, bölgenin genel coğrafi yapısına uygun bir seviyededir. Tepenin zirvesinden, geniş bir alan gözlemlenebilir ve özellikle gün batımı saatlerinde, manzara çok güzel bir görünüm sunar. Bölge, coğrafi olarak da doğal güzellikleri ile dikkat çekmektedir. Özellikle ilkbahar ve sonbahar mevsimlerinde, tepe ve çevresindeki flora, renkli bir görünüm sunar.
+Kurtoğlu Tepesi, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölge, genellikle step ve bozkırlarla kaplıdır ve kurak bir iklime sahiptir. Tepenin etrafı, genellikle buğday ve arpa tarlaları ile çevrilidir. Coğrafi konum itibariyle, tepe yüksek bir konumdadir. Bu yükseklik, bölgenin genel coğrafi yapısına uygun bir seviyededir. Tepenin zirvesinden, geniş bir alan gözlemlenebilir ve özellikle gün batımı saatlerinde, manzara çok güzel bir görünüm sunar. Bölge, coğrafi olarak da doğal güzellikleri ile dikkat çekmektedir. Özellikle ilkbahar ve sonbahar mevsimlerinde, tepe ve çevresindeki flora, renkli bir görünüm sunar.
 
 ## Flora ve Fauna
 

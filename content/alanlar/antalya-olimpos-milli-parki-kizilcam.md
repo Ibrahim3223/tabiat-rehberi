@@ -30,7 +30,7 @@ Antalya-Olimpos Milli Parkı Kızılçam'ın tarihi geçmişi, yüzyıllar boyun
 
 ## Coğrafya
 
-Antalya-Olimpos Milli Parkı Kızılçam, Akdeniz Bölgesi'nde yer alan bir doğal alan olarak dikkat çekiyor. Parkın coğrafi yapısı, girintili ve çıkıntılı bir yapıya sahip ve bu, ziyaretçilere her adımında yeni keşifler sunuyor. Parkın içinde, çeşitli bitki türleri ve ağaçlar bulunmakta ve bu da ziyaretçilere doğanın renkli dünyasını keşfetme fırsatı sunuyor. Parkın iklimi, Akdeniz iklimi olarak tanımlanır ve bu, ziyaretçilere sıca ve güneşli bir ortam sunar. Parkın çevresinde, çeşitli su kaynakları bulunmakta ve bunlar, ziyaretçilere serinleme fırsatı sunuyor. Parkın coğrafi yapısı, ziyaretçilere doğanın güzelliğini ve zenginliğini gözlemleme fırsatı sunuyor.
+Antalya-Olimpos Milli Parkı Kızılçam, Akdeniz Bölgesi'nde yer alan bir doğal alan olarak dikkat çekiyor. Parkın coğrafi yapısı, girintili ve çıkıntılı bir yapıya sahip ve bu, ziyaretçilere her adımında yeni keşifler sunuyor. Parkın içinde, çeşitli bitki türleri ve ağaçlar bulunmakta ve bu da ziyaretçilere doğanın renkli dünyasını keşfetme fırsatı sunuyor. Parkın iklimi, Akdeniz iklimi olarak tanımlanır ve bu, ziyaretçilere sıcak ve güneşli bir ortam sunar. Parkın çevresinde, çeşitli su kaynakları bulunmakta ve bunlar, ziyaretçilere serinleme fırsatı sunuyor. Parkın coğrafi yapısı, ziyaretçilere doğanın güzelliğini ve zenginliğini gözlemleme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

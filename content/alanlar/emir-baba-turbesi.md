@@ -38,7 +38,7 @@ Emir Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu b
 
 ## Coğrafya
 
-Emir Baba Türbesi, İzmir'in Bayındır ilçesinde, Ege Bölgesi'nin coğrafi güzellikleri içinde yer alıyor. 140 hektarlık yeşil alan, ziyaretçilere geniş bir açık alan sunuyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğal güzelliği ile dikkat çekiyor. Türbenin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili. Coğrafi konumu itibariyle, Emir Baba Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunuyor. Bölgenin iklimi, Ege Bölgesi'nin tipik Akdeniz iklimi özellikleri gösteriyor. Yaz ayları sıca ve khô, kış ayları ılıman ve yağışlı geçiyor. Bu iklim, bölgenin florası ve faunası üzerinde etkili oluyor. Emir Baba Türbesi'nin coğrafi konumu ve iklimi, ziyaretçilere yılın her dönemi keyifli bir gezi imkanı sunuyor.
+Emir Baba Türbesi, İzmir'in Bayındır ilçesinde, Ege Bölgesi'nin coğrafi güzellikleri içinde yer alıyor. 140 hektarlık yeşil alan, ziyaretçilere geniş bir açık alan sunuyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğal güzelliği ile dikkat çekiyor. Türbenin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili. Coğrafi konumu itibariyle, Emir Baba Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunuyor. Bölgenin iklimi, Ege Bölgesi'nin tipik Akdeniz iklimi özellikleri gösteriyor. Yaz ayları sıcak ve kuru, kış ayları ılıman ve yağışlı geçiyor. Bu iklim, bölgenin florası ve faunası üzerinde etkili oluyor. Emir Baba Türbesi'nin coğrafi konumu ve iklimi, ziyaretçilere yılın her dönemi keyifli bir gezi imkanı sunuyor.
 
 ## Flora ve Fauna
 

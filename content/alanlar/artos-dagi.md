@@ -45,7 +45,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden Van'ın dağlık coğrafyasında y
 
 Jeolojik açıdan bakıldığında, Artos Dağı'nın yapısı volkanik kökenlidir. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olup, bölgenin en önemli coğrafi oluşumlarından biridir. Ancak, fiziksel verilerin sınırlı olması nedeniyle, dağın boyutları ve şekli hakkında net bilgiler bulunmamaktadır. Buna rağmen, Van Gölü'nün kuzeyinde yer alan bu dağlık alan, bölgenin coğrafi çeşitliliğini ve güzelliğini gözler önüne serer.
 
-Bölgenin iklim karakteri, karasal iklimin etkisi altındadır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak olan hava durumu, bölgeyi ziyaret etmek isteyenler için önemli bir faktördür. Artos Dağı'nın yüksekliği, bölgenin mikro iklimini etkileyen önemli bir faktör olup, dağların yüksek kesimlerinde yıl boyunca kar örtüsü bulunabilir.
+Bölgenin iklim karakteri, karasal iklimin etkisi altındadır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak olan hava durumu, bölgeyi ziyaret etmek isteyenler için önemli bir faktördür. Artos Dağı'nın yüksekliği, bölgenin mikro iklimini etkileyen önemli bir faktör olup, dağların yüksek kesimlerinde yıl boyunca kar örtüsü bulunabilir.
 
 Artos Dağı, Van Gölü'nün kuzeyinde yer alan diğer dağlık alanlarla birlikte, bölgenin ekosistem bağlantılarını oluşturur. Dağın eteklerinde yer alan ormanlar ve meralar, bölgenin flora ve fauna çeşitliliğini destekler. Ayrıca, dağlık alanların su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılar. Bu nedenle, Artos Dağı ve çevresindeki dağlık alanlar, bölgenin doğal kaynaklarını koruma ve sürdürülebilirliğini sağlamak için önemli bir role sahiptir.
 

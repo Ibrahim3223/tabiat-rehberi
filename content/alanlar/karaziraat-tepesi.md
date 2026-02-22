@@ -36,7 +36,7 @@ Karaziraat Tepesi'nin tarihi geçmişi, bölgenin genel tarihçesi ile iç içe 
 
 ## Coğrafya
 
-Karaziraat Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, genellikle step ve bozkır bitkileri ile kaplı. Tepenin etrafında, çeşitli tarım arazileri ve ormanlık alanlar bulunuyor. Bu bölgede, iklim genel olarak karasal iklim özellikleri gösteriyor. Yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlı geçiyor. Karaziraat Tepesi, bu iklim koşullarına uygun olarak, mevsimsel değişimlere uyum sağlamış bir ekosisteme sahip. Tepenin yüksekliği, bölgenin genel yüksekliğine göre biraz daha fazla, bu nedenle tepeden çevredeki manzara oldukça geniş bir alanı kapsıyor.
+Karaziraat Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, genellikle step ve bozkır bitkileri ile kaplı. Tepenin etrafında, çeşitli tarım arazileri ve ormanlık alanlar bulunuyor. Bu bölgede, iklim genel olarak karasal iklim özellikleri gösteriyor. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçiyor. Karaziraat Tepesi, bu iklim koşullarına uygun olarak, mevsimsel değişimlere uyum sağlamış bir ekosisteme sahip. Tepenin yüksekliği, bölgenin genel yüksekliğine göre biraz daha fazla, bu nedenle tepeden çevredeki manzara oldukça geniş bir alanı kapsıyor.
 
 ## Flora ve Fauna
 

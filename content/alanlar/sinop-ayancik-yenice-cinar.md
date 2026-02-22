@@ -30,7 +30,7 @@ Sinop-Ayancik-Yenice Cinar milli parkının tarihi geçmişi, yüzyıllar önces
 
 ## Coğrafya
 
-Sinop-Ayancik-Yenice Cinar milli parkı, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu park, deniz seviyesinden yaklaşık yüksek bir konumdate bulunur ve Karadeniz'in yeşil örtüsünü oluşturan ormanlarla çevrilidir. Parkın coğrafi yapısı, ziyaretçilere çeşitli doğal güzellikler sunar. Buradaki ormanlar, zengin flora ve fauna ile dikkat çeker. Parkın bulunduğu bölge, Karadeniz ikliminin etkilerini taşır ve ziyaretçilere serin ve yağmurlu bir hava sunar. Sinop-Ayancik-Yenice Cinar, coğrafi çeşitliliği ile dikkat çeken bir bölgedir.
+Sinop-Ayancik-Yenice Cinar milli parkı, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu park, yüksek bir konumda bulunur ve Karadeniz'in yeşil örtüsünü oluşturan ormanlarla çevrilidir. Parkın coğrafi yapısı, ziyaretçilere çeşitli doğal güzellikler sunar. Buradaki ormanlar, zengin flora ve fauna ile dikkat çeker. Parkın bulunduğu bölge, Karadeniz ikliminin etkilerini taşır ve ziyaretçilere serin ve yağmurlu bir hava sunar. Sinop-Ayancik-Yenice Cinar, coğrafi çeşitliliği ile dikkat çeken bir bölgedir.
 
 ## Flora ve Fauna
 

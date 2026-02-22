@@ -45,7 +45,7 @@ Kuzeydoğu'da yer alan Tosun Terzioğlu Bahçesi, 40.8906°K, 29.3772°D koordin
 
 Doğal güzellikleri ile dikkat çeken bu bahçe, coğrafi olarak ilgi çekici bir bölgede yer alıyor. 1200 hektarlık bir alanı kaplayan bahçe, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Bu geniş alan, ziyaretçilere doğayı keşfetme fırsatı sunuyor. Bahçenin büyüklüğü, Monaco'nun yarısı kadar bir alanı kaplıyor, bu da ziyaretçilere geniş bir alan sunuyor.
 
-Mevsimsel özellikler açısından bakıldığında, Tosun Terzioğlu Bahçesi, İstanbul'un genel iklim karakterini paylaşıyor. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve nemli bir hava hakim. Bu mevsimsel değişimler, bahçenin flora ve fauna açısından zenginleşmesine katkıda bulunuyor. Ziyaretçiler, her mevsim farklı bir güzelliğe şahit olabiliyor.
+Mevsimsel özellikler açısından bakıldığında, Tosun Terzioğlu Bahçesi, İstanbul'un genel iklim karakterini paylaşıyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve nemli bir hava hakim. Bu mevsimsel değişimler, bahçenin flora ve fauna açısından zenginleşmesine katkıda bulunuyor. Ziyaretçiler, her mevsim farklı bir güzelliğe şahit olabiliyor.
 
 Çevresel açıdan bakıldığında, Tosun Terzioğlu Bahçesi, komşu alanlar ve su kaynakları ile önemli bir ekosistem bağlantıları ağına sahip. Bahçe, yakın çevresindeki su kaynakları ile birlikte, yerel flora ve fauna için önemli bir yaşam alanı oluşturuyor. Bu bağlantı, bahçenin doğal güzelliğini korumasına ve ziyaretçilere zengin bir doğa deneyimi sunmasına katkıda bulunuyor.
 

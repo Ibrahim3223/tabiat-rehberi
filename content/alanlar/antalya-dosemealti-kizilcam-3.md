@@ -30,7 +30,7 @@ Antalya-Döşemealtı Kızılçam 3 milli parkının tarihi geçmişi, yüzyıll
 
 ## Coğrafya
 
-Antalya-Döşemealtı Kızılçam 3 milli parkı, Akdeniz Bölgesi'nin güneyinde, Antalya ilinin sınırları içerisinde bulunmaktadır. Parkın coğrafi konumu, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet sunar. Bu bölge, çeşitli coğrafi özelliklere sahip olup, deniz seviyesinden yüksekliği 100-500 metre arasında değişmektedir. Parkın iklimi, Akdeniz ikliminin Characteristics özelliklerine sahiptir; yani, yazları sıca ve kurak, kışları ılıman ve yağışlı geçer. Milli parkın coğrafi yapısı, ziyaretçilerine çeşitli bitki türleri ve fauna ile büyüleyici bir deneyimi sunar. Parkın içerisinde, çeşitli su kaynakları, yürüyüş yolculukları, piknik alanları ve doğa gözlem noktaları gibi birçok aktivite için uygun alanlar bulunmaktadır.
+Antalya-Döşemealtı Kızılçam 3 milli parkı, Akdeniz Bölgesi'nin güneyinde, Antalya ilinin sınırları içerisinde bulunmaktadır. Parkın coğrafi konumu, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet sunar. Bu bölge, çeşitli coğrafi özelliklere sahip olup, deniz seviyesinden yüksekliği 100-500 metre arasında değişmektedir. Parkın iklimi, Akdeniz ikliminin Characteristics özelliklerine sahiptir; yani, yazları sıcak ve kurak, kışları ılıman ve yağışlı geçer. Milli parkın coğrafi yapısı, ziyaretçilerine çeşitli bitki türleri ve fauna ile büyüleyici bir deneyimi sunar. Parkın içerisinde, çeşitli su kaynakları, yürüyüş yolculukları, piknik alanları ve doğa gözlem noktaları gibi birçok aktivite için uygun alanlar bulunmaktadır.
 
 ## Flora ve Fauna
 

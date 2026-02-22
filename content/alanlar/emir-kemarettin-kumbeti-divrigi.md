@@ -37,7 +37,7 @@ Emir Kemarettin Kümbeti, tarihi geçmişiyle dikkat çeker. Bu kümbet, yüzyı
 
 ## Coğrafya
 
-Emir Kemarettin Kümbeti, Sivas'ın İç Anadolu Bölgesi'nde yer alır. Bu bölge, coğrafi açıdan zengin bir çeşitlilik gösterir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresinde çeşitli bitki türleri bulunur. İklim olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bu coğrafi özellikler, bölgenin flora ve faunasını etkiler. Emir Kemarettin Kümbeti, bu coğrafi ortamın içinde yer alır ve ziyaretçilerine bu doğal güzelliği sunar. Çevresindeki dağlar, ovalar ve nehirler, bu bölgenin coğrafi çeşitliliğini gösterir.
+Emir Kemarettin Kümbeti, Sivas'ın İç Anadolu Bölgesi'nde yer alır. Bu bölge, coğrafi açıdan zengin bir çeşitlilik gösterir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresinde çeşitli bitki türleri bulunur. İklim olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu coğrafi özellikler, bölgenin flora ve faunasını etkiler. Emir Kemarettin Kümbeti, bu coğrafi ortamın içinde yer alır ve ziyaretçilerine bu doğal güzelliği sunar. Çevresindeki dağlar, ovalar ve nehirler, bu bölgenin coğrafi çeşitliliğini gösterir.
 
 ## Flora ve Fauna
 

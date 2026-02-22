@@ -36,7 +36,7 @@ Göndeliç Tepesi, yüzyıllar boyunca bölgede yaşayan halkın önemli bir par
 
 ## Coğrafya
 
-Göndeliç Tepesi, Karadeniz Bölgesi'nin Ordu ilinde yer alan bir tepe. Tepenin yüksekliği 1400 metre, çevresindeki arazinin ortalama yüksekliğinden yaklaşık 800 metre daha yüksek. Bölge, çeşitli bitki türleri ve hayvanlarla dolu. Tepenin etrafında, uzun bir mesafelik bir yürüyüş parkuru bulunmakta. Parkur, trekking ve doğa yürüyüşü için ideal. Tepenin iklimi, Karadeniz Bölgesi'nin genel iklimine benzer. Bölge, yaz aylarında serin ve yağışlı, kış aylarında soğu ve karlı. Tepenin coğrafi konumu, bölgenin flora ve fauna çeşitliliğiçin önemli.
+Göndeliç Tepesi, Karadeniz Bölgesi'nin Ordu ilinde yer alan bir tepe. Tepenin yüksekliği 1400 metre, çevresindeki arazinin ortalama yüksekliğinden yaklaşık 800 metre daha yüksek. Bölge, çeşitli bitki türleri ve hayvanlarla dolu. Tepenin etrafında, uzun bir mesafelik bir yürüyüş parkuru bulunmakta. Parkur, trekking ve doğa yürüyüşü için ideal. Tepenin iklimi, Karadeniz Bölgesi'nin genel iklimine benzer. Bölge, yaz aylarında serin ve yağışlı, kış aylarında soğuk ve karlı. Tepenin coğrafi konumu, bölgenin flora ve fauna çeşitliliğiçin önemli.
 
 ## Flora ve Fauna
 

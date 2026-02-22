@@ -36,7 +36,7 @@ Kumluğunbaşı Tepesi'nin tarihi geçmişi, yüzyıllar öncesine kadar uzanıy
 
 ## Coğrafya
 
-Kumluğunbaşı Tepesi, Kırşehir'in sınırları içerisinde yer alıyor. Bu tepe, İç Anadolu Bölgesi'nin coğrafi güzelliğini gözler önüne seren bir doğa harikasıdır. Yaklaşık 140 hektarlık bir alanı kapsayan Kumluğunbaşı Tepesi, coğrafi olarak zengin bir bölge. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşüyor. Kumluğunbaşı Tepesi, coğrafi güzelliğinin yanı sıra, iklimi ile de dikkat çekiyor. Bu tepe, İç Anadolu Bölgesi'nin karakteristik iklimini yansıtıyor. Burada, yaz aylarında sıca ve kurak bir iklim hüküm sürerken, kış aylarında soğu ve kar yağışlı bir iklim hüküm sürüyor. Kumluğunbaşı Tepesi, coğrafi güzelliği, iklimi ve doğal zenginliğiyle, ziyaretçilerini büyülüyor.
+Kumluğunbaşı Tepesi, Kırşehir'in sınırları içerisinde yer alıyor. Bu tepe, İç Anadolu Bölgesi'nin coğrafi güzelliğini gözler önüne seren bir doğa harikasıdır. Yaklaşık 140 hektarlık bir alanı kapsayan Kumluğunbaşı Tepesi, coğrafi olarak zengin bir bölge. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşüyor. Kumluğunbaşı Tepesi, coğrafi güzelliğinin yanı sıra, iklimi ile de dikkat çekiyor. Bu tepe, İç Anadolu Bölgesi'nin karakteristik iklimini yansıtıyor. Burada, yaz aylarında sıcak ve kurak bir iklim hüküm sürerken, kış aylarında soğuk ve kar yağışlı bir iklim hüküm sürüyor. Kumluğunbaşı Tepesi, coğrafi güzelliği, iklimi ve doğal zenginliğiyle, ziyaretçilerini büyülüyor.
 
 ## Flora ve Fauna
 

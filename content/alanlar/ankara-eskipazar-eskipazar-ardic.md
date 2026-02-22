@@ -30,7 +30,7 @@ Ankara-Eskipazar-Eskipazar-Ardıc'ın tarihi geçmişi, yüzyıllar boyunca şek
 
 ## Coğrafya
 
-Ankara-Eskipazar-Eskipazar-Ardıc, coğrafi olarak Internal Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Coğrafi olarak, bölgenin iklimi karasal iklim özellikleri gösteriyor. Yaz ayları sıca ve kurak, kış ayları soğu ve kar yağışlı geçiyor. Bölgenin coğrafi yapısı, çeşitli flora ve fauna türlerinin yaşamına olanak sağlıyor. Ziyaretçiler, bölgede yer alan dağlar, ormanlar ve nehirleri keşfedebilir, doğanın güzelliğini yakından görebilirler. Ayrıca, bölgenin coğrafi konumu, ziyaretçilerin yakın çevresini keşfetmesine olanak sağlıyor. Ankara-Eskipazar-Eskipazar-Ardıc, ziyaretçilerine zengin bir coğrafi çeşitlilik sunuyor.
+Ankara-Eskipazar-Eskipazar-Ardıc, coğrafi olarak Internal Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Coğrafi olarak, bölgenin iklimi karasal iklim özellikleri gösteriyor. Yaz ayları sıcak ve kurak, kış ayları soğuk ve kar yağışlı geçiyor. Bölgenin coğrafi yapısı, çeşitli flora ve fauna türlerinin yaşamına olanak sağlıyor. Ziyaretçiler, bölgede yer alan dağlar, ormanlar ve nehirleri keşfedebilir, doğanın güzelliğini yakından görebilirler. Ayrıca, bölgenin coğrafi konumu, ziyaretçilerin yakın çevresini keşfetmesine olanak sağlıyor. Ankara-Eskipazar-Eskipazar-Ardıc, ziyaretçilerine zengin bir coğrafi çeşitlilik sunuyor.
 
 ## Flora ve Fauna
 

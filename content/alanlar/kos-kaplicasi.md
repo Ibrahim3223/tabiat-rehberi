@@ -36,7 +36,7 @@ Kös Kaplıcası'nın tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bö
 
 ## Coğrafya
 
-Kös Kaplıcası, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, bozkır ikliminin hüküm sürdüğü bir alanda yer alıyor ve bu nedenle, kışları soğuk, yazları sıca ve kurak geçer. Kaplıca, doğal bir havza içinde yer almakta ve etrafı, çeşitli bitki türleriyle dolu yeşil alanlarla çevrilidir. Bu şifalı su kaynağı, yeraltı sularının yüzeye çıkmasıyla oluşmuş ve suların sıcaklığı, yıl boyunca değişmeden khong 40 derece civarında kalıyor. Kaplıcanın bulunduğu alan, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Bu doğal güzellikler, Kös Kaplıcası'nı, hem sağlık arayanların hem de doğa severlerin ziyaret edebileceği ideal bir destinasyon haline getiriyor.
+Kös Kaplıcası, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, bozkır ikliminin hüküm sürdüğü bir alanda yer alıyor ve bu nedenle, kışları soğuk, yazları sıcak ve kurak geçer. Kaplıca, doğal bir havza içinde yer almakta ve etrafı, çeşitli bitki türleriyle dolu yeşil alanlarla çevrilidir. Bu şifalı su kaynağı, yeraltı sularının yüzeye çıkmasıyla oluşmuş ve suların sıcaklığı, yıl boyunca değişmeden khong 40 derece civarında kalıyor. Kaplıcanın bulunduğu alan, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Bu doğal güzellikler, Kös Kaplıcası'nı, hem sağlık arayanların hem de doğa severlerin ziyaret edebileceği ideal bir destinasyon haline getiriyor.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Gürgendibi Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
 
 ## Coğrafya
 
-Gürgendibi Şelalesi, Rize ilinin Karadeniz Bölgesi'nde bulunan bir doğal güzelliktir. Bu şelale, 140 hektarlık bir yeşil alan içinde yer alıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Şelalenin etrafındaki ormanlık alan, çeşitli bitki türleri ve hayvanlarla dolu. Gürgendibi Şelalesi, Karadeniz Bölgesi'nin en güzel köşelerinden biri olarak biliniyor. Şelale, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor ve etrafındaki dağlarla birlikte muhteşem bir manzara sunuyor. Gürgendibi Şelalesi'ne ulaşım, Rize il merkezinden uzun bir mesafe uzaklıkta yer alıyor. Şelaleye giden yol, genellikle asfalt kaplı ve ziyaretçilerin kolayca ulaşabileceği bir güzergah sunuyor.
+Gürgendibi Şelalesi, Rize ilinin Karadeniz Bölgesi'nde bulunan bir doğal güzelliktir. Bu şelale, 140 hektarlık bir yeşil alan içinde yer alıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Şelalenin etrafındaki ormanlık alan, çeşitli bitki türleri ve hayvanlarla dolu. Gürgendibi Şelalesi, Karadeniz Bölgesi'nin en güzel köşelerinden biri olarak biliniyor. Şelale, yüksek bir konumda yer alıyor ve etrafındaki dağlarla birlikte muhteşem bir manzara sunuyor. Gürgendibi Şelalesi'ne ulaşım, Rize il merkezinden uzun bir mesafe uzaklıkta yer alıyor. Şelaleye giden yol, genellikle asfalt kaplı ve ziyaretçilerin kolayca ulaşabileceği bir güzergah sunuyor.
 
 ## Flora ve Fauna
 
@@ -51,5 +51,5 @@ Gürgendibi Şelalesi'ni ziyaret etmek, doğa severler ve fotoğrafçılar için
 - Gürgendibi Şelalesi, Rize ilinin en önemli doğal güzelliklerinden biridir
 - Şelale, 140 hektarlık bir yeşil alan içinde yer alır
 - Gürgendibi Şelalesi, Karadeniz Bölgesi'nin en güzel köşelerinden biri olarak biliniyor
-- Şelale, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır
+- Şelale, yüksek bir konumda yer alır
 - Gürgendibi Şelalesi'ne ulaşım, Rize il merkezinden uzun bir mesafe uzaklıkta yer alıyor

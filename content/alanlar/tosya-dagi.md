@@ -44,7 +44,7 @@ Doğal güzellikleri ile dikkat çeken Tosya Dağı, Kastamonu ilinin sınırlar
 
 Jeolojik açıdan incelendiğinde, Tosya Dağı'nın yapısı hakkında detaylı bilgi bulunmasa da, genel olarak Karadeniz Bölgesi'nin jeolojik yapısına benzerlik gösterdiği söylenebilir. Bu bölge, genellikle Paleozoi ve Mezozoik dönemlere ait kayaçlardan oluşuyor. Tosya Dağı'nın yüksekliği ve boyutları hakkında kesin bilgiler olmasa da, Karadeniz Bölgesi'nin genel yükseklik ortalamasına göre değerlendirilebilir.
 
-Mevsimsel açıdan bakıldığında, Tosya Dağı'nın iklim karakteri Karadeniz Bölgesi'nin genel iklimine benzerlik gösteriyor. Bu bölgede, yazlar genellikle serin ve yağışlı, kışlar ise soğu ve karlı geçiyor. Dağın yüksekliği ve coğrafi konumu, ikliminin oluşmasında önemli bir rol oynuyor. Tosya Dağı'nın eteklerinde ve çevresinde yer alan ovalar ve vadiler, mevsimsel olarak değişen hava koşullarına göre farklı ekosistemlere ev sahipliği yapıyor.
+Mevsimsel açıdan bakıldığında, Tosya Dağı'nın iklim karakteri Karadeniz Bölgesi'nin genel iklimine benzerlik gösteriyor. Bu bölgede, yazlar genellikle serin ve yağışlı, kışlar ise soğuk ve karlı geçiyor. Dağın yüksekliği ve coğrafi konumu, ikliminin oluşmasında önemli bir rol oynuyor. Tosya Dağı'nın eteklerinde ve çevresinde yer alan ovalar ve vadiler, mevsimsel olarak değişen hava koşullarına göre farklı ekosistemlere ev sahipliği yapıyor.
 
 Çevresel açıdan incelendiğinde, Tosya Dağı'nın komşu alanlar ve su kaynakları ile olan ilişkileri ön plana çıkıyor. Dağın eteklerinde yer alan akarsular ve göller, bölgenin su kaynaklarını oluşturuyor. Bu su kaynakları, bölgenin ekosistemine önemli katkılar sağlıyor ve Tosya Dağı'nın doğal güzelliklerinin korunmasına yardımcı oluyor.
 

@@ -38,7 +38,7 @@ Sakıp Sabancı Müzesi, 2002 yılında kurulmuştur. Müzenin temelleri, Sakıp
 
 ## Coğrafya
 
-Sakıp Sabancı Müzesi, İstanbul'un Sarıyer ilçesinde, Boğaziçi'nin güzel manzarasına sahip bir alanda yer almaktadır. Müze, Marmara Denizi'nin kıyısında, yaklaşık yüksek bir konumdate bir tepe üzerinde bulunmaktadır. Müzenin çevresi, yeşilliklerle kaplı bir alan olarak dikkat çekmektedir. Müze binası, modern mimari tarzda tasarlanmış ve yaklaşık 4200 metrekarelik bir alanı kaplamaktadır. Müzenin bahçesi, çeşitli bitki türleri ve ağaçlarla dolu bir yeşil alan olarak ziyaretçilere hizmet vermektedir. Müze, aynı zamanda Boğaziçi Köprüsü'ne ve İstanbul'un diğer önemli noktalarına yakın bir mesafede bulunmaktadır.
+Sakıp Sabancı Müzesi, İstanbul'un Sarıyer ilçesinde, Boğaziçi'nin güzel manzarasına sahip bir alanda yer almaktadır. Müze, Marmara Denizi'nin kıyısında, yüksek bir konumda bir tepe üzerinde bulunmaktadır. Müzenin çevresi, yeşilliklerle kaplı bir alan olarak dikkat çekmektedir. Müze binası, modern mimari tarzda tasarlanmış ve yaklaşık 4200 metrekarelik bir alanı kaplamaktadır. Müzenin bahçesi, çeşitli bitki türleri ve ağaçlarla dolu bir yeşil alan olarak ziyaretçilere hizmet vermektedir. Müze, aynı zamanda Boğaziçi Köprüsü'ne ve İstanbul'un diğer önemli noktalarına yakın bir mesafede bulunmaktadır.
 
 ## Flora ve Fauna
 

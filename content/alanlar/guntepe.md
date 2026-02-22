@@ -44,7 +44,7 @@ Doğunun güzelliğini keşfetmek isteyenler için Van ilinin dağlık bölgesin
 
 Fiziksel olarak Güntepe'nin boyutları hakkında detaylı bilgi olmasa da, 1200 hektarlık bir alan düşünüldüğünde, yaklaşık olarak Beşiktaş ilçesi kadar bir alanı kapladığı söylenebilir. Bu büyüklük, bölgenin geniş ve geniş bir alanı kapladığını gösterir. Jeolojik olarak, bölgenin yapısı ve şekli hakkında daha fazla bilgiye ihtiyaç duyulsa da, genel olarak dağlık bir arazi olduğu bilinmektedir.
 
-Yılın farklı mevsimlerinde Güntepe'nin iklimi değişkenlik gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise serin ve yağışlı bir hava hakimdir. Bu mevsimsel özellikler, bölgenin yüksek rakımlarda yer aldığını ve iklimin buna göre şekillendiğini gösterir. Hava durumu da bölgenin coğrafi konumuna göre değişkenlik gösterir ve dağlık arazide hava koşulları hızlı bir şekilde değişebilir.
+Yılın farklı mevsimlerinde Güntepe'nin iklimi değişkenlik gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise serin ve yağışlı bir hava hakimdir. Bu mevsimsel özellikler, bölgenin yüksek rakımlarda yer aldığını ve iklimin buna göre şekillendiğini gösterir. Hava durumu da bölgenin coğrafi konumuna göre değişkenlik gösterir ve dağlık arazide hava koşulları hızlı bir şekilde değişebilir.
 
 Çevresel açıdan bakıldığında, Güntepe'nin komşu alanlar ve su kaynakları ile bağlantılı bir ekosistem içinde yer aldığı söylenebilir. Bölge, Van Gölü'ne yakın bir konumda yer alır ve bu su kaynağı ile birlikte bir bütün olarak düşünülebilir. Ekosistem bağlantıları açısından, bölgenin flora ve fauna çeşitliliği de önemlidir ve bu çeşitlilik, bölgenin doğal güzelliğini ve önemini vurgular.
 

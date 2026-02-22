@@ -58,7 +58,7 @@ Bitki Örtüsü:
 Demir Dağı'nın flora'sı, ilkbaharın başlangıcında renkli çiçeklerle süslenir. step bölgesinin karakteristik bitkileri, kuraklığa adapte olmuş türler, dağ yamaçlarında ve zirvelerde alpin flora ile bir araya gelir. 
 
 Yaban Hayatı:
-Demir Dağı, çeşitli yaban hayvanlarına ev sahipliği yapar. Memeliler, dağların yükseklik zonlarında yaşamını sürdürürken, kuşlar mevsimsel olarak göç eder. Sürüngenler, step bölgesinin karakteristik türleri, dağların sıca ve kurak bölgelerinde yaşar. 
+Demir Dağı, çeşitli yaban hayvanlarına ev sahipliği yapar. Memeliler, dağların yükseklik zonlarında yaşamını sürdürürken, kuşlar mevsimsel olarak göç eder. Sürüngenler, step bölgesinin karakteristik türleri, dağların sıcak ve kurak bölgelerinde yaşar. 
 
 Ekolojik Değer:
 Demir Dağı, ekolojik olarak önemli bir bölgedir. Yükseklik zonları, alpin flora ve dağ hayvanları, bu dağ ekosisteminin değerini arttırır. Bu bölge, koruma altına alınmalıdır ki gelecek nesiller de bu doğal güzelliği deneyimleyebilsin.

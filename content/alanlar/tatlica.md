@@ -31,7 +31,7 @@ Tatlıca'nın tarihi geçmişi, yüzyıllar boyunca zengin bir kültürel mirasa
 
 ## Coğrafya
 
-Tatlıca, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklarla ve ormanlık alanlarla çevrilidir. 140 hektarlık alanı, çeşitli bitki türleriyle kaplıdır ve zengin bir fauna sahiptir. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bu mevsimsel değişimler, bölgenin doğal güzelliğini farklı bir boyuta taşır. Tatlıca, ziyaretçilerine dört mevsim boyunca farklı bir güzellik sunar. İlkbaharın renkleri, yazın sıcakklığı, sonbaharın mahsulü ve kışın karı, her mevsim ziyaretçilere farklı bir deneyimi sunar.
+Tatlıca, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklarla ve ormanlık alanlarla çevrilidir. 140 hektarlık alanı, çeşitli bitki türleriyle kaplıdır ve zengin bir fauna sahiptir. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu mevsimsel değişimler, bölgenin doğal güzelliğini farklı bir boyuta taşır. Tatlıca, ziyaretçilerine dört mevsim boyunca farklı bir güzellik sunar. İlkbaharın renkleri, yazın sıcakklığı, sonbaharın mahsulü ve kışın karı, her mevsim ziyaretçilere farklı bir deneyimi sunar.
 
 ## Flora ve Fauna
 

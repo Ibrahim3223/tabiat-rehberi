@@ -45,7 +45,7 @@ Güvercin Adası, İzmir'in kıyı şeridinde, 38.9361°K ve 26.8053°D koordina
 
 Doğal güzelliği ile dikkat çeken Güvercin Adası, yaklaşık bir şehir bloğu büyüklüğünde bir alana sahiptir. Ada'nın fiziksel yapısı, genel olarak kayalık bir araziye sahiptir ve bu özelliği, adayı diğer kıyı alanlarından ayırmaktadır. Ada'nın jeolojik yapısı, bölgenin genel jeolojisine benzerlik göstermektedir ve bu durum, adanın oluşumunda etkili olmuştur.
 
-İklim açısından bakıldığında, Güvercin Adası, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz ayları sıca ve kurak, kış ayları ise ılıman ve yağışlı geçer. Bu mevsimsel özellikler, adanın doğal yaşamına ve bitki örtüsüne şekil verir. Ada, yaz aylarında sıcaklığın 30 dereceye ulaştığı bir bölge olduğunu da unutmamak gerekir.
+İklim açısından bakıldığında, Güvercin Adası, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz ayları sıcak ve kurak, kış ayları ise ılıman ve yağışlı geçer. Bu mevsimsel özellikler, adanın doğal yaşamına ve bitki örtüsüne şekil verir. Ada, yaz aylarında sıcaklığın 30 dereceye ulaştığı bir bölge olduğunu da unutmamak gerekir.
 
 Ada'nın çevresel ilişkileri, komşu alanlar ve su kaynakları açısından önemlidir. İzmir Körfezi'ne yakın konumu, adanın su kaynakları bakımından zengin bir ekosisteme sahip olmasını sağlar. Ayrıca, adanın yakınında bulunan diğer adalar ve kıyı alanları, adanın doğal yaşamına katkıda bulunan önemli faktörlerdir. Bu ekosistem bağlantıları, adanın biyolojik çeşitliliğini destekler ve koruma altına alınmasını gerekli kılar.
 

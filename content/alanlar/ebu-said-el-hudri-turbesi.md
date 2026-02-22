@@ -37,7 +37,7 @@ Ebu Said El-Hudri Türbesi, yüzyıllar boyunca önemli bir dini ve kültürel m
 
 ## Coğrafya
 
-Ebu Said El-Hudri Türbesi, Marmara Bölgesi'nin en büyük şehirlerinden biri olan İstanbul'un Fatih ilçesinde yer alıyor. Bölge, coğrafi olarak Boğaziçi'nin güneyinde, Haliç'in batısında ve tarihi yarımada üzerinde bulunuyor. Türbenin bulunduğu yer, deniz seviyesinden yaklaşık yüksek bir konumdate ve çevresindeki tepe ve vadiler ile birlikte zengin bir coğrafi çeşitlilik sunuyor. İklim, genel olarak Karadeniz ve Akdeniz iklimleri arasında bir geçiş bölgesi olarak kabul ediliyor ve bu nedenle bölge, ılıman bir iklim özelliği gösteriyor. Çevre, tarihi eserler, camiler, kiliseler ve diğer dini yapılar ile birlikte önemli bir kültürel ve tarihi mirasa sahip. Ayrıca, bölgede çeşitli bitki türleri ve fauna bulunmakta olup, ekolojik açıdan da önemli bir bölge olarak kabul ediliyor.
+Ebu Said El-Hudri Türbesi, Marmara Bölgesi'nin en büyük şehirlerinden biri olan İstanbul'un Fatih ilçesinde yer alıyor. Bölge, coğrafi olarak Boğaziçi'nin güneyinde, Haliç'in batısında ve tarihi yarımada üzerinde bulunuyor. Türbenin bulunduğu yer, yüksek bir konumda ve çevresindeki tepe ve vadiler ile birlikte zengin bir coğrafi çeşitlilik sunuyor. İklim, genel olarak Karadeniz ve Akdeniz iklimleri arasında bir geçiş bölgesi olarak kabul ediliyor ve bu nedenle bölge, ılıman bir iklim özelliği gösteriyor. Çevre, tarihi eserler, camiler, kiliseler ve diğer dini yapılar ile birlikte önemli bir kültürel ve tarihi mirasa sahip. Ayrıca, bölgede çeşitli bitki türleri ve fauna bulunmakta olup, ekolojik açıdan da önemli bir bölge olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ Ebu Said El-Hudri Türbesi'ni ziyaret etmek, hem dini hem de kültürel açıdan
 - Ebu Said El-Hudri, Peygamber Efendimiz'in sahabesi olarak biliniyor
 - Türbe, yüzyıllar boyunca önemli bir dini merkez olarak hizmet vermiştir
 - Bölge, yaklaşık 140 hektarlık bir alanı kapsıyor
-- Türbenin bulunduğu yer, deniz seviyesinden yaklaşık yüksek bir konumdate
+- Türbenin bulunduğu yer, yüksek bir konumda
 - Bölgede, çeşitli bitki türleri ve fauna bulunmakta

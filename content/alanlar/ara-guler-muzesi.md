@@ -31,7 +31,7 @@ Ara Güler Müzesi, ünlü Türk fotoğraf sanatçısı Ara Güler'in hayatı ve
 
 ## Coğrafya
 
-Ara Güler Müzesi, İstanbul'un merkezinde, Marmara Bölgesi'nde bulunmaktadır. Müze, yaklaşık 140 hektarlık bir alanda kurulmuştur ve çevresinde çeşitli tarihi ve kültürel yapılar bulunmaktadır. Müzenin bulunduğu bölge, İstanbul'un en eski ve tarihi bölgelerinden biridir. Bu bölgede, çeşitli camiler, kiliseler, sinagoglar ve diğer tarihi yapılar bulunmaktadır. Ara Güler Müzesi, İstanbul'un kalbinde, Boğaziçi Köprüsü'ne yakın bir mesafede bulunmaktadır. Müze, deniz seviyesinden yaklaşık yüksek bir konumdate kurulmuş ve çevresinde çeşitli yeşillik alanları bulunmaktadır. Ara Güler Müzesi, İstanbul'un iklimine uygun olarak tasarlanmış ve içerisinde çeşitli iklimlendirme sistemleri bulunmaktadır.
+Ara Güler Müzesi, İstanbul'un merkezinde, Marmara Bölgesi'nde bulunmaktadır. Müze, yaklaşık 140 hektarlık bir alanda kurulmuştur ve çevresinde çeşitli tarihi ve kültürel yapılar bulunmaktadır. Müzenin bulunduğu bölge, İstanbul'un en eski ve tarihi bölgelerinden biridir. Bu bölgede, çeşitli camiler, kiliseler, sinagoglar ve diğer tarihi yapılar bulunmaktadır. Ara Güler Müzesi, İstanbul'un kalbinde, Boğaziçi Köprüsü'ne yakın bir mesafede bulunmaktadır. Müze, yüksek bir konumda kurulmuş ve çevresinde çeşitli yeşillik alanları bulunmaktadır. Ara Güler Müzesi, İstanbul'un iklimine uygun olarak tasarlanmış ve içerisinde çeşitli iklimlendirme sistemleri bulunmaktadır.
 
 ## Flora ve Fauna
 

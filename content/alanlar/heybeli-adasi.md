@@ -45,7 +45,7 @@ Güneşin batışının büyüleyici manzarasına sahne olan Heybeli Adası, Ant
 
 Doğal güzelliği ile dikkat çeken Heybeli Adası, coğrafi olarak küçük bir alan üzerine kurulu. Koordinatlarından anlaşılacağı gibi, ada bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu küçük alan, ziyaretçilere adanın her köşesini keşfetme fırsatı sunuyor. Ada'nın fiziksel yapısı, jeolojik açıdan ilgi çekici özellikler barındırıyor, ancak detaylı fiziksel veriler bulunmuyor.
 
-İklim açısından, Heybeli Adası Akdeniz ikliminin karakteristik özelliklerini taşıyor. Mevsimsel olarak, ada sıca ve kuru yaz ayları ile ılıman ve yağışlı kış ayları arasında değişen bir hava durumuna sahip. Bu iklim karakteri, adanın florası ve faunası üzerinde önemli bir etkiye sahip. Ziyaretçiler, ada'nın ikliminin sunduğu olanaklar ile birlikte, doğanın güzelliğini keşfetme fırsatı buluyor.
+İklim açısından, Heybeli Adası Akdeniz ikliminin karakteristik özelliklerini taşıyor. Mevsimsel olarak, ada sıcak ve kuru yaz ayları ile ılıman ve yağışlı kış ayları arasında değişen bir hava durumuna sahip. Bu iklim karakteri, adanın florası ve faunası üzerinde önemli bir etkiye sahip. Ziyaretçiler, ada'nın ikliminin sunduğu olanaklar ile birlikte, doğanın güzelliğini keşfetme fırsatı buluyor.
 
 Çevresel açıdan, Heybeli Adası Akdeniz'in zengin ekosistemine bağlı olarak yer alıyor. Ada, komşu alanlar ve su kaynakları ile bağlantılı olarak, bir dizi ekosistem bağlantıları içeriyor. Bu bağlantılar, adanın doğal güzelliğini koruma altına almak için önemli bir rol oynuyor. Ziyaretçiler, adanın çevresel ilişkilerini keşfederken, aynı zamanda doğal güzelliğinin korunmasına katkıda bulunma fırsatı buluyor.
 

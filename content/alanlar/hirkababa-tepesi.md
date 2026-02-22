@@ -36,7 +36,7 @@ Hırkababa Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu
 
 ## Coğrafya
 
-Hırkababa Tepesi, coğrafi olarak Karadeniz Bölgesi'nin karakteristik özelliklerini taşır. Bu tepe, yeşilin her tonuna sahip ormanlarla kaplıdır ve ziyaretçilerini, doğanın renk cümbüşü içinde bir yolculuğa davet eder. Hırkababa Tepesi'nin coğrafi yapısı, ziyaretçilere, trekking ve doğa yürüyüşü gibi olanaklar sunar. Bu tepe, aynı zamanda, çevredeki diğer doğal güzelliklere de yakın mesafededir. Hırkababa Tepesi, Karadeniz Bölgesi'nin coğrafi güzelliğini ve çeşitliliğini deneyimlemek isteyenler için ideal bir destinasyondur. Bu tepe, yaklaşık yüksek bir konumdate yer alır ve ziyaretçilerine, bölgenin panoramik manzarasını sunar.
+Hırkababa Tepesi, coğrafi olarak Karadeniz Bölgesi'nin karakteristik özelliklerini taşır. Bu tepe, yeşilin her tonuna sahip ormanlarla kaplıdır ve ziyaretçilerini, doğanın renk cümbüşü içinde bir yolculuğa davet eder. Hırkababa Tepesi'nin coğrafi yapısı, ziyaretçilere, trekking ve doğa yürüyüşü gibi olanaklar sunar. Bu tepe, aynı zamanda, çevredeki diğer doğal güzelliklere de yakın mesafededir. Hırkababa Tepesi, Karadeniz Bölgesi'nin coğrafi güzelliğini ve çeşitliliğini deneyimlemek isteyenler için ideal bir destinasyondur. Bu tepe, yüksek bir konumda yer alır ve ziyaretçilerine, bölgenin panoramik manzarasını sunar.
 
 ## Flora ve Fauna
 
@@ -51,5 +51,5 @@ Hırkababa Tepesi'ni ziyaret etmek, doğa severler için bir rüya gibi olabilir
 - Hırkababa Tepesi, Çorum'un en yüksek noktalarından biridir.
 - Bu tepe, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır.
 - Hırkababa Tepesi, ziyaretçilerine, trekking ve doğa yürüyüşü gibi olanaklar sunar.
-- Bu tepe, yaklaşık yüksek bir konumdate yer alır.
+- Bu tepe, yüksek bir konumda yer alır.
 - Hırkababa Tepesi, özellikle bahar ve yaz aylarında ziyaretçilerini, rengarenk bir manzara ile karşılar.

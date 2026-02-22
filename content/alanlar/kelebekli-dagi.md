@@ -41,7 +41,7 @@ Güneybatı Anadolu'nun kalbinde yer alan Kelebekli Dağı, 36.9313°K, 29.5742�
 
 Doğal güzelliği ile dikkat çeken Kelebekli Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu küçük ama önemli coğrafi oluşum, etrafındaki diğer dağlarla birlikte bir bütünü oluşturur. Kelebekli Dağı'nın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte değildir, ancak bu dağ, bölgenin jeolojik yapısını anlamak için önemli bir noktadır.
 
-Yıllık hava durumu verilerine bakıldığında, Kelebekli Dağı'nın iklim karakteri, Akdeniz ikliminin özelliklerini taşır. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumuna sahiptir. Bu mevsimsel özellikler, Kelebekli Dağı'nın flora ve fauna çeşitliliğini etkiler.
+Yıllık hava durumu verilerine bakıldığında, Kelebekli Dağı'nın iklim karakteri, Akdeniz ikliminin özelliklerini taşır. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumuna sahiptir. Bu mevsimsel özellikler, Kelebekli Dağı'nın flora ve fauna çeşitliliğini etkiler.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları, Kelebekli Dağı'nın çevresel ilişkilerini belirler. Bu dağ, etrafındaki diğer dağlarla birlikte, bölgenin su kaynaklarını oluşturan akarsuların ve nehirlerin kaynağını oluşturur. Bu su kaynakları, bölgenin flora ve fauna çeşitliliğini destekler ve Kelebekli Dağı'nın doğal güzelliğini korur.
 

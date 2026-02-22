@@ -37,7 +37,7 @@ wikidata_id: "Q135582413"
 
 ## Coğrafya
 
-Çandır Kümbeti, İç Anadolu Bölgesi'nin coğrafi olarak en güzel bölgelerinden biridir. Bu bölge, geniş ova ve dağlarla çevrili olup, iklimi karasal iklimdir. Yazları sıca ve kurak, kışları soğu ve kar yağışlıdır. Çandır Kümbeti, Yozgat ilinin Çandır ilçesinde yer alır ve il merkezine uzun bir mesafe uzaklıktadır. Bölge, geniş yeşil alanları, temiz suyu ve güzel plajı ile ziyaretçileri cezbeder. Çandır Kümbeti'nin coğrafi konumu, hem doğa severlerin hem de tatil yapmak isteyenlerin ilgisini çekmektedir. Burada, doğa yürüyüşleri, pikni ve diğer outdoor etkinlikler yapılabilmektedir.
+Çandır Kümbeti, İç Anadolu Bölgesi'nin coğrafi olarak en güzel bölgelerinden biridir. Bu bölge, geniş ova ve dağlarla çevrili olup, iklimi karasal iklimdir. Yazları sıcak ve kurak, kışları soğuk ve kar yağışlıdır. Çandır Kümbeti, Yozgat ilinin Çandır ilçesinde yer alır ve il merkezine uzun bir mesafe uzaklıktadır. Bölge, geniş yeşil alanları, temiz suyu ve güzel plajı ile ziyaretçileri cezbeder. Çandır Kümbeti'nin coğrafi konumu, hem doğa severlerin hem de tatil yapmak isteyenlerin ilgisini çekmektedir. Burada, doğa yürüyüşleri, pikni ve diğer outdoor etkinlikler yapılabilmektedir.
 
 ## Flora ve Fauna
 

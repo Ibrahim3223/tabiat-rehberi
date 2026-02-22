@@ -30,7 +30,7 @@ SULTANDAĞI_TP'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge
 
 ## Coğrafya
 
-SULTANDAĞI_TP, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Bölge, dağlık ve engebeli bir araziye sahip ve bu nedenle çeşitli bitki türleri ve hayvanlar için uygun bir yaşam alanı sunuyor. SULTANDAĞI_TP'nin coğrafi yapısı, ziyaretçilere farklı manzaralar ve deneyimler sunuyor. Bölge, iklim olarak karasal iklim özellikleri gösteriyor ve bu nedenle mevsimsel değişimler oldukça belirgin. Kış aylarında kar yağışı görülürken, yaz aylarında sıca ve kurak bir hava hüküm sürüyor. Bu mevsimsel değişimler, SULTANDAĞI_TP'nin flora ve faunasını çeşitlendirmekte ve ziyaretçilere her mevsim farklı bir güzellik sunuyor.
+SULTANDAĞI_TP, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Bölge, dağlık ve engebeli bir araziye sahip ve bu nedenle çeşitli bitki türleri ve hayvanlar için uygun bir yaşam alanı sunuyor. SULTANDAĞI_TP'nin coğrafi yapısı, ziyaretçilere farklı manzaralar ve deneyimler sunuyor. Bölge, iklim olarak karasal iklim özellikleri gösteriyor ve bu nedenle mevsimsel değişimler oldukça belirgin. Kış aylarında kar yağışı görülürken, yaz aylarında sıcak ve kurak bir hava hüküm sürüyor. Bu mevsimsel değişimler, SULTANDAĞI_TP'nin flora ve faunasını çeşitlendirmekte ve ziyaretçilere her mevsim farklı bir güzellik sunuyor.
 
 ## Flora ve Fauna
 

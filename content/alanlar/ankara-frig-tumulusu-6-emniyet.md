@@ -37,7 +37,7 @@ Ankara Frig Tümülüsü 6, Emniyet'in tarihi geçmişi, Frig uygarlığına kad
 
 ## Coğrafya
 
-Ankara Frig Tümülüsü 6, Emniyet, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak kurulmuştur. 140 hektarlık geniş bir alana yayılan bu tümülüs, bölgenin doğal güzelliklerini sunmaktadır. Tümülüsün çevresinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Ziyaretçiler, tümülüsün geniş alanında dolaşarak, çevreyi keşfedebilir ve doğanın güzelliklerini görebilirler. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşımaktadır. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, tümülüsün çevresi ve doğal güzellikleri hakkında bilgi edinmek için ziyaretçilere uygun bir ortam sağlar.
+Ankara Frig Tümülüsü 6, Emniyet, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak kurulmuştur. 140 hektarlık geniş bir alana yayılan bu tümülüs, bölgenin doğal güzelliklerini sunmaktadır. Tümülüsün çevresinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Ziyaretçiler, tümülüsün geniş alanında dolaşarak, çevreyi keşfedebilir ve doğanın güzelliklerini görebilirler. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşımaktadır. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, tümülüsün çevresi ve doğal güzellikleri hakkında bilgi edinmek için ziyaretçilere uygun bir ortam sağlar.
 
 ## Flora ve Fauna
 

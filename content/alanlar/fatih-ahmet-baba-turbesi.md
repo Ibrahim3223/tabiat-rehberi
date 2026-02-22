@@ -37,11 +37,11 @@ Fatih Ahmet Baba Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. 
 
 ## Coğrafya
 
-Fatih Ahmet Baba Türbesi, Elazığ'ın merkezinde, Doğu Anadolu Bölgesi'nde yer alır. Bölge, coğrafi olarak zengin bir çeşitlilik sunar. Türbenin etrafında, çeşitli bitkiler ve ağaçlar bulunur, ziyaretçilere dinlenebilecekleri bir ortam sunar. Bölgenin iklimi, karasal iklim özellikleri gösterir ve dört mevsim ayrı ayrı yaşanır. Kışlar soğu ve kar yağışlı, yazlar sıca ve kurudur. İlkbahar ve sonbahar mevsimleri, ılıman ve yağışlı geçer. Fatih Ahmet Baba Türbesi, ziyaretçilere, Elazığ'ın coğrafi güzelliklerini keşfetme fırsatı sunar. Türbenin yakınında, çeşitli doğal güzellikler bulunur, ziyaretçilere, doğayı keşfetme fırsatı sunar.
+Fatih Ahmet Baba Türbesi, Elazığ'ın merkezinde, Doğu Anadolu Bölgesi'nde yer alır. Bölge, coğrafi olarak zengin bir çeşitlilik sunar. Türbenin etrafında, çeşitli bitkiler ve ağaçlar bulunur, ziyaretçilere dinlenebilecekleri bir ortam sunar. Bölgenin iklimi, karasal iklim özellikleri gösterir ve dört mevsim ayrı ayrı yaşanır. Kışlar soğuk ve kar yağışlı, yazlar sıcak ve kurudur. İlkbahar ve sonbahar mevsimleri, ılıman ve yağışlı geçer. Fatih Ahmet Baba Türbesi, ziyaretçilere, Elazığ'ın coğrafi güzelliklerini keşfetme fırsatı sunar. Türbenin yakınında, çeşitli doğal güzellikler bulunur, ziyaretçilere, doğayı keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
-Fatih Ahmet Baba Türbesi'nin etrafında, çeşitli bitkiler ve ağaçlar bulunur. Bu bölgede, mevsimsel değişimlere göre, farklı bitkiler ve ağaçlar yetişir. İlkbahar mevsiminde, etraf, yeşillenir ve çeşitli çiçekler açar. Yaz mevsiminde, sıca ve kurak hava, bitkilerin büyümesini etkiler. Sonbahar mevsiminde, yaprakların dökülmesi, bölgenin rengini değiştirir. Kış mevsiminde, kar yağışları, bölgeyi beyaz bir örtüye bürür. Fatih Ahmet Baba Türbesi, ziyaretçilere, Elazığ'ın flora ve faunasını keşfetme fırsatı sunar. Türbenin yakınında, çeşitli hayvanlar bulunur, ziyaretçilere, yaban hayatını keşfetme fırsatı sunar.
+Fatih Ahmet Baba Türbesi'nin etrafında, çeşitli bitkiler ve ağaçlar bulunur. Bu bölgede, mevsimsel değişimlere göre, farklı bitkiler ve ağaçlar yetişir. İlkbahar mevsiminde, etraf, yeşillenir ve çeşitli çiçekler açar. Yaz mevsiminde, sıcak ve kurak hava, bitkilerin büyümesini etkiler. Sonbahar mevsiminde, yaprakların dökülmesi, bölgenin rengini değiştirir. Kış mevsiminde, kar yağışları, bölgeyi beyaz bir örtüye bürür. Fatih Ahmet Baba Türbesi, ziyaretçilere, Elazığ'ın flora ve faunasını keşfetme fırsatı sunar. Türbenin yakınında, çeşitli hayvanlar bulunur, ziyaretçilere, yaban hayatını keşfetme fırsatı sunar.
 
 ## Ziyaret Bilgileri
 

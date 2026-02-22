@@ -30,7 +30,7 @@ Bozpirnal Mesesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu böl
 
 ## Coğrafya
 
-Bozpirnal Mesesi, Akdeniz Bölgesi'nin Finike ilçesinde yer alıyor. 140 hektarlık bu geniş alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Milli parkın coğrafi yapısı, ziyaretçilerine farklı doğal güzellikler sunuyor. Alanın büyük bir kısmı ormanlık arazilerden oluşuyor ve bu ormanlar, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Milli parkın iklimi, Akdeniz ikliminin özellikleri gösteriyor. Kışları ılıman, yazları sıca ve kurak olan bu iklim, ziyaretçilere yıl boyunca ziyaret imkanı sunuyor. Çevre düzenlemeleri de ziyaretçilerin rahatça gezebilmeleri için yapılmış. Yürüyüş yolları, piknik alanları ve gözlem noktaları, ziyaretçilerin doğal güzellikleri keşfetmesine yardımcı oluyor.
+Bozpirnal Mesesi, Akdeniz Bölgesi'nin Finike ilçesinde yer alıyor. 140 hektarlık bu geniş alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Milli parkın coğrafi yapısı, ziyaretçilerine farklı doğal güzellikler sunuyor. Alanın büyük bir kısmı ormanlık arazilerden oluşuyor ve bu ormanlar, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Milli parkın iklimi, Akdeniz ikliminin özellikleri gösteriyor. Kışları ılıman, yazları sıcak ve kurak olan bu iklim, ziyaretçilere yıl boyunca ziyaret imkanı sunuyor. Çevre düzenlemeleri de ziyaretçilerin rahatça gezebilmeleri için yapılmış. Yürüyüş yolları, piknik alanları ve gözlem noktaları, ziyaretçilerin doğal güzellikleri keşfetmesine yardımcı oluyor.
 
 ## Flora ve Fauna
 

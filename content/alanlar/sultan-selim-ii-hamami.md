@@ -37,7 +37,7 @@ Sultan Selim (II) Hamamı, tarihsel geçmişi ile dikkat çeker. Hamam, Osmanlı
 
 ## Coğrafya
 
-Sultan Selim (II) Hamamı, Konya'nın Karapınar ilçesinde yer alır. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Hamam ve plaj alanı, yaklaşık 140 hektarlık bir arazide kurulmuştur ve çevresinde çeşitli bitki türleri bulunur. İklim, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlı geçer. Bu coğrafi konum, ziyaretçilere hem tarihi bir hamamın atmosferini hem de plajın sunduğu olanakları deneyimleme fırsatı sunar. Sultan Selim (II) Hamamı, doğa ile iç içe bir konumu sahiptir ve ziyaretçilere zengin bir flora ve fauna sunar.
+Sultan Selim (II) Hamamı, Konya'nın Karapınar ilçesinde yer alır. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Hamam ve plaj alanı, yaklaşık 140 hektarlık bir arazide kurulmuştur ve çevresinde çeşitli bitki türleri bulunur. İklim, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçer. Bu coğrafi konum, ziyaretçilere hem tarihi bir hamamın atmosferini hem de plajın sunduğu olanakları deneyimleme fırsatı sunar. Sultan Selim (II) Hamamı, doğa ile iç içe bir konumu sahiptir ve ziyaretçilere zengin bir flora ve fauna sunar.
 
 ## Flora ve Fauna
 

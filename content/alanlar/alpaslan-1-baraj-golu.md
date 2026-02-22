@@ -43,7 +43,7 @@ Doğu Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Alpaslan-1 Baraj G
 
 Jeolojik açıdan incelendiğinde, Alpaslan-1 Baraj Gölü'nün çevresinde farklı türde kayaçlar ve topraklar görülmekte. Ancak, ayrıntılı fiziksel veriler bulunmaması nedeniyle, gölün boyutları ve jeolojik yapısı hakkında net bir bilgiye sahip değiliz. Buna rağmen, gölün bulunduğu bölge, genel olarak dağlık ve engebeli bir coğrafyaya sahip. Bu coğrafya, gölün su seviyesini ve çevresindeki ekosistemi etkileyen önemli faktörlerden biri.
 
-Mevsimsel olarak incelendiğinde, Alpaslan-1 Baraj Gölü'nün bulunduğu bölge, karasal iklimin karakteristik özelliklerini göstermekte. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakim. Bu mevsimsel değişimler, gölün su seviyesini ve çevresindeki bitki örtüsünü etkilemekte. Gölün su seviyesi, yaklaşık olarak Taksim Meydanı'nın 10 katı büyüklüğünde bir alanı kaplıyor.
+Mevsimsel olarak incelendiğinde, Alpaslan-1 Baraj Gölü'nün bulunduğu bölge, karasal iklimin karakteristik özelliklerini göstermekte. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakim. Bu mevsimsel değişimler, gölün su seviyesini ve çevresindeki bitki örtüsünü etkilemekte. Gölün su seviyesi, yaklaşık olarak Taksim Meydanı'nın 10 katı büyüklüğünde bir alanı kaplıyor.
 
 Gölün çevresinde, farklı türde bitki ve hayvan türleri yaşamakta. Alpaslan-1 Baraj Gölü, bölgenin ekosistemini destekleyen önemli bir su kaynağı olarak görev yapmakta. Gölün su kaynakları, bölgedeki diğer su kaynakları ile bağlantılı ve bu bağlantılar, gölün çevresindeki ekosistemi etkilemekte. Monaco'nun yaklaşık olarak yarısı büyüklüğünde olan bu göl, bölgenin doğal güzelliklerini korumak için önemli bir rol oynamakta.
 

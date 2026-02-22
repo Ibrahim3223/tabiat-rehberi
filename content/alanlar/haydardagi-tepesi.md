@@ -36,7 +36,7 @@ Haydardağı Tepesi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taş�
 
 ## Coğrafya
 
-Haydardağı Tepesi, Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyan bir bölge. Bu tepe, 140 hektarlık geniş bir alanı kapsıyor. Tepenin yüksekliği, ziyaretçilere bölgeyi panoramik olarak izleme fırsatı sunuyor. Akdeniz ikliminin hüküm sürdüğü bu bölge, sıca ve kuru yazlar ile ılık ve yağışlı kışlar görüyor. Haydardağı Tepesi, flora ve fauna açısından zengin bir bölge. Bu tepede, çeşitli bitki türleri ve hayvanlar yaşamlarını sürdürüyor. Tepenin coğrafi konumu, ziyaretçilere eşsiz bir doğa deneyimi sunuyor. Ziyaretçiler, bu tepeye çıkarak Akdeniz Bölgesi'nin güzelliğini yakından görebiliyor.
+Haydardağı Tepesi, Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyan bir bölge. Bu tepe, 140 hektarlık geniş bir alanı kapsıyor. Tepenin yüksekliği, ziyaretçilere bölgeyi panoramik olarak izleme fırsatı sunuyor. Akdeniz ikliminin hüküm sürdüğü bu bölge, sıcak ve kuru yazlar ile ılık ve yağışlı kışlar görüyor. Haydardağı Tepesi, flora ve fauna açısından zengin bir bölge. Bu tepede, çeşitli bitki türleri ve hayvanlar yaşamlarını sürdürüyor. Tepenin coğrafi konumu, ziyaretçilere eşsiz bir doğa deneyimi sunuyor. Ziyaretçiler, bu tepeye çıkarak Akdeniz Bölgesi'nin güzelliğini yakından görebiliyor.
 
 ## Flora ve Fauna
 

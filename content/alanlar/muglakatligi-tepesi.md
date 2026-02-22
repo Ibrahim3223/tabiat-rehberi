@@ -36,7 +36,7 @@ Muğlakatlığı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca bölgenin öne
 
 ## Coğrafya
 
-Muğlakatlığı Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir tepe. Tepenin etrafı, çeşitli bitki türleri ile çevrilidir ve zengin fauna yapısı ile dikkat çekmektedir. Bölge, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Tepenin yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdatedir ve bu nedenle, bölgeden Ege Denizi'ne ve çevredeki manzaraya hakim bir görünüm sunar. Muğlakatlığı Tepesi, aynı zamanda bölgenin iklimini etkileyen önemli bir faktördür. Bölge, genellikle ılıman bir iklimi sahip olup, yazları sıca ve kışları ılımandır.
+Muğlakatlığı Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir tepe. Tepenin etrafı, çeşitli bitki türleri ile çevrilidir ve zengin fauna yapısı ile dikkat çekmektedir. Bölge, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Tepenin yüksekliği, yüksek bir konumdadir ve bu nedenle, bölgeden Ege Denizi'ne ve çevredeki manzaraya hakim bir görünüm sunar. Muğlakatlığı Tepesi, aynı zamanda bölgenin iklimini etkileyen önemli bir faktördür. Bölge, genellikle ılıman bir iklimi sahip olup, yazları sıcak ve kışları ılımandır.
 
 ## Flora ve Fauna
 

@@ -46,7 +46,7 @@ Gölcük Gölü de, bu geniş tarihsel ve kültürel bağlam içinde yer alan bi
 
 Fiziksel olarak bakıldığında, Gölcük Gölü'nün tam olarak boyutları bilinmese de, koordinatlarından yola çıkarak çevredeki coğrafyayla ilişkisini kurma mümkün. Örneğin, Monaco'nun küçük bir devlet olduğunu düşünürsek, Gölcük Gölü'nün boyutları Monaco'nun yaklaşık %10'u kadar bir alanı kaplayabilir. Bu da, yaklaşık 1,5 kilometrelik bir alanın içinde yer aldığını gösteriyor.
 
-İklim açısından bakıldığında, Gölcük Gölü'nün bulunduğu bölge, Akdeniz ikliminin característicasını taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ılık ve yağışlı bir hava hakim. Bu mevsimsel değişiklikler, gölün su seviyesini ve çevresindeki bitki örtüsünü etkiliyor. Örneğin, Eiffel Kulesi'nin yüksekliğine kıyasla, çevredeki dağların yüksekliği yaklaşık 2-3 katı fazla olabilir, bu da gölün etrafındaki iklimi etkileyen önemli bir faktör.
+İklim açısından bakıldığında, Gölcük Gölü'nün bulunduğu bölge, Akdeniz ikliminin característicasını taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ılık ve yağışlı bir hava hakim. Bu mevsimsel değişiklikler, gölün su seviyesini ve çevresindeki bitki örtüsünü etkiliyor. Örneğin, Eiffel Kulesi'nin yüksekliğine kıyasla, çevredeki dağların yüksekliği yaklaşık 2-3 katı fazla olabilir, bu da gölün etrafındaki iklimi etkileyen önemli bir faktör.
 
 Gölcük Gölü'nün bulunduğu vadi, çevredeki dağlar ve diğer su kaynaklarıyla bağlantılı bir ekosistem içinde yer alıyor. Örneğin, Taksim Meydanı'nın 10 katı büyüklüğünde bir alana yayılan bu vadi, birçok bitki ve hayvan türüne ev sahipliği yapıyor. Bu ekosistem, Gölcük Gölü'nün su kalitesini ve çevresindeki doğal yaşamı etkileyen önemli bir faktör.
 

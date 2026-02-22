@@ -36,7 +36,7 @@ Doğanlar Tepesi'nin tarihi geçmişi hakkındalı bilgiler bulunmuyor. Ancak, b
 
 ## Coğrafya
 
-Doğanlar Tepesi, Antalya'nın Akdeniz Bölgesi'nde yer alıyor. Bu tepe, 140 hektarlık geniş bir alan üzerine kurulu ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Tepenin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Bölge, Akdeniz ikliminin etkisi altında ve bu nedenle sıca ve kuru yazlar, ılık ve yağışlı kışlar yaşıyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölge, doğal güzelliği ile dikkat çekiyor.
+Doğanlar Tepesi, Antalya'nın Akdeniz Bölgesi'nde yer alıyor. Bu tepe, 140 hektarlık geniş bir alan üzerine kurulu ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Tepenin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Bölge, Akdeniz ikliminin etkisi altında ve bu nedenle sıcak ve kuru yazlar, ılık ve yağışlı kışlar yaşıyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölge, doğal güzelliği ile dikkat çekiyor.
 
 ## Flora ve Fauna
 

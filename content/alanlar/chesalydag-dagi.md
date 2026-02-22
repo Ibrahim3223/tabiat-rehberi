@@ -52,7 +52,7 @@ Chesalydag Dağı, step bitki örtüsü ve bozkırın hakim olduğu bir dağ eko
 
 İlkbaharda, dağ yamaçları renkli çiçeklerle donanır. Step bitkileri, kuraklığa adapte olmuş türler, bu mevsimde en güzel hallerini gösterir. 
 
-Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Göçmen kuşlar, sonbaharda dağları ziyaret eder ve buradaki kaynaklardan yararlanırlar. Memeliler, dağların yüksek kesimlerinde, alpin çayırlarda yaşar. Sürüngenler, step bitki örtüsünün hakim olduğu alanlarda, sıca ve kuru koşullara adapte olarak yaşamlarını sürdürür. 
+Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Göçmen kuşlar, sonbaharda dağları ziyaret eder ve buradaki kaynaklardan yararlanırlar. Memeliler, dağların yüksek kesimlerinde, alpin çayırlarda yaşar. Sürüngenler, step bitki örtüsünün hakim olduğu alanlarda, sıcak ve kuru koşullara adapte olarak yaşamlarını sürdürür. 
 
 Chesalydag Dağı, ekolojik değerini koruma altına almak için önemli bir alandır. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve doğal dengesini korumak için hayati önem taşır.
 

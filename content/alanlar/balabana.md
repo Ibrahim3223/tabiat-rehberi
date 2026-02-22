@@ -37,7 +37,7 @@ Balabana milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
 
 ## Coğrafya
 
-Balabana milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, çeşitli bitki türleri ve hayvanlarla doludur. Parkın coğrafi yapısı, ziyaretçilere birçok farklı peyzaj sunar. Burada, geniş otlaklar, ormanlık alanlar ve su kaynakları bulunur. Bu çeşitlilik, birçok canlıyaşam alanı sağlar. Balabana'nın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kışlar soğu ve karlı, yazlar ise sıcak ve kuru geçer. Bu mevsimsel değişimler, parkın flora ve faunasını etkiler. Parkın konumu, ziyaretçilere birçok farklı manzara sunar. Burada, geniş düzlükler, tepeler ve vadiler bulunur. Bu coğrafi çeşitlilik, Balabana'yı ziyaret etmek için birçok neden sunar.
+Balabana milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, çeşitli bitki türleri ve hayvanlarla doludur. Parkın coğrafi yapısı, ziyaretçilere birçok farklı peyzaj sunar. Burada, geniş otlaklar, ormanlık alanlar ve su kaynakları bulunur. Bu çeşitlilik, birçok canlıyaşam alanı sağlar. Balabana'nın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuru geçer. Bu mevsimsel değişimler, parkın flora ve faunasını etkiler. Parkın konumu, ziyaretçilere birçok farklı manzara sunar. Burada, geniş düzlükler, tepeler ve vadiler bulunur. Bu coğrafi çeşitlilik, Balabana'yı ziyaret etmek için birçok neden sunar.
 
 ## Flora ve Fauna
 

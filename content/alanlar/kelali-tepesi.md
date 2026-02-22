@@ -36,7 +36,7 @@ Kelali Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkları
 
 ## Coğrafya
 
-Kelali Tepesi, coğrafi olarak Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, genel olarak sıca ve kurak yazlar, ılıman ve yağışlı kışlar ile karakterize edilen Akdeniz ikliminin etkisindedir. Tepenin etrafındaki arazi, genellikle dağlık ve engebeli bir yapıya sahiptir. Bu coğrafi yapı, tepenin manzarasının eşsiz olmasını sağlıyor. Ziyaretçiler, buradan bakıldığında geniş bir alanı görebiliyor ve doğanın güzelliğini deneyimleyebiliyor. Kelali Tepesi, Burdur'un coğrafi çeşitliliğini ve güzelliğini temsil ediyor.
+Kelali Tepesi, coğrafi olarak Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, genel olarak sıcak ve kurak yazlar, ılıman ve yağışlı kışlar ile karakterize edilen Akdeniz ikliminin etkisindedir. Tepenin etrafındaki arazi, genellikle dağlık ve engebeli bir yapıya sahiptir. Bu coğrafi yapı, tepenin manzarasının eşsiz olmasını sağlıyor. Ziyaretçiler, buradan bakıldığında geniş bir alanı görebiliyor ve doğanın güzelliğini deneyimleyebiliyor. Kelali Tepesi, Burdur'un coğrafi çeşitliliğini ve güzelliğini temsil ediyor.
 
 ## Flora ve Fauna
 

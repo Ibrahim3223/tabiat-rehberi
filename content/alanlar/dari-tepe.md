@@ -43,7 +43,7 @@ Güneydoğu Anadolu Bölgesi'nin zengin coğrafyası içerisinde yer alan Dari T
 
 Dari Tepe'nin fiziksel yapısı hakkında detaylı bilgiler olmasa da, bu tepe Batman'ın genel coğrafi özelliklerini yansıtmaktadır. Bölge, genellikle dağlık ve engebeli arazilerden oluşmaktadır. Batman'ın toplam yüzölçümünün yaklaşık olarak 4.654 kilometrekare olduğu düşünülürse, Dari Tepe gibi tepeler bu geniş coğrafyanın önemli bir bileşenidir. Monaco'nun yaklaşık olarak 2 kilometrekarelik yüzölçümü düşünüldüğünde, Dari Tepe'nin boyutları hakkında fikir edinme mümkündür.
 
-İklim açısından bakıldığında, Dari Tepe ve çevresinin Güneydoğu Anadolu Bölgesi'nin karakteristik iklimini paylaştığı görülür. Bu bölgede yaz ayları sıca ve kurak, kış ayları ise soğu ve yağışlı geçer. Dari Tepe'nin yüksekliği, Eiffel Kulesi'nin yaklaşık 3 katı yükseklikte olan Ağrı Dağı gibi büyük dağlardan daha alçak olsa da, bölgenin iklimini etkileyen önemli faktörlerden biridir.
+İklim açısından bakıldığında, Dari Tepe ve çevresinin Güneydoğu Anadolu Bölgesi'nin karakteristik iklimini paylaştığı görülür. Bu bölgede yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçer. Dari Tepe'nin yüksekliği, Eiffel Kulesi'nin yaklaşık 3 katı yükseklikte olan Ağrı Dağı gibi büyük dağlardan daha alçak olsa da, bölgenin iklimini etkileyen önemli faktörlerden biridir.
 
 Çevresel açıdan, Dari Tepe'nin Batman Nehri gibi önemli su kaynaklarına yakınlığı dikkat çekicidir. Bu nehrin Dari Tepe'nin ekosistemini nasıl etkilediği hakkında detaylı bilgi olmasa da, bölgenin flora ve fauna çeşitliliğini desteklediğini söyleme mümkündür. Dari Tepe, Batman'ın doğal güzelliklerini koruma ve tanıtmak açısından önemli bir noktadır.
 

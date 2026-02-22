@@ -36,7 +36,7 @@ Karaanlı Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu tepe,
 
 ## Coğrafya
 
-Karaanlı Tepe, Mersin'in Akdeniz Bölgesi'nde yer alıyor. Bu tepe, 140 hektarlık bir alan kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tepe, bölgenin coğrafi yapısını etkileyen önemli bir nokta. Karaanlı Tepe'nin coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Tepe, Akdeniz ikliminin hüküm sürdüğü bir bölgede yer alıyor. Bu nedenle, tepeyi ziyaret edenler, sıca ve güneşli bir iklimle karşılaşıyor. Karaanlı Tepe, ziyaretçilerine doğal güzelliği, tarihi geçmişi ve coğrafi konumuyla birlikte bir gezi deneyimi sunuyor. Tepe, Mersin'in ve Akdeniz Bölgesi'nin önemli bir doğal ve coğrafi mirası olarak kabul ediliyor.
+Karaanlı Tepe, Mersin'in Akdeniz Bölgesi'nde yer alıyor. Bu tepe, 140 hektarlık bir alan kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tepe, bölgenin coğrafi yapısını etkileyen önemli bir nokta. Karaanlı Tepe'nin coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Tepe, Akdeniz ikliminin hüküm sürdüğü bir bölgede yer alıyor. Bu nedenle, tepeyi ziyaret edenler, sıcak ve güneşli bir iklimle karşılaşıyor. Karaanlı Tepe, ziyaretçilerine doğal güzelliği, tarihi geçmişi ve coğrafi konumuyla birlikte bir gezi deneyimi sunuyor. Tepe, Mersin'in ve Akdeniz Bölgesi'nin önemli bir doğal ve coğrafi mirası olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

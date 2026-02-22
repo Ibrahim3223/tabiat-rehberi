@@ -43,7 +43,7 @@ Güney nostro'nun güneşli tepelerinde yer alan Çobankara Tepe, 37.1900°K ve 
 
 Doğal güzelliği ile dikkat çeken Çobankara Tepe, bir olimpik atletizm pisti kadar uzunlukta bir alanı kaplıyor. Jeolojik açıdan incelendiğinde, tepe ve çevresinin kireçtaşı ve killi şist gibi farklı türdeki kayaçlardan oluştuğu görülüyor. Bu çeşitlilik, tepe ve çevresinin jeolojik geçmişini zenginleştiriyor.
 
-Mevsimlik değişimlere göre şekillenen Çobankara Tepe'nin iklimi, Akdeniz ikliminin tipik özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakim. Bu mevsimsel değişimler, tepe ve çevresindeki flora ve fauna için önemli bir role sahip.
+Mevsimlik değişimlere göre şekillenen Çobankara Tepe'nin iklimi, Akdeniz ikliminin tipik özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakim. Bu mevsimsel değişimler, tepe ve çevresindeki flora ve fauna için önemli bir role sahip.
 
 Çevresel açıdan bakıldığında, Çobankara Tepe, komşu alanlarla birlikte bir bütünü oluşturuyor. Yakındaki su kaynakları, tepe ve çevresindeki ekosistemi besliyor ve canlıların yaşamını sürdürmesine yardımcı oluyor. Monaco'nun onda biri kadar bir alanı kaplayan bu tepe, bölgenin doğal güzelliğine önemli bir katkı sağlıyor.
 

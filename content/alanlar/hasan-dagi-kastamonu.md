@@ -45,7 +45,7 @@ Doğal güzellikleri ve coğrafi çeşitliliğiyle dikkat çeken Kastamonu'nun b
 
 Jeolojik açıdan incelendiğinde, Hasan Dağı'nın coğrafi yapısı hakkında detaylı bilgi bulunmasa da, bu bölgenin Türkiye'nin kuzeybatısında yer aldığını ve Karadeniz Bölgesi'nin coğrafi özelliklerini taşıdığını söyleyebiliriz. Bölgenin coğrafi yapısı, geniş orman alanları ve dağlık arazilerle karakterize ediliyor. Bu dağların arasında yer alan Hasan Dağı, bölgenin doğal güzelliklerini korumak amacıyla önemli bir role sahip.
 
-İklim açısından Hasan Dağı ve çevresinin Karadeniz ikliminin etkileri altında olduğu görülüyor. Bu bölgede, yaz aylarında serin ve yağışlı, kış aylarında ise soğu ve karlı bir hava hakim. Bölgenin iklim karakteri, bitki örtüsünü ve yaban hayatını etkiliyor. Hasan Dağı'nın eteklerinde ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşamlarını sürdürüyorlar.
+İklim açısından Hasan Dağı ve çevresinin Karadeniz ikliminin etkileri altında olduğu görülüyor. Bu bölgede, yaz aylarında serin ve yağışlı, kış aylarında ise soğuk ve karlı bir hava hakim. Bölgenin iklim karakteri, bitki örtüsünü ve yaban hayatını etkiliyor. Hasan Dağı'nın eteklerinde ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşamlarını sürdürüyorlar.
 
 Çevresel açıdan Hasan Dağı, bölgenin ekosistem dengesini korumakta önemli bir rol oynuyor. Dağın eteklerinde yer alan su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılamaktadır. Ayrıca, Hasan Dağı'nın bitki örtüsü, bölgenin atmosferini temizlemekte ve hava kalitesini korumaktadır. Bu doğal güzellikler, bölgenin turizm potansiyelini de artırmaktadır.
 

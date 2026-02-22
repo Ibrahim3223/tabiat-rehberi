@@ -36,7 +36,7 @@ Tavukdağ Tepesi, tarihi geçmişi ile dikkat çekmektedir. Bu tepe, yüzyıllar
 
 ## Coğrafya
 
-Tavukdağ Tepesi, coğrafi konumu itibariyle dikkat çekmektedir. Bu tepe, Erzurum'un merkezi bir konumda yer almakta ve şehrin önemli bir bölümünü kapsamı içine almaktadır. Tavukdağ Tepesi, etrafındaki dağlar ve ovalar ile birlikte bir bütünü oluşturmaktadır. Burada, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Tavukdağ Tepesi'nin iklimi, karasal iklim özellikleri göstermektedir. Kışlar soğu ve karlı, yazlar ise serin ve yağışlı geçmektedir. Bu tepe, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunmaktadır. İlkbahar ve yaz aylarında, Tavukdağ Tepesi'nin etrafında çeşitli çiçekler açmakta ve tepe, renkli bir manzaraya bürünmektedir. Sonbahar ve kış aylarında ise, tepe ve çevresinde kar yağmakta ve ziyaretçilere kışın güzelliğini sunmaktadır.
+Tavukdağ Tepesi, coğrafi konumu itibariyle dikkat çekmektedir. Bu tepe, Erzurum'un merkezi bir konumda yer almakta ve şehrin önemli bir bölümünü kapsamı içine almaktadır. Tavukdağ Tepesi, etrafındaki dağlar ve ovalar ile birlikte bir bütünü oluşturmaktadır. Burada, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Tavukdağ Tepesi'nin iklimi, karasal iklim özellikleri göstermektedir. Kışlar soğuk ve karlı, yazlar ise serin ve yağışlı geçmektedir. Bu tepe, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunmaktadır. İlkbahar ve yaz aylarında, Tavukdağ Tepesi'nin etrafında çeşitli çiçekler açmakta ve tepe, renkli bir manzaraya bürünmektedir. Sonbahar ve kış aylarında ise, tepe ve çevresinde kar yağmakta ve ziyaretçilere kışın güzelliğini sunmaktadır.
 
 ## Flora ve Fauna
 

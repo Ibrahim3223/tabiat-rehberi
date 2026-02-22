@@ -31,7 +31,7 @@ Antalya milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Antalya milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerine sahiptir. 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile dolu bir ekosistemdir. Parkın coğrafyası, ziyaretçilere geniş ve yeşil bir alan sunar. Antalya'nın coğrafi konumu, iklimini ve doğal kaynaklarını etkiler. Parkın çevresi, çeşitli dağlar ve ovalarla çevrilidir. Bu coğrafi özellikler, Antalya milli parkının güzelliğini ve çeşitliliğini artırır. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kışları soğuk, yazları sıca ve kurak bir iklimi vardır. Bu iklim, parkın flora ve faunasını etkiler.
+Antalya milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerine sahiptir. 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile dolu bir ekosistemdir. Parkın coğrafyası, ziyaretçilere geniş ve yeşil bir alan sunar. Antalya'nın coğrafi konumu, iklimini ve doğal kaynaklarını etkiler. Parkın çevresi, çeşitli dağlar ve ovalarla çevrilidir. Bu coğrafi özellikler, Antalya milli parkının güzelliğini ve çeşitliliğini artırır. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kışları soğuk, yazları sıcak ve kurak bir iklimi vardır. Bu iklim, parkın flora ve faunasını etkiler.
 
 ## Flora ve Fauna
 

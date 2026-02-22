@@ -44,7 +44,7 @@ Doğunun gizli köşesinde yer alan Tombulca Dağı, 39.7342°K ve 36.5283°D ko
 
 Jeolojik açıdan bakıldığında, Tombulca Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bu dağların genellikle bölgenin jeolojik geçmişini yansıttığı bilinir. Bu dağlar, milyonlarca yıllık tektonik hareketlerin ve erozyonun sonucu olarak şekillenmiştir. Tombulca Dağı, bir şehir bloğu büyüklüğünde bir alanı kaplar ve bu boyutu, etrafındaki geniş ovalarla karşılaştırıldığında nispeten küçük bir alan olarak görünür.
 
-İklim açısından, Tombulca Dağı ve çevresinin mevsimsel özellikleri, bölgenin iç Anadolu'nun karasal iklimine uygun olarak değişir. Kışlar soğu ve karlı, yazlar ise sıca ve kuru geçer. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini şekillendirmiş ve burada yaşayan canlılar, bu koşullara adapte olmuştur.
+İklim açısından, Tombulca Dağı ve çevresinin mevsimsel özellikleri, bölgenin iç Anadolu'nun karasal iklimine uygun olarak değişir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuru geçer. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini şekillendirmiş ve burada yaşayan canlılar, bu koşullara adapte olmuştur.
 
 Çevresel açıdan bakıldığında, Tombulca Dağı, komşu alanlar ve su kaynakları ile bağlantılı bir ekosistem içerisinde yer alır. Bu dağ, etraftaki diğer dağlar ve ovalarla birlikte bir bütünü oluşturur ve bu bölge, doğal güzellikleri ve zengin ekosistemiyle dikkat çeker. Tombulca Dağı, Monaco'nun yarısı kadar bir alanı kaplayan geniş bir bölgeye göre küçük gibi görünse de, bu dağların doğal güzelliği ve ekosistemdeki rolleri, bölgenin önemli bir parçasını oluşturur.
 

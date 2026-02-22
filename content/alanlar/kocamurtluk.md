@@ -30,7 +30,7 @@ Kocamurtluk milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiş
 
 ## Coğrafya
 
-Kocamurtluk milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Parkın coğrafyası, dağların, ormanların ve ovaların birleşmesiyle oluşur. 140 hektarlık yeşil alanı, ziyaretçilere geniş bir gezi alanı sunar. Milli parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bu iklim, parkın flora ve faunasının şekillenmesinde önemli bir rol oynar. Kocamurtluk'un coğrafi konumu, ziyaretçilere çeşitli gezi seçenekleri sunar. Ziyaretçiler, parkın doğal güzelliğini keşfederek, doğayla iç içe olabilirler. Milli parkın çevresi, çeşitli bitki türleri ve hayvanlarla doludur. Bu zengin flora ve fauna, ziyaretçilere doğanın güzelliğini göstererek, unutulmaz anlar yaratır.
+Kocamurtluk milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Parkın coğrafyası, dağların, ormanların ve ovaların birleşmesiyle oluşur. 140 hektarlık yeşil alanı, ziyaretçilere geniş bir gezi alanı sunar. Milli parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim, parkın flora ve faunasının şekillenmesinde önemli bir rol oynar. Kocamurtluk'un coğrafi konumu, ziyaretçilere çeşitli gezi seçenekleri sunar. Ziyaretçiler, parkın doğal güzelliğini keşfederek, doğayla iç içe olabilirler. Milli parkın çevresi, çeşitli bitki türleri ve hayvanlarla doludur. Bu zengin flora ve fauna, ziyaretçilere doğanın güzelliğini göstererek, unutulmaz anlar yaratır.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nde yer alan Bağıta Dağı, 36.8000° kuzey enlem
 
 Jeolojik açıdan bakıldığında, Bağıta Dağı'nın precisa fiziksel boyutları hakkında detaylı bilgi bulunmasa da, genel olarak dağlık bir bölgede yer aldığı söylenebilir. Bu bölge, Türkiye'nin güneydoğu kesiminde yer alan diğer dağlık alanlara benzerlik göstermektedir. Örneğin, bir şehir bloğu büyüklüğünde olan küçük bir alan, Bağıta Dağı'nın toplam alanı içerisinde küçük bir parçayı temsil edebilir.
 
-İklim açısından, Bağıta Dağı'nın bulunduğu bölge,Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, dağlık bölgede yer alan bitki örtüsünü ve vahşi yaşamı etkiler.
+İklim açısından, Bağıta Dağı'nın bulunduğu bölge,Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, dağlık bölgede yer alan bitki örtüsünü ve vahşi yaşamı etkiler.
 
 Doğal kaynaklar açısından, Bağıta Dağı'nın çevresinde, su kaynakları ve ekosistem bağlantıları bulunmaktadır. Dağın yakınında yer alan ovalar ve vadiler, su kaynaklarının biriktiği alanlardır. Bu su kaynakları, bölgedeki tarım ve hayvancılık faaliyetlerine katkıda bulunur. Ayrıca, dağlık bölgenin bitki örtüsü ve vahşi yaşamı, komşu alanlarla bağlantılı bir ekosistem oluşturur.
 

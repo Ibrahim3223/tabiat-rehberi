@@ -36,7 +36,7 @@ Küçüğün Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Küçüğün Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bölgenin iklimi, karasal iklim özellikleri göstermektedir. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirmiştir. Tepenin etrafında,historik yapılar ve kalıntılar bulunmaktadır. Bu yapılar, bölgenin coğrafi ve tarihi önemini vurgulamaktadır.
+Küçüğün Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bölgenin iklimi, karasal iklim özellikleri göstermektedir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirmiştir. Tepenin etrafında,historik yapılar ve kalıntılar bulunmaktadır. Bu yapılar, bölgenin coğrafi ve tarihi önemini vurgulamaktadır.
 
 ## Flora ve Fauna
 

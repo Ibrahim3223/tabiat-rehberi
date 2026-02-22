@@ -45,7 +45,7 @@ Marmara Denizi'nin sakin suları içinde yer alan Yassıada, İstanbul'un merkez
 
 Doğal güzelliği ile dikkat çeken Yassıada, yaklaşık olarak bir olimpik havuz kadar büyük bir alana sahip. Ada, genel olarak düz bir yapıya sahip ve yükseklik bakımından da oldukça alçak. Bu özelliği, ada üzerinde herhangi bir yüksek bina veya oluşumun bulunmamasıyla da ilişkili. Yassıada'nın jeolojik yapısı, genel olarak kaya ve taşlarla kaplı bir yüzeye sahip.
 
-İklim açısından bakıldığında, Yassıada İstanbul'un genel iklim koşullarını paylaşıyor. Kış aylarında serin ve yağışlı, yaz aylarında ise sıca ve nemli bir hava hakim. Bu mevsimsel özellikler, ada üzerinde çeşitli bitki türlerinin yetişmesine olanak sağlıyor. Ada, çevredeki suların etkisiyle de nemli bir hava koşullarına sahip.
+İklim açısından bakıldığında, Yassıada İstanbul'un genel iklim koşullarını paylaşıyor. Kış aylarında serin ve yağışlı, yaz aylarında ise sıcak ve nemli bir hava hakim. Bu mevsimsel özellikler, ada üzerinde çeşitli bitki türlerinin yetişmesine olanak sağlıyor. Ada, çevredeki suların etkisiyle de nemli bir hava koşullarına sahip.
 
 Çevresel açıdan, Yassıada Marmara Denizi'nin bir parçası olarak su kaynakları açısından zengin bir konumda bulunuyor. Ada, çevredeki adalar ve İstanbul'un kıyı şeridiyle birlikte bir ekosistem oluşturuyor. Bu ekosistem, çeşitli deniz canlıları ve kuş türleri için önemli bir habitat teşkil ediyor. Yassıada, doğal güzelliği ve çevresel önemiyle dikkat çeken bir alan olarak, İstanbul'un turisti ve ekolojik değerleri arasında yer alıyor.
 

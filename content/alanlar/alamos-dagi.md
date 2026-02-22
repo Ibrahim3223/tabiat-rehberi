@@ -44,7 +44,7 @@ Mersin'in doğal güzelliklerini keşfederken, Alamos Dağı ilk dikkat çeken y
 
 Jeolojik açıdan bakıldığında, Alamos Dağı'nın fiziksel yapısı oldukça ilginç. Veriler sınırlı olsa da, dağın konumunun ve şeklinin, bölgenin jeolojik geçmişini anlamak için önemli ipuçları sunduğu söylenebilir. Bu dağ, Mersin'in genel coğrafi yapısına bakıldığında, bir şehir bloğu büyüklüğünde gibi görünen, ancak aslında daha büyük bir alana yayılan bir oluşumun parçası.
 
-İklim açısından, Alamos Dağı ve çevresi, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Dağın yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte gibi düşünülürse, bu yükseklikte oluşan mikro iklimler, farklı türlerin yaşamına olanak sağlıyor.
+İklim açısından, Alamos Dağı ve çevresi, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Dağın yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte gibi düşünülürse, bu yükseklikte oluşan mikro iklimler, farklı türlerin yaşamına olanak sağlıyor.
 
 Çevresel açıdan, Alamos Dağı, komşu alanlarla ve su kaynaklarıyla önemli bağlantılar içeriyor. Bölgedeki ekosistem, dağın varlığından etkileniyor. Monaco'nun yarısı kadar bir alana yayılmayan, ancak önemli bir biyolojik çeşitliliğe sahip bu bölge, korunmaya değer doğal güzellikler barındırıyor. Alamos Dağı, Mersin'in doğal zenginliklerinin önemli bir parçasıdır ve bu nedenle, bölgenin ekolojik dengesini korumak için özel bir önem taşımaktadır.
 

@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Kartalkıracı Tepe, Diyarbak
 
 Doğal güzelliklerinin yanı sıra jeolojik yapısıyla da dikkat çeken Kartalkıracı Tepe, bölgenin tektonik hareketliliğininผลlarını taşır. Ancak, detaylı fiziksel veriler bulunmamasına rağmen, tepeyi çevreleyen coğrafi oluşumlar, bölgenin zengin jeolojik geçmişini yansıtır. Etrafındaki vadiler ve ovalar, tepe ile birlikte bir bütünü oluşturur ve bu oluşumlar, Monaco'nun yarısı kadar bir alanı kaplar.
 
-Kartalkıracı Tepe'nin iklimi, bölgenin genel iklim karakterine uygun olarak, yazları sıca ve kurak, kışları soğu ve yağışlı geçer. Eiffel Kulesi'nin 2 katı yükseklikteki bazı zirveler, bölgenin iklimini etkileyen önemli faktörlerdir. Mevsimsel değişimler, tepe ve çevresindeki flora ve fauna üzerinde önemli etkilere sahiptir.
+Kartalkıracı Tepe'nin iklimi, bölgenin genel iklim karakterine uygun olarak, yazları sıcak ve kurak, kışları soğuk ve yağışlı geçer. Eiffel Kulesi'nin 2 katı yükseklikteki bazı zirveler, bölgenin iklimini etkileyen önemli faktörlerdir. Mevsimsel değişimler, tepe ve çevresindeki flora ve fauna üzerinde önemli etkilere sahiptir.
 
 İki nehrin arasında konumlanan Kartalkıracı Tepe, çevresindeki su kaynakları ile bağlantılıdır. Taksim Meydanı'nın 5 katı büyüklüğünde olan bu tepe, bölgenin ekosistemini destekleyen önemli bir bileşendir. Çevresindeki diğer coğrafi oluşumlarla birlikte, Kartalkıracı Tepe, bölgenin doğal dengesini korur ve zengin biyolojik çeşitliliğini destekler.
 

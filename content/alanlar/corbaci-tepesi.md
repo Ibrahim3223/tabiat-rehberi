@@ -36,7 +36,7 @@ wikidata_id: "Q34819731"
 
 ## Coğrafya
 
-Çorbacı Tepesi, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, ormanlık ve dağlık bir araziye sahiptir. Bu tepe, 140 hektarlık geniş bir alana yayılmış olup, yaklaşık 200 futbol sahası büyüklüğündedir. Tepenin yüksekliği ve eğimli yapısı, ziyaretçilere farklı açılardan bölgeyi izleme fırsatı sunmaktadır. Çorbacı Tepesi'nin etrafı, çeşitli bitki türleri ve hayvanlarla dolu olan ormanlık alanlarla çevrilidir. Bu ormanlar, ilin iklimini ve ekolojisini etkileyen önemli bir bileşendir. Çorum'un iklimi, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır ve ılıman bir iklim hakimdir. Yaz ayları sıca ve nemli, kış ayları ise soğu ve yağışlı geçmektedir. Bu iklim, Çorbacı Tepesi'nin flora ve faunasının çeşitliliğini etkilemektedir.
+Çorbacı Tepesi, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, ormanlık ve dağlık bir araziye sahiptir. Bu tepe, 140 hektarlık geniş bir alana yayılmış olup, yaklaşık 200 futbol sahası büyüklüğündedir. Tepenin yüksekliği ve eğimli yapısı, ziyaretçilere farklı açılardan bölgeyi izleme fırsatı sunmaktadır. Çorbacı Tepesi'nin etrafı, çeşitli bitki türleri ve hayvanlarla dolu olan ormanlık alanlarla çevrilidir. Bu ormanlar, ilin iklimini ve ekolojisini etkileyen önemli bir bileşendir. Çorum'un iklimi, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır ve ılıman bir iklim hakimdir. Yaz ayları sıcak ve nemli, kış ayları ise soğuk ve yağışlı geçmektedir. Bu iklim, Çorbacı Tepesi'nin flora ve faunasının çeşitliliğini etkilemektedir.
 
 ## Flora ve Fauna
 

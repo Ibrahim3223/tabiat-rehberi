@@ -30,7 +30,7 @@ Erzurum-Oltu-Hisar Saricam milli parkının tarihi geçmişi, yüzyıllar önces
 
 ## Coğrafya
 
-Erzurum-Oltu-Hisar Saricam milli parkı, Doğu Anadolu Bölgesi'nde bulunmaktadır. Bu bölge, coğrafi olarak dağlık ve engebeli bir yapıya sahiptir. Milli park, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en büyük milli parklarından biri olarak dikkat çekmektedir. Burada, çeşitli bitki türleri ve zengin fauna bulunmaktadır. İklim olarak, karasal iklimin hüküm sürdüğü bu bölge, yazları sıca ve kurak, kışları ise soğu ve karlı geçmektedir. Milli park, doğal güzelliği ve coğrafi çeşitliliğiyle birlikte, ziyaretçilerine benzersiz bir deneyim sunmaktadır.
+Erzurum-Oltu-Hisar Saricam milli parkı, Doğu Anadolu Bölgesi'nde bulunmaktadır. Bu bölge, coğrafi olarak dağlık ve engebeli bir yapıya sahiptir. Milli park, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en büyük milli parklarından biri olarak dikkat çekmektedir. Burada, çeşitli bitki türleri ve zengin fauna bulunmaktadır. İklim olarak, karasal iklimin hüküm sürdüğü bu bölge, yazları sıcak ve kurak, kışları ise soğuk ve karlı geçmektedir. Milli park, doğal güzelliği ve coğrafi çeşitliliğiyle birlikte, ziyaretçilerine benzersiz bir deneyim sunmaktadır.
 
 ## Flora ve Fauna
 

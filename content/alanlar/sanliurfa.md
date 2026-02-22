@@ -31,7 +31,7 @@ wikidata_id: "Q108228759"
 
 ## Coğrafya
 
-Şanlıurfa, coğrafi olarak Güneydoğu Anadolu Bölgesi'nde yer alır. Bu bölgenin coğrafi yapısı, çeşitli bitki türleri ve yaban hayvanlarının yaşamasına olanak tanır. Şanlıurfa'nın iklimi, genellikle sıca ve kurudur, ancak bölgenin yüksek kesimlerinde daha serin bir iklim hüküm sürer. Şanlıurfa'nın coğrafi konumu, birçok farklı bitki türünün ve yaban hayvanının yaşamasına olanak tanır ve bölgenin doğal güzellikleri, ziyaretçileri cezbeder. Şanlıurfa'nın çevresi, birçok farklı doğal güzelliğe ev sahipliği yapar ve bu güzellikler, ziyaretçilerin bölgenin doğal zenginliklerini keşfetmesine yardımcı olur.
+Şanlıurfa, coğrafi olarak Güneydoğu Anadolu Bölgesi'nde yer alır. Bu bölgenin coğrafi yapısı, çeşitli bitki türleri ve yaban hayvanlarının yaşamasına olanak tanır. Şanlıurfa'nın iklimi, genellikle sıcak ve kurudur, ancak bölgenin yüksek kesimlerinde daha serin bir iklim hüküm sürer. Şanlıurfa'nın coğrafi konumu, birçok farklı bitki türünün ve yaban hayvanının yaşamasına olanak tanır ve bölgenin doğal güzellikleri, ziyaretçileri cezbeder. Şanlıurfa'nın çevresi, birçok farklı doğal güzelliğe ev sahipliği yapar ve bu güzellikler, ziyaretçilerin bölgenin doğal zenginliklerini keşfetmesine yardımcı olur.
 
 ## Flora ve Fauna
 

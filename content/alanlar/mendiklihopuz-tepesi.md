@@ -42,7 +42,7 @@ Güneydoğu Anadolu'nun en güneydeki köşesinde yer alan Mendiklihopüz Tepesi
 
 Doğal güzelliği ve coğrafi özellikleri ile dikkat çeken Mendiklihopüz Tepesi, çevresindeki diğer tepelerle birlikte bir bütünü oluşturmaktadır. Tepenin boyutları hakkında detaylı bilgi olmasa da, genel olarak Hatay ilinin dağlık yapısı içerisinde önemli bir yer tuttuğu söylenebilir. Bu dağlık yapı, Akdeniz ikliminin caracteristik özelliklerini gösterir ve mevsimsel değişikliklere açık bir bölgedir.
 
-Mendiklihopüz Tepesi'nin iklimi, Akdeniz ikliminin tipik özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakimdir. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini etkiler ve tepenin çevresindeki bitki örtüsünü şekillendirir. Tepenin yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadar bir yükseklikte olabilir, ancak bu bilgi kesin değildir.
+Mendiklihopüz Tepesi'nin iklimi, Akdeniz ikliminin tipik özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakimdir. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini etkiler ve tepenin çevresindeki bitki örtüsünü şekillendirir. Tepenin yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadar bir yükseklikte olabilir, ancak bu bilgi kesin değildir.
 
 Çevresel açıdan bakıldığında, Mendiklihopüz Tepesi, komşu alanlarla birlikte bir ekosistem oluşturmaktadır. Tepenin yakınında bulunan su kaynakları, bölgenin canlı yaşamını destekler ve ekosistemin dengesini korur. Tepenin boyutları, Monaco'nun küçük bir bölümü kadar olabilir, ancak bu karşılaştırma kesin bir veri değildir. Genellikle, bu tür tepelerin çevresindeki alanlar, Taksim Meydanı'nın birkaç katı büyüklüğünde olabilir, ancak bu da kesin bir veri değildir.
 

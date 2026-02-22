@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin doğusunda yer alan Yeşilbaba Dağı, 39.5206°K ve 
 
 Jeolojik açıdan bakıldığında, Yeşilbaba Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, dağların genel olarak yükse ve engebeli bir yapıya sahip olduğu bilinmektedir. Bu dağlar, genellikle geniş ve derin vadilerle birbirlerinden ayrılmaktadır. Yeşilbaba Dağı'nın boyu ve şekli hakkında somut veriler olmasa da, bölgenin genel coğrafyası, dağlık ve engebeli bir arazinin hakim olduğu bir bölge olduğunu göstermektedir.
 
-Mevsimsel özelliklere baktığımızda, Yeşilbaba Dağı'nın iklim karakteri, Doğu Anadolu Bölgesi'nin genel iklimine benzerlik gösterir. Bu bölgede, yazlar sıca ve kurak, kışlar ise soğu ve karlı geçer. Dağın yüksekliği, iklimin daha soğu ve karlı olmasına neden olabilir. Eiffel Kulesi'nin yaklaşık 5 katı yükseklikte olan bir dağ, bu bölgede oldukça önemli bir yer tutabilir.
+Mevsimsel özelliklere baktığımızda, Yeşilbaba Dağı'nın iklim karakteri, Doğu Anadolu Bölgesi'nin genel iklimine benzerlik gösterir. Bu bölgede, yazlar sıcak ve kurak, kışlar ise soğuk ve karlı geçer. Dağın yüksekliği, iklimin daha soğuk ve karlı olmasına neden olabilir. Eiffel Kulesi'nin yaklaşık 5 katı yükseklikte olan bir dağ, bu bölgede oldukça önemli bir yer tutabilir.
 
 Çevresel açıdan bakıldığında, Yeşilbaba Dağı, Tunceli ilinin diğer coğrafik özellikleriyle bağlantılıdır. Dağın yakınında, çeşitli su kaynakları ve ekosistemler bulunmaktadır. Bu su kaynakları, bölgenin flora ve faunası için önemli bir rol oynamaktadır. Monaco'nun yaklaşık yarısı kadar bir alanı kaplayabilen bu dağlık bölge, bölgenin doğal dengesini koruma açısından önemli bir görev üstlenmektedir.
 

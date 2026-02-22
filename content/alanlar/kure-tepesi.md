@@ -36,7 +36,7 @@ Kilis'in tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini
 
 ## Coğrafya
 
-Küre Tepesi, coğrafi olarak güneydoğu ankrajında yer alır ve Kilis'in önemli bir doğal varlığıdır. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir alanı kaplar. Coğrafi konumu itibariyle, ziyaretçilerine geniş bir görüş açısı sunar. Çevresindeki doğal güzellikler, flora ve fauna çeşitliliği, ziyaretçilerin dikkatini çeker. Bu bölge, coğrafi olarak Kilis'in güneydoğu kesiminde yer alır ve doğal güzellikleriyle dikkat çeker. İklim olarak, bu bölge genellikle sıca ve kurudur, ancak bazı mevsimlerde yağış görülür. Çevresindeki diğer doğal güzellikler, ziyaretçilere geniş bir gezi alanı sunar.
+Küre Tepesi, coğrafi olarak güneydoğu ankrajında yer alır ve Kilis'in önemli bir doğal varlığıdır. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir alanı kaplar. Coğrafi konumu itibariyle, ziyaretçilerine geniş bir görüş açısı sunar. Çevresindeki doğal güzellikler, flora ve fauna çeşitliliği, ziyaretçilerin dikkatini çeker. Bu bölge, coğrafi olarak Kilis'in güneydoğu kesiminde yer alır ve doğal güzellikleriyle dikkat çeker. İklim olarak, bu bölge genellikle sıcak ve kurudur, ancak bazı mevsimlerde yağış görülür. Çevresindeki diğer doğal güzellikler, ziyaretçilere geniş bir gezi alanı sunar.
 
 ## Flora ve Fauna
 

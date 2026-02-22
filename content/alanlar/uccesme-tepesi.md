@@ -36,7 +36,7 @@ wikidata_id: "Q34810170"
 
 ## Coğrafya
 
-Üççeşme Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, genellikle step ve bozkır gibi geniş alanlara sahip. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve fauna açısından zengin. Kayseri'nin iklimi, karasal iklim özellikleri gösteriyor; yani kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor. Tepenin yüksekliği, şehrin panoramik manzarasını sunuyor ve ziyaretçilere geniş bir görüş açısı sağlıyor. Tepenin eteklerinde, çeşitli su kaynakları bulunmakta ve bu kaynaklar, tepeye ayrı bir güzellik katıyor.
+Üççeşme Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, genellikle step ve bozkır gibi geniş alanlara sahip. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve fauna açısından zengin. Kayseri'nin iklimi, karasal iklim özellikleri gösteriyor; yani kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Tepenin yüksekliği, şehrin panoramik manzarasını sunuyor ve ziyaretçilere geniş bir görüş açısı sağlıyor. Tepenin eteklerinde, çeşitli su kaynakları bulunmakta ve bu kaynaklar, tepeye ayrı bir güzellik katıyor.
 
 ## Flora ve Fauna
 

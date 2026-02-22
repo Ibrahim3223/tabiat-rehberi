@@ -38,7 +38,7 @@ Akyokuş Tabiat Parkı, tarihi geçmişi ile dikkat çeker. Bu bölge, yüzyıll
 
 ## Coğrafya
 
-Akyokuş Tabiat Parkı, Konya'nın Meram ilçesinde bulunur ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Park, 140 hektarlık bir alana yayılır ve yaklaşık 200 futbol sahası büyüklüğündedir. Parkın coğrafi yapısı, geniş otlaklar ve ağaçlık alanlardan oluşur. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kuru geçer. Parkın çevresi, şehrin kalabalığından uzak bir konumda olup, doğa ile iç içe bir ortam sunar. Akyokuş Tabiat Parkı, ziyaretçilerine geniş yürüyüş yolları, oturmak için uygun alanlar ve doğayı seyretme fırsatı sunar.
+Akyokuş Tabiat Parkı, Konya'nın Meram ilçesinde bulunur ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Park, 140 hektarlık bir alana yayılır ve yaklaşık 200 futbol sahası büyüklüğündedir. Parkın coğrafi yapısı, geniş otlaklar ve ağaçlık alanlardan oluşur. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kuru geçer. Parkın çevresi, şehrin kalabalığından uzak bir konumda olup, doğa ile iç içe bir ortam sunar. Akyokuş Tabiat Parkı, ziyaretçilerine geniş yürüyüş yolları, oturmak için uygun alanlar ve doğayı seyretme fırsatı sunar.
 
 ## Flora ve Fauna
 

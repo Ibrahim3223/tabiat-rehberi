@@ -38,7 +38,7 @@ Dede Mahmud Türbesi'nin tarihi geçmişi, bölgenin önemli tarihi figürleri a
 
 ## Coğrafya
 
-Dede Mahmud Türbesi, Pasinler ilçesinde, Erzurum'un merkezine uzun bir mesafe uzaklıktadır. Türbenin bulunduğu alan, coğrafi olarak dağlık bir bölgede yer alır ve etrafı yeşilliklerle çevrilidir. İklim, genel olarak Doğu Anadolu Bölgesi'nin karakteristik soğu ve karasal iklimine uygundur. Kış ayları soğu ve karlı, yaz ayları ise serin ve yağışlı geçer. Türbenin bulunduğu bölgede, çeşitli bitki türleri ve fauna bulunur. Bu bölgede, özellikle yaz aylarında ziyaretçiler, doğanın güzelliğini ve tarihi değerleri bir arada deneyimleyebilirler. Dede Mahmud Türbesi, Pasinler'in coğrafi güzellikleri ve tarihi zenginliklerinin birleştiği önemli bir noktada yer alır.
+Dede Mahmud Türbesi, Pasinler ilçesinde, Erzurum'un merkezine uzun bir mesafe uzaklıktadır. Türbenin bulunduğu alan, coğrafi olarak dağlık bir bölgede yer alır ve etrafı yeşilliklerle çevrilidir. İklim, genel olarak Doğu Anadolu Bölgesi'nin karakteristik soğu ve karasal iklimine uygundur. Kış ayları soğuk ve karlı, yaz ayları ise serin ve yağışlı geçer. Türbenin bulunduğu bölgede, çeşitli bitki türleri ve fauna bulunur. Bu bölgede, özellikle yaz aylarında ziyaretçiler, doğanın güzelliğini ve tarihi değerleri bir arada deneyimleyebilirler. Dede Mahmud Türbesi, Pasinler'in coğrafi güzellikleri ve tarihi zenginliklerinin birleştiği önemli bir noktada yer alır.
 
 ## Flora ve Fauna
 

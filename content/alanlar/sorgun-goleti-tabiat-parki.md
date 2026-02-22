@@ -31,7 +31,7 @@ Sorgun Göleti Tabiat Parkı, tarihi geçmişi ile önemli bir doğal alan olara
 
 ## Coğrafya
 
-Sorgun Göleti Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş bir doğal alan. Parkın coğrafyası, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, geniş doğa yürüyüşleri için ideal bir ortam sunuyor. Parkın içinde yer alan Sorgun Göleti, su kuşlarının yaşadığı ve üreme alanı olarak bilinen önemli bir bölge. Göletin etrafında, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahip. Kış ayları soğu ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Parkın coğrafi konumu, ziyaretçiler için keyifli bir gezi deneyimi sunuyor.
+Sorgun Göleti Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş bir doğal alan. Parkın coğrafyası, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, geniş doğa yürüyüşleri için ideal bir ortam sunuyor. Parkın içinde yer alan Sorgun Göleti, su kuşlarının yaşadığı ve üreme alanı olarak bilinen önemli bir bölge. Göletin etrafında, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahip. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Parkın coğrafi konumu, ziyaretçiler için keyifli bir gezi deneyimi sunuyor.
 
 ## Flora ve Fauna
 

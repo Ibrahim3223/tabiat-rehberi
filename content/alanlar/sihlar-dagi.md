@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin doğusunda yer alan Şırnak ilinin dağlık ke
 
 Doğal güzellikleri ile dikkat çeken bu bölgede, Şıhlar Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, koordinatlarından hareketle, bu dağlık alanın bir şehir merkezinin hemen dışında, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kapladığı söylenebilir. Bu genişlik, bölgenin coğrafi çeşitliliğini ve zenginliğini göstermesi açısından önemli bir göstergedir.
 
-Mevsimsel değişimlerin belirgin olduğu bu coğrafyada, Şıhlar Dağı'nın iklim karakteri oldukça ilgi çekicidir. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklim yapısına sahiptir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler arasındadır.
+Mevsimsel değişimlerin belirgin olduğu bu coğrafyada, Şıhlar Dağı'nın iklim karakteri oldukça ilgi çekicidir. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklim yapısına sahiptir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler arasındadır.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları açısından da önemli bir role sahip olan Şıhlar Dağı, komşu alanlar ile birlikte bir bütün olarak değerlendirilmelidir. Monaco'nun yarısı kadar bir alanı kaplayan bu dağlık bölge, çevresindeki diğer coğrafi oluşumlar ile birlikte, bölgenin doğal dengesini sağlamaktadır. Bu doğal denge, bölgenin ekolojik zenginliğini korumanın anahtarıdır.
 

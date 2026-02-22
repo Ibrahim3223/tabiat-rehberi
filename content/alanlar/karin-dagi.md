@@ -42,7 +42,7 @@ Güneydeki Antalya'nın dağlık bölgesinde yer alan Karın Dağı, 37.1458°K,
 
 Doğal bir gözlem noktası olarak düşünüldüğünde, Karın Dağı'nın fiziksel yapısı, bölgenin jeolojik tarihini yansıtır. Ancak, detaylı fiziksel veriler bulunmamasına rağmen, bu dağlık alanın, bir şehir bloğu büyüklüğünde olan bir arazi parçasını kapladığı söylenebilir. Bu boyut, Karın Dağı'nın çevresindeki daha büyük dağlarla karşılaştırıldığında nispeten küçük bir alan olduğunu gösterir.
 
-Mevsimsel değişikliklere bakıldığında, Karın Dağı'nın iklim karakteri, Akdeniz ikliminin tipik özelliklerini taşır. Yaz aylarında sıca ve kuru, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürer. Bu iklim, bölgenin flora ve fauna çeşitliliğini destekler ve Karın Dağı, çevresindeki diğer dağlarla birlikte, zengin bir ekosistemi oluşturur.
+Mevsimsel değişikliklere bakıldığında, Karın Dağı'nın iklim karakteri, Akdeniz ikliminin tipik özelliklerini taşır. Yaz aylarında sıcak ve kuru, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürer. Bu iklim, bölgenin flora ve fauna çeşitliliğini destekler ve Karın Dağı, çevresindeki diğer dağlarla birlikte, zengin bir ekosistemi oluşturur.
 
 Çevresel açıdan, Karın Dağı, komşu dağlık alanlarla ve su kaynaklarıyla bağlantılıdır. Bu dağlık bölgede, yeraltı su kaynaklarının oluşumu ve yerüstü su akışının düzenlenmesi, bölgenin ekolojik dengesini korur. Bu nedenle, Karın Dağı, sadece bir coğrafi oluşum olarak değil, aynı zamanda bölgenin ekolojik bütünlüğü için önemli bir bileşen olarak görülebilir.
 

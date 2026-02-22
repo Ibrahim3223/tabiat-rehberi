@@ -30,7 +30,7 @@ Mugla-Dalaman Kızılçam milli parkının tarihi geçmişi, yüzyıllar boyunca
 
 ## Coğrafya
 
-Mugla-Dalaman Kızılçam milli parkı, coğrafi olarak zengin bir yapıya sahiptir. Parkın konumu, İç Anadolu Bölgesi'nde bulunuyor. Parkın coğrafi yapısı, dağlar, vadiler ve ovalardan oluşuyor. Parkın iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor. Parkın coğrafi çeşitliliği, farklı ekosistemlerin oluşmasına neden oluyor. Parkta, çeşitli bitki türleri ve hayvanlar yaşüyor. Parkın su kaynakları, nehirlere ve göllere sahip. Parkın coğrafi yapısı, ziyaretçilere doğanın güzelliğini ve çeşitliliğini deneyimleme fırsatı sunuyor.
+Mugla-Dalaman Kızılçam milli parkı, coğrafi olarak zengin bir yapıya sahiptir. Parkın konumu, İç Anadolu Bölgesi'nde bulunuyor. Parkın coğrafi yapısı, dağlar, vadiler ve ovalardan oluşuyor. Parkın iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Parkın coğrafi çeşitliliği, farklı ekosistemlerin oluşmasına neden oluyor. Parkta, çeşitli bitki türleri ve hayvanlar yaşüyor. Parkın su kaynakları, nehirlere ve göllere sahip. Parkın coğrafi yapısı, ziyaretçilere doğanın güzelliğini ve çeşitliliğini deneyimleme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

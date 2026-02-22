@@ -42,7 +42,7 @@ Türkiye'nin doğal alanları, tarihin her döneminde önemli bir rol oynamışt
 
 Jeolojik açıdan bakıldığında, Yasma Dağı'nın fiziksel yapısı hakkında detaylı bilgi olmasa da, coğrafi konumu itibariyle Türkiye'nin İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, genellikle geniş ovalar ve dağlık arazilerle tanımlanıyor. Yasma Dağı, bu coğrafi yapının bir parçası olarak, bölgenin jeolojik tarihine ışık tutuyor.
 
-Mevsimsel değişimlerin etkisi altında kalan Yasma Dağı, İç Anadolu Bölgesi'nin karakteristik iklim özelliklerini gösteriyor. Bu bölgede, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve kar yağışlı bir hava hüküm sürüyor. Yasma Dağı, bu mevsimsel özelliklerin yaşandığı bir coğrafyada yer alıyor ve bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini şekillendiriyor.
+Mevsimsel değişimlerin etkisi altında kalan Yasma Dağı, İç Anadolu Bölgesi'nin karakteristik iklim özelliklerini gösteriyor. Bu bölgede, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve kar yağışlı bir hava hüküm sürüyor. Yasma Dağı, bu mevsimsel özelliklerin yaşandığı bir coğrafyada yer alıyor ve bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini şekillendiriyor.
 
 Doğal kaynaklar ve ekosistem bağlantıları açısından, Yasma Dağı, çevresindeki diğer coğrafi oluşumlarla birlikte bir bütünü oluşturuyor. Su kaynakları, flora ve fauna çeşitliliği gibi çevresel faktörler, Yasma Dağı'nın doğal güzelliğini ve biyolojik zenginliğini destekleyen önemli unsurlar. Bu bölgenin korunması ve sürdürülebilir kullanımı, gelecek nesiller için önemli bir sorumluluk teşkil ediyor.
 

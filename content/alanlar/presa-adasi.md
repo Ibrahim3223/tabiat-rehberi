@@ -43,7 +43,7 @@ Görkemli bir manzaraya sahip Presa Adası, 39.9306°K, 26.0522°D koordinatlar�
 
 Jeolojik açıdan bakıldığında, Presa Adası'nın fiziksel yapısı hakkında detaylı bilgi olmasa da, adanın konumu itibariyle Çanakkale Boğazı'nın jeolojisine benzer özellikler taşıdığı söylenebilir. Bu bölgede, genellikle kireç taşı ve kumtaşı gibi kayaçlar görülür. Adanın boyutları hakkında net bir veri olmasa da, adanın bir şehir bloğu büyüklüğünde olduğunu varsayma mümkün. Bu boyut, adanın sakin ve doğal bir ortam sunabileceğini gösteriyor.
 
-Mevsimsel değişiklikler, Presa Adası'nın iklim karakterini şekillendiriyor. İlkbahar ve yaz aylarında, Ege Denizi'nin ılıman suları adayı sıca ve nemli bir havaya sahip oluyor. Kış aylarında ise, bölgenin soğu ve yağışlı havası hakim oluyor. Bu mevsimsel özellikler, adanın flora ve fauna çeşitliliğini etkiliyor.
+Mevsimsel değişiklikler, Presa Adası'nın iklim karakterini şekillendiriyor. İlkbahar ve yaz aylarında, Ege Denizi'nin ılıman suları adayı sıcak ve nemli bir havaya sahip oluyor. Kış aylarında ise, bölgenin soğuk ve yağışlı havası hakim oluyor. Bu mevsimsel özellikler, adanın flora ve fauna çeşitliliğini etkiliyor.
 
 Presa Adası, Çanakkale Boğazı'nın ekosistemine önemli katkılar sağlıyor. Adanın çevresindeki su kaynakları, çeşitli deniz canlıları için önemli bir yaşam alanı sunuyor. Ayrıca, adanın komşu alanları da bu ekosistemin bir parçası olarak, bölgenin doğal dengesini koruyor. Bu açıdan, Presa Adası, bölgenin çevreye duyarlı bir şekilde korunmasına katkıda bulunuyor.
 

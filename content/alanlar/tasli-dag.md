@@ -42,7 +42,7 @@ Coğrafi olarak Kütahya ilinin kalbinde yer alan Taşlı Dağ, 39.5650°K enlem
 
 Jeolojik açıdan bakıldığında, Taşlı Dağ'ın coğrafi yapısı hakkında detaylı bilgi olmasa da, Kütahya bölgesinin genel jeolojik özellikleri düşünüldüğünde, volkani ve sedimentatif kayaçların hakim olduğu bir bölge olduğu söylenebilir. Bu tür bir coğrafya, bölgenin jeolojik geçmişini ve oluşumunu anlamak için önemlidir. Örneğin, Kütahya'nın volkanik geçmişi, bölgenin jeolojik yapısını şekillendirmiştir.
 
-İklim açısından Taşlı Dağ, Kütahya'nın karasal ikliminin etkilerini taşır. Kışlar soğu ve kar yağışlı, yazlar ise sıca ve kurak geçer. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler. Örneğin, bölgede yetişen bitki türleri, mevsimsel değişimlere adapte olmak zorundadır.
+İklim açısından Taşlı Dağ, Kütahya'nın karasal ikliminin etkilerini taşır. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçer. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler. Örneğin, bölgede yetişen bitki türleri, mevsimsel değişimlere adapte olmak zorundadır.
 
 Doğal bir çekirdek olarak düşünülen Taşlı Dağ, çevresindeki ekosistemi destekler. Bölge, su kaynakları ve bitki örtüsü açısından zengin bir alandır. Kütahya'nın su kaynaklarına katkıda bulunan bu bölge, aynı zamanda bölgenin fauna çeşitliliğini de destekler. Örneğin, bölgede yaşayan hayvan türleri, su kaynaklarına ve bitki örtüsüne bağlı olarak yaşamlarını sürdürürler.
 

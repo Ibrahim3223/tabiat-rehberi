@@ -45,7 +45,7 @@ Pire Tepesi, zengin bir flora ve fauna ile ziyaretçilerini karşılıyor. Bu te
 
 ## Ziyaret Bilgileri
 
-Pire Tepesi'ni ziyaret etmek, doğa severler ve tarihe meraklı olanlar için bir zorunluluk. Bu tepenin etrafında, farklı yürüyüş parkurları ve noktaları yer alıyor. Pire Tepesi'ni ziyaret etmek için, en uygun zaman ilkbahar ve yaz ayları. Bu dönemde, hava daha sıca ve güneşli oluyor. Pire Tepesi'ne gitmek için, Kırklareli'nin merkezinden uzun bir mesafe uzaklıkta yer alan bir yolu kullanabilirsiniz.
+Pire Tepesi'ni ziyaret etmek, doğa severler ve tarihe meraklı olanlar için bir zorunluluk. Bu tepenin etrafında, farklı yürüyüş parkurları ve noktaları yer alıyor. Pire Tepesi'ni ziyaret etmek için, en uygun zaman ilkbahar ve yaz ayları. Bu dönemde, hava daha sıcak ve güneşli oluyor. Pire Tepesi'ne gitmek için, Kırklareli'nin merkezinden uzun bir mesafe uzaklıkta yer alan bir yolu kullanabilirsiniz.
 
 ## İlginç Bilgiler
 

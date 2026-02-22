@@ -45,7 +45,7 @@ Güneydoğu Anadolu Bölgesi'nin en güzel köşelerinden biri olan Menzelet Bar
 
 Doğal güzellikleri ve sakin atmosferi ile dikkat çeken Menzelet Baraj Gölü, bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu küçük ama şirin göl, çevresi ile birlikte yaklaşık bir olimpik atletizm pisti kadar bir alanı kapsıyor. Gölün jeolojik yapısı, 주 olarak kalker ve şist kayalardan oluşuyor, bu da suyun berraklığını ve güzelliğini artırıyor.
 
-Mevsimsel olarak değişen hava koşulları, Menzelet Baraj Gölü'nün iklim karakterini şekillendiriyor. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak olan hava, gölün su seviyesini ve canlı yaşamını etkiliyor. Gölün çevresi, genellikle çam ve meşe ağaçları ile kaplı, bu da gölün doğal güzelliğini artırıyor.
+Mevsimsel olarak değişen hava koşulları, Menzelet Baraj Gölü'nün iklim karakterini şekillendiriyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak olan hava, gölün su seviyesini ve canlı yaşamını etkiliyor. Gölün çevresi, genellikle çam ve meşe ağaçları ile kaplı, bu da gölün doğal güzelliğini artırıyor.
 
 Menzelet Baraj Gölü, çevresi ile birlikte bir bütün olarak düşünüldüğünde, Monaco'nun küçük bir bölümü kadar bir alanı kapsıyor. Göl, komşu alanlar ile birlikte bir ekosistem oluşturuyor ve su kaynakları ile bağlantılı. Gölün suyu, çevredeki dağlardan gelen akarsular ile besleniyor, bu da gölün canlı yaşamı için önemli bir kaynak oluyor.
 

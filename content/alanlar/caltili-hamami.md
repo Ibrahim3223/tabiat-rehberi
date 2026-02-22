@@ -37,7 +37,7 @@ wikidata_id: "Q133245872"
 
 ## Coğrafya
 
-Çaltılı Hamamı, Marmara Bölgesi'nin coğrafi güzelliği ile dikkat çekiyor. Bu bölge, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Çaltılı Hamamı, deniz seviyesinden yaklaşık yüksek bir konumdate bulunuyor. Bu bölgenin coğrafi yapısı, ziyaretçilerine çeşitli manzaralar sunuyor. Çaltılı Hamamı, çevredeki dağlarla çevrili ve bu da bu bölgenin coğrafi güzelliğini artırıyor. Bu bölgenin iklimi, genellikle ılıman ve ziyaretçilerine rahat bir gezi imkanı sunuyor. Çaltılı Hamamı, çevresi ile birlikte, ziyaretçilerine doğanın güzelliğini gösteriyor.
+Çaltılı Hamamı, Marmara Bölgesi'nin coğrafi güzelliği ile dikkat çekiyor. Bu bölge, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Çaltılı Hamamı, yüksek bir konumda bulunuyor. Bu bölgenin coğrafi yapısı, ziyaretçilerine çeşitli manzaralar sunuyor. Çaltılı Hamamı, çevredeki dağlarla çevrili ve bu da bu bölgenin coğrafi güzelliğini artırıyor. Bu bölgenin iklimi, genellikle ılıman ve ziyaretçilerine rahat bir gezi imkanı sunuyor. Çaltılı Hamamı, çevresi ile birlikte, ziyaretçilerine doğanın güzelliğini gösteriyor.
 
 ## Flora ve Fauna
 

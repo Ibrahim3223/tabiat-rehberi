@@ -44,7 +44,7 @@ Güney Ege'nin sakin sularında gizli bir hazine gibi duran Yamorgo adası, 36.8
 
 Doğal güzelliği ile dikkat çeken Yamorgo, fiziksel yapısı hakkında detaylı bilgiler bulunmamasına rağmen, Ege Denizi'nin diğer adalarına benzer özellikler taşıyor. Ada, muhtemelen volkanik kökenli bir yapıya sahip ve Ege Denizi'nin jeolojik geçmişini yansıtan bir oluşum. Boyutları küçük olsa da, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplayan Yamorgo, ziyaretçilerini sade ve doğal bir güzellikle karşılıyor.
 
-İklim açısından bakıldığında, Yamorgo adası tipik Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve kuru, kış aylarında ise ılık ve yağmurlu bir hava hakim. Ege Denizi'nin etkisini taşıyan bu iklim, adanın bitki örtüsünü ve vahşi yaşamını şekillendirmiş. Mevsimsel değişiklikler, adanın doğal güzelliğini her sezon farklı bir şekilde ortaya koyuyor.
+İklim açısından bakıldığında, Yamorgo adası tipik Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağmurlu bir hava hakim. Ege Denizi'nin etkisini taşıyan bu iklim, adanın bitki örtüsünü ve vahşi yaşamını şekillendirmiş. Mevsimsel değişiklikler, adanın doğal güzelliğini her sezon farklı bir şekilde ortaya koyuyor.
 
 Ada ile çevresi arasındaki ilişkiler, ekosistemlerin birbirine bağlılığını gösteriyor. Yamorgo, Rodos adası ve diğer yakın adalarla birlikte bir ekosistem ağını oluşturuyor. Su kaynakları ve deniz canlıları, bu adaların çevresel ilişkilerinin önemli bir parçasını oluşturuyor. Monaco'nun çok küçük bir bölümü kadar bir alanı kaplayan Yamorgo, aslında çok daha büyük bir ekosistemin küçük ama önemli bir parçası olarak görülüyor.
 

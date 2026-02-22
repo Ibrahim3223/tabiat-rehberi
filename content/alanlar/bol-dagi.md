@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin güzide illerinden biri olan Van'ın dağlık c
 
 Doğal güzellikleri ve jeolojik yapısıyla dikkat çeken Bol Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Dağın yüksekliği, Eiffel Kulesi'nin 2 katı yükseklikte gibi düşünülürse, ziyaretçilere oldukça etkileyici bir manzara sunmaktadır. Jeolojik olarak incelendiğinde, bölgenin volkanik faaliyetler sonucu oluştuğu görülmektedir. Bu volkanik faaliyetler, dağın şeklini ve yapısını önemli ölçüde etkilemiştir.
 
-İklim açısından bakıldığında, Bol Dağı ve çevresinin karasal iklim özellikleri gösterdiği görülmektedir. Kış aylarında oldukça soğu ve kar yağışlı olan bölgede, yaz ayları ise serin ve yağışlı geçmektedir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini önemli ölçüde etkilemektedir. Bölgede yaşayan bitki ve hayvan türleri, bu iklim koşullarına adapte olmuştur.
+İklim açısından bakıldığında, Bol Dağı ve çevresinin karasal iklim özellikleri gösterdiği görülmektedir. Kış aylarında oldukça soğuk ve kar yağışlı olan bölgede, yaz ayları ise serin ve yağışlı geçmektedir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini önemli ölçüde etkilemektedir. Bölgede yaşayan bitki ve hayvan türleri, bu iklim koşullarına adapte olmuştur.
 
 Bol Dağı, Van Gölü ve çevresindeki diğer dağlar ile birlikte bir ekosistem bütünü oluşturmaktadır. Bu ekosistem, bölgede yaşayan birçok canlı türü için yaşam alanı sağlamaktadır. Ayrıca, dağın eteklerinde yer alan köyler ve kasabalar, bölgenin sosyal ve ekonomik yapısını etkilemektedir. Bu nedenle, Bol Dağı'nın çevresel ilişkileri, bölgenin genel dengesini korumak için önemlidir.
 

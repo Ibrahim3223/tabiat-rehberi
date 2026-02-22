@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin en güzel köşelerinden biri olan Çocukdağı
 
 Doğal güzelliği ile dikkat çeken Çocukdağı, çevresindeki diğer dağlarla birlikte bir dağ silsilesini oluşturuyor. Çocukdağı'nın fiziksel yapısı, bölgenin jeolojik geçmişini yansıtıyor. Ancak fiziksel verileri sınırlı olduğu için, tam boyutları veya şekli hakkında net bir bilgi bulunmuyor. Çocukdağı, Batman'ın coğrafi yapısında önemli bir yer tutuyor ve bölgenin doğal güzelliğine katkıda bulunuyor.
 
-Mevsimsel özellikler açısından Çocukdağı, Güneydoğu Anadolu Bölgesi'nin karakteristik iklimini yansıtıyor. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürüyor. Bu mevsimsel değişiklikler, Çocukdağı'nın doğal güzelliğini farklı şekillerde ortaya koyuyor. Çocukdağı, bölgenin iklim karakterini şekillendiren önemli bir faktör ve bu özelliği ile bölgenin doğal dengesine katkıda bulunuyor.
+Mevsimsel özellikler açısından Çocukdağı, Güneydoğu Anadolu Bölgesi'nin karakteristik iklimini yansıtıyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürüyor. Bu mevsimsel değişiklikler, Çocukdağı'nın doğal güzelliğini farklı şekillerde ortaya koyuyor. Çocukdağı, bölgenin iklim karakterini şekillendiren önemli bir faktör ve bu özelliği ile bölgenin doğal dengesine katkıda bulunuyor.
 
 Çevresel açıdan Çocukdağı, Batman Nehri ile birlikte bir ekosistem oluşturuyor. Bu nehrin yakınında yer alan dağ, bölgenin su kaynaklarını etkiliyor ve ekosistem bağlantılarını şekillendirmeye katkıda bulunuyor. Çocukdağı, bölgenin doğal güzelliğini korumanın yanı sıra, ekosistem dengesini de sağlamaya yardımcı oluyor. Bu nedenle, Çocukdağı'nın korunması ve bölgenin doğal kaynaklarının sürdürülebilir kullanımı, büyük önem taşıyor.
 

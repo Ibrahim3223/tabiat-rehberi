@@ -36,7 +36,7 @@ Samaminin Tepesi, Diyarbakır'ın tarihi geçmişiyle derin bir şekilde bağlan
 
 ## Coğrafya
 
-Samaminin Tepesi, coğrafi olarak Diyarbakır'ın merkezi bir konumunda yer alır. Bu tepe, şehrin diğer bölgelerine kolayca ulaşılabilen bir noktada bulunmaktadır. Samaminin Tepesi, aynı zamanda çevredeki diğer doğal güzelliklerle de bağlantılıdır. Tepe, çeşitli bitki türleri ve hayvanlarla zengin bir ekosisteme sahiptir. İklim olarak, tepe ve çevresindeki bölge, karakteristik bir İç Anadolu Bölgesi iklimine sahiptir. Kışlar soğu ve yağışlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, tepe ve çevresindeki bölgeye özgü olan çeşitli bitki ve hayvan türlerinin gelişmesine olanak tanımaktadır. Samaminin Tepesi, çevredeki diğer doğal güzelliklerle birlikte bir bütün olarak ele alındığında, ziyaretçilere geniş bir coğrafi çeşitlilik sunar.
+Samaminin Tepesi, coğrafi olarak Diyarbakır'ın merkezi bir konumunda yer alır. Bu tepe, şehrin diğer bölgelerine kolayca ulaşılabilen bir noktada bulunmaktadır. Samaminin Tepesi, aynı zamanda çevredeki diğer doğal güzelliklerle de bağlantılıdır. Tepe, çeşitli bitki türleri ve hayvanlarla zengin bir ekosisteme sahiptir. İklim olarak, tepe ve çevresindeki bölge, karakteristik bir İç Anadolu Bölgesi iklimine sahiptir. Kışlar soğuk ve yağışlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, tepe ve çevresindeki bölgeye özgü olan çeşitli bitki ve hayvan türlerinin gelişmesine olanak tanımaktadır. Samaminin Tepesi, çevredeki diğer doğal güzelliklerle birlikte bir bütün olarak ele alındığında, ziyaretçilere geniş bir coğrafi çeşitlilik sunar.
 
 ## Flora ve Fauna
 

@@ -30,7 +30,7 @@ Toros Goknari milli parkının tarihi geçmişi, yüzyıllar öncesine dayanıyo
 
 ## Coğrafya
 
-Toros Goknari milli parkı, Akdeniz Bölgesi'nin Antalya ilinin Akseki ilçesinde bulunuyor. Park, Toros dağlarının eteklerinde, deniz seviyesinden yaklaşık yüksek bir konumdate kurulmuş. Bu bölgenin coğrafi yapısı, dağlık ve engebeli bir araziye sahip. Milli parkın iklimi, Akdeniz ikliminin özellikleri ile karakterize ediliyor. Yaz ayları sıca ve kurak, kış ayları ise ılık ve yağışlı geçiyor. Parkın toprakları, çeşitli bitkiler ve ağaçlar için uygun bir ortam sunuyor. Toros Goknari milli parkı, flora ve fauna açısından zengin bir çeşitliliğe sahip. Bu bölgede, çeşitli bitki türleri, hayvanlar ve kuşlar yaşuyor.
+Toros Goknari milli parkı, Akdeniz Bölgesi'nin Antalya ilinin Akseki ilçesinde bulunuyor. Park, Toros dağlarının eteklerinde, yüksek bir konumda kurulmuş. Bu bölgenin coğrafi yapısı, dağlık ve engebeli bir araziye sahip. Milli parkın iklimi, Akdeniz ikliminin özellikleri ile karakterize ediliyor. Yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlı geçiyor. Parkın toprakları, çeşitli bitkiler ve ağaçlar için uygun bir ortam sunuyor. Toros Goknari milli parkı, flora ve fauna açısından zengin bir çeşitliliğe sahip. Bu bölgede, çeşitli bitki türleri, hayvanlar ve kuşlar yaşuyor.
 
 ## Flora ve Fauna
 

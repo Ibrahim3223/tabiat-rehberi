@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin güzide illerinden biri olan Mardin, coğrafi o
 
 Jeolojik açıdan bakıldığında, Lavan Tepe'nin fiziksel yapısı hakkında detaylı bilgi bulunmasa da, genel olarak bölgenin jeolojik özellikleri düşünüldüğünde, bu tepe de benzer özelliklere sahip olabilir. Güneydoğu Anadolu Bölgesi, genellikle kalker ve şist gibi kayaçlardan oluşan bir yapıya sahiptir. Lavan Tepe'nin büyüklüğü hakkında kesin bir veri olmasa da, yaklaşık bir şehir bloğu büyüklüğünde düşünülmesi mümkün olabilir.
 
-Mevsimsel açıdan, Lavan Tepe ve çevresindeki bölge, karasal iklimin etkilerini gösterir. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürer. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini etkiler. Lavan Tepe'nin yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olabilir, ancak bu konuda kesin bir veri bulunmuyor.
+Mevsimsel açıdan, Lavan Tepe ve çevresindeki bölge, karasal iklimin etkilerini gösterir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürer. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini etkiler. Lavan Tepe'nin yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olabilir, ancak bu konuda kesin bir veri bulunmuyor.
 
 Doğal kaynaklar açısından, Lavan Tepe ve çevresindeki bölge, su kaynakları açısından zengin değildir. Ancak, bölgede birkaç küçük akarsu ve kaynak bulunur. Bu su kaynakları, bölgenin ekosistemini destekler ve canlı yaşamını sürdürür. Lavan Tepe, komşu dağlık alanlarla birlikte, bir bütün olarak düşünüldüğunda, Monaco'nun yarısı kadar bir alanı kaplayabilir, ancak bu konuda kesin bir veri bulunmuyor.
 

@@ -44,7 +44,7 @@ Doğal güzellikleri ile ön plana çıkan Karagöl (Murgul), 41.2248°K ve 41.6
 
 Jeolojik açıdan bakıldığında, Karagöl'ün fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bulunduğu bölgenin coğrafi özellikleri dikkate alındığında, bu gölün çevresi dağlık bir araziye sahiptir. Bu dağlık arazi, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan tepe ve dağlarla çevrilidir. Bu yükseklik, Karagöl'ü çevreleyen bölgenin coğrafi özelliklerini etkileyen önemli bir faktördür.
 
-Mevsimsel olarak bakıldığında, Karagöl'ün iklim karakteri, bölgenin coğrafi özelliklerine bağlı olarak değişir. Karagöl'ün bulunduğu bölge, genellikle soğu ve yağışlı bir iklime sahiptir. Bu iklim, Karagöl'ün su seviyesini ve çevresindeki bitki örtüsünü etkileyen önemli bir faktördür. Örneğin, ilkbahar aylarında, Karagöl'ün etrafındaki bitki örtüsü canlanır ve bu bölge, Monaco'nun yarısı kadar büyüklüğünde bir yeşil alana dönüşür.
+Mevsimsel olarak bakıldığında, Karagöl'ün iklim karakteri, bölgenin coğrafi özelliklerine bağlı olarak değişir. Karagöl'ün bulunduğu bölge, genellikle soğuk ve yağışlı bir iklime sahiptir. Bu iklim, Karagöl'ün su seviyesini ve çevresindeki bitki örtüsünü etkileyen önemli bir faktördür. Örneğin, ilkbahar aylarında, Karagöl'ün etrafındaki bitki örtüsü canlanır ve bu bölge, Monaco'nun yarısı kadar büyüklüğünde bir yeşil alana dönüşür.
 
 Çevresel açıdan bakıldığında, Karagöl, komşu alanlar ve su kaynakları ile bağlantılı bir ekosisteme sahiptir. Bu ekosistem, Karagöl'ün su kalitesini ve çevresindeki canlıları etkileyen önemli bir faktördür. Örneğin, Karagöl'ün bulunduğu bölge, Beşiktaş ilçesi kadar büyüklüğünde bir su toplama havzasına sahiptir. Bu su toplama havzası, Karagöl'ün su seviyesini ve çevresindeki bitki örtüsünü etkileyen önemli bir faktördür.
 

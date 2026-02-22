@@ -36,7 +36,7 @@ Kalagoz Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetleri
 
 ## Coğrafya
 
-Kalagoz Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe olarak karşımıza çıkıyor. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve yaban hayatı açısından oldukça zengin. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve mevsimsel değişimler oldukça belirgin. Kış ayları soğu ve karlıyken, yaz ayları sıca ve kurak geçiyor. Kalagoz Tepesi, ziyaretçilerine bölgenin coğrafi güzelliklerini keşfetme fırsatı sunuyor. Tepenin yüksekliği ve konumundan dolayı, ziyaretçiler bölgenin panoramik manzarasını izleme fırsatını buluyorlar. Kalagoz Tepesi, aynı zamanda çevre bölgelerin coğrafi yapısını da gözlemlemek için ideal bir nokta olarak dikkat çekiyor.
+Kalagoz Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe olarak karşımıza çıkıyor. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve yaban hayatı açısından oldukça zengin. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve mevsimsel değişimler oldukça belirgin. Kış ayları soğuk ve karlıyken, yaz ayları sıcak ve kurak geçiyor. Kalagoz Tepesi, ziyaretçilerine bölgenin coğrafi güzelliklerini keşfetme fırsatı sunuyor. Tepenin yüksekliği ve konumundan dolayı, ziyaretçiler bölgenin panoramik manzarasını izleme fırsatını buluyorlar. Kalagoz Tepesi, aynı zamanda çevre bölgelerin coğrafi yapısını da gözlemlemek için ideal bir nokta olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 

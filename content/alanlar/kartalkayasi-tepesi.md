@@ -36,7 +36,7 @@ Kartalkayası Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Kartalkayası Tepesi, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşımaktadır. Bu tepe, Niğde ilinin merkezine uzun bir mesafe uzaklıkta yer almaktadır. Tepenin zirvesi, deniz seviyesinden yaklaşık yüksek bir konumdate olup, çevreyi panoramik olarak görmeyi sağlar. Kartalkayası Tepesi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu bölgede, çeşitli ağaç türleri, çalılar ve otlar bulunmakta olup, özellikle ilkbahar ve yaz aylarında, tepeye renkli bir görünüm kazandırmaktadır. Tepenin eteklerinde, çeşitli hayvan türleri yaşamaktadır. Bu hayvanlar, özellikle keçiler, koyunlar ve yaban domuzlarıdır.
+Kartalkayası Tepesi, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşımaktadır. Bu tepe, Niğde ilinin merkezine uzun bir mesafe uzaklıkta yer almaktadır. Tepenin zirvesi, yüksek bir konumda olup, çevreyi panoramik olarak görmeyi sağlar. Kartalkayası Tepesi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu bölgede, çeşitli ağaç türleri, çalılar ve otlar bulunmakta olup, özellikle ilkbahar ve yaz aylarında, tepeye renkli bir görünüm kazandırmaktadır. Tepenin eteklerinde, çeşitli hayvan türleri yaşamaktadır. Bu hayvanlar, özellikle keçiler, koyunlar ve yaban domuzlarıdır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Kartalkayası Tepesi'ni ziyaret etmek, özellikle doğa severler ve fotoğraf tu
 ## İlginç Bilgiler
 
 - Kartalkayası Tepesi, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
-- Tepenin zirvesi, deniz seviyesinden yaklaşık yüksek bir konumdate olup, çevreyi panoramik olarak görmeyi sağlar.
+- Tepenin zirvesi, yüksek bir konumda olup, çevreyi panoramik olarak görmeyi sağlar.
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmakta olup, özellikle ilkbahar ve yaz aylarında, tepeye renkli bir görünüm kazandırmaktadır.
 - Tepenin eteklerinde, çeşitli hayvan türleri yaşamaktadır.
 - Bu bölgede, çeşitli kuş türleri de bulunmakta olup, özellikle doğa severler ve kuş gözlemcileri için bir cennet gibi görülmektedir.

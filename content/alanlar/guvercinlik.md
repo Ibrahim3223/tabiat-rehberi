@@ -31,7 +31,7 @@ Güvercinlik'in tarihi geçmişi, binlerce yıl öncesine dayanmaktadır. Bu bö
 
 ## Coğrafya
 
-Güvercinlik, İç Anadolu Bölgesi'nin coğrafi açıdan önemli bir noktasında yer almaktadır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplamakta ve ziyaretçilerine geniş bir yeşil alan sunmaktadır. Coğrafi olarak, Güvercinlik'in çevresi dağlar ve ovalar ile çevrilidir. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşarken, aynı zamanda önemli bir ekosistemi de barındırmaktadır. Güvercinlik'in iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik göstermektedir. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve karlı bir iklimi trilemektedir. Güvercinlik'in coğrafi yapısı, ziyaretçilerine çeşitli aktivite olanakları sunmaktadır. Burada, doğa yürüyüşleri, kampçılık ve fotoğraf çekimi gibi aktiviteler yapılabilmektedir.
+Güvercinlik, İç Anadolu Bölgesi'nin coğrafi açıdan önemli bir noktasında yer almaktadır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplamakta ve ziyaretçilerine geniş bir yeşil alan sunmaktadır. Coğrafi olarak, Güvercinlik'in çevresi dağlar ve ovalar ile çevrilidir. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşarken, aynı zamanda önemli bir ekosistemi de barındırmaktadır. Güvercinlik'in iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik göstermektedir. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı bir iklimi trilemektedir. Güvercinlik'in coğrafi yapısı, ziyaretçilerine çeşitli aktivite olanakları sunmaktadır. Burada, doğa yürüyüşleri, kampçılık ve fotoğraf çekimi gibi aktiviteler yapılabilmektedir.
 
 ## Flora ve Fauna
 

@@ -37,11 +37,11 @@ Ali Seydi Sultan Türbesi'nin tarihi, Selçuklu ve Osmanlı dönemlerine kadar u
 
 ## Coğrafya
 
-Ali Seydi Sultan Türbesi, Malatya'nın Yazıhan ilçesinde yer alıyor. Bu ilçe, Doğu Anadolu Bölgesi'nin merkezinde bulunuyor. Türbenin etrafı, yeşilliklerle dolu ve yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, ziyaretçilere geniş bir açık alan sunuyor. Türbenin yapıldığı dönem, bölgenin coğrafi yapısını da etkilemiş. Çevre, dağlar ve ovalarla dolu ve iklim, karasal iklim özellikleri gösteriyor. Kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor. Ali Seydi Sultan Türbesi, bu coğrafi yapı içerisinde, önemli bir kültür ve tarih merkezi olarak yer alıyor.
+Ali Seydi Sultan Türbesi, Malatya'nın Yazıhan ilçesinde yer alıyor. Bu ilçe, Doğu Anadolu Bölgesi'nin merkezinde bulunuyor. Türbenin etrafı, yeşilliklerle dolu ve yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, ziyaretçilere geniş bir açık alan sunuyor. Türbenin yapıldığı dönem, bölgenin coğrafi yapısını da etkilemiş. Çevre, dağlar ve ovalarla dolu ve iklim, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Ali Seydi Sultan Türbesi, bu coğrafi yapı içerisinde, önemli bir kültür ve tarih merkezi olarak yer alıyor.
 
 ## Flora ve Fauna
 
-Ali Seydi Sultan Türbesi'nin etrafı, yeşilliklerle dolu ve çeşitli bitkiler ve ağaçlar bulunuyor. Bu bitkiler, bölgenin iklimine uygun olarak, çoğunlukla çam ve meşe ağaçlarından oluşuyor. Ayrıca, türbenin etrafında, çeşitli hayvanlar da yaşıyor. Bu hayvanlar, bölgenin ekolojik dengesini koruyor ve türbenin etrafındaki doğayı zenginleştiriyorlar. Mevsimsel değişimler, bölgenin flora ve faunasını da etkiliyor. İlkbahar ve yaz aylarında, bitkiler ve ağaçlar yeşilleniyor ve bölge, renkli bir görünüme sahip oluyor. Sonbahar ve kış aylarında ise, bölge, soğu ve karlı bir hava alıyor.
+Ali Seydi Sultan Türbesi'nin etrafı, yeşilliklerle dolu ve çeşitli bitkiler ve ağaçlar bulunuyor. Bu bitkiler, bölgenin iklimine uygun olarak, çoğunlukla çam ve meşe ağaçlarından oluşuyor. Ayrıca, türbenin etrafında, çeşitli hayvanlar da yaşıyor. Bu hayvanlar, bölgenin ekolojik dengesini koruyor ve türbenin etrafındaki doğayı zenginleştiriyorlar. Mevsimsel değişimler, bölgenin flora ve faunasını da etkiliyor. İlkbahar ve yaz aylarında, bitkiler ve ağaçlar yeşilleniyor ve bölge, renkli bir görünüme sahip oluyor. Sonbahar ve kış aylarında ise, bölge, soğuk ve karlı bir hava alıyor.
 
 ## Ziyaret Bilgileri
 

@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin coğrafi güzelliğiçinde yer alan Kurtik Dağı, Mu
 
 Jeolojik açıdan incelendiğinde, Kurtik Dağı'nın coğrafi yapısı hakkında detaylı bilgiler bulunmasa da, bölgenin genel jeolojik özellikleri dikkate alındığında, bu dağın volkanik kökenli olduğu söylenebilir. Ancak, fiziksel boyutları hakkında kesin bilgiler olmaksızın, bu dağın büyüklüğü veya şekli hakkında net bir fikir yürütmek zor görünüyor.
 
-Mevsimsel açıdan bakıldığında, Kurtik Dağı'nın bulunduğu bölgenin iklimi karasal iklim özellikleri gösteriyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürüyor. Bu mevsimsel farklılıklar, bölgenin flora ve fauna çeşitliliğini etkiliyor ve Kurtik Dağı'nın ekosistemini şekillendiriyor.
+Mevsimsel açıdan bakıldığında, Kurtik Dağı'nın bulunduğu bölgenin iklimi karasal iklim özellikleri gösteriyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürüyor. Bu mevsimsel farklılıklar, bölgenin flora ve fauna çeşitliliğini etkiliyor ve Kurtik Dağı'nın ekosistemini şekillendiriyor.
 
 Çevresel açıdan bakıldığında, Kurtik Dağı'nın bulunduğu bölge, Muş Ovası'na bakan bir konumda yer alıyor. Bu ovayla birlikte, bölgenin su kaynakları ve ekosistem bağlantıları da önemli bir role sahip. Ancak, detaylı fiziksel veriler bulunmaması, bu dağın çevresel ilişkileri hakkında daha fazla bilgi edinmeyi sınırlıyor.
 

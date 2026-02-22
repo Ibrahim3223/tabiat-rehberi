@@ -45,7 +45,7 @@ Güney Anadolu'nun kalbinde yer alan Boz Dağ, Karaman ilinin sınırları içer
 
 Doğal güzelliği ve coğrafi konumuyla dikkat çeken Boz Dağ, yaklaşık olarak Beşiktaş ilçesi kadar bir alanı kaplar. Bu büyüklük, bölgenin geniş ve çeşitli bir coğrafyaya sahip olduğunu gösterir. Jeolojik açıdan incelendiğinde, Boz Dağ'ın etrafındaki bölge, genellikle kireçtaşı ve şist gibi kayalardan oluşmaktadır. Bu kayalar, bölgenin jeolojik geçmişini ve oluşumunu belirleyen önemli faktörlerdir.
 
-Mevsimsel değişikliklere göre hava durumu da değişen Boz Dağ, Akdeniz ikliminin karakteristik özelliklerini taşır. Kış aylarında ılıman ve yağışlı, yaz aylarında ise sıca ve kuru bir hava hüküm sürer. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkileyen önemli bir faktördür.
+Mevsimsel değişikliklere göre hava durumu da değişen Boz Dağ, Akdeniz ikliminin karakteristik özelliklerini taşır. Kış aylarında ılıman ve yağışlı, yaz aylarında ise sıcak ve kuru bir hava hüküm sürer. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkileyen önemli bir faktördür.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları açısından da önemli bir role sahip olan Boz Dağ, etrafındaki vadiler ve ovalarla birlikte bir bütünü oluşturur. Bu bölge, Monaco'nun yarısı kadar bir alanı kaplayan ve çeşitli bitki ve hayvan türlerine ev sahipliği yapan önemli bir doğal alan olarak dikkat çeker. Bu doğal güzellik, bölgenin turizm potansiyelini de artıran bir unsur olarak değerlendirilebilir.
 

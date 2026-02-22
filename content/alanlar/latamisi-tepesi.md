@@ -36,7 +36,7 @@ Latamisi Tepesi, yüzyıllar boyunca bölge halkının yaşamında önemli bir r
 
 ## Coğrafya
 
-Latamisi Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık bir arazide yer alıyor. Tepenin yüksekliği, bölgenin diğer noktalarına göre oldukça önemli bir nokta. Tepenin etrafı, çeşitli bitki türleri ile kaplı ve bu bitkiler, bölgenin iklimine uygun olarak gelişmiş. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklime sahip. Bu iklim özellikleri, tepe ve çevresinde yaşayan flora ve faunayı etkiliyor. Tepenin zirvesinden, Batman şehri ve çevresinin panoramik manzarası izlenebiliyor. Bu manzara, ziyaretçilere bölgeyi keşfetme fırsatı sunuyor.
+Latamisi Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık bir arazide yer alıyor. Tepenin yüksekliği, bölgenin diğer noktalarına göre oldukça önemli bir nokta. Tepenin etrafı, çeşitli bitki türleri ile kaplı ve bu bitkiler, bölgenin iklimine uygun olarak gelişmiş. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklime sahip. Bu iklim özellikleri, tepe ve çevresinde yaşayan flora ve faunayı etkiliyor. Tepenin zirvesinden, Batman şehri ve çevresinin panoramik manzarası izlenebiliyor. Bu manzara, ziyaretçilere bölgeyi keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

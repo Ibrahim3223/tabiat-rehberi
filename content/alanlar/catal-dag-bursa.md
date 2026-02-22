@@ -44,7 +44,7 @@ Marmara Bölgesi'nin kalbinde yer alan Çatal Dağ, Bursa'nın eşsiz coğrafyas
 
 Doğal güzelliği ve zengin ekosistemiyle dikkat çeken Çatal Dağ, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplar. Dağın fiziksel yapısı, bölgenin jeolojik geçmişini yansıtan kayaçlarla kaplıdır. Ancak, detaylı fiziksel veriler bulunmaması nedeniyle, dağın yüksekliği ve diğer fiziksel özellikleri hakkında net bilgiler bulunmamaktadır. Buna rağmen, Çatal Dağ'ın Marmara Bölgesi'nin coğrafyasında önemli bir yeri olduğu söylenebilir.
 
-Mevesimlik değişimlere göre hava durumu da değişen Çatal Dağ, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklime sahiptir. Bu mevsimsel özellikler, dağın flora ve fauna çeşitliliği üzerinde önemli bir etkiye sahiptir. Çatal Dağ, aynı zamanda bölgedeki su kaynaklarının korunması açısından da önemli bir role sahiptir.
+Mevesimlik değişimlere göre hava durumu da değişen Çatal Dağ, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklime sahiptir. Bu mevsimsel özellikler, dağın flora ve fauna çeşitliliği üzerinde önemli bir etkiye sahiptir. Çatal Dağ, aynı zamanda bölgedeki su kaynaklarının korunması açısından da önemli bir role sahiptir.
 
 Bölgenin ekosistem bağlantıları açısından önemli bir yere sahip olan Çatal Dağ, komşu alanlarla birlikte bir bütünü oluşturur. İznik Gölü ve Uludağ gibi önemli doğal alanlarla birlikte, Çatal Dağ, bölgenin biyolojik çeşitliliğini korumak için önemli bir görev üstlenmektedir. Bu nedenle, Çatal Dağ'ın korunması ve sürdürülebilirliği, bölgenin doğal dengesinin korunması için hayati önem taşımaktadır.
 

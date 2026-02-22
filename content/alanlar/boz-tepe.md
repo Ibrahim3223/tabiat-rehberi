@@ -45,7 +45,7 @@ Doğanın güzelliği, Çorum'un dağlık bölgelerinde kendini gösterir. Boz T
 
 Jeolojik açıdan bakıldığında, Boz Tepe'nin oluşumu ve yapısı hakkında detaylı bilgi bulunmasa da, bölgenin coğrafi özellikleri dikkate alındığında, bu dağın diğer dağlar gibi kaya ve toprak katmanlarından oluştuğu söylenebilir. Tıpkı Monaco'nun yarısı kadar büyük bir alana spread edilmiş gibi duran bu dağ, coğrafi olarak önemli bir yere sahiptir.
 
-İklim açısından incelendiğinde, Boz Tepe ve çevresinin mevsimsel özelliklere göre değişen bir hava durumuna sahip olduğu görülür. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kuru bir iklim hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler.
+İklim açısından incelendiğinde, Boz Tepe ve çevresinin mevsimsel özelliklere göre değişen bir hava durumuna sahip olduğu görülür. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kuru bir iklim hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler.
 
 Çevresel açıdan bakıldığında, Boz Tepe'nin komşu alanlar, su kaynakları ve ekosistem bağlantıları ile önemli bir role sahiptir. Bu dağ, çeşitli su kaynaklarının oluşmasına ve bölgedeki ekosistemin dengesinin korunmasına katkıda bulunur. Tıpkı Taksim Meydanı'nın birkaç katı büyüklüğünde bir yeşil alan gibi, Boz Tepe de bölgenin doğal güzelliğini korur ve ziyaretçilerini ağırlar.
 

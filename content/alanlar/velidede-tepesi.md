@@ -36,7 +36,7 @@ Velidede Tepesi'nin tarihi geçmişi, Ankara'nın tarihi ile iç içe geçmiş d
 
 ## Coğrafya
 
-Velidede Tepesi, Ankara'nın coğrafi yapısını yansıtan bir bölge. Tepenin yüksekliği, şehrin diğer bölgelerine nazaran daha yüksekte ve bu, ziyaretçilere Ankara'nın çevresini panoramik bir şekilde seyretme imkanı tanıyor. Çevredeki doğal güzellikler, tepeye çıkan ziyaretçileri etkiliyor. Tepenin etrafı, çeşitli bitki türleri ile kaplı ve bu, bölgenin ekolojik dengesini koruyor. Ayrıca, tepe ve çevresindeki iklim, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve kar yağışlı bir iklim hüküm sürüyor.
+Velidede Tepesi, Ankara'nın coğrafi yapısını yansıtan bir bölge. Tepenin yüksekliği, şehrin diğer bölgelerine nazaran daha yüksekte ve bu, ziyaretçilere Ankara'nın çevresini panoramik bir şekilde seyretme imkanı tanıyor. Çevredeki doğal güzellikler, tepeye çıkan ziyaretçileri etkiliyor. Tepenin etrafı, çeşitli bitki türleri ile kaplı ve bu, bölgenin ekolojik dengesini koruyor. Ayrıca, tepe ve çevresindeki iklim, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve kar yağışlı bir iklim hüküm sürüyor.
 
 ## Flora ve Fauna
 

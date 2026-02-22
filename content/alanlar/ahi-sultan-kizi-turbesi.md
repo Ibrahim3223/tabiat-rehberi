@@ -37,7 +37,7 @@ Ahi Sultan Kızı Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmi
 
 ## Coğrafya
 
-Ahi Sultan Kızı Türbesi, Akdeniz Bölgesi'nin güzelliklerini sunan Muratpaşa ilçesinde yer alıyor. Bu bölge, coğrafi açıdan oldukça zengin bir yapıya sahip. Türbe ve çevresindeki alan, 140 hektarlık bir yeşil alanı kapsıyor ki bu, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere hem tarihi bir atmosfer hem de doğal güzellikler sunuyor. Coğrafi olarak bakıldığında, Ahi Sultan Kızı Türbesi, Antalya'nın tarihi ve turistik noktalarına yakın bir konumda bulunmakta. İklim olarak, Akdeniz ikliminin tüm özelliklerini taşıyan bu bölge, yazları sıca ve kurak, kışları ılıman ve yağışlı geçmektedir. Bu coğrafi çeşitlilik, bölgenin flora ve faunasını da etkileyerek zengin bir ekosistem oluşturuyor.
+Ahi Sultan Kızı Türbesi, Akdeniz Bölgesi'nin güzelliklerini sunan Muratpaşa ilçesinde yer alıyor. Bu bölge, coğrafi açıdan oldukça zengin bir yapıya sahip. Türbe ve çevresindeki alan, 140 hektarlık bir yeşil alanı kapsıyor ki bu, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere hem tarihi bir atmosfer hem de doğal güzellikler sunuyor. Coğrafi olarak bakıldığında, Ahi Sultan Kızı Türbesi, Antalya'nın tarihi ve turistik noktalarına yakın bir konumda bulunmakta. İklim olarak, Akdeniz ikliminin tüm özelliklerini taşıyan bu bölge, yazları sıcak ve kurak, kışları ılıman ve yağışlı geçmektedir. Bu coğrafi çeşitlilik, bölgenin flora ve faunasını da etkileyerek zengin bir ekosistem oluşturuyor.
 
 ## Flora ve Fauna
 

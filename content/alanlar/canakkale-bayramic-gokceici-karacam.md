@@ -30,7 +30,7 @@ Canakkale-Bayramic-Gokceici Karacam milli parkının tarihi geçmişi, yüzyıll
 
 ## Coğrafya
 
-Canakkale-Bayramic-Gokceici Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bölge, geniş otlakları, ormanlık alanları ve su kaynaklarıyla zengin bir coğrafyaya sahip. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal özellik gösteriyor. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, çeşitli bitki türlerinin yetişmesine ve zengin faunayı desteklemeye katkıda bulunuyor. Milli parkın coğrafi yapısı, ziyaretçilere geniş bir perspektif sunuyor ve doğanın güzelliğini keşfetme fırsatı veriyor.
+Canakkale-Bayramic-Gokceici Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bölge, geniş otlakları, ormanlık alanları ve su kaynaklarıyla zengin bir coğrafyaya sahip. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal özellik gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, çeşitli bitki türlerinin yetişmesine ve zengin faunayı desteklemeye katkıda bulunuyor. Milli parkın coğrafi yapısı, ziyaretçilere geniş bir perspektif sunuyor ve doğanın güzelliğini keşfetme fırsatı veriyor.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ Telmessos Lahdi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b
 
 ## Coğrafya
 
-Telmessos Lahdi, Ege Bölgesi'nin Muğla ilinde yer almaktadır. Bu bölge, 140 hektarlık bir yeşil alana sahiptir. Telmessos Lahdi, deniz seviyesinden yaklaşık yüksek bir konumdate bulunmaktadır. Bu bölgede, iklim genellikle ılımandır. Yaz aylarında sıcaklık 25-30 derece arasında değişirken, kış aylarında 10-15 derece arasında değişmektedir. Telmessos Lahdi, deniz ve güneşin keyfini çıkarmak için ideal bir yerdir. Ayrıca, bu bölgede çeşitli bitki türleri ve zengin fauna bulunmaktadır. Telmessos Lahdi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya davet etmektedir. Bu bölgede, farklı mevsimlerde çeşitli aktivitelerin keyfini çıkarma mümkündür.
+Telmessos Lahdi, Ege Bölgesi'nin Muğla ilinde yer almaktadır. Bu bölge, 140 hektarlık bir yeşil alana sahiptir. Telmessos Lahdi, yüksek bir konumda bulunmaktadır. Bu bölgede, iklim genellikle ılımandır. Yaz aylarında sıcaklık 25-30 derece arasında değişirken, kış aylarında 10-15 derece arasında değişmektedir. Telmessos Lahdi, deniz ve güneşin keyfini çıkarmak için ideal bir yerdir. Ayrıca, bu bölgede çeşitli bitki türleri ve zengin fauna bulunmaktadır. Telmessos Lahdi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya davet etmektedir. Bu bölgede, farklı mevsimlerde çeşitli aktivitelerin keyfini çıkarma mümkündür.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ Geben Vadisi Millî Parkı, 1955 yılında millî park olarak ilan edildi. BuDec
 
 ## Coğrafya
 
-Geben Vadisi Millî Parkı, Akdeniz Bölgesi'nin güneydoğusunda yer alıyor. Park, 6.375 hektarlık bir alanı kapsıyor ve 1200 metre yükseklikte bulunan yüksek noktaları ile dikkat çekiyor. Vadi, kuzey-güney yönünde uzanan bir vadiden oluşuyor. Burada, yer altı ve yer üstü sularının birleştiği noktalar, zengin bir flora ve faunaya ev sahipliği yapıyor. Parkın iklimi, Akdeniz ikliminin karakteristik özelliklerini taşıyor: sıca ve kurak yazlar, ılık ve yağışlı kışlar.
+Geben Vadisi Millî Parkı, Akdeniz Bölgesi'nin güneydoğusunda yer alıyor. Park, 6.375 hektarlık bir alanı kapsıyor ve 1200 metre yükseklikte bulunan yüksek noktaları ile dikkat çekiyor. Vadi, kuzey-güney yönünde uzanan bir vadiden oluşuyor. Burada, yer altı ve yer üstü sularının birleştiği noktalar, zengin bir flora ve faunaya ev sahipliği yapıyor. Parkın iklimi, Akdeniz ikliminin karakteristik özelliklerini taşıyor: sıcak ve kurak yazlar, ılık ve yağışlı kışlar.
 
 ## Flora ve Fauna
 

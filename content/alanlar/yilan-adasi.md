@@ -45,7 +45,7 @@ Antalya bölgesindeki doğal alanlar, tarih boyunca insanların yaşamlarını s
 
 Doğal güzelliği ile dikkat çeken Yılan Adası, coğrafi olarak bir ada olarak tanımlanıyor. Ada, denize hakim bir konumda bulunuyor ve çevresindeki su kaynakları ile önemli bir ekosistem oluşturuyor. Ada hakkında detaylı fiziksel veri bulunmasa da, koordinatlarından yola çıkarak, Antalya'nın diğer adaları ile karşılaştırıldığında oldukça küçük bir ada olduğu söylenebilir.
 
-Genel olarak Akdeniz ikliminin hakim olduğu bölgede yer alan Yılan Adası, mevsimsel olarak sıca ve kurak yazlar, ılıman ve yağışlı kışlar yaşıyor. Ada, yıl boyunca güneşli günlerin hakim olduğu bir iklim karakterine sahip. Bu iklim, ada etrafındaki su kaynaklarının ve ekosistemin sağlıklı bir şekilde devam etmesini sağlıyor.
+Genel olarak Akdeniz ikliminin hakim olduğu bölgede yer alan Yılan Adası, mevsimsel olarak sıcak ve kurak yazlar, ılıman ve yağışlı kışlar yaşıyor. Ada, yıl boyunca güneşli günlerin hakim olduğu bir iklim karakterine sahip. Bu iklim, ada etrafındaki su kaynaklarının ve ekosistemin sağlıklı bir şekilde devam etmesini sağlıyor.
 
 Son olarak, Yılan Adası, Antalya'nın kıyı şeridi ile bağlantılı bir ada olarak, bölgenin ekosistemine önemli katkılar sağlıyor. Ada, çevresindeki su kaynakları ve diğer adalar ile birlikte bir bütün olarak çalışıyor. Taksim Meydanı'nın birkaç katı büyüklüğündeki bu ada, bölgenin doğal güzelliğini korumak için önemli bir role sahip.
 

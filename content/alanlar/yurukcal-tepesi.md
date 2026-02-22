@@ -36,7 +36,7 @@ Yürükçal Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyet
 
 ## Coğrafya
 
-Yürükçal Tepesi, Samsun'un coğrafi yapısına uygun olarak Karadeniz Bölgesi'nin karakteristik özelliklerini taşır. Bu tepe, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır ve etrafı ormanlarla çevrilidir. Tepenin zirvesi, genellikle bulutların üzerinde kalan bir noktada bulunur ve bu, ziyaretçilere eşsiz bir manzara sunar. Yürükçal Tepesi'nin coğrafi konumu, aynı zamanda iklimi de etkiler. Bu bölgede, Karadeniz ikliminin özellikleri görülür ve bu, tepe ve çevresindeki bitki örtüsünü etkiler. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, aynı zamanda önemli bir su kaynağıdır ve etrafındaki akarsular, Karadeniz'e dökülür. Yürükçal Tepesi, coğrafi olarak zengin ve çeşitli bir bölgede yer alır ve bu, ziyaretçilere geniş bir yelpaze sunar.
+Yürükçal Tepesi, Samsun'un coğrafi yapısına uygun olarak Karadeniz Bölgesi'nin karakteristik özelliklerini taşır. Bu tepe, yüksek bir konumda yer alır ve etrafı ormanlarla çevrilidir. Tepenin zirvesi, genellikle bulutların üzerinde kalan bir noktada bulunur ve bu, ziyaretçilere eşsiz bir manzara sunar. Yürükçal Tepesi'nin coğrafi konumu, aynı zamanda iklimi de etkiler. Bu bölgede, Karadeniz ikliminin özellikleri görülür ve bu, tepe ve çevresindeki bitki örtüsünü etkiler. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, aynı zamanda önemli bir su kaynağıdır ve etrafındaki akarsular, Karadeniz'e dökülür. Yürükçal Tepesi, coğrafi olarak zengin ve çeşitli bir bölgede yer alır ve bu, ziyaretçilere geniş bir yelpaze sunar.
 
 ## Flora ve Fauna
 

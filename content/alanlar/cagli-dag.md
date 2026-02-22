@@ -43,7 +43,7 @@ Mersin'in doğusunda yer alan Çağlı Dağ, 37.4956°K, 34.3879°D koordinatlar
 
 Doğal güzelliği ve coğrafi konumuyla dikkat çeken Çağlı Dağ, yaklaşık olarak Beşiktaş ilçesi kadar bir alanı kaplıyor. Bu büyüklük, bölgenin coğrafi çeşitliliğini ve doğal kaynaklarını koruma altına almayı amaçlayan çalışmalar için önemli bir veri olarak kullanılıyor. Çağlı Dağ, jeolojik açıdan incelendiğinde, Toros Dağları'nın genel jeolojik yapısına benzerlik gösteriyor. Ancak, detaylı fiziksel veri bulunmaması nedeniyle, dağın boyutları, şekli ve jeolojik özellikleri hakkında daha ayrıntılı bilgiye sahip olma mümkün değil.
 
-Mersin'in iklim karakteri, Akdeniz ikliminin özelliklerini taşıyor ve Çağlı Dağ da bu iklimin etkilerini gösteriyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakim. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor ve dağın ekosistemini şekillendiriyor.
+Mersin'in iklim karakteri, Akdeniz ikliminin özelliklerini taşıyor ve Çağlı Dağ da bu iklimin etkilerini gösteriyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakim. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor ve dağın ekosistemini şekillendiriyor.
 
 Çağlı Dağ, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgenin su kaynaklarının oluşumunda önemli bir role sahip. Dağın yamaçlarından doğan dereler ve çaylar, bölgenin su ihtiyacını karşılamak için bir kaynak olarak kullanılıyor. Ayrıca, dağın ekosistemi, komşu alanlarla bağlantılı olarak, bölgenin biyolojik çeşitliliğini koruma altına almayı amaçlayan çalışmalarda önemli bir yer tutuyor.
 
@@ -51,7 +51,7 @@ Mersin'in iklim karakteri, Akdeniz ikliminin özelliklerini taşıyor ve Çağl�
 
 Çağlı Dağ, Mersin'in eşsiz doğal güzelliklerinden biridir. 1200 hektarlık bu dağ ekosistemi, maki bitki örtüsüne ev sahipliği yapar. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır. Kuraklığa dayanıklı türler, bu bölgenin karakteristik özelliklerinden biridir.
 
-Yaban hayatı da oldukça çeşitlidir. Dağ keçileri, yaban domuzları ve tilkiler, bu dağların eteklerinde yaşarlar. Kuşlar da bu ekosistemin önemli bir parçasıdır. Göç eden kuşlar, sonbaharda bu bölgeden geçer. Sürüngenler de, bu dağların sıca ve kurak bölgelerinde yaşarlar.
+Yaban hayatı da oldukça çeşitlidir. Dağ keçileri, yaban domuzları ve tilkiler, bu dağların eteklerinde yaşarlar. Kuşlar da bu ekosistemin önemli bir parçasıdır. Göç eden kuşlar, sonbaharda bu bölgeden geçer. Sürüngenler de, bu dağların sıcak ve kurak bölgelerinde yaşarlar.
 
 Çağlı Dağ, ekolojik olarak önemli bir bölgedir. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini korumak için çok önemlidir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Bu nedenle, bu bölgenin koruma altına alınması ve doğal güzelliğinin korunması gerekiyor.
 

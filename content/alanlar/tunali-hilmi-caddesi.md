@@ -38,7 +38,7 @@ Tunalı Hilmi Caddesi, Ankara'nın tarihinde önemli bir yere sahip. Caddenin ta
 
 ## Coğrafya
 
-Tunalı Hilmi Caddesi, Ankara'nın Çankaya ilçesinde bulunuyor. Caddenin coğrafi konumu, İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, Türkiye'nin orta kısmında yer alıyor. İç Anadolu Bölgesi, yüksek bir plato üzerinde yer alıyor. Bu bölgenin iklimi, karasal iklim. Kışlar soğu ve karlı, yazlar ise sıcak ve kurak. Tunalı Hilmi Caddesi, Ankara'nın merkezinde yer alıyor. Caddenin etrafında, birçok tarihi ve modern bina bulunuyor. Caddenin doğusunda, Ankara Kalesi yer alıyor. Kale, Ankara'nın en önemli tarihi yapılarından biri. Caddenin batısında, Kızılay Meydanı yer alıyor. Meydan, Ankara'nın en önemli meydanlarından biri.
+Tunalı Hilmi Caddesi, Ankara'nın Çankaya ilçesinde bulunuyor. Caddenin coğrafi konumu, İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, Türkiye'nin orta kısmında yer alıyor. İç Anadolu Bölgesi, yüksek bir plato üzerinde yer alıyor. Bu bölgenin iklimi, karasal iklim. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak. Tunalı Hilmi Caddesi, Ankara'nın merkezinde yer alıyor. Caddenin etrafında, birçok tarihi ve modern bina bulunuyor. Caddenin doğusunda, Ankara Kalesi yer alıyor. Kale, Ankara'nın en önemli tarihi yapılarından biri. Caddenin batısında, Kızılay Meydanı yer alıyor. Meydan, Ankara'nın en önemli meydanlarından biri.
 
 ## Flora ve Fauna
 

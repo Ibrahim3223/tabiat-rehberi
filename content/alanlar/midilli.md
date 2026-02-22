@@ -46,7 +46,7 @@ Doğal güzellikleri ile dikkat çeken Midilli adası, Ege Denizi'nin merkezinde
 
 Jeolojik açıdan bakıldığında, Midilli adası bir şehir bloğu büyüklüğünde bir alan olarak düşünülebilir. Ancak ada hakkında detaylı fiziksel veri bulunmaması, ada hakkındaki bilgilere ulaşmayı zorlaştırır. Ada, Ege Denizi'nin ortasında yer aldığı için, coğrafi konumu itibariyle önemli bir stratejik noktadır.
 
-İklim açısından bakıldığında, Midilli adası Akdeniz ikliminin karakteristik özelliklerini taşır. Yazları sıca ve kurak, kışları ise ılık ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, adanın flora ve fauna çeşitliliğini etkiler. Ada, Taksim Meydanı'nın birkaç katı büyüklüğünde bir yeşil alan olarak düşünülse de, gerçek boyutları hakkında net bir bilgi bulunmamaktadır.
+İklim açısından bakıldığında, Midilli adası Akdeniz ikliminin karakteristik özelliklerini taşır. Yazları sıcak ve kurak, kışları ise ılık ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, adanın flora ve fauna çeşitliliğini etkiler. Ada, Taksim Meydanı'nın birkaç katı büyüklüğünde bir yeşil alan olarak düşünülse de, gerçek boyutları hakkında net bir bilgi bulunmamaktadır.
 
 Çevresel açıdan bakıldığında, Midilli adası Ege Denizi'ne kıyısı olan diğer adalar ve anakara ile çevresel bağlantılar içerisinde yer alır. Ada, Monaco'nun yarısı kadar büyük bir alan olarak düşünülse de, gerçek boyutları hakkında net bir bilgi bulunmamaktadır. Bu bağlantılar, adanın ekosistemini ve su kaynaklarını etkiler. Ada, Ege Denizi'nin ortasında yer aldığı için, su kaynakları ve deniz ekosistemi ile önemli bir ilişki içerisinde bulunur.
 

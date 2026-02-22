@@ -37,7 +37,7 @@ Altı Parmak Türbesi'nin tarihi geçmişi, bölgenin tarihî zenginliklerine ı
 
 ## Coğrafya
 
-Altı Parmak Türbesi, coğrafi olarak Marmara Bölgesi'nin en güzel noktalarından biridir. Plaj, geniş bir kumsala sahiptir ve denize girilebilecek bir alandır. Bölge, yeşilliklerle çevrili olup, ziyaretçilere doğal bir güzellik sunmaktadır. İklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik göstermektedir. Kış ayları soğu ve yağışlı, yaz ayları ise sıcak ve nemlidir. Bu nedenle, plaja gitmek için en uygun zaman, yaz aylarıdır. Plajın etrafında, ziyaretçilerin konaklayabileceği birçok otel ve pansiyon bulunmaktadır. Ayrıca, plaja ulaşım thun tin olup, toplu taşıma araçları ile veya özel araçlarla ulaşılabilir. Bölge, birçok turistik yere de yakındır. Tüm bunlar, Altı Parmak Türbesi'nin hem yerli hem de yabancı turistler için bir çekim merkezi olmasını sağlamaktadır.
+Altı Parmak Türbesi, coğrafi olarak Marmara Bölgesi'nin en güzel noktalarından biridir. Plaj, geniş bir kumsala sahiptir ve denize girilebilecek bir alandır. Bölge, yeşilliklerle çevrili olup, ziyaretçilere doğal bir güzellik sunmaktadır. İklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik göstermektedir. Kış ayları soğuk ve yağışlı, yaz ayları ise sıcak ve nemlidir. Bu nedenle, plaja gitmek için en uygun zaman, yaz aylarıdır. Plajın etrafında, ziyaretçilerin konaklayabileceği birçok otel ve pansiyon bulunmaktadır. Ayrıca, plaja ulaşım thun tin olup, toplu taşıma araçları ile veya özel araçlarla ulaşılabilir. Bölge, birçok turistik yere de yakındır. Tüm bunlar, Altı Parmak Türbesi'nin hem yerli hem de yabancı turistler için bir çekim merkezi olmasını sağlamaktadır.
 
 ## Flora ve Fauna
 

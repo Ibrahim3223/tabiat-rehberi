@@ -36,7 +36,7 @@ Kazok Kurganı, yüzyıllar boyunca Anadolu'nun tarihine tanıklık etmiş bir a
 
 ## Coğrafya
 
-Kazok Kurganı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir alandır. Bu bölge, geniş ovalar, dağlar ve akarsularla çevrili. Coğrafi konumu, tarihi ticaret yollarının kesişme noktasında bulunduğundan, önemli bir konumda yer alıyor. Kazok Kurganı'nın coğrafyası, ziyaretçilere geniş bir manzara sunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin característicasına uygun olarak karasal bir yapıya sahip. Yaz aylarında sıca ve kurak, kış aylarında soğu ve kar yağışlı bir iklim hüküm sürüyor. Bu coğrafi özellikler, Kazok Kurganı'nı ziyaret edenler için önemli bir deneyim oluşturuyor.
+Kazok Kurganı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir alandır. Bu bölge, geniş ovalar, dağlar ve akarsularla çevrili. Coğrafi konumu, tarihi ticaret yollarının kesişme noktasında bulunduğundan, önemli bir konumda yer alıyor. Kazok Kurganı'nın coğrafyası, ziyaretçilere geniş bir manzara sunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin característicasına uygun olarak karasal bir yapıya sahip. Yaz aylarında sıcak ve kurak, kış aylarında soğuk ve kar yağışlı bir iklim hüküm sürüyor. Bu coğrafi özellikler, Kazok Kurganı'nı ziyaret edenler için önemli bir deneyim oluşturuyor.
 
 ## Flora ve Fauna
 

@@ -30,7 +30,7 @@ Gölcük Gölü'nün tarihi geçmişi, yüzyıllar boyunca şehrin önemli bir s
 
 ## Coğrafya
 
-Gölcük Gölü, Karadeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Bölgenin iklimi, Karadeniz ikliminin caratteristik özelliklerine sahiptir; yani yazlar serin ve yağışlı, kışlar ise soğu ve karlı geçer. Gölcük Gölü'nün coğrafi konumu, zengin bir flora ve fauna çeşitliliği sunar. Gölün etrafında, çeşitli ağaç türleri ve bitki örtüsü bulunur. Bu bitki örtüsü, gölün ekosistemini destekler ve yaban hayvanlarının yaşamasına imkân tanır. Gölcük Gölü'nün coğrafi yapısı, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Gölcük Gölü, Bolu'nun coğrafi özelliklerini yansıtan bir tabiat parkı olarak kabul edilir ve doğal güzelliği ile ziyaretçileri cezbeder.
+Gölcük Gölü, Karadeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Bölgenin iklimi, Karadeniz ikliminin caratteristik özelliklerine sahiptir; yani yazlar serin ve yağışlı, kışlar ise soğuk ve karlı geçer. Gölcük Gölü'nün coğrafi konumu, zengin bir flora ve fauna çeşitliliği sunar. Gölün etrafında, çeşitli ağaç türleri ve bitki örtüsü bulunur. Bu bitki örtüsü, gölün ekosistemini destekler ve yaban hayvanlarının yaşamasına imkân tanır. Gölcük Gölü'nün coğrafi yapısı, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Gölcük Gölü, Bolu'nun coğrafi özelliklerini yansıtan bir tabiat parkı olarak kabul edilir ve doğal güzelliği ile ziyaretçileri cezbeder.
 
 ## Flora ve Fauna
 

@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi zenginliklerini keşfetmek isteyenler 
 
 Doğal bir oluşum olarak Komu Tepe, bölgenin jeolojik yapısını yansıtan bir yapıya sahiptir. Ancak, detaylı fiziksel verileri olmasa da, bu dağlık alanın coğrafi özellikleri, bölgenin genel jeolojik yapısına benzerlik göstermektedir. Komu Tepe'nin etrafındaki arazi, geniş ve yeşil vadilerle çevrili olup, bölgenin coğrafi çeşitliliğini yansıtmaktadır.
 
-Mevsimsel değişimlerin yaşandığı bir bölge olan Güneydoğu Anadolu, Komu Tepe'nin de içinde bulunduğu coğrafi alanda farklı iklim karakterine sahiptir. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
+Mevsimsel değişimlerin yaşandığı bir bölge olan Güneydoğu Anadolu, Komu Tepe'nin de içinde bulunduğu coğrafi alanda farklı iklim karakterine sahiptir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahip olan Komu Tepe, Batman Nehri'nin yan havzalarına yakınlığıyla dikkat çekmektedir. Bu nehri besleyen su kaynakları, bölgenin ekosistemini desteklemektedir. Ayrıca, Komu Tepe'nin etrafındaki arazide bulunan çeşitli bitki türleri ve hayvanlar, bölgenin biyolojik çeşitliliğini zenginleştirmektedir.
 

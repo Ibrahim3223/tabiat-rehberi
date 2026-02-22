@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi zenginliklerini keşfetmek isteyenler 
 
 Doğal bir anıt olan Merdan Mağarası, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Jeolojik yapı itibariyle, mağaranın oluşumu milyonlarca yıl önce başlıyor ve bölgenin kayaçlarının yavaş yavaş aşınması sonucu oluşuyor. Mağaranın içi, kireçtaşı ve diğer kayaçların birleşimiyle oluşmuş ilginç oluşumları barındırıyor.
 
-Merdan Mağarası, Diyarbakır'ın genel iklim karakterine uygun olarak, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir hava durumuna sahip. Bu mevsimsel özellikler, mağaranın içi ve dışı arasında ilginç bir iklimsel farklılık yaratıyor. Mağaranın girişinde, sıcaklık ve nem oranları, dışarıdaki conditions'dan oldukça farklı olabilir.
+Merdan Mağarası, Diyarbakır'ın genel iklim karakterine uygun olarak, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir hava durumuna sahip. Bu mevsimsel özellikler, mağaranın içi ve dışı arasında ilginç bir iklimsel farklılık yaratıyor. Mağaranın girişinde, sıcaklık ve nem oranları, dışarıdaki conditions'dan oldukça farklı olabilir.
 
 Merdan Mağarası, çevresindeki ekosistemle bağlantılı olarak, bölgenin su kaynaklarına ve komşu alanlara etkileri olan bir doğal oluşum. Mağaranın yakınında, çeşitli su kaynakları ve tarım alanları yer alıyor. Bu alanlar, bölgenin ekolojik dengesini koruması açısından önemli bir role sahip. Merdan Mağarası, aynı zamanda bölgenin turizm potansiyelini artıran bir doğal güzellik olarak da dikkat çekiyor.
 

@@ -37,7 +37,7 @@ Marmara Bölgesi'nin önemli tarihî alanlarından biri olan Çanakkale Savaşla
 
 ## Coğrafya
 
-Çanakkale Savaşları Gelibolu Tarihî Alanı, Çanakkale ilinin Gelibolu Yarımadası'nda yer almaktadır. Alanın coğrafi yapısı, tepeli ve dağlık arazilerden oluşmaktadır. En yüksek noktası, 200 metre yükseklikte olan Kocaçimentepe'dir. Alanın iklimi, Akdeniz iklimi özellikleri göstermektedir. Kış mevsimi ılımandır ve yaz mevsimi sıca ve kurudur. Alanın çevresinde, Saros Körfezi ve Çanakkale Boğazı bulunmaktadır.
+Çanakkale Savaşları Gelibolu Tarihî Alanı, Çanakkale ilinin Gelibolu Yarımadası'nda yer almaktadır. Alanın coğrafi yapısı, tepeli ve dağlık arazilerden oluşmaktadır. En yüksek noktası, 200 metre yükseklikte olan Kocaçimentepe'dir. Alanın iklimi, Akdeniz iklimi özellikleri göstermektedir. Kış mevsimi ılımandır ve yaz mevsimi sıcak ve kurudur. Alanın çevresinde, Saros Körfezi ve Çanakkale Boğazı bulunmaktadır.
 
 ## Flora ve Fauna
 

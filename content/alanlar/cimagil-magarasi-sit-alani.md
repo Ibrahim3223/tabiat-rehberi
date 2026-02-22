@@ -30,7 +30,7 @@ wikidata_id: "Q108226256"
 
 ## Coğrafya
 
-Çımağıl Mağarası Sit Alanı, İç Anadolu Bölgesi'nin coğrafi çeşitliliğiçerisinde yer alıyor. Bu bölge, geniş  alanları, dağlar ve vadilerle karakterize ediliyor. Mağara ve çevresindeki sit alanı, coğrafi olarak oldukça çeşitli bir yapıya sahip. Alan, 140 hektarlık geniş bir bölgeyi kapsıyor ve ziyaretçilere doğanın farklı yönlerini keşfetme fırsatı sunuyor. Mağaranın kendisi, kaya oluşumları ve yeraltı geçitleri ile dikkat çekiyor. Çımağıl Mağarası Sit Alanı, bölgenin iklimine uygun olarak, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve kar yağışlı bir hava koşullarına sahip. Ziyaretçiler, mevsimsel değişimlere göre planladıkları geziyle, bu coğrafi çeşitliliğin keyfini çıkarabilirler.
+Çımağıl Mağarası Sit Alanı, İç Anadolu Bölgesi'nin coğrafi çeşitliliğiçerisinde yer alıyor. Bu bölge, geniş  alanları, dağlar ve vadilerle karakterize ediliyor. Mağara ve çevresindeki sit alanı, coğrafi olarak oldukça çeşitli bir yapıya sahip. Alan, 140 hektarlık geniş bir bölgeyi kapsıyor ve ziyaretçilere doğanın farklı yönlerini keşfetme fırsatı sunuyor. Mağaranın kendisi, kaya oluşumları ve yeraltı geçitleri ile dikkat çekiyor. Çımağıl Mağarası Sit Alanı, bölgenin iklimine uygun olarak, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve kar yağışlı bir hava koşullarına sahip. Ziyaretçiler, mevsimsel değişimlere göre planladıkları geziyle, bu coğrafi çeşitliliğin keyfini çıkarabilirler.
 
 ## Flora ve Fauna
 

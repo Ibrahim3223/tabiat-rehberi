@@ -30,7 +30,7 @@ Troya TMP'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge, tar
 
 ## Coğrafya
 
-Troya TMP, İç Anadolu Bölgesi'nin coğrafi olarak çeşitlilik gösteren bir bölgesinde yer alıyor. 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini etkiliyor. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunuyor. Troya TMP, doğu-batı yönünde uzanan bir vadi içerisinde yer alıyor ve bu vadi, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir iklim özelliği gösteriyor. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirmiş ve ziyaretçilere benzersiz bir doğal ortam sunuyor.
+Troya TMP, İç Anadolu Bölgesi'nin coğrafi olarak çeşitlilik gösteren bir bölgesinde yer alıyor. 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini etkiliyor. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunuyor. Troya TMP, doğu-batı yönünde uzanan bir vadi içerisinde yer alıyor ve bu vadi, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir iklim özelliği gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirmiş ve ziyaretçilere benzersiz bir doğal ortam sunuyor.
 
 ## Flora ve Fauna
 

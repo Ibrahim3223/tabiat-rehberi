@@ -37,7 +37,7 @@ Sığırkuyruğu Tepe'nin tarihi geçmişi, İç Anadolu Bölgesi'nin tarihi ile
 
 ## Coğrafya
 
-Sığırkuyruğu Tepe, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle step ve ova gibi coğrafi oluşumlarla karakterizedir. Sığırkuyruğu Tepe, bu coğrafi özelliklere sahip bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplar. Tepe, bölgenin iklimine uygun olarak, yazları sıca ve kurak, kışları ise soğu ve karlı bir hava durumuna sahiptir. Bu iklim koşulları, tepe'nin flora ve faunasını etkiler. Sığırkuyruğu Tepe, çevresi ile birlikte, bir bütün olarak ele alındığında, coğrafi açıdan zengin bir bölgedir. Bu bölge, İç Anadolu Bölgesi'nin coğrafi çeşitliliğini göstermektedir. Sığırkuyruğu Tepe, coğrafi konumu itibariyle, hem doğal güzellikleri hem de tarihi değerleri ile dikkat çekmektedir.
+Sığırkuyruğu Tepe, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle step ve ova gibi coğrafi oluşumlarla karakterizedir. Sığırkuyruğu Tepe, bu coğrafi özelliklere sahip bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplar. Tepe, bölgenin iklimine uygun olarak, yazları sıcak ve kurak, kışları ise soğuk ve karlı bir hava durumuna sahiptir. Bu iklim koşulları, tepe'nin flora ve faunasını etkiler. Sığırkuyruğu Tepe, çevresi ile birlikte, bir bütün olarak ele alındığında, coğrafi açıdan zengin bir bölgedir. Bu bölge, İç Anadolu Bölgesi'nin coğrafi çeşitliliğini göstermektedir. Sığırkuyruğu Tepe, coğrafi konumu itibariyle, hem doğal güzellikleri hem de tarihi değerleri ile dikkat çekmektedir.
 
 ## Flora ve Fauna
 

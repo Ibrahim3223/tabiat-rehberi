@@ -45,7 +45,7 @@ Gökyüzünü süsleyen bulutların altında, Konya'nın coğrafi güzellikleri 
 
 Doğal güzellikleri ile dikkat çeken bu bölge, Konya'nın coğrafi çeşitliliğini sergiler. Küpe Dağı'nın fiziksel yapısına bakıldığında, detaylı bilgiler bulunmasa da, bu dağın Konya'nın genel coğrafi yapısına uygun olarak, volkani ve sedimentatif kayaçlardan oluştuğu söylenebilir. Bu kayaçlar, milyonlarca yıl boyunca oluşan jeolojik süreçlerin bir sonucu olarak ortaya çıkmıştır.
 
-İklim koşulları açısından, Küpe Dağı'nın bulunduğu bölge, İç Anadolu Bölgesi'nin karakteristik iklimine sahiptir. Bu bölge, kışları soğu ve kar yağışlı, yazları ise sıca ve kurak geçer. Mevsimsel değişimler, bu bölgenin iklim karakterini belirler ve bu karakter, Küpe Dağı'nın doğal güzelliklerini etkiler.
+İklim koşulları açısından, Küpe Dağı'nın bulunduğu bölge, İç Anadolu Bölgesi'nin karakteristik iklimine sahiptir. Bu bölge, kışları soğuk ve kar yağışlı, yazları ise sıcak ve kurak geçer. Mevsimsel değişimler, bu bölgenin iklim karakterini belirler ve bu karakter, Küpe Dağı'nın doğal güzelliklerini etkiler.
 
 Çevresel açıdan bakıldığında, Küpe Dağı, Konya'nın diğer coğrafi oluşumları ile bağlantılıdır. Bu dağ, bölgenin su kaynaklarına ve ekosistemlerine katkıda bulunur. Ayrıca, Küpe Dağı'nın eteklerinde yer alan otlaklar, bölgenin flora ve fauna çeşitliliğine ev sahipliği yapar. Bu doğal güzellikler, Küpe Dağı'nın çevresi ile olan ilişkilerini gösterir ve bu dağ, Konya'nın coğrafi zenginliklerinin bir parçası olarak yer alır.
 

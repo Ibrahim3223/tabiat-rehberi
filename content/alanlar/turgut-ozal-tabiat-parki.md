@@ -38,7 +38,7 @@ Turgut Özal Tabiat Parkı, ismini Türkiye'nin 8. Cumhurbaşkanı Turgut Özal'
 
 ## Coğrafya
 
-Turgut Özal Tabiat Parkı, Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahiptir. Parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bölge, Malatya ilinin Battalgazi ilçesinde yer alır ve yüksekliği deniz seviyesinden yaklaşık 1000 metre civarındadır. Parkın iklimi, karasal iklim özellikleri gösterir ve dört mevsimi belirgin olarak yaşar. Kışları soğu ve kar yağışlı, yazları ise sıcak ve kuru geçer. Bu iklim koşulları, parkın flora ve faunasının çeşitliliğini etkileyen önemli faktörlerdir. Turgut Özal Tabiat Parkı, çevresi ile birlikte bir bütün olarak ele alındığında, bölgeye özgü bir coğrafi yapıya sahiptir. Parkın yakınlarında akarsular, göller ve ormanlık alanlar bulunur ve bu doğal kaynaklar, parkın ekosistemini destekler.
+Turgut Özal Tabiat Parkı, Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahiptir. Parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bölge, Malatya ilinin Battalgazi ilçesinde yer alır ve yüksekliği deniz seviyesinden yaklaşık 1000 metre civarındadır. Parkın iklimi, karasal iklim özellikleri gösterir ve dört mevsimi belirgin olarak yaşar. Kışları soğuk ve kar yağışlı, yazları ise sıcak ve kuru geçer. Bu iklim koşulları, parkın flora ve faunasının çeşitliliğini etkileyen önemli faktörlerdir. Turgut Özal Tabiat Parkı, çevresi ile birlikte bir bütün olarak ele alındığında, bölgeye özgü bir coğrafi yapıya sahiptir. Parkın yakınlarında akarsular, göller ve ormanlık alanlar bulunur ve bu doğal kaynaklar, parkın ekosistemini destekler.
 
 ## Flora ve Fauna
 

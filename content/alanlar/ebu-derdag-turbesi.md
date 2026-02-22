@@ -37,7 +37,7 @@ Ebu Derdağ Türbesi, tarihi geçmişi ile dikkat çeker. Bu türbe, uzun yılla
 
 ## Coğrafya
 
-Ebu Derdağ Türbesi, Marmara Bölgesi'nde bulunan İstanbul'un Eyüpsultan ilçesinde yer alır. Bu bölge, coğrafi olarak önemli bir konumda bulunur. Ebu Derdağ Türbesi, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır. Bu türbe, çevresi ile birlikte, yaklaşık 140 hektarlık bir alanı kapsar. Ebu Derdağ Türbesi'nin coğrafi konumu, ziyaretçilerin hem tarihi hem de doğal güzellikleri keşfetmesine olanak sağlar. Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunur. Ebu Derdağ Türbesi, İstanbul'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Bu bölgede, mevsimsel değişimler de gözlemlenebilir. İlkbahar ve yaz aylarında, bu bölge, yeşilin çeşitli tonlarıyla ziyaretçilerini karşılar. Sonbahar ve kış aylarında ise, doğa farklı bir güzelliğe bürünür.
+Ebu Derdağ Türbesi, Marmara Bölgesi'nde bulunan İstanbul'un Eyüpsultan ilçesinde yer alır. Bu bölge, coğrafi olarak önemli bir konumda bulunur. Ebu Derdağ Türbesi, yüksek bir konumda yer alır. Bu türbe, çevresi ile birlikte, yaklaşık 140 hektarlık bir alanı kapsar. Ebu Derdağ Türbesi'nin coğrafi konumu, ziyaretçilerin hem tarihi hem de doğal güzellikleri keşfetmesine olanak sağlar. Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunur. Ebu Derdağ Türbesi, İstanbul'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Bu bölgede, mevsimsel değişimler de gözlemlenebilir. İlkbahar ve yaz aylarında, bu bölge, yeşilin çeşitli tonlarıyla ziyaretçilerini karşılar. Sonbahar ve kış aylarında ise, doğa farklı bir güzelliğe bürünür.
 
 ## Flora ve Fauna
 

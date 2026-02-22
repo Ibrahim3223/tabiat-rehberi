@@ -44,7 +44,7 @@ Güneydoğu Anadolu'nun kalbinde yer alan Havres Dağı, 38.6433°K enlem ve 41.
 
 Doğal güzellikleri ve coğrafi özellikleri ile dikkat çeken Havres Dağı, yaklaşık olarak Beşiktaş ilçesi büyüklüğünde bir alanı kaplar. Bu büyüklük, Taksim Meydanı'nın 10 katı kadar bir alanı temsil eder. Ancak, dağın boyutları hakkında daha ayrıntılı bilgiler bulunmaması, onun gerçek büyüklüğü hakkında tam bir fikir vermemektedir. Jeolojik açıdan bakıldığında, Havres Dağı'nın yapısı bölgenin genel jeolojisine uygun olarak kayaçlardan oluşmaktadır.
 
-Mevsimsel değişimler, Havres Dağı'nın iklim karakterini belirler. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kuru bir hava hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler. Hava durumu, özellikle dağlık arazide önemli bir faktör olarak ortaya çıkar. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı zirveler, dağın yüksekliklerini gösterir.
+Mevsimsel değişimler, Havres Dağı'nın iklim karakterini belirler. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kuru bir hava hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler. Hava durumu, özellikle dağlık arazide önemli bir faktör olarak ortaya çıkar. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı zirveler, dağın yüksekliklerini gösterir.
 
 Havres Dağı, çevresindeki diğer coğrafi oluşumlarla bağlantılıdır. Komşu alanlar, su kaynakları ve ekosistem bağlantıları, dağın çevresel ilişkilerini belirler. Monaco'nun yarısı kadar bir alanı kaplayan yakın çevresi, dağlık arazilerin hakim olduğu bir bölgedir. Bu bağlantılar, bölgenin doğal dengesini korur ve ekosistemin sürekliliğini sağlar.
 

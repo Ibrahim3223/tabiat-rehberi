@@ -37,7 +37,7 @@ Hacı Abdullah Efendi Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekill
 
 ## Coğrafya
 
-Hacı Abdullah Efendi Türbesi, Konya'nın Seydişehir ilçesinde, İç Anadolu Bölgesi'nde yer almaktadır. Bu bölge, coğrafi olarak çeşitli ve zengin bir yapıya sahiptir. Türbenin etrafı, geniş ovalar ve dağlar ile çevrilidir. İklim, karasal iklim özellikleri gösterir ve dört mevsim belirgin bir şekilde yaşanır. Yaz ayları sıca ve kurak, kış ayları soğu ve kar yağışlı geçer. Bu coğrafi özellikler, bölgenin flora ve faunasını da etkiler. Çevre, tarihi ve doğal güzelliklerin birleştirilmesi ile ziyaretçilere benzersiz bir deneyim sunar. 180 hektarlık bir alan, ziyaretçilere geniş bir gezi alanı sunar ve doğa ile iç içe olunabilir.
+Hacı Abdullah Efendi Türbesi, Konya'nın Seydişehir ilçesinde, İç Anadolu Bölgesi'nde yer almaktadır. Bu bölge, coğrafi olarak çeşitli ve zengin bir yapıya sahiptir. Türbenin etrafı, geniş ovalar ve dağlar ile çevrilidir. İklim, karasal iklim özellikleri gösterir ve dört mevsim belirgin bir şekilde yaşanır. Yaz ayları sıcak ve kurak, kış ayları soğuk ve kar yağışlı geçer. Bu coğrafi özellikler, bölgenin flora ve faunasını da etkiler. Çevre, tarihi ve doğal güzelliklerin birleştirilmesi ile ziyaretçilere benzersiz bir deneyim sunar. 180 hektarlık bir alan, ziyaretçilere geniş bir gezi alanı sunar ve doğa ile iç içe olunabilir.
 
 ## Flora ve Fauna
 

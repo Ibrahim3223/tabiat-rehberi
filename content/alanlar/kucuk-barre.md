@@ -46,7 +46,7 @@ Doğal güzelliklerin bir araya geldiği bir bölge olan Küçük Barre, 37.0000
 
 Jeolojik açıdan bakıldığında, Küçük Barre'nin fiziksel yapısı hakkında detaylı bilgi olmasa da, koordinatlarından hareketle, ada'nın boyutlarının birkaç olimpik havuz kadar bir alanı kapsayabileceği düşünülebilir. Bu boyut, bir şehir bloğu büyüklüğünde bir alanı kaplayan ada, küçük ama önemli bir coğrafi oluşumdur. Ada'nın şekli ve jeolojisi hakkında daha fazla bilgi bulunmasa da, Ege Denizi'nin diğer adaları gibi, volkanik kökenli bir yapıya sahip olabileceği tahmin edilebilir.
 
-İklim açısından, Küçük Barre, Ege Denizi'nin ılıman ikliminin etkisi altındadır. Mevsimsel olarak, ada, yaz aylarında sıca ve kuru, kış aylarında ise ılık ve yağmurlu bir hava durumuna sahiptir. Bu iklim, ada'nın bitki örtüsü ve fauna'sı için uygun koşullar sağlar.
+İklim açısından, Küçük Barre, Ege Denizi'nin ılıman ikliminin etkisi altındadır. Mevsimsel olarak, ada, yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağmurlu bir hava durumuna sahiptir. Bu iklim, ada'nın bitki örtüsü ve fauna'sı için uygun koşullar sağlar.
 
 Çevresel açıdan, Küçük Barre, komşu adalar ve su kaynakları ile bağlantılı bir ekosistem içinde yer alır. Ada, Ege Denizi'nin zengin deniz yaşamına ev sahipliği yapan bir bölgede bulunur ve bu nedenle, çevresel olarak önemli bir role sahiptir. Ada'nın küçük boyutuna rağmen, çevreye olan etkisi, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanın etkisine benzer ve, ada'nın korunması ve sürdürülebilirliği, bölgenin ekolojik dengesi için önemlidir.
 

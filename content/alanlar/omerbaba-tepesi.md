@@ -36,7 +36,7 @@ wikidata_id: "Q34829765"
 
 ## Coğrafya
 
-Ömerbaba Tepesi, Kütahya ilinin coğrafi yapısına uygun olarak, Ege Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, genellikle dağlık ve engebeli arazilerden oluşmakta olup, Ömerbaba Tepesi de bu coğrafi yapı içerisinde yer almaktadır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi genellikle ormanlık ve çayırlık arazilerle çevrilidir. İklim olarak, Ege Bölgesi'nin ılıman ikliminden nasibini alan Ömerbaba Tepesi, yazları sıca ve kurak, kışları ise ılıman ve yağışlı bir hava yapısına sahiptir. Bu coğrafi ve iklimsel özellikler, burada çeşitli bitki türleri ve zengin faunanın gelişmesine olanak tanımıştır. Ayrıca, bölgenin su kaynakları ve topoğrafik yapısı, ziyaretçilerin doğayı keşfetmeleri için uygun bir ortam sunmaktadır.
+Ömerbaba Tepesi, Kütahya ilinin coğrafi yapısına uygun olarak, Ege Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, genellikle dağlık ve engebeli arazilerden oluşmakta olup, Ömerbaba Tepesi de bu coğrafi yapı içerisinde yer almaktadır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi genellikle ormanlık ve çayırlık arazilerle çevrilidir. İklim olarak, Ege Bölgesi'nin ılıman ikliminden nasibini alan Ömerbaba Tepesi, yazları sıcak ve kurak, kışları ise ılıman ve yağışlı bir hava yapısına sahiptir. Bu coğrafi ve iklimsel özellikler, burada çeşitli bitki türleri ve zengin faunanın gelişmesine olanak tanımıştır. Ayrıca, bölgenin su kaynakları ve topoğrafik yapısı, ziyaretçilerin doğayı keşfetmeleri için uygun bir ortam sunmaktadır.
 
 ## Flora ve Fauna
 

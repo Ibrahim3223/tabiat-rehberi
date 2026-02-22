@@ -55,7 +55,7 @@ Kızıltepe, Antalya'nın dağlık bölgesinde yer alan bir ekosistemdir. Bu 120
 
 Dağ ekosisteminin yükseklik zonları, alpin flora çeşitliliğine olanak tanır. Yükseklik arttıkça, bitki örtüsü değişir ve kuraklığa dayanıklı türler daha baskın hale gelir. Kıyı ekosisteminin yakınlığı, bu bölgenin biyolojik çeşitliliğini artıran bir diğer faktördür.
 
-Yaban hayatı da oldukça zengin olan Kızıltepe'de, çeşitli memeliler, kuşlar ve sürüngenler yaşamaktadır. Dağ keçileri ve yaban domuzları, bu bölgenin memeli temsilcileridir. Kuşlar ise, göç yolunda önemli bir durak olan Kızıltepe'de, çeşitlilik gösterir. Sürüngenler de, bu bölgenin sıca ve kurak bölgelerinde yaşamlarını sürdürür. Bu ekosistemin korunması, bu zengin yaban hayatının devamı için çok önemlidir.
+Yaban hayatı da oldukça zengin olan Kızıltepe'de, çeşitli memeliler, kuşlar ve sürüngenler yaşamaktadır. Dağ keçileri ve yaban domuzları, bu bölgenin memeli temsilcileridir. Kuşlar ise, göç yolunda önemli bir durak olan Kızıltepe'de, çeşitlilik gösterir. Sürüngenler de, bu bölgenin sıcak ve kurak bölgelerinde yaşamlarını sürdürür. Bu ekosistemin korunması, bu zengin yaban hayatının devamı için çok önemlidir.
 
 ## Ziyaret Bilgileri
 

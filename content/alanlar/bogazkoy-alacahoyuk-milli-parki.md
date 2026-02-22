@@ -37,7 +37,7 @@ Boğazköy-Alacahöyük Milli Parkı, tarihi geçmişinin yanı sıra doğal gü
 
 ## Coğrafya
 
-Boğazköy-Alacahöyük Milli Parkı, Karadeniz Bölgesi'nde yer alan Çorum'un Boğazkale ilçesinde bulunuyor. Park, coğrafi olarak zengin bir yapıya sahip. Çevresindeki dağlar ve vadiler, parkın doğal güzelliklerini artırıyor. Parkın iklimi, Karadeniz Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor. Kışları soğu ve yağışlı, yazları ise ılık ve yağışlı bir iklim hüküm sürüyor. Bu iklim, parkın flora ve faunasının zenginleşmesine katkıda bulunuyor. Parkın coğrafi yapısı, ziyaretçilere çeşitli etkinlikler için uygun bir ortam sunuyor. Doğal güzellikleri, ziyaretçilerin doğa ile iç içe bir deneyim yaşamalarına olanak tanıyor.
+Boğazköy-Alacahöyük Milli Parkı, Karadeniz Bölgesi'nde yer alan Çorum'un Boğazkale ilçesinde bulunuyor. Park, coğrafi olarak zengin bir yapıya sahip. Çevresindeki dağlar ve vadiler, parkın doğal güzelliklerini artırıyor. Parkın iklimi, Karadeniz Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor. Kışları soğuk ve yağışlı, yazları ise ılık ve yağışlı bir iklim hüküm sürüyor. Bu iklim, parkın flora ve faunasının zenginleşmesine katkıda bulunuyor. Parkın coğrafi yapısı, ziyaretçilere çeşitli etkinlikler için uygun bir ortam sunuyor. Doğal güzellikleri, ziyaretçilerin doğa ile iç içe bir deneyim yaşamalarına olanak tanıyor.
 
 ## Flora ve Fauna
 

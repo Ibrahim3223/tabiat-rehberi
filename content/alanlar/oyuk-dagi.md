@@ -44,7 +44,7 @@ Coğrafi olarak, Oyuk Dağı Muğla ilinin güneyinde yer alır ve 36.9507°K, 2
 
 Jeolojik açıdan bakıldığında, Oyuk Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, genel olarak Muğla ilinin coğrafyası, dağlık ve engebeli bir yapıya sahiptir. Bu bölgede yer alan dağlar, genellikle kalker ve şist gibi kayaçlardan oluşmaktadır. Oyuk Dağı da bu coğrafyanın bir parçası olarak, benzer jeolojik özellikler taşımaktadır.
 
-İklim açısından, Oyuk Dağı'nın bulunduğu bölge, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz ayları sıca ve kurak, kış ayları ise ılık ve yağışlı geçer. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler. Oyuk Dağı'nın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bir dağ değildir, ancak coğrafyası ve iklimi, benzersiz bir ekosistemi destekler.
+İklim açısından, Oyuk Dağı'nın bulunduğu bölge, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlı geçer. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler. Oyuk Dağı'nın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bir dağ değildir, ancak coğrafyası ve iklimi, benzersiz bir ekosistemi destekler.
 
 Çevresel açıdan, Oyuk Dağı'nın komşu alanları, genellikle ormanlık ve dağlık arazilerdir. Bu bölgede, çeşitli su kaynakları ve akarsular bulunmakta olup, bu su kaynakları, Oyuk Dağı'nın ekosistemine önemli katkılar sağlar. Ayrıca, bu bölgede bulunan diğer dağlar ve ormanlık alanlar, Oyuk Dağı ile birlikte, bir bütün olarak düşünülmesi gereken bir ekosistem oluşturur.
 

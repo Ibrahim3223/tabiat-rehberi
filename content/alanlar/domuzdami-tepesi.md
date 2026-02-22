@@ -36,7 +36,7 @@ Domuzdamı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu
 
 ## Coğrafya
 
-Domuzdamı Tepesi, Hatay'ın coğrafi yapısında önemli bir yere sahiptir. Tepenin etrafı, çeşitli bitki türleriyle kaplıdır ve bu bitkiler, tepeye renkli bir görünüm kazandırır. İklim, Akdeniz bölgesine özgü olup, yazları sıca ve kurak, kışları ılıman ve yağışlıdır. Bu iklim, tepeye özgü flora ve faunanın gelişimini destekler. Tepenin yüksekliği, ziyaretçilere geniş bir manzara sunar ve çevresindeki diğer tepe ve dağları görme mümkündür. Domuzdamı Tepesi, Hatay'ın coğrafi güzelliğini temsil eder ve ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar.
+Domuzdamı Tepesi, Hatay'ın coğrafi yapısında önemli bir yere sahiptir. Tepenin etrafı, çeşitli bitki türleriyle kaplıdır ve bu bitkiler, tepeye renkli bir görünüm kazandırır. İklim, Akdeniz bölgesine özgü olup, yazları sıcak ve kurak, kışları ılıman ve yağışlıdır. Bu iklim, tepeye özgü flora ve faunanın gelişimini destekler. Tepenin yüksekliği, ziyaretçilere geniş bir manzara sunar ve çevresindeki diğer tepe ve dağları görme mümkündür. Domuzdamı Tepesi, Hatay'ın coğrafi güzelliğini temsil eder ve ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

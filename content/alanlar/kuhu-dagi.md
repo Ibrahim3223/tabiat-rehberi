@@ -43,7 +43,7 @@ Coğrafi olarak Antalya'nın kalbinde yer alan Kuhu Dağı, 36.5043°K ve 29.852
 
 Jeolojik açıdan bakıldığında, Kuhu Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, genel olarak bu bölgedeki dağların kalker ve dolomit gibi kayaçlardan oluştuğu biliniyor. Bu dağların yükseklikleri, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan 600-700 metre civarındadır. Kuhu Dağı'nın boyutları, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor gibi görünse de, tam olarak boyutları hakkında net bir bilgi bulunmuyor.
 
-Mevsimsel olarak, Kuhu Dağı ve çevresinin iklimi, Akdeniz ikliminin tipik özellikleri gösteriyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakim. Bu bölgede, yıllık ortalama yağış miktarı 1000 mm civarında ve bu, Monaco'nun yıllık yağış miktarının yaklaşık 2 katıdır.
+Mevsimsel olarak, Kuhu Dağı ve çevresinin iklimi, Akdeniz ikliminin tipik özellikleri gösteriyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakim. Bu bölgede, yıllık ortalama yağış miktarı 1000 mm civarında ve bu, Monaco'nun yıllık yağış miktarının yaklaşık 2 katıdır.
 
 Çevresel açıdan, Kuhu Dağı, Antalya'nın diğer doğal güzelliklerine yakın bir konumda yer alıyor. Bu bölge, su kaynakları ve ekosistem bağlantıları açısından oldukça zengin. Dağın eteklerinde ve yakınında, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Ayrıca, Kuhu Dağı, Antalya'nın diğer dağları ve vadileriyle birlikte, bir bütünü oluşturan geniş bir coğrafi sistemi temsil ediyor. Bu sistem, bölgeye özgü flora ve fauna için önemli bir yaşam alanı oluşturuyor.
 

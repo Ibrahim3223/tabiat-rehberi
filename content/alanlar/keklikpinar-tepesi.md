@@ -36,7 +36,7 @@ Keklikpınar Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniye
 
 ## Coğrafya
 
-Keklikpınar Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor ve bu bölgenin coğrafi özelliklerini taşıyor. Tepenin coğrafi yapısı, genellikle düz ve hafif eğimli arazilerden oluşuyor. Bu coğrafi yapı, ziyaretçilerin tepeyi kolayca keşfetmelerine olanak tanıyor. Keklikpınar Tepesi, çevresindeki diğer tepe ve dağlarla birlikte, bir bütün olarak düşünülüyor. Bu bölge, genellikle step ve ormanlık alanların birleşimini gösterebiliyor. Tepenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve genellikle karasal iklim özellikleri gösteriyor. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor.
+Keklikpınar Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor ve bu bölgenin coğrafi özelliklerini taşıyor. Tepenin coğrafi yapısı, genellikle düz ve hafif eğimli arazilerden oluşuyor. Bu coğrafi yapı, ziyaretçilerin tepeyi kolayca keşfetmelerine olanak tanıyor. Keklikpınar Tepesi, çevresindeki diğer tepe ve dağlarla birlikte, bir bütün olarak düşünülüyor. Bu bölge, genellikle step ve ormanlık alanların birleşimini gösterebiliyor. Tepenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve genellikle karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor.
 
 ## Flora ve Fauna
 

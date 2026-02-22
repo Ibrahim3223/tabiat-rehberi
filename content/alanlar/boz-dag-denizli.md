@@ -45,7 +45,7 @@ Boz Dağ, Denizli'nin coğrafi zenginliklerinin önemli bir parçasını oluştu
 
 Jeolojik açıdan bakıldığında, Boz Dağ'ın fiziksel yapısı, bölgenin tarihini ve coğrafi oluşumunu anlamak için önemli bir anahtar sunuyor. Ancak, şu an için elimizdeki fiziksel veriler sınırlı olsa da, bu dağın büyüklüğü ve şekli, bölgenin diğer coğrafi oluşumlarıyla karşılaştırıldığında, önemli bir yer tutuyor. Örneğin, Monaco'nun yarısı kadar bir alanı kaplayacak büyüklükte olsaydı, Boz Dağ, oldukça geniş bir alanı kapsayacaktı.
 
-Mevsimsel değişiklikler açısından, Boz Dağ'ın iklim karakteri, bölgenin genel iklimine uygun olarak değişiyor. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir hava hakim oluyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini şekillendiriyor. Eiffel Kulesi'nin 5 katı yükseklikte bir tepe olsaydı, Boz Dağ'ın zirvesi, bu yükseklikte bir noktaya ulaşacaktı.
+Mevsimsel değişiklikler açısından, Boz Dağ'ın iklim karakteri, bölgenin genel iklimine uygun olarak değişiyor. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir hava hakim oluyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini şekillendiriyor. Eiffel Kulesi'nin 5 katı yükseklikte bir tepe olsaydı, Boz Dağ'ın zirvesi, bu yükseklikte bir noktaya ulaşacaktı.
 
 Boz Dağ'ın çevresel ilişkileri, bölgenin ekosistemini ve su kaynaklarını etkiliyor. Denizli'nin su kaynaklarına yakınlığı, bu dağın çevreye olan etkisini artırıyor. Örneğin, İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplasa, Boz Dağ, bölgenin önemli bir su kaynağı olacaktı. Bu nedenle, Boz Dağ'ın korunması ve sürdürülebilir kullanımı, bölgenin doğal dengesi için oldukça önemli.
 

@@ -36,7 +36,7 @@ Kurdukuşki Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği ya
 
 ## Coğrafya
 
-Kurdukuşki Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bölge, genellikle dağlık ve engebeli bir araziye sahip. Tepenin etrafında yer alan dağlar, bu bölgenin coğrafi yapısını belirliyor. İklim, genellikle sıca ve kuru. Yaz aylarında sıcaklar oldukça yüksek olabilirken, kış aylarında soğuklar hissediliyor. Bu bölgenin coğrafi konumu, çeşitli bitki türlerinin yetişmesine olanak sağlıyor. Tepenin eteklerinde yer alan vadiler, zengin fauna ile dikkat çekiyor. Bu bölge, özellikle doğa severler için bir cennet. Çevresindeki yeşil alanlar ve manzaralar, ziyaretçilere huzur dolu anlar yaşatıyor.
+Kurdukuşki Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bölge, genellikle dağlık ve engebeli bir araziye sahip. Tepenin etrafında yer alan dağlar, bu bölgenin coğrafi yapısını belirliyor. İklim, genellikle sıcak ve kuru. Yaz aylarında sıcaklar oldukça yüksek olabilirken, kış aylarında soğuklar hissediliyor. Bu bölgenin coğrafi konumu, çeşitli bitki türlerinin yetişmesine olanak sağlıyor. Tepenin eteklerinde yer alan vadiler, zengin fauna ile dikkat çekiyor. Bu bölge, özellikle doğa severler için bir cennet. Çevresindeki yeşil alanlar ve manzaralar, ziyaretçilere huzur dolu anlar yaşatıyor.
 
 ## Flora ve Fauna
 

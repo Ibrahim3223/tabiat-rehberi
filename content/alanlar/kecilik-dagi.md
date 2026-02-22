@@ -44,7 +44,7 @@ Doğunun uzak köşesinde, Hakkari ilinin sınırları içinde yükselen Keçili
 
 Jeolojik açıdan incelendiğinde, Keçilik Dağı'nın fiziksel yapısı hakkında detaylı bilgi olmasa da, bölgenin genel jeolojik karakteri hakkında fikir edinme mümkün. Dağın bulunduğu bölge, genellikle dağlık ve engebeli arazilerden oluşuyor. Bu coğrafi yapı, bölgenin iklimini ve bitki örtüsünü etkiliyor. Örneğin, bir şehir bloğu büyüklüğünde olan bazı bu bölgedeki küçük vadiler, kendi mikro iklimlerini oluşturabiliyorlar.
 
-İklim açısından, Keçilik Dağı ve çevresi, karasal iklimin hüküm sürdüğü bir bölge. Kışlar soğu ve kar yağışlı, yazlar ise sıca ve kurak geçiyor. Bu mevsimsel değişim, bölgenin flora ve fauna'sını şekillendiriyor. Örneğin, dağların yamaçlarında yetişen bazı bitki türleri, sadece belirli bir mevsimde görülebiliyor. Bu mevsimsel özellikler, bölgenin ekosistemini zenginleştiriyor ve biyolojik çeşitliliğini artırıyor.
+İklim açısından, Keçilik Dağı ve çevresi, karasal iklimin hüküm sürdüğü bir bölge. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu mevsimsel değişim, bölgenin flora ve fauna'sını şekillendiriyor. Örneğin, dağların yamaçlarında yetişen bazı bitki türleri, sadece belirli bir mevsimde görülebiliyor. Bu mevsimsel özellikler, bölgenin ekosistemini zenginleştiriyor ve biyolojik çeşitliliğini artırıyor.
 
 Çevresel açıdan, Keçilik Dağı, bölgenin su kaynaklarını ve ekosistem bağlantılarını etkiliyor. Dağın eteklerinde ve çevresinde bulunan su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılıyor. Ayrıca, dağların yüksek kesimlerinde bulunan bazı bitki ve hayvan türleri, sadece bu bölgede bulunabiliyor. Bu nedenle, Keçilik Dağı ve çevresi, bölgenin doğal dengesini korumak için kritik bir önem taşıyor.
 

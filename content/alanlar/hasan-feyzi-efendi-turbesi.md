@@ -37,7 +37,7 @@ Hasan Feyzi Efendi Türbesi'nin tam olarak ne zaman inşa edildiği bilinmemekle
 
 ## Coğrafya
 
-Hasan Feyzi Efendi Türbesi, Pamukkale'nin merkezinde yer alır. Bu bölge, Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak bilinir. Türbenin bulunduğu alan, 140 hektarlık bir araziye sahiptir ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu bölge, doğal güzellikleriyle dikkat çeker. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplıdır. İklim, Akdeniz iklimi özellikleri gösterir ve yaz ayları sıca ve kurak, kış ayları ise ılık ve yağışlı geçer. Türbenin bulunduğu bölge, Pamukkale'nin merkezine yakın bir konumda yer alır ve ulaşımı kolaydır. Ziyaretçiler, bu bölgeye kolayca ulaşabilir ve türbenin güzelliklerini keşfedebilir.
+Hasan Feyzi Efendi Türbesi, Pamukkale'nin merkezinde yer alır. Bu bölge, Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak bilinir. Türbenin bulunduğu alan, 140 hektarlık bir araziye sahiptir ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu bölge, doğal güzellikleriyle dikkat çeker. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplıdır. İklim, Akdeniz iklimi özellikleri gösterir ve yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlı geçer. Türbenin bulunduğu bölge, Pamukkale'nin merkezine yakın bir konumda yer alır ve ulaşımı kolaydır. Ziyaretçiler, bu bölgeye kolayca ulaşabilir ve türbenin güzelliklerini keşfedebilir.
 
 ## Flora ve Fauna
 

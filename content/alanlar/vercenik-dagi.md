@@ -53,7 +53,7 @@ Bölgenin doğal dengesi açısından, Verçenik Dağı'nın çevresindeki su ka
 
 Verçenik Dağı, step bitki örtüsü ve bozkırın hakim olduğu bir dağ ekosistemidir. İlkbaharın gelmesiyle birlikte, dağ eteklerinde çiçekler açar ve yeşil bir halı gibi görünür. Yükseklik zonlarına çıkıldıkça, alpin flora hakim olur ve kuraklığa adapte türler görülür.
 
-Dağın yaban hayatı, çeşitli memeliler, kuşlar ve sürüngenlerle zenginleştirilmiştir. Kış aylarında, bazı kuş türleri güneye göç ederken, diğerleri dağların yüksek kesimlerinde kalır. Memeliler, dağların kayalık alanlarında yaşamını sürdürür ve sürüngenler, sıca ve kuru bölgelerde faaliyet gösterir.
+Dağın yaban hayatı, çeşitli memeliler, kuşlar ve sürüngenlerle zenginleştirilmiştir. Kış aylarında, bazı kuş türleri güneye göç ederken, diğerleri dağların yüksek kesimlerinde kalır. Memeliler, dağların kayalık alanlarında yaşamını sürdürür ve sürüngenler, sıcak ve kuru bölgelerde faaliyet gösterir.
 
 Verçenik Dağı, ekolojik olarak önemli bir bölgedir. Bu dağ, birçok canlıyaşam alanı sağlar ve doğanın dengesini korur. Ancak, insan faaliyetleri nedeniyle, bu dengenin bozulma tehlikesi vardır. Koruma çalışmaları, bu dağın doğal güzelliğini ve canlı çeşitliliğini korumak için önemlidir.
 

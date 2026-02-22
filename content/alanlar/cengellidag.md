@@ -42,7 +42,7 @@ Doğu Anadolu Bölgesi'nin kalbinde yer alan Çengellidağ, Sivas ilinin coğraf
 
 Jeolojik açıdan bakıldığında, Çengellidağ'ın fiziksel yapısı hakkındalı bilgi olmasa da, coğrafi konumu itibariyle etrafındaki ovaların bir uzantısı gibi görülüyor. Bu dağ, etrafındaki düzlüklerle birlikte bir şehir bloğu büyüklüğünde bir alanı kaplıyor ve bu ölçek, bölgenin coğrafi çeşitliliğini gösteriyor. Çengellidağ'ın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte ve bu yükseklik, bölgenin iklimini ve bitki örtüsünü etkiliyor.
 
-Mevsimsel değişimlerin yaşandığı bir bölgede yer alan Çengellidağ, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve karlı bir iklim karakterine sahip. Bu mevsimsel özellikler, dağın ekosistemini ve bitki örtüsünü şekillendiriyor. Çevresindeki ovaların sulak alanlarıyla bağlantılı olan Çengellidağ, bölgenin su kaynaklarının korunmasına da katkı sağlıyor.
+Mevsimsel değişimlerin yaşandığı bir bölgede yer alan Çengellidağ, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı bir iklim karakterine sahip. Bu mevsimsel özellikler, dağın ekosistemini ve bitki örtüsünü şekillendiriyor. Çevresindeki ovaların sulak alanlarıyla bağlantılı olan Çengellidağ, bölgenin su kaynaklarının korunmasına da katkı sağlıyor.
 
 Bölgenin coğrafi yapısını tamamlayan Çengellidağ, komşu alanlarla ve su kaynaklarıyla birlikte bir bütün oluşturuyor. Monaco'nun yaklaşık onda biri büyüklüğünde bir alanı kaplayan bu dağ, bölgenin doğal güzelliklerini ve ekosistem bağlantılarını koruma altına alıyor. Bu nedenle, Çengellidağ, Sivas ilinin önemli bir doğal ve kültürel varlığı olarak dikkat çekiyor.
 

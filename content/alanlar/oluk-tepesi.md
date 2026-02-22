@@ -36,7 +36,7 @@ Oluk Tepesi'nin tarihi geçmişi, Erzurum'un tarihi ile iç içe geçmiş. Bu b�
 
 ## Coğrafya
 
-Oluk Tepesi, Erzurum'un merkezine uzun bir mesafe uzaklıkta yer alıyor. Tepenin yüksekliği, deniz seviyesinden yaklaşık 2200 metre. Oluk Tepesi, çevresindeki dağlar ve tepelerle birlikte, bir dağ silsilesi oluşturuyor. Bu dağ silsilesi, Erzurum'un coğrafi yapısını oluşturan önemli bir parça. Oluk Tepesi'nin etrafında, çeşitli bitki türleri ve zengin fauna yer alıyor. Bu bölge, flora ve fauna açısından çok zengin. Oluk Tepesi, aynı zamanda iklim açısından da önemli. Tepenin etrafında, karasal iklim hüküm sürüyor. Kışları soğu ve karlı, yazları ise serin ve yağışlı. Oluk Tepesi, coğrafi açıdan önemli bir yer. Tepenin etrafında, çeşitli nehirler ve akarsular yer alıyor. Bu nehirler ve akarsular, Oluk Tepesi'nin coğrafi yapısını oluşturan önemli bir parça.
+Oluk Tepesi, Erzurum'un merkezine uzun bir mesafe uzaklıkta yer alıyor. Tepenin yüksekliği, deniz seviyesinden yaklaşık 2200 metre. Oluk Tepesi, çevresindeki dağlar ve tepelerle birlikte, bir dağ silsilesi oluşturuyor. Bu dağ silsilesi, Erzurum'un coğrafi yapısını oluşturan önemli bir parça. Oluk Tepesi'nin etrafında, çeşitli bitki türleri ve zengin fauna yer alıyor. Bu bölge, flora ve fauna açısından çok zengin. Oluk Tepesi, aynı zamanda iklim açısından da önemli. Tepenin etrafında, karasal iklim hüküm sürüyor. Kışları soğuk ve karlı, yazları ise serin ve yağışlı. Oluk Tepesi, coğrafi açıdan önemli bir yer. Tepenin etrafında, çeşitli nehirler ve akarsular yer alıyor. Bu nehirler ve akarsular, Oluk Tepesi'nin coğrafi yapısını oluşturan önemli bir parça.
 
 ## Flora ve Fauna
 

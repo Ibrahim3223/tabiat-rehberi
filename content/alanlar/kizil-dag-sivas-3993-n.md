@@ -43,7 +43,7 @@ Doğunun gizli hazinelerinden biri olan Kızıl Dağ, Sivas'ın kalbinde 39.93 k
 
 Jeolojik açıdan bakıldığında, Kızıl Dağ'ın fiziksel yapısı hakkında detaylı bilgiler olmasa da, koordinatlarından hareketle, bu bölgenin coğrafi yapısını anlama mümkün. Örneğin, Monaco'nun yaklaşık üçte biri büyüklüğünde bir alanı kaplayan bu bölge, bir şehir bloğu büyüklüğünden çok daha büyük bir alanı kapsar.
 
-İklim açısından, Sivas bölgesinin karasal iklimi, Kızıl Dağ'ın mevsimsel özelliklerini de etkiler. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini şekillendirir.
+İklim açısından, Sivas bölgesinin karasal iklimi, Kızıl Dağ'ın mevsimsel özelliklerini de etkiler. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini şekillendirir.
 
 Çevresel açıdan, Kızıl Dağ, Sivas'ın diğer doğal güzelliklerine yakınlığıyla dikkat çeker. Örneğin, nearby su kaynakları, bölgenin ekosistemini destekler. Ayrıca, Taksim Meydanı'nın yaklaşık on katı büyüklüğünde bir alanı kaplayan bu dağ, İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplayan diğer coğrafi oluşumlarla benzerlik gösterir.
 

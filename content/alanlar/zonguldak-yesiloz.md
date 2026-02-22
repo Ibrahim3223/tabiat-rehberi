@@ -27,7 +27,7 @@ Zonguldak-Yesiloz milli parkı, Karadeniz Bölgesi'nin doğal güzelliklerini ba
 
 ## Tarihçe
 
-Zonguldak-Yesiloz milli parkının tarihi geçmişi, yüzyıllar boyunca devam eden bir süreç olarak dikkat çekiyor. Bu bölge, tarih boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu nedenle önemli bir kültürel mirasa sahip. Zonguldak-Yesiloz milli parkı, aynı zamanda bölgenin doğal güzelliklerinin korunmasına yönelik önemli çalışmaların yapıldığı bir alan olarak biliniyor. Bu milli parkın kurulmasının amacı, bölgenin doğal kaynaklarının korunması ve gelecek nesiller için bo tn edilmesi olarak açıklanabilir. Zonguldak-Yesiloz milli parkı, Karadeniz Bölgesi'nin doğal güzelliklerini ve tarihi geçmişi hakkında önemli bilgiler sunan bir destinasyon olarak ziyaretçilerini bekliyor.
+Zonguldak-Yesiloz milli parkının tarihi geçmişi, yüzyıllar boyunca devam eden bir süreç olarak dikkat çekiyor. Bu bölge, tarih boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu nedenle önemli bir kültürel mirasa sahip. Zonguldak-Yesiloz milli parkı, aynı zamanda bölgenin doğal güzelliklerinin korunmasına yönelik önemli çalışmaların yapıldığı bir alan olarak biliniyor. Bu milli parkın kurulmasının amacı, bölgenin doğal kaynaklarının korunması ve gelecek nesiller için korunması olarak açıklanabilir. Zonguldak-Yesiloz milli parkı, Karadeniz Bölgesi'nin doğal güzelliklerini ve tarihi geçmişi hakkında önemli bilgiler sunan bir destinasyon olarak ziyaretçilerini bekliyor.
 
 ## Coğrafya
 

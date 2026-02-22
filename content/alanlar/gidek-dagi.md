@@ -42,7 +42,7 @@ Doğrudan Giresun'un kalbine baktığımızda, 40.8477°K, 38.9415°D koordinatl
 
 Jeolojik açıdan bakıldığında, Gidek Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, dağlık bir bölge olan Giresun'un coğrafi yapısına uygun olarak, farklı jeolojik oluşumların bir araya geldiği bir bölge olarak düşünülebilir. Bu bölgenin jeolojik yapısı, Karadeniz Bölgesi'nin genel jeolojik özelliklerine benzerlik gösterir. Ancak, Gidek Dağı'nın boyutları ve şekli hakkında net bir bilgi bulunmaması, bu konuda dahalı bir analiz yapılmasını engeller.
 
-Mevsimsel olarak, Gidek Dağı'nın bulunduğu Karadeniz Bölgesi, nemli ve yağışlı bir iklime sahiptir. Bu bölgede, yaz aylarında sıcaklık ve nem artarken, kış aylarında soğu ve yağışlı hava koşulları hakimdir. Gidek Dağı'nın yüksekliği ve coğrafi konumu, bu bölgede farklı mikro iklimlerin oluşmasına neden olabilir.
+Mevsimsel olarak, Gidek Dağı'nın bulunduğu Karadeniz Bölgesi, nemli ve yağışlı bir iklime sahiptir. Bu bölgede, yaz aylarında sıcaklık ve nem artarken, kış aylarında soğuk ve yağışlı hava koşulları hakimdir. Gidek Dağı'nın yüksekliği ve coğrafi konumu, bu bölgede farklı mikro iklimlerin oluşmasına neden olabilir.
 
 Çevresel açıdan bakıldığında, Gidek Dağı, Giresun'un doğal kaynaklarını ve ekosistemini koruma açısından önemli bir role sahiptir. Bu dağ, ilin su kaynaklarının korunmasına yardımcı olan ormanlık alanlarla kaplıdır. Ayrıca, Gidek Dağı'nın bulunduğu bölge, çeşitli flora ve fauna türlerine ev sahipliği yapar ve bu bölgede bulunan canlılar, Giresun'un biyolojik çeşitliliğinin önemli bir parçasını oluşturur.
 

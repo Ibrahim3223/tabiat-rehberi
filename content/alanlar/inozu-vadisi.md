@@ -44,7 +44,7 @@ Coğrafi olarak Ankara'nın kalbinde yer alan İnözü Vadisi, 40.1883°K, 31.91
 
 Doğal güzelliği ile dikkat çeken İnözü Vadisi, jeolojik açıdan ilginç bir yapıya sahiptir. Vadideki kaya oluşumları, milyonlarca yıllık bir geçmişe sahiptir. Vadinin boyutları, yaklaşık birkaç olimpik havuz kadar bir alanı kaplamaktadır. Bu küçük ancak etkileyici alan, Ankara'nın coğrafyasındaki diğer doğal güzelliklere göre oldukça önemli bir konumdadır. Vadideki jeolojik yapı, Ankara'nın genel coğrafyasına benzerlik göstermektedir.
 
-Mevsimsel değişikliklere göre şekillenen hava durumu, İnözü Vadisi'nin iklim karakterini etkilemektedir. İlkbahar ve sonbahar aylarında vadideki bitki örtüsü, renkli bir görünüme sahip olmaktadır. Kış aylarında vadide kar yağışı görülürken, yaz aylarında sıca ve kuru bir hava hakimdir. Vadideki iklim karakteri, Ankara'nın genel iklimine benzerlik göstermektedir.
+Mevsimsel değişikliklere göre şekillenen hava durumu, İnözü Vadisi'nin iklim karakterini etkilemektedir. İlkbahar ve sonbahar aylarında vadideki bitki örtüsü, renkli bir görünüme sahip olmaktadır. Kış aylarında vadide kar yağışı görülürken, yaz aylarında sıcak ve kuru bir hava hakimdir. Vadideki iklim karakteri, Ankara'nın genel iklimine benzerlik göstermektedir.
 
 Çevresel açıdan bakıldığında, İnözü Vadisi, Ankara'nın diğer doğal güzelliklerine bağlantılıdır. Vadideki su kaynakları, Ankara'nın su ihtiyacını karşılamada önemli bir rol oynamaktadır. Ayrıca, vadideki ekosistem, Ankara'nın flora ve fauna çeşitliliğine katkıda bulunmaktadır. Örneğin, vadideki bitki türleri, Ankara'nın diğer bölgelerine göre daha zengin bir çeşitliliğe sahiptir. Bu nedenle, İnözü Vadisi, Ankara'nın doğal güzelliklerini korumak açısından önemli bir alandır.
 

@@ -37,7 +37,7 @@ Eşenköy Tümülüsü, tarihin derinliklerine uzanan bir geçmişe sahiptir. Bu
 
 ## Coğrafya
 
-Eşenköy Tümülüsü, Marmara Bölgesi'nin Bandırma ilçesinde yer alır ve bu bölgenin coğrafi özelliklerini taşır. Bu alan, 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kaplar. Eşenköy Tümülüsü, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır ve çevresinde çeşitli tepe ve dağlar bulunur. Bu coğrafi yapı, Eşenköy Tümülüsü'nü doğal bir güzelliğe sahip olan bir mekân haline getirir. Ayrıca, bu bölgenin iklimi ılımandır ve kış ayları ılık, yaz ayları ise serin geçer. Bu nedenle, Eşenköy Tümülüsü, yılın her mevsiminde ziyaret edilebilir ve her mevsim farklı bir güzelliğe sahiptir. Eşenköy Tümülüsü'nün coğrafi konumu, ziyaretçilerine bölgenin doğal güzelliğini ve çeşitliliğini keşfetme fırsatı sunar.
+Eşenköy Tümülüsü, Marmara Bölgesi'nin Bandırma ilçesinde yer alır ve bu bölgenin coğrafi özelliklerini taşır. Bu alan, 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kaplar. Eşenköy Tümülüsü, yüksek bir konumda yer alır ve çevresinde çeşitli tepe ve dağlar bulunur. Bu coğrafi yapı, Eşenköy Tümülüsü'nü doğal bir güzelliğe sahip olan bir mekân haline getirir. Ayrıca, bu bölgenin iklimi ılımandır ve kış ayları ılık, yaz ayları ise serin geçer. Bu nedenle, Eşenköy Tümülüsü, yılın her mevsiminde ziyaret edilebilir ve her mevsim farklı bir güzelliğe sahiptir. Eşenköy Tümülüsü'nün coğrafi konumu, ziyaretçilerine bölgenin doğal güzelliğini ve çeşitliliğini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ Eşenköy Tümülüsü, yılın her mevsiminde ziyaret edilebilir ve her mevsim 
 - Eşenköy Tümülüsü, Marmara Bölgesi'nin en önemli turizm noktalarından biridir.
 - Bu tarihi mekân, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşımıştır.
 - Eşenköy Tümülüsü, 140 hektarlık bir büyüklüğe sahiptir.
-- Bu alan, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır.
+- Bu alan, yüksek bir konumda yer alır.
 - Eşenköy Tümülüsü, zengin bir flora ve fauna çeşitliliğine sahiptir.

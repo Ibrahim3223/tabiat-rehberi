@@ -37,7 +37,7 @@ wikidata_id: "Q131391732"
 
 ## Coğrafya
 
-Şeyh Abdülcelil Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Türbenin etrafındaki alan, çeşitli bitki türleri ve yaban hayatının barındığı geniş bir doğal alan olarak dikkat çeker. Bölgenin iklimi, genellikle sıca ve kurudur, ancak türbenin bulunduğu bölge, çevredeki dağların ve nehirlerin etkisiyle daha ılıman bir iklim sunar. Türbenin yakınında, ziyaretçilerin gezebileceği birçok doğal güzelli ve tarihi eser bulunur. 180 hektarlık bir alanda, yaklaşık 300 futbol sahası büyüklüğünde bir doğal alan, ziyaretçilere bölgeye özgü bitki türleri ve yaban hayatını keşfetme fırsatı sunar. Türbenin coğrafi konumu, ziyaretçilere bölge hakkında geniş bir perspektif sunar.
+Şeyh Abdülcelil Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Türbenin etrafındaki alan, çeşitli bitki türleri ve yaban hayatının barındığı geniş bir doğal alan olarak dikkat çeker. Bölgenin iklimi, genellikle sıcak ve kurudur, ancak türbenin bulunduğu bölge, çevredeki dağların ve nehirlerin etkisiyle daha ılıman bir iklim sunar. Türbenin yakınında, ziyaretçilerin gezebileceği birçok doğal güzelli ve tarihi eser bulunur. 180 hektarlık bir alanda, yaklaşık 300 futbol sahası büyüklüğünde bir doğal alan, ziyaretçilere bölgeye özgü bitki türleri ve yaban hayatını keşfetme fırsatı sunar. Türbenin coğrafi konumu, ziyaretçilere bölge hakkında geniş bir perspektif sunar.
 
 ## Flora ve Fauna
 

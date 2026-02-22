@@ -44,7 +44,7 @@ Mihrabad Korusu, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıy
 
 ## Ziyaret Bilgileri
 
-Mihrabad Korusu'nu ziyaret etmek için en iyi zaman, ilkbahar ve yaz ayları. Bu dönemlerde hava daha sıca ve güneşli, doğa daha renkli ve canlı. Koruya ulaşım için toplu taşıma veya özel araçlar kullanılabilir. Ziyaretçiler, koruda yürüyüş yapabilir, piknik alanlarında dinlenebilir veya doğa yürüyüşleri yapabilir. Ayrıca, korunun yüksek noktalarından İstanbul'un panoramik manzarasını izlemek de mümkün.
+Mihrabad Korusu'nu ziyaret etmek için en iyi zaman, ilkbahar ve yaz ayları. Bu dönemlerde hava daha sıcak ve güneşli, doğa daha renkli ve canlı. Koruya ulaşım için toplu taşıma veya özel araçlar kullanılabilir. Ziyaretçiler, koruda yürüyüş yapabilir, piknik alanlarında dinlenebilir veya doğa yürüyüşleri yapabilir. Ayrıca, korunun yüksek noktalarından İstanbul'un panoramik manzarasını izlemek de mümkün.
 
 ## İlginç Bilgiler
 

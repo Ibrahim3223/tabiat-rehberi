@@ -37,7 +37,7 @@ Müze Kumbaram'ın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b�
 
 ## Coğrafya
 
-Müze Kumbaram, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir doğa harikasıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve şehrin merkezine oldukça yakındır. Müze Kumbaram, Ankara'nın coğrafi yapısını yansıtan bir bölge olarak, çeşitli bitki türleri ve hayvanlarla dolu bir ekosisteme sahip. Bölgenin coğrafi konumu, Ankara'nın iklimini yansıtıyor. Kış ayları soğu ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Müze Kumbaram, özellikle ilkbahar ve yaz aylarında ziyaretçilerini ağırlıyor. Burada, çeşitli yürüyüş parkurları ve piknik alanları bulunuyor. Ziyaretçiler, bu bölgeyi keşfetmek için yürüyüş rotalarını kullanabilirler.
+Müze Kumbaram, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir doğa harikasıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve şehrin merkezine oldukça yakındır. Müze Kumbaram, Ankara'nın coğrafi yapısını yansıtan bir bölge olarak, çeşitli bitki türleri ve hayvanlarla dolu bir ekosisteme sahip. Bölgenin coğrafi konumu, Ankara'nın iklimini yansıtıyor. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Müze Kumbaram, özellikle ilkbahar ve yaz aylarında ziyaretçilerini ağırlıyor. Burada, çeşitli yürüyüş parkurları ve piknik alanları bulunuyor. Ziyaretçiler, bu bölgeyi keşfetmek için yürüyüş rotalarını kullanabilirler.
 
 ## Flora ve Fauna
 

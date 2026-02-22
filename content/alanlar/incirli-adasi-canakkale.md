@@ -42,7 +42,7 @@ Gökyüzünden bakıldığında, Çanakkale'nin kuzeyinde yer alan İncirli Adas
 
 Doğal bir ada olarak İncirli Adası, Çanakkale'nin kuzeyindeki diğer adalarla birlikte bir ada zincirini oluşturuyor. Ada, Taksim Meydanı'nın birkaç katı büyüklüğünde ve Monaco'nun çok küçük bir bölümü kadar bir alanı kaplıyor. Ancak, bu küçük boyutuna rağmen, İncirli Adası, Çanakkale Boğazı'nın coğrafi yapısında önemli bir rol oynuyor. 85 katlı bir gökdelenin yüksekliğine ulaşan bazı noktalara sahip olan ada, jeolojik açıdan ilginç bir yapıya sahip.
 
-Mevsimsel değişikliklere göre, İncirli Adası'nın iklimi, Çanakkale'nin genel iklim karakterini yansıtıyor. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve nemli bir hava hakim. Bu mevsimsel özellikler, adanın bitki örtüsünü ve doğal yaşamını etkiliyor. Eiffel Kulesi'nin birkaç katı yükseklikte olan bazı noktaları olan ada, rüzgarlı günlerde özellikle dikkat çekici bir manzara sunuyor.
+Mevsimsel değişikliklere göre, İncirli Adası'nın iklimi, Çanakkale'nin genel iklim karakterini yansıtıyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve nemli bir hava hakim. Bu mevsimsel özellikler, adanın bitki örtüsünü ve doğal yaşamını etkiliyor. Eiffel Kulesi'nin birkaç katı yükseklikte olan bazı noktaları olan ada, rüzgarlı günlerde özellikle dikkat çekici bir manzara sunuyor.
 
 Çevresel açıdan, İncirli Adası, Çanakkale Boğazı'nın ekosistemine önemli katkılar sağlıyor. Ada, su kaynakları ve ekosistem bağlantıları açısından kritik bir role sahip. İstanbul'un Adalar ilçesi büyüklüğünde olmayan, ancak önemli bir doğal alan olan İncirli Adası, çevresindeki sularda yaşayan canlılar için önemli bir yaşam alanı sunuyor. Bu küçük ada, Çanakkale Boğazı'nın doğal güzelliğini ve biyolojik çeşitliliğini koruma altına alıyor.
 

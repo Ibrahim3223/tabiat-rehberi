@@ -37,7 +37,7 @@ Oltu Selçuklu Hamamı'nın tarihi geçmişi, bölgenin çeşitli medeniyetlerin
 
 ## Coğrafya
 
-Oltu Selçuklu Hamamı, Doğu Anadolu Bölgesi'nin coğrafi olarak zengin ve çeşitli bir bölgesinde yer alır. Bu bölge, yüksek dağlar, derin vadiler ve geniş ovalar ile karakterizedir. Hamam, Oltu ilçesinin merkezi bir noktasında bulunur ve çevresi tarihi ve kültürel yapılarla çevrilidir. Bölgenin iklimi, karasal iklim özellikleri taşır ve kışları soğuk, yazları sıca ve kurudur. Oltu Selçuklu Hamamı, bu coğrafi ortam içinde, ziyaretçilerini doğanın güzelliği ve tarihin zenginliği ile buluşturur. Hamamın bulunduğu alan, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleri ve hayvanların yaşam alanıdır. Bu bölge, aynı zamanda önemli bir ekolojik bölgedir ve çeşitli canlı türlerinin yaşam alanıdır.
+Oltu Selçuklu Hamamı, Doğu Anadolu Bölgesi'nin coğrafi olarak zengin ve çeşitli bir bölgesinde yer alır. Bu bölge, yüksek dağlar, derin vadiler ve geniş ovalar ile karakterizedir. Hamam, Oltu ilçesinin merkezi bir noktasında bulunur ve çevresi tarihi ve kültürel yapılarla çevrilidir. Bölgenin iklimi, karasal iklim özellikleri taşır ve kışları soğuk, yazları sıcak ve kurudur. Oltu Selçuklu Hamamı, bu coğrafi ortam içinde, ziyaretçilerini doğanın güzelliği ve tarihin zenginliği ile buluşturur. Hamamın bulunduğu alan, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleri ve hayvanların yaşam alanıdır. Bu bölge, aynı zamanda önemli bir ekolojik bölgedir ve çeşitli canlı türlerinin yaşam alanıdır.
 
 ## Flora ve Fauna
 

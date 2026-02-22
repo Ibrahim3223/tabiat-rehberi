@@ -36,7 +36,7 @@ Beşiktaş Tepe'nin tarihi geçmişi, bölgenin genel tarihine paralel olarak ş
 
 ## Coğrafya
 
-Beşiktaş Tepe, Doğu Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici noktalarından birisidir. Tepe, Ardahan ilinin merkezine yakın bir konumda yer alıyor ve çevresi, çeşitli bitki türleri ve zengin fauna ile kaplı. Tepe'nin coğrafi yapısı, ziyaretçilere bölge hakkında geniş bilgi veriyor. Ayrıca, tepe ve çevresinin iklimi, bölgenin genel iklimine benzerlik gösteriyor. Burada, yaz aylarında sıca ve kurak, kış aylarında soğu ve karlı bir iklim hüküm sürüyor. Bu nedenle, ziyaretçiler, tepe ve çevresini ziyaret ederken, mevsimsel koşullara uygun şekilde hazırlanmalı.
+Beşiktaş Tepe, Doğu Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici noktalarından birisidir. Tepe, Ardahan ilinin merkezine yakın bir konumda yer alıyor ve çevresi, çeşitli bitki türleri ve zengin fauna ile kaplı. Tepe'nin coğrafi yapısı, ziyaretçilere bölge hakkında geniş bilgi veriyor. Ayrıca, tepe ve çevresinin iklimi, bölgenin genel iklimine benzerlik gösteriyor. Burada, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı bir iklim hüküm sürüyor. Bu nedenle, ziyaretçiler, tepe ve çevresini ziyaret ederken, mevsimsel koşullara uygun şekilde hazırlanmalı.
 
 ## Flora ve Fauna
 

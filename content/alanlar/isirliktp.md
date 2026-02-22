@@ -30,7 +30,7 @@ ISIRLIK_TP milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiş.
 
 ## Coğrafya
 
-ISIRLIK_TP milli parkı, İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiş. Parkın bulunduğu arazi, 140 hektarlık bir alana yayılmış. Bu geniş arazi, çeşitli bitki türleri ve zengin fauna ile dolu. Parkın coğrafi yapısı, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimi ile benzerlik gösteriyor. Parkın bulunduğu bölgede, yaz aylarında sıca ve kurak bir iklim hakimken, kış aylarında soğu ve kar yağışlı bir iklim görülmektedir. Parkın coğrafi yapısı, ziyaretçilere mevsimsel değişimleri keşfetme fırsatı sunuyor. Parkın çevresi, çeşitli dağlar ve vadiler ile çevrilidir. Bu coğrafi yapı, parkın doğal güzelliğini artırıyor.
+ISIRLIK_TP milli parkı, İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiş. Parkın bulunduğu arazi, 140 hektarlık bir alana yayılmış. Bu geniş arazi, çeşitli bitki türleri ve zengin fauna ile dolu. Parkın coğrafi yapısı, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimi ile benzerlik gösteriyor. Parkın bulunduğu bölgede, yaz aylarında sıcak ve kurak bir iklim hakimken, kış aylarında soğuk ve kar yağışlı bir iklim görülmektedir. Parkın coğrafi yapısı, ziyaretçilere mevsimsel değişimleri keşfetme fırsatı sunuyor. Parkın çevresi, çeşitli dağlar ve vadiler ile çevrilidir. Bu coğrafi yapı, parkın doğal güzelliğini artırıyor.
 
 ## Flora ve Fauna
 

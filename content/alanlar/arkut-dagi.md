@@ -44,7 +44,7 @@ Genel olarak Ankara'nın coğrafi yapısına baktığımızda, Arkut Dağı'nın
 
 Doğal güzelliği ile dikkat çeken Arkut Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu küçük ama önemli coğrafi oluşum, Ankara'nın şehir hayatından uzakta, sakin ve doğal bir ortam sunuyor. Jeolojik açıdan incelendiğinde, Arkut Dağı'nın etrafındaki arazinin genel olarak kayalık ve taşlı bir yapıya sahip olduğu görülüyor.
 
-Mevsimsel olarak ele alındığında, Arkut Dağı'nın iklim karakteri Ankara'nın genel iklimine benzerlik gösteriyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürüyor. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor.
+Mevsimsel olarak ele alındığında, Arkut Dağı'nın iklim karakteri Ankara'nın genel iklimine benzerlik gösteriyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürüyor. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor.
 
 Çevresel açıdan bakıldığında, Arkut Dağı'nın komşu alanlar ve su kaynaklarıyla önemli bir bağlantısı bulunuyor. Bölge, birçok küçük akarsu ve derenin kaynağını oluşturuyor ve bu su kaynakları, Ankara'nın su ihtiyacının bir kısmını karşılıyor. Ayrıca, Arkut Dağı'nın etrafındaki ormanlık alanlar, bölgenin ekosistem dengesini koruyor ve birçok hayvan türüne yaşam alanı sağlıyor.
 

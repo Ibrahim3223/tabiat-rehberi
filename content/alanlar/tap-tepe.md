@@ -37,7 +37,7 @@ Tap Tepe'nin tarihi geçmişi, Kars ilinin tarihine paralel olarak şekillenmiş
 
 ## Coğrafya
 
-Tap Tepe, coğrafi açıdan zengin bir bölgedir. Bu bölge, Kars ilinin kuzeydoğusunda yer almaktadır. Tap Tepe'nin coğrafi yapısı, dağlık ve engebeli bir araziye sahiptir. Bölgenin iklimi, karasal iklim özellikleri göstermektedir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hakimdir. Tap Tepe, flora ve fauna açısından da zengin bir bölgedir. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Ziyaretçiler, Tap Tepe'de doğa yürüyüşü yaparken, bu zengin flora ve faunayı yakından görebilmektedir. Tap Tepe'nin coğrafi konumu, ziyaretçilerine hem doğal güzellikleri hem de tarihi significanceı sunmaktadır.
+Tap Tepe, coğrafi açıdan zengin bir bölgedir. Bu bölge, Kars ilinin kuzeydoğusunda yer almaktadır. Tap Tepe'nin coğrafi yapısı, dağlık ve engebeli bir araziye sahiptir. Bölgenin iklimi, karasal iklim özellikleri göstermektedir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hakimdir. Tap Tepe, flora ve fauna açısından da zengin bir bölgedir. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Ziyaretçiler, Tap Tepe'de doğa yürüyüşü yaparken, bu zengin flora ve faunayı yakından görebilmektedir. Tap Tepe'nin coğrafi konumu, ziyaretçilerine hem doğal güzellikleri hem de tarihi significanceı sunmaktadır.
 
 ## Flora ve Fauna
 

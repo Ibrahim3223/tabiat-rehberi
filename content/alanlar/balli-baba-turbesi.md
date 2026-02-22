@@ -37,7 +37,7 @@ Ballı Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniy
 
 ## Coğrafya
 
-Ballı Baba Türbesi, Kırıkkale'nin Balışeyh ilçesinde yer alır ve İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu bölge, geniş otlakları ve yeşil alanlarıyla dikkat çeker. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için birçok olanak sunar. Ballı Baba Türbesi'nin bulunduğu bölge, iklim olarak İç Anadolu Bölgesi'nin genel característicasını taşır. Bu bölgede, yazlar sıca ve kurak, kışlar ise soğu ve karlı geçer. Ballı Baba Türbesi, ziyaretçilerine geniş ve yeşil bir alan sunar ve doğa severlerin keyiflenebileceği birçok olanak sağlar.
+Ballı Baba Türbesi, Kırıkkale'nin Balışeyh ilçesinde yer alır ve İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu bölge, geniş otlakları ve yeşil alanlarıyla dikkat çeker. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için birçok olanak sunar. Ballı Baba Türbesi'nin bulunduğu bölge, iklim olarak İç Anadolu Bölgesi'nin genel característicasını taşır. Bu bölgede, yazlar sıcak ve kurak, kışlar ise soğuk ve karlı geçer. Ballı Baba Türbesi, ziyaretçilerine geniş ve yeşil bir alan sunar ve doğa severlerin keyiflenebileceği birçok olanak sağlar.
 
 ## Flora ve Fauna
 

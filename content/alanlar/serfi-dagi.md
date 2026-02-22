@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Şerfi Dağı, 37.9517°K, 42.3942°D ko
 
 Jeolojik açıdan bakıldığında, Şerfi Dağı'nın fiziksel yapısı hakkında detaylı bilgi olmasa da, bu bölgenin coğrafi konumu dikkate alındığında, dağlık bir araziye sahip olduğu anlaşılıyor. Tıpkı Monaco'nun yarısı kadar büyük bir alanın içinde yer alan bu dağ, kendi içinde bir dünya gibi görünüyor. Eiffel Kulesi'nin birkaç katı yükseklikte olan bu dağ, çevresi ile birlikte bir bütünü oluşturuyor.
 
-Mevsimsel özelliklere bakıldığında, Şerfi Dağı'nın iklim karakteri, Türkiye'nin doğu bölgesinin genel iklimine benzerlik gösteriyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir iklim hüküm sürüyor. Bu mevsimsel değişiklikler, dağın çevresindeki flora ve fauna için önemli bir etken oluşturuyor.
+Mevsimsel özelliklere bakıldığında, Şerfi Dağı'nın iklim karakteri, Türkiye'nin doğu bölgesinin genel iklimine benzerlik gösteriyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürüyor. Bu mevsimsel değişiklikler, dağın çevresindeki flora ve fauna için önemli bir etken oluşturuyor.
 
 Çevresel açıdan bakıldığında, Şerfi Dağı, komşu alanlar ve su kaynakları ile bağlantılı bir ekosistem içinde yer alıyor. Tıpkı İstanbul'un Adalar ilçesi büyüklüğünde bir alana spread olan bu dağ, çevresindeki diğer dağlar ve vadiler ile birlikte bir bütünü oluşturuyor. Bu bağlantı, dağın doğal güzelliklerini ve biyolojik çeşitliliğini koruma altına alıyor.
 

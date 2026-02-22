@@ -38,7 +38,7 @@ Gülşah Hatun Türbesi, tarihi geçmişi ile önemli bir kültürel mirastır. 
 
 ## Coğrafya
 
-Gülşah Hatun Türbesi, coğrafi olarak Marmara Bölgesi'nin merkezi bir noktasında yer almaktadır. Bursa'nın Osmangazi ilçesinde bulunan bu türbe, bölgenin doğal güzelliğini ve tarihi önemini bir araya getirmektedir. Türbenin çevresinde, çeşitli bitki türleri ve zengin fauna found. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimi ile benzerlik göstermektedir. Kışlar soğu ve yağışlı, yazlar ise sıcak ve kurudur. Bu coğrafi koşullar, bölgenin flora ve faunasını şekillendirmiştir. Gülşah Hatun Türbesi ve çevresi, ziyaretçilere doğa ve tarih arasında bir köprü oluşturmak için ideal bir noktadır.
+Gülşah Hatun Türbesi, coğrafi olarak Marmara Bölgesi'nin merkezi bir noktasında yer almaktadır. Bursa'nın Osmangazi ilçesinde bulunan bu türbe, bölgenin doğal güzelliğini ve tarihi önemini bir araya getirmektedir. Türbenin çevresinde, çeşitli bitki türleri ve zengin fauna found. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimi ile benzerlik göstermektedir. Kışlar soğuk ve yağışlı, yazlar ise sıcak ve kurudur. Bu coğrafi koşullar, bölgenin flora ve faunasını şekillendirmiştir. Gülşah Hatun Türbesi ve çevresi, ziyaretçilere doğa ve tarih arasında bir köprü oluşturmak için ideal bir noktadır.
 
 ## Flora ve Fauna
 

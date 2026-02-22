@@ -37,7 +37,7 @@ Nysa Hamamı'nın tarihi geçmişi, antik dönemlere kadar uzanmaktadır. Bu bö
 
 ## Coğrafya
 
-Nysa Hamamı, Ege Bölgesi'nin güneyinde, Aydın'ın Sultanhisar ilçesinde bulunmaktadır. Bu bölge, Akdeniz ikliminin hüküm sürdüğü bir yer olarak, sıca ve kurak yazlar, ılık ve yağışlı kışlar ile karakterizedir. Nysa Hamamı'nın coğrafi yapısı, dağlar, ovalar ve plajlar ile çeşitlilik göstermektedir. Bu bölge, yeşilin ve mavinin farklı tonlarını bir araya getirmektedir. Nysa Hamamı'nın etrafı, zeytinliklerle ve ormanlık alanlarla çevrilidir. Bu bölge, doğa yürüyüşü ve trekking için ideal bir yer olarak görünmektedir.
+Nysa Hamamı, Ege Bölgesi'nin güneyinde, Aydın'ın Sultanhisar ilçesinde bulunmaktadır. Bu bölge, Akdeniz ikliminin hüküm sürdüğü bir yer olarak, sıcak ve kurak yazlar, ılık ve yağışlı kışlar ile karakterizedir. Nysa Hamamı'nın coğrafi yapısı, dağlar, ovalar ve plajlar ile çeşitlilik göstermektedir. Bu bölge, yeşilin ve mavinin farklı tonlarını bir araya getirmektedir. Nysa Hamamı'nın etrafı, zeytinliklerle ve ormanlık alanlarla çevrilidir. Bu bölge, doğa yürüyüşü ve trekking için ideal bir yer olarak görünmektedir.
 
 ## Flora ve Fauna
 

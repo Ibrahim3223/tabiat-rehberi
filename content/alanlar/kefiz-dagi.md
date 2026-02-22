@@ -48,7 +48,7 @@ Doğal kaynaklar ve ekosistem bağlantıları açısından, Kefiz Dağı'nın bu
 
 Kefiz Dağı, yarı kurak iklimin hüküm sürdüğü bir bölgede, step ve ova ekolojisinin içinde yükselen bir dağ ekosistemi olarak dikkat çekiyor. İklim koşullarına adapte olmuş bitki örtüsü, mevsimsel değişimlerle birlikte renk değiştiriyor. İlkbahar aylarında, dağ yamaçları çiçeklerle donanıyor ve renkli bir hal alırken, yaz aylarında kuraklık nedeniyle bitki örtüsü daha az yoğunlaşır.
 
-Dağın yükseklik zonalarında, alpin flora hakimdir. Bu bölgede, düşük oksijen seviyesine ve sert hava koşullarına adapte olmuş özel bitkiler bulunur. Yaban hayatı da bu ekosistemin bir parçasıdır. Memeliler, dağların keskin yamaçlarında yaşarken, çeşitli kuş türleri dağların yüksek kesimlerinde yuvalanır. Sürüngenler de, sıca ve kurak alanlarda aktif olarak görülür.
+Dağın yükseklik zonalarında, alpin flora hakimdir. Bu bölgede, düşük oksijen seviyesine ve sert hava koşullarına adapte olmuş özel bitkiler bulunur. Yaban hayatı da bu ekosistemin bir parçasıdır. Memeliler, dağların keskin yamaçlarında yaşarken, çeşitli kuş türleri dağların yüksek kesimlerinde yuvalanır. Sürüngenler de, sıcak ve kurak alanlarda aktif olarak görülür.
 
 Kefiz Dağı, bölgenin biyolojik çeşitliliğini korumak açısından önemli bir role sahiptir. Bu dağ ekosisteminin korunması, sadece burada yaşayan canlıları değil, aynı zamanda çevredeki step ve ova ekosistemini de etkiler. Bu nedenle, Kefiz Dağı'nın ekolojik değeri yükse ve koruma altına alınması gerekmektedir.
 

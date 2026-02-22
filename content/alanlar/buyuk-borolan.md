@@ -42,7 +42,7 @@ Doğunun gizli köşelerinden biri olan Büyük Borolan Dağı, 39.7933°K ve 44
 
 Jeolojik açıdan incelendiğinde, Büyük Borolan Dağı'nın precise boyutları hakkında detaylı bilgi bulunmasa da, bu dağların Türkiye'nin en doğu ucunda yer alan dağlık bir bölgede bulunduğunu söyleyebiliriz. Bu bölgenin coğrafyası, volkani ve sedimentary kayaçlardan oluşuyor. Büyük Borolan Dağı, Iğdır Ovası'nın kuzeyinde yer alan bir dizi dağdan biri ve bu dağlar, ovayı sınırlayan bir duvar gibi duruyor.
 
-Mevsimler açısından bakıldığında, Büyük Borolan Dağı'nın iklimi karasal iklim özellikleri gösteriyor. Kışlar soğu ve kar yağışlı, yazlar ise sıca ve kurak geçiyor. Bu durum, bölgenin flora ve fauna çeşitliliğini etkiliyor. Dağın eteklerinde ve civarında, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor.
+Mevsimler açısından bakıldığında, Büyük Borolan Dağı'nın iklimi karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu durum, bölgenin flora ve fauna çeşitliliğini etkiliyor. Dağın eteklerinde ve civarında, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor.
 
 Büyük Borolan Dağı, çevresindeki diğer doğal alanlarla da bağlantılı. Aras Nehri, bu bölgenin su kaynaklarından biri ve nehrin kuzeyinde yer alan dağlar, nehrin akışını etkiliyor. Ayrıca, bu dağlar, komşu ülkeler ve illerle sınır olan bir bölgede yer alıyor. Bu nedenle, Büyük Borolan Dağı ve çevresi, bölgesel ekosistemlerin korunması açısından önemli bir rol oynuyor.
 

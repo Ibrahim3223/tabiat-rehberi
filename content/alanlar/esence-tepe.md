@@ -45,7 +45,7 @@ Doğunun gizli köşelerinden biri olan Esence Tepe, Erzincan'ın dağlık coğr
 
 Jeolojik açıdan bakıldığında, Esence Tepe'nin fiziksel yapısı hakkında detaylı bilgi bulunmasa da, genel olarak bölgenin jeolojisinin karmaşık ve çeşitli olduğunu söyleyebiliriz. Bu tepe, bölgenin diğer dağlık alanlarına benzer şekilde, volkani ve sedimentatif kayaçlardan oluşmaktadır. Boyutlar hakkında cụretilen bilgi eksikliğine rağmen, tepeyi bir şehir bloğu büyüklüğünde düşünmek, ziyaretçilerin beklentilerini şekillendirebilir.
 
-İklim açısından, Esence Tepe ve çevresinin karakteri karasal iklimin etkilerini taşır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise ılık ve yağmurlu bir hava hakimdir. Bu mevsimsel değişiklikler, tepe ve çevresindeki bitki örtüsünü ve fauna çeşitliliğini şekillendirmektedir. Etrafındaki dağlar, tepeye gelen rüzgarları ve hava akımlarını etkiler, bu da bölgenin mikro iklimini oluşturur.
+İklim açısından, Esence Tepe ve çevresinin karakteri karasal iklimin etkilerini taşır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise ılık ve yağmurlu bir hava hakimdir. Bu mevsimsel değişiklikler, tepe ve çevresindeki bitki örtüsünü ve fauna çeşitliliğini şekillendirmektedir. Etrafındaki dağlar, tepeye gelen rüzgarları ve hava akımlarını etkiler, bu da bölgenin mikro iklimini oluşturur.
 
 Çevresel açıdan, Esence Tepe, Erzincan'ın diğer doğal güzelliklerine komşudur. Yakınlarında akan nehirler ve dereler, tepeye hayat veren su kaynaklarıdır. Bu su kaynakları, tepe ve çevresindeki ekosistemin canlılığını korur ve bölgenin biyolojik çeşitliliğini destekler. Esence Tepe, bölgenin diğer dağlık alanları ile bağlantılı olarak, geniş bir ekosistem ağını oluşturur ve bu şekilde, bölgenin doğal dengesini korur.
 

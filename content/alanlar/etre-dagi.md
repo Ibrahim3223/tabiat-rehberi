@@ -43,7 +43,7 @@ Doğunun güzelliği ile batının ferahlığını bir araya getiren Etre Dağı
 
 Jeolojik açıdan bakıldığında, Etre Dağı'nın fiziksel yapısı oldukça ilgi çekici. Ne yazık ki, detaylı fiziksel veriler bulunmuyor, ancak koordinatlarından anlaşıldığı kadarıyla, bu dağ bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu, Taksim Meydanı'nın birkaç katı büyüklüğüne eşit, yani oldukça geniş bir alan. Dağın şekli ve jeolojisi, bölgenin coğrafi özelliklerini yansıtıyor, ancak daha detaylı bilgiler için daha fazla araştırma yapılması gerekiyor.
 
-Mevsimsel açıdan, Etre Dağı'nın iklim karakteri quite değişken. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakim. Bu mevsimsel özellikler, dağın flora ve faunasını etkiliyor, böylece her mevsim farklı bir güzelliğe şahit olma mümkün. Etre Dağı, ziyaretçilerine her sezon farklı bir deneyim sunuyor, bu nedenle yılın herhangi bir zamanında ziyaret edilebilir.
+Mevsimsel açıdan, Etre Dağı'nın iklim karakteri quite değişken. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakim. Bu mevsimsel özellikler, dağın flora ve faunasını etkiliyor, böylece her mevsim farklı bir güzelliğe şahit olma mümkün. Etre Dağı, ziyaretçilerine her sezon farklı bir deneyim sunuyor, bu nedenle yılın herhangi bir zamanında ziyaret edilebilir.
 
 Çevresel açıdan, Etre Dağı komşu alanlar ve su kaynakları ile bağlantılı. Dağın eteklerinde bulunan Burdur Gölü, bölgenin en önemli su kaynaklarından biri, ve Etre Dağı'nın ekosistemine önemli katkılar sağlıyor. Dağın çevresindeki diğer doğal alanlar ve su kaynakları ile birlikte, Etre Dağı bir bütün olarak düşünülerek korunmalı ve gelecek nesiller için saklanmalıdır. Bu şekilde, Etre Dağı'nın güzelliği ve önemi gelecek yıllarda da korunabilecek.
 

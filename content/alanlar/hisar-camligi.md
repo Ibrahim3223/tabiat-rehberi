@@ -30,7 +30,7 @@ Hisar Çamlığı'nın tarihi geçmişi, yüzyıllar boyunca birçok döneme tan
 
 ## Coğrafya
 
-Hisar Çamlığı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kura ve soğuk iklim conditionsına sahip. Bu bölgede, yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlı geçiyor. Hisar Çamlığı'nın coğrafyası, ziyaretçilere geniş ve yeşil alanlar sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğaseverler için ideal bir gezi noktası olarak biliniyor. Hisar Çamlığı, aynı zamanda çevresindeki dağlarla çevrili bir vadide yer alıyor ve bu coğrafi konumuyla ziyaretçilerine benzersiz bir manzara sunuyor. Bu doğal alan, Türkiye'nin coğrafi çeşitliliğini göstermesi açısından önemli bir örnek olarak dikkat çekiyor.
+Hisar Çamlığı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kura ve soğuk iklim conditionsına sahip. Bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçiyor. Hisar Çamlığı'nın coğrafyası, ziyaretçilere geniş ve yeşil alanlar sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğaseverler için ideal bir gezi noktası olarak biliniyor. Hisar Çamlığı, aynı zamanda çevresindeki dağlarla çevrili bir vadide yer alıyor ve bu coğrafi konumuyla ziyaretçilerine benzersiz bir manzara sunuyor. Bu doğal alan, Türkiye'nin coğrafi çeşitliliğini göstermesi açısından önemli bir örnek olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 

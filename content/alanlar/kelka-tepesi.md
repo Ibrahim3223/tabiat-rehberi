@@ -36,7 +36,7 @@ Kelka Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenen bir bölge ol
 
 ## Coğrafya
 
-Kelka Tepesi, Mardin'in güneydoğu kısmında yer alıyor ve Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Tepenin yüksekliği, bölgenin genel coğrafi yapısına uygun olarak değişiyor. Etrafında bulunan vadiler ve ovalar, bölgenin coğrafi çeşitliliğini gösteriyor. Kelka Tepesi'nin iklimi, bölgenin genel iklimine uygun olarak sıca ve kuru. Yaz aylarında sıcaklık artarken, kış aylarında soğuyor. Tepenin çevresinde bulunan bitkiler, bölgenin coğrafi özelliklerine adapte olmuş ve bu nedenle bölgeye özgü türler bulunabiliyor.
+Kelka Tepesi, Mardin'in güneydoğu kısmında yer alıyor ve Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Tepenin yüksekliği, bölgenin genel coğrafi yapısına uygun olarak değişiyor. Etrafında bulunan vadiler ve ovalar, bölgenin coğrafi çeşitliliğini gösteriyor. Kelka Tepesi'nin iklimi, bölgenin genel iklimine uygun olarak sıcak ve kuru. Yaz aylarında sıcaklık artarken, kış aylarında soğuyor. Tepenin çevresinde bulunan bitkiler, bölgenin coğrafi özelliklerine adapte olmuş ve bu nedenle bölgeye özgü türler bulunabiliyor.
 
 ## Flora ve Fauna
 

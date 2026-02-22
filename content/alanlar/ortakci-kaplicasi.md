@@ -37,7 +37,7 @@ Ortakçı Kaplıcası'nın tarihi geçmişi, yüzyıllar öncesine uzanmaktadır
 
 ## Coğrafya
 
-Ortakçı Kaplıcası, Ege Bölgesi'nin Aydın ilinin Buharkent ilçesinde yer almaktadır. Bu bölge, coğrafi olarak ılıman bir iklime sahiptir. Kaplıca, deniz seviyesinden yaklaşık yüksek bir konumdate bulunmaktadır. Bölgenin coğrafi yapısı, genellikle dağlık ve engebeli arazilerden oluşmaktadır. Ortakçı Kaplıcası'nın etrafı, çeşitli bitki türleri ile kaplıdır. Bu bölge, zengin fauna çeşitliliğine de ev sahipliği yapmaktadır. Kaplıcanın suyu, yeraltından çıkan ve şifalı özellikleri bulunan bir su kaynağından gelmektedir. Suyun sıcaklığı, yaklaşık 40 derece civarındadır ve bu su, çeşitli sağlık sorunlarına iyi gelmektedir.
+Ortakçı Kaplıcası, Ege Bölgesi'nin Aydın ilinin Buharkent ilçesinde yer almaktadır. Bu bölge, coğrafi olarak ılıman bir iklime sahiptir. Kaplıca, yüksek bir konumda bulunmaktadır. Bölgenin coğrafi yapısı, genellikle dağlık ve engebeli arazilerden oluşmaktadır. Ortakçı Kaplıcası'nın etrafı, çeşitli bitki türleri ile kaplıdır. Bu bölge, zengin fauna çeşitliliğine de ev sahipliği yapmaktadır. Kaplıcanın suyu, yeraltından çıkan ve şifalı özellikleri bulunan bir su kaynağından gelmektedir. Suyun sıcaklığı, yaklaşık 40 derece civarındadır ve bu su, çeşitli sağlık sorunlarına iyi gelmektedir.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Güllece Dağı, Adana'nın doğal güzelliklerini barındıran bir bölge olara
 
 Doğal bir oluşum olan Güllece Dağı, yaklaşık olarak 1200 hektarlık bir alanı kaplıyor. Bu alan, Monaco'nun yarısı kadar bir büyüklüğe sahip. Dağın fiziksel yapısı, jeolojik özellikleri ve çevresi ile birlikte, bölgenin ekosistemini etkileyen önemli faktörlerden biri. Ancak, detaylı fiziksel verilerin bulunmaması, bu dağ hakkında daha derinlemesine bilgi edinilmesini zorlaştırıyor.
 
-Mevsimsel özelliklere bakıldığında, Güllece Dağı'nın iklim karakteri, Akdeniz ikliminin etkilerini gösteriyor. Yaz aylarında sıca ve khô, kış aylarında ise ılıman ve yağışlı bir hava durumu hakim. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörlerden biri.
+Mevsimsel özelliklere bakıldığında, Güllece Dağı'nın iklim karakteri, Akdeniz ikliminin etkilerini gösteriyor. Yaz aylarında sıcak ve kuru, kış aylarında ise ılıman ve yağışlı bir hava durumu hakim. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörlerden biri.
 
 Çevresel açıdan bakıldığında, Güllece Dağı, komşu alanlar ve su kaynakları ile bağlantılı bir ekosistem içinde yer alıyor. Bölge, Adana'nın diğer doğal güzelliklerine de yakın mesafede bulunuyor. Bu bağlantı, bölgenin biyolojik çeşitliliğini koruma altına alma ve doğal güzelliklerini korumak için önemli bir faktör.
 

@@ -45,7 +45,7 @@ Güneydoğu Anadolu Bölgesi'nin doğa harikalarından biri olan Hisar Dağı, 3
 
 Doğal yapısını incelediğimizde, Hisar Dağı'nın boyutları hakkında net bir veri olmasa da, jeolojik açıdan bakıldığında, bölgenin karmaşık bir yapıya sahip olduğu görülür. Dağın şekli ve boyutları, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplayabilecek bir yapıya sahiptir. Ancak, net bir fiziksel veri olmaması, bu karşılaştırmaları sınırlar.
 
-İklim açısından bakıldığında, Hisar Dağı'nın bulunduğu bölge, güneydoğu Anadolu'nun karakteristik iklimine sahiptir. Bölge, yazları sıca ve kurak, kışları soğu ve kar yağışlı bir iklim karakteri gösterir. Dağın yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olabilir, bu da bölgenin hava durumunu önemli ölçüde etkiler.
+İklim açısından bakıldığında, Hisar Dağı'nın bulunduğu bölge, güneydoğu Anadolu'nun karakteristik iklimine sahiptir. Bölge, yazları sıcak ve kurak, kışları soğuk ve kar yağışlı bir iklim karakteri gösterir. Dağın yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olabilir, bu da bölgenin hava durumunu önemli ölçüde etkiler.
 
 Çevresel açıdan bakıldığında, Hisar Dağı, bölgenin su kaynaklarını ve ekosistemini önemli ölçüde etkiler. Dağın eteklerinde ve çevresinde yer alan vadiler ve ova alanları, bölgenin tarımsal faaliyetleri için önemli bir kaynak sağlar. Ayrıca, dağın yüksekliği ve coğrafi konumu, bölgenin iklimini ve hava durumunu da etkileyen önemli bir faktördür.
 

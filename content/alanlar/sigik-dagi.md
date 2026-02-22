@@ -45,7 +45,7 @@ Doğunun gizli köşelerinden biri olan Sığık Dağı, 38.4458°K ve 39.8650°
 
 Jeolojik açıdan bakıldığında, Sığık Dağı'nın fiziksel yapısı hakkında detaylı bilgi olmasa da, koordinatlarından hareketle, dağlık bir bölgede yer aldığı anlaşılıyor. Bu bölgenin coğrafyası, çeşitli yüksekli ve derinliklere sahip. Sığık Dağı, çevresindeki diğer dağlarla birlikte, bir whole manzarayı oluşturuyor. Monaco'nun yarısı kadar bir alanı kaplayan bu dağlık bölge, geniş ve çeşitli bir coğrafyaya sahip.
 
-Mevsimsel olarak, Sığık Dağı'nın iklim karakteri, bölgenin coğrafyasına göre değişkenlik gösteriyor. Kış aylarında soğu ve karlı, yaz aylarında ise sıca ve kurak bir hava hakim. Bu mevsimsel özellikler, dağların ekosistemini şekillendiriyor. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı zirveler, hava koşullarının değişkenliğini etkiliyor.
+Mevsimsel olarak, Sığık Dağı'nın iklim karakteri, bölgenin coğrafyasına göre değişkenlik gösteriyor. Kış aylarında soğuk ve karlı, yaz aylarında ise sıcak ve kurak bir hava hakim. Bu mevsimsel özellikler, dağların ekosistemini şekillendiriyor. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı zirveler, hava koşullarının değişkenliğini etkiliyor.
 
 Çevresel açıdan, Sığık Dağı, komşu alanlar ve su kaynaklarıyla bağlantılı. Dağın yakınındaki nehirler ve akarsular, bölgenin ekosistemini besliyor. Beşiktaş ilçesi kadar bir alanı kaplayan bu dağlık bölge, İstanbul'un Adalar ilçesi büyüklüğünde bir coğrafyada yer alıyor. Bu geniş ve çeşitli coğrafya, Sığık Dağı'nın çevresel ilişkilerini zenginleştiriyor.
 

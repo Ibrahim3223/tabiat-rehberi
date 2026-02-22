@@ -43,7 +43,7 @@ Güneydeki dağların eteklerinde yer alan Yanartaş Dağı, Antalya'nın doğal
 
 Jeolojik olarak incelendiğinde, Yanartaş Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, genel olarak dağlık bir bölgede yer aldığı söylenebilir. Birkaç olimpik havuz kadar bir alanı kaplayan bu dağ, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte yer alan zirvesiyle dikkat çekmektedir. Doğal güzellikleri ve coğrafi özellikleri ile ön plana çıkan Yanartaş Dağı, ziyaretçilerini etkileyen bir destinasyondur.
 
-Mevsimsel olarak incelendiğinde, Yanartaş Dağı'nın iklim karakteri Akdeniz ikliminin özellikleri gösterir. Kış aylarında ılıman, yaz aylarında ise sıca ve kuru bir hava hüküm sürer. Bu mevsimsel özellikler, bölgenin flora ve fauna açısından zengin olmasını sağlar. Monaco'nun yarısı kadar bir alanı kaplayan bu dağ, iklimsel olarak çeşitli bir coğrafyaya sahiptir.
+Mevsimsel olarak incelendiğinde, Yanartaş Dağı'nın iklim karakteri Akdeniz ikliminin özellikleri gösterir. Kış aylarında ılıman, yaz aylarında ise sıcak ve kuru bir hava hüküm sürer. Bu mevsimsel özellikler, bölgenin flora ve fauna açısından zengin olmasını sağlar. Monaco'nun yarısı kadar bir alanı kaplayan bu dağ, iklimsel olarak çeşitli bir coğrafyaya sahiptir.
 
 Doğal kaynaklar açısından zengin bir bölgede yer alan Yanartaş Dağı, su kaynakları ve ekosistem bağlantıları açısından önemlidir. Çevresel olarak, komşu alanlar ve su kaynakları ile bağlantılı bir şekilde yer alır. İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplayan bu dağ, doğal güzellikleri ve coğrafi özellikleri ile ön plana çıkan bir destinasyondur.
 

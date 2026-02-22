@@ -42,7 +42,7 @@ Güneydoğu Anadolu'nun merkezi Siirt ilinin yakınında bulunan Mehinataşı, 3
 
 Doğal güzelliği ve jeolojik yapısı ile dikkat çeken Mehinataşı, coğrafi olarak interessan bir bölge. Boyutları hakkında detaylı bilgi olmasa da, bu dağların bulunduğu bölgenin coğrafi özellikleri, bölgenin tarihini ve kültürünü etkileyen önemli faktörler. Mehinataşı, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor ve bu yönüyle bölgede önemli bir yer tutuyor.
 
-İklimsel olarak Mehinataşı, Güneydoğu Anadolu'nun karakteristik mevsimsel değişimlerine maruz kalıyor. Yaz aylarında sıcaklık ve kuraklık hakimken, kış aylarında soğu ve yağışlı bir hava durumu görülüyor. Bu mevsimsel değişimler, bölgenin bitki örtüsü ve wildlife'ını etkiliyor.
+İklimsel olarak Mehinataşı, Güneydoğu Anadolu'nun karakteristik mevsimsel değişimlerine maruz kalıyor. Yaz aylarında sıcaklık ve kuraklık hakimken, kış aylarında soğuk ve yağışlı bir hava durumu görülüyor. Bu mevsimsel değişimler, bölgenin bitki örtüsü ve wildlife'ını etkiliyor.
 
 Çevresel açıdan Mehinataşı, bölgedeki su kaynakları ve ekosistem bağlantılarına önemli bir katkı sağlıyor. Monaco'nun küçük bir bölümü büyüklüğünde olan bu dağ, bölgenin su döngüsünü ve doğal dengesini koruyor. Mehinataşı, çevresindeki alanlar ile birlikte bir bütün olarak düşünülmesi gereken önemli bir coğrafi oluşum.
 

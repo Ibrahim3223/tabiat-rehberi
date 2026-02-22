@@ -36,7 +36,7 @@ Güherrişim Tepesi'nin tarihi geçmişi, Diyarbakır'ın tarihine paralel olara
 
 ## Coğrafya
 
-Güherrişim Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nde yer alıyor. Bu tepenin etrafı, çeşitli bitki türleriyle kaplı. Çeşitli bitki türleri, mevsimsel değişimlerle birlikte farklı renkler ve kokularla ziyaretçilerini karşılıyor. Tepenin etrafındaki yapılar, geleneksel mimari özellikler taşıyor. İklim, genellikle sıca ve kurak. Çevre, doğal güzelliklerle dolu. Güherrişim Tepesi, coğrafi açıdan zengin bir bölge. Ziyaretçiler, bu tepede gezerken, farklı coğrafi özellikler keşfediyor.
+Güherrişim Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nde yer alıyor. Bu tepenin etrafı, çeşitli bitki türleriyle kaplı. Çeşitli bitki türleri, mevsimsel değişimlerle birlikte farklı renkler ve kokularla ziyaretçilerini karşılıyor. Tepenin etrafındaki yapılar, geleneksel mimari özellikler taşıyor. İklim, genellikle sıcak ve kurak. Çevre, doğal güzelliklerle dolu. Güherrişim Tepesi, coğrafi açıdan zengin bir bölge. Ziyaretçiler, bu tepede gezerken, farklı coğrafi özellikler keşfediyor.
 
 ## Flora ve Fauna
 

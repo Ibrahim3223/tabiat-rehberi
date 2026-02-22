@@ -36,7 +36,7 @@ Kurtbaşı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu
 
 ## Coğrafya
 
-Kurtbaşı Tepesi, Eskişehir'in merkezinde yer alan bir coğrafi oluşumdur. Tepenin yüksekliği, şehrin diğer bölgelerine göre daha yüksektir ve bu nedenle, Kurtbaşı Tepesi'nden Eskişehir'in panoramik manzarası izlenebilir. Tepenin etrafı, çeşitli bitki türleri ve ağaçlarla çevrili olup, bu bölge aynı zamanda bir ekosistem olarak görev yapmaktadır. İklim olarak, İç Anadolu Bölgesi'nin karakteristik özellikleri göstermekte olup, kışları soğuk, yazları sıca ve kurak bir iklim hüküm sürmektedir. Tepenin coğrafi konumu, ziyaretçilere hem doğa hem de şehir manzarasını bir arada sunmaktadır.
+Kurtbaşı Tepesi, Eskişehir'in merkezinde yer alan bir coğrafi oluşumdur. Tepenin yüksekliği, şehrin diğer bölgelerine göre daha yüksektir ve bu nedenle, Kurtbaşı Tepesi'nden Eskişehir'in panoramik manzarası izlenebilir. Tepenin etrafı, çeşitli bitki türleri ve ağaçlarla çevrili olup, bu bölge aynı zamanda bir ekosistem olarak görev yapmaktadır. İklim olarak, İç Anadolu Bölgesi'nin karakteristik özellikleri göstermekte olup, kışları soğuk, yazları sıcak ve kurak bir iklim hüküm sürmektedir. Tepenin coğrafi konumu, ziyaretçilere hem doğa hem de şehir manzarasını bir arada sunmaktadır.
 
 ## Flora ve Fauna
 

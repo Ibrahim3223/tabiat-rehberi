@@ -37,7 +37,7 @@ Perge Büyük Hamam'ın tarihi geçmişi, antik dönemlere kadar uzanıyor. Bu b
 
 ## Coğrafya
 
-Perge Büyük Hamam, Aksu/Antalya'da, Akdeniz Bölgesi'nin güzelliklerini sunan bir konuma sahip. Bu bölge, Akdeniz ikliminin característicasını taşıyor; yazları sıca ve kurak, kışları ılık ve yağışlı. Plajın bulunduğu alan, denize sıfır konumu ile dikkat çekiyor ve ziyaretçilere, deniz kenarında rahatlayabileceği geniş bir alan sunuyor. Çevre, yeşilin ve mavinin tonları ile bezeli; deniz, kumsal ve çevre bitkileri, ziyaretçilere doğal bir güzellik sunuyor. Perge Büyük Hamam'ın coğrafi konumu, aynı zamanda, tarihi Perge kentine yakınlığı ile de önemli. Ziyaretçiler, plajın keyfini çıkardıktan sonra, tarihi Perge şehri ve çevresini keşfedebilir. Bu bölgede, tarihi yapılar, antik kalıntılar ve arkeolojik sit alanları gibi birçok ilginç nokta bulunuyor.
+Perge Büyük Hamam, Aksu/Antalya'da, Akdeniz Bölgesi'nin güzelliklerini sunan bir konuma sahip. Bu bölge, Akdeniz ikliminin característicasını taşıyor; yazları sıcak ve kurak, kışları ılık ve yağışlı. Plajın bulunduğu alan, denize sıfır konumu ile dikkat çekiyor ve ziyaretçilere, deniz kenarında rahatlayabileceği geniş bir alan sunuyor. Çevre, yeşilin ve mavinin tonları ile bezeli; deniz, kumsal ve çevre bitkileri, ziyaretçilere doğal bir güzellik sunuyor. Perge Büyük Hamam'ın coğrafi konumu, aynı zamanda, tarihi Perge kentine yakınlığı ile de önemli. Ziyaretçiler, plajın keyfini çıkardıktan sonra, tarihi Perge şehri ve çevresini keşfedebilir. Bu bölgede, tarihi yapılar, antik kalıntılar ve arkeolojik sit alanları gibi birçok ilginç nokta bulunuyor.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Güneybatı Anadolu'nun güneşli dağlarında yer alan İğdiçkır Dağı, 37.
 
 Doğal güzelliği ve coğrafi konumuyla dikkat çeken İğdiçkır Dağı, yaklaşık olarak Beşiktaş ilçesi büyüklüğünde bir alanı kaplar. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olup, bu özelliği ile bölgenin önemli bir coğrafi ögesidir. İğdiçkır Dağı'nın fiziksel yapısı, bölgenin jeolojik oluşumunu ve coğrafi tarihini yansıtan önemli bir unsur olarak kabul edilebilir.
 
-Bölgenin iklim karakteri, Akdeniz ikliminin özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumu hakimdir. İğdiçkır Dağı, bu iklim koşullarına uygun olarak, mevsimsel olarak değişen bir bitki örtüsüne sahiptir. Dağın yüksek kesimlerinde, soğuk hava koşullarına dayanıklı bitkiler bulunurken, alçak kesimlerinde ise daha ılıman iklim koşullarına adapte olmuş bitkiler görülmektedir.
+Bölgenin iklim karakteri, Akdeniz ikliminin özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumu hakimdir. İğdiçkır Dağı, bu iklim koşullarına uygun olarak, mevsimsel olarak değişen bir bitki örtüsüne sahiptir. Dağın yüksek kesimlerinde, soğuk hava koşullarına dayanıklı bitkiler bulunurken, alçak kesimlerinde ise daha ılıman iklim koşullarına adapte olmuş bitkiler görülmektedir.
 
 İğdiçkır Dağı, çevresindeki ovalar ve vadilerle birlikte, bölgenin ekosistemini şekillendiren önemli bir unsurdur. Dağın eteklerinde yer alan su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılar. Ayrıca, dağın yüksek kesimlerinde yer alan ormanlık alanlar, bölgenin biyolojik çeşitliliğini koruma altına alır. Bu nedenle, İğdiçkır Dağı, bölgenin doğal ve coğrafi yapısını koruma altına almak için önemli bir role sahiptir.
 

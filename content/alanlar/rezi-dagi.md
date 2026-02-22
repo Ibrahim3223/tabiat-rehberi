@@ -42,7 +42,7 @@ Doğu Anadolu Bölgesi'nin coğrafi güzelliği, Rezi Dağı'nda da kendini gös
 
 Fiziksel olarak, Rezi Dağı'nın kesin boyutları hakkında detaylı bilgi olmasa da, coğrafi konumu itibariyle bir şehir bloğu büyüklüğünde bir alan kapladığı söylenebilir. Bu büyüklük, Taksim Meydanı'nın birkaç katı kadar bir alanı kaplar. Dağın jeolojik yapısı hakkında da yeterli bilgi bulunmasa da, genel olarak Doğu Anadolu Bölgesi'nin karmaşık jeolojik oluşumlarından biri olduğu söylenebilir.
 
-Mevsimsel özellikler açısından, Rezi Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir coğrafyadır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu mevsimsel farklılıklar, bölgenin ekosisteminde önemli bir rol oynar.
+Mevsimsel özellikler açısından, Rezi Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir coğrafyadır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu mevsimsel farklılıklar, bölgenin ekosisteminde önemli bir rol oynar.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları açısından, Rezi Dağı'nın yakınında önemli nehirler ve göller bulunur. Örneğin, Van Gölü, bölgenin en önemli su kaynaklarından biridir. Bu su kaynakları, bölgenin ekosistemini destekler ve Rezi Dağı'nın coğrafi konumunu daha da önemli hale getirir.
 

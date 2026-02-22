@@ -38,7 +38,7 @@ Mersin Su Parkı, Mersin'in turizm potansiyelini artırmak amacıyla kurulmuş b
 
 ## Coğrafya
 
-Mersin Su Parkı, Mersin ilinin merkezinde yer almaktadır. Su parkı, Akdeniz Bölgesi'nin en büyük su parklarından biridir. Mersin Su Parkı, yaklaşık 140 hektarlık bir alana yayılmış ve Mersin'in en büyük yeşil alanlarından biridir. Su parkının coğrafi konumu, ziyaretçilerin su parkına ulaşmasını kolaylaştırmaktadır. Su parkı, Mersin'in merkezine yakın bir konumda yer almaktadır ve ulaşımı kolaydır. Ayrıca, su parkı içinde çeşitli bitki türleri ve ağaçlar bulunmaktadır. Su parkının iklimi, Akdeniz iklimi özellikleri taşımaktadır ve yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlıdır.
+Mersin Su Parkı, Mersin ilinin merkezinde yer almaktadır. Su parkı, Akdeniz Bölgesi'nin en büyük su parklarından biridir. Mersin Su Parkı, yaklaşık 140 hektarlık bir alana yayılmış ve Mersin'in en büyük yeşil alanlarından biridir. Su parkının coğrafi konumu, ziyaretçilerin su parkına ulaşmasını kolaylaştırmaktadır. Su parkı, Mersin'in merkezine yakın bir konumda yer almaktadır ve ulaşımı kolaydır. Ayrıca, su parkı içinde çeşitli bitki türleri ve ağaçlar bulunmaktadır. Su parkının iklimi, Akdeniz iklimi özellikleri taşımaktadır ve yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlıdır.
 
 ## Flora ve Fauna
 

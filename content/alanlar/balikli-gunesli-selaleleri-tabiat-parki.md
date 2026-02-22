@@ -41,7 +41,7 @@ Balıklı-Güneşli Şelaleleri Tabiat Parkı, ziyaretçilerine birçok farklı 
 
 ## İlginç Bilgiler
 
-- Parkın içinde yer alan şelaleler, yaklaşık yüksek bir konumdaten düşüyor.
+- Parkın içinde yer alan şelaleler, yüksek bir konumdan düşüyor.
 - Park, birçok farklı bitki türüne ev sahipliği yapıyor.
 - Ziyaretçiler, parkın içinde birçok farklı yaban hayvanı görme şansına sahip oluyor.
 - Parkın coğrafi konumu, ziyaretçilere birçok farklı aktivite imkanı sunuyor.

@@ -44,7 +44,7 @@ Coğrafi konumu itibariyle, Susuz Dağ, Çorum'un kuzeydoğu kesiminde, 41.1533�
 
 Doğal yapısı itibariyle, Susuz Dağ'ın fiziksel özellikleri tam olarak belirlenemese de, bulunduğu bölgenin jeolojik özellikleri dikkate alındığında, genel olarak dağlık ve engebeli bir araziye sahip olduğu söylenebilir. Bu dağlık bölgenin komşu alanları, benzer jeolojik özellikler gösterir ve bu bölge, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplar.
 
-Mevsimsel olarak, Susuz Dağ'ın iklim karakteri, bölgenin genel iklimine benzerlik gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir iklim hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve bu dağlık bölgenin ekosisteminin şekillenmesinde önemli bir rol oynar.
+Mevsimsel olarak, Susuz Dağ'ın iklim karakteri, bölgenin genel iklimine benzerlik gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve bu dağlık bölgenin ekosisteminin şekillenmesinde önemli bir rol oynar.
 
 Çevresel açıdan, Susuz Dağ, komşu alanlar ve su kaynakları ile önemli bir ilişkiye sahiptir. Bölgenin su kaynakları, yeraltı suları ve derenin varlığı ile desteklenir. Bu dağlık bölgenin ekosistem bağlantıları, Monaco'nun yarısı kadar bir alanı kapsayan geniş bir bölgede yer alan diğer dağlık alanlar ile souvisir. Bu bağlantı, bölgenin biyolojik çeşitliliğini koruma altına almak için önemli bir role sahiptir.
 

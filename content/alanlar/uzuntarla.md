@@ -31,7 +31,7 @@ Uzuntarla'nın tarihi geçmişi, İç Anadolu Bölgesi'nin tarihine paralel olar
 
 ## Coğrafya
 
-Uzuntarla, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Milli park, 140 hektarlık bir alanı kaplamaktadır ve bu alan, çeşitli coğrafi özelliklere sahiptir. Burada, ovalar, tepeler ve vadiler bulunmaktadır. İklim, İç Anadolu Bölgesi'nin genel iklimine benzer olarak karasal bir yapıya sahiptir. Kışlar soğu ve karlı, yazlar ise sıcak ve kuraktır. Uzuntarla, coğrafi konumu ve iklimi nedeniyle çeşitli flora ve fauna türlerine ev sahipliği yapmaktadır. Milli parkın coğrafi yapısı, ziyaretçilerini doğal güzelliklerle baş başa bırakmaktadır.
+Uzuntarla, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Milli park, 140 hektarlık bir alanı kaplamaktadır ve bu alan, çeşitli coğrafi özelliklere sahiptir. Burada, ovalar, tepeler ve vadiler bulunmaktadır. İklim, İç Anadolu Bölgesi'nin genel iklimine benzer olarak karasal bir yapıya sahiptir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuraktır. Uzuntarla, coğrafi konumu ve iklimi nedeniyle çeşitli flora ve fauna türlerine ev sahipliği yapmaktadır. Milli parkın coğrafi yapısı, ziyaretçilerini doğal güzelliklerle baş başa bırakmaktadır.
 
 ## Flora ve Fauna
 

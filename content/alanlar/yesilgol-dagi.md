@@ -44,7 +44,7 @@ Güneybatı Anadolu'nun güzide illerinden biri olan Burdur'un dağlık bölgesi
 
 Jeolojik açıdan incelendiğinde, Yeşilgöl Dağı'nın coğrafi yapısı hakkında detaylı bilgi olmasa da, genel olarak buranın Türkiye'nin diğer dağlık bölgelerine benzer bir yapıya sahip olduğu söylenebilir. Dağın yüksekliği ve genişliği hakkında somut veriler olmasa da, bu bölgenin coğrafi konumu ve komşu dağlarla olan ilişkisi, bölgenin jeolojik yapısını anlamak için önemli ipuçları sunuyor.
 
-İklim açısından bakıldığında, Yeşilgöl Dağı'nın bulunduğu bölge, Akdeniz ikliminin etkisi altında kalıyor. Bu bölgede yaz ayları sıca ve kurak, kış ayları ise ılıman ve yağışlı geçiyor. Bölgenin iklim karakteri, bitki örtüsünü ve yerel ekosistemi şekillendiren önemli bir faktör olarak görülüyor.
+İklim açısından bakıldığında, Yeşilgöl Dağı'nın bulunduğu bölge, Akdeniz ikliminin etkisi altında kalıyor. Bu bölgede yaz ayları sıcak ve kurak, kış ayları ise ılıman ve yağışlı geçiyor. Bölgenin iklim karakteri, bitki örtüsünü ve yerel ekosistemi şekillendiren önemli bir faktör olarak görülüyor.
 
 Doğal kaynaklar açısından, Yeşilgöl Dağı'nın çevresinde several su kaynakları bulunsa da, bu kaynakların büyüklüğü ve önemi hakkında somut bilgiler bulunmuyor. Ancak, bu bölgenin su kaynakları ve ekosistem bağlantıları, bölgenin doğal dengesini korumak için önemli bir role sahip. Yeşilgöl Dağı, komşu dağlar ve ovalarla birlikte, bir bütün olarak düşünüldüğünde, bölgenin coğrafi yapısı ve doğal kaynakları, bir şehir bloğu büyüklüğünde bir alanın çok ötesinde bir öneme sahip.
 

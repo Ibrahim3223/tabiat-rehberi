@@ -37,7 +37,7 @@ Kızıldeli Sultan Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenm
 
 ## Coğrafya
 
-Kızıldeli Sultan Türbesi, Doğu Anadolu Bölgesi'nin Yazıhan/Malatya ilçesinde yer alır. Bu bölge, coğrafi olarak dağlık ve engebeli bir yapıya sahiptir. Kızıldeli Sultan Türbesi de, bu coğrafi yapı içerisinde yer alan bir vadi veya ovanın içerisinde kurulmuştur. Mekânın etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. İklim, genel olarak karasal bir yapıya sahiptir ve mevsimsel değişimler, bu coğrafi bölgede oldukça belirgindir. Kış ayları soğu ve kar yağışlı, yaz ayları ise sıcak ve kurak geçer. Bu coğrafi ve iklimsel koşullar, Kızıldeli Sultan Türbesi'nin güzelliklerini daha da vurgulamaktadır.
+Kızıldeli Sultan Türbesi, Doğu Anadolu Bölgesi'nin Yazıhan/Malatya ilçesinde yer alır. Bu bölge, coğrafi olarak dağlık ve engebeli bir yapıya sahiptir. Kızıldeli Sultan Türbesi de, bu coğrafi yapı içerisinde yer alan bir vadi veya ovanın içerisinde kurulmuştur. Mekânın etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. İklim, genel olarak karasal bir yapıya sahiptir ve mevsimsel değişimler, bu coğrafi bölgede oldukça belirgindir. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurak geçer. Bu coğrafi ve iklimsel koşullar, Kızıldeli Sultan Türbesi'nin güzelliklerini daha da vurgulamaktadır.
 
 ## Flora ve Fauna
 

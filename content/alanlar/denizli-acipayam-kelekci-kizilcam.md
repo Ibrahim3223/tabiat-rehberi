@@ -30,7 +30,7 @@ Denizli-Acipayam-Kelekci Kızılçam milli parkının tarihi geçmişi, yüzyıl
 
 ## Coğrafya
 
-Denizli-Acipayam-Kelekci Kızılçam milli parkı, Ege Bölgesi'nde yer alıyor. Parkın coğrafi konumu, ziyaretçilere zengin bir flora ve fauna sunuyor. 140 hektarlık alan, çeşitli bitki türleri ve hayvanlarla dolu. Milli parkın iklimi, bölgenin genel iklimine uygun olarak sıca ve kurak yazlar, ılıman kışlar şeklinde. Parkın coğrafi yapısı, ziyaretçilere çeşitli yürüyüş parkurları ve manzaralar sunuyor. Milli parkın çevresi, diğer doğal güzelliklerle dolu ve ziyaretçilere daha geniş bir coğrafi alan keşfetme fırsatı sunuyor.
+Denizli-Acipayam-Kelekci Kızılçam milli parkı, Ege Bölgesi'nde yer alıyor. Parkın coğrafi konumu, ziyaretçilere zengin bir flora ve fauna sunuyor. 140 hektarlık alan, çeşitli bitki türleri ve hayvanlarla dolu. Milli parkın iklimi, bölgenin genel iklimine uygun olarak sıcak ve kurak yazlar, ılıman kışlar şeklinde. Parkın coğrafi yapısı, ziyaretçilere çeşitli yürüyüş parkurları ve manzaralar sunuyor. Milli parkın çevresi, diğer doğal güzelliklerle dolu ve ziyaretçilere daha geniş bir coğrafi alan keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -44,6 +44,6 @@ Denizli-Acipayam-Kelekci Kızılçam milli parkını ziyaret etmek, doğal güze
 
 - Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Parkta, çeşitli bitki türleri ve zengin fauna bulunur.
-- Milli parkın iklimi, bölgenin genel iklimine uygun olarak sıca ve kurak yazlar, ılıman kışlar şeklinde.
+- Milli parkın iklimi, bölgenin genel iklimine uygun olarak sıcak ve kurak yazlar, ılıman kışlar şeklinde.
 - Parkın coğrafi yapısı, ziyaretçilere çeşitli yürüyüş parkurları ve manzaralar sunuyor.
 - Milli parkın çevresi, diğer doğal güzelliklerle dolu ve ziyaretçilere daha geniş bir coğrafi alan keşfetme fırsatı sunuyor.

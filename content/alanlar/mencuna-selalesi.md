@@ -45,7 +45,7 @@ Doğal güzelliklerin buluşma noktası olan Artvin, Mençuna Şelalesi gibi giz
 
 Jeolojik açıdan bakıldığında, Mençuna Şelalesi çevresindeki arazi, karmaşık bir yapıya sahip. Şelalenin bulunduğu bölge, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu küçük ama etkileyici alan, şelalenin güzelliğini daha da artırıyor. Şelalenin yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadar yükseklikte ve bu yükseklik, şelalenin etkileyici görünümünü pekiştiriyor.
 
-İklim karakteri bakımından, Mençuna Şelalesi ve çevresindeki bölge, Karadeniz Bölgesi'nin tipik iklimini yansıtıyor. Bölge, yaz aylarında ılıman ve yağışlı, kış aylarında ise soğu ve karlı geçiyor. Bu mevsimsel değişiklikler, şelalenin ve çevresindeki bitki örtüsünün güzelliğini daha da artırıyor. Hava durumu, genellikle bulutlu ve yağışlı olsa da, şelaleyi ziyaret etmek için en uygun zaman, ilkbahar ve yaz aylarıdır.
+İklim karakteri bakımından, Mençuna Şelalesi ve çevresindeki bölge, Karadeniz Bölgesi'nin tipik iklimini yansıtıyor. Bölge, yaz aylarında ılıman ve yağışlı, kış aylarında ise soğuk ve karlı geçiyor. Bu mevsimsel değişiklikler, şelalenin ve çevresindeki bitki örtüsünün güzelliğini daha da artırıyor. Hava durumu, genellikle bulutlu ve yağışlı olsa da, şelaleyi ziyaret etmek için en uygun zaman, ilkbahar ve yaz aylarıdır.
 
 Çevresel açıdan bakıldığında, Mençuna Şelalesi, komşu alanlarla ve su kaynaklarıyla güçlü bir bağ içindedir. Şelale, yakın çevresindeki ormanlarla ve nehirlerle bir ekosistem oluşturuyor. Bu ekosistem, bölgenin biyolojik çeşitliliğini ve doğal güzelliğini koruyor. Ayrıca, şelale, Monaco'nun yaklaşık 1/100'ü kadar bir alanı kaplıyor ve bu küçük alan, büyük bir doğal güzelliğe ev sahipliği yapıyor.
 

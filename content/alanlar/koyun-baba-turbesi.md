@@ -38,7 +38,7 @@ Koyun Baba Türbesi, yüzyıllar boyunca önemli bir dini ve kültürel merkez o
 
 ## Coğrafya
 
-Koyun Baba Türbesi, Edirne'nin merkezinde yer alıyor. Şehir merkezine yakın konumu, ziyaretçilerin kolayca ulaşabilmesini sağlıyor. Türbenin etrafında bulunan doğal güzellikler, ziyaretçilere geniş bir perspektif sunuyor. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimini yansıtıyor. Kış ayları genellikle soğu ve yağışlı, yaz ayları ise sıcak ve nemli geçiyor. Koyun Baba Türbesi, ziyaretçilerine yılın her döneminde farklı bir güzellik sunuyor. Bölgenin coğrafi yapısı, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Türbenin etrafında bulunan yeşillikler ve doğal güzellikler, ziyaretçilerin rahatlayabileceği ve dinlenebileceği bir ortam sunuyor.
+Koyun Baba Türbesi, Edirne'nin merkezinde yer alıyor. Şehir merkezine yakın konumu, ziyaretçilerin kolayca ulaşabilmesini sağlıyor. Türbenin etrafında bulunan doğal güzellikler, ziyaretçilere geniş bir perspektif sunuyor. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimini yansıtıyor. Kış ayları genellikle soğuk ve yağışlı, yaz ayları ise sıcak ve nemli geçiyor. Koyun Baba Türbesi, ziyaretçilerine yılın her döneminde farklı bir güzellik sunuyor. Bölgenin coğrafi yapısı, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Türbenin etrafında bulunan yeşillikler ve doğal güzellikler, ziyaretçilerin rahatlayabileceği ve dinlenebileceği bir ortam sunuyor.
 
 ## Flora ve Fauna
 

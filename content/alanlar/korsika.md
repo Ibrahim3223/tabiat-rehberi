@@ -46,7 +46,7 @@ Güneşin Akdeniz'de bıraktığı izler, Korsika adasının sınırlarını çi
 
 Doğal güzellikleri ve coğrafi yapısı ile ön plana çıkan Korsika, bir olimpik havuz kadar geniş bir alana sahip. Koordinatlarına bakıldığında, adanın şeklinin ve boyutlarının özel bir jeolojiyi ortaya koyduğu görülüyor. Ancak detaylı fiziksel veriler bulunmamasına rağmen, Korsika'nın coğrafi yapısı ve doğal kaynakları, ziyaretçilerini cezbeden unsurlar arasında yer alıyor.
 
-Mevsimsel değişikliklere göre şekillenen hava durumu, Korsika'nın iklim karakterini belirliyor. Ilık ve nemli bir iklimi olan ada, yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu sergiliyor. Bu mevsimsel özellikler, Korsika'nın doğal güzelliklerini ve turizm potansiyelini ortaya koyuyor.
+Mevsimsel değişikliklere göre şekillenen hava durumu, Korsika'nın iklim karakterini belirliyor. Ilık ve nemli bir iklimi olan ada, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu sergiliyor. Bu mevsimsel özellikler, Korsika'nın doğal güzelliklerini ve turizm potansiyelini ortaya koyuyor.
 
 Korsika'nın çevresel ilişkileri, komşu alanlar ve su kaynakları ile şekilleniyor. Monaco'nun yaklaşık yarısı kadar büyük olan ada, Akdeniz'in suları ile çevrili. Ekosistem bağlantıları ve doğal kaynakları, Korsika'nın bir bütün olarak değerlendirilmesini sağlıyor. Bu bağlamda, Korsika'nın coğrafi konumu ve doğal güzellikleri, ziyaretçilerini ve bilim insanlarını cezbeden önemli unsurlar arasında yer alıyor.
 

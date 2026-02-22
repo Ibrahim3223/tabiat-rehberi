@@ -45,7 +45,7 @@ Güney yönünden bakıldığında, Ak Dağ'ın etekleri Antalya'nın turistik m
 
 Doğal güzelliği ile dikkat çeken Ak Dağ'ın fiziksel yapısı, bölgenin jeolojik tarihini yansıtır. Ne yazık ki, detalı fiziksel veriler bulunmamasına rağmen, coğrafi konumu ve eteklerinin genişliği, Monaco'nun küçük bir bölümü kadar bir alanı kapladığını düşündürür. Bu büyüklük, Taksim Meydanı'nın birkaç katı kadar bir alanı kaplayabilecek bir genişlik sunar.
 
-Mevsimsel değişikliklere bakıldığında, Ak Dağ'ın iklim karakteri Akdeniz ikliminin özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler.
+Mevsimsel değişikliklere bakıldığında, Ak Dağ'ın iklim karakteri Akdeniz ikliminin özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler.
 
 Çevresel açıdan bakıldığında, Ak Dağ'ın komşu alanlar ve su kaynakları ile önemli bir bağlantıları vardır. Bölge, Antalya'nın wichtig su kaynaklarının bir kısmını barındırır ve ekosistem bağlantıları ile çevredeki diğer doğal alanlarla bağlantılıdır. Bu bağlantılar, bölgenin ekolojik dengesini korur ve biyolojik çeşitliliğini destekler.
 

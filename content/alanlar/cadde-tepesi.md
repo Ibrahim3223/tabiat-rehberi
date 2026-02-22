@@ -37,7 +37,7 @@ Cadde Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkların
 
 ## Coğrafya
 
-Cadde Tepesi, Diyarbakır ilinin merkezinde yer alan bir tepe olarak bilinir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Cadde Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bu tepe, Diyarbakır'ın en önemli doğal güzelliklerinden biri olarak kabul edilir ve ziyaretçilerini hem doğal güzellikleriyle hem de tarihi geçmişiyle büyüler. Cadde Tepesi'nin iklimi, Güneydoğu Anadolu Bölgesi'nin iklimine benzer ve yaz aylarında sıca ve khô, kış aylarında soğu ve yağışlı bir iklimi vardır. Bu tepe, Diyarbakır'ın en önemli turizm merkezlerinden biri olarak kabul edilir ve ziyaretçilerini hem doğal güzellikleriyle hem de tarihi geçmişiyle büyüler.
+Cadde Tepesi, Diyarbakır ilinin merkezinde yer alan bir tepe olarak bilinir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Cadde Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bu tepe, Diyarbakır'ın en önemli doğal güzelliklerinden biri olarak kabul edilir ve ziyaretçilerini hem doğal güzellikleriyle hem de tarihi geçmişiyle büyüler. Cadde Tepesi'nin iklimi, Güneydoğu Anadolu Bölgesi'nin iklimine benzer ve yaz aylarında sıcak ve kuru, kış aylarında soğuk ve yağışlı bir iklimi vardır. Bu tepe, Diyarbakır'ın en önemli turizm merkezlerinden biri olarak kabul edilir ve ziyaretçilerini hem doğal güzellikleriyle hem de tarihi geçmişiyle büyüler.
 
 ## Flora ve Fauna
 

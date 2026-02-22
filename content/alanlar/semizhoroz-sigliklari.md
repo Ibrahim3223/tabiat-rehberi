@@ -44,7 +44,7 @@ Doğal güzellikleri keşfetmek isteyenler için Semizhoroz Sığlıkları, Bal�
 
 Jeolojik açıdan bakıldığında, Semizhoroz Sığlıkları'nın fiziksel yapısı hakkında detaylı bilgiler bulunmuyor. Ancak, bu küçük ada grubunun bir şehir bloğu büyüklüğünde olduğunu varsayabiliriz. Bu büyüklük, ziyaretçilerin adayı kolayca keşfedebilecekleri anlamına geliyor. Semizhoroz Sığlıkları'nın şekli ve jeolojik özellikleri, Ege Denizi'nin karmaşık coğrafyasını yansıtıyor.
 
-Mevsimsel değişikliklere baktığımızda, Semizhoroz Sığlıkları'nın iklim karakteri, Akdeniz ikliminin özelliklerini taşıyor. Yaz aylarında sıca ve güneşli bir hava hakimken, kış aylarında ılıman ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel özellikler, adanın flora ve fauna çeşitliliğini etkiliyor.
+Mevsimsel değişikliklere baktığımızda, Semizhoroz Sığlıkları'nın iklim karakteri, Akdeniz ikliminin özelliklerini taşıyor. Yaz aylarında sıcak ve güneşli bir hava hakimken, kış aylarında ılıman ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel özellikler, adanın flora ve fauna çeşitliliğini etkiliyor.
 
 Semizhoroz Sığlıkları, çevresindeki su kaynakları ve ekosistem bağlantıları ile önemli bir role sahip. Ada, Ege Denizi'nin zengin deniz yaşamına ev sahipliği yapıyor. Yakınlardaki Midilli Adası ve Ayvalık gibi bölgelerle birlikte, bu ada grubu, bölgenin ekolojik dengesini koruyor. Semizhoroz Sığlıkları, doğal güzellikleri ve coğrafi konumu ile ziyaretçileri cezbediyor ve keşfedilmeyi bekliyor.
 

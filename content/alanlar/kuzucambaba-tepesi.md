@@ -36,7 +36,7 @@ Kuzuçambaba Tepesi'nin tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. 
 
 ## Coğrafya
 
-Kuzuçambaba Tepesi, Doğu Anadolu Bölgesi'nde yer alan Erzurum'un en yüksek noktalarından biri olarak dikkat çekiyor. Bu tepe, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Kuzuçambaba Tepesi, zengin fauna ve florasıyla dikkat çekiyor. Bu bölge, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Kuzuçambaba Tepesi, aynı zamanda coğrafi açıdan da önemlidir. Bu tepe, birçok akarsuya ve göle ev sahipliği yapıyor. Kuzuçambaba Tepesi'nin iklimi, karasal iklim olarak biliniyor. Bu tepe, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve karlı bir iklimi đang yaşamaktadır. Kuzuçambaba Tepesi, birçok doğa severin ziyaret ettiği bir alan olarak biliniyor.
+Kuzuçambaba Tepesi, Doğu Anadolu Bölgesi'nde yer alan Erzurum'un en yüksek noktalarından biri olarak dikkat çekiyor. Bu tepe, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Kuzuçambaba Tepesi, zengin fauna ve florasıyla dikkat çekiyor. Bu bölge, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Kuzuçambaba Tepesi, aynı zamanda coğrafi açıdan da önemlidir. Bu tepe, birçok akarsuya ve göle ev sahipliği yapıyor. Kuzuçambaba Tepesi'nin iklimi, karasal iklim olarak biliniyor. Bu tepe, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı bir iklimi đang yaşamaktadır. Kuzuçambaba Tepesi, birçok doğa severin ziyaret ettiği bir alan olarak biliniyor.
 
 ## Flora ve Fauna
 

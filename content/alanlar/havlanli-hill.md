@@ -36,7 +36,7 @@ Havlanlı Hill'in tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bö
 
 ## Coğrafya
 
-Havlanlı Hill, Adana'nın coğrafi yapısını oluşturan önemli bir unsurdur. Bu tepe, çevresi ile birlikte bir bütün olarak ele alındığında, önemli bir ekosistemi barındırdığı görülmektedir. Tepenin etrafında, çeşitli bitki türleri ve hayvanlar yaşamaktadır. İklim, bölgenin genel iklim conditionsına uygun olarak, yazları sıca ve kurak, kışları ise ılıman ve yağışlıdır. Bu coğrafi koşullar, Havlanlı Hill'i ve çevresini, zengin bir flora ve fauna çeşitliliği ile donatmıştır. Tepenin yüksekliği ve eğimleri, farklı coğrafi şekillerin oluşmasına neden olmuştur. Bu coğrafi çeşitlilik, bölgenin güzelliğini ve doğal değerini artırmaktadır.
+Havlanlı Hill, Adana'nın coğrafi yapısını oluşturan önemli bir unsurdur. Bu tepe, çevresi ile birlikte bir bütün olarak ele alındığında, önemli bir ekosistemi barındırdığı görülmektedir. Tepenin etrafında, çeşitli bitki türleri ve hayvanlar yaşamaktadır. İklim, bölgenin genel iklim conditionsına uygun olarak, yazları sıcak ve kurak, kışları ise ılıman ve yağışlıdır. Bu coğrafi koşullar, Havlanlı Hill'i ve çevresini, zengin bir flora ve fauna çeşitliliği ile donatmıştır. Tepenin yüksekliği ve eğimleri, farklı coğrafi şekillerin oluşmasına neden olmuştur. Bu coğrafi çeşitlilik, bölgenin güzelliğini ve doğal değerini artırmaktadır.
 
 ## Flora ve Fauna
 

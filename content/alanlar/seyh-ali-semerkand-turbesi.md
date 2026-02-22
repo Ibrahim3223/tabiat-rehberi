@@ -37,7 +37,7 @@ Tarihi geçmişi yüzyıllar öncesine dayanan Şeyh Ali Semerkandî Türbesi, b
 
 ## Coğrafya
 
-Şeyh Ali Semerkandî Türbesi, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerine sahip bir bölgede yer alıyor. Bölge, genellikle step ve ormanlık alanların birleştiği bir coğrafyaya sahip. Türbenin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahip. Kış ayları soğu ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu coğrafi ve iklimsel özellikler, türbenin doğal güzelliğini ve ziyaretçilerin deneyimini zenginleştirmeye katkıda bulunuyor. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan ve bu, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor.
+Şeyh Ali Semerkandî Türbesi, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerine sahip bir bölgede yer alıyor. Bölge, genellikle step ve ormanlık alanların birleştiği bir coğrafyaya sahip. Türbenin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahip. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu coğrafi ve iklimsel özellikler, türbenin doğal güzelliğini ve ziyaretçilerin deneyimini zenginleştirmeye katkıda bulunuyor. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan ve bu, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor.
 
 ## Flora ve Fauna
 
@@ -45,7 +45,7 @@ Türbenin etrafı, çeşitli bitki türleri ile çevrili. Bu bitki türleri, bö
 
 ## Ziyaret Bilgileri
 
-Şeyh Ali Semerkandî Türbesi'ni ziyaret etmek, doğa ve tarih severler için bir fırsat. Türbeye ulaşmak için, Çamlıdere merkezinden uzun bir mesafe uzaklıkta bulunan türbenin bulunduğu alana gelmek gerekiyor. Bahar ve yaz ayları, türbeyi ziyaret etmek için en uygun zamanlar. Bu dönemde, doğa daha yeşil ve canlı, hava daha sıca ve güneşli. Türbenin etrafındaki doğal güzellikler, ziyaretçilerin keyifli bir gün geçirmesine katkıda bulunabilir. Ziyaretçiler, türbenin tarihi ve kültürel öneminin yanı sıra, doğal güzelliğini de deneyimleyebilir.
+Şeyh Ali Semerkandî Türbesi'ni ziyaret etmek, doğa ve tarih severler için bir fırsat. Türbeye ulaşmak için, Çamlıdere merkezinden uzun bir mesafe uzaklıkta bulunan türbenin bulunduğu alana gelmek gerekiyor. Bahar ve yaz ayları, türbeyi ziyaret etmek için en uygun zamanlar. Bu dönemde, doğa daha yeşil ve canlı, hava daha sıcak ve güneşli. Türbenin etrafındaki doğal güzellikler, ziyaretçilerin keyifli bir gün geçirmesine katkıda bulunabilir. Ziyaretçiler, türbenin tarihi ve kültürel öneminin yanı sıra, doğal güzelliğini de deneyimleyebilir.
 
 ## İlginç Bilgiler
 

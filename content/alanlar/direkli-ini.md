@@ -41,7 +41,7 @@ Mersin bölgesinde, Direkli İni gibi jeolojik oluşumlar, hem yerel halk için 
 
 ## Coğrafya
 
-Jeolojik bir hazine olan Direkli İni, Mersin'in coğrafi güzelliğinin önemli bir parçasını oluşturuyor. 36.3142°K, 33.3142°D koordinatlarında yer alan bu jeopark, Akdeniz'in sıca ve güneşli iklimini taşıyor. Mersin'in merkezine yaklaşık 20 kilometre uzaklıkta bulunan Direkli İni, bölgenin doğal zenginliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Jeolojik bir hazine olan Direkli İni, Mersin'in coğrafi güzelliğinin önemli bir parçasını oluşturuyor. 36.3142°K, 33.3142°D koordinatlarında yer alan bu jeopark, Akdeniz'in sıcak ve güneşli iklimini taşıyor. Mersin'in merkezine yaklaşık 20 kilometre uzaklıkta bulunan Direkli İni, bölgenin doğal zenginliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 Doğal bir anıt olarak ortaya çıkan Direkli İni, çevresindeki arazinin jeolojik yapısını yansıtıyor. Ancak, fiziksel boyutları hakkında detaylı bilgi bulunmamasına rağmen, bu jeoparkın Mersin'in doğal güzelliklerine önemli bir katkı sağladığı şüphesiz. Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplayan Direkli İni, ziyaretçilerine geniş ve etkileyici bir manzara sunuyor.
 

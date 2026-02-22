@@ -37,7 +37,7 @@ Güneydoğu Anadolu'nun kalbinde yer alan Keçe Mağarası, Kahramanmaraş ilini
 
 Doğal olarak oluşan bu mağaranın fiziksel yapısı, bölgenin jeolojik geçmişine ışık tutar. Mağaranın boyutları hakkında detaylı bilgi olmasa da, bilinen mağaraların genel yapısına bakıldığında, bir şehir bloğu büyüklüğünde bir alanı kapladığı söylenebilir. Mağaranın jeolojik yapısı, milyon yıllarca süren doğal süreçlerin sonucunda oluşmuş kireçtaşı ve diğer kayaçlardan oluşur.
 
-Mevsimsel değişikliklere göre iklim karakteri değişen bu bölgede, yaz ayları sıca ve kuru, kış ayları ise soğu ve yağışlı geçer. İklim karakteri, mağaranın oluşumunda önemli bir rol oynamıştır. Mağaranın içi, genellikle dışarıdaki hava koşullarından daha serin ve nemlidir. Bu, mağaranın bir doğal serinleme sistemi olarak işlev gördüğünü göstermektedir.
+Mevsimsel değişikliklere göre iklim karakteri değişen bu bölgede, yaz ayları sıcak ve kuru, kış ayları ise soğuk ve yağışlı geçer. İklim karakteri, mağaranın oluşumunda önemli bir rol oynamıştır. Mağaranın içi, genellikle dışarıdaki hava koşullarından daha serin ve nemlidir. Bu, mağaranın bir doğal serinleme sistemi olarak işlev gördüğünü göstermektedir.
 
 Çevresel açıdan bakıldığında, Keçe Mağarası ve çevresindeki jeopark, komşu alanlar ve su kaynakları ile birlikte bir ekosistem oluşturur. Mağaranın yakınında bulunan akarsular ve göller, bölgenin su kaynaklarını destekler ve yerel wildlife için yaşam alanları sağlar. Bu doğal alan, bölgedeki ekosistemin korunması ve sürdürülebilirliğinin sağlanması için önemli bir role sahiptir.
 

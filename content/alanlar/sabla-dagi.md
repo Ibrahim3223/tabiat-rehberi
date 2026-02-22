@@ -44,7 +44,7 @@ Balıkesir'in kuzeydoğusunda yer alan Şabla Dağı, 39.5800°K, 27.2450°D koo
 
 Fiziksel yapısına bakıldığında, Şabla Dağı'nın precisa bir yüksekli verisi bulunmuyor, ancak bölgenin genel jeolojik yapısına bakıldığında, dağlık bir araziye sahip olduğu anlaşılıyor. Bu dağlık arazi, Monaco'nun yarısı kadar bir alanı kaplayacak büyüklükte bir coğrafi oluşum olarak düşünülebilir. Şabla Dağı'nın şekli ve boyutları, bölgenin jeolojik geçmişini yansıtıyor ve buranın bir zamanlar volkanik faaliyetlerin yaşandığı bir bölge olduğunu gösteriyor.
 
-Mevsimsel özelliklerine bakıldığında, Şabla Dağı'nın iklimi Karadeniz iklimi etkisi altında bulunuyor. Bu bölgede, yaz aylarında sıcaklık ve nem artarken, kış aylarında soğu ve yağışlı bir hava hakim oluyor. Örneğin, Eiffel Kulesi'nin 2 katı yükseklikte olan bir noktada, sıcaklık ve hava koşulları daha farklı olabilir. Bu da, bölgenin iklim karakterinin oldukça değişken olduğunu gösteriyor.
+Mevsimsel özelliklerine bakıldığında, Şabla Dağı'nın iklimi Karadeniz iklimi etkisi altında bulunuyor. Bu bölgede, yaz aylarında sıcaklık ve nem artarken, kış aylarında soğuk ve yağışlı bir hava hakim oluyor. Örneğin, Eiffel Kulesi'nin 2 katı yükseklikte olan bir noktada, sıcaklık ve hava koşulları daha farklı olabilir. Bu da, bölgenin iklim karakterinin oldukça değişken olduğunu gösteriyor.
 
 Bölgenin çevresel ilişkileri açısından bakıldığında, Şabla Dağı'nın komşu alanlar ve su kaynaklarıyla bağlantılı olduğu görülüyor. Dağın eteklerinde, çeşitli su kaynakları ve akarsular bulunuyor. Bu su kaynakları, bölgenin ekosistemini Besliyor ve canlılara yaşam alanı sağlıyor. Örneğin, Taksim Meydanı'nın 10 katı büyüklüğünde bir alana yayılmış olan bu ekosistem, bölgenin biyolojik çeşitliliğini koruyor.
 

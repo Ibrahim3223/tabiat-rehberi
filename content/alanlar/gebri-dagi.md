@@ -42,7 +42,7 @@ Doğu Anadolu Bölgesi'nin uzak köşesinde, Hakkari ilinin dağlık arazilerind
 
 Jeolojik açıdan bakıldığında, Gebri Dağı'nın boyutları ve şekli hakkında kesin bilgiler olmasa da, bölgenin genel jeolojik yapısı dikkate alındığında, dağlık bir arazide yer aldığı söylenebilir. Tıpkı Taksim Meydanı'nın birkaç katı büyüklüğünde bir alan olarak düşünebiliriz, ancak gerçek boyutları hakkında net bir veri bulunmuyor.
 
-Mevsimsel değişiklikler açısından, Gebri Dağı'nın bulunduğu bölge, Doğu Anadolu Bölgesi'nin karakteristik iklimini yansıtıyor. Kışlar soğu ve karlı, yazlar ise serin ve yağışlı geçiyor. Bu iklim, bölgenin flora ve fauna çeşitliliğini etkileyen önemli bir faktör. Hava durumu, dağlık arazilerde genellikle değişken ve öngörülemez olabilir, bu nedenle Gebri Dağı'nın zirvesine ulaşmak için hazırlıklı olmak gerekiyor.
+Mevsimsel değişiklikler açısından, Gebri Dağı'nın bulunduğu bölge, Doğu Anadolu Bölgesi'nin karakteristik iklimini yansıtıyor. Kışlar soğuk ve karlı, yazlar ise serin ve yağışlı geçiyor. Bu iklim, bölgenin flora ve fauna çeşitliliğini etkileyen önemli bir faktör. Hava durumu, dağlık arazilerde genellikle değişken ve öngörülemez olabilir, bu nedenle Gebri Dağı'nın zirvesine ulaşmak için hazırlıklı olmak gerekiyor.
 
 Son olarak, Gebri Dağı'nın çevresel ilişkileri, bölgenin su kaynakları ve ekosistem bağlantıları açısından önemli. Dağ, çevredeki arazilerle birlikte bir bütün olarak ele alındığında, Monaco'nun küçük bir bölümü kadar bir alanı kaplıyor ve bu da bölgenin doğal dengesine katkıda bulunuyor. Bu dağlık arazi, bölgenin su kaynaklarının oluşumunda ve ekosistemlerin korunmasında kritik bir rol oynuyor.
 

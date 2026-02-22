@@ -38,7 +38,7 @@ Kapalıçarşı'nın tarihi geçmişi, İstanbul'un fethinden sonra başlamışt
 
 ## Coğrafya
 
-Kapalıçarşı, İstanbul'un tarihi merkezi Fatih'te yer alan 140 hektarlık bir alan üzerinde kurulmuştur. Bu büyük alan, yaklaşık 200 futbol sahası büyüklüğünde olup, yüzyıllar boyunca ticaretin ve kültürün merkezi olarak kabul edilmiştir. Kapalıçarşı, Marmara Bölgesi'nde yer alan İstanbul ilinin Fatih ilçesinde bulunmaktadır. Çarşı, deniz seviyesinden yaklaşık yüksek bir konumdate yer almaktadır. Kapalıçarşı'nın iklimi, Marmara Bölgesi'nin iklimine benzerdir. Burada, karasal iklim özellikleri görülmektedir. Kışlar soğu ve yağışlı, yazlar ise sıcak ve kuru geçmektedir. Kapalıçarşı'nın çevresinde, tarihi mekanlar ve turistik yerler bulunmaktadır. Burada, birçok otel, restoran ve kafelerin yanı sıra, tarihi camiler ve kiliseler de bulunmaktadır.
+Kapalıçarşı, İstanbul'un tarihi merkezi Fatih'te yer alan 140 hektarlık bir alan üzerinde kurulmuştur. Bu büyük alan, yaklaşık 200 futbol sahası büyüklüğünde olup, yüzyıllar boyunca ticaretin ve kültürün merkezi olarak kabul edilmiştir. Kapalıçarşı, Marmara Bölgesi'nde yer alan İstanbul ilinin Fatih ilçesinde bulunmaktadır. Çarşı, yüksek bir konumda yer almaktadır. Kapalıçarşı'nın iklimi, Marmara Bölgesi'nin iklimine benzerdir. Burada, karasal iklim özellikleri görülmektedir. Kışlar soğuk ve yağışlı, yazlar ise sıcak ve kuru geçmektedir. Kapalıçarşı'nın çevresinde, tarihi mekanlar ve turistik yerler bulunmaktadır. Burada, birçok otel, restoran ve kafelerin yanı sıra, tarihi camiler ve kiliseler de bulunmaktadır.
 
 ## Flora ve Fauna
 

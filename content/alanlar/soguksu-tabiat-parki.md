@@ -37,7 +37,7 @@ Soğuksu Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca çeşitli mede
 
 ## Coğrafya
 
-Soğuksu Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından birini oluşturuyor. Park, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, çeşitli bitki türleri ve zengin fauna ile kaplı bulunuyor. Parkın coğrafi yapısı, ziyaretçilerine farklı iklim ve çevre koşullarını deneyimleme fırsatı sunuyor. Soğuksu Tabiat Parkı, İç Anadolu Bölgesi'nin karakteristik step ve orman ekosistemlerini bir araya getirerek, ziyaretçilerine benzersiz bir coğrafi deneyim sunuyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak, karasal bir karaktere sahip. Kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu şartlar, parkın flora ve faunasının çeşitliliğine katkıda bulunuyor.
+Soğuksu Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından birini oluşturuyor. Park, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, çeşitli bitki türleri ve zengin fauna ile kaplı bulunuyor. Parkın coğrafi yapısı, ziyaretçilerine farklı iklim ve çevre koşullarını deneyimleme fırsatı sunuyor. Soğuksu Tabiat Parkı, İç Anadolu Bölgesi'nin karakteristik step ve orman ekosistemlerini bir araya getirerek, ziyaretçilerine benzersiz bir coğrafi deneyim sunuyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak, karasal bir karaktere sahip. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu şartlar, parkın flora ve faunasının çeşitliliğine katkıda bulunuyor.
 
 ## Flora ve Fauna
 

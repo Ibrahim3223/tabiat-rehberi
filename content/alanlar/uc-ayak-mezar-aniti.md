@@ -37,7 +37,7 @@ wikidata_id: "Q134728082"
 
 ## Coğrafya
 
-Üç Ayak Mezar Anıtı, Mersin'in Erdemli ilçesinde yer alan bir doğal ve tarihi alandır. Bu alan, Akdeniz Bölgesi'nin coğrafi yapısına uygun olarak, sıca ve kurak bir iklimi sahiptir. Üç Ayak Mezar Anıtı, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır. Bu anıt, Erdemli'nin coğrafi yapısını ve iklimini yansıtan önemli bir özelliktir. Üç Ayak Mezar Anıtı, çevresindeki doğal güzelliklerle birlikte, ziyaretçilerine doğa hakkında bilgiler sunar. Bu anıt, Erdemli'nin coğrafi ve iklimsel özelliklerini öğrenmek isteyenler için önemli bir merkez olarak kabul edilir. Üç Ayak Mezar Anıtı, ziyaretçilerine Erdemli'nin coğrafi yapısı ve iklimi hakkında detaylı bilgiler sunar ve onları bölge hakkında düşünmeye teşvik eder.
+Üç Ayak Mezar Anıtı, Mersin'in Erdemli ilçesinde yer alan bir doğal ve tarihi alandır. Bu alan, Akdeniz Bölgesi'nin coğrafi yapısına uygun olarak, sıcak ve kurak bir iklimi sahiptir. Üç Ayak Mezar Anıtı, yüksek bir konumda yer alır. Bu anıt, Erdemli'nin coğrafi yapısını ve iklimini yansıtan önemli bir özelliktir. Üç Ayak Mezar Anıtı, çevresindeki doğal güzelliklerle birlikte, ziyaretçilerine doğa hakkında bilgiler sunar. Bu anıt, Erdemli'nin coğrafi ve iklimsel özelliklerini öğrenmek isteyenler için önemli bir merkez olarak kabul edilir. Üç Ayak Mezar Anıtı, ziyaretçilerine Erdemli'nin coğrafi yapısı ve iklimi hakkında detaylı bilgiler sunar ve onları bölge hakkında düşünmeye teşvik eder.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ wikidata_id: "Q134728082"
 ## İlginç Bilgiler
 
 - Üç Ayak Mezar Anıtı, Erdemli'nin tarihi ve kültürel mirasının önemli bir parçasıdır
-- Bu anıt, Akdeniz Bölgesi'nin coğrafi yapısına uygun olarak, sıca ve kurak bir iklimi sahiptir
-- Üç Ayak Mezar Anıtı, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır
+- Bu anıt, Akdeniz Bölgesi'nin coğrafi yapısına uygun olarak, sıcak ve kurak bir iklimi sahiptir
+- Üç Ayak Mezar Anıtı, yüksek bir konumda yer alır
 - Bu anıt, Erdemli'nin coğrafi yapısını ve iklimini yansıtan önemli bir özelliktir
 - Üç Ayak Mezar Anıtı, doğal güzelliği ve fauna çeşitliliğini korumak için önemli bir role sahiptir

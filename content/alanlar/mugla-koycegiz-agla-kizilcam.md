@@ -30,7 +30,7 @@ Agla Kızılçam Milli Parkı'nın tarihi geçmişi, yüzyıllar boyunca sürege
 
 ## Coğrafya
 
-Agla Kızılçam Milli Parkı, Muğla'nın Köyceğiz ilçesinde, Ege Bölgesi'nin güneyinde yer alıyor. Bu bölge, Akdeniz ikliminin etkisinde kalıyor ve genellikle sıca ve kurak yazlar, ılık ve yağışlı kışlar görülüyor. Milli Parkın coğrafi yapısı, dağlık ve engebeli arazilerden oluşuyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Agla Kızılçam Milli Parkı, 140 hektarlık bir alanı kaplıyor ve ziyaretçilerine geniş bir yeşil alan sunuyor. Milli Parkın coğrafi konumu, turizm açısından önemli bir merkezi oluşturuyor.
+Agla Kızılçam Milli Parkı, Muğla'nın Köyceğiz ilçesinde, Ege Bölgesi'nin güneyinde yer alıyor. Bu bölge, Akdeniz ikliminin etkisinde kalıyor ve genellikle sıcak ve kurak yazlar, ılık ve yağışlı kışlar görülüyor. Milli Parkın coğrafi yapısı, dağlık ve engebeli arazilerden oluşuyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Agla Kızılçam Milli Parkı, 140 hektarlık bir alanı kaplıyor ve ziyaretçilerine geniş bir yeşil alan sunuyor. Milli Parkın coğrafi konumu, turizm açısından önemli bir merkezi oluşturuyor.
 
 ## Flora ve Fauna
 

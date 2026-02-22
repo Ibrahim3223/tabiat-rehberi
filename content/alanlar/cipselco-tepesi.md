@@ -36,7 +36,7 @@ Cipselço Tepesi'nin tarihi geçmişi, bölgenin genel tarihçesi ile iç içe g
 
 ## Coğrafya
 
-Cipselço Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biridir. Batman'ın merkez ilçesine yakın bir konumda yer alan tepe, 140 hektarlık bir alanı kapsar. Tepenin yüksekliği, çevredeki diğer tepelerden daha fazla olduğu için, buradan bakıldığında muhteşem bir manzara gözler önüne serilir. Çevre köylerdeki verimli araziler, tepeye doğru yükselen yeşilliği ve tepe itselfe tırmanırken karşılaşılacak çeşitli bitki türleri, bu bölgenin coğrafi zenginliğini gösterir. İklim olarak, bölgenin genel iklimine uygun olarak yazları sıca ve kurak, kışları ise soğu ve yağışlı geçer. Bu nedenle, tepeye tırmanmak için en uygun zaman, ilkbahar ve sonbahar aylarıdır. Cipselço Tepesi, coğrafi konumu ve doğal güzelliği ile birlikte, ziyaretçilere benzersiz bir deneyim sunar.
+Cipselço Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biridir. Batman'ın merkez ilçesine yakın bir konumda yer alan tepe, 140 hektarlık bir alanı kapsar. Tepenin yüksekliği, çevredeki diğer tepelerden daha fazla olduğu için, buradan bakıldığında muhteşem bir manzara gözler önüne serilir. Çevre köylerdeki verimli araziler, tepeye doğru yükselen yeşilliği ve tepe itselfe tırmanırken karşılaşılacak çeşitli bitki türleri, bu bölgenin coğrafi zenginliğini gösterir. İklim olarak, bölgenin genel iklimine uygun olarak yazları sıcak ve kurak, kışları ise soğuk ve yağışlı geçer. Bu nedenle, tepeye tırmanmak için en uygun zaman, ilkbahar ve sonbahar aylarıdır. Cipselço Tepesi, coğrafi konumu ve doğal güzelliği ile birlikte, ziyaretçilere benzersiz bir deneyim sunar.
 
 ## Flora ve Fauna
 

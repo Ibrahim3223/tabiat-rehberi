@@ -44,7 +44,7 @@ Diyarbakır'ın kalbinde yer alan Koşuyolu Parkı, 37.9239°K ve 40.2142°D koo
 
 Doğal güzellikleri ile dikkat çeken Koşuyolu Parkı, Diyarbakır'ın coğrafi yapısını yansıtan bir bölgede yer alır. Bu bölge, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplar ve şehrin yeşil alan ihtiyacını karşılar. Parkın jeolojik yapısı, bölgenin genel karakterini taşır ve ziyaretçilere doğal bir ortam sunar.
 
-Mevsimsel olarak değişen hava koşulları, Koşuyolu Parkı'nın iklim karakterini belirler. Diyarbakır'ın genel iklimi gibi, park da sıca ve kurak yazlar ile soğu ve yağışlı kışlar geçirir. Bu mevsimsel özellikler, parkın bitki örtüsünü ve ziyaretçi deneyimini etkiler.
+Mevsimsel olarak değişen hava koşulları, Koşuyolu Parkı'nın iklim karakterini belirler. Diyarbakır'ın genel iklimi gibi, park da sıcak ve kurak yazlar ile soğuk ve yağışlı kışlar geçirir. Bu mevsimsel özellikler, parkın bitki örtüsünü ve ziyaretçi deneyimini etkiler.
 
 Koşuyolu Parkı, Diyarbakır'ın ekosistem bağlantıları açısından önemli bir role sahiptir. Yakınlardaki su kaynakları ve komşu alanlar, parkın çevresel ilişkilerini belirler. Bu bağlantılar, parkın doğal dengesini korur ve ziyaretçilere geniş bir ekosistem sunar. Monaco'nun küçük bir bölümü büyüklüğündeki bu park, şehrin yeşil alan ihtiyacını karşılar ve ziyaretçilere doğal bir ortam sunar.
 

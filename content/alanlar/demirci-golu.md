@@ -42,7 +42,7 @@ Doğal güzellikleri ile ön plana çıkan Demirci Gölü, Çanakkale'nin merkez
 
 Gölün fiziksel yapısını incelediğimizde, coğrafi konumu ve jeolojik özellikleri dikkat çekiyor. Demirci Gölü'nün büyüklüğü, bir şehir bloğu büyüklüğüne eşdeğer olan yaklaşık 1200 hektarlık bir alanı kaplıyor. Bu alan, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplayan bir yeşil cennet gibi düşünülebilir. Gölün şekli ve boyutları, çevresindeki coğrafi oluşumlar ile birlikte, benzersiz bir doğal güzelliği ortaya çıkarıyor.
 
-İklim karakteri açısından Demirci Gölü, bölgenin genel iklimini yansıtıyor. Mevsimsel özellikler, yaz aylarında sıca ve kurak, kış aylarında ise serin ve yağışlı bir hava durumu ortaya koyuyor. Bu mevsimsel değişimler, göle ve çevresindeki ekosisteme özgü bir karakter kazandırıyor. Gölün su seviyesi, mevsimsel yağışlar ve buharlaşma ile birlikte değişkenlik gösteriyor.
+İklim karakteri açısından Demirci Gölü, bölgenin genel iklimini yansıtıyor. Mevsimsel özellikler, yaz aylarında sıcak ve kurak, kış aylarında ise serin ve yağışlı bir hava durumu ortaya koyuyor. Bu mevsimsel değişimler, göle ve çevresindeki ekosisteme özgü bir karakter kazandırıyor. Gölün su seviyesi, mevsimsel yağışlar ve buharlaşma ile birlikte değişkenlik gösteriyor.
 
 Demirci Gölü'nün çevresel ilişkileri, komşu alanlar ve su kaynakları ile bağlantılı. Göl, bölgenin su dengesini sağlayan önemli bir su kaynağı olarak görev yapıyor. Ayrıca, göle yakın olan diğer doğal alanlar ve ekosistemler ile birlikte, bir bütün olarak değerlendirildiğinde, Demirci Gölü'nün önemi daha da artıyor. Bu doğal güzelliğin korunması ve sürdürülebilirliğinin sağlanması, gelecek nesiller için önemli bir görev olarak ortaya çıkıyor.
 

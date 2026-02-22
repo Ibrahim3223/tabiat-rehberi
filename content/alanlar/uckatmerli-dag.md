@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Üçkatmerli Dağ, 38.3967°K
 
 Doğal güzelliği ile dikkat çeken Üçkatmerli Dağ, koordinatlarına göre belirlenen konumuna bağlı olarak, bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu alan, Taksim Meydanı'nın birkaç katı büyüklüğünde olabilir, ancak tam boyutu hakkında net bir veri bulunmuyor. Dağın fiziksel yapısı, bölgenin jeolojik özelliklerine bağlı olarak şekillenmiştir. Ancak, daha detaylı fiziksel veriler bulunmaması nedeniyle, dağın boyutları ve şekli hakkında daha fazla bilgi verilemiyor.
 
-İklim açısından bakıldığında, Üçkatmerli Dağ, Güneydoğu Anadolu Bölgesi'nin karakteristik mevsimsel özelliklerine sahiptir. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir hava durumu hakimdir. Bu iklim koşulları, dağın çevresindeki ekosistemi etkileyen önemli bir faktördür. Hava durumunun değişkenliği, bölgenin flora ve fauna çeşitliliğini şekillendirmiştir.
+İklim açısından bakıldığında, Üçkatmerli Dağ, Güneydoğu Anadolu Bölgesi'nin karakteristik mevsimsel özelliklerine sahiptir. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir hava durumu hakimdir. Bu iklim koşulları, dağın çevresindeki ekosistemi etkileyen önemli bir faktördür. Hava durumunun değişkenliği, bölgenin flora ve fauna çeşitliliğini şekillendirmiştir.
 
 Çevresel açıdan bakıldığında, Üçkatmerli Dağ, komşu alanlar ve su kaynakları ile bağlantılı bir ekosistem içerisinde yer almaktadır. Dağın yakınında bulunan su kaynakları, bölgenin canlı yaşamını destekleyen önemli bir unsur olarak görülebilir. Ekosistem bağlantıları, dağın çevresindeki diğer doğal alanlar ile etkileşim halinde olmasını sağlar. Bu bağlantılar, bölgenin doğal dengesini korumak için önemlidir.
 

@@ -37,7 +37,7 @@ wikidata_id: "Q131391246"
 
 ## Coğrafya
 
-Şeyh Şücaüddin Türbesi, Seyitgazi, Eskişehir'de yer alıyor. Bu bölge, coğrafi olarak İç Anadolu Bölgesi'nde bulunuyor. Coğrafi yapısı, geniş otlaklar ve yemyeşil ormanlarla çevrili. İklimi, İç Anadolu'nun karasal iklimine uygun olarak, yazları sıca ve kurak, kışları soğu ve kar yağışlı. Çevre, doğal güzelliği ile dikkat çekiyor. Bölge, çeşitli bitki türleri ve zengin fauna ile doğa severler için ideal bir yer. Şeyh Şücaüddin Türbesi ve çevresi, ziyaretçilere geniş ve yeşil alanlar sunuyor. Bu bölgede, doğa yürüyüşleri, pikni ve diğer açık hava etkinlikleri yapılabiliyor. Ayrıca, türbe ve çevresinin manzarası, ziyaretçilere unutulmaz bir deneyim sunuyor.
+Şeyh Şücaüddin Türbesi, Seyitgazi, Eskişehir'de yer alıyor. Bu bölge, coğrafi olarak İç Anadolu Bölgesi'nde bulunuyor. Coğrafi yapısı, geniş otlaklar ve yemyeşil ormanlarla çevrili. İklimi, İç Anadolu'nun karasal iklimine uygun olarak, yazları sıcak ve kurak, kışları soğuk ve kar yağışlı. Çevre, doğal güzelliği ile dikkat çekiyor. Bölge, çeşitli bitki türleri ve zengin fauna ile doğa severler için ideal bir yer. Şeyh Şücaüddin Türbesi ve çevresi, ziyaretçilere geniş ve yeşil alanlar sunuyor. Bu bölgede, doğa yürüyüşleri, pikni ve diğer açık hava etkinlikleri yapılabiliyor. Ayrıca, türbe ve çevresinin manzarası, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

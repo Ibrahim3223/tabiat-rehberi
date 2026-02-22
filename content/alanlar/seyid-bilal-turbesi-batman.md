@@ -37,7 +37,7 @@ Seyid Bilal Türbesi'nin tam olarak ne zaman inşa edildiğine dair net bilgiler
 
 ## Coğrafya
 
-Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak, Seyid Bilal Türbesi de bu bölgenin karakteristik yapılarını taşıyor. Bölge, genellikle dağlık ve engebeli arazilerle kaplı ve bu coğrafi özellikler, türbenin mimari tasarımını da etkilemiştir. Türbenin etrafı, çeşitli bitki türleri ve ağaçlarla kaplı, ziyaretçilere doğal bir ortam sunuyor. Batman'ın iklimi, genel olarak karasal iklim özellikleri gösteriyor ve bu, türbenin inşa edildiği bölgede de geçerli. Kış ayları soğu ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu iklim koşulları, türbenin mimari tasarımı ve inşasında dikkate alınmıştır. Ayrıca, türbenin bulunduğu Gercüş ilçesi, coğrafi olarak önemli bir konuma sahip ve tarihi İpek Yolu üzerinde yer alıyor.
+Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak, Seyid Bilal Türbesi de bu bölgenin karakteristik yapılarını taşıyor. Bölge, genellikle dağlık ve engebeli arazilerle kaplı ve bu coğrafi özellikler, türbenin mimari tasarımını da etkilemiştir. Türbenin etrafı, çeşitli bitki türleri ve ağaçlarla kaplı, ziyaretçilere doğal bir ortam sunuyor. Batman'ın iklimi, genel olarak karasal iklim özellikleri gösteriyor ve bu, türbenin inşa edildiği bölgede de geçerli. Kış ayları soğuk ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu iklim koşulları, türbenin mimari tasarımı ve inşasında dikkate alınmıştır. Ayrıca, türbenin bulunduğu Gercüş ilçesi, coğrafi olarak önemli bir konuma sahip ve tarihi İpek Yolu üzerinde yer alıyor.
 
 ## Flora ve Fauna
 

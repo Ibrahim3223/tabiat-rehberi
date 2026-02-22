@@ -37,7 +37,7 @@ Tarihi Tahtalı Hamamı, yüzyıllar boyunca birçok medeniyete ev sahipliği ya
 
 ## Coğrafya
 
-Tarihi Tahtalı Hamamı, Malatya'nın Battalgazi ilçesinde yer alan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil eder. Tarihi Tahtalı Hamamı, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır ve bu nedenle, ziyaretçileri tarafından çok sevilen bir yerdir. Bu plajın coğrafi konumu, ziyaretçilerine birçok avantaj sağlar. Örneğin, bu plajın yakınlarında birçok otel ve restoran bulunur ve ziyaretçiler, kolaylıkla konaklama ve yemek hizmetlerinden yararlanabilirler. Ayrıca, Tarihi Tahtalı Hamamı'nın coğrafi konumu, birçok doğal güzelliğe de yakındır. Örneğin, bu plajın yakınlarında birçok dağ ve orman bulunur ve ziyaretçiler, kolaylıkla doğa yürüyüşleri ve diğer açık hava etkinliklerine katılabilirler.
+Tarihi Tahtalı Hamamı, Malatya'nın Battalgazi ilçesinde yer alan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil eder. Tarihi Tahtalı Hamamı, yüksek bir konumda yer alır ve bu nedenle, ziyaretçileri tarafından çok sevilen bir yerdir. Bu plajın coğrafi konumu, ziyaretçilerine birçok avantaj sağlar. Örneğin, bu plajın yakınlarında birçok otel ve restoran bulunur ve ziyaretçiler, kolaylıkla konaklama ve yemek hizmetlerinden yararlanabilirler. Ayrıca, Tarihi Tahtalı Hamamı'nın coğrafi konumu, birçok doğal güzelliğe de yakındır. Örneğin, bu plajın yakınlarında birçok dağ ve orman bulunur ve ziyaretçiler, kolaylıkla doğa yürüyüşleri ve diğer açık hava etkinliklerine katılabilirler.
 
 ## Flora ve Fauna
 
@@ -51,5 +51,5 @@ Tarihi Tahtalı Hamamı, ziyaretçilerine birçok olanak sunar. Bu plaj, özelli
 
 - Tarihi Tahtalı Hamamı, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış bir plajdır.
 - Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil eder.
-- Tarihi Tahtalı Hamamı, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır.
+- Tarihi Tahtalı Hamamı, yüksek bir konumda yer alır.
 - Bu plaj, birçok doğal güzelliğe de yakındır.

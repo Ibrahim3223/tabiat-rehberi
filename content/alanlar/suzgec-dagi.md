@@ -44,7 +44,7 @@ Coğrafyanın sunduğu zenginliklerle dolu bir bölge olan Adana'da yer alan Sü
 
 Jeolojik açıdan bakıldığında, Süzgeç Dağı'nın fiziksel yapısı hakkında detaylı veriler bulunmuyor. Ancak, bu dağların genellikle bölgede bulunan diğer dağlarla benzer özellikler taşıdığı biliniyor. Bu dağların boyutları, Monaco'nun yarısı kadar bir alanı kaplayabilecek büyüklükte olabilir. Şekil ve jeolojik yapı hakkında daha fazla bilgi elde edilebilirse, Süzgeç Dağı'nın gerçek büyüklüğü ve yapısı daha net olarak anlaşılabilir.
 
-İklim açısından Süzgeç Dağı, Akdeniz ikliminin característicasını taşıyor. Bu iklim, yazları sıca ve kurak, kışları ılık ve yağışlı olarak karakterize ediliyor. Mevsimsel özellikler, bölgede tarım ve doğa yürüyüşleri gibi faaliyetleri etkiliyor. Hava durumu, özellikle kış aylarında yağışlı ve serin geçiyor. Bu durum, Süzgeç Dağı'nın çevresindeki bitki örtüsünü ve vahşi yaşamı etkiliyor.
+İklim açısından Süzgeç Dağı, Akdeniz ikliminin característicasını taşıyor. Bu iklim, yazları sıcak ve kurak, kışları ılık ve yağışlı olarak karakterize ediliyor. Mevsimsel özellikler, bölgede tarım ve doğa yürüyüşleri gibi faaliyetleri etkiliyor. Hava durumu, özellikle kış aylarında yağışlı ve serin geçiyor. Bu durum, Süzgeç Dağı'nın çevresindeki bitki örtüsünü ve vahşi yaşamı etkiliyor.
 
 Doğal kaynaklar ve ekosistem açısından bakıldığında, Süzgeç Dağı çevresindeki su kaynakları ve komşu alanlar önemli bir role sahip. Dağın yakınındaki akarsular ve nehirler, bölgenin su ihtiyacını karşılıyor. Ayrıca, Süzgeç Dağı, bölgedeki diğer dağlar ve ovalarla birlikte bir ekosistem oluşturuyor. Bu ekosistem, çeşitli bitki ve hayvan türlerine ev sahipliği yapıyor ve bölgenin biyolojik çeşitliliğini koruyor.
 

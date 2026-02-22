@@ -36,7 +36,7 @@ Kayacık Tepesi'nin tarihi geçmişi, bölgenin yerleşim tarihi ile paralel ola
 
 ## Coğrafya
 
-Kayacık Tepesi, coğrafi olarak Marmara Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, genellikle karasal iklimin etkisinde kalıyor. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıcak ve kuru bir hava hüküm sürüyor. Bu iklim şartları, tepe ve çevresinde çeşitli bitki türlerinin yetişmesine uygun bir ortam sağlıyor. Kayacık Tepesi'nin coğrafi yapısı, genellikle tepeli ve dağlık alanlardan oluşuyor. Bu yapı, bölgenin flora ve faunası için önemli bir faktör. Tepenin yüksekliği ve eğimleri, çeşitli bitki ve hayvan türleri için yaşanabilir bir ortam sunuyor. Ayrıca, tepe ve çevresindeki alanlar, su kaynakları bakımından zengin. Bu su kaynakları, bölgenin ekolojik dengesi için önemli bir rol oynuyor.
+Kayacık Tepesi, coğrafi olarak Marmara Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, genellikle karasal iklimin etkisinde kalıyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kuru bir hava hüküm sürüyor. Bu iklim şartları, tepe ve çevresinde çeşitli bitki türlerinin yetişmesine uygun bir ortam sağlıyor. Kayacık Tepesi'nin coğrafi yapısı, genellikle tepeli ve dağlık alanlardan oluşuyor. Bu yapı, bölgenin flora ve faunası için önemli bir faktör. Tepenin yüksekliği ve eğimleri, çeşitli bitki ve hayvan türleri için yaşanabilir bir ortam sunuyor. Ayrıca, tepe ve çevresindeki alanlar, su kaynakları bakımından zengin. Bu su kaynakları, bölgenin ekolojik dengesi için önemli bir rol oynuyor.
 
 ## Flora ve Fauna
 

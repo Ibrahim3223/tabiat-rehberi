@@ -30,7 +30,7 @@ Bursa-Mustafakemalpaşa-Burhandagi Karacam milli parkının tarihi geçmişi, y�
 
 ## Coğrafya
 
-Bursa-Mustafakemalpaşa-Burhandagi Karacam milli parkı, Marmara Bölgesi'nin coğrafi özelliklerini taşır. Milli parkın konumu, Bursa'nın Mustafakemalpaşa ilçesinde, yaklaşık 140 hektarlık bir alanı kaplar. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur. Milli parkın iklimi, Marmara Bölgesi'nin genel iklimine benzer. Bölge, yaz aylarında sıca ve khô, kış aylarında soğu ve yağışlıdır. Milli parkın coğrafi yapısı, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunar. Milli parkın çevre bölgesi, doğal güzellikleri ve tarihi değerleri ile dikkat çeker.
+Bursa-Mustafakemalpaşa-Burhandagi Karacam milli parkı, Marmara Bölgesi'nin coğrafi özelliklerini taşır. Milli parkın konumu, Bursa'nın Mustafakemalpaşa ilçesinde, yaklaşık 140 hektarlık bir alanı kaplar. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur. Milli parkın iklimi, Marmara Bölgesi'nin genel iklimine benzer. Bölge, yaz aylarında sıcak ve kuru, kış aylarında soğuk ve yağışlıdır. Milli parkın coğrafi yapısı, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunar. Milli parkın çevre bölgesi, doğal güzellikleri ve tarihi değerleri ile dikkat çeker.
 
 ## Flora ve Fauna
 

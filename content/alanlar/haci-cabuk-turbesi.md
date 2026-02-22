@@ -37,7 +37,7 @@ Hacı Çabuk Türbesi, tarihi geçmişi ile dikkat çekiyor. Bu türbenin tam ol
 
 ## Coğrafya
 
-Hacı Çabuk Türbesi, Tokat'ın Niksar ilçesinde yer alıyor. Bu bölge, Karadeniz Bölgesi'nin coğrafi özelliklerine sahip. Türbe ve çevresindeki alan, yeşilin farklı tonlarını barındıran ormanlık bir bölge. Bölgenin iklimi, Karadeniz ikliminin karakteristik özellikleri gösteriyor. Hacı Çabuk Türbesi'nin bulunduğu bölge, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor. Bu yükseklik, ziyaretçilere çevreyi panoramik olarak izleme fırsatı sunuyor. Türbe ve çevresindeki doğa, özellikle ilkbahar ve yaz aylarında ziyaretçilere güzelliklerini sunuyor. Bu mevsimlerde, bölgeye gelen ziyaretçiler, doğanın renk cümbüşü içinde huzur dolu anlar geçirebiliyor.
+Hacı Çabuk Türbesi, Tokat'ın Niksar ilçesinde yer alıyor. Bu bölge, Karadeniz Bölgesi'nin coğrafi özelliklerine sahip. Türbe ve çevresindeki alan, yeşilin farklı tonlarını barındıran ormanlık bir bölge. Bölgenin iklimi, Karadeniz ikliminin karakteristik özellikleri gösteriyor. Hacı Çabuk Türbesi'nin bulunduğu bölge, yüksek bir konumda yer alıyor. Bu yükseklik, ziyaretçilere çevreyi panoramik olarak izleme fırsatı sunuyor. Türbe ve çevresindeki doğa, özellikle ilkbahar ve yaz aylarında ziyaretçilere güzelliklerini sunuyor. Bu mevsimlerde, bölgeye gelen ziyaretçiler, doğanın renk cümbüşü içinde huzur dolu anlar geçirebiliyor.
 
 ## Flora ve Fauna
 

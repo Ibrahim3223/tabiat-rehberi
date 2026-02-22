@@ -38,7 +38,7 @@ Sokullu Mehmet Paşa Hamamı'nın tarihi geçmişi, 16. yüzyıla kadar uzanmakt
 
 ## Coğrafya
 
-Sokullu Mehmet Paşa Hamamı, Lüleburgaz'da bulunan ve Marmara Bölgesi'nin önemli turizm merkezlerinden biridir. Hamam, 140 hektarlık bir alan üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Hamamın bulunduğu bölge, deniz seviyesinden yaklaşık yüksek bir konumdatedir ve çevresi ormanlık alanlarla çevrilidir. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine benzer ve ılıman bir iklim özellikleri gösterir. Hamamın bulunduğu alan, birçok doğal güzelliğe sahiptir ve çevresi çeşitli bitki türleriyle örtülüdür. Sokullu Mehmet Paşa Hamamı, bölgenin önemli turistik noktalarından biridir ve her yıl birçok ziyaretçi tarafından ziyaret edilmektedir.
+Sokullu Mehmet Paşa Hamamı, Lüleburgaz'da bulunan ve Marmara Bölgesi'nin önemli turizm merkezlerinden biridir. Hamam, 140 hektarlık bir alan üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Hamamın bulunduğu bölge, yüksek bir konumdadir ve çevresi ormanlık alanlarla çevrilidir. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine benzer ve ılıman bir iklim özellikleri gösterir. Hamamın bulunduğu alan, birçok doğal güzelliğe sahiptir ve çevresi çeşitli bitki türleriyle örtülüdür. Sokullu Mehmet Paşa Hamamı, bölgenin önemli turistik noktalarından biridir ve her yıl birçok ziyaretçi tarafından ziyaret edilmektedir.
 
 ## Flora ve Fauna
 

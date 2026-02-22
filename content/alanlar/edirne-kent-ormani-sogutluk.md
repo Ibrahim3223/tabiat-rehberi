@@ -30,7 +30,7 @@ Edirne Kent Ormanı'nın tarihi geçmişi, bölgenin coğrafi ve ekolojik önemi
 
 ## Coğrafya
 
-Edirne Kent Ormanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir alandır. Orman, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Ormanın coğrafi konumu, ziyaretçilerine çeşitli doğal güzellikleri keşfetme fırsatı sunar. Çevresindeki dağlar, ovalar ve akarsular, ormanın coğrafi çeşitliliğini artırır. İklim, genel olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır; yazlar sıca ve kurak, kışlar ise soğu ve kar yağışlı geçer. Bu iklim koşulları, ormanın flora ve faunasını etkiler ve çeşitlendirir. Orman, çevresindeki yerleşim yerleri için önemli bir su kaynağı olmasının yanı sıra, bölgenin ekolojik dengesine de katkı sağlar.
+Edirne Kent Ormanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir alandır. Orman, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Ormanın coğrafi konumu, ziyaretçilerine çeşitli doğal güzellikleri keşfetme fırsatı sunar. Çevresindeki dağlar, ovalar ve akarsular, ormanın coğrafi çeşitliliğini artırır. İklim, genel olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır; yazlar sıcak ve kurak, kışlar ise soğuk ve kar yağışlı geçer. Bu iklim koşulları, ormanın flora ve faunasını etkiler ve çeşitlendirir. Orman, çevresindeki yerleşim yerleri için önemli bir su kaynağı olmasının yanı sıra, bölgenin ekolojik dengesine de katkı sağlar.
 
 ## Flora ve Fauna
 

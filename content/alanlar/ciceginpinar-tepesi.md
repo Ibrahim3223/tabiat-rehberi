@@ -36,7 +36,7 @@ wikidata_id: "Q34829389"
 
 ## Coğrafya
 
-Çiçeğinpınar Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş ve açık bir araziye sahiptir. Tepenin etrafı, çeşitli bitki türleri ile kaplıdır ve bu bitki türleri, bölgenin iklimine uygun olarak gelişmiştir. Tepenin yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdatedir. Bu yükseklik, tepeyi ziyaret edenlerin, geniş ve açık bir manzara ile karşılaşmasına neden olur. Çiçeğinpınar Tepesi, çevresindeki diğer tepe ve dağlarla birlikte, bir bütün olarak kabul edilebilir. Bu bölgenin coğrafi yapısı, çeşitli iklim koşullarına uygun olarak gelişmiştir. Kış aylarında karla kaplı olan tepe, yaz aylarında ise yeşilin çeşitli tonlarına bürünür. Bu mevsimsel değişimler, tepeyi daha da çekici hale getirir.
+Çiçeğinpınar Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş ve açık bir araziye sahiptir. Tepenin etrafı, çeşitli bitki türleri ile kaplıdır ve bu bitki türleri, bölgenin iklimine uygun olarak gelişmiştir. Tepenin yüksekliği, yüksek bir konumdadir. Bu yükseklik, tepeyi ziyaret edenlerin, geniş ve açık bir manzara ile karşılaşmasına neden olur. Çiçeğinpınar Tepesi, çevresindeki diğer tepe ve dağlarla birlikte, bir bütün olarak kabul edilebilir. Bu bölgenin coğrafi yapısı, çeşitli iklim koşullarına uygun olarak gelişmiştir. Kış aylarında karla kaplı olan tepe, yaz aylarında ise yeşilin çeşitli tonlarına bürünür. Bu mevsimsel değişimler, tepeyi daha da çekici hale getirir.
 
 ## Flora ve Fauna
 
@@ -51,5 +51,5 @@ wikidata_id: "Q34829389"
 - Çiçeğinpınar Tepesi, Çankırı'nın en yüksek noktalarından biridir.
 - Tepenin etrafında, çeşitli tarihi kalıntılar bulunur.
 - Çiçeğinpınar Tepesi, flora ve fauna açısından zengin bir alandır.
-- Tepenin yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdatedir.
+- Tepenin yüksekliği, yüksek bir konumdadir.
 - Çiçeğinpınar Tepesi, Çankırı'nın coğrafi ve ekolojik yapısını anlamak için önemli bir nokta olarak kabul ediliyor.

@@ -37,7 +37,7 @@ Kasımpaşa Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu 
 
 ## Coğrafya
 
-Kasımpaşa Türbesi, Menderes'in merkezinde yer alıyor ve Ege Bölgesi'nin güzel bir köşesinde konumlanıyor. Bu bölge, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Çevresinde çeşitli değil, çeşitli bitki türleri ve zengin fauna encontr değil, bulunur. Kasımpaşa Türbesi'nin coğrafi konumu, ziyaretçilerin hem tarihi mekanları hem de doğal güzellikleri keşfetmesine olanak tanıyor. Menderes'in iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak yazları sıca ve kurak, kışları ılık ve yağışlı passedir. Bu iklim, bölgeyi yıl boyunca ziyaret etmek için uygun kılıyor. Kasımpaşa Türbesi'nin bulunduğu alan, çevredeki diğer tarihi ve doğal güzelliklere de yakın mesafede yer alıyor.
+Kasımpaşa Türbesi, Menderes'in merkezinde yer alıyor ve Ege Bölgesi'nin güzel bir köşesinde konumlanıyor. Bu bölge, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Çevresinde çeşitli değil, çeşitli bitki türleri ve zengin fauna encontr değil, bulunur. Kasımpaşa Türbesi'nin coğrafi konumu, ziyaretçilerin hem tarihi mekanları hem de doğal güzellikleri keşfetmesine olanak tanıyor. Menderes'in iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak yazları sıcak ve kurak, kışları ılık ve yağışlı pasiftir. Bu iklim, bölgeyi yıl boyunca ziyaret etmek için uygun kılıyor. Kasımpaşa Türbesi'nin bulunduğu alan, çevredeki diğer tarihi ve doğal güzelliklere de yakın mesafede yer alıyor.
 
 ## Flora ve Fauna
 

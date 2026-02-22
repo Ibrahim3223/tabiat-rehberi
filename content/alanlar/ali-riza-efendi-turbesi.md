@@ -38,7 +38,7 @@ Ali Rıza Efendi Türbesi, yüzyıllar boyunca önemli bir dini merkez olarak hi
 
 ## Coğrafya
 
-Ali Rıza Efendi Türbesi, Üsküdar'ın merkezinde, Marmara Denizi'nin kıyısında yer almaktadır. Bölge, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğündedir. Türbe, deniz seviyesinden yaklaşık yüksek bir konumdate ve Üsküdar'ın en güzel manzaralarına ev sahipliği yapmaktadır. Bölgenin iklimi, İstanbul'un genel iklimine benzer ve dört mevsim yaşanmaktadır. Ali Rıza Efendi Türbesi'nin etrafındaki bölge, yeşilin ve mavinin birleştiği bir noktada yer almaktadır. Türbenin yakınında, çeşitli restoranlar ve kafeler bulunmaktadır. Ali Rıza Efendi Türbesi, Üsküdar'ın en önemli doğal ve tarihi güzelliklerinden biridir.
+Ali Rıza Efendi Türbesi, Üsküdar'ın merkezinde, Marmara Denizi'nin kıyısında yer almaktadır. Bölge, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğündedir. Türbe, yüksek bir konumda ve Üsküdar'ın en güzel manzaralarına ev sahipliği yapmaktadır. Bölgenin iklimi, İstanbul'un genel iklimine benzer ve dört mevsim yaşanmaktadır. Ali Rıza Efendi Türbesi'nin etrafındaki bölge, yeşilin ve mavinin birleştiği bir noktada yer almaktadır. Türbenin yakınında, çeşitli restoranlar ve kafeler bulunmaktadır. Ali Rıza Efendi Türbesi, Üsküdar'ın en önemli doğal ve tarihi güzelliklerinden biridir.
 
 ## Flora ve Fauna
 

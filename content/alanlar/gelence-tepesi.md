@@ -37,7 +37,7 @@ Gelence Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetleri
 
 ## Coğrafya
 
-Gelence Tepesi, Kayseri'nin coğrafi çeşitliliğiçerisinde önemli bir yer tutuyor. Tepenin yüksekliği, şehrin diğer bölgelerine nazaran daha yüksektir ve bu nedenle, Gelence Tepesi'nden şehrin ve çevrenin geniş bir panoramik manzarası izlenebiliyor. Tepenin etrafı, çeşitli bitki türleri ve ağaçlarla kaplı geniş ormanlık alanlarla çevrili. Bu ormanlar, Gelence Tepesi'nin doğal güzelliğini daha da artırıyor ve ziyaretçilere doğayla iç içe bir experiencia sunuyor. Tepenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal karakterde. Kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu mevsimsel değişimler, Gelence Tepesi'nin flora ve faunasını da etkiliyor. Tepede, mevsimlere göre değişen çeşitli bitki ve hayvan türleri yaşamını sürdürüyor.
+Gelence Tepesi, Kayseri'nin coğrafi çeşitliliğiçerisinde önemli bir yer tutuyor. Tepenin yüksekliği, şehrin diğer bölgelerine nazaran daha yüksektir ve bu nedenle, Gelence Tepesi'nden şehrin ve çevrenin geniş bir panoramik manzarası izlenebiliyor. Tepenin etrafı, çeşitli bitki türleri ve ağaçlarla kaplı geniş ormanlık alanlarla çevrili. Bu ormanlar, Gelence Tepesi'nin doğal güzelliğini daha da artırıyor ve ziyaretçilere doğayla iç içe bir experiencia sunuyor. Tepenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal karakterde. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu mevsimsel değişimler, Gelence Tepesi'nin flora ve faunasını da etkiliyor. Tepede, mevsimlere göre değişen çeşitli bitki ve hayvan türleri yaşamını sürdürüyor.
 
 ## Flora ve Fauna
 

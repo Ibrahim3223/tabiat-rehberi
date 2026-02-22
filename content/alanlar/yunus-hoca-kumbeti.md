@@ -37,7 +37,7 @@ Yunus Hoca Kümbeti, 14. yüzyılda inşa edilmiştir. Bu yapı, Selçuklu ve Os
 
 ## Coğrafya
 
-Yunus Hoca Kümbeti, Eskişehir'in Sivrihisar ilçesinde yer almaktadır. İç Anadolu Bölgesi'nde bulunan bu ilçe, coğrafi açıdan önemli bir konumda yer almaktadır. Kümbet, Sivrihisar'ın merkezine yakın bir konumda yer almaktadır. Bu bölge, coğrafi açıdan önemli bir bölge olarak kabul edilmektedir. İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri, bu bölgede de görülmektedir. Step ve bozkır gibi coğrafi oluşumlar, bu bölgenin karakteristiğini oluşturmaktadır. İklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik göstermektedir. Kışlar soğu ve karlı, yazlar ise sıcak ve kuru geçmektedir.
+Yunus Hoca Kümbeti, Eskişehir'in Sivrihisar ilçesinde yer almaktadır. İç Anadolu Bölgesi'nde bulunan bu ilçe, coğrafi açıdan önemli bir konumda yer almaktadır. Kümbet, Sivrihisar'ın merkezine yakın bir konumda yer almaktadır. Bu bölge, coğrafi açıdan önemli bir bölge olarak kabul edilmektedir. İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri, bu bölgede de görülmektedir. Step ve bozkır gibi coğrafi oluşumlar, bu bölgenin karakteristiğini oluşturmaktadır. İklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik göstermektedir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuru geçmektedir.
 
 ## Flora ve Fauna
 

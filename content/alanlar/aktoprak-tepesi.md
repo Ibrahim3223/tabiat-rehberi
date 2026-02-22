@@ -36,7 +36,7 @@ Aktoprak Tepesi'nin tarihi geçmişi, bölgenin genel tarihi ile bağlantılıd�
 
 ## Coğrafya
 
-Aktoprak Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle step ve ormanlık alanların bir arada bulunduğu bir coğrafyaya sahiptir. Aktoprak Tepesi'nin çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Tepenin yüksekliği ve konumundan dolayı, civarındaki diğer noktalara göre farklı bir iklimi olabilir. Bölge, genellikle karasal iklimin özelliklerini gösterir; yazlar sıca ve kurak, kışlar ise soğu ve karlı geçer. Aktoprak Tepesi, bu coğrafi özellikleri ile ziyaretçilere bir doğa harikası sunar. Tepenin manzarası, özellikle güneşin batış saatlerinde, muhteşem bir görünüm sunar.
+Aktoprak Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle step ve ormanlık alanların bir arada bulunduğu bir coğrafyaya sahiptir. Aktoprak Tepesi'nin çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Tepenin yüksekliği ve konumundan dolayı, civarındaki diğer noktalara göre farklı bir iklimi olabilir. Bölge, genellikle karasal iklimin özelliklerini gösterir; yazlar sıcak ve kurak, kışlar ise soğuk ve karlı geçer. Aktoprak Tepesi, bu coğrafi özellikleri ile ziyaretçilere bir doğa harikası sunar. Tepenin manzarası, özellikle güneşin batış saatlerinde, muhteşem bir görünüm sunar.
 
 ## Flora ve Fauna
 

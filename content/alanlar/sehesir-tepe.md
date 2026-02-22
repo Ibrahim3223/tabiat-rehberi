@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Şehesır Tepe, 37.6542°K en
 
 Doğal bir oluşum olan Şehesır Tepe, çevresindeki coğrafi yapıyla uyumlu bir şekilde şekillenmiştir. Ancak, detaylı fiziksel veri bulunmaması, bu oluşumun boyutları ve jeolojik yapısı hakkında net bilgi vermemektedir. Şehesır Tepe'nin coğrafi konumu, bölgenin jeolojik geçmişini anlamak için önemli bir ipucu olabilir. Bu tepe, bölgenin tektonik aktivitesinin bir sonucu olarak oluşmuş olabilir.
 
-İklim açısından, Şehesır Tepe'nin bulunduğu bölge, karasal iklimin egemen olduğu bir alandır. Bu bölgede, yaz ayları sıca ve kurak, kış ayları ise soğu ve yağışlı geçer. Şehesır Tepe'nin yüksekliği, bölgenin iklimsel karakterini etkileyebilir. Ancak, yüksekli verisi bulunmaması, bu konuda net bir değerlendirme yapılmasını engellemektedir.
+İklim açısından, Şehesır Tepe'nin bulunduğu bölge, karasal iklimin egemen olduğu bir alandır. Bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçer. Şehesır Tepe'nin yüksekliği, bölgenin iklimsel karakterini etkileyebilir. Ancak, yüksekli verisi bulunmaması, bu konuda net bir değerlendirme yapılmasını engellemektedir.
 
 Çevresel açıdan, Şehesır Tepe, bölgenin ekosistemine önemli katkılar sağlar. Bu tepe, bölgedeki su kaynaklarının oluşumunda ve akışında önemli bir role sahip olabilir. Ayrıca, Şehesır Tepe'nin çevresindeki bitki örtüsü, bölgenin biyolojik çeşitliliğini destekler. Bu tepe, bölgenin coğrafi yapısı ve iklimi ile birlikte, bir bütün olarak ele alınmalıdır.
 
@@ -52,7 +52,7 @@ Doğal bir oluşum olan Şehesır Tepe, çevresindeki coğrafi yapıyla uyumlu b
 
 Şehesır Tepe, Batman'da yer alan bir dağ ekosistemi olarak, yarı kurak iklimin hakim olduğu bir bölgede bulunmaktadır. Bu dağ, yükseklik zonları ve alpin flora ile karakterizedir. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle süslenir. Step ve ova ekolojisi, bu bölgenin benzersiz bitki örtüsünü şekillendirmiştir.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle birlikte zengin bir çeşitlilik gösterir. Dağların yüksek kesimlerinde, dağ keçileri ve yaban keçileri yaşamaktadır. Sonbaharda, göç eden kuşlar bu dağları ziyaret eder ve burada konaklar. Sürüngenler ise, sıca ve kurak alanlarda yaşamlarını sürdürür.
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle birlikte zengin bir çeşitlilik gösterir. Dağların yüksek kesimlerinde, dağ keçileri ve yaban keçileri yaşamaktadır. Sonbaharda, göç eden kuşlar bu dağları ziyaret eder ve burada konaklar. Sürüngenler ise, sıcak ve kurak alanlarda yaşamlarını sürdürür.
 
 Şehesır Tepe'nin ekolojik değeri, bu dağ ekosisteminin korunması açısından büyük önem taşır. Yükseklik zonları ve alpin flora, bu bölgenin benzersiz özellikleridir. Bu dağların korunması, bölgenin ekolojik dengesinin korunması için kritik öneme sahiptir.
 

@@ -42,7 +42,7 @@ Mersin bölgesinde de benzer bir durum söz konusudur. Bölgenin coğrafi konumu
 
 ## Coğrafya
 
-Mersin'in güneşli topraklarında, 37.0081°K ve 34.2847°D koordinatlarında yer alan Arslanköy Göleti, Akdeniz'in sıca ve kurak ikliminin hüküm sürdüğü bir bölgede bulunmaktadır. Gölet, Mersin'in dağlık arazilerine yakın bir konumda yer alır ve etrafı yeşilliklerle çevrilidir. Bu konum, göleti doğal bir oylum haline getirir ve ziyaretçilere doğayla iç içe bir deneyim sunar.
+Mersin'in güneşli topraklarında, 37.0081°K ve 34.2847°D koordinatlarında yer alan Arslanköy Göleti, Akdeniz'in sıcak ve kurak ikliminin hüküm sürdüğü bir bölgede bulunmaktadır. Gölet, Mersin'in dağlık arazilerine yakın bir konumda yer alır ve etrafı yeşilliklerle çevrilidir. Bu konum, göleti doğal bir oylum haline getirir ve ziyaretçilere doğayla iç içe bir deneyim sunar.
 
 Doğal güzelliği ile dikkat çeken Arslanköy Göleti, çevresindeki coğrafyanın bir parçası olarak şekillenmiştir. Göletin büyüklüğü, bir şehir bloğu büyüklüğüne eşdeğerdir ve bu küçük alan, çevredeki flora ve fauna için önemli bir yaşam alanı sağlar. Jeolojik yapı itibariyle, göletin bulunduğu bölge kalker ve şist gibi farklı türdeki kayalardan oluşur. Bu çeşitlilik, göletin suyunun kimyasını etkiler ve çevredeki ekosistemi zenginleştirir.
 

@@ -36,7 +36,7 @@ Beşik Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu bölge
 
 ## Coğrafya
 
-Beşik Tepesi, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumda yer alıyor. Tepenin etrafı, geniş ve yeşil ovalarla çevrili. Bu ovalar, çeşitli bitki türleri ve zengin fauna ile dolu. Tepenin zirvesinden, manzara truly büyüleyici. Burada, güneş doğuşu ve batışını izlemek, ziyaretçilere unutulmaz bir deneyim sunuyor. İklim, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Kışlar soğu ve karlı, yazlar sıca ve kurak geçiyor. Bu iklim, bölgenin flora ve faunasını şekillendiriyor. Çevre, doğal güzellikleri koruma altına almak için çeşitli tedbirler alıyor.
+Beşik Tepesi, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumda yer alıyor. Tepenin etrafı, geniş ve yeşil ovalarla çevrili. Bu ovalar, çeşitli bitki türleri ve zengin fauna ile dolu. Tepenin zirvesinden, manzara truly büyüleyici. Burada, güneş doğuşu ve batışını izlemek, ziyaretçilere unutulmaz bir deneyim sunuyor. İklim, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Kışlar soğuk ve karlı, yazlar sıcak ve kurak geçiyor. Bu iklim, bölgenin flora ve faunasını şekillendiriyor. Çevre, doğal güzellikleri koruma altına almak için çeşitli tedbirler alıyor.
 
 ## Flora ve Fauna
 

@@ -30,7 +30,7 @@ wikidata_id: "Q108227154"
 
 ## Coğrafya
 
-Örümcek Ormani Goknari 3, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtıyor. 140 hektarlık yeşil alan, çeşitli bitki türleriyle kaplı ve zengin fauna ile dolu. Bu bölgenin coğrafi yapısı, ziyaretçilere farklı doğa güzellikleri sunuyor. Örümcek Ormani Goknari 3, doğu-batı yönünde uzanan bir vadi içerisinde yer alıyor ve bu vadi, çeşitli su kaynaklarına ev sahipliği yapıyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve bn mevsimi yaşıyor. Kış aylarında kar yağışı görülürken, yaz ayları sıca ve kurak geçiyor. Örümcek Ormani Goknari 3'ün coğrafi konumu, ziyaretçilere dört mevsim boyunca farklı güzellikler sunuyor.
+Örümcek Ormani Goknari 3, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtıyor. 140 hektarlık yeşil alan, çeşitli bitki türleriyle kaplı ve zengin fauna ile dolu. Bu bölgenin coğrafi yapısı, ziyaretçilere farklı doğa güzellikleri sunuyor. Örümcek Ormani Goknari 3, doğu-batı yönünde uzanan bir vadi içerisinde yer alıyor ve bu vadi, çeşitli su kaynaklarına ev sahipliği yapıyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve bn mevsimi yaşıyor. Kış aylarında kar yağışı görülürken, yaz ayları sıcak ve kurak geçiyor. Örümcek Ormani Goknari 3'ün coğrafi konumu, ziyaretçilere dört mevsim boyunca farklı güzellikler sunuyor.
 
 ## Flora ve Fauna
 

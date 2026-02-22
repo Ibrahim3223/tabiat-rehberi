@@ -36,7 +36,7 @@ Fodulca Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Tarih
 
 ## Coğrafya
 
-Fodulca Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, genel olarak step ve bozkır ekosistemlerine sahip. Tepenin etrafında, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Fodulca Tepesi, etrafındaki ovalar ve dağlarla birlikte bir bütün olarak düşünülüyor. Bu bölge, coğrafi olarak iç Anadolu'nun karasal ikliminin özelliklerini gösteriyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıcak ve kuru bir iklim hüküm sürüyor. Fodulca Tepesi'nin coğrafi konumu, ziyaretçilerine doğa yürüyüşü, trekking ve diğer açık hava aktivitelerine olanak tanıyor.
+Fodulca Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, genel olarak step ve bozkır ekosistemlerine sahip. Tepenin etrafında, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Fodulca Tepesi, etrafındaki ovalar ve dağlarla birlikte bir bütün olarak düşünülüyor. Bu bölge, coğrafi olarak iç Anadolu'nun karasal ikliminin özelliklerini gösteriyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kuru bir iklim hüküm sürüyor. Fodulca Tepesi'nin coğrafi konumu, ziyaretçilerine doğa yürüyüşü, trekking ve diğer açık hava aktivitelerine olanak tanıyor.
 
 ## Flora ve Fauna
 

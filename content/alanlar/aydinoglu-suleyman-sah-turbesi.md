@@ -37,7 +37,7 @@ Aydınoğlu Süleyman Şah Türbesi'nin tarihi geçmişi, yüzyıllar öncesine 
 
 ## Coğrafya
 
-Aydınoğlu Süleyman Şah Türbesi, İzmir'in Tire ilçesinde yer alır. Tire, Ege Bölgesi'nin önemli ilçelerinden biridir. Bu ilçe, İzmir'in güneydoğusunda yer alır ve önemli bir ticari ve kültürel merkez olarak bilinir. Türbe, ilçenin merkezinde yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Bu alan, çeşitli bitkilerin ve ağaçların yetiştirildiği bir bölgedir. Türbenin çevresi, yeşilliklerle dolu bir alandan oluşur. Bu alan, ziyaretçilerin dinlenip tarihi mekanları gezebileceği bir yer olarak kullanılır. Aydınoğlu Süleyman Şah Türbesi, Ege Bölgesi'nin ikliminin etkisi altındadır. Bu bölge, genellikle ılıman bir iklimi sahiptir. Kış ayları, genellikle yağmurlu ve serin geçerken, yaz ayları sıca ve kurudur.
+Aydınoğlu Süleyman Şah Türbesi, İzmir'in Tire ilçesinde yer alır. Tire, Ege Bölgesi'nin önemli ilçelerinden biridir. Bu ilçe, İzmir'in güneydoğusunda yer alır ve önemli bir ticari ve kültürel merkez olarak bilinir. Türbe, ilçenin merkezinde yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Bu alan, çeşitli bitkilerin ve ağaçların yetiştirildiği bir bölgedir. Türbenin çevresi, yeşilliklerle dolu bir alandan oluşur. Bu alan, ziyaretçilerin dinlenip tarihi mekanları gezebileceği bir yer olarak kullanılır. Aydınoğlu Süleyman Şah Türbesi, Ege Bölgesi'nin ikliminin etkisi altındadır. Bu bölge, genellikle ılıman bir iklimi sahiptir. Kış ayları, genellikle yağmurlu ve serin geçerken, yaz ayları sıcak ve kurudur.
 
 ## Flora ve Fauna
 

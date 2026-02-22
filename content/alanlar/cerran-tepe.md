@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi çeşitliliğiçinde, Diyarbakır ilin
 
 Cerran Tepe'nin fiziksel yapısı, bölgenin jeolojik özelliklerini yansıtmaktadır. Dağın boyutları ve şekli, bölgenin tektonik aktivitesininผลlarını göstermektedir. Ancak, detalı fiziksel veriler bulunmamasına rağmen, Cerran Tepe'nin coğrafi konumu ve bölgesel jeoloji, onu bir city blok büyüklüğünde bir alan olarak hayal etmemize olanak sağlamaktadır. Bu küçük alan, büyük bir coğrafi çeşitliliğe sahip ve bölgenin doğal güzelliğini yansıtmaktadır.
 
-Mevsimsel değişiklikler, Cerran Tepe'nin iklim karakterini şekillendirmektedir. Güneydoğu Anadolu Bölgesi'nin genel iklim özellikleri, Cerran Tepe için de geçerlidir. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir iklim hakimdir. Bu mevsimsel farklılıklar, bölgenin flora ve fauna'sını etkilemektedir ve Cerran Tepe'nin çevresindeki ekosistemlerin çeşitliliğine katkıda bulunmaktadır.
+Mevsimsel değişiklikler, Cerran Tepe'nin iklim karakterini şekillendirmektedir. Güneydoğu Anadolu Bölgesi'nin genel iklim özellikleri, Cerran Tepe için de geçerlidir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hakimdir. Bu mevsimsel farklılıklar, bölgenin flora ve fauna'sını etkilemektedir ve Cerran Tepe'nin çevresindeki ekosistemlerin çeşitliliğine katkıda bulunmaktadır.
 
 Cerran Tepe, bölgesel su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahiptir. Yakındaki nehirler ve akarsular, bölgenin sulak alanlarını beslemekte ve Cerran Tepe'nin eteklerinde yer alan vadiler, bu su kaynaklarına ulaşım sağlamaktadır. Bu doğal bağlantılar, bölgenin biyolojik çeşitliliğini zenginleştirmekte ve Cerran Tepe'nin çevresindeki ekosistemlerin dengesini korumaktadır.
 

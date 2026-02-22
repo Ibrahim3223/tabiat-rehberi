@@ -38,7 +38,7 @@ Gazi Osman Paşa Türbesi, tarihsel olarak önemli bir figür olan Gazi Osman Pa
 
 ## Coğrafya
 
-Gazi Osman Paşa Türbesi, İstanbul'un kalbi olan Fatih ilçesinde yer alır. Bu ilçenin coğrafi konumu, Marmara Bölgesi'nin merkezinde bulunur ve tarihi yarımadayla çevrili bir bölgedir. Türbenin etrafı, tarihi yapılar, camiler ve yeşil alanlarla çevrilidir. İstanbul'un coğrafi olarak çeşitlilik gösteren iklimi, türbenin bulunduğu bölgede de kendini gösterir. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıcak ve nemli bir iklim hakimdir. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan olarak tasarlanmış ve bu alanda çeşitli bitki türleri yetiştirilmiştir. Bu yeşil alan, ziyaretçilere dinlenme ve doğayı seyretme imkanı sunar. Ayrıca, türbenin yakınında çeşitli tarihi eserler ve yapılar bulunur, ziyaretçilere geniş bir kültürel deneyim sunar.
+Gazi Osman Paşa Türbesi, İstanbul'un kalbi olan Fatih ilçesinde yer alır. Bu ilçenin coğrafi konumu, Marmara Bölgesi'nin merkezinde bulunur ve tarihi yarımadayla çevrili bir bölgedir. Türbenin etrafı, tarihi yapılar, camiler ve yeşil alanlarla çevrilidir. İstanbul'un coğrafi olarak çeşitlilik gösteren iklimi, türbenin bulunduğu bölgede de kendini gösterir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve nemli bir iklim hakimdir. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan olarak tasarlanmış ve bu alanda çeşitli bitki türleri yetiştirilmiştir. Bu yeşil alan, ziyaretçilere dinlenme ve doğayı seyretme imkanı sunar. Ayrıca, türbenin yakınında çeşitli tarihi eserler ve yapılar bulunur, ziyaretçilere geniş bir kültürel deneyim sunar.
 
 ## Flora ve Fauna
 

@@ -38,7 +38,7 @@ Ulaş Baba Türbesi, tarihi geçmişi ile dikkat çekiyor. Bu alan, yüzyıllar 
 
 ## Coğrafya
 
-Ulaş Baba Türbesi, Konya'nın Selçuklu ilçesinde yer alıyor. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. İç Anadolu Bölgesi, genel olarak yüksek bir bölgedir ve Ulaş Baba Türbesi de bu yükseklikte yer alıyor. Bu alan, yaklaşık yüksek bir konumdate bulunuyor. Ulaş Baba Türbesi, aynı zamanda doğal güzellikleri ile de dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna encontrar. Bölge, genel olarak step iklimi özellikleri gösteriyor ve yazları sıcak, kışları soğuk geçiyor. Ulaş Baba Türbesi, aynı zamanda çevresindeki diğer tarihi ve doğal güzelliklere de yakın bir mesafede yer alıyor.
+Ulaş Baba Türbesi, Konya'nın Selçuklu ilçesinde yer alıyor. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. İç Anadolu Bölgesi, genel olarak yüksek bir bölgedir ve Ulaş Baba Türbesi de bu yükseklikte yer alıyor. Bu alan, yüksek bir konumda bulunuyor. Ulaş Baba Türbesi, aynı zamanda doğal güzellikleri ile de dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna encontrar. Bölge, genel olarak step iklimi özellikleri gösteriyor ve yazları sıcak, kışları soğuk geçiyor. Ulaş Baba Türbesi, aynı zamanda çevresindeki diğer tarihi ve doğal güzelliklere de yakın bir mesafede yer alıyor.
 
 ## Flora ve Fauna
 

@@ -43,7 +43,7 @@ Gaziantep'in güneydoğusunda yer alan Tandır Dağı, 36.9631°K ve 36.5211°D 
 
 Doğal güzelliği ve coğrafi konumuyla dikkat çeken Tandır Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Bu küçük ama önemli alan, bölgenin ekolojik dengesini korumada önemli bir rol oynamaktadır. Tandır Dağı'nın jeolojik yapısı, bölgenin tarihini ve coğrafi oluşumunu anlamak için önemli bir ipucu sunmaktadır.
 
-Mevsimler değişirken, Tandır Dağı'nın iklimi değişkenlik gösterir. Kış aylarında soğu ve kar yağışlı olan bölge, yaz aylarında sıca ve kuru bir havaya sahiptir. Bu iklimsel çeşitlilik, bölgenin florası ve faunası için zengin bir ortam sağlar. Etrafındaki ovalar ve vadiler, Tandır Dağı'nın iklimini etkileyen önemli faktörlerdir.
+Mevsimler değişirken, Tandır Dağı'nın iklimi değişkenlik gösterir. Kış aylarında soğuk ve kar yağışlı olan bölge, yaz aylarında sıcak ve kuru bir havaya sahiptir. Bu iklimsel çeşitlilik, bölgenin florası ve faunası için zengin bir ortam sağlar. Etrafındaki ovalar ve vadiler, Tandır Dağı'nın iklimini etkileyen önemli faktörlerdir.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları, Tandır Dağı'nın çevresel ilişkilerini şekillendirmektedir. Dağın eteklerinde akan dereler ve nehirler, bölgenin sulak alanlarını beslemektedir. Bu su kaynakları, bölgenin canlılarının yaşamını desteklemektedir. Tandır Dağı, bölgenin doğal dengesini korumak için önemli bir unsur olarak görülmektedir.
 

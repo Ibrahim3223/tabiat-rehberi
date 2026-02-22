@@ -44,7 +44,7 @@ Mersin'in doğusunda, Akdeniz kıyısına yakın bir konumda yer alan Yalçı Da
 
 Doğal güzelliği ile dikkat çeken Yalçı Dağı, coğrafi olarak çeşitlilik gösteren bir yapıya sahiptir. Ancak, detaylı fiziksel verilerin olmaması nedeniyle, dağın boyutları ve şekli hakkında net bir bilgi verme mümkün değildir. Ancak, Mersin'in genel coğrafi yapısına bakıldığında, Yalçı Dağı'nın da benzer bir yapıya sahip olabileceği söylenebilir.
 
-Yalçı Dağı'nın iklim karakteri, Akdeniz ikliminin etkilerini taşır. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumuna sahiptir. Bu mevsimsel özellikler, Yalçı Dağı'nın flora ve fauna yapısını şekillendirmektedir. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bir noktaya ulaşmaktadır, ancak bu bilgi kesin değildir.
+Yalçı Dağı'nın iklim karakteri, Akdeniz ikliminin etkilerini taşır. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumuna sahiptir. Bu mevsimsel özellikler, Yalçı Dağı'nın flora ve fauna yapısını şekillendirmektedir. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bir noktaya ulaşmaktadır, ancak bu bilgi kesin değildir.
 
 Çevresel açıdan bakıldığında, Yalçı Dağı, Mersin'in diğer coğrafi oluşumlarıyla bağlantılı bir yapıya sahiptir. Bölge, su kaynakları açısından zengin değildir, ancak Yalçı Dağı'nın eteklerinde küçük akarsular ve derenin bulunması, bölgenin ekosistem bağlantılarını güçlendirmektedir. Monaco'nun yaklaşık onda biri büyüklüğünde olan bu dağ, Mersin'in coğrafi çeşitliliğini zenginleştirmektedir.
 

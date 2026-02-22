@@ -45,7 +45,7 @@ Güneşin battığı yerlerden biri olan Konya, tarihi ve kültürel zenginlikle
 
 Doğal güzelliklerin bir araya geldiği bu noktada, parkın fiziksel yapısı da dikkat çekici. Koordinatlarına bakıldığında, şehrin coğrafi yapısına entegre edilmiş bir şekilde diseñ edildiği görülüyor. Ancak, detaylı fiziksel veri bulunmaması nedeniyle, parkın şekli ve jeolojik özellikleri hakkında net bir bilgi verme mümkün değil. Fakat, Konya'nın genel coğrafi yapısına bakıldığında, parkın bir ova bölgesinde yer aldığı söylenebilir.
 
-İklim karakteri bakımından Konya, karasal bir iklime sahip. Bu nedenle, parkın mevsimsel özellikleri de bu iklime göre şekilleniyor. Yaz aylarında sıca ve kuru, kış aylarında ise soğu ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel özellikler, parkın bitki örtüsü ve fauna çeşitliliği üzerinde etkili oluyor.
+İklim karakteri bakımından Konya, karasal bir iklime sahip. Bu nedenle, parkın mevsimsel özellikleri de bu iklime göre şekilleniyor. Yaz aylarında sıcak ve kuru, kış aylarında ise soğuk ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel özellikler, parkın bitki örtüsü ve fauna çeşitliliği üzerinde etkili oluyor.
 
 Çevresel ilişkiler bakımından, parkın komşu alanlar ve su kaynakları ile bağlantılı olduğu görülüyor. Konya'nın merkezi bölgelerinden biri olan bu park, şehrin yeşil alan ihtiyacını karşılayan önemli bir nokta. Ayrıca, parkın etrafında bulunan diğer yeşil alanlar ve su kaynakları ile birlikte, bir ekosistem olarak çalışıyor. Bu sayede, parkın çevresindeki flora ve fauna çeşitliliği de zenginleşiyor.
 

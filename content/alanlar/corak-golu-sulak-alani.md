@@ -30,7 +30,7 @@ wikidata_id: "Q108228846"
 
 ## Coğrafya
 
-Çorak Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve sulak alanlardan oluşmaktadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, bölgede yaşayan çeşitli bitki türleri için uygun bir ortam sunmaktadır. Çorak Gölü, sulak alanın merkezinde yer almakta ve çevreyi destekleyen önemli bir su kaynağı olarak görev yapmaktadır. Bu sulak alan, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak, karasal iklim özellikleri göstermektedir. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve karlı bir iklim yapısına sahiptir. Çorak Gölü Sulak Alanı, bu coğrafi ve iklimsel koşullar nedeniyle, bölgeye özgü çeşitli bitki ve hayvan türleri için önemli bir yaşam alanı olarak dikkat çekmektedir.
+Çorak Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve sulak alanlardan oluşmaktadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, bölgede yaşayan çeşitli bitki türleri için uygun bir ortam sunmaktadır. Çorak Gölü, sulak alanın merkezinde yer almakta ve çevreyi destekleyen önemli bir su kaynağı olarak görev yapmaktadır. Bu sulak alan, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak, karasal iklim özellikleri göstermektedir. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı bir iklim yapısına sahiptir. Çorak Gölü Sulak Alanı, bu coğrafi ve iklimsel koşullar nedeniyle, bölgeye özgü çeşitli bitki ve hayvan türleri için önemli bir yaşam alanı olarak dikkat çekmektedir.
 
 ## Flora ve Fauna
 

@@ -31,7 +31,7 @@ Guroymak milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
 
 ## Coğrafya
 
-Guroymak milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer almaktadır. Bu bölge, geniş otlak alanları, ormanlık bölgeler ve çeşitli su kaynakları ile zengin bir coğrafi çeşitliliğe sahiptir. Parkın coğrafi yapısı, ziyaretçilere birçok farklı doğal ortam sunar. Burada, hem yüksekçe tepeler hem de derin vadiler bulunur. Ayrıca, Guroymak'ın coğrafi konumu, buranın iklimini de etkilemektedir. Bölgede, karasal iklim özellikleri görülür ve mevsimsel değişimler belirgindir. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu mevsimsel değişimler, Guroymak'ın flora ve faunasını da etkilemektedir. Parkın coğrafi ve iklimsel özellikleri, burasının doğal güzelliklerini daha da özel kılmaktadır.
+Guroymak milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer almaktadır. Bu bölge, geniş otlak alanları, ormanlık bölgeler ve çeşitli su kaynakları ile zengin bir coğrafi çeşitliliğe sahiptir. Parkın coğrafi yapısı, ziyaretçilere birçok farklı doğal ortam sunar. Burada, hem yüksekçe tepeler hem de derin vadiler bulunur. Ayrıca, Guroymak'ın coğrafi konumu, buranın iklimini de etkilemektedir. Bölgede, karasal iklim özellikleri görülür ve mevsimsel değişimler belirgindir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu mevsimsel değişimler, Guroymak'ın flora ve faunasını da etkilemektedir. Parkın coğrafi ve iklimsel özellikleri, burasının doğal güzelliklerini daha da özel kılmaktadır.
 
 ## Flora ve Fauna
 

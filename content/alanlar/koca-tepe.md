@@ -45,7 +45,7 @@ Koca Tepe, bu bağlamda değerlendirildiğinde, bölgenin tarihsel ve kültürel
 
 Doğal güzelliği ve coğrafi konumuyla dikkat çeken Koca Tepe, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu küçük ama önemli alan, bölgenin jeolojik yapısını ve doğal özelliklerini yansıtıyor. Jeolojik olarak incelendiğinde, Koca Tepe'nin yapısında bölgenin karakteristik taşları ve kayaları yer alıyor. Bu taşlar ve kayalar, binlerce yıllık doğal süreçlerin sonucu olarak oluşmuş ve bölgeye özgü bir güzellik katıyor.
 
-Mevsimsel olarak incelendiğinde, Koca Tepe'nin iklimi Ege Bölgesi'nin genel iklim karakterini yansıtıyor. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğiçin önemli bir rol oynuyor. Koca Tepe, bölgenin ekosistemine bağlı olarak, çeşitli bitki ve hayvan türlerine ev sahipliği yapıyor.
+Mevsimsel olarak incelendiğinde, Koca Tepe'nin iklimi Ege Bölgesi'nin genel iklim karakterini yansıtıyor. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğiçin önemli bir rol oynuyor. Koca Tepe, bölgenin ekosistemine bağlı olarak, çeşitli bitki ve hayvan türlerine ev sahipliği yapıyor.
 
 Çevresel açıdan bakıldığında, Koca Tepe'nin komşu alanlar ve su kaynaklarıyla bağlantılı bir konumu var. Yakınındaki dereler ve nehirler, bölgenin su kaynaklarını besliyor. Bu su kaynakları, Koca Tepe'nin doğal güzelliğini ve ekosistemini destekleyen önemli bir faktör. Ayrıca, Koca Tepe'nin çevresindeki diğer doğal alanlar ve korunan bölgelerle birlikte, bölgenin doğal çeşitliliğini koruma altına alıyor.
 

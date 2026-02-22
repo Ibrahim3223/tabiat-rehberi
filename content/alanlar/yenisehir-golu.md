@@ -43,7 +43,7 @@ Güney sınırımızda yer alan Hatay ilinin bir parçası olan Yenişehir Göl�
 
 Doğal bir su kaynağı olan Yenişehir Gölü, bölgenin su dengesini sağlayan önemli bir ekosistemdir. Gölün boyutları hakkında kesin bir veri olmasa da, benzer doğal göllerle karşılaştırıldığında, bir şehir bloğu büyüklüğünde bir alanı kapladığı söylenebilir. Gölün jeolojik yapısı, bölgenin tortul kayaçları ve alüvyonlu topraklarından oluşur. Bu yapı, gölün suyunun kalitesini ve ekosistemin dengesini etkileyen önemli faktörlerdir.
 
-Yenişehir Gölü'nün iklim karakteri, Akdeniz ikliminin etkilerini taşır. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumuna sahiptir. Gölün su seviyesi, mevsimsel yağışlar ve buharlaşma nedeniyle değişebilir. Bu değişimler, gölün ekosistemini ve su kalitesini etkileyen önemli faktörlerdir.
+Yenişehir Gölü'nün iklim karakteri, Akdeniz ikliminin etkilerini taşır. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumuna sahiptir. Gölün su seviyesi, mevsimsel yağışlar ve buharlaşma nedeniyle değişebilir. Bu değişimler, gölün ekosistemini ve su kalitesini etkileyen önemli faktörlerdir.
 
 Gölün çevresel ilişkileri, komşu alanlar ve su kaynakları ile oldukça önemlidir. Yenişehir Gölü, bölgenin su kaynaklarını destekleyen ve ekosistem bağlantılarını sağlayan bir role sahiptir. Gölün suyunun kalitesi, bölgedeki diğer su kaynakları ve ekosistemler için de önemlidir. Bu nedenle, gölün korunması ve sürdürülebilir kullanımı, bölgenin doğal dengesini korumak için kritik öneme sahiptir.
 

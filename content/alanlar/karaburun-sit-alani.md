@@ -30,7 +30,7 @@ Karaburun Sit Alanı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiş. B
 
 ## Coğrafya
 
-Karaburun Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak en güzel yerlerinden birinde bulunuyor. Bu alan, yaklaşık 140 hektarlık yeşil alanıyla, ziyaretçilerini doğanın kucağına davet ediyor. Karaburun Sit Alanı, coğrafi olarak, çeşitli bitki türleri ve zengin fauna ile dolu. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin tipik iklimine benzeyen karasal iklim. Yaz ayları sıca ve kuru, kış ayları soğu ve karlı. Bahar ve sonbahar ayları ise, ılıman ve yağışlı. Karaburun Sit Alanı, coğrafi olarak, birçok doğal güzelliğe sahip. Burada, çeşitli dağlar, ovalar ve nehirler, ziyaretçilere doğanın güzelliğini gösteriyor.
+Karaburun Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak en güzel yerlerinden birinde bulunuyor. Bu alan, yaklaşık 140 hektarlık yeşil alanıyla, ziyaretçilerini doğanın kucağına davet ediyor. Karaburun Sit Alanı, coğrafi olarak, çeşitli bitki türleri ve zengin fauna ile dolu. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin tipik iklimine benzeyen karasal iklim. Yaz ayları sıcak ve kuru, kış ayları soğuk ve karlı. Bahar ve sonbahar ayları ise, ılıman ve yağışlı. Karaburun Sit Alanı, coğrafi olarak, birçok doğal güzelliğe sahip. Burada, çeşitli dağlar, ovalar ve nehirler, ziyaretçilere doğanın güzelliğini gösteriyor.
 
 ## Flora ve Fauna
 

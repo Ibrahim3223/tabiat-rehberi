@@ -43,7 +43,7 @@ Doğal güzellikleri keşfetmek isteyenler için ideal bir destinasyon olan Umut
 
 Fiziksel olarak Umutlu Dağı, bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Ancak, bu küçük alanın içinde gizli kalmış bir hazine gibi, zengin bir jeolojik yapıya sahip. Dağın jeolojik yapısı, Paleozoi ve Mezozoik dönemlere ait kayaçlardan oluşuyor. Bu kayaçlar, milyonlarca yıl boyunca oluşan tektonik hareketler sonucunda şekillenmiş ve bugünkü halini almıştır.
 
-İklim açısından Umutlu Dağı, karasal iklimin hakim olduğu bir bölge içinde yer alıyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakim. Bu mevsimsel değişiklikler, dağın etrafındaki bitki örtüsünü ve vahşi yaşamı etkiliyor. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte, bu nedenle dağdan bakıldığında, geniş bir manzara açılıyor.
+İklim açısından Umutlu Dağı, karasal iklimin hakim olduğu bir bölge içinde yer alıyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakim. Bu mevsimsel değişiklikler, dağın etrafındaki bitki örtüsünü ve vahşi yaşamı etkiliyor. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte, bu nedenle dağdan bakıldığında, geniş bir manzara açılıyor.
 
 Çevresel açıdan Umutlu Dağı, Sakarya Nehri'nin kaynaklarına yakın bir konumda bulunması nedeniyle, su kaynakları açısından önemli bir role sahip. Dağın etrafındaki ormanlar, suyun temiz kalmasını sağlıyor ve nearby alanlardaki ekosistemi desteklemektedir. Ayrıca, dağın komşu alanları, benzer jeoloji ve iklimsel özelliklere sahip, bu nedenle Umutlu Dağı, bölgenin ekolojik dengesini korumasında önemli bir rol oynuyor.
 

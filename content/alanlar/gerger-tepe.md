@@ -36,7 +36,7 @@ Gerger Tepe'nin tarihi geçmişi, bölgeye yerleşen ilk medeniyetlerle başlıy
 
 ## Coğrafya
 
-Gerger Tepe, Doğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe. Bu tepe, Van ilinin merkezine yakın bir konumda bulunuyor ve bölgenin en yüksek noktalarından biri. Gerger Tepe'nin coğrafyası, dağlık bir bölgede yer alıyor ve Van Gölü'ne bakan bir manzarası var. Bu tepe, çevre dağlar ve vadilerle birlikte, bölgeye özgü bir coğrafi yapıya sahip. Gerger Tepe'nin iklimi, bölgenin genel iklimine benzer ve karasal bir iklime sahip. Kış ayları soğu ve karlı, yaz ayları ise sıcak ve kurak geçiyor. Bu tepe, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme ev sahipliği yapıyor. Gerger Tepe, doğa severler ve coğrafya meraklıları için bir cennet olarak kabul ediliyor.
+Gerger Tepe, Doğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe. Bu tepe, Van ilinin merkezine yakın bir konumda bulunuyor ve bölgenin en yüksek noktalarından biri. Gerger Tepe'nin coğrafyası, dağlık bir bölgede yer alıyor ve Van Gölü'ne bakan bir manzarası var. Bu tepe, çevre dağlar ve vadilerle birlikte, bölgeye özgü bir coğrafi yapıya sahip. Gerger Tepe'nin iklimi, bölgenin genel iklimine benzer ve karasal bir iklime sahip. Kış ayları soğuk ve karlı, yaz ayları ise sıcak ve kurak geçiyor. Bu tepe, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme ev sahipliği yapıyor. Gerger Tepe, doğa severler ve coğrafya meraklıları için bir cennet olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Golakelem Tepesi, tarihi geçmişiyle Mardin'in önemli noktalarından biri olar
 
 ## Coğrafya
 
-Golakelem Tepesi, Mardin ilinin coğrafi yapısını yansıtan önemli bir nokta olarak dikkat çekiyor. Güneydoğu Anadolu Bölgesi'nin coğrafi özellikleri, bu tepede net bir şekilde görülüyor. Tepenin coğrafi konumu, ziyaretçilere Mardin'in güzelliğini ve tarihi dokusunu keşfetme fırsatı sunuyor. Tepenin etrafında yer alan dağlar ve vadiler, doğal güzelliği daha da artırıyor. İklim-wise, bölge genelde sıca ve kurak geçiyor, ancak tepenin yüksekliğidue to its yüksek rakımı, iklim biraz daha ılıman olabiliyor. Bu coğrafi yapı, ziyaretçilere benzersiz bir gezi deneyimi sunuyor.
+Golakelem Tepesi, Mardin ilinin coğrafi yapısını yansıtan önemli bir nokta olarak dikkat çekiyor. Güneydoğu Anadolu Bölgesi'nin coğrafi özellikleri, bu tepede net bir şekilde görülüyor. Tepenin coğrafi konumu, ziyaretçilere Mardin'in güzelliğini ve tarihi dokusunu keşfetme fırsatı sunuyor. Tepenin etrafında yer alan dağlar ve vadiler, doğal güzelliği daha da artırıyor. İklim-wise, bölge genelde sıcak ve kurak geçiyor, ancak tepenin yüksekliğidue to its yüksek rakımı, iklim biraz daha ılıman olabiliyor. Bu coğrafi yapı, ziyaretçilere benzersiz bir gezi deneyimi sunuyor.
 
 ## Flora ve Fauna
 

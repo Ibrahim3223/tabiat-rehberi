@@ -36,7 +36,7 @@ wikidata_id: "Q31546888"
 
 ## Coğrafya
 
-Şuınonı Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir oluşumdur. Tepenin yüksekliği, bölgenin genel coğrafi yapısına uygun olarak değişkenlik gösterir. Eteklerinde yer alan köyler, tepeye doğru yükselen bir yapıya sahiptir. İklim, bölgenin genel iklimine uygun olarak yazları sıca ve kurak, kışları ise soğu ve yağışlı geçer. Çevre, çeşitli bitki türleri ve fauna çeşitliliği ile zengindir. Bölgenin coğrafi yapısı, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunar.
+Şuınonı Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir oluşumdur. Tepenin yüksekliği, bölgenin genel coğrafi yapısına uygun olarak değişkenlik gösterir. Eteklerinde yer alan köyler, tepeye doğru yükselen bir yapıya sahiptir. İklim, bölgenin genel iklimine uygun olarak yazları sıcak ve kurak, kışları ise soğuk ve yağışlı geçer. Çevre, çeşitli bitki türleri ve fauna çeşitliliği ile zengindir. Bölgenin coğrafi yapısı, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

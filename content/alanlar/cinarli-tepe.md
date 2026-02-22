@@ -42,7 +42,7 @@ Hatay'ın coğrafi çeşitliliğiçinde yer alan Çinarlı Tepe, 36.9050°K enle
 
 Doğal yapısı itibariyle, Çinarlı Tepe'nin fiziksel özellikleri hakkında ayrıntılı bilgi olmasa da, koordinatlarından hareketle çevresiyle olan ilişkisini anlama mümkün. Bir şehir bloğu büyüklüğünde olan bu alan, Hatay'ın genel coğrafi dokusuna uygun olarak, dağlık ve engebeli bir araziye sahip. Jeolojik açıdan bakıldığında, bölgenin kireçtaşı ve volkanik kayaçlarla kaplı olduğu biliniyor.
 
-Mevsimsel değişimler açısından, Çinarlı Tepe'nin iklim karakteri Akdeniz ikliminin etkilerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürüyor. Bu iklim, bölgenin bitki örtüsünü ve fauna çeşitliliğini şekillendiren önemli bir faktör.
+Mevsimsel değişimler açısından, Çinarlı Tepe'nin iklim karakteri Akdeniz ikliminin etkilerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürüyor. Bu iklim, bölgenin bitki örtüsünü ve fauna çeşitliliğini şekillendiren önemli bir faktör.
 
 Çevresel açıdan bakıldığında, Çinarlı Tepe'nin komşu alanlarla ve su kaynaklarıyla olan ilişkisi dikkat çekici. Bölge, Asi Nehri'nin kıyısında yer alıyor ve bu nehrin suladığı ovalarla birlikte bir ekosistem oluşturuyor. Bu ekosistem, bölgenin flora ve fauna çeşitliliğini destekleyen önemli bir unsur. Çinarlı Tepe, bu ekosistem içinde önemli bir role sahip, zira bölgenin su kaynaklarının dengesini koruyor ve bitki örtüsünün zenginleşmesine katkıda bulunuyor.
 

@@ -37,7 +37,7 @@ wikidata_id: "Q131391631"
 
 ## Coğrafya
 
-Şenlik Dede Türbesi, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde bulunmaktadır. Bu bölge, 140 hektarlık alan ile khong 200 futbol sahası büyüklüğünde ve coğrafi olarak önemli bir yere sahiptir. Şenlik Dede Türbesi, deniz seviyesinden yaklaşık yüksek bir konumdate bulunmaktadır ve çevresi ormanlık alanlarla kaplıdır. Bölgenin coğrafi yapısı, ziyaretçilerine doğal güzellikleri sunmaktadır ve onları doğa ile iç içe olmak için cezbedilmektedir. Şenlik Dede Türbesi, coğrafi olarak önemli bir bölge olması nedeniyle, ziyaretçilerini cezbetmektedir ve onlara unutulmaz bir deneyim sunmaktadır.
+Şenlik Dede Türbesi, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde bulunmaktadır. Bu bölge, 140 hektarlık alan ile khong 200 futbol sahası büyüklüğünde ve coğrafi olarak önemli bir yere sahiptir. Şenlik Dede Türbesi, yüksek bir konumda bulunmaktadır ve çevresi ormanlık alanlarla kaplıdır. Bölgenin coğrafi yapısı, ziyaretçilerine doğal güzellikleri sunmaktadır ve onları doğa ile iç içe olmak için cezbedilmektedir. Şenlik Dede Türbesi, coğrafi olarak önemli bir bölge olması nedeniyle, ziyaretçilerini cezbetmektedir ve onlara unutulmaz bir deneyim sunmaktadır.
 
 ## Flora ve Fauna
 

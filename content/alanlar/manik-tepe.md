@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin dağlık coğrafyası içinde yer alan Manık T
 
 Manık Tepe'nin fiziksel yapısı, bölgenin genel jeolojik özelliklerini yansıtmaktadır. Ancak, detaylı fiziksel verilerin eksikliği nedeniyle, dağın boyutları ve şekli hakkında net bir bilgi bulunmamaktadır. Bu durum, bölgenin coğrafi yapısını tam olarak anlamaya engel teşkil etse de, Manık Tepe'nin Batman ilinin coğrafi yapısına katkıda bulunan önemli bir unsur olduğunu söyleyebiliriz.
 
-Mevsimsel özellikler açısından, Manık Tepe ve çevresinin iklimi, Güneydoğu Anadolu Bölgesi'nin genel iklim karakterini yansıtmaktadır. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu iklim karakteri, bölgenin flora ve fauna yapısını şekillendirmektedir. Manık Tepe'nin yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bir noktadır, ancak tam yüksekli verisi bulunmamaktadır.
+Mevsimsel özellikler açısından, Manık Tepe ve çevresinin iklimi, Güneydoğu Anadolu Bölgesi'nin genel iklim karakterini yansıtmaktadır. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu iklim karakteri, bölgenin flora ve fauna yapısını şekillendirmektedir. Manık Tepe'nin yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bir noktadır, ancak tam yüksekli verisi bulunmamaktadır.
 
 Komşu alanlar açısından, Manık Tepe, Batman Çayı'nın kuzeyinde yer alan dağlık bir bölgede bulunmaktadır. Bu bölgenin doğusunda, aynı ilde yer alan diğer dağlık alanlar bulunmaktadır. Batman Çayı, bölgenin su kaynaklarından birini oluşturmaktadır ve Manık Tepe'nin çevresindeki ekosistem bağlantılarını şekillendirmektedir. Bu bağlantılar, bölgenin doğal yaşamını desteklemektedir.
 

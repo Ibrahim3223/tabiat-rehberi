@@ -46,7 +46,7 @@ Dalyan Gölü, Edirne'nin sakin ve doğal bir köşesinde yer alıyor. 40.7167°
 
 Jeolojik açıdan bakıldığında, Dalyan Gölü'nün çevresindeki arazi yapısı oldukça ilgi çekici. Oldukça alçak bir bölgede yer alan göl, çevresindeki ovalarla birlikte bir bütün teşkil ediyor. Ancak, fiziksel boyutları hakkında net veriler bulunmuyor. Bu bölgenin coğrafi yapısı, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor gibi görünse de, gerçek boyutları hakkında daha fazla bilgi edinmek gerekiyor.
 
-Mevsimsel değişikliklere bakıldığında, Dalyan Gölü'nün iklimi Trakya'nın genel karakterini taşıyor. Kış aylarında soğu ve yağmurlu, yaz aylarında ise sıca ve kurak bir hava hakim. Bu mevsimsel değişiklikler, göle ve çevresine canlılık katıyor. Yağmurlu günlerde gölün suyu artarken, kurak aylarda ise su seviyesi düşüyor. Bu doğal döngü, çevredeki bitki ve hayvan türleri için önemli bir yaşam kaynağı oluyor.
+Mevsimsel değişikliklere bakıldığında, Dalyan Gölü'nün iklimi Trakya'nın genel karakterini taşıyor. Kış aylarında soğu ve yağmurlu, yaz aylarında ise sıcak ve kurak bir hava hakim. Bu mevsimsel değişiklikler, göle ve çevresine canlılık katıyor. Yağmurlu günlerde gölün suyu artarken, kurak aylarda ise su seviyesi düşüyor. Bu doğal döngü, çevredeki bitki ve hayvan türleri için önemli bir yaşam kaynağı oluyor.
 
 Çevresel açıdan bakıldığında, Dalyan Gölü'nün komşu alanlar ve su kaynakları ile bağlantısı oldukça önemli. Göl, Meriç Nehri'nin bir kolu olan Tundzha Nehri'ne yakınlık nedeniyle, su kaynakları açısından zengin bir bölgede yer alıyor. Bu su kaynakları, göle ve çevresindeki ekosisteme yaşam veren önemli bir faktör. Dalyan Gölü, sadece bir doğal güzellik değil, aynı zamanda bölgenin ekolojik dengesini sağlayan önemli bir parça gibi görünüyor.
 

@@ -46,7 +46,7 @@ Coğrafi olarak, Yarışlı Gölü 37.5665°K, 29.9661°D koordinatlarında yer 
 
 Jeolojik açıdan bakıldığında, Yarışlı Gölü'nün fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, gölün boyutları ve şekli, bir birkaç olimpik havuz kadar bir alanı kaplıyor. Bu küçük boyutuna rağmen, gölün su seviyesi ve derinliği, bölgenin iklim koşullarına bağlı olarak değişkenlik gösterebiliyor. Gölün jeolojik yapısı, çevredeki dağlık arazilerle birlikte, bölgenin toprak yapısını ve su kaynaklarının dağılımını etkiliyor.
 
-İklim açısından, Yarışlı Gölü'nün bulunduğu bölge, Akdeniz ikliminin karakteristik özellikleri gösteriyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumu hakim. Bu mevsimsel özellikler, gölün su seviyesini ve ekosistemini etkileyen önemli faktörlerden biri. Gölün su seviyesi, yağışlı kış aylarında yükselirken, sıcak yaz aylarında düşüyor.
+İklim açısından, Yarışlı Gölü'nün bulunduğu bölge, Akdeniz ikliminin karakteristik özellikleri gösteriyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumu hakim. Bu mevsimsel özellikler, gölün su seviyesini ve ekosistemini etkileyen önemli faktörlerden biri. Gölün su seviyesi, yağışlı kış aylarında yükselirken, sıcak yaz aylarında düşüyor.
 
 Çevresel açıdan, Yarışlı Gölü, Burdur ilinin merkezi ve çevresindeki ovalarla bağlantılı bir ekosistem içinde yer alıyor. Göl, bölgenin su kaynakları ve ekosistem bağlantıları açısından önemli bir rol oynuyor. Gölün komşu alanlar, su kaynakları ve ekosistem bağlantıları, bölgenin biyolojik çeşitliliğini ve doğal dengesini koruma açısından kritik öneme sahip.
 

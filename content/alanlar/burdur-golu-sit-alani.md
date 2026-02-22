@@ -30,7 +30,7 @@ Burdur Gölü Sit Alanı, yüzyıllar boyunca bölgenin doğal güzelliklerini k
 
 ## Coğrafya
 
-Burdur Gölü Sit Alanı, İç Anadolu Bölgesi'nin merkezi bir konumunda yer alıyor. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde. Gölün etrafındaki yeşil alanlar ve suyun kenarında bulunan yürüyüş yolları, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Bölge, çeşitli flora ve fauna türleriyle zengin bir ekosisteme sahip. Gölün suyunda, çeşitli balık türleri bulunurken, etrafındaki yeşil alanlarda birçok kuş türü yaşamlarını sürdürüyor. Burdur Gölü Sit Alanı, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak görülebiliyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal bir yapıya sahip. Yaz aylarında sıca ve kurak, kış aylarında soğu ve kar yağışlı bir hava hüküm sürüyor.
+Burdur Gölü Sit Alanı, İç Anadolu Bölgesi'nin merkezi bir konumunda yer alıyor. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde. Gölün etrafındaki yeşil alanlar ve suyun kenarında bulunan yürüyüş yolları, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Bölge, çeşitli flora ve fauna türleriyle zengin bir ekosisteme sahip. Gölün suyunda, çeşitli balık türleri bulunurken, etrafındaki yeşil alanlarda birçok kuş türü yaşamlarını sürdürüyor. Burdur Gölü Sit Alanı, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak görülebiliyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal bir yapıya sahip. Yaz aylarında sıcak ve kurak, kış aylarında soğuk ve kar yağışlı bir hava hüküm sürüyor.
 
 ## Flora ve Fauna
 

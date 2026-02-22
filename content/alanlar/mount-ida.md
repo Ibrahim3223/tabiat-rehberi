@@ -39,7 +39,7 @@ Mount Ida, Türkiye'nin kuzeybatı ucunda, Çanakkale ilinin sınırları içind
 
 Doğal güzellikleri ve jeolojik yapısı ile dikkat çeken Mount Ida, 1774 metre yüksekliği ile bölgenin önemli bir coğrafi özelliğidir. Eiffel Kulesi'nin yaklaşık 6 katı yükseklikte olan bu dağ, çevresindeki diğer dağlardan daha yüksek bir konumda bulunmaktadır. Mount Ida, 1200 hektarlık bir alanı kaplamaktadır, bu da İstanbul'un Adalar ilçesi büyüklüğüne eşdeğerdir.
 
-İklim açısından bakıldığında, Mount Ida'nın bulunduğu bölge Akdeniz ikliminin etkisindedir. Yazları sıca ve kurak, kışları ılık ve yağışlı bir iklim karakteristiği gösterir. Bu bölgede, yıllık ortalama yağış miktarı 600 mm civarındadır, bu da İstanbul'un yıllık yağış miktarının neredeyse yarısına eşittir.
+İklim açısından bakıldığında, Mount Ida'nın bulunduğu bölge Akdeniz ikliminin etkisindedir. Yazları sıcak ve kurak, kışları ılık ve yağışlı bir iklim karakteristiği gösterir. Bu bölgede, yıllık ortalama yağış miktarı 600 mm civarındadır, bu da İstanbul'un yıllık yağış miktarının neredeyse yarısına eşittir.
 
 Mount Ida, çevresindeki diğer coğrafi özelliklerle de bağlantılıdır. Dağın eteklerinde, birçok su kaynağı ve nehir bulunmaktadır. Bu su kaynakları, bölgenin tarım ve hayvancılık faaliyetleri için önemli bir kaynak teşkil etmektedir. Ayrıca, Mount Ida'nın bulunduğu bölge, birçok farklı ekosistemi barındırmaktadır, bu da bölgenin biyolojik çeşitlilik açısından önemli bir konumda olmasını sağlamaktadır.
 

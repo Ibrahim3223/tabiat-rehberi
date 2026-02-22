@@ -30,7 +30,7 @@ Kutahya-Simav-Korucuk Karacam milli parkı, tarihi geçmişi ile dikkat çeker. 
 
 ## Coğrafya
 
-Kutahya-Simav-Korucuk Karacam milli parkı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Park, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleri ve hayvanlarla dolu. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğu ve karlı, yazlar ise sıcak ve kuru. Bu iklim, parkın flora ve faunasının çeşitliliğini etkiler. Parkın coğrafi konumu, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Parkın çevresi, aynı zamanda çeşitli doğal güzelliklere ev sahipliği yapar.
+Kutahya-Simav-Korucuk Karacam milli parkı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Park, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleri ve hayvanlarla dolu. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuru. Bu iklim, parkın flora ve faunasının çeşitliliğini etkiler. Parkın coğrafi konumu, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Parkın çevresi, aynı zamanda çeşitli doğal güzelliklere ev sahipliği yapar.
 
 ## Flora ve Fauna
 

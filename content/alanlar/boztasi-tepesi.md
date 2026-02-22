@@ -36,7 +36,7 @@ Boztaşı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca oluşmuş. Bu bölge,
 
 ## Coğrafya
 
-Boztaşı Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını gözlemlemek için ideal bir yer. Bu tepe, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği, deniz seviyesinden yaklaşık 2000 metre. Bu yükseklik, bölgenin iklimini etkiliyor. Boztaşı Tepesi, karasal iklimin hüküm sürdüğü bir bölge. Kışlar soğu ve karlı, yazlar ise sıcak ve kurak. Bu iklim, bölgenin flora ve faunasını şekillendirmiş. Tepenin etrafı, çeşitli bitki türleri ile çevrili. Bu bitkiler, bölgenin ekolojisini destekleyen önemli unsurlar.
+Boztaşı Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını gözlemlemek için ideal bir yer. Bu tepe, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği, deniz seviyesinden yaklaşık 2000 metre. Bu yükseklik, bölgenin iklimini etkiliyor. Boztaşı Tepesi, karasal iklimin hüküm sürdüğü bir bölge. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak. Bu iklim, bölgenin flora ve faunasını şekillendirmiş. Tepenin etrafı, çeşitli bitki türleri ile çevrili. Bu bitkiler, bölgenin ekolojisini destekleyen önemli unsurlar.
 
 ## Flora ve Fauna
 

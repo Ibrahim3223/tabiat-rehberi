@@ -46,7 +46,7 @@ Gölüni, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için bir cen
 
 Doğal güzelliği ile dikkat çeken Mogan Gölü, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu küçük ama şirin göl, çevredekiındaki peyzajın önemli bir parçasını oluşturuyor. Jeolojik açıdan incelendiğinde, gölüni, genellikle kireç taşı ve kum taşlarından oluşan bir zemin üzerine oturuyor. Bu jeolojik yapı, gölün suyunun berrak olmasını sağlıyor ve suyun altında yaşayan canlılara uygun bir ortam sunuyor.
 
-İklim açısından bakıldığında, Mogan Gölü ve çevresinin karakteri, Ankara'nın genel iklimine benzer. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir hava hakim. Bu mevsimsel değişimler, gölün su seviyesini ve suyunun kimyasal özelliklerini etkiliyor. Hava durumuna bağlı olarak, gölün çevresindeki bitki örtüsü değişiyor ve mevsime uygun olarak yeşilleniyor veya kuruyor.
+İklim açısından bakıldığında, Mogan Gölü ve çevresinin karakteri, Ankara'nın genel iklimine benzer. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir hava hakim. Bu mevsimsel değişimler, gölün su seviyesini ve suyunun kimyasal özelliklerini etkiliyor. Hava durumuna bağlı olarak, gölün çevresindeki bitki örtüsü değişiyor ve mevsime uygun olarak yeşilleniyor veya kuruyor.
 
 Mogan Gölü, çevresindeki diğer su kaynakları ve ekosistemlerle bağlantılı olarak çalışıyor. Gölün suyu, çevredekiındaki tarım alanlarına sulama amacıyla kullanılıyor ve bu şekilde yerel ekonomiye katkıda bulunuyor. Ayrıca, göl ve çevresindeki ormanlık alanlar, birçok kuş türüne ve diğer canlılara yaşam alanı sunuyor. Bu nedenle, Mogan Gölü, sadece bir doğal güzellik değil, aynı zamanda bir ekosistem olarak da önemli bir rol oynuyor.
 

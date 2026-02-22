@@ -44,7 +44,7 @@ Küpeli Dağ da, bu bağlamda, Kayseri'nin tarihi ve kültürel mirasının bir 
 
 Doğal güzelliği ile dikkat çeken Küpeli Dağ, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplar. Dağın şekli, çevredeki diğer dağlar ile benzerlik gösterir ve jeolojik açıdan Kayseri'nin volkanik yapısını yansıtır. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olup, çevredeki diğer dağlardan slightly daha alçak bir konumdadır.
 
-Mevsimsel değişimlerin belirgin olduğu bir bölgede yer alan Küpeli Dağ, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve karlı bir iklim karakterine sahiptir. Dağın iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarını yansıtmaktadır. Dağın yüksekliği ve coğrafi konumu, mevsimsel hava durumu değişimlerine karşı duyarlı bir ekosisteme sahip olmasını sağlar.
+Mevsimsel değişimlerin belirgin olduğu bir bölgede yer alan Küpeli Dağ, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı bir iklim karakterine sahiptir. Dağın iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarını yansıtmaktadır. Dağın yüksekliği ve coğrafi konumu, mevsimsel hava durumu değişimlerine karşı duyarlı bir ekosisteme sahip olmasını sağlar.
 
 Küpeli Dağ, çevresindeki diğer dağlar ve vadilerle birleşerek geniş bir ekosistem ağı oluşturur. Dağın yakınında yer alan su kaynakları, bölgenin flora ve fauna çeşitliliğine katkıda bulunur. Dağın komşu alanları, geniş ormanlık bölgeler ve tarım alanlarından oluşmaktadır. Bu geniş ekosistem, bölgenin biyolojik çeşitliliğini koruma altına almakta ve doğal güzelliğini korumaktadır.
 

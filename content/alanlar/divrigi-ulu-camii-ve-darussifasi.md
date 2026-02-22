@@ -38,7 +38,7 @@ Divriği Ulu Camii ve Darüşşifası, 1228-1229 yılları arasında Mengüceko�
 
 ## Coğrafya
 
-Divriği Ulu Camii ve Darüşşifası, Sivas'ın Divriği ilçesinde yer almaktadır. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu yapıda görülmektedir. Cami ve darüşşifa, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Yapı, kayalık bir tepe üzerine kurulmuştur ve etraftaki diğer yapılarla birlikte tarihi bir kompleks oluşturur. Coğrafi konumu itibariyle, çevredeki dağlar ve ovalarla çevrilidir. İklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır ve karasal bir iklim hüküm sürer. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve khôdır. Bu coğrafi koşullar, yapının mimari ve inşaat özellikleri üzerinde etkili olmuştur.
+Divriği Ulu Camii ve Darüşşifası, Sivas'ın Divriği ilçesinde yer almaktadır. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu yapıda görülmektedir. Cami ve darüşşifa, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Yapı, kayalık bir tepe üzerine kurulmuştur ve etraftaki diğer yapılarla birlikte tarihi bir kompleks oluşturur. Coğrafi konumu itibariyle, çevredeki dağlar ve ovalarla çevrilidir. İklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır ve karasal bir iklim hüküm sürer. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve khôdır. Bu coğrafi koşullar, yapının mimari ve inşaat özellikleri üzerinde etkili olmuştur.
 
 ## Flora ve Fauna
 

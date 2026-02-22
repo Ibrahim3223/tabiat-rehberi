@@ -44,7 +44,7 @@ Genel bir bakışla, Yıldız Adası Çanakkale'nin hemen dışında, Ege Denizi
 
 Jeolojik açıdan bakıldığında, Yıldız Adası'nın fiziksel yapısı hakkında detaylı bilgi olmasa da, ada Çanakkale'nin coğrafi yapısına uygun olarak küçük ve kayalık bir yapıya sahip olduğu anlaşılıyor. Bir şehir bloğu büyüklüğünde olan bu ada, çevresi itibariyle küçük bir ada olarak nitelendirilebilir. Ada hakkında fiziksel veriler sınırlı olsa da, coğrafi konumu ve jeolojik yapısı, bölgenin karakteristik özelliklerini taşıyor.
 
-İklim açısından, Yıldız Adası Ege Denizi'nin iklim koşullarını paylaşıyor. Bölge, Akdeniz ikliminin karakteristik mevsimsel değişimlerini yaşıyor; yazlar sıca ve kurak, kışlar ise ılık ve yağışlı geçiyor. Ada, çevresindeki sulardan ve rüzgarlardan etkilenerek, kendi mikro iklimini oluşturuyor. Bu iklim koşulları, ada çevresindeki deniz yaşamını da etkiliyor.
+İklim açısından, Yıldız Adası Ege Denizi'nin iklim koşullarını paylaşıyor. Bölge, Akdeniz ikliminin karakteristik mevsimsel değişimlerini yaşıyor; yazlar sıcak ve kurak, kışlar ise ılık ve yağışlı geçiyor. Ada, çevresindeki sulardan ve rüzgarlardan etkilenerek, kendi mikro iklimini oluşturuyor. Bu iklim koşulları, ada çevresindeki deniz yaşamını da etkiliyor.
 
 Doğal bir perspektiften bakıldığında, Yıldız Adası'nın çevresel ilişkileri oldukça önemli. Ada, Çanakkale Boğazı'nın hemen girişinde yer alıyor ve bu nedenle su kaynakları ve ekosistem bağlantıları açısından kritik bir role sahip. Ada, bölgedeki deniz canlıları için bir yaşam alanı oluşturuyor ve suyun temizliği, bölgenin doğal dengesini koruyor. Bu nedenle, Yıldız Adası ve çevresi, doğal kaynakların korunması açısından önemli bir bölge olarak görülüyor.
 

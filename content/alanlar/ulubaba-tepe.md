@@ -36,7 +36,7 @@ Ulubaba Tepe'nin tarihi geçmişi, bölgede yapılan araştırmalar ve kazılar 
 
 ## Coğrafya
 
-Ulubaba Tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Bu bölge, dağlık ve engebeli arazilerle karakterizedir ve iklim olarak genelde sıca ve kurudur. Ulubaba Tepe'nin bulunduğu alan, yakındaki diğer dağlar ve teplerle birlikte bir coğrafi bütünü oluşturur. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli manzaralar ve doğa güzellikleri sunar. Ayrıca, bu bölgede bulunan çeşitli bitki türleri ve fauna, bu coğrafi yapının bir parçası olarak görülebilir. Bölgenin iklimi, genel olarak sıca ve kurudur, ancak mevsimsel değişimler, ziyaretçilere farklı doğa güzellikleri sunar. Kış aylarında, bölgenin yüksek kesimlerinde kar görülürken, yaz aylarında sıcaklık artar ve bölge, yeşilin çeşitli tonlarına bürünür.
+Ulubaba Tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Bu bölge, dağlık ve engebeli arazilerle karakterizedir ve iklim olarak genelde sıcak ve kurudur. Ulubaba Tepe'nin bulunduğu alan, yakındaki diğer dağlar ve teplerle birlikte bir coğrafi bütünü oluşturur. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli manzaralar ve doğa güzellikleri sunar. Ayrıca, bu bölgede bulunan çeşitli bitki türleri ve fauna, bu coğrafi yapının bir parçası olarak görülebilir. Bölgenin iklimi, genel olarak sıcak ve kurudur, ancak mevsimsel değişimler, ziyaretçilere farklı doğa güzellikleri sunar. Kış aylarında, bölgenin yüksek kesimlerinde kar görülürken, yaz aylarında sıcaklık artar ve bölge, yeşilin çeşitli tonlarına bürünür.
 
 ## Flora ve Fauna
 

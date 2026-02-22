@@ -44,7 +44,7 @@ Güney Anadolu'nun en güzel köşelerinden biri olan Kavanoz Dağı, 37.1636°K
 
 Doğal güzelliği ile dikkat çeken Kavanoz Dağı, jeolojik olarak zengin bir yapıya sahip. Dağın yüzey şekli, çevresindeki dağlarla benzerlik gösteriyor. Yüksekliği, 85 katlı bir gökdelen kadar olsa da, Kavanoz Dağı'nın gerçek büyüklüğü, ancak geniş bir alana yayıldığında anlaşılıyor. Monaco'nun yarısı kadar bir alanı kaplamasa da, Kavanoz Dağı'nın fiziksel yapısı, ziyaretçilerini etkiliyor.
 
-Mevsimsel değişiklikler, Kavanoz Dağı'nın iklim karakterini şekillendiriyor. Yaz aylarında sıca ve kurak olan hava, kış aylarında serin ve yağışlı bir hava durumuna dönüşüyor. Bu mevsimsel özellikler, Kavanoz Dağı'nı yıl boyunca farklı bir güzelliğe sahip oluyor. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı noktalarda, hava koşulları daha farklı olabiliyor.
+Mevsimsel değişiklikler, Kavanoz Dağı'nın iklim karakterini şekillendiriyor. Yaz aylarında sıcak ve kurak olan hava, kış aylarında serin ve yağışlı bir hava durumuna dönüşüyor. Bu mevsimsel özellikler, Kavanoz Dağı'nı yıl boyunca farklı bir güzelliğe sahip oluyor. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı noktalarda, hava koşulları daha farklı olabiliyor.
 
 Çevresindeki doğal kaynaklar, Kavanoz Dağı'nı önemli bir ekosistem haline getiriyor. Yakınlarında bulunan su kaynakları, dağın etrafındaki flora ve fauna için yaşam kaynağı oluyor. Taksim Meydanı'nın 10 katı büyüklüğünde bir alana yayılan Kavanoz Dağı, komşu alanlarla birlikte büyük bir doğal güzelliği oluşturuyor. Bu doğal güzelliği, ziyaretçiler için keşfetmeye değer bir destinasyon haline getiriyor.
 

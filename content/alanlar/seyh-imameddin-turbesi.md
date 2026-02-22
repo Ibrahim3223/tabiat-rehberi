@@ -29,7 +29,7 @@ wikidata_id: "Q135582875"
 
 # Şeyh İmameddin Türbesi
 
-Şeyh İmameddin Türbesi, Güneydoğu Anadolu Bölgesi'nin Mardin ilinin Artuklu ilçesinde yer alan tarihi bir mekan. 140 hektarlık bir alan üzerinde konumlanmış olan bu mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Şeyh İmameddin Türbesi, çevresi ile birlikte yaklaşık yüksek bir konumdate bulunuyor ve bu yükseklik, ziyaretçilere geniş bir görüş açısı sunuyor. Bu yükseklikte, Mardin'in tarihi dokusunu ve Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını gözlemleme mümkün.
+Şeyh İmameddin Türbesi, Güneydoğu Anadolu Bölgesi'nin Mardin ilinin Artuklu ilçesinde yer alan tarihi bir mekan. 140 hektarlık bir alan üzerinde konumlanmış olan bu mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Şeyh İmameddin Türbesi, çevresi ile birlikte yüksek bir konumda bulunuyor ve bu yükseklik, ziyaretçilere geniş bir görüş açısı sunuyor. Bu yükseklikte, Mardin'in tarihi dokusunu ve Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını gözlemleme mümkün.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q135582875"
 
 ## Coğrafya
 
-Şeyh İmameddin Türbesi, Mardin'in Artuklu ilçesinde, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısına uygun bir şekilde konumlanmış. Bu bölge, genellikle dağlık ve engebeli bir araziye sahip ve bu türbe de bu coğrafi yapıya uygun bir şekilde inşa edilmiş. Türbe, yaklaşık yüksek bir konumdate yer alıyor ve bu yükseklik, ziyaretçilere geniş bir görüş açısı sunuyor. Çevresinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu coğrafi yapı, ziyaretçilere doğal güzellikleri ve tarihi mekanları keşfetme fırsatı sunuyor. Şeyh İmameddin Türbesi'nin coğrafi konumu, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini gözlemlemek için ideal bir nokta.
+Şeyh İmameddin Türbesi, Mardin'in Artuklu ilçesinde, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısına uygun bir şekilde konumlanmış. Bu bölge, genellikle dağlık ve engebeli bir araziye sahip ve bu türbe de bu coğrafi yapıya uygun bir şekilde inşa edilmiş. Türbe, yüksek bir konumda yer alıyor ve bu yükseklik, ziyaretçilere geniş bir görüş açısı sunuyor. Çevresinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu coğrafi yapı, ziyaretçilere doğal güzellikleri ve tarihi mekanları keşfetme fırsatı sunuyor. Şeyh İmameddin Türbesi'nin coğrafi konumu, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini gözlemlemek için ideal bir nokta.
 
 ## Flora ve Fauna
 

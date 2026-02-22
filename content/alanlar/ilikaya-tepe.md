@@ -36,7 +36,7 @@ wikidata_id: "Q31390109"
 
 ## Coğrafya
 
-İlikaya Tepe, Antalya'nın coğrafi olarak önemli bir bölgesinde bulunmaktadır. Bu tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. İlikaya Tepe, etrafındaki doğal güzelliklerle birlikte, bir bütün olarak dikkat çekmektedir. Bu tepe, çeşitli bitki türleri ve hayvan türleri ile zengin bir ekosisteme sahiptir. İlikaya Tepe'nin iklimi, Akdeniz ikliminin característicasını taşır. Bu tepe, yazları sıca ve kurak, kışları ılıman ve yağışlı bir iklime sahiptir. İlikaya Tepe, coğrafi olarak önemli bir noktada bulunmaktadır ve bu nedenle, birçok gezi rotasına dahil edilmektedir.
+İlikaya Tepe, Antalya'nın coğrafi olarak önemli bir bölgesinde bulunmaktadır. Bu tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. İlikaya Tepe, etrafındaki doğal güzelliklerle birlikte, bir bütün olarak dikkat çekmektedir. Bu tepe, çeşitli bitki türleri ve hayvan türleri ile zengin bir ekosisteme sahiptir. İlikaya Tepe'nin iklimi, Akdeniz ikliminin característicasını taşır. Bu tepe, yazları sıcak ve kurak, kışları ılıman ve yağışlı bir iklime sahiptir. İlikaya Tepe, coğrafi olarak önemli bir noktada bulunmaktadır ve bu nedenle, birçok gezi rotasına dahil edilmektedir.
 
 ## Flora ve Fauna
 

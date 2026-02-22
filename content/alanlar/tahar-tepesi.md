@@ -36,7 +36,7 @@ Tahar Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin 
 
 ## Coğrafya
 
-Tahar Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak çeşitli özelliklere sahip. Tepenin deniz seviyesinden yüksekliği, coğrafi konumuna göre değişkenlik gösteriyor. Tahar Tepesi, çevresindeki diğer tepelerle birlikte, bir dağ silsilesini oluşturuyor. Bu coğrafi özellik, bölgenin iklimini ve bitki örtüsünü etkiliyor. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar göze çarpmakta. Tahar Tepesi, coğrafi olarak çeşitlilik gösteren bir bölge. Tepenin iklimi, mevsimsel olarak değişkenlik gösteriyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürüyor. Bu mevsimsel değişimler, tepenin bitki örtüsünü ve fauna çeşitliliğini etkiliyor. Tahar Tepesi, coğrafi olarak çeşitlilik gösteren ve ziyaretçilerine farklı deneyimler sunan bir bölge.
+Tahar Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak çeşitli özelliklere sahip. Tepenin deniz seviyesinden yüksekliği, coğrafi konumuna göre değişkenlik gösteriyor. Tahar Tepesi, çevresindeki diğer tepelerle birlikte, bir dağ silsilesini oluşturuyor. Bu coğrafi özellik, bölgenin iklimini ve bitki örtüsünü etkiliyor. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar göze çarpmakta. Tahar Tepesi, coğrafi olarak çeşitlilik gösteren bir bölge. Tepenin iklimi, mevsimsel olarak değişkenlik gösteriyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürüyor. Bu mevsimsel değişimler, tepenin bitki örtüsünü ve fauna çeşitliliğini etkiliyor. Tahar Tepesi, coğrafi olarak çeşitlilik gösteren ve ziyaretçilerine farklı deneyimler sunan bir bölge.
 
 ## Flora ve Fauna
 

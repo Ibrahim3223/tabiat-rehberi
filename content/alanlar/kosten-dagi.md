@@ -44,7 +44,7 @@ Güneybatı Anadolu'nun kıyı şeridini süsleyen Muğla ilinin bir parçası o
 
 Doğal güzelliği ve coğrafi özellikleri ile ön plana çıkan Kösten Dağı, Muğla ilinin turizm potansiyelini artıran bir bölgedir. Kösten Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplar ve bu küçük ama önemli bir coğrafi oluşum olarak dikkat çeker. Jeolojik olarak, bu bölgenin özellikleri hakkında detaylı bilgi olmasa da, Muğla ilinin genel jeolojik yapısı, kireçtaşı ve şist gibi farklı kayaç türlerinin bir arada bulunduğu bir yapıyı işaret etmektedir.
 
-İklim açısından, Kösten Dağı ve çevresi, Akdeniz ikliminin karakteristik özelliklerini taşır. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumuna sahiptir. Bu iklim koşulları, flora ve fauna çeşitliliğini destekler ve bölgenin doğal güzelliğini zenginleştirir.
+İklim açısından, Kösten Dağı ve çevresi, Akdeniz ikliminin karakteristik özelliklerini taşır. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumuna sahiptir. Bu iklim koşulları, flora ve fauna çeşitliliğini destekler ve bölgenin doğal güzelliğini zenginleştirir.
 
 Ekosistem bağlamında, Kösten Dağı, komşu alanlar ve su kaynakları ile birlikte bir bütün olarak değerlendirilmelidir. Bu dağ, Marmaris Körfezi'nin su kaynakları ile bağlantılıdır ve bölgenin su döngüsüne katkıda bulunur. Ayrıca, Kösten Dağı, bölgenin ekosistem çeşitliliğini destekleyen önemli bir doğal habitat olarak görev yapar. Bu doğal habitat, çeşitli bitki ve hayvan türleri için yaşam alanı sağlar ve bölgenin biyolojik zenginliğini korur.
 

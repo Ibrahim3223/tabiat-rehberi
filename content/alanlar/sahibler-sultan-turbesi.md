@@ -37,7 +37,7 @@ Sahibler Sultan Türbesi'nin tarihi geçmişi, yüzyıllar boyunca devam eden bi
 
 ## Coğrafya
 
-Sahibler Sultan Türbesi, Afyonkarahisar'ın merkezinde yer alan bir bölgede bulunmaktadır. Bu bölge, Ege Bölgesi'nin coğrafi özelliklerini taşır ve genellikle karasal bir iklimi vardır. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir hava koşullarına sahiptir. Türbenin etrafındaki alan, doğal güzellikleri vehistoric bir geçmişe sahip bir bölgedir. Bölgenin coğrafi yapısı, genellikle dağlık ve engebeli arazilerle çevrili olup, yer ovalık alanlar da bulunmaktadır. Sahibler Sultan Türbesi'nin bulunduğu bölge, coğrafi olarak çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir.
+Sahibler Sultan Türbesi, Afyonkarahisar'ın merkezinde yer alan bir bölgede bulunmaktadır. Bu bölge, Ege Bölgesi'nin coğrafi özelliklerini taşır ve genellikle karasal bir iklimi vardır. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir hava koşullarına sahiptir. Türbenin etrafındaki alan, doğal güzellikleri vehistoric bir geçmişe sahip bir bölgedir. Bölgenin coğrafi yapısı, genellikle dağlık ve engebeli arazilerle çevrili olup, yer ovalık alanlar da bulunmaktadır. Sahibler Sultan Türbesi'nin bulunduğu bölge, coğrafi olarak çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir.
 
 ## Flora ve Fauna
 

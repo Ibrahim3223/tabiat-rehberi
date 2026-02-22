@@ -30,7 +30,7 @@ Cay Mese Milli Parkı, yüzyıllar boyunca doğal güzellikleri ile dikkat çekm
 
 ## Coğrafya
 
-Cay Mese Milli Parkı, Ege Bölgesi'nde yer alan Afyonkarahisar ilinde bulunmaktadır. Milli park, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Parkın coğrafi yapısı, dağlar, vadiler ve ova gibi farklı toprak şekillerini içermektedir. Cay Mese Milli Parkı, iklim açısından ılıman bir bölgede yer almaktadır. Parkın iklimi, yazları sıca ve khô, kışları soğu ve yağışlıdır. Milli park, flora ve fauna açısından zengin bir çeşitlilik sunmaktadır. Parkta, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
+Cay Mese Milli Parkı, Ege Bölgesi'nde yer alan Afyonkarahisar ilinde bulunmaktadır. Milli park, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Parkın coğrafi yapısı, dağlar, vadiler ve ova gibi farklı toprak şekillerini içermektedir. Cay Mese Milli Parkı, iklim açısından ılıman bir bölgede yer almaktadır. Parkın iklimi, yazları sıcak ve kuru, kışları soğuk ve yağışlıdır. Milli park, flora ve fauna açısından zengin bir çeşitlilik sunmaktadır. Parkta, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 
 ## Flora ve Fauna
 

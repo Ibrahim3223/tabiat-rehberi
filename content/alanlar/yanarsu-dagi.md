@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Yanarsu Dağı, Siirt ilinin 
 
 Jeolojik açıdan incelendiğinde, Yanarsu Dağı'nın precise boyutları hakkında detaylı bilgi bulunmasa da, genel olarak Güneydoğu Anadolu Bölgesi'nin coğrafi yapısına benzerlik gösterdiği söylenebilir. Bu bölge, genellikle dağlık ve engebeli arazilerle karakterizedir. Yanarsu Dağı da bu coğrafi yapıya uygun olarak, bölgenin diğer dağları gibi bir kısmı yükseklikte ve engebeli bir yapısı sahiptir.
 
-Mevsimsel olarak bakıldığında, Yanarsu Dağı'nın iklimi bölgenin genel iklim karakterine benzerlik gösterir. Güneydoğu Anadolu Bölgesi, genellikle sıca ve kuru yazlar ile soğu ve yağışlı kışlar ile karakterizedir. Yanarsu Dağı da bu mevsimsel değişimlere uyum gösteren bir iklim yapısına sahiptir. Kış aylarında karla kaplanan dağ, yaz aylarında ise yeşillenen bitkilerle birlikte farklı bir güzelliğe bürünür.
+Mevsimsel olarak bakıldığında, Yanarsu Dağı'nın iklimi bölgenin genel iklim karakterine benzerlik gösterir. Güneydoğu Anadolu Bölgesi, genellikle sıcak ve kuru yazlar ile soğuk ve yağışlı kışlar ile karakterizedir. Yanarsu Dağı da bu mevsimsel değişimlere uyum gösteren bir iklim yapısına sahiptir. Kış aylarında karla kaplanan dağ, yaz aylarında ise yeşillenen bitkilerle birlikte farklı bir güzelliğe bürünür.
 
 Çevresel açıdan incelendiğinde, Yanarsu Dağı'nın komşu alanlar ve su kaynaklarıyla önemli bir ilişkisi olduğu görülür. Bölgedeki diğer dağlar ve ovalarla birlikte, bir bütünü oluşturan Yanarsu Dağı, bölgenin ekosistem bağlantılarında önemli bir rol oynar. Özellikle su kaynaklarının oluşumunda ve bölgenin biyolojik çeşitliliğinin korunmasında önemli bir görev üstlenir.
 

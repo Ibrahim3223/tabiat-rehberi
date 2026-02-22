@@ -30,7 +30,7 @@ Adapazari-Izmit-Taskopru Karacam milli parkının tarihi geçmişi, yüzyıllar 
 
 ## Coğrafya
 
-Adapazari-Izmit-Taskopru Karacam milli parkı, İç Anadolu Bölgesi'nde yer alan bir coğrafi bölge olarak dikkat çeker. Bu bölgenin coğrafi yapısı, çeşitli dağlar, vadiler ve ovalardan oluşur. İklimi, İç Anadolu Bölgesi'nin karakteristik iklimi ile benzerlik gösterir ve karasal bir iklim özelliği taşır. Yaz ayları sıca ve kurak, kış ayları soğu ve karlı geçer. Bu coğrafi yapı, çeşitli bitki türleri ve hayvanları barındıran zengin bir ekosistemi destekler. Milli parkın coğrafi yapısı, aynı zamanda ziyaretçilerin doğa yürüyüşleri, kamp ve diğer outdoor etkinlikler için ideal bir ortam sağlar. Ayrıca, bu bölgenin coğrafi konumu, çeşitli su kaynaklarına yakın olması ile de dikkat çeker ve bu su kaynakları, fauna ve flora çeşitliliğini destekler.
+Adapazari-Izmit-Taskopru Karacam milli parkı, İç Anadolu Bölgesi'nde yer alan bir coğrafi bölge olarak dikkat çeker. Bu bölgenin coğrafi yapısı, çeşitli dağlar, vadiler ve ovalardan oluşur. İklimi, İç Anadolu Bölgesi'nin karakteristik iklimi ile benzerlik gösterir ve karasal bir iklim özelliği taşır. Yaz ayları sıcak ve kurak, kış ayları soğuk ve karlı geçer. Bu coğrafi yapı, çeşitli bitki türleri ve hayvanları barındıran zengin bir ekosistemi destekler. Milli parkın coğrafi yapısı, aynı zamanda ziyaretçilerin doğa yürüyüşleri, kamp ve diğer outdoor etkinlikler için ideal bir ortam sağlar. Ayrıca, bu bölgenin coğrafi konumu, çeşitli su kaynaklarına yakın olması ile de dikkat çeker ve bu su kaynakları, fauna ve flora çeşitliliğini destekler.
 
 ## Flora ve Fauna
 

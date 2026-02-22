@@ -46,7 +46,7 @@ Doğudan batıya uzanan Anadolu'nun dağlık yapısı içinde yer alan Kara Dağ
 
 Jeolojik açıdan bakıldığında, Kara Dağ'ın yapısı hakkında detaylı bilgi bulunmasa da, genel olarak bölgenin dağlık ve engebeli bir coğrafyaya sahip olduğu biliniyor. Kara Dağ'ın boyutları ile ilgili kesin veriler olmasa da, bölgenin coğrafi yapısı, Monaco'nun yarısı kadar bir alanı kapsayabilecek büyüklükte olabilir. Bu büyüklük, bir şehrin merkezi gibi büyük bir alanı kapsayabiliyor.
 
-İklim açısından, Kara Dağ'ın bulunduğu bölge, Karadeniz Bölgesi'nin karakteristik iklimine sahip. Bölgede, yaz ayları serin ve yağışlı, kış ayları ise soğu ve kar yağışlı geçer. Bu mevsimsel özellikler, Kara Dağ'ın flora ve fauna açısından zengin bir çeşitlilik göstermesine olanak tanır. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı zirveler, bu dağlık bölgede bulunuyor.
+İklim açısından, Kara Dağ'ın bulunduğu bölge, Karadeniz Bölgesi'nin karakteristik iklimine sahip. Bölgede, yaz ayları serin ve yağışlı, kış ayları ise soğuk ve kar yağışlı geçer. Bu mevsimsel özellikler, Kara Dağ'ın flora ve fauna açısından zengin bir çeşitlilik göstermesine olanak tanır. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı zirveler, bu dağlık bölgede bulunuyor.
 
 Çevresel açıdan, Kara Dağ, komşu dağlar ve vadilerle birlikte bir bütün olarak doğu Karadeniz dağlık sistemi içinde yer alır. Bölge, su kaynakları açısından zengin olup, birçok nehir ve derenin kaynağını oluşturur. Kara Dağ, bu su kaynakları ve ekosistem bağlantıları ile birlikte, bölgenin doğal dengesini korur ve zengin bir biyolojik çeşitlilik sunar. İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kapsayan bu dağlık bölge, doğa severler için önemli bir destinasyon oluşturur.
 

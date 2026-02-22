@@ -36,7 +36,7 @@ Halfe Tepesi'nin tarihi geçmişi, Kilis şehrinin kuruluşuna kadar uzanır. B�
 
 ## Coğrafya
 
-Halfe Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Tepenin yüksekliği, bölgenin genel coğrafi yapısına uygun olarak değişkenlik gösterir. Halfe Tepesi'nin çevresi, çeşitli bitki türleriyle kaplıdır ve bu nedenle bölgenin ekolojik dengesi önemlidir. Tepenin eteklerinde yer alan köyler, geleneksel tarım faaliyetleri ile geçimlerini sağlar. Bölgenin iklimi, Güneydoğu Anadolu Bölgesi'nin genel iklimine uygun olarak sıca ve kurudur. Halfe Tepesi, Kilis şehrinin önemli bir coğrafi özelliğini oluşturur ve şehrin doğal güzelliklerini yansıtan bir alandır.
+Halfe Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Tepenin yüksekliği, bölgenin genel coğrafi yapısına uygun olarak değişkenlik gösterir. Halfe Tepesi'nin çevresi, çeşitli bitki türleriyle kaplıdır ve bu nedenle bölgenin ekolojik dengesi önemlidir. Tepenin eteklerinde yer alan köyler, geleneksel tarım faaliyetleri ile geçimlerini sağlar. Bölgenin iklimi, Güneydoğu Anadolu Bölgesi'nin genel iklimine uygun olarak sıcak ve kurudur. Halfe Tepesi, Kilis şehrinin önemli bir coğrafi özelliğini oluşturur ve şehrin doğal güzelliklerini yansıtan bir alandır.
 
 ## Flora ve Fauna
 

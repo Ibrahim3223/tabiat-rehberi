@@ -30,7 +30,7 @@ Mersin-Tarsus-Cehennemdere Kızılçam Milli Parkı, yüzyıllar boyunca çeşit
 
 ## Coğrafya
 
-Mersin-Tarsus-Cehennemdere Kızılçam Milli Parkı, Akdeniz Bölgesi'nde yer alan Mersin ilinin Tarsus ilçesinde bulunur. Bu park, 140 hektarlık bir alanı kapsar ve Cehennemdere adlı derenin de içerisinde yer aldığı bir doğa bölgesidir. Parkın coğrafi yapısı, kızılçam ormanlarıyla kaplıdır ve bu ormanlar, bölgenin ekolojik dengesini korumada önemli bir rol oynar. İklim, tipik Akdeniz iklimi özellikleri gösterir; yani yazları sıca ve kurak, kışları ılıman ve yağışlıdır. Bu coğrafi ve iklimsel koşullar, parkın flora ve faunasının çeşitliliğini etkiler. Milli parkın yer aldığı bölge, aynı zamanda tarihî ve kültürel açıdan da zengin bir geçmişe sahiptir.
+Mersin-Tarsus-Cehennemdere Kızılçam Milli Parkı, Akdeniz Bölgesi'nde yer alan Mersin ilinin Tarsus ilçesinde bulunur. Bu park, 140 hektarlık bir alanı kapsar ve Cehennemdere adlı derenin de içerisinde yer aldığı bir doğa bölgesidir. Parkın coğrafi yapısı, kızılçam ormanlarıyla kaplıdır ve bu ormanlar, bölgenin ekolojik dengesini korumada önemli bir rol oynar. İklim, tipik Akdeniz iklimi özellikleri gösterir; yani yazları sıcak ve kurak, kışları ılıman ve yağışlıdır. Bu coğrafi ve iklimsel koşullar, parkın flora ve faunasının çeşitliliğini etkiler. Milli parkın yer aldığı bölge, aynı zamanda tarihî ve kültürel açıdan da zengin bir geçmişe sahiptir.
 
 ## Flora ve Fauna
 

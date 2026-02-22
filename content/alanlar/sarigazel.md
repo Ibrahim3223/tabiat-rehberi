@@ -31,7 +31,7 @@ Sarıgazel milli parkının tarihi geçmişi, bölgenin doğal güzelliklerinin 
 
 ## Coğrafya
 
-Sarıgazel milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgede yer alıyor. Milli parkın coğrafyası, çeşitli bitki türleri ve hayvanlar tarafından şekillenmiştir. Bölge, zengin fauna ve flora çeşitliliğine sahip ve ziyaretçilere çeşitli doğal güzellikler sunuyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahip. Kış ayları soğu ve karlı, yaz ayları ise sıcak ve kurak geçiyor. Sarıgazel milli parkı, ziyaretçilere çeşitli coğrafi oluşumlar sunuyor ve bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak kabul ediliyor.
+Sarıgazel milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgede yer alıyor. Milli parkın coğrafyası, çeşitli bitki türleri ve hayvanlar tarafından şekillenmiştir. Bölge, zengin fauna ve flora çeşitliliğine sahip ve ziyaretçilere çeşitli doğal güzellikler sunuyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahip. Kış ayları soğuk ve karlı, yaz ayları ise sıcak ve kurak geçiyor. Sarıgazel milli parkı, ziyaretçilere çeşitli coğrafi oluşumlar sunuyor ve bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

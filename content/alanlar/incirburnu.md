@@ -44,7 +44,7 @@ Doğal alanlar, Türkiye'nin tarihsel ve kültürel dokusunda önemli bir yer tu
 
 Doğal bir cennet olan İncirburnu, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Bu küçük alan, ziyaretçilere sakin ve huzurlu bir ortam sunmaktadır. İncirburnu'nun fiziksel yapısı, çoğunlukla kayalık ve taşlı arazilerden oluşmaktadır. Bu jeolojik yapı, bölgenin coğrafi özelliklerini şekillendirmiş ve İncirburnu'nu benzersiz bir doğal güzelliğe sahip kılmıştır.
 
-İklim açısından İncirburnu, Akdeniz ikliminin karakteristik özelliklerini taşır. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumuna sahiptir. Bu mevsimsel farklılıklar, İncirburnu'nun florasını ve faunasını etkilemekte ve bölgenin ekosistemini zenginleştirmektedir. İncirburnu'nun iklimi, ziyaretçilere yılın her dönemi farklı bir deneyim sunmaktadır.
+İklim açısından İncirburnu, Akdeniz ikliminin karakteristik özelliklerini taşır. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumuna sahiptir. Bu mevsimsel farklılıklar, İncirburnu'nun florasını ve faunasını etkilemekte ve bölgenin ekosistemini zenginleştirmektedir. İncirburnu'nun iklimi, ziyaretçilere yılın her dönemi farklı bir deneyim sunmaktadır.
 
 İncirburnu, Çanakkale'nin doğal ve tarihi güzelliklerine yakınlığı sebebiyle, bölgenin önemli bir turizm merkezi haline gelmiştir. Çevresindeki su kaynakları ve ekosistem bağlantıları, İncirburnu'nu bir kuş cenneti haline getirmiştir. İncirburnu'nun komşu alanları, zengin bir biyolojik çeşitliliğe sahip olup, bölgenin doğal güzelliğini ve önemini vurgulamaktadır.
 

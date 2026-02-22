@@ -36,7 +36,7 @@ Tekedağ Tepesi'nin tarihi geçmişi hakkındalı bilgiler bulunmasa da, bu böl
 
 ## Coğrafya
 
-Tekedağ Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alır ve coğrafi olarak oldukça zengin bir yapıya sahiptir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve doğu-batı doğrultusunda uzanır. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan Tekedağ Tepesi, step ve orman ekosistemlerini bir arada barındırır. Bu bölgenin iklimi, karasal iklim özellikleri gösterir ve kışları soğuk, yazları sıca ve kurudur. Tekedağ Tepesi'nin coğrafi konumunun bir diğer önemli özelliği de, Ankara'nın merkezine yakın bir konumda yer almasıdır. Bu sayede, ziyaretçiler tepeye ulaşımı kolay bir şekilde gerçekleştirebilirler. Ayrıca, tepe çevresinde çeşitli su kaynakları ve akarsular bulunur ki, bu da bölgenin ekolojik dengesini destekler.
+Tekedağ Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alır ve coğrafi olarak oldukça zengin bir yapıya sahiptir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve doğu-batı doğrultusunda uzanır. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan Tekedağ Tepesi, step ve orman ekosistemlerini bir arada barındırır. Bu bölgenin iklimi, karasal iklim özellikleri gösterir ve kışları soğuk, yazları sıcak ve kurudur. Tekedağ Tepesi'nin coğrafi konumunun bir diğer önemli özelliği de, Ankara'nın merkezine yakın bir konumda yer almasıdır. Bu sayede, ziyaretçiler tepeye ulaşımı kolay bir şekilde gerçekleştirebilirler. Ayrıca, tepe çevresinde çeşitli su kaynakları ve akarsular bulunur ki, bu da bölgenin ekolojik dengesini destekler.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Deveboynu Tepesi'nin tarihi geçmişi oldukça zengin. Bu bölge, yüzyıllar bo
 
 ## Coğrafya
 
-Deveboynu Tepesi, Ege Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Bu tepe, deniz seviyesinden yaklaşık yüksek bir konumdate ve etrafı dağlarla çevrilidir. Deveboynu Tepesi'nin eteklerinde ve çevresinde çeşitli akarsular ve dereler bulunmakta. Bu tepenin iklimi, Ege Bölgesi'nin karakteristik iklimine uygun olarak ılıman ve nemli. Deveboynu Tepesi, ziyaretçilerine zengin bir flora ve fauna sunar. Bu tepenin üzerinde ve çevresinde çeşitli bitki türleri yetişir ve yaban hayatı oldukça zengin. Deveboynu Tepesi, hem doğal güzelliği hem de coğrafi konumu ile önemli bir gezi noktası.
+Deveboynu Tepesi, Ege Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Bu tepe, yüksek bir konumda ve etrafı dağlarla çevrilidir. Deveboynu Tepesi'nin eteklerinde ve çevresinde çeşitli akarsular ve dereler bulunmakta. Bu tepenin iklimi, Ege Bölgesi'nin karakteristik iklimine uygun olarak ılıman ve nemli. Deveboynu Tepesi, ziyaretçilerine zengin bir flora ve fauna sunar. Bu tepenin üzerinde ve çevresinde çeşitli bitki türleri yetişir ve yaban hayatı oldukça zengin. Deveboynu Tepesi, hem doğal güzelliği hem de coğrafi konumu ile önemli bir gezi noktası.
 
 ## Flora ve Fauna
 

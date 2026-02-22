@@ -30,7 +30,7 @@ Akçakale Yarımadası Çıldır ve Lavaş Gölleri'nin tarihi geçmişi, yüzy�
 
 ## Coğrafya
 
-Akçakale Yarımadası Çıldır ve Lavaş Gölleri, İç Anadolu Bölgesi'nin coğrafi olarak en ilginç bölgelerinden biridir. Bu bölge, geniş ovalar, dağlar ve göllerle çevrilidir. Çıldır Gölü ve Lavaş Gölü, iki önemli su kaynağı olarak, bölgenin ekosistemini desteklemektedir. Bölgenin iklimi, karasal iklim özellikleri taşımaktadır. Yaz ayları sıca ve kurak, kış ayları soğu ve kar yağışlı geçmektedir. Bu coğrafi ve iklimsel özellikler, bölgenin flora ve faunasını şekillendirmiştir. Akçakale Yarımadası, doğal güzellikleri ve coğrafi çeşitliliğiyle, ziyaretçilere geniş bir deneyim yelpazesi sunuyor.
+Akçakale Yarımadası Çıldır ve Lavaş Gölleri, İç Anadolu Bölgesi'nin coğrafi olarak en ilginç bölgelerinden biridir. Bu bölge, geniş ovalar, dağlar ve göllerle çevrilidir. Çıldır Gölü ve Lavaş Gölü, iki önemli su kaynağı olarak, bölgenin ekosistemini desteklemektedir. Bölgenin iklimi, karasal iklim özellikleri taşımaktadır. Yaz ayları sıcak ve kurak, kış ayları soğuk ve kar yağışlı geçmektedir. Bu coğrafi ve iklimsel özellikler, bölgenin flora ve faunasını şekillendirmiştir. Akçakale Yarımadası, doğal güzellikleri ve coğrafi çeşitliliğiyle, ziyaretçilere geniş bir deneyim yelpazesi sunuyor.
 
 ## Flora ve Fauna
 

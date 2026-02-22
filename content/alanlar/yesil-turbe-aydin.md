@@ -41,7 +41,7 @@ Yeşil Türbe, Aydın'ın Nazilli ilçesinde yer almaktadır. Bu bölgenin coğr
 
 ## Flora ve Fauna
 
-Yeşil Türbe'nin etrafı, çeşitli bitki türleri ile zengin fauna barındırmaktadır. Bu bölgede, mevsimsel değişimler, canlıları ve ekolojiyi etkiler. Yeşil Türbe, farklı mevsimlerde ziyaret edildiğinde, ziyaretçilere farklı bir deneyim sunar. Bahar aylarında, Yeşil Türbe'nin etrafı, renkli çiçekler ile süslenir ve bu, ziyaretçilere güzel bir manzara sunar. Yaz aylarında, Yeşil Türbe, sıca ve güneşli bir hava sunar ve bu, ziyaretçilerin burayı keşfetmelerini kolaylaştırır. Kış aylarında, Yeşil Türbe, serin ve yağmurlu bir hava sunar ve bu, ziyaretçilere farklı bir deneyim sunar. Yeşil Türbe'nin flora ve fauna, ziyaretçilere, doğanın güzelliklerini keşfetme fırsatı sunar.
+Yeşil Türbe'nin etrafı, çeşitli bitki türleri ile zengin fauna barındırmaktadır. Bu bölgede, mevsimsel değişimler, canlıları ve ekolojiyi etkiler. Yeşil Türbe, farklı mevsimlerde ziyaret edildiğinde, ziyaretçilere farklı bir deneyim sunar. Bahar aylarında, Yeşil Türbe'nin etrafı, renkli çiçekler ile süslenir ve bu, ziyaretçilere güzel bir manzara sunar. Yaz aylarında, Yeşil Türbe, sıcak ve güneşli bir hava sunar ve bu, ziyaretçilerin burayı keşfetmelerini kolaylaştırır. Kış aylarında, Yeşil Türbe, serin ve yağmurlu bir hava sunar ve bu, ziyaretçilere farklı bir deneyim sunar. Yeşil Türbe'nin flora ve fauna, ziyaretçilere, doğanın güzelliklerini keşfetme fırsatı sunar.
 
 ## Ziyaret Bilgileri
 

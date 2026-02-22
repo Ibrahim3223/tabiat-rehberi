@@ -31,7 +31,7 @@ wikidata_id: "Q108228028"
 
 ## Coğrafya
 
-Çamburnu milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Parkın coğrafyası, genellikle step ve ova bölgelerinden oluşuyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamlarını sürdürüyor. Çamburnu milli parkı, aynı zamanda zengin bir fauna çeşitliliğine sahip. Parkın iklimi, karasal iklim özellikleri gösteriyor ve dört mevsim belirgin olarak yaşanıyor. Kış ayları soğu ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor. İlkbahar ve sonbahar mevsimleri, ılık ve yağışlı olarak geçiyor.
+Çamburnu milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Parkın coğrafyası, genellikle step ve ova bölgelerinden oluşuyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamlarını sürdürüyor. Çamburnu milli parkı, aynı zamanda zengin bir fauna çeşitliliğine sahip. Parkın iklimi, karasal iklim özellikleri gösteriyor ve dört mevsim belirgin olarak yaşanıyor. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor. İlkbahar ve sonbahar mevsimleri, ılık ve yağışlı olarak geçiyor.
 
 ## Flora ve Fauna
 

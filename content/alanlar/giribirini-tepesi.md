@@ -36,7 +36,7 @@ Giribirıni Tepesi'nin tarihi geçmişi, Siirt şehrinin tarihinde önemli bir y
 
 ## Coğrafya
 
-Giribirıni Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Tepenin yüksekliği, şehri ve çevresini panoramik olarak izlemeye olanak tanır. Bu bölgede, çeşitli bitki türleri ve yaban hayatı bulunur. Tepenin eteklerinde, küçük akarsular ve kaynaklar vardır ve bunlar, bölgenin ekolojik dengesini korur. Giribirıni Tepesi'nin iklimi, Güneydoğu Anadolu Bölgesi'nin genel iklimine benzer. Yaz ayları sıca ve kurak, kış ayları ise soğu ve yağışlı geçer. Bu bölgede, mevsimsel değişimler belirgindir ve her mevsim, farklı bir güzelliği sunar. Tepenin coğrafi konumu, doğa severler ve macera arayanlar için ideal bir yerdir. Bu tepenin yakınında, çeşitli coğrafi oluşumlar ve doğal güzellikler bulunur ve bunlar, ziyaretçilere zengin bir doğa deneyimi sunar.
+Giribirıni Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Tepenin yüksekliği, şehri ve çevresini panoramik olarak izlemeye olanak tanır. Bu bölgede, çeşitli bitki türleri ve yaban hayatı bulunur. Tepenin eteklerinde, küçük akarsular ve kaynaklar vardır ve bunlar, bölgenin ekolojik dengesini korur. Giribirıni Tepesi'nin iklimi, Güneydoğu Anadolu Bölgesi'nin genel iklimine benzer. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçer. Bu bölgede, mevsimsel değişimler belirgindir ve her mevsim, farklı bir güzelliği sunar. Tepenin coğrafi konumu, doğa severler ve macera arayanlar için ideal bir yerdir. Bu tepenin yakınında, çeşitli coğrafi oluşumlar ve doğal güzellikler bulunur ve bunlar, ziyaretçilere zengin bir doğa deneyimi sunar.
 
 ## Flora ve Fauna
 

@@ -38,7 +38,7 @@ Ayakapı Hamamı'nın tarihi geçmişi, İstanbul'un fethine kadar uzanır. Bu r
 
 ## Coğrafya
 
-Ayakapı Hamamı, coğrafi olarak Marmara Bölgesi'nin merkezinde yer alır. Bu bölge, deniz seviyesinden yaklaşık yüksek bir konumdate bulunur. Coğrafi konum itibariyle, ziyaretçiler için ulaşım kolaydır. Hamam, çevresindeki tarihi yapılarla birlikte, bir bütün olarak kabul edilebilir. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik gösterir. Kış ayları ılıman, yaz ayları ise sıcak ve nemlidir. Bu coğrafi konum, ziyaretçilere çeşitli aktiviteler sunar. Ziyaretçiler, hamamın çevresindeki yeşil alanları gezebilir, tarihi yapıları keşfedebilir ve bölgenin kültürel zenginliğini deneyimleyebilir.
+Ayakapı Hamamı, coğrafi olarak Marmara Bölgesi'nin merkezinde yer alır. Bu bölge, yüksek bir konumda bulunur. Coğrafi konum itibariyle, ziyaretçiler için ulaşım kolaydır. Hamam, çevresindeki tarihi yapılarla birlikte, bir bütün olarak kabul edilebilir. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik gösterir. Kış ayları ılıman, yaz ayları ise sıcak ve nemlidir. Bu coğrafi konum, ziyaretçilere çeşitli aktiviteler sunar. Ziyaretçiler, hamamın çevresindeki yeşil alanları gezebilir, tarihi yapıları keşfedebilir ve bölgenin kültürel zenginliğini deneyimleyebilir.
 
 ## Flora ve Fauna
 

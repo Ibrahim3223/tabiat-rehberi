@@ -38,7 +38,7 @@ Rüstem Paşa Camii, 16. yüzyılın ortalarında, Kanuni Sultan Süleyman'ın v
 
 ## Coğrafya
 
-Rüstem Paşa Camii, Eminönü'nün kalbinde, tarihi yarımadada yer alır. Cami, Hasırcılar Çarşısı'nın yakınında bulunur ve çevresinde çeşitli tarihi yapılar vardır. Rüstem Paşa Camii'nin coğrafi konumu, ziyaretçiler için önemli bir avantaj sağlar. Cami, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır ve bu konumu ile çevreyi panoramik olarak seyretme imkanı sunar. Rüstem Paşa Camii'nin çevresi, tarihi ve kültürel değerleri ile giàu bir atmosfer sunar. Cami, Eminönü'nün trafik akışını düzenleyen ana caddelerden birine yakındır ve ulaşımı kolaydır.
+Rüstem Paşa Camii, Eminönü'nün kalbinde, tarihi yarımadada yer alır. Cami, Hasırcılar Çarşısı'nın yakınında bulunur ve çevresinde çeşitli tarihi yapılar vardır. Rüstem Paşa Camii'nin coğrafi konumu, ziyaretçiler için önemli bir avantaj sağlar. Cami, yüksek bir konumda yer alır ve bu konumu ile çevreyi panoramik olarak seyretme imkanı sunar. Rüstem Paşa Camii'nin çevresi, tarihi ve kültürel değerleri ile giàu bir atmosfer sunar. Cami, Eminönü'nün trafik akışını düzenleyen ana caddelerden birine yakındır ve ulaşımı kolaydır.
 
 ## Flora ve Fauna
 

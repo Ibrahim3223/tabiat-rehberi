@@ -30,7 +30,7 @@ Ankara Kirikkale-Sulakyurt-Karacam milli parkının tarihi geçmişi, yüzyılla
 
 ## Coğrafya
 
-Ankara Kirikkale-Sulakyurt-Karacam milli parkı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Milli parkın topoğrafyası, genellikle dağlık ve engebeli arazilerden oluşur. İklim, karasal iklim özellikleri gösterir ve mevsimsel değişimler belirgindir. Kışlar soğu ve karlı, yazlar ise sıcak ve kuru geçer. Milli parkın çevresi, çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosisteme sahiptir. Ankara Kirikkale-Sulakyurt-Karacam, bu i güzelliği ve coğrafi çeşitliliği ile ziyaretçilerini cezbeder. Milli parkın coğrafi konumu, ziyaretçilerin doğayı keşfetmeleri ve bölgenin güzelliğini deneyimlemeleri için idealdir.
+Ankara Kirikkale-Sulakyurt-Karacam milli parkı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Milli parkın topoğrafyası, genellikle dağlık ve engebeli arazilerden oluşur. İklim, karasal iklim özellikleri gösterir ve mevsimsel değişimler belirgindir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuru geçer. Milli parkın çevresi, çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosisteme sahiptir. Ankara Kirikkale-Sulakyurt-Karacam, bu i güzelliği ve coğrafi çeşitliliği ile ziyaretçilerini cezbeder. Milli parkın coğrafi konumu, ziyaretçilerin doğayı keşfetmeleri ve bölgenin güzelliğini deneyimlemeleri için idealdir.
 
 ## Flora ve Fauna
 

@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Karakeçi Tepe, Şanlıurfa'n
 
 Doğal güzelliği ve coğrafi yapısıyla dikkat çeken Karakeçi Tepe, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Bu küçük ama önemli alan, Şanlıurfa'nın genel coğrafi yapısına bakıldığında, bölgenin geniş ve farklı coğrafi özelliklere sahip olduğunu göstermektedir. Jeolojik açıdan bakıldığında, Karakeçi Tepe'nin oluşumu ve yapısı, bölgenin tarihçesi ve jeolojik geçmişine ışık tutmaktadır.
 
-İklim açısından bakıldığında, Karakeçi Tepe ve çevresindeki bölgede, genel olarak Güneydoğu Anadolu Bölgesi'nin karakteristik iklimi hakimdir. Yaz aylarında sıcaklığın 40 dereceleri bulduğu, kış aylarında ise soğu ve yağışlı bir hava hakim olduğu görülmektedir. Bu mevsimsel özellikler, Karakeçi Tepe'nin ve çevresindeki ekosistemin oluşumunu ve gelişimini etkilemektedir.
+İklim açısından bakıldığında, Karakeçi Tepe ve çevresindeki bölgede, genel olarak Güneydoğu Anadolu Bölgesi'nin karakteristik iklimi hakimdir. Yaz aylarında sıcaklığın 40 dereceleri bulduğu, kış aylarında ise soğuk ve yağışlı bir hava hakim olduğu görülmektedir. Bu mevsimsel özellikler, Karakeçi Tepe'nin ve çevresindeki ekosistemin oluşumunu ve gelişimini etkilemektedir.
 
 Çevresel açıdan bakıldığında, Karakeçi Tepe, bölgedeki diğer coğrafi oluşumlarla ve su kaynaklarıyla önemli bir ilişkiye sahiptir. Yakınlardaki Fırat Nehri ve diğer su kaynakları, Karakeçi Tepe'nin çevresindeki ekosistemi desteklemektedir. Ayrıca, tepe ve çevresindeki bölge, çeşitli bitki ve hayvan türleri için önemli bir yaşam alanı teşkil etmektedir. Bu nedenle, Karakeçi Tepe ve çevresinin korunması ve sürdürülebilir kullanımı, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini korumak için büyük önem taşımaktadır.
 
@@ -52,7 +52,7 @@ Karakeçi Tepe, Şanlıurfa'nın yarı kurak ikliminde, step ve ova ekolojisinin
 
 Bitki örtüsünde, kuraklığa dayanıklı türler hakimiyet kuruyor. Mevsimsel değişimlere uyum sağlayan bu bitkiler, dağın yükseklik zonlarına göre çeşitleniyor. Dağın daha yüksek kesimlerinde, alpin flora kendini gösteriyor. Bu flora, dağın zorlu koşullarına adapte olmuş özel bitkilerden oluşuyor.
 
-Yaban hayatı da bu dağda zenginlik gösteriyor. Memeliler, kuşlar ve sürüngenler, bu dağ ekosisteminin birer parçasını oluşturuyor. Dağ keçileri, bu dağların kaya çıkıntılarında yaşamlarını sürdürürken, kartallar ve other kuş türleri burada yuvalanıyor. Sürüngenler de, bu dağların sıca ve kurak bölgelerinde yaşamlarını sürdürüyor. Bu canlıların yaşam alanları, dağın ekolojik dengesini koruyor.
+Yaban hayatı da bu dağda zenginlik gösteriyor. Memeliler, kuşlar ve sürüngenler, bu dağ ekosisteminin birer parçasını oluşturuyor. Dağ keçileri, bu dağların kaya çıkıntılarında yaşamlarını sürdürürken, kartallar ve other kuş türleri burada yuvalanıyor. Sürüngenler de, bu dağların sıcak ve kurak bölgelerinde yaşamlarını sürdürüyor. Bu canlıların yaşam alanları, dağın ekolojik dengesini koruyor.
 
 ## Ziyaret Bilgileri
 

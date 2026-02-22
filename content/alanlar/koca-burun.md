@@ -45,7 +45,7 @@ Güneybatı Anadolu'nun eşsiz doğal güzelliklerinden biri olan Koca Burun, Mu
 
 Doğal bir kale gibi yükselen Koca Burun, büyüklüğü hakkında kesin bir veri olmasa da, bir şehir bloğu büyüklüğünde bir alanı kaplıyor gibi görünür. Bu küçük ama önemli bölge, jeolojik açıdan ilgi çekici bir yapıya sahiptir. Bölgenin jeolojisi, kireç taşı ve diğer kayaçlardan oluşur, bu da Koca Burun'un eşsiz bir coğrafi yapıya sahip olmasını sağlar.
 
-Mevsimsel özelliklere baktığımızda, Koca Burun'un iklimi Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kuru, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürer. Bu iklim koşulları, bölgenin florası ve faunası için ideal bir ortam sağlar. Koca Burun, özellikle kuş göçleri sırasında önemli bir durak noktası olarak dikkat çeker.
+Mevsimsel özelliklere baktığımızda, Koca Burun'un iklimi Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kuru, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürer. Bu iklim koşulları, bölgenin florası ve faunası için ideal bir ortam sağlar. Koca Burun, özellikle kuş göçleri sırasında önemli bir durak noktası olarak dikkat çeker.
 
 Koca Burun'un çevresel ilişkileri, komşu alanlar ve su kaynakları ile yakından ilgilidir. Bölge, Ege Denizi'ne kıyısı olan bir yarımadanın ucunda yer alır, bu da Koca Burun'u deniz ekosistemiyle yakın bir ilişkiye sokar. Ayrıca, bölgenin yakınında bulunan su kaynakları, yerel ekosistemin canlılığını destekler. Koca Burun, Monaco'nun küçük bir bölümü kadar bir alanı kaplasa da, bölgenin doğal güzellikleri ve biyolojik çeşitliliği, onu önemli bir ekolojik merkez haline getirir.
 

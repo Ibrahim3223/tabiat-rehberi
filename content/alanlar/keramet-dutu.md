@@ -31,7 +31,7 @@ Keramet Dutu'nun tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu böl
 
 ## Coğrafya
 
-Keramet Dutu, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumda yer alır. Bu bölge, etrafındaki dağlar ve ovalar ile çevrilidir. İklim, karasal iklim özellikleri gösterir ve dört mevsim ayrı bit yaşanır. Kışlar soğu ve karlı, yazlar sıca ve kurudur. Bahar ve sonbahar mevsimleri, ılıman ve yağışlıdır. Keramet Dutu'nun coğrafi konumu, zengin flora ve fauna çeşitliliğiçin elverişlidir. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Milli park, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunmaktadır. Keramet Dutu'nun coğrafi özellikleri, ziyaretçilere benzersiz bir deneyim sunar.
+Keramet Dutu, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumda yer alır. Bu bölge, etrafındaki dağlar ve ovalar ile çevrilidir. İklim, karasal iklim özellikleri gösterir ve dört mevsim ayrı bit yaşanır. Kışlar soğuk ve karlı, yazlar sıcak ve kurudur. Bahar ve sonbahar mevsimleri, ılıman ve yağışlıdır. Keramet Dutu'nun coğrafi konumu, zengin flora ve fauna çeşitliliğiçin elverişlidir. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Milli park, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunmaktadır. Keramet Dutu'nun coğrafi özellikleri, ziyaretçilere benzersiz bir deneyim sunar.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Özellikl
 
 Doğal yapısı itibariyle, Çıplak Tepe'nin fiziksel özellikleri hakkında detaylı bilgi bulunmasa da, genel olarak İstanbul'un diğer dağları gibi kalker ve şist gibi kayaçlardan oluştuğu söylenebilir. Bu dağ, yaklaşık olarak Beşiktaş ilçesi kadar bir alanı kaplar ve şehrinbatı yönündeki en yüksek noktalarından biridir. Ancak, yüksekliği hakkında kesin bir bilgi bulunmamaktadır.
 
-Mevsimsel olarak, Çıplak Tepe'nin iklimi İstanbul'un genel iklim karakterini takip eder. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve nemli bir hava hakimdir. Bu dağ, İstanbul'un kuzeybatı yönündeki diğer dağlar gibi, Karadeniz ikliminin etkisinde kalır ve yıl boyunca önemli miktarda yağış alır.
+Mevsimsel olarak, Çıplak Tepe'nin iklimi İstanbul'un genel iklim karakterini takip eder. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve nemli bir hava hakimdir. Bu dağ, İstanbul'un kuzeybatı yönündeki diğer dağlar gibi, Karadeniz ikliminin etkisinde kalır ve yıl boyunca önemli miktarda yağış alır.
 
 Çevresel açıdan, Çıplak Tepe, İstanbul'un kuzeybatı yönündeki diğer doğal alanlarla bağlantılıdır. Bu dağ, şehrin northbatı yönündeki su kaynaklarının korunmasına katkıda bulunur ve bölgenin ekosistemini destekler. Ayrıca, Çıplak Tepe, İstanbul'un kuzeybatı yönündeki diğer dağlarla birlikte, şehrin kuzeybatı yönündeki doğal güzelliğini oluşturur ve şehrin yeşil alanlarının bir parçasını teşkil eder.
 

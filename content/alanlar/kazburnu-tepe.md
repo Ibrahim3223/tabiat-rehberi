@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Kazburnu Tepe, Batman ilinin 
 
 Jeolojik açıdan incelendiğinde, Kazburnu Tepe'nin coğrafi yapısı hakkında detaylı bilgiler bulunmasa da, bölgenin genel jeolojik özellikleri düşünüldüğünde, tepe ve çevresinin kayaç yapısı ve toprak oluşumunun bölgeye özgü özellikler taşıdığı söylenebilir. Ancak, tepe ile ilgili fiziksel veriler yeterli olmadığı için, tam bir boyut veya şekil tanımlaması yapılamamaktadır.
 
-Mevsimsel değişimler açısından bakıldığında, Kazburnu Tepe'nin bulunduğu Güneydoğu Anadolu Bölgesi, karasal iklim özellikleri gösterir. Bu bölgede, yaz ayları sıca ve kurak, kış ayları ise soğu ve yağışlı geçer. Bu iklim koşulları, tepe ve çevresindeki ekosistemin oluşumunda ve gelişiminde önemli bir rol oynamaktadır.
+Mevsimsel değişimler açısından bakıldığında, Kazburnu Tepe'nin bulunduğu Güneydoğu Anadolu Bölgesi, karasal iklim özellikleri gösterir. Bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçer. Bu iklim koşulları, tepe ve çevresindeki ekosistemin oluşumunda ve gelişiminde önemli bir rol oynamaktadır.
 
 Çevresel açıdan, Kazburnu Tepe'nin bulunduğu bölge, çeşitli su kaynaklarına ve ekosistemlere ev sahipliği yapmaktadır. Bölgenin su kaynakları, tarımsal faaliyetler ve doğal yaşam için önemlidir. Kazburnu Tepe, bu su kaynaklarına ve ekosistemlere yakınlığıyla birlikte, bölgenin doğal dengesinin korunmasına da katkıda bulunmaktadır.
 

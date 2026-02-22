@@ -28,7 +28,7 @@ wikidata_id: "Q31539630"
 
 # Boz Tepesi
 
-Boz Tepesi, Doğu Anadolu Bölgesi'nde yer alan Van ilinin önemli doğal güzelliklerinden biridir. 140 hektarlık alana sahip olan Boz Tepesi, yaklaşık 200 futbol sahası büyüklüğündedir. Bu alan, yaklaşık yüksek bir konumdate yer almaktadır. Boz Tepesi, doğal güzelliği ve coğrafi konumu ile dikkat çekmektedir. Ziyaretçiler, burada çeşitli bitki türleri ve fauna ile karşılaşabilirler. Boz Tepesi, aynı zamanda trekking ve doğa yürüyüşü için ideal bir yerdir.
+Boz Tepesi, Doğu Anadolu Bölgesi'nde yer alan Van ilinin önemli doğal güzelliklerinden biridir. 140 hektarlık alana sahip olan Boz Tepesi, yaklaşık 200 futbol sahası büyüklüğündedir. Bu alan, yüksek bir konumda yer almaktadır. Boz Tepesi, doğal güzelliği ve coğrafi konumu ile dikkat çekmektedir. Ziyaretçiler, burada çeşitli bitki türleri ve fauna ile karşılaşabilirler. Boz Tepesi, aynı zamanda trekking ve doğa yürüyüşü için ideal bir yerdir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Boz Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge
 
 ## Coğrafya
 
-Boz Tepesi, Doğu Anadolu Bölgesi'nde yer alan Van ilinin coğrafi yapısını oluşturan önemli bir bölgedir. Bu alan, 140 hektarlık bir alana sahip olup, yaklaşık 200 futbol sahası büyüklüğündedir. Boz Tepesi, yaklaşık yüksek bir konumdate yer almaktadır. Bu bölge, coğrafi konumu itibariyle, çeşitli flora ve fauna türlerine ev sahipliği yapmaktadır. Boz Tepesi, aynı zamanda, trekking ve doğa yürüyüşü için ideal bir yerdir. Ziyaretçiler, burada coğrafi güzelliği ve doğal zenginliği keşfedebilirler. Boz Tepesi'nin coğrafi yapısı, aynı zamanda, iklimi de etkilemektedir. Bu bölgede, karasal iklim hüküm sürmektedir.
+Boz Tepesi, Doğu Anadolu Bölgesi'nde yer alan Van ilinin coğrafi yapısını oluşturan önemli bir bölgedir. Bu alan, 140 hektarlık bir alana sahip olup, yaklaşık 200 futbol sahası büyüklüğündedir. Boz Tepesi, yüksek bir konumda yer almaktadır. Bu bölge, coğrafi konumu itibariyle, çeşitli flora ve fauna türlerine ev sahipliği yapmaktadır. Boz Tepesi, aynı zamanda, trekking ve doğa yürüyüşü için ideal bir yerdir. Ziyaretçiler, burada coğrafi güzelliği ve doğal zenginliği keşfedebilirler. Boz Tepesi'nin coğrafi yapısı, aynı zamanda, iklimi de etkilemektedir. Bu bölgede, karasal iklim hüküm sürmektedir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Boz Tepesi'ni ziyaret etmek, aynı zamanda, trekking ve doğa yürüyüşü içi
 ## İlginç Bilgiler
 
 - Boz Tepesi, 140 hektarlık alana sahiptir.
-- Boz Tepesi, yaklaşık yüksek bir konumdate yer almaktadır.
+- Boz Tepesi, yüksek bir konumda yer almaktadır.
 - Boz Tepesi, coğrafi konumu itibariyle, çeşitli flora ve fauna türlerine ev sahipliği yapmaktadır.
 - Boz Tepesi, trekking ve doğa yürüyüşü için ideal bir yerdir.
 - Boz Tepesi'ne, Van il merkezinden uzun bir mesafe uzaklıktadır.

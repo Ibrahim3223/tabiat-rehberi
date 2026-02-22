@@ -44,7 +44,7 @@ Güney Türkiye'nin coğrafi zenginliklerini keşfetmek isteyenler için, "Henü
 
 Doğal güzelliği ve jeolojik yapısıyla dikkat çeken "Henüz Dağı", coğrafi olarak ilgi çekici bir alan olarak karşımıza çıkıyor. Fiziksel verilerin sınırlı olmasına rağmen, bu dağın coğrafi konumu ve etraftaki arazi, ziyaretçilerin keşfetmek için heyecan duyacağı bir bölge olarak görünüyor. Monaco'nun yarısı kadar bir alanı kaplayabilecek büyüklükte bir alan düşünüldüğünde, "Henüz Dağı"nın genişliği ve doğal güzelliği daha iyi anlaşılabilir.
 
-Mevsimsel değişimlerin yaşandığı bir bölge olan "Henüz Dağı"nda, iklim karakteri de önemli bir rol oynuyor. Bölgenin yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olmasa da, mevsimsel hava koşullarının değişimi, ziyaretçilere yıl boyunca farklı deneyimler sunuyor. Kışın serin ve yağmurlu, yazın ise sıca ve güneşli olan hava koşulları, bu dağda çeşitli faaliyetlere olanak sağlıyor.
+Mevsimsel değişimlerin yaşandığı bir bölge olan "Henüz Dağı"nda, iklim karakteri de önemli bir rol oynuyor. Bölgenin yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olmasa da, mevsimsel hava koşullarının değişimi, ziyaretçilere yıl boyunca farklı deneyimler sunuyor. Kışın serin ve yağmurlu, yazın ise sıcak ve güneşli olan hava koşulları, bu dağda çeşitli faaliyetlere olanak sağlıyor.
 
 Çevresel ilişkiler açısından bakıldığında, "Henüz Dağı"nın komşu alanlar ve su kaynaklarıyla bağlantılı bir ekosistem içinde yer aldığı görülüyor. Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplayan bu dağ,daki doğal güzelliklerle birlikte, ziyaretçilere zengin bir doğa deneyimi sunuyor. Bu ekosistem, bölgenin biyolojik çeşitliliğini korumanın yanı sıra, ziyaretçilere doğal güzellikleri keşfetme fırsatı sağlıyor.
 

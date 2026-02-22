@@ -30,7 +30,7 @@ Kutahya-Tavşanlı-Alabarda Kızılçam milli parkının tarihi geçmişi, yüzy
 
 ## Coğrafya
 
-Kutahya-Tavşanlı-Alabarda Kızılçam milli parkı, İç Anadolu Bölgesi'nde yer alıyor. Parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzelliklerle dolu bir dünyaya davet ediyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Yaz ayları sıca ve kurak, kış ayları soğu ve kar yağışlı geçiyor. Parkın coğrafi konumu, ziyaretçilerine çeşitli aktivite seçenekleri sunuyor. Doğa yürüyüşleri, piknik alanları, gözlem noktaları gibi olanaklar, ziyaretçilerin doğayla iç içe geçerek, doğal güzellikleri keşfetmelerine olanak tanıyor. Parkın coğrafi yapısı, ziyaretçilerine zengin bir deneyim sunuyor.
+Kutahya-Tavşanlı-Alabarda Kızılçam milli parkı, İç Anadolu Bölgesi'nde yer alıyor. Parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzelliklerle dolu bir dünyaya davet ediyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Yaz ayları sıcak ve kurak, kış ayları soğuk ve kar yağışlı geçiyor. Parkın coğrafi konumu, ziyaretçilerine çeşitli aktivite seçenekleri sunuyor. Doğa yürüyüşleri, piknik alanları, gözlem noktaları gibi olanaklar, ziyaretçilerin doğayla iç içe geçerek, doğal güzellikleri keşfetmelerine olanak tanıyor. Parkın coğrafi yapısı, ziyaretçilerine zengin bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ wikidata_id: "Q135582866"
 
 ## Coğrafya
 
-Şeyh Mehmet Hekim Türbesi, Mardin'in Artuklu ilçesinde, Güneydoğu Anadolu Bölgesi'nin eşsiz coğrafi güzelliklerinin içinde yer alıyor. Bölge, zengin tarihi ve kültürel mirasının yanı sıra doğal güzellikleriyle de dikkat çekiyor. 180 hektarlık bir alanda yayılan bu destinasyon, ziyaretçilere geniş ve çeşitli bir coğrafi yapı sunuyor. Çevredeki dağlar, vadiler ve ova alanları, ziyaretçilere farklı coğrafi oluşumları keşfetme fırsatı veriyor. İklim, bölgenin coğrafi konumu nedeniyle karakteristik olarak farklı mevsimlerle belirleniyor. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıcak ve kurak olan iklim, ziyaretçilerin gezi planlarını etkileyen önemli bir faktör. Şeyh Mehmet Hekim Türbesi ve çevresi, ziyaretçilere hem coğrafi güzellikleri keşfetme hem de bölgenin eşsiz iklimini deneyimleme fırsatı sunuyor.
+Şeyh Mehmet Hekim Türbesi, Mardin'in Artuklu ilçesinde, Güneydoğu Anadolu Bölgesi'nin eşsiz coğrafi güzelliklerinin içinde yer alıyor. Bölge, zengin tarihi ve kültürel mirasının yanı sıra doğal güzellikleriyle de dikkat çekiyor. 180 hektarlık bir alanda yayılan bu destinasyon, ziyaretçilere geniş ve çeşitli bir coğrafi yapı sunuyor. Çevredeki dağlar, vadiler ve ova alanları, ziyaretçilere farklı coğrafi oluşumları keşfetme fırsatı veriyor. İklim, bölgenin coğrafi konumu nedeniyle karakteristik olarak farklı mevsimlerle belirleniyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak olan iklim, ziyaretçilerin gezi planlarını etkileyen önemli bir faktör. Şeyh Mehmet Hekim Türbesi ve çevresi, ziyaretçilere hem coğrafi güzellikleri keşfetme hem de bölgenin eşsiz iklimini deneyimleme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

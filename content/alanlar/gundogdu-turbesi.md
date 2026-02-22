@@ -46,7 +46,7 @@ Gündoğdu Türbesi, çeşitli bitki türleri ve hayvanlar ile rich bir ekosiste
 
 ## Ziyaret Bilgileri
 
-Gündoğdu Türbesi, yılın her dönemi ziyaret edilebilir. Ancak, ilkbahar ve yaz ayları, ziyaret için en uygun zamanlardır. Bu aylarda, hava daha sıca ve güneşli olur ve ziyaretçilere, daha iyi bir deneyim sunar. Gündoğdu Türbesi'ne, Niğde il merkezinden kolayca ulaşılabilir. Buraya, toplu taşıma veya özel araçlarla gitme mümkündür. Gündoğdu Türbesi, ziyaretçilere, tarihi ve doğal güzellikleri ile birlikte, kültürel etkinlikler ve faaliyetler de sunar. Ziyaretçiler, burada, çeşitli dini törenlere katılabilir, kültürel etkinliklere katılabilir ve bölgenin doğal güzelliklerini keşfedebilir.
+Gündoğdu Türbesi, yılın her dönemi ziyaret edilebilir. Ancak, ilkbahar ve yaz ayları, ziyaret için en uygun zamanlardır. Bu aylarda, hava daha sıcak ve güneşli olur ve ziyaretçilere, daha iyi bir deneyim sunar. Gündoğdu Türbesi'ne, Niğde il merkezinden kolayca ulaşılabilir. Buraya, toplu taşıma veya özel araçlarla gitme mümkündür. Gündoğdu Türbesi, ziyaretçilere, tarihi ve doğal güzellikleri ile birlikte, kültürel etkinlikler ve faaliyetler de sunar. Ziyaretçiler, burada, çeşitli dini törenlere katılabilir, kültürel etkinliklere katılabilir ve bölgenin doğal güzelliklerini keşfedebilir.
 
 ## İlginç Bilgiler
 

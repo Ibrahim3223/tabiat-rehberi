@@ -44,7 +44,7 @@ Konya'nın coğrafi zenginliklerine bir yenisini ekleyen Kızkayası, 38.1167°K
 
 Doğal bir oluşum olan Kızkayası, coğrafi olarak çevresine nazaran yüksek bir konumda bulunsa da, cụ thể boyutları hakkında detaylı bilgi bulunmuyor. Ancak, genel olarak Türkiye'nin İç Anadolu Bölgesi'ndeki dağlık alanlarına benzer bir yapıya sahip olduğu söylenebilir. Bu bölgedeki dağlar, genellikle volkani ve sedimentolojik kayaçlardan oluşuyor.
 
-İklim açısından bakıldığında, Kızkayası ve çevresindeki bölge, İç Anadolu Bölgesi'nin karakteristik iklimini yansıtıyor. Bu bölgede, yazlar sıca ve kurak, kışlar ise soğu ve kar yağışlı geçiyor. Kızkayası'nın yüksekliği, iklimini etkileyen önemli bir faktör olarak görülebilir, ancak cụ thể rakam verilmese de, bölgenin genel iklim özellikleri bu dağda benzer şekilde yaşanıyor.
+İklim açısından bakıldığında, Kızkayası ve çevresindeki bölge, İç Anadolu Bölgesi'nin karakteristik iklimini yansıtıyor. Bu bölgede, yazlar sıcak ve kurak, kışlar ise soğuk ve kar yağışlı geçiyor. Kızkayası'nın yüksekliği, iklimini etkileyen önemli bir faktör olarak görülebilir, ancak cụ thể rakam verilmese de, bölgenin genel iklim özellikleri bu dağda benzer şekilde yaşanıyor.
 
 Çevresel açıdan, Kızkayası, Konya'nın doğal ve kültürel zenginliklerine katkıda bulunan önemli bir alan. Bu dağ, bölgedeki su kaynaklarının oluşumunda ve ekosistemlerin dengesinde önemli bir rol oynuyor. Ayrıca, Kızkayası, Konya'nın tarihi ve turistik mekanlarına yakınlığı ile de dikkat çekiyor. Bu dağ, Konya'nın merkezi ile birlikte, bölgenin kültürel ve doğal zenginliklerini keşfetmek isteyenler için önemli bir destinasyon olarak görülüyor.
 
@@ -52,7 +52,7 @@ Doğal bir oluşum olan Kızkayası, coğrafi olarak çevresine nazaran yüksek 
 
 Kızkayası dağının flora ve fauna dünyası, step bitki örtüsünün hakim olduğu bir bölge olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanıyor ve bozkırın kuraklığına adapte olmuş türler, mevsimsel değişimlere uyum sağlıyor.
 
-Bitki örtüsü, genellikle kuraklığa dayanıklı otlar ve çalılar ile karakterize ediliyor. Yükseklik zonlarına bağlı olarak, alpin flora da görülebiliyor. Dağ hayvanları, bu zorlu ortamda hayatta kalmak için özel adapte olmuşlar. Memeliler, genellikle gece aktif olup, gündüzleri gizleniyorlar. Kuşlar, mevsimsel göçleri sırasında bu bölgeyi önemli bir durak olarak kullanıyorlar. Sürüngenler, sıca ve güneşli alanları tercih ediyorlar.
+Bitki örtüsü, genellikle kuraklığa dayanıklı otlar ve çalılar ile karakterize ediliyor. Yükseklik zonlarına bağlı olarak, alpin flora da görülebiliyor. Dağ hayvanları, bu zorlu ortamda hayatta kalmak için özel adapte olmuşlar. Memeliler, genellikle gece aktif olup, gündüzleri gizleniyorlar. Kuşlar, mevsimsel göçleri sırasında bu bölgeyi önemli bir durak olarak kullanıyorlar. Sürüngenler, sıcak ve güneşli alanları tercih ediyorlar.
 
 Kızkayası dağının ekolojik değeri, bu zorlu ortamda yaşayan canlıların çeşitliliği ve adaptasyonlarından kaynaklanıyor. Bu bölge, step ekosisteminin korunmasına önemli bir katkı sağlıyor. Ancak, koruma durumu, insan faaliyetleri ve iklim değişikliği nedeniyle tehdit altında olabilir. Bu nedenle, bu özel ekosistemin korunmasına dikkat etmek gerekiyor.
 

@@ -30,7 +30,7 @@ Mugla-Nazilli-Sariciova Karacam 1 milli parkının tarihi geçmişi, yüzyıllar
 
 ## Coğrafya
 
-Mugla-Nazilli-Sariciova Karacam 1 milli parkı, Ege Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Bölge, dağlık ve engebeli arazilerden oluşur ve iklimi, genel olarak Akdeniz iklimi özellikleri gösterir. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir iklim hüküm sürer. Milli parkın coğrafi yapısı, çeşitli bitki türlerinin yetişmesine elverişli koşullar sağlar. Bölgede, ormanlar, çayır ve meralar gibi farklı habitatlar bulunur ve bu çeşitlilik, yaban hayatının zenginleşmesine katkıda bulunur. Milli parkın coğrafi konumu, aynı zamanda bölgenin su kaynaklarının korunmasına da yardımcı olur.
+Mugla-Nazilli-Sariciova Karacam 1 milli parkı, Ege Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Bölge, dağlık ve engebeli arazilerden oluşur ve iklimi, genel olarak Akdeniz iklimi özellikleri gösterir. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir iklim hüküm sürer. Milli parkın coğrafi yapısı, çeşitli bitki türlerinin yetişmesine elverişli koşullar sağlar. Bölgede, ormanlar, çayır ve meralar gibi farklı habitatlar bulunur ve bu çeşitlilik, yaban hayatının zenginleşmesine katkıda bulunur. Milli parkın coğrafi konumu, aynı zamanda bölgenin su kaynaklarının korunmasına da yardımcı olur.
 
 ## Flora ve Fauna
 

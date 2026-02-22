@@ -31,7 +31,7 @@ Peygamberler Tabiat Parkı, tarihi geçmişi olan bir bölgede yer alır. Bu bö
 
 ## Coğrafya
 
-Peygamberler Tabiat Parkı, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş ve yeşil bir alana sahiptir. Parkın coğrafi konumu, ziyaretçilerine bölgeyi keşfetme fırsatı sunar. Burada, çeşitli bitki türleri ve zengin fauna bulunur. Parkın iklimi, bölgenin genel iklimine uygun olarak, yazları sıca ve kurak, kışları soğu ve yağışlıdır. Parkın konumu itibarıyla, bölgenin coğrafi güzelliğini ve doğal zenginliklerini gözlemleme mümkündür. Parkın etrafında, çeşitli dağlar ve tepeler bulunmakta olup, bu da parkın coğrafi çeşitliliğini artırarak, ziyaretçilere daha fazla keşif imkanı sunar. Ayrıca, parkın içerisinde, çeşitli su kaynakları bulunmakta olup, bunlar da parkın coğrafi güzelliğine katkıda bulunmaktadır.
+Peygamberler Tabiat Parkı, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş ve yeşil bir alana sahiptir. Parkın coğrafi konumu, ziyaretçilerine bölgeyi keşfetme fırsatı sunar. Burada, çeşitli bitki türleri ve zengin fauna bulunur. Parkın iklimi, bölgenin genel iklimine uygun olarak, yazları sıcak ve kurak, kışları soğuk ve yağışlıdır. Parkın konumu itibarıyla, bölgenin coğrafi güzelliğini ve doğal zenginliklerini gözlemleme mümkündür. Parkın etrafında, çeşitli dağlar ve tepeler bulunmakta olup, bu da parkın coğrafi çeşitliliğini artırarak, ziyaretçilere daha fazla keşif imkanı sunar. Ayrıca, parkın içerisinde, çeşitli su kaynakları bulunmakta olup, bunlar da parkın coğrafi güzelliğine katkıda bulunmaktadır.
 
 ## Flora ve Fauna
 
@@ -46,5 +46,5 @@ Peygamberler Tabiat Parkı, ziyaretçilerine çeşitli imkanlar sunar. Burada, d
 - Peygamberler Tabiat Parkı, yaklaşık 140 hektarlık bir alanı kapsar
 - Parkın içerisinde, çeşitli bitki türleri ve zengin fauna bulunur
 - Parkın coğrafi konumu, bölgeyi keşfetme fırsatı sunar
-- Parkın iklimi, bölgenin genel iklimine uygun olarak, yazları sıca ve kurak, kışları soğu ve yağışlıdır
+- Parkın iklimi, bölgenin genel iklimine uygun olarak, yazları sıcak ve kurak, kışları soğuk ve yağışlıdır
 - Parkın içerisinde, çeşitli su kaynakları bulunmakta olup, bunlar da parkın coğrafi güzelliğine katkıda bulunmaktadır

@@ -42,7 +42,7 @@ Doğunun güzelliğini keşfetmek isteyenler için Kayseri'nin güneydoğusunda 
 
 Jeolojik açıdan incelendiğinde, Kartin Dağı'nın coğrafi özellikleri hakkında somut veriler bulunmasa da, bu bölgenin genel coğrafi yapısına bakıldığında, genellikle dağlık ve engebeli bir arazinin hakim olduğu görülmektedir. Bu dağlık alan, Monaco'nun yarısı kadar bir alanı kaplayacak büyüklükte bir coğrafi oluşum olarak düşünülabilir. Ancak, Kartin Dağı'nın tam olarak boyutları hakkında net bir veri olmasa da, bu bölgeyi anlamak için coğrafi konumu ve çevresindeki diğer coğrafi oluşumlarla olan ilişkileri incelemek önemlidir.
 
-İklim açısından, Kartin Dağı'nın bulunduğu bölge, mevsimsel değişimler açısından oldukça çeşitli bir yapıya sahiptir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir iklim hakimdir. Bu mevsimsel değişim, bölgenin flora ve fauna çeşitliliğini etkiler ve bu çeşitliliği destekleyen faktörlerden biridir.
+İklim açısından, Kartin Dağı'nın bulunduğu bölge, mevsimsel değişimler açısından oldukça çeşitli bir yapıya sahiptir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hakimdir. Bu mevsimsel değişim, bölgenin flora ve fauna çeşitliliğini etkiler ve bu çeşitliliği destekleyen faktörlerden biridir.
 
 Çevresel açıdan bakıldığında, Kartin Dağı, bölgenin ekosistem bağlantılarını şekillendiren önemli bir unsurdur. Bu dağ, çevresindeki su kaynaklarına ve diğer coğrafi oluşumlarla olan ilişkileri aracılığıyla, bölgenin doğal dengesini korur. Örneğin, Kartin Dağı, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alana yayılan bir coğrafi oluşum olarak düşünülebilir ve bu büyüklük, bölgenin su kaynakları ve ekosistemleri üzerinde önemli bir etkiye sahiptir.
 

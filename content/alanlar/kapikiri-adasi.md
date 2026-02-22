@@ -42,7 +42,7 @@ Gökyüzünden bakıldığında, Ege Denizi'nin mavi suları içerisinde gizli b
 
 Jeolojik açıdan bakıldığında, Kapıkırı Adası'nın fiziksel yapısı hakkında detaylı bilgi bulunmuyor. Ancak, ada gibi küçük alanların genellikle karmaşık bir jeolojik yapıya sahip olduğu biliniyor. Bu alanlar, genellikle birkaç olimpik havuz kadar küçük bir alanı kaplıyor ve coğrafi olarak önemli bir yer tutmuyor. Ancak, Kapıkırı Adası'nın konumu ve büyüklüğü, onu özel bir yer haline getiriyor.
 
-Doğal olarak, Kapıkırı Adası'nın iklim karakteri, Ege Denizi'nin etkisinde kalıyor. Ada, yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir iklimi yaşıyor. Bu mevsimsel özellikler, ada'nın flora ve fauna'sını etkiliyor ve özel bir ekosistem yaratıyor. Eiffel Kulesi'nin 1/10'u kadar yükseklikte olan bu ada, rüzgar ve dalgaların etkisine açık bir konumda bulunuyor.
+Doğal olarak, Kapıkırı Adası'nın iklim karakteri, Ege Denizi'nin etkisinde kalıyor. Ada, yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir iklimi yaşıyor. Bu mevsimsel özellikler, ada'nın flora ve fauna'sını etkiliyor ve özel bir ekosistem yaratıyor. Eiffel Kulesi'nin 1/10'u kadar yükseklikte olan bu ada, rüzgar ve dalgaların etkisine açık bir konumda bulunuyor.
 
 Çevresel açıdan bakıldığında, Kapıkırı Adası, Muğla'nın sahillerine yakın bir konumda yer alıyor. Ada, komşu alanlar ile birlikte güzel bir manzara sunuyor ve su kaynakları ile ekosistem bağlantıları açısından önemli bir yer tutuyor. Monaco'nun 1/1000'u kadar büyüklüğünde olan bu ada, küçük olmasına rağmen, doğal güzellikleri ve özel konumu ile dikkat çekiyor.
 

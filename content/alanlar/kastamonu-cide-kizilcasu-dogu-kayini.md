@@ -30,7 +30,7 @@ Kastamonu-Cide-Kizilcasu Dogu Kayini milli parkının tarihi geçmişi, yüzyıl
 
 ## Coğrafya
 
-Kastamonu-Cide-Kizilcasu Dogu Kayini milli parkı, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu milli park, dağlık bir arazide kurulmuş ve bölgenin coğrafi çeşitliliği, flora ve faunasının zenginleşmesine katkıda bulunmuştur. Parkın coğrafi konumu, bölgenin iklim koşullarını etkileyen önemli faktörlerden biri olarak görülebilir. Milli parkın yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdate ve bu yükseklik, bölgenin iklim koşullarını ve bitki örtüsünü etkilemektedir. Bu milli park, Karadeniz Bölgesi'nin coğrafi güzelliklerini yansıtan bir alan olarak ziyaretçilerini bekliyor.
+Kastamonu-Cide-Kizilcasu Dogu Kayini milli parkı, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu milli park, dağlık bir arazide kurulmuş ve bölgenin coğrafi çeşitliliği, flora ve faunasının zenginleşmesine katkıda bulunmuştur. Parkın coğrafi konumu, bölgenin iklim koşullarını etkileyen önemli faktörlerden biri olarak görülebilir. Milli parkın yüksekliği, yüksek bir konumda ve bu yükseklik, bölgenin iklim koşullarını ve bitki örtüsünü etkilemektedir. Bu milli park, Karadeniz Bölgesi'nin coğrafi güzelliklerini yansıtan bir alan olarak ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 

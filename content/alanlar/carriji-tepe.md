@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin güneydoğusunda yer alan Carriji Tepe, Batman ilinin
 
 Jeolojik açıdan incelendiğinde, Carriji Tepe'nin etrafı dağlık bir arazinin içinde yer aldığı görülmektedir. Bu dağlık alan, bölgenin coğrafi yapısını etkileyen önemli bir faktördür. Carriji Tepe, Monaco'nun yarısı kadar bir alanı kaplayan bir bölgede yer almaktadır. Bu büyük alan, bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir opportunities sunmaktadır.
 
-Yöre halkının yaşamını etkileyen iklim koşulları, Carriji Tepe'nin coğrafi konumundan büyük ölçüde etkilenmektedir. Bölgenin iklimi, mevsimsel olarak değişkenlik gösteren bir yapıya sahiptir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir iklim hüküm sürmektedir. Bu mevsimsel değişiklikler, bölgenin flora ve fauna yapısını da etkilemektedir.
+Yöre halkının yaşamını etkileyen iklim koşulları, Carriji Tepe'nin coğrafi konumundan büyük ölçüde etkilenmektedir. Bölgenin iklimi, mevsimsel olarak değişkenlik gösteren bir yapıya sahiptir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürmektedir. Bu mevsimsel değişiklikler, bölgenin flora ve fauna yapısını da etkilemektedir.
 
 Bölgenin su kaynakları açısından önemli bir role sahip olan Carriji Tepe, çevresindeki ekosistemi de etkilemektedir. Batman Çayı gibi önemli su kaynaklarının yakınında yer alan Carriji Tepe, bölgenin su döngüsünü etkileyen önemli bir faktördür. Bu reasons, Carriji Tepe'nin çevresel ilişkilerini anlamak için önemli birer unsurdur.
 

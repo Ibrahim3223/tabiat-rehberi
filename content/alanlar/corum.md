@@ -31,7 +31,7 @@ wikidata_id: "Q108228660"
 
 ## Coğrafya
 
-Çorum, İç Anadolu Bölgesi'nin kuzeydoğusunda yer alan bir ildir. İl, coğrafi olarak dağlık ve ovalık alanlara sahiptir. Çorum'un iklimi, karasal iklim özellikleri göstermektedir. İlde, yazlar sıca ve kurak, kışlar soğu ve karlı geçmektedir. Çorum'un coğrafyası, ilin ekonomi ve kültürel yaşamını etkilemektedir. İlde, tarım ve hayvancılık önemli ekonomik faaliyetlerdir. Çorum'un doğal güzellikleri, ilin turizm potansiyelini artırmaktadır. İlde, tarihi eserler ve doğal güzellikler bulunur.
+Çorum, İç Anadolu Bölgesi'nin kuzeydoğusunda yer alan bir ildir. İl, coğrafi olarak dağlık ve ovalık alanlara sahiptir. Çorum'un iklimi, karasal iklim özellikleri göstermektedir. İlde, yazlar sıcak ve kurak, kışlar soğuk ve karlı geçmektedir. Çorum'un coğrafyası, ilin ekonomi ve kültürel yaşamını etkilemektedir. İlde, tarım ve hayvancılık önemli ekonomik faaliyetlerdir. Çorum'un doğal güzellikleri, ilin turizm potansiyelini artırmaktadır. İlde, tarihi eserler ve doğal güzellikler bulunur.
 
 ## Flora ve Fauna
 
@@ -39,7 +39,7 @@ wikidata_id: "Q108228660"
 
 ## Ziyaret Bilgileri
 
-Çorum, ziyaretçilerini beklemektedir. İlde, tarihi eserler ve doğal güzellikler bulunur. Çorum'u ziyaret etmek için en iyi mevsim, ilin iklimine göre değişmektedir. İlde, yaz ayları sıca ve kurak, kış ayları soğu ve karlı geçmektedir. Çorum'u ziyaret etmek için, ilin coğrafyasını ve iklimini dikkate almak önemlidir. İlde, çeşitli etkinlikler ve aktiviteleri yapma mümkündür.
+Çorum, ziyaretçilerini beklemektedir. İlde, tarihi eserler ve doğal güzellikler bulunur. Çorum'u ziyaret etmek için en iyi mevsim, ilin iklimine göre değişmektedir. İlde, yaz ayları sıcak ve kurak, kış ayları soğuk ve karlı geçmektedir. Çorum'u ziyaret etmek için, ilin coğrafyasını ve iklimini dikkate almak önemlidir. İlde, çeşitli etkinlikler ve aktiviteleri yapma mümkündür.
 
 ## İlginç Bilgiler
 

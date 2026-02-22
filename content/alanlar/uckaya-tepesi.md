@@ -36,7 +36,7 @@ wikidata_id: "Q34820532"
 
 ## Coğrafya
 
-Üçkaya Tepesi, Hatay'ın Akdeniz Bölgesi'nde bulunan bir tepe. Bu tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Tepenin etrafında, yeşil örtü, çiçekler ve ağaçlar bulunmakta. İklim, Akdeniz iklimi özellikleri göstermekte. Yaz ayları sıca ve kurak, kış ayları ılık ve yağışlı. Tepenin konumu, ziyaretçiler için ideal. Ziyaretçiler, burada doğanın güzelliğini ve sakinliğini deneyimlemek için gelmekte. Tepenin yüksekliği, ziyaretçiler için bir avantaj. Burada, manzarayı izleme ve huzuru bulma mümkün. Üçkaya Tepesi, aynı zamanda bir doğa koruma alanı. Burada, çeşitli bitki ve hayvan türleri bulunmakta. Ziyaretçiler, burada doğanın güzelliğini ve çeşitliliğini deneyimlemek için gelmekte.
+Üçkaya Tepesi, Hatay'ın Akdeniz Bölgesi'nde bulunan bir tepe. Bu tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Tepenin etrafında, yeşil örtü, çiçekler ve ağaçlar bulunmakta. İklim, Akdeniz iklimi özellikleri göstermekte. Yaz ayları sıcak ve kurak, kış ayları ılık ve yağışlı. Tepenin konumu, ziyaretçiler için ideal. Ziyaretçiler, burada doğanın güzelliğini ve sakinliğini deneyimlemek için gelmekte. Tepenin yüksekliği, ziyaretçiler için bir avantaj. Burada, manzarayı izleme ve huzuru bulma mümkün. Üçkaya Tepesi, aynı zamanda bir doğa koruma alanı. Burada, çeşitli bitki ve hayvan türleri bulunmakta. Ziyaretçiler, burada doğanın güzelliğini ve çeşitliliğini deneyimlemek için gelmekte.
 
 ## Flora ve Fauna
 

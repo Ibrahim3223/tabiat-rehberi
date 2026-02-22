@@ -29,7 +29,7 @@ wikidata_id: "Q21210044"
 
 # Arpalı
 
-Kars'ın dağlık bölgelerinde gizli bir hazine olarak bulunan Arpalı Dağı, Türkiye'nin en uzak köşelerinde yer alan bir doğal güzellik. Kars ilinin sınırları içinde yer alan bu dağ, ülkenin kuzeydoğu ucunda, sınır bölgelerinde bulunmaktadır. Arpalı Dağı, Kars'ın soğu ve karlı iklimine ev sahipliği yapan dağlık bir bölgede yer alıyor. Bu dağ, Kars'ın doğal güzelliklerini keşfetmek isteyenler için bir destinasyon olarak dikkat çekiyor.
+Kars'ın dağlık bölgelerinde gizli bir hazine olarak bulunan Arpalı Dağı, Türkiye'nin en uzak köşelerinde yer alan bir doğal güzellik. Kars ilinin sınırları içinde yer alan bu dağ, ülkenin kuzeydoğu ucunda, sınır bölgelerinde bulunmaktadır. Arpalı Dağı, Kars'ın soğuk ve karlı iklimine ev sahipliği yapan dağlık bir bölgede yer alıyor. Bu dağ, Kars'ın doğal güzelliklerini keşfetmek isteyenler için bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Doğu Anadolu Bölgesi'nin en kuzey ucunda yer alan Arpalı Dağı, 40.1667°K, 
 
 Jeolojik açıdan bakıldığında, Arpalı Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, genel olarak Doğu Anadolu Bölgesi'nin karmaşık jeolojisi düşünüldüğünde, volkani ve sedimentatif kayaçların bir arada bulunabileceği tahmin edilebilir. Bu dağ, bölgenin kompleks jeolojik yapısının bir parçası olarak, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplayacak bir boyuta sahiptir.
 
-Mevsimsel değişiklikler açısından, Arpalı Dağı'nın bulunduğu bölgenin iklimi, karasal iklim özellikleri gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu mevsimsel özellikler, dağların yüksekliklerine bağlı olarak değişkenlik gösterir. Örneğin, Eiffel Kulesi'nin 2 katı yükseklikte olan bir noktada, hava koşulları daha soğu ve daha az nemli olabilir.
+Mevsimsel değişiklikler açısından, Arpalı Dağı'nın bulunduğu bölgenin iklimi, karasal iklim özellikleri gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu mevsimsel özellikler, dağların yüksekliklerine bağlı olarak değişkenlik gösterir. Örneğin, Eiffel Kulesi'nin 2 katı yükseklikte olan bir noktada, hava koşulları daha soğu ve daha az nemli olabilir.
 
 Bölgenin ekosistem bağlantıları açısından, Arpalı Dağı'nın çevresi, su kaynakları ve komşu alanlar ile bağlantılıdır. Dağın eteklerinde bulunan küçük akarsular, bölgenin sulak alanlarına ve daha büyük su kaynaklarına bağlanır. Bu sulak alanlar, Monaco'nun yarısı kadar büyüklükte bir alanı kaplayabilece ve bölgenin ekolojik dengesini sağlayan önemli habitatlardır.
 

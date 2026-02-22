@@ -43,7 +43,7 @@ Doğunun en uzak köşesinde, Hakkari ilinin sınırları içinde yer alan Cilo 
 
 Jeolojik açıdan bakıldığında, Cilo Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel jeolojik özellikleri dikkate alındığında, dağlık bir araziye sahip olduğu anlaşılabilir. Bu bölge, genellikle dağlık ve engebeli arazilerle karakterizedir. Eğer bir karşılaştırma yapılacak olsa, Cilo Dağı'nın boyutları, Monaco'nun yaklaşık yarısı kadar bir alanı kaplayacak büyüklüktedir.
 
-İklim açısından, Cilo Dağı'nın bulunduğu bölgede mevsimsel farklılıklar oldukça belirgindir. Kış aylarında karla kaplı dağlar, yaz aylarında ise yeşilin her tonuna sahip olan bir manzara sunar. Bu bölgenin iklimi, genel olarak soğu ve karasal bir karaktere sahiptir. Hava durumu da mevsimlere göre değişkenlik gösterir; kışın soğu ve kar yağışlı, yazın ise serin ve güneşlidir.
+İklim açısından, Cilo Dağı'nın bulunduğu bölgede mevsimsel farklılıklar oldukça belirgindir. Kış aylarında karla kaplı dağlar, yaz aylarında ise yeşilin her tonuna sahip olan bir manzara sunar. Bu bölgenin iklimi, genel olarak soğu ve karasal bir karaktere sahiptir. Hava durumu da mevsimlere göre değişkenlik gösterir; kışın soğuk ve kar yağışlı, yazın ise serin ve güneşlidir.
 
 Cilo Dağı'nın çevresel ilişkileri, komşu alanlar ve su kaynakları açısından önemlidir. Bu dağ, bölgenin hidrolojik dengesini sağlayan önemli bir su kaynağı olarak görev yapar. Çevresindeki ekosistemlerle bağlantılı olarak, Cilo Dağı'nın doğal güzelliği ve biyolojik çeşitliliği, bölgenin ekolojik dengesini korur. Bu dağ, aynı zamanda bölgede yaşayan çeşitli bitki ve hayvan türleri için important bir yaşam alanı sunar.
 

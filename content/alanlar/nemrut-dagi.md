@@ -43,7 +43,7 @@ Güneydoğu Anadolu'nun coğrafi zenginliklerini keşfetmek isteyenler için Nem
 
 Doğal bir anıttan farksız olan Nemrut Dağı, çevresindeki düzlük arazilere nazaran oldukça yüksek bir noktada yer alıyor. Monaco'nun yarısı kadar geniş bir alanı kaplayan bu dağ, jeolojik açıdan oldukça ilgi çekici bir yapıya sahip. Volkanik kökenli olan Nemrut Dağı, bölgenin jeolojik tarihini anlamak için önemli bir kaynak.
 
-Yaz aylarında sıcakların oldukça yüksek olduğu Nemrut Dağı, kış aylarında ise soğu ve kar yağışlı bir iklim karakterine sahip. Eiffel Kulesi'nin 2 katı yükseklikte olan bu dağ, bölgenin iklimini şekillendiren önemli bir faktör. Nemrut Dağı'nın zirvesinden bakıldığında, Şanlıurfa'nın geniş düzlükleri ve uzakta uzanan dağ siluetleri görülebiliyor.
+Yaz aylarında sıcakların oldukça yüksek olduğu Nemrut Dağı, kış aylarında ise soğuk ve kar yağışlı bir iklim karakterine sahip. Eiffel Kulesi'nin 2 katı yükseklikte olan bu dağ, bölgenin iklimini şekillendiren önemli bir faktör. Nemrut Dağı'nın zirvesinden bakıldığında, Şanlıurfa'nın geniş düzlükleri ve uzakta uzanan dağ siluetleri görülebiliyor.
 
 Nemrut Dağı, komşu alanlar ve su kaynakları açısından da önemli bir role sahip. Türkiye'nin en büyük göllerinden biri olan Atatürk Baraj Gölü'ne yakın olan bu dağ, bölgenin su kaynaklarını etkileyen bir faktör. Ayrıca, Nemrut Dağı'nın ekosistemi, bölgenin flora ve fauna çeşitliliğini destekleyen önemli bir unsur. İstanbul'un Adalar ilçesi büyüklüğünde olan bu dağ, doğal güzellikleri ve jeolojik zenginlikleriyle ziyaretçilerini bekliyor.
 

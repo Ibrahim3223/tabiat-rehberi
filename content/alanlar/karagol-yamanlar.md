@@ -31,7 +31,7 @@ Karagol Yamanlar Milli Parkı'nın tarihi geçmişi, yüzyıllar boyunca şekill
 
 ## Coğrafya
 
-Karagol Yamanlar Milli Parkı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Parkın coğrafyası, dağlar, ormanlar ve göllerle çevrilidir. İklim, karasal iklim özellikleri gösteriyor ve mevsimsel değişimler, parkın doğal güzelliklerini etkiliyor. Kışları soğu ve karlı, yazları ise sıcak ve kurak olan bu bölgede, bitki örtüsü ve fauna da mevsimlere göre değişim gösteriyor. Parkın yüksekliği ve eğimleri, çeşitli coğrafi oluşumları ve doğal kaynakları barındırıyor. Bu coğrafi çeşitlilik, parkın biyolojik zenginliğini de artırıyor.
+Karagol Yamanlar Milli Parkı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Parkın coğrafyası, dağlar, ormanlar ve göllerle çevrilidir. İklim, karasal iklim özellikleri gösteriyor ve mevsimsel değişimler, parkın doğal güzelliklerini etkiliyor. Kışları soğuk ve karlı, yazları ise sıcak ve kurak olan bu bölgede, bitki örtüsü ve fauna da mevsimlere göre değişim gösteriyor. Parkın yüksekliği ve eğimleri, çeşitli coğrafi oluşumları ve doğal kaynakları barındırıyor. Bu coğrafi çeşitlilik, parkın biyolojik zenginliğini de artırıyor.
 
 ## Flora ve Fauna
 

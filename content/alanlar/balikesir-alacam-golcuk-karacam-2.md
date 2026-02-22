@@ -30,7 +30,7 @@ Balikesir-Alacam-Golcuk Karacam 2 milli parkının tarihi geçmişi, yüzyıllar
 
 ## Coğrafya
 
-Balikesir-Alacam-Golcuk Karacam 2 milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısı ile uyumlu bir şekilde kurulmuştur. Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli coğrafi özellikler göstermektedir. Bölge, dağlar, ovalar ve akarsular ile çevrilidir. İklim, karasal iklim özellikleri göstermektedir. Yaz ayları sıca ve kurak, kış ayları soğu ve karlı geçmektedir. Milli parkın coğrafi yapısı, flora ve faunanın çeşitliliğini desteklemektedir. Ayrıca, milli parkın konumu, turizm ve doğa severler için önemli bir merkez haline gelmiştir. Coğrafi konumu, doğal güzellikleri ve tarihi geçmişi ile milli park, İç Anadolu Bölgesi'nin önemli bir parçası haline gelmiştir.
+Balikesir-Alacam-Golcuk Karacam 2 milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısı ile uyumlu bir şekilde kurulmuştur. Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli coğrafi özellikler göstermektedir. Bölge, dağlar, ovalar ve akarsular ile çevrilidir. İklim, karasal iklim özellikleri göstermektedir. Yaz ayları sıcak ve kurak, kış ayları soğuk ve karlı geçmektedir. Milli parkın coğrafi yapısı, flora ve faunanın çeşitliliğini desteklemektedir. Ayrıca, milli parkın konumu, turizm ve doğa severler için önemli bir merkez haline gelmiştir. Coğrafi konumu, doğal güzellikleri ve tarihi geçmişi ile milli park, İç Anadolu Bölgesi'nin önemli bir parçası haline gelmiştir.
 
 ## Flora ve Fauna
 

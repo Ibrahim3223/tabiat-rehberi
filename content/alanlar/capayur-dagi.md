@@ -45,7 +45,7 @@ Doğunun gizli köşelerinden biri olan Capayur Dağı, 40.9767°K, 42.1042°D k
 
 Genel olarak bakıldığında, Capayur Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmuyor. Ancak, coğrafi konumu itibariyle, bölgenin jeolojik yapısı hakkında fikir sahibi olma mümkün. Bu dağ, benzer coğrafi bölgelerde bulunan dağlarla karşılaştırıldığında, Monaco'nun yarısı kadar bir alanı kaplıyor. Bu büyüklük, Taksim Meydanı'nın yaklaşık 10 katı büyüklüğüne eşdeğer.
 
-Coğrafi konumuna bağlı olarak, Capayur Dağı'nın iklim karakteri de önemli bir rol oynuyor. Bu bölgede, mevsimsel değişiklikler belirgin bir şekilde hissediliyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakim. Bu mevsimsel özellikler, bölgenin ekosistemini ve doğal yaşamını şekillendiriyor.
+Coğrafi konumuna bağlı olarak, Capayur Dağı'nın iklim karakteri de önemli bir rol oynuyor. Bu bölgede, mevsimsel değişiklikler belirgin bir şekilde hissediliyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakim. Bu mevsimsel özellikler, bölgenin ekosistemini ve doğal yaşamını şekillendiriyor.
 
 Son olarak, Capayur Dağı'nın çevresel ilişkileri de önemli bir konu. Bu dağ, etrafındaki su kaynakları ve ekosistem bağlantıları ile bir bütün olarak düşünülüyor. Bu bölgede, su kaynakları ve bitki örtüsü, dağların ve vadilerin birleştiği noktada zengin bir çeşitlilik gösteriyor. Bu çeşitlilik, Capayur Dağı'nın doğal güzelliğini ve önemini vurguluyor.
 

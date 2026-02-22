@@ -44,7 +44,7 @@ Gökyüzünden baktığımızda, Karantina Adası'nın koordinatları 38.3733°K
 
 Doğal güzelliği ile dikkat çeken Karantina Adası, bir şehir bloğu büyüklüğünde bir alana sahiptir. Ada, küçük boyutuna rağmen, Ege Denizi'nin sularına karşı koyu bir şekilde durur. Jeolojik olarak, ada, Ege Bölgesi'nin genel jeolojisine benzer bir yapıya sahiptir, ancak detaylı fiziksel verileri bulunmaması, ada hakkında dahalı bilgi verilmesini engeller.
 
-Mevsimsel olarak, Karantina Adası, Akdeniz ikliminin karakteristik özellikleri gösterir. Yaz aylarında sıca ve kurak, kış aylarında ılık ve yağışlı bir hava durumu hakimdir. Bu iklim koşulları, ada etrafındaki su kaynaklarının ve ekosistemlerin şekillenmesinde önemli bir rol oynar.
+Mevsimsel olarak, Karantina Adası, Akdeniz ikliminin karakteristik özellikleri gösterir. Yaz aylarında sıcak ve kurak, kış aylarında ılık ve yağışlı bir hava durumu hakimdir. Bu iklim koşulları, ada etrafındaki su kaynaklarının ve ekosistemlerin şekillenmesinde önemli bir rol oynar.
 
 Ada, İzmir Körfezi'nin bir parçası olan su kaynaklarına yakındır. Bu su kaynakları, ada etrafındaki ekosistemin canlılığını sağlar ve komşu alanlar ile birlikte, bir bütün olarak düşünülür. Karantina Adası, Ege Denizi'nin sularında, Monaco'nun yarısı kadar büyük bir bölgeyi kaplayan İzmir Körfezi'nin bir parçasıdır ve bu bölge, ada ile birlikte, doğal güzelliğini korumaya devam eder.
 

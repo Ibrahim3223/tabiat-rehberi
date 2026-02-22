@@ -37,7 +37,7 @@ Selamet Hâtun Türbesi – İnâç Türbesi'nin tarihi geçmişi, yüzyılları
 
 ## Coğrafya
 
-Selamet Hâtun Türbesi – İnâç Türbesi, Amasya'nın merkezinde yer alır ve Karadeniz Bölgesi'nin coğrafî güzelliklerini sunar. Türbe, Yeşilırmak Nehri'nin kenarında, yaklaşık yüksek bir konumdate bulunur. Bu konumu, ziyaretçilerehem nehri hem de çevresindeki dağları seyretme fırsatı verir. Bölge, çeşitli bitki türleri ve zengin fauna ile çevrilidir, bu da onu doğa severler için ideal bir destinasyon haline getirir. Karadeniz Bölgesi'nin karakteristik iklimi, bölgede yıl boyunca farklı mevsimlerin yaşanmasına neden olur, bu da türbenin ve çevresinin her mevsim farklı bir güzelliğe sahip olmasını sağlar.
+Selamet Hâtun Türbesi – İnâç Türbesi, Amasya'nın merkezinde yer alır ve Karadeniz Bölgesi'nin coğrafî güzelliklerini sunar. Türbe, Yeşilırmak Nehri'nin kenarında, yüksek bir konumda bulunur. Bu konumu, ziyaretçilerehem nehri hem de çevresindeki dağları seyretme fırsatı verir. Bölge, çeşitli bitki türleri ve zengin fauna ile çevrilidir, bu da onu doğa severler için ideal bir destinasyon haline getirir. Karadeniz Bölgesi'nin karakteristik iklimi, bölgede yıl boyunca farklı mevsimlerin yaşanmasına neden olur, bu da türbenin ve çevresinin her mevsim farklı bir güzelliğe sahip olmasını sağlar.
 
 ## Flora ve Fauna
 

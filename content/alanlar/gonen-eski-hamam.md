@@ -37,7 +37,7 @@ Gönen Eski Hamam'ın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu
 
 ## Coğrafya
 
-Gönen Eski Hamam, Isparta'nın Gönen ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak çeşitlilik gösteren bir yapıya sahip. Gönen Eski Hamam'ın etrafı, zengin flora ve fauna ile çevrili. Buradaki iklim, Akdeniz ikliminin özellikleri gösteriyor; yazlar sıca ve kurak, kışlar ılık ve yağışlı geçiyor. Gönen Eski Hamam, çevredeki diğer doğal güzelliklere de yakınlığıyla dikkat çekiyor. Bu durum, burayı ziyaret edenlerin diğer güzellikleri de keşfetmesine olanak tanıyor. Gönen Eski Hamam'ın coğrafi konumu, burayı doğa severler için ideal bir destinasyon haline getiriyor. Burada, doğanın güzelliğini ve sakinliğini deneyimleme mümkün. Gönen Eski Hamam, 140 hektarlık yeşil alanıyla, doğa yürüyüşleri ve diğer outdoor aktiviteleri için uygun bir yer.
+Gönen Eski Hamam, Isparta'nın Gönen ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak çeşitlilik gösteren bir yapıya sahip. Gönen Eski Hamam'ın etrafı, zengin flora ve fauna ile çevrili. Buradaki iklim, Akdeniz ikliminin özellikleri gösteriyor; yazlar sıcak ve kurak, kışlar ılık ve yağışlı geçiyor. Gönen Eski Hamam, çevredeki diğer doğal güzelliklere de yakınlığıyla dikkat çekiyor. Bu durum, burayı ziyaret edenlerin diğer güzellikleri de keşfetmesine olanak tanıyor. Gönen Eski Hamam'ın coğrafi konumu, burayı doğa severler için ideal bir destinasyon haline getiriyor. Burada, doğanın güzelliğini ve sakinliğini deneyimleme mümkün. Gönen Eski Hamam, 140 hektarlık yeşil alanıyla, doğa yürüyüşleri ve diğer outdoor aktiviteleri için uygun bir yer.
 
 ## Flora ve Fauna
 

@@ -45,7 +45,7 @@ Kartal Dağı, Ankara'nın coğrafi dokusunda önemli bir yere sahiptir. 40.2658
 
 Jeolojik açıdan incelendiğinde, Kartal Dağı'nın coğrafi yapısı oldukça ilginçtir. Veriler sınırlı olsa da, dağın genel olarak Ankara'nın diğer coğrafi oluşumlarına benzer bir yapıya sahip olduğu söylenebilir. Bu bölgede genellikle volkanik kayaçlar ve sedimentler bulunur. Kartal Dağı, Tuz Gölü'nün batısında yer alır ve bu bölgenin jeolojik geçmişini anlamak için önemli bir noktadır.
 
-Mevsimsel değişiklikler açısından, Kartal Dağı Ankara'nın genel iklim karakterini paylaşır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir iklim hüküm sürer. Bu mevsimsel özellikler, dağın flora ve fauna çeşitliliğini etkiler. Ayrıca, Ankara'nın genel olarak kurak bir iklime sahip olması, Kartal Dağı'nın su kaynakları açısından önemli bir role sahip olabileceğini gösterir.
+Mevsimsel değişiklikler açısından, Kartal Dağı Ankara'nın genel iklim karakterini paylaşır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürer. Bu mevsimsel özellikler, dağın flora ve fauna çeşitliliğini etkiler. Ayrıca, Ankara'nın genel olarak kurak bir iklime sahip olması, Kartal Dağı'nın su kaynakları açısından önemli bir role sahip olabileceğini gösterir.
 
 Çevresel açıdan bakıldığında, Kartal Dağı'nın komşu alanlarla ve su kaynaklarıyla olan ilişkileri önemlidir. Dağın eteklerinde yer alan köyler ve yerleşim yerleri, dağdan elde edilen su kaynaklarına bağlıdır. Ayrıca, Kartal Dağı, Ankara'nın ekosistem bağlantıları açısından da önemli bir rol oynar. Dağın doğal yaşam alanları, şehrin diğer yeşil alanlarıyla birlikte, Ankara'nın biyolojik çeşitliliğini korumaya yardımcı olur.
 
@@ -55,7 +55,7 @@ Kartal Dağı, Ankara'nın step bitki örtüsü ve bozkır ekosistemine ev sahip
 
 Bitki örtüsü, genellikle kuraklığa adapte olmuş step ve bozkır türlerinden oluşur. Dağın yüksek kesimlerinde, alpin flora çeşitliliği dikkat çeker. Bu bitkiler, genellikle kısa boylu, dayanıklı ve su tasarruflu türlerdir.
 
-Yaban hayatı da zenginlik gösterir. Memeliler, özellikle dağ keçileri ve yaban domuzları, dağların kaya dik yamaçlarında ve ormanlık alanlarında yaşar. Kuşlar, göç ettikleri sırada dağları önemli bir uğrak noktası olarak kullanır. Sürüngenler de, özellikle yılan ve kertenkele türleri, dağların sıca ve kuru bölgelerinde bulunur.
+Yaban hayatı da zenginlik gösterir. Memeliler, özellikle dağ keçileri ve yaban domuzları, dağların kaya dik yamaçlarında ve ormanlık alanlarında yaşar. Kuşlar, göç ettikleri sırada dağları önemli bir uğrak noktası olarak kullanır. Sürüngenler de, özellikle yılan ve kertenkele türleri, dağların sıcak ve kuru bölgelerinde bulunur.
 
 Kartal Dağı, ekolojik açıdan önemli bir bölgedir. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğinin sürdürülmesi için önemlidir.
 

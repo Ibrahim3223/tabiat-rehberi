@@ -46,7 +46,7 @@ Gölün konumuna bakıldığında, Çöl Gölü Ankara'nın merkezine yaklaşık
 
 Doğal bir su kaynağı olan bu gölün fiziksel yapısı, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu küçük ama önemli bir su kaynağı, çevredeki jeolojik yapıyla uyumlu bir şekilde oluşmuş ve bölgenin ekolojik dengesine katkıda bulunuyor.
 
-Mevsimsel değişikliklere bakıldığında, Çöl Gölü'nün iklim karakteri Ankara'nın genel iklimine benzerlik gösteriyor. Yaz aylarında sıcaklık artarken, kış aylarında soğu ve yağışlı bir hava hakim oluyor. Bu mevsimsel değişiklikler, gölün su seviyesini ve çevresindeki bitki örtüsünü etkiliyor.
+Mevsimsel değişikliklere bakıldığında, Çöl Gölü'nün iklim karakteri Ankara'nın genel iklimine benzerlik gösteriyor. Yaz aylarında sıcaklık artarken, kış aylarında soğuk ve yağışlı bir hava hakim oluyor. Bu mevsimsel değişiklikler, gölün su seviyesini ve çevresindeki bitki örtüsünü etkiliyor.
 
 Çevresel açıdan bakıldığında, Çöl Gölü Ankara'nın doğal su kaynaklarından biri olarak önemli bir role sahip. Göl, bölgedeki ekosistemi destekleyen bir su kaynağı olarak, komşu alanlardaki bitki ve hayvan çeşitliliğine katkıda bulunuyor. Taksim Meydanı'nın birkaç katı büyüklüğündeki bu küçük göl, bölgenin ekolojik dengesini korumaında önemli bir görev üstleniyor.
 

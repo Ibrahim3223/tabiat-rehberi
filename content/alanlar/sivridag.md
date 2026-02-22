@@ -45,7 +45,7 @@ Deniz seviyesinden 36.8358°K enlem ve 30.4592°D boylamda yer alan Sivridağ, A
 
 Doğal bir oluşum olarak Sivridağ'ın fiziksel yapısı, bölgenin jeolojik tarihini yansıtıyor. Koordinatlarından da anlaşılacağı gibi, bu dağ bir città bloğu büyüklüğünde bir alanı kaplıyor. Ancak, bu küçük alan, Toros Dağları'nın geniş ve çeşitli coğrafi yapısı içerisinde önemli bir yer tutuyor. Sivridağ'ın yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadar bir yükseklikte yer alıyor, bu da bölgenin coğrafi çeşitliliğini ve doğal güzelliklerini vurguluyor.
 
-Mevsimsel değişikliklere göre iklim karakteri değişen Sivridağ, Akdeniz ikliminin tipik özelliklerini taşıyor. Yaz aylarında sıca ve kuru, kış aylarında ise ılık ve yağışlı bir hava hakim. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini destekleyerek, Sivridağ'ın doğal güzelliğini artırıyor.
+Mevsimsel değişikliklere göre iklim karakteri değişen Sivridağ, Akdeniz ikliminin tipik özelliklerini taşıyor. Yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı bir hava hakim. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini destekleyerek, Sivridağ'ın doğal güzelliğini artırıyor.
 
 Sivridağ'ın çevresel ilişkileri, bölgenin ekosistem bağlantılarını ve su kaynaklarını da etkiliyor. Komşu alanlarla bağlantılı olarak, Sivridağ, bölgenin su kaynaklarının korunmasına ve ekosistemin dengesinin sağlanmasına katkıda bulunuyor. Monaco'nun yarısı kadar büyük olmayan bu dağ, bölgenin doğal dengesini korurken, aynı zamanda Antalya'nın turizm potansiyeline de katkıda bulunuyor.
 

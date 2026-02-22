@@ -40,7 +40,7 @@ Güney Anadolu'nun güneşli sahillerine yaklaştığımızda, Antalya'nın dağ
 
 Doğal güzelliğin birleştiği bu noktada, Çukurlu Dağ'ın fiziksel yapısı, bölgeyi çevreleyen diğer dağlarla benzerlik gösteriyor. Ancak, detaylı fiziksel verilerin bulunmaması, bu dağın boyutları ve şekli hakkında net bir fikir vermiyor. Buna karşılık, Çukurlu Dağ'ın Antalya'nın genel coğrafi yapısına bakıldığında, bölgenin dağlık ve engebeli arazisinin bir parçası olduğu anlaşılıyor.
 
-Yaz aylarında sıcaklığın arttığı bu bölgede, Çukurlu Dağ'ın iklim karakteri, Akdeniz ikliminin tipik özelliklerini taşıyor. Kış aylarında ılıman bir hava, yaz aylarında ise sıca ve kuru bir hava hakim. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini şekillendirmiyor değil.
+Yaz aylarında sıcaklığın arttığı bu bölgede, Çukurlu Dağ'ın iklim karakteri, Akdeniz ikliminin tipik özelliklerini taşıyor. Kış aylarında ılıman bir hava, yaz aylarında ise sıcak ve kuru bir hava hakim. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini şekillendirmiyor değil.
 
 Çevresel açıdan bakıldığında, Çukurlu Dağ, Antalya'nın diğer dağlık bölgeleri ile benzer bir ekosisteme sahip. Bölge, çeşitli su kaynaklarına ev sahipliği yapıyor ve komşu alanlar ile ekosistem bağlantıları bulunuyor. Bu bağlantılar, bölgenin doğal dengesini koruyor ve Çukurlu Dağ'ın çevresindeki diğer coğrafi oluşumlar ile bir bütünlük içinde yer almasını sağlıyor.
 

@@ -45,7 +45,7 @@ Mersin'in doğal güzellikleri arasında yer alan Mazi İni, 36.4639°K, 33.8889
 
 Doğal bir oluşum olan Mazi İni, jeolojik açıdan ilgi çekici bir yapıya sahiptir. Ancak, detaylı fiziksel veriler bulunmamasına rağmen, bu bölgenin coğrafi özellikleri, ziyaretçilerin ilgisini çekmektedir. Mazi İni, bir şehir bloğu büyüklüğünde bir alanı kaplıyor gibi görünse de, gerçek boyutu hakkında net bir bilgi bulunmamaktadır. Bu bölgenin jeolojik yapısı, Akdeniz bölgesinin karakteristik özelliklerini taşımaktadır.
 
-Mazi İni'nin iklim karakteri, Akdeniz ikliminin özelliklerini taşımaktadır. Bu bölgede, yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürmektedir. Örneğin, Eiffel Kulesi'nin 2 katı yükseklikte bir noktada, sıcaklık ve nem oranları, mevsimsel olarak değişkenlik göstermektedir. Bu iklim özellikleri, Mazi İni'nin flora ve fauna çeşitliliğini etkilemektedir.
+Mazi İni'nin iklim karakteri, Akdeniz ikliminin özelliklerini taşımaktadır. Bu bölgede, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürmektedir. Örneğin, Eiffel Kulesi'nin 2 katı yükseklikte bir noktada, sıcaklık ve nem oranları, mevsimsel olarak değişkenlik göstermektedir. Bu iklim özellikleri, Mazi İni'nin flora ve fauna çeşitliliğini etkilemektedir.
 
 Mazi İni, çevreye duyarlı bir bölge olarak, komşu alanlar ve su kaynakları ile bağlantılıdır. Bu jeopark, doğal bir ekosistem içerisinde yer almakta ve çevre ile  etkileşim içinde bulunmaktadır. Monaco'nun yarısı kadar bir alanı kaplayan bu bölge, çevresindeki doğal kaynakları koruma altına almakta ve bu sayede, ekosistem dengesini korumaktadır.
 

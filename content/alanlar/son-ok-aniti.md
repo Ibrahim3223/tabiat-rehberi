@@ -38,7 +38,7 @@ Son Ok Anıtı, Çanakkale Savaşı'nın historiaşının bir parçası olarak i
 
 ## Coğrafya
 
-Son Ok Anıtı, Eceabat ilçesinde, İç Anadolu Bölgesi'nde yer alır. Bu bölge, Çanakkale Boğazı'nın kıyısında bulunur ve bu boğaz, Marmara Denizi'ni Ege Denizi'ne bağlar. Anıt, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır ve bu yükseklik, ziyaretçilere boğazın ve çevredeki alanların güzel manzarasını sunar. Anıtın çevredeki alanında, çeşitli bitki türleri ve fauna bulunur. Bu bölgede, mevsimsel değişimler nedeniyle, farklı mevsimlerde farklı bitki ve hayvan türleri görülür. Anıtın coğrafi konumu, ziyaretçilere historiaşin bir parçası olarak kabul edilen bu bölgenin güzelliğini ve önemini göstermektedir.
+Son Ok Anıtı, Eceabat ilçesinde, İç Anadolu Bölgesi'nde yer alır. Bu bölge, Çanakkale Boğazı'nın kıyısında bulunur ve bu boğaz, Marmara Denizi'ni Ege Denizi'ne bağlar. Anıt, yüksek bir konumda yer alır ve bu yükseklik, ziyaretçilere boğazın ve çevredeki alanların güzel manzarasını sunar. Anıtın çevredeki alanında, çeşitli bitki türleri ve fauna bulunur. Bu bölgede, mevsimsel değişimler nedeniyle, farklı mevsimlerde farklı bitki ve hayvan türleri görülür. Anıtın coğrafi konumu, ziyaretçilere historiaşin bir parçası olarak kabul edilen bu bölgenin güzelliğini ve önemini göstermektedir.
 
 ## Flora ve Fauna
 

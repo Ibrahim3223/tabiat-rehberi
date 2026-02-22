@@ -30,7 +30,7 @@ Adana-Kadirli-Karaçam milli parkının tarihi geçmişi, yüzyıllar öncesine 
 
 ## Coğrafya
 
-Adana-Kadirli-Karaçam milli parkı, Akdeniz Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer almaktadır. Bu bölge, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır ve coğrafi olarak çeşitlilik gösteren bir yapıya sahiptir. Parkın toplam alanı 140 hektar olup, bu alan içerisinde çeşitli bitki türleri ve yaban hayatı bulunmaktadır. Bölgenin iklimi, Akdeniz ikliminin özellikleri taşır ve yaz aylarında sıca ve kurak, kış aylarında ılık ve yağışlı geçer. Parkın coğrafi yapısı, ziyaretçilere doğa yürüyüşleri, trekking ve vahşi yaşam gözlemi gibi çeşitli etkinlik olanakları sunar. Ayrıca, parkın çevresindeki köyler ve kasabalar, ziyaretçiler için geleneksel Türk kültürünü deneyimleme fırsatı sunar.
+Adana-Kadirli-Karaçam milli parkı, Akdeniz Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer almaktadır. Bu bölge, yüksek bir konumda yer alır ve coğrafi olarak çeşitlilik gösteren bir yapıya sahiptir. Parkın toplam alanı 140 hektar olup, bu alan içerisinde çeşitli bitki türleri ve yaban hayatı bulunmaktadır. Bölgenin iklimi, Akdeniz ikliminin özellikleri taşır ve yaz aylarında sıcak ve kurak, kış aylarında ılık ve yağışlı geçer. Parkın coğrafi yapısı, ziyaretçilere doğa yürüyüşleri, trekking ve vahşi yaşam gözlemi gibi çeşitli etkinlik olanakları sunar. Ayrıca, parkın çevresindeki köyler ve kasabalar, ziyaretçiler için geleneksel Türk kültürünü deneyimleme fırsatı sunar.
 
 ## Flora ve Fauna
 

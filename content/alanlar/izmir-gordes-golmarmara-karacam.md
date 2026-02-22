@@ -26,7 +26,7 @@ Izmir-Gordes-Golmarmara Karacam milli parkı, Ege Bölgesi'nin doğal güzellikl
 
 ## Tarihçe
 
-Izmir-Gordes-Golmarmara Karacam milli parkının tarihi geçmişi, yüzyıllar boyunca oluşan jeolojik yapı ve iklimsel koşullarla şekillenmiş. Bu bölge, uzun süreler boyunca insan yerleşimine ev sahipliği yapmış ve doğal kaynakları insanların yaşamını sürdürmesinde önemli rol oynamış. Milli parkın oluşumu, bu doğal kaynakların korunması ve gelecek nesiller için bo tn edilmesi amacıyla gerçekleştirilmiş. Tarihi geçmişi, ziyaretçilere bölge hakkında ayrıntılı bilgi edinme fırsatı sunuyor. Ayrıca, milli parkın içinde yer alan çeşitli arkeolojik kalıntılar, bölgenin zengin kültürel mirasını da gözler önüne seriyor.
+Izmir-Gordes-Golmarmara Karacam milli parkının tarihi geçmişi, yüzyıllar boyunca oluşan jeolojik yapı ve iklimsel koşullarla şekillenmiş. Bu bölge, uzun süreler boyunca insan yerleşimine ev sahipliği yapmış ve doğal kaynakları insanların yaşamını sürdürmesinde önemli rol oynamış. Milli parkın oluşumu, bu doğal kaynakların korunması ve gelecek nesiller için korunması amacıyla gerçekleştirilmiş. Tarihi geçmişi, ziyaretçilere bölge hakkında ayrıntılı bilgi edinme fırsatı sunuyor. Ayrıca, milli parkın içinde yer alan çeşitli arkeolojik kalıntılar, bölgenin zengin kültürel mirasını da gözler önüne seriyor.
 
 ## Coğrafya
 

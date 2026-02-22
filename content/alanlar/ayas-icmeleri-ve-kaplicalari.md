@@ -37,7 +37,7 @@ Ayaş İçmeleri ve Kaplıcaları'nın tarihi geçmişi, yüzyıllar öncesine d
 
 ## Coğrafya
 
-Ayaş İçmeleri ve Kaplıcaları, Ankara'nın Ayaş ilçesinde, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumda yer alır. Bu bölge, geniş bir ova ve dağlık arazilerle çevrilidir. İklimi, İç Anadolu Bölgesi'nin tipik karasal iklimine uygun olarak, kışları soğu ve yağışlı, yazları sıca ve kurak geçer. Ayaş İçmeleri ve Kaplıcaları, doğal güzelliği ve Coğrafi konumu itibariyle, ziyaretçilere çeşitli aktivite olanakları sunar. Bölge, flora ve fauna açısından zengin olup, çeşitli bitki türleri ve hayvanlar barındırır. Ayaş İçmeleri ve Kaplıcaları, Ankara ve çevresinin önemli bir doğal ve turistik destinasyonu olarak kabul edilir.
+Ayaş İçmeleri ve Kaplıcaları, Ankara'nın Ayaş ilçesinde, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumda yer alır. Bu bölge, geniş bir ova ve dağlık arazilerle çevrilidir. İklimi, İç Anadolu Bölgesi'nin tipik karasal iklimine uygun olarak, kışları soğuk ve yağışlı, yazları sıcak ve kurak geçer. Ayaş İçmeleri ve Kaplıcaları, doğal güzelliği ve Coğrafi konumu itibariyle, ziyaretçilere çeşitli aktivite olanakları sunar. Bölge, flora ve fauna açısından zengin olup, çeşitli bitki türleri ve hayvanlar barındırır. Ayaş İçmeleri ve Kaplıcaları, Ankara ve çevresinin önemli bir doğal ve turistik destinasyonu olarak kabul edilir.
 
 ## Flora ve Fauna
 

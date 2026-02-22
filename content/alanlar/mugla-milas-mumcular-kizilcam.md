@@ -30,7 +30,7 @@ Mugla-Milas-Mumcular Kızılçam Milli Parkı, tarihi geçmişi ile dikkat çeki
 
 ## Coğrafya
 
-Mugla-Milas-Mumcular Kızılçam Milli Parkı, Muğla'nın Milas ilçesinde bulunuyor. Milli parkın coğrafi yapısı, genellikle kızılçam ağaçları ile kaplı olan bir araziye sahip. Bu arazi, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Milli parkın iklimi, Akdeniz ikliminin características'ini taşıyor ve genellikle sıca ve kurak bir hava hüküm sürüyor. Milli parkın çevresi, çeşitli bitki türleri ile kaplı olup, ziyaretçiler için önemli bir flora çeşitliliği sunuyor. Ayrıca, milli parkın içinde çeşitli hayvan türleri de bulunmakta, bu nedenle ziyaretçiler için önemli bir fauna çeşitliliği de sunuluyor. Milli parkın coğrafi konumu, ziyaretçiler için ulaşımı kolay bir yer oluşturuyor ve özellikle Muğla ve etrafındaki illerden gelen ziyaretçiler için önemli bir destinasyon olarak kabul ediliyor.
+Mugla-Milas-Mumcular Kızılçam Milli Parkı, Muğla'nın Milas ilçesinde bulunuyor. Milli parkın coğrafi yapısı, genellikle kızılçam ağaçları ile kaplı olan bir araziye sahip. Bu arazi, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Milli parkın iklimi, Akdeniz ikliminin características'ini taşıyor ve genellikle sıcak ve kurak bir hava hüküm sürüyor. Milli parkın çevresi, çeşitli bitki türleri ile kaplı olup, ziyaretçiler için önemli bir flora çeşitliliği sunuyor. Ayrıca, milli parkın içinde çeşitli hayvan türleri de bulunmakta, bu nedenle ziyaretçiler için önemli bir fauna çeşitliliği de sunuluyor. Milli parkın coğrafi konumu, ziyaretçiler için ulaşımı kolay bir yer oluşturuyor ve özellikle Muğla ve etrafındaki illerden gelen ziyaretçiler için önemli bir destinasyon olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

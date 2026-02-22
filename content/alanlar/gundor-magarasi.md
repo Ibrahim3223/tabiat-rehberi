@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden biri olan Batman, coğrafyasıyla 
 
 Gündor Mağarası, fiziksel olarak bir jeolojik oluşum olarak karşımıza çıkıyor. Koordinatlarına bakıldığında, mağaranın bulunduğu bölgenin coğrafi özellikleri dikkat çekiyor. Mağaranın çevresinde yer alan dağlar, Eiffel Kulesi'nin 2 katı yükseklikte gibi görünen tepelerle çevrili. Bu yükseklik, mağaranın bulunduğu bölgenin coğrafi yapısını şekillendiren önemli bir faktör.
 
-İklim açısından bakıldığında, Gündor Mağarası'nın bulunduğu bölge, Doğu Anadolu Bölgesi'nin karakteristik iklimini taşıyor. Bölge, kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir iklim gösteriyor. Bu mevsimsel değişiklikler, mağaranın bulunduğu bölgenin flora ve fauna yapısını etkileyen önemli faktörler.
+İklim açısından bakıldığında, Gündor Mağarası'nın bulunduğu bölge, Doğu Anadolu Bölgesi'nin karakteristik iklimini taşıyor. Bölge, kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim gösteriyor. Bu mevsimsel değişiklikler, mağaranın bulunduğu bölgenin flora ve fauna yapısını etkileyen önemli faktörler.
 
 Çevresel açıdan bakıldığında, Gündor Mağarası, Batman'ın önemli su kaynaklarına yakın bir konumda yer alıyor. Mağaranın bulunduğu bölgede, bölgenin önemli nehirlerinden biri olan Batman Çayı da yer alıyor. Bu su kaynağı, mağaranın bulunduğu bölgenin ekosistemini şekillendiren önemli bir faktör. Mağaranın bulunduğu bölge, Monaco'nun yarısı kadar büyük bir alana yayılan bir coğrafi yapıya sahip gibi görünüyor.
 

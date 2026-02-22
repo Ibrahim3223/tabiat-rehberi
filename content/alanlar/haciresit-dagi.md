@@ -44,7 +44,7 @@ Konya'nın coğrafi zenginliklerinin arasında yer alan Hacireşit Dağı, 39.10
 
 Doğal güzelliği ile dikkat çeken Hacireşit Dağı, jeolojik açıdan ilgi çekici bir yapıya sahiptir. Ancak, detaylı fiziksel veri bulunmaması nedeniyle, dağın boyutları ve şekli hakkında net bilgi verme mümkün değildir. Bu dağ, Konya'nın coğrafi çeşitliliğini gösteren önemli bir noktadır ve bölgenin jeolojik tarihini anlaşılmasında önemli bir role sahiptir.
 
-Mevsimsel değişikliklere göre şekillenen iklim karakteri, Hacireşit Dağı'nda belirgin bir şekilde gözlemlenir. Konya'nın karasal ikliminin etkisi altında kalan bu dağ, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve karlı bir hava durumuna sahiptir. Bu mevsimsel özellikler, Hacireşit Dağı'nın flora ve fauna diversitesini şekillendiren önemli faktörlerdir.
+Mevsimsel değişikliklere göre şekillenen iklim karakteri, Hacireşit Dağı'nda belirgin bir şekilde gözlemlenir. Konya'nın karasal ikliminin etkisi altında kalan bu dağ, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı bir hava durumuna sahiptir. Bu mevsimsel özellikler, Hacireşit Dağı'nın flora ve fauna diversitesini şekillendiren önemli faktörlerdir.
 
 Hacireşit Dağı, Konya'nın doğal alanları ile bağlantılı bir ekosistem olarak işlev görür. Bu dağ, komşu alanlar ile birlikte bir bütün olarak çalışır ve bölgenin su kaynaklarını, flora ve fauna çeşitliliğini etkiler. Ayrıca, Hacireşit Dağı, bölgenin coğrafi yapısını şekillendiren önemli bir unsur olarak, Konya'nın çevresel ilişkilerini belirlemede önemli bir role sahiptir.
 

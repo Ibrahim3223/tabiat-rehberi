@@ -37,7 +37,7 @@ Helvacı Baba Mukaddes Suyu'nun tarihi geçmişi, Bergama'nın tarihi ile iç i�
 
 ## Coğrafya
 
-Helvacı Baba Mukaddes Suyu, coğrafi olarak Ege Bölgesi'nin en güzel noktalarından biri olarak dikkat çekiyor. Bu bölge, İzmir'in Bergama ilçesinde yer alıyor ve deniz seviyesinden yaklaşık yüksek bir konumdate bulunuyor. Coğrafi konumu itibariyle, Akdeniz ikliminin özellikleri bu bölgede gözlemleniyor. Yaz aylarında sıca ve kuru, kış aylarında ise ılıman ve yağışlı bir iklim hüküm sürüyor. Bu mekân, Ege Denizi'ne yakın bir konumda yer alıyor ve ziyaretçiler, plajın yanı sıra deniz manzarasının da keyfini çıkarabiliyor. Helvacı Baba Mukaddes Suyu'nun etrafı, çeşitli bitki türleri ile çevrili ve bu bölgede zengin bir fauna gözlemleniyor.
+Helvacı Baba Mukaddes Suyu, coğrafi olarak Ege Bölgesi'nin en güzel noktalarından biri olarak dikkat çekiyor. Bu bölge, İzmir'in Bergama ilçesinde yer alıyor ve yüksek bir konumda bulunuyor. Coğrafi konumu itibariyle, Akdeniz ikliminin özellikleri bu bölgede gözlemleniyor. Yaz aylarında sıcak ve kuru, kış aylarında ise ılıman ve yağışlı bir iklim hüküm sürüyor. Bu mekân, Ege Denizi'ne yakın bir konumda yer alıyor ve ziyaretçiler, plajın yanı sıra deniz manzarasının da keyfini çıkarabiliyor. Helvacı Baba Mukaddes Suyu'nun etrafı, çeşitli bitki türleri ile çevrili ve bu bölgede zengin bir fauna gözlemleniyor.
 
 ## Flora ve Fauna
 

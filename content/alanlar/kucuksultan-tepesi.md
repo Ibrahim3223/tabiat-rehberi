@@ -44,7 +44,7 @@ Güneşin doğduğu an, Küçüksultan Tepesi'nin tepesinde bulunduğunuzda, Afy
 
 Jeolojik açıdan bakıldığında, Küçüksultan Tepesi'nin fiziksel yapısı hakkında detaylı bilgi bulunmamasına rağmen, genel olarak bölgenin jeolojik özellikleri dikkate alındığında, bu tepenin de benzer özellikler taşıdığı söylenebilir. Tepenin yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadar yükseklikte olabilir, ancak kesin yükseklik değerine ulaşılamamıştır.
 
-İklim açısından, Küçüksultan Tepesi ve çevresinin karakteri, bölgenin İç Anadolu Bölgesi'ne bağlı olarak değişkenlik gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürer. Mevsimsel değişimler, bu bölgenin iklimini şekillendiren önemli faktörlerden biridir.
+İklim açısından, Küçüksultan Tepesi ve çevresinin karakteri, bölgenin İç Anadolu Bölgesi'ne bağlı olarak değişkenlik gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürer. Mevsimsel değişimler, bu bölgenin iklimini şekillendiren önemli faktörlerden biridir.
 
 Doğal kaynaklar ve ekosistem açısından, Küçüksultan Tepesi, bölgenin su kaynaklarına ve bitki örtüsüne önemli katkılar sağlar. Tepenin eteklerinde ve civarında yer alan su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılar. Ayrıca, bu tepe ve çevresindeki bitki örtüsü, bölgenin ekosistem dengesini korur ve canlı çeşitliliğini destekler. Monaco'nun çok küçük bir bölümü kadar bir alanı kaplayan bu tepe, bölgenin doğal güzellikleri arasında önemli bir yer tutar.
 

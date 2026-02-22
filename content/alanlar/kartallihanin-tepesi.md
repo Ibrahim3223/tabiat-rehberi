@@ -36,7 +36,7 @@ Kartallıhanın Tepesi, tarihin sâu sayfalarında gizli bir hazine olarak karş
 
 ## Coğrafya
 
-Kartallıhanın Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Burada, geniş otlaklar ve çeşitli bitki türleri ile karşılaşma mümkün. Tepenin eteklerinde, şehrin kalabalığından uzaklaşmak isteyenler için birçok yürüyüş yolu ve piknik alanı bulunuyor. Bölgenin coğrafi yapısı, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunuyor. Kartallıhanın Tepesi, Ankara'nın merkezine yakın olmasına rağmen, şehrin gürültüsünden uzak bir alan sunuyor. Bu tepe, aynı zamanda birçok kuş türüne ev sahipliği yapıyor ve doğa severler için bir cennet olarak kabul ediliyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahip. Kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor.
+Kartallıhanın Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Burada, geniş otlaklar ve çeşitli bitki türleri ile karşılaşma mümkün. Tepenin eteklerinde, şehrin kalabalığından uzaklaşmak isteyenler için birçok yürüyüş yolu ve piknik alanı bulunuyor. Bölgenin coğrafi yapısı, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunuyor. Kartallıhanın Tepesi, Ankara'nın merkezine yakın olmasına rağmen, şehrin gürültüsünden uzak bir alan sunuyor. Bu tepe, aynı zamanda birçok kuş türüne ev sahipliği yapıyor ve doğa severler için bir cennet olarak kabul ediliyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahip. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor.
 
 ## Flora ve Fauna
 

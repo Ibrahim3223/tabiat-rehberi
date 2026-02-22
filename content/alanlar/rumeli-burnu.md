@@ -38,7 +38,7 @@ Rumeli Burnu gibi doğal alanlar, insanların doğayla ilişki kurma biçimleri 
 
 Doğal güzelliği ile dikkat çeken Rumeli Burnu, coğrafi olarak çeşitli özellikler gösteriyor. Oldukça kayalık bir yapıya sahip olan bu bölge, İstanbul'un jeolojik yapısının bir parçası olarak kabul ediliyor. Tarihin çeşitli dönemlerinde şekillenen bu coğrafya, bugün bir doğa koruma alanı olarak korunuyor. Birkaç olimpik havuz kadar küçük bir alanda, çeşitli bitki ve hayvan türleri barınıyor.
 
-Mevsimsel değişikliklere göre şekillenen Rumeli Burnu'nun iklimi, İstanbul'un genel iklim karakterine benzerlik gösteriyor. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve nemli bir hava hakim. Bu mevsimsel özellikler, bölgede yaşayan bitki ve hayvan türlerinin adaptasyonuna etki ediyor. Eiffel Kulesi'nin yüksekliğine benzer bir tepenin üzerinde yer alan bu burun, manzarasıyla da dikkat çekiyor.
+Mevsimsel değişikliklere göre şekillenen Rumeli Burnu'nun iklimi, İstanbul'un genel iklim karakterine benzerlik gösteriyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve nemli bir hava hakim. Bu mevsimsel özellikler, bölgede yaşayan bitki ve hayvan türlerinin adaptasyonuna etki ediyor. Eiffel Kulesi'nin yüksekliğine benzer bir tepenin üzerinde yer alan bu burun, manzarasıyla da dikkat çekiyor.
 
 Rumeli Burnu'nun çevresel ilişkileri, komşu alanlar ve su kaynaklarıyla şekilleniyor. İstanbul Boğazı'nın bir parçası olan bu bölge, Karadeniz ve Marmara Denizi arasında bir köprü görevi görüyor. Bu konum, çeşitli su canlılarının yaşam alanı olarak dikkat çekiyor. Monaco'nun yarısı kadar büyük bir bölgeye karşılık gelen İstanbul'un Adalar ilçesi, bu bölgenin bir parçası olarak kabul ediliyor. Bu geniş coğrafya, Rumeli Burnu'nun doğal güzelliğini daha da önemli kılıyor.
 

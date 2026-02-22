@@ -37,7 +37,7 @@ Mira Tepesi'nin tarihi geçmişi, Siirt'in genel tarihçesi ile paralellik göst
 
 ## Coğrafya
 
-Mira Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölge. Bu tepe, Siirt ilinin genel coğrafyasına uygun olarak, dağlık ve engebeli bir arazi yapısına sahip. Bölgenin iklimi, yazları sıca ve kurak, kışları ise soğu ve yağışlı olarak tanımlanabilir. Bu coğrafi özellikleri, Mira Tepesi'ni ziyaret edenler için çeşitli doğa aktiviteleri sunuyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunması, bu bölgeyi doğa severler için bir cennet haline getiriyor. Mira Tepesi, ziyaretçilerine geniş ve yeşil alanlar sunuyor ve bu alanlar, yaklaşık 200 futbol sahası büyüklüğünde.
+Mira Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölge. Bu tepe, Siirt ilinin genel coğrafyasına uygun olarak, dağlık ve engebeli bir arazi yapısına sahip. Bölgenin iklimi, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı olarak tanımlanabilir. Bu coğrafi özellikleri, Mira Tepesi'ni ziyaret edenler için çeşitli doğa aktiviteleri sunuyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunması, bu bölgeyi doğa severler için bir cennet haline getiriyor. Mira Tepesi, ziyaretçilerine geniş ve yeşil alanlar sunuyor ve bu alanlar, yaklaşık 200 futbol sahası büyüklüğünde.
 
 ## Flora ve Fauna
 

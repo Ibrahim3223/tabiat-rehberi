@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden Siirt'in dağlık bölgesinde yer 
 
 Boyutları hakkında detaylı bilgi bulunmasa da, Beyvük Tepe'nin bulunduğu coğrafya, genel olarak dağlık ve engebeli bir yapıya sahiptir. Bu bölgede yer alan diğer tepeler ve dağlar ile birlikte, geniş bir araziye yayılmış durumdadır. Monaco'nun yarısı kadar bir alanı kaplayan bu dağlık bölge, İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplayan diğer coğrafik oluşumlarla benzerlik göstermektedir.
 
-İklim açısından bakıldığında, Beyvük Tepe ve çevresinin karasal iklim özellikleri gösterdiği görülmektedir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı noktalarda, hava koşulları daha sert ve soğuk olabilir.
+İklim açısından bakıldığında, Beyvük Tepe ve çevresinin karasal iklim özellikleri gösterdiği görülmektedir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı noktalarda, hava koşulları daha sert ve soğuk olabilir.
 
 Beyvük Tepe'nin bulunduğu bölge, Botan Nehri gibi önemli su kaynaklarına yakınlığıyla dikkat çeker. Bu nehir, bölgenin ekosistemini destekleyen en önemli su kaynaklarından biridir. Çevresindeki diğer dağlar ve tepelerle birlikte, bu bölge bir ekosistem olarak işlev görmektedir. Taksim Meydanı'nın 10 katı büyüklüğünde bir alanı kaplayan bu dağlık bölge, İstanbul'un toplam yeşil alanlarının önemli bir kısmına eşdeğer bir doğal güzelliğe sahiptir.
 

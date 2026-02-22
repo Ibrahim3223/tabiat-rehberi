@@ -36,7 +36,7 @@ Mustafataşı Tepesi'nin tarihi geçmişi, Van'ın tarihi ile iç içe geçmiş 
 
 ## Coğrafya
 
-Mustafataşı Tepesi, Van'ın coğrafi yapısını oluşturan dağlık bir bölgede yer alır. Bu tepe, Van Gölü'nün güneyinde, yaklaşık yüksek bir konumdate bulunur. Mustafataşı Tepesi'nin coğrafi konumu, ziyaretçilere Van'ın doğal güzelliklerini keşfetme fırsatı sunar. Bu tepe, çevresindeki diğer tepelerle birlikte bir bütün olarak düşünüldüğünde, Van'ın coğrafi yapısını oluşturan önemli bir parça olarak düşünülebilir. Mustafataşı Tepesi, ziyaretçilere Van'ın muhteşem manzarasını izleme fırsatı sunar. Bu tepe, Van'ın coğrafi güzelliklerini keşfetmek için ideal bir noktadır.
+Mustafataşı Tepesi, Van'ın coğrafi yapısını oluşturan dağlık bir bölgede yer alır. Bu tepe, Van Gölü'nün güneyinde, yüksek bir konumda bulunur. Mustafataşı Tepesi'nin coğrafi konumu, ziyaretçilere Van'ın doğal güzelliklerini keşfetme fırsatı sunar. Bu tepe, çevresindeki diğer tepelerle birlikte bir bütün olarak düşünüldüğünde, Van'ın coğrafi yapısını oluşturan önemli bir parça olarak düşünülebilir. Mustafataşı Tepesi, ziyaretçilere Van'ın muhteşem manzarasını izleme fırsatı sunar. Bu tepe, Van'ın coğrafi güzelliklerini keşfetmek için ideal bir noktadır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Mustafataşı Tepesi, Van'ın doğal güzelliklerini keşfetmek için ziyaretçi
 ## İlginç Bilgiler
 
 - Mustafataşı Tepesi, Van'ın doğal güzelliklerini keşfetmek için ideal bir noktadır.
-- Bu tepe, Van Gölü'nün güneyinde, yaklaşık yüksek bir konumdate bulunur.
+- Bu tepe, Van Gölü'nün güneyinde, yüksek bir konumda bulunur.
 - Mustafataşı Tepesi, çeşitli flora ve faunaya ev sahipliği yapar.
 - Ziyaretçiler, bu tepeye tırmanarak Van'ın muhteşem manzarasını izleme fırsatı bulurlar.
 - Mustafataşı Tepesi'ne ziyaret için en iyi zaman, ilkbahar ve yaz aylarıdır.

@@ -30,7 +30,7 @@ Kastamonu-Hanonu-Kuzalic-Saricam milli parkının tarihi geçmişi, yüzyıllar 
 
 ## Coğrafya
 
-Kastamonu-Hanonu-Kuzalic-Saricam milli parkı, Karadeniz Bölgesi'nin önemli coğrafi özelliklerine sahiptir. Milli parkın coğrafi yapısı, dağlar, ormanlar ve nehirler ile karakterizedir. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Milli parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimi ile benzerlik gösterir. Yağışlar, genellikle ilkbahar ve sonbahar aylarında görülür. Kış ayları, genellikle soğu ve karlı geçer. Milli parkın coğrafi konumu, ziyaretçilerin doğanın güzelliğini ve zenginliğini keşfetmesine olanak sağlar.
+Kastamonu-Hanonu-Kuzalic-Saricam milli parkı, Karadeniz Bölgesi'nin önemli coğrafi özelliklerine sahiptir. Milli parkın coğrafi yapısı, dağlar, ormanlar ve nehirler ile karakterizedir. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Milli parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimi ile benzerlik gösterir. Yağışlar, genellikle ilkbahar ve sonbahar aylarında görülür. Kış ayları, genellikle soğuk ve karlı geçer. Milli parkın coğrafi konumu, ziyaretçilerin doğanın güzelliğini ve zenginliğini keşfetmesine olanak sağlar.
 
 ## Flora ve Fauna
 

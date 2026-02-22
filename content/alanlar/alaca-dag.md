@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi çeşitliliğiçinde yer alan Alaca Da
 
 Diyarbakır'ın coğrafi yapısını şekillendiren Alaca Dağ, bölgenin jeolojik oluşumunda önemli bir rol oynamaktadır. Ancak, fiziksel boyutları hakkında detaylı bilgi bulunmamasına rağmen, Alaca Dağ'ın bölgedeki diğer coğrafi oluşumlar ile birlikte bir bütün olarak düşünülmesi gerekmektedir. Bu dağ, bölgenin coğrafi çeşitliliğini ve doğal güzelliğini temsil eden önemli bir noktadır.
 
-Alaca Dağ'ın iklim karakteri, bölgenin genel iklim özellikleri ile benzerlik göstermektedir. Güneydoğu Anadolu Bölgesi'nin karakteristik iklimi, yaz aylarında yüksek sıcaklık ve kuraklık, kış aylarında ise soğu ve yağışlı hava koşulları ile tanımlanabilir. Bu iklim karakteri, Alaca Dağ'ın flora ve fauna çeşitliliğini etkilemektedir.
+Alaca Dağ'ın iklim karakteri, bölgenin genel iklim özellikleri ile benzerlik göstermektedir. Güneydoğu Anadolu Bölgesi'nin karakteristik iklimi, yaz aylarında yüksek sıcaklık ve kuraklık, kış aylarında ise soğuk ve yağışlı hava koşulları ile tanımlanabilir. Bu iklim karakteri, Alaca Dağ'ın flora ve fauna çeşitliliğini etkilemektedir.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları açısından Alaca Dağ, önemli bir role sahiptir. Alaca Dağ, çevredeki alanlar ile birlikte bir ekosistem bütünü oluşturmaktadır. Bu dağ, bölgenin su kaynaklarının oluşumunda ve ekosistem dengesinin korunmasında önemli bir rol oynamaktadır. Alaca Dağ'ın çevresel ilişkileri, bölgenin doğal güzelliği ve coğrafi çeşitliliği ile doğrudan ilgilidir.
 

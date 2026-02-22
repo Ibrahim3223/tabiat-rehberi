@@ -37,7 +37,7 @@ Güzel Ahmet Paşa Türbesi, tarihi geçmişi ile dikkat çekmektedir. Tarihi ka
 
 ## Coğrafya
 
-Güzel Ahmet Paşa Türbesi, Marmara Bölgesi'nde, İstanbul'un Fatih ilçesinde bulunmaktadır. Bu bölge, deniz seviyesinden yaklaşık yüksek bir konumdate ve Marmara Denizi'ne kıyısı bulunan bir bölgedir. Türbenin etrafı, çeşitli bitki türleri ile çevrilidir ve doğal güzellikleri ile dikkat çekmektedir. Bölge, zengin fauna ve flora ile ziyaretçilerini beklemektedir. Güzel Ahmet Paşa Türbesi, coğrafi konumu ile dikkat çekmektedir ve ziyaretçilere doğal güzellikleri ile birlikte tarihi geçmişi hakkında bilgi vermektedir. Bu bölge, yıl boyunca ziyaret edilebilir ve her mevsim farklı güzellikleri ile ziyaretçilerini beklemektedir.
+Güzel Ahmet Paşa Türbesi, Marmara Bölgesi'nde, İstanbul'un Fatih ilçesinde bulunmaktadır. Bu bölge, yüksek bir konumda ve Marmara Denizi'ne kıyısı bulunan bir bölgedir. Türbenin etrafı, çeşitli bitki türleri ile çevrilidir ve doğal güzellikleri ile dikkat çekmektedir. Bölge, zengin fauna ve flora ile ziyaretçilerini beklemektedir. Güzel Ahmet Paşa Türbesi, coğrafi konumu ile dikkat çekmektedir ve ziyaretçilere doğal güzellikleri ile birlikte tarihi geçmişi hakkında bilgi vermektedir. Bu bölge, yıl boyunca ziyaret edilebilir ve her mevsim farklı güzellikleri ile ziyaretçilerini beklemektedir.
 
 ## Flora ve Fauna
 

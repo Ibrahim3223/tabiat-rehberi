@@ -44,7 +44,7 @@ Güney kıyılarında yer alan Kovanlı Adası, Antalya'nın turkuaz sularının
 
 Jeolojik açıdan bakıldığında, Kovanlı Adası'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, adanın boyutları ve şekli, bir birkaç olimpik havuz kadar geniş bir alanı kaplar. Bu küçük ama güzel ada, Akdeniz'in kıyı şeridinde yer alan diğer adalar gibi, genellikle kireç taşı ve volkanik kayaçlardan oluşur.
 
-Mevsimsel değişimlerin etkisi altında olan Kovanlı Adası, yaz aylarında sıca ve kuru, kış aylarında ise ılıman ve yağışlı bir iklim karakterine sahiptir. Bu mevsimsel özellikler, adanın florası ve faunası üzerinde önemli bir etkiye sahiptir. Hava durumu, genellikle güneşli ve açık passedir, ancak kış aylarında kısa süreli yağışlar görülebilir.
+Mevsimsel değişimlerin etkisi altında olan Kovanlı Adası, yaz aylarında sıcak ve kuru, kış aylarında ise ılıman ve yağışlı bir iklim karakterine sahiptir. Bu mevsimsel özellikler, adanın florası ve faunası üzerinde önemli bir etkiye sahiptir. Hava durumu, genellikle güneşli ve açık pasiftir, ancak kış aylarında kısa süreli yağışlar görülebilir.
 
 Doğal bir çevre olarak, Kovanlı Adası, komşu alanlar ve su kaynakları ile bağlantılı bir ekosistem oluşturur. Ada, çevredeki suların bir parçası olarak, çeşitli deniz canlılarına ev sahipliği yapar. Bu ekosistem bağlantıları, adanın korunması ve sürdürülebilirliğinin importanceini vurgular. Monaco'nun küçük bir adası gibi, Kovanlı Adası da kendi küçük ekosistemini korur ve güzelliğini sürdürür.
 

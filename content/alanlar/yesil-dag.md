@@ -45,7 +45,7 @@ Coğrafi olarak 39.7183°K, 29.8742°D koordinatlarında yer alan Yeşil Dağ, B
 
 Doğal güzelliklerinin yanı sıra, Yeşil Dağ'ın fiziksel yapısı da dikkat çeker. Koordinatlarına bakıldığında, bu bölgenin coğrafi özellikleri hakkında fikir sahibi olma mümkündür. Etrafındaki dağlar ve tepelerle birlikte, bir bütün olarak düşünüldüğünde, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alan kaplar. Ancak, fiziksel yapısı hakkında daha detaylı bilgi bulunmaması, bu bölgenin tam potansiyelini anlamamızı engeller.
 
-İklim karakteri bakımından, Yeşil Dağ'ın mevsimsel özelliklerine bakmak gerekir. Bölgenin coğrafi konumu, mevsimlere göre değişen hava koşullarını etkiler. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir iklim hakimdir. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliği üzerinde önemli bir etkiye sahiptir.
+İklim karakteri bakımından, Yeşil Dağ'ın mevsimsel özelliklerine bakmak gerekir. Bölgenin coğrafi konumu, mevsimlere göre değişen hava koşullarını etkiler. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hakimdir. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliği üzerinde önemli bir etkiye sahiptir.
 
 Çevresel ilişkiler açısından, Yeşil Dağ'ın komşu alanlar ve su kaynaklarıyla bağlantılı bir konumda olduğu görülür. Yakınlarında bulunan nehirler ve göller, bu bölgenin ekosistem bağlantılarını güçlendirir. Monaco'nun küçük bir bölümü büyüklüğünde olan bu alan, İstanbul'un Adalar ilçesi büyüklüğündeki diğer doğal güzelliklerle birlikte, bölgenin doğal zenginliğini artırır.
 

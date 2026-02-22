@@ -37,11 +37,11 @@ Erguvan Çelebi Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanmaktad
 
 ## Coğrafya
 
-Erguvan Çelebi Türbesi, Kütahya'nın merkezinde, yaklaşık yüksek bir konumdate yer almaktadır. Türbe, çevredeki tarafından yeşil alanlarla çevrili ve bu alanlar, ziyaretçilere dinlenme ve eğlenme imkanı sunmaktadır. Türbenin bulunduğu bölge, Ege Bölgesi'nin coğrafi özellikleri ile uyumlu olarak, yazları sıca ve khô, kışları ise soğu ve yağışlı bir iklimi sahiptir. Bu iklim, bölgenin flora ve fauna açısından zengin olmasını sağlamaktadır. Bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır ve bu çeşitlilik, türbenin çevresinde bulunan doğal güzelliklerin bir parçası olarak kabul edilmektedir. Türbenin coğrafi konumu, aynı zamanda, ziyaretçilere, Ege Bölgesi'nin doğal güzelliklerini keşfetme imkanı sunmaktadır.
+Erguvan Çelebi Türbesi, Kütahya'nın merkezinde, yüksek bir konumda yer almaktadır. Türbe, çevredeki tarafından yeşil alanlarla çevrili ve bu alanlar, ziyaretçilere dinlenme ve eğlenme imkanı sunmaktadır. Türbenin bulunduğu bölge, Ege Bölgesi'nin coğrafi özellikleri ile uyumlu olarak, yazları sıcak ve kuru, kışları ise soğuk ve yağışlı bir iklimi sahiptir. Bu iklim, bölgenin flora ve fauna açısından zengin olmasını sağlamaktadır. Bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır ve bu çeşitlilik, türbenin çevresinde bulunan doğal güzelliklerin bir parçası olarak kabul edilmektedir. Türbenin coğrafi konumu, aynı zamanda, ziyaretçilere, Ege Bölgesi'nin doğal güzelliklerini keşfetme imkanı sunmaktadır.
 
 ## Flora ve Fauna
 
-Erguvan Çelebi Türbesi'nin bulunduğu bölge, flora ve fauna açısından oldukça zengindir. Bölgede, çeşitli bitki türleri, ağaçlar ve çiçekler bulunmaktadır ve bu bitkiler, ziyaretçilere, doğal güzelliklerin bir parçası olarak sunulmaktadır. Aynı zamanda, bölgede, çeşitli hayvanlar yaşamaktadır ve bu hayvanlar, türbenin çevresinde bulunan doğal güzelliklerin bir parçası olarak kabul edilmektedir. Bölgenin flora ve fauna açısından zengin olmasının nedenlerinden biri, Ege Bölgesi'nin coğrafi özellikleri ile uyumlu olarak, yazları sıca ve khô, kışları ise soğu ve yağışlı bir iklimi olmasıdır. Bu iklim, bölgenin flora ve fauna açısından zengin olmasını sağlamaktadır.
+Erguvan Çelebi Türbesi'nin bulunduğu bölge, flora ve fauna açısından oldukça zengindir. Bölgede, çeşitli bitki türleri, ağaçlar ve çiçekler bulunmaktadır ve bu bitkiler, ziyaretçilere, doğal güzelliklerin bir parçası olarak sunulmaktadır. Aynı zamanda, bölgede, çeşitli hayvanlar yaşamaktadır ve bu hayvanlar, türbenin çevresinde bulunan doğal güzelliklerin bir parçası olarak kabul edilmektedir. Bölgenin flora ve fauna açısından zengin olmasının nedenlerinden biri, Ege Bölgesi'nin coğrafi özellikleri ile uyumlu olarak, yazları sıcak ve kuru, kışları ise soğuk ve yağışlı bir iklimi olmasıdır. Bu iklim, bölgenin flora ve fauna açısından zengin olmasını sağlamaktadır.
 
 ## Ziyaret Bilgileri
 
@@ -53,4 +53,4 @@ Erguvan Çelebi Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikler
 - Türbe, tarihi ve kültürel açıdan büyük bir önem taşımaktadır
 - Bölge, flora ve fauna açısından oldukça zengindir
 - Türbenin bulunduğu bölge, çevredeki tarafından yeşil alanlarla çevrili olduğundan, ziyaretçiler, dinlenme ve eğlenme imkanı bulabilirler
-- Ege Bölgesi'nin coğrafi özellikleri ile uyumlu olarak, yazları sıca ve khô, kışları ise soğu ve yağışlı bir iklimi vardır
+- Ege Bölgesi'nin coğrafi özellikleri ile uyumlu olarak, yazları sıcak ve kuru, kışları ise soğuk ve yağışlı bir iklimi vardır

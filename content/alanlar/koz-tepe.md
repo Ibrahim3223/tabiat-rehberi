@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Koz Tepe, Bingöl'ün dağlık arazisind
 
 Coğrafi olarak bakıldığında, Koz Tepe'nin konumunu anlamak için bölgenin genel yapısını göz önünde bulundurmak necessário. Bingöl'ün coğrafyası, dağlık ve engebeli bir yapıya sahip. Bu dağlık bölge, geniş ovalar ve vadilerle çevrili. Koz Tepe, bu dağlık arazinin bir parçası olarak, bölgenin jeolojik yapısını temsil ediyor.
 
-Bölgenin iklimine baktığımızda, Koz Tepe ve çevresinin karasal iklimin etkisi altında olduğu görülüyor. Kış aylarında soğu ve karlı, yaz aylarında ise sıca ve kurak bir hava hakim. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor.
+Bölgenin iklimine baktığımızda, Koz Tepe ve çevresinin karasal iklimin etkisi altında olduğu görülüyor. Kış aylarında soğuk ve karlı, yaz aylarında ise sıcak ve kurak bir hava hakim. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor.
 
 Koz Tepe'nin konumu, bölgenin su kaynaklarına ve ekosistem bağlantılarına da yakın. Yakınlarında bulunan Karasu Nehri, bölgenin su kaynaklarını zenginleştiriyor. Bu nehrin varlığı, Koz Tepe'nin çevresindeki ekosistemin canlılığını koruyor. Ayrıca, bölgenin flora ve fauna çeşitliliği, Koz Tepe'nin doğal güzelliğini vurgulayan önemli bir unsur olarak dikkat çekiyor.
 

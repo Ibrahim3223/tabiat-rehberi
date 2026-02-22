@@ -40,7 +40,7 @@ Hawirok dağının bulunduğu bölge, coğrafi olarak dağlık bir araziye sahip
 
 Hawirok dağının fiziksel yapısı hakkında detaylı bilgi bulunmasa da, genel olarak dağlık bir yapıya sahip olduğu söylenebilir. Dağlık alanlar, genellikle yüksekli ve eğim açıları ile karakterize edilir. Hawirok dağı, bu açıdan bakıldığında, bir şehir bloğu büyüklüğünde veya birkaç olimpik havuz kadar bir alanı kaplayabilir.
 
-İklim açısından bakıldığında, Hawirok dağının bulunduğu bölge, mevsimsel olarak farklı hava koşullarına sahiptir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kuru bir iklim karakteri gösterebilir. Hawirok dağı, bu iklim koşullarına göre şekillenmiş ve oluşan jeolojik yapıları ile farklı bir güzelliğe sahip olabilir.
+İklim açısından bakıldığında, Hawirok dağının bulunduğu bölge, mevsimsel olarak farklı hava koşullarına sahiptir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kuru bir iklim karakteri gösterebilir. Hawirok dağı, bu iklim koşullarına göre şekillenmiş ve oluşan jeolojik yapıları ile farklı bir güzelliğe sahip olabilir.
 
 Çevresel açıdan bakıldığında, Hawirok dağı, komşu alanlar ve su kaynakları ile bağlantılı bir ekosistem içerisinde yer alır. Bu ekosistem, çeşitli bitki ve hayvan türleri ile zengin bir biyolojik çeşitliliğe sahiptir. Hawirok dağı, bu ekosistemin önemli bir parçasını oluşturur ve çevresel ilişkileri ile birlikte değerlendirilmelidir.
 

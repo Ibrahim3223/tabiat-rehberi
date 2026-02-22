@@ -36,7 +36,7 @@ Yüceziyaret Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu
 
 ## Coğrafya
 
-Yüceziyaret Tepe, Kahramanmaraş'ın coğrafi yapısını yansıtan özel bir bölgedir. Bu tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. İklim, Akdeniz ikliminin özelliklerini gösterir; yaz ayları sıca ve kurak, kış ayları ılıman ve yağışlıdır. Yüceziyaret Tepe'nin coğrafi konumu, ziyaretçilere doğal güzellikleri ve panoramik manzaraları sunar. Tepe, yaklaşık 140 hektarlık alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı kaplayan bir yeşil alan olarak görülür. Yüceziyaret Tepe, coğrafi güzellikleri ve tarihi değerleriyle ziyaretçilerini etkiler.
+Yüceziyaret Tepe, Kahramanmaraş'ın coğrafi yapısını yansıtan özel bir bölgedir. Bu tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. İklim, Akdeniz ikliminin özelliklerini gösterir; yaz ayları sıcak ve kurak, kış ayları ılıman ve yağışlıdır. Yüceziyaret Tepe'nin coğrafi konumu, ziyaretçilere doğal güzellikleri ve panoramik manzaraları sunar. Tepe, yaklaşık 140 hektarlık alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı kaplayan bir yeşil alan olarak görülür. Yüceziyaret Tepe, coğrafi güzellikleri ve tarihi değerleriyle ziyaretçilerini etkiler.
 
 ## Flora ve Fauna
 

@@ -41,7 +41,7 @@ Sofraz Anıt Mezarı, Adıyaman'ın Besni ilçesinde yer alıyor. Bölge, Güney
 
 ## Flora ve Fauna
 
-Sofraz Anıt Mezarı, zengin bir flora ve fauna ile çevrilidir. Mezarın etrafında, çeşitli bitki türleri ve ağaçlar bulunur. Bölge, farklı mevsimlerde değişen bir doğa güzelliğine sahiptir. İlkbahar ve sonbahar aylarında, flora daha aktif ve renkli olurken, yaz aylarında sıca ve kurak bir iklim hüküm sürer. Kış aylarında ise, mezarın etrafı serin ve sakin bir atmosfere bürünür. Sofraz Anıt Mezarı, ziyaretçilerine doğa güzelliği ve canlı çeşitliliği sunuyor. Mezarın etrafındaki fauna, çeşitli hayvan türleri ile dolu ve ziyaretçilere bir doğa belgeseli deneyimi sunuyor.
+Sofraz Anıt Mezarı, zengin bir flora ve fauna ile çevrilidir. Mezarın etrafında, çeşitli bitki türleri ve ağaçlar bulunur. Bölge, farklı mevsimlerde değişen bir doğa güzelliğine sahiptir. İlkbahar ve sonbahar aylarında, flora daha aktif ve renkli olurken, yaz aylarında sıcak ve kurak bir iklim hüküm sürer. Kış aylarında ise, mezarın etrafı serin ve sakin bir atmosfere bürünür. Sofraz Anıt Mezarı, ziyaretçilerine doğa güzelliği ve canlı çeşitliliği sunuyor. Mezarın etrafındaki fauna, çeşitli hayvan türleri ile dolu ve ziyaretçilere bir doğa belgeseli deneyimi sunuyor.
 
 ## Ziyaret Bilgileri
 

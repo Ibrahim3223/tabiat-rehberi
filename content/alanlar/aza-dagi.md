@@ -42,7 +42,7 @@ Kayseri'nin coğrafi zenginliklerinin arasında yer alan Aza Dağı, 38.4867°K,
 
 Aza Dağı'nın fiziksel yapısı hakkında ayrıntılı bilgiler olmasa da, bölgenin jeolojik özellikleri Kayseri'nin genel coğrafyasına benzerlik gösteriyor. Bu bölgede genellikle volkanik kayaçlar ve alüvyonlu topraklar görülür. Aza Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor ve bu küçük ama önemli bir coğrafi özelliğe sahip.
 
-İklim açısından bakıldığında, Aza Dağı ve çevresindeki bölgede karasal iklim hüküm sürer. Kışlar soğu ve kar yağışlı, yazlar ise sıca ve kurudur. Bu mevsimsel değişimler, bölgenin flora ve faunasını şekillendirmiş ve burada yaşayan canlıların adapte olmasına yol açmıştır. Aza Dağı, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte bir noktadır ve bu yükseklik, bölgenin hava koşullarını etkileyen önemli bir faktördür.
+İklim açısından bakıldığında, Aza Dağı ve çevresindeki bölgede karasal iklim hüküm sürer. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu mevsimsel değişimler, bölgenin flora ve faunasını şekillendirmiş ve burada yaşayan canlıların adapte olmasına yol açmıştır. Aza Dağı, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte bir noktadır ve bu yükseklik, bölgenin hava koşullarını etkileyen önemli bir faktördür.
 
 Aza Dağı'nın çevresel ilişkileri, komşu alanlar ve su kaynakları ile ilgilidir. Bölge, Kayseri'nin diğer dağlık alanlarına benzer şekilde, su kaynakları açısından zengindir. Aza Dağı, çevresindeki ekosistemi destekleyen ve bölgenin biyolojik çeşitliliğini korumaya yardımcı olan bir role sahiptir. Monaco'nun yarısı kadar büyük bir alanı kaplamasa da, Aza Dağı'nın doğal güzellikleri ve ekolojik önemi, Kayseri'nin önemli bir coğrafi varlığı olarak kabul edilir.
 

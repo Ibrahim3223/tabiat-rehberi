@@ -37,7 +37,7 @@ Tarihi geçmişi olan Bandırmalı Şeyh Yusuf Nizameddin Efendi Türbesi, yüzy
 
 ## Coğrafya
 
-Coğrafi olarak, Bandırmalı Şeyh Yusuf Nizameddin Efendi Türbesi, Marmara Bölgesi'nin en güzel kıyı şeritlerinden birine sahiptir. Türbe ve çevresindeki yeşil alan, denize doğru uzanan bir yarımadayı kaplar ve ziyaretçilere muhteşem bir manzara sunar. Bu yarımadanın hinterlandında, çeşitli bitki türleri ve zengin fauna bulunur. Bölgenin iklimi, tipik Akdeniz iklimi özellikleri taşır ve yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı passedir. İklimin bu özellikleri, bölgenin flora ve faunasını önemli ölçüde etkiler ve buradaki canlıların çeşitliliğini sağlar.
+Coğrafi olarak, Bandırmalı Şeyh Yusuf Nizameddin Efendi Türbesi, Marmara Bölgesi'nin en güzel kıyı şeritlerinden birine sahiptir. Türbe ve çevresindeki yeşil alan, denize doğru uzanan bir yarımadayı kaplar ve ziyaretçilere muhteşem bir manzara sunar. Bu yarımadanın hinterlandında, çeşitli bitki türleri ve zengin fauna bulunur. Bölgenin iklimi, tipik Akdeniz iklimi özellikleri taşır ve yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı pasiftir. İklimin bu özellikleri, bölgenin flora ve faunasını önemli ölçüde etkiler ve buradaki canlıların çeşitliliğini sağlar.
 
 ## Flora ve Fauna
 

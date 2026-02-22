@@ -44,7 +44,7 @@ Güneydoğu Anadolu'nun kalbinde yer alan Sof Dağı, Gaziantep'in coğrafi zeng
 
 Doğal güzellikleri ile dikkat çeken Sof Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu küçük ama önemli coğrafi oluşum, bölgenin ekolojik dengesini koruma altına alıyor. Sof Dağı'nın fiziksel yapısı, bölgenin jeolojik geçmişini yansıtıyor. Ancak, fiziksel veri eksikliği nedeniyle dağın yüksekliği, şekli ve boyutları hakkında net bilgiler bulunmuyor.
 
-Mevsimsel değişimler, Sof Dağı'nın iklim karakterini şekillendiriyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakim. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Sof Dağı, bölgenin iklimini düzenlemede önemli bir rol oynuyor.
+Mevsimsel değişimler, Sof Dağı'nın iklim karakterini şekillendiriyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakim. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Sof Dağı, bölgenin iklimini düzenlemede önemli bir rol oynuyor.
 
 Sof Dağı, çevreye füllü bir şekilde entegre olmuş bir coğrafi oluşum. Gaziantep'in su kaynakları, dağlık alanlar ve ekosistem bağlantıları ile Sof Dağı arasında önemli bir ilişki var. Bu ilişki, bölgenin doğal dengesini koruma altına alıyor. Sof Dağı, bölgenin ekolojik zenginliklerini koruma altına almak için önemli bir rol oynuyor.
 

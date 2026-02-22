@@ -37,7 +37,7 @@ Hasan Basri Hazretleri Türbesi, tarihi geçmişi ile dikkat çekiyor. Bu türbe
 
 ## Coğrafya
 
-Hasan Basri Hazretleri Türbesi, Doğu Anadolu Bölgesi'nin coğrafi zenginliklerini de içinde barındırıyor. Battalgazi, Malatya'da bulunan türbe, yaklaşık yüksek bir konumdate yer alıyor. Bu yükseklik, ziyaretçilere geniş bir manzara sunuyor ve çevredeki dağların ve ovaların güzelliğini görme mümkün oluyor. Türbe, geniş bir yeşil alanın içinde yer alıyor ve ziyaretçilere açık alanlar, yürüyüş yolları ve dinlenme alanları sunuyor. Çevredeki coğrafi oluşumlar, ziyaretçilere çeşitli doğal güzellikleri sunuyor. Dağlar, ovalar, nehirler ve göller, bölgenin coğrafi zenginliğini oluşturuyor. Hasan Basri Hazretleri Türbesi, bu coğrafi zenginliklerin ortasında yer alıyor ve ziyaretçilere geniş bir açık alan sunuyor.
+Hasan Basri Hazretleri Türbesi, Doğu Anadolu Bölgesi'nin coğrafi zenginliklerini de içinde barındırıyor. Battalgazi, Malatya'da bulunan türbe, yüksek bir konumda yer alıyor. Bu yükseklik, ziyaretçilere geniş bir manzara sunuyor ve çevredeki dağların ve ovaların güzelliğini görme mümkün oluyor. Türbe, geniş bir yeşil alanın içinde yer alıyor ve ziyaretçilere açık alanlar, yürüyüş yolları ve dinlenme alanları sunuyor. Çevredeki coğrafi oluşumlar, ziyaretçilere çeşitli doğal güzellikleri sunuyor. Dağlar, ovalar, nehirler ve göller, bölgenin coğrafi zenginliğini oluşturuyor. Hasan Basri Hazretleri Türbesi, bu coğrafi zenginliklerin ortasında yer alıyor ve ziyaretçilere geniş bir açık alan sunuyor.
 
 ## Flora ve Fauna
 

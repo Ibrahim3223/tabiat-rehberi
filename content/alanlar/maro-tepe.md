@@ -43,7 +43,7 @@ Güneydoğu Anadolu Bölgesi'nin zengin coğrafyası içinde yer alan Maro Tepe,
 
 Fiziksel yapısına bakıldığında, Maro Tepe'nin boyutları ve şekli hakkında detaylı bilgi bulunmasa da, koordinatlarından hareketle bölgenin coğrafi özelliklerini analiz edebiliriz. Örneğin, bir şehir bloğu büyüklüğünde bir alanın içinde yer alan bu tepe, Mardin'in tarihi merkezi ile benzer bir ölçekte düşünülebilir. Ancak, Maro Tepe'nin yüksekliği ve jeolojik yapısı về detaylı bilgi bulunmaması nedeniyle, bu konularda net bir karşılaştırma yapma mümkün değildir.
 
-Mevsimsel özelliklere gelindiğinde, Maro Tepe ve çevresinin iklimi genel olarak Güneydoğu Anadolu Bölgesi'nin iklim karakterine benzerlik gösterir. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir hava hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler ve Maro Tepe'nin çevresindeki ekosistemin dinamiklerini şekillendirir.
+Mevsimsel özelliklere gelindiğinde, Maro Tepe ve çevresinin iklimi genel olarak Güneydoğu Anadolu Bölgesi'nin iklim karakterine benzerlik gösterir. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir hava hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler ve Maro Tepe'nin çevresindeki ekosistemin dinamiklerini şekillendirir.
 
 Doğal kaynaklar ve ekosistem bağlantıları açısından bakıldığında, Maro Tepe ve çevresinin su kaynakları ve komşu alanlar ile olan ilişkileri önemlidir. Bölge, Dicle Nehri'nin yakınlarında yer alır ve bu nehrin suladığı verimli ovalar, Maro Tepe'nin eteklerinde yer alır. Bu su kaynakları, bölgenin tarımı ve doğal hayatını destekler ve Maro Tepe'nin çevresindeki ekosistemi zenginleştirir.
 

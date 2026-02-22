@@ -45,7 +45,7 @@ Manisa'nın coğrafi güzelliğiçinde yer alan Taş Dağı, 39.1817°K, 27.6667
 
 Jeolojik açıdan incelendiğinde, Taş Dağı'nın coğrafi yapısı hakkında detaylı fiziksel veriler bulunmasa da, genel olarak Ege Bölgesi'nin jeolojik özellikleri düşünüldüğünde, bu bölgenin karmaşık bir jeolojik yapıya sahip olduğu söylenebilir. Ege Bölgesi, farklı jeolojik dönemlere ait kayaların bir araya geldiği bir alandır. Taş Dağı'nın yüksekliği ve yüzölçümü hakkında somut veriler olmasa da, bölgenin genel coğrafyası, dağlık ve engebeli bir araziyi andırmaktadır.
 
-İklimsel olarak bakıldığında, Taş Dağı ve etrafındaki bölge, Akdeniz ikliminin karakteristik özelliklerini taşır. Yazları sıca ve kurak, kışları ılıman ve yağışlı bir iklim hüküm sürer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler. Taş Dağı, bu iklim koşullarında, farklı bitki türlerine ev sahipliği yapmakta ve bölgenin ekolojik dengesine katkıda bulunmaktadır.
+İklimsel olarak bakıldığında, Taş Dağı ve etrafındaki bölge, Akdeniz ikliminin karakteristik özelliklerini taşır. Yazları sıcak ve kurak, kışları ılıman ve yağışlı bir iklim hüküm sürer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler. Taş Dağı, bu iklim koşullarında, farklı bitki türlerine ev sahipliği yapmakta ve bölgenin ekolojik dengesine katkıda bulunmaktadır.
 
 Çevresel açıdan, Taş Dağı, Manisa'nın diğer coğrafi oluşumlarıyla birlikte, bölgenin ekosistemini oluşturan önemli bir parçadır. Yakın çevresinde, su kaynakları ve diğer doğal alanlar bulunur. Bu alanların birbiriyle olan bağlantıları, bölgenin ekolojik zenginliğini koruma altına almak için önemlidir. Taş Dağı, bu bağlamda, Manisa'nın doğal güzelliklerini koruma ve gelecek nesillere aktarmak için önemli bir role sahiptir.
 

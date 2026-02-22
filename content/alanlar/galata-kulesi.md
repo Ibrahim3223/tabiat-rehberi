@@ -42,7 +42,7 @@ Galata Kulesi, Marmara Bölgesi'nin en büyük şehirlerinden biri olan İstanbu
 
 ## Flora ve Fauna
 
-Galata Kulesi ve çevresi, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir. Kule çevresinde bulunan par ve bahçeler, ziyaretçilere yeşillik içinde dinlenme ve gezi imkanı sunar. İstanbul'un iklimi, Galata Kulesi'nin çevresindeki bitki örtüsünü etkiler. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıcak ve kuru olan iklim, bitki türlerinin çeşitliliğini etkiler. Galata Kulesi'nin fauna açısından zengin bir bölgede yer alması, ziyaretçilere farklı türleri gözlemleme fırsatı sunar. Kuş türleri, memeliler ve diğer canlılar, Galata Kulesi'nin çevresindeki ekosistemin bir parçasıdır.
+Galata Kulesi ve çevresi, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir. Kule çevresinde bulunan par ve bahçeler, ziyaretçilere yeşillik içinde dinlenme ve gezi imkanı sunar. İstanbul'un iklimi, Galata Kulesi'nin çevresindeki bitki örtüsünü etkiler. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kuru olan iklim, bitki türlerinin çeşitliliğini etkiler. Galata Kulesi'nin fauna açısından zengin bir bölgede yer alması, ziyaretçilere farklı türleri gözlemleme fırsatı sunar. Kuş türleri, memeliler ve diğer canlılar, Galata Kulesi'nin çevresindeki ekosistemin bir parçasıdır.
 
 ## Ziyaret Bilgileri
 

@@ -37,7 +37,7 @@ Priene Roma Hamam Kompleksi, tarihin derinliklerinde gizlenen bir hazine olarak 
 
 ## Coğrafya
 
-Priene Roma Hamam Kompleksi, Ege Bölgesi'nin Aydın ilinin Söke ilçesinde yer alır. Bu kompleks, antik kent Priene'nin kalbinde, çevredeki dağların eteklerinde kurulmuştur. Coğrafi olarak 37°39′K ve 27°17′D koordinatlarında yer alan kompleks, deniz seviyesinden yaklaşık yüksek bir konumdate bulunmaktadır. İklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimi özellikleri taşır; yani yazları sıca ve kurak, kışları ılık ve yağışlıdır. Bu kompleks, çevredeki dağlar ve vadiler ile birlikte bir bütün olarak ele alındığında, zengin bir coğrafi çeşitlilik sunar. Ziyaretçiler, bu kompleksi ziyaret ederken aynı zamanda çevredeki doğayı ve manzaraları keşfetme fırsatı bulurlar.
+Priene Roma Hamam Kompleksi, Ege Bölgesi'nin Aydın ilinin Söke ilçesinde yer alır. Bu kompleks, antik kent Priene'nin kalbinde, çevredeki dağların eteklerinde kurulmuştur. Coğrafi olarak 37°39′K ve 27°17′D koordinatlarında yer alan kompleks, yüksek bir konumda bulunmaktadır. İklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimi özellikleri taşır; yani yazları sıcak ve kurak, kışları ılık ve yağışlıdır. Bu kompleks, çevredeki dağlar ve vadiler ile birlikte bir bütün olarak ele alındığında, zengin bir coğrafi çeşitlilik sunar. Ziyaretçiler, bu kompleksi ziyaret ederken aynı zamanda çevredeki doğayı ve manzaraları keşfetme fırsatı bulurlar.
 
 ## Flora ve Fauna
 

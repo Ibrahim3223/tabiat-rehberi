@@ -45,7 +45,7 @@ Güneydoğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerine ev sahipli
 
 Doğal güzelliği kadar coğrafi yapısıyla da dikkat çeken Ziyaret Tepe, Mardin'in genel coğrafyası içinde önemli bir yer tutuyor. Fiziksel boyutları hakkında detaylı bilgi olmasa da, tepe ve çevresinin coğrafi konumu, bölgenin jeolojik yapısını anlamak için önemli bir ipucu sunuyor. Bu bölgede yer alan tepe, Mardin'in genel yüksekliklerine nazaran bir göreceli yükseklik sunuyor, ancak Eiffel Kulesi'nin yüksekliğine kıyasla daha alçak bir konumda bulunuyor.
 
-Mevsimsel değişimlerin yaşandığı Ziyaret Tepe, bölgenin iklim karakterini yansıtıyor. Güneydoğu Anadolu Bölgesi'nin genel iklim özellikleri, tepe ve çevresini de etkiliyor. Yaz aylarında sıca ve kuru, kış aylarında ise soğu ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel özellikler, tepe ve çevresinin flora ve fauna çeşitliliğini de şekillendiriyor.
+Mevsimsel değişimlerin yaşandığı Ziyaret Tepe, bölgenin iklim karakterini yansıtıyor. Güneydoğu Anadolu Bölgesi'nin genel iklim özellikleri, tepe ve çevresini de etkiliyor. Yaz aylarında sıcak ve kuru, kış aylarında ise soğuk ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel özellikler, tepe ve çevresinin flora ve fauna çeşitliliğini de şekillendiriyor.
 
 Çevresel açıdan bakıldığında, Ziyaret Tepe, Mardin'in tarihî ve kültürel dokusuna ek olarak, doğal güzellikleriyle de önemli bir bağlantı noktası sunuyor. Bölge, komşu alanlarla ve su kaynaklarıyla bağlantılı bir ekosistemi desteklıyor. Bu bağlantı, tepe ve çevresinin doğal güzelliğini korurken, aynı zamanda bölgenin ekolojik dengesini de koruyor.
 

@@ -42,7 +42,7 @@ Manisa'nın coğrafi güzelliğine katkıda bulunan Eğrelti Dağı, 38.9505°K,
 
 Jeolojik açıdan incelendiğinde, Eğrelti Dağı'nın yapısı oldukça ilgi çekici. Koordinatlarından anlaşılacağı gibi, dağ yaklaşık 39° kuzey enlemi ve 29° doğu boylamında yer alıyor. Bu konum, bölgenin jeolojik geçmişini ve oluşumunu etkileyen önemli faktörlerden biri. Eğrelti Dağı, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor ve bu özelliği ile bölgenin önemli bir doğal alanı olarak dikkat çekiyor.
 
-İklim açısından bakıldığında, Eğrelti Dağı'nın bulunduğu bölge Akdeniz ikliminin etkilerini gösteriyor. Bölge, yaz aylarında sıca ve kuru, kış aylarında ise ılık ve yağışlı bir hava durumu sergiliyor. Eğrelti Dağı, bu iklim koşullarına uyum sağlamış ve çevresindeki bitki örtüsü ile birlikte bir ekosistem oluşturmuş durumda.
+İklim açısından bakıldığında, Eğrelti Dağı'nın bulunduğu bölge Akdeniz ikliminin etkilerini gösteriyor. Bölge, yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı bir hava durumu sergiliyor. Eğrelti Dağı, bu iklim koşullarına uyum sağlamış ve çevresindeki bitki örtüsü ile birlikte bir ekosistem oluşturmuş durumda.
 
 Çevresel açıdan incelendiğinde, Eğrelti Dağı'nın Monaco'nun küçük bir bölümü kadar bir alanı kapladığı görülüyor. Bu durum, dağların bölgenin doğal dengesini koruma açısından ne kadar önemli olduğunu gösteriyor. Eğrelti Dağı, komşu alanlar ve su kaynakları ile birlikte bir bütün olarak ele alındığında, bölgenin ekolojik bağlantısını sağlayan önemli bir bileşen olarak ortaya çıkıyor.
 

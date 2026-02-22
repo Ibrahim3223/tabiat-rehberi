@@ -36,7 +36,7 @@ Kızılörü Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği y
 
 ## Coğrafya
 
-Kızılörü Tepesi, Antalya'nın coğrafi yapısını temsil eden bir bölgede yer alıyor. Bu tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bölge, genellikle sıca ve kurak bir iklime sahip, ancak bu tepe ve çevresi, yeşilliği ve serin havasıyla ziyaretçilere bir kaçış noktası sunuyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu bölge, aynı zamanda coğrafi olarak önemli bir konumda yer alıyor, çünkü buradan Antalya'nın geniş düzlükleri ve dağlık alanları görülebiliyor. Coğrafi konumu ve doğal güzelliği, bu tepenin bir turizm merkezi olmasını sağlıyor.
+Kızılörü Tepesi, Antalya'nın coğrafi yapısını temsil eden bir bölgede yer alıyor. Bu tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bölge, genellikle sıcak ve kurak bir iklime sahip, ancak bu tepe ve çevresi, yeşilliği ve serin havasıyla ziyaretçilere bir kaçış noktası sunuyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu bölge, aynı zamanda coğrafi olarak önemli bir konumda yer alıyor, çünkü buradan Antalya'nın geniş düzlükleri ve dağlık alanları görülebiliyor. Coğrafi konumu ve doğal güzelliği, bu tepenin bir turizm merkezi olmasını sağlıyor.
 
 ## Flora ve Fauna
 

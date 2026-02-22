@@ -45,7 +45,7 @@ Doğunun gizli köşelerinden biri olan Çapank Dağı, 39.2333°K ve 41.1667°D
 
 Jeolojik açıdan bakıldığında, Çapank Dağı'nın coğrafi yapısı hakkında detaylı bilgiler bulunmuyor. Ancak, doğu Anadolu bölgesinin genel jeolojik yapısına bakıldığında, bu bölgenin volkanik faaliyetlerle şekillendiği görülüyor. Dağın boyutları hakkında somut veriler olmasa da, bölgenin coğrafi özellikleri, ziyaretçilere geniş ve yeşil bir alan sunuyor.
 
-İklim açısından, Çapank Dağı'nın bulunduğu bölge karasal iklim karakteri taşıyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise serin ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini şekillendiriyor.
+İklim açısından, Çapank Dağı'nın bulunduğu bölge karasal iklim karakteri taşıyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise serin ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini şekillendiriyor.
 
 Bölgenin doğal güzelliği, su kaynakları ve ekosistem bağlantılarıyla da dikkat çekiyor. Çapank Dağı, yakın çevresindeki nehirler ve akarsularla bağlantılı bir şekilde, bölgenin su döngüsünü etkiliyor. Bu da, dağ ve çevresinin ekolojik dengesini koruması açısından önemli bir rol oynuyor.
 

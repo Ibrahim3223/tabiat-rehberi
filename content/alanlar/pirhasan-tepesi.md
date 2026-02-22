@@ -36,7 +36,7 @@ Pirhasan Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetler
 
 ## Coğrafya
 
-Pirhasan Tepesi, Elazığ şehrinin coğrafi yapısını oluşturan önemli bir parça. Tepenin yüksekliği, şehre hakim bir konumda ve manzarası oldukça güzel. Çevresinde çeşitli bitki türleri ve hayvanlar yaşar. Tepenin eteklerinde, zengin fauna ve flora encontrülebilir. İklim, genel olarak karasal ve mevsimsel değişimler belirgindir. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurudur. Bahar ve sonbahar mevsimleri, ziyaretçiler için en uygun zamanlardır. Tepenin coğrafi konumu, ziyaretçilere şehri ve çevresini keşfetme imkanı sunar.
+Pirhasan Tepesi, Elazığ şehrinin coğrafi yapısını oluşturan önemli bir parça. Tepenin yüksekliği, şehre hakim bir konumda ve manzarası oldukça güzel. Çevresinde çeşitli bitki türleri ve hayvanlar yaşar. Tepenin eteklerinde, zengin fauna ve flora encontrülebilir. İklim, genel olarak karasal ve mevsimsel değişimler belirgindir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bahar ve sonbahar mevsimleri, ziyaretçiler için en uygun zamanlardır. Tepenin coğrafi konumu, ziyaretçilere şehri ve çevresini keşfetme imkanı sunar.
 
 ## Flora ve Fauna
 

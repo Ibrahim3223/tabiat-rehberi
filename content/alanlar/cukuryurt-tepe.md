@@ -36,7 +36,7 @@ wikidata_id: "Q34829591"
 
 ## Coğrafya
 
-Çukuryurt Tepe, Konya'nın coğrafi yapısının çeşitliliğini gösteren bir nokta. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu tepe, çevresindeki düzlüklerle birlikte şehrin doğal güzelliklerini sergiliyor. Çukuryurt Tepe'nin coğrafi konumu, şehrin merkezine yakınlığı ve ulaşım kolaylığı nedeniyle ziyaretçilerin ilgisini çekiyor. Tepe, çevresindeki doğal güzelliklerin yanı sıra, Konya'nın tarihi ve kültürel cazibe merkezlerine de yakınlığıyla dikkat çekiyor. İklim olarak, İç Anadolu Bölgesi'nin karasal iklim şartlarına uygun olarak, kışları soğu ve yazları sıcak geçmektedir. Bu coğrafi özellikler, Çukuryurt Tepe'yi gezi ve keşif için ideal bir yer haline getiriyor.
+Çukuryurt Tepe, Konya'nın coğrafi yapısının çeşitliliğini gösteren bir nokta. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu tepe, çevresindeki düzlüklerle birlikte şehrin doğal güzelliklerini sergiliyor. Çukuryurt Tepe'nin coğrafi konumu, şehrin merkezine yakınlığı ve ulaşım kolaylığı nedeniyle ziyaretçilerin ilgisini çekiyor. Tepe, çevresindeki doğal güzelliklerin yanı sıra, Konya'nın tarihi ve kültürel cazibe merkezlerine de yakınlığıyla dikkat çekiyor. İklim olarak, İç Anadolu Bölgesi'nin karasal iklim şartlarına uygun olarak, kışları soğuk ve yazları sıcak geçmektedir. Bu coğrafi özellikler, Çukuryurt Tepe'yi gezi ve keşif için ideal bir yer haline getiriyor.
 
 ## Flora ve Fauna
 

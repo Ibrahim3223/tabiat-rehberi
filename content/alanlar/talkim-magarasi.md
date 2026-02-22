@@ -40,7 +40,7 @@ Talkım Mağarası, Antalya'nın doğal güzelliklerinin bir parçası olarak, t
 
 ## Coğrafya
 
-Coğrafi olarak, Talkım Mağarası Antalya'nın kalbinde, 37.1611°K enlem ve 31.6822°D boylamda yer alır. Bu konum, mağaranın Akdeniz Bölgesi'nin sıca ve kurak ikliminin etkilerini doğrudan hissetmesine neden olur. Mağara, Antalya'nın turistik çekim merkezlerinden biri olan Olympos Antik Kenti'nin yaklaşık 30 kilometre kuzeydoğusunda bulunur.
+Coğrafi olarak, Talkım Mağarası Antalya'nın kalbinde, 37.1611°K enlem ve 31.6822°D boylamda yer alır. Bu konum, mağaranın Akdeniz Bölgesi'nin sıcak ve kurak ikliminin etkilerini doğrudan hissetmesine neden olur. Mağara, Antalya'nın turistik çekim merkezlerinden biri olan Olympos Antik Kenti'nin yaklaşık 30 kilometre kuzeydoğusunda bulunur.
 
 Doğal bir anıt olan Talkım Mağarası, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplar. Mağaranın girişi, bir doğal kaya oluşumu tarafından korunur ve mağaranın içi, binlerce yıllık erozyonun sonucu oluşan ilginç kaya şekilleriyle doludür. Mağaranın yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadar yükseklikte olup, bu da mağaranın içini keşfetmek için uygun bir yükseklik sunar.
 

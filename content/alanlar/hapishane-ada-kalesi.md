@@ -45,7 +45,7 @@ Gökyüzünden baktığımızda, 36.9235°K, 28.6379°D koordinatlarında yer al
 
 Doğal güzelliği ile dikkat çeken bu ada, jeolojik açıdan da oldukça ilgi çekici. Ada, 주 olarak kireçtaşı ve volkanik kayalardan oluşuyor. Bu kayalar, binlerce yıl boyunca Ege Denizi'nin dalgalarıyla şekillenerek, bugün gördüğümüz manzarayı oluşturmuş. Ada, Monaco'nun küçük bir bölümü kadar bir alanı kaplıyor ve bu küçük alan, ziyaretçilerine bir doğa deneyimi sunuyor.
 
-İklim açısından bakıldığında, Hapishane Ada Kalesi, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve khô bir hava, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürüyor. Ada, yıl boyunca güneşli günlerin sayısı, Taksim Meydanı'nın bir yıl boyunca güneşli gün sayısının yaklaşık iki katı kadar fazla. Bu nedenle, ziyaretçiler yılın her döneminde ada ziyaretinden keyif alabilirler.
+İklim açısından bakıldığında, Hapishane Ada Kalesi, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve kuru bir hava, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürüyor. Ada, yıl boyunca güneşli günlerin sayısı, Taksim Meydanı'nın bir yıl boyunca güneşli gün sayısının yaklaşık iki katı kadar fazla. Bu nedenle, ziyaretçiler yılın her döneminde ada ziyaretinden keyif alabilirler.
 
 Çevresel açıdan bakıldığında, Hapishane Ada Kalesi, Ege Denizi'nin zengin ekosistemine ev sahipliği yapıyor. Ada, su kaynakları açısından zengin değil, ancak Ege Denizi'nin suyundan yararlanabiliyor. Ada, komşu adalar ve anakara ile birlikte bir ekosistem oluşturuyor ve bu ekosistem, birçok farklı türün yaşamına ev sahipliği yapıyor.
 

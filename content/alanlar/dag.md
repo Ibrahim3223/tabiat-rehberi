@@ -43,7 +43,7 @@ Kars'ın kırsalında yer alan Dağ, 40.5779°K, 43.0943°D koordinatlarında bu
 
 Doğrudan boyutları hakkında kesin bilgiler olmasa da, Dağ'ın bulunduğu coğrafya, geniş ve farklı yüksekliklere sahip bir araziyi kaplar. Bu alanda, çeşitli jeolojik oluşumlar ve toprak tipleri bulunmaktadır. Dağlık bir bölgede yer alması, bölgenin jeolojik yapısını etkileyen önemli bir faktördür. Örneğin, etrafındaki dağlar, bölgenin iklimini ve su kaynaklarını etkilemektedir.
 
-İklim açısından, Kars bölgesinde hüküm süren karasal iklim, Dağ'ın mevsimsel özelliklerini belirlemektedir. Kışlar soğu ve kar yağışlı, yazlar ise serin ve yağışlı geçmektedir. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Dağ'ın yüksekliği, Eiffel Kulesi'nin 2 katı yükseklikte olan bir dağ zirvesine benzemektedir.
+İklim açısından, Kars bölgesinde hüküm süren karasal iklim, Dağ'ın mevsimsel özelliklerini belirlemektedir. Kışlar soğuk ve kar yağışlı, yazlar ise serin ve yağışlı geçmektedir. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Dağ'ın yüksekliği, Eiffel Kulesi'nin 2 katı yükseklikte olan bir dağ zirvesine benzemektedir.
 
 Bölgenin çevresel ilişkileri, komşu alanlar, su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahiptir. Dağ, etrafındaki otlaklar ve tarım arazileriyle birlikte, bölgenin ekosistemini desteklemektedir. Ayrıca, bölgedeki su kaynakları, Dağ'ın yüksekliklerinden kaynaklanan akarsular ve dereler vasıtasıyla beslenmektedir. Bu su kaynakları, bölgenin tarım ve hayvancılık faaliyetlerini desteklemektedir.
 

@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi çeşitliliğiçerisinde yer alan Şag
 
 Doğal bir oluşum olarak Şagur Dağı, bölgenin jeolojik yapısını yansıtan bir coğrafi özelliktir. Ancak, fiziksel boyutları hakkında detaylı bilgi bulunmamasına rağmen, bu dağın konumu ve coğrafi özellikleri, bölgenin topoğrafyasını anlamak için önemli bir ipucu sağlar. Örneğin, Monaco'nun yarısı büyüklüğünde bir alana sahip olsaydı, Şagur Dağı'nın kapsadığı alan, bu ülkeyle benzerlik gösterirdi. Bu karşılaştırma, dağın büyüklüğünü kavramamıza yardımcı olur.
 
-Mevsimsel değişimlerin yaşandığı bir bölge olan Şagur Dağı, iklimsel olarak güneydoğu Anadolu'nun karakteristik özelliklerini taşır. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu mevsimsel farklılıklar, bölgenin flora ve fauna çeşitliliğini etkiler ve ekosistemin dengesini korur.
+Mevsimsel değişimlerin yaşandığı bir bölge olan Şagur Dağı, iklimsel olarak güneydoğu Anadolu'nun karakteristik özelliklerini taşır. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu mevsimsel farklılıklar, bölgenin flora ve fauna çeşitliliğini etkiler ve ekosistemin dengesini korur.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahip olan Şagur Dağı, komşu alanlarla birlikte bir bütünü oluşturur. Taksim Meydanı'nın birkaç katı büyüklüğünde bir alana sahip olsaydı, bu dağın kapsadığı alan, bu meydanla benzerlik gösterirdi. Bu karşılaştırma, Şagur Dağı'nın çevresel ilişkilerini ve doğal kaynaklarını anlamamıza yardımcı olur.
 

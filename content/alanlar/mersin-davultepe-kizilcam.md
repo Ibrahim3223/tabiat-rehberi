@@ -30,7 +30,7 @@ Mersin Davultepe-Kızılçam Milli Parkı'nın tarihi geçmişi, yüzyıllar boy
 
 ## Coğrafya
 
-Mersin Davultepe-Kızılçam Milli Parkı, coğrafi konumu itibariyle oldukça ilgi çekicidir. İç Anadolu Bölgesi'nde yer alan park, çevresindeki dağlar ve ovalarla birlikte bir bütün oluşturur. Parkın iklimi, bölgenin genel iklimine uygun olarak karasal iklim özellikleri gösterir. Yaz ayları sıca ve kurak, kış ayları ise soğu ve yağışlı geçer. Bu iklim koşulları, parkın flora ve fauna açısından zengin olmasını sağlar. Çevre, doğa yürüyüşleri ve çeşitli açık hava etkinlikleri için ideal bir zemin sunar. Parkın yapısı, ziyaretçilerin hem doğayı keşfetmesine hem de çevreyi anlamasına olanak tanıyan bir şekilde tasarlanmıştır.
+Mersin Davultepe-Kızılçam Milli Parkı, coğrafi konumu itibariyle oldukça ilgi çekicidir. İç Anadolu Bölgesi'nde yer alan park, çevresindeki dağlar ve ovalarla birlikte bir bütün oluşturur. Parkın iklimi, bölgenin genel iklimine uygun olarak karasal iklim özellikleri gösterir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçer. Bu iklim koşulları, parkın flora ve fauna açısından zengin olmasını sağlar. Çevre, doğa yürüyüşleri ve çeşitli açık hava etkinlikleri için ideal bir zemin sunar. Parkın yapısı, ziyaretçilerin hem doğayı keşfetmesine hem de çevreyi anlamasına olanak tanıyan bir şekilde tasarlanmıştır.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ Hersekzade Ahmed Paşa Türbesi'nin tarihi geçmişi, Osmanlı İmparatorluğu'n
 
 ## Coğrafya
 
-Hersekzade Ahmed Paşa Türbesi, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Altınova ilçesinin Hersek köyünde bulunan türbe, çevresi geniş yeşil alanlarla çevrili ve doğal güzelliği ile dikkat çekiyor. Türbenin bulunduğu arazi, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere tarihi mekanın yanı sıra doğal güzelliği de sunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik kuru karasal iklimine uygun olarak yazları sıca ve khô, kışları soğu ve kar yağışlı geçiyor. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplı, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
+Hersekzade Ahmed Paşa Türbesi, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Altınova ilçesinin Hersek köyünde bulunan türbe, çevresi geniş yeşil alanlarla çevrili ve doğal güzelliği ile dikkat çekiyor. Türbenin bulunduğu arazi, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere tarihi mekanın yanı sıra doğal güzelliği de sunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik kuru karasal iklimine uygun olarak yazları sıcak ve kuru, kışları soğuk ve kar yağışlı geçiyor. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplı, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

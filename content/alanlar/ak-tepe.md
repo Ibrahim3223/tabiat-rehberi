@@ -43,7 +43,7 @@ Güneşin altın ışıklarıyla aydınlanan Antalya'nın dağlık bölgesinde, 
 
 Doğal güzelliği ile dikkat çeken Ak Tepe'nin fiziksel yapısı, bölgenin jeolojik özelliklerini yansıtıyor. Ancak, detalı fiziksel veri bulunmamasına rağmen, bu dağın çevresindeki coğrafi oluşumlar, bölgenin jeolojik tarihini anlatıyor. Ak Tepe, Antalya'nın genel coğrafi yapısına uygun olarak, kalker ve şist gibi farklı jeolojik katmanlardan oluşuyor. Bu katmanlar, milyonlarca yıllık bir süreçte şekillenerek, bugün gördüğümüz bu dağ silsilesini oluşturmuş.
 
-Mevsimlerin değişimi, Ak Tepe'nin iklim karakterini etkiliyor. Kış aylarında, dağların zirveleri karla kaplanırken, yaz aylarında ise sıcaklık artıyor ve bölgede kurak bir iklim hüküm sürüyor. Bölgenin iklimi, Akdeniz ikliminin karakteristik özelliklerini taşıyor. İlkbahar ve sonbahar ayları, ılıman ve yağışlı geçerken, yaz ayları sıca ve kurak, kış ayları ise ılıman ve yağışlı.
+Mevsimlerin değişimi, Ak Tepe'nin iklim karakterini etkiliyor. Kış aylarında, dağların zirveleri karla kaplanırken, yaz aylarında ise sıcaklık artıyor ve bölgede kurak bir iklim hüküm sürüyor. Bölgenin iklimi, Akdeniz ikliminin karakteristik özelliklerini taşıyor. İlkbahar ve sonbahar ayları, ılıman ve yağışlı geçerken, yaz ayları sıcak ve kurak, kış ayları ise ılıman ve yağışlı.
 
 Çevresel açıdan, Ak Tepe, bölgenin ekosistemine önemli katkılar sağlıyor. Dağın eteklerinde ve çevresinde yer alan ormanlar, bölgenin su kaynaklarını koruyor ve yerel fauna için önemli bir yaşam alanı sunuyor. Ayrıca, Ak Tepe, bölgedeki diğer dağlar ve vadilerle birlikte, bir bütün olarak düşünülmesi gereken bir coğrafi sistem içinde yer alıyor. Bu sistem, bölgenin doğal dengesini koruyor ve yerel ekosistemin sürekliliğini sağlıyor.
 

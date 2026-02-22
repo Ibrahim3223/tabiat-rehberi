@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerinin arasında
 
 Doğal bir oluşum olarak Hemi Mağarası, jeolojik süreçlerin sonucu olarak şekillenmiştir. Ancak, ayrıntılı fiziksel verileri bulunmamasına rağmen, mağaranın bulunduğu bölgenin jeolojik yapısı about Mardin'in genel coğrafyası gibi kireç taşı ve diğer sedimentler ile karakterizedir. Bu jeolojik yapı, mağaranın oluşumunda etkili olmuş ve içerisinde çeşitli jeolojik oluşumları barındırmasına olanak sağlamıştır.
 
-Mardin'in iklim karakteri, Hemi Mağarası'nın bulunduğu bölgenin hava koşullarını da etkilemektedir. Bölge, karasal iklimin özellikleri göstermektedir; yaz ayları sıca ve kurak, kış ayları ise soğu ve yağışlı geçmektedir. Bu mevsimsel değişiklikler, mağaranın iç ortamını da etkilemekte ve farklı mevsimlerde ziyaretçilere farklı deneyimler sunmaktadır.
+Mardin'in iklim karakteri, Hemi Mağarası'nın bulunduğu bölgenin hava koşullarını da etkilemektedir. Bölge, karasal iklimin özellikleri göstermektedir; yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçmektedir. Bu mevsimsel değişiklikler, mağaranın iç ortamını da etkilemekte ve farklı mevsimlerde ziyaretçilere farklı deneyimler sunmaktadır.
 
 Hemi Mağarası, Mardin'in dağlık arazisi içerisinde yer alan bir doğal oluşum olarak, çevresindeki ekosistemi ile bağlantılıdır. Mağaranın bulunduğu bölge, flora ve fauna açısından zengin bir çeşitlilik göstermektedir. Yakındaki su kaynakları ve diğer doğal oluşumlar, bu bölgenin ekolojik dengesini korumakta ve Hemi Mağarası'nın bir parçası olduğu daha geniş bir ekosistemi desteklemektedir.
 

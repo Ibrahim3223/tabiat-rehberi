@@ -44,7 +44,7 @@ Göller Yöresi'nin kalbinde yer alan Hacıâkif Adası, Konya'nın zengin doğa
 
 Doğal güzellikleri ile dikkat çeken Hacıâkif Adası, boyut olarak yaklaşık bir şehir bloğu büyüklüğünde. Bu küçük ama önemli alan, bölgenin jeolojik yapısını yansıtan bir yapıya sahip. Ada, Göller Yöresi'nin karakteristik özelliklerini taşıyan bir coğrafi forma sahip.
 
-Mevsimsel değişimler, Hacıâkif Adası'nın iklim karakterini şekillendiren önemli bir faktör. Bölgede hakim olan karasal iklim, yazları sıca ve kurak, kışları ise soğu ve yağışlı geçiyor. Bu mevsimsel özellikler, adanın doğal dengesini etkileyen temel unsurlar.
+Mevsimsel değişimler, Hacıâkif Adası'nın iklim karakterini şekillendiren önemli bir faktör. Bölgede hakim olan karasal iklim, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı geçiyor. Bu mevsimsel özellikler, adanın doğal dengesini etkileyen temel unsurlar.
 
 Çevresel bağlantılara bakıldığında, Hacıâkif Adası'nın su kaynakları ve komşu alanlar ile önemli bir ilişkisi bulunuyor. Ada, Göller Yöresi'nin önemli su kaynaklarına yakın bir konumda yer alıyor. Bu su kaynakları, adanın ekosistemini destekleyen ve bölgenin doğal dengesini korunan önemli bir unsur.
 

@@ -42,7 +42,7 @@ Güneybatı Anadolu'nun güneşli tepelerinde yer alan İncirerene Tepe, Muğla 
 
 Doğal güzellikleri ve coğrafi yapısıyla dikkat çeken İncirerene Tepe, bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Ancak fiziksel yapısı hakkında detaylı bilgiler bulunmuyor. Bu tepe, Muğla'nın dağlık arazisinin bir parçası olarak düşünülüyor ve etrafındaki diğer tepelerle birlikte bir dağ silsilesi oluşturuyor. İncirerene Tepe'nin yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadar bir yükseklikte yer alıyor.
 
-İklim açısından bakıldığında, İncirerene Tepe ve çevresinin Akdeniz ikliminin etkisinde olduğu görülüyor. Bu bölgede, yaz aylarında sıca ve kuru, kış aylarında ise ılık ve yağışlı bir hava hakim oluyor. Mevsimsel değişiklikler, bu bölgenin flora ve fauna çeşitliliğini etkiliyor ve İncirerene Tepe, bu çeşitliliği barındıran önemli bir bölgedir.
+İklim açısından bakıldığında, İncirerene Tepe ve çevresinin Akdeniz ikliminin etkisinde olduğu görülüyor. Bu bölgede, yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı bir hava hakim oluyor. Mevsimsel değişiklikler, bu bölgenin flora ve fauna çeşitliliğini etkiliyor ve İncirerene Tepe, bu çeşitliliği barındıran önemli bir bölgedir.
 
 İncirerene Tepe, çevresindeki diğer doğal alanlarla birlikte bir ekosistem oluşturuyor. Bu tepe, komşu alanlardaki su kaynaklarıyla bağlantılı ve bu su kaynakları, bölgenin ekosistemini destekleyen önemli bir faktör. İncirerene Tepe, Monaco'nun yaklaşık 1/100'ü kadar bir alanı kaplıyor ve bu küçük alanı, bölgenin biyolojik çeşitliliğine katkıda bulunacak şekilde değerlendiriliyor.
 

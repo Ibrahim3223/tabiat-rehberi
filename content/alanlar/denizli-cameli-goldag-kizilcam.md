@@ -30,7 +30,7 @@ Denizli-Cameli-Goldag Kızılçam milli parkının tarihi geçmişi, yüzyıllar
 
 ## Coğrafya
 
-Denizli-Cameli-Goldag Kızılçam milli parkı, Ege Bölgesi'nin güneydoğu kesiminde yer almaktadır. Milli parkın coğrafi yapısı, dağlık ve engebeli arazilerden oluşmaktadır. Bölge, Akdeniz ikliminin etkisi altında olup, yazları sıca ve kurak, kışları ise ılıman ve yağışlı geçmektedir. Milli parkın içinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Milli parkın çevresi, ormanlık alanlarla çevrilidir ve bu ormanlar, bölgenin ekolojisini korumakta önemli bir rol oynamaktadır. Ayrıca, milli parkın içinde, çeşitli su kaynakları ve akarsular bulunmaktadır. Bu su kaynakları, bölgenin flora ve fauna çeşitliliğini desteklemektedir.
+Denizli-Cameli-Goldag Kızılçam milli parkı, Ege Bölgesi'nin güneydoğu kesiminde yer almaktadır. Milli parkın coğrafi yapısı, dağlık ve engebeli arazilerden oluşmaktadır. Bölge, Akdeniz ikliminin etkisi altında olup, yazları sıcak ve kurak, kışları ise ılıman ve yağışlı geçmektedir. Milli parkın içinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Milli parkın çevresi, ormanlık alanlarla çevrilidir ve bu ormanlar, bölgenin ekolojisini korumakta önemli bir rol oynamaktadır. Ayrıca, milli parkın içinde, çeşitli su kaynakları ve akarsular bulunmaktadır. Bu su kaynakları, bölgenin flora ve fauna çeşitliliğini desteklemektedir.
 
 ## Flora ve Fauna
 

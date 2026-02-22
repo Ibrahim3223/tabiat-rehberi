@@ -38,7 +38,7 @@ wikidata_id: "Q131391287"
 
 ## Coğrafya
 
-Şeyh Sücaeddin Türbesi, Konya'nın Selçuklu ilçesinde, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumda yer alıyor. Burada, geniş ova ve yüksek dağların birleştiği bir coğrafi yapı bulunur. Türbe ve plaj, çevresindeki doğal güzelliklerle birlikte, ziyaretçilere geniş bir açık alan sunuyor. İç Anadolu Bölgesi'nin karakteristik iklim şartlarına uygun olarak, burada yazlar sıca ve kurak, kışlar soğu ve karlı geçer. Bu coğrafi ve iklimsel özellikler, türbenin ve plajın doğal güzelliğini vurgulayan önemli faktörlerdir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alan olarak hizmet veriyor.
+Şeyh Sücaeddin Türbesi, Konya'nın Selçuklu ilçesinde, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumda yer alıyor. Burada, geniş ova ve yüksek dağların birleştiği bir coğrafi yapı bulunur. Türbe ve plaj, çevresindeki doğal güzelliklerle birlikte, ziyaretçilere geniş bir açık alan sunuyor. İç Anadolu Bölgesi'nin karakteristik iklim şartlarına uygun olarak, burada yazlar sıcak ve kurak, kışlar soğuk ve karlı geçer. Bu coğrafi ve iklimsel özellikler, türbenin ve plajın doğal güzelliğini vurgulayan önemli faktörlerdir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alan olarak hizmet veriyor.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ Damlataş Plajı'nın tarihi geçmişi oldukça eskidir. Bu bölge, yüzyıllar 
 
 ## Coğrafya
 
-Damlataş Plajı, Akdeniz Bölgesi'nin Antalya ilinin Alanya ilçesinde bulunur. Plaj, 140 hektarlık bir alanı kaplar ve bu genişlikte bir plajda güneşin ve denizin tadını çıkarma mümkün. Plajın kumsalı ince kumdan oluşur ve deniz suyu berra ve masmavi bir renge sahiptir. Damlataş Plajı, Toros Dağları'nın eteklerinde yer alır ve bu dağların eteklerinde çeşitli bitki türleri bulunur. Plajın çevresi, yeşilin verschill -yani- çeşitli tonlarını barındıran bir orman ile çevrilidir. Bu ormanda, çeşitli ağaç türleri ve bitki örtüsü bulunur. Plajın iklimi, Akdeniz iklimi özellikleri taşır ve yaz aylarında sıca ve khô -yani- kuru, kış aylarında ise ılık ve yağmurludur. Bu iklim, plajı yıl boyunca ziyaret edecekler için uygun hale getirir.
+Damlataş Plajı, Akdeniz Bölgesi'nin Antalya ilinin Alanya ilçesinde bulunur. Plaj, 140 hektarlık bir alanı kaplar ve bu genişlikte bir plajda güneşin ve denizin tadını çıkarma mümkün. Plajın kumsalı ince kumdan oluşur ve deniz suyu berra ve masmavi bir renge sahiptir. Damlataş Plajı, Toros Dağları'nın eteklerinde yer alır ve bu dağların eteklerinde çeşitli bitki türleri bulunur. Plajın çevresi, yeşilin verschill -yani- çeşitli tonlarını barındıran bir orman ile çevrilidir. Bu ormanda, çeşitli ağaç türleri ve bitki örtüsü bulunur. Plajın iklimi, Akdeniz iklimi özellikleri taşır ve yaz aylarında sıcak ve kuru -yani- kuru, kış aylarında ise ılık ve yağmurludur. Bu iklim, plajı yıl boyunca ziyaret edecekler için uygun hale getirir.
 
 ## Flora ve Fauna
 

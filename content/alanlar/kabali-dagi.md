@@ -45,7 +45,7 @@ Türkiye'de doğal alanlar, sadece estetik değerleri nedeniyle değil, aynı za
 
 Doğal güzelliği ve jeolojik yapısıyla dikkat çeken Kabalı Dağı, bir olimpik havuz kadar geniş bir alanı kaplar. Ancak, fiziksel verilerin sınırlı olması nedeniyle, dağ hakkındaki bilgilerimiz kısıtlıdır. Bu durum, coğrafya araştırmacıları için önemli birchallenge oluşturur. Kabalı Dağı, Eiffel Kulesi'nin yaklaşık 1/5'i yükseklikte bir oluşumdur.
 
-Yöre iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler. Hava durumu, bölgenin tarım ve hayvancılık faaliyetlerini de doğrudan etkiler.
+Yöre iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler. Hava durumu, bölgenin tarım ve hayvancılık faaliyetlerini de doğrudan etkiler.
 
 Kabalı Dağı, çevresindeki düzlüklerle ve su kaynaklarıyla bağlantılı bir ekosistem oluşturur. Bölge, çeşitli bitki ve hayvan türlerinin yaşadığı bir habitat olarak önemlidir. Komşu alanlar, dağların eteklerinde yer alan köyler ve kasabalarla bağlantılıdır. Su kaynakları, bölgenin tarımsal faaliyetleri için hayati önem taşır.
 

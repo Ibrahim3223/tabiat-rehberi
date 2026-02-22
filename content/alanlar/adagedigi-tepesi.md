@@ -36,7 +36,7 @@ Adagediği Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetl
 
 ## Coğrafya
 
-Adagediği Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir doğal güzelliğe sahip. Tepenin etrafında geniş otlaklar ve ormanlık alanlar found, bu da bölgeyi doğa severler için bir çekim merkezi haline getiriyor. Tepenin yüksekliği, ziyaretçilere Gaziantep'in eşsiz manzaralarını sunuyor ve bu manzaralar, özellikle gün batımı saatlerinde ziyaretçileri büyülüyor. Adagediği Tepesi, Gaziantep'in iklimine uygun olarak, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir hava koşuluna sahip. Bu coğrafi özellikler, bölgeyi ziyaret etmek isteyenler için önemli bir bilgi kaynağı oluşturuyor.
+Adagediği Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir doğal güzelliğe sahip. Tepenin etrafında geniş otlaklar ve ormanlık alanlar found, bu da bölgeyi doğa severler için bir çekim merkezi haline getiriyor. Tepenin yüksekliği, ziyaretçilere Gaziantep'in eşsiz manzaralarını sunuyor ve bu manzaralar, özellikle gün batımı saatlerinde ziyaretçileri büyülüyor. Adagediği Tepesi, Gaziantep'in iklimine uygun olarak, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir hava koşuluna sahip. Bu coğrafi özellikler, bölgeyi ziyaret etmek isteyenler için önemli bir bilgi kaynağı oluşturuyor.
 
 ## Flora ve Fauna
 

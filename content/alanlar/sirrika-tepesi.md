@@ -36,7 +36,7 @@ Güneydoğu Anadolu Bölgesi'nin güzide illerinden Batman'da yer alan Şırrık
 
 ## Coğrafya
 
-Şırrıka Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi güzelliğini yansıtan bir bölgedir. Tepenin etrafı, çeşitli bitki türleri ile kaplıdır ve zengin fauna ile dikkat çeker. Bölgenin iklimi, genellikle sıca ve kurudur, ancak Şırrıka Tepesi'nin yüksekliği, iklimi biraz daha ılımandır. Tepenin coğrafi konumu, ziyaretçilerine eşsiz bir manzara sunar. Şırrıka Tepesi, Batman ilinin önemli coğrafi oluşumlarından biridir ve bölgenin doğal güzelliğini temsil eder. Tepenin yüksekliği ve genişliği, ziyaretçilerine geniş bir görüş açısı sunar ve bölgenin coğrafi güzelliğini gözler önüne serer.
+Şırrıka Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi güzelliğini yansıtan bir bölgedir. Tepenin etrafı, çeşitli bitki türleri ile kaplıdır ve zengin fauna ile dikkat çeker. Bölgenin iklimi, genellikle sıcak ve kurudur, ancak Şırrıka Tepesi'nin yüksekliği, iklimi biraz daha ılımandır. Tepenin coğrafi konumu, ziyaretçilerine eşsiz bir manzara sunar. Şırrıka Tepesi, Batman ilinin önemli coğrafi oluşumlarından biridir ve bölgenin doğal güzelliğini temsil eder. Tepenin yüksekliği ve genişliği, ziyaretçilerine geniş bir görüş açısı sunar ve bölgenin coğrafi güzelliğini gözler önüne serer.
 
 ## Flora ve Fauna
 

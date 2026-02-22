@@ -41,7 +41,7 @@ Polatlı Belediyesi Tarihi Alanlar Tanıtım Merkezi Müzesi, Ankara'nın merkez
 
 ## Flora ve Fauna
 
-Polatlı Belediyesi Tarihi Alanlar Tanıtım Merkezi Müzesi'nin etrafı, çeşitli bitki türleri ve fauna ile çevrilidir. Bölgenin flora ve fauna özellikleri, ziyaretçilere doğal bir ortam sunar. Mevsimsel değişimler, müzenin etrafındaki manzarayı etkiler. İlkbahar ve yaz aylarında, alan yeşillenir ve ziyaretçilere güzel bir görünüm sunar. Kış aylarında, bölgenin soğu ve karlı olması, ziyaretçilere farklı bir deneyim sunar. Müzenin flora ve fauna özellikleri, ziyaretçilere doğayı keşfetme fırsatı sunar.
+Polatlı Belediyesi Tarihi Alanlar Tanıtım Merkezi Müzesi'nin etrafı, çeşitli bitki türleri ve fauna ile çevrilidir. Bölgenin flora ve fauna özellikleri, ziyaretçilere doğal bir ortam sunar. Mevsimsel değişimler, müzenin etrafındaki manzarayı etkiler. İlkbahar ve yaz aylarında, alan yeşillenir ve ziyaretçilere güzel bir görünüm sunar. Kış aylarında, bölgenin soğuk ve karlı olması, ziyaretçilere farklı bir deneyim sunar. Müzenin flora ve fauna özellikleri, ziyaretçilere doğayı keşfetme fırsatı sunar.
 
 ## Ziyaret Bilgileri
 

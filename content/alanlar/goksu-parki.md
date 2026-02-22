@@ -44,7 +44,7 @@ Etimesgut'un kalbinde yer alan Göksu Parkı, Ankara'nın doğal güzelliklerini
 
 Doğal güzelliği ile dikkat çeken Göksu Parkı, coğrafi olarak-flat bir arazide kurulmuştur. Parkın şekli, düzensiz bir biçimi andırıyor, bu da ziyaretçilere keşfetmeye açık bir alan sunuyor. Jeolojik olarak, parkın zemini, Ankara'nın genel jeolojisine benzer şekilde, kalker ve kumtaşı katmanlarından oluşuyor. Bu jeolojik yapı, parkın flora ve fauna çeşitliliğini etkiliyor ve zengin bir ekosistemin oluşmasına katkıda bulunuyor.
 
-İklim açısından, Göksu Parkı, Ankara'nın karasal ikliminin etkilerini taşır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kuru bir hava hakimdir. Bu mevsimsel değişiklikler, parkın bitki örtüsünü ve hayvan popülasyonunu etkiler. İlkbahar ve sonbahar ayları, parkın en güzel zamanlarıdır, çünkü bu dönemlerde hava daha serin ve bitki örtüsü daha yeşil ve canlıdır.
+İklim açısından, Göksu Parkı, Ankara'nın karasal ikliminin etkilerini taşır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kuru bir hava hakimdir. Bu mevsimsel değişiklikler, parkın bitki örtüsünü ve hayvan popülasyonunu etkiler. İlkbahar ve sonbahar ayları, parkın en güzel zamanlarıdır, çünkü bu dönemlerde hava daha serin ve bitki örtüsü daha yeşil ve canlıdır.
 
 Çevresel açıdan, Göksu Parkı, Etimesgut'un diğer yeşil alanları ile bağlantılı bir şekilde, kentin ekosistemini zenginleştiriyor. Parkın yakınında, Göksu Deresi gibi su kaynakları bulunuyor, bu da parkın fauna çeşitliliğini artırıyor. Ayrıca, parkın komşu alanları, Ankara'nın diğer önemli doğal güzelliği olan Ormanları ile bağlantılı, bu da kentin doğal kaynaklarını koruma altına almaya yardımcı oluyor.
 

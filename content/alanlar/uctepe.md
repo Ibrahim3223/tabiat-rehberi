@@ -45,7 +45,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi çeşitliliğiçinde yer alan Üçtepe
 
 Doğal bir anıt gibi görünen Üçtepe Dağı, coğrafi olarak bir tepe formasyonudur. Fiziksel yapısı hakkında detaylı bilgiler olmasa da, bu bölgenin genel coğrafyası, geniş ovalar ve dağlar arasında değişkenlik gösteren bir yapıdadır. Bu bölge, yaklaşık olarak Taksim Meydanı'nın 10 katı büyüklüğünde bir alanı kaplamaktadır. Bu genişlik, bölgenin doğal güzelliğini ve çeşitliliğini vurgulamaktadır.
 
-Mevsimsel özellikler açısından bakıldığında, Üçtepe Dağı ve çevresinin iklimi, güneydoğu Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, yazları sıca ve kurak, kışları ise soğu ve yağışlı geçmektedir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Eiffel Kulesi'nin 2 katı yükseklikte olan bu dağ, bölgenin coğrafi yapılarını ve iklimsel özelliklerini şekillendiren önemli bir faktördür.
+Mevsimsel özellikler açısından bakıldığında, Üçtepe Dağı ve çevresinin iklimi, güneydoğu Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı geçmektedir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Eiffel Kulesi'nin 2 katı yükseklikte olan bu dağ, bölgenin coğrafi yapılarını ve iklimsel özelliklerini şekillendiren önemli bir faktördür.
 
 Çevresel açıdan bakıldığında, Üçtepe Dağı, komşu ovalar ve dağlar ile bir ekosistem olarak bağlantılıdır. Bölge, Fırat Nehri'nin yakınında yer almaktadır ve bu su kaynağı, bölgenin flora ve fauna çeşitliliğini desteklemektedir. Monaco'nun yarısı kadar bir alanı kaplayan bu bölge, doğal güzellikleri ve coğrafi çeşitliliği ile dikkat çekmektedir. Bu özellikleri, Üçtepe Dağı'nı önemli bir ekoloji ve coğrafi oluşum olarak konumlandırmaktadır.
 

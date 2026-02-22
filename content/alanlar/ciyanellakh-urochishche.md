@@ -44,7 +44,7 @@ Doğunun gizli köşelerinde yer alan Çiyanellakh Urochishche, 37.5106°K ve 42
 
 Boyutları hakkında detaylı bilgi olmasa da, Çiyanellakh Urochishche'nin coğrafi konumu ve etraftaki diğer dağlar ile birlikte bir bütünü oluşturduğu düşünülürse, bir şehir bloğu büyüklüğünde bir alan kapladığı söylenebilir. Bu dağ, jeolojik olarak da ilgi çekici özellikler taşır, ancak detaylı fiziksel veri bulunmaması nedeniyle bu özellikler hakkında daha fazla bilgi verilememektedir.
 
-Mevsimsel olarak, bu bölgede hava durumu genellikle soğu ve karlıdır. Kış aylarında, sıcaklık değerleri -10°C'nin altına düşebilir ve kar yağışları görülür. Yaz aylarında ise, sıcaklık değerleri 15°C civarına ulaşabilir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve burada yaşayan canlılar bu koşullara adapte olmak zorunda kalırlar.
+Mevsimsel olarak, bu bölgede hava durumu genellikle soğuk ve karlıdır. Kış aylarında, sıcaklık değerleri -10°C'nin altına düşebilir ve kar yağışları görülür. Yaz aylarında ise, sıcaklık değerleri 15°C civarına ulaşabilir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve burada yaşayan canlılar bu koşullara adapte olmak zorunda kalırlar.
 
 Çiyanellakh Urochishche, etraftaki diğer coğrafi oluşumlar ile birlikte bir ekosistem oluşturur. Bu bölgede bulunan su kaynakları, komşu alanlar ile birlikte bir bütünü oluşturur ve bu su kaynakları, bölgenin flora ve fauna çeşitliliğini destekler. Örneğin, bir olimpik havuz kadar bir alanda toplanan yağmur suları, bölgenin su kaynaklarını destekler ve bu su kaynakları, bölgede yaşayan canlılar için hayati önem taşır.
 

@@ -30,7 +30,7 @@ Amasya-Vezirkopru-Kunduz Saricam milli parkının tarihi geçmişi, yüzyıllar 
 
 ## Coğrafya
 
-Amasya-Vezirkopru-Kunduz Saricam milli parkı, Karadeniz Bölgesi'nin coğrafi yapısı nedeniyle oldukça çeşitli bir ekosisteme sahiptir. Bu bölge, dağlar, ormanlar ve nehirler ile çevrilidir. Milli parkın iklimi, Karadeniz Bölgesi'nin tipik iklimi olarak kabul edilebilir. Bu bölgede, yaz aylarında sıca ve nemli, kış aylarında ise soğu ve yağışlı bir iklim hakimdir. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli aktivite olanakları sunar. Bu bölge, trekking, kampçılık ve doğa yürüyüşü gibi aktiviteler için ideal bir destinasyondur. Ayrıca, milli parkın içinde bulunan nehirler, balık avı ve rafting gibi su sporları için de elverişlidir. Bu nedenle, Amasya-Vezirkopru-Kunduz Saricam milli parkı, doğa severlerin ve macera tutkunlarının ziyaret edilmesi gereken bir yerdir.
+Amasya-Vezirkopru-Kunduz Saricam milli parkı, Karadeniz Bölgesi'nin coğrafi yapısı nedeniyle oldukça çeşitli bir ekosisteme sahiptir. Bu bölge, dağlar, ormanlar ve nehirler ile çevrilidir. Milli parkın iklimi, Karadeniz Bölgesi'nin tipik iklimi olarak kabul edilebilir. Bu bölgede, yaz aylarında sıcak ve nemli, kış aylarında ise soğuk ve yağışlı bir iklim hakimdir. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli aktivite olanakları sunar. Bu bölge, trekking, kampçılık ve doğa yürüyüşü gibi aktiviteler için ideal bir destinasyondur. Ayrıca, milli parkın içinde bulunan nehirler, balık avı ve rafting gibi su sporları için de elverişlidir. Bu nedenle, Amasya-Vezirkopru-Kunduz Saricam milli parkı, doğa severlerin ve macera tutkunlarının ziyaret edilmesi gereken bir yerdir.
 
 ## Flora ve Fauna
 

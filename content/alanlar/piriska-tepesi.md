@@ -36,7 +36,7 @@ Piriska Tepesi, yüzyıllar boyunca bölgede önemli bir yer olmuş. Tarihi geç
 
 ## Coğrafya
 
-Piriska Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alıyor. Bölgenin coğrafi yapısı, tepe ve vadilerden oluşuyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. İklim, genellikle sıca ve kuru. Bölgenin coğrafi özellikleri, ziyaretçilere geniş bir doğa görünümü sunuyor. Tepenin yüksekliği, yaklaşık 1000 metre. Bu yükseklik, ziyaretçilere geniş bir manzara sunuyor. Tepenin etrafındaki vadiler, çeşitli bitki türleri ve canlılarla dolu. Bölgenin coğrafi yapısı, ziyaretçilere doğanın güzelliğini gösteriyor.
+Piriska Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alıyor. Bölgenin coğrafi yapısı, tepe ve vadilerden oluşuyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. İklim, genellikle sıcak ve kuru. Bölgenin coğrafi özellikleri, ziyaretçilere geniş bir doğa görünümü sunuyor. Tepenin yüksekliği, yaklaşık 1000 metre. Bu yükseklik, ziyaretçilere geniş bir manzara sunuyor. Tepenin etrafındaki vadiler, çeşitli bitki türleri ve canlılarla dolu. Bölgenin coğrafi yapısı, ziyaretçilere doğanın güzelliğini gösteriyor.
 
 ## Flora ve Fauna
 

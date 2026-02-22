@@ -36,7 +36,7 @@ wikidata_id: "Q31386783"
 
 ## Coğrafya
 
-Şikeflik Tepe, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Tepenin yüksekliği, çevredeki diğer tepe ve dağların arasında ayrıcalıklı bir konumda olmasıyla dikkat çekiyor. Şikeflik Tepe'nin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu da, Şikeflik Tepe'nin sadece bir tepe değil, aynı zamanda bir doğal yaşam alanı olduğunu gösteriyor. Tepenin iklimi, bölgenin genel iklimine benzer. Şikeflik Tepe, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklimi experiencing. Tepenin etrafında, çeşitli su kaynakları bulunuyor. Bu su kaynakları, bölgede yaşayan insanların su ihtiyacını karşılamakta önemli bir rol oynuyor.
+Şikeflik Tepe, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Tepenin yüksekliği, çevredeki diğer tepe ve dağların arasında ayrıcalıklı bir konumda olmasıyla dikkat çekiyor. Şikeflik Tepe'nin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu da, Şikeflik Tepe'nin sadece bir tepe değil, aynı zamanda bir doğal yaşam alanı olduğunu gösteriyor. Tepenin iklimi, bölgenin genel iklimine benzer. Şikeflik Tepe, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklimi experiencing. Tepenin etrafında, çeşitli su kaynakları bulunuyor. Bu su kaynakları, bölgede yaşayan insanların su ihtiyacını karşılamakta önemli bir rol oynuyor.
 
 ## Flora ve Fauna
 

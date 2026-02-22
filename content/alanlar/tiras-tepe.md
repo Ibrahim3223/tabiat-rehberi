@@ -40,11 +40,11 @@ Tıraş Tepe, benzeri birçok doğal alan gibi, bölgedeki insanların yaşamın
 
 ## Coğrafya
 
-Güneydoğu'nun yeşilliklerle bezeli dağlık bölgesinde, 36.7831°K ve 36.3969°D koordinatlarında yer alan Tıraş Tepe, Hatay'ın doğal güzelliklerini keşfetmek isteyenler için bir cazibe merkezi. Bu dağ, Akdeniz'in sıca ve nemli havasından etkilenen bir coğrafyada bulunmakta. Yaklaşık olarak Antakya'nın 20 kilometre kuzeydoğusunda yer alan Tıraş Tepe, bölgenin en önemli doğal oluşumlarından biri.
+Güneydoğu'nun yeşilliklerle bezeli dağlık bölgesinde, 36.7831°K ve 36.3969°D koordinatlarında yer alan Tıraş Tepe, Hatay'ın doğal güzelliklerini keşfetmek isteyenler için bir cazibe merkezi. Bu dağ, Akdeniz'in sıcak ve nemli havasından etkilenen bir coğrafyada bulunmakta. Yaklaşık olarak Antakya'nın 20 kilometre kuzeydoğusunda yer alan Tıraş Tepe, bölgenin en önemli doğal oluşumlarından biri.
 
 Doğal güzelliği ve coğrafi konumuyla dikkat çeken Tıraş Tepe, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu küçük ama önemli alan, bölgenin jeolojik yapısını ve tarihi geçmişini anlamak için önemli bir nokta. Tıraş Tepe'nin çevresinde, çeşitli jeolojik oluşumlar ve tarihi kalıntılar bulunmakta. Ancak, fiziksel verilerin sınırlı olması nedeniyle, bu dağ hakkında dahalı bilgi elde etmek zor.
 
-Bölgenin iklim karakteri, Akdeniz ikliminin özellikleri göstermekte. Yaz aylarında sıca ve nemli, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürüyor. Tıraş Tepe, bu iklim koşullarına uyum sağlayan bitki örtüsü ve hayvan çeşitliliği ile dikkat çekiyor. Bu dağ, bölgenin ekolojik dengesini korumak için önemli bir role sahip.
+Bölgenin iklim karakteri, Akdeniz ikliminin özellikleri göstermekte. Yaz aylarında sıcak ve nemli, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürüyor. Tıraş Tepe, bu iklim koşullarına uyum sağlayan bitki örtüsü ve hayvan çeşitliliği ile dikkat çekiyor. Bu dağ, bölgenin ekolojik dengesini korumak için önemli bir role sahip.
 
 Tıraş Tepe, çevresindeki diğer doğal alanlarla bağlantılı bir ekosistem içinde yer alıyor. Yakınlarında bulunan su kaynakları, bu dağın bitki örtüsünü ve hayvan çeşitliliğini desteklemekte. Tıraş Tepe, bölgenin doğal güzelliklerini koruma ve gelecek nesiller için korumak amacıyla, önemli bir doğal alan olarak kabul ediliyor. Bu dağ, bölgenin turizm potansiyelini artırmak için de önemli bir cazibe merkezi.
 

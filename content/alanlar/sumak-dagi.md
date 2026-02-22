@@ -44,7 +44,7 @@ Mersin'in coğrafi güzelliği, Sumak Dağı gibi doğal alanlarla taçlandırı
 
 Doğal güzelliği ile dikkat çeken Sumak Dağı, coğrafi olarak oldukça çeşitli bir yapıya sahiptir. Ancak, fiziksel boyutları hakkında detaylı bilgi bulunmamasına rağmen, Mersin'in genel coğrafi yapısı düşünüldüğünde, bu dağ da bölgenin dağlık ve engebeli arazisini yansıtmaktadır. Tıpkı Monaco'nun küçük ama önemli coğrafi oluşumları gibi, Sumak Dağı da Mersin'in coğrafi zenginliğini temsil etmektedir.
 
-İklim açısından bakıldığında, Sumak Dağı ve çevresi, Akdeniz ikliminin karakteristik özelliklerini taşır. Mevsimsel olarak ılıman bir hava hüküm sürer ve yaz ayları sıca ve kurak, kış ayları ise ılık ve yağışlı geçer. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkiler ve Sumak Dağı, bu çeşitliliği koruma altına almak için önemli bir doğal alandır.
+İklim açısından bakıldığında, Sumak Dağı ve çevresi, Akdeniz ikliminin karakteristik özelliklerini taşır. Mevsimsel olarak ılıman bir hava hüküm sürer ve yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlı geçer. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkiler ve Sumak Dağı, bu çeşitliliği koruma altına almak için önemli bir doğal alandır.
 
 Çevresel açıdan bakıldığında, Sumak Dağı, Mersin'in diğer doğal alanları ile bağlantılıdır. Bölgedeki su kaynakları, flora ve fauna, bu dağ ile doğrudan ilişkili olup, ekosistemlerin dengesini korumak için önemlidir. Tıpkı İstanbul'un Adalar ilçesi gibi, Sumak Dağı da bölgenin doğal dengesini korumak için önemli bir rol oynamaktadır. Bu doğal güzellik, Mersin'in coğrafi zenginliğinin bir parçası olarak dikkat çekmektedir.
 

@@ -37,7 +37,7 @@ Esen Mahallesi Kaya Mezarı'nın tarihi geçmişi, Vezirköprü'nün tarihine ba
 
 ## Coğrafya
 
-Esen Mahallesi Kaya Mezarı, Karadeniz Bölgesi'nin Samsun iline bağlı Vezirköprü ilçesinde yer alır. Bu mezar, Vezirköprü'nün tarihi ve doğal güzelliğinin bir arada sunulduğu özel bir noktadır. 180 hektarlık bir alan, kaya mezarının bulunduğu bölgeyi kapsar ve ziyaretçilere geniş bir yeşil alan sunar. Bu bölgede, çeşitli bitki türleri ve zengin fauna dikkat çekmektedir. Kaya mezarının bulunduğu yer, deniz seviyesinden yaklaşık yüksek bir konumdate ve Karadeniz'in muhteşem manzarasına sahiptir. Vezirköprü'nün iklimi, Karadeniz ikliminin característicasını taşır ve bu nedenle, bölgede sık sık yağış görülür. Bu mezar, ziyaretçilere hem tarihin hem de doğanın güzelliğini bir arada sunan özel bir yerdir.
+Esen Mahallesi Kaya Mezarı, Karadeniz Bölgesi'nin Samsun iline bağlı Vezirköprü ilçesinde yer alır. Bu mezar, Vezirköprü'nün tarihi ve doğal güzelliğinin bir arada sunulduğu özel bir noktadır. 180 hektarlık bir alan, kaya mezarının bulunduğu bölgeyi kapsar ve ziyaretçilere geniş bir yeşil alan sunar. Bu bölgede, çeşitli bitki türleri ve zengin fauna dikkat çekmektedir. Kaya mezarının bulunduğu yer, yüksek bir konumda ve Karadeniz'in muhteşem manzarasına sahiptir. Vezirköprü'nün iklimi, Karadeniz ikliminin característicasını taşır ve bu nedenle, bölgede sık sık yağış görülür. Bu mezar, ziyaretçilere hem tarihin hem de doğanın güzelliğini bir arada sunan özel bir yerdir.
 
 ## Flora ve Fauna
 

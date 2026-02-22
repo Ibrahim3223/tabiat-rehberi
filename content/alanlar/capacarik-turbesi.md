@@ -37,11 +37,11 @@ Manisa'nın Yunusemre ilçesinde yer alan Çapaçarık Türbesi, tarihin sâu iz
 
 ## Coğrafya
 
-Çapaçarık Türbesi, Manisa'nın Yunusemre ilçesinde, Ege Bölgesi'nin güzergahında yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. Türbenin çevresinde, yeşilin çeşitli tonlarını görebileceğiniz ormanlık alanlar ve Ege'nin karakteristik manzaraları bulunuyor. İklim, tipik Akdeniz iklimi özellikleri taşıyor; yazlar sıca ve kurak, kışlar ılıman ve yağışlı geçiyor. Çapaçarık Türbesi, bu coğrafi koşulların bir sonucu olarak, ziyaretçilere hem tarihin derinliklerini hem de Ege'nin doğal güzelliklerini keşfetme fırsatı sunuyor.
+Çapaçarık Türbesi, Manisa'nın Yunusemre ilçesinde, Ege Bölgesi'nin güzergahında yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. Türbenin çevresinde, yeşilin çeşitli tonlarını görebileceğiniz ormanlık alanlar ve Ege'nin karakteristik manzaraları bulunuyor. İklim, tipik Akdeniz iklimi özellikleri taşıyor; yazlar sıcak ve kurak, kışlar ılıman ve yağışlı geçiyor. Çapaçarık Türbesi, bu coğrafi koşulların bir sonucu olarak, ziyaretçilere hem tarihin derinliklerini hem de Ege'nin doğal güzelliklerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
-Çapaçarık Türbesi ve çevresindeki doğal alan, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. Bu bölgede, çeşitli bitki türleri ve ağaçlar, özellikle zeytin ağacı, kestane ve çam ağaçları yaygındır. Fauna açısından da zengin bir çeşitlilik sunan bu bölge, farklı kuş türleri, memeliler ve böceklerin yaşam alanı olarak görev yapıyor. Mevsimsel değişimler, bu bölgenin doğasını güzelleştiriyor; ilkbahar ve sonbahar ayları, renkli bir manzara sunarken, yaz ayları sıca ve kurak, kış ayları ise ılıman ve yağışlı geçiyor.
+Çapaçarık Türbesi ve çevresindeki doğal alan, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. Bu bölgede, çeşitli bitki türleri ve ağaçlar, özellikle zeytin ağacı, kestane ve çam ağaçları yaygındır. Fauna açısından da zengin bir çeşitlilik sunan bu bölge, farklı kuş türleri, memeliler ve böceklerin yaşam alanı olarak görev yapıyor. Mevsimsel değişimler, bu bölgenin doğasını güzelleştiriyor; ilkbahar ve sonbahar ayları, renkli bir manzara sunarken, yaz ayları sıcak ve kurak, kış ayları ise ılıman ve yağışlı geçiyor.
 
 ## Ziyaret Bilgileri
 

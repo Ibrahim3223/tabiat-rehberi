@@ -37,7 +37,7 @@ Polat Dede Türbesi'nin tarihi geçmişi, birçok kişinin ilgisini çekmektedir
 
 ## Coğrafya
 
-Polat Dede Türbesi, Şahinbey/Gaziantep'te yer almaktadır. Türbenin konumu, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir hareket alanı sunmaktadır. Türbenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta olup, bu da ziyaretçilerin doğayı ve dinî hayatın birleşimini deneyimlemesine olanak sağlamaktadır. Bölgenin iklimi, genel olarak sıca ve kurudur. Yaz aylarında sıcaklık oldukça yüksek olabilirken, kış aylarında soğuk olabilir. Türbenin coğrafi konumu, birçok kişinin ilgisini çekmekte ve ziyaretçilere önemli bir deneyim sunmaktadır. Türbenin etrafındaki yerleşim yerleri ve tarihi yapılardan da anlaşılacağı gibi, bu bölge uzun yıllardır önemli bir dinî ve kültürel merkez olarak kabul edilmiştir.
+Polat Dede Türbesi, Şahinbey/Gaziantep'te yer almaktadır. Türbenin konumu, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir hareket alanı sunmaktadır. Türbenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta olup, bu da ziyaretçilerin doğayı ve dinî hayatın birleşimini deneyimlemesine olanak sağlamaktadır. Bölgenin iklimi, genel olarak sıcak ve kurudur. Yaz aylarında sıcaklık oldukça yüksek olabilirken, kış aylarında soğuk olabilir. Türbenin coğrafi konumu, birçok kişinin ilgisini çekmekte ve ziyaretçilere önemli bir deneyim sunmaktadır. Türbenin etrafındaki yerleşim yerleri ve tarihi yapılardan da anlaşılacağı gibi, bu bölge uzun yıllardır önemli bir dinî ve kültürel merkez olarak kabul edilmiştir.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Polat Dede Türbesi'ni ziyaret etmek, birçok kişinin ilgisini çekmekte ve ziy
 
 - Polat Dede Türbesi, yüzyıllar boyunca önemli bir dinî merkez olarak kabul edilmiştir.
 - Türbenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta olup, bu da ziyaretçilerin doğayı ve dinî hayatın birleşimini deneyimlemesine olanak sağlamaktadır.
-- Bölgenin iklimi, genel olarak sıca ve kurudur.
+- Bölgenin iklimi, genel olarak sıcak ve kurudur.
 - Türbenin tarihi geçmişi, birçok kişinin ilgisini çekmekte ve ziyaretçilere önemli bir deneyim sunmaktadır.
 - Türbenin etrafındaki yerleşim yerleri ve tarihi yapılardan da anlaşılacağı gibi, bu bölge uzun yıllardır önemli bir dinî ve kültürel merkez olarak kabul edilmiştir.

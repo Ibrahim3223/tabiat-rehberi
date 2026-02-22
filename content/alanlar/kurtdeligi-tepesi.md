@@ -28,7 +28,7 @@ wikidata_id: "Q31387490"
 
 # Kurtdeliği Tepesi
 
-Kurtdeliği Tepesi, Van'ın doğal güzellikleri arasında önemli bir yere sahiptir. Bu tepe, yaklaşık yüksek bir konumdate yer alır ve Van Gölü'nün manzarasını izlemek için ideal bir noktadır. 1400 metrelik bu yükseklik, yaklaşık 450 katlı bir binanın yüksekliğine eşittir. Bu tepe, trekking ve doğa yürüyüşü yapmak isteyenler için ideal bir destinasyondur. Ayrıca, tepe etrafında çeşitli bitki türleri ve zengin fauna bulunur.
+Kurtdeliği Tepesi, Van'ın doğal güzellikleri arasında önemli bir yere sahiptir. Bu tepe, yüksek bir konumda yer alır ve Van Gölü'nün manzarasını izlemek için ideal bir noktadır. 1400 metrelik bu yükseklik, yaklaşık 450 katlı bir binanın yüksekliğine eşittir. Bu tepe, trekking ve doğa yürüyüşü yapmak isteyenler için ideal bir destinasyondur. Ayrıca, tepe etrafında çeşitli bitki türleri ve zengin fauna bulunur.
 
 ## Tarihçe
 

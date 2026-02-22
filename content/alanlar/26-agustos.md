@@ -31,7 +31,7 @@ wikidata_id: "Q108228108"
 
 ## Coğrafya
 
-26 Agustos milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlak alanları ve ağaçlık bölgelerden oluşmaktadır. Parkın coğrafi yapısı, ziyaretçilerin doğa ile iç içe bir deneyim yaşamalarını sağlar. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik göstermekte olup, karasal bir iklime sahiptir. Kış ayları soğu ve kar yağışlı, yaz ayları ise sıcak ve kurudur. Bu iklim özelliği, milli parkın flora ve faunasını etkileyen önemli bir faktördür. Milli parkın coğrafi konumu, aynı zamanda flora ve faunasının çeşitliliğini de etkilemektedir. Parkın içinde ve çevresinde, çeşitli bitki türleri ve yaban hayatı bulunmakta olup, bu durum, milli parkın biyolojik çeşitliliğini artırmaktadır.
+26 Agustos milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlak alanları ve ağaçlık bölgelerden oluşmaktadır. Parkın coğrafi yapısı, ziyaretçilerin doğa ile iç içe bir deneyim yaşamalarını sağlar. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik göstermekte olup, karasal bir iklime sahiptir. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurudur. Bu iklim özelliği, milli parkın flora ve faunasını etkileyen önemli bir faktördür. Milli parkın coğrafi konumu, aynı zamanda flora ve faunasının çeşitliliğini de etkilemektedir. Parkın içinde ve çevresinde, çeşitli bitki türleri ve yaban hayatı bulunmakta olup, bu durum, milli parkın biyolojik çeşitliliğini artırmaktadır.
 
 ## Flora ve Fauna
 

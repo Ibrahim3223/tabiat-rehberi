@@ -30,7 +30,7 @@ Sarıyer Sit Alanı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Sarıyer Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu bölge, geniş otlaklar, ormanlık alanlar ve dağlık bölgelerden oluşuyor. Sarıyer Sit Alanı, yaklaşık 140 hektarlık alanı ile bir doğa cenneti olarak kabul ediliyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini büyülüyor. İklim olarak, Sarıyer Sit Alanı, İç Anadolu Bölgesi'nin karakteristik iklimini yansıtıyor. Yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlı geçiyor. Bu iklim koşulları, Sarıyer Sit Alanı'nın flora ve faunasını şekillendirmiş ve bu alanın doğal güzelliğini daha da artırmıştır. Ayrıca, Sarıyer Sit Alanı, çevresindeki dağlık bölgeler ve otlaklar ile birlikte bir bütün olarak ele alındığında, ziyaretçilerine geniş ve çeşitli bir coğrafi alan sunuyor.
+Sarıyer Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu bölge, geniş otlaklar, ormanlık alanlar ve dağlık bölgelerden oluşuyor. Sarıyer Sit Alanı, yaklaşık 140 hektarlık alanı ile bir doğa cenneti olarak kabul ediliyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini büyülüyor. İklim olarak, Sarıyer Sit Alanı, İç Anadolu Bölgesi'nin karakteristik iklimini yansıtıyor. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçiyor. Bu iklim koşulları, Sarıyer Sit Alanı'nın flora ve faunasını şekillendirmiş ve bu alanın doğal güzelliğini daha da artırmıştır. Ayrıca, Sarıyer Sit Alanı, çevresindeki dağlık bölgeler ve otlaklar ile birlikte bir bütün olarak ele alındığında, ziyaretçilerine geniş ve çeşitli bir coğrafi alan sunuyor.
 
 ## Flora ve Fauna
 

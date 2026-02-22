@@ -31,7 +31,7 @@ Yedigoller'in tarihi geçmişi, bölgenin jeolojik oluşumuna dayanmaktadır. Bu
 
 ## Coğrafya
 
-Yedigoller, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, bir yüksekli ve vadi sistemi içindedir. Bölge, 140 hektarlık bir alana yayılmış ve göller, ormanlar ve çayırlardan oluşmaktadır. İklim, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Yaz ayları sıca ve kurak iken, kış ayları soğu ve kar yağışlı geçmektedir. Bahar ve sonbahar mevsimlerinde ise ılıman bir hava hakimdir. Yedigoller'in coğrafi konumu, burada çeşitli bitki türlerinin ve zengin fauna çeşitliliğinin oluşmasına olanak sağlamıştır. Bölge, aynı zamanda farklı jeolojik yapılar ve toprak türleri ile de dikkat çekmektedir. Yedigoller'in coğrafyası, ziyaretçilere hem doğal güzellikler hem de bilimsel açıdan ilgi çekici bir ortam sunmaktadır.
+Yedigoller, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, bir yüksekli ve vadi sistemi içindedir. Bölge, 140 hektarlık bir alana yayılmış ve göller, ormanlar ve çayırlardan oluşmaktadır. İklim, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Yaz ayları sıcak ve kurak iken, kış ayları soğuk ve kar yağışlı geçmektedir. Bahar ve sonbahar mevsimlerinde ise ılıman bir hava hakimdir. Yedigoller'in coğrafi konumu, burada çeşitli bitki türlerinin ve zengin fauna çeşitliliğinin oluşmasına olanak sağlamıştır. Bölge, aynı zamanda farklı jeolojik yapılar ve toprak türleri ile de dikkat çekmektedir. Yedigoller'in coğrafyası, ziyaretçilere hem doğal güzellikler hem de bilimsel açıdan ilgi çekici bir ortam sunmaktadır.
 
 ## Flora ve Fauna
 

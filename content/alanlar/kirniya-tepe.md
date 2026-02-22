@@ -44,7 +44,7 @@ Diyarbakır'ın coğrafi zenginliklerini keşfederken, Kırniya Tepe'nin bulundu
 
 Jeolojik açıdan incelendiğinde, Kırniya Tepe'nin precisa fiziksel özellikleri hakkında detaylı bilgi bulunmuyor. Ancak, bu dağların bulunduğu bölgenin coğrafi yapısı, genellikle yükse ve engebeli arazilerden oluşmaktadır. Tıpkı Eiffel Kulesi'nin birkaç katı yükseklikte olan bu dağlar, bölgenin jeolojik yapısını şekillendirmiş ve bir dizi farklı formasyona yol açmıştır.
 
-Mevsimsel olarak, Kırniya Tepe'nin bulunduğu bölge, Diyarbakır'ın genel iklim karakterini yansıtmaktadır. Yaz aylarında sıcaklık ve kuraklık hakim olurken, kış aylarında soğu ve yağışlı bir hava durumu göze çarpmaktadır. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler arasında yer almaktadır.
+Mevsimsel olarak, Kırniya Tepe'nin bulunduğu bölge, Diyarbakır'ın genel iklim karakterini yansıtmaktadır. Yaz aylarında sıcaklık ve kuraklık hakim olurken, kış aylarında soğuk ve yağışlı bir hava durumu göze çarpmaktadır. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler arasında yer almaktadır.
 
 Doğal kaynaklar açısından, Kırniya Tepe'nin bulunduğu bölge, Diyarbakır'ın su kaynaklarına yakınlığıyla dikkat çekmektedir. Yaklaşık olarak Taksim Meydanı'nın birkaç katı büyüklüğünde bir alana yayılmış olan bu dağlar, bölgenin ekosistem bağlantılarını şekillendirmiş ve bir dizi farklı habitata ev sahipliği yapmaktadır. Bu habitatlar, bölgenin biyolojik çeşitliliğini zenginleştiren önemli unsurlar arasında yer almaktadır.
 

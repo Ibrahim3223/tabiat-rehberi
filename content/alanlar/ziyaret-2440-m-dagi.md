@@ -42,7 +42,7 @@ Doğu Anadolu Bölgesi'nin kuzeyinde yer alan Ziyaret Dağı, 40.4329°K, 43.375
 
 Jeolojik açıdan bakıldığında, Ziyaret Dağı'nın yüksekliği 2440 metre olarak belirtilmektedir. Bu yükseklik, Eiffel Kulesi'nin yaklaşık 5 katı yükseklikte olup, bölgenin en yüksek noktalarından biridir. Dağın fiziksel yapısı, bölgenin jeolojik özelliklerini yansıtmaktadır. Ancak, detaylı fiziksel veri bulunmaması nedeniyle, dağın boyutları ve şekli hakkında net bilgi verilememektedir.
 
-İklim açısından Ziyaret Dağı, Doğu Anadolu Bölgesi'nin genel iklim karakterine sahiptir. Bölge, karasal iklimin etkisinde olup, yaz aylarında sıca ve kurak, kış aylarında soğu ve karlı bir hava durumu hakimdir. Bu mevsimsel özellikler, dağın ekosistemini şekillendirmekte ve bölgede yaşayan canlılara etmektedir.
+İklim açısından Ziyaret Dağı, Doğu Anadolu Bölgesi'nin genel iklim karakterine sahiptir. Bölge, karasal iklimin etkisinde olup, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı bir hava durumu hakimdir. Bu mevsimsel özellikler, dağın ekosistemini şekillendirmekte ve bölgede yaşayan canlılara etmektedir.
 
 Çevresel açıdan bakıldığında, Ziyaret Dağı, Kars ilinin diğer coğrafi oluşumları ile bağlantılıdır. Dağın eteklerinde yer alan su kaynakları, bölgenin ekosistemini desteklemektedir. Ayrıca, dağın komşu alanları ile olan ilişkisi, bölgenin coğrafi yapısını kompleks hale getirmektedir. Monaco'nun yaklaşık yarısı kadar bir alanı kaplayan Ziyaret Dağı, bölgenin önemli bir coğrafi unsuru olarak dikkat çekmektedir.
 

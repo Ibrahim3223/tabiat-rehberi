@@ -37,7 +37,7 @@ Ankara Frig Tümülüsü 1, Yücetepe'nin tarihi geçmişi, yüzyıllar boyunca 
 
 ## Coğrafya
 
-Ankara Frig Tümülüsü 1, Yücetepe, coğrafi olarak, İç Anadolu Bölgesi'nin merkezi bir bölgesinde yer almaktadır. Bu bölge, Ankara'nın en yüksek noktalarından biridir ve buradan şehrin panoramik manzarasını izleme mümkündür. Yücetepe, 140 hektarlık bir yeşil alan olup, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsamaktadır. Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. İklim olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşımaktadır. Yaz ayları sıca ve kuru, kış ayları soğu ve karlı geçmektedir. Bu bölgede, doğal güzelliklerin yanı sıra, tarihi eserler de bulunmaktadır. Tümülüs, Frig uygarlığından kalan bir eser olarak düşünülmektedir ve burası, Ankara'nın en önemli tarihi ve doğal güzelliklerinden biridir.
+Ankara Frig Tümülüsü 1, Yücetepe, coğrafi olarak, İç Anadolu Bölgesi'nin merkezi bir bölgesinde yer almaktadır. Bu bölge, Ankara'nın en yüksek noktalarından biridir ve buradan şehrin panoramik manzarasını izleme mümkündür. Yücetepe, 140 hektarlık bir yeşil alan olup, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsamaktadır. Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. İklim olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşımaktadır. Yaz ayları sıcak ve kuru, kış ayları soğuk ve karlı geçmektedir. Bu bölgede, doğal güzelliklerin yanı sıra, tarihi eserler de bulunmaktadır. Tümülüs, Frig uygarlığından kalan bir eser olarak düşünülmektedir ve burası, Ankara'nın en önemli tarihi ve doğal güzelliklerinden biridir.
 
 ## Flora ve Fauna
 

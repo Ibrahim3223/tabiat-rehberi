@@ -54,7 +54,7 @@ Sertmeşe Dağı, Erzurum'un yüksek dağ ekolojisine ev sahipliği yapan bir ce
 
 Bitki Örtüsü olarak, ilkbaharda çiçeklerle kaplanan alpin çayırların güzelliği dikkat çekiyor. Dağın yükseklik zonlarına bağlı olarak, flora çeşitliliği değişiyor. Alpin flora, dağların yüksek kesimlerinde hakim oluyor. 
 
-Yaban Hayatı olarak, dağ keçileri, yaban keçileri ve dağ tavşanları gibi memeliler, dağların kaya dik yamaçlarında yaşamlarını sürdürüyor. Kuşlar ise, göç mevsimlerinde bu dağları önemli bir uğrak noktası olarak kullanıyor. Sürüngenler de, dağların sıca ve kuru bölgelerinde yaşamlarını sürdürüyor.
+Yaban Hayatı olarak, dağ keçileri, yaban keçileri ve dağ tavşanları gibi memeliler, dağların kaya dik yamaçlarında yaşamlarını sürdürüyor. Kuşlar ise, göç mevsimlerinde bu dağları önemli bir uğrak noktası olarak kullanıyor. Sürüngenler de, dağların sıcak ve kuru bölgelerinde yaşamlarını sürdürüyor.
 
 Ekolojik Değer olarak, Sertmeşe Dağı'nın korunması büyük önem taşıyor. Bu alan, endemik türlerin yaşam alanlarını koruyor ve yüksek dağ ekosisteminin devamını sağlıyor.
 

@@ -36,7 +36,7 @@ Beşpınar Tepe'nin tarihi geçmişi, yüzyıllar boyunca bölgenin önemli yerl
 
 ## Coğrafya
 
-Beşpınar Tepe, Bursa'nın merkezi bir konumda yer alıyor ve Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. Tepe, 140 hektarlık geniş bir alana yayılmış ve bölgenin en önemli ekosistemlerinden biri olarak kabul ediliyor. Coğrafi olarak tepe, çevre dağlarla çevrili ve bu da tepeye benzersiz bir güzellik katıyor. İklim olarak bölge, karasal iklimin özellikleri gösteriyor ve dört mevsim belirgin olarak yaşanıyor. Bahar aylarında yeşeren flora, yaz aylarında sıca ve kurak bir hava, sonbahar aylarında renk değiştiren yapraklar ve kış aylarında karla kaplı olan tepe, her mevsim ziyaretçilerini farklı güzelliklerle karşılayabiliyor. Çevre, zengin flora ve fauna çeşitliliği ile birlikte önemli bir doğal güzellik olarak kabul ediliyor.
+Beşpınar Tepe, Bursa'nın merkezi bir konumda yer alıyor ve Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. Tepe, 140 hektarlık geniş bir alana yayılmış ve bölgenin en önemli ekosistemlerinden biri olarak kabul ediliyor. Coğrafi olarak tepe, çevre dağlarla çevrili ve bu da tepeye benzersiz bir güzellik katıyor. İklim olarak bölge, karasal iklimin özellikleri gösteriyor ve dört mevsim belirgin olarak yaşanıyor. Bahar aylarında yeşeren flora, yaz aylarında sıcak ve kurak bir hava, sonbahar aylarında renk değiştiren yapraklar ve kış aylarında karla kaplı olan tepe, her mevsim ziyaretçilerini farklı güzelliklerle karşılayabiliyor. Çevre, zengin flora ve fauna çeşitliliği ile birlikte önemli bir doğal güzellik olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

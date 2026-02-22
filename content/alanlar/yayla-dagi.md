@@ -45,7 +45,7 @@ Türkiye'de doğal alanlar, tarih boyunca insanların yaşamlarında önemli bir
 
 Doğal güzelliği ve coğrafi yapısı ile dikkat çeken Yayla Dağı, bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Jeolojik açıdan incelendiğinde, dağların oluşumunda volkani ve sedimentatif kayaçların rol oynadığı görülüyor. Ancak, daha detaylı fiziksel verilerin yokluğu, bu dağ hakkında daha kapsamlı bir analiz yapılmasını engelleyen bir faktör olarak karşımıza çıkıyor.
 
-Yayla Dağı'nın iklimi, İç Anadolu Bölgesi'nin genel iklim karakterini yansıtıyor. Kışlar soğu ve kar yağışlı, yazlar ise sıca ve kurak geçiyor. Bu mevsimsel farklılıklar, dağın flora ve fauna çeşitliliğini etkiliyor. Eğirdir Gölü'nün yakın olması, bölgenin mikro iklimini de etkiliyor.
+Yayla Dağı'nın iklimi, İç Anadolu Bölgesi'nin genel iklim karakterini yansıtıyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu mevsimsel farklılıklar, dağın flora ve fauna çeşitliliğini etkiliyor. Eğirdir Gölü'nün yakın olması, bölgenin mikro iklimini de etkiliyor.
 
 Çevresel açıdan bakıldığında, Yayla Dağı, Eğirdir Gölü ve çevresindeki diğer dağlarla birlikte bir ekosistem oluşturuyor. Bu ekosistem, çeşitli bitki ve hayvan türleri için yaşam alanı sunuyor. Ayrıca, Yayla Dağı, Isparta ilinin su kaynaklarının korunması açısından da önemli bir rol oynuyor. Dağın eteklerinde ve yakınında yer alan yerleşim yerleri, bu dağın çevresel ve ekonomik önemini vurguluyor.
 

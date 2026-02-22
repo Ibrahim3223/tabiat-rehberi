@@ -41,7 +41,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi zenginliklerinden biri olan Koyun Tepe
 
 Jeolojik açıdan bakıldığında, Koyun Tepe'nin fiziksel yapısı hakkında detaylı bilgi olmasa da, koordinatlarından anlaşıldığı gibi, dağlık bir bölgede yer alıyor. Bu bölge, geniş bir alanı kaplıyor, ancak büyüklüğü hakkında kesin bir veri bulunmuyor. Eğer bir karşılaştırma yapmak gerekirse, Koyun Tepe'nin büyüklüğü, bir şehir bloğu büyüklüğünden daha büyük olabilir, ancak tam olarak ne kadar büyük olduğu bilinmiyor.
 
-İklim açısından, Koyun Tepe'nin bulunduğu Güneydoğu Anadolu Bölgesi, genellikle yazları sıca ve kurak, kışları ise soğu ve yağışlı bir iklime sahip. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Koyun Tepe'nin específik iklim özellikleri hakkında daha fazla bilgi bulunmuyor, ancak bölgenin genel iklim karakteri, bu dağlık alanın doğal güzelliklerini etkileyen önemli bir faktör.
+İklim açısından, Koyun Tepe'nin bulunduğu Güneydoğu Anadolu Bölgesi, genellikle yazları sıcak ve kurak, kışları ise soğuk ve yağışlı bir iklime sahip. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Koyun Tepe'nin específik iklim özellikleri hakkında daha fazla bilgi bulunmuyor, ancak bölgenin genel iklim karakteri, bu dağlık alanın doğal güzelliklerini etkileyen önemli bir faktör.
 
 Çevresel açıdan, Koyun Tepe, bölgenin diğer dağlık alanlarına ve su kaynaklarına yakınlık gösteriyor. Bu dağ, bölgenin ekosistemini oluşturan önemli bir parça ve doğal güzelliklerin korunması için önemli bir nokta. Koyun Tepe'nin çevresindeki su kaynakları ve diğer doğa alanları ile bağlantıları, bölgenin biyolojik çeşitliliğini destekleyen önemli faktörler arasında yer alıyor.
 

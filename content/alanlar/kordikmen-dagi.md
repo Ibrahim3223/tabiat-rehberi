@@ -44,7 +44,7 @@ Isparta'nın güzide dağlarından biri olan Kördikmen Dağı, 37.4833°K ve 31
 
 Doğal bir cennet olan bu dağ, çevresindeki diğer coğrafi oluşumlarla birlikte, Isparta'nın coğrafi çeşitliliğini gösteriyor. Kördikmen Dağı, yaklaşık olarak Taksim Meydanı'nın 10 katı büyüklüğünde bir alanı kaplıyor. Bu ölçek, dağın genişliğini ve büyüklüğünü hayalimizde canlandırabilmemiz için önemli bir referans noktası oluşturuyor.
 
-Kördikmen Dağı, Isparta'nın Akdeniz ikliminin etkilerini taşıyor. Bu bölgede, yaz aylarında sıca ve kuru, kış aylarında ise ılık ve yağmurlu bir hava hüküm sürüyor. Bu mevsimsel değişimler, dağın flora ve fauna açısından zengin bir ekosisteme sahip olmasını sağlıyor. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte, yani yaklaşık 300 metre civarında.
+Kördikmen Dağı, Isparta'nın Akdeniz ikliminin etkilerini taşıyor. Bu bölgede, yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağmurlu bir hava hüküm sürüyor. Bu mevsimsel değişimler, dağın flora ve fauna açısından zengin bir ekosisteme sahip olmasını sağlıyor. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte, yani yaklaşık 300 metre civarında.
 
 Kördikmen Dağı, çevreye duyarlı bir şekilde, Isparta'nın diğer doğal güzellikleriyle bağlantılı olarak düşünülmesi gereken bir coğrafi oluşum. Bu dağ, çevresindeki su kaynakları, ormanlar ve diğer doğal alanlarla birlikte, Isparta'nın çevresel dengesini korumak açısından önemli bir rol oynuyor. Bu nedenle, Kördikmen Dağı, Isparta'nın doğal mirasının korunması ve gelecek nesiller için saklanması gereken bir değer olarak görülüyor.
 

@@ -44,7 +44,7 @@ Doğunun gizli cennetlerinden biri olan Köse Dağı, Çorum'un kalbinde yer al�
 
 Jeolojik olarak incelendiğinde, Köse Dağı'nın coğrafyası oldukça çeşitli. Dağın yapısı, farklı jeolojik dönemlerden kalan kayaların birleşmesiyle oluşmuş. Ancak, detaylı fiziksel verilerin olmaması, dağın tam olarak boyutlarını ve şeklini belirlememizi zorlaştırıyor. Buna rağmen, Köse Dağı'nın bulunduğu bölge, Türkiye'nin en önemli jeolojik oluşumlarının bazılarına ev sahipliği yapıyor.
 
-İklim açısından bakıldığında, Köse Dağı'nın bulunduğu bölge, karasal iklimin etkilerini taşıyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürüyor. Bu mevsimsel değişimler, dağın doğal yaşamını ve bitki örtüsünü şekillendiriyor. Köse Dağı, çevresindeki diğer dağlarla birlikte, bölgenin iklimini etkileyen wichtig bir faktör.
+İklim açısından bakıldığında, Köse Dağı'nın bulunduğu bölge, karasal iklimin etkilerini taşıyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürüyor. Bu mevsimsel değişimler, dağın doğal yaşamını ve bitki örtüsünü şekillendiriyor. Köse Dağı, çevresindeki diğer dağlarla birlikte, bölgenin iklimini etkileyen wichtig bir faktör.
 
 Çevresel açıdan, Köse Dağı, bölgenin ekosistemini destekleyen önemli bir unsurdur. Dağın eteklerinde bulunan su kaynakları, yöre halkının yaşamsal ihtiyacını karşılamanın yanı sıra, bölgenin flora ve fauna çeşitliliğini de destekliyor. Ayrıca, Köse Dağı, komşu alanlarla birlikte, geniş bir doğal yaşam alanı oluşturuyor ve bu sayede, bölgenin biyolojik çeşitliliğini koruyor.
 

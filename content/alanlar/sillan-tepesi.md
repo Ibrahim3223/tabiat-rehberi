@@ -36,7 +36,7 @@ wikidata_id: "Q31385453"
 
 ## Coğrafya
 
-Şillan Tepesi, Doğu Anadolu Bölgesi'nde bulunan Malatya ilinin bir parçasıdır. Bu tepe, çevresi ile birlikte bir bütün oluşturuyor. Tepenin yüksekliği ve genişliği, ziyaretçilerine panoramik bir manzara sunuyor. Tepenin eteklerinde ve etrafında çeşitli bitki türleri ve zengin fauna bulunuyor. İklim olarak, Şillan Tepesi ve çevresi, Doğu Anadolu Bölgesi'nin karakteristik iklimine sahiptir. Yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlı geçer. Bu mevsimsel değişimler, tepenin ve çevresinin doğal güzelliklerini farklı şekillerde sunar.
+Şillan Tepesi, Doğu Anadolu Bölgesi'nde bulunan Malatya ilinin bir parçasıdır. Bu tepe, çevresi ile birlikte bir bütün oluşturuyor. Tepenin yüksekliği ve genişliği, ziyaretçilerine panoramik bir manzara sunuyor. Tepenin eteklerinde ve etrafında çeşitli bitki türleri ve zengin fauna bulunuyor. İklim olarak, Şillan Tepesi ve çevresi, Doğu Anadolu Bölgesi'nin karakteristik iklimine sahiptir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçer. Bu mevsimsel değişimler, tepenin ve çevresinin doğal güzelliklerini farklı şekillerde sunar.
 
 ## Flora ve Fauna
 

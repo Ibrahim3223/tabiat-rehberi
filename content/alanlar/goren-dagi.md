@@ -42,7 +42,7 @@ Doğu Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için G�
 
 Jeolojik açıdan bakıldığında, Gözün Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, doğu-batı yönünde uzanan bir dağ sırtı olarak düşünülebilir. Bu dağ, yaklaşık 1200 metre yükseklikte yer alan bir tepe ile birlikte, bölgenin topoğrafyasını şekillendiren önemli bir unsur olarak görülebilir. Yüksekliği, Eiffel Kulesi'nin yaklaşık 1/4'ü kadardır.
 
-İklim açısından, Gözün Dağı'nın bulunduğu bölge, karasal iklimin etkilerini gösterir. Kış ayları soğu ve kar yağışlı, yaz ayları ise sıca ve kurudur. Bu mevsimsel değişimler, bölgenin flora ve fauna'sını etkileyerek, Gözün Dağı'nın çevresinde çeşitli bitki türlerinin yetişmesini sağlar.
+İklim açısından, Gözün Dağı'nın bulunduğu bölge, karasal iklimin etkilerini gösterir. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurudur. Bu mevsimsel değişimler, bölgenin flora ve fauna'sını etkileyerek, Gözün Dağı'nın çevresinde çeşitli bitki türlerinin yetişmesini sağlar.
 
 Çevresel açıdan, Gözün Dağı, Van Gölü'nün kuzeybatısında yer alan bir dağ olarak, bölge ekosistemini etkileyen önemli bir unsur olarak görülebilir. Dağın eteklerinde, çeşitli bitki türleri ve hayvanlar bulunur. Ayrıca, bölgede yer alan diğer dağlar ve tepelerle birlikte, Gözün Dağı, bölgenin coğrafi yapısını şekillendiren bir parça olarak düşünülebilir.
 

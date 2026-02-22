@@ -42,7 +42,7 @@ Doğudaki dağ silsilesinin bir parçası olan Büyük Dağ, 40.8560°K ve 41.62
 
 Jeolojik açıdan bakıldığında, Büyük Dağ'ın fiziksel yapısı hakkında detaylı bilgi olmasa da, bölgenin genel yapısı hakkında fikir verebiliriz. Karadeniz Bölgesi, genellikle dağlık ve engebeli bir coğrafyaya sahip. Büyük Dağ da bu coğrafyanın bir parçası olarak, Monaco'nun küçük bir bölümü kadar bir alanı kaplıyor. Şekil ve boyutları hakkında net bir bilgi olmasa da, bölgenin genel jeolojik yapısı dikkate alındığında, önemli bir yükseklikte olduğu söylenebilir.
 
-Mevsimsel açıdan bakıldığında, Büyük Dağ'ın iklim karakteri Karadeniz Bölgesi'nin genel iklimine benzer. Bölge, genellikle yağışlı ve nemli bir havaya sahip. Yaz aylarında sıcaklık artarken, kış aylarında soğu ve kar yağışlı bir hava hakim. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu dağ, bölgenin iklimini şekillendiren önemli bir faktör.
+Mevsimsel açıdan bakıldığında, Büyük Dağ'ın iklim karakteri Karadeniz Bölgesi'nin genel iklimine benzer. Bölge, genellikle yağışlı ve nemli bir havaya sahip. Yaz aylarında sıcaklık artarken, kış aylarında soğuk ve kar yağışlı bir hava hakim. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu dağ, bölgenin iklimini şekillendiren önemli bir faktör.
 
 Çevresel açıdan bakıldığında, Büyük Dağ'ın komşu alanlar ve su kaynakları ile önemli bir bağlantısı var. Bölge, Karadeniz Bölgesi'nin önemli su kaynaklarından biri olan Çoruh Nehri'nin yakınlarında yer alıyor. Ayrıca, çevredeki tepeler ve vadiler ile birlikte, bir ekosistem olarak işlev görüyor. Bu ekosistem, bölgenin flora ve fauna çeşitliliğini destekleyen önemli bir parça.
 

@@ -36,7 +36,7 @@ Kelacugli Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu tep
 
 ## Coğrafya
 
-Kelacugli Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiş. Bu tepe,Batman ilinin kuzeybatı kısmında yer alıyor. Kelacugli Tepesi'nin çevresi, genellikle dağlık ve engebeli bir arazi ile oluşuyor. Bu tepe, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor. Kelacugli Tepesi'nin iklimi, genellikle karasal ve step iklimi ile oluşuyor. Bu tepe, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklimi deneyimliyor. Kelacugli Tepesi'nin etrafında, çeşitli nehirler ve akarsular bulunuyor. Bu nehirler ve akarsular, Kelacugli Tepesi'nin doğal güzelliklerini daha da zenginleştiriyor.
+Kelacugli Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiş. Bu tepe,Batman ilinin kuzeybatı kısmında yer alıyor. Kelacugli Tepesi'nin çevresi, genellikle dağlık ve engebeli bir arazi ile oluşuyor. Bu tepe, yüksek bir konumda yer alıyor. Kelacugli Tepesi'nin iklimi, genellikle karasal ve step iklimi ile oluşuyor. Bu tepe, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklimi deneyimliyor. Kelacugli Tepesi'nin etrafında, çeşitli nehirler ve akarsular bulunuyor. Bu nehirler ve akarsular, Kelacugli Tepesi'nin doğal güzelliklerini daha da zenginleştiriyor.
 
 ## Flora ve Fauna
 

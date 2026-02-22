@@ -36,7 +36,7 @@ Hanyeri Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetleri
 
 ## Coğrafya
 
-Hanyeri Tepesi, Adana ilinin sınırları içerisinde yer alan bir tepedir. Bu tepe, Akdeniz Bölgesi'nin coğrafi özelliklerine sahiptir. Hanyeri Tepesi'nin coğrafi yapısı, genellikle dağlık ve engebeli bir araziye sahiptir. Bu tepe, çevresindeki diğer tepe ve dağlarla birlikte bir bütün olarak doğal güzelliğini gösterir. Hanyeri Tepesi'nin iklimi, genellikle Akdeniz ikliminin özelliklerini taşır. Bu bölgede, yaz ayları sıca ve kurak, kış ayları ise ılık ve yağışlı geçer. Hanyeri Tepesi'nin coğrafi konumu, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölge, mevsimsel değişimlere göre değişen bir doğa manzarası ile karşılaşma mümkündür. Hanyeri Tepesi'nin coğrafi yapısı, aynı zamanda çeşitli su kaynaklarına sahiptir. Bu su kaynakları, bölgenin ekolojik dengesini korumada önemli bir rol oynar.
+Hanyeri Tepesi, Adana ilinin sınırları içerisinde yer alan bir tepedir. Bu tepe, Akdeniz Bölgesi'nin coğrafi özelliklerine sahiptir. Hanyeri Tepesi'nin coğrafi yapısı, genellikle dağlık ve engebeli bir araziye sahiptir. Bu tepe, çevresindeki diğer tepe ve dağlarla birlikte bir bütün olarak doğal güzelliğini gösterir. Hanyeri Tepesi'nin iklimi, genellikle Akdeniz ikliminin özelliklerini taşır. Bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlı geçer. Hanyeri Tepesi'nin coğrafi konumu, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölge, mevsimsel değişimlere göre değişen bir doğa manzarası ile karşılaşma mümkündür. Hanyeri Tepesi'nin coğrafi yapısı, aynı zamanda çeşitli su kaynaklarına sahiptir. Bu su kaynakları, bölgenin ekolojik dengesini korumada önemli bir rol oynar.
 
 ## Flora ve Fauna
 

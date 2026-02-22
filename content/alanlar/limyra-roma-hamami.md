@@ -37,7 +37,7 @@ Limyra Roma Hamamı, tarihi geçmişi ile dikkat çeken bir alandır. Bu alan, R
 
 ## Coğrafya
 
-Limyra Roma Hamamı, Finike/Antalya'da yer alan bir alandır ve Akdeniz Bölgesi'nin önemli coğrafi özelliklerini taşır. Bu alan, deniz seviyesinden yaklaşık yüksek bir konumdate yer almaktadır ve etrafı dağlar ve ormanlık alanlarla çevrilidir. Limyra Roma Hamamı,  bir nehrin kıyısında yer almaktadır ve bu nehir, alanın doğal güzelliklerini daha da artırmaktadır. Bu alanın iklimi, Akdeniz iklimi olarak bilinir ve yazları sıca ve kurak, kışları ılıman ve yağışlı geçer. Bu iklim, alanın flora ve faunasını da etkilemektedir. Limyra Roma Hamamı, ayrıca çeşitli bitki türleri ve hayvanlar ile zengin bir ekosisteme sahiptir.
+Limyra Roma Hamamı, Finike/Antalya'da yer alan bir alandır ve Akdeniz Bölgesi'nin önemli coğrafi özelliklerini taşır. Bu alan, yüksek bir konumda yer almaktadır ve etrafı dağlar ve ormanlık alanlarla çevrilidir. Limyra Roma Hamamı,  bir nehrin kıyısında yer almaktadır ve bu nehir, alanın doğal güzelliklerini daha da artırmaktadır. Bu alanın iklimi, Akdeniz iklimi olarak bilinir ve yazları sıcak ve kurak, kışları ılıman ve yağışlı geçer. Bu iklim, alanın flora ve faunasını da etkilemektedir. Limyra Roma Hamamı, ayrıca çeşitli bitki türleri ve hayvanlar ile zengin bir ekosisteme sahiptir.
 
 ## Flora ve Fauna
 

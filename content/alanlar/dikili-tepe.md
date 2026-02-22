@@ -44,7 +44,7 @@ Dikili Tepe, Çanakkale'nin tarihî ve kültürel zenginliğinin bir parçası o
 
 Jeolojik açıdan bakıldığında, Dikili Tepe'nin fiziksel yapısı hakkında detaylı bilgi olmasa da, tepe çevresi ile birlikte bir şehir bloğu büyüklüğünde bir alanı kapladığı söylenebilir. Bu tepe, bölgenin genel olarak dağlık ve engebeli yapısına uygun olarak, dik yamaçları ve sarp kayaları ile dikkat çeker. Ancak, tepe hakkında daha ayrıntılı fiziksel veriler bulunmaması, bu konuda daha net bir değerlendirme yapılmasını engellemektedir.
 
-Mevsimsel açıdan, Dikili Tepe ve çevresi, Akdeniz ikliminin karakteristik özelliklerini taşır. İlkbahar ve yaz aylarında sıca ve kurak bir hava, sonbahar ve kış aylarında ise ılıman ve yağışlı bir hava hakimdir. Bu mevsimsel değişimler, tepe ve çevresi için önemli bir ekolojik dinamizm yaratır.
+Mevsimsel açıdan, Dikili Tepe ve çevresi, Akdeniz ikliminin karakteristik özelliklerini taşır. İlkbahar ve yaz aylarında sıcak ve kurak bir hava, sonbahar ve kış aylarında ise ılıman ve yağışlı bir hava hakimdir. Bu mevsimsel değişimler, tepe ve çevresi için önemli bir ekolojik dinamizm yaratır.
 
 Dikili Tepe, çevresindeki diğer coğrafi oluşumlar ile birlikte, bölgenin ekosistemini oluşturan önemli bir bileşendir. Tepenin yakınında, Çanakkale Boğazı ve çevresindeki su kaynakları, bölgenin su döngüsünü ve ekolojik dengesini sağlar. Ayrıca, tepe ve çevresi, bölgenin flora ve fauna çeşitliliğine de önemli katkılar sağlar. Bu nedenle, Dikili Tepe, sadece bir coğrafi oluşum olarak değil, aynı zamanda bölgenin doğal ve kültürel mirasının önemli bir parçası olarak görülebilir.
 

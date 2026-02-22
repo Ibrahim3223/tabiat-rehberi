@@ -45,7 +45,7 @@ Koca Dağ, İzmir'in coğrafi güzelliğinin önemli bir parçasını oluşturan
 
 Doğal güzelliğinin yanı sıra, Koca Dağ'ın fiziksel yapısı da oldukça dikkat çekicidir. Ne yazık ki, detaylı fiziksel verilere ulaşamadığımız bu dağ, Ege Bölgesi'nin jeolojik yapısını yansıtan önemli bir örnektir. Eğer bir karşılaştırma yapacak olursak, Koca Dağ'ın büyüklüğü yaklaşık olarak Beşiktaş ilçesi kadar olabilir, ancak bu sadece bir tahmindir.
 
-İklim açısından bakıldığında, Koca Dağ'ın bölgesel özellikleri dikkat çekmektedir. Ege Bölgesi'nin ılıman ikliminin etkileri burada da görülür. Kış aylarında yağışların arttığı, yaz aylarında ise sıca ve güneşli bir hava hakimdir. Bu mevsimsel özellikler, Koca Dağ'ın flora ve fauna çeşitliliğini etkiler.
+İklim açısından bakıldığında, Koca Dağ'ın bölgesel özellikleri dikkat çekmektedir. Ege Bölgesi'nin ılıman ikliminin etkileri burada da görülür. Kış aylarında yağışların arttığı, yaz aylarında ise sıcak ve güneşli bir hava hakimdir. Bu mevsimsel özellikler, Koca Dağ'ın flora ve fauna çeşitliliğini etkiler.
 
 Çevresel açıdan, Koca Dağ'ın komşu alanlar ve su kaynakları ile bağlantıları önemlidir. İzmir'in su kaynaklarının bir kısmı, bu dağların eteklerinden kaynaklanır. Ayrıca, Koca Dağ'ın ekosistemi, bölgenin biyolojik çeşitliliğini korur. Monaco'nun yarısı kadar büyük bir alanda, Koca Dağ'ın doğal güzelliği ve ekosistemi, İzmir'in önemli bir doğal varlığı olarak korunmalıdır.
 

@@ -44,7 +44,7 @@ Doğal güzellikleri ile dikkat çeken Mersincik Adası, Muğla'nın sınırlar�
 
 Jeolojik açıdan bakıldığında, Mersincik Adası'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, adanın konumuna bakıldığında, Ege Denizi'nin karakteristik özelliklerini taşıdığı söylenebilir. Ada, yaklaşık olarak bir olimpik havuz kadar bir alanı kaplayan küçük bir kıta parçasıdır. Bu küçük boyutuna rağmen, Mersincik Adası'nın doğal güzellikleri, ziyaretçilerin ilgisini çekmektedir.
 
-Mevsimsel olarak bakıldığında, Mersincik Adası'nın iklim karakteri, Ege Denizi'nin genel iklim özelliklerini taşır. Yaz aylarında sıca ve güneşli bir hava, kış aylarında ise ılıman ve yağışlı bir hava hakimdir. Bu iklim özellikleri, adayı yıl boyunca ziyaret etmeye elverişli kılar. Hava durumu, genellikle Ege Denizi'nin diğer bölgelerine benzerlik gösterir.
+Mevsimsel olarak bakıldığında, Mersincik Adası'nın iklim karakteri, Ege Denizi'nin genel iklim özelliklerini taşır. Yaz aylarında sıcak ve güneşli bir hava, kış aylarında ise ılıman ve yağışlı bir hava hakimdir. Bu iklim özellikleri, adayı yıl boyunca ziyaret etmeye elverişli kılar. Hava durumu, genellikle Ege Denizi'nin diğer bölgelerine benzerlik gösterir.
 
 Çevresel açıdan bakıldığında, Mersincik Adası, Ege Denizi'nin ekosistemine bağlı olarak, zengin bir biyolojik çeşitliliğe sahiptir. Ada, komşu alanlar ve su kaynakları ile bağlantılıdır ve bu bağlantılar, adanın doğal güzelliklerini destekler. Mersincik Adası, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alana spread edilmiş bir doğa harikası olarak dikkat çeker.
 

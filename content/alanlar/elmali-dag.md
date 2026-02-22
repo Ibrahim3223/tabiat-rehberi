@@ -45,7 +45,7 @@ Güneydoğu Toroslar'ın kalbinde yer alan Kahramanmaraş ilinin Elmalı Dağ, c
 
 Doğal güzelliği ve jeolojik yapısı ile dikkat çeken Elmalı Dağ, çevresindeki coğrafi özelliklere göre şekillenmiştir. Ancak, fiziksel verileri sınırlı olduğu için, tam boyutları ve şekli hakkında net bir bilgi bulunmamaktadır. Buna rağmen, bu dağlık alanın, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kapladığı söylenebilir. Jeolojik açıdan, Güneydoğu Toroslar'ın bir parçası olan Elmalı Dağ, bölgenin karmaşık jeolojik geçmişini yansıtmaktadır.
 
-İklim açısından, Elmalı Dağ'ın bulunduğu bölge, Akdeniz ikliminin etkisinde kalır. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir iklim hüküm sürer. Bu mevsimsel değişimler, bölgenin flora ve fauna yapısını etkiler. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bazı zirveler, bölgenin iklim karakterini şekillendiren önemli faktörlerdir.
+İklim açısından, Elmalı Dağ'ın bulunduğu bölge, Akdeniz ikliminin etkisinde kalır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir iklim hüküm sürer. Bu mevsimsel değişimler, bölgenin flora ve fauna yapısını etkiler. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bazı zirveler, bölgenin iklim karakterini şekillendiren önemli faktörlerdir.
 
 Çevresel açıdan, Elmalı Dağ'ın bulunduğu bölge, çeşitli su kaynaklarına ev sahipliği yapar. Bölge, nehirler ve akarsularla miştir ve bu su kaynakları, bölgenin ekosistemini destekler. Monaco'nun yarısı kadar bir alanı kaplayan bu dağlık bölge, komşu alanlar ile çevresel açıdan önemli bir ilişkiye sahiptir. Bu ilişki, bölgenin biyolojik çeşitliliğini ve doğal dengesini korur.
 

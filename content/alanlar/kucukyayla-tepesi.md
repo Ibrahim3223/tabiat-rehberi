@@ -36,7 +36,7 @@ Küçükyayla Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Küçükyayla Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir noktadır. Tepenin yüksekliği, bölgenin genel yüksekliğine göre daha yüksektir. Bu durum, tepeyi, geniş bir alanda görebilme olanağı sağlar. Ayrıca, tepe çevresinde, çeşitli akarsular ve göller bulunmakta olup, bu su kaynakları, bölgenin ekolojik dengesini sağlar. Küçükyayla Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, tepe ve çevresinin flora ve faunasını etkiler. Tepenin flora ve faunası, mevsimsel değişimlere göre farklılık gösterir. İlkbahar ve yaz aylarında, tepeye tırmanırken, çeşitli çiçekler ve bitkiler görülebilir. Kış aylarında ise, tepe ve çevresindeki ağaçlar, karla kaplı bir manzara sunar.
+Küçükyayla Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir noktadır. Tepenin yüksekliği, bölgenin genel yüksekliğine göre daha yüksektir. Bu durum, tepeyi, geniş bir alanda görebilme olanağı sağlar. Ayrıca, tepe çevresinde, çeşitli akarsular ve göller bulunmakta olup, bu su kaynakları, bölgenin ekolojik dengesini sağlar. Küçükyayla Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, tepe ve çevresinin flora ve faunasını etkiler. Tepenin flora ve faunası, mevsimsel değişimlere göre farklılık gösterir. İlkbahar ve yaz aylarında, tepeye tırmanırken, çeşitli çiçekler ve bitkiler görülebilir. Kış aylarında ise, tepe ve çevresindeki ağaçlar, karla kaplı bir manzara sunar.
 
 ## Flora ve Fauna
 

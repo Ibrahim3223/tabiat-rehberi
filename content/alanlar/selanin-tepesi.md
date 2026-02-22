@@ -36,7 +36,7 @@ Selanın Tepesi'nin tarihi geçmişi, Yozgat'ın tarihi ile iç içe geçmiş du
 
 ## Coğrafya
 
-Selanın Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan bir tepe olarak, coğrafi olarak önemli bir konuma sahip. Bu bölge, çevresindeki diğer tepeler ve dağlarla birlikte, bir bütün olarak değerlendirildiğinde, ziyaretçilere muhteşem bir manzara sunar. Selanın Tepesi'nin coğrafi yapısı, ziyaretçilerin doğayı keşfetmeleri için ideal bir ortam sunar. Bu tepe, çevresindeki diğer doğal güzelliklerle birlikte, bir bütün olarak değerlendirildiğinde, ziyaretçilere zengin bir deneyim sunar. İklim açısından, İç Anadolu Bölgesi'nin genel iklim özellikleri bu bölgede de görülür. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bu durum, ziyaretçilerin mevsimsel olarak plan yapmalarını gerektirir.
+Selanın Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan bir tepe olarak, coğrafi olarak önemli bir konuma sahip. Bu bölge, çevresindeki diğer tepeler ve dağlarla birlikte, bir bütün olarak değerlendirildiğinde, ziyaretçilere muhteşem bir manzara sunar. Selanın Tepesi'nin coğrafi yapısı, ziyaretçilerin doğayı keşfetmeleri için ideal bir ortam sunar. Bu tepe, çevresindeki diğer doğal güzelliklerle birlikte, bir bütün olarak değerlendirildiğinde, ziyaretçilere zengin bir deneyim sunar. İklim açısından, İç Anadolu Bölgesi'nin genel iklim özellikleri bu bölgede de görülür. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu durum, ziyaretçilerin mevsimsel olarak plan yapmalarını gerektirir.
 
 ## Flora ve Fauna
 

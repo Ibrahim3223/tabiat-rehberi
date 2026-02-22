@@ -44,7 +44,7 @@ Doğunun güzide şehri Iğdır'ın eteklerinde, 39.8896°K ve 44.3612°D koordi
 
 Fiziksel yapısına bakıldığında, Küçük Adatlu Dağı'nın boyutları hakkında net bir veri olmasa da, genel olarak bölgenin jeolojik yapısı hakkında bilgi sahibi olma mümkün. Bölge, genellikle volkanik kayaçlardan oluşur ve bu dağların oluşumunda önemli bir rol oynamıştır. Dağın şekli ve yüksekliği, çevresindeki diğer dağlarla benzerlik gösterir ve bu benzerlik, bölgenin tektonik aktivitesinin bir sonucu olarak yorumlanabilir.
 
-Mevsimsel özelliklerine göz atıldığında, Küçük Adatlu Dağı'nın iklimi, genel olarak Iğdır ilinin iklimine benzerlik gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürer. Bu iklim özelliği, bölgenin flora ve fauna çeşitliliğini etkiler ve dağın ekosistemini şekillendirir.
+Mevsimsel özelliklerine göz atıldığında, Küçük Adatlu Dağı'nın iklimi, genel olarak Iğdır ilinin iklimine benzerlik gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürer. Bu iklim özelliği, bölgenin flora ve fauna çeşitliliğini etkiler ve dağın ekosistemini şekillendirir.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları açısından, Küçük Adatlu Dağı, Aras Nehri'ne yakın bir konumda yer alır. Bu nehrin su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılar ve aynı zamanda bölgenin ekosistemini destekler. Dağın eteklerinde yer alan ovalar, tarımsal faaliyetler için elverişli bir alan sağlar ve bu da bölgenin ekonomik yapısını etkiler.
 

@@ -44,7 +44,7 @@ Mersin'in güneşli dağları arasında yer alan Yellikaya Dağı, 36.8500°K en
 
 Jeolojik açıdan bakıldığında, Yellikaya Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, coğrafi konumu itibariyle Akdeniz Bölgesi'nin karakteristik dağlık yapısına sahiptir. Bu bölge, genellikle Taksim Meydanı'nın birkaç katı büyüklüğünde olan küçük dağlık alanlardan oluşur. Yellikaya Dağı da bu bölgenin bir parçasıdır ve coğrafi olarak benzer özellikler gösterir.
 
-İklim açısından, Yellikaya Dağı'nın bulunduğu bölge, Akdeniz ikliminin karakteristik özellikleri gösterir. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin bitki örtüsü ve ekosisteminin şekillenmesinde önemli bir rol oynar. Örneğin, Monaco'nun yarısı kadar büyük bir alanda, çeşitli bitki türleri ve hayvanlar bu iklim koşullarına adapte olmuştur.
+İklim açısından, Yellikaya Dağı'nın bulunduğu bölge, Akdeniz ikliminin karakteristik özellikleri gösterir. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin bitki örtüsü ve ekosisteminin şekillenmesinde önemli bir rol oynar. Örneğin, Monaco'nun yarısı kadar büyük bir alanda, çeşitli bitki türleri ve hayvanlar bu iklim koşullarına adapte olmuştur.
 
 Doğal olarak, Yellikaya Dağı'nın çevresi, komşu dağlık alanlar ve su kaynakları ile bağlantılıdır. Bu bölgede, çeşitli ekosistemler birbiriyle bağlantılıdır ve dağların yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olan bazı zirvelerle birlikte, bölgenin havası ve suyu şekillenir. Bu reason, Yellikaya Dağı'nın çevresel ilişkilerinin anlaşılması için önemlidir.
 

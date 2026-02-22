@@ -42,7 +42,7 @@ Tarihi Şehir Hamamı, Çermik/Diyarbakır'da yer alan bir doğal güzelliktir. 
 
 ## Flora ve Fauna
 
-Tarihi Şehir Hamamı, çeşitli bitki türleri ve fauna ile ziyaretçilerini etkileyen bir mekandır. Bu bölgede, mevsimsel değişimler, canlıların yaşamını etkileyen önemli bir unsurdur. Kış aylarında, bölgede soğu ve yağışlı bir hava hüküm sürerken, yaz aylarında sıca ve kurak bir iklim bulunur. Bu mevsimsel değişimler, bölgede yaşayan canlıların yaşamını etkiler. Tarihi Şehir Hamamı, ziyaretçilerine hem doğal güzelliği hem de fauna ile unutulmaz bir deneyim sunar. Bu bölgede, çeşitli bitki türleri ve fauna bulunmakta olup, ziyaretçilerin doğayı yakından keşfetmesine olanak tanır.
+Tarihi Şehir Hamamı, çeşitli bitki türleri ve fauna ile ziyaretçilerini etkileyen bir mekandır. Bu bölgede, mevsimsel değişimler, canlıların yaşamını etkileyen önemli bir unsurdur. Kış aylarında, bölgede soğuk ve yağışlı bir hava hüküm sürerken, yaz aylarında sıcak ve kurak bir iklim bulunur. Bu mevsimsel değişimler, bölgede yaşayan canlıların yaşamını etkiler. Tarihi Şehir Hamamı, ziyaretçilerine hem doğal güzelliği hem de fauna ile unutulmaz bir deneyim sunar. Bu bölgede, çeşitli bitki türleri ve fauna bulunmakta olup, ziyaretçilerin doğayı yakından keşfetmesine olanak tanır.
 
 ## Ziyaret Bilgileri
 

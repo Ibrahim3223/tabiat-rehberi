@@ -30,7 +30,7 @@ wikidata_id: "Q108226401"
 
 ## Coğrafya
 
-İkidelikli Sit Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölge. Bu alan, geniş otlaklar ve ormanlık alanlarla çevrili. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir karaktere sahip. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçer. Bu coğrafi yapı, İkidelikli Sit Alanı'nın flora ve faunasını şekillendiren önemli bir faktör. Alanın coğrafi konumu, aynı zamanda bölgenin su kaynaklarını koruma altına almak için önemli bir rol oynar. İkidelikli Sit Alanı, bölgenin ekolojik dengesini korumak için önemli bir doğal alan olarak kabul ediliyor.
+İkidelikli Sit Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölge. Bu alan, geniş otlaklar ve ormanlık alanlarla çevrili. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir karaktere sahip. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçer. Bu coğrafi yapı, İkidelikli Sit Alanı'nın flora ve faunasını şekillendiren önemli bir faktör. Alanın coğrafi konumu, aynı zamanda bölgenin su kaynaklarını koruma altına almak için önemli bir rol oynar. İkidelikli Sit Alanı, bölgenin ekolojik dengesini korumak için önemli bir doğal alan olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

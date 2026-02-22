@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde, Siirt ilinin sınırları içerisinde
 
 Doğal güzellikleri ile dikkat çeken bu bölge, geniş bir alanı kaplar. Ancak, fiziksel veriler sınırlı olduğu için tam olarak boyutları bilinmemektedir. Bu dağ, jeolojik açıdan da ilgi çekici özelliklere sahiptir. Ancak, detaylı fiziksel verilerin eksikliği, bu dağ hakkında dahalı bilgi verilmesini sınırlamaktadır.
 
-Mevsimler boyunca değişen hava koşulları, Kat Dağı'nın iklim karakterini etkiler. Güneydoğu Anadolu Bölgesi'nin genel iklim yapısına uygun olarak, yaz ayları sıca ve kurak, kış ayları ise soğu ve yağışlı geçer. Bu mevsimsel değişimler, bölgedeki flora ve fauna üzerinde önemli etkilere sahiptir.
+Mevsimler boyunca değişen hava koşulları, Kat Dağı'nın iklim karakterini etkiler. Güneydoğu Anadolu Bölgesi'nin genel iklim yapısına uygun olarak, yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçer. Bu mevsimsel değişimler, bölgedeki flora ve fauna üzerinde önemli etkilere sahiptir.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları, Kat Dağı'nın çevresel ilişkilerini belirler. Çevresindeki diğer dağlar ve vadiler ile birlikte, bir bütün olarak hareket eden bir ekosistemi oluşturur. Bu bağlantılar, bölgedeki canlıların yaşamını ve çeşitliliğini destekler. Ancak, daha fazla veri ve bilgiye ihtiyaç duyulmaktadır.
 

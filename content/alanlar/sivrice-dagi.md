@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin kalbinde yer alan Sivrice Dağı, 38.4500°K enlem ve
 
 Jeolojik açıdan bakıldığında, Sivrice Dağı'nın tam olarak fiziksel boyutları hakkında net bir bilgi bulunmasa da, koordinatlarından hareketle, bu dağlık alanın bir şehir bloğu büyüklüğünde bir alanı kapladığı söylenebilir. Dağın şekli ve jeolojik yapısı hakkında daha detaylı bilgi bulunmamasına rağmen, bölgenin genel jeolojik özellikleri dikkate alındığında, Sivrice Dağı'nın volkani ve sedimentatif kayaçlardan oluşabileceği öngörülebilir.
 
-Mevsimsel açıdan ele alındığında, Sivrice Dağı'nın iklimi, Doğu Anadolu Bölgesi'nin genel iklim karakterini yansıtmaktadır. Kış aylarında karla kaplı olan dağ, yaz aylarında ise yeşillenen çayırlarıyla dikkat çekmektedir. Hava durumu, mevsimlere göre önemli farklılıklar göstermektedir. Kışın soğu ve karlı, yazın ise serin ve yağışlı passedir.
+Mevsimsel açıdan ele alındığında, Sivrice Dağı'nın iklimi, Doğu Anadolu Bölgesi'nin genel iklim karakterini yansıtmaktadır. Kış aylarında karla kaplı olan dağ, yaz aylarında ise yeşillenen çayırlarıyla dikkat çekmektedir. Hava durumu, mevsimlere göre önemli farklılıklar göstermektedir. Kışın soğuk ve karlı, yazın ise serin ve yağışlı pasiftir.
 
 Çevresel açıdan bakıldığında, Sivrice Dağı, bölgenin önemli su kaynaklarına yakınlığıyla dikkat çekmektedir. Dağın eteklerinde ve civarında bulunan akarsular ve göller, bölgenin ekosistemini desteklemektedir. Sivrice Dağı, komşu alanlarla birlikte, bir bütün olarak ele alındığında, Monaco'nun yarısı kadar bir alanı kaplayacak büyüklükte bir ekosistem parçasını oluşturmaktadır. Bu geniş alan, çeşitli bitki ve hayvan türleri için önemli bir yaşam alanı sunmaktadır.
 

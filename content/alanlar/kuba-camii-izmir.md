@@ -38,11 +38,11 @@ Kuba Camii'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Tarihi be
 
 ## Coğrafya
 
-Kuba Camii, Ege Bölgesi'nin güzide tatil beldesi Selçuk'ta yer almaktadır. Bu bölgenin coğrafi yapısı, genellikle dağlık ve engebeli arazilerden oluşmaktadır. Cami, Selçuk'un merkezi konumunda yer alması nedeniyle, ziyaretçilerin kolayca ulaşabileceği bir konumda bulunmaktadır. Kuba Camii'nin çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu doğal güzellikler, ziyaretçiler için önemli bir çekim merkezi oluşturmaktadır. Cami, deniz seviyesinden yaklaşık yüksek bir konumdate yer almaktadır. Bu yükseklik, ziyaretçilerin çevreyi panoramik olarak görmesine olanak tanır. Kuba Camii'nin coğrafi konumu, ziyaretçilerin hem tarihi hem de doğal güzellikleri keşfetmesine olanak tanır.
+Kuba Camii, Ege Bölgesi'nin güzide tatil beldesi Selçuk'ta yer almaktadır. Bu bölgenin coğrafi yapısı, genellikle dağlık ve engebeli arazilerden oluşmaktadır. Cami, Selçuk'un merkezi konumunda yer alması nedeniyle, ziyaretçilerin kolayca ulaşabileceği bir konumda bulunmaktadır. Kuba Camii'nin çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu doğal güzellikler, ziyaretçiler için önemli bir çekim merkezi oluşturmaktadır. Cami, yüksek bir konumda yer almaktadır. Bu yükseklik, ziyaretçilerin çevreyi panoramik olarak görmesine olanak tanır. Kuba Camii'nin coğrafi konumu, ziyaretçilerin hem tarihi hem de doğal güzellikleri keşfetmesine olanak tanır.
 
 ## Flora ve Fauna
 
-Kuba Camii'nin çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu doğal güzellikler, ziyaretçiler için önemli bir çekim merkezi oluşturmaktadır. Cami, deniz seviyesinden yaklaşık yüksek bir konumdate yer alması nedeniyle, çevredeki bitki örtüsünün zenginliği dikkat çekmektedir. Mevsimsel değişimler, bu bölgede önemli bir etkiye sahiptir. Kış aylarında, bölgenin bitki örtüsü daha sık ve yeşil bir görünüm sergilerken, yaz aylarında bu görünüm daha kurak bir hal almaktadır. Kuba Camii'nin fauna açısından zengin oluşu, ziyaretçilerin doğa ile iç içe bir deneyim yaşamalarına olanak tanır.
+Kuba Camii'nin çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu doğal güzellikler, ziyaretçiler için önemli bir çekim merkezi oluşturmaktadır. Cami, yüksek bir konumda yer alması nedeniyle, çevredeki bitki örtüsünün zenginliği dikkat çekmektedir. Mevsimsel değişimler, bu bölgede önemli bir etkiye sahiptir. Kış aylarında, bölgenin bitki örtüsü daha sık ve yeşil bir görünüm sergilerken, yaz aylarında bu görünüm daha kurak bir hal almaktadır. Kuba Camii'nin fauna açısından zengin oluşu, ziyaretçilerin doğa ile iç içe bir deneyim yaşamalarına olanak tanır.
 
 ## Ziyaret Bilgileri
 

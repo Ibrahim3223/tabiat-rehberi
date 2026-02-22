@@ -30,7 +30,7 @@ Antalya-Döşemealtı Karaçam 2 milli parkının tarihi geçmişi, bölgeye ilk
 
 ## Coğrafya
 
-Antalya-Döşemealtı Karaçam 2 milli parkı, Akdeniz Bölgesi'nin önemli coğrafi özelliklerini taşıyor. Parkın coğrafyası, genellikle karaçam ağaçları ile kaplı alanlardan oluşuyor. Milli parkın iklimi, Akdeniz ikliminin karakteristik özellikleri ile uyumlu olarak sıca ve kurak yazlar, ılık ve yağışlı kışlar şeklinde tanımlanabilir. Bu coğrafi yapı, çeşitli flora ve fauna türlerinin yaşamasına elverişli bir ortam sunuyor. Milli parkın çevresi, genellikle tarım arazileri ve ormanlık alanlar ile çevrili durumda. Bu coğrafi konum, ziyaretçilere doğa ile iç içe bir deneyim sunuyor.
+Antalya-Döşemealtı Karaçam 2 milli parkı, Akdeniz Bölgesi'nin önemli coğrafi özelliklerini taşıyor. Parkın coğrafyası, genellikle karaçam ağaçları ile kaplı alanlardan oluşuyor. Milli parkın iklimi, Akdeniz ikliminin karakteristik özellikleri ile uyumlu olarak sıcak ve kurak yazlar, ılık ve yağışlı kışlar şeklinde tanımlanabilir. Bu coğrafi yapı, çeşitli flora ve fauna türlerinin yaşamasına elverişli bir ortam sunuyor. Milli parkın çevresi, genellikle tarım arazileri ve ormanlık alanlar ile çevrili durumda. Bu coğrafi konum, ziyaretçilere doğa ile iç içe bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

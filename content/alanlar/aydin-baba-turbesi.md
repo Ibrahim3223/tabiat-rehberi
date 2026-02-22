@@ -37,7 +37,7 @@ Aydın Baba Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanmaktadır.
 
 ## Coğrafya
 
-Aydın Baba Türbesi, Şahinbey ilçesinde, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde bulunmaktadır. Bu bölge, coğrafi açıdan çeşitli özelliklere sahiptir. Aydın Baba Türbesi, 140 hektarlık bir alanda yer almaktadır. Bu geniş alan, ziyaretçilere geniş bir görüş açısı sunmaktadır. Coğrafi olarak, bu bölge, dağlar, ovalar ve nehirler gibi çeşitli coğrafi oluşumlarla çevrilidir. İklimi, bölgenin coğrafi konumuna bağlı olarak değişmektedir. Kışlar soğu ve yağışlı, yazlar ise sıcak ve kurudur. Bu coğrafi ve iklimsel özellikler, Aydın Baba Türbesi'nin doğal güzelliğini daha da artırmaktadır.
+Aydın Baba Türbesi, Şahinbey ilçesinde, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde bulunmaktadır. Bu bölge, coğrafi açıdan çeşitli özelliklere sahiptir. Aydın Baba Türbesi, 140 hektarlık bir alanda yer almaktadır. Bu geniş alan, ziyaretçilere geniş bir görüş açısı sunmaktadır. Coğrafi olarak, bu bölge, dağlar, ovalar ve nehirler gibi çeşitli coğrafi oluşumlarla çevrilidir. İklimi, bölgenin coğrafi konumuna bağlı olarak değişmektedir. Kışlar soğuk ve yağışlı, yazlar ise sıcak ve kurudur. Bu coğrafi ve iklimsel özellikler, Aydın Baba Türbesi'nin doğal güzelliğini daha da artırmaktadır.
 
 ## Flora ve Fauna
 

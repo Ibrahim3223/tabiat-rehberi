@@ -45,7 +45,7 @@ Kırağan Dağı, çevresindeki köylerle ve şehirlerle ticaret ilişkileri kur
 
 Doğal güzellikleri ve jeolojik yapısı ile dikkat çeken Kırağan Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Bu dağın fiziksel yapısı, bölgenin jeolojik tarihi hakkında önemli ipuçları sunmaktadır. Ancak, ayrıntılı fiziksel veriler bulunmaması, bu dağ hakkında daha derinlemesine bilgi edinmeyi sınırlamaktadır. Buna rağmen, Kırağan Dağı'nı çevreleyen coğrafi oluşumlar, bölgenin doğal güzelliklerini vurgulamaktadır.
 
-Mevsimsel değişimler, Kırağan Dağı'nın iklim karakterini şekillendirmektedir. Kış aylarında soğu ve kar yağışlı bir hava hakimken, yaz aylarında sıca ve kurak bir iklim ön plana çıkmaktadır. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Hava durumu, özellikle kış aylarında dağda oluşabilecek kar yağışları ile önemli bir rol oynamaktadır.
+Mevsimsel değişimler, Kırağan Dağı'nın iklim karakterini şekillendirmektedir. Kış aylarında soğuk ve kar yağışlı bir hava hakimken, yaz aylarında sıcak ve kurak bir iklim ön plana çıkmaktadır. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Hava durumu, özellikle kış aylarında dağda oluşabilecek kar yağışları ile önemli bir rol oynamaktadır.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları, Kırağan Dağı'nın çevresel ilişkilerini belirlemektedir. Burdur Gölü'ne yakınlığı, bu dağın su kaynakları açısından önemli bir konumda olduğunu göstermektedir. Ayrıca, çevredeki dağlar ve ovalar ile olan bağlantısı, bölgenin ekosistemini zenginleştirmektedir. Bu doğal bağlantılar, Kırağan Dağı'nın çevresel önemini vurgulamaktadır.
 

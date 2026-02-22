@@ -36,7 +36,7 @@ Kabasinan Tepesi'nin tarihi geçmişi, Ankara'nın tarihine paralel olarak şeki
 
 ## Coğrafya
 
-Kabasinan Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir bölgedir. Yaklaşık 140 hektarlık bir alanı kaplayan bu tepe, Ankara'nın merkezine yakın bir konumda yer alır. Bölgenin coğrafi konumu, ziyaretçilere geniş bir manzara sunarken, aynı zamanda çeşitli bitki türleri ve hayvanlarla karşılaşma olanağı sağlar. Kabasinan Tepesi, Ankara'nın coğrafi yapısını oluşturan tepe ve dağların bir parçasıdır. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına benzer. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçer. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirir. Kabasinan Tepesi, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur.
+Kabasinan Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir bölgedir. Yaklaşık 140 hektarlık bir alanı kaplayan bu tepe, Ankara'nın merkezine yakın bir konumda yer alır. Bölgenin coğrafi konumu, ziyaretçilere geniş bir manzara sunarken, aynı zamanda çeşitli bitki türleri ve hayvanlarla karşılaşma olanağı sağlar. Kabasinan Tepesi, Ankara'nın coğrafi yapısını oluşturan tepe ve dağların bir parçasıdır. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına benzer. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçer. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirir. Kabasinan Tepesi, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur.
 
 ## Flora ve Fauna
 

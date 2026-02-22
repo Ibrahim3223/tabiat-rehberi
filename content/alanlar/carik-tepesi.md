@@ -36,7 +36,7 @@ wikidata_id: "Q34828412"
 
 ## Coğrafya
 
-Çarık Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısı içerisinde yer alır. Bu bölge, dağlık bir araziye sahiptir ve etrafı yüksek dağlar ile çevrilidir. Çarık Tepesi'nin yüksekliği, deniz seviyesinden yaklaşık 2000 metre yukarıdadır. Bu tepe, aynı zamanda bölgenin önemli bir su kaynağı olarak dikkat çeker. Burada, çeşitli nehirler ve akarsular bulunur. Çarık Tepesi'nin iklimi, karasal iklim özellikleri taşır. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bu tepe, aynı zamanda bölgenin önemli bir flora ve fauna merkezi olarak dikkat çeker.
+Çarık Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısı içerisinde yer alır. Bu bölge, dağlık bir araziye sahiptir ve etrafı yüksek dağlar ile çevrilidir. Çarık Tepesi'nin yüksekliği, deniz seviyesinden yaklaşık 2000 metre yukarıdadır. Bu tepe, aynı zamanda bölgenin önemli bir su kaynağı olarak dikkat çeker. Burada, çeşitli nehirler ve akarsular bulunur. Çarık Tepesi'nin iklimi, karasal iklim özellikleri taşır. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu tepe, aynı zamanda bölgenin önemli bir flora ve fauna merkezi olarak dikkat çeker.
 
 ## Flora ve Fauna
 

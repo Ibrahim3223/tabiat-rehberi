@@ -44,7 +44,7 @@ Mersin'in doğal güzelliklerinin arasında yer alan Samanlı İni, 36.6169°K, 
 
 Doğal bir oluşum olan Samanlı İni'nin fiziksel yapısı, jeolojik süreçlerin sonucu oluşmuştur. Ancak, detaylı fiziksel veriler bulunmamaktadır. Buna rağmen, bu jeoparkın Mersin'in genel coğrafyası içerisinde önemli bir yer tuttuğu söylenebilir. Samanlı İni, bir olimpik havuz kadar büyük bir alan üzerinde yer alan bir jeolojik oluşumdur. Bu oluşum, Mersin'in genel jeolojisine uygun olarak, kalker ve diğer kayaçlardan oluşmaktadır.
 
-Mersin'in iklim karakteri, Akdeniz ikliminin özelliklerini taşımaktadır. Samanlı İni de bu iklimin etkisinde kalmaktadır. Yaz aylarında sıca ve kurak, kış aylarında ılık ve yağışlı olan bu iklim, jeoparkın doğal yapısını şekillendirmiştir. Samanlı İni, yüksekliği Eiffel Kulesi'nin yaklaşık 1/5'i kadar olan bir bölgede yer almaktadır. Bu yükseklik, jeoparkın iklimini ve bitki örtüsünü etkilemektedir.
+Mersin'in iklim karakteri, Akdeniz ikliminin özelliklerini taşımaktadır. Samanlı İni de bu iklimin etkisinde kalmaktadır. Yaz aylarında sıcak ve kurak, kış aylarında ılık ve yağışlı olan bu iklim, jeoparkın doğal yapısını şekillendirmiştir. Samanlı İni, yüksekliği Eiffel Kulesi'nin yaklaşık 1/5'i kadar olan bir bölgede yer almaktadır. Bu yükseklik, jeoparkın iklimini ve bitki örtüsünü etkilemektedir.
 
 Samanlı İni, Mersin'in doğal güzelliklerinin bir parçası olarak, çevresindeki alanlarla da bağlantılıdır. Bu jeopark, komşu alanlardaki su kaynaklarıyla da etkileşim içerisinde bulunmaktadır. Samanlı İni, Monaco'nun yaklaşık 1/1000'i kadar büyük bir alan üzerinde yer alan bir ekosistemdir. Bu ekosistem, Mersin'in genel ekosistemine katkıda bulunmaktadır. Samanlı İni, Mersin'in doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur.
 

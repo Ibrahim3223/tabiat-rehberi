@@ -30,7 +30,7 @@ YILANÇATI_TP'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bö
 
 ## Coğrafya
 
-YILANÇATI_TP, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir konumda yer almaktadır. Milli park, yaklaşık 140 hektarlık bir alanı kaplamakta ve çeşitli coğrafi özellikler sergilemektedir. YILANÇATI_TP'nin coğrafyası, dağlık ve ovalık alanların birleşmesiyle oluşmaktadır. Bu bölgede, iklim condicionesları mevsimsel olarak değişmektedir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürmektedir. YILANÇATI_TP'nin coğrafi konumu, çeşitli bitki türlerinin yetişmesine ve zengin fauna'nın oluşmasına olanak tanımaktadır. Milli parkın çevresi, diğer doğal güzelliklere ve yerleşim alanlarına yakınlığıyla dikkat çekmektedir.
+YILANÇATI_TP, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir konumda yer almaktadır. Milli park, yaklaşık 140 hektarlık bir alanı kaplamakta ve çeşitli coğrafi özellikler sergilemektedir. YILANÇATI_TP'nin coğrafyası, dağlık ve ovalık alanların birleşmesiyle oluşmaktadır. Bu bölgede, iklim condicionesları mevsimsel olarak değişmektedir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürmektedir. YILANÇATI_TP'nin coğrafi konumu, çeşitli bitki türlerinin yetişmesine ve zengin fauna'nın oluşmasına olanak tanımaktadır. Milli parkın çevresi, diğer doğal güzelliklere ve yerleşim alanlarına yakınlığıyla dikkat çekmektedir.
 
 ## Flora ve Fauna
 

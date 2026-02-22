@@ -37,7 +37,7 @@ Karantina Hamamı'nın tarihi geçmişi, İzmir'in tarihi ile iç içedir. İzmi
 
 ## Coğrafya
 
-Karantina Hamamı, İzmir'in Konak ilçesinde yer alır ve Ege Bölgesi'nin en güzel doğal yerlerinden biridir. Bu alan, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olup, denize sıfır konumuyla ziyaretçilerini cezbeder. Karantina Hamamı'nın coğrafyası, Ege Bölgesi'nin coğrafyası ile benzerlik gösterir. Burada, genellikle sıca ve khô bir iklim hüküm sürer. Yaz aylarında sıcaklık oldukça yüksek olabilirken, kış aylarında sıcaklık daha düşük olabilir. Karantina Hamamı'nın çevresi, genellikle yeşil alanlarla kaplıdır ve burada çeşitli bitki türleri bulunur. Ayrıca, Karantina Hamamı'nın yakınlarında birkaç küçük derenin de olduğu bilinir. Bu dereler, Karantina Hamamı'nın doğal güzelliğini daha da artırır.
+Karantina Hamamı, İzmir'in Konak ilçesinde yer alır ve Ege Bölgesi'nin en güzel doğal yerlerinden biridir. Bu alan, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olup, denize sıfır konumuyla ziyaretçilerini cezbeder. Karantina Hamamı'nın coğrafyası, Ege Bölgesi'nin coğrafyası ile benzerlik gösterir. Burada, genellikle sıcak ve kuru bir iklim hüküm sürer. Yaz aylarında sıcaklık oldukça yüksek olabilirken, kış aylarında sıcaklık daha düşük olabilir. Karantina Hamamı'nın çevresi, genellikle yeşil alanlarla kaplıdır ve burada çeşitli bitki türleri bulunur. Ayrıca, Karantina Hamamı'nın yakınlarında birkaç küçük derenin de olduğu bilinir. Bu dereler, Karantina Hamamı'nın doğal güzelliğini daha da artırır.
 
 ## Flora ve Fauna
 
@@ -45,7 +45,7 @@ Karantina Hamamı, Ege Bölgesi'nin en güzel doğal yerlerinden biridir ve bura
 
 ## Ziyaret Bilgileri
 
-Karantina Hamamı, İzmir'in Konak ilçesinde yer alan ve 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bir plajdır. Buraya, toplu taşıma araçları veya özel araçlarla ulaşılabilir. Karantina Hamamı, denize sıfır konumuyla ve geniş yeşil alanlarıyla ziyaretçilerini cezbeder. Burada, deniz, kum ve güneşin keyfini çıkarabilirsiniz. Ayrıca, Karantina Hamamı'nın tarihi geçmişi de oldukça ilginçtir. İzmir'in en eski ve önemli hamamlarından biri olarak bilinen Karantina Hamamı, yıllarca boyunca halkın hizmetine sunulmuştur. Karantina Hamamı'na ziyaret için en iyi zaman, genellikle yaz aylarıdır. Bu aylarda, hava sıca ve khô olur ve deniz suyu sıcaklığı da idealdir.
+Karantina Hamamı, İzmir'in Konak ilçesinde yer alan ve 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bir plajdır. Buraya, toplu taşıma araçları veya özel araçlarla ulaşılabilir. Karantina Hamamı, denize sıfır konumuyla ve geniş yeşil alanlarıyla ziyaretçilerini cezbeder. Burada, deniz, kum ve güneşin keyfini çıkarabilirsiniz. Ayrıca, Karantina Hamamı'nın tarihi geçmişi de oldukça ilginçtir. İzmir'in en eski ve önemli hamamlarından biri olarak bilinen Karantina Hamamı, yıllarca boyunca halkın hizmetine sunulmuştur. Karantina Hamamı'na ziyaret için en iyi zaman, genellikle yaz aylarıdır. Bu aylarda, hava sıcak ve kuru olur ve deniz suyu sıcaklığı da idealdir.
 
 ## İlginç Bilgiler
 

@@ -46,7 +46,7 @@ Doğunun gizli köşelerinden biri olan Granda Dağı, 37.1167°K ve 44.2342°D 
 
 Jeolojik açıdan bakıldığında, Granda Dağı'nın precisa boyutları hakkında detaylı bilgi olmasa da, bu dağlık bölge, Türkiye'nin genel jeolojik yapısına benzer şekilde, volkani ve sedimentary kayaçlardan oluşuyor. Bu bölgenin coğrafi yapısı, bir şehir bloğu büyüklüğünde küçük alanlardan oluşuyor ve bu küçük alanlar, dağlık arazide birbirine bağlı bir şekilde uzanıyor.
 
-İklim açısından, Granda Dağı ve çevresi, Türkiye'nin diğer doğu bölgeleri gibi karasal iklim karakterine sahip. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakim. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor ve bu çeşitlilik, Granda Dağı'nın çevresindeki ekosistemi zenginleştiriyor.
+İklim açısından, Granda Dağı ve çevresi, Türkiye'nin diğer doğu bölgeleri gibi karasal iklim karakterine sahip. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakim. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor ve bu çeşitlilik, Granda Dağı'nın çevresindeki ekosistemi zenginleştiriyor.
 
 Çevresel açıdan, Granda Dağı, komşu alanlar ve su kaynakları ile bağlantılı bir şekilde bulunuyor. Bu dağlık bölge, su kaynaklarını besliyor ve bölgenin ekosistemini destekliyor. Granda Dağı, Monaco'nun küçük bir bölümü kadar bir alanı kaplıyor ve bu küçük alan, bölgenin coğrafi yapısına önemli bir katkı sağlıyor.
 

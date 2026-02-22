@@ -50,7 +50,7 @@ Doğal bir gözlem noktası olarak düşünülünce, Kapaklı Dağı'nın fiziks
 
 Kapaklı Dağı, Burdur'un eşsiz doğal güzelliklerinden biri olarak, maki bitki örtüsünün hakim olduğu bir dağ ekosistemi sunar. İlkbaharın gelmesiyle birlikte, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle donanır. Yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği dikkat çeker. Kuraklığa dayanıklı türler, dağların zorlu koşullarına uyum sağlamışlardır.
 
-Yaban hayatı, dağların yüksekliklerine göre çeşitlilik gösterir. Memeliler, dağların kaya oyuklarında ve ormanlık alanlarda yaşamlarını sürdürürken, kuşlar göç mevsimlerinde dağları konaklama alanı olarak kullanır. Sürüngenler, dağların sıca ve kuru bölgelerinde aktif olarak bulunur. Dağ ekosisteminin bu canlıları, birbirleriyle ve çevreleriyle sıkı bir ilişki içinde yaşarlar.
+Yaban hayatı, dağların yüksekliklerine göre çeşitlilik gösterir. Memeliler, dağların kaya oyuklarında ve ormanlık alanlarda yaşamlarını sürdürürken, kuşlar göç mevsimlerinde dağları konaklama alanı olarak kullanır. Sürüngenler, dağların sıcak ve kuru bölgelerinde aktif olarak bulunur. Dağ ekosisteminin bu canlıları, birbirleriyle ve çevreleriyle sıkı bir ilişki içinde yaşarlar.
 
 Kapaklı Dağı, ekolojik açıdan önemli bir bölgedir. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve su kaynaklarını korumak için hayati önem taşır. Mevsimsel değişimlere uyum sağlayan canlılar, bu dağların eşsiz güzelliğini ve canlılığını sağlar.
 

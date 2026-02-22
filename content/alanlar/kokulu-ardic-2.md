@@ -31,7 +31,7 @@ Kokulu Ardic 2 milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenm
 
 ## Coğrafya
 
-Kokulu Ardic 2 milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgede yer alıyor. Parkın coğrafyası, geniş açık alanlar, doğal güzelliği yüksek bölgeler ve çeşitli coğrafi oluşumları içermektedir. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçmektedir. Parkın coğrafi konumu, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunmaktadır. Bahar aylarında çiçeklerin açması, yaz aylarında yeşilin hakim olması, sonbahar aylarında renk cümbüşü, kış aylarında ise kar manzaraları ziyaretçilere benzersiz deneyimler sunmaktadır.
+Kokulu Ardic 2 milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgede yer alıyor. Parkın coğrafyası, geniş açık alanlar, doğal güzelliği yüksek bölgeler ve çeşitli coğrafi oluşumları içermektedir. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçmektedir. Parkın coğrafi konumu, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunmaktadır. Bahar aylarında çiçeklerin açması, yaz aylarında yeşilin hakim olması, sonbahar aylarında renk cümbüşü, kış aylarında ise kar manzaraları ziyaretçilere benzersiz deneyimler sunmaktadır.
 
 ## Flora ve Fauna
 

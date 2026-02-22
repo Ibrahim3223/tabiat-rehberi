@@ -45,7 +45,7 @@ Kartepe Dağı, 40.6422°K ve 30.1004°D koordinatlarında yer alan bir coğrafi
 
 Doğal güzellikleri ile ön plana çıkan Kartepe Dağı, çeşitli coğrafi oluşumları barındırır. Dağın fiziksel yapısı, kayalık ve ormanlık alanlardan oluşur. Kartepe Dağı, bölgenin jeolojisini şekillendiren önemli bir faktördür. Bu dağ, bölgenin su kaynaklarının oluşumunda da önemli bir rol oynar. Kartepe Dağı, Taksim Meydanı'nın yaklaşık 10 katı büyüklüğünde bir alanı kaplar.
 
-İklimsel olarak Kartepe Dağı, Karadeniz ikliminin etkilerini taşır. Bölge, yaz aylarında serin ve yağışlı, kış aylarında ise soğu ve karlı bir hava durumuna sahiptir. Kartepe Dağı, çevredeki dağlarla birlikte bir mikro iklim oluşturur. Bu mikro iklim, bölgenin flora ve fauna çeşitliliğini destekler. Kartepe Dağı, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte bir dağ olarak, bölgenin havasını şekillendiren önemli bir faktördür.
+İklimsel olarak Kartepe Dağı, Karadeniz ikliminin etkilerini taşır. Bölge, yaz aylarında serin ve yağışlı, kış aylarında ise soğuk ve karlı bir hava durumuna sahiptir. Kartepe Dağı, çevredeki dağlarla birlikte bir mikro iklim oluşturur. Bu mikro iklim, bölgenin flora ve fauna çeşitliliğini destekler. Kartepe Dağı, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte bir dağ olarak, bölgenin havasını şekillendiren önemli bir faktördür.
 
 Çevresel açıdan Kartepe Dağı, komşu alanlar ve su kaynakları ile bağlantılıdır. Bölge, çeşitli nehir ve derenin kaynağını oluşturur. Kartepe Dağı, Monaco'nun yaklaşık yarısı kadar bir alanı kaplar ve bölgenin ekosistemini destekler. Bu dağ, çevredeki ormanlar ve tarım alanları ile bağlantılı olarak, bölgenin doğal dengesini korur.
 

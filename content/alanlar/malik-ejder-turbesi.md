@@ -37,7 +37,7 @@ Malik Ejder Türbesi'nin tarihi geçmişi, yüzyılların ötesine uzanıyor. Bu
 
 ## Coğrafya
 
-Malik Ejder Türbesi, Akdeniz Bölgesi'nin güzelliğini yansıtan bir coğrafyada yer alıyor. Bu bölge, denize yakınlığı ile birlikte, ziyaretçilere hem deniz hem de kara güzelliklerini aynı anda sunuyor. 180 hektarlık bir alana yayılan bu bölge, yaklaşık 300 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir keşif alanı sağlıyor. Coğrafi olarak zengin bir bölge olan burada, çeşitli bitki türleri ve hayvanlar encontrabilir. Bölgenin iklimi, Akdeniz ikliminin özellikleri gösteriyor; yazları sıca ve kurak, kışları ılık ve yağışlı geçiyor. Bu coğrafi özellikler, Malik Ejder Türbesi'ni ziyaret etmek için ideal bir mekan haline getiriyor.
+Malik Ejder Türbesi, Akdeniz Bölgesi'nin güzelliğini yansıtan bir coğrafyada yer alıyor. Bu bölge, denize yakınlığı ile birlikte, ziyaretçilere hem deniz hem de kara güzelliklerini aynı anda sunuyor. 180 hektarlık bir alana yayılan bu bölge, yaklaşık 300 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir keşif alanı sağlıyor. Coğrafi olarak zengin bir bölge olan burada, çeşitli bitki türleri ve hayvanlar encontrabilir. Bölgenin iklimi, Akdeniz ikliminin özellikleri gösteriyor; yazları sıcak ve kurak, kışları ılık ve yağışlı geçiyor. Bu coğrafi özellikler, Malik Ejder Türbesi'ni ziyaret etmek için ideal bir mekan haline getiriyor.
 
 ## Flora ve Fauna
 

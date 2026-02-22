@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 16, yüzyıllar boyunca çeşitli uygarlıkların yaşa
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 16, Manisa'nın Salihli ilçesinde, Ege Bölgesi'nin coğrafi çeşitliliği binnen yer alır. Bu bölge, dağlık ve ovalık alanların birleştiği özel bir coğrafi konuma sahiptir. İklim, tipik Akdeniz ikliminin özelliklerini taşır; yazlar sıca ve kurak, kışlar ise ılık ve yağışlıdır. Bölge, flora ve fauna açısından zengindir. Çeşitli bitki türleri ve hayvanlar, bu coğrafi çeşitliliğin bir parçasıdır. Bin Tepeler Tümülüsü 16, ziyaretçilere doğanın güzelliğini ve coğrafi zenginliği keşfetme fırsatı sunar.
+Bin Tepeler Tümülüsü 16, Manisa'nın Salihli ilçesinde, Ege Bölgesi'nin coğrafi çeşitliliği binnen yer alır. Bu bölge, dağlık ve ovalık alanların birleştiği özel bir coğrafi konuma sahiptir. İklim, tipik Akdeniz ikliminin özelliklerini taşır; yazlar sıcak ve kurak, kışlar ise ılık ve yağışlıdır. Bölge, flora ve fauna açısından zengindir. Çeşitli bitki türleri ve hayvanlar, bu coğrafi çeşitliliğin bir parçasıdır. Bin Tepeler Tümülüsü 16, ziyaretçilere doğanın güzelliğini ve coğrafi zenginliği keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

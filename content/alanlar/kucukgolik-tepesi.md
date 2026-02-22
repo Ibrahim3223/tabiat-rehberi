@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin zengin coğrafyası içinde yer alan Küçükgo
 
 Doğal bir oluşum olan Küçükgolik Tepesi, bölgenin jeolojik yapısını ortaya koyar. Ancak fiziksel boyutları hakkında detaylı bilgi bulunmamasına rağmen, tepeyi çevreleyen coğrafya, bölgenin zengin doğal çeşitliliğini gösterir. Batman ilinin genel coğrafyası gibi, Küçükgolik Tepesi de bölgenin karmaşık jeolojik yapısını yansıtır.
 
-Mevsimsel değişikliklere göre şekillenen iklimi, bölgenin karakteristiğini ortaya koyar. Güneydoğu Anadolu Bölgesi'nin genel iklim özellikleri, Küçükgolik Tepesi'nin çevresinde de hissedilir. Yaz aylarında sıca ve kurak bir hava, kış aylarında ise soğu ve yağışlı bir hava hakimdir. Bu iklim özellikleri, tepe ve çevresinin flora ve fauna çeşitliliğini etkiler.
+Mevsimsel değişikliklere göre şekillenen iklimi, bölgenin karakteristiğini ortaya koyar. Güneydoğu Anadolu Bölgesi'nin genel iklim özellikleri, Küçükgolik Tepesi'nin çevresinde de hissedilir. Yaz aylarında sıcak ve kurak bir hava, kış aylarında ise soğuk ve yağışlı bir hava hakimdir. Bu iklim özellikleri, tepe ve çevresinin flora ve fauna çeşitliliğini etkiler.
 
 Çevresel açıdan bakıldığında, Küçükgolik Tepesi, Batman Nehri ve diğer su kaynaklarına yakınlığıyla dikkat çeker. Bu su kaynakları, bölgenin ekosistemini destekler ve doğal yaşamın çeşitliliğini sağlar. Batman ilinin genel coğrafyası gibi, Küçükgolik Tepesi de bölgenin doğal güzelliklerini ve zenginliklerini ortaya koyar.
 
@@ -50,7 +50,7 @@ Mevsimsel değişikliklere göre şekillenen iklimi, bölgenin karakteristiğini
 
 Küçükgolik Tepesi, Batman'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak farklı flora ve fauna çeşitliliği bulunur. İlkbaharın gelmesiyle birlikte, tepeye renkli çiçekler eşlik eder. Step ve ova ekolojisinin birleştiği bu bölgede, yerel bitki türleri mevsimsel değişimlere uyum sağlar.
 
-Yaban hayatı da bu bölgenin çeşitliliğini gösterir. Memeliler, özellikle dağ keçileri ve yaban domuzları, bu bölgenin kaya ve otlak alanlarında yaşamlarını sürdürür. Kuşlar, özellikle göç mevsimlerinde, bu bölgede önemli bir rol oynar. Sürüngenler ise, sıca ve kuru alanlarda, özellikle kaya ve taşlı bölgelerde faaliyet gösterir.
+Yaban hayatı da bu bölgenin çeşitliliğini gösterir. Memeliler, özellikle dağ keçileri ve yaban domuzları, bu bölgenin kaya ve otlak alanlarında yaşamlarını sürdürür. Kuşlar, özellikle göç mevsimlerinde, bu bölgede önemli bir rol oynar. Sürüngenler ise, sıcak ve kuru alanlarda, özellikle kaya ve taşlı bölgelerde faaliyet gösterir.
 
 Küçükgolik Tepesi, bölgesel ekosistemin korunması açısından büyük bir önem taşır. Bu alan, yerel canlıların yaşam alanlarını korur ve doğanın dengesini sağlar. Koruma durumu, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini koruma altına almak için önemlidir.
 

@@ -29,7 +29,7 @@ wikidata_id: "Q2574216"
 
 # Manavgat Şelalesi
 
-Manavgat Şelalesi, yaklaşık yüksek bir konumdaten dökülen sularıyla, ziyaretçilerini doğal güzelliği ile büyülemektedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan, çeşitli bitki türleriyle kaplıdır. Manavgat Şelalesi, Antalya'nın en önemli turizm merkezlerinden biri olarak biliniyor. Şelalenin suyu, Manavgat Nehri'ne dökülüyor ve bu nehir, bölge için önemli bir su kaynağı olarak kabul ediliyor. Manavgat Şelalesi'nin etrafındaki doğal güzellikler, ziyaretçilerin doğayla iç içe vakit geçirmesine olanak sağlıyor.
+Manavgat Şelalesi, yüksek bir konumdan dökülen sularıyla, ziyaretçilerini doğal güzelliği ile büyülemektedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan, çeşitli bitki türleriyle kaplıdır. Manavgat Şelalesi, Antalya'nın en önemli turizm merkezlerinden biri olarak biliniyor. Şelalenin suyu, Manavgat Nehri'ne dökülüyor ve bu nehir, bölge için önemli bir su kaynağı olarak kabul ediliyor. Manavgat Şelalesi'nin etrafındaki doğal güzellikler, ziyaretçilerin doğayla iç içe vakit geçirmesine olanak sağlıyor.
 
 ## Tarihçe
 

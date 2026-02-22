@@ -45,7 +45,7 @@ Genel olarak Antalya'nın Manavgat ilçesinde bulunan Köprülü Kanyon, 37.2959
 
 Jeolojik açıdan bakıldığında, Köprülü Kanyon'un oluşumu milyonlarca yıl önce başlamış. Ancak fiziksel verilerin sınırlı olması nedeniyle, kanyonun boyutları hakkında net bir bilgi bulunmuyor. Buna karşın, Antalya'nın genel coğrafyası düşünüldüğünde, kanyonun bir şehir bloğu büyüklüğünde veya birkaç olimpik havuz kadar bir alanı kapladığı söylenebilir.
 
-İklim açısından Köprülü Kanyon, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcaklık 30 dereceleri aşabilirken, kış aylarında 10 derecenin altına düşebilir. Bu mevsimsel değişimler, kanyonun flora ve fauna çeşitliliğini etkiliyor. Hava durumu da bölgeye göre değişkenlik gösteriyor; yazın kura ve sıcak, kışın ise ılıman ve yağışlı passedir.
+İklim açısından Köprülü Kanyon, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcaklık 30 dereceleri aşabilirken, kış aylarında 10 derecenin altına düşebilir. Bu mevsimsel değişimler, kanyonun flora ve fauna çeşitliliğini etkiliyor. Hava durumu da bölgeye göre değişkenlik gösteriyor; yazın kura ve sıcak, kışın ise ılıman ve yağışlı pasiftir.
 
 Çevresel açıdan bakıldığında, Köprülü Kanyon'un komşu alanlar ve su kaynaklarıyla önemli bir bağı bulunuyor. Manavgat Nehri, kanyonun oluşumunda ve varliğinde kritik bir rol oynuyor. Ekosistem bağlantıları da dikkate alındığında, kanyonun bölgedeki diğer doğal güzelliklerle birlikte bir bütün olarak değerlendirilmesi gerekiyor. Bu bağlamda, kanyonun Monaco'nun yarısı kadar veya İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kapladığı düşünülüyor.
 

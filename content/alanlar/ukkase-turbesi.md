@@ -36,7 +36,7 @@ Ukkaşe Türbesi'nin tarihi geçmişi, Gaziantep'in önemli kültür mirasların
 
 ## Coğrafya
 
-Ukkaşe Türbesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olarak kabul ediliyor. Bu bölge, geniş ovaları, dağları ve nehirleri ile dikkat çekiyor. Ukkaşe Türbesi'nin bulunduğu alan, 140 hektarlık bir alanı kaplıyor ve bu geniş alan, ziyaretçilere geniş bir gezi alanı sunuyor. Bölgenin iklimi, genellikle sıca ve kurak bir karaktere sahip, ancak bahar ve sonbahar mevsimlerinde ziyaretçiler daha rahat bir gezi deneyimi yaşayabiliyorlar. Ukkaşe Türbesi'nin coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Bu türbenin etrafındaki dağlar ve ovalar, ziyaretçilere geniş bir manzara sunuyor ve bölgenin coğrafi çeşitliliği, ziyaretçileri etkiliyor.
+Ukkaşe Türbesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olarak kabul ediliyor. Bu bölge, geniş ovaları, dağları ve nehirleri ile dikkat çekiyor. Ukkaşe Türbesi'nin bulunduğu alan, 140 hektarlık bir alanı kaplıyor ve bu geniş alan, ziyaretçilere geniş bir gezi alanı sunuyor. Bölgenin iklimi, genellikle sıcak ve kurak bir karaktere sahip, ancak bahar ve sonbahar mevsimlerinde ziyaretçiler daha rahat bir gezi deneyimi yaşayabiliyorlar. Ukkaşe Türbesi'nin coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Bu türbenin etrafındaki dağlar ve ovalar, ziyaretçilere geniş bir manzara sunuyor ve bölgenin coğrafi çeşitliliği, ziyaretçileri etkiliyor.
 
 ## Flora ve Fauna
 

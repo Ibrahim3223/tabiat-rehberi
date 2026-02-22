@@ -31,7 +31,7 @@ Kartaltepe Tabiat Parkı, yüzyıllar boyunca bölgede yaşayan halk tarafından
 
 ## Coğrafya
 
-Kartaltepe Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır. Parkın konumu, bölgeyi çevreleyen dağların eteklerinde yer alır. Yaklaşık 140 hektarlık alanı, çeşitli bitki türleri ve hayvanlarla dolu bir ekosistem sunar. Parkın coğrafi yapısı, ziyaretçilere farklı doğa koşullarını deneyimleme fırsatı sunar. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir. Kışları soğuk, yazları sıca ve kurak olan bir iklim, parkın florası ve faunasını etkiler. Parkın çevresi, çeşitli tarım alanları ve yerleşim yerleriyle çevrilidir. Bu nedenle, parkın korunması ve gelecek nesiller için saklanması önemlidir.
+Kartaltepe Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır. Parkın konumu, bölgeyi çevreleyen dağların eteklerinde yer alır. Yaklaşık 140 hektarlık alanı, çeşitli bitki türleri ve hayvanlarla dolu bir ekosistem sunar. Parkın coğrafi yapısı, ziyaretçilere farklı doğa koşullarını deneyimleme fırsatı sunar. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir. Kışları soğuk, yazları sıcak ve kurak olan bir iklim, parkın florası ve faunasını etkiler. Parkın çevresi, çeşitli tarım alanları ve yerleşim yerleriyle çevrilidir. Bu nedenle, parkın korunması ve gelecek nesiller için saklanması önemlidir.
 
 ## Flora ve Fauna
 

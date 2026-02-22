@@ -37,7 +37,7 @@ Hamam, Kızılkeçili plajının tarihi geçmişi, bölgenin kültürel zenginli
 
 ## Coğrafya
 
-Hamam, Kızılkeçili plajı, Çanakkale ilçe sınırları içinde, İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak oldukça çeşitli bir yapıya sahip. Plajın etrafı, zengin bir flora ile kaplıdır ve çeşitli ağaç türleri ile süslenmiş durumda. Ayrıca, plajın arkasında, yüksek dağlar ve tepeler uzanmakta, bu da buraya özel bir güzellik katıyor. İklim olarak, bölgenin genelinde olduğu gibi, karasal iklim özellikleri görülmektedir. Yaz ayları sıca ve kurak, kış ayları ise soğu ve yağışlı geçer. Bu iklim özellikleri, plajın kullanımını özellikle yaz aylarına yoğunlaştırır. Plajın kendisi, geniş ve kumlu bir alana sahiptir, bu da ziyaretçilerin rahatça güneşlenmesine ve deniz keyfi yapmasına imkân tanır. Ayrıca, plajda çeşitli su sporları ve etkinlikler yapılabiliyor, bu da burayı daha da çekici hale getiriyor.
+Hamam, Kızılkeçili plajı, Çanakkale ilçe sınırları içinde, İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak oldukça çeşitli bir yapıya sahip. Plajın etrafı, zengin bir flora ile kaplıdır ve çeşitli ağaç türleri ile süslenmiş durumda. Ayrıca, plajın arkasında, yüksek dağlar ve tepeler uzanmakta, bu da buraya özel bir güzellik katıyor. İklim olarak, bölgenin genelinde olduğu gibi, karasal iklim özellikleri görülmektedir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçer. Bu iklim özellikleri, plajın kullanımını özellikle yaz aylarına yoğunlaştırır. Plajın kendisi, geniş ve kumlu bir alana sahiptir, bu da ziyaretçilerin rahatça güneşlenmesine ve deniz keyfi yapmasına imkân tanır. Ayrıca, plajda çeşitli su sporları ve etkinlikler yapılabiliyor, bu da burayı daha da çekici hale getiriyor.
 
 ## Flora ve Fauna
 

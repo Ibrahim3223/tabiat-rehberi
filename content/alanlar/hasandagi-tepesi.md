@@ -42,7 +42,7 @@ Gözlerimizi Türkiye'nin coğrafi haritasına çevirdiğimizde, 39.6079°K, 32.
 
 Doğal güzelliği ve jeolojik yapısıyla dikkat çeken Hasandağı Tepesi, bir volkanik tepe olarak bilinir. Volkanik kökenli bu tepe, çevresindeki araziden yaklaşık 300-400 metre yükseklikte yükselir. Eiffel Kulesi'nin yaklaşık 1/5'i yükseklikte olan bu tepe, aynı zamanda bölgedeki flora ve fauna için önemli bir yaşam alanı oluşturur. Hasandağı Tepesi'nin çevresindeki arazi, genellikle ormanlık ve tarım arazilerinden oluşur.
 
-Mevsimsel olarak bakıldığında, Hasandağı Tepesi ve çevresindeki bölge, karasal iklimin özellikleri gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu iklim koşulları, bölgedeki bitki örtüsünü ve tarım faaliyetlerini etkiler. Bölge, genellikle ilkbahar ve sonbahar aylarında en çok ziyaret edilir, çünkü bu mevsimlerde hava daha serin ve yağışlıdır.
+Mevsimsel olarak bakıldığında, Hasandağı Tepesi ve çevresindeki bölge, karasal iklimin özellikleri gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu iklim koşulları, bölgedeki bitki örtüsünü ve tarım faaliyetlerini etkiler. Bölge, genellikle ilkbahar ve sonbahar aylarında en çok ziyaret edilir, çünkü bu mevsimlerde hava daha serin ve yağışlıdır.
 
 Çevresel olarak bakıldığında, Hasandağı Tepesi, Ankara'nın kuzeybatısındaki diğer doğal güzelliklerle bağlantılıdır. Tepenin eteklerinde, çeşitli su kaynakları ve akarsular bulunur. Bu su kaynakları, bölgedeki ekosistemin devamı için önemlidir ve aynı zamanda tarım faaliyetleri için de kullanılır. Hasandağı Tepesi, Monaco'nun yaklaşık 1/10'u büyüklüğünde bir alanı kaplar ve bölgedeki diğer doğal alanlarla birlikte, önemli bir ekosistem oluşturur.
 

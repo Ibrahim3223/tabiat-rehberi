@@ -53,7 +53,7 @@ Doğal bir koridor olan White Valley kanyonu, komşu alanlarla ve su kaynakları
 
 White Valley kanyonunun flora ve fauna bölümü, bu bölgeyi ziyaret edenleri doğanın renkli ve canlı dünyasıyla karşılar. İlkbaharın gelmesiyle birlikte, step bitki örtüsü çiçeklerle donanır ve bozkır manzarası renklenir. Kuraklığa adapte türler, bu mevsimsel değişimlere uyum sağlar.
 
-Kanyonun yaban hayatı, memeliler, kuşlar ve sürüngenlerle dolu bir çeşitlilik sunar. Sonbaharda, göç eden kuşlar bu bölgeyi geçiş noktası olarak kullanır. Memeliler, kanyonun kayalık alanlarında ve bozkırda yaşar. Sürüngenler, sıca ve kuru bölgelerde aktif olarak bulunur.
+Kanyonun yaban hayatı, memeliler, kuşlar ve sürüngenlerle dolu bir çeşitlilik sunar. Sonbaharda, göç eden kuşlar bu bölgeyi geçiş noktası olarak kullanır. Memeliler, kanyonun kayalık alanlarında ve bozkırda yaşar. Sürüngenler, sıcak ve kuru bölgelerde aktif olarak bulunur.
 
 White Valley kanyonunun ekolojik değeri, bu bölgeyi önemli bir habitat haline getirir. Bu alan, birçok türün yaşamsal bağımlılıklarını karşılar ve ekosistemin dengesini sağlar. Koruma durumu, bu doğal alanın geleceğini güvence altına almak için önemlidir. White Valley, 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor ve bu nedenle koruma altına alınması gereken bir doğal mirastır.
 

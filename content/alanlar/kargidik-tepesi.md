@@ -36,7 +36,7 @@ Kargıdık Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkl
 
 ## Coğrafya
 
-Kargıdık Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Kargıdık Tepesi'nin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşur. Bu tepe, deniz seviyesinden yüksek bir konumda yer alır ve etrafındaki manzara, genellikle ormanlık ve dağlık alanlardan oluşur. Kargıdık Tepesi'nin iklimi, genellikle Akdeniz iklimi özellikleri gösterir. Bu tepe, yaz aylarında sıca ve kuru, kış aylarında ise ılık ve yağışlı bir iklimi sahiptir. Kargıdık Tepesi'nin coğrafyası ve iklimi, bu bölgeyi ziyaret edenler için ideal bir ortam sunar.
+Kargıdık Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Kargıdık Tepesi'nin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşur. Bu tepe, deniz seviyesinden yüksek bir konumda yer alır ve etrafındaki manzara, genellikle ormanlık ve dağlık alanlardan oluşur. Kargıdık Tepesi'nin iklimi, genellikle Akdeniz iklimi özellikleri gösterir. Bu tepe, yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı bir iklimi sahiptir. Kargıdık Tepesi'nin coğrafyası ve iklimi, bu bölgeyi ziyaret edenler için ideal bir ortam sunar.
 
 ## Flora ve Fauna
 

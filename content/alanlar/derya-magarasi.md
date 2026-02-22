@@ -37,7 +37,7 @@ Güneyde Akdeniz'in sıcaklığını hisseden Antalya'nın dağlık bölgesinde,
 
 Doğal bir anıt olan Derya Mağarası, Antalya'nın jeolojik yapısının bir parçası olarak ortaya çıkar. Mağaranın boyutları hakkında detaylı bilgiler olmasa da, Antalya'nın dağlık arazisinin nasıl bir güzelliğe sahip olduğunu hayal etmek kolaydır. Birkaç olimpik havuz kadar büyük bir alan kaplayan bu mağara, ziyaretçilerini doğal bir.labirentin içine çeker.
 
-Yaz aylarında Akdeniz'in sıca ve nemli havasının hissedildiği Derya Mağarası, ilkbahar ve sonbahar aylarında ise daha serin ve rahat bir iklim sunar. Bu mevsimsel değişimler, mağaranın içinde yaşamın nasıl sürdüğünü keşfetmek için ideal zamanlar sağlar. Derya Mağarası, ziyaretçilerine yılın her mevsiminde farklı bir deneyim sunar.
+Yaz aylarında Akdeniz'in sıcak ve nemli havasının hissedildiği Derya Mağarası, ilkbahar ve sonbahar aylarında ise daha serin ve rahat bir iklim sunar. Bu mevsimsel değişimler, mağaranın içinde yaşamın nasıl sürdüğünü keşfetmek için ideal zamanlar sağlar. Derya Mağarası, ziyaretçilerine yılın her mevsiminde farklı bir deneyim sunar.
 
 Derya Mağarası, Antalya'nın dağlık bölgesinin bir parçası olarak, komşu alanlar ve su kaynakları ile bağlantılı bir ekosistem içinde yer alır. Mağaranın etrafında, Türkiye'nin güney sahillerinin karakteristik bitki örtüsünü görme mümkün. Bu bölgede, yerel flora ve fauna, ziyaretçilere doğanın güzelliğini ve çeşitliliğini gösterir. Derya Mağarası, Antalya'nın doğal güzelliklerinin bir parçası olarak, ziyaretçilerini keşfe davet eder.
 

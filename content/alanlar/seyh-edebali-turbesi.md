@@ -42,7 +42,7 @@ wikidata_id: "Q6027628"
 
 ## Flora ve Fauna
 
-Şeyh Edebali Türbesi'nin bulunduğu bölgede, çeşitli bitki türleri ve zengin fauna bulunur. Mevsimsel değişimler, bu bölgede canlı bir doğa gösterir. İlkbahar ve yaz aylarında, bölgede birçok bitki türü yetişir ve flora zenginleşir. Kış aylarında, bölgenin iklimi soğu ve karlı geçer ve fauna, bu mevsime uygun olarak değişir. Bölgede, birçok türü bulunur ve ekosistem, dengeli bir şekilde korunur. Ziyaretçiler, bu bölgede doğanın güzelliğini ve çeşitliliğini deneyimleyebilir.
+Şeyh Edebali Türbesi'nin bulunduğu bölgede, çeşitli bitki türleri ve zengin fauna bulunur. Mevsimsel değişimler, bu bölgede canlı bir doğa gösterir. İlkbahar ve yaz aylarında, bölgede birçok bitki türü yetişir ve flora zenginleşir. Kış aylarında, bölgenin iklimi soğuk ve karlı geçer ve fauna, bu mevsime uygun olarak değişir. Bölgede, birçok türü bulunur ve ekosistem, dengeli bir şekilde korunur. Ziyaretçiler, bu bölgede doğanın güzelliğini ve çeşitliliğini deneyimleyebilir.
 
 ## Ziyaret Bilgileri
 

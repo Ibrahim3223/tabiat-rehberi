@@ -46,7 +46,7 @@ Doğal güzellikleri ve coğrafi çeşitliliği ile dikkat çeken Gaydaro adası
 
 Jeolojik açıdan, Gaydaro adasının fiziksel yapısı hakkında detaylı bilgi bulunmasa da, adanın konumuna bakıldığında, Ege Denizi'nin diğer adalarına benzer özellikler taşıdığı söylenebilir. Monaco'nun yarısı kadar bir alanda yer alan bu ada, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplar. Bu boyutlar, adanın küçük ama önemli bir coğrafi oluşum olduğunu gösterir.
 
-Mevsimsel değişikliklere bakıldığında, Gaydaro adası, Akdeniz ikliminin karakteristik özelliklerini taşır. Ilıkışlar ve sıcak yazlar, adanın iklimini şekillendiren temel faktörlerdir. Hava durumu, genellikle güneşli ve açık passedir, ancak Ege Denizi'nin etkisine bağlı olarak, bazı mevsimlerde yağmur ve rüzgar görülebilir.
+Mevsimsel değişikliklere bakıldığında, Gaydaro adası, Akdeniz ikliminin karakteristik özelliklerini taşır. Ilıkışlar ve sıcak yazlar, adanın iklimini şekillendiren temel faktörlerdir. Hava durumu, genellikle güneşli ve açık pasiftir, ancak Ege Denizi'nin etkisine bağlı olarak, bazı mevsimlerde yağmur ve rüzgar görülebilir.
 
 Çevresel açıdan, Gaydaro adası, Ege Denizi'nin zengin ekosistemine bağlıdır. Su kaynakları, adanın doğal dengesini korumak için önemlidir. Adanın komşu alanları, diğer adalar ve anakara, Gaydaro'nun ekosistem bağlantılarını oluşturur. Bu bağlantılar, adanın doğal güzelliklerini ve biyolojik çeşitliliğini destekler.
 

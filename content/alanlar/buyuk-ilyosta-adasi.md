@@ -43,7 +43,7 @@ Yaklaşık 39.3264°K ve 26.5356°D koordinatlarında bulunan Büyük İlyosta A
 
 Doğal güzellikleri ve coğrafi özellikleri dikkate alındığında, Büyük İlyosta Adası bir şehir bloğu büyüklüğünde bir alan olarak düşünebilir. Bu boyutlar, adanın küçük ama kendine has bir dünya olduğunu gösteriyor. Jeolojik açıdan, adanın yapısı ve oluşumu hakkında detaylı bilgi olmasa da, Ege Denizi'ndeki diğer adalar gibi kireç taşı ve volkanik kayaçlardan oluşması muhtemel görünüyor.
 
-Mevsimsel değişiklikler, Büyük İlyosta Adası'nın iklimini şekillendiriyor. Yaz aylarında, adanın sıcaklık değerleri genellikle 25-30°C arasında değişirken, kış aylarında bu değerler 10-15°C arasında dalgalanıyor. Bu ılıman iklim, adayı ziyaret etmek için uygun bir dönem sunuyor. Hava durumu genellikle güneşli ve hafif rüzgarlı passedir, bu da adayı ziyaret etmek için ideal koşullar sunuyor.
+Mevsimsel değişiklikler, Büyük İlyosta Adası'nın iklimini şekillendiriyor. Yaz aylarında, adanın sıcaklık değerleri genellikle 25-30°C arasında değişirken, kış aylarında bu değerler 10-15°C arasında dalgalanıyor. Bu ılıman iklim, adayı ziyaret etmek için uygun bir dönem sunuyor. Hava durumu genellikle güneşli ve hafif rüzgarlı pasiftir, bu da adayı ziyaret etmek için ideal koşullar sunuyor.
 
 Çevresel açıdan, Büyük İlyosta Adası Ege Denizi'nin bir parçası olarak, su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahip. Adanın komşu alanları, balıkçılık ve turizm gibi faaliyetler için elverişli bir ortam sunuyor. Ayrıca, adanın küçük boyutu ve izole konumu, onu benzersiz bir ekosistem olarak koruyor ve ziyaretçilere doğal bir cennet sunuyor.
 

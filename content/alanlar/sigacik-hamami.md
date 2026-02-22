@@ -37,7 +37,7 @@ Sığacık Hamamı'nın tarihi geçmişi, yüzyıllar boyunca bu bölgede yaşay
 
 ## Coğrafya
 
-Sığacık Hamamı, Seferihisar ilçesinde, Ege Bölgesi'nin kıyı şeridinde yer alır. Bu plaj, geniş bir kumsal ve temiz bir denize sahiptir. Sığacık Hamamı'nın coğrafi konumu, ziyaretçilere çeşitli aktivite olanakları sunar. Bu bölgede, denizin serin sularında yüzebilir, su sporları ile eğlenebilir veya güneşin altında dinlenebilirsiniz. Sığacık Hamamı'nın etrafı, yeşilliklerle çevrili ve doğal bir güzelliğe sahiptir. Bu plaj, özellikle yaz aylarında ziyaretçilerini çekmektedir. Sığacık Hamamı'nın iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine sahiptir. Bu bölgede, yazlar sıca ve khô, kışlar ise ılıman ve yağışlı geçer. Sığacık Hamamı, coğrafi konumu ve iklimi ile birlikte, ziyaretçilerine bir tatil cenneti sunar.
+Sığacık Hamamı, Seferihisar ilçesinde, Ege Bölgesi'nin kıyı şeridinde yer alır. Bu plaj, geniş bir kumsal ve temiz bir denize sahiptir. Sığacık Hamamı'nın coğrafi konumu, ziyaretçilere çeşitli aktivite olanakları sunar. Bu bölgede, denizin serin sularında yüzebilir, su sporları ile eğlenebilir veya güneşin altında dinlenebilirsiniz. Sığacık Hamamı'nın etrafı, yeşilliklerle çevrili ve doğal bir güzelliğe sahiptir. Bu plaj, özellikle yaz aylarında ziyaretçilerini çekmektedir. Sığacık Hamamı'nın iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine sahiptir. Bu bölgede, yazlar sıcak ve kuru, kışlar ise ılıman ve yağışlı geçer. Sığacık Hamamı, coğrafi konumu ve iklimi ile birlikte, ziyaretçilerine bir tatil cenneti sunar.
 
 ## Flora ve Fauna
 

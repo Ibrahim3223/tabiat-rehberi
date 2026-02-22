@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Haroğlu Dağı, Elazığ'ın coğrafi z
 
 Jeolojik açıdan incelendiğinde, Haroğlu Dağı'nın yapısı oldukça ilgi çekici. Veriler, dağın específik fiziksel özelliklerine ilişkin detaylı bilgi sağlamasa da, koordinatlarından hareketle, bölgenin genel jeolojik yapısına bakıldığında, volkani ve sedimentatif kayaçların bir arada olduğu görülüyor. Bu dağ, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alan kaplıyor ve çevresindeki diğer dağlarla birlikte, bölgenin coğrafi çeşitliliğine katkıda bulunuyor.
 
-İklim açısından bakıldığında, Haroğlu Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir alan. Kışlar soğu ve karlı, yazlar ise sıca ve kurak geçiyor. Bölge, Monaco'nun yarısı kadar bir alanı kaplıyor ve bu genişlik, mevsimsel değişimlerin farklı şekilde hissedilmesine neden oluyor. Kışın, Eiffel Kulesi'nin birkaç katı yükseklikte olan bu dağ, karla kaplanıyor ve bölgenin en soğuk noktalarından biri haline geliyor.
+İklim açısından bakıldığında, Haroğlu Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir alan. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bölge, Monaco'nun yarısı kadar bir alanı kaplıyor ve bu genişlik, mevsimsel değişimlerin farklı şekilde hissedilmesine neden oluyor. Kışın, Eiffel Kulesi'nin birkaç katı yükseklikte olan bu dağ, karla kaplanıyor ve bölgenin en soğuk noktalarından biri haline geliyor.
 
 Çevresel açıdan, Haroğlu Dağı, bölgenin su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahip. Dağın eteklerinde, bölgenin önemli nehirlerinden biri olan Fırat Nehri'nin kolları yer alıyor. Bu nehir, bölgenin sulak alanlarını besliyor ve Haroğlu Dağı, bu sulak alanların bir parçası olarak, bölgenin ekolojik dengesine katkıda bulunuyor.
 

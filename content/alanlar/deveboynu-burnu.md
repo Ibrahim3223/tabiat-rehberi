@@ -50,7 +50,7 @@ Jeolojik açıdan bakıldığında, Deveboynu Burnu'nun fiziksel yapısı hakkı
 
 Deveboynu Burnu, bir kuş cenneti olarak bilinen bu bölge, step bitki örtüsüne ve bozkır ekosistemine ev sahipliği yapıyor. İlkbahar aylarında, alan çiçeklerle donanıyor ve renkli bir manzara sunuyor. Kuraklığa adapte türler, bu bölgenin zorlu koşullarına rağmen hayatta kalabilen özel bitkiler arasında yer alıyor.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Kuşlar, özellikle göç mevsimlerinde bu alanı ziyaret ediyor ve renkli bir şölen sunuyor. Bozkır ekosisteminde living memeliler, çoğunlukla küçük boyutlu ve nocturnal hayvanlardan oluşuyor. Sürüngenler ise, sıca ve kurak ortamda aktif olarak yaşamlarını sürdürüyor.
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Kuşlar, özellikle göç mevsimlerinde bu alanı ziyaret ediyor ve renkli bir şölen sunuyor. Bozkır ekosisteminde living memeliler, çoğunlukla küçük boyutlu ve nocturnal hayvanlardan oluşuyor. Sürüngenler ise, sıcak ve kurak ortamda aktif olarak yaşamlarını sürdürüyor.
 
 Deveboynu Burnu'nun ekolojik değeri, koruma altına alınması gereken bir bölge olarak dikkat çekiyor. Bu alan, birçok canlı türünün yaşam alanı olarak önemli bir role sahip ve doğal dengeyi korumak için korunması gerekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor ve bu nedenle korumaya alınması büyük önem taşıyor.
 

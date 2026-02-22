@@ -40,11 +40,11 @@ Bölge, tarihin akışı içerisinde önemli ticaret yollarına da ev sahipliği
 
 ## Coğrafya
 
-Güneydoğu Anadolu Bölgesi'nin sıca ve kurak coğrafyasında yer alan Karkamış Baraj Gölü, Şanlıurfa'nın sınırları içerisinde bulunmaktadır. 36.9622°K, 38.0017°D koordinatlarında bulunan bu göl, Fırat Nehri'nin kenarında, Suriye sınırına yakın bir konumda yer almaktadır. Etrafındaki geniş ve açık araziler, göle benzersiz bir manzara kazandırmaktadır.
+Güneydoğu Anadolu Bölgesi'nin sıcak ve kurak coğrafyasında yer alan Karkamış Baraj Gölü, Şanlıurfa'nın sınırları içerisinde bulunmaktadır. 36.9622°K, 38.0017°D koordinatlarında bulunan bu göl, Fırat Nehri'nin kenarında, Suriye sınırına yakın bir konumda yer almaktadır. Etrafındaki geniş ve açık araziler, göle benzersiz bir manzara kazandırmaktadır.
 
 Doğal bir su kaynağı olarak değil, barajın oluşturduğu bir göl olan Karkamış Baraj Gölü, bölgenin su ihtiyacını karşılamada önemli bir role sahiptir. Tıpkı Taksim Meydanı'nın birkaç katı büyüklüğünde olan bu göl, bölgenin su kaynaklarını zenginleştirmektedir. Ancak, fiziksel yapısına ilişkin detaylı bilgiler bulunmaması, gölün tam olarak anlaşılmasını zorlaştırmaktadır.
 
-İklim açısından bakıldığında, Karkamış Baraj Gölü'nün bulunduğu bölge, sıca ve kurak bir iklime sahiptir. Yaz aylarında sıcaklık 40 dereceleri bulabilirken, kış aylarında 0 derecelere düşmektedir. Bu mevsimsel farklılıklar, gölün su seviyesini ve çevresindeki ekosistemi etkilemektedir. Etrafındaki geniş araziler, göle özgü bir mikro iklim kazandırmaktadır.
+İklim açısından bakıldığında, Karkamış Baraj Gölü'nün bulunduğu bölge, sıcak ve kurak bir iklime sahiptir. Yaz aylarında sıcaklık 40 dereceleri bulabilirken, kış aylarında 0 derecelere düşmektedir. Bu mevsimsel farklılıklar, gölün su seviyesini ve çevresindeki ekosistemi etkilemektedir. Etrafındaki geniş araziler, göle özgü bir mikro iklim kazandırmaktadır.
 
 Bölgenin su kaynakları açısından önemli bir ü olan Karkamış Baraj Gölü, Fırat Nehri'ne bağlı olarak bulunmaktadır. Gölün suyu, nehirden alınarak oluşturulmuştur ve bu nedenle, Fırat Nehri'nin su seviyesi, göle doğrudan etki etmektedir. Ayrıca, gölün çevresindeki ekosistem, bölgenin flora ve fauna çeşitliliğini zenginleştirmektedir. Monaco'nun yarısı kadar bir alana sahip olan bu göl, bölgenin doğal güzelliklerini koruma altına almada önemli bir rol oynamaktadır.
 

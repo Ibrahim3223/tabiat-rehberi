@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Ekmala Dağı, Şırnak ilinin sınırla
 
 Jeolojik açıdan incelendiğinde, Ekmala Dağı'nın yapısı bölgenin genel jeolojik özelliklerini yansıtır. Ancak, detaylı fiziksel veriler bulunmaması nedeniyle, dağın boyutları ve şekli hakkında net bilgiler verilememektedir. Buna karşın, Ekmala Dağı'nın bulunduğu bölge, geral olarak dağlık ve engebeli bir coğrafyaya sahiptir. Bu coğrafya, bölgenin iklim karakterini de etkiler.
 
-Hava koşulları açısından bakıldığında, Ekmala Dağı ve çevresinin iklimi, bölgenin genel iklimine benzerlik gösterir. Şırnak ilinin iklimi genellikle karasal iklim özellikleri gösterir ve mevsimsel değişimler belirgindir. Kış ayları soğu ve kar yağışlı, yaz ayları ise sıca ve kurudur. Bu iklim özellikleri, Ekmala Dağı'nın çevresindeki bitki örtüsünü ve wildlife'yi etkiler.
+Hava koşulları açısından bakıldığında, Ekmala Dağı ve çevresinin iklimi, bölgenin genel iklimine benzerlik gösterir. Şırnak ilinin iklimi genellikle karasal iklim özellikleri gösterir ve mevsimsel değişimler belirgindir. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurudur. Bu iklim özellikleri, Ekmala Dağı'nın çevresindeki bitki örtüsünü ve wildlife'yi etkiler.
 
 Çevresel açıdan bakıldığında, Ekmala Dağı, bölgenin ekosistemini şekillendiren önemli bir bileşendir. Dağın yakınında çeşitli su kaynakları bulunur ve bu su kaynakları, bölgenin fauna ve florası için hayatidir. Ekmala Dağı, aynı zamanda komşu alanlarla ekosistem bağlantıları yoluyla da önemli bir role sahiptir. Bu bağlantılar, bölgenin biyolojik çeşitliliğini korur ve sürdürülebilirliğini sağlar.
 

@@ -37,7 +37,7 @@ Güneydoğu Anadolu Bölgesi'nin en uzak köşesinde, Şırnak ilinin sınırlar
 
 Jeolojik açıdan bakıldığında, Küpeli Dağı'nın oluşumu ve yapısı hakkında detaylı bilgi bulunmamasına rağmen, genel olarak bölgenin coğrafi yapısı hakkında bilgi verebiliriz. Güneydoğu Anadolu Bölgesi, genel olarak dağlık ve engebeli bir coğrafi yapıya sahiptir. Bu bölgede, birçok dağ ve tepe bulunmakta ve bu dağlar, bölgenin iklimini ve doğal yaşamını etkilemektedir.
 
-Mevsimsel olarak, Küpeli Dağı'nın bulunduğu bölge, karasal bir iklim karakterine sahiptir. Yaz ayları sıca ve kurak, kış ayları ise soğu ve yağışlı geçer. Bu mevsimsel değişimler, bölgenin flora ve fauna yapısını etkilemekte ve doğal yaşamı şekillendirmektedir. Özellikle kış aylarında, bölgenin yüksek kesimlerinde kar yağışı görülür ve bu, bölgenin doğal güzelliğini arttırmaktadır.
+Mevsimsel olarak, Küpeli Dağı'nın bulunduğu bölge, karasal bir iklim karakterine sahiptir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçer. Bu mevsimsel değişimler, bölgenin flora ve fauna yapısını etkilemekte ve doğal yaşamı şekillendirmektedir. Özellikle kış aylarında, bölgenin yüksek kesimlerinde kar yağışı görülür ve bu, bölgenin doğal güzelliğini arttırmaktadır.
 
 Doğal kaynaklar açısından, Küpeli Dağı ve çevresinin su kaynakları ve ekosistem bağlantıları önemli bir role sahiptir. Bölgede, birçok nehir ve akarsu bulunmakta ve bu su kaynakları, bölgenin tarım ve hayvancılık faaliyetlerini desteklemektedir. Ayrıca, bölgenin doğal yaşamı, birçok farklı türün barınmasına olanak tanır ve bu, bölgenin biyolojik çeşitliliğini zenginleştirmektedir.
 

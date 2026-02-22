@@ -36,7 +36,7 @@ Yazı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca birçok medeniyetin izler
 
 ## Coğrafya
 
-Yazı Tepesi, Yozgat ilinin coğrafi yapısında önemli bir yer tutuyor. Tepenin yüksekliği, bölgenin genel coğrafi yapısına göre farklılık gösteriyor. Çevresindeki ovalar ve vadiler, Yazı Tepesi'ni bir doğal gözlem noktasına dönüştürüyor. Tepenin eteklerinde ve çevresinde akarsular bulunuyor, bu da bölgenin su kaynaklarını zenginleştiriyor. Yazı Tepesi, İç Anadolu Bölgesi'nin karakteristik iklimini yansıtıyor; yani kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirmiş ve çeşitlendirmiştir. Tepenin manzarası, özellikle gün batımı saatlerinde, ziyaretçilere büyüleyici bir görünüm sunuyor.
+Yazı Tepesi, Yozgat ilinin coğrafi yapısında önemli bir yer tutuyor. Tepenin yüksekliği, bölgenin genel coğrafi yapısına göre farklılık gösteriyor. Çevresindeki ovalar ve vadiler, Yazı Tepesi'ni bir doğal gözlem noktasına dönüştürüyor. Tepenin eteklerinde ve çevresinde akarsular bulunuyor, bu da bölgenin su kaynaklarını zenginleştiriyor. Yazı Tepesi, İç Anadolu Bölgesi'nin karakteristik iklimini yansıtıyor; yani kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirmiş ve çeşitlendirmiştir. Tepenin manzarası, özellikle gün batımı saatlerinde, ziyaretçilere büyüleyici bir görünüm sunuyor.
 
 ## Flora ve Fauna
 

@@ -30,7 +30,7 @@ Turkmenbaba Milli Parkı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmi�
 
 ## Coğrafya
 
-Turkmenbaba Milli Parkı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik yapısını yansıtıyor. Parkın coğrafyası, çeşitli bitki türleri ve yaban hayatı ile zenginleştirilmiş. Bölge, iklim olarak karasal bir yapıya sahip, bu da mevsimsel değişimlerin belirgin olmasına yol açıyor. Kış ayları soğu ve karlı, yaz ayları ise sıcak ve kurak geçiyor. Bu mevsimsel değişimler, Parkın flora ve faunasını şekillendiriyor ve her mevsim ziyaretçilere farklı bir güzellik sunuyor. Parkın coğrafi yapısı, aynı zamanda çeşitli su kaynaklarına da ev sahipliği yapıyor. Bu su kaynakları, yaban hayatının yaşamsal kaynağı olmasının yanı sıra, ziyaretçilere de serinleme ve dinlenme imkanı sunuyor.
+Turkmenbaba Milli Parkı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik yapısını yansıtıyor. Parkın coğrafyası, çeşitli bitki türleri ve yaban hayatı ile zenginleştirilmiş. Bölge, iklim olarak karasal bir yapıya sahip, bu da mevsimsel değişimlerin belirgin olmasına yol açıyor. Kış ayları soğuk ve karlı, yaz ayları ise sıcak ve kurak geçiyor. Bu mevsimsel değişimler, Parkın flora ve faunasını şekillendiriyor ve her mevsim ziyaretçilere farklı bir güzellik sunuyor. Parkın coğrafi yapısı, aynı zamanda çeşitli su kaynaklarına da ev sahipliği yapıyor. Bu su kaynakları, yaban hayatının yaşamsal kaynağı olmasının yanı sıra, ziyaretçilere de serinleme ve dinlenme imkanı sunuyor.
 
 ## Flora ve Fauna
 

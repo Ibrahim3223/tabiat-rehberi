@@ -46,7 +46,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi zenginliklerini keşfetmek isteyenler 
 
 Doğal güzelliklerin yanı sıra, jeolojik yapısıyla da dikkat çeken "Buk û Zava" jeoparkı, coğrafi olarak çeşitlilik gösteren bir bölge olarak karşımıza çıkıyor. Fiziksel yapısı itibariyle, Monaco'nun yarısı kadar büyük bir alanı kaplıyor ve bu özelliği ile bölgenin önemli bir coğrafi oluşumu olarak dikkat çekiyor. Ancak, bu bölgenin fiziksel yapısı hakkında daha detaylı bilgiler bulunmuyor.
 
-İklim açısından, "Buk û Zava" jeoparkı, Güneydoğu Anadolu Bölgesi'nin karakteristik iklim özelliklerini taşıyor. Sıca ve kurak yaz ayları, soğu ve yağışlı kış aylarıyla birlikte, mevsimsel olarak değişken bir hava durumuna sahip. Bu durum, bölgenin flora ve fauna çeşitliliğini etkileyen önemli bir faktör olarak karşımıza çıkıyor.
+İklim açısından, "Buk û Zava" jeoparkı, Güneydoğu Anadolu Bölgesi'nin karakteristik iklim özelliklerini taşıyor. Sıca ve kurak yaz ayları, soğuk ve yağışlı kış aylarıyla birlikte, mevsimsel olarak değişken bir hava durumuna sahip. Bu durum, bölgenin flora ve fauna çeşitliliğini etkileyen önemli bir faktör olarak karşımıza çıkıyor.
 
 Çevresel açıdan bakıldığında, "Buk û Zava" jeoparkı, komşu alanlar ve su kaynakları ile önemli bir ekosistem bağlantısı içinde yer alıyor. Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplayan bu jeopark, bölgenin doğal kaynaklarını koruma altına almak açısından önemli bir role sahip. Bu özelliği ile, "Buk û Zava" jeoparkı, Şanlıurfa'nın doğal güzelliklerini korumaya ve tanıtmaya devam ediyor.
 

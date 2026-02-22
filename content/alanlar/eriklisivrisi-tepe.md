@@ -45,7 +45,7 @@ Coğrafi konum itibarıyla, Eriklisivrisi Tepe 37.7768°K, 29.8900°D koordinatl
 
 Jeolojik açıdan bakıldığında, Eriklisivrisi Tepe'nin fiziksel yapısı hakkında detaylı bilgi bulunmasa da, tepeyi çevreleyen bölge, genellikle dağlık ve engebeli arazilerden oluşmaktadır. Bu bölgede, Eiffel Kulesi'nin yaklaşık 1/5'i kadar yükseklikte olan tepe, yerel coğrafyanın önemli bir noktası olarak öne çıkıyor.
 
-Mevsimsel olarak, Eriklisivrisi Tepe ve çevresindeki bölge, Akdeniz ikliminin hüküm sürdüğü bir alandır. Bu iklim, yazları sıca ve kurak, kışları ılıman ve yağışlı passedir. Tepe, bu mevsimsel değişimlere göre şekillenmiş ve çevresindeki bitki örtüsü ve hayvan yaşamı da bu iklim koşullarına adapte olmuştur.
+Mevsimsel olarak, Eriklisivrisi Tepe ve çevresindeki bölge, Akdeniz ikliminin hüküm sürdüğü bir alandır. Bu iklim, yazları sıcak ve kurak, kışları ılıman ve yağışlı pasiftir. Tepe, bu mevsimsel değişimlere göre şekillenmiş ve çevresindeki bitki örtüsü ve hayvan yaşamı da bu iklim koşullarına adapte olmuştur.
 
 Doğal kaynaklar açısından, Eriklisivrisi Tepe, komşu alanlar ve su kaynaklarıyla bağlantılı bir ekosistemin parçasıdır. Monaco'nun yaklaşık 1/20'si büyüklüğündeki bu bölge, yerel su kaynaklarına ve bitki örtüsüne ev sahipliği yapmakta ve çevresindeki daha büyük ekosistemle bağlantılı olarak işlev görmektedir.
 

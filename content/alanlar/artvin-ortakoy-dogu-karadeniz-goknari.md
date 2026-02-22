@@ -30,7 +30,7 @@ Artvin-Ortakoy Dogu Karadeniz Goknari'nin tarihi geçmişi, yüzyıllar önceye 
 
 ## Coğrafya
 
-Artvin-Ortakoy Dogu Karadeniz Goknari, Karadeniz Bölgesi'nin kuzeydoğusunda yer alan bir milli parktır. Bu bölge, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilmektedir. Bölgenin coğrafi yapısı, yüksek dağlar, serin ormanlar ve doğal güzellikler ile karakterizedir. Bu bölge, Karadeniz Bölgesi'nin iklimine uygun olarak, serin ve yağışlı bir iklime sahiptir. Bölgenin yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdate olup, bu yükseklik, bölgenin iklimini ve doğal güzelliklerini etkilemektedir. Bölgenin coğrafi yapısı, ziyaretçilere doğa yürüyüşü, kamp ve diğer outdoor aktiviteler için uygun bir ortam sağlar.
+Artvin-Ortakoy Dogu Karadeniz Goknari, Karadeniz Bölgesi'nin kuzeydoğusunda yer alan bir milli parktır. Bu bölge, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilmektedir. Bölgenin coğrafi yapısı, yüksek dağlar, serin ormanlar ve doğal güzellikler ile karakterizedir. Bu bölge, Karadeniz Bölgesi'nin iklimine uygun olarak, serin ve yağışlı bir iklime sahiptir. Bölgenin yüksekliği, yüksek bir konumda olup, bu yükseklik, bölgenin iklimini ve doğal güzelliklerini etkilemektedir. Bölgenin coğrafi yapısı, ziyaretçilere doğa yürüyüşü, kamp ve diğer outdoor aktiviteler için uygun bir ortam sağlar.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,7 @@ Artvin-Ortakoy Dogu Karadeniz Goknari, ziyaretçilere keyifli bir gün geçirmes
 
 ## İlginç Bilgiler
 
-- Bölgenin yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdate
+- Bölgenin yüksekliği, yüksek bir konumda
 - Bölgenin flora çeşitliliği, mevsimsel değişimlere göre değişmektedir
 - Bölgenin fauna çeşitliliği, çeşitli hayvan türleri ile karakterizedir
 - Bölge, Karadeniz Bölgesi'nin iklimine uygun olarak, serin ve yağışlı bir iklime sahiptir

@@ -45,7 +45,7 @@ Doğunun güzelliği, Van'ın dağları arasında gizli. Rahvan Dağı, 38.2936�
 
 Jeolojik açıdan bakıldığında, Rahvan Dağı'nın fiziksel yapısı hakkında detaylı bilgi olmasa da, bu bölgenin coğrafi olarak çeşitlilik gösterdiği biliniyor. Dağlık bir bölgede yer alan bu alan, Taurus Dağları'nın bir uzantısı olarak düşünülebilir. Yüksekli ve boyutlar hakkında somut veriler olmasa da, Van'ın genel coğrafi yapısı, dağlık ve engebeli bir bölge olduğunu gösteriyor.
 
-Mevsimsel açıdan, Rahvan Dağı ve çevresinin iklimi, karasal iklimin etkilerini taşır. Kışlar soğu ve karlı, yazlar ise sıca ve kurak geçer. Bu bölgede, mevsimlerin belirgin bir şekilde yaşandığı görülür. Van Gölü'nün yakınında olması, bölgenin mikro iklimini etkileyebilir. Gölün su buharlaşması, çevredeki alanların iklimini yumuşatabilir.
+Mevsimsel açıdan, Rahvan Dağı ve çevresinin iklimi, karasal iklimin etkilerini taşır. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçer. Bu bölgede, mevsimlerin belirgin bir şekilde yaşandığı görülür. Van Gölü'nün yakınında olması, bölgenin mikro iklimini etkileyebilir. Gölün su buharlaşması, çevredeki alanların iklimini yumuşatabilir.
 
 Çevresel açıdan, Rahvan Dağı, Van Gölü'ne ve diğer su kaynaklarına yakın bir konumda bulunuyor. Bu bölgede, su kaynakları ve ekosistem bağlantıları önemli bir role sahip. Dağların eteklerinde, çeşitli bitki türleri ve hayvanlar yaşar. Bu bölge, doğal güzelliği ve çevresel zenginliği ile dikkat çekiyor.
 

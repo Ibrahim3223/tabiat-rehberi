@@ -36,7 +36,7 @@ Zeytini Tepesi'nin tarihi geçmişi yüzyıllar öncesine uzanır. Bu bölge, ç
 
 ## Coğrafya
 
-Zeytini Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak çeşitlilik gösteren bir bölgesinde yer alır. Tepenin yüksekliği, çevredeki diğer tepe ve dağlarla birlikte, bölgenin coğrafi yapısını etkiler. İklim, genellikle karasal iklim özellikleri gösterir ve mevsimsel değişimler belirgindir. Kışları soğu ve yağışlı, yazları ise sıcak ve kurudur. Bu coğrafi ve iklimsel koşullar, Zeytini Tepesi'nin flora ve faunasını şekILLendirir. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri yetişir ve bu da bölgenin biyolojik çeşitliliğini artırır.
+Zeytini Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak çeşitlilik gösteren bir bölgesinde yer alır. Tepenin yüksekliği, çevredeki diğer tepe ve dağlarla birlikte, bölgenin coğrafi yapısını etkiler. İklim, genellikle karasal iklim özellikleri gösterir ve mevsimsel değişimler belirgindir. Kışları soğuk ve yağışlı, yazları ise sıcak ve kurudur. Bu coğrafi ve iklimsel koşullar, Zeytini Tepesi'nin flora ve faunasını şekILLendirir. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri yetişir ve bu da bölgenin biyolojik çeşitliliğini artırır.
 
 ## Flora ve Fauna
 

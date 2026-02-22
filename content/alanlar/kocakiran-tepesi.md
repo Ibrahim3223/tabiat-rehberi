@@ -36,7 +36,7 @@ Kocakıran Tepesi'nin tarihi geçmişi, yüzyıllar boyunca bölgede yaşayan uy
 
 ## Coğrafya
 
-Kocakıran Tepesi, Aydın ilinin coğrafi yapısında önemli bir yere sahip. Tepenin yüksekliği, bölgedeki diğer tepelerden biraz daha yükse ve bu reason ziyaretçilerin Ege Bölgesi'nin eşsiz manzarasına şahit olmalarına olanak sağlıyor. Tepenin etrafını saran ormanlık alanlar, çeşitli bitki türleri ve zengin fauna ile birlikte, bu bölgeyi doğa severler için bir cennet haline getiriyor. Kocakıran Tepesi, aynı zamanda iklim açısından da dikkat çekici. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir iklimi livedığı için, ziyaretçilerin yılın farklı zamanlarında farklı deneyimler yaşamasına olanak sağlıyor.
+Kocakıran Tepesi, Aydın ilinin coğrafi yapısında önemli bir yere sahip. Tepenin yüksekliği, bölgedeki diğer tepelerden biraz daha yükse ve bu reason ziyaretçilerin Ege Bölgesi'nin eşsiz manzarasına şahit olmalarına olanak sağlıyor. Tepenin etrafını saran ormanlık alanlar, çeşitli bitki türleri ve zengin fauna ile birlikte, bu bölgeyi doğa severler için bir cennet haline getiriyor. Kocakıran Tepesi, aynı zamanda iklim açısından da dikkat çekici. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir iklimi livedığı için, ziyaretçilerin yılın farklı zamanlarında farklı deneyimler yaşamasına olanak sağlıyor.
 
 ## Flora ve Fauna
 

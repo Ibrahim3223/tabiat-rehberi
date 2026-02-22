@@ -45,7 +45,7 @@ Doğu Anadolu Bölgesi'nin en uzak köşelerinde, Van ilinin sınırları içind
 
 Jeolojik açıdan bakıldığında, Kepçe Dağı'nın çevresindeki arazi, bir şehir bloğu büyüklüğünde küçük alanlardan oluşuyor. Bu küçük alanlar, bölgenin karmaşık jeolojisini yansıtıyor. Kepçe Dağı'nın kendisi, Eiffel Kulesi'nin birkaç katı yükseklikte bir tepe gibi yükseliyor ve bölgenin en önemli coğrafi özelliklerinden biri.
 
-Mevsimsel değişikliklere baktığımızda, Kepçe Dağı'nın iklimi, bölgenin genel iklim karakterini yansıtıyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakim. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini şekillendiriyor.
+Mevsimsel değişikliklere baktığımızda, Kepçe Dağı'nın iklimi, bölgenin genel iklim karakterini yansıtıyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakim. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini şekillendiriyor.
 
 Çevresel açıdan bakıldığında, Kepçe Dağı, Van Gölü'nün su kaynakları ile bağlantılı bir ekosistem içerisinde yer alıyor. Bu ekosistem, Monaco'nun yarısı kadar bir alanda, zengin bir bitki ve hayvan çeşitliliğine ev sahipliği yapıyor. Kepçe Dağı, bu ekosistemin önemli bir parçası ve bölgenin doğal dengesini koruması açısından kritik bir rol oynuyor.
 

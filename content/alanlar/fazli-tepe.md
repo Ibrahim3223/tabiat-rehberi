@@ -36,7 +36,7 @@ Fazlı Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu tepe, Ş
 
 ## Coğrafya
 
-Fazlı Tepe, Şanlıurfa'nın coğrafi yapısını yansıtan bir bölge. Güneydoğu Anadolu Bölgesi'nde yer alan bu tepe, yaklaşık yüksek bir konumdate. Çevresinde yer alan diğer tepelerle birlikte, bölgenin coğrafi çeşitliliğini gözler önüne seriyor. Fazlı Tepe'nin etrafı, çeşitli bitki türleriyle kaplı. Bu bitkiler, regionun iklimini ve coğrafi yapısını yansıtıyor. Tepe, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgenin doğal güzelliğini ortaya koyuyor.
+Fazlı Tepe, Şanlıurfa'nın coğrafi yapısını yansıtan bir bölge. Güneydoğu Anadolu Bölgesi'nde yer alan bu tepe, yüksek bir konumda. Çevresinde yer alan diğer tepelerle birlikte, bölgenin coğrafi çeşitliliğini gözler önüne seriyor. Fazlı Tepe'nin etrafı, çeşitli bitki türleriyle kaplı. Bu bitkiler, regionun iklimini ve coğrafi yapısını yansıtıyor. Tepe, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgenin doğal güzelliğini ortaya koyuyor.
 
 ## Flora ve Fauna
 

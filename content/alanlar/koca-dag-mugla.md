@@ -45,7 +45,7 @@ Güneybatı Anadolu'nun güzide illerinden biri olan Muğla, Koca Dağ'ın etekl
 
 Doğal güzelliği ile ön plana çıkan Koca Dağ, jeolojik açıdan oldukça ilginç bir yapıya sahiptir. Ancak, detaylı fiziksel verilerin eksikliği nedeniyle boyutları ve şekli hakkında net bir bilgi bulunmamaktadır. Buna rağmen, Koca Dağ'ın Ege Bölgesi'nin önemli dağlarından biri olduğu ve bölgenin coğrafyasını şekillendirdiği bilinmektedir.
 
-Mevsimsel özellikler açısından Koca Dağ, Akdeniz ikliminin karakteristik özelliklerini taşır. Kış aylarında ılıman, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu iklim, bölgenin flora ve fauna çeşitliliğini etkileyen önemli bir faktördür.
+Mevsimsel özellikler açısından Koca Dağ, Akdeniz ikliminin karakteristik özelliklerini taşır. Kış aylarında ılıman, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu iklim, bölgenin flora ve fauna çeşitliliğini etkileyen önemli bir faktördür.
 
 Koca Dağ, çevresindeki diğer doğal güzelliklerle birlikte bir ekosistem oluşturur. Bölge, su kaynakları açısından zengindir ve numerous derelerin kaynağı olarak görev yapar. Ayrıca, Koca Dağ'ın eteklerinde yer alan köyler ve kasabalar, bölgenin ekonomi ve sosyal yapısını şekillendiren önemli merkezlerdir.
 

@@ -36,7 +36,7 @@ Serrezare Tepesi, Mardin'in tarihi geçmişi ile iç içe geçmiş bir bölge. T
 
 ## Coğrafya
 
-Serrezare Tepesi, Mardin'in coğrafi yapısını yansıtan bir bölge. Bu tepe, şehrin merkezine yakın bir konumda ve Mardin'in genel coğrafi yapısını temsil ediyor. Tepenin etrafı, çeşitli bitki türleri ile kaplı ve bu bölge, zengin fauna ile dolu. Mardin'in iklimi, Serrezare Tepesi'nin coğrafi yapısını da etkiliyor. Yaz aylarında sıca ve kurak olan iklim, kış aylarında soğu ve yağışlı bir hava getiriyor. Bu mevsimsel değişimler, tepenin coğrafi yapısını ve çevreyi şekillendiriyor. Serrezare Tepesi, Mardin'in coğrafi güzelliklerini sunan önemli bir nokta ve ziyaretçilere şehrin doğal güzelliklerini keşfetme fırsatı veriyor.
+Serrezare Tepesi, Mardin'in coğrafi yapısını yansıtan bir bölge. Bu tepe, şehrin merkezine yakın bir konumda ve Mardin'in genel coğrafi yapısını temsil ediyor. Tepenin etrafı, çeşitli bitki türleri ile kaplı ve bu bölge, zengin fauna ile dolu. Mardin'in iklimi, Serrezare Tepesi'nin coğrafi yapısını da etkiliyor. Yaz aylarında sıcak ve kurak olan iklim, kış aylarında soğuk ve yağışlı bir hava getiriyor. Bu mevsimsel değişimler, tepenin coğrafi yapısını ve çevreyi şekillendiriyor. Serrezare Tepesi, Mardin'in coğrafi güzelliklerini sunan önemli bir nokta ve ziyaretçilere şehrin doğal güzelliklerini keşfetme fırsatı veriyor.
 
 ## Flora ve Fauna
 

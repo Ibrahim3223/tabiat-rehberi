@@ -37,7 +37,7 @@ Doğanın mucizeleri arasında yer alan Koskarlı Mağarası, Trabzon'un güzell
 
 Jeolojik açıdan bakıldığında, Koskarlı Mağarası kalker kayalardan oluşmaktadır. Mağaranın iç yapısı, kaya oluşumları ve yer altı su kaynaklarının şekillendirmesiyle birlikte, binlerce yıllık bir geçmişe tanıklık etmektedir. Bu doğal oluşum, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Mağaranın giriş ve çıkış noktaları, ziyaretçilere hem doğal güzelliği hem de jeolojik zenginliği keşfetme fırsatı sunmaktadır.
 
-İklimsel olarak, mağaranın bulunduğu bölgede Karadeniz iklimi hakimdir. Bu bölgede, yaz ayları serin ve yağışlı, kış ayları ise soğu ve kar yağışlı geçer. Mağaranın içi, dışarıdaki hava koşullarından etkilenmez ve yıl boyunca sabit bir sıcaklıkta kalır. Bu durum, mağaranın içinde yer alan jeolojik oluşumların ve canlıların korunmasına yardımcı olur.
+İklimsel olarak, mağaranın bulunduğu bölgede Karadeniz iklimi hakimdir. Bu bölgede, yaz ayları serin ve yağışlı, kış ayları ise soğuk ve kar yağışlı geçer. Mağaranın içi, dışarıdaki hava koşullarından etkilenmez ve yıl boyunca sabit bir sıcaklıkta kalır. Bu durum, mağaranın içinde yer alan jeolojik oluşumların ve canlıların korunmasına yardımcı olur.
 
 Çevresel açıdan, Koskarlı Mağarası Zigana Dağları'nın eteklerinde yer almaktadır. Bu bölgede, çeşitli su kaynakları ve ekosistemler bulunur. Mağaranın yakınında, ormanlık alanlar ve nehirler yer alır. Bu doğal güzellikler, ziyaretçilere mağaranın dışında da keşfedilecek çok şey sunar. Mağaranın bulunduğu bölge, aynı zamanda çeşitli flora ve fauna türlerine ev sahipliği yapmaktadır. Bu nedenle, Koskarlı Mağarası sadece bir doğal oluşum değil, aynı zamanda bir ekosistem olarak da önem taşımaktadır.
 

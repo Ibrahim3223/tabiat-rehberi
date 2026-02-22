@@ -36,7 +36,7 @@ Davullu Tepe'nin tarihi geçmişi, Erzurum'un tarihinde önemli bir yere sahip. 
 
 ## Coğrafya
 
-Coğrafi olarak, Davullu Tepe, Erzurum'un şehrin merkezine yakın bir konumda bulunmaktadır. Doğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyan bu tepe, çevre dağlarla çevrili ve yüksek bir noktada yer almaktadır. İklim olarak, bölgenin karasal iklimi hakimdir ve mevsim ayrımları belirgindir. Yaz ayları sıca ve kurak, kış ayları soğu ve karlı geçmektedir. Bu coğrafi konum ve iklim, flora ve fauna açısından zengin bir çeşitlilik sağlamaktadır. Çevre dağlar ve tepe, çeşitli bitki türlerine ev sahipliği yapmaktadır. Ayrıca, bu bölge, göçmen kuşların konaklama noktalarından biri olarak da önemlidir.
+Coğrafi olarak, Davullu Tepe, Erzurum'un şehrin merkezine yakın bir konumda bulunmaktadır. Doğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyan bu tepe, çevre dağlarla çevrili ve yüksek bir noktada yer almaktadır. İklim olarak, bölgenin karasal iklimi hakimdir ve mevsim ayrımları belirgindir. Yaz ayları sıcak ve kurak, kış ayları soğuk ve karlı geçmektedir. Bu coğrafi konum ve iklim, flora ve fauna açısından zengin bir çeşitlilik sağlamaktadır. Çevre dağlar ve tepe, çeşitli bitki türlerine ev sahipliği yapmaktadır. Ayrıca, bu bölge, göçmen kuşların konaklama noktalarından biri olarak da önemlidir.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin en kuzey ucunda, Kars ilinin sınırları içerisinde
 
 Jeolojik açıdan bakıldığında, Gerek Dağı'nın fiziksel yapısı hakkında detaylı bilgi olmasa da, koordinatlarından yola çıkarak, bu dağın çevredeki coğrafyası ile ilişkisini kurma mümkün. Örneğin, Taksim Meydanı'nın yaklaşık 15 katı büyüklüğünde bir alanı kaplayan bu dağ, İstanbul'un Adalar ilçesi büyüklüğünde bir bölgeyi kaplıyor. Ancak, dağın gerçek büyüklüğü ve şekli hakkında daha fazla bilgiye ihtiyaç var.
 
-Mevsimsel özellikler açısından, Gerek Dağı'nın iklim karakteri, Doğu Anadolu Bölgesi'nin genel iklimine benzer. Kışlar soğu ve kar yağışlı, yazlar ise serin ve yağışlı geçiyor. Bu dağ, yüksek rakımlı bir bölge olması nedeniyle, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte bir noktanın üzerinde bulunabilir. Ancak, gerçek yükseklik hakkında daha fazla bilgiye ihtiyaç var.
+Mevsimsel özellikler açısından, Gerek Dağı'nın iklim karakteri, Doğu Anadolu Bölgesi'nin genel iklimine benzer. Kışlar soğuk ve kar yağışlı, yazlar ise serin ve yağışlı geçiyor. Bu dağ, yüksek rakımlı bir bölge olması nedeniyle, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte bir noktanın üzerinde bulunabilir. Ancak, gerçek yükseklik hakkında daha fazla bilgiye ihtiyaç var.
 
 Çevresel açıdan, Gerek Dağı, Aras Nehri'nin kuzeyinde yer alıyor ve bu nehrin su kaynaklarını etkileyen önemli bir faktör. Ayrıca, bu dağ, komşu alanlar ile ekosistem bağlantıları açısından da önemli bir role sahip. Örneğin, Gerek Dağı, çevredeki ormanlık alanlar ile bağlantılı ve bu ormanların korunması açısından önemli bir bölge.
 

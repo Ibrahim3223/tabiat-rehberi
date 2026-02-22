@@ -36,7 +36,7 @@ Biradider Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu tep
 
 ## Coğrafya
 
-Biradider Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Tepenin yüksekliği, bölgenin genel yüksekliğine göre önemli bir nokta. Etrafı, çeşitli bitki türleri ile kaplı. Bu bitkiler, mevsimsel değişimlere göre farklılık gösteriyor. İlkbahar ve yaz aylarında, tepenin çevresi yeşilleniyor. Sonbahar ve kış aylarında ise, bitkilerın renkleri değişerek doğal bir güzelliğe bürünüyor. Biradider Tepesi, iklim olarak bölgenin genel şartlarını paylaşıyor. Yaz ayları sıca ve kurak, kış ayları ise soğu ve yağışlı geçiyor. Tepenin coğrafi konumu, bölgede yaşayan halk için önemli bir faktör.
+Biradider Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Tepenin yüksekliği, bölgenin genel yüksekliğine göre önemli bir nokta. Etrafı, çeşitli bitki türleri ile kaplı. Bu bitkiler, mevsimsel değişimlere göre farklılık gösteriyor. İlkbahar ve yaz aylarında, tepenin çevresi yeşilleniyor. Sonbahar ve kış aylarında ise, bitkilerın renkleri değişerek doğal bir güzelliğe bürünüyor. Biradider Tepesi, iklim olarak bölgenin genel şartlarını paylaşıyor. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçiyor. Tepenin coğrafi konumu, bölgede yaşayan halk için önemli bir faktör.
 
 ## Flora ve Fauna
 

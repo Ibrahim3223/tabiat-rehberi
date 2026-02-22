@@ -37,7 +37,7 @@ Emir Şaban Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu 
 
 ## Coğrafya
 
-Emir Şaban Türbesi, Çukurca/Hakkari'nin doğal güzelliklerinin arasında yer alıyor. Mekan, dağların eteklerinde kurulmuş ve çevresi zengin bitki türleriyle kaplı. Bölgenin iklimi, genel olarak Doğu Anadolu Bölgesi'nin karakteristik özellikleri taşıyor. Kış ayları soğu ve kar yağışlı, yaz ayları ise serin ve yağışlı geçiyor. Emir Şaban Türbesi'nin coğrafi konumu, ziyaretçilere çevreyi keşfetme fırsatı sunuyor. Yaklaşık 1800 metre rakımda bulunan mekan, çevresindeki dağların ve vadilerin güzelliğini seyretmek için ideal bir gözlem noktası olarak kabul ediliyor. Ayrıca, ziyaretçiler çevresindeki çeşitli yürüyüş parkurlarını kullanarak, bölgenin doğal güzelliklerini keşfedebilirler.
+Emir Şaban Türbesi, Çukurca/Hakkari'nin doğal güzelliklerinin arasında yer alıyor. Mekan, dağların eteklerinde kurulmuş ve çevresi zengin bitki türleriyle kaplı. Bölgenin iklimi, genel olarak Doğu Anadolu Bölgesi'nin karakteristik özellikleri taşıyor. Kış ayları soğuk ve kar yağışlı, yaz ayları ise serin ve yağışlı geçiyor. Emir Şaban Türbesi'nin coğrafi konumu, ziyaretçilere çevreyi keşfetme fırsatı sunuyor. Yaklaşık 1800 metre rakımda bulunan mekan, çevresindeki dağların ve vadilerin güzelliğini seyretmek için ideal bir gözlem noktası olarak kabul ediliyor. Ayrıca, ziyaretçiler çevresindeki çeşitli yürüyüş parkurlarını kullanarak, bölgenin doğal güzelliklerini keşfedebilirler.
 
 ## Flora ve Fauna
 

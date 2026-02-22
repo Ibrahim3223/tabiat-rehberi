@@ -30,7 +30,7 @@ Trabzon Torul saricdagi-DKD Goknari milli parkının tarihi geçmişi, bölgenin
 
 ## Coğrafya
 
-Trabzon Torul saricdagi-DKD Goknari milli parkı, İç Anadolu Bölgesi'nde yer alıyor. Parkın coğrafi yapısı, dağlık ve ormanlık alanlardan oluşuyor. Burada çeşitli bitki türleri ve zengin fauna encontruyor. Parkın iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Parkın konumu, ziyaretçilerin doğayılemek için ideal bir ortam sunuyor. Parkın çevresinde, çeşitli köyler ve kasabalar yer alıyor. Bu yerleşim yerleri, parkın güzelliğini ve önemini daha da artırıyor.
+Trabzon Torul saricdagi-DKD Goknari milli parkı, İç Anadolu Bölgesi'nde yer alıyor. Parkın coğrafi yapısı, dağlık ve ormanlık alanlardan oluşuyor. Burada çeşitli bitki türleri ve zengin fauna encontruyor. Parkın iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Parkın konumu, ziyaretçilerin doğayılemek için ideal bir ortam sunuyor. Parkın çevresinde, çeşitli köyler ve kasabalar yer alıyor. Bu yerleşim yerleri, parkın güzelliğini ve önemini daha da artırıyor.
 
 ## Flora ve Fauna
 

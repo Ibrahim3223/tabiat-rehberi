@@ -30,7 +30,7 @@ Kemer-Akcay Karacam milli parkının tarihi geçmişi, yüzyıllar boyunca süre
 
 ## Coğrafya
 
-Kemer-Akcay Karacam milli parkı, Muğla ilinin Ege Bölgesi'nde yer alan bir doğal güzellik alanı. Park, 140 hektarlık bir alanı kapsıyor ve Ege Bölgesi'nin önemli coğrafi özelliklerini taşıyor. Bölgenin iklimi, tipik Akdeniz iklimi özellikleri gösteriyor; yazları sıca ve kurak, kışları ılıman ve yağışlı geçiyor. Parkın coğrafi konumu, ziyaretçilere doğanın tüm güzelliklerini sunuyor. Bölgenin flora ve faunası, çeşitlili ve zenginlik açısından dikkat çekici. Kemer-Akcay Karacam milli parkı, ziyaretçilerine doğayla iç içe bir deneyim sunuyor ve Muğla'nın doğal güzelliklerini keşfetmek için ideal bir destinasyon.
+Kemer-Akcay Karacam milli parkı, Muğla ilinin Ege Bölgesi'nde yer alan bir doğal güzellik alanı. Park, 140 hektarlık bir alanı kapsıyor ve Ege Bölgesi'nin önemli coğrafi özelliklerini taşıyor. Bölgenin iklimi, tipik Akdeniz iklimi özellikleri gösteriyor; yazları sıcak ve kurak, kışları ılıman ve yağışlı geçiyor. Parkın coğrafi konumu, ziyaretçilere doğanın tüm güzelliklerini sunuyor. Bölgenin flora ve faunası, çeşitlili ve zenginlik açısından dikkat çekici. Kemer-Akcay Karacam milli parkı, ziyaretçilerine doğayla iç içe bir deneyim sunuyor ve Muğla'nın doğal güzelliklerini keşfetmek için ideal bir destinasyon.
 
 ## Flora ve Fauna
 

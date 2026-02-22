@@ -30,7 +30,7 @@ Ardic 1 milli parkının tarihi geçmişi, Mersin ilinin tarihi ile iç içe ge�
 
 ## Coğrafya
 
-Ardic 1 milli parkı, Mersin ilinin Tarsus ve Buladan bölgelerinde yer alıyor. Parkın coğrafi konumu, Akdeniz Bölgesi'nin karakteristik özellikleri ile uyumlu. 140 hektarlık bir alanı kapsayan park, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş yeşil alan, ziyaretçilere doğanın güzelliği ile baş başa kalma fırsatı sunuyor. Parkın coğrafyası, genellikle engebeli arazilerden oluşuyor ve bu durum, ziyaretçilerin yürüyüş ve doğa yürüyüşü gibi aktivitelere katılmalarına olanak sağlıyor. İklim, Akdeniz ikliminin özellikleri ile uyumlu olarak sıca ve kuru yazlar, ılıman ve yağışlı kışlar şeklinde oluyor. Bu iklim, parkın flora ve faunasının çeşitliliğini destekleyici nitelikte. Ardic 1 milli parkı, coğrafi açıdan zengin bir çeşitlilik sunuyor ve ziyaretçilere, Mersin'in doğal güzelliklerini keşfetme fırsatı veriyor.
+Ardic 1 milli parkı, Mersin ilinin Tarsus ve Buladan bölgelerinde yer alıyor. Parkın coğrafi konumu, Akdeniz Bölgesi'nin karakteristik özellikleri ile uyumlu. 140 hektarlık bir alanı kapsayan park, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş yeşil alan, ziyaretçilere doğanın güzelliği ile baş başa kalma fırsatı sunuyor. Parkın coğrafyası, genellikle engebeli arazilerden oluşuyor ve bu durum, ziyaretçilerin yürüyüş ve doğa yürüyüşü gibi aktivitelere katılmalarına olanak sağlıyor. İklim, Akdeniz ikliminin özellikleri ile uyumlu olarak sıcak ve kuru yazlar, ılıman ve yağışlı kışlar şeklinde oluyor. Bu iklim, parkın flora ve faunasının çeşitliliğini destekleyici nitelikte. Ardic 1 milli parkı, coğrafi açıdan zengin bir çeşitlilik sunuyor ve ziyaretçilere, Mersin'in doğal güzelliklerini keşfetme fırsatı veriyor.
 
 ## Flora ve Fauna
 

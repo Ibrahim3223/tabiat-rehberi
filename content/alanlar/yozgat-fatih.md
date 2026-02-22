@@ -31,7 +31,7 @@ Yozgat Fatih'in tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölg
 
 ## Coğrafya
 
-Yozgat Fatih, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir milli parktır. 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini ağırlayan bu park, coğrafi açıdan oldukça zengin bir alandır. Parkın içerisinde, farklı yüksekliklerde ve eğimlerde yer alan araziler, ziyaretçilere çeşitli manzaralar sunuyor. Yozgat Fatih'in iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal iklim özellikleri gösteriyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürüyor. Bu milli park, coğrafi konumu ve iklim özellikleri ile ziyaretçilerine benzersiz bir deneyim sunuyor.
+Yozgat Fatih, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir milli parktır. 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini ağırlayan bu park, coğrafi açıdan oldukça zengin bir alandır. Parkın içerisinde, farklı yüksekliklerde ve eğimlerde yer alan araziler, ziyaretçilere çeşitli manzaralar sunuyor. Yozgat Fatih'in iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal iklim özellikleri gösteriyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürüyor. Bu milli park, coğrafi konumu ve iklim özellikleri ile ziyaretçilerine benzersiz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

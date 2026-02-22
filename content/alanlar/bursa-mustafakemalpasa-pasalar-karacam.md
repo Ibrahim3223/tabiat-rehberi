@@ -30,7 +30,7 @@ Bursa-Mustafakemalpaşa-paşalar Karacam milli parkının tarihi geçmişi, yüz
 
 ## Coğrafya
 
-Bursa-Mustafakemalpaşa-paşalar Karacam milli parkı, coğrafi olarak Marmara Bölgesi'nin karakteristik özelliklerine sahip. Parkın coğrafyası, yemyeşil ormanlar, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Milli parkın iklimi, bölgenin genel iklimine benzerlik gösteriyor. Kış ayları soğu ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirmiş gibi görünüyor. Ayrıca, milli parkın coğrafi konumu, ziyaretçilerin doğanın güzelliğini keşfetmeleri için uygun bir ortam sunuyor. Parkın etrafı, dağlar ve vadiler ile çevrili ve bu coğrafi özellik, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
+Bursa-Mustafakemalpaşa-paşalar Karacam milli parkı, coğrafi olarak Marmara Bölgesi'nin karakteristik özelliklerine sahip. Parkın coğrafyası, yemyeşil ormanlar, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Milli parkın iklimi, bölgenin genel iklimine benzerlik gösteriyor. Kış ayları soğuk ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirmiş gibi görünüyor. Ayrıca, milli parkın coğrafi konumu, ziyaretçilerin doğanın güzelliğini keşfetmeleri için uygun bir ortam sunuyor. Parkın etrafı, dağlar ve vadiler ile çevrili ve bu coğrafi özellik, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

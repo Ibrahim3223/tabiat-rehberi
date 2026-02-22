@@ -43,7 +43,7 @@ Güneybatı Anadolu'nun kalbinde yer alan Kült Dağı, 37.7050°K, 29.7283°D k
 
 Doğal güzelliği ve coğrafi özellikleri ile dikkat çeken Kült Dağı, belirli bir büyüklüğe sahip olmakla birlikte, tam olarak 1200 hektarlık bir alan kaplamaktadır. Bu, İstanbul'un Adalar ilçesi büyüklüğündeki bir alanı kaplayan bir yeşil cennet olarak düşünülebilir. Ancak, daha küçük bir karşılaştırma yapılacak olursa, bir şehir bloğu büyüklüğünde olan bu alan, çevresindeki diğer dağlarla birlikte bir bütünü oluşturmaktadır.
 
-İklim koşulları açısından bakıldığında, Kült Dağı'nın bulunduğu bölge, Akdeniz ikliminin etkilerini taşımaktadır. Yaz aylarında sıca ve kuru, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürmektedir. Bu mevsimsel değişimler, bölgenin florası ve faunası üzerinde önemli bir etkiye sahiptir. Etrafındaki su kaynakları ve ekosistem bağlantıları ile birlikte, Kült Dağı, bölgenin doğal dengesini korumak için önemli bir rol oynamaktadır.
+İklim koşulları açısından bakıldığında, Kült Dağı'nın bulunduğu bölge, Akdeniz ikliminin etkilerini taşımaktadır. Yaz aylarında sıcak ve kuru, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürmektedir. Bu mevsimsel değişimler, bölgenin florası ve faunası üzerinde önemli bir etkiye sahiptir. Etrafındaki su kaynakları ve ekosistem bağlantıları ile birlikte, Kült Dağı, bölgenin doğal dengesini korumak için önemli bir rol oynamaktadır.
 
 Çevresel açıdan bakıldığında, Kült Dağı, komşu alanlar ve su kaynakları ile birlikte bir bütünü oluşturmaktadır. Monaco'nun yarısı kadar büyük bir alana sahip olan bu bölge, İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplamaktadır. Etrafındaki diğer coğrafi oluşumlar ile birlikte, bölgenin doğal güzelliklerini keşfetmek isteyenler için bir çekim merkezi haline gelmiştir.
 

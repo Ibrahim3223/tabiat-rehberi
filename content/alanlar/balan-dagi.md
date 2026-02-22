@@ -45,13 +45,13 @@ Güneybatı Anadolu'nun doğa harikalarından biri olan Balan Dağı, Muğla ili
 
 Doğal güzellikleri ile dikkat çeken Balan Dağı, çevresindeki coğrafi oluşumlar ile birlikte bir bütün olarak değerlendirilebilir. Dağın fiziksel yapısını tam olarak tanımlamak için ayrıntılı veriler bulunmasa da, bölgenin genel coğrafi özellikleri dikkate alındığında, dağlık bir arazinin özellikleri sergilediği söylenebilir. Bu tür bölgeler, genellikle Taksim Meydanı'nın birkaç katı büyüklüğünde alanları kaplayan küçük veya orta ölçekli coğrafi oluşumlar olarak düşünülebilir.
 
-Mevesim özellikleri açısından bakıldığında, Balan Dağı ve çevresi Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir hava durumu hakimdir. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkiler ve dağlık arazide farklı ekosistemlerin oluşmasına katkıda bulunur.
+Mevesim özellikleri açısından bakıldığında, Balan Dağı ve çevresi Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava durumu hakimdir. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkiler ve dağlık arazide farklı ekosistemlerin oluşmasına katkıda bulunur.
 
 Balan Dağı'nın çevresel ilişkileri, özellikle komşu alanlar ve su kaynakları açısından önemlidir. Dağın eteklerinde ve civarında yer alan köyler ve yerleşim yerleri, bölgenin ekonomi ve sosyal yapısını şekillendiren faktörlerdir. Ayrıca, dağlık arazinin su toplama ve depolama özellikleri, bölgenin su kaynaklarının dengesini etkiler ve ekosistem bağlantılarını güçlendirir.
 
 ## Flora ve Fauna
 
-Balan Dağı, Muğla'nın zeytinlikler ve çam ormanları ile çevrili bir dağ ekosistemi sunar. İklim, Akdeniz'in karakteristik sıca ve kurak yazları ile ılıman kışları arasında değişir. 
+Balan Dağı, Muğla'nın zeytinlikler ve çam ormanları ile çevrili bir dağ ekosistemi sunar. İklim, Akdeniz'in karakteristik sıcak ve kurak yazları ile ılıman kışları arasında değişir. 
 
 Bitki örtüsünde çam ağaçları hakimdir ve ilkbaharda dağ yamaçlarını renkli çiçekler süsler. Sonbaharda, yaprak döken ağaçlar sarı, turuncu ve kırmızı tonlara bürünür. 
 

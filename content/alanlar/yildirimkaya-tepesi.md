@@ -36,7 +36,7 @@ Yıldırımkaya Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli meden
 
 ## Coğrafya
 
-Yıldırımkaya Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir destinasyondur. Bölge, yüksek dağlar ve geniş ovalarla çevrili olup, tepe itself yaklaşık yüksek bir konumdate yer almaktadır. İklim, karasal iklim özellikleri göstermekte ve kış aylarında yoğun kar yağışı almaktadır. Tepenin eteklerinde yer alan nehirler, bölgenin sulak alanlarını oluşturmakta ve çeşitli su canlılarına ev sahipliği yapmaktadır. Yıldırımkaya Tepesi, coğrafi konumu itibariyle ziyaretçilere benzersiz bir manzara sunmaktadır.
+Yıldırımkaya Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir destinasyondur. Bölge, yüksek dağlar ve geniş ovalarla çevrili olup, tepe itself yüksek bir konumda yer almaktadır. İklim, karasal iklim özellikleri göstermekte ve kış aylarında yoğun kar yağışı almaktadır. Tepenin eteklerinde yer alan nehirler, bölgenin sulak alanlarını oluşturmakta ve çeşitli su canlılarına ev sahipliği yapmaktadır. Yıldırımkaya Tepesi, coğrafi konumu itibariyle ziyaretçilere benzersiz bir manzara sunmaktadır.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Hincika Tepesi'nin tarihi geçmişi, Mardin'in tarihi ile iç içe geçmiş duru
 
 ## Coğrafya
 
-Hincika Tepesi, Mardin'in coğrafyası içinde önemli bir yer tutuyor. Bu tepe, çevreyi panoramik olarak izlemek isteyenler için ideal bir nokta. Hincika Tepesi'nin coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu bölge, yaklaşık 140 hektarlık alanı ile önemli bir doğal güzellik. Hincika Tepesi'nin iklimi, Güneydoğu Anadolu Bölgesi'nin iklimine uygun olarak sıca ve kurak. Bu tepe, ziyaretçilerine doğal güzelliği ve coğrafi yapısı ile önemli bir deneyim sunuyor. Hincika Tepesi, Mardin'in coğrafyası içinde önemli bir yer tutuyor.
+Hincika Tepesi, Mardin'in coğrafyası içinde önemli bir yer tutuyor. Bu tepe, çevreyi panoramik olarak izlemek isteyenler için ideal bir nokta. Hincika Tepesi'nin coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu bölge, yaklaşık 140 hektarlık alanı ile önemli bir doğal güzellik. Hincika Tepesi'nin iklimi, Güneydoğu Anadolu Bölgesi'nin iklimine uygun olarak sıcak ve kurak. Bu tepe, ziyaretçilerine doğal güzelliği ve coğrafi yapısı ile önemli bir deneyim sunuyor. Hincika Tepesi, Mardin'in coğrafyası içinde önemli bir yer tutuyor.
 
 ## Flora ve Fauna
 

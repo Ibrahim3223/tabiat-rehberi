@@ -37,7 +37,7 @@ Halime Hatun Hamamı'nın tarihi geçmişi, bölgenin tarihi ile iç içe geçmi
 
 ## Coğrafya
 
-Halime Hatun Hamamı, Gölmarmara'nın güzelliğini ve sakinliğini yansıtan bir plajdır. Bu plaj, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Gölmarmara, Manisa ilinin bir ilçesi olarak, Ege Bölgesi'nin ortasında yer alır. Bu bölge, genellikle sıca ve kurak yazlar ile ılıman ve yağışlı kışlar ile karakterizedir. Halime Hatun Hamamı, deniz seviyesinden yaklaşık yüksek bir konumdate ve Gölmarmara Gölü'ne çok yakındır. Bu plaj, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Ayrıca, plajın yakınında, ziyaretçilerin konaklayabileceği tesisler ve restoranlar bulunmaktadır.
+Halime Hatun Hamamı, Gölmarmara'nın güzelliğini ve sakinliğini yansıtan bir plajdır. Bu plaj, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Gölmarmara, Manisa ilinin bir ilçesi olarak, Ege Bölgesi'nin ortasında yer alır. Bu bölge, genellikle sıcak ve kurak yazlar ile ılıman ve yağışlı kışlar ile karakterizedir. Halime Hatun Hamamı, yüksek bir konumda ve Gölmarmara Gölü'ne çok yakındır. Bu plaj, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Ayrıca, plajın yakınında, ziyaretçilerin konaklayabileceği tesisler ve restoranlar bulunmaktadır.
 
 ## Flora ve Fauna
 

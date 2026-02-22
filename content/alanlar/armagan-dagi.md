@@ -40,7 +40,7 @@ Konya bölgesi, tarihin en eski uygarlıklarına ev sahipliği yapmış bir coğ
 
 Doğal bir oluşum olarak Armağan Dağı, jeolojik açıdan ilgi çekici bir yapıya sahip. Ancak, detaylı fiziksel verilerin bulunmaması nedeniyle, dağın boyutları ve şekli hakkında net bir fikir oluşmuyor. Buna karşın, coğrafi konumuna bakıldığında, Armağan Dağı'nın İç Anadolu Bölgesi'nin geniş düzlükleri arasında bir tepe olarak ortaya çıktığı görülebiliyor. Bu tepe, bölgenin coğrafi çeşitliliğini gösteren önemli bir öge olarak kabul edilebilir.
 
-İklim koşulları açısından Armağan Dağı, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölgede, yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlı geçiyor. Armağan Dağı'nın yüksekliği, bölgenin genel iklim koşullarına göre değişen bir mikro iklim oluşturuyor olabilir. Ancak, yüksekli verilerinin bulunmaması nedeniyle, bu konuda net bir yorum yapabilme mümkün değil.
+İklim koşulları açısından Armağan Dağı, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçiyor. Armağan Dağı'nın yüksekliği, bölgenin genel iklim koşullarına göre değişen bir mikro iklim oluşturuyor olabilir. Ancak, yüksekli verilerinin bulunmaması nedeniyle, bu konuda net bir yorum yapabilme mümkün değil.
 
 Bölgenin ekosistem bağlamında Armağan Dağı, komşu alanlar ve su kaynakları ile önemli bir ilişkiye sahip. İç Anadolu Bölgesi'nin sulak alanları ve nehirleri, bölgenin ekolojik dengesini koruyor. Armağan Dağı da, bu ekosistem içerisinde yer alıyor ve bölgenin flora ve fauna çeşitliliğine katkıda bulunuyor. Ancak, daha detaylı nghiênmeler nécessairesi gerekiyor.
 

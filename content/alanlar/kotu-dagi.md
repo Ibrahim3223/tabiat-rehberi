@@ -42,7 +42,7 @@ Orta Anadolu'nun kalbinde yer alan Kötü Dağı, 39.3706°K ve 34.1038°D koord
 
 Jeolojik açıdan incelendiğinde, Kötü Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmamaktadır. Ancak, dağların genellikle karmaşık jeolojik yapıları düşünüldüğünde, Kötü Dağı'nın da benzer bir yapıya sahip olabileceği tahmin edilebilir. Birkaç olimpik havuz kadar bir alanı kaplayan Kötü Dağı, çevresindeki coğrafi oluşumlarla birlikte bir bütünü oluşturur.
 
-Mevsimsel değişikliklere bakıldığında, Kötü Dağı'nın iklim karakteri Anadolu'nun genel iklim yapısına benzerlik gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu mevsimsel özellikler, dağların yüksekliklerine ve çevresindeki coğrafi oluşumlara bağlı olarak değişebilir. Eiffel Kulesi'nin birkaç katı yükseklikte bulunan Kötü Dağı, bu yüksekliğiyle birlikte çevresindeki iklimi etkileyen bir faktör olabilir.
+Mevsimsel değişikliklere bakıldığında, Kötü Dağı'nın iklim karakteri Anadolu'nun genel iklim yapısına benzerlik gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu mevsimsel özellikler, dağların yüksekliklerine ve çevresindeki coğrafi oluşumlara bağlı olarak değişebilir. Eiffel Kulesi'nin birkaç katı yükseklikte bulunan Kötü Dağı, bu yüksekliğiyle birlikte çevresindeki iklimi etkileyen bir faktör olabilir.
 
 Çevresel açıdan bakıldığında, Kötü Dağı'nın komşu alanlar, su kaynakları ve ekosistem bağlantıları ile önemli bir ilişkiye sahip olduğu görülür. Dağın eteklerinde yer alan ovalar ve düzlükler, tarımsal faaliyetler için elverişli alanlar sunar. Ayrıca, Kötü Dağı'nın Monaco'nun onda biri kadar bir alanı kaplayan büyüklüğü, çevresindeki ekosistemi etkileyen bir faktör olarak değerlendirilebilir.
 

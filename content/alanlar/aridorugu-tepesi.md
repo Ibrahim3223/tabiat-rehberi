@@ -36,7 +36,7 @@ Arıdoruğu Tepesi'nin tarihi geçmişi, Ankara'nın zengin tarihine ışık tut
 
 ## Coğrafya
 
-Arıdoruğu Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu tepe, Ankara'nın merkezine yakın bir konumda yer alıyor ve yaklaşık 140 hektarlık bir alana sahip. Bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Arıdoruğu Tepesi, aynı zamanda Ankara'nın iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Bu tepe, kışları soğu ve karlı, yazları ise sıcak ve kuru bir iklimi experiencia ediyor. Arıdoruğu Tepesi, Ankara'nın coğrafi güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak kabul ediliyor. Bu tepe, aynı zamanda ziyaretçilerine, Ankara'nın doğal güzelliklerini keşfetme fırsatı sunuyor.
+Arıdoruğu Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu tepe, Ankara'nın merkezine yakın bir konumda yer alıyor ve yaklaşık 140 hektarlık bir alana sahip. Bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Arıdoruğu Tepesi, aynı zamanda Ankara'nın iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Bu tepe, kışları soğuk ve karlı, yazları ise sıcak ve kuru bir iklimi experiencia ediyor. Arıdoruğu Tepesi, Ankara'nın coğrafi güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak kabul ediliyor. Bu tepe, aynı zamanda ziyaretçilerine, Ankara'nın doğal güzelliklerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

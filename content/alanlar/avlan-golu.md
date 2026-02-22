@@ -49,7 +49,7 @@ Güney kıyılarımızın güzelliği, Avlan Gölü'nün bulunduğu Antalya ili 
 
 Doğal bir güzelliğin merkezinde yer alan Avlan Gölü, boyut olarak bir olimpik havuzun birkaç katı büyüklüğünde. Ancak, fiziksel yapısı hakkında detaylı bilgi bulunmaması, bu doğal hazinenin tam olarak anlaşılmasını güçleştiriyor. Avlan Gölü'nün jeolojik özellikleri, Akdeniz bölgesinin karakteristik özelliklerini taşıyor. Bu bölgede, kireç taşı ve kumtaşı gibi kayaçlar yaygın olarak görülüyor.
 
-İklim açısından, Avlan Gölü ve çevresi, Akdeniz ikliminin tipik özelliklerini gösteriyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakim. Bu mevsimsel farklılıklar, bölgenin flora ve fauna çeşitliliğini etkiliyor. Gölün su seviyesi, mevsimsel yağışlarla birlikte değişkenlik gösteriyor.
+İklim açısından, Avlan Gölü ve çevresi, Akdeniz ikliminin tipik özelliklerini gösteriyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakim. Bu mevsimsel farklılıklar, bölgenin flora ve fauna çeşitliliğini etkiliyor. Gölün su seviyesi, mevsimsel yağışlarla birlikte değişkenlik gösteriyor.
 
 Avlan Gölü, çevresindeki ekosistemi destekleyen önemli bir su kaynağı. Bu göl, komşu alanlardaki bitki ve hayvan türleri için hayati önem taşıyor. Gölün su kalitesi, bölgenin ekolojik dengesini koruması açısından kritik bir rol oynuyor. Avlan Gölü, doğal güzelliği ve çevresel önemine rağmen, daha fazla dikkat ve koruma gerektiriyor. Bu doğal hazinenin korunması, gelecek nesiller için önemli bir sorumluluk.
 

@@ -36,7 +36,7 @@ Soytarı Tepesi'nin tarihi geçmişi, Gaziantep'in tarihi ile iç içe geçmiş 
 
 ## Coğrafya
 
-Soytarı Tepesi, Gaziantep'in coğrafi yapısını şekillendiren önemli bir bileşendir. Bu tepe, şehrin merkezine yakın bir konumda yer almakta ve çevresindeki diğer tepe ve dağlarla birlikte bir bütün olarak görülmektedir. Bölgenin iklimi, genel olarak sıca ve kuru olmakla birlikte, Soytarı Tepesi'nin yüksekliği ve bitki örtüsü, mikro bir iklim yaratmaktadır. Tepenin eteklerinde ve etrafında, çeşitli bitki türleri ve ağaçlar foundur, bu da bölgenin ekolojik dengesini korumakta önemli bir rol oynamaktadır. Soytarı Tepesi, aynı zamanda çevresindeki diğer doğal alanlarla birlikte bir bütün olarak değerlendirilmekte ve bölgenin coğrafi çeşitliliği açısından önemli bir konumda bulunmaktadır.
+Soytarı Tepesi, Gaziantep'in coğrafi yapısını şekillendiren önemli bir bileşendir. Bu tepe, şehrin merkezine yakın bir konumda yer almakta ve çevresindeki diğer tepe ve dağlarla birlikte bir bütün olarak görülmektedir. Bölgenin iklimi, genel olarak sıcak ve kuru olmakla birlikte, Soytarı Tepesi'nin yüksekliği ve bitki örtüsü, mikro bir iklim yaratmaktadır. Tepenin eteklerinde ve etrafında, çeşitli bitki türleri ve ağaçlar foundur, bu da bölgenin ekolojik dengesini korumakta önemli bir rol oynamaktadır. Soytarı Tepesi, aynı zamanda çevresindeki diğer doğal alanlarla birlikte bir bütün olarak değerlendirilmekte ve bölgenin coğrafi çeşitliliği açısından önemli bir konumda bulunmaktadır.
 
 ## Flora ve Fauna
 

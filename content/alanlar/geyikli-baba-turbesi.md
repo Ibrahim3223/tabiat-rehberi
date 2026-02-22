@@ -38,7 +38,7 @@ Geyikli Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
 
 ## Coğrafya
 
-Geyikli Baba Türbesi, Bursa'nın Kestel ilçesinde yer almaktadır. Bu bölge, Marmara Bölgesi'nin coğrafi özelliklerini taşır. Bölge, 140 hektarlık bir yeşil alan üzerine kurulmuş olup, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Geyikli Baba Türbesi'nin coğrafi konumu, ziyaretçilerin bölgeyi kolayca ulaşabilmesini sağlar. Bölge, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Geyikli Baba Türbesi'nin iklimi, Marmara Bölgesi'nin iklimine uygun olarak değişkenlik gösterir. Bölge, yaz aylarında sıca ve nemli, kış aylarında ise soğu ve yağışlı bir iklim özelliği taşır.
+Geyikli Baba Türbesi, Bursa'nın Kestel ilçesinde yer almaktadır. Bu bölge, Marmara Bölgesi'nin coğrafi özelliklerini taşır. Bölge, 140 hektarlık bir yeşil alan üzerine kurulmuş olup, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Geyikli Baba Türbesi'nin coğrafi konumu, ziyaretçilerin bölgeyi kolayca ulaşabilmesini sağlar. Bölge, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Geyikli Baba Türbesi'nin iklimi, Marmara Bölgesi'nin iklimine uygun olarak değişkenlik gösterir. Bölge, yaz aylarında sıcak ve nemli, kış aylarında ise soğuk ve yağışlı bir iklim özelliği taşır.
 
 ## Flora ve Fauna
 

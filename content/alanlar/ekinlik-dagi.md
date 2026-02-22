@@ -44,7 +44,7 @@ Güneybatı Konya'da yer alan Ekinlik Dağı, 37.5686°K ve 33.2671°D koordinat
 
 Doğal güzelliği ile dikkat çeken Ekinlik Dağı, çevresindeki coğrafyadan slightly yüksekte bir konumda yer alıyor. Yüksekliği, yaklaşık 85 katlı bir gökdelen kadar olan bu dağ, jeolojik olarak oldukça ilginç bir yapıya sahip. Ancak, fiziksel veriler sınırlı olduğu için, dağın boyutları ve şekli hakkında net bir bilgi bulunmuyor.
 
-Mevsimsel özellikler açısından bakıldığında, Ekinlik Dağı'nın iklimi, Konya'nın genel iklimine benzerlik gösteriyor. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve kar yağışlı bir hava durumu hakim. Bu mevsimsel değişimler, dağın ekosistemini ve bitki örtüsünü etkiliyor.
+Mevsimsel özellikler açısından bakıldığında, Ekinlik Dağı'nın iklimi, Konya'nın genel iklimine benzerlik gösteriyor. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve kar yağışlı bir hava durumu hakim. Bu mevsimsel değişimler, dağın ekosistemini ve bitki örtüsünü etkiliyor.
 
 Çevresel açıdan bakıldığında, Ekinlik Dağı, komşu alanlar ve su kaynakları ile önemli bir bağlantıya sahip. Dağın yakınında, çeşitli su kaynakları ve akarsular bulunuyor. Bu su kaynakları, dağın ekosistemini destekleyerek, yerel flora ve faunanın yaşamasına olanak tanıyor. Ayrıca, Ekinlik Dağı, Monaco'nun yarısı kadar büyük bir alan içinde yer alan Konya ilinin, doğal güzelliklerine katkıda bulunuyor.
 

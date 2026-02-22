@@ -37,7 +37,7 @@ Kadı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bölge,
 
 ## Coğrafya
 
-Kadı Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısında önemli bir yer tutar. Tepenin konumu, bölgenin merkezi kısmında yer alır ve etrafı geniş otlaklarla çevrilidir. İklim, karasal özellikleri taşır ve mevsimsel değişimler belirgindir. Kış ayları soğu ve kar yağışlı geçerken, yaz ayları sıca ve kurudur. Tepenin zirvesi, bölgenin en yüksek noktalarından biri olup, buradan tüm bölgeye hakim bir manzara seyretme mümkündür. Coğrafi yapısı, flora ve fauna çeşitliliği açısından da zengindir. Çeşitli bitki türleri ve hayvanlar, bu bölgeye özgüdür ve doğal dengeyi koruma altına almıştır.
+Kadı Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısında önemli bir yer tutar. Tepenin konumu, bölgenin merkezi kısmında yer alır ve etrafı geniş otlaklarla çevrilidir. İklim, karasal özellikleri taşır ve mevsimsel değişimler belirgindir. Kış ayları soğuk ve kar yağışlı geçerken, yaz ayları sıcak ve kurudur. Tepenin zirvesi, bölgenin en yüksek noktalarından biri olup, buradan tüm bölgeye hakim bir manzara seyretme mümkündür. Coğrafi yapısı, flora ve fauna çeşitliliği açısından da zengindir. Çeşitli bitki türleri ve hayvanlar, bu bölgeye özgüdür ve doğal dengeyi koruma altına almıştır.
 
 ## Flora ve Fauna
 

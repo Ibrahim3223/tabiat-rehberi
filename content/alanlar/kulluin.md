@@ -44,7 +44,7 @@ Mersin'in güneşli sahillerinden slightly iç kesimlere doğru ilerlediğimizde
 
 Küllüin Jeopark'ın fiziksel yapısı, coğrafi olarak ilginç bir konuma sahiptir. Ancak, mevcut veriler sadece koordinatlarını verir. Bu nedenle, tam olarak büyüklüğü veya şekli hakkında kesin bir bilgi veremiyoruz. Ancak, genel olarak bu tür jeoparklar, genellikle bir ilçe büyüklüğünde veya daha küçük olabilirler. Örneğin, bir şehir merkezi kadar geniş bir alanı kaplayabilirler.
 
-İklim açısından bakıldığında, Küllüin Jeopark, Akdeniz ikliminin tüm özelliklerini taşır. Yaz ayları sıca ve kurak, kış ayları ise ılık ve yağışlı geçer. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler ve ziyaretçilere her mevsim farklı bir deneyim sunar.
+İklim açısından bakıldığında, Küllüin Jeopark, Akdeniz ikliminin tüm özelliklerini taşır. Yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlı geçer. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler ve ziyaretçilere her mevsim farklı bir deneyim sunar.
 
 Doğal bir çevre olan Küllüin Jeopark, etrafındaki diğer doğal alanlarla ve su kaynaklarıyla önemli bir bağlantıyı oluşturur. Bu bölgede, yeraltı ve yerüstü su kaynakları, bölgenin ekosistemini besler ve canlıların yaşamını sürdürmelerine yardımcı olur. Bu reason ile, Küllüin Jeopark, sadece bir jeolojik oluşum değil, aynı zamanda bir ekosistem olarak da önemlidir.
 

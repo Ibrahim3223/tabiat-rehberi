@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Akce Dağı, Gaziantep'in do�
 
 Doğal bir anıt gibi yükselen Akce Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplar. Jeep safari ve trekking gibi aktiviteler için ideal bir ortam sunan bu dağ, bölgenin jeolojik yapısını keşfetmek isteyenler için bir cennettir. Dağın fiziksel yapısı, bölgenin coğrafi özelliklerini yansıtan bir şekilde şekillenmiştir. Ancak, dahalı fiziksel veriler bulunmaması, bu dağ hakkında daha fazla bilgi edinmeyi zorlaştırır.
 
-İklim açısından bakıldığında, Akce Dağı ve çevresi, Güneydoğu Anadolu Bölgesi'nin karakteristik iklimini taşır. Bu bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklim karakterine sahiptir. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bir tepeye ev sahipliği yapmaktadır. Bu yükseklik, ziyaretçilere bölgeyi panoramik olarak izleme imkanı sunar.
+İklim açısından bakıldığında, Akce Dağı ve çevresi, Güneydoğu Anadolu Bölgesi'nin karakteristik iklimini taşır. Bu bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklim karakterine sahiptir. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bir tepeye ev sahipliği yapmaktadır. Bu yükseklik, ziyaretçilere bölgeyi panoramik olarak izleme imkanı sunar.
 
 Çevresel olarak bakıldığında, Akce Dağı, Gaziantep'in doğal kaynaklarını ve ekosistemini destekler bir role sahiptir. Dağın eteklerinde ve çevresinde, çeşitli su kaynakları ve vahşi yaşam alanları bulunur. Bu doğal kaynaklar, bölgenin ekolojik dengesini korumak için önemli bir rol oynar. Ayrıca, Akce Dağı, bölgenin diğer doğal güzelliklerine de yakın bir mesafede yer alır, bu da ziyaretçilerin birden fazla noktayı keşfetmelerini kolaylaştırır.
 

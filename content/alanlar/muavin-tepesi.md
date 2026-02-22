@@ -36,7 +36,7 @@ Muavin Tepesi'nin tarihi geçmişi oldukça eskidir. Yüzyıllar boyunca, bu tep
 
 ## Coğrafya
 
-Muavin Tepesi, Siirt ilinin coğrafi yapısına uygun olarak, dağlık ve engebeli bir arazide yer alır. Tepenin etrafı, zengin bir flora ile çevrilidir ve bu, tepeye ayrı bir güzellik kazandırır. İklim koşulları, bölgenin coğrafi konumuna bağlı olarak değişir. Kış ayları soğu ve yağışlı, yaz ayları ise sıcak ve kurudur. Bu iklim koşulları, Muavin Tepesi'nin flora ve faunasını etkiler. Tepenin yüksekliği ve coğrafi konumu, burada yaşayan canlılar için uygun bir yaşam alanı sağlar. Muavin Tepesi, ziyaretçilerine doğanın güzelliğini ve zenginliğini sunar. Tepenin manzarası, özellikle gün batımı saatlerinde muhteşemdir.
+Muavin Tepesi, Siirt ilinin coğrafi yapısına uygun olarak, dağlık ve engebeli bir arazide yer alır. Tepenin etrafı, zengin bir flora ile çevrilidir ve bu, tepeye ayrı bir güzellik kazandırır. İklim koşulları, bölgenin coğrafi konumuna bağlı olarak değişir. Kış ayları soğuk ve yağışlı, yaz ayları ise sıcak ve kurudur. Bu iklim koşulları, Muavin Tepesi'nin flora ve faunasını etkiler. Tepenin yüksekliği ve coğrafi konumu, burada yaşayan canlılar için uygun bir yaşam alanı sağlar. Muavin Tepesi, ziyaretçilerine doğanın güzelliğini ve zenginliğini sunar. Tepenin manzarası, özellikle gün batımı saatlerinde muhteşemdir.
 
 ## Flora ve Fauna
 

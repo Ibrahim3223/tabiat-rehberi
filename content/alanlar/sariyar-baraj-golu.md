@@ -44,7 +44,7 @@ Sarıyar Baraj Gölü, Ankara'nın kuzeydoğusunda, 40.0253°K ve 31.6286°D koo
 
 Doğal bir set oluşturan Sarıyar Barajı, çevresi 1200 hektarlık bir yeşil cenneti korur. Bu alan, İstanbul'un Adalar ilçesi büyüklüğünde bir bölgeyi kapsar ve Ankara'nın toplam yüzölçümünün önemli bir bölümünü oluşturur. Sarıyar Baraj Gölü'nün fiziksel yapısı, Ankara'nın jeolojik özellikleri ile şekillenmiştir. Bölgenin jeolojik yapısı, gölün derinliğini ve su seviyesini etkileyen önemli faktörlerden biridir.
 
-İklim koşulları açısından Sarıyar Baraj Gölü, Ankara'nın karasal ikliminin característicasını taşır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürer. Bu mevsimsel değişimler, gölün su seviyesini ve çevredeki bitki örtüsünü etkiler. Gölün su seviyesi, mevsimsel yağışlara bağlı olarak değişir ve bu değişimler, gölün ekosistemini etkileyen önemli faktörlerden biridir.
+İklim koşulları açısından Sarıyar Baraj Gölü, Ankara'nın karasal ikliminin característicasını taşır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürer. Bu mevsimsel değişimler, gölün su seviyesini ve çevredeki bitki örtüsünü etkiler. Gölün su seviyesi, mevsimsel yağışlara bağlı olarak değişir ve bu değişimler, gölün ekosistemini etkileyen önemli faktörlerden biridir.
 
 Sarıyar Baraj Gölü, çevresindeki doğal alanlar ile önemli bir ekosistem bağlantısı oluşturur. Göl, su kaynakları ve bitki örtüsü açısından zengin bir bölgede yer alır ve bu zenginlik, bölgenin biyolojik çeşitliliğini destekler. Sarıyar Baraj Gölü'nün çevresindeki komşu alanlar, Ankara'nın önemli doğal güzelliklerinden biridir ve göl, bu güzelliklerin korunmasına katkıda bulunur.
 

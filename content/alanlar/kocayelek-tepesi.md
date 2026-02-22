@@ -36,7 +36,7 @@ Kocayelek Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkla
 
 ## Coğrafya
 
-Kocayelek Tepesi, coğrafi olarak Akdeniz Bölgesi'nin đc trưng özelliklerini taşıyor. Bölge, genellikle sıca ve kurak bir iklime sahip ve bu nedenle flora ve fauna çeşitliliği açısından zengin değil. Ancak, Kocayelek Tepesi, bölgenin ekolojik dengesini korumak için önemli bir role sahip ve bu nedenle doğal alanların korunmasına dikkat ediliyor. Kocayelek Tepesi'nin coğrafi konumu, ziyaretçilerin bölgenin diğer önemli noktalarına kolayca ulaşmalarını sağlıyor ve bu nedenle bölgenin önemli bir merkezi olarak kabul ediliyor. Özellikle bölgenin coğrafi yapısı, ziyaretçilerin doğa yürüyüşleri ve diğer outdoor aktivitelerine katılmalarına olanak tanıyor.
+Kocayelek Tepesi, coğrafi olarak Akdeniz Bölgesi'nin đc trưng özelliklerini taşıyor. Bölge, genellikle sıcak ve kurak bir iklime sahip ve bu nedenle flora ve fauna çeşitliliği açısından zengin değil. Ancak, Kocayelek Tepesi, bölgenin ekolojik dengesini korumak için önemli bir role sahip ve bu nedenle doğal alanların korunmasına dikkat ediliyor. Kocayelek Tepesi'nin coğrafi konumu, ziyaretçilerin bölgenin diğer önemli noktalarına kolayca ulaşmalarını sağlıyor ve bu nedenle bölgenin önemli bir merkezi olarak kabul ediliyor. Özellikle bölgenin coğrafi yapısı, ziyaretçilerin doğa yürüyüşleri ve diğer outdoor aktivitelerine katılmalarına olanak tanıyor.
 
 ## Flora ve Fauna
 

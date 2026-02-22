@@ -44,7 +44,7 @@ Ebzer Dağı'nın bulunduğu bölge, coğrafi konumu itibariyle önemli bir geç
 
 Doğal güzellikleri ve coğrafi çeşitliliği ile dikkat çeken Ebzer Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Bu küçük ama önemli coğrafi oluşum, bölgenin jeolojik yapısına ışık tutmaktadır. Jeolojik açıdan incelendiğinde, Ebzer Dağı'nın çevresinde volkanik kayaçlar ve sedimentler görülmektedir. Bu özellikler, bölgenin jeolojik geçmişini ve coğrafi oluşumunu anlamak için önemli ipuçları sunmaktadır.
 
-Mevsimsel değişimlerin Ebzer Dağı'nda da hissedildiği görülür. Kış aylarında karla kaplı dağlar, ilkbaharla birlikte yeşillenmeye başlar. Yaz aylarında ise, sıca ve kurak bir hava hakimdir. Bu mevsimsel özellikler, bölgenin iklim karakterini şekillendirmektedir. Ayrıca, bölgenin yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olduğu için, iklim koşulları da buna göre değişkenlik göstermektedir.
+Mevsimsel değişimlerin Ebzer Dağı'nda da hissedildiği görülür. Kış aylarında karla kaplı dağlar, ilkbaharla birlikte yeşillenmeye başlar. Yaz aylarında ise, sıcak ve kurak bir hava hakimdir. Bu mevsimsel özellikler, bölgenin iklim karakterini şekillendirmektedir. Ayrıca, bölgenin yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olduğu için, iklim koşulları da buna göre değişkenlik göstermektedir.
 
 Bölgenin ekosistemine baktığımızda, Ebzer Dağı'nın komşu alanlarla ve su kaynaklarıyla önemli bir ilişkisi olduğunu görürüz. Dağın eteklerinde yer alan akarsular ve dereler, bölgenin su kaynaklarını beslemektedir. Ayrıca, Ebzer Dağı, bölgedeki diğer dağlık alanlarla birlikte, bir ekosistem bağlantısı oluşturmaktadır. Bu bağlantı, flora ve fauna çeşitliliğinin korunmasına yardımcı olmaktadır.
 

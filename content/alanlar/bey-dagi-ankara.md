@@ -44,7 +44,7 @@ Genel olarak Ankara'nın kuzeybatısında yer alan Bey Dağı, 39.7675°K ve 32.
 
 Doğal güzellikleri ve coğrafi özellikleri açısından bakıldığında, Bey Dağı'nın boyutları hakkında kesin bir veri bulunmasa da, Ankara'nın genel coğrafyası içinde önemli bir yer tuttuğu söylenebilir. Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplayan bu dağ, Ankara'nın kuzeybatı kesiminde yer alan diğer dağlarla birlikte bir bütünü oluşturur. Jeolojik açıdan, bölgenin genel olarak volkanik kayaçlardan oluştuğunu söyleme mümkündür.
 
-Mevsimsel olarak, Bey Dağı'nın iklimi Ankara'nın genel iklimine benzerlik gösterir. Kış aylarında kar yağışı görülürken, yaz aylarında sıca ve kurak bir hava hakimdir. Etrafındaki ormanlık alanlar, bölgenin mikro iklimini düzenlemede önemli bir rol oynar. Hava durumuna bakıldığında, Ankara'nın genelinde olduğu gibi, burada da mevsimsel değişiklikler belirgindir.
+Mevsimsel olarak, Bey Dağı'nın iklimi Ankara'nın genel iklimine benzerlik gösterir. Kış aylarında kar yağışı görülürken, yaz aylarında sıcak ve kurak bir hava hakimdir. Etrafındaki ormanlık alanlar, bölgenin mikro iklimini düzenlemede önemli bir rol oynar. Hava durumuna bakıldığında, Ankara'nın genelinde olduğu gibi, burada da mevsimsel değişiklikler belirgindir.
 
 Çevresel açıdan bakıldığında, Bey Dağı'nın komşu alanlar ve su kaynaklarıyla bağlantılı bir ekosistem içinde yer aldığı görülür. Yakınlarında bulunan ormanlık alanlar ve tarım arazileri, bu bölgenin ekolojik dengesini korur. Ayrıca, bölgedeki su kaynakları, Ankara'nın su ihtiyacını karşılamada önemli bir rol oynar. Bu nedenle, Bey Dağı ve çevresinin korunması, Ankara'nın çevre ve ekosistem dengesi için büyük önem taşır.
 

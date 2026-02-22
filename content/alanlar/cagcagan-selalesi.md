@@ -39,7 +39,7 @@ wikidata_id: "Q124363438"
 
 ## Ziyaret Bilgileri
 
-Çağçağan Şelalesi'ni ziyaret etmek isteyenler, Artvin merkezine gelirler. Şelaleye ulaşım, araç veya yaya olara mümkündür. Şelale, yılın her dönemi ziyaret edilebilir, ancak en iyi ziyaret dönemi ilkbahar ve yaz aylarıdır. Bu dönemde, hava daha sıca ve güneşli olur. Şelaleye gidilirken, uygun kıyafetler ve ayakkabılar tercih edilmelidir. Ziyaret süresi, şahsi tercihlere göre değişebilir, ancak ortalama 2-3 saat sürebilir. Şelale çevresinde, çeşitli etkinlikler yapılabileceği gibi, doğa yürüyüşleri veya piknik de yapılabilir.
+Çağçağan Şelalesi'ni ziyaret etmek isteyenler, Artvin merkezine gelirler. Şelaleye ulaşım, araç veya yaya olara mümkündür. Şelale, yılın her dönemi ziyaret edilebilir, ancak en iyi ziyaret dönemi ilkbahar ve yaz aylarıdır. Bu dönemde, hava daha sıcak ve güneşli olur. Şelaleye gidilirken, uygun kıyafetler ve ayakkabılar tercih edilmelidir. Ziyaret süresi, şahsi tercihlere göre değişebilir, ancak ortalama 2-3 saat sürebilir. Şelale çevresinde, çeşitli etkinlikler yapılabileceği gibi, doğa yürüyüşleri veya piknik de yapılabilir.
 
 ## İlginç Bilgiler
 

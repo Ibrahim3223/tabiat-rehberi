@@ -43,7 +43,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden biri olan Bingöl'ün dağlık yap
 
 Jeolojik açıdan bakıldığında, Lis Dağı'nın tam olarak boyutları veya şekli hakkında net bilgiler olmasa da, bu dağların çoğu gibi, oluşumunda volkanik faaliyetlerin etkili olduğu düşünülüyor. Monaco'nun yarısı kadar bir alana yayılan bu dağlık bölge, coğrafi olarak oldukça çeşitli bir yapıya sahip. Yükseklik bakımından Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan Lis Dağı, bölgenin en önemli coğrafi oluşumlarından biri olarak kabul ediliyor.
 
-Mevsimler açısından bakıldığında, Lis Dağı ve çevresinin iklimi, Doğu Anadolu Bölgesi'nin genel iklim karakterine uygun olarak, karasal iklim özellikleri gösteriyor. Kış aylarında oldukça soğu ve kar yağışlı olan bu bölge, yaz aylarında ise serin ve yağışlı bir hava koşuluna sahip. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor.
+Mevsimler açısından bakıldığında, Lis Dağı ve çevresinin iklimi, Doğu Anadolu Bölgesi'nin genel iklim karakterine uygun olarak, karasal iklim özellikleri gösteriyor. Kış aylarında oldukça soğuk ve kar yağışlı olan bu bölge, yaz aylarında ise serin ve yağışlı bir hava koşuluna sahip. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor.
 
 Ekosistem bağlamında, Lis Dağı ve çevresi, çeşitli bitki ve hayvan türleri için yaşam alanı oluşturuyor. Bingöl Çayı gibi su kaynaklarına yakın konumu, bu bölgenin çevresel önemini daha da artırıyor. Taksim Meydanı'nın yaklaşık 100 katı büyüklüğünde olan bu dağlık alan, doğal kaynaklar ve biyolojik çeşitlilik açısından önemli bir role sahip.
 

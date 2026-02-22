@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Hasanağa Tepe, Van'ın eşsiz coğrafya
 
 Jeolojik açıdan bakıldığında, Hasanağa Tepe'nin fiziksel yapısı hakkında detaylı bilgiler mevcut olmasa da, genel olarak bölgenin coğrafyası oldukça engebeli ve dağlık. Bu tepe, Van'ın dağlık arazisinin bir parçası olarak düşünülebilir. Boyutları hakkında kesin bir veri olmasa da, bu tepeyi Monaco'nun küçük bir bölümü gibi düşünebiliriz, ancak tam olarak boyutu bilinmediğiçin bu sadece bir tahmin.
 
-Mevsimler boyunca Hasanağa Tepe'nin iklimi, Van'ın genel iklim karakterini yansıtıyor. Kış aylarında oldukça soğu ve karlı olan bu bölge, yaz aylarında ise sıca ve kurak bir hava durumu sergiliyor. Etrafındaki dağların etkisini gösteren bu iklim, ziyaretçilere dört mevsim boyunca farklı deneyimler sunuyor.
+Mevsimler boyunca Hasanağa Tepe'nin iklimi, Van'ın genel iklim karakterini yansıtıyor. Kış aylarında oldukça soğuk ve karlı olan bu bölge, yaz aylarında ise sıcak ve kurak bir hava durumu sergiliyor. Etrafındaki dağların etkisini gösteren bu iklim, ziyaretçilere dört mevsim boyunca farklı deneyimler sunuyor.
 
 Çevresel açıdan bakıldığında, Hasanağa Tepe Van Gölü'ne oldukça yakın bir konumda bulunuyor. Bu göl, Türkiye'nin en büyük gölü olarak biliniyor ve tepeye eşsiz bir manzara sunuyor. Ayrıca, tepe etrafındaki arazide çeşitli su kaynakları ve ekosistemler yer alıyor. Bu doğal güzellikler, Hasanağa Tepe'yi ziyaret edenler için unutulmaz bir deneyim sunuyor.
 

@@ -36,7 +36,7 @@ Gökgedik Tepesi'nin tarihi geçmişi hakkında detaylı bilgiler bulunmamaktad�
 
 ## Coğrafya
 
-Gökgedik Tepesi, Akdeniz Bölgesi'nin coğrafi yapısına uygun olarak, sıca ve kurak bir iklimi sahiptir. Tepenin etrafında, çeşitli bitki türleri bulunur ve bu bitkiler, tepeyi ziyaret eden için bir doğa harikası gibi görünür. Gökgedik Tepesi, aynı zamanda yaban hayatı açısından zengin bir alandır ve çeşitli hayvan türleri, bu tepe ve çevresinde yaşar. Tepenin manzarası, ziyaretçileri büyüleyici bir şekilde etkiler ve bu manzara, Gökgedik Tepesi'ni ziyaret etmek için en önemli nedenlerden biridir. Gökgedik Tepesi'nin coğrafi yapısı, ziyaretçileri farklı mevsimlerde ziyaret etmeye teşvik eder ve her mevsim, bu tepeyi ziyaret etmek için farklı bir neden sunar.
+Gökgedik Tepesi, Akdeniz Bölgesi'nin coğrafi yapısına uygun olarak, sıcak ve kurak bir iklimi sahiptir. Tepenin etrafında, çeşitli bitki türleri bulunur ve bu bitkiler, tepeyi ziyaret eden için bir doğa harikası gibi görünür. Gökgedik Tepesi, aynı zamanda yaban hayatı açısından zengin bir alandır ve çeşitli hayvan türleri, bu tepe ve çevresinde yaşar. Tepenin manzarası, ziyaretçileri büyüleyici bir şekilde etkiler ve bu manzara, Gökgedik Tepesi'ni ziyaret etmek için en önemli nedenlerden biridir. Gökgedik Tepesi'nin coğrafi yapısı, ziyaretçileri farklı mevsimlerde ziyaret etmeye teşvik eder ve her mevsim, bu tepeyi ziyaret etmek için farklı bir neden sunar.
 
 ## Flora ve Fauna
 

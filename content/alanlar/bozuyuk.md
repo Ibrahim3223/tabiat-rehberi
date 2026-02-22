@@ -31,7 +31,7 @@ Bozüyük'ün tarihi geçmişi, İç Anadolu Bölgesi'nin tarihini yansıtıyor.
 
 ## Coğrafya
 
-Bozüyük, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölge. 140 hektarlık yeşil alan, çeşitli bitki türleriyle kaplı ve yaban hayatının zenginliğini sunuyor. Bu doğal cennet, ziyaretçilerini şehrin gürültüsünden uzaklaştırmaya ve doğanın sükunetine davet etmeye hazır. Bozüyük'ün coğrafi konumu, İç Anadolu Bölgesi'nin ortasında yer alıyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve mevsimsel değişimlere göre farklılık gösteriyor. Kış ayları soğu ve kar yağışlı, yaz ayları sıca ve kurak geçiyor. Bu mevsimsel değişimler, bölgenin flora ve faunasını etkiliyor ve çeşitli canlı türlerinin yaşamını destekliyor.
+Bozüyük, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölge. 140 hektarlık yeşil alan, çeşitli bitki türleriyle kaplı ve yaban hayatının zenginliğini sunuyor. Bu doğal cennet, ziyaretçilerini şehrin gürültüsünden uzaklaştırmaya ve doğanın sükunetine davet etmeye hazır. Bozüyük'ün coğrafi konumu, İç Anadolu Bölgesi'nin ortasında yer alıyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve mevsimsel değişimlere göre farklılık gösteriyor. Kış ayları soğuk ve kar yağışlı, yaz ayları sıcak ve kurak geçiyor. Bu mevsimsel değişimler, bölgenin flora ve faunasını etkiliyor ve çeşitli canlı türlerinin yaşamını destekliyor.
 
 ## Flora ve Fauna
 

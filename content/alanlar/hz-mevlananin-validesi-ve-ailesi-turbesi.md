@@ -37,11 +37,11 @@ Hz. Mevlana’nın Validesi ve Ailesi Türbesi'nin tarihi geçmişi, Mevlana'nı
 
 ## Coğrafya
 
-Hz. Mevlana’nın Validesi ve Ailesi Türbesi, Karaman ilinin merkezinde yer alan bir bölgede bulunmaktadır. Türbe, 140 hektarlık bir alana kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Türbenin çevresi, tarihi ve kültürel değerlere sahip önemli yapılardan oluşmaktadır. Karaman ilinin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik göstermektedir. Bölge, yazları sıca ve kurak, kışları soğu ve karlı bir iklime sahiptir. Türbe, ziyaretçiler tarafından yılın her döneminde ziyaret edilebilir, ancak en uygun ziyaret zamanı ilkbahar ve sonbahar aylarıdır.
+Hz. Mevlana’nın Validesi ve Ailesi Türbesi, Karaman ilinin merkezinde yer alan bir bölgede bulunmaktadır. Türbe, 140 hektarlık bir alana kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Türbenin çevresi, tarihi ve kültürel değerlere sahip önemli yapılardan oluşmaktadır. Karaman ilinin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik göstermektedir. Bölge, yazları sıcak ve kurak, kışları soğuk ve karlı bir iklime sahiptir. Türbe, ziyaretçiler tarafından yılın her döneminde ziyaret edilebilir, ancak en uygun ziyaret zamanı ilkbahar ve sonbahar aylarıdır.
 
 ## Flora ve Fauna
 
-Hz. Mevlana’nın Validesi ve Ailesi Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir. Bölge, İç Anadolu Bölgesi'nin genel bitki örtüsüne benzerlik göstermektedir. Mevsimsel değişimler, bölgenin flora ve faunasını etkilemektedir. İlkbahar ve sonbahar ayları, bölgenin en yeşil ve canlı olduğu dönemlerdir. Kış ayları, bölgenin en soğu ve karlı olduğu dönemdir. Türbe, ziyaretçiler tarafından yılın her döneminde ziyaret edilebilir ve bölgenin flora ve faunası, ziyaretçiler için önemli bir çekim merkezi oluşturmaktadır.
+Hz. Mevlana’nın Validesi ve Ailesi Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir. Bölge, İç Anadolu Bölgesi'nin genel bitki örtüsüne benzerlik göstermektedir. Mevsimsel değişimler, bölgenin flora ve faunasını etkilemektedir. İlkbahar ve sonbahar ayları, bölgenin en yeşil ve canlı olduğu dönemlerdir. Kış ayları, bölgenin en soğuk ve karlı olduğu dönemdir. Türbe, ziyaretçiler tarafından yılın her döneminde ziyaret edilebilir ve bölgenin flora ve faunası, ziyaretçiler için önemli bir çekim merkezi oluşturmaktadır.
 
 ## Ziyaret Bilgileri
 

@@ -37,11 +37,11 @@ Akbeşe Sultan Mescidi, tarih boyunca önemli bir dini merkez olarak hizmet verm
 
 ## Coğrafya
 
-Akbeşe Sultan Mescidi, Alanya'nın Akdeniz sahil şeridinde yer alır. Bu bölge, genellikle sıca ve nemli bir iklime sahiptir. Mescidin bulunduğu alan, çoğunlukla tarım arazileri ve yerleşim yerleriyle çevrilidir. Yaklaşık 180 hektarlık bir alanı kaplayan mescit ve çevresi, ziyaretçilere geniş bir açık alan sunar. Bu bölgede, genellikle narenciye ve zeytin ağaçları bulunur. Mescidin mimarisi, Selçuklu veya Osmanlı tarzı olabilir ve bu tarzdaki yapılar, genellikle taş ve tuğla kullanılarak inşa edilmiştir. Mescidin çevresi, genellikle yeşilliklerle dolu olup, ziyaretçilere dinlenme ve doğayı seyretmek için uygun bir ortam sağlar.
+Akbeşe Sultan Mescidi, Alanya'nın Akdeniz sahil şeridinde yer alır. Bu bölge, genellikle sıcak ve nemli bir iklime sahiptir. Mescidin bulunduğu alan, çoğunlukla tarım arazileri ve yerleşim yerleriyle çevrilidir. Yaklaşık 180 hektarlık bir alanı kaplayan mescit ve çevresi, ziyaretçilere geniş bir açık alan sunar. Bu bölgede, genellikle narenciye ve zeytin ağaçları bulunur. Mescidin mimarisi, Selçuklu veya Osmanlı tarzı olabilir ve bu tarzdaki yapılar, genellikle taş ve tuğla kullanılarak inşa edilmiştir. Mescidin çevresi, genellikle yeşilliklerle dolu olup, ziyaretçilere dinlenme ve doğayı seyretmek için uygun bir ortam sağlar.
 
 ## Flora ve Fauna
 
-Akbeşe Sultan Mescidi ve çevresi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölgede, genellikle narenciye, zeytin ve diğer meyve ağaçları bulunur. Ayrıca, mescidin yakınında, ziyaretçilerin dinlenebileceği ve doğayı seyretabileceği alanlar vardır. Bu bölge, birçok kuş türüne ev sahipliği yapmaktadır. Ayrıca, mescidin çevresindeki tarım arazilerinde, çeşitli tarım ürünleri yetiştirilir. Bu bölge, genellikle sıca ve nemli bir iklime sahip olduğu için, flora ve fauna da buna uygun bir şekilde gelişmiştir.
+Akbeşe Sultan Mescidi ve çevresi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölgede, genellikle narenciye, zeytin ve diğer meyve ağaçları bulunur. Ayrıca, mescidin yakınında, ziyaretçilerin dinlenebileceği ve doğayı seyretabileceği alanlar vardır. Bu bölge, birçok kuş türüne ev sahipliği yapmaktadır. Ayrıca, mescidin çevresindeki tarım arazilerinde, çeşitli tarım ürünleri yetiştirilir. Bu bölge, genellikle sıcak ve nemli bir iklime sahip olduğu için, flora ve fauna da buna uygun bir şekilde gelişmiştir.
 
 ## Ziyaret Bilgileri
 
@@ -51,6 +51,6 @@ Akbeşe Sultan Mescidi'ni ziyaret etmek, tarihi ve kültürel bir deneyim sunar.
 
 - Mescidin inşa tarihi tam olarak bilinmemektedir
 - Mescid, Selçuklu veya Osmanlı tarzı olabilir
-- Bölge, genellikle sıca ve nemli bir iklime sahiptir
+- Bölge, genellikle sıcak ve nemli bir iklime sahiptir
 - Mescidin çevresinde, birçok tarım ürünü yetiştirilir
 - Bölge, birçok kuş türüne ev sahipliği yapar

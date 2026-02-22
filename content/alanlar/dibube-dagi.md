@@ -44,7 +44,7 @@ Coğrafi olarak, Dibube Dağı, Artvin ilinin kuzeydoğusunda, 41.3083°K ve 42.
 
 Doğal güzelliği açısından, Dibube Dağı, bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu alan, farklı jeolojik özellikler gösterir, ancak detaylı fiziksel veri bulunmaması, dağın tam boyutlarını ve yapısını tam olarak belirlemeyi zorlaştırır. Dağın yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olabilir, ancak bu bilgi, detaylı fiziksel verilerin eksikliği nedeniyle kesinleştirilemez.
 
-Mevsimsel olarak, Dibube Dağı, Karadeniz ikliminin etkilerini taşır. Bu bölgede, yaz ayları genellikle serin ve yağışlı, kış ayları ise soğu ve karlı geçer. Dağın yüksekliği ve coğrafi konumu, hava durumunu etkileyebilir, ancak iklim karakteri, genel olarak Karadeniz bölgesinin iklimine benzer.
+Mevsimsel olarak, Dibube Dağı, Karadeniz ikliminin etkilerini taşır. Bu bölgede, yaz ayları genellikle serin ve yağışlı, kış ayları ise soğuk ve karlı geçer. Dağın yüksekliği ve coğrafi konumu, hava durumunu etkileyebilir, ancak iklim karakteri, genel olarak Karadeniz bölgesinin iklimine benzer.
 
 Ekosistem açısından, Dibube Dağı, çevresindeki ormanlık alanlar ve su kaynakları ile bağlantılıdır. Dağın yakınında, çeşitli akarsular ve dereler bulunur, bu dağın, bölgenin su kaynakları için önemli bir rol oynadığını gösterir. Dibube Dağı, Monaco'nun çok küçük bir kısmı büyüklüğünde bir alanı kaplasa da, doğal güzelliği ve ekosistem bağlantıları, bölgenin wichtig bir parçasını oluşturur.
 

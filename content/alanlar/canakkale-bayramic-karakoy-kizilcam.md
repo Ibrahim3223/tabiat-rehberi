@@ -30,7 +30,7 @@ Canakkale-Bayramic-Karakoy Kızılçam Milli Parkı, tarihi geçmişi ve doğal 
 
 ## Coğrafya
 
-Canakkale-Bayramic-Karakoy Kızılçam Milli Parkı, Marmara Bölgesi'nin Çanakkale ilinde yer alıyor. Milli park, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu büyük alan, ziyaretçiler için geniş bir doğa alanı sunuyor. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Milli parkın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişkenlik gösteriyor. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürüyor. Bu iklim, milli parkın flora ve faunasını şekillendirmiş ve zenginleştirmiş. Milli parkın çevresi, doğal güzelliği ve ekolojik dengesi korunmuş bir bölge olarak dikkat çekiyor. Canakkale-Bayramic-Karakoy Kızılçam Milli Parkı, ziyaretçiler için bir doğa cenneti sunuyor.
+Canakkale-Bayramic-Karakoy Kızılçam Milli Parkı, Marmara Bölgesi'nin Çanakkale ilinde yer alıyor. Milli park, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu büyük alan, ziyaretçiler için geniş bir doğa alanı sunuyor. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Milli parkın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişkenlik gösteriyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürüyor. Bu iklim, milli parkın flora ve faunasını şekillendirmiş ve zenginleştirmiş. Milli parkın çevresi, doğal güzelliği ve ekolojik dengesi korunmuş bir bölge olarak dikkat çekiyor. Canakkale-Bayramic-Karakoy Kızılçam Milli Parkı, ziyaretçiler için bir doğa cenneti sunuyor.
 
 ## Flora ve Fauna
 
@@ -38,7 +38,7 @@ Canakkale-Bayramic-Karakoy Kızılçam Milli Parkı, zengin flora ve fauna çeş
 
 ## Ziyaret Bilgileri
 
-Canakkale-Bayramic-Karakoy Kızılçam Milli Parkı, yılın her dönemi ziyaret edilebilir. Ancak en iyi ziyaret dönemi, ilkbahar ve yaz ayları olarak kabul ediliyor. Bu dönemde, hava daha sıca ve güneşli, doğa daha yeşil ve canlı. Milli parka ulaşım, Çanakkale'nin Bayramiç ve Karaköy gibi önemli yerleşim yerlerine yakın olması nedeniyle kolay. Milli parkta, çeşitli yürüyüş ve doğa keşif etkinlikleri düzenlenebilir. Ziyaretçiler, milli parkın güzelliğini ve çeşitliliğini keşfetmek için yaklaşık 2-3 saat sürecek bir gezi planlayabilir. Milli parkta, doğa yürüyüşleri, kuş gözlemciliği ve fotoğrafçılık gibi etkinlikler yapılabilir.
+Canakkale-Bayramic-Karakoy Kızılçam Milli Parkı, yılın her dönemi ziyaret edilebilir. Ancak en iyi ziyaret dönemi, ilkbahar ve yaz ayları olarak kabul ediliyor. Bu dönemde, hava daha sıcak ve güneşli, doğa daha yeşil ve canlı. Milli parka ulaşım, Çanakkale'nin Bayramiç ve Karaköy gibi önemli yerleşim yerlerine yakın olması nedeniyle kolay. Milli parkta, çeşitli yürüyüş ve doğa keşif etkinlikleri düzenlenebilir. Ziyaretçiler, milli parkın güzelliğini ve çeşitliliğini keşfetmek için yaklaşık 2-3 saat sürecek bir gezi planlayabilir. Milli parkta, doğa yürüyüşleri, kuş gözlemciliği ve fotoğrafçılık gibi etkinlikler yapılabilir.
 
 ## İlginç Bilgiler
 

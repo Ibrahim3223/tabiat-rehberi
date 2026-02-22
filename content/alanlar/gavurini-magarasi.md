@@ -45,7 +45,7 @@ Antalya'nın doğal güzelliklerinden biri olan Gavurini Mağarası, 36.8978°K,
 
 Jeolojik açıdan incelendiğinde, Gavurini Mağarası'nın oluşumu milyonlarca yıl öncesine dayanır. Mağara, kalker oluşumlarının erozyonla aşınması sonucu oluşmuştur. Ancak, mağaranın boyutları hakkında detaylı bilgi bulunmamasına rağmen, bölgenin jeolojik yapısı ve benzer mağaraların yapıları dikkate alındığında, mağaranın Taksim Meydanı'nın birkaç katı büyüklüğünde olduğu söylenebilir.
 
-İklim açısından, Gavurini Mağarası'nın bulunduğu bölge Akdeniz ikliminin característicasını taşır. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir hava hüküm sürer. Mağara, bu iklim koşullarından kısmen etkilenir, ancak iç sıcaklığı genellikle sabit kalır. Bu, mağaranın bir doğal serinleme sistemi gibi çalışmasına olanak tanır.
+İklim açısından, Gavurini Mağarası'nın bulunduğu bölge Akdeniz ikliminin característicasını taşır. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava hüküm sürer. Mağara, bu iklim koşullarından kısmen etkilenir, ancak iç sıcaklığı genellikle sabit kalır. Bu, mağaranın bir doğal serinleme sistemi gibi çalışmasına olanak tanır.
 
 Bölgenin ekosistemi açısından, Gavurini Mağarası'nın komşu alanlar ve su kaynakları ile bağlantılı olduğu görülür. Mağaranın yakınında, Düden Çayı gibi önemli su kaynakları bulunur. Bu su kaynakları, mağaranın oluşumunda ve bölgenin ekosisteminde önemli bir rol oynar. Mağara, ayrıca bölgenin flora ve fauna çeşitliliğine de katkıda bulunur.
 

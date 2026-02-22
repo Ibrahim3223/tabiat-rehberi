@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin en güney ucunda yer alan Hatay ilinin dağlık
 
 Doğal bir oluşum olan Kökürünbaşı Tepesi, coğrafi olarak bakıldığında bir şehir bloğu büyüklüğünde bir alanı kaplar. Tepenin yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadar bir yükseklikte yer alır. Bu tepe, bölgenin jeolojik yapısında önemli bir rol oynar ve çevresindeki diğer coğrafi oluşumlarla birlikte bir bütünü oluşturur. Ancak, fiziksel yapı hakkında detaylı bilgi bulunmaması, bu tepe hakkında daha derin bir analiz yapmayı zorlaştırır.
 
-Mevsimsel olarak, Kökürünbağı Tepesi ve çevresindeki bölge, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumu hakimdir. Bu mevsimsel değişiklikler, bölgenin flora ve fauna'sını etkiler ve ekosistemin dengesini korur.
+Mevsimsel olarak, Kökürünbağı Tepesi ve çevresindeki bölge, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumu hakimdir. Bu mevsimsel değişiklikler, bölgenin flora ve fauna'sını etkiler ve ekosistemin dengesini korur.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları, Kökürünbağı Tepesi'nin çevresel ilişkilerini belirler. Tepenin yakınındaki akarsular ve dereler, bölgenin su kaynaklarını oluşturur ve çevresindeki diğer coğrafi oluşumlarla bağlantılıdır. Bu bağlantılar, bölgenin ekolojik dengesini korur ve doğal güzelliğini sağlar. Aynı zamanda, bu tepe, Monaco'nun yaklaşık 1/20'si kadar bir alanı kaplayan bir bölge içinde yer alır ve bu bölgenin coğrafi çeşitliliğini vurgular.
 

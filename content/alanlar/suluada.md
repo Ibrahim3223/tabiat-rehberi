@@ -45,7 +45,7 @@ Doğal güzellikleri ile dikkat çeken Suluada, 36.2386°K ve 30.4717°D koordin
 
 Jeolojik açıdan bakıldığında, Suluada'nın fiziksel yapısı hakkında kesin bilgiler bulunmamasına rağmen, ada'nın küçük boyutu dikkat çekiyor. Birkaç olimpik havuz kadar büyük olan bu ada, çevresi boyunca deniz suyu ile çevrili ve bu özelliği ile dikkat çekiyor. Suluada'nın boyutları, Monaco'nun çok küçük bir bölümü ile karşılaştırılabilir.
 
-İklim açısından bakıldığında, Suluada'nın bulunduğu bölgenin Akdeniz iklimine sahip olduğu görülüyor. Bu iklim, yazları sıca ve kurak, kışları ılık ve yağışlı olarak karakterize ediliyor. Mevsimsel olarak, ada'nın hava durumu da değişkenlik gösteriyor. Yaz aylarında, ada sıcaklık ve nem açısından yüksek değerlere sahipken, kış aylarında daha serin ve yağışlı bir hava hakim oluyor.
+İklim açısından bakıldığında, Suluada'nın bulunduğu bölgenin Akdeniz iklimine sahip olduğu görülüyor. Bu iklim, yazları sıcak ve kurak, kışları ılık ve yağışlı olarak karakterize ediliyor. Mevsimsel olarak, ada'nın hava durumu da değişkenlik gösteriyor. Yaz aylarında, ada sıcaklık ve nem açısından yüksek değerlere sahipken, kış aylarında daha serin ve yağışlı bir hava hakim oluyor.
 
 Suluada'nın çevresel ilişkileri, ada'nın deniz suyu ile çevrili olmasından dolayı su kaynakları ile çok yakından ilgili. Ada, deniz ekosisteminin bir parçası olarak, su canlıları ve bitki örtüsü ile bağlantı içinde bulunuyor. Çevresindeki su kaynakları, ada'nın doğal dengesini korumasında önemli bir rol oynuyor. Suluada, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplayan bir ada olarak, çevresindeki ekosisteme katkıda bulunuyor.
 

@@ -37,7 +37,7 @@ Alıncıköyü Türbesi, tarihsel olarak önemli bir geçmişe sahip. Bu bölge,
 
 ## Coğrafya
 
-Alıncıköyü Türbesi, Kütahya'nın Altıntaş ilçesinde yer alıyor. Bu bölge, Ege Bölgesi'nin coğrafi olarak önemli bir konumda bulunuyor. Köy, deniz seviyesinden yaklaşık yüksek bir konumdate ve bu yükseklik, bölgenin iklimini etkiliyor. Alıncıköyü, dağlık bir bölge ve bu durum, köyün coğrafi yapısını belirliyor. Köyün etrafı, ormanlık alanlar ile çevrili ve bu ormanlar, bölgenin ekolojisini protecting. Köyde, çeşitli bitki türleri ve fauna bulunmakta. Alıncıköyü, coğrafi olarak zengin bir bölge ve bu bölge, turizm açısından önemli bir potansiyele sahip.
+Alıncıköyü Türbesi, Kütahya'nın Altıntaş ilçesinde yer alıyor. Bu bölge, Ege Bölgesi'nin coğrafi olarak önemli bir konumda bulunuyor. Köy, yüksek bir konumda ve bu yükseklik, bölgenin iklimini etkiliyor. Alıncıköyü, dağlık bir bölge ve bu durum, köyün coğrafi yapısını belirliyor. Köyün etrafı, ormanlık alanlar ile çevrili ve bu ormanlar, bölgenin ekolojisini protecting. Köyde, çeşitli bitki türleri ve fauna bulunmakta. Alıncıköyü, coğrafi olarak zengin bir bölge ve bu bölge, turizm açısından önemli bir potansiyele sahip.
 
 ## Flora ve Fauna
 

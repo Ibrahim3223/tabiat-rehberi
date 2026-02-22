@@ -36,7 +36,7 @@ Kocagar Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu te
 
 ## Coğrafya
 
-Kocagar Tepesi, Hatay ilinin coğrafi yapısını temsil eden önemli bir oluşumdur. Bu tepe, bölgenin en yüksek noktalarından biridir ve çevredeki diğer tepelerden daha belirgin bir şekilde görülür. Kocagar Tepesi'nin coğrafi yapısı, bölgenin jeolojik özelliklerini yansıtır. Bu tepe, çoğunlukla kireç taşı ve killi topraklardan oluşur ve bu nedenle, bölgede çeşitli bitki türleri bulunur. Kocagar Tepesi'nin iklimi, Akdeniz ikliminin özelliklerini taşır ve bu nedenle, yazları sıca ve kurak, kışları ise ılık ve yağışlı geçer. Bu tepe, bölgenin coğrafi çeşitliliğini ve doğal güzelliğini temsil eder ve ziyaretçilerin bölge hakkında bilgi edinmesine yardımcı olur.
+Kocagar Tepesi, Hatay ilinin coğrafi yapısını temsil eden önemli bir oluşumdur. Bu tepe, bölgenin en yüksek noktalarından biridir ve çevredeki diğer tepelerden daha belirgin bir şekilde görülür. Kocagar Tepesi'nin coğrafi yapısı, bölgenin jeolojik özelliklerini yansıtır. Bu tepe, çoğunlukla kireç taşı ve killi topraklardan oluşur ve bu nedenle, bölgede çeşitli bitki türleri bulunur. Kocagar Tepesi'nin iklimi, Akdeniz ikliminin özelliklerini taşır ve bu nedenle, yazları sıcak ve kurak, kışları ise ılık ve yağışlı geçer. Bu tepe, bölgenin coğrafi çeşitliliğini ve doğal güzelliğini temsil eder ve ziyaretçilerin bölge hakkında bilgi edinmesine yardımcı olur.
 
 ## Flora ve Fauna
 

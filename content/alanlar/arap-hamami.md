@@ -37,7 +37,7 @@ Arap Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bölge, t
 
 ## Coğrafya
 
-Arap Hamamı, Marmara Bölgesi'nin en güzel doğal alanlarından biridir. Bursa'nın Gemlik ilçesinde bulunan plaj, denize girerek serinlemek isteyenler için ideal bir destinasyondur. Plajın etrafında, çeşitli bitkiler ve ağaçlar bulunur, bu da ziyaretçilere doğayla iç içe bir deneyim sunar. Arap Hamamı, yaklaşık 140 hektarlık bir alanı kapsar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alana eşittir. Plajın deniz suyu, temiz ve berrak bir yapıya sahiptir, bu da deniz canlıları için uygun bir ortam oluşturur. Arap Hamamı'nın iklimi, Marmara Bölgesi'nin genel iklimine benzer, yazları sıca ve nemli, kışları ılıman ve yağışlıdır. Bu iklim, plajın etrafındaki bitkilerin ve ağaçların gelişmesi için uygun koşulları sağlar.
+Arap Hamamı, Marmara Bölgesi'nin en güzel doğal alanlarından biridir. Bursa'nın Gemlik ilçesinde bulunan plaj, denize girerek serinlemek isteyenler için ideal bir destinasyondur. Plajın etrafında, çeşitli bitkiler ve ağaçlar bulunur, bu da ziyaretçilere doğayla iç içe bir deneyim sunar. Arap Hamamı, yaklaşık 140 hektarlık bir alanı kapsar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alana eşittir. Plajın deniz suyu, temiz ve berrak bir yapıya sahiptir, bu da deniz canlıları için uygun bir ortam oluşturur. Arap Hamamı'nın iklimi, Marmara Bölgesi'nin genel iklimine benzer, yazları sıcak ve nemli, kışları ılıman ve yağışlıdır. Bu iklim, plajın etrafındaki bitkilerin ve ağaçların gelişmesi için uygun koşulları sağlar.
 
 ## Flora ve Fauna
 

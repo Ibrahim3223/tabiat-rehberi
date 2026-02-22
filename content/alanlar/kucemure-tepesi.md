@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi güzelliği, Kuçemure Tepesi'nin bulu
 
 Jeolojik açıdan bakıldığında, Kuçemure Tepesi'nin fiziksel yapısı, bölgenin karmaşık jeolojik tarihinde önemli bir yer tutar. Ancak, fiziksel boyutları hakkında detaylı bilgi bulunmamasına rağmen, tepeyi çevreleyen coğrafi özellikler, bölgenin jeolojik geçmişini anlamaya yardımcı olur. Örneğin, tepe Tigris Nehri'nin yakınında yer alır ve bu nehrin oluşturduğu vadi, bölgenin jeolojik yapısını şekillendirmiştir.
 
-İklim açısından, Kuçemure Tepesi, Diyarbakır'ın karakteristik kura ve sıcak yazları ile soğuk kışları yaşayan bir bölgede yer alır. Bölgenin mevsimsel özellikleri, tepe ve çevresinin bitki örtüsünü ve fauna çeşitliliğini etkiler. Yaz aylarında, tepe ve çevresi, sıca ve kuru bir hava ile kaplanırken, kış aylarında soğu ve yağışlı bir hava hakim olur.
+İklim açısından, Kuçemure Tepesi, Diyarbakır'ın karakteristik kura ve sıcak yazları ile soğuk kışları yaşayan bir bölgede yer alır. Bölgenin mevsimsel özellikleri, tepe ve çevresinin bitki örtüsünü ve fauna çeşitliliğini etkiler. Yaz aylarında, tepe ve çevresi, sıcak ve kuru bir hava ile kaplanırken, kış aylarında soğuk ve yağışlı bir hava hakim olur.
 
 Doğal bir gözlem noktası olarak, Kuçemure Tepesi, çevresindeki ekosistemi ve su kaynaklarını anlamak için önemli bir noktadır. Tepenin yakınındaki su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılar ve tepe, bölgenin ekolojik dengesini koruma açısından önemli bir role sahiptir. Bu nedenle, Kuçemure Tepesi, yalnızca bir coğrafi oluşum değil, aynı zamanda bölgenin doğal ve tarihi zenginliklerini koruma açısından önemli bir noktadır.
 

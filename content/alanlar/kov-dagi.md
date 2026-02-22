@@ -44,7 +44,7 @@ Kov Dağı, Siirt ilinin doğusunda yer alan bir dağdır. 38.2167°K, 42.2167°
 
 Doğal bir oluşum olarak Kov Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu dağ, jeolojik açıdan incelendiğinde, bölgenin genel jeolojik yapısına benzerlik gösterir. Kov Dağı'nın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte yer alır. Bu yükseklik, Kov Dağı'nın çevresindeki diğer dağlara göre önemli bir yükseklikte olduğunu gösterir.
 
-Mevsimsel olarak incelendiğinde, Kov Dağı'nın iklimi karasal iklim özellikleri gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurudur. Bu iklim özellikleri, Kov Dağı'nın flora ve fauna açısından zengin bir çeşitlilik sunmasını sağlar. Kov Dağı, bölgenin önemli su kaynaklarından biridir ve çevresindeki köylerin tarım faaliyetleri için önemli bir su kaynağı sağlar.
+Mevsimsel olarak incelendiğinde, Kov Dağı'nın iklimi karasal iklim özellikleri gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurudur. Bu iklim özellikleri, Kov Dağı'nın flora ve fauna açısından zengin bir çeşitlilik sunmasını sağlar. Kov Dağı, bölgenin önemli su kaynaklarından biridir ve çevresindeki köylerin tarım faaliyetleri için önemli bir su kaynağı sağlar.
 
 Kov Dağı, çevresindeki diğer dağlarla birlikte bir ekosistem oluşturur. Bu ekosistem, bölgenin doğal güzelliğini korur ve çevresindeki canlılara yaşam alanı sağlar. Kov Dağı, Monaco'nun yarısı kadar bir alanı kaplayan bir doğal güzelliği sunar ve bu nedenle bölgenin önemli turizm noktalarından biridir. Kov Dağı'nın doğal güzelliği, bölgenin ekonomisi için önemli bir kaynak oluşturur.
 

@@ -36,7 +36,7 @@ Gömer Tepesi, tarihsel açıdan önemli bir geçmişe sahiptir. Tarihi geçmiş
 
 ## Coğrafya
 
-Gömer Tepesi, coğrafi açıdan dikkat çekici bir bölgede yer alır. Şanlıurfa ilinin merkezine yakın bir konumda bulunan tepenin yüksekliği, çevredeki diğer noktalara göre dikkat çekicidir. Tepenin etrafında, çeşitli değil, çeşitli tarım alanları ve doğal bitkiler bulunur. Gömer Tepesi, aynı zamanda çevredeki diğer coğrafi oluşumlarla birlikte, bir bütün olarak düşünülerek, bölgeye özgü ekosistemi oluşturur. Tepenin iklimi, bölgenin genel iklim koşullarına uygun olarak, sıca ve kurak bir yapıya sahiptir. Yağışların az olduğu bu bölgede, su kaynakları da önemlidir. Gömer Tepesi ve çevresinde, su kaynaklarına ulaşma mümkün olmakla birlikte, bunların yönetimi ve korunması da büyük önem taşır.
+Gömer Tepesi, coğrafi açıdan dikkat çekici bir bölgede yer alır. Şanlıurfa ilinin merkezine yakın bir konumda bulunan tepenin yüksekliği, çevredeki diğer noktalara göre dikkat çekicidir. Tepenin etrafında, çeşitli değil, çeşitli tarım alanları ve doğal bitkiler bulunur. Gömer Tepesi, aynı zamanda çevredeki diğer coğrafi oluşumlarla birlikte, bir bütün olarak düşünülerek, bölgeye özgü ekosistemi oluşturur. Tepenin iklimi, bölgenin genel iklim koşullarına uygun olarak, sıcak ve kurak bir yapıya sahiptir. Yağışların az olduğu bu bölgede, su kaynakları da önemlidir. Gömer Tepesi ve çevresinde, su kaynaklarına ulaşma mümkün olmakla birlikte, bunların yönetimi ve korunması da büyük önem taşır.
 
 ## Flora ve Fauna
 

@@ -41,7 +41,7 @@ wikidata_id: "Q131738844"
 
 ## Flora ve Fauna
 
-Özbek Köyü Hamamı ve Çeşmesi, flora ve fauna açısından zengin bir bölge. Köyün doğası, çeşitli bitki türleri ile dolu ve ziyaretçilere, doğanın güzelliğini deneyimleme fırsatı sunuyor. Köyün fauna, zengin ve çeşitli. Köyde, birçok farklı hayvan türü yaşadığı için, ziyaretçiler, doğada hayvanları gözlemleme fırsatı bulabilir. Köyün mevsimsel değişimleri, flora ve faunayı etkiliyor ve her mevsim, farklı bir güzellik sunuyor. İlkbahar, köyün doğasını canlandırırken, yaz, sıca ve kurak bir iklim getiriyor. Sonbahar, renkli bir manzara sunarken, kış, köyü bir masal diyarı gibi gösteriyor. Ziyaretçiler, köyün flora ve faunasını keşfederek, doğanın güzelliğini deneyimleyebilir.
+Özbek Köyü Hamamı ve Çeşmesi, flora ve fauna açısından zengin bir bölge. Köyün doğası, çeşitli bitki türleri ile dolu ve ziyaretçilere, doğanın güzelliğini deneyimleme fırsatı sunuyor. Köyün fauna, zengin ve çeşitli. Köyde, birçok farklı hayvan türü yaşadığı için, ziyaretçiler, doğada hayvanları gözlemleme fırsatı bulabilir. Köyün mevsimsel değişimleri, flora ve faunayı etkiliyor ve her mevsim, farklı bir güzellik sunuyor. İlkbahar, köyün doğasını canlandırırken, yaz, sıcak ve kurak bir iklim getiriyor. Sonbahar, renkli bir manzara sunarken, kış, köyü bir masal diyarı gibi gösteriyor. Ziyaretçiler, köyün flora ve faunasını keşfederek, doğanın güzelliğini deneyimleyebilir.
 
 ## Ziyaret Bilgileri
 

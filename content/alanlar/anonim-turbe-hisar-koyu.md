@@ -37,7 +37,7 @@ Anonim Türbe, Hisar Köyü'nün tarihi geçmişi, yüzyıllar boyunca şekillen
 
 ## Coğrafya
 
-Anonim Türbe, Hisar Köyü, Merkezefendi'nin coğrafi yapısı, Ege Bölgesi'nin karakteristik özelliklerini taşımaktadır. Bu bölgenin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşmaktadır. Anonim Türbe, Hisar Köyü'nün coğrafi konumu, deniz seviyesinden yaklaşık yüksek bir konumdate yer almaktadır. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Anonim Türbe, Hisar Köyü, doğal güzelliği ile dikkat çekmektedir. Bu bölgenin iklimi, genellikle ılımandır ve yazları sıcak, kışları ılık geçmektedir. Bu nedenle, Anonim Türbe, Hisar Köyü'nü ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar aylarıdır.
+Anonim Türbe, Hisar Köyü, Merkezefendi'nin coğrafi yapısı, Ege Bölgesi'nin karakteristik özelliklerini taşımaktadır. Bu bölgenin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşmaktadır. Anonim Türbe, Hisar Köyü'nün coğrafi konumu, yüksek bir konumda yer almaktadır. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Anonim Türbe, Hisar Köyü, doğal güzelliği ile dikkat çekmektedir. Bu bölgenin iklimi, genellikle ılımandır ve yazları sıcak, kışları ılık geçmektedir. Bu nedenle, Anonim Türbe, Hisar Köyü'nü ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar aylarıdır.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Anonim Türbe, Hisar Köyü'nü ziyaret etmek, hem tarihi önemi hem de doğal g
 
 - Anonim Türbe, Hisar Köyü, Merkezefendi'nin en önemli tarihi mekanlarından birisidir.
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
-- Anonim Türbe, Hisar Köyü'nün coğrafi konumu, deniz seviyesinden yaklaşık yüksek bir konumdate yer almaktadır.
+- Anonim Türbe, Hisar Köyü'nün coğrafi konumu, yüksek bir konumda yer almaktadır.
 - Bu bölgenin iklimi, genellikle ılımandır ve yazları sıcak, kışları ılık geçmektedir.
 - Anonim Türbe, Hisar Köyü'nü ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar aylarıdır.

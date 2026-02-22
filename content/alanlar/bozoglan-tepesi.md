@@ -36,7 +36,7 @@ Bozoğlan Tepesi'nin tarihi geçmişi, bölgenin coğrafi yapısı ve iklim koş
 
 ## Coğrafya
 
-Bozoğlan Tepesi, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, yeşilin çeşitli tonlarını sunan bir bölgedir. Tepenin zirvesi, Çorum'un panoramik manzarasını sunar ve eteklerinde, çeşitli bitki türleri bulunur. Bu bölge, yaban hayatı için önemli bir yaşam alanı olarak kabul edilir. Bozoğlan Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Tepenin etrafında, çeşitli akarsular ve dere yatakları bulunur. Bozoğlan Tepesi, Karadeniz Bölgesi'nin karakteristik iklimine sahiptir ve bölgede, karasal iklimin özellikleri görülür. Kış ayları soğu ve yağışlı, yaz ayları ise serin ve nemlidir. Bozoğlan Tepesi, coğrafi konumu ve iklimi ile, ziyaretçilere benzersiz bir deneyim sunar.
+Bozoğlan Tepesi, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, yeşilin çeşitli tonlarını sunan bir bölgedir. Tepenin zirvesi, Çorum'un panoramik manzarasını sunar ve eteklerinde, çeşitli bitki türleri bulunur. Bu bölge, yaban hayatı için önemli bir yaşam alanı olarak kabul edilir. Bozoğlan Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Tepenin etrafında, çeşitli akarsular ve dere yatakları bulunur. Bozoğlan Tepesi, Karadeniz Bölgesi'nin karakteristik iklimine sahiptir ve bölgede, karasal iklimin özellikleri görülür. Kış ayları soğuk ve yağışlı, yaz ayları ise serin ve nemlidir. Bozoğlan Tepesi, coğrafi konumu ve iklimi ile, ziyaretçilere benzersiz bir deneyim sunar.
 
 ## Flora ve Fauna
 

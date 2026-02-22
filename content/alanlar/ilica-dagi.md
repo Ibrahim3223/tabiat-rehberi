@@ -45,7 +45,7 @@ Güneydoğu Anadolu'nun dağlık bölgesinde yer alan İlıca Dağı, 37.6134°K
 
 Doğal güzelliği ile ön plana çıkan İlıca Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Dağın fiziksel yapısı, bölgenin jeolojik özelliklerini yansıtmaktadır. Ancak, detaylı fiziksel veriler bulunmaması nedeniyle, dağın yüksekliği ve şekli hakkında net bilgiler mevcut değildir. Buna rağmen, İlıca Dağı'nın bölgedeki diğer dağlarla birlikte bir dağ silsilesi oluşturduğu bilinmektedir.
 
-Yaz aylarında sıcakların artmasıyla birlikte, İlıca Dağı'nın iklim karakteri değişmektedir. Kış aylarında soğu ve kar yağışlı olan bölgede, yaz aylarında ise sıca ve kurak bir hava hakim olmaktadır. Bu mevsimsel değişiklikler, bölgenin flora ve fauna açısından zenginleşmesine neden olmaktadır. İlıca Dağı, bölgenin ekosistemini destekleyen önemli bir bileşen olarak görülmektedir.
+Yaz aylarında sıcakların artmasıyla birlikte, İlıca Dağı'nın iklim karakteri değişmektedir. Kış aylarında soğuk ve kar yağışlı olan bölgede, yaz aylarında ise sıcak ve kurak bir hava hakim olmaktadır. Bu mevsimsel değişiklikler, bölgenin flora ve fauna açısından zenginleşmesine neden olmaktadır. İlıca Dağı, bölgenin ekosistemini destekleyen önemli bir bileşen olarak görülmektedir.
 
 İlıca Dağı'nın çevresinde, çeşitli su kaynakları ve ekosistem bağlantıları bulunmaktadır. Dağın eteklerinde yer alan köyler, bölgenin tarım ve hayvancılık faaliyetlerine ev sahipliği yapmaktadır. Ayrıca, İlıca Dağı'nın komşu alanları, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini koruma altına alan önemli bir role sahiptir. Monaco'nun yarısı kadar büyük olan bu bölge, İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplamaktadır.
 

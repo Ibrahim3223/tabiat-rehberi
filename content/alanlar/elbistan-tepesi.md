@@ -36,7 +36,7 @@ Elbistan Tepesi'nin tarihi geçmişi oldukça zengin. Yüzyıllar boyunca farkl�
 
 ## Coğrafya
 
-Elbistan Tepesi, Kayseri'nin coğrafi yapısını temsil eden önemli bir nokta. Tepenin etrafında bulunan çeşitli bitki türleri ve zengin fauna, bölgenin ekolojik dengesini koruyor. Tepenin yüksekliği, çevredeki diğer tepe ve dağlarla birlikte güzel bir manzara oluşturuyor. İklim koşulları, genellikle İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Kışları soğu ve kar yağışlı, yazları ise sıcak ve kurak geçiyor. Bu durum, Elbistan Tepesi'nin yıl boyunca farklı mevsimlerle ziyaret edilebileceği anlamına geliyor.
+Elbistan Tepesi, Kayseri'nin coğrafi yapısını temsil eden önemli bir nokta. Tepenin etrafında bulunan çeşitli bitki türleri ve zengin fauna, bölgenin ekolojik dengesini koruyor. Tepenin yüksekliği, çevredeki diğer tepe ve dağlarla birlikte güzel bir manzara oluşturuyor. İklim koşulları, genellikle İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Kışları soğuk ve kar yağışlı, yazları ise sıcak ve kurak geçiyor. Bu durum, Elbistan Tepesi'nin yıl boyunca farklı mevsimlerle ziyaret edilebileceği anlamına geliyor.
 
 ## Flora ve Fauna
 

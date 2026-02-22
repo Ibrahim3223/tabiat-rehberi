@@ -52,7 +52,7 @@ Ekosistem açısından, Çalgan Dağı'nın çevresi, çeşitli bitki türleri v
 
 İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanıyor. Step bitkileri ve bozkır türleri, mevsimsel değişimlere uyum sağlıyor. Dağların yüksek kesimlerinde, alpin flora hüküm sürüyor. Bu bölgelerde, özel bitkiler ve yükseklik zonlarına özgü türler bulunuyor.
 
-Dağın yaban hayatı da oldukça zengin. Memeliler, kuşlar ve sürüngenler bu dağ ekosisteminin önemli bileşenleri. Göç eden kuşlar, sonbaharda dağları ziyaret ediyor. Memeliler, dağların yüksek kesimlerinde ve step bölgesinde yaşamlarını sürdürüyor. Sürüngenler ise, sıca ve kurak bölgelerde aktivite gösteriyor. Bu canlılar, birbirleriyle ve yaşam alanlarıyla ekolojik ilişkiler içinde bulunuyor. Bu nedenle, Çalgan Dağı'nın ekosistemi oldukça önemli ve koruma altına alınması gerekiyor.
+Dağın yaban hayatı da oldukça zengin. Memeliler, kuşlar ve sürüngenler bu dağ ekosisteminin önemli bileşenleri. Göç eden kuşlar, sonbaharda dağları ziyaret ediyor. Memeliler, dağların yüksek kesimlerinde ve step bölgesinde yaşamlarını sürdürüyor. Sürüngenler ise, sıcak ve kurak bölgelerde aktivite gösteriyor. Bu canlılar, birbirleriyle ve yaşam alanlarıyla ekolojik ilişkiler içinde bulunuyor. Bu nedenle, Çalgan Dağı'nın ekosistemi oldukça önemli ve koruma altına alınması gerekiyor.
 
 ## Ziyaret Bilgileri
 

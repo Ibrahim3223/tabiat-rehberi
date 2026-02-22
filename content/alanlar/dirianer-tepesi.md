@@ -36,7 +36,7 @@ Dirianer Tepesi'nin tarihi geçmişi hakkında net bilgiler bulunmuyor, ancak b�
 
 ## Coğrafya
 
-Dirianer Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alıyor. Tepenin etrafında bulunan ormanlık alanlar ve nehirler, bu bölgeyi doğa severler için bir cennete dönüştürüyor. Dirianer Tepesi'nin coğrafi konumu, ziyaretçilerine çeşitli doğal güzellikleri sunuyor. Tepenin yüksekliği ve çevresindeki dağlar, bu bölgeyi bir doğa harikasına dönüştürüyor. Dirianer Tepesi'nin iklimi, bölgenin genel iklimine uygun olarak yazları sıca ve kurak, kışları soğu ve yağışlı passing. Tepenin etrafındaki nehirler ve göller, bu bölgeyi bir su cennetine dönüştürüyor. Dirianer Tepesi, ziyaretçilerine hem doğal güzellikleri hem de coğrafi konumuyla birlikte bir gezi alanı olarak hizmet ediyor.
+Dirianer Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alıyor. Tepenin etrafında bulunan ormanlık alanlar ve nehirler, bu bölgeyi doğa severler için bir cennete dönüştürüyor. Dirianer Tepesi'nin coğrafi konumu, ziyaretçilerine çeşitli doğal güzellikleri sunuyor. Tepenin yüksekliği ve çevresindeki dağlar, bu bölgeyi bir doğa harikasına dönüştürüyor. Dirianer Tepesi'nin iklimi, bölgenin genel iklimine uygun olarak yazları sıcak ve kurak, kışları soğuk ve yağışlı passing. Tepenin etrafındaki nehirler ve göller, bu bölgeyi bir su cennetine dönüştürüyor. Dirianer Tepesi, ziyaretçilerine hem doğal güzellikleri hem de coğrafi konumuyla birlikte bir gezi alanı olarak hizmet ediyor.
 
 ## Flora ve Fauna
 

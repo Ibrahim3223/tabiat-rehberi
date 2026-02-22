@@ -52,7 +52,7 @@ Bölgenin çevresel ilişkileri açısından, Hacı Dağı'nın komşu alanlar v
 
 Hacı Dağı, İzmir'in zeytinlikler ve çam ormanları ile çevrili bir dağ ekosistemi sunar. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanır ve yükseklik zonlarına özgü alpin flora ortaya çıkar. Çam ormanları, zeytinliklerin üzerinde yer alır ve dağın farklı yüksekliklerinde çeşitli bitki türlerine ev sahipliği yapar.
 
-Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Dağ keçileri ve yaban domuzları, dağlık alanların karakteristik hayvanlarıdır. Göç mevsiminde, birçok kuş türü dağ üzerinden geçer ve bu bölgeyi önemli bir göç güzergahı haline getirir. Sürüngenler, özellikle yılanlar ve kertenkeleler, dağın sıca ve kurak bölgelerinde yaşarlar.
+Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Dağ keçileri ve yaban domuzları, dağlık alanların karakteristik hayvanlarıdır. Göç mevsiminde, birçok kuş türü dağ üzerinden geçer ve bu bölgeyi önemli bir göç güzergahı haline getirir. Sürüngenler, özellikle yılanlar ve kertenkeleler, dağın sıcak ve kurak bölgelerinde yaşarlar.
 
 Hacı Dağı, bölgenin ekolojik dengesini korumak açısından önemlidir. Zeytinlikler ve çam ormanları, toprağın erozyonunu önler ve su döngüsünü düzenler. Bu dağ ekosisteminin korunması, hem yerel flora ve faunanın hem de insan yerleşimlerinin sürekliliğiçin kritik bir öneme sahiptir.
 

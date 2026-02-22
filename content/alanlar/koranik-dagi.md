@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin dağlık coğrafyasında yer alan Koranik Dağı, Mu�
 
 Jeolojik açıdan bakıldığında, Koranik Dağı'nın fiziksel yapısı về detaylı bilgiler bulunmamasına rağmen, dağlık bir bölge olduğunu söyleyebiliriz. Dağın yüksekliği ve genişliği hakkında net bilgiler olmasa da, çevredeki coğrafyanın dağlık ve engebeli bir yapıya sahip olduğunu biliriz. Bu bölge, Monaco'nun küçük bir bölümü kadar bir alanı kaplayabilir ve Taksim Meydanı'nın birkaç katı büyüklüğünde olabilir.
 
-Mevsimsel olarak, Koranik Dağı'nın iklimi Doğu Anadolu Bölgesi'nin genel iklim karakterini taşır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir iklim hüküm sürer. Bu mevsimsel değişimler, bölgenin flora ve fauna'sını etkiler ve dağlık alanın çevresindeki ekosistemi şekillendirir.
+Mevsimsel olarak, Koranik Dağı'nın iklimi Doğu Anadolu Bölgesi'nin genel iklim karakterini taşır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürer. Bu mevsimsel değişimler, bölgenin flora ve fauna'sını etkiler ve dağlık alanın çevresindeki ekosistemi şekillendirir.
 
 Çevresel açıdan bakıldığında, Koranik Dağı'nın komşu alanlar ve su kaynakları ile ilişkisi önemlidir. Dağın eteklerinde ve çevresinde several akarsu ve çay bulunmaktadır ve bu su kaynakları, bölgenin tarım ve hayvancılık faaliyetleri için önemli bir kaynak teşkil eder. Ayrıca, Koranik Dağı'nın ekosistem bağlantıları, bölgenin biyolojik çeşitliliğini destekler ve koruma altına alınması gereken bir bölge olarak görülmelidir.
 

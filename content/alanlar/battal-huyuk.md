@@ -36,7 +36,7 @@ Battal Hüyük'ün tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. Bu b�
 
 ## Coğrafya
 
-Battal Hüyük, coğrafi olarak Güneydoğu Anadolu Bölgesi'nde yer almaktadır. Bu bölge, dağlık ve engebeli bir arazi yapısına sahiptir. Battal Hüyük'ün coğrafi konumu, çeşitli bitki türleri ve fauna için uygun bir ortam sağlamaktadır. Bölge, iklim olarak ılıman ve kurak bir yapıya sahiptir. Yaz ayları sıca ve kurak, kış ayları ise soğu ve yağışlı geçmektedir. Battal Hüyük'ün coğrafi güzellikleri, ziyaretçilere doğanın güzelliğini sunmaktadır. Bölge, trekking ve doğa yürüyüşü için ideal bir yer olarak bilinmektedir. Ayrıca, bölgenin coğrafi konumu, tarihi değerleri ve kültürel mirası, ziyaretçilere zengin bir gezi deneyimi sunmaktadır.
+Battal Hüyük, coğrafi olarak Güneydoğu Anadolu Bölgesi'nde yer almaktadır. Bu bölge, dağlık ve engebeli bir arazi yapısına sahiptir. Battal Hüyük'ün coğrafi konumu, çeşitli bitki türleri ve fauna için uygun bir ortam sağlamaktadır. Bölge, iklim olarak ılıman ve kurak bir yapıya sahiptir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçmektedir. Battal Hüyük'ün coğrafi güzellikleri, ziyaretçilere doğanın güzelliğini sunmaktadır. Bölge, trekking ve doğa yürüyüşü için ideal bir yer olarak bilinmektedir. Ayrıca, bölgenin coğrafi konumu, tarihi değerleri ve kültürel mirası, ziyaretçilere zengin bir gezi deneyimi sunmaktadır.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ Yunus Emre ve Tapduk Emre Türbesi'nin tarihi geçmişi, 13. yüzyıla kadar uza
 
 ## Coğrafya
 
-Yunus Emre ve Tapduk Emre Türbesi, Manisa'nın Kula ilçesinde, Ege Bölgesi'nin merkezinde yer alıyor. 180 hektarlık bir alanı kaplayan bu bölge, yaklaşık 250 futbol sahası büyüklüğünde. Türbe, deniz seviyesinden yaklaşık yüksek bir konumdate. Bu yükseklik, ziyaretçilere çevreyi panoramik olarak izleme fırsatı sunuyor. Türbenin yakınında, uzun bir mesafe uzunluğundaki plaj, Ege Denizi'nin güzel bir kısmını oluşturuyor. Plajın kumları, ince ve beyaz; denizin suyu, berra ve mavi. Bu doğal güzellikler, ziyaretçilere huzur verici bir atmosfer sunuyor. Çevrede, çeşitli bitki türleri ve zengin fauna, doğa severler için önemli bir çekim noktası.
+Yunus Emre ve Tapduk Emre Türbesi, Manisa'nın Kula ilçesinde, Ege Bölgesi'nin merkezinde yer alıyor. 180 hektarlık bir alanı kaplayan bu bölge, yaklaşık 250 futbol sahası büyüklüğünde. Türbe, yüksek bir konumda. Bu yükseklik, ziyaretçilere çevreyi panoramik olarak izleme fırsatı sunuyor. Türbenin yakınında, uzun bir mesafe uzunluğundaki plaj, Ege Denizi'nin güzel bir kısmını oluşturuyor. Plajın kumları, ince ve beyaz; denizin suyu, berra ve mavi. Bu doğal güzellikler, ziyaretçilere huzur verici bir atmosfer sunuyor. Çevrede, çeşitli bitki türleri ve zengin fauna, doğa severler için önemli bir çekim noktası.
 
 ## Flora ve Fauna
 

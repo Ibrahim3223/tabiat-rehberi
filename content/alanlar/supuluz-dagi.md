@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin dağlık coğrafyasında yer alan Supuluz Dağı, 38.
 
 Jeolojik açıdan bakıldığında, Supuluz Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel jeolojik özellikleri dikkate alındığında, dağlık alanların genellikle karmaşık bir yapıya sahip olduğu söylenebilir. Supuluz Dağı'nın boyutları hakkında da net bir veri olmasa da, bölgenin coğrafi yapısı düşünüldüğünde, dağlık alanların genellikle geniş ve karmaşık bir yapıya sahip olduğu söylenebilir.
 
-İklim açısından Supuluz Dağı, Doğu Anadolu Bölgesi'nin karasal iklim koşullarına sahiptir. Bölge, kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kuru bir hava durumuna sahiptir. Dağın yüksekliği ve coğrafi konumu, bölgede farklı mikroklimatik condiciones oluşturabilir. Supuluz Dağı, bölgenin iklimsel özelliklerini şekillendiren önemli bir faktör olarak, etrafındaki ekosistemi etkileyen bir role sahiptir.
+İklim açısından Supuluz Dağı, Doğu Anadolu Bölgesi'nin karasal iklim koşullarına sahiptir. Bölge, kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kuru bir hava durumuna sahiptir. Dağın yüksekliği ve coğrafi konumu, bölgede farklı mikroklimatik condiciones oluşturabilir. Supuluz Dağı, bölgenin iklimsel özelliklerini şekillendiren önemli bir faktör olarak, etrafındaki ekosistemi etkileyen bir role sahiptir.
 
 Çevresel açıdan bakıldığında, Supuluz Dağı, bölgenin önemli su kaynaklarının oluşumunda önemli bir rol oynamaktadır. Dağın eteklerinde ve etrafında yer alan vadiler ve ovalar, bölgenin tarım ve hayvancılık faaliyetleri için önemli alanlardır. Supuluz Dağı, bölgenin ekosistem bağlantılarını sağlayan bir köprü olarak, etrafındaki doğal yaşamı destekleyen önemli bir coğrafi öge olarak görülebilir.
 

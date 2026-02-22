@@ -30,7 +30,7 @@ Papazın Bağı Sit Alanı'nın tarihi geçmişi, yüzyıllar boyunca şekillenm
 
 ## Coğrafya
 
-Papazın Bağı Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve ormanlık alanlarla çevrili. 140 hektarlık alanı, çeşitli bitki türleri ve hayvanlarla dolu. Bu bölgenin coğrafi konumu, ziyaretçilere doğal yaşamı gözlemleme fırsatı sunuyor. İklim, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor; yazları sıca ve kurak, kışları soğu ve kar yağışlı. Papazın Bağı, ziyaretçilerine dört mevsim farklı güzellikler sunuyor. Bahar aylarında çiçeklerle dolu, yaz aylarında yeşilin her tonunu gösteren, sonbaharın renk cümbüşüne tanık olan ve kışın karla kaplanan bu bölge, her mevsim ziyaretçilerini bekliyor.
+Papazın Bağı Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve ormanlık alanlarla çevrili. 140 hektarlık alanı, çeşitli bitki türleri ve hayvanlarla dolu. Bu bölgenin coğrafi konumu, ziyaretçilere doğal yaşamı gözlemleme fırsatı sunuyor. İklim, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor; yazları sıcak ve kurak, kışları soğuk ve kar yağışlı. Papazın Bağı, ziyaretçilerine dört mevsim farklı güzellikler sunuyor. Bahar aylarında çiçeklerle dolu, yaz aylarında yeşilin her tonunu gösteren, sonbaharın renk cümbüşüne tanık olan ve kışın karla kaplanan bu bölge, her mevsim ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 

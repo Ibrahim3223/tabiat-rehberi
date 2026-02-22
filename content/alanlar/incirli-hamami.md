@@ -38,7 +38,7 @@ wikidata_id: "Q131738650"
 
 ## Coğrafya
 
-İncirli Hamamı, Yıldırım/Bursa'da yer alıyor ve Marmara Bölgesi'nin en güzel plajlarından biri. Plaj, 140 hektarlık bir alan üzerinde kurulmuş ve uzun bir mesafe uzunluğunda. Bu uzunluk boyunca denize girebileceğiniz birçok nokta bulunuyor ve plajın genişliği, ziyaretçilere yeterli alan sunuyor. İncirli Hamamı, aynı zamanda doğal güzelliği ve temizliği ile dikkat çekiyor. Plajın etrafı, yeşilliklerle çevrili ve buraya gelen ziyaretçiler, hem denizin güzelliğini hem de doğanın güzelliğini keşfedebiliyor. İncirli Hamamı'nın iklimi, Marmara Bölgesi'nin genel iklimine benzer ve yaz aylarında sıca ve nemli, kış aylarında ise soğu ve yağışlı olabiliyor. Plajın coğrafi konumu, burayı önemli bir turizm merkezi haline getirmiş ve her yıl binlerce ziyaretçi burayı keşfetmeye geliyor.
+İncirli Hamamı, Yıldırım/Bursa'da yer alıyor ve Marmara Bölgesi'nin en güzel plajlarından biri. Plaj, 140 hektarlık bir alan üzerinde kurulmuş ve uzun bir mesafe uzunluğunda. Bu uzunluk boyunca denize girebileceğiniz birçok nokta bulunuyor ve plajın genişliği, ziyaretçilere yeterli alan sunuyor. İncirli Hamamı, aynı zamanda doğal güzelliği ve temizliği ile dikkat çekiyor. Plajın etrafı, yeşilliklerle çevrili ve buraya gelen ziyaretçiler, hem denizin güzelliğini hem de doğanın güzelliğini keşfedebiliyor. İncirli Hamamı'nın iklimi, Marmara Bölgesi'nin genel iklimine benzer ve yaz aylarında sıcak ve nemli, kış aylarında ise soğuk ve yağışlı olabiliyor. Plajın coğrafi konumu, burayı önemli bir turizm merkezi haline getirmiş ve her yıl binlerce ziyaretçi burayı keşfetmeye geliyor.
 
 ## Flora ve Fauna
 
@@ -53,5 +53,5 @@ wikidata_id: "Q131738650"
 - İncirli Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri
 - plajın uzunluğu uzun bir mesafe
 - 140 hektarlık bir alan üzerinde kurulmuş
-- yaz aylarında sıca ve nemli, kış aylarında ise soğu ve yağışlı
+- yaz aylarında sıcak ve nemli, kış aylarında ise soğuk ve yağışlı
 - her yıl binlerce ziyaretçi tarafından keşfediliyor

@@ -44,7 +44,7 @@ Mersin'in zengin coğrafyası içerisinde yer alan Burtkız İni, 36.8958°K, 33
 
 Doğal güzellikleri ve jeolojik yapısıyla dikkat çeken bu bölge, yaklaşık olarak Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor. Ancak, fiziksel boyutları hakkında kesin bilgiler bulunmuyor. Jeolojik açıdan incelendiğinde, bu bölgenin Türkiye'nin Akdeniz Bölgesi'nin karakteristik jeolojik özelliklerini taşıdığı görülüyor. Bölgenin jeolojik yapısı, kireçtaşı ve diğer kayaçlardan oluşuyor.
 
-Bölgenin iklim karakteri, Akdeniz ikliminin tipik özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ılık ve yağışlı bir iklim hüküm sürüyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini şekillendiriyor. Burtkız İni, Mersin'in yıllık ortalama 700 mm yağış alan bir bölgesinde yer alıyor.
+Bölgenin iklim karakteri, Akdeniz ikliminin tipik özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ılık ve yağışlı bir iklim hüküm sürüyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini şekillendiriyor. Burtkız İni, Mersin'in yıllık ortalama 700 mm yağış alan bir bölgesinde yer alıyor.
 
 Çevresel açıdan bakıldığında, Burtkız İni, Mersin'in önemli su kaynaklarına yakın bir konumda bulunuyor. Bölge, ormanlarla çevrili ve doğa koruma alanlarına yakınlığıyla dikkat çekiyor. Bu jeopark, bölgenin ekosistem bağlantılarını koruma altına almak için önemli bir rol oynuyor. Ayrıca, bölgenin flora ve fauna çeşitliliği, Türkiye'nin biyolojik çeşitliliğinin önemli bir parçasını oluşturuyor.
 

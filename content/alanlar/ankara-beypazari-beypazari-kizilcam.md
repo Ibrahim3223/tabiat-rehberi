@@ -30,7 +30,7 @@ Ankara-Beypazarı-Beypazarı-Kızılçam milli parkının tarihi geçmişi, yüz
 
 ## Coğrafya
 
-Ankara-Beypazarı-Beypazarı-Kızılçam milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici bölgelerinden biridir. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. İklim, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Yaz ayları sıca ve kurak, kış ayları soğu ve kar yağışlı geçer. Parkın çevresi, diğer doğal alanlar ve yerleşim yerleri ile çevrilidir. Bu coğrafi konum, parkın doğal güzelliklerini daha da artırır.
+Ankara-Beypazarı-Beypazarı-Kızılçam milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici bölgelerinden biridir. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. İklim, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Yaz ayları sıcak ve kurak, kış ayları soğuk ve kar yağışlı geçer. Parkın çevresi, diğer doğal alanlar ve yerleşim yerleri ile çevrilidir. Bu coğrafi konum, parkın doğal güzelliklerini daha da artırır.
 
 ## Flora ve Fauna
 

@@ -40,7 +40,7 @@ Hatay'ın coğrafi güzelliklerinin arasında yer alan Gora Dzhebel'-Chumerli da
 
 Gora Dzhebel'-Chumerli dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu küçük ama önemli coğrafi oluşum, jeolojik açıdan oldukça zengin bir yapıya sahip. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadardır. Bu yükseklik, bölgede yer alan diğer dağlarla karşılaştırıldığında nispeten düşük gibi görünse de, Gora Dzhebel'-Chumerli'nin coğrafi konumu ve jeolojik yapısı, onu ayrıcalıklı bir konuma yerleştiriyor.
 
-İklim açısından bakıldığında, Gora Dzhebel'-Chumerli dağı, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel değişimler, bölgeye özgü flora ve fauna'nın oluşmasına katkıda bulunmuş ve Gora Dzhebel'-Chumerli'yi bir ekosistem olarak zenginleştirmiştir.
+İklim açısından bakıldığında, Gora Dzhebel'-Chumerli dağı, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel değişimler, bölgeye özgü flora ve fauna'nın oluşmasına katkıda bulunmuş ve Gora Dzhebel'-Chumerli'yi bir ekosistem olarak zenginleştirmiştir.
 
 Doğal su kaynakları ve ekosistem bağlantıları açısından, Gora Dzhebel'-Chumerli dağı, bölgedeki diğer coğrafi oluşumlarla önemli bir ilişkiye sahip. Dağın eteklerinde yer alan dere ve çaylar, bölgenin su kaynaklarını oluşturuyor ve komşu alanlarla hidrolojik bir bağlantı sağlıyor. Bu bağlantılar, Gora Dzhebel'-Chumerli'nin çevresel önemini vurguluyor ve koruma altına alınmasının gerekliliğini gösteriyor.
 

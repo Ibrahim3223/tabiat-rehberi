@@ -37,7 +37,7 @@ Metropolis Balneum'un tarihi geçmişi, bölgenin tarihine bağlı olarak şekil
 
 ## Coğrafya
 
-Metropolis Balneum, Torbalı'nın merkezine yakın bir konumda yer alıyor. Plaj, Ege Denizi'nin güzel kıyılarını sunuyor ve geniş bir kumsala sahip. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve yeşilliklerle dolu. Plajın çevresi, çeşitli bitkiler ve ağaçlarla kaplı ve bu doğal güzellik, ziyaretçilerin rahat ve keyifli bir gün geçirmesini sağlıyor. Metropolis Balneum'un iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak sıca ve kuru yazlar, ılık ve yağışlı kışlar şeklinde tanımlanabilir. Bu iklim, plajın yıl boyunca ziyaretçilerini ağırlaması için uygun koşullar sunuyor.
+Metropolis Balneum, Torbalı'nın merkezine yakın bir konumda yer alıyor. Plaj, Ege Denizi'nin güzel kıyılarını sunuyor ve geniş bir kumsala sahip. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve yeşilliklerle dolu. Plajın çevresi, çeşitli bitkiler ve ağaçlarla kaplı ve bu doğal güzellik, ziyaretçilerin rahat ve keyifli bir gün geçirmesini sağlıyor. Metropolis Balneum'un iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak sıcak ve kuru yazlar, ılık ve yağışlı kışlar şeklinde tanımlanabilir. Bu iklim, plajın yıl boyunca ziyaretçilerini ağırlaması için uygun koşullar sunuyor.
 
 ## Flora ve Fauna
 

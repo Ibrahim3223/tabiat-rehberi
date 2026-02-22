@@ -42,7 +42,7 @@ Doğunun yüksekliklerinde yer alan Akyayla Tepe, Ağrı'nın dağlık coğrafya
 
 Jeolojik açıdan bakıldığında, Akyayla Tepe'nin fiziksel yapısı bölgenin genel jeolojik özelliklerini taşır. Ancak, bu tepe hakkında detaylı fiziksel veriler bulunmaması, tam olarak boyutları ve şeklini belirlememizi engellemektedir. Buna rağmen, Akyayla Tepe'nin etraftaki dağlarla benzerlik gösterdiği ve bölgenin yüksekliklerine uygun bir şekilde oluştuğu söylenebilir.
 
-Mevsimsel değişimlerin etkisi altında kalan Akyayla Tepe, iklimsel olarak karasal bir bölgede yer alır. Kış aylarında soğu ve karlı, yaz aylarında ise serin ve yağışlı bir hava hüküm sürer. Bu mevsimsel özellikler, tepe ve çevresinin ekosisteminin şekillenmesinde önemli bir rol oynar.
+Mevsimsel değişimlerin etkisi altında kalan Akyayla Tepe, iklimsel olarak karasal bir bölgede yer alır. Kış aylarında soğuk ve karlı, yaz aylarında ise serin ve yağışlı bir hava hüküm sürer. Bu mevsimsel özellikler, tepe ve çevresinin ekosisteminin şekillenmesinde önemli bir rol oynar.
 
 Çevresel açıdan bakıldığında, Akyayla Tepe bölgenin su kaynaklarına ve ekosistem bağlantılarına önemli katkılar sağlar. Etrafındaki dağlar ve vadiler, suyun doğal bir şekilde akmasına olanak tanır ve bu da bölgenin su döngüsünü destekler. Akyayla Tepe, bölgenin doğal dengesinin korunmasında önemli bir rol oynar ve çevreye duyarlı bir şekilde korunmalıdır.
 

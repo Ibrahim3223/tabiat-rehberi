@@ -39,7 +39,7 @@ Güneydoğu Anadolu Bölgesi'nde yer alan Tatos Dağları, coğrafi olarak olduk
 
 Doğal güzelliği ile dikkat çeken Tatos Dağları, bölgenin jeolojik yapısını da etkileyen bir etkiye sahiptir. Dağların jeolojik yapısı, bölgenin tarihini ve coğrafi özelliklerini şekillendiren faktörlerden biridir. Tatos Dağları, bölgenin diğer dağlık alanlarına benzer şekilde, volkani ve sedimentler kayalardan oluşmaktadır. Bu jeolojik yapı, bölgenin iklimini ve doğal kaynaklarını etkileyen bir faktördür.
 
-İklim koşulları bakımından Tatos Dağları, bölgenin genel iklim karakterini paylaşmaktadır. Bölgenin iklimi, yazları sıca ve kurak, kışları soğu ve yağışlıdır. Bu iklim koşulları, bölgenin doğal güzelliğini ve ekosistemini şekillendiren faktörlerden biridir. Tatos Dağları, bölgenin diğer dağlık alanlarına benzer şekilde, mevsimsel özelliklere göre değişen bir iklim karakterine sahiptir.
+İklim koşulları bakımından Tatos Dağları, bölgenin genel iklim karakterini paylaşmaktadır. Bölgenin iklimi, yazları sıcak ve kurak, kışları soğuk ve yağışlıdır. Bu iklim koşulları, bölgenin doğal güzelliğini ve ekosistemini şekillendiren faktörlerden biridir. Tatos Dağları, bölgenin diğer dağlık alanlarına benzer şekilde, mevsimsel özelliklere göre değişen bir iklim karakterine sahiptir.
 
 Tatos Dağları, bölgenin diğer coğrafi özelliklerine de bağlı olarak, çevresel ilişkiler açısından önemli bir role sahiptir. Bölgenin su kaynakları, ekosistem bağlantıları ve komşu alanlar, Tatos Dağları ile yakından ilgilidir. Bu dağlık alan, bölgenin doğal güzelliğini ve ekosistemini korumak için önemli bir faktördür. Tatos Dağları, bölgenin diğer dağlık alanlarına benzer şekilde, doğal kaynaklarını ve ekosistemini korumak için önemli bir role sahiptir.
 

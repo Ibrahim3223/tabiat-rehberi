@@ -37,7 +37,7 @@ Gümüşkum Tabiat Parkı'nın tarihi geçmişi, yüzyıllar öncesine dayanıyo
 
 ## Coğrafya
 
-Gümüşkum Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi özellikleri açısından önemli bir yere sahip. Park, bölgenin karakteristik coğrafi yapısını yansıtıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve coğrafi olarak çeşitlilik gösteriyor. Parkın coğrafi özellikleri, ziyaretçilerin dikkatini çekiyor. Gümüşkum Tabiat Parkı, çevredeki dağlar ve vadilerle çevrilidir. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklim özelliklerini taşır. Kışları soğu ve karlı, yazları ise sıcak ve kurak geçer. Parkın su kaynakları, bölgenin ekosistemini destekler. Gümüşkum Tabiat Parkı, coğrafi güzelliği ve çeşitliliğiyle ziyaretçilerini etkiliyor.
+Gümüşkum Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi özellikleri açısından önemli bir yere sahip. Park, bölgenin karakteristik coğrafi yapısını yansıtıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve coğrafi olarak çeşitlilik gösteriyor. Parkın coğrafi özellikleri, ziyaretçilerin dikkatini çekiyor. Gümüşkum Tabiat Parkı, çevredeki dağlar ve vadilerle çevrilidir. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklim özelliklerini taşır. Kışları soğuk ve karlı, yazları ise sıcak ve kurak geçer. Parkın su kaynakları, bölgenin ekosistemini destekler. Gümüşkum Tabiat Parkı, coğrafi güzelliği ve çeşitliliğiyle ziyaretçilerini etkiliyor.
 
 ## Flora ve Fauna
 

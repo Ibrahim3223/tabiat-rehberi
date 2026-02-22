@@ -44,7 +44,7 @@ Mardin'in tarihi ve kültürel zenginliklerinin arasında yer alan Mahzen Tepe, 
 
 Doğal bir oluşum olarak Mahzen Tepe, coğrafi yapısı itibariyle bölgenin jeolojik geçmişini yansıtıyor. Ancak detaylı fiziksel verileri bulunmamasına rağmen, bu dağ Mardin'in genel coğrafi yapısına uygun olarak kayaçlardan oluşuyor. Mahzen Tepe'nin yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bir noktaya ulaşıyor, bu da bölgenin coğrafi açıdan önemli bir nokta olduğunu gösteriyor.
 
-Mardin'in iklimi, Mahzen Tepe'nin çevresinde de hissediliyor. Bu bölge, yaz aylarında oldukça sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklim karakterine sahip. Mahzen Tepe, bu mevsimsel özelliklere uyum sağlayan bitki örtüsüne ev sahipliği yapıyor, bu da bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir çekim noktası oluşturuyor.
+Mardin'in iklimi, Mahzen Tepe'nin çevresinde de hissediliyor. Bu bölge, yaz aylarında oldukça sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklim karakterine sahip. Mahzen Tepe, bu mevsimsel özelliklere uyum sağlayan bitki örtüsüne ev sahipliği yapıyor, bu da bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir çekim noktası oluşturuyor.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları, Mahzen Tepe'nin çevresinde de etkili. Mahzen Tepe, Mardin'in diğer doğal alanlarına benzer şekilde, bölgenin su kaynaklarını koruma altına alan bir oluşum. Bu dağ, bölgenin ekosistem bağlantılarını da destekleyen bir rol üstleniyor, bu da bölgenin doğal dengesini korumasına yardımcı oluyor.
 

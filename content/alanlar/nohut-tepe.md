@@ -36,7 +36,7 @@ Nohut Tepe'nin tarihi geçmişi, Ankara'nın tarihinde önemli bir yere sahip. B
 
 ## Coğrafya
 
-Nohut Tepe, Ankara'nın coğrafi yapısını yansıtan bir bölgedir. İç Anadolu Bölgesi'nin karakteristik düzlükleri ve tepe gibi yükseltiler, bu bölgenin coğrafi görünümünü şekillendirmiştir. Nohut Tepe, Ankara'nın şehir merkezine yakın bir konumda bulunması ve geniş bir alanı kaplamasıyla dikkat çekiyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor; kışları soğu ve karlı, yazları ise sıcak ve kurak geçiyor. Nohut Tepe, Ankara'nın coğrafi çeşitliliğini ve doğal güzelliklerini deneyimlemek isteyenler için önemli bir destinasyon. Bu bölgenin coğrafi yapısı, ziyaretçilere geniş bir görüş açısı ve Ankara'nın doğal güzelliğini keşfetme fırsatı sunuyor.
+Nohut Tepe, Ankara'nın coğrafi yapısını yansıtan bir bölgedir. İç Anadolu Bölgesi'nin karakteristik düzlükleri ve tepe gibi yükseltiler, bu bölgenin coğrafi görünümünü şekillendirmiştir. Nohut Tepe, Ankara'nın şehir merkezine yakın bir konumda bulunması ve geniş bir alanı kaplamasıyla dikkat çekiyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor; kışları soğuk ve karlı, yazları ise sıcak ve kurak geçiyor. Nohut Tepe, Ankara'nın coğrafi çeşitliliğini ve doğal güzelliklerini deneyimlemek isteyenler için önemli bir destinasyon. Bu bölgenin coğrafi yapısı, ziyaretçilere geniş bir görüş açısı ve Ankara'nın doğal güzelliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

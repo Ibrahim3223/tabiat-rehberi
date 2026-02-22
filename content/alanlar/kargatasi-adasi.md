@@ -44,7 +44,7 @@ Coğrafi olarak 36.7633°K, 28.2725°D koordinatlarında yer alan Kargataşı Ad
 
 Doğal güzellikleri ve jeolojik yapısı ile dikkat çeken Kargataşı Adası, bir birkaç olimpik havuz kadar küçük bir alanı kaplar. Ada, denize yakın bir konumda olmasından dolayı, jeolojik yapısı büyük ölçüde kaya ve taşlardan oluşmaktadır. Bu yapı, adanın çevresindeki su kaynaklarını ve ekosistemini etkilemektedir.
 
-Mevsimsel olarak, Kargataşı Adası, Akdeniz ikliminin karakteristik özelliklerini taşır. Sıca ve kuru yazlar, ılık ve yağışlı kışlar, adanın iklimini belirler. Hava durumu, genellikle güneşli ve açık passedir, ancak denizin etkisinden dolayı, zaman yağışlı günler de yaşanabilir.
+Mevsimsel olarak, Kargataşı Adası, Akdeniz ikliminin karakteristik özelliklerini taşır. Sıca ve kuru yazlar, ılık ve yağışlı kışlar, adanın iklimini belirler. Hava durumu, genellikle güneşli ve açık pasiftir, ancak denizin etkisinden dolayı, zaman yağışlı günler de yaşanabilir.
 
 Çevresel olarak, Kargataşı Adası, komşu adalar ve anakara ile bağlantılı bir ekosisteme sahiptir. Su kaynakları, adanın etrafındaki deniz suyu ile sınırlıdır, ancak bu su, adanın doğal güzelliklerini ve canlı yaşamını desteklemektedir. Ada, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alan kaplar ve Monaco'nun çok küçük bir bölümü kadar bir alanı kaplar. Bu küçük ada, büyük bir doğal güzelliğe ve canlı çeşitliliğine sahiptir.
 

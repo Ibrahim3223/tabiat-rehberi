@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Hasta Dağı, 41.4110°K, 42.2127°D koo
 
 Boyutları hakkında detaylı bilgi olmasa da, Hasta Dağı'nın bulunduğu bölgenin coğrafi yapısı, genellikle yüksek dağlarla ve derin vadilerle karakterize ediliyor. Bu dağlık araziler, genellikle granit ve şist gibi kayaçlardan oluşuyor. Hasta Dağı da bu coğrafi yapıya uyumlu bir şekilde, sert ve dayanıklı kayaçlardan oluşuyor. Bu bölgenin yükseklikleri, genellikle Eiffel Kulesi'nin birkaç katı yükseklikte olan dağlarla dolu.
 
-Mevsimsel olarak bakıldığında, Hasta Dağı'nın bulunduğu bölgenin iklimi, genellikle karasal ve nemli bir karaktere sahip. Kış ayları, genellikle soğu ve kar yağışlı geçerken, yaz ayları sıca ve nemli oluyor. Bu bölgenin iklimi, yıl boyunca önemli değişiklikler gösteriyor. Bu nedenle, Hasta Dağı'nın bulunduğu bölgenin iklimi, yıl boyunca önemli ölçüdeğişen bir yapıya sahip.
+Mevsimsel olarak bakıldığında, Hasta Dağı'nın bulunduğu bölgenin iklimi, genellikle karasal ve nemli bir karaktere sahip. Kış ayları, genellikle soğuk ve kar yağışlı geçerken, yaz ayları sıcak ve nemli oluyor. Bu bölgenin iklimi, yıl boyunca önemli değişiklikler gösteriyor. Bu nedenle, Hasta Dağı'nın bulunduğu bölgenin iklimi, yıl boyunca önemli ölçüdeğişen bir yapıya sahip.
 
 Hasta Dağı'nın bulunduğu bölgenin çevresel ilişkileri, komşu alanlar ve su kaynakları açısından oldukça önemli. Bu bölgenin su kaynakları, genellikle yüksek dağlardan inen dereler ve nehirlerle dolu. Bu su kaynakları, bölgenin ekosistemini destekleyen önemli bir kaynak. Hasta Dağı da, bu su kaynaklarına katkıda bulunan önemli bir parça, bu nedenle bu bölgenin çevresel ilişkileri, oldukça önemli bir role sahip.
 

@@ -36,7 +36,7 @@ Süleymandede Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarl�
 
 ## Coğrafya
 
-Süleymandede Tepesi, Ankara'nın coğrafi yapısının karakteristik özelliklerini taşıyor. Tepenin yüksekliği, Ankara'nın genel coğrafi yapısına uygun olarak, bölgenin doğal güzelliklerini ön plana çıkarıyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve kar yağışlı bir iklim hüküm sürüyor. Süleymandede Tepesi, aynı zamanda Ankara'nın önemli su kaynaklarına da ev sahipliği yapıyor. Tepenin eteklerinde ve çevresinde, çeşitli su kaynakları ve akarsular bulunuyor.
+Süleymandede Tepesi, Ankara'nın coğrafi yapısının karakteristik özelliklerini taşıyor. Tepenin yüksekliği, Ankara'nın genel coğrafi yapısına uygun olarak, bölgenin doğal güzelliklerini ön plana çıkarıyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve kar yağışlı bir iklim hüküm sürüyor. Süleymandede Tepesi, aynı zamanda Ankara'nın önemli su kaynaklarına da ev sahipliği yapıyor. Tepenin eteklerinde ve çevresinde, çeşitli su kaynakları ve akarsular bulunuyor.
 
 ## Flora ve Fauna
 

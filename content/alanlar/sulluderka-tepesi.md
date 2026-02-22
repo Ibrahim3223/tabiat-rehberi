@@ -36,7 +36,7 @@ Süllüderka Tepesi'nin tarihi geçmişi, bölgenin tarihine kadar uzanmaktadır
 
 ## Coğrafya
 
-Süllüderka Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer almaktadır. Tepenin etrafında bulunan dağlar, vadiler ve ovalar, ziyaretçilere çeşitli coğrafi oluşumları gözlemleme fırsatı sunmaktadır. Bölgenin iklimi, genellikle sıca ve kurudur. Ancak, tepenin yüksekliği nedeniyle, iklimconditions biraz daha soğuktur. Süllüderka Tepesi, çevresindeki coğrafi oluşumlarla birlikte, bir bütün olarak düşünüldüğünde, ziyaretçilere geniş bir coğrafi çeşitlilik sunmaktadır. Tepenin coğrafi konumu, bölgedeki flora ve faunayı önemli ölçüde etkilemektedir. Bu nedenle, Süllüderka Tepesi, coğrafi açıdan zengin bir destinasyondur.
+Süllüderka Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer almaktadır. Tepenin etrafında bulunan dağlar, vadiler ve ovalar, ziyaretçilere çeşitli coğrafi oluşumları gözlemleme fırsatı sunmaktadır. Bölgenin iklimi, genellikle sıcak ve kurudur. Ancak, tepenin yüksekliği nedeniyle, iklimconditions biraz daha soğuktur. Süllüderka Tepesi, çevresindeki coğrafi oluşumlarla birlikte, bir bütün olarak düşünüldüğünde, ziyaretçilere geniş bir coğrafi çeşitlilik sunmaktadır. Tepenin coğrafi konumu, bölgedeki flora ve faunayı önemli ölçüde etkilemektedir. Bu nedenle, Süllüderka Tepesi, coğrafi açıdan zengin bir destinasyondur.
 
 ## Flora ve Fauna
 

@@ -42,7 +42,7 @@ Dikenli Tepe, Karaman'ın dağlık bölgesinde, 36.5992°K ve 32.5242°D koordin
 
 Jeolojik açıdan incelendiğinde, Dikenli Tepe'nin fiziksel yapısı hakkında detaylı bilgi bulunmasa da, coğrafi konumu itibariyle çevresindeki dağlık bölgeyle benzer özellikler taşıdığı söylenebilir. Bu bölgede, genellikle kalker ve şist gibi kayalar bulunur. Dikenli Tepe'nin boyutları hakkında net bir bilgi olmasa da, genel olarak bu tür dağlık alanlar, birkaç olimpik havuz kadar bir alanı kaplayabilir.
 
-Mevsimsel olarak, Dikenli Tepe ve çevresindeki bölge, İç Anadolu Bölgesi'nin karakteristik iklimine sahiptir. Kışlar soğu ve kar yağışlı, yazlar ise sıca ve kurudur. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler. Dikenli Tepe'nin yüksekliği hakkında net bir bilgi olmasa da, Eiffel Kulesi'nin birkaç katı yükseklikte olan dağlar, bu bölgede sıkça görülür.
+Mevsimsel olarak, Dikenli Tepe ve çevresindeki bölge, İç Anadolu Bölgesi'nin karakteristik iklimine sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler. Dikenli Tepe'nin yüksekliği hakkında net bir bilgi olmasa da, Eiffel Kulesi'nin birkaç katı yükseklikte olan dağlar, bu bölgede sıkça görülür.
 
 Çevresel açıdan bakıldığında, Dikenli Tepe, Karaman şehri ve çevresindeki diğer dağlık alanlarla birlikte, bir ekosistem ağı oluşturur. Bu bölgede, çeşitli su kaynakları ve akarsular bulunur. Dikenli Tepe, bu su kaynaklarına göre, Monaco'nun bir kısmına eşdeğer bir alanı kapsayabilen bir bölgede yer alır. Bu bölgenin çevresel ilişkileri, komşu alanlar ve su kaynakları ile birlikte, bir bütün olarak incelendiğinde, Dikenli Tepe'nin önemli bir ekolojik role sahip olduğu anlaşılır.
 

@@ -42,7 +42,7 @@ Doğu Anadolu Bölgesi'nin coğrafi güzellikleri arasında yer alan Aregi Vadis
 
 Jeolojik açıdan bakıldığında, Aregi Vadisi'nin fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, bölgenin coğrafi özelliklerine bakıldığında, giống bir kanyon olarak tanımlanmaktadır. Bir şehir bloğu büyüklüğünde olan bu vadi, etrafındaki dağların eteklerinde yer almaktadır ve bu konumuyla birlikte, bölgenin jeolojik yapısını anlamak için önemli bir noktadır.
 
-İklim karakteri açısından, Aregi Vadisi'nin bulunduğu Doğu Anadolu Bölgesi, karasal iklimin özellikleri göstermektedir. Mevsimsel olarak, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve kar yağışlı bir hava durumu hakimdir. Bu iklim koşulları, vadi ve çevresindeki bitki örtüsünü ve fauna çeşitliliğini etkilemektedir.
+İklim karakteri açısından, Aregi Vadisi'nin bulunduğu Doğu Anadolu Bölgesi, karasal iklimin özellikleri göstermektedir. Mevsimsel olarak, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve kar yağışlı bir hava durumu hakimdir. Bu iklim koşulları, vadi ve çevresindeki bitki örtüsünü ve fauna çeşitliliğini etkilemektedir.
 
 Çevresel açıdan bakıldığında, Aregi Vadisi, komşu alanlar ve su kaynakları ile önemli bir ekosistem bağlantısı oluşturmaktadır. Çevresindeki dağlar ve ovalar, vadiye su kaynakları sağlamaktadır ve bu su kaynakları, bölgenin ekolojik dengesini korumak için önemlidir. Monaco'nun yarısı kadar büyük bir alanı kaplayan bu bölge, doğal güzelliği ve ekolojik önemi ile dikkat çekmektedir.
 

@@ -36,7 +36,7 @@ wikidata_id: "Q31507898"
 
 ## Coğrafya
 
-Şakşak Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını temsil eden bir bölgede yer alır. Bu tepe, Erzurum şehrinin kuzeyinde, uzun bir mesafe uzaklıkta bulunur. Tepenin denizden yüksekliği, şehrin merkezi ile karşılaştırıldığında daha yüksektir, bu da burayı şehrin gürültüsünden uzaklaştırmak isteyenler için ideal bir kaçış noktası haline getirir. Şakşak Tepesi'nin coğrafi konumu, ziyaretçilere şehrin ve çevresinin panoramik manzarasını sunar. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna  eder, bu da burayı doğa severler için cennet gibi bir yer haline getirir. Şakşak Tepesi'nin iklimi, Doğu Anadolu Bölgesi'nin genel iklimine benzer, kışları soğu ve yazları serin geçer.
+Şakşak Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını temsil eden bir bölgede yer alır. Bu tepe, Erzurum şehrinin kuzeyinde, uzun bir mesafe uzaklıkta bulunur. Tepenin denizden yüksekliği, şehrin merkezi ile karşılaştırıldığında daha yüksektir, bu da burayı şehrin gürültüsünden uzaklaştırmak isteyenler için ideal bir kaçış noktası haline getirir. Şakşak Tepesi'nin coğrafi konumu, ziyaretçilere şehrin ve çevresinin panoramik manzarasını sunar. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna  eder, bu da burayı doğa severler için cennet gibi bir yer haline getirir. Şakşak Tepesi'nin iklimi, Doğu Anadolu Bölgesi'nin genel iklimine benzer, kışları soğuk ve yazları serin geçer.
 
 ## Flora ve Fauna
 

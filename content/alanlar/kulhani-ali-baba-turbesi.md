@@ -38,7 +38,7 @@ Külhani Ali Baba Türbesi, tarihin derinliklerinden gelen bir geçmişe sahipti
 
 ## Coğrafya
 
-Külhani Ali Baba Türbesi, Aksaray ilinin coğrafi yapısının güzel bir örneğini sunar. Türbe, şehrin merkezinde yer alır ve etrafındaki yeşil alanlar, ziyaretçilere ferah bir atmosfer sağlar. Aksaray'ın coğrafi konumu, İç Anadolu Bölgesi'nde yer alması nedeniyle, karasal iklimin özellikleri görülür. Kışlar soğu ve karlı, yazlar ise sıcak ve kuru geçer. Bu coğrafi konum, Külhani Ali Baba Türbesi'nin etrafındaki flora ve fauna üzerinde etkili olur. Türbenin bulunduğu bölgede, çeşitli bitki türleri ve hayvanlar yaşar. Bu bölge, doğa severler için önemli bir destinasyon olarak kabul edilir. Külhani Ali Baba Türbesi, Aksaray'ın coğrafi güzelliklerini keşfetmek isteyen ziyaretçiler için ideal bir başlangıç noktasıdır. Türbenin etrafındaki manzara, ziyaretçilere doğanın güzelliğini göstermektedir.
+Külhani Ali Baba Türbesi, Aksaray ilinin coğrafi yapısının güzel bir örneğini sunar. Türbe, şehrin merkezinde yer alır ve etrafındaki yeşil alanlar, ziyaretçilere ferah bir atmosfer sağlar. Aksaray'ın coğrafi konumu, İç Anadolu Bölgesi'nde yer alması nedeniyle, karasal iklimin özellikleri görülür. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuru geçer. Bu coğrafi konum, Külhani Ali Baba Türbesi'nin etrafındaki flora ve fauna üzerinde etkili olur. Türbenin bulunduğu bölgede, çeşitli bitki türleri ve hayvanlar yaşar. Bu bölge, doğa severler için önemli bir destinasyon olarak kabul edilir. Külhani Ali Baba Türbesi, Aksaray'ın coğrafi güzelliklerini keşfetmek isteyen ziyaretçiler için ideal bir başlangıç noktasıdır. Türbenin etrafındaki manzara, ziyaretçilere doğanın güzelliğini göstermektedir.
 
 ## Flora ve Fauna
 

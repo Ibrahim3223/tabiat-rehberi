@@ -44,7 +44,7 @@ Mersin'in güzel bir köşesinde, 36.3000°K enlem ve 33.9500°D boylamda yer al
 
 Doğal bir cennet olan Ak Göl'ün fiziksel yapısı, coğrafya severlerin ilgisini çekiyor. Koordinatlarına baktığımızda, 36.3000°K ve 33.9500°D noktalarında bulunduğunu görüyoruz. Bu bilgiler ışığında, Ak Göl'ün Mersin'in diğer bölgelerine göre nispeten küçük bir alan olduğunu söyleyebiliriz. Ancak, bu küçük alan, Taksim Meydanı'nın birkaç katı büyüklüğünde bir yeşil cenneti andırıyor.
 
-İklim karakteri açısından bakıldığında, Ak Göl'ün bulunduğu bölge, tipik Akdeniz ikliminin özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakim. Bu mevsimsel özellikler, Ak Göl'ün çevresindeki flora ve fauna için ideal koşulları sağlıyor. Göle yakın noktalarda, çeşitli bitki türleri ve hayvanlar, bu iklim koşullarına uyum sağlamışlar.
+İklim karakteri açısından bakıldığında, Ak Göl'ün bulunduğu bölge, tipik Akdeniz ikliminin özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakim. Bu mevsimsel özellikler, Ak Göl'ün çevresindeki flora ve fauna için ideal koşulları sağlıyor. Göle yakın noktalarda, çeşitli bitki türleri ve hayvanlar, bu iklim koşullarına uyum sağlamışlar.
 
 Ak Göl'ün çevresel ilişkileri, bölgenin ekolojik dengesini koruması açısından önemli. Komşu alanlar, su kaynakları ve ekosistem bağlantıları, bu küçük gölle birlikte, bir bütün olarak değerlendirilmeli. Örneğin, Ak Göl'ün su kaynakları, bölgenin tarımsal faaliyetleri için hayati önem taşıyor. Ayrıca, gölle birlikte, bölgedeki diğer doğal alanlar, birer yaşam alanı olarak işlev görüyorlar. Bu doğal güzelliklerin korunması, gelecek nesiller için çok önemli.
 

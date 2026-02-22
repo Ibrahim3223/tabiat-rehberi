@@ -31,7 +31,7 @@ Bazalt Kayalıkları'nın tarihi geçmişi, yüzyıllar öncesine dayanıyor. B�
 
 ## Coğrafya
 
-Bazalt Kayalıkları, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Bölgenin iklimi, karasal iklimin özellikleri gösteriyor; kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor. Kayalıkların yapısı, milyonlarca yıl önce oluşan volkanik faaliyetlerin bir sonucu. Bu volkanik faaliyetler, bölgenin jeolojisini şekillendirmiş ve benzersiz bir coğrafi yapı oluşmasına neden olmuş. Milli park, çeşitli bitki türleri ve hayvanlar için bir yaşam alanı sunuyor. Çevre, doğa severler için bir cennet ve coğrafi olarak önemli bir bölge.
+Bazalt Kayalıkları, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Bölgenin iklimi, karasal iklimin özellikleri gösteriyor; kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Kayalıkların yapısı, milyonlarca yıl önce oluşan volkanik faaliyetlerin bir sonucu. Bu volkanik faaliyetler, bölgenin jeolojisini şekillendirmiş ve benzersiz bir coğrafi yapı oluşmasına neden olmuş. Milli park, çeşitli bitki türleri ve hayvanlar için bir yaşam alanı sunuyor. Çevre, doğa severler için bir cennet ve coğrafi olarak önemli bir bölge.
 
 ## Flora ve Fauna
 

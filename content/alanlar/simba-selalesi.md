@@ -31,7 +31,7 @@ Simba Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Böl
 
 ## Coğrafya
 
-Simba Şelalesi, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici noktalarından biridir. Şelale, bir vadi içerisinde yer alır ve yüksek kayalıklarla çevrilidir. Çevresindeki bitki örtüsü, zengin ve çeşitli olup, mevsimsel değişimlere göre farklılık gösterir. İlkbahar ve yaz aylarında, şelale çevresindeki çiçekler açar ve bir renk cümbüşü oluşur. Sonbahar ve kış aylarında ise, şelalenin suyu, donar ve bir buzul görünümü kazanır. Şelalenin iklimi, karasal iklim özellikleri taşır ve mevsimlere göre farklılık gösterir. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve karlı olur. Simba Şelalesi, coğrafi olarak, bir doğa harikası olarak kabul edilir ve ziyaretçilere, benzersiz bir deneyim sunar.
+Simba Şelalesi, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici noktalarından biridir. Şelale, bir vadi içerisinde yer alır ve yüksek kayalıklarla çevrilidir. Çevresindeki bitki örtüsü, zengin ve çeşitli olup, mevsimsel değişimlere göre farklılık gösterir. İlkbahar ve yaz aylarında, şelale çevresindeki çiçekler açar ve bir renk cümbüşü oluşur. Sonbahar ve kış aylarında ise, şelalenin suyu, donar ve bir buzul görünümü kazanır. Şelalenin iklimi, karasal iklim özellikleri taşır ve mevsimlere göre farklılık gösterir. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı olur. Simba Şelalesi, coğrafi olarak, bir doğa harikası olarak kabul edilir ve ziyaretçilere, benzersiz bir deneyim sunar.
 
 ## Flora ve Fauna
 

@@ -31,7 +31,7 @@ Keltepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bu bölge, fa
 
 ## Coğrafya
 
-Keltepe, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, bozkır ve ormanlık alanların birleştiği bir bölgede yer alıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu geniş alan içerisinde, çeşitli bitki türleri ve yaban hayatı bulunmakta. Keltepe'nin coğrafi konumu, ziyaretçilere doğal güzelliğin yanı sıra, çevre ile iç içe bir deneyim sunuyor. İklim olarak, Keltepe, İç Anadolu Bölgesi'nin karakteristik karasal iklimine sahiptir ve bu nedenle, yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlı geçer. Bu coğrafi ve iklimsel özellikler, Keltepe'yi ziyaret edenler için, dört mevsim boyunca farklı deneyimler sunar.
+Keltepe, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, bozkır ve ormanlık alanların birleştiği bir bölgede yer alıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu geniş alan içerisinde, çeşitli bitki türleri ve yaban hayatı bulunmakta. Keltepe'nin coğrafi konumu, ziyaretçilere doğal güzelliğin yanı sıra, çevre ile iç içe bir deneyim sunuyor. İklim olarak, Keltepe, İç Anadolu Bölgesi'nin karakteristik karasal iklimine sahiptir ve bu nedenle, yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçer. Bu coğrafi ve iklimsel özellikler, Keltepe'yi ziyaret edenler için, dört mevsim boyunca farklı deneyimler sunar.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Tepesidelik Tepe'nin tarihi geçmişi, binlerce yıl öncesine dayanmaktadır. B
 
 ## Coğrafya
 
-Tepesidelik Tepe, coğrafi olarak Ege Bölgesi'nin önemli noktalarından biridir. Bu tepe, 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğündedir. Tepesidelik Tepe, deniz seviyesinden yüksekliği ile birlikte çevredeki diğer tepelerden ayırt edilebilir. Bu bölge, Ege Bölgesi'nin karakteristik coğrafi özellikleri olan Akdeniz iklimine sahiptir. Yaz ayları sıca ve kurak, kış ayları ılıman ve yağışlı geçer. Tepesidelik Tepe'nin etrafı, çeşitli bitki türleri ve ağaçlarla kaplıdır. Bu bölgede, zeytin ağaçları, kestane ağaçları ve çam ağaçları gibi farklı türler bulunur. Tepesidelik Tepe, doğal güzellikleri ve coğrafi konumu ile ziyaretçilerini cezbeden bir destinasyondur.
+Tepesidelik Tepe, coğrafi olarak Ege Bölgesi'nin önemli noktalarından biridir. Bu tepe, 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğündedir. Tepesidelik Tepe, deniz seviyesinden yüksekliği ile birlikte çevredeki diğer tepelerden ayırt edilebilir. Bu bölge, Ege Bölgesi'nin karakteristik coğrafi özellikleri olan Akdeniz iklimine sahiptir. Yaz ayları sıcak ve kurak, kış ayları ılıman ve yağışlı geçer. Tepesidelik Tepe'nin etrafı, çeşitli bitki türleri ve ağaçlarla kaplıdır. Bu bölgede, zeytin ağaçları, kestane ağaçları ve çam ağaçları gibi farklı türler bulunur. Tepesidelik Tepe, doğal güzellikleri ve coğrafi konumu ile ziyaretçilerini cezbeden bir destinasyondur.
 
 ## Flora ve Fauna
 

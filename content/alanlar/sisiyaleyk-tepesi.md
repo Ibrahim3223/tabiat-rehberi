@@ -36,7 +36,7 @@ Sisiyaleyk Tepesi'nin tarihi geçmişi, bölgeye yerleşen ilk medeniyetlere kad
 
 ## Coğrafya
 
-Sisiyaleyk Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını oluşturan önemli bir noktadır. Tepenin yüksekliği ve konumu, çevresindeki şehirlerin iklimini etkiler. Bölge, karasal iklimin hüküm sürdüğü bir yer olup, yazları sıca ve kurak, kışları ise soğu ve yağışlı geçer. Sisiyaleyk Tepesi'nin eteklerinde, şehrin su ihtiyacını karşılayan nehirler ve akarsular bulunur. Tepenin çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölgede, tarım ve hayvancılık faaliyetleri de önemli bir yer tutar. Sisiyaleyk Tepesi, Batman şehrinin önemli bir doğal güzelliği olup, turizm açısından da büyük potansiyele sahiptir.
+Sisiyaleyk Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını oluşturan önemli bir noktadır. Tepenin yüksekliği ve konumu, çevresindeki şehirlerin iklimini etkiler. Bölge, karasal iklimin hüküm sürdüğü bir yer olup, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı geçer. Sisiyaleyk Tepesi'nin eteklerinde, şehrin su ihtiyacını karşılayan nehirler ve akarsular bulunur. Tepenin çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölgede, tarım ve hayvancılık faaliyetleri de önemli bir yer tutar. Sisiyaleyk Tepesi, Batman şehrinin önemli bir doğal güzelliği olup, turizm açısından da büyük potansiyele sahiptir.
 
 ## Flora ve Fauna
 

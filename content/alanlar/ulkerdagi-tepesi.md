@@ -36,7 +36,7 @@ wikidata_id: "Q34810057"
 
 ## Coğrafya
 
-Ülkerdağı Tepesi, Bingöl ilinin coğrafi olarak önemli bir noktasında yer alıyor. Bu tepe, çevresi dağlar ve ormanlarla çevrili geniş bir yeşil alanı sunuyor. Bölgenin coğrafi yapısı, ziyaretçilere hem dağcılık hem de doğa yürüyüşü yapma imkanı sağlıyor. İklimi, Doğu Anadolu Bölgesi'nin genel iklimine benzeyen bu bölgede, yaz ayları sıca ve kurak, kış ayları soğu ve karlı geçiyor. Bu farklı iklim koşulları, ziyaretçilere yılın her mevsiminde farklı bir deneyim sunuyor. Çevre, doğal güzelliği ve zengin fauna ile dikkat çekiyor.
+Ülkerdağı Tepesi, Bingöl ilinin coğrafi olarak önemli bir noktasında yer alıyor. Bu tepe, çevresi dağlar ve ormanlarla çevrili geniş bir yeşil alanı sunuyor. Bölgenin coğrafi yapısı, ziyaretçilere hem dağcılık hem de doğa yürüyüşü yapma imkanı sağlıyor. İklimi, Doğu Anadolu Bölgesi'nin genel iklimine benzeyen bu bölgede, yaz ayları sıcak ve kurak, kış ayları soğuk ve karlı geçiyor. Bu farklı iklim koşulları, ziyaretçilere yılın her mevsiminde farklı bir deneyim sunuyor. Çevre, doğal güzelliği ve zengin fauna ile dikkat çekiyor.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Güneybatı Anadolu'nun yeşilliklerle kaplı dağlık bölgesinde, Aydın ilini
 
 Doğal güzelliği ile ön plana çıkan Teke Dağı, coğrafi olarak dağlık bir araziye sahip. Ancak, fiziksel veri eksikliği nedeniyle dağın boyutları ve şekli hakkında net bilgiler bulunmuyor. Bu durum, ziyaretçilerin keşif heyecanını artırırken, aynı zamanda bölgenin gizemiyle de örtüşüyor.
 
-Mevsimsel değişimler, Teke Dağı'nın iklim karakterini şekillendiriyor. Bölge, typically Akdeniz ikliminin hakim olduğu bir coğrafyada yer alıyor. Yaz aylarında sıca ve kuru, kış aylarında ise ılık ve yağışlı bir hava hüküm sürüyor. Bu iklim özellikleri, Teke Dağı'nı yıl boyunca çeşitli bitki örtüsü ve vahşi yaşamın barınmasına elverişli kılıyor.
+Mevsimsel değişimler, Teke Dağı'nın iklim karakterini şekillendiriyor. Bölge, typically Akdeniz ikliminin hakim olduğu bir coğrafyada yer alıyor. Yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı bir hava hüküm sürüyor. Bu iklim özellikleri, Teke Dağı'nı yıl boyunca çeşitli bitki örtüsü ve vahşi yaşamın barınmasına elverişli kılıyor.
 
 Bölgenin ekosistem bağlantıları, Teke Dağı'nın çevresel ilişkilerini zenginleştiriyor. Dağın eteklerinde yer alan köyler ve kasabalar, bölgenin sosyal yapısını oluştururken, yakın çevredeki su kaynakları da ekosistemin devamlılığı için önemli bir rol oynuyor. Bu doğal ve sosyal bağlantılar, Teke Dağı'nı sadece bir dağ olarak değil, aynı zamanda bir yaşam alanı olarak tanımlıyor.
 

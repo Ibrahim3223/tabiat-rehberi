@@ -37,7 +37,7 @@ Kabalak Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetleri
 
 ## Coğrafya
 
-Kabalak Tepesi, coğrafi konumu itibariyle Akdeniz Bölgesi'nde bulunur. Bu bölge, Adana ilinin önemli güzelliklerinden biridir. Tepenin yüksekliği ve çevresindeki manzara, ziyaretçileri etkiler. Kabalak Tepesi, çevresindeki diğer tepe ve dağlarla birlikte bir bütün oluşturur. Bu bölge, iklim açısından Akdeniz ikliminin özellikleri gösterir. Yaz ayları sıca ve khô, kış ayları ılıman ve yağışlı geçer. Bu iklim, bölgede çeşitli bitki türlerinin yetişmesine olanak sağlar. Kabalak Tepesi, doğal güzelliği ve coğrafi konumuyla dikkat çeker. Tepenin eteklerinde ve çevresinde akan su kaynakları, bölgenin ekolojisini destekler.
+Kabalak Tepesi, coğrafi konumu itibariyle Akdeniz Bölgesi'nde bulunur. Bu bölge, Adana ilinin önemli güzelliklerinden biridir. Tepenin yüksekliği ve çevresindeki manzara, ziyaretçileri etkiler. Kabalak Tepesi, çevresindeki diğer tepe ve dağlarla birlikte bir bütün oluşturur. Bu bölge, iklim açısından Akdeniz ikliminin özellikleri gösterir. Yaz ayları sıcak ve kuru, kış ayları ılıman ve yağışlı geçer. Bu iklim, bölgede çeşitli bitki türlerinin yetişmesine olanak sağlar. Kabalak Tepesi, doğal güzelliği ve coğrafi konumuyla dikkat çeker. Tepenin eteklerinde ve çevresinde akan su kaynakları, bölgenin ekolojisini destekler.
 
 ## Flora ve Fauna
 

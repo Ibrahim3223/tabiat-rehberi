@@ -44,7 +44,7 @@ Coğrafi olarak 37.1242°K, 27.5319°D koordinatlarında yer alan Anani Adası, 
 
 Jeolojik açıdan bakıldığında, Anani Adası'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bulunduğu bölgenin coğrafi özellikleri dikkate alındığında, ada'nın yüzeyinin genellikle kayalık ve dağlık bir yapıya sahip olabileceği söylenebilir. Ada'nın boyutları, Monaco'nun yarısı kadar bir alanı kaplayabilecek büyüklüktedir. Bu büyüklük, adanın zengin bir flora ve fauna çeşitliliğine sahip olabileceğini düşündürür.
 
-İklim açısından Anani Adası, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kuru, kış aylarında ise ılık ve yağışlı bir hava durumu hakimdir. Ada'nın iklimi, Ege Denizi'nin etkisi altında oluşur ve bu nedenle, adanın çevresindeki su kaynakları da iklimin şekillenmesinde önemli bir rol oynar.
+İklim açısından Anani Adası, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı bir hava durumu hakimdir. Ada'nın iklimi, Ege Denizi'nin etkisi altında oluşur ve bu nedenle, adanın çevresindeki su kaynakları da iklimin şekillenmesinde önemli bir rol oynar.
 
 Çevresel açıdan bakıldığında, Anani Adası'nın komşu alanları ve su kaynakları, adanın ekosistemini şekillendiren önemli faktörlerdir. Ada, Ege Denizi'nin suları ile çevrili olup, bu su kaynakları ada'nın fauna ve flora çeşitliliğinin korunmasında önemli bir rol oynar. Ada'nın çevresindeki diğer adalar ve kıyı şeridi ile birlikte, bir bütün olarak düşünüldüğünde, Anani Adası'nın çevresel ilişkileri, bölge'nin doğal güzelliğini ve biyolojik çeşitliliğini korumanın önemini vurgular.
 

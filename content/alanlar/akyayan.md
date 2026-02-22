@@ -42,7 +42,7 @@ Güney kıyılarımızda, Akdeniz'in sıcakkanlı maviliklerine doğru uzanan bi
 
 Doğal güzelliği ile dikkat çeken Akyayan Gol'u, yaklaşık birkaç olimpik havuz kadar bir alanı kaplıyor. Jeolojik açıdan bakıldığında, gölün çevresi kalker ve şist gibi farklı türdeki kayalardan oluşuyor. Bu çeşitlilik, bölgenin jeolojik geçmişinde önemli olayların yaşanmasına işaret ediyor. Gol'un boyutları ve şekli, çevresindeki dağların erozyonuna ve suyun akışına bağlı olarak oluşmuş gibi görünüyor.
 
-Mevsimler değiştiğinde, Akyayan Gol'u çevresindeki iklim karakteri değişiyor. Kış aylarında, bölgede yağmur ve kar yağışı görülürken, yaz aylarında ise sıca ve kurak bir hava hakim oluyor. Bu mevsimsel değişimler, gol'un su seviyesini ve çevresindeki bitki örtüsünü etkiliyor. Çevresel faktörler, bu küçük gölün ekosisteminde önemli bir rol oynuyor.
+Mevsimler değiştiğinde, Akyayan Gol'u çevresindeki iklim karakteri değişiyor. Kış aylarında, bölgede yağmur ve kar yağışı görülürken, yaz aylarında ise sıcak ve kurak bir hava hakim oluyor. Bu mevsimsel değişimler, gol'un su seviyesini ve çevresindeki bitki örtüsünü etkiliyor. Çevresel faktörler, bu küçük gölün ekosisteminde önemli bir rol oynuyor.
 
 Akyayan Gol'u, çevresindeki dağlar ve vadilerle birlikte bir Bütün olarak ele alındığında, bölgeye su sağlayan ve ekosistemi destekleyen bir su kaynağı olarak görülüyor. Gol'un komşu alanları, zengin bir bitki örtüsüne ve çeşitli hayvan türlerine ev sahipliği yapıyor. Bu bağlamda, Akyayan Gol'u, bölgenin doğal dengesini koruması açısından önemli bir rol üstleniyor.
 

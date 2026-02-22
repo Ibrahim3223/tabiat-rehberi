@@ -44,7 +44,7 @@ Manyas Kuşgölü, 40.1953°K ve 27.9678°D koordinatlarında yer alan, Balıkes
 
 Doğal güzelliği ve biyolojik çeşitliliğiyle ön plana çıkan Manyas Kuşgölü, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu küçük ama önemli alan, jeolojik açıdan da dikkat çekici özellikler taşıyor. Ancak, detaylı fiziksel verilerin bulunmaması, gölün tam boyutları ve jeolojik yapısı hakkında net bilgi edinilmesini engellemekle birlikte, bu alanda yapılan araştırmalar gölün çevresindeki coğrafyanın jeolojik açıdan zengin ve çeşitli olduğunu gösteriyor.
 
-Mevsimsel değişikliklere bağlı olarak, Manyas Kuşgölü'nün iklim karakteri değişkenlik gösteriyor. Bölge, Marmara Bölgesi'nin karasal ikliminin etkilerini taşıyor. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürüyor. Bu iklim koşulları, gölün su seviyesini ve çevresindeki bitki örtüsünü etkiliyor.
+Mevsimsel değişikliklere bağlı olarak, Manyas Kuşgölü'nün iklim karakteri değişkenlik gösteriyor. Bölge, Marmara Bölgesi'nin karasal ikliminin etkilerini taşıyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürüyor. Bu iklim koşulları, gölün su seviyesini ve çevresindeki bitki örtüsünü etkiliyor.
 
 Çevresel açıdan önemli bir konumda bulunan Manyas Kuşgölü, komşu alanlar ve su kaynaklarıyla güçlü bir ekosistem bağlantısına sahip. Bölge, birçok farklı türün yaşam alanı olarak hizmet ediyor. Gölün çevresindeki sulak alanlar, doğa severler ve bilim insanları için önemli bir araştırma ve gözlem alanı sunuyor. Manyas Kuşgölü'nün bu özellikleri, onu çevreleyen coğrafyanın bir parçası olarak, bölgenin doğal zenginliklerine katkıda bulunmasını sağlıyor.
 

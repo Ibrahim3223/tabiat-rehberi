@@ -36,7 +36,7 @@ Bestanre Tepesi, Diyarbakır'ın tarihi geçmişi ile sâu şekilde bağlantıl�
 
 ## Coğrafya
 
-Bestanre Tepesi, coğrafi olarak Diyarbakır'ın merkezine yakın bir konumda yer alıyor. Tepenin yüksekliği, şehrin etrafındaki ovalara hakim bir konumda bulunuyor. Bu yükseklik, ziyaretçilere şehri ve çevresini panorama olarak izleme imkanı sunuyor. Bestanre Tepesi, çevresindeki dağlarla birlikte büyüleyici bir manzara oluşturuyor. Bölgenin iklimi, Güneydoğu Anadolu Bölgesi'nin karakteristik özellikleri ile uyumlu olarak sıca ve kurak passing. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar yer alıyor ve bu zengin flora, ziyaretçilere şehrin doğal güzelliğini gösteriyor.
+Bestanre Tepesi, coğrafi olarak Diyarbakır'ın merkezine yakın bir konumda yer alıyor. Tepenin yüksekliği, şehrin etrafındaki ovalara hakim bir konumda bulunuyor. Bu yükseklik, ziyaretçilere şehri ve çevresini panorama olarak izleme imkanı sunuyor. Bestanre Tepesi, çevresindeki dağlarla birlikte büyüleyici bir manzara oluşturuyor. Bölgenin iklimi, Güneydoğu Anadolu Bölgesi'nin karakteristik özellikleri ile uyumlu olarak sıcak ve kurak passing. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar yer alıyor ve bu zengin flora, ziyaretçilere şehrin doğal güzelliğini gösteriyor.
 
 ## Flora ve Fauna
 

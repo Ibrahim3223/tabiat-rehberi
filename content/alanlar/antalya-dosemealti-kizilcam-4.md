@@ -30,7 +30,7 @@ Antalya-Döşemealtı Kızılçam 4 milli parkının tarihi geçmişi, yüzyıll
 
 ## Coğrafya
 
-Antalya-Döşemealtı Kızılçam 4 milli parkı, Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyor. 140 hektarlık geniş bir alana yayılan bu park, dağların eteklerinde ve ormanlık alanlarda yer alıyor. Coğrafi yapısı itibariyle, çeşitli bitki türlerine ve hayvanlara ev sahipliği yapıyor. İklimi, Akdeniz ikliminin özellikleri olan sıca ve kuru yazlar, ılık ve yağışlı kışlar şeklinde tanımlanabilir. Bu coğrafi ve iklimsel özellikler, parkın zengin faunası için uygun bir ortam sağlıyor. Parkın etrafı, yüksek dağlar ve derin vadilerle çevrili olup, ziyaretçilere doğanın güzelliğini ve heybetini gösterirken, aynı zamanda çeşitli coğrafi oluşumları da gözler önüne seriyor.
+Antalya-Döşemealtı Kızılçam 4 milli parkı, Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyor. 140 hektarlık geniş bir alana yayılan bu park, dağların eteklerinde ve ormanlık alanlarda yer alıyor. Coğrafi yapısı itibariyle, çeşitli bitki türlerine ve hayvanlara ev sahipliği yapıyor. İklimi, Akdeniz ikliminin özellikleri olan sıcak ve kuru yazlar, ılık ve yağışlı kışlar şeklinde tanımlanabilir. Bu coğrafi ve iklimsel özellikler, parkın zengin faunası için uygun bir ortam sağlıyor. Parkın etrafı, yüksek dağlar ve derin vadilerle çevrili olup, ziyaretçilere doğanın güzelliğini ve heybetini gösterirken, aynı zamanda çeşitli coğrafi oluşumları da gözler önüne seriyor.
 
 ## Flora ve Fauna
 

@@ -30,7 +30,7 @@ Hafik Gölü Doğal Sit Alanı, yüzyıllar boyunca bölgenin ekolojik dengesini
 
 ## Coğrafya
 
-Hafik Gölü Doğal Sit Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, yüksek bir plato üzerinde yer alır ve etrafındaki dağlarla çevrili bir havza oluşturur. Göl, bu havzanın merkezinde yer alır ve çevresi, çeşitli bitki türleri ile kaplıdır. Hafik Gölü'nün suyu, bölgenin yağışlarından ve yeraltı suyu kaynaklarından beslenir. Bu su, gölün etrafındaki toprakları verimli hale getirir ve bölgenin tarımsal üretimi için önemlidir. Hafik Gölü Doğal Sit Alanı, coğrafi konumu itibariyle, İç Anadolu Bölgesi'nin iklimini yansıtan bir yapıya sahiptir. Bu alan, yazları sıca ve kuru, kışları ise soğu ve kar yağışlı bir iklimi experiences.
+Hafik Gölü Doğal Sit Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, yüksek bir plato üzerinde yer alır ve etrafındaki dağlarla çevrili bir havza oluşturur. Göl, bu havzanın merkezinde yer alır ve çevresi, çeşitli bitki türleri ile kaplıdır. Hafik Gölü'nün suyu, bölgenin yağışlarından ve yeraltı suyu kaynaklarından beslenir. Bu su, gölün etrafındaki toprakları verimli hale getirir ve bölgenin tarımsal üretimi için önemlidir. Hafik Gölü Doğal Sit Alanı, coğrafi konumu itibariyle, İç Anadolu Bölgesi'nin iklimini yansıtan bir yapıya sahiptir. Bu alan, yazları sıcak ve kuru, kışları ise soğuk ve kar yağışlı bir iklimi experiences.
 
 ## Flora ve Fauna
 

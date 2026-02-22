@@ -36,7 +36,7 @@ Kani Tepesi'nin tarihi geçmişi, bölgenin zengin kültürel mirasını yansıt
 
 ## Coğrafya
 
-Kani Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biri. Tepenin yüksekliği, bölgenin diğer noktalarına göre daha yüksektir ve bu nedenle, tepeden bakıldığında, bölgenin geniş bir kısmını görme mümkün. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar yer alıyor. Bu bitkiler, bölgenin iklimine uyum sağlamış ve tepenin doğal güzelliklerini daha da artırıyor. Kani Tepesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapıyor. Tepenin etrafında, çeşitli kuş türleri ve diğer hayvanlar, ziyaretçilerin ilgisini çekiyor. Tepenin coğrafi konumu, aynı zamanda bölgenin iklimini de etkiliyor. Bölge, genellikle sıca ve kurak bir iklimi olmasına rağmen, tepenin yüksekliği ve etrafındaki bitki örtüsü, iklimi dahaılık bir hale getiriyor.
+Kani Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biri. Tepenin yüksekliği, bölgenin diğer noktalarına göre daha yüksektir ve bu nedenle, tepeden bakıldığında, bölgenin geniş bir kısmını görme mümkün. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar yer alıyor. Bu bitkiler, bölgenin iklimine uyum sağlamış ve tepenin doğal güzelliklerini daha da artırıyor. Kani Tepesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapıyor. Tepenin etrafında, çeşitli kuş türleri ve diğer hayvanlar, ziyaretçilerin ilgisini çekiyor. Tepenin coğrafi konumu, aynı zamanda bölgenin iklimini de etkiliyor. Bölge, genellikle sıcak ve kurak bir iklimi olmasına rağmen, tepenin yüksekliği ve etrafındaki bitki örtüsü, iklimi dahaılık bir hale getiriyor.
 
 ## Flora ve Fauna
 
@@ -52,4 +52,4 @@ Kani Tepesi'ni ziyaret etmek, bölgeye gelenler için ideal bir aktivite. Tepeni
 - Tepenin etrafında, çeşitli bitki ve hayvan türleri yer alıyor
 - Kani Tepesi, tarihi ve kültürel zenginlikleriyle de dikkat çekiyor
 - Tepenin yüksekliği, bölgenin diğer noktalarına göre daha yüksektir
-- Bölge, genellikle sıca ve kurak bir iklimi olmasına rağmen, tepenin yüksekliği ve etrafındaki bitki örtüsü, iklimi dahaılık bir hale getiriyor
+- Bölge, genellikle sıcak ve kurak bir iklimi olmasına rağmen, tepenin yüksekliği ve etrafındaki bitki örtüsü, iklimi dahaılık bir hale getiriyor

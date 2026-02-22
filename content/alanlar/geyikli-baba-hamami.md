@@ -37,7 +37,7 @@ Geyikli Baba Hamamı'nın tarihi geçmişi, bölgenin yerleşim tarihi ile paral
 
 ## Coğrafya
 
-Geyikli Baba Hamamı, Marmara Bölgesi'nin coğrafi yapısı içinde yer alır. Bu bölge, deniz seviyesine yakındır ve genellikle düz arazilerden oluşur. Geyikli Baba Hamamı'nın coğrafi konumu, denizle iç içe bir yapıya sahiptir. Plajın uzunluğu ve genişliği, ziyaretçilere geniş bir alan sağlar. Bölge, genellikle sıca ve nemli bir iklime sahiptir. Yaz aylarında sıcaklık artarken, kış aylarında daha serin bir hava hüküm sürer. Geyikli Baba Hamamı'nın etrafı, yeşillik alanlarla çevrilidir ve bu durum, bölgenin doğal güzelliğini artırır. Deniz suyu, genellikle berra ve serin olup, ziyaretçilerin serinlemek için ideal bir ortam sunar.
+Geyikli Baba Hamamı, Marmara Bölgesi'nin coğrafi yapısı içinde yer alır. Bu bölge, deniz seviyesine yakındır ve genellikle düz arazilerden oluşur. Geyikli Baba Hamamı'nın coğrafi konumu, denizle iç içe bir yapıya sahiptir. Plajın uzunluğu ve genişliği, ziyaretçilere geniş bir alan sağlar. Bölge, genellikle sıcak ve nemli bir iklime sahiptir. Yaz aylarında sıcaklık artarken, kış aylarında daha serin bir hava hüküm sürer. Geyikli Baba Hamamı'nın etrafı, yeşillik alanlarla çevrilidir ve bu durum, bölgenin doğal güzelliğini artırır. Deniz suyu, genellikle berra ve serin olup, ziyaretçilerin serinlemek için ideal bir ortam sunar.
 
 ## Flora ve Fauna
 

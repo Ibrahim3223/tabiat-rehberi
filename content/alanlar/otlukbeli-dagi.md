@@ -36,7 +36,7 @@ Doğu Karadeniz Bölgesi'nde yer alan Otlukbeli Dağı, Bayburt ilinin kuzeydoğ
 
 Jeolojik açıdan bakıldığında, Otlukbeli Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, genel olarak bölgenin dağlık ve engebeli bir araziye sahip olduğu bilinmektedir. Bu coğrafya, bir şehir bloğu büyüklüğünde olan küçük vadiler ve düzlüklerle birlikte, büyük bir alanı kaplamaktadır. Dağın yüksekliği ve eğimleri, bölgenin iklimini ve bitki örtüsünü etkileyen önemli faktörlerdir.
 
-Mevsimsel açıdan, Otlukbeli Dağı'nın iklim karakteri, Karadeniz Bölgesi'nin genel iklim özelliklerini taşır. Bölge, yaz aylarında serin ve yağışlı, kış aylarında ise soğu ve karlı bir iklime sahiptir. Bu mevsimsel özellikler, bölgenin bitki örtüsünü ve fauna çeşitliliğini etkilemektedir. Dağın yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olmasa da, bölgenin iklimini ve hava durumunu önemli ölçüde etkilemektedir.
+Mevsimsel açıdan, Otlukbeli Dağı'nın iklim karakteri, Karadeniz Bölgesi'nin genel iklim özelliklerini taşır. Bölge, yaz aylarında serin ve yağışlı, kış aylarında ise soğuk ve karlı bir iklime sahiptir. Bu mevsimsel özellikler, bölgenin bitki örtüsünü ve fauna çeşitliliğini etkilemektedir. Dağın yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olmasa da, bölgenin iklimini ve hava durumunu önemli ölçüde etkilemektedir.
 
 Çevresel açıdan, Otlukbeli Dağı, komşu alanlar ve su kaynakları ile önemli bir ekosistem bağlantısına sahiptir. Dağın yakınında birkaç küçük akarsu ve dere bulunmakta ve bu su kaynakları, bölgenin sulak alanlarını ve bitki örtüsünü beslemektedir. Ayrıca, dağın çevresinde bulunan ormanlar ve meralar, bölgenin fauna çeşitliliğini desteklemektedir ve bu nedenle, Otlukbeli Dağı, bölgenin ekolojik dengesini korumak için önemli bir role sahiptir.
 

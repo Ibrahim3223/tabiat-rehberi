@@ -36,7 +36,7 @@ Sivilginin Tepesi, tarihi geçmişi ile dikkat çekiyor. Yüzyıllar boyunca, bu
 
 ## Coğrafya
 
-Sivilginin Tepesi, coğrafi olarak Akdeniz Bölgesi'nde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir doğa harikasıdır. Sivilginin Tepesi, çevre ile uyum içinde bulunan bir yapıya sahiptir. Bu tepe, aynı zamanda iklimi ile de dikkat çekiyor. Sivilginin Tepesi, Akdeniz ikliminin özellikleri ile ziyaretçilerini büyülüyor. Burada, yazları sıca ve kurak, kışları ılık ve yağışlı bir iklim hüküm sürüyor. Sivilginin Tepesi, aynı zamanda flora ve fauna ile de dikkat çekiyor. Bu tepe, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Sivilginin Tepesi, doğal güzelliği ile ziyaretçilerini büyülüyor.
+Sivilginin Tepesi, coğrafi olarak Akdeniz Bölgesi'nde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir doğa harikasıdır. Sivilginin Tepesi, çevre ile uyum içinde bulunan bir yapıya sahiptir. Bu tepe, aynı zamanda iklimi ile de dikkat çekiyor. Sivilginin Tepesi, Akdeniz ikliminin özellikleri ile ziyaretçilerini büyülüyor. Burada, yazları sıcak ve kurak, kışları ılık ve yağışlı bir iklim hüküm sürüyor. Sivilginin Tepesi, aynı zamanda flora ve fauna ile de dikkat çekiyor. Bu tepe, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Sivilginin Tepesi, doğal güzelliği ile ziyaretçilerini büyülüyor.
 
 ## Flora ve Fauna
 

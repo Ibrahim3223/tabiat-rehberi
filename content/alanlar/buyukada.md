@@ -45,7 +45,7 @@ Bölgelerdeki ticaret yolları ve limanların varlığı, bu doğal güzellikler
 
 Jeolojik açıdan bakıldığında, Büyükada'nın fiziksel yapısı hakkında detaylı bilgi olmasa da, koordinatlarından yola çıkarak ada hakkında bazı çıkarımlar yapılabilir. Ada, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu boyut, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı temsil ediyor. Ada'nın şekli ve jeolojik özellikleri, bölgenin genel coğrafi yapısına uygun olarak değişkenlik gösterebiliyor.
 
-Mevsimsel değişikliklere baktığımızda, Büyükada'nın iklim karakteri Marmara Bölgesi'nin genel iklimine benzerlik gösteriyor. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve nemli bir hava hakim. Bu mevsimsel özellikler, ada'nın flora ve fauna çeşitliliğini etkileyen önemli faktörler arasında yer alıyor.
+Mevsimsel değişikliklere baktığımızda, Büyükada'nın iklim karakteri Marmara Bölgesi'nin genel iklimine benzerlik gösteriyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve nemli bir hava hakim. Bu mevsimsel özellikler, ada'nın flora ve fauna çeşitliliğini etkileyen önemli faktörler arasında yer alıyor.
 
 Çevresel açıdan, Büyükada'nın komşu alanlar ile ilişkileri önemli bir role sahip. Ada, Marmara Denizi'nin su kaynaklarına doğrudan bağlı ve bu su kaynakları ada'nın ekosistemini etkiliyor. Ayrıca, ada'nın etrafındaki su kaynakları, bölgenin diğer adaları ve kıyı kesimleri ile bağlantılarını sağlıyor. Bu bağlantılar, ada'nın doğal yaşamını ve ekosistemini zenginleştiren önemli faktörler arasında yer alıyor.
 

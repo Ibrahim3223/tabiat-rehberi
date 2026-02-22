@@ -30,7 +30,7 @@ Antalya Kas Demre-Akcaagac milli parkının tarihi geçmişi, yüzyıllar boyunc
 
 ## Coğrafya
 
-Antalya Kas Demre-Akcaagac milli parkı, coğrafi olarak farklı özellikler sunuyor. Parkın konumu, Akdeniz bölgesinin karakteristik iklimini yansıtıyor. Bu bölgede, yaz ayları sıca ve kurak geçerken, kış ayları ılık ve yağışlı oluyor. Milli parkın coğrafi yapısı, çeşitli bitki türlerinin yetişmesine olanak tanıyor. Burada, zeytin ağaçları, kestane ağaçları ve diğer doğal bitki türleri bulunabilir. Milli parkın coğrafi zenginlikleri, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Parkın sunduğu manzaralar, ziyaretçileri hayran bırakıyor ve doğanın güzelliğini tümüyle deneyimlemelerine olanak tanıyor.
+Antalya Kas Demre-Akcaagac milli parkı, coğrafi olarak farklı özellikler sunuyor. Parkın konumu, Akdeniz bölgesinin karakteristik iklimini yansıtıyor. Bu bölgede, yaz ayları sıcak ve kurak geçerken, kış ayları ılık ve yağışlı oluyor. Milli parkın coğrafi yapısı, çeşitli bitki türlerinin yetişmesine olanak tanıyor. Burada, zeytin ağaçları, kestane ağaçları ve diğer doğal bitki türleri bulunabilir. Milli parkın coğrafi zenginlikleri, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Parkın sunduğu manzaralar, ziyaretçileri hayran bırakıyor ve doğanın güzelliğini tümüyle deneyimlemelerine olanak tanıyor.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Uğurlu Dağı, 40.9939°K ve 42.5303°D
 
 Jeolojik açıdan bakıldığında, Uğurlu Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, bölgenin genel coğrafi özellikleri dikkate alındığında, dağlık bir arazinin parçası olduğu anlaşılıyor. Bu dağlık arazi, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor ve bölgenin topoğrafyasını şekillendiren önemli bir unsur olarak görülüyor.
 
-Mevsimsel değişimler açısından, Uğurlu Dağı'nın iklim karakteri, bölgenin karasal ikliminin etkilerini taşıyor. Kış aylarında soğu ve kar yağışlı olan bu bölge, yaz aylarında ise ılıman bir hava durumu sergiliyor. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu dağ, bölgenin hava koşullarını etkileyen önemli bir faktör olarak dikkat çekiyor.
+Mevsimsel değişimler açısından, Uğurlu Dağı'nın iklim karakteri, bölgenin karasal ikliminin etkilerini taşıyor. Kış aylarında soğuk ve kar yağışlı olan bu bölge, yaz aylarında ise ılıman bir hava durumu sergiliyor. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu dağ, bölgenin hava koşullarını etkileyen önemli bir faktör olarak dikkat çekiyor.
 
 Çevresel açıdan bakıldığında, Uğurlu Dağı, komşu alanlar ve su kaynakları ile bağlantılı bir ekosistem binnen yer alıyor. Monaco'nun yarısı kadar bir alanı kaplayan bu dağlık bölge, bölgenin doğal dengesini koruma altına almak açısından önemli bir role sahip. Bu nedenle, Uğurlu Dağı ve çevresi, doğa severler ve bilim insanları için bir çalışma alanı olarak dikkat çekiyor.
 

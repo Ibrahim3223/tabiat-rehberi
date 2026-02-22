@@ -38,7 +38,7 @@ Doğal güzellikleri ve stratejik konumuyla İsmail Dağı, tarih boyunca insanl
 
 ## Coğrafya
 
-Güneybatı Anadolu'nun doğal güzelliklerine ev sahipliği yapan Muğla ilinin bir parçası olan İsmail Dağı, 37.4317°K, 28.2408°D koordinatlarında yer alıyor. Bu dağ, bölgenin coğrafi yapısını şekillendiren önemli bir unsur olarak, etrafındaki yerleşim yerlerine ve doğal alanlara komşu konumunda bulunuyor. İsmail Dağı'nın bulunduğu bölge, Akdeniz ikliminin karakteristik özelliklerini taşıyor; yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava hüküm sürüyor.
+Güneybatı Anadolu'nun doğal güzelliklerine ev sahipliği yapan Muğla ilinin bir parçası olan İsmail Dağı, 37.4317°K, 28.2408°D koordinatlarında yer alıyor. Bu dağ, bölgenin coğrafi yapısını şekillendiren önemli bir unsur olarak, etrafındaki yerleşim yerlerine ve doğal alanlara komşu konumunda bulunuyor. İsmail Dağı'nın bulunduğu bölge, Akdeniz ikliminin karakteristik özelliklerini taşıyor; yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava hüküm sürüyor.
 
 Doğal güzellikleri ve coğrafi çeşitliliği ile dikkat çeken İsmail Dağı, çevresindeki diğer dağlar ve vadilerle birlikte bir bütün oluşturuyor. Dağın fiziksel yapısı, bölgenin jeolojik geçmişini yansıtıyor. İsmail Dağı'nın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte, ve bu yükseklik, bölgenin coğrafi yapısını etkileyen önemli bir faktör olarak görülüyor. Dağın boyutları, Monaco'nun yaklaşık yarısı kadar bir alanı kaplıyor; bu da, İsmail Dağı'nın bölgedeki diğer doğal alanlara göre oldukça büyük olduğunu gösteriyor.
 
@@ -50,7 +50,7 @@ Doğal güzellikleri ve coğrafi çeşitliliği ile dikkat çeken İsmail Dağı
 
 İsmail Dağı, Muğla'nın zeytinlikler ve çam ormanları ile çevrili bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle, dağ yamaçları rengarenk çiçeklerle donanıyor. Çam ormanları, zeytinliklerle iç içe geçerek benzersiz bir bitki örtüsünü oluşturuyor.
 
-Yaban hayatı da bir o kadar zengin. Dağ keçileri, kurtlar ve ayılar gibi memeliler, dağların yükseklik zonlarında yaşamlarını sürdürüyor. Kuşlar, özellikle sonbaharda göç eden türlerle renkleniyor. Sürüngenler de, sıca ve kurak alanlarda yaşamlarını devam ettiriyorlar. Bu dağ ekosisteminin ekolojik değeri, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği nedeniyle oldukça yüksek. Bu nedenle, İsmail Dağı'nın korunması ve sürdürülebilir kullanımı, bölgenin doğal dengesini korumak için büyük önem taşıyor.
+Yaban hayatı da bir o kadar zengin. Dağ keçileri, kurtlar ve ayılar gibi memeliler, dağların yükseklik zonlarında yaşamlarını sürdürüyor. Kuşlar, özellikle sonbaharda göç eden türlerle renkleniyor. Sürüngenler de, sıcak ve kurak alanlarda yaşamlarını devam ettiriyorlar. Bu dağ ekosisteminin ekolojik değeri, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği nedeniyle oldukça yüksek. Bu nedenle, İsmail Dağı'nın korunması ve sürdürülebilir kullanımı, bölgenin doğal dengesini korumak için büyük önem taşıyor.
 
 ## Ziyaret Bilgileri
 

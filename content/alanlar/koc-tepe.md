@@ -44,7 +44,7 @@ Güneydoğu Anadolu'nun coğrafi zenginliklerine bir örnek olan Koç Tepe, 37.6
 
 Doğal bir oluşum olarak Koç Tepe, jeolojik açıdan ilginç bir yapıya sahiptir. Ancak, detaylı fiziksel verilerin olmaması nedeniyle, boyutları ve şekli hakkında net bir bilgi bulunmamaktadır. Buna rağmen, bölgenin genel coğrafi yapısı, Türkiye'nin diğer dağlık alanlarına benzerlik gösterir. Koç Tepe, çevresindeki diğer dağlarla birlikte, bir bütünü oluşturan bir coğrafi sistemdir.
 
-İklim açısından bakıldığında, Koç Tepe ve çevresinin mevsimsel özelliklerine dikkat çekmek gerekir. Güneydoğu Anadolu'nun karakteristik iklimi, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı geçer. Bu mevsimsel değişiklikler, Koç Tepe'nin ve çevresindeki diğer coğrafi oluşumların şekillenmesinde önemli bir rol oynar.
+İklim açısından bakıldığında, Koç Tepe ve çevresinin mevsimsel özelliklerine dikkat çekmek gerekir. Güneydoğu Anadolu'nun karakteristik iklimi, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı geçer. Bu mevsimsel değişiklikler, Koç Tepe'nin ve çevresindeki diğer coğrafi oluşumların şekillenmesinde önemli bir rol oynar.
 
 Çevresel açıdan bakıldığında, Koç Tepe, bölgedeki diğer doğal alanlarla ve su kaynaklarıyla bağlantılıdır. Bu dağ, bölgenin ekosistemini destekleyen önemli bir bileşendir ve çevresindeki diğer coğrafi oluşumlarla birlikte, bir bütünü oluşturur. Koç Tepe, bölgenin doğal güzelliklerini koruma altına alma ve gelecek nesiller için bảozanmak açısından önemli bir role sahiptir.
 

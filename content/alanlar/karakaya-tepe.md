@@ -53,7 +53,7 @@ Mevsimsel değişiklikler, Karakaya Tepe'nin iklim karakterini şekillendiriyor.
 
 Karakaya Tepe, step bitki örtüsü ve bozkırın hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. 1200 metre yükseklikteki bu dağ, alpin flora ve dağ hayvanlarının çeşitliliğine ev sahipliği yapıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanıyor. Step bitkileri ve bozkır türleri, kuraklığa adapte olmuş olarak yıl boyunca yeşil kalıyor.
 
-Yaban hayatı da bir o kadar zengin. Memeliler, dağların yüksek kesimlerinde yaşarken, kuşlar mevsimsel olarak göç ediyor. Sürüngenler ise, sıca ve kurak bölgelerde aktif olarak yaşamlarını sürdürüyor. Bu dağ ekosisteminde, canlılar birbirleriyle ve yaşadıkları ortamla sıkı bir ilişki içinde bulunuyor. Örneğin, bazı bitkiler, belirli böcek türlerine bağımlı olarak tozlaşma gerçekleştiriyor.
+Yaban hayatı da bir o kadar zengin. Memeliler, dağların yüksek kesimlerinde yaşarken, kuşlar mevsimsel olarak göç ediyor. Sürüngenler ise, sıcak ve kurak bölgelerde aktif olarak yaşamlarını sürdürüyor. Bu dağ ekosisteminde, canlılar birbirleriyle ve yaşadıkları ortamla sıkı bir ilişki içinde bulunuyor. Örneğin, bazı bitkiler, belirli böcek türlerine bağımlı olarak tozlaşma gerçekleştiriyor.
 
 Karakaya Tepe, ekolojik açıdan önemli bir bölge olarak kabul ediliyor. Bu dağ ekosisteminin korunması, yerel ve küresel ekosistem dengesi için büyük önem taşıyor. Bu bölge, doğal yaşamın çeşitliliğini koruma ve gelecek nesiller için bảo tồn etmek için önemli bir rol oynuyor.
 

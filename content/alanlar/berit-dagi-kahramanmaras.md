@@ -45,7 +45,7 @@ Berit Dağı, Kahramanmaraş ilinin merkezine yaklaşık 20 kilometre uzaklıkta
 
 Dağın fiziksel yapısı hakkında detaylı bilgi olmasa da, koordinatlarından yola çıkarak, bu bölgenin coğrafi özelliklerini anlama mümkündür. Berit Dağı, Tarsus Dağları'nın bir uzantısı olarak düşünülebilir ve bu dağlık bölgenin bir parçası olarak, bölgenin jeolojik yapısını şekillendirmiştir. Bu dağlık arazi, Monaco'nun yaklaşık %10'u kadar bir alanı kaplar ve bu büyüklük, bir veya iki şehir bloğundan daha büyük bir alanı temsil eder.
 
-İklim karakteri açısından, Berit Dağı ve çevresinin, Akdeniz ikliminin hakim olduğu bir bölge olduğu söylenebilir. Bu bölgede, yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürer. Bu mevsimsel farklılıklar, bölgenin flora ve fauna açısından zengin bir çeşitlilik göstermesine neden olur.
+İklim karakteri açısından, Berit Dağı ve çevresinin, Akdeniz ikliminin hakim olduğu bir bölge olduğu söylenebilir. Bu bölgede, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürer. Bu mevsimsel farklılıklar, bölgenin flora ve fauna açısından zengin bir çeşitlilik göstermesine neden olur.
 
 Çevresel ilişkiler açısından, Berit Dağı ve çevresi, su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahiptir. Dağ, bölgenin su kaynaklarının oluşmasına yardımcı olan yağmur ve karların biriktirilmesine olanak sağlar. Ayrıca, bu bölgede bulunan doğal yaşam alanları, birçok farklı türün yaşamasına olanak tanır ve bu nedenle, bölgenin ekolojik dengesi için önemlidir.
 

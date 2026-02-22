@@ -45,7 +45,7 @@ Güneşin altın ışıklarının vurduğu Akdeniz kıyılarında, 36.2106°K en
 
 Doğal güzelliği ile dikkat çeken Aşırlı Adası, fiziksel olarak küçük bir alana yayılmaktadır. Bir şehir bloğu büyüklüğünde olan bu ada, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplar. Ada'nın şekli ve jeolojisi hakkında detaylı bilgiler olmasa da, Akdeniz kıyılarının genel özelliklerine uygun olarak kaya ve taşlarla kaplı bir yüzeye sahip olduğu söylenebilir.
 
-Mevsimsel açıdan bakıldığında, Aşırlı Adası'nın iklimi Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava hakimdir. Bu mevsimsel özellikler, adanın florası ve faunası için önemli bir rol oynar ve ziyaretçilere her mevsim farklı bir güzellik sunar.
+Mevsimsel açıdan bakıldığında, Aşırlı Adası'nın iklimi Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava hakimdir. Bu mevsimsel özellikler, adanın florası ve faunası için önemli bir rol oynar ve ziyaretçilere her mevsim farklı bir güzellik sunar.
 
 Aşırlı Adası, çevresindeki diğer adalar ve anakara ile birlikte bir ekosistem oluşturur. Ada, komşu alanlar ve su kaynakları ile bağlantılıdır ve bu bağlantılar, adanın doğal dengesini korur. Monaco'nun küçük bir bölümü kadar bir alanı kaplayan bu ada, İstanbul'un Adalar ilçesi büyüklüğündeki bir alanda bulunması, doğanın güzelliğini ve çeşitliliğini gözler önüne serer.
 

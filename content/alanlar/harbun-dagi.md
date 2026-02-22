@@ -36,7 +36,7 @@ Harbun Dağı'nın tarihi geçmişi, Güneydoğu Anadolu Bölgesi'nin genel tari
 
 ## Coğrafya
 
-Harbun Dağı, Gaziantep'in güneydoğusunda yer alır ve Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını etkileyen önemli bir tepe. Dağın etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, coğrafi olarak, yüksekli ve eğim açısından çeşitlilik gösterir. Dağın zirvesinden, Gaziantep şehri ve çevresinin geniş bir kısmını görme mümkün. Harbun Dağı, aynı zamanda iklim açısından önemli bir yer. Bölge, genel olarak, yazları sıca ve kurak, kışları ise soğu ve yağışlı bir iklime sahiptir. Bu iklim koşulları, bölgenin flora ve faunasını etkileyen önemli faktörler. Dağın coğrafi yapısı, aynı zamanda, çeşitli su kaynaklarının oluşmasına da neden olur. Bu su kaynakları, bölgenin ekosistemini destekler ve canlılar için yaşam alanı oluşturur.
+Harbun Dağı, Gaziantep'in güneydoğusunda yer alır ve Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını etkileyen önemli bir tepe. Dağın etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, coğrafi olarak, yüksekli ve eğim açısından çeşitlilik gösterir. Dağın zirvesinden, Gaziantep şehri ve çevresinin geniş bir kısmını görme mümkün. Harbun Dağı, aynı zamanda iklim açısından önemli bir yer. Bölge, genel olarak, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı bir iklime sahiptir. Bu iklim koşulları, bölgenin flora ve faunasını etkileyen önemli faktörler. Dağın coğrafi yapısı, aynı zamanda, çeşitli su kaynaklarının oluşmasına da neden olur. Bu su kaynakları, bölgenin ekosistemini destekler ve canlılar için yaşam alanı oluşturur.
 
 ## Flora ve Fauna
 

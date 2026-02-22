@@ -37,7 +37,7 @@ Kum Tepe'nin tarihi geçmişi, yüzlerce yılı içermektedir. Bu bölge, tarihi
 
 ## Coğrafya
 
-Kum Tepe, Eskişehir'in coğrafi açıdan önemli bir bölgesinde yer alır. Bu bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Kum Tepe'nin coğrafyası, geniş otlaklar ve doğal güzelliklerle doludur. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri gösterir. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Kum Tepe, coğrafi konumu itibariyle, ziyaretçilerine doğal güzellikleri keşfetme fırsatı sunar. Burada, çeşitli bitki türleri ve zengin fauna çeşitliliği bulunur. Kum Tepe, coğrafi güzellikleri ve histórik önemiyle bir araya geldiğinde, ziyaretçilerini gerçek bir doğa ve tarih harikasıyla karşılar.
+Kum Tepe, Eskişehir'in coğrafi açıdan önemli bir bölgesinde yer alır. Bu bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Kum Tepe'nin coğrafyası, geniş otlaklar ve doğal güzelliklerle doludur. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri gösterir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Kum Tepe, coğrafi konumu itibariyle, ziyaretçilerine doğal güzellikleri keşfetme fırsatı sunar. Burada, çeşitli bitki türleri ve zengin fauna çeşitliliği bulunur. Kum Tepe, coğrafi güzellikleri ve histórik önemiyle bir araya geldiğinde, ziyaretçilerini gerçek bir doğa ve tarih harikasıyla karşılar.
 
 ## Flora ve Fauna
 

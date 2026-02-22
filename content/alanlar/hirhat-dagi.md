@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Hirhat Dağı, Ardahan ilinin sınırlar
 
 Jeolojik açıdan bakıldığında, Hirhat Dağı'nın oluşumu ve yapısı hakkında detaylı bilgi bulunmuyor. Ancak, bölgenin genel jeolojik yapısına bakıldığında, Hirhat Dağı'nın da benzer özellikler taşıdığı söylenebilir. Dağın boyutları hakkında kesin bir veri olmasa da, genel olarak bölgenin coğrafyası, geniş ve dalgalı araziler ile karakterize ediliyor.
 
-İklim açısından, Hirhat Dağı ve çevresinin Karadeniz ikliminin etkileri altında olduğu söylenebilir. Bu bölgede, yaz aylarında serin ve yağışlı, kış aylarında ise soğu ve karlı bir hava hakim. Hirhat Dağı'nın yüksekliği, bölgenin iklimini etkileyen önemli bir faktör. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu dağ, bölgenin hava koşullarını şekillendirmesinde önemli bir rol oynuyor.
+İklim açısından, Hirhat Dağı ve çevresinin Karadeniz ikliminin etkileri altında olduğu söylenebilir. Bu bölgede, yaz aylarında serin ve yağışlı, kış aylarında ise soğuk ve karlı bir hava hakim. Hirhat Dağı'nın yüksekliği, bölgenin iklimini etkileyen önemli bir faktör. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu dağ, bölgenin hava koşullarını şekillendirmesinde önemli bir rol oynuyor.
 
 Çevresel açıdan bakıldığında, Hirhat Dağı'nın Ardahan'ın doğal ekosistemine önemli katkıları bulunuyor. Dağın eteklerinde yer alan su kaynakları, bölgenin sulak alanlarını besliyor. Ayrıca, Hirhat Dağı'nın komşu alanları ile bağlantısı, bölgenin biyolojik çeşitliliğini zenginleştiriyor. Monaco'nun yaklaşık yarısı kadar bir alanı kaplayan bu dağ, bölgenin doğal güzelliklerini koruma altına alıyor.
 

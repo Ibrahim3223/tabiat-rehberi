@@ -30,7 +30,7 @@ Balikesir-Alacam-Degirmenegrek Karacam 1 milli parkının tarihi geçmişi, yüz
 
 ## Coğrafya
 
-Balikesir-Alacam-Degirmenegrek Karacam 1 milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Parkın coğrafyası, geniş otlak alanları, ormanlık bölgeler ve çeşitli su kaynaklarından oluşuyor. İklim, karasal iklim özellikleri gösteriyor ve mevsimsel değişimler belirgin. Kış ayları soğu ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Parkın coğrafi yapısı, çeşitli bitki ve hayvan türleri için uygun bir ortam sağlıyor. Coğrafi konumu itibariyle, ziyaretçilere geniş bir görüş açısı sunan Balikesir-Alacam-Degirmenegrek Karacam 1 milli parkı, doğa severler için bir cennet.
+Balikesir-Alacam-Degirmenegrek Karacam 1 milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Parkın coğrafyası, geniş otlak alanları, ormanlık bölgeler ve çeşitli su kaynaklarından oluşuyor. İklim, karasal iklim özellikleri gösteriyor ve mevsimsel değişimler belirgin. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Parkın coğrafi yapısı, çeşitli bitki ve hayvan türleri için uygun bir ortam sağlıyor. Coğrafi konumu itibariyle, ziyaretçilere geniş bir görüş açısı sunan Balikesir-Alacam-Degirmenegrek Karacam 1 milli parkı, doğa severler için bir cennet.
 
 ## Flora ve Fauna
 

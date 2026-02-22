@@ -45,7 +45,7 @@ Ege Bölgesi'nin güzide illerinden biri olan İzmir'in dağlık kesimlerinde ye
 
 Doğal güzellikleri ve coğrafi yapısı ile dikkat çeken Erik Dağı, fiziksel olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu büyüklük, Taksim Meydanı'nın birkaç katı kadar bir alana karşılık gelmektedir. Ancak, fiziksel boyutlar dışında, dağın jeolojik yapısı ve yüksekliği de önemlidir. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte bir zirveye sahip olan Erik Dağı, bu özelliği ile bölgenin önemli bir coğrafi oluşumu olarak dikkat çekmektedir.
 
-İklim açısından, Ege Bölgesi'nin genel iklim karakterini yansıtan Erik Dağı, ılıman bir iklimi sahiptir. Mevsimsel olarak, yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumu hakimdir. Bu iklim özellikleri, bölgenin flora ve fauna çeşitliliğini etkilemekte ve zengin bir ekosistemin oluşmasına katkıda bulunmaktadır.
+İklim açısından, Ege Bölgesi'nin genel iklim karakterini yansıtan Erik Dağı, ılıman bir iklimi sahiptir. Mevsimsel olarak, yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumu hakimdir. Bu iklim özellikleri, bölgenin flora ve fauna çeşitliliğini etkilemekte ve zengin bir ekosistemin oluşmasına katkıda bulunmaktadır.
 
 Çevresel açıdan, Erik Dağı, komşu ormanlık alanlar ve su kaynakları ile önemli bir ekosistem bağlantısı oluşturmaktadır. Monaco'nun yaklaşık 1/10'u kadar bir alanı kaplayan bu dağlık bölge, bölgenin ekolojik dengesini korumak açısından büyük önem taşımaktadır. Ayrıca, yakın çevresinde bulunan köyler ve yerleşim yerleri ile de bir sosyal ve ekonomik bağlantı içinde olan Erik Dağı, İzmir'in doğal ve kültürel mirasının önemli bir parçasını oluşturmaktadır.
 

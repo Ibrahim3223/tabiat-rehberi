@@ -36,7 +36,7 @@ Kolıka Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu bölg
 
 ## Coğrafya
 
-Kolıka Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, genellikle dağlık ve engebeli araziler ile çevrili. Tepenin etekleri, zengin bir flora ile kaplı ve çeşitli ağaç türleri burada bulunuyor. İklim, karasal özellikler gösteriyor ve mevsimsel değişimler belirgin. Kış ayları soğu ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu mevsimsel farklılıklar, tepe ve çevresinin ekolojisini şekillendiriyor. Çevre, aynı zamanda fauna açısından da zengin. Çeşitli hayvan türleri, bu bölgede yaşamlarını sürdürüyor. Kolıka Tepesi, coğrafi konumu itibariyle, ziyaretçilere doğanın tüm güzelliğini sunuyor.
+Kolıka Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, genellikle dağlık ve engebeli araziler ile çevrili. Tepenin etekleri, zengin bir flora ile kaplı ve çeşitli ağaç türleri burada bulunuyor. İklim, karasal özellikler gösteriyor ve mevsimsel değişimler belirgin. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu mevsimsel farklılıklar, tepe ve çevresinin ekolojisini şekillendiriyor. Çevre, aynı zamanda fauna açısından da zengin. Çeşitli hayvan türleri, bu bölgede yaşamlarını sürdürüyor. Kolıka Tepesi, coğrafi konumu itibariyle, ziyaretçilere doğanın tüm güzelliğini sunuyor.
 
 ## Flora ve Fauna
 

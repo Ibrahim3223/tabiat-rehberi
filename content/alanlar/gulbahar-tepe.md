@@ -36,7 +36,7 @@ Gülbahar Tepe'nin tarihi geçmişi, Kilis'in genel tarihini yansıtmaktadır. B
 
 ## Coğrafya
 
-Gülbahar Tepe, Kilis'in coğrafi yapısını yansıtan önemli bir noktadır. Bu tepe, şehrin merkezine yakın bir konumda yer almakta ve etrafını geniş ova ve dağlar çevrelemektedir. Tepe, 140 hektarlık geniş bir alana yayılmış ve bu özelliği ile ziyaretçilere geniş bir manzara sunmaktadır. Bölgenin iklimi, genel olarak Güneydoğu Anadolu Bölgesi'nin iklimine uygun olarak sıca ve kuru bir yapıya sahiptir. Bu coğrafi özellikler, tepe ve çevresinin flora ve faunasını şekillendirmektedir. Gülbahar Tepe'nin coğrafi konumu, aynı zamanda burayı önemli bir turizm merkezi haline getirmektedir.
+Gülbahar Tepe, Kilis'in coğrafi yapısını yansıtan önemli bir noktadır. Bu tepe, şehrin merkezine yakın bir konumda yer almakta ve etrafını geniş ova ve dağlar çevrelemektedir. Tepe, 140 hektarlık geniş bir alana yayılmış ve bu özelliği ile ziyaretçilere geniş bir manzara sunmaktadır. Bölgenin iklimi, genel olarak Güneydoğu Anadolu Bölgesi'nin iklimine uygun olarak sıcak ve kuru bir yapıya sahiptir. Bu coğrafi özellikler, tepe ve çevresinin flora ve faunasını şekillendirmektedir. Gülbahar Tepe'nin coğrafi konumu, aynı zamanda burayı önemli bir turizm merkezi haline getirmektedir.
 
 ## Flora ve Fauna
 

@@ -42,7 +42,7 @@ Doğunun gizli köşelerinden biri olan Kuringan Tepe, Hakkari ilinin dağlık b
 
 Jeolojik açıdan bakıldığında, Kuringan Tepe'nin fiziksel yapısı hakkında detaylı bilgi olmasa da, bölgenin genel jeolojik özellikleri dikkate alındığında, tepe'nin dağlık bir arazide yer aldığı söylenebilir. Tıpkı bir puzzle parçasını andıran bu tepe, çevresindeki daha büyük dağların bir parçası gibi görünüyor. Monaco'nun küçük bir bölümü büyüklüğünde olan bu alan, doğanın kendi içinde bir sanat eseri gibi yaratmış olduğu bir bölge.
 
-Mevsimsel özellikler açısından Kuringan Tepe, bölgenin iklim karakterine uygun olarak, yaz aylarında sıca ve kurak, kış aylarında soğu ve karlı bir hava durumuna sahip. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikteki bu tepe, mevsimsel değişimlere göre farklı bir güzelliğe bürünüyor. İlkbahar ve sonbahar aylarında, tepe'nin etrafı yeşillenerek bir tablo gibi görünüyor.
+Mevsimsel özellikler açısından Kuringan Tepe, bölgenin iklim karakterine uygun olarak, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı bir hava durumuna sahip. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikteki bu tepe, mevsimsel değişimlere göre farklı bir güzelliğe bürünüyor. İlkbahar ve sonbahar aylarında, tepe'nin etrafı yeşillenerek bir tablo gibi görünüyor.
 
 Çevresel açıdan bakıldığında, Kuringan Tepe, komşu dağlar ve vadiler ile bir bütün olarak görünüyor. Taksim Meydanı'nın birkaç katı büyüklüğündeki bu alan, bölgenin ekosistemine önemli bir katkı sağlıyor. Su kaynakları ve bitki örtüsü ile birlikte, tepe, bölgenin doğal dengesini koruyor. İstanbul'un Adalar ilçesi büyüklüğündeki bu bölge, doğanın kendi içinde yarattığı bir denge gibi görünüyor.
 

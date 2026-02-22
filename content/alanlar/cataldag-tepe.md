@@ -44,7 +44,7 @@ Doğal güzelliklerin zengin olduğu Sakarya bölgesinde yer alan Çataldağ Tep
 
 Jeolojik açıdan bakıldığında, Çataldağ Tepe'nin çevresindeki arazi, genellikle engebeli ve dağlık bir yapıya sahip. Tepe itself, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu küçük ama etkileyici oluşum, çevredeki daha büyük dağlarla karşılaştırıldığında nispeten küçük kalıyor, ancak kendi içinde benzersiz bir güzelliğe sahip. Çataldağ Tepe'nin yüksekliği, yaklaşık 85 katlı bir gökdelen kadar yükseklikte, ancak bu rakamın kesinliği hakkında daha fazla veri bulunmuyor.
 
-Mevsimsel değişimlere bakıldığında, Çataldağ Tepe ve çevresindeki bölge, karasal iklimin karakteristik özelliklerini taşıyor. Kış aylarında soğu ve karlı, yaz aylarında ise sıca ve kurak bir hava hakim. Bu mevsimsel farklılıklar, tepe ve çevresindeki bitki örtüsünü ve fauna çeşitliliğini etkiliyor. Hava durumu, bölgenin coğrafi konumuna ve yüksekliğine bağlı olarak değişkenlik gösteriyor.
+Mevsimsel değişimlere bakıldığında, Çataldağ Tepe ve çevresindeki bölge, karasal iklimin karakteristik özelliklerini taşıyor. Kış aylarında soğuk ve karlı, yaz aylarında ise sıcak ve kurak bir hava hakim. Bu mevsimsel farklılıklar, tepe ve çevresindeki bitki örtüsünü ve fauna çeşitliliğini etkiliyor. Hava durumu, bölgenin coğrafi konumuna ve yüksekliğine bağlı olarak değişkenlik gösteriyor.
 
 Çevresel açıdan, Çataldağ Tepe, komşu ormanlık alanlarla ve su kaynaklarıyla bağlantılı bir ekosistemin parçası. Bu tepe, bölgedeki diğer doğal güzelliklerle birlikte, bir bütün olarak düşünülerek koruma ve sürdürülebilirlik effortsının odağında yer alıyor. Bu efforts, tepe ve çevresinin doğal güzelliğini ve biyolojik çeşitliliğini korumak için bir rol oynuyor.
 

@@ -30,7 +30,7 @@ Kahramanmaras-Andirin-Yesilova Citlenbik milli parkının tarihi geçmişi, yüz
 
 ## Coğrafya
 
-Kahramanmaras-Andirin-Yesilova Citlenbik milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerine sahiptir. Bölge, yüksek platolardan oluşmaktadır ve deniz seviyesinden yaklaşık yüksek bir konumdatedir. Milli parkın coğrafi yapısı, çeşitli bitki türlerinin yetişmesine elverişli olup, aynı zamanda zengin fauna ile ziyaretçilerini bekliyor. Bölgenin iklimi, karasal iklim özellikleri göstermekte olup, yazları sıca ve kurak, kışları soğu ve karlı geçmektedir. Milli parkın coğrafi konumu, ziyaretçilere doğanın güzelliklerini sunarken, aynı zamanda çeşitli outdoor aktivitelere de olanak sağlamaktadır. 140 hektarlık alan, ziyaretçilere geniş bir alan sunuyor ve ziyaretçilerin doğayı keşfetmesine olanak tanıyor.
+Kahramanmaras-Andirin-Yesilova Citlenbik milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerine sahiptir. Bölge, yüksek platolardan oluşmaktadır ve yüksek bir konumdadir. Milli parkın coğrafi yapısı, çeşitli bitki türlerinin yetişmesine elverişli olup, aynı zamanda zengin fauna ile ziyaretçilerini bekliyor. Bölgenin iklimi, karasal iklim özellikleri göstermekte olup, yazları sıcak ve kurak, kışları soğuk ve karlı geçmektedir. Milli parkın coğrafi konumu, ziyaretçilere doğanın güzelliklerini sunarken, aynı zamanda çeşitli outdoor aktivitelere de olanak sağlamaktadır. 140 hektarlık alan, ziyaretçilere geniş bir alan sunuyor ve ziyaretçilerin doğayı keşfetmesine olanak tanıyor.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ Ebu Derda Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-Ebu Derda Türbesi, Karadeniz kıyısında, Bartın ilinin merkezinde yer alır. Bu bölge, 140 hektarlık geniş bir alana yayılır ve yaklaşık 200 futbol sahası büyüklüğündedir. Türbenin bulunduğu yer, deniz seviyesinden yaklaşık yüksek bir konumdate ve Karadeniz'in güzel manzarasına sahiptir. Ebu Derda Türbesi'nin etrafındaki bölge, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu bölge, yaban hayatı ile birlikte, ziyaretçilerine doğanın güzelliklerini sunar. Karadeniz ikliminin etkisi altında olan bu bölge, nemli ve ılıman bir iklime sahiptir. Ebu Derda Türbesi, doğal güzellikleri ve tarihi önemi ile ziyaretçilerini çekmektedir.
+Ebu Derda Türbesi, Karadeniz kıyısında, Bartın ilinin merkezinde yer alır. Bu bölge, 140 hektarlık geniş bir alana yayılır ve yaklaşık 200 futbol sahası büyüklüğündedir. Türbenin bulunduğu yer, yüksek bir konumda ve Karadeniz'in güzel manzarasına sahiptir. Ebu Derda Türbesi'nin etrafındaki bölge, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu bölge, yaban hayatı ile birlikte, ziyaretçilerine doğanın güzelliklerini sunar. Karadeniz ikliminin etkisi altında olan bu bölge, nemli ve ılıman bir iklime sahiptir. Ebu Derda Türbesi, doğal güzellikleri ve tarihi önemi ile ziyaretçilerini çekmektedir.
 
 ## Flora ve Fauna
 

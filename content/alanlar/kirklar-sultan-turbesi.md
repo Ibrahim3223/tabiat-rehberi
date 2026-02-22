@@ -37,7 +37,7 @@ Kırklar Sultan Türbesi, tarihi geçmişi ile dikkat çeker. Bu tarihi mekân, 
 
 ## Coğrafya
 
-Kırklar Sultan Türbesi, Marmara Bölgesi'nin güzide illerinden Beykoz'da bulunur. Bu bölge, coğrafi olarak önemli bir konuma sahiptir. Kırklar Sultan Türbesi, yaklaşık 140 hektarlık bir alan kaplar ve çevresinde çeşitli doğal güzellikler bulunur. Bu mekân, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır ve çevresi ormanlık alanlarla çevrilidir. Kırklar Sultan Türbesi, coğrafi olarak önemli bir konuma sahip olup, ziyaretçilere çeşitli doğal güzellikler sunar. Bu mekân, İstanbul'un en önemli turistik destinasyonlarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir. Kırklar Sultan Türbesi, coğrafi konumu, tarihi geçmişi ve kültürel zenginliği ile ziyaretçilerin ilgisini çeker.
+Kırklar Sultan Türbesi, Marmara Bölgesi'nin güzide illerinden Beykoz'da bulunur. Bu bölge, coğrafi olarak önemli bir konuma sahiptir. Kırklar Sultan Türbesi, yaklaşık 140 hektarlık bir alan kaplar ve çevresinde çeşitli doğal güzellikler bulunur. Bu mekân, yüksek bir konumda yer alır ve çevresi ormanlık alanlarla çevrilidir. Kırklar Sultan Türbesi, coğrafi olarak önemli bir konuma sahip olup, ziyaretçilere çeşitli doğal güzellikler sunar. Bu mekân, İstanbul'un en önemli turistik destinasyonlarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir. Kırklar Sultan Türbesi, coğrafi konumu, tarihi geçmişi ve kültürel zenginliği ile ziyaretçilerin ilgisini çeker.
 
 ## Flora ve Fauna
 

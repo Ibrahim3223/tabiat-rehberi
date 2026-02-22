@@ -36,7 +36,7 @@ Sırnık Tepe'nin tarihi geçmişi, Konya'nın tarihine paralel olarak gelişmi�
 
 ## Coğrafya
 
-Sırnık Tepe, Konya'nın coğrafi olarak önemli bir bölgesinde yer alıyor. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu tepe, çevresindeki ovalar ve dağlarla birlikte bir bütün olarak değerlendiriliyor. Tepe, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alanda, ziyaretçiler yürüyüş yapabilir, manzaranın keyfini çıkarabilir veya piknik yapabilir. Çevresindeki doğal güzellikler, tepeyi bir gezi destinasyonu olarak önemli kılıyor. İklim, İç Anadolu Bölgesi'nin genel iklim özellikleri gösteriyor; yazları sıca ve kurak, kışları soğu ve kar yağışlı. Bu iklim, tepe ve çevresinin florası ve faunası üzerinde etkili oluyor.
+Sırnık Tepe, Konya'nın coğrafi olarak önemli bir bölgesinde yer alıyor. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu tepe, çevresindeki ovalar ve dağlarla birlikte bir bütün olarak değerlendiriliyor. Tepe, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alanda, ziyaretçiler yürüyüş yapabilir, manzaranın keyfini çıkarabilir veya piknik yapabilir. Çevresindeki doğal güzellikler, tepeyi bir gezi destinasyonu olarak önemli kılıyor. İklim, İç Anadolu Bölgesi'nin genel iklim özellikleri gösteriyor; yazları sıcak ve kurak, kışları soğuk ve kar yağışlı. Bu iklim, tepe ve çevresinin florası ve faunası üzerinde etkili oluyor.
 
 ## Flora ve Fauna
 

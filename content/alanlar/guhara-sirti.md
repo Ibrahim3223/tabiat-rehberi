@@ -44,7 +44,7 @@ Guhara Sırtı, Batman ilinin dağlık bölgesinde, 37.6967°K ve 41.7142°D koo
 
 Doğal güzelliği ve coğrafi konumuyla dikkat çeken Guhara Sırtı, yaklaşık olarak Taksim Meydanı'nın 10 katı büyüklüğünde bir alanı kaplar. Bu alan, Batman ilinin toplam yüzölçümünün küçük bir bölümünü oluşturur, ancak bölgenin jeolojik yapısına ve doğal güzelliklerine katkıda bulunur. Guhara Sırtı'nın fiziksel yapısı, bölgenin dağlık ve engebeli coğrafyasına uygun olarak şekillenmiştir.
 
-Mevsimsel değişikliklere göre hava durumuyla dikkat çeken Guhara Sırtı, Güneydoğu Anadolu'nun karakteristik iklim koşullarına sahiptir. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklim karakterine sahiptir. Bu mevsimsel değişiklikler, Guhara Sırtı'nın doğal güzelliğini ve coğrafi yapısını etkiler.
+Mevsimsel değişikliklere göre hava durumuyla dikkat çeken Guhara Sırtı, Güneydoğu Anadolu'nun karakteristik iklim koşullarına sahiptir. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklim karakterine sahiptir. Bu mevsimsel değişiklikler, Guhara Sırtı'nın doğal güzelliğini ve coğrafi yapısını etkiler.
 
 Çevresel olarak önemli bir role sahip olan Guhara Sırtı, Batman Nehri ve diğer su kaynaklarına yakınlığıyla dikkat çeker. Bölge, ilin ekosistemlerine ve doğal güzelliklerine katkıda bulunur ve çevresindeki alanlarla birlikte bir bütün olarak değerlendirilmelidir. Guhara Sırtı, Monaco'nun yaklaşık olarak 1/20'si büyüklüğünde bir alanı kaplar ve bölgenin doğal güzelliğini ve coğrafi yapısını koruma altına almak önemlidir.
 

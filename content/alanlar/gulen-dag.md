@@ -45,7 +45,7 @@ Gülen Dağ, Antalya'nın eşsiz coğrafyası içinde yer alan 36.8739°K, 31.69
 
 Doğal güzellikleri ile dikkat çeken Gülen Dağ, coğrafi olarak çeşitlilik gösteren bir bölgede yer alır. Dağın fiziksel yapısı, yüksekli ve eğim açısından çeşitlilik gösterir. Ancak, fiziksel veri eksikliği nedeniyle boyutları ve şekli hakkında net bir bilgi verilememektedir. Buna rağmen, Gülen Dağ'ın bulunduğu bölge, genellikle dağlık ve engebeli arazilerle çevrilidir.
 
-İklim bakımından Gülen Dağ, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava hüküm sürer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve ziyaretçilere farklı mevsimlerde farklı deneyimler sunar.
+İklim bakımından Gülen Dağ, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava hüküm sürer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve ziyaretçilere farklı mevsimlerde farklı deneyimler sunar.
 
 Gülen Dağ, çevresindeki ekosistemle önemli bir ilişkiye sahiptir. Dağın yakınında bulunan su kaynakları, bölgenin fauna çeşitliliğini destekler ve doğal dengenin korunmasına katkıda bulunur. Ayrıca, Gülen Dağ, komşu alanlarla birlikte bir bütün olarak düşünüldüğünde, bölgenin coğrafi ve ekolojik bütünlüğüne katkıda bulunur. Bu nedenle, Gülen Dağ'ı ziyaret etmek, sadece doğal güzellikleri keşfetmek değil, aynı zamanda bölgenin kompleks ekosistemini anlamak için de önemli bir fırsat sunar.
 

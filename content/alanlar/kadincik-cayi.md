@@ -31,7 +31,7 @@ Kadincik Cayı'nın tarihi geçmişi, İç Anadolu Bölgesi'nin oluşumuna kadar
 
 ## Coğrafya
 
-Kadincik Cayı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir konumda bulunuyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir gezi alanı sunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösteriyor ve dört mevsim yaşanıyor. Yaz ayları sıca ve kurak, kış ayları soğu ve kar yağışlı geçiyor. İlkbahar ve sonbahar mevsimleri, ziyaretçilerin doğayı en güzel haliyle görebileceği en uygun zamanlar. Kadincik Cayı'nın coğrafi yapısı, ziyaretçilere yürüyüş, kamp ve doğa gibi çeşitli aktiviteler için uygun bir ortam sunuyor. Bölgenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre yukarıda ve bu, buranın iklimini ve bitki örtüsünü etkiliyor.
+Kadincik Cayı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir konumda bulunuyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir gezi alanı sunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösteriyor ve dört mevsim yaşanıyor. Yaz ayları sıcak ve kurak, kış ayları soğuk ve kar yağışlı geçiyor. İlkbahar ve sonbahar mevsimleri, ziyaretçilerin doğayı en güzel haliyle görebileceği en uygun zamanlar. Kadincik Cayı'nın coğrafi yapısı, ziyaretçilere yürüyüş, kamp ve doğa gibi çeşitli aktiviteler için uygun bir ortam sunuyor. Bölgenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre yukarıda ve bu, buranın iklimini ve bitki örtüsünü etkiliyor.
 
 ## Flora ve Fauna
 

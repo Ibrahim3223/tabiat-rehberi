@@ -45,7 +45,7 @@ Doğal güzelliklerin bir araya geldiği Çanakkale bölgesinde, 39.9925°K, 26.
 
 Jeolojik açıdan incelendiğinde, Uludağ'ın oluşumu ve yapısı hakkında detaylı bilgi bulunmuyor. Ancak, bölgenin genel jeolojik yapısını dikkate aldığımızda, Uludağ'ın da benzer özellikler taşıdığı söylenebilir. Çanakkale bölgesinin jeolojisi, genellikle kireçtaşı, şist ve granit gibi kayaçlardan oluşuyor. Bu bilgi, Uludağ'ın fiziksel yapısını anlamak için önemli bir başlangıç noktası oluşturuyor.
 
-İklim açısından bakıldığında, Uludağ'ın bulunduğu bölge Akdeniz ikliminini altında. Bu, bölgeye karakteristik olan ılıman ve yağışlı kışlar, sıca ve kuru yazlar anlamına geliyor. Uludağ'ın yüksekliği, bölgenin iklimini şekillendiren önemli bir faktör. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan Uludağ, bölgenin hava koşullarını etkileyen önemli bir coğrafi unsur.
+İklim açısından bakıldığında, Uludağ'ın bulunduğu bölge Akdeniz ikliminini altında. Bu, bölgeye karakteristik olan ılıman ve yağışlı kışlar, sıcak ve kuru yazlar anlamına geliyor. Uludağ'ın yüksekliği, bölgenin iklimini şekillendiren önemli bir faktör. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan Uludağ, bölgenin hava koşullarını etkileyen önemli bir coğrafi unsur.
 
 Çevresel açıdan bakıldığında, Uludağ'ın bulunduğu bölge, çeşitli su kaynaklarına ve ekosistemlere ev sahipliği yapıyor. Bölge, Çanakkale Boğazı'na yakın konumda bulunması nedeniyle, önemli bir su yolu üzerinde yer alıyor. Bu durum, Uludağ'ın çevresel ilişkilerini çeşitlendiren ve bölgenin doğal dengesini koruyan önemli bir faktör. Monaco'nun yarısı kadar bir alanı kaplayan Uludağ, bölgenin ekolojik dengesini korumak için önemli bir rol üstleniyor.
 

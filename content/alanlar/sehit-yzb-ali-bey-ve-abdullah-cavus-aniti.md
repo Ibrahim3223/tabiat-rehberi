@@ -37,11 +37,11 @@ wikidata_id: "Q134728114"
 
 ## Coğrafya
 
-Şehit Yzb Ali Bey ve Abdullah Çavuş Anıtı, Eşme'nin merkezi bir bölgesinde yer alıyor. Anıtın bulunduğu bölge, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bölge, genellikle sıca ve kurak bir iklime sahip olup, yaz aylarında sıcaklık derecesi yüksek oluyor. Anıtıni, çeşitli bitki türleri ve ağaçlarla çevrili olup, ziyaretçilere doğal bir ortam sunuyor. Anıtın bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Anıtın yakınında, çeşitli su kaynakları ve akarsular encontruluyor.
+Şehit Yzb Ali Bey ve Abdullah Çavuş Anıtı, Eşme'nin merkezi bir bölgesinde yer alıyor. Anıtın bulunduğu bölge, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bölge, genellikle sıcak ve kurak bir iklime sahip olup, yaz aylarında sıcaklık derecesi yüksek oluyor. Anıtıni, çeşitli bitki türleri ve ağaçlarla çevrili olup, ziyaretçilere doğal bir ortam sunuyor. Anıtın bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Anıtın yakınında, çeşitli su kaynakları ve akarsular encontruluyor.
 
 ## Flora ve Fauna
 
-Şehit Yzb Ali Bey ve Abdullah Çavuş Anıtı'nın bulunduğu bölgede, çeşitli bitki türleri ve zengin fauna encontruluyor. Bölge, genellikle sıca ve kurak bir iklime sahip olup, bu nedenle bitki türleri genellikle suya dayanıklı olanlar đang. Anıtın bulunduğu alanda, çeşitli ağaçlar ve çalılar encontruluyor. Anıtın yakınında, çeşitli su kaynakları ve akarsular encontruluyor ve bu su kaynaklarında, çeşitli balık türleri ve diğer su canlıları yaşuyor. Anıtın bulunduğu bölgede, mevsimsel değişimler nedeniyle, farklı zamanlarda çeşitli bitki ve hayvan türleri görülebiliyor.
+Şehit Yzb Ali Bey ve Abdullah Çavuş Anıtı'nın bulunduğu bölgede, çeşitli bitki türleri ve zengin fauna encontruluyor. Bölge, genellikle sıcak ve kurak bir iklime sahip olup, bu nedenle bitki türleri genellikle suya dayanıklı olanlar đang. Anıtın bulunduğu alanda, çeşitli ağaçlar ve çalılar encontruluyor. Anıtın yakınında, çeşitli su kaynakları ve akarsular encontruluyor ve bu su kaynaklarında, çeşitli balık türleri ve diğer su canlıları yaşuyor. Anıtın bulunduğu bölgede, mevsimsel değişimler nedeniyle, farklı zamanlarda çeşitli bitki ve hayvan türleri görülebiliyor.
 
 ## Ziyaret Bilgileri
 

@@ -43,7 +43,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden Van'ın dağlık alanlarından bir
 
 Fiziksel olarak bakıldığında, Erdağı'nın boyutları hakkında net bir veri bulunmuyor. Ancak, genel olarak bu dağların Van'ın coğrafyasını şekillendirdiği söylenebilir. Bu dağlık alanlar, Van Gölü'nün kuzeybatısında yer alan bir sıradağ sistemi oluşturuyor. Dağların jeolojik yapısı, genel olarak volkanik kayaçlardan oluşuyor. Bu volkanik kayaçlar, bölgenin jeolojik tarihinde önemli bir rol oynamış.
 
-İklim açısından bakıldığında, Erdağı'nın bulunduğu Van bölgesi, karasal iklim özellikleri gösteriyor. Kış aylarında oldukça soğu ve kar yağışlı olan bu bölge, yaz aylarında ise sıca ve kurak bir hava koşuluna sahip. Bölgenin iklimi, Van Gölü'nün varlığından da etkileniyor. Gölün suyu, bölgenin mikro iklimini şekillendirmekte önemli bir rol oynuyor.
+İklim açısından bakıldığında, Erdağı'nın bulunduğu Van bölgesi, karasal iklim özellikleri gösteriyor. Kış aylarında oldukça soğuk ve kar yağışlı olan bu bölge, yaz aylarında ise sıcak ve kurak bir hava koşuluna sahip. Bölgenin iklimi, Van Gölü'nün varlığından da etkileniyor. Gölün suyu, bölgenin mikro iklimini şekillendirmekte önemli bir rol oynuyor.
 
 Çevresel açıdan, Erdağı'nın bulunduğu bölge, Van Gölü'nün kuzeybatısında yer alan bir ekosistem olarak dikkat çekiyor. Bu ekosistem, bölgenin flora ve fauna açısından zenginliğini oluşturuyor. Dağların eteklerinde yer alan köyler ve kasabalar, bu ekosistemin bir parçası olarak görülüyor. Ayrıca, bölgede yer alan su kaynakları, bölgenin ekosistemini desteklemekte önemli bir rol oynuyor.
 

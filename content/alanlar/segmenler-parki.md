@@ -40,7 +40,7 @@ Güneşli bir Ankara gününde, Seğmenler Parkı, şehrin kalbinde yeşilin huz
 
 Doğal güzelliği ile dikkat çeken Seğmenler Parkı, 1200 hektarlık bir alanı kaplıyor. Bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplayarak, ziyaretçilerine geniş bir alan sunuyor. Parkın fiziksel yapısı, ziyaretçilerini doğanın kucağına davet ediyor. Yeşilin her tonunu barındıran bu botanik bahçesi, Ankaranın coğrafyasına uyum sağlamış bir şekilde tasarlanmış.
 
-İklim karakteri açısından, Seğmenler Parkı, Ankara'nın karasal ikliminin etkilerini taşıyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürüyor. Bu mevsimsel özellikler, parkın bitki örtüsünü ve ziyaretçi deneyimini etkiliyor. Parkın iklimi, ziyaretçilere dört mevsim boyunca farklı güzellikler sunuyor.
+İklim karakteri açısından, Seğmenler Parkı, Ankara'nın karasal ikliminin etkilerini taşıyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürüyor. Bu mevsimsel özellikler, parkın bitki örtüsünü ve ziyaretçi deneyimini etkiliyor. Parkın iklimi, ziyaretçilere dört mevsim boyunca farklı güzellikler sunuyor.
 
 Çevresel açıdan, Seğmenler Parkı, Ankara'nın şehir ekosistemine önemli bir katkı sağlıyor. Kentin merkezi bölgesinde yer alan bu yeşil alan, çevresindeki yapılaşmanın yoğunluğuna rağmen, doğallığını korumuş bir bölge olarak dikkat çekiyor. Parkın komşu alanları, Ankara'nın tarihi ve kültürel zenginliklerini barındıran önemli merkezler olarak ziyaretçilere farklı deneyimler sunuyor.
 

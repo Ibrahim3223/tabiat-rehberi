@@ -37,7 +37,7 @@ Nebi Eyüp Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Nebi Eyüp Türbesi, Mersin'in kıyı şeridinde yer alır ve Akdeniz'in mavi sularına karşı uzanır. Bu bölge, coğrafi olarak özel bir konuma sahiptir. Türbe, yaklaşık 140 hektarlık bir yeşil alan içerisinde yer alır, bu da yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bölgenin coğrafyası, denize yakın konumu ve yeşil alanları ile ziyaretçilere çeşitli olanaklar sunar. İklim, tipik Akdeniz iklimi özellikleri taşır; yani yazlar sıca ve kurak, kışlar ise ılıman ve yağışlı geçer. Bu coğrafi özellikler, Nebi Eyüp Türbesi'ni hem doğa severler hem de tarih meraklıları için çekici bir destinasyon haline getirir. Ayrıca, çevredeki diğer tarihi ve doğal güzellikler, ziyaretçilere geniş bir gezi alanı sunar.
+Nebi Eyüp Türbesi, Mersin'in kıyı şeridinde yer alır ve Akdeniz'in mavi sularına karşı uzanır. Bu bölge, coğrafi olarak özel bir konuma sahiptir. Türbe, yaklaşık 140 hektarlık bir yeşil alan içerisinde yer alır, bu da yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bölgenin coğrafyası, denize yakın konumu ve yeşil alanları ile ziyaretçilere çeşitli olanaklar sunar. İklim, tipik Akdeniz iklimi özellikleri taşır; yani yazlar sıcak ve kurak, kışlar ise ılıman ve yağışlı geçer. Bu coğrafi özellikler, Nebi Eyüp Türbesi'ni hem doğa severler hem de tarih meraklıları için çekici bir destinasyon haline getirir. Ayrıca, çevredeki diğer tarihi ve doğal güzellikler, ziyaretçilere geniş bir gezi alanı sunar.
 
 ## Flora ve Fauna
 

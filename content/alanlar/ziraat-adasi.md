@@ -44,7 +44,7 @@ Güneşin battığı yerlerde, Ege Denizi'nin mavi sularında gizli bir cennet b
 
 Doğal güzelliği ve sakin atmosferi ile dikkat çeken Ziraat Adası, coğrafi olarak özel bir konumda bulunuyor. Ada, Ege Denizi'nin sığ ve berrak suları ile çevrili ve Taksim Meydanı'nın birkaç katı kadar bir alanı kaplıyor. Jeolojik açıdan bakıldığında, ada'nın yapısı ve şekli, Ege Bölgesi'nin genel jeolojik özelliklerini yansıtıyor. Ancak, detaylı fiziksel verilerin eksikliği, ada'nın tam olarak boyutlarını ve diğer özelliklerini belirlemeyi zorlaştırıyor.
 
-İklim açısından bakıldığında, Ziraat Adası, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel özellikler, ada'nın flora ve fauna'sını şekillendirmiş ve ziyaretçilere her mevsim farklı bir güzellik sunuyor.
+İklim açısından bakıldığında, Ziraat Adası, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel özellikler, ada'nın flora ve fauna'sını şekillendirmiş ve ziyaretçilere her mevsim farklı bir güzellik sunuyor.
 
 Çevresel açıdan bakıldığında, Ziraat Adası, Muğla'nın kıyı ekosistemine önemli bir katkı sağlıyor. Ada, su kaynakları ve deniz canlıları için bir sığınak görevi görüyor ve komşu alanlar ile birlikte bir bütün olarak değerlendiriliyor. Monaco'nun küçük bir bölümü kadar bir alanı kaplayan Ziraat Adası, Ege Denizi'nin zengin biyolojik çeşitliliğine katkıda bulunuyor ve ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
 

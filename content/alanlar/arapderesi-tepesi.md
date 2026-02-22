@@ -36,7 +36,7 @@ Arapderesi Tepesi'nin tarihi geçmişi hakkında detaylı bilgi bulunmamaktadır
 
 ## Coğrafya
 
-Arapderesi Tepesi, Sivas ilinin İç Anadolu Bölgesi'nde yer alan bir tepe olarak coğrafi konumu itibariyle dikkat çekmektedir. Tepenin yüksekliği ve genişliği, burayı ziyaret edenlerin keyifli bir gün geçirmesine olanak tanır. Ayrıca, Arapderesi Tepesi'nin etrafında bulunan 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan içerisinde çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bölgenin iklimi karasal iklim özellikleri taşımaktadır ve yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlı geçmektedir. Arapderesi Tepesi'nin coğrafi konumu ve iklimi, burayı ziyaret edenlerin doğa ile iç içe bir gün geçirmesine olanak tanır.
+Arapderesi Tepesi, Sivas ilinin İç Anadolu Bölgesi'nde yer alan bir tepe olarak coğrafi konumu itibariyle dikkat çekmektedir. Tepenin yüksekliği ve genişliği, burayı ziyaret edenlerin keyifli bir gün geçirmesine olanak tanır. Ayrıca, Arapderesi Tepesi'nin etrafında bulunan 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan içerisinde çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bölgenin iklimi karasal iklim özellikleri taşımaktadır ve yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçmektedir. Arapderesi Tepesi'nin coğrafi konumu ve iklimi, burayı ziyaret edenlerin doğa ile iç içe bir gün geçirmesine olanak tanır.
 
 ## Flora ve Fauna
 
@@ -51,5 +51,5 @@ Arapderesi Tepesi'ni ziyaret etmek, doğa ile iç içe bir gün geçirmek isteye
 - Arapderesi Tepesi, Sivas ilinin İç Anadolu Bölgesi'nde yer alan bir tepe olarak doğal güzellikleri ile dikkat çekmektedir.
 - Tepenin etrafında bulunan 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan içerisinde çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 - Arapderesi Tepesi'nin manzarası, özellikle gün batımı saatlerinde ziyaretçilerin ilgisini çekmektedir.
-- Bölgenin iklimi karasal iklim özellikleri taşımaktadır ve yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlı geçmektedir.
+- Bölgenin iklimi karasal iklim özellikleri taşımaktadır ve yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçmektedir.
 - Arapderesi Tepesi, Sivas'ın tarihi ve kültürel mirasının önemli bir parçası olarak kabul edilebilir.

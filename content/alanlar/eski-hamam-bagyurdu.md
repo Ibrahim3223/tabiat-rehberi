@@ -37,7 +37,7 @@ Eski Hamam, Bağyurdu'nun tarihi geçmişi, yüzyıllar boyunca birçok medeniye
 
 ## Coğrafya
 
-Eski Hamam, Bağyurdu, Ege Bölgesi'nin coğrafi olarak en güzel noktalarından biri. Bu plaj, Kemalpaşa'nın sahil şeridinde yer alıyor ve Ege Denizi'nin sularına açılıyor. Bölge, coğrafi olarak oldukça çeşitli, çünkü hem deniz hem de dağların birleştiği bir noktada bulunuyor. Eski Hamam, Bağyurdu'nun etrafı, yeşilliklerle dolu dağlar ve tepelerle çevrilidir, bu da ziyaretçilere hem deniz hem de doğa yürüyüşleri için ideal bir ortam sunuyor. Plajın kendisi, geniş ve kumlu, temiz ve berrak bir denizle birlikte, misafirlerine mükemmel bir dinlenme alanı sağlıyor. Ayrıca, bölgenin iklimi, tipik Akdeniz iklimi, yazları sıca ve kurak, kışları ise ılıman ve yağışlı. Bu, Eski Hamam, Bağyurdu'nu, yılın her dönemi ziyaret etmek için ideal bir destinasyon haline getiriyor.
+Eski Hamam, Bağyurdu, Ege Bölgesi'nin coğrafi olarak en güzel noktalarından biri. Bu plaj, Kemalpaşa'nın sahil şeridinde yer alıyor ve Ege Denizi'nin sularına açılıyor. Bölge, coğrafi olarak oldukça çeşitli, çünkü hem deniz hem de dağların birleştiği bir noktada bulunuyor. Eski Hamam, Bağyurdu'nun etrafı, yeşilliklerle dolu dağlar ve tepelerle çevrilidir, bu da ziyaretçilere hem deniz hem de doğa yürüyüşleri için ideal bir ortam sunuyor. Plajın kendisi, geniş ve kumlu, temiz ve berrak bir denizle birlikte, misafirlerine mükemmel bir dinlenme alanı sağlıyor. Ayrıca, bölgenin iklimi, tipik Akdeniz iklimi, yazları sıcak ve kurak, kışları ise ılıman ve yağışlı. Bu, Eski Hamam, Bağyurdu'nu, yılın her dönemi ziyaret etmek için ideal bir destinasyon haline getiriyor.
 
 ## Flora ve Fauna
 

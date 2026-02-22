@@ -39,7 +39,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi güzelliğini tamamlayan Altıparmak D
 
 Doğal güzelliği ile dikkat çeken Altıparmak Dağları, coğrafi yapısı itibariyle oldukça çeşitli bir jeolojiye sahiptir. Ancak, detaylı fiziksel veriler bulunmamasına rağmen, bu dağlık alanın bölge için önemli bir doğal kaynak olduğunu söyleyebiliriz. Bir şehir bloğu büyüklüğünde olan bu alan, birçok farklı bitki türüne ev sahipliği yapar.
 
-Yüksekli ve iklim koşulları bakımından Altıparmak Dağları, bölgenin mevsimsel özelliklerini yansıtan bir yapıya sahiptir. Eiffel Kulesi'nin 2 katı yükseklikte olan bu dağlar, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve karlı bir hava durumuna sahiptir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler.
+Yüksekli ve iklim koşulları bakımından Altıparmak Dağları, bölgenin mevsimsel özelliklerini yansıtan bir yapıya sahiptir. Eiffel Kulesi'nin 2 katı yükseklikte olan bu dağlar, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı bir hava durumuna sahiptir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiler.
 
 Bölgenin su kaynakları bakımından önemli bir role sahip olan Altıparmak Dağları, Fırat Nehri'ne yakın bir konumda yer alır. Bu dağlık alan, Monaco'nun onda biri kadar büyüklüğünde olan bir bölgede, birçok farklı ekosistemi bir araya getirir. Bu ekosistemler, bölgenin doğal dengesini sağlar ve birçok canlı türüne yaşam alanı sunar.
 

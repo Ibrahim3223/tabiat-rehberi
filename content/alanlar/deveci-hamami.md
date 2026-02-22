@@ -37,7 +37,7 @@ Deveci Hamamı'nın tarihi geçmişi, bölgenin yerleşim tarihi ile bağlantıl
 
 ## Coğrafya
 
-Deveci Hamamı, coğrafi olarak Kayseri'nin Melikgazi ilçesinde yer alır. Bu bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. İç Anadolu Bölgesi'nin genel olarak karasal iklimi, Deveci Hamamı'nda da görülür. Yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlıdır. Deveci Hamamı, çevresindeki çeşitli bitki türleri ve ağaçlarla kaplı bir alandır. Bu doğal güzellikler, ziyaretçilere hem dinlenme hem de doğayı keşfetme fırsatı sunar. Bölge, aynı zamanda farklı türde hayvan hayatına da ev sahipliği yapar. Deveci Hamamı'nın coğrafi konumu, ziyaretçilere geniş bir doğal manzara sunar ve bu özelliği ile dikkat çeker.
+Deveci Hamamı, coğrafi olarak Kayseri'nin Melikgazi ilçesinde yer alır. Bu bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. İç Anadolu Bölgesi'nin genel olarak karasal iklimi, Deveci Hamamı'nda da görülür. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlıdır. Deveci Hamamı, çevresindeki çeşitli bitki türleri ve ağaçlarla kaplı bir alandır. Bu doğal güzellikler, ziyaretçilere hem dinlenme hem de doğayı keşfetme fırsatı sunar. Bölge, aynı zamanda farklı türde hayvan hayatına da ev sahipliği yapar. Deveci Hamamı'nın coğrafi konumu, ziyaretçilere geniş bir doğal manzara sunar ve bu özelliği ile dikkat çeker.
 
 ## Flora ve Fauna
 

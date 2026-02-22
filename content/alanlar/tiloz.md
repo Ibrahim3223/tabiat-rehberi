@@ -44,7 +44,7 @@ Günümüzde bir turizm cenneti olarak bilinen Rodos Adası'nın bir parçası o
 
 Doğal güzellikleri ve coğrafi özellikleri ile dikkat çeken Tiloz, bir şehir bloğu büyüklüğünde bir alana sahip. Ada, Rodos'un diğer bölgelerine kıyasla daha küçük bir yüzölçüme sahip, ancak bu küçük alan, ziyaretçilere sakin ve huzurlu bir atmosfer sunuyor. Tiloz'un fiziksel yapısı, ada coğrafyasının genel özelliklerini taşır; ancak detaylı fiziksel veri bulunmaması, ada hakkında daha fazla bilgi edinmeyi zorlaştırıyor.
 
-Mevsimsel değişikliklere göre Tiloz'un iklim karakteri değişiyor. Kış aylarında, ada soğu ve yağışlı bir hava durumunda iken, yaz aylarında sıca ve güneşli bir atmosfer hakim oluyor. Bu mevsimsel özellikler, Tiloz'u yıl boyu ziyaret edilebilen bir destinasyon haline getiriyor. Ada, Rodos'un genel iklimine benzer, ancak Tiloz'un küçük boyutu, yerel iklim koşullarının daha snel değişebileceği anlamına geliyor.
+Mevsimsel değişikliklere göre Tiloz'un iklim karakteri değişiyor. Kış aylarında, ada soğuk ve yağışlı bir hava durumunda iken, yaz aylarında sıcak ve güneşli bir atmosfer hakim oluyor. Bu mevsimsel özellikler, Tiloz'u yıl boyu ziyaret edilebilen bir destinasyon haline getiriyor. Ada, Rodos'un genel iklimine benzer, ancak Tiloz'un küçük boyutu, yerel iklim koşullarının daha snel değişebileceği anlamına geliyor.
 
 Tiloz'un çevresel ilişkileri, ada ekosisteminin önemli bir parçasını oluşturuyor. Ada, Rodos'un diğer bölgeleri ile bağlantılı ve su kaynakları, ada ekosisteminin devamı için hayati önem taşıyor. Tiloz'un komşu alanları, ada için önemli bir kaynak teşkil ediyor ve ada, bu kaynakları koruma altına almak için çalışıyor. Bu çabalar, Tiloz'un doğal güzelliklerinin korunması ve ada ekosisteminin sürdürülebilirliğiçin büyük önem taşıyor.
 

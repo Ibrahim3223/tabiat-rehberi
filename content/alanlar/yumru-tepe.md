@@ -43,7 +43,7 @@ Doğal güzellikleri keşfetmek isteyenler için, Yumru Tepe 41.0458°K ve 32.16
 
 Jeolojik açıdan bakıldığında, Yumru Tepe'nin fiziksel yapısı hakkında detaylı bilgi olmasa da, koordinatlarından anlaşıldığı üzere, dağlık bir bölgede yer alıyor. Bu bölge, Türkiye'nin kuzeybatı kesiminde yer alıyor ve Karadeniz kıyılarına yakın bir konumda bulunuyor. Yumru Tepe'nin yüksekliği hakkında bilgi olmasa da, bu bölgedeki dağların genellikle 1000 metreyi aşan yüksekliklere sahip olduğu biliniyor. Bu, Eiffel Kulesi'nin yaklaşık 2,5 katı yükseklikte bir nokta anlamına geliyor.
 
-Mevsimsel açıdan bakıldığında, Yumru Tepe'nin iklim karakteri, Karadeniz bölgesinin genel iklimine benzerlik gösteriyor. Bu bölgede, yaz ayları genellikle serin ve yağışlı, kış ayları ise soğu ve karlı geçiyor. Yumru Tepe'nin bulunduğu bölgede, yıllık ortalama yağış miktarı 1000 mm civarında ve bu, bölgenin nemli bir ikliminin olduğunu gösteriyor.
+Mevsimsel açıdan bakıldığında, Yumru Tepe'nin iklim karakteri, Karadeniz bölgesinin genel iklimine benzerlik gösteriyor. Bu bölgede, yaz ayları genellikle serin ve yağışlı, kış ayları ise soğuk ve karlı geçiyor. Yumru Tepe'nin bulunduğu bölgede, yıllık ortalama yağış miktarı 1000 mm civarında ve bu, bölgenin nemli bir ikliminin olduğunu gösteriyor.
 
 Çevresel açıdan bakıldığında, Yumru Tepe, komşu alanlar ve su kaynakları açısından zengin bir bölgede yer alıyor. Bu bölge, Karadeniz kıyılarına yakın bir konumda bulunuyor ve bölgede birçok nehir ve akarsu bulunuyor. Yumru Tepe'nin bulunduğu bölgede, ekosistem bağlantıları açısından önemli bir role sahip olan ormanlar ve doğal habitatlar yer alıyor. Bu, bölgenin biyolojik çeşitlilik açısından zengin olduğunu gösteriyor.
 

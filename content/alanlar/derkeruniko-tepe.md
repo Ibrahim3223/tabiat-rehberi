@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin zengin coğrafyasında yer alan Derkeruniko Tep
 
 Doğal güzelliği ile dikkat çeken Derkeruniko Tepe, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu küçük ama önemli coğrafi oluşum, bölgenin jeolojik yapısını anlamak için önemli bir nokta oluşturuyor. Tepe, çevresi ile birlikte bir bütün olarak düşünüldüğünde, bölgenin coğrafi çeşitliliğini gözler önüne seriyor.
 
-İklim açısından bakıldığında, Derkeruniko Tepe ve çevresi, Güneydoğu Anadolu Bölgesi'nin karakteristik iklim özellikleri sergiliyor. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir hava durumu hakim oluyor. Bu mevsimsel değişimler, tepe ve çevresinin ekosistemini şekillendirmekte önemli bir rol oynuyor.
+İklim açısından bakıldığında, Derkeruniko Tepe ve çevresi, Güneydoğu Anadolu Bölgesi'nin karakteristik iklim özellikleri sergiliyor. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir hava durumu hakim oluyor. Bu mevsimsel değişimler, tepe ve çevresinin ekosistemini şekillendirmekte önemli bir rol oynuyor.
 
 Çevresel açıdan bakıldığında, Derkeruniko Tepe, bölgenin su kaynakları ve ekosistem bağlantıları ile önemli bir ilişki içerisinde bulunuyor. Batman Nehri'nin yakınında yer alan bu tepe, bölgenin su döngüsünü etkileyen önemli bir coğrafi unsur oluşturuyor. Ayrıca, tepe ve çevresi, bölgenin biyolojik çeşitliliğini destekleyen önemli bir ekosistem oluşturuyor.
 
@@ -54,7 +54,7 @@ Derkeruniko Tepe, Batman'ın yarı kurak ikliminin hakim olduğu bir bölgede ye
 
 Bitki örtüsünde, ilkbahar aylarında çiçeklerin rengarenk açtığı, yaz aylarında ise step ve ova ekolojisinin karakteristik bitkilerinin hakim olduğu bir manzara göze çarpıyor. Dağın yüksek kesimlerinde, alpin flora türlerine rastlama mümkün.
 
-Yaban hayatı da bir o kadar zengin. Memeliler, dağların kaya oyuklarında ve ormanlık alanlarında yaşamlarını sürdürürken, kuşlar göç ettikleri mevsimlerde bu dağları önemli bir uğrak noktası olarak kullanıyorlar. Sürüngenler de, sıca ve kurak bölgelerde aktif olarak faaliyet gösteriyorlar.
+Yaban hayatı da bir o kadar zengin. Memeliler, dağların kaya oyuklarında ve ormanlık alanlarında yaşamlarını sürdürürken, kuşlar göç ettikleri mevsimlerde bu dağları önemli bir uğrak noktası olarak kullanıyorlar. Sürüngenler de, sıcak ve kurak bölgelerde aktif olarak faaliyet gösteriyorlar.
 
 Bu dağ ekosisteminin korunması, bölgenin ekolojik dengesi için hayati önem taşıyor. Yükseklik zonlarına bağlı olarak değişen flora ve fauna, bu bölgenin benzersiz özelliklerinden biri. Bu nedenle, doğal yaşam alanlarının korunması ve sürdürülebilir usoğrafyası için çalışmalar yapılması gerekiyor.
 

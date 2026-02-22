@@ -37,7 +37,7 @@ Kızıl Dağı'nın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetler
 
 ## Coğrafya
 
-Kızıl Dağı, Yozgat ilinin coğrafi yapısında önemli bir rol oynuyor. Bu dağ, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Dağın yüksekliği, bölgenin iklimini etkileyen önemli faktörlerden biri. Dağın etrafındaki ovalar ve vadiler, çeşitli bitki türleri ve hayvanlarla dolu. Dağın zirvesinden, manzara gerçekten etkileyici. İç Anadolu Bölgesi'nin karakteristik step iklimi, bu bölgede de hakim. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim, bölgenin florası ve faunasını da etkiliyor. Dağın coğrafi konumu, ziyaretçilere, geniş bir alanda gezebilmeleri için uygun koşullar sağlıyor.
+Kızıl Dağı, Yozgat ilinin coğrafi yapısında önemli bir rol oynuyor. Bu dağ, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Dağın yüksekliği, bölgenin iklimini etkileyen önemli faktörlerden biri. Dağın etrafındaki ovalar ve vadiler, çeşitli bitki türleri ve hayvanlarla dolu. Dağın zirvesinden, manzara gerçekten etkileyici. İç Anadolu Bölgesi'nin karakteristik step iklimi, bu bölgede de hakim. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim, bölgenin florası ve faunasını da etkiliyor. Dağın coğrafi konumu, ziyaretçilere, geniş bir alanda gezebilmeleri için uygun koşullar sağlıyor.
 
 ## Flora ve Fauna
 

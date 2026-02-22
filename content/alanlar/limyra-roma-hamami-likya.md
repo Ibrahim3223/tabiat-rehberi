@@ -37,7 +37,7 @@ Limyra Roma Hamamı, Likya uygarlığının tarihini yansıtan önemli bir tarih
 
 ## Coğrafya
 
-Limyra Roma Hamamı, Finike'de yer alan bir tarihi mekândır. Bu mekân, Akdeniz Bölgesi'nin en önemli tarihi mekanlarından biridir. Limyra Roma Hamamı, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Likya uygarlığının zengin tarihini yansıtan önemli bir tarihi mekândır. Bu tarihi mekân, Likya'nın tarihini ve kültürünü öğrenmek isteyenler için önemli bir destinasyondur. Limyra Roma Hamamı, Likya'nın tarihi zenginliğini ve kültürel önemini gözler önüne seren bir mekândır. Finike'nin iklimi, Akdeniz iklimi olarak tanımlanır ve bu iklim, sıca ve kurak yazlar, ılık ve yağışlı kışlar ile karakterizedir. Limyra Roma Hamamı, Finike'nin bu iklim koşullarına uygun olarak inşa edilmiştir.
+Limyra Roma Hamamı, Finike'de yer alan bir tarihi mekândır. Bu mekân, Akdeniz Bölgesi'nin en önemli tarihi mekanlarından biridir. Limyra Roma Hamamı, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Likya uygarlığının zengin tarihini yansıtan önemli bir tarihi mekândır. Bu tarihi mekân, Likya'nın tarihini ve kültürünü öğrenmek isteyenler için önemli bir destinasyondur. Limyra Roma Hamamı, Likya'nın tarihi zenginliğini ve kültürel önemini gözler önüne seren bir mekândır. Finike'nin iklimi, Akdeniz iklimi olarak tanımlanır ve bu iklim, sıcak ve kurak yazlar, ılık ve yağışlı kışlar ile karakterizedir. Limyra Roma Hamamı, Finike'nin bu iklim koşullarına uygun olarak inşa edilmiştir.
 
 ## Flora ve Fauna
 

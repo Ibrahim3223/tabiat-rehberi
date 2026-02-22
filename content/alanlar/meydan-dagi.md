@@ -43,7 +43,7 @@ Doğunun gizli köşelerinden biri olan Meydan Dağı, 39.1989°K, 43.1820°D ko
 
 Meydan Dağı'nın fiziksel yapısı, coğrafyanın şekillenmesinde önemli bir rol oynuyor. Bu dağ, etrafındaki ovalardan yaklaşık 500 metre yükseklikte yer alıyor. Eiffel Kulesi'nin yaklaşık 1/5'i kadar yükseklikte olan Meydan Dağı, 85 katlı bir gökdelenin yaklaşık 1/10'u kadar yükseklikte. Ancak, fiziksel yapı hakkında ayrıntılı bilgiler bulunmuyor.
 
-İklim açısından Meydan Dağı, mevsimsel değişimlerin etkisini gösteriyor. Kış aylarında karla kaplı olan bu dağ, yaz aylarında ise yeşilin her tonuna sahip oluyor. Hava durumu, mevsimlere göre değişkenlik gösteriyor. Kışın soğu ve karlı, yazın ise sıca ve kurak bir iklim hakim.
+İklim açısından Meydan Dağı, mevsimsel değişimlerin etkisini gösteriyor. Kış aylarında karla kaplı olan bu dağ, yaz aylarında ise yeşilin her tonuna sahip oluyor. Hava durumu, mevsimlere göre değişkenlik gösteriyor. Kışın soğuk ve karlı, yazın ise sıcak ve kurak bir iklim hakim.
 
 Çevresel açıdan Meydan Dağı, doğal güzelliklerin bir bileşeni olarak yer alıyor. Etrafında bulunan su kaynakları ve ekosistemler, bu dağın çevresel ilişkilerini şekillendiriyor. Monaco'nun yarısı kadar büyük olan İstanbul'un Adalar ilçesi büyüklüğündeki bu bölge, Meydan Dağı'nın çevresel önemini vurguluyor.
 
@@ -55,7 +55,7 @@ Bitki Örtüsü:
 Dağın eteklerinde, kuraklığa dayanıklı otlar ve çalılar hakimdir. Yükseklik arttıkça, alpin flora ile karşılaşılır. Bu bölgede, özel bitkiler mevsimsel olarak görünümdeğiştirir. İlkbaharın başlangıcında, dağ yamaçları rengarenk çiçeklerle süslenir.
 
 Yaban Hayatı:
-Meydan Dağı, çeşitli yaban hayvanlarına ev sahipliği yapar. Memeliler, dağların yüksek kesimlerinde bulunurken, kuşlar mevsimsel olarak göç eder. Sürüngenler ise, sıca ve kuru alanlarda yaşamaya adapte olmuşlardır. Bu ekosistemdeki canlılar, birbirleriyle ve yaşam alanlarıyla sıkı bir ilişki içerisindedir. Örneğin, bazı kuş türleri, dağların yüksek kesimlerinde bulunan memelilerin avlanmasını sağlar.
+Meydan Dağı, çeşitli yaban hayvanlarına ev sahipliği yapar. Memeliler, dağların yüksek kesimlerinde bulunurken, kuşlar mevsimsel olarak göç eder. Sürüngenler ise, sıcak ve kuru alanlarda yaşamaya adapte olmuşlardır. Bu ekosistemdeki canlılar, birbirleriyle ve yaşam alanlarıyla sıkı bir ilişki içerisindedir. Örneğin, bazı kuş türleri, dağların yüksek kesimlerinde bulunan memelilerin avlanmasını sağlar.
 
 Ekolojik Değer:
 Meydan Dağı, bölgesel ekosistem için önemli bir rol oynar. Bu dağ, çeşitli canlı türlerinin yaşam alanı olup, koruma altına alınması büyük önem taşır. Doğal dengenin korunması için, bu bölgenin ekolojik değerinin anlaşılması ve korunması gerekmektedir.

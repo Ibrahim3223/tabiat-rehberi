@@ -30,7 +30,7 @@ Yeni Foça Sit Alanı'nın tarihi geçmişi, yüzyıllar boyunca oluşmuş zengi
 
 ## Coğrafya
 
-Yeni Foça Sit Alanı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölge, genellikle step ve orman ekosistemlerinin bir karışımından oluşur. İklim, karasal iklim özellikleri gösterir ve dört mevsim belirgin olarak yaşanır. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurudur. Bahar ve sonbahar mevsimleri, ziyaret için en uygun dönemlerdir çünkü hava koşulları daha mutedildir. Sit alanının coğrafi yapısı, ziyaretçilere çeşitlilik gösteren bir manzara sunar. Burada, tepeler, vadiler ve ormanlık alanlar bir arada bulunur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilerin doğanın güzelliğini keşfetmeleri için yeterli alan sağlar.
+Yeni Foça Sit Alanı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölge, genellikle step ve orman ekosistemlerinin bir karışımından oluşur. İklim, karasal iklim özellikleri gösterir ve dört mevsim belirgin olarak yaşanır. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bahar ve sonbahar mevsimleri, ziyaret için en uygun dönemlerdir çünkü hava koşulları daha mutedildir. Sit alanının coğrafi yapısı, ziyaretçilere çeşitlilik gösteren bir manzara sunar. Burada, tepeler, vadiler ve ormanlık alanlar bir arada bulunur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilerin doğanın güzelliğini keşfetmeleri için yeterli alan sağlar.
 
 ## Flora ve Fauna
 

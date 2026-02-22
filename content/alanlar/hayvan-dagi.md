@@ -45,7 +45,7 @@ Mersin'in doğal güzelliklerini keşfetmek isteyenler için, "Hayvan Dağı" ö
 
 Doğal güzellikleri ve coğrafi özellikleri ile dikkat çeken "Hayvan Dağı", Mersin'in jeolojik yapısının bir parçası olarak karşımıza çıkıyor. Fiziksel olarak, bu dağ bir şehir bloğu büyüklüğünde bir alanı kaplıyor ve Mersin'in doğal zenginliklerini sunuyor. Jeolojik açıdan, bölgenin kaya oluşumları ve toprak yapısı, Mersin'in coğrafi çeşitliliğini gösteriyor.
 
-Mevsimsel değişikliklere göre, "Hayvan Dağı"nda iklim karakteri değişkenlik gösteriyor. Kış aylarında daha serin ve yağışlı hava, yaz aylarında ise sıca ve kurak bir iklim hakim oluyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor.
+Mevsimsel değişikliklere göre, "Hayvan Dağı"nda iklim karakteri değişkenlik gösteriyor. Kış aylarında daha serin ve yağışlı hava, yaz aylarında ise sıcak ve kurak bir iklim hakim oluyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor.
 
 Çevresel açıdan, "Hayvan Dağı" Mersin'in diğer doğal güzelliklerine ve su kaynaklarına yakınlığıyla dikkat çekiyor. Bölgedeki ekosistem, Mersin'in doğal dengesini koruyor ve ziyaretçilere doğanın güzelliğini sunuyor. "Hayvan Dağı"nın komşu alanları, Mersin'in coğrafi çeşitliliğini ve doğal güzelliklerini tamamlıyor.
 

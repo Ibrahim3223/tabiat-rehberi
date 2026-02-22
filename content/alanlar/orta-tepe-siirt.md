@@ -43,7 +43,7 @@ Doğunun gizli köşelerinden biri olan Orta Tepe, Siirt ilinin sınırları iç
 
 Orta Tepe'nin fiziksel yapısını anlamak için, coğrafi konumuna bakmak gerekiyor. Dağın boyutları hakkında detaylı bilgi olmasa da, bulunduğu bölgenin jeolojik yapısı hakkında fikir sahibi olma mümkün. Örneğin, Siirt'in genel coğrafyası, dağlık ve engebeli arazilerle karakterize ediliyor. Bu bağlamda, Orta Tepe de bu coğrafi yapı içerisinde önemli bir yer tutuyor.
 
-Mevsimsel değişiklikler, Orta Tepe'nin iklim karakterini şekillendiren önemli faktörler arasında. Bölgenin karasal iklimi, yazları sıca ve kurak, kışları soğu ve yağışlı geçiyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Orta Tepe, bu iklim koşullarına adapte olmuş bitki ve hayvan türleri için önemli bir yaşam alanı sunuyor.
+Mevsimsel değişiklikler, Orta Tepe'nin iklim karakterini şekillendiren önemli faktörler arasında. Bölgenin karasal iklimi, yazları sıcak ve kurak, kışları soğuk ve yağışlı geçiyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Orta Tepe, bu iklim koşullarına adapte olmuş bitki ve hayvan türleri için önemli bir yaşam alanı sunuyor.
 
 Orta Tepe'nin çevresel ilişkileri, bölgenin ekosistem dengesini koruması açısından kritik önem taşıyor. Dağın eteklerinde yer alan su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılıyor. Ayrıca, Orta Tepe'nin komşu alanlarla olan bağlantısı, bölgenin biyolojik çeşitliliğini zenginleştiren önemli bir faktör. Bu bağlantı, farklı ekosistemlerin birbiriyle etkileşimini sağlıyor ve bölgenin doğal güzelliğini koruyor.
 

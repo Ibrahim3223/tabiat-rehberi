@@ -38,7 +38,7 @@ Usta Şagirt Kümbeti'nin tarihi geçmişi, bölgeye ait zengin kültürel miras
 
 ## Coğrafya
 
-Usta Şagirt Kümbeti, Doğu Anadolu Bölgesi'nin coğrafi çeşitliliğini yansıtan bir bölgede bulunuyor. Ahlat, Bitlis'in bir ilçesi olarak, Van Gölü'nün batı kıyısında yer alıyor. Bu konum, Usta Şagirt Kümbeti'ne doğal güzellikler sunuyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve dört mevsim belirgin olarak yaşanıyor. Kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor. Usta Şagirt Kümbeti'nin bulunduğu alan, 140 hektarlık bir büyüklüğe sahip ve bu büyüklük, ziyaretçilere geniş bir alan sunuyor. Ayrıca, Van Gölü'nün manzarası, kümbetin çevresindeki peyzajı güzelleştiriyor.
+Usta Şagirt Kümbeti, Doğu Anadolu Bölgesi'nin coğrafi çeşitliliğini yansıtan bir bölgede bulunuyor. Ahlat, Bitlis'in bir ilçesi olarak, Van Gölü'nün batı kıyısında yer alıyor. Bu konum, Usta Şagirt Kümbeti'ne doğal güzellikler sunuyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve dört mevsim belirgin olarak yaşanıyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Usta Şagirt Kümbeti'nin bulunduğu alan, 140 hektarlık bir büyüklüğe sahip ve bu büyüklük, ziyaretçilere geniş bir alan sunuyor. Ayrıca, Van Gölü'nün manzarası, kümbetin çevresindeki peyzajı güzelleştiriyor.
 
 ## Flora ve Fauna
 
@@ -46,7 +46,7 @@ Usta Şagirt Kümbeti'nin bulunduğu bölge, çeşitli bitki türleri ve hayvanl
 
 ## Ziyaret Bilgileri
 
-Usta Şagirt Kümbeti'ni ziyaret etmek, hem tarihi hem de doğayı keşfetmek isteyenler için ideal bir destinasyon. Ahlat'a ulaşmak için, Bitlis üzerinden geçmek gerekiyor. Usta Şagirt Kümbeti, ilçe merkezine yakın bir konumda bulunduğu için, ulaşım oldukça kolay. Ziyaretçiler, kümbeti gezdikten sonra, Van Gölü'nün manzarasını da keyifle izleyebilirler. Usta Şagirt Kümbeti'ni ziyaret etmek için en iyi zaman, ilkbahar ve yaz ayları olarak düşünülebilir. Bu dönemde, hava daha sıca ve güneşli oluyor, ancak bölgeye özgü bir serinlik de hissediliyor.
+Usta Şagirt Kümbeti'ni ziyaret etmek, hem tarihi hem de doğayı keşfetmek isteyenler için ideal bir destinasyon. Ahlat'a ulaşmak için, Bitlis üzerinden geçmek gerekiyor. Usta Şagirt Kümbeti, ilçe merkezine yakın bir konumda bulunduğu için, ulaşım oldukça kolay. Ziyaretçiler, kümbeti gezdikten sonra, Van Gölü'nün manzarasını da keyifle izleyebilirler. Usta Şagirt Kümbeti'ni ziyaret etmek için en iyi zaman, ilkbahar ve yaz ayları olarak düşünülebilir. Bu dönemde, hava daha sıcak ve güneşli oluyor, ancak bölgeye özgü bir serinlik de hissediliyor.
 
 ## İlginç Bilgiler
 

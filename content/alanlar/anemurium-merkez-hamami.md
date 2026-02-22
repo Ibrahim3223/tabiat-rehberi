@@ -37,7 +37,7 @@ Anemurium Merkez Hamamı, tarihin deepest noktalarından biri olarak biliniyor. 
 
 ## Coğrafya
 
-Anemurium Merkez Hamamı, Mersin'in Anamur ilçesinde yer alıyor. Bu alan, Akdeniz Bölgesi'nin en güzel noktalarından biri olarak biliniyor. Anamurium, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor ve Akdeniz'in güzel plajlarına yakın mesafede. Hamamın çevresinde, çeşitli bitki türleri ve zengin fauna bulunuyor. Anemurium'un iklimi, Akdeniz iklimi özellikleri taşıyor. Yaz ayları sıca ve kuru, kış ayları ise ılık ve yağışlı geçiyor. Bu iklim, Anemurium'u dört mevsim ziyaret edilebilecek bir yer haline getiriyor. Anemurium Merkez Hamamı, ziyaretçilerine hem tarihi bir gezi hem de güzel bir doğa manzarası sunuyor.
+Anemurium Merkez Hamamı, Mersin'in Anamur ilçesinde yer alıyor. Bu alan, Akdeniz Bölgesi'nin en güzel noktalarından biri olarak biliniyor. Anamurium, yüksek bir konumda yer alıyor ve Akdeniz'in güzel plajlarına yakın mesafede. Hamamın çevresinde, çeşitli bitki türleri ve zengin fauna bulunuyor. Anemurium'un iklimi, Akdeniz iklimi özellikleri taşıyor. Yaz ayları sıcak ve kuru, kış ayları ise ılık ve yağışlı geçiyor. Bu iklim, Anemurium'u dört mevsim ziyaret edilebilecek bir yer haline getiriyor. Anemurium Merkez Hamamı, ziyaretçilerine hem tarihi bir gezi hem de güzel bir doğa manzarası sunuyor.
 
 ## Flora ve Fauna
 

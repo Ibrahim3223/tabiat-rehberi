@@ -37,7 +37,7 @@ Ankara Frig Tümülüsü 10, Beştepe, tarihin sayfalarında gizlenen bir hazine
 
 ## Coğrafya
 
-Ankara Frig Tümülüsü 10, Beştepe, coğrafyası ile de dikkat çekiyor. İç Anadolu Bölgesi'nin karakteristik step iklimine sahip bu bölge, yazları sıca ve kurak, kışları soğu ve kar yağışlı geçiyor. Tümülüs, bu coğrafyanın içinde, tarihi bir atmosfer sunuyor. Çevresinde, Ankara'nın modern yüzü ile histórikin birleştiği bir manzara bulunuyor. Ziyaretçiler, tümülüsün etrafında, modern Ankara'nın yaşamını da gözlemleyebilirler. Coğrafyası, flora ve faunası ile ziyaretçilere benzersiz bir deneyim sunuyor.
+Ankara Frig Tümülüsü 10, Beştepe, coğrafyası ile de dikkat çekiyor. İç Anadolu Bölgesi'nin karakteristik step iklimine sahip bu bölge, yazları sıcak ve kurak, kışları soğuk ve kar yağışlı geçiyor. Tümülüs, bu coğrafyanın içinde, tarihi bir atmosfer sunuyor. Çevresinde, Ankara'nın modern yüzü ile histórikin birleştiği bir manzara bulunuyor. Ziyaretçiler, tümülüsün etrafında, modern Ankara'nın yaşamını da gözlemleyebilirler. Coğrafyası, flora ve faunası ile ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

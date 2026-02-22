@@ -38,7 +38,7 @@ Hacı İbrahim Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillen
 
 ## Coğrafya
 
-Hacı İbrahim Baba Türbesi, Doğu Anadolu Bölgesi'nin coğrafi güzelliklerini sunan bir bölgede bulunmaktadır. Yakutiye ilçesinde bulunan bu türbe, yaklaşık yüksek bir konumdate yer almaktadır. Bu yükseklik, ziyaretçilere geniş bir manzara sunar. Bölge, çeşitli bitki türleri ve zengin fauna ile örtülüdür. İklim, karasal iklim özellikleri göstermektedir. Kışlar soğu ve karlı, yazlar ise serin ve yağışlı geçmektedir. Bu iklim, bölgenin doğal güzelliklerini daha da vurgulamaktadır. Hacı İbrahim Baba Türbesi, etrafındaki dağlar ve vadiler ile birlikte, ziyaretçilere bir doğa harikası sunmaktadır. Bölgenin coğrafi yapısı, ziyaretçilere birçok keşif imkânı sunar. Ziyaretçiler, burada doğa yürüyüşleri yapabilir, tarihi yapıları keşfedebilir ve yerel kültürü discovery edebilir.
+Hacı İbrahim Baba Türbesi, Doğu Anadolu Bölgesi'nin coğrafi güzelliklerini sunan bir bölgede bulunmaktadır. Yakutiye ilçesinde bulunan bu türbe, yüksek bir konumda yer almaktadır. Bu yükseklik, ziyaretçilere geniş bir manzara sunar. Bölge, çeşitli bitki türleri ve zengin fauna ile örtülüdür. İklim, karasal iklim özellikleri göstermektedir. Kışlar soğuk ve karlı, yazlar ise serin ve yağışlı geçmektedir. Bu iklim, bölgenin doğal güzelliklerini daha da vurgulamaktadır. Hacı İbrahim Baba Türbesi, etrafındaki dağlar ve vadiler ile birlikte, ziyaretçilere bir doğa harikası sunmaktadır. Bölgenin coğrafi yapısı, ziyaretçilere birçok keşif imkânı sunar. Ziyaretçiler, burada doğa yürüyüşleri yapabilir, tarihi yapıları keşfedebilir ve yerel kültürü discovery edebilir.
 
 ## Flora ve Fauna
 

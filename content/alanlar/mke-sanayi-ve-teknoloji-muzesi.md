@@ -37,7 +37,7 @@ MKE Sanayi ve Teknoloji Müzesi, yüzyıllar boyunca gelişen sanayi ve teknoloj
 
 ## Coğrafya
 
-MKE Sanayi ve Teknoloji Müzesi, İç Anadolu Bölgesi'nin merkezi olan Ankara'da yer alır. Bu bölge, coğrafi olarak geniş ve çeşitli bir yapıya sahiptir. Müze, Ankara'nın şehir merkezine yakınlığı ile kolay ulaşılabilir ve ziyaretçilere geniş bir gezi alanı sunar. Çevresinde, çeşitli sanayi tesisleri ve teknoloji merkezleri bulunmaktadır. İklimi, İç Anadolu Bölgesi'nin karakteristik karasal iklimine uygun olarak, kışları soğu ve yazları sıcak geçer. Bu coğrafi konum, müzenin sanayi ve teknoloji sergilerine uygun bir ortam sağlar. Ayrıca, müzenin bulunduğu alan, geniş yeşil alanlar ve yürüyüş yolları ile ziyaretçilere doğa ile iç içe bir deneyim sunar.
+MKE Sanayi ve Teknoloji Müzesi, İç Anadolu Bölgesi'nin merkezi olan Ankara'da yer alır. Bu bölge, coğrafi olarak geniş ve çeşitli bir yapıya sahiptir. Müze, Ankara'nın şehir merkezine yakınlığı ile kolay ulaşılabilir ve ziyaretçilere geniş bir gezi alanı sunar. Çevresinde, çeşitli sanayi tesisleri ve teknoloji merkezleri bulunmaktadır. İklimi, İç Anadolu Bölgesi'nin karakteristik karasal iklimine uygun olarak, kışları soğuk ve yazları sıcak geçer. Bu coğrafi konum, müzenin sanayi ve teknoloji sergilerine uygun bir ortam sağlar. Ayrıca, müzenin bulunduğu alan, geniş yeşil alanlar ve yürüyüş yolları ile ziyaretçilere doğa ile iç içe bir deneyim sunar.
 
 ## Flora ve Fauna
 

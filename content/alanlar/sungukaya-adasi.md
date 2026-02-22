@@ -45,7 +45,7 @@ Doğal güzelliklerin buluşma noktası olan Ege Denizi'nde, 38.2928°K ve 26.19
 
 Jeolojik açıdan incelendiğinde, Süngükaya Adası'nın oluşumu ve yapısı hakkında detaylı bilgiler bulunmasa da, ada genel olarak Ege Bölgesi'nin karakteristik özelliklerini taşımaktadır. Birkaç olimpik havuz kadar küçük olan bu ada, denizin ortasında bir inci gibi parlamaktadır. Ada çevresindeki suyun berraklığı ve rengi, ziyaretçileri adeta bir cennete davet etmektedir.
 
-Mevsimsel açıdan bakıldığında, Süngükaya Adası'nın iklimi, Ege Bölgesi'nin genel iklim özellikleri ile benzerlik göstermektedir. Yaz aylarında sıca ve güneşli bir hava, kış aylarında ise ılıman ve yağışlı bir hava hakimdir. Bu mevsimsel özellikler, adayı yıl boyunca ziyaretçiler için çekici kılmaktadır.
+Mevsimsel açıdan bakıldığında, Süngükaya Adası'nın iklimi, Ege Bölgesi'nin genel iklim özellikleri ile benzerlik göstermektedir. Yaz aylarında sıcak ve güneşli bir hava, kış aylarında ise ılıman ve yağışlı bir hava hakimdir. Bu mevsimsel özellikler, adayı yıl boyunca ziyaretçiler için çekici kılmaktadır.
 
 Çevresel açıdan bakıldığında, Süngükaya Adası, İzmir'in diğer adaları ve kıyıları ile birlikte güzel bir ekosistem oluşturmaktadır. Ada, deniz canlıları için önemli bir yaşam alanı olup, su kaynakları ve komşu alanlar ile birlikte bir bütünü oluşturmaktadır. Bu doğal güzellik, ziyaretçilere doğanın mucizelerini keşfetme fırsatı sunmaktadır.
 

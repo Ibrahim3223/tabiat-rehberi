@@ -37,7 +37,7 @@ Erdemkırı Tepesi'nin tarihi geçmişi, İç Anadolu Bölgesi'nin zengin kült�
 
 ## Coğrafya
 
-Erdemkırı Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısının çeşitliliğini gösteren önemli bir nokta. Bu tepe, bölgenin genel coğrafi özellikleri arasında yer alan yüksek düzlükler ve ovalarla çevrili. İklim olarak, İç Anadolu Bölgesi'nin karasal ikliminin etkilerini taşıyor. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu durum, tepe ve çevresinin flora ve faunasını etkileyerek, çeşitli bitki ve hayvan türlerinin yaşam alanı olmasını sağlıyor. Erdemkırı Tepesi'nin coğrafi konumu, aynı zamanda bölgenin su kaynaklarını koruma açısından önemli bir role sahip. Bu tepe, çevresindeki köy ve kasabaların su ihtiyacını karşılayan önemli bir su kaynağından besleniyor.
+Erdemkırı Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısının çeşitliliğini gösteren önemli bir nokta. Bu tepe, bölgenin genel coğrafi özellikleri arasında yer alan yüksek düzlükler ve ovalarla çevrili. İklim olarak, İç Anadolu Bölgesi'nin karasal ikliminin etkilerini taşıyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu durum, tepe ve çevresinin flora ve faunasını etkileyerek, çeşitli bitki ve hayvan türlerinin yaşam alanı olmasını sağlıyor. Erdemkırı Tepesi'nin coğrafi konumu, aynı zamanda bölgenin su kaynaklarını koruma açısından önemli bir role sahip. Bu tepe, çevresindeki köy ve kasabaların su ihtiyacını karşılayan önemli bir su kaynağından besleniyor.
 
 ## Flora ve Fauna
 

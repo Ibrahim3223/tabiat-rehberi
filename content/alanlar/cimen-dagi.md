@@ -45,7 +45,7 @@ Doğunun gizli köşesinde yer alan Çimen Dağı, 39.9342°K ve 39.2467°D koor
 
 Jeolojik açıdan bakıldığında, Çimen Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmamaktadır. Ancak, dağların genellikle karmaşık jeolojik yapıları olması ve çeşitli mineral kaynaklarına sahip olması muhtemeldir. Çimen Dağı'nın boyutları hakkında da net bir veri bulunmasa da, bu tür dağların genellikle geniş alanları kapladığı biliniyor. Monaco'nun yarısı kadar bir alanı kaplayabilen bu dağlar, coğrafyanın önemli bir parçasını oluşturabilir.
 
-Mevsimsel açıdan, Çimen Dağı'nın iklim karakteri Türkiye'nin genel iklimine benzerlik gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürer. Bu mevsimsel özellikler, bölgenin flora ve fauna açısından zengin olmasını sağlar. Hava durumu ise, dağların yüksekliklerine ve etraftaki su kaynaklarına göre değişkenlik gösterir.
+Mevsimsel açıdan, Çimen Dağı'nın iklim karakteri Türkiye'nin genel iklimine benzerlik gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürer. Bu mevsimsel özellikler, bölgenin flora ve fauna açısından zengin olmasını sağlar. Hava durumu ise, dağların yüksekliklerine ve etraftaki su kaynaklarına göre değişkenlik gösterir.
 
 Çevresel açıdan, Çimen Dağı'nın komşu alanlar ve su kaynaklarıyla olan bağlantıları önemlidir. Dağın yakınında, çeşitli nehirler ve akarsular bulunur ve bu su kaynakları, bölgenin ekosistemini destekler. İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplayabilen bu dağ, çevresindeki diğer coğrafi oluşumlarla birlikte bir bütün olarak değerlendirilmelidir.
 

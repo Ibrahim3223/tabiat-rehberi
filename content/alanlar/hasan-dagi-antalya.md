@@ -45,7 +45,7 @@ Güneydeki coğrafyanın güzelliğini keşfetmek isteyenler için, Antalya'nın
 
 Doğal bir anıt olarak Hasan Dağı, Antalya'nın coğrafi yapısına önemli bir katkı sağlar. Ancak, fiziksel boyutları hakkında detaylı bilgi bulunmamasına rağmen, bu dağın varlığı bölgenin jeolojik yapısını şekillendirmiş ve eşsiz bir manzara oluşturmuştur. Bu dağ, Antalya'nın doğal güzelliklerini keşfetmek isteyenler için bir destinasyon olarak önemlidir.
 
-İklim açısından Hasan Dağı, Akdeniz ikliminin karakteristik özelliklerini taşır. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu gösterir. Bu mevsimsel özellikler, dağın ekosistemini ve bitki örtüsünü şekillendirmiş ve ziyaretçilere her mevsim farklı bir güzellik sunar.
+İklim açısından Hasan Dağı, Akdeniz ikliminin karakteristik özelliklerini taşır. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu gösterir. Bu mevsimsel özellikler, dağın ekosistemini ve bitki örtüsünü şekillendirmiş ve ziyaretçilere her mevsim farklı bir güzellik sunar.
 
 Çevresel açıdan Hasan Dağı, Antalya'nın doğal kaynakları ve ekosistem bağlantıları için önemli bir rol oynar. Bölge, su kaynaklarını besler ve yerel fauna için bir yaşam alanı sağlar. Bu dağ, Antalya'nın doğal güzelliğini korumanın yanı sıra, ekolojik dengenin korunmasına da katkıda bulunur.
 

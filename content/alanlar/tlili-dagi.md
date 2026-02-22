@@ -45,7 +45,7 @@ Doğunun gizli köşelerinden biri olan Tlili Dağı, 41.5742°K enlem ve 42.590
 
 Jeolojik açıdan bakıldığında, Tlili Dağı'nın oluşumu ve yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel jeolojik özellikleri dikkate alındığında, bu dağların oluşumunun milyonlarca yıl öncesine dayandığı söylenebilir. Tlili Dağı, çevresindeki diğer dağlarla birlikte bir bütünü oluşturur ve bu dağlık alan, Monaco'nun yarısı kadar bir alanı kaplar. Ancak Tlili Dağı'nın yüksekliği hakkında kesin bir bilgi bulunmamasına rağmen, bölgenin ortalama yüksekliklerine bakıldığında, Eiffel Kulesi'nin 2-3 katı yükseklikte olduğu söylenebilir.
 
-İklim açısından, Tlili Dağı ve çevresindeki bölge, karasal iklimin hüküm sürdüğü bir bölgedir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise serin ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin flora ve faunasını şekillendirmiş ve Tlili Dağı, yılın farklı dönemlerinde farklı bir güzelliğe sahip olmuştur.
+İklim açısından, Tlili Dağı ve çevresindeki bölge, karasal iklimin hüküm sürdüğü bir bölgedir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise serin ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin flora ve faunasını şekillendirmiş ve Tlili Dağı, yılın farklı dönemlerinde farklı bir güzelliğe sahip olmuştur.
 
 Tlili Dağı, çevresindeki diğer dağlarla ve vadilerle birlikte bir ekosistem oluşturur. Bu bölge, çeşitli su kaynaklarına ev sahipliği yapar ve bu su kaynakları, bölgenin flora ve faunası için yaşam kaynağı niteliğindedir. Tlili Dağı, komşu alanlarla birlikte bir bütünü oluşturur ve bu dağlık alan, İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplar. Bu bölge, doğal güzelliği ve coğrafi zenginliği ile dikkat çeker ve ziyaretçilerini bekler.
 

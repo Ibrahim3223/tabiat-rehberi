@@ -45,7 +45,7 @@ Güneydoğu Anadolu Bölgesi'nin zengin tarihi ve kültürel mirasının kalbind
 
 Doğal bir anıt olarak ortaya çıkan Oyma Mağara, kaya oluşumlarının uzun zaman içinde aşınmasıyla oluşmuş bir yapıdır. Mağaranın büyüklüğü, bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu küçük ama etkileyici alan, Şanlıurfa'nın jeolojik geçmişine ışık tutuyor. Mağaranın duvarları, milyonlarca yıl önce oluşmuş kaya katmanlarını gösteriyor ve ziyaretçilere bölgenin jeolojik tarihini keşfetme fırsatı sunuyor.
 
-Şanlıurfa'nın iklimi, Oyma Mağara'nın oluşumunu ve günümüzdeki durumunu etkileyen önemli bir faktör. Bölgenin sıca ve kuru iklimi, kaya oluşumlarının aşınmasına yol açmış ve mağaranın şekillenmesinde önemli bir rol oynamıştır. Yaz aylarında sıcaklığın 40 dereceleri aşması ve kış aylarında soğukların 0 derecenin altına düşmesi, mağaranın jeolojik yapısını şekillendiren önemli etkenler arasında yer alıyor.
+Şanlıurfa'nın iklimi, Oyma Mağara'nın oluşumunu ve günümüzdeki durumunu etkileyen önemli bir faktör. Bölgenin sıcak ve kuru iklimi, kaya oluşumlarının aşınmasına yol açmış ve mağaranın şekillenmesinde önemli bir rol oynamıştır. Yaz aylarında sıcaklığın 40 dereceleri aşması ve kış aylarında soğukların 0 derecenin altına düşmesi, mağaranın jeolojik yapısını şekillendiren önemli etkenler arasında yer alıyor.
 
 Oyma Mağara, bölgenin diğer doğal ve kültürel zenginliklerine de yakın bir konumda bulunuyor. Mağaranın etrafında, históri ve doğal güzelliklere sahip birçok alan yer alıyor. Bu alanlar, ziyaretçilere Şanlıurfa'nın zengin kültürel mirasını keşfetme ve bölgenin doğal güzelliklerini görme fırsatı sunuyor. Oyma Mağara, Şanlıurfa'nın coğrafi güzelliğini ve kültürel zenginliğini bir araya getiren önemli bir destinasyon olarak ziyaretçilerini bekliyor.
 

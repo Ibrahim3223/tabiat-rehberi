@@ -34,7 +34,7 @@ Adapazari-Sogutlu Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafi olara
 
 ## Flora ve Fauna
 
-Adapazari-Sogutlu Karacam milli parkı, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Burada, ziyaretçiler farklı mevsimlerde farklı bitki türleri ile karşılaşabilir. İlkbaharda, çiçeklerle dolu yeşil alanlar ve renkli çiçekler ziyaretçileri büyülüyor. Yazın, sıca ve güneşli günler, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Sonbaharda, renkli yapraklarla dolu ormanlar, ziyaretçilere doğanın güzelliğini gösteriyor. Kışın, karla kaplı dağlar, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Milli parkın fauna, çeşitli hayvan türleri ile karakterize ediliyor ve ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
+Adapazari-Sogutlu Karacam milli parkı, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Burada, ziyaretçiler farklı mevsimlerde farklı bitki türleri ile karşılaşabilir. İlkbaharda, çiçeklerle dolu yeşil alanlar ve renkli çiçekler ziyaretçileri büyülüyor. Yazın, sıcak ve güneşli günler, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Sonbaharda, renkli yapraklarla dolu ormanlar, ziyaretçilere doğanın güzelliğini gösteriyor. Kışın, karla kaplı dağlar, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Milli parkın fauna, çeşitli hayvan türleri ile karakterize ediliyor ve ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Ziyaret Bilgileri
 

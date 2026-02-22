@@ -30,7 +30,7 @@ Ali Ağanın Kavaklığı'nın tarihi geçmişi, yüzyıllar öncesine dayanıyo
 
 ## Coğrafya
 
-Ali Ağanın Kavaklığı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve ormanlık alanlarla çevrili. Bu bölgenin coğrafyası, ziyaretçilere çeşitli doğal güzellikler sunuyor. 180 hektarın üzerindeki bu alan, yaklaşık 300 futbol sahası büyüklüğünde ve çok çeşitli bitki türleri ile kaplı. Ali Ağanın Kavaklığı, çevresindeki dağlarla birlikte, bir bütün olarak düşünülüyor ve bu coğrafi yapı, bölgenin iklimini ve ekosistemini şekillendiriyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, bölgenin flora ve faunasını etkiliyor ve zengin bir ekosistemin oluşmasına neden oluyor.
+Ali Ağanın Kavaklığı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve ormanlık alanlarla çevrili. Bu bölgenin coğrafyası, ziyaretçilere çeşitli doğal güzellikler sunuyor. 180 hektarın üzerindeki bu alan, yaklaşık 300 futbol sahası büyüklüğünde ve çok çeşitli bitki türleri ile kaplı. Ali Ağanın Kavaklığı, çevresindeki dağlarla birlikte, bir bütün olarak düşünülüyor ve bu coğrafi yapı, bölgenin iklimini ve ekosistemini şekillendiriyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, bölgenin flora ve faunasını etkiliyor ve zengin bir ekosistemin oluşmasına neden oluyor.
 
 ## Flora ve Fauna
 

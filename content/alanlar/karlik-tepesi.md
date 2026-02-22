@@ -37,7 +37,7 @@ Karlık Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b�
 
 ## Coğrafya
 
-Karlık Tepesi, Kırıkkale'nin merkezine yakın bir konumda bulunuyor. Bu tepe, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, genellikle düz ve geniş alanlardan oluşuyor. Tepenin etrafında, çeşitli bitki türleri ve ağaçlar bulunuyor. İklim olarak, İç Anadolu Bölgesi'nin karasal ikliminin etkilerini gösteriyor. Yaz aylarında sıcaklık derecesi yüksek, kış aylarında ise soğu ve kar yağışlı bir iklim hüküm sürüyor. Bu coğrafi yapı, Karlık Tepesi'nin flora ve faunasını da şekillendiriyor. Tepenin yüksekliği, yaklaşık 1000 metre civarında ve bu yükseklik, çevresindeki diğer tepelerden daha fazla görünüyor.
+Karlık Tepesi, Kırıkkale'nin merkezine yakın bir konumda bulunuyor. Bu tepe, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, genellikle düz ve geniş alanlardan oluşuyor. Tepenin etrafında, çeşitli bitki türleri ve ağaçlar bulunuyor. İklim olarak, İç Anadolu Bölgesi'nin karasal ikliminin etkilerini gösteriyor. Yaz aylarında sıcaklık derecesi yüksek, kış aylarında ise soğuk ve kar yağışlı bir iklim hüküm sürüyor. Bu coğrafi yapı, Karlık Tepesi'nin flora ve faunasını da şekillendiriyor. Tepenin yüksekliği, yaklaşık 1000 metre civarında ve bu yükseklik, çevresindeki diğer tepelerden daha fazla görünüyor.
 
 ## Flora ve Fauna
 

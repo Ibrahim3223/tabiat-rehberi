@@ -44,7 +44,7 @@ Güneyde yer alan Antalya'nın doğal güzelliklerini keşfetmek isteyenler içi
 
 Doğal bir anıt olan Sakaltutan Mağarası, jeolojik açıdan oldukça dikkat çekici bir oluşum. Mağaranın oluşumu, milyonlarca yıl önce yaşanan jeolojik hareketler sonucu şekillenmiş. Bu oluşum, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplıyor, ancak mağaranın gerçek büyüklüğü ve derinliği, ziyaretçileri hayrete düşürüyor. Mağaranın jeolojik yapısı, bölgenin tarihini ve coğrafi özelliklerini anlamak için önemli bir ipucu sunuyor.
 
-Mevsimsel değişikliklere bağlı olarak, Sakaltutan Mağarası'nın iklimi değişkenlik gösteriyor. Yaz aylarında sıca ve kuru bir hava hakimken, kış aylarında ılıman ve nemli bir iklim hüküm sürüyor. Bu mevsimsel değişiklikler, mağaranın içinde yaşayan canlılar için önemli bir faktör. Mağara, Eiffel Kulesi'nin yaklaşık 1/5'i yükseklikte bir konumda bulunuyor, bu da ziyaretçilere mağaranın gerçek büyüklüğü hakkında bir fikir veriyor.
+Mevsimsel değişikliklere bağlı olarak, Sakaltutan Mağarası'nın iklimi değişkenlik gösteriyor. Yaz aylarında sıcak ve kuru bir hava hakimken, kış aylarında ılıman ve nemli bir iklim hüküm sürüyor. Bu mevsimsel değişiklikler, mağaranın içinde yaşayan canlılar için önemli bir faktör. Mağara, Eiffel Kulesi'nin yaklaşık 1/5'i yükseklikte bir konumda bulunuyor, bu da ziyaretçilere mağaranın gerçek büyüklüğü hakkında bir fikir veriyor.
 
 Sakaltutan Mağarası, çevresindeki doğal alanlarla da önemli bir ilişkiye sahip. Mağaranın yakınında, çeşitli su kaynakları ve ekosistemler bulunuyor. Bu su kaynakları, mağaranın oluşumunda ve canlıların yaşamsal döngüsünde önemli bir rol oynuyor. Mağara, Monaco'nun yaklaşık 1/10'u kadar bir alanı kaplıyor, ancak bu küçük alan, bölgenin biodiversity'si için önemli bir katkı sunuyor.
 

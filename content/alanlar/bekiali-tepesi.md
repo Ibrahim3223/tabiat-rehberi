@@ -36,7 +36,7 @@ Bekialı Tepesi'nin tarihi geçmişi, Mardin'in tarihi ile iç içe geçmiş dur
 
 ## Coğrafya
 
-Bekialı Tepesi, Mardin şehrinin merkezine yakın bir konumda bulunuyor. Tepenin etrafı, tarihi evler ve yapılarla çevrili. Bu bölge, Güneydoğu Anadolu Bölgesi'nin özel coğrafi yapısını yansıtıyor. Tepenin yüksekliği, ziyaretçilere Mardin şehri ve çevresinin panoramik manzarasını sunuyor. İklim olarak, bölge genellikle sıca ve kurak bir yapıya sahip. Kış aylarında ise ılıman ve yağışlı bir hava hakim. Bekialı Tepesi'ne ulaşım, Mardin şehir merkezinden kolayca sağlanabiliyor. Tepenin eteklerinde, ziyaretçilerin konaklayabileceği çeşitli otel ve pansiyonlar bulunmakta. Ayrıca, tepenin etrafında çeşitli restoranlar ve kafeler de mevcut.
+Bekialı Tepesi, Mardin şehrinin merkezine yakın bir konumda bulunuyor. Tepenin etrafı, tarihi evler ve yapılarla çevrili. Bu bölge, Güneydoğu Anadolu Bölgesi'nin özel coğrafi yapısını yansıtıyor. Tepenin yüksekliği, ziyaretçilere Mardin şehri ve çevresinin panoramik manzarasını sunuyor. İklim olarak, bölge genellikle sıcak ve kurak bir yapıya sahip. Kış aylarında ise ılıman ve yağışlı bir hava hakim. Bekialı Tepesi'ne ulaşım, Mardin şehir merkezinden kolayca sağlanabiliyor. Tepenin eteklerinde, ziyaretçilerin konaklayabileceği çeşitli otel ve pansiyonlar bulunmakta. Ayrıca, tepenin etrafında çeşitli restoranlar ve kafeler de mevcut.
 
 ## Flora ve Fauna
 

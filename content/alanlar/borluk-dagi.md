@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Borluk Dağı, Kars'ın coğrafi zenginl
 
 Fiziksel yapısına baktığımızda, Borluk Dağı'nın boyutları hakkında kesin bilgiler olmasa da, genel olarak Kars'ın coğrafi yapısına bakıldığında, bölgenin dağlık ve engebeli bir araziye sahip olduğu görülüyor. Bu dağlık arazi, Monaco'nun yaklaşık olarak yarısı kadar bir alanı kaplayabilecek büyüklükte bir coğrafi forma sahip.
 
-İklim açısından bakıldığında, Borluk Dağı ve çevresinin soğu ve karasal bir iklime sahip olduğu görülüyor. Kars'ın kışları soğu ve kar yağışlı, yazları ise serin ve yağışlı geçiyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler arasında yer alıyor.
+İklim açısından bakıldığında, Borluk Dağı ve çevresinin soğu ve karasal bir iklime sahip olduğu görülüyor. Kars'ın kışları soğuk ve kar yağışlı, yazları ise serin ve yağışlı geçiyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler arasında yer alıyor.
 
 Çevresel ilişkiler açısından, Borluk Dağı'nın komşu alanlar ve su kaynaklarıyla önemli bir bağlantısı bulunuyor. Bölge, Aras Nehri'nin havzasında yer alıyor ve bu nehrin kolları, dağlık araziden geçerek çevredeki ovaları suluyor. Bu su kaynakları, bölgenin ekosistemini destekleyen önemli bir unsur olarak değerlendirilebilir.
 

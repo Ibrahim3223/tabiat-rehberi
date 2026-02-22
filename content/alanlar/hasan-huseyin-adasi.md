@@ -44,7 +44,7 @@ Güneşin Ege Denizi'ndeki ışığını yansıtan suların arasında, 36.8072°
 
 Doğal güzellikleri ve coğrafi konumuyla dikkat çeken Hasan Hüseyin Adası, Ege Denizi'nin karakteristik jeolojik yapısına sahiptir. Ada, küçük bir kara parçası olarak Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplar. Jeolojik açıdan bakıldığında, ada ve çevresinin oluşumu, Ege Bölgesi'nin karmaşık jeolojik tarihinde önemli bir yer tutmaktadır.
 
-Mevsimsel değişimlerin etkisi altında olan Hasan Hüseyin Adası, Ege Denizi'nin ılıman ikliminin karakteristik özelliklerini taşır. Kış aylarında ılık ve yağışlı, yaz aylarında ise sıca ve güneşli bir hava hakimdir. Bu mevsimsel özellikler, adanın flora ve fauna çeşitliliğini etkiler ve ziyaretçilere her mevsim farklı bir deneyim sunar.
+Mevsimsel değişimlerin etkisi altında olan Hasan Hüseyin Adası, Ege Denizi'nin ılıman ikliminin karakteristik özelliklerini taşır. Kış aylarında ılık ve yağışlı, yaz aylarında ise sıcak ve güneşli bir hava hakimdir. Bu mevsimsel özellikler, adanın flora ve fauna çeşitliliğini etkiler ve ziyaretçilere her mevsim farklı bir deneyim sunar.
 
 Deniz suyu seviyesine yakın bir yükseklikte bulunan Hasan Hüseyin Adası, Ege Denizi'nin ekosistemine bağlıdır. Ada, su kaynakları ve komşu alanlarla birlikte bir bütün olarak düşünülmelidir. Çevresel açıdan bakıldığında, ada ve çevresinin korunması, Ege Denizi'nin doğal dengesini korumak için önemlidir. Monaco'nun küçük bir bölümü kadar bir alanı kaplayan bu ada, Ege Denizi'nin güzelliğini ve çeşitliliğini korumanın önemini vurgular.
 

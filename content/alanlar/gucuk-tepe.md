@@ -36,7 +36,7 @@ Gücük Tepe'nin tarihi geçmişi, yüzyıllar öncesine kadar uzanıyor. Bu bö
 
 ## Coğrafya
 
-Gücük Tepe, Niğde ilinin coğrafi yapısında önemli bir yere sahip. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Gücük Tepe'nin coğrafi yapısı, ziyaretçiler için güzel manzaralar sunuyor. Bu tepe, aynı zamanda birçok bitki ve hayvan türüne de ev sahipliği yapıyor. Ziyaretçiler, bu tepeyi ziyaret ettiğinde, hem güzel manzaraları görebiliyor hem de çeşitli bitki ve hayvan türleri hakkında bilgi sahibi olabiliyor. Gücük Tepe'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Bu bölge, yazları sıca ve kuru, kışları soğu ve karlı bir iklime sahip.
+Gücük Tepe, Niğde ilinin coğrafi yapısında önemli bir yere sahip. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Gücük Tepe'nin coğrafi yapısı, ziyaretçiler için güzel manzaralar sunuyor. Bu tepe, aynı zamanda birçok bitki ve hayvan türüne de ev sahipliği yapıyor. Ziyaretçiler, bu tepeyi ziyaret ettiğinde, hem güzel manzaraları görebiliyor hem de çeşitli bitki ve hayvan türleri hakkında bilgi sahibi olabiliyor. Gücük Tepe'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Bu bölge, yazları sıcak ve kuru, kışları soğuk ve karlı bir iklime sahip.
 
 ## Flora ve Fauna
 

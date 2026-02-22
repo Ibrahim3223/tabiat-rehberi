@@ -36,7 +36,7 @@ Küçüktepeler'in tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetleri
 
 ## Coğrafya
 
-Küçüktepeler, Mersin ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyan bir alandır. Bu bölge, 140 hektarlık bir yeşil alan üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğündedir. Coğrafi olarak, Küçüktepeler'in çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. İklimi, Akdeniz ikliminin özellikleri taşır ve genellikle sıca ve kurudur. Bu bölge, deniz seviyesinden belirli bir yükseklikte yer alır ve çevresi, dağlar ve tepelerle çevrilidir. Küçüktepeler'in coğrafi konumu, ziyaretçilerine doğal güzellikleri keşfetme fırsatı sunar ve çeşitli coğrafi oluşumları görmelerine olanak sağlar.
+Küçüktepeler, Mersin ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyan bir alandır. Bu bölge, 140 hektarlık bir yeşil alan üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğündedir. Coğrafi olarak, Küçüktepeler'in çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. İklimi, Akdeniz ikliminin özellikleri taşır ve genellikle sıcak ve kurudur. Bu bölge, deniz seviyesinden belirli bir yükseklikte yer alır ve çevresi, dağlar ve tepelerle çevrilidir. Küçüktepeler'in coğrafi konumu, ziyaretçilerine doğal güzellikleri keşfetme fırsatı sunar ve çeşitli coğrafi oluşumları görmelerine olanak sağlar.
 
 ## Flora ve Fauna
 

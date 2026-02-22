@@ -42,7 +42,7 @@ Genel bir görünüm olarak, Işıklar Dağı Tekirdağ'ın coğrafi yapısında
 
 Doğrudan coğrafi özellikleri ele aldığımızda, Işıklar Dağı'nın fiziksel yapısı hakkında detaylı veriler bulunmasa da, genel olarak dağlık bir alan olduğu söylenebilir. Bu dağlık alan, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplamaktadır. Bu boyutlar, bölgenin coğrafi çeşitliliğini ve doğal güzelliklerini vurgulamaktadır.
 
-Mevsimsel açıdan bakıldığında, Işıklar Dağı'nın iklim karakteri bölgenin genel iklimine benzerlik gösterir. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir hava hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
+Mevsimsel açıdan bakıldığında, Işıklar Dağı'nın iklim karakteri bölgenin genel iklimine benzerlik gösterir. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir hava hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
 
 Işıklar Dağı'nın çevresel ilişkileri de önemlidir. Bu dağ, çevredeki diğer coğrafi oluşumlarla birlikte, bölgenin ekosistemini şekillendirmektedir. Monaco'nun yarısı kadar bir alanı kaplayan bu dağlık alan, bölgenin su kaynakları ve ekosistem bağlantıları açısından da önemli bir role sahiptir. Bu nedenle, Işıklar Dağı'nın korunması ve sürdürülebilir kullanımına dikkat edilmesi gerekmektedir.
 

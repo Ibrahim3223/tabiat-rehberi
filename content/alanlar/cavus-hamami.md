@@ -38,7 +38,7 @@ Tokat'ın Niksar ilçesinde yer alan Çavuş Hamamı, Karadeniz Bölgesi'nin en 
 
 ## Coğrafya
 
-Çavuş Hamamı, Karadeniz Bölgesi'nin coğrafi güzelliklerinin merkezi olarak kabul edilebilir. Bu bölge, yeşilin her tonunu sunan ormanlarla kaplıdır ve Karadeniz'in güzel kumsallarına sahiptir. Çavuş Hamamı'nın coğrafi konumu, ziyaretçilere çeşitli aktivite olanakları sunar. Bu bölge, hem deniz hem de orman ile iç içe passedir ve bu doğal güzellikler, ziyaretçilere unutulmaz anlar yaşatır. Çavuş Hamamı'nın iklimi, Karadeniz Bölgesi'nin tipik iklimine benzer ve bu bölge, özellikle yaz aylarında ziyaretçilerini kendine çeker. Çavuş Hamamı'nın çevresi, çeşitli bitki türleri ile kaplıdır ve bu bölge, doğa severler için bir cennet olarak kabul edilebilir.
+Çavuş Hamamı, Karadeniz Bölgesi'nin coğrafi güzelliklerinin merkezi olarak kabul edilebilir. Bu bölge, yeşilin her tonunu sunan ormanlarla kaplıdır ve Karadeniz'in güzel kumsallarına sahiptir. Çavuş Hamamı'nın coğrafi konumu, ziyaretçilere çeşitli aktivite olanakları sunar. Bu bölge, hem deniz hem de orman ile iç içe pasiftir ve bu doğal güzellikler, ziyaretçilere unutulmaz anlar yaşatır. Çavuş Hamamı'nın iklimi, Karadeniz Bölgesi'nin tipik iklimine benzer ve bu bölge, özellikle yaz aylarında ziyaretçilerini kendine çeker. Çavuş Hamamı'nın çevresi, çeşitli bitki türleri ile kaplıdır ve bu bölge, doğa severler için bir cennet olarak kabul edilebilir.
 
 ## Flora ve Fauna
 

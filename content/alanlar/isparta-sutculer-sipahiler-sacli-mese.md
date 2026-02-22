@@ -30,7 +30,7 @@ Isparta-Sutculer-Sipahiler Sacli Mese milli parkının tarihi geçmişi, yüzyı
 
 ## Coğrafya
 
-Isparta-Sutculer-Sipahiler Sacli Mese milli parkı, Isparta ilinin coğrafi yapısına uygun olarak kurulmuştur. Bu milli park, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Parkın coğrafi yapısı, genellikle ormanlık ve dağlık arazilerden oluşur. Ayrıca, bu bölgede çeşitli su kaynakları da bulunur. Milli parkın iklimi, Akdeniz ikliminin característicasını taşır ve genellikle sıca ve kurak yazlar, ılıman ve yağışlı kışlar görülür. Bu coğrafi ve iklimsel özellikler, milli parkın flora ve faunasının zenginleşmesine büyük katkı sağlar.
+Isparta-Sutculer-Sipahiler Sacli Mese milli parkı, Isparta ilinin coğrafi yapısına uygun olarak kurulmuştur. Bu milli park, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Parkın coğrafi yapısı, genellikle ormanlık ve dağlık arazilerden oluşur. Ayrıca, bu bölgede çeşitli su kaynakları da bulunur. Milli parkın iklimi, Akdeniz ikliminin característicasını taşır ve genellikle sıcak ve kurak yazlar, ılıman ve yağışlı kışlar görülür. Bu coğrafi ve iklimsel özellikler, milli parkın flora ve faunasının zenginleşmesine büyük katkı sağlar.
 
 ## Flora ve Fauna
 

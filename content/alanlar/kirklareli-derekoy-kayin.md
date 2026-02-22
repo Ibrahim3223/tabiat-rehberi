@@ -30,7 +30,7 @@ Kirklareli-Derekoy Kayin Milli Parkı'nın tarihi geçmişi, yüzyıllar boyunca
 
 ## Coğrafya
 
-Kirklareli-Derekoy Kayin Milli Parkı, Marmara Bölgesi'nin coğrafi olarak en güzel bölgelerinden biri olan Kırklareli ilinde bulunuyor. Milli park, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş yeşil alan, ziyaretçilerine doğayla iç içe olabilme fırsatı sunuyor. Derekoy Kayin Milli Parkı, coğrafi açıdan çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Milli parkın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişken. Kış ayları soğu ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu iklim koşulları, milli parkın doğal güzelliklerini ve biyolojik çeşitliliğini destekleyici bir ortam sağlıyor.
+Kirklareli-Derekoy Kayin Milli Parkı, Marmara Bölgesi'nin coğrafi olarak en güzel bölgelerinden biri olan Kırklareli ilinde bulunuyor. Milli park, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş yeşil alan, ziyaretçilerine doğayla iç içe olabilme fırsatı sunuyor. Derekoy Kayin Milli Parkı, coğrafi açıdan çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Milli parkın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişken. Kış ayları soğuk ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu iklim koşulları, milli parkın doğal güzelliklerini ve biyolojik çeşitliliğini destekleyici bir ortam sağlıyor.
 
 ## Flora ve Fauna
 

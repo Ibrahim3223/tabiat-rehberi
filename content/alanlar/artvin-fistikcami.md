@@ -30,7 +30,7 @@ Artvin Fistikçami milli parkının tarihi geçmişi, yüzyıllar öncesine daya
 
 ## Coğrafya
 
-Artvin Fistikçami milli parkı, coğrafi olarak Inner Anadolu Bölgesi'nde yer alıyor. Parkın çevresi, yemyeşil ormanlarla kaplı ve dağlarla çevrili. İklimi, karasal iklim özellikleri gösteriyor. Kışları soğu ve kar yağışlı, yazları ise sıcak ve kurak passing. Parkın içinde, çeşitli bitki türleri ve zengin fauna bulunuyor. Doğal güzellikleri, ziyaretçilere görsel bir şölen sunuyor. Parkın coğrafi yapısı, ziyaretçilere trekking, kamp ve doğa yürüyüşü gibi aktiviteler için ideal bir ortam sunuyor. Parkın yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdate.
+Artvin Fistikçami milli parkı, coğrafi olarak Inner Anadolu Bölgesi'nde yer alıyor. Parkın çevresi, yemyeşil ormanlarla kaplı ve dağlarla çevrili. İklimi, karasal iklim özellikleri gösteriyor. Kışları soğuk ve kar yağışlı, yazları ise sıcak ve kurak passing. Parkın içinde, çeşitli bitki türleri ve zengin fauna bulunuyor. Doğal güzellikleri, ziyaretçilere görsel bir şölen sunuyor. Parkın coğrafi yapısı, ziyaretçilere trekking, kamp ve doğa yürüyüşü gibi aktiviteler için ideal bir ortam sunuyor. Parkın yüksekliği, yüksek bir konumda.
 
 ## Flora ve Fauna
 

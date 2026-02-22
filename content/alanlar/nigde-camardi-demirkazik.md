@@ -31,7 +31,7 @@ Nigde-Camardi Demirkazik milli parkı, yüzyıllar boyunca çeşitli medeniyetle
 
 ## Coğrafya
 
-Nigde-Camardi Demirkazik milli parkı, İç Anadolu Bölgesi'nde yer alan bir milli park. Parkın coğrafi yapısı, bölgenin genel coğrafi özelliklerini yansıtıyor. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu park, ziyaretçilerine geniş bir alan sunuyor. Parkın içerisinde çeşitli bitki türleri ve zengin fauna encontrabilir. Bu büyük alan, ziyaretçilerin doğayı keşfetmelerine olanak tanıyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kış ayları soğu ve karlı, yaz ayları ise sıcak ve kuru passing. Bu iklim, parkın flora ve faunasını etkileyen önemli bir faktör. Nigde-Camardi Demirkazik milli parkı, aynı zamanda bölgenin coğrafi özelliklerini yansıtan bir destinasyon.
+Nigde-Camardi Demirkazik milli parkı, İç Anadolu Bölgesi'nde yer alan bir milli park. Parkın coğrafi yapısı, bölgenin genel coğrafi özelliklerini yansıtıyor. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu park, ziyaretçilerine geniş bir alan sunuyor. Parkın içerisinde çeşitli bitki türleri ve zengin fauna encontrabilir. Bu büyük alan, ziyaretçilerin doğayı keşfetmelerine olanak tanıyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kış ayları soğuk ve karlı, yaz ayları ise sıcak ve kuru passing. Bu iklim, parkın flora ve faunasını etkileyen önemli bir faktör. Nigde-Camardi Demirkazik milli parkı, aynı zamanda bölgenin coğrafi özelliklerini yansıtan bir destinasyon.
 
 ## Flora ve Fauna
 

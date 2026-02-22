@@ -37,7 +37,7 @@ Karaatlı Türbesi'nin tarihi geçmişi, Söke'nin tarihi ile iç içe geçmiş 
 
 ## Coğrafya
 
-Karaatlı Türbesi, Söke'nin merkezine yakın bir konumda yer almaktadır. İlçe merkezinden kolayca ulaşılabilen bu mekan, denize yakın bir konumda bulunmakta. Ege Bölgesi'nin karakteristik coğrafi özellikleri, Söke'de görülmektedir. Karaatlı Türbesi'nin bulunduğu alan, yaklaşık 140 hektar büyüklüğünde. Bu geniş alan, hem tarihi hem de doğal güzelliği ile ziyaretçilerini çekmektedir. Söke, Ege Bölgesi'nin en güzel plajlarına ev sahipliği yapmaktadır. Karaatlı Türbesi de, bu plajlara yakın bir konumda yer almaktadır. İlçenin iklimi, Ege Bölgesi'nin genel iklimine benzer. Yaz ayları sıca ve kurak, kış ayları ılıman ve yağışlı geçmektedir. Bu iklim, Söke'nin turizm potansiyelini artırmaktadır.
+Karaatlı Türbesi, Söke'nin merkezine yakın bir konumda yer almaktadır. İlçe merkezinden kolayca ulaşılabilen bu mekan, denize yakın bir konumda bulunmakta. Ege Bölgesi'nin karakteristik coğrafi özellikleri, Söke'de görülmektedir. Karaatlı Türbesi'nin bulunduğu alan, yaklaşık 140 hektar büyüklüğünde. Bu geniş alan, hem tarihi hem de doğal güzelliği ile ziyaretçilerini çekmektedir. Söke, Ege Bölgesi'nin en güzel plajlarına ev sahipliği yapmaktadır. Karaatlı Türbesi de, bu plajlara yakın bir konumda yer almaktadır. İlçenin iklimi, Ege Bölgesi'nin genel iklimine benzer. Yaz ayları sıcak ve kurak, kış ayları ılıman ve yağışlı geçmektedir. Bu iklim, Söke'nin turizm potansiyelini artırmaktadır.
 
 ## Flora ve Fauna
 

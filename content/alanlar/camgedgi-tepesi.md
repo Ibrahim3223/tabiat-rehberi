@@ -36,7 +36,7 @@ wikidata_id: "Q34828160"
 
 ## Coğrafya
 
-Çamgedği Tepesi, Yozgat ilinin coğrafi yapısı içerisinde önemli bir yer tutuyor. Tepenin konumu, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, genellikle step ve ova gibi coğrafi oluşumlarla karakterize ediliyor. Çamgedği Tepesi, bu coğrafi yapı içerisinde, bir tepe olarak dikkat çekiyor. Tepenin yüksekliği ve eğimleri, trekking ve doğa yürüyüşleri için ideal koşullar sunuyor. Çamgedği Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak karasal bir iklim özelliği gösteriyor. Yaz ayları sıca ve kurak, kış ayları ise soğu ve karlı geçiyor. Bu iklim koşulları, tepe ve çevresinde yaşayan bitki ve hayvan türlerini etkiliyor. Çamgedği Tepesi, doğa severler için bir cennet olarak kabul ediliyor ve özellikle ilkbahar ve sonbahar aylarında ziyaretçi çekiyor.
+Çamgedği Tepesi, Yozgat ilinin coğrafi yapısı içerisinde önemli bir yer tutuyor. Tepenin konumu, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, genellikle step ve ova gibi coğrafi oluşumlarla karakterize ediliyor. Çamgedği Tepesi, bu coğrafi yapı içerisinde, bir tepe olarak dikkat çekiyor. Tepenin yüksekliği ve eğimleri, trekking ve doğa yürüyüşleri için ideal koşullar sunuyor. Çamgedği Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak karasal bir iklim özelliği gösteriyor. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve karlı geçiyor. Bu iklim koşulları, tepe ve çevresinde yaşayan bitki ve hayvan türlerini etkiliyor. Çamgedği Tepesi, doğa severler için bir cennet olarak kabul ediliyor ve özellikle ilkbahar ve sonbahar aylarında ziyaretçi çekiyor.
 
 ## Flora ve Fauna
 

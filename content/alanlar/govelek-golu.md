@@ -45,7 +45,7 @@ Doğunun gizli cenneti olan Gövelek Gölü, Van ilinin güneydoğusunda, 38.551
 
 Jeolojik açıdan bakıldığında, Gövelek Gölü'nün coğrafi yapısı oldukça ilginç. Göl, Van Gölü'nün kuzeydoğusunda, yaklaşık 20 kilometre uzaklıkta bulunuyor. Bu konum, gölün su seviyesinin ve su kalitesinin Van Gölü'nden etkilenmesine neden olabiliyor. Ancak, gölün kendi özel su kaynakları ve akarsuları da bulunduğundan, su dengesi oldukça önemli.
 
-İklim açısından, Gövelek Gölü'nün bulunduğu bölge, karasal iklim özellikleri gösteriyor. Kışlar soğu ve karlı, yazlar ise sıca ve kurak geçiyor. Bu mevsimsel değişiklik, gölün su seviyesini ve su kalitesini etkileyebiliyor. Ayrıca, bölgenin yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte, hava koşullarını da etkileyebiliyor.
+İklim açısından, Gövelek Gölü'nün bulunduğu bölge, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu mevsimsel değişiklik, gölün su seviyesini ve su kalitesini etkileyebiliyor. Ayrıca, bölgenin yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte, hava koşullarını da etkileyebiliyor.
 
 Çevresel açıdan, Gövelek Gölü, Van Gölü'nün bir parçası gibi görünebilir, ancak kendi ekosistemini oluşturuyor. Gölün etrafındaki dağlar ve yükseklikler, bir çeşit doğal koruma alanı gibi çalışıyor ve gölün su kalitesini koruyor. Ayrıca, gölün su kaynakları ve akarsuları, bölgenin diğer su kaynaklarına da katkıda bulunabiliyor. Bu nedenle, Gövelek Gölü, bölgenin su dengesi ve ekosisteminin önemli bir parçası olarak görülebilir.
 

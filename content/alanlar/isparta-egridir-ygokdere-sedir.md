@@ -30,7 +30,7 @@ Isparta-Egridir-Y.gokdere Sedir milli parkının tarihi geçmişi, yüzyıllar b
 
 ## Coğrafya
 
-Isparta-Egridir-Y.gokdere Sedir milli parkı, Akdeniz Bölgesi'nde yer alıyor. Bu doğal alan, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Milli parkın çevresi, zengin fauna ve flora çeşitliliği ile dikkat çekiyor. Isparta-Egridir-Y.gokdere Sedir milli parkı, yeşilin her tonuna sahip ağaçları ve çeşitli bitki türleriyle ziyaretçilerini karşılıyor. Milli parkın iklimi, Akdeniz ikliminin özellikleri taşıyor. Bu doğal alan, yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir iklim özellikleri gösteriyor. Isparta-Egridir-Y.gokdere Sedir milli parkı, doğal güzellikleri ve zengin fauna ile dikkat çekiyor.
+Isparta-Egridir-Y.gokdere Sedir milli parkı, Akdeniz Bölgesi'nde yer alıyor. Bu doğal alan, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Milli parkın çevresi, zengin fauna ve flora çeşitliliği ile dikkat çekiyor. Isparta-Egridir-Y.gokdere Sedir milli parkı, yeşilin her tonuna sahip ağaçları ve çeşitli bitki türleriyle ziyaretçilerini karşılıyor. Milli parkın iklimi, Akdeniz ikliminin özellikleri taşıyor. Bu doğal alan, yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir iklim özellikleri gösteriyor. Isparta-Egridir-Y.gokdere Sedir milli parkı, doğal güzellikleri ve zengin fauna ile dikkat çekiyor.
 
 ## Flora ve Fauna
 

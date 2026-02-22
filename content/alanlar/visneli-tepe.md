@@ -36,7 +36,7 @@ Vişneli Tepe'nin tarihi geçmişi, Erzurum'un tarihi ile iç içedir. Bu bölge
 
 ## Coğrafya
 
-Vişneli Tepe, Doğu Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak, yüksek bir tepe olarak karşımıza çıkar. Tepenin zirvesi, Erzurum'un şehir merkezinden yaklaşık 1.5 kilometre uzaklıkta yer alır ve şehrin tümünü kapsayan geniş bir manzarayı sunar. Tepenin etrafı, çeşitli bitki türleri ile kaplıdır ve mevsimsel olarak değişen flora, tepeye renkli bir güzellik kazandırır. İklim, bölgeye özgü karasal iklim özellikleri gösterir ve kışlar soğu ve karlı, yazlar ise serin ve nemlidir. Bu coğrafi özellikler, Vişneli Tepe'yi hem doğal güzelliği hem de coğrafi konumu ile önemli bir destinasyon haline getirir. Tepenin eteklerinde, yerleşim yerleri ve tarım arazileri bulunur ve bu alanlar, tepe ile birlikte bir bütün olarak düşünüldüğünde, bölgenin ekonomi ve sosyal yapısına da katkıda bulunurlar.
+Vişneli Tepe, Doğu Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak, yüksek bir tepe olarak karşımıza çıkar. Tepenin zirvesi, Erzurum'un şehir merkezinden yaklaşık 1.5 kilometre uzaklıkta yer alır ve şehrin tümünü kapsayan geniş bir manzarayı sunar. Tepenin etrafı, çeşitli bitki türleri ile kaplıdır ve mevsimsel olarak değişen flora, tepeye renkli bir güzellik kazandırır. İklim, bölgeye özgü karasal iklim özellikleri gösterir ve kışlar soğuk ve karlı, yazlar ise serin ve nemlidir. Bu coğrafi özellikler, Vişneli Tepe'yi hem doğal güzelliği hem de coğrafi konumu ile önemli bir destinasyon haline getirir. Tepenin eteklerinde, yerleşim yerleri ve tarım arazileri bulunur ve bu alanlar, tepe ile birlikte bir bütün olarak düşünüldüğünde, bölgenin ekonomi ve sosyal yapısına da katkıda bulunurlar.
 
 ## Flora ve Fauna
 

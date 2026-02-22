@@ -29,11 +29,11 @@ Gedelme Çınarı'nın tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlık
 
 ## Coğrafya
 
-Gedelme Çınarı, coğrafi açıdan oldukça zengin bir bölge. 140 hektarlık bir alanı kapsıyor ve bu alan, Akdeniz Bölgesi'nin karakteristik özelliklerini taşımaktadır. Bölge, çam ağaçları, zeytinlik alanlar ve çeşitli bitki türleri ile kaplı. İklimi, tipik Akdeniz iklimi özellikleri gösteriyor; yani yazları sıca ve kurak, kışları ılık ve yağışlı. Bu coğrafi özellikler, bölgeyi hem flora hem de fauna açısından zenginleştiriyor. Gedelme Çınarı, ayrıca, çevreye duyarlı bir şekilde korunan bir tabiat anıtı olarak dikkat çekiyor. Doğal güzelliği, ziyaretçilere unutulmaz bir deneyim sunuyor.
+Gedelme Çınarı, coğrafi açıdan oldukça zengin bir bölge. 140 hektarlık bir alanı kapsıyor ve bu alan, Akdeniz Bölgesi'nin karakteristik özelliklerini taşımaktadır. Bölge, çam ağaçları, zeytinlik alanlar ve çeşitli bitki türleri ile kaplı. İklimi, tipik Akdeniz iklimi özellikleri gösteriyor; yani yazları sıcak ve kurak, kışları ılık ve yağışlı. Bu coğrafi özellikler, bölgeyi hem flora hem de fauna açısından zenginleştiriyor. Gedelme Çınarı, ayrıca, çevreye duyarlı bir şekilde korunan bir tabiat anıtı olarak dikkat çekiyor. Doğal güzelliği, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
-Gedelme Çınarı, flora ve fauna açısından oldukça zengin bir bölge. Çeşitli bitki türleri, çam ağaçları, zeytinlik alanlar ve diğer bitki türleri, bölgenin doğal güzelliğini oluşturuyor. Fauna açısından da zengin olan bölge, çeşitli hayvan türleri ile ziyaretçilerini karşılayacak bir ortam sunuyor. Mevsimsel değişimler, bölgenin ekolojik dengesini etkiliyor. Kış aylarında, yağışlar nedeniyle bitki örtüsü daha yeşil ve canlı oluyor. Yaz aylarında ise, sıca ve kurak hava, bitki örtüsünü biraz daha kuruyor. Bu mevsimsel değişimler, bölgenin flora ve faunasını etkiliyor ve ziyaretçilere her mevsim farklı bir güzellik sunuyor.
+Gedelme Çınarı, flora ve fauna açısından oldukça zengin bir bölge. Çeşitli bitki türleri, çam ağaçları, zeytinlik alanlar ve diğer bitki türleri, bölgenin doğal güzelliğini oluşturuyor. Fauna açısından da zengin olan bölge, çeşitli hayvan türleri ile ziyaretçilerini karşılayacak bir ortam sunuyor. Mevsimsel değişimler, bölgenin ekolojik dengesini etkiliyor. Kış aylarında, yağışlar nedeniyle bitki örtüsü daha yeşil ve canlı oluyor. Yaz aylarında ise, sıcak ve kurak hava, bitki örtüsünü biraz daha kuruyor. Bu mevsimsel değişimler, bölgenin flora ve faunasını etkiliyor ve ziyaretçilere her mevsim farklı bir güzellik sunuyor.
 
 ## Ziyaret Bilgileri
 

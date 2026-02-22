@@ -45,7 +45,7 @@ Kara Dağ, Van ilinin doğusunda, 38.8315°K enlem ve 43.7563°D boylamda yer al
 
 Doğal güzelliği ve jeolojik yapısı ile dikkat çeken Kara Dağ, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alana sahiptir. Bu dağ, volkanik kökenli kayalardan oluşur ve bölgenin jeolojik geçmişini yansıtan önemli bir oluşumdur. Kara Dağ'ın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olup, bölgenin önemli bir tepe noktasıdır.
 
-İklim açısından bakıldığında, Kara Dağ'ın bulunduğu bölge, karasal iklimin etkilerini taşır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürer. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini şekillendirmiştir. Kara Dağ'ın eteklerinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
+İklim açısından bakıldığında, Kara Dağ'ın bulunduğu bölge, karasal iklimin etkilerini taşır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürer. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini şekillendirmiştir. Kara Dağ'ın eteklerinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 
 Bölgenin su kaynakları açısından önemli bir rolü olan Van Gölü, Kara Dağ'ın yakınlarında yer alır. Bu göl, Türkiye'nin en büyük göllerinden biridir ve bölgenin ekosistemini düzenlemede önemli bir görev üstlenmektedir. Kara Dağ, Van Gölü'nün kuzeybatısında yer aldığı için, bu gölün su seviyesini ve su kalitesini etkileyen önemli bir faktördür. Bu nedenle, Kara Dağ ve çevresinin korunması, bölgenin ekosistem dengesini korumak için önemlidir.
 

@@ -37,7 +37,7 @@ Seyyid Muhammed El Hüseyn-i Türbesi'nin tarihi geçmişi, yüzyıllar öncesin
 
 ## Coğrafya
 
-Seyyid Muhammed El Hüseyn-i Türbesi, Mardin'in Artuklu ilçesinde, Güneydoğu Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik gösteriyor. Türbe, etrafındaki dağlarla çevrili bir vadide kurulmuş. İklim, genel olarak sıca ve kuru. Bölge, yaz aylarında yüksek sıcaklık değerlerine ulaşabiliyor. Kış ayları ise, soğu ve yağışlı geçiyor. Seyyid Muhammed El Hüseyn-i Türbesi, doğal güzellikleri ve tarihi önemiyle birlikte, ziyaretçilerine benzersiz bir deneyim sunuyor. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu bölge, doğa severler için ideal bir destinasyon.
+Seyyid Muhammed El Hüseyn-i Türbesi, Mardin'in Artuklu ilçesinde, Güneydoğu Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik gösteriyor. Türbe, etrafındaki dağlarla çevrili bir vadide kurulmuş. İklim, genel olarak sıcak ve kuru. Bölge, yaz aylarında yüksek sıcaklık değerlerine ulaşabiliyor. Kış ayları ise, soğuk ve yağışlı geçiyor. Seyyid Muhammed El Hüseyn-i Türbesi, doğal güzellikleri ve tarihi önemiyle birlikte, ziyaretçilerine benzersiz bir deneyim sunuyor. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu bölge, doğa severler için ideal bir destinasyon.
 
 ## Flora ve Fauna
 

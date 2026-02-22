@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi zenginliklerini keşfetmek isteyenler 
 
 Doğal bir anıt gibi yükselen Hişto Tepe, boyutları hakkında detaylı bilgi olmasa da, bölgenin coğrafi çeşitliliğini gözler önüne serer. Bir şehir bloğu büyüklüğünde olan bazı tepelerle karşılaştırıldığında, Hişto Tepe'nin daha büyük bir alana yayıldığı söylenebilir. Ancak, tam olarak boyutlarını belirlemek için dahalı bir araştırma gerekmektedir. Şimdilik, bu dağın bölgenin jeolojik yapısına katkıda bulunan önemli bir unsur olduğu biliniyor.
 
-Mevsimsel değişimlere göre şekillenen hava durumu, Hişto Tepe'nin coğrafi konumunu etkileyen önemli bir faktördür. Güneydoğu Anadolu Bölgesi'nin karakteristik iklimi, Hişto Tepe'nin etrafındaki ovaların ve dağların şekillenmesinde önemli bir rol oynamıştır. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı olan hava, bu bölgenin iklim karakterini belirler.
+Mevsimsel değişimlere göre şekillenen hava durumu, Hişto Tepe'nin coğrafi konumunu etkileyen önemli bir faktördür. Güneydoğu Anadolu Bölgesi'nin karakteristik iklimi, Hişto Tepe'nin etrafındaki ovaların ve dağların şekillenmesinde önemli bir rol oynamıştır. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı olan hava, bu bölgenin iklim karakterini belirler.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları, Hişto Tepe'nin çevresel ilişkilerini şekillendiren önemli faktörlerdir. Çevresindeki ovalar ve dağlar, bölgenin su kaynaklarını besleyen önemli birer unsur olarak görev yaparlar. Bu su kaynakları, bölgenin ekosistemini destekler ve canlıların yaşamasına olanak tanır. Hişto Tepe, bu ekosistem bağlantılarının bir parçası olarak, bölgenin doğal dengesini korumakta önemli bir rol üstlenir.
 

@@ -30,7 +30,7 @@ Kırklareli-Demirkoy-Kurudere Kayin Milli Parkı, tarihi geçmişi olan bir böl
 
 ## Coğrafya
 
-Kırklareli-Demirkoy-Kurudere Kayin Milli Parkı, Marmara Bölgesi'nin coğrafi olarak en güzel bölgelerinden birini oluşturur. Bu bölge, Karadeniz ve Ege bölgeleri arasında bir geçit olarak bilinir. Milli parkın coğrafi yapısı, dağlık ve ormanlık alanlardan oluşur. Bu bölgenin iklimi, karasal iklimin özellikleri taşır. Kış ayları soğu ve yağışlı, yaz ayları ise sıcak ve kurudur. Milli parkın coğrafi konumu, ziyaretçilere çeşitli coğrafi güzellikleri sunar.
+Kırklareli-Demirkoy-Kurudere Kayin Milli Parkı, Marmara Bölgesi'nin coğrafi olarak en güzel bölgelerinden birini oluşturur. Bu bölge, Karadeniz ve Ege bölgeleri arasında bir geçit olarak bilinir. Milli parkın coğrafi yapısı, dağlık ve ormanlık alanlardan oluşur. Bu bölgenin iklimi, karasal iklimin özellikleri taşır. Kış ayları soğuk ve yağışlı, yaz ayları ise sıcak ve kurudur. Milli parkın coğrafi konumu, ziyaretçilere çeşitli coğrafi güzellikleri sunar.
 
 ## Flora ve Fauna
 

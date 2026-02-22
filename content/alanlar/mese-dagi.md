@@ -45,7 +45,7 @@ Gözlerimizi Ankara'nın kuzeyine doğru çevirerek, Meşe Dağı'nın bulunduğ
 
 Doğal güzelliklerin yanı sıra, Meşe Dağı'nın fiziksel yapısını incelediğimizde, maalesef detaylı veri bulunmaması nedeniyle, boyutlar ve şekil hakkında net bir fikir edinemiyoruz. Ancak, Ankara'nın genel coğrafyasını düşünürsek, bu bölgenin genellikle tepeli ve engebeli bir araziye sahip olduğunu söyleyebiliriz. Bu özellikler, Meşe Dağı'nın da benzer bir jeolojik yapıya sahip olabileceğini akla getirir.
 
-Mevsimsel değişimlerin Meşe Dağı üzerindeki etkilerini düşünerek, iklim karakterine bakalım. Ankara'nın karasal iklimi, Meşe Dağı'nda da hissedilir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini etkiler ve mevsimsel olarak değişen bir ekosisteme yol açar.
+Mevsimsel değişimlerin Meşe Dağı üzerindeki etkilerini düşünerek, iklim karakterine bakalım. Ankara'nın karasal iklimi, Meşe Dağı'nda da hissedilir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini etkiler ve mevsimsel olarak değişen bir ekosisteme yol açar.
 
 Son olarak, Meşe Dağı'nın çevresel ilişkilerini ele alırsak, Ankara'nın şehir sınırları içerisinde yer alması, bu bölgenin çevresel açıdan önemli bir role sahip olduğunu gösterir. Meşe Dağı, Ankara'nın su kaynaklarına ve ekosistem bağlantılarına katkıda bulunur. Ayrıca, bölgenin komşu alanları ile olan ilişkisi, Ankara'nın doğal güzelliklerini ve biyolojik çeşitliliğini koruma altına almaya yardımcı olur.
 

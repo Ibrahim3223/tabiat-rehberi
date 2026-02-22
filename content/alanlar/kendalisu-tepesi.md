@@ -36,7 +36,7 @@ Kendalisu Tepesi, tarihi geçmişiyle dikkat çekiyor. Tepenin tarihi hakkında 
 
 ## Coğrafya
 
-Kendalisu Tepesi, Diyarbakır'ın güneyinde yer alıyor ve çevresindeki diğer tepelerle birlikte bir coğrafya mozaiğini oluşturuyor. Tepenin yüksekliği, çevreyi gözlemlemek için ideal bir konum sunuyor. Bölge, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahip. Tepenin eteklerinde ve çevresinde, çeşitli akarsular ve su kaynakları bulunması, buranın coğrafi önemini artırıyor. Tepenin iklimi, Güneydoğu Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, yazları sıca ve kurak, kışları ise soğu ve yağışlı geçiyor.
+Kendalisu Tepesi, Diyarbakır'ın güneyinde yer alıyor ve çevresindeki diğer tepelerle birlikte bir coğrafya mozaiğini oluşturuyor. Tepenin yüksekliği, çevreyi gözlemlemek için ideal bir konum sunuyor. Bölge, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahip. Tepenin eteklerinde ve çevresinde, çeşitli akarsular ve su kaynakları bulunması, buranın coğrafi önemini artırıyor. Tepenin iklimi, Güneydoğu Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı geçiyor.
 
 ## Flora ve Fauna
 

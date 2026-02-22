@@ -37,7 +37,7 @@ Selöz Köyü Hamamı'nın tarihi geçmişi, yüzyıllar boyunca birçok medeniy
 
 ## Coğrafya
 
-Selöz Köyü Hamamı, Marmara Bölgesi'nin Bilecik ilinde yer alır. Bu bölge, coğrafi açıdan oldukça zengin bir çeşitliliğe sahiptir. Plajın hemen arkasında yükselen tepeler, köyün natural güzelliğini artırır. Selöz Köyü Hamamı, 140 hektarlık bir yeşil alan sunar. Bu alan, yaklaşık 1,5 kilometrelik bir kumsal şeridine sahiptir. Kumsalın genişliği ise 50 metre civarındadır. Plajın denizi, genellikle sakin ve berraktır. Selöz Köyü Hamamı, özellikle yaz aylarında sıca ve güneşli bir iklim sunar. Kış aylarında ise ılıman ve yağışlı bir hava hakimdir. Bu coğrafi özellikler, Selöz Köyü Hamamı'nı yıl boyunca ziyaret edilebilir bir yer haline getirir.
+Selöz Köyü Hamamı, Marmara Bölgesi'nin Bilecik ilinde yer alır. Bu bölge, coğrafi açıdan oldukça zengin bir çeşitliliğe sahiptir. Plajın hemen arkasında yükselen tepeler, köyün natural güzelliğini artırır. Selöz Köyü Hamamı, 140 hektarlık bir yeşil alan sunar. Bu alan, yaklaşık 1,5 kilometrelik bir kumsal şeridine sahiptir. Kumsalın genişliği ise 50 metre civarındadır. Plajın denizi, genellikle sakin ve berraktır. Selöz Köyü Hamamı, özellikle yaz aylarında sıcak ve güneşli bir iklim sunar. Kış aylarında ise ılıman ve yağışlı bir hava hakimdir. Bu coğrafi özellikler, Selöz Köyü Hamamı'nı yıl boyunca ziyaret edilebilir bir yer haline getirir.
 
 ## Flora ve Fauna
 

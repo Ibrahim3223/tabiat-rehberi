@@ -42,7 +42,7 @@ Diyarbakır'ın coğrafi çeşitliliğiçinde yer alan Çalışaman Tepe, 38.441
 
 Doğal yapı itibariyle Çalışaman Tepe, Diyarbakır'ın genel coğrafi yapısına uygun olarak, çoğunlukla kalker ve kil gibi jeolojik oluşumları içeriyor. Bu tepe, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgenin jeolojik tarihini yansıtan önemli bir bileşen olarak görülüyor. Yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadar olan bir seviyede bulunuyor, bu da tepeyi bölgedeki diğer oluşumlardan ayıran bir özelliğini oluşturuyor.
 
-Mevsimsel değişiklikler açısından Çalışaman Tepe, Diyarbakır'ın genel iklim karakterini yansıtıyor. Bölge, yaz aylarında yüksek sıcaklık ve kuraklık, kış aylarında ise soğu ve yağışlı bir iklim özelliği gösteriyor. Bu mevsimsel farklılıklar, tepe ve çevresindeki bitki örtüsünü etkiliyor ve bölgenin ekolojik dengesini şekillendiriyor.
+Mevsimsel değişiklikler açısından Çalışaman Tepe, Diyarbakır'ın genel iklim karakterini yansıtıyor. Bölge, yaz aylarında yüksek sıcaklık ve kuraklık, kış aylarında ise soğuk ve yağışlı bir iklim özelliği gösteriyor. Bu mevsimsel farklılıklar, tepe ve çevresindeki bitki örtüsünü etkiliyor ve bölgenin ekolojik dengesini şekillendiriyor.
 
 Çevresel açıdan Çalışaman Tepe, Diyarbakır'ın diğer coğrafi oluşumları ile bağlantılı olarak görülüyor. Yakınlarında bulunan su kaynakları ve ekosistemler, tepe ve çevresindeki yaşamın sürdürülmesi için bir rol oynuyor. Çalışaman Tepe, Monaco'nun yaklaşık 1/20'si büyüklüğünde bir alanı kapladığı için, bölgedeki diğer coğrafi oluşumlarla birlikte, Diyarbakır'ın doğal güzelliğini ve çeşitliliğini temsil ediyor.
 

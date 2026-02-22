@@ -36,7 +36,7 @@ Oklak Tepesi'nin tarihi geçmişi, yüzyıllar boyunca Ankara ve çevresinin ön
 
 ## Coğrafya
 
-Oklak Tepesi, İç Anadolu Bölgesi'nin coğrafi olarak geniş ve çeşitli bir yapıya sahip olan Ankara ilinde yer alır. Bu bölge, geniş ovaları, yüksek tepeleri ve verimli topraklarıyla dikkat çekmektedir. Oklak Tepesi, Ankara'nın merkezine yaklaşık olarak 10 kilometre uzaklıkta bulunur ve ulaşımı kolaydır. Tepenin coğrafi yapısı, ziyaretçilere geniş bir manzara sunar ve Ankara'nın önemli bir doğal güzelliği olarak kabul edilir. Bölge, çeşitli bitki türleri ve zengin fauna çeşitliliğiyle dikkat çekmektedir. Oklak Tepesi, Ankara'nın iklimine uygun olarak, yazları sıca ve kurak, kışları soğu ve karlı bir iklimi bulunmaktadır.
+Oklak Tepesi, İç Anadolu Bölgesi'nin coğrafi olarak geniş ve çeşitli bir yapıya sahip olan Ankara ilinde yer alır. Bu bölge, geniş ovaları, yüksek tepeleri ve verimli topraklarıyla dikkat çekmektedir. Oklak Tepesi, Ankara'nın merkezine yaklaşık olarak 10 kilometre uzaklıkta bulunur ve ulaşımı kolaydır. Tepenin coğrafi yapısı, ziyaretçilere geniş bir manzara sunar ve Ankara'nın önemli bir doğal güzelliği olarak kabul edilir. Bölge, çeşitli bitki türleri ve zengin fauna çeşitliliğiyle dikkat çekmektedir. Oklak Tepesi, Ankara'nın iklimine uygun olarak, yazları sıcak ve kurak, kışları soğuk ve karlı bir iklimi bulunmaktadır.
 
 ## Flora ve Fauna
 

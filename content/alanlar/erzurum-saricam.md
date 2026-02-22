@@ -31,7 +31,7 @@ Erzurum Saricam'ın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b
 
 ## Coğrafya
 
-Erzurum Saricam, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Bu bölge, coğrafi olarak çeşitli özellikler sunar. Milli park, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı ziyaretçilerine sunar. Saricam, doğu-batı yönünde uzanan bir vadi içinde yer alır ve bölgenin coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunar. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal bir yapıya sahiptir. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, bölgenin flora ve faunasını etkileyen önemli bir faktördür. Saricam'ın coğrafi konumu, ziyaretçilere geniş bir doğa deneyimi sunar ve çeşitli bitki türleri ile hayvanların yaşam alanıdır.
+Erzurum Saricam, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Bu bölge, coğrafi olarak çeşitli özellikler sunar. Milli park, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı ziyaretçilerine sunar. Saricam, doğu-batı yönünde uzanan bir vadi içinde yer alır ve bölgenin coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunar. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal bir yapıya sahiptir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, bölgenin flora ve faunasını etkileyen önemli bir faktördür. Saricam'ın coğrafi konumu, ziyaretçilere geniş bir doğa deneyimi sunar ve çeşitli bitki türleri ile hayvanların yaşam alanıdır.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ Hanefi Sultan Türbesi'nin tarihi geçmişi, yüzyıllar boyunca devam eden bir 
 
 ## Coğrafya
 
-Hanefi Sultan Türbesi, Ege Bölgesi'nin coğrafi güzelliklerinin bir araya geldiği bir noktada yer alıyor. 140 hektarlık bir alanı kapsayan bu özel yer, yaklaşık 200 futbol sahası büyüklüğünde. Türbe, Gölmarmara ilçesinin merkezine yakın bir konumda bulunuyor ve etrafı yeşilliklerle çevrili. Hanefi Sultan Türbesi'nin bulunduğu saha, deniz seviyesinden yaklaşık yüksek bir konumdate ve Ege Denizi'ne oldukça yakın. Bu coğrafi konum, ziyaretçilere hem tarihi bir türbe hem de güzel bir plaj deneyimi sunuyor. Çevre, çeşitli bitki türleri ile zengin bir flora sunarken, fauna açısından da önemli bir yaşam alanı olarak kabul ediliyor.
+Hanefi Sultan Türbesi, Ege Bölgesi'nin coğrafi güzelliklerinin bir araya geldiği bir noktada yer alıyor. 140 hektarlık bir alanı kapsayan bu özel yer, yaklaşık 200 futbol sahası büyüklüğünde. Türbe, Gölmarmara ilçesinin merkezine yakın bir konumda bulunuyor ve etrafı yeşilliklerle çevrili. Hanefi Sultan Türbesi'nin bulunduğu saha, yüksek bir konumda ve Ege Denizi'ne oldukça yakın. Bu coğrafi konum, ziyaretçilere hem tarihi bir türbe hem de güzel bir plaj deneyimi sunuyor. Çevre, çeşitli bitki türleri ile zengin bir flora sunarken, fauna açısından da önemli bir yaşam alanı olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

@@ -42,7 +42,7 @@ Doğu Anadolu Bölgesi'nin kalbinde yer alan Yıldırım Dağı, 39.7149°K ve 4
 
 Coğrafi olarak bakıldığında, Yıldırım Dağı'nın fiziksel yapısı hakkında ayrıntılı bilgiler bulunmasa da, dağlık bir arazide yer aldığı bilinmektedir. Bu bölgede, genellikle granit ve volkanik kayaçlar bulunmaktadır. Dağın yüksekliği ve şekli, bölgenin jeolojik geçmişini ve tektonik aktivitesini yansıtmaktadır. Monaco'nun yarısı kadar bir alana yayılmış olan bu dağ, Taksim Meydanı'nın 100 katı büyüklüğünde bir alanı kaplamaktadır.
 
-Yıldırım Dağı'nın iklim karakteri, bölgenin genel iklim koşullarını yansıtmaktadır. Doğu Anadolu Bölgesi'nin karasal iklimi, Yıldırım Dağı'nda da hissedilmektedir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu mevsimsel değişiklikler, dağın ekosistemini ve bitki örtüsünü etkilemektedir.
+Yıldırım Dağı'nın iklim karakteri, bölgenin genel iklim koşullarını yansıtmaktadır. Doğu Anadolu Bölgesi'nin karasal iklimi, Yıldırım Dağı'nda da hissedilmektedir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu mevsimsel değişiklikler, dağın ekosistemini ve bitki örtüsünü etkilemektedir.
 
 Yıldırım Dağı, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgenin ekosistemini ve su kaynaklarını etkilemektedir. Dağın eteklerinde bulunan nehirler ve akarsular, bölgenin sulama ve içme suyu ihtiyacını karşılamaktadır. Ayrıca, Yıldırım Dağı, bölgenin önemli bir ekosistem bağlantı noktası olarak görev yapmaktadır. Bu bağlantı, dağın doğal güzelliğini ve biyolojik çeşitliliğini korumak için önemlidir.
 

@@ -37,7 +37,7 @@ wikidata_id: "Q131391702"
 
 ## Coğrafya
 
-Şair Ahmet Paşa Türbesi, Osmangazi, Bursa'da yer alır ve Marmara Bölgesi'nin coğrafi olarak önemli bir noktasındadır. Bölge, deniz seviyesinden yaklaşık yüksek bir konumdatedir. Coğrafi konumu itibariyle, Karadeniz ve Ege Bölgesinin iklimsel özelliklerini taşır. Kışlar ılımandır, yazlar ise sıcak ve nemlidir. Bölgenin coğrafyası, geniş ormanlık alanlar, ovalar ve dağlarla çevrilidir. Şair Ahmet Paşa Türbesi ve çevresindeki plaj, Marmara Denizi'nin güzel kıyılarını sunar. Bölgenin coğrafyası, ziyaretçilere geniş bir faaliyet yelpazesi sunar. Dağ yürüyüşleri, deniz aktiviteleri ve tarihi alanların keşfi, bu bölgede mümkün olan beberapa aktivitedir.
+Şair Ahmet Paşa Türbesi, Osmangazi, Bursa'da yer alır ve Marmara Bölgesi'nin coğrafi olarak önemli bir noktasındadır. Bölge, yüksek bir konumdadir. Coğrafi konumu itibariyle, Karadeniz ve Ege Bölgesinin iklimsel özelliklerini taşır. Kışlar ılımandır, yazlar ise sıcak ve nemlidir. Bölgenin coğrafyası, geniş ormanlık alanlar, ovalar ve dağlarla çevrilidir. Şair Ahmet Paşa Türbesi ve çevresindeki plaj, Marmara Denizi'nin güzel kıyılarını sunar. Bölgenin coğrafyası, ziyaretçilere geniş bir faaliyet yelpazesi sunar. Dağ yürüyüşleri, deniz aktiviteleri ve tarihi alanların keşfi, bu bölgede mümkün olan beberapa aktivitedir.
 
 ## Flora ve Fauna
 

@@ -46,7 +46,7 @@ Gölün kenarında yürürken, Karataş Gölü'nün (gol, Burdur) güzelliği g�
 
 Doğal bir set gölü olan Karataş Gölü, çevresindeki coğrafyanın şekillenmesinde önemli bir rol oynamaktadır. Maalesef, gölün fiziksel yapısına ilişkin detaylı bilgiler bulunmamasına karşın, koordinatlarından hareketle, gölün bulunduğu bölgenin jeolojik yapısını inceleme mümkün. Bu bölge, Türkiye'nin güneybatı kesiminde yer alan ve çeşitli jeolojik olaylarla şekillenmiş bir bölgedir.
 
-İklim açısından bakıldığında, Karataş Gölü'nün bulunduğu bölge, Akdeniz ikliminin etkisi altındadır. Bu nedenle, bölgede yazlar sıca ve kurak, kışlar ise ılıman ve yağışlı geçer. Gölün su seviyesi, mevsimsel yağışlara bağlı olarak değişebilir. Bu mevsimsel değişimler, gölün ekosistemini etkileyen önemli faktörlerdir.
+İklim açısından bakıldığında, Karataş Gölü'nün bulunduğu bölge, Akdeniz ikliminin etkisi altındadır. Bu nedenle, bölgede yazlar sıcak ve kurak, kışlar ise ılıman ve yağışlı geçer. Gölün su seviyesi, mevsimsel yağışlara bağlı olarak değişebilir. Bu mevsimsel değişimler, gölün ekosistemini etkileyen önemli faktörlerdir.
 
 Çevresel açıdan bakıldığında, Karataş Gölü'nün bulunduğu bölge, çeşitli su kaynaklarına ve ekosistemlere ev sahipliği yapmaktadır. Göl, çevresindeki dağlardan gelen su kaynakları ile beslenir ve bu su kaynakları, bölgenin ekosistemini destekler. Bu nedenle, Karataş Gölü'nün korunması, bölgenin doğal dengesini korumak açısından önemlidir.
 

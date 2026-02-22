@@ -30,7 +30,7 @@ Belören Kent Ormanı'nın tarihi geçmişi, bölgenin doğal güzelliklerinin k
 
 ## Coğrafya
 
-Belören Kent Ormanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, bozkır ve orman ekosistemlerinin bir bileşkesi olarak karşımıza çıkıyor. Orman, çam, meşe ve çeşitli ağaç türleri ile kaplıdır ve bu çeşitlilik, zengin bir fauna ortamı yaratıyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal karakterdedir. Yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlı geçer. Bu iklim koşulları, ormanın flora ve faunasının çeşitliliğini etkiliyor. Orman, aynı zamanda, birçok su kaynağına ev sahipliği yapıyor ve bu su kaynakları, ormanın ekolojik dengesini koruyor.
+Belören Kent Ormanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, bozkır ve orman ekosistemlerinin bir bileşkesi olarak karşımıza çıkıyor. Orman, çam, meşe ve çeşitli ağaç türleri ile kaplıdır ve bu çeşitlilik, zengin bir fauna ortamı yaratıyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal karakterdedir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçer. Bu iklim koşulları, ormanın flora ve faunasının çeşitliliğini etkiliyor. Orman, aynı zamanda, birçok su kaynağına ev sahipliği yapıyor ve bu su kaynakları, ormanın ekolojik dengesini koruyor.
 
 ## Flora ve Fauna
 

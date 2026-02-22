@@ -36,7 +36,7 @@ Karaziyaret'in tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin ye
 
 ## Coğrafya
 
-Karaziyaret, coğrafi olarak Gaziantep'in güneydoğu bölgesinde yer alıyor. Bu bölge, genellikle dağlık ve engebeli bir araziye sahip. Karaziyaret tepe, çevresindeki diğer tepelerden daha yükse ve geniş bir alana yayılmış durumda. İklim olarak, Karaziyaret ve çevresinde genellikle sıca ve khô bir hava hakim. Yaz aylarında sıcaklar oldukça yüksek olabilirken, kış aylarında soğuklar da hissedilebilir. Çevre, genellikle step ve otlak olarak kullanılıyor ve bu nedenle flora ve fauna oldukça zengin. Karaziyaret, coğrafi konumu ve doğal güzelliği ile dikkat çekiyor ve ziyaretçilerini büyülüyor. Bu bölgede, çeşitli bitkiler ve hayvanlar ile karşılaşma mümkün ve bu nedenle Karaziyaret, doğa severlerin ilgisini çeken bir yer.
+Karaziyaret, coğrafi olarak Gaziantep'in güneydoğu bölgesinde yer alıyor. Bu bölge, genellikle dağlık ve engebeli bir araziye sahip. Karaziyaret tepe, çevresindeki diğer tepelerden daha yükse ve geniş bir alana yayılmış durumda. İklim olarak, Karaziyaret ve çevresinde genellikle sıcak ve kuru bir hava hakim. Yaz aylarında sıcaklar oldukça yüksek olabilirken, kış aylarında soğuklar da hissedilebilir. Çevre, genellikle step ve otlak olarak kullanılıyor ve bu nedenle flora ve fauna oldukça zengin. Karaziyaret, coğrafi konumu ve doğal güzelliği ile dikkat çekiyor ve ziyaretçilerini büyülüyor. Bu bölgede, çeşitli bitkiler ve hayvanlar ile karşılaşma mümkün ve bu nedenle Karaziyaret, doğa severlerin ilgisini çeken bir yer.
 
 ## Flora ve Fauna
 

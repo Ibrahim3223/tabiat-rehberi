@@ -52,7 +52,7 @@ Mevsimsel değişikliklere bakıldığında, Çıralık Dağ'ın iklim karakteri
 
 İlkbaharda, dağ yamaçlarında renkli çiçekler açarken, sonbaharda göç eden kuşlar bu alanı ziyaret ediyor. Bu mevsimsel değişim, dağın ekolojik zenginliğini gözler önüne seriyor. Yükseklik zonlarına bağlı olarak, alpin flora da bu dağda kendine yer buluyor.
 
-Çıralık Dağ, yaban hayatı açısından da zengin bir bölge. Memeliler, kuşlar ve sürüngenler, bu dağda yaşam buluyor. Dağ keçileri, yaban kedileri gibi memeliler, dağların yüksek kesimlerinde yaşarken, çeşitli kuş türleri bu alanı ziyaret ediyor. Sürüngenler de, bu dağların sıca ve kuru bölgelerinde yaşamlarını sürdürüyor.
+Çıralık Dağ, yaban hayatı açısından da zengin bir bölge. Memeliler, kuşlar ve sürüngenler, bu dağda yaşam buluyor. Dağ keçileri, yaban kedileri gibi memeliler, dağların yüksek kesimlerinde yaşarken, çeşitli kuş türleri bu alanı ziyaret ediyor. Sürüngenler de, bu dağların sıcak ve kuru bölgelerinde yaşamlarını sürdürüyor.
 
 Bu dağ ekosisteminin korunması, ekolojik değerinin yanı sıra, bölgenin biyolojik çeşitliliğini de bảoiyor. Çıralık Dağ, Sivas'ın doğal mirasının önemli bir parçası olarak kabul ediliyor. Bu nedenle, bu alanın korunması ve sürdürülebilir kullanımı, gelecek nesiller için büyük önem taşıyor.
 

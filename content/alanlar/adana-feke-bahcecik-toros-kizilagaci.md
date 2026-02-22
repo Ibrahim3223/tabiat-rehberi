@@ -30,7 +30,7 @@ Adana-Feke-Bahcecik Toros Kizilagaci milli parkının tarihi geçmişi, yüzyıl
 
 ## Coğrafya
 
-Adana-Feke-Bahcecik Toros Kizilagaci milli parkı, coğrafi konumu itibariyle Akdeniz Bölgesi'nin doğa harikaları arasında yer alıyor. Toros Dağları'nın eteklerinde kurulu olan park, 140 hektarlık bir alanı kapsıyor. Parkın coğrafi yapısı, dağlar, ormanlar ve vadilerden oluşuyor. İklimi, Akdeniz ikliminin característicasını taşıyor ve yazları sıcak, kışları ılıman geçiyor. Parkın çevresi, çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosisteme ev sahipliği yapıyor. Toros Kizilagaci, doğal güzellikleri ve coğrafi çeşitliliği ile ziyaretçilerini etkiliyor. Parkın yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdate ve bu yükseklik, parkın iklimini ve bitki örtüsünü etkiliyor.
+Adana-Feke-Bahcecik Toros Kizilagaci milli parkı, coğrafi konumu itibariyle Akdeniz Bölgesi'nin doğa harikaları arasında yer alıyor. Toros Dağları'nın eteklerinde kurulu olan park, 140 hektarlık bir alanı kapsıyor. Parkın coğrafi yapısı, dağlar, ormanlar ve vadilerden oluşuyor. İklimi, Akdeniz ikliminin característicasını taşıyor ve yazları sıcak, kışları ılıman geçiyor. Parkın çevresi, çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosisteme ev sahipliği yapıyor. Toros Kizilagaci, doğal güzellikleri ve coğrafi çeşitliliği ile ziyaretçilerini etkiliyor. Parkın yüksekliği, yüksek bir konumda ve bu yükseklik, parkın iklimini ve bitki örtüsünü etkiliyor.
 
 ## Flora ve Fauna
 

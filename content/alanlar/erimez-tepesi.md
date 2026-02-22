@@ -36,7 +36,7 @@ Erimez Tepesi, Giresun'un tarihi geçmişiyle iç içe geçmiş bir bölge. Bu t
 
 ## Coğrafya
 
-Erimez Tepesi, Giresun'un Karadeniz Bölgesi'nde yer alan bir tepe. Bu tepe, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor ve eteklerinde yer alan köyler, ziyaretçilere konaklama ve yemek imkanları sunuyor. Erimez Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, çeşitli bitki türleriyle örtülü. Bu tepenin coğrafyası, ziyaretçilere bir çok şeyi keşfetme fırsatı sunuyor. Erimez Tepesi, Giresun'un coğrafyasının bir parçası ve bu bölgenin güzelliğini ziyaretçilere sunuyor. Bu tepenin iklimi, Karadeniz Bölgesi'nin iklimine uygun ve ziyaretçilere bir çok şeyi öğretiyor. Erimez Tepesi, Giresun'un coğrafyasının önemli bir parçası ve ziyaretçilerini bekliyor.
+Erimez Tepesi, Giresun'un Karadeniz Bölgesi'nde yer alan bir tepe. Bu tepe, yüksek bir konumda yer alıyor ve eteklerinde yer alan köyler, ziyaretçilere konaklama ve yemek imkanları sunuyor. Erimez Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, çeşitli bitki türleriyle örtülü. Bu tepenin coğrafyası, ziyaretçilere bir çok şeyi keşfetme fırsatı sunuyor. Erimez Tepesi, Giresun'un coğrafyasının bir parçası ve bu bölgenin güzelliğini ziyaretçilere sunuyor. Bu tepenin iklimi, Karadeniz Bölgesi'nin iklimine uygun ve ziyaretçilere bir çok şeyi öğretiyor. Erimez Tepesi, Giresun'un coğrafyasının önemli bir parçası ve ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 
@@ -51,5 +51,5 @@ Erimez Tepesi, ziyaretçilerini bekliyor. Bu tepeye gitmek için, Giresun'a gelm
 - Erimez Tepesi, Giresun'un tarihi geçmişiyle iç içe geçmiş bir bölge
 - Bu tepe, yüzyıllar boyunca çeşitli uygarlıklara ev sahipliği yapmış
 - Erimez Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor
-- Bu tepe, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor
+- Bu tepe, yüksek bir konumda yer alıyor
 - Erimez Tepesi, Giresun'un flora ve fauna zenginliğinin bir parçası

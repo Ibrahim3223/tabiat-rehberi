@@ -36,7 +36,7 @@ Acısu Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölgen
 
 ## Coğrafya
 
-Acısu Tepesi, Karadeniz Bölgesi'nin Zonguldak ilinde, deniz seviyesinden yaklaşık yüksek bir konumdate bulunuyor. Tepenin coğrafi konumu, ziyaretçilerine Karadeniz Bölgesi'nin eşsiz manzarasını sunuyor. Acısu Tepesi, aynı zamanda bölgenin iklimini de etkiliyor ve burada dört mevsim boyunca farklı hava koşulları yaşanıyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Ayrıca, Acısu Tepesi'nin çevresinde, birçok nehir ve akarsu bulunmakta ve bu su kaynakları, bölgenin ekolojik dengesini koruyor. Tepenin coğrafi konumu ve doğal güzelliği, birlikte düşünüldüğünde, ziyaretçilere benzersiz bir deneyim sunmakta.
+Acısu Tepesi, Karadeniz Bölgesi'nin Zonguldak ilinde, yüksek bir konumda bulunuyor. Tepenin coğrafi konumu, ziyaretçilerine Karadeniz Bölgesi'nin eşsiz manzarasını sunuyor. Acısu Tepesi, aynı zamanda bölgenin iklimini de etkiliyor ve burada dört mevsim boyunca farklı hava koşulları yaşanıyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Ayrıca, Acısu Tepesi'nin çevresinde, birçok nehir ve akarsu bulunmakta ve bu su kaynakları, bölgenin ekolojik dengesini koruyor. Tepenin coğrafi konumu ve doğal güzelliği, birlikte düşünüldüğünde, ziyaretçilere benzersiz bir deneyim sunmakta.
 
 ## Flora ve Fauna
 

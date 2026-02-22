@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin güzide illerinden Siirt'te yer alan Razago Tep
 
 Doğudan batıya yaklaşık 5 kilometre, kuzeyden güneye 3 kilometre genişliğindeki Razago Tepe, yaklaşık 15 kilometrekarelik bir alanı kaplıyor. Bu alan, Taksim Meydanı'nın yaklaşık 10 katı büyüklüğünde bir bölgeyi kapsıyor. Razago Tepe'nin yüksekliği ise yaklaşık 1500 metre ile Eiffel Kulesi'nin 3 katı yükseklikte. Bu yükseklik, Razago Tepe'yi bölgenin önemli bir tepe oluşumu haline getiriyor.
 
-Razago Tepe'nin iklimi, Güneydoğu Anadolu Bölgesi'nin genel iklim karakterine benzerlik gösteriyor. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklimi yaşıyor. Razago Tepe'nin iklimi, bölgenin bitki örtüsünü ve ekosistemini şekillendiren önemli bir faktör. Yaz aylarında sıcaklık 30 derecelere ulaşabilirken, kış aylarında -10 derecelere düşebiliyor.
+Razago Tepe'nin iklimi, Güneydoğu Anadolu Bölgesi'nin genel iklim karakterine benzerlik gösteriyor. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklimi yaşıyor. Razago Tepe'nin iklimi, bölgenin bitki örtüsünü ve ekosistemini şekillendiren önemli bir faktör. Yaz aylarında sıcaklık 30 derecelere ulaşabilirken, kış aylarında -10 derecelere düşebiliyor.
 
 Razago Tepe, bölgenin önemli su kaynaklarına yakın bir konumda yer alıyor. Bölge, Siirt Çayı ve diğer küçük akarsuların bulunduğu bir coğrafyada yer alıyor. Razago Tepe, bu su kaynakları ile birlikte bölgenin ekosistemini oluşturan önemli bir bileşen. Bu tepe, bölgenin flora ve fauna çeşitliliğini destekleyen bir ekosistem bağlantısı olarak görev yapıyor. Razago Tepe'nin çevresindeki alanlar, genellikle tarımsal faaliyetler için kullanılıyor ve bölgenin ekonomik faaliyetlerini şekillendiren önemli bir faktör.
 
@@ -52,7 +52,7 @@ Razago Tepe, bölgenin önemli su kaynaklarına yakın bir konumda yer alıyor. 
 
 Razago Tepe, Siirt'in yarı kurak ikliminde yer alan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın yükseklik zonları, alpin flora ve dağ hayvanları ile zengin bir ekosistem sunuyor.
 
-İlkbaharın gelmesiyle birlikte, dağ eteklerinde çiçekler açmaya başlıyor. Step ve ova ekolojisi, bir renk cümbüşüne dönüşüyor. Sonbaharda ise, göçmen kuşlar dağları bir geçit olarak kullanıyor. Bu mevsimsel değişimler, dağın canlılarını etkiliyor. Memeliler ve kuşlar, mevsimsel olarak dağların farklı yükseklik zonlarında ediyor. Sürüngenler ise, sıca ve kuru alanları tercih ediyor.
+İlkbaharın gelmesiyle birlikte, dağ eteklerinde çiçekler açmaya başlıyor. Step ve ova ekolojisi, bir renk cümbüşüne dönüşüyor. Sonbaharda ise, göçmen kuşlar dağları bir geçit olarak kullanıyor. Bu mevsimsel değişimler, dağın canlılarını etkiliyor. Memeliler ve kuşlar, mevsimsel olarak dağların farklı yükseklik zonlarında ediyor. Sürüngenler ise, sıcak ve kuru alanları tercih ediyor.
 
 Razago Tepe'nin ekolojik değeri, bu çeşitlilikte yatıyor. Dağın yükseklik zonları, farklı türlerin yaşam alanlarını oluşturuyor. Bu alanın korunması, bölgenin ekolojik dengesini korumak için çok önemli.
 

@@ -44,7 +44,7 @@ Güneydoğu Anadolu'nun en önemli coğrafi oluşumlarından biri olan Cebel-Zia
 
 Doğal güzelliği ve coğrafi önemi ile dikkat çeken Cebel-Ziara Dağı, çevresindeki ovaları ve vadileri ile bir bütün olarak ele alınabilir. Dağın boyutları, yaklaşık bir şehir bloğu büyüklüğünde olan bir alanı kaplar. Bu alan, Taksim Meydanı'nın birkaç katı büyüklüğünde bir bölgeyi kapsar. Cebel-Ziara Dağı'nın fiziksel yapısı, bölgenin jeolojik tarihini yansıtan bir yapıya sahiptir. Ancak, dahalı fiziksel veriler bulunmaması, bu dağ hakkında daha fazla bilgi edinilmesini sınırlar.
 
-Cebel-Ziara Dağı'nın iklim karakteri, Akdeniz ikliminin özellikleri ile şekillenir. Bölge, yaz aylarında sıca ve kurak, kış aylarında ılık ve yağışlı bir havaya sahiptir. Bu mevsimsel özellikler, Cebel-Ziara Dağı'nın flora ve fauna çeşitliliğini etkiler. Dağın çevresindeki ovalar ve vadiler, bölgenin su kaynaklarını oluşturan önemli birer ekosistemdir.
+Cebel-Ziara Dağı'nın iklim karakteri, Akdeniz ikliminin özellikleri ile şekillenir. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ılık ve yağışlı bir havaya sahiptir. Bu mevsimsel özellikler, Cebel-Ziara Dağı'nın flora ve fauna çeşitliliğini etkiler. Dağın çevresindeki ovalar ve vadiler, bölgenin su kaynaklarını oluşturan önemli birer ekosistemdir.
 
 Bölgenin ekolojik dengesini sağlayan Cebel-Ziara Dağı, komşu alanlar ile önemli bir ilişkiye sahiptir. Dağın eteklerinde yer alan ovalar ve vadiler, bölgenin su kaynaklarını oluşturan önemli birer ekosistemdir. Cebel-Ziara Dağı, Akdeniz kıyı şeridinin yakınında yer alması nedeniyle, bölgenin iklimini ve ekosistemini etkileyen önemli bir faktördür. Bu nedenle, Cebel-Ziara Dağı, bölgenin doğal güzelliği ve coğrafi önemi ile dikkat çeker.
 

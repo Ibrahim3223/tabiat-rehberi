@@ -36,7 +36,7 @@ Akkaya Tepesi, tarihi geçmişiyle de dikkat çekiyor. Yüzyıllar boyunca çeş
 
 ## Coğrafya
 
-Akkaya Tepesi, coğrafi konumu itibariyle de oldukça dikkat çekici. Hatay'ın dağlık ve engebeli arazisinin bir parçası olan bu tepe, çevresi ile birlikte bir doğa müzesi gibi duruyor. Tepenin eteklerinde akan dereler, etrafındaki ormanlık alanlar ve zirvesindeki manzara, ziyaretçileri bir doğa cenneti içine çekiyor. Akdeniz Bölgesi'nin karakteristik iklimini taşıyan bu bölge, yazları sıca ve kurak, kışları ılıman ve yağışlı bir hava koşullarına sahip. Bu coğrafi özellikler, Akkaya Tepesi'nin flora ve faunasının çeşitliliğini de etkiliyor. Tepenin yüksekliği, çevredeki bitki örtüsünün çeşitliliğini sağlar ve bu durum, birçok farklı türün burada yaşamasına olanak tanır.
+Akkaya Tepesi, coğrafi konumu itibariyle de oldukça dikkat çekici. Hatay'ın dağlık ve engebeli arazisinin bir parçası olan bu tepe, çevresi ile birlikte bir doğa müzesi gibi duruyor. Tepenin eteklerinde akan dereler, etrafındaki ormanlık alanlar ve zirvesindeki manzara, ziyaretçileri bir doğa cenneti içine çekiyor. Akdeniz Bölgesi'nin karakteristik iklimini taşıyan bu bölge, yazları sıcak ve kurak, kışları ılıman ve yağışlı bir hava koşullarına sahip. Bu coğrafi özellikler, Akkaya Tepesi'nin flora ve faunasının çeşitliliğini de etkiliyor. Tepenin yüksekliği, çevredeki bitki örtüsünün çeşitliliğini sağlar ve bu durum, birçok farklı türün burada yaşamasına olanak tanır.
 
 ## Flora ve Fauna
 

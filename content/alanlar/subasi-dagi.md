@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin uzak köşesinde, Hakkari ilinin dağlık arazisinde 
 
 Subaşı Dağı'nın fiziksel yapısı, bölgenin genel jeolojik özelliklerini yansıtır. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olup, çevredeki diğer dağlarla birlikte bir yükseklik silsilesi oluşturur. Bu dağ silsilesi, bölgenin coğrafi yapısını şekillendiren önemli bir faktördür. Subaşı Dağı, çevresindeki diğer dağlarla birlikte, bir doğal bariyer oluşturur ve bölgenin iklimini etkiler.
 
-İklim açısından bakıldığında, Subaşı Dağı ve çevresindeki bölge, karasal iklimin etkisindedir. Kışlar soğu ve kar yağışlı, yazlar ise sıca ve kurudur. Dağın yüksekliği, iklimi daha da etkiler ve bölgede farklı mikroiklimler oluşmasına neden olur. Bu mikroiklimler, bölgenin flora ve fauna çeşitliliğini zenginleştiren önemli bir faktördür.
+İklim açısından bakıldığında, Subaşı Dağı ve çevresindeki bölge, karasal iklimin etkisindedir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Dağın yüksekliği, iklimi daha da etkiler ve bölgede farklı mikroiklimler oluşmasına neden olur. Bu mikroiklimler, bölgenin flora ve fauna çeşitliliğini zenginleştiren önemli bir faktördür.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları açısından, Subaşı Dağı önemli bir role sahiptir. Dağın eteklerinde, çeşitli su kaynakları ve akarsular bulunmaktadır. Bu su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılar ve aynı zamanda bölgenin ekosistemini destekler. Subaşı Dağı, bölgenin doğal dengesini koruma açısından da önemli bir görev üstlenmektedir.
 

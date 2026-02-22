@@ -30,7 +30,7 @@ Canakkale-Umurbey Kızılçam'ın tarihi, bölgenin jeolojik oluşumuna kadar uz
 
 ## Coğrafya
 
-Canakkale-Umurbey Kızılçam, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş ova ve dağların birleştiği bir noktada yer alıyor. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor ve ziyaretçilerini şehrin gürültüsünden uzaklaştırıp, doğanın sakin ve huzurlu atmosferine davet ediyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahip. Kışlar soğu ve karlı, yazlar ise sıca ve kuru geçiyor. Bu iklim, bölgenin flora ve faunasının çeşitliliğini etkiliyor.
+Canakkale-Umurbey Kızılçam, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş ova ve dağların birleştiği bir noktada yer alıyor. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor ve ziyaretçilerini şehrin gürültüsünden uzaklaştırıp, doğanın sakin ve huzurlu atmosferine davet ediyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahip. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuru geçiyor. Bu iklim, bölgenin flora ve faunasının çeşitliliğini etkiliyor.
 
 ## Flora ve Fauna
 

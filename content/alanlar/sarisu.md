@@ -31,7 +31,7 @@ SARISU milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-SARISU milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir alandır. 140 hektarlık arazisi, çeşitli coğrafi oluşumları barındırır. Parkın coğrafi konumu, iklim koşullarını etkiler ve mevsimsel değişimlere neden olur. Bahar aylarında yeşeren flora, yaz aylarında sıca ve kurak bir iklimi, sonbahar aylarında renkli bir manzarayı ve kış aylarında karla kaplı bir görünümü sunar. Bu coğrafi çeşitlilik, ziyaretçilere dört mevsim boyunca farklı deneyimler sunar.
+SARISU milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir alandır. 140 hektarlık arazisi, çeşitli coğrafi oluşumları barındırır. Parkın coğrafi konumu, iklim koşullarını etkiler ve mevsimsel değişimlere neden olur. Bahar aylarında yeşeren flora, yaz aylarında sıcak ve kurak bir iklimi, sonbahar aylarında renkli bir manzarayı ve kış aylarında karla kaplı bir görünümü sunar. Bu coğrafi çeşitlilik, ziyaretçilere dört mevsim boyunca farklı deneyimler sunar.
 
 ## Flora ve Fauna
 

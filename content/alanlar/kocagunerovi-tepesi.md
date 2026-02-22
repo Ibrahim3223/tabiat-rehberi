@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin zengin coğrafyasında yer alan Kocagünerovi T
 
 Doğal güzellikleri ile dikkat çeken Kocagünerovi Tepesi, boyutları hakkında detaylı bilgi olmasa da, bölgenin genel jeolojik yapısına bakıldığında, genellikle kalker ve şist gibi kayaların hakim olduğu bir bölge olduğu anlaşılabilir. Bu tür kayaların bulunduğu alanlar genellikle dağlık ve engebeli bir yapıya sahiptir. Eğer bir karşılaştırma yapılacak olursa, bu tepe, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplayabilir.
 
-İklim açısından bakıldığında, Kocagünerovi Tepesi ve çevresinin, Güneydoğu Anadolu Bölgesi'nin karakteristik iklimini paylaştığı söylenebilir. Bu bölgede, yaz ayları sıca ve kurak, kış ayları ise soğu ve yağışlı geçer. Mevsimsel değişiklikler, bölgenin bitki örtüsü ve fauna çeşitliliğini etkiler.
+İklim açısından bakıldığında, Kocagünerovi Tepesi ve çevresinin, Güneydoğu Anadolu Bölgesi'nin karakteristik iklimini paylaştığı söylenebilir. Bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçer. Mevsimsel değişiklikler, bölgenin bitki örtüsü ve fauna çeşitliliğini etkiler.
 
 Çevresel açıdan bakıldığında, Kocagünerovi Tepesi, bölgenin diğer dağlık alanları ile bağlantılı bir ekosistem içerisinde yer alır. Bu tepe, komşu alanlardaki su kaynaklarına ve bitki örtüsüne bağlı olarak, bölgenin ekolojik dengesini korur. Ayrıca, bu tepe ve çevresindeki dağlık araziler, bölgenin su kaynaklarının oluşumunda bir rol oynar.
 

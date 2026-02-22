@@ -37,7 +37,7 @@ Nasuhbaba Türbesi ve Haziresi, yüzyılların geride bıraktığı izleri taş�
 
 ## Coğrafya
 
-Nasuhbaba Türbesi ve Haziresi, Tekirdağ'ın Kapaklı ilçesinde yer alır. Bu bölge, Marmara Bölgesi'nin coğrafi özelliklerini taşır. İklimi, karasal ve Akdeniz iklimlerinin bir karışımıdır. Yaz ayları sıca ve kurak, kış ayları ise soğu ve yağışlı geçer. Coğrafi olarak, 140 hektarlık bir alanı kaplayan Nasuhbaba Türbesi ve Haziresi, ziyaretçilerine geniş bir açıdan tarihi ve doğal güzellikleri sunar. Bu mekan, çevresindeki yeşilli ve doğal güzelliği ile dikkat çeker. Nasuhbaba Türbesi ve Haziresi, ziyaretçilerini tarihin ve doğanın bir arada sunulduğu bir dünya içerisinde bulundurmaya davet eder.
+Nasuhbaba Türbesi ve Haziresi, Tekirdağ'ın Kapaklı ilçesinde yer alır. Bu bölge, Marmara Bölgesi'nin coğrafi özelliklerini taşır. İklimi, karasal ve Akdeniz iklimlerinin bir karışımıdır. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçer. Coğrafi olarak, 140 hektarlık bir alanı kaplayan Nasuhbaba Türbesi ve Haziresi, ziyaretçilerine geniş bir açıdan tarihi ve doğal güzellikleri sunar. Bu mekan, çevresindeki yeşilli ve doğal güzelliği ile dikkat çeker. Nasuhbaba Türbesi ve Haziresi, ziyaretçilerini tarihin ve doğanın bir arada sunulduğu bir dünya içerisinde bulundurmaya davet eder.
 
 ## Flora ve Fauna
 

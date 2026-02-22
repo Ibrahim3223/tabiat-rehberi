@@ -37,7 +37,7 @@ Basmane Hamamı'nın tarihi geçmişi, İzmir'in tarihi ile iç içe geçmiş du
 
 ## Coğrafya
 
-Basmane Hamamı, İzmir'in Konak ilçesinde, Ege Bölgesi'nin kalbinde yer alıyor. Bu bölgenin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşuyor. Basmane Hamamı'nın bulunduğu alan, 140 hektarlık bir yeşil alan olup, yaklaşık 200 futbol sahası büyüklüğünde. Bu mekan, şehrin merkezi bölgesinde yer almasına rağmen, doğal bir ortam sunuyor. Basmane Hamamı'nın çevresinde, çeşitli bitki türleri ve zengin fauna encontrable. Bölgenin iklimi, tipik Akdeniz iklimi olup, yazları sıca ve kurak, kışları ılıman ve yağışlı geçiyor. Basmane Hamamı, ziyaretçilerine yılın her döneminde farklı bir deneyim sunuyor.
+Basmane Hamamı, İzmir'in Konak ilçesinde, Ege Bölgesi'nin kalbinde yer alıyor. Bu bölgenin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşuyor. Basmane Hamamı'nın bulunduğu alan, 140 hektarlık bir yeşil alan olup, yaklaşık 200 futbol sahası büyüklüğünde. Bu mekan, şehrin merkezi bölgesinde yer almasına rağmen, doğal bir ortam sunuyor. Basmane Hamamı'nın çevresinde, çeşitli bitki türleri ve zengin fauna encontrable. Bölgenin iklimi, tipik Akdeniz iklimi olup, yazları sıcak ve kurak, kışları ılıman ve yağışlı geçiyor. Basmane Hamamı, ziyaretçilerine yılın her döneminde farklı bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Deve Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölgenin
 
 ## Coğrafya
 
-Deve Tepesi, Mersin'de, Akdeniz Bölgesi'nde yer alan ve coğrafi olarak önemli bir konumda bulunan bir tepe. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıda ve etekleri, çeşitli bitki türleriyle kaplı. Deve Tepesi, bölgenin iklimine uygun olarak, yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava sahiptir. Tepenin çevresinde, çeşitli su kaynakları encontrabilir ve bölgenin fauna zenginliği, ziyaretçilerini cezbeder. Deve Tepesi, coğrafi konumu ve iklimi nedeniyle, bölgenin önemli bir turizm merkezi haline gelmiştir.
+Deve Tepesi, Mersin'de, Akdeniz Bölgesi'nde yer alan ve coğrafi olarak önemli bir konumda bulunan bir tepe. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıda ve etekleri, çeşitli bitki türleriyle kaplı. Deve Tepesi, bölgenin iklimine uygun olarak, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava sahiptir. Tepenin çevresinde, çeşitli su kaynakları encontrabilir ve bölgenin fauna zenginliği, ziyaretçilerini cezbeder. Deve Tepesi, coğrafi konumu ve iklimi nedeniyle, bölgenin önemli bir turizm merkezi haline gelmiştir.
 
 ## Flora ve Fauna
 

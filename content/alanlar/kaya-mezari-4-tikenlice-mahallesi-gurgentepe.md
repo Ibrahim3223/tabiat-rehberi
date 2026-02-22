@@ -37,7 +37,7 @@ Kaya Mezarı 4'ün tarihi geçmişi, bölgenin zengin kültürel mirasını yans
 
 ## Coğrafya
 
-Kaya Mezarı 4, coğrafi olarak Karadeniz Bölgesi'nin karakteristik özelliklerini taşır. Bölge, yeşilin ve mavinin bir araya geldiği, doğanın tüm güzelliğini sergilediği bir noktada bulunur. 180 hektarlık bir alana yayılan bu bölge, yaklaşık 250 futbol sahası büyüklüğündedir. Kaya Mezarı 4'ün coğrafyası, Karadeniz Bölgesi'nin genel coğrafi yapısını yansıtır. Bölge, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır ve çevresi ormanlarla kaplıdır. İklim, Karadeniz ikliminin özelliklerini taşır ve bölgede mevsim ayrı ayrı yaşanır. Kaya Mezarı 4'ün coğrafi konumu, ziyaretçilere doğanın güzelliğini sunarken, aynı zamanda bölgenin tarihi ve kültürel mirasını keşfetme fırsatı sunar.
+Kaya Mezarı 4, coğrafi olarak Karadeniz Bölgesi'nin karakteristik özelliklerini taşır. Bölge, yeşilin ve mavinin bir araya geldiği, doğanın tüm güzelliğini sergilediği bir noktada bulunur. 180 hektarlık bir alana yayılan bu bölge, yaklaşık 250 futbol sahası büyüklüğündedir. Kaya Mezarı 4'ün coğrafyası, Karadeniz Bölgesi'nin genel coğrafi yapısını yansıtır. Bölge, yüksek bir konumda yer alır ve çevresi ormanlarla kaplıdır. İklim, Karadeniz ikliminin özelliklerini taşır ve bölgede mevsim ayrı ayrı yaşanır. Kaya Mezarı 4'ün coğrafi konumu, ziyaretçilere doğanın güzelliğini sunarken, aynı zamanda bölgenin tarihi ve kültürel mirasını keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Kısık Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bu bölg
 
 ## Coğrafya
 
-Kısık Tepe, Hatay ilinin sınırları içerisinde yer alıyor ve Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, çeşitli bitki türleri ile hayvan türleri ile zengin. Kısık Tepe, deniz seviyesinden yüksek bir konumda yer alıyor ve bu konumu, ziyaretçilerine geniş bir manzara sunuyor. Bu bölge, Akdeniz ikliminin etkisinde ve bu nedenle, ziyaretçilerine sıca ve khô bir hava sunuyor. Kısık Tepe'nin coğrafi özellikleri, ziyaretçilerine benzersiz bir deneyim sunuyor ve bu bölge, doğa severlerin ilgisini çekiyor.
+Kısık Tepe, Hatay ilinin sınırları içerisinde yer alıyor ve Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, çeşitli bitki türleri ile hayvan türleri ile zengin. Kısık Tepe, deniz seviyesinden yüksek bir konumda yer alıyor ve bu konumu, ziyaretçilerine geniş bir manzara sunuyor. Bu bölge, Akdeniz ikliminin etkisinde ve bu nedenle, ziyaretçilerine sıcak ve kuru bir hava sunuyor. Kısık Tepe'nin coğrafi özellikleri, ziyaretçilerine benzersiz bir deneyim sunuyor ve bu bölge, doğa severlerin ilgisini çekiyor.
 
 ## Flora ve Fauna
 

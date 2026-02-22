@@ -31,7 +31,7 @@ Yayladağı Milli Parkı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmi�
 
 ## Coğrafya
 
-Yayladağı Milli Parkı, İç Anadolu Bölgesi'nde yer alır. Parkın coğrafi yapısı, çeşitli yüksekliklerde ve eğimlerde yer alan arazilerden oluşur. Bu coğrafi çeşitlilik, farklı iklim koşullarına ve bitki türlerine ev sahipliği yapar. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal bir karakterdedir. Kış ayları soğu ve kar yağışlı, yaz ayları ise sıcak ve kurudur. Yayladığı Milli Parkı, çevresindeki diğer doğal güzelliklerle birlikte önemli bir ekosistemi oluşturur. Parkın coğrafi konumu ve iklimi, çeşitli flora ve fauna türlerinin yaşamasına elverişli bir ortam sağlar. Yayladağı Milli Parkı, ziyaretçilerine doğal güzelliği ve fauna çeşitliliği ile birlikte zengin bir coğrafi deneyim sunar.
+Yayladağı Milli Parkı, İç Anadolu Bölgesi'nde yer alır. Parkın coğrafi yapısı, çeşitli yüksekliklerde ve eğimlerde yer alan arazilerden oluşur. Bu coğrafi çeşitlilik, farklı iklim koşullarına ve bitki türlerine ev sahipliği yapar. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal bir karakterdedir. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurudur. Yayladığı Milli Parkı, çevresindeki diğer doğal güzelliklerle birlikte önemli bir ekosistemi oluşturur. Parkın coğrafi konumu ve iklimi, çeşitli flora ve fauna türlerinin yaşamasına elverişli bir ortam sağlar. Yayladağı Milli Parkı, ziyaretçilerine doğal güzelliği ve fauna çeşitliliği ile birlikte zengin bir coğrafi deneyim sunar.
 
 ## Flora ve Fauna
 

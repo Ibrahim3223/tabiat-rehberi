@@ -44,7 +44,7 @@ Güneydeki dağ silsilelerinin bir parçası olan Darım Dağı, Antalya'nın co
 
 Jeolojik açıdan bakıldığında, Darım Dağı'nın fiziksel yapısı hakkında detaylı bilgi olmamasına rağmen, bölgenin genel coğrafi özelliklerine bakıldığında, dağlık bir yapıya sahip olduğu söylenebilir. Yükseklik bakımından, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu dağ, Antalya'nın coğrafi profiline önemli bir katkıda bulunur.
 
-Mevsimsel olarak, Darım Dağı'nın iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava hüküm sürer. Bu iklim, bölgenin flora ve fauna çeşitliliğini etkiler ve zengin bir ekosistemi destekler.
+Mevsimsel olarak, Darım Dağı'nın iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava hüküm sürer. Bu iklim, bölgenin flora ve fauna çeşitliliğini etkiler ve zengin bir ekosistemi destekler.
 
 Doğal kaynaklar açısından, Darım Dağı'nın çevresi, çeşitli su kaynaklarına ev sahipliği yapar. Bölgedeki nehirler ve dereler, dağdan kaynaklanır ve etraflarındaki köy ve kasabaları besler. Ekosistem bağlantıları açısından, Darım Dağı, bölgenin diğer doğal alanlarıyla bağlantılıdır ve bir bütün olarak düşünüldüğünde, Monaco'nun yaklaşık yarısı kadar bir alanı kaplayan bu dağ, Antalya'nın doğal güzelliklerini ön plana çıkarır.
 

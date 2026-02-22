@@ -37,7 +37,7 @@ wikidata_id: "Q131739054"
 
 ## Coğrafya
 
-İmrahor Hamamı, Fatih, İstanbul'da, Marmara Bölgesi'nin merkezinde yer alır. Bu bölge, deniz seviyesinden yaklaşık yüksek bir konumdate ve Marmara Denizi'ne yakın bir konumdadır. İmrahor Hamamı'nın coğrafi konumu, ziyaretçilerine Marmara Denizi'nin güzelliğini ve İstanbul Boğazı'nın panoramasını sunar. Hamam ve plaj alanı, yeşilliklerle çevrili ve şehrin gürültüsünden uzak bir atmosfere sahiptir. İmrahor Hamamı'nın bulunduğu bölge, İstanbul'un tarihi ve turistik yerlerine yakınlığıyla da dikkat çeker. Çevrede, çeşitli tarihi yapılar, camiler, kiliseler ve müzeler bulunmaktadır.
+İmrahor Hamamı, Fatih, İstanbul'da, Marmara Bölgesi'nin merkezinde yer alır. Bu bölge, yüksek bir konumda ve Marmara Denizi'ne yakın bir konumdadır. İmrahor Hamamı'nın coğrafi konumu, ziyaretçilerine Marmara Denizi'nin güzelliğini ve İstanbul Boğazı'nın panoramasını sunar. Hamam ve plaj alanı, yeşilliklerle çevrili ve şehrin gürültüsünden uzak bir atmosfere sahiptir. İmrahor Hamamı'nın bulunduğu bölge, İstanbul'un tarihi ve turistik yerlerine yakınlığıyla da dikkat çeker. Çevrede, çeşitli tarihi yapılar, camiler, kiliseler ve müzeler bulunmaktadır.
 
 ## Flora ve Fauna
 

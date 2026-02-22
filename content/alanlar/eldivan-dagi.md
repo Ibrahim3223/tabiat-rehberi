@@ -44,7 +44,7 @@ Doğal güzelliklerin buluşma noktası olarak bilinen Çankırı'nın kalbinde 
 
 Jeolojik açıdan bakıldığında, Eldivan Dağı'nın yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel coğrafyası dikkate alındığında, dağlık bir arazide yer aldığı söylenebilir. Bu dağlık bölgenin büyüklüğü, Monaco'nun yarısı kadar bir alanı kaplayacak büyüklükte düşünülerek, yaklaşık 2 kilometrekarelik bir alanı kaplıyor olabilir. Bu büyüklük, Taksim Meydanı'nın 10 katı büyüklüğüne eşdeğerdir.
 
-Mevsimsel değişimlerin etkilerini açıkça gösteren Eldivan Dağı, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve karlı bir iklim karakterine sahiptir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler olarak dikkat çekmektedir. Örneğin, yaz aylarında sıcaklık 30 dereceleri aşabilirken, kış aylarında -10 derecelere düşebilir.
+Mevsimsel değişimlerin etkilerini açıkça gösteren Eldivan Dağı, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı bir iklim karakterine sahiptir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörler olarak dikkat çekmektedir. Örneğin, yaz aylarında sıcaklık 30 dereceleri aşabilirken, kış aylarında -10 derecelere düşebilir.
 
 Eldivan Dağı, çevresindeki ekosistemi önemli ölçüde etkileyen bir doğal unsur olarak rol oynamaktadır. Bu dağ, bölgenin su kaynaklarının oluşumunda önemli bir role sahiptir. Ayrıca, dağın eteklerinde yer alan köyler ve kasabalar, bu doğal güzelliğin turizm potansiyelini değerlendirmektedir. Bu bölgenin ekosistem bağlantıları, bölgenin biyolojik çeşitliliğini destekleyen önemli faktörler olarak dikkat çekmektedir.
 

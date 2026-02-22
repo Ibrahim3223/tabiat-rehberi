@@ -38,7 +38,7 @@ Acar Hamamı'nın tarihi geçmişi, yüzyıllar boyunca insanların bu bölgeyi 
 
 ## Coğrafya
 
-Acar Hamamı, Onikişubat/Kahramanmaraş'ta yer alan bir plaj olarak, Akdeniz Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genel olarak sıca ve kurak bir iklime sahiptir ve yaz aylarında sıcaklık genellikle yüksek seviyededir. Plajın coğrafi konumu, ziyaretçilerine geniş bir deniz alanı ve kumlu bir plaj sunar. Acar Hamamı'nın etrafı, genellikle tarım arazileri ve doğal alanlarla çevrilidir ve bu bölgede çeşitli bitki türleri ve fauna bulunur. Plajın coğrafi yapısı, ziyaretçilerine deniz, kum ve güneşin keyfini çıkarmak için ideal bir ortam sağlar.
+Acar Hamamı, Onikişubat/Kahramanmaraş'ta yer alan bir plaj olarak, Akdeniz Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genel olarak sıcak ve kurak bir iklime sahiptir ve yaz aylarında sıcaklık genellikle yüksek seviyededir. Plajın coğrafi konumu, ziyaretçilerine geniş bir deniz alanı ve kumlu bir plaj sunar. Acar Hamamı'nın etrafı, genellikle tarım arazileri ve doğal alanlarla çevrilidir ve bu bölgede çeşitli bitki türleri ve fauna bulunur. Plajın coğrafi yapısı, ziyaretçilerine deniz, kum ve güneşin keyfini çıkarmak için ideal bir ortam sağlar.
 
 ## Flora ve Fauna
 

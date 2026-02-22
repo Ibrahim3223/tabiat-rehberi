@@ -37,7 +37,7 @@ Hunat Hatun Hamamı, lch tarihinde önemli bir yere sahip. Bu alan, yüzyıllar 
 
 ## Coğrafya
 
-Hunat Hatun Hamamı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerine sahip. Bu bölge, geniş otlaklarla ve verimli topraklarla çevrili. İklim olarak, İç Anadolu Bölgesi'nin genel özelliklerini taşıyan Hunat Hatun Hamamı, ziyaretçilerine dört mevsimin güzelliğini sunuyor. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve karlı olan bu bölgede, ziyaretçiler her mevsim farklı bir güzellikle karşılaşıyor. 140 hektarlık alanı, ziyaretçilere geniş bir yeşil alan sunarken, aynı zamanda doğanın güzelliğini de gözler önüne seriyor. Bu coğrafi konum, ziyaretçilere hem tarihi bir mekan hem de doğal bir güzellik sunuyor.
+Hunat Hatun Hamamı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerine sahip. Bu bölge, geniş otlaklarla ve verimli topraklarla çevrili. İklim olarak, İç Anadolu Bölgesi'nin genel özelliklerini taşıyan Hunat Hatun Hamamı, ziyaretçilerine dört mevsimin güzelliğini sunuyor. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı olan bu bölgede, ziyaretçiler her mevsim farklı bir güzellikle karşılaşıyor. 140 hektarlık alanı, ziyaretçilere geniş bir yeşil alan sunarken, aynı zamanda doğanın güzelliğini de gözler önüne seriyor. Bu coğrafi konum, ziyaretçilere hem tarihi bir mekan hem de doğal bir güzellik sunuyor.
 
 ## Flora ve Fauna
 

@@ -42,7 +42,7 @@ Gözlerimizi Marmara Bölgesi'ne çevirdiğimizde, 40.5437°K, 29.0320°D koordi
 
 Doğal güzellikleri ile dikkat çeken Arganthonius Dağı, jeolojik açıdan da ilgi çekici özellikler taşır. Ancak, detaylı fiziksel verilerin eksikliği nedeniyle, dağın tam olarak boyutları ve şekli hakkında kesin bilgiler bulunmamaktadır. Buna karşın, coğrafi konumu itibariyle, Monaco'nun yarısı kadar büyüklüğe sahip olabilecek bir alanın içinde yer alır.
 
-Marmara Bölgesi'nin karakteristik iklim özellikleri, Arganthonius Dağı'nın mevsimsel özelliklerini de etkiler. İlkbahar ve yaz aylarında sıcaklık artarken, kış aylarında soğu ve yağışlı bir hava hakim olur. Bu mevsimsel değişimler, dağın ekosistemini şekillerine önemli ölçüde etki eder. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı noktalarda, hava koşullarının değişimi daha belirgin hale gelir.
+Marmara Bölgesi'nin karakteristik iklim özellikleri, Arganthonius Dağı'nın mevsimsel özelliklerini de etkiler. İlkbahar ve yaz aylarında sıcaklık artarken, kış aylarında soğuk ve yağışlı bir hava hakim olur. Bu mevsimsel değişimler, dağın ekosistemini şekillerine önemli ölçüde etki eder. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı noktalarda, hava koşullarının değişimi daha belirgin hale gelir.
 
 Çevresel açıdan bakıldığında, Arganthonius Dağı'nın komşu alanlar ile bağlantılı bir ekosistem içinde yer aldığı görülür. Yaklaşık olarak Taksim Meydanı'nın 10 katı büyüklüğünde bir alana spread olan bu dağ, su kaynakları ve bitki örtüsü ile önemli bir doğal kaynak olarak değerlendirilebilir. İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplayan bu bölge, doğal güzellikleri ve ekolojik önemi ile dikkat çeker.
 

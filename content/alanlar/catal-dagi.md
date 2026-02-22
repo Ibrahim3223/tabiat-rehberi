@@ -45,7 +45,7 @@ Mersin'in doğal güzellikleri arasında yer alan Çatal Dağı, 36.9498°K, 34.
 
 Doğal yapısı itibariyle Çatal Dağı, Mersin'in coğrafyasında önemli bir yere sahiptir. Ancak fiziksel verilerin sınırlı olması nedeniyle, dağın boyutları ve şekli hakkında net bir bilgi bulunmamaktadır. Buna karşın, Çatal Dağı'nın Mersin'in genel coğrafyası içinde önemli bir yer tuttuğu söylenebilir. Monaco'nun yarısı kadar bir alanı kaplayacak büyüklükte bir alan düşünüldüğünde, Çatal Dağı'nın boyutları hakkında bir fikir edinilebilir.
 
-Çevresel koşullar açısından Çatal Dağı, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel değişimler, dağın ekosistemini ve bitki örtüsünü etkiler. Eiffel Kulesi'nin 2 katı yükseklikte bir nokta düşünüldüğünde, Çatal Dağı'nın yüksekliği hakkında bir fikir edinilebilir.
+Çevresel koşullar açısından Çatal Dağı, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel değişimler, dağın ekosistemini ve bitki örtüsünü etkiler. Eiffel Kulesi'nin 2 katı yükseklikte bir nokta düşünüldüğünde, Çatal Dağı'nın yüksekliği hakkında bir fikir edinilebilir.
 
 Dağın çevresinde çeşitli su kaynakları ve ekosistem bağlantıları bulunmaktadır. Bu bağlantılar, Çatal Dağı'nın doğal dengesini korumak açısından önemli bir role sahiptir. Taksim Meydanı'nın 10 katı büyüklüğünde bir alan düşünüldüğünde, Çatal Dağı'nın çevresindeki doğal alanların genişliği hakkında bir fikir edinilebilir. Bu geniş alan, çeşitli bitki ve hayvan türleri için yaşam alanı sağlar ve doğal dengenin korunmasına katkıda bulunur.
 

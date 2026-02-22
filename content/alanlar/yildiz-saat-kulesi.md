@@ -38,7 +38,7 @@ Yıldız Saat Kulesi, yüzyıllar boyunca İstanbul'un önemli noktalarından bi
 
 ## Coğrafya
 
-Yıldız Saat Kulesi, İstanbul'un Beşiktaş ilçesinde, Marmara Bölgesi'nde yer alıyor. Yıldız Saat Kulesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan içinde yer alıyor. Yıldız Saat Kulesi'nin coğrafi konumu, İstanbul'un en önemli turistik noktalarından biri olarak kabul ediliyor. Yıldız Saat Kulesi, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor ve İstanbul Boğazı'na hakim bir konumda bulunuyor. Yıldız Saat Kulesi'nin çevresi, çeşitli ağaç ve bitki türleriyle dolu olan bir yeşil alan ile çevrili ve ziyaretçilere doğal bir ortam sunuyor. Yıldız Saat Kulesi, İstanbul'un en önemli coğrafi noktalarından biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
+Yıldız Saat Kulesi, İstanbul'un Beşiktaş ilçesinde, Marmara Bölgesi'nde yer alıyor. Yıldız Saat Kulesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan içinde yer alıyor. Yıldız Saat Kulesi'nin coğrafi konumu, İstanbul'un en önemli turistik noktalarından biri olarak kabul ediliyor. Yıldız Saat Kulesi, yüksek bir konumda yer alıyor ve İstanbul Boğazı'na hakim bir konumda bulunuyor. Yıldız Saat Kulesi'nin çevresi, çeşitli ağaç ve bitki türleriyle dolu olan bir yeşil alan ile çevrili ve ziyaretçilere doğal bir ortam sunuyor. Yıldız Saat Kulesi, İstanbul'un en önemli coğrafi noktalarından biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Yıldız Saat Kulesi, her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
 
 - Yıldız Saat Kulesi, İstanbul'un en önemli tarihi yapılarından biri olarak kabul ediliyor.
 - Yıldız Saat Kulesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan içinde yer alıyor.
-- Yıldız Saat Kulesi, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor.
+- Yıldız Saat Kulesi, yüksek bir konumda yer alıyor.
 - Yıldız Saat Kulesi, İstanbul Boğazı'na hakim bir konumda bulunuyor.
 - Yıldız Saat Kulesi, çeşitli bitki ve hayvan türlerini barındıran bir doğa harikası olarak kabul ediliyor.

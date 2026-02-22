@@ -30,7 +30,7 @@ wikidata_id: "Q108227172"
 
 ## Coğrafya
 
-Şah Ardic, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumda yer alır. Bu bölgenin coğrafyası, geniş otlaklar ve ormanlık alanlarla karakterizedir. Şah Ardic'in coğrafi yapısı, ziyaretçilere çeşitli doğal güzellikler sunar. Bölge, dağlar, vadiler ve nehirler tarafından şekillenmiştir. Şah Ardic'in iklimi, karasal bir iklimdir ve dört mevsim belirgin olarak yaşanır. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Bu iklim şartları, bölgenin flora ve faunasının çeşitliliğini etkiler. Şah Ardic, ziyaretçilerine zengin bir doğa deneyimi sunmak için ideal bir konumda yer alır.
+Şah Ardic, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumda yer alır. Bu bölgenin coğrafyası, geniş otlaklar ve ormanlık alanlarla karakterizedir. Şah Ardic'in coğrafi yapısı, ziyaretçilere çeşitli doğal güzellikler sunar. Bölge, dağlar, vadiler ve nehirler tarafından şekillenmiştir. Şah Ardic'in iklimi, karasal bir iklimdir ve dört mevsim belirgin olarak yaşanır. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim şartları, bölgenin flora ve faunasının çeşitliliğini etkiler. Şah Ardic, ziyaretçilerine zengin bir doğa deneyimi sunmak için ideal bir konumda yer alır.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Gaziantep'in coğrafi güzelliğini keşfetmek için, büyükkatranlı Dağı'n�
 
 Doğal güzelliğinin yanı sıra, büyükkatranlı Dağı'nın fiziksel yapısı da dikkat çekiyor. Ne yazık ki, detaylı fiziksel veriler bulunmuyor, ancak bu dağ, Gaziantep'in genel coğrafi yapısına uygun olarak, kalkerli ve volkanik kayalardan oluşuyor. Dağın şekli ve boyutları, bölgenin jeolojik tarihini yansıtıyor, ancak büyüklüğü, birkaç olimpik havuz kadar bir alanı kaplıyor.
 
-Bölgenin iklim karakteri, büyükkatranlı Dağı'nın coğrafi özelliklerini daha da ilginç kılıyor. Gaziantep'in Akdeniz ikliminin etkisi altında olan bu dağ, yazları sıca ve kurak, kışları ise soğu ve yağışlı bir hava durumuna sahip. Bu mevsimsel özellikler, dağın flora ve faunasını şekillendiriyor ve bölgenin ekolojik dengesini koruyor.
+Bölgenin iklim karakteri, büyükkatranlı Dağı'nın coğrafi özelliklerini daha da ilginç kılıyor. Gaziantep'in Akdeniz ikliminin etkisi altında olan bu dağ, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı bir hava durumuna sahip. Bu mevsimsel özellikler, dağın flora ve faunasını şekillendiriyor ve bölgenin ekolojik dengesini koruyor.
 
 Çevresel ilişkiler açısından, büyükkatranlı Dağı, komşu alanlarla ve su kaynaklarıyla önemli bir bağlantıyı temsil ediyor. Bölge, çeşitli su kaynaklarına ev sahipliği yapıyor ve bu su kaynakları, bölgenin ekosistemini destekliyor. Buna ek olarak, büyükkatranlı Dağı, Monaco'nun yarısı kadar büyük bir alanı kaplayan Gaziantep'in genel coğrafi yapısına da önemli bir katkı sağlıyor.
 

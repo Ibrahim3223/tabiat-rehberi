@@ -36,7 +36,7 @@ Hemyeabdıle Tepesi'nin tarihi geçmişi, Diyarbakır'ın tarihiyle iç içe ge�
 
 ## Coğrafya
 
-Hemyeabdıle Tepesi, Diyarbakır'ın merkezinde yer alır ve çevresindeki coğrafi yapıyla birlikte bölgeye özgü bir peyzaj oluşturur. Tepenin yüksekliği, çevresindeki diğer tepe ve dağlarla birlikte bölgeye özgü bir coğrafi yapı oluşturur. Hemyeabdıle Tepesi, yaklaşık 140 hektarlık bir alanı kapsar ve bu alan, çeşitli bitki türleriyle kaplıdır. Tepenin eteklerinde ve çevresinde çeşitli su kaynakları bulunmaktadır. Bu su kaynakları, bölgenin ekolojik dengesini korumada önemli bir rol oynar. Hemyeabdıle Tepesi, Diyarbakır'ın iklimine uygun olarak, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklimi sahiptir. Bu iklim, bölgeye özgü bitki ve hayvan türlerinin yaşamasına uygun koşullar sunar.
+Hemyeabdıle Tepesi, Diyarbakır'ın merkezinde yer alır ve çevresindeki coğrafi yapıyla birlikte bölgeye özgü bir peyzaj oluşturur. Tepenin yüksekliği, çevresindeki diğer tepe ve dağlarla birlikte bölgeye özgü bir coğrafi yapı oluşturur. Hemyeabdıle Tepesi, yaklaşık 140 hektarlık bir alanı kapsar ve bu alan, çeşitli bitki türleriyle kaplıdır. Tepenin eteklerinde ve çevresinde çeşitli su kaynakları bulunmaktadır. Bu su kaynakları, bölgenin ekolojik dengesini korumada önemli bir rol oynar. Hemyeabdıle Tepesi, Diyarbakır'ın iklimine uygun olarak, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklimi sahiptir. Bu iklim, bölgeye özgü bitki ve hayvan türlerinin yaşamasına uygun koşullar sunar.
 
 ## Flora ve Fauna
 

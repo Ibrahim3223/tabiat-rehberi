@@ -30,7 +30,7 @@ Dokuzkardesler milli parkının tarihi geçmişi, bölgeye ilk yerleşen insanla
 
 ## Coğrafya
 
-Dokuzkardesler milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici bölgelerinden biridir. Park, 140 hektarlık bir alanda yer almakta ve yaklaşık 200 futbol sahası büyüklüğündedir. Parkın coğrafi yapısı, çeşitli bitki türleriyle kaplıdır. Burada, bölgeye özgü ağaç türleri, çayırlar ve otlaklar bulunmaktadır. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Parkın coğrafi konumu, ziyaretçilere çeşitli güzellikler sunmaktadır. Burada, doğa yürüyüşleri, fotoğrafçılık ve doğa gözlemi gibi aktiviteler yapılabilmektedir. Ayrıca, parkın coğrafi yapısı, çeşitli flora ve fauna türlerine ev sahipliği yapmaktadır.
+Dokuzkardesler milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici bölgelerinden biridir. Park, 140 hektarlık bir alanda yer almakta ve yaklaşık 200 futbol sahası büyüklüğündedir. Parkın coğrafi yapısı, çeşitli bitki türleriyle kaplıdır. Burada, bölgeye özgü ağaç türleri, çayırlar ve otlaklar bulunmaktadır. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Parkın coğrafi konumu, ziyaretçilere çeşitli güzellikler sunmaktadır. Burada, doğa yürüyüşleri, fotoğrafçılık ve doğa gözlemi gibi aktiviteler yapılabilmektedir. Ayrıca, parkın coğrafi yapısı, çeşitli flora ve fauna türlerine ev sahipliği yapmaktadır.
 
 ## Flora ve Fauna
 

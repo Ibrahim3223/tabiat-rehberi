@@ -36,7 +36,7 @@ wikidata_id: "Q31391268"
 
 ## Coğrafya
 
-İnek Tepesi, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biridir. Bu tepe, geniş ovalar ve dağlarla çevrili bir bölgede yer alıyor. İklim, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal özellik gösteriyor. Yaz ayları sıca ve kurak, kış ayları ise soğu ve kar yağışlı geçiyor. Bu coğrafi yapı, İnek Tepesi'nin flora ve faunasını etkileyerek, burada çeşitli bitki ve hayvan türlerinin yaşamasına olanak sağlıyor. Tepenin yüksekliği ve eğimli yapısı, rüzgarın ve suyun etkilerini de gösteriyor. Bu coğrafi çeşitlilik, İnek Tepesi'ni bir doğa harikası haline getiriyor.
+İnek Tepesi, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biridir. Bu tepe, geniş ovalar ve dağlarla çevrili bir bölgede yer alıyor. İklim, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal özellik gösteriyor. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçiyor. Bu coğrafi yapı, İnek Tepesi'nin flora ve faunasını etkileyerek, burada çeşitli bitki ve hayvan türlerinin yaşamasına olanak sağlıyor. Tepenin yüksekliği ve eğimli yapısı, rüzgarın ve suyun etkilerini de gösteriyor. Bu coğrafi çeşitlilik, İnek Tepesi'ni bir doğa harikası haline getiriyor.
 
 ## Flora ve Fauna
 

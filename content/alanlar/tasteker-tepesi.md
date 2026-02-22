@@ -36,7 +36,7 @@ Taşteker Tepesi, tarihi geçmişiyle birlikte yüzyıllar boyunca çeşitli med
 
 ## Coğrafya
 
-Taşteker Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde önemli bir yer tutar. Bu bölge, yüksek ovalar, dağlar ve platolarla çevrili bir alanda yer alır ve tepe, bu coğrafi oluşumların bir parçası olarak görülür. Tepenin etrafında, genellikle step Ikliminin hakim olduğu bir bölge vardır ve bu, flora ve faunayı şekillendiren önemli bir faktördür. Bölge, genel olarak kura ve soğuk kışlar, sıca ve kurak yazlarla karakterizedir. Bu coğrafi ve iklimsel özellikler, tepe ve çevresinin doğal güzelliğini ve biyolojik çeşitliliğini etkiler.
+Taşteker Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde önemli bir yer tutar. Bu bölge, yüksek ovalar, dağlar ve platolarla çevrili bir alanda yer alır ve tepe, bu coğrafi oluşumların bir parçası olarak görülür. Tepenin etrafında, genellikle step Ikliminin hakim olduğu bir bölge vardır ve bu, flora ve faunayı şekillendiren önemli bir faktördür. Bölge, genel olarak kura ve soğuk kışlar, sıcak ve kurak yazlarla karakterizedir. Bu coğrafi ve iklimsel özellikler, tepe ve çevresinin doğal güzelliğini ve biyolojik çeşitliliğini etkiler.
 
 ## Flora ve Fauna
 

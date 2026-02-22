@@ -43,7 +43,7 @@ Mersin'in göbeğinde yer alan Hisar Dağı, 36.3976°K, 33.7294°D koordinatlar
 
 Doğal güzelliği ve coğrafi konumuyla dikkat çeken Hisar Dağı, bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu küçük ama önemli alan, Mersin'in coğrafi yapısında önemli bir rol oynar. Hisar Dağı'nın jeolojik yapısı, bölgenin jeolojik tarihini anlamak için önemlidir. Ancak, detaylı fiziksel veri bulunmaması nedeniyle, dağın yüksekliği ve şekli hakkında net bilgi verilememektedir.
 
-Mersin'in iklimi, Hisar Dağı'nın çevresel koşullarını doğrudan etkiler. Bölge, Akdeniz ikliminin karakteristik özelliklerini taşır; yazlar sıca ve kurak, kışlar ılıman ve yağışlı geçer. Hisar Dağı, bu mevsimsel değişimlere uyum gösteren bitki örtüsüne ev sahipliği yapar. Dağın iklim koşulları, bölgenin flora ve faunasını şekillendiren önemli bir faktördür.
+Mersin'in iklimi, Hisar Dağı'nın çevresel koşullarını doğrudan etkiler. Bölge, Akdeniz ikliminin karakteristik özelliklerini taşır; yazlar sıcak ve kurak, kışlar ılıman ve yağışlı geçer. Hisar Dağı, bu mevsimsel değişimlere uyum gösteren bitki örtüsüne ev sahipliği yapar. Dağın iklim koşulları, bölgenin flora ve faunasını şekillendiren önemli bir faktördür.
 
 Hisar Dağı, Mersin'in çevresel dengesini sağlayan önemli bir bileşendir. Dağın yakınında bulunan su kaynakları, bölgenin ekosistemini destekler. Ayrıca, Hisar Dağı, komşu alanlarla birlikte, Mersin'in doğal güzelliğini ve biyolojik çeşitliliğini korur. Bu dağ, bölgenin coğrafi yapısına katkıda bulunan ve Mersin'in doğal mirasını zenginleştiren önemli bir parça olarak görülebilir.
 

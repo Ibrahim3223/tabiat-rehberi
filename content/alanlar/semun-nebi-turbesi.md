@@ -37,7 +37,7 @@ wikidata_id: "Q131390872"
 
 ## Coğrafya
 
-Şem’un Nebi Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi çeşitliliğiçinde yer alır. Bu bölge, dağlar, ovalar ve nehirlerle karakterizedir. Türbe, Kilis ilinin güneydoğusunda, bir tepe üzerinde kurulmuştur ve çevredeki manzara, ziyaretçilere geniş bir görüş açısı sunar. Bölgenin iklimi, karasal ve kurak karakterdedir, yazlar sıca ve kurak, kışlar ise soğu ve yağışlı geçer. Çevre, çeşitli bitki türleri ve fauna ile zenginleştirilmiştir. Şem’un Nebi Türbesi'ne ulaşmak, Kilis il merkezinden kolayca sağlanabilir ve ziyaretçiler, türbenin etrafındaki doğal güzellikleri keşfedebilir. Bölgenin coğrafi yapısı, ziyaretçilere hem doğal hem de dinî bir deneyimi bir araya getiren benzersiz bir ortam sunar.
+Şem’un Nebi Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi çeşitliliğiçinde yer alır. Bu bölge, dağlar, ovalar ve nehirlerle karakterizedir. Türbe, Kilis ilinin güneydoğusunda, bir tepe üzerinde kurulmuştur ve çevredeki manzara, ziyaretçilere geniş bir görüş açısı sunar. Bölgenin iklimi, karasal ve kurak karakterdedir, yazlar sıcak ve kurak, kışlar ise soğuk ve yağışlı geçer. Çevre, çeşitli bitki türleri ve fauna ile zenginleştirilmiştir. Şem’un Nebi Türbesi'ne ulaşmak, Kilis il merkezinden kolayca sağlanabilir ve ziyaretçiler, türbenin etrafındaki doğal güzellikleri keşfedebilir. Bölgenin coğrafi yapısı, ziyaretçilere hem doğal hem de dinî bir deneyimi bir araya getiren benzersiz bir ortam sunar.
 
 ## Flora ve Fauna
 

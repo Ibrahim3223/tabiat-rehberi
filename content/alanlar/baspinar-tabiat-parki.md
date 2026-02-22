@@ -36,7 +36,7 @@ Başpınar Tabiat Parkı, yüzyıllar boyunca bölgenin önemli bir doğal kayna
 
 ## Coğrafya
 
-Başpınar Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi olarak en önemli bölgelerinden birinde yer almaktadır. Parkın etrafı, yüksek tepelerle çevrilidir ve bu tepelerden parkın panoramik manzarasını izleme mümkündür. Parkın iklimi, karasal iklim özellikleri göstermektedir. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Parkın içinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Parkın flora ve faunası, bölgenin coğrafi özelliklerine göre şekillenmiştir. Parkın etrafındaki tepeler, parkın doğal bir koruma alanı oluşturmakta ve parkın içindeki ekosistemi korumaktadır.
+Başpınar Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi olarak en önemli bölgelerinden birinde yer almaktadır. Parkın etrafı, yüksek tepelerle çevrilidir ve bu tepelerden parkın panoramik manzarasını izleme mümkündür. Parkın iklimi, karasal iklim özellikleri göstermektedir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Parkın içinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Parkın flora ve faunası, bölgenin coğrafi özelliklerine göre şekillenmiştir. Parkın etrafındaki tepeler, parkın doğal bir koruma alanı oluşturmakta ve parkın içindeki ekosistemi korumaktadır.
 
 ## Flora ve Fauna
 

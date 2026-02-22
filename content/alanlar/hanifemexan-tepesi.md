@@ -36,7 +36,7 @@ Hanifemexan Tepesi, tarihi geçmişi ile dikkat çeker. Bu tepe, yüzyıllar boy
 
 ## Coğrafya
 
-Hanifemexan Tepesi, Akdeniz Bölgesi'nin coğrafi özelliklerini taşır. Bu tepe, dağlık bir bölgede yer alır ve etraftaki dağlar ile birlikte bir doğa harikası oluşturur. Tepenin yüksekliği, ziyaretçilere geniş bir görüş açısı sunar ve etraftaki dağların, vadilerin ve ovaların muhteşem manzarasını seyretme fırsatı verir. Hanifemexan Tepesi, aynı zamanda çeşitli bitki türleri ile kaplıdır ve bu bölgenin ekolojik zenginliğini gösterir. Tepenin iklimi, Akdeniz ikliminin özelliklerini taşır ve ziyaretçiler, bu bölgenin sıca ve güneşli günlerini deneyimleyebilirler. Hanifemexan Tepesi, coğrafi güzelliği ve çeşitliliği ile dikkat çeker ve ziyaretçilere doğanın güzelliğini deneyimleme fırsatı sunar.
+Hanifemexan Tepesi, Akdeniz Bölgesi'nin coğrafi özelliklerini taşır. Bu tepe, dağlık bir bölgede yer alır ve etraftaki dağlar ile birlikte bir doğa harikası oluşturur. Tepenin yüksekliği, ziyaretçilere geniş bir görüş açısı sunar ve etraftaki dağların, vadilerin ve ovaların muhteşem manzarasını seyretme fırsatı verir. Hanifemexan Tepesi, aynı zamanda çeşitli bitki türleri ile kaplıdır ve bu bölgenin ekolojik zenginliğini gösterir. Tepenin iklimi, Akdeniz ikliminin özelliklerini taşır ve ziyaretçiler, bu bölgenin sıcak ve güneşli günlerini deneyimleyebilirler. Hanifemexan Tepesi, coğrafi güzelliği ve çeşitliliği ile dikkat çeker ve ziyaretçilere doğanın güzelliğini deneyimleme fırsatı sunar.
 
 ## Flora ve Fauna
 

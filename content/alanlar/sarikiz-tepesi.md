@@ -37,7 +37,7 @@ Sarıkız Tepesi'nin tarihi geçmişi oldukça eskilere dayanıyor. Bu tepe, yü
 
 ## Coğrafya
 
-Sarıkız Tepesi, Aydın'ın merkezine yakın bir konumda yer alıyor ve Ege Bölgesi'nin önemli bölgelerinden biri olarak kabul ediliyor. Tepenin etrafı, çeşitli bitki türleri ile kaplı ve bu bölgede zengin fauna dikkat çekiyor. Sarıkız Tepesi, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdate ve bu da bu bölgenin coğrafi özelliklerini ortaya koyuyor. Tepenin etrafında, çeşitli akarsular ve dereler yer alıyor ve bu bölgede su kaynakları oldukça zengin. Sarıkız Tepesi, coğrafi konumu ve doğal güzelliği ile dikkat çekiyor ve ziyaretçilerini bekliyor.
+Sarıkız Tepesi, Aydın'ın merkezine yakın bir konumda yer alıyor ve Ege Bölgesi'nin önemli bölgelerinden biri olarak kabul ediliyor. Tepenin etrafı, çeşitli bitki türleri ile kaplı ve bu bölgede zengin fauna dikkat çekiyor. Sarıkız Tepesi, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği, yüksek bir konumda ve bu da bu bölgenin coğrafi özelliklerini ortaya koyuyor. Tepenin etrafında, çeşitli akarsular ve dereler yer alıyor ve bu bölgede su kaynakları oldukça zengin. Sarıkız Tepesi, coğrafi konumu ve doğal güzelliği ile dikkat çekiyor ve ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Sarıkız Tepesi, ziyaretçilerini bekliyor ve bu bölgeyi gezmek oldukça keyif
 ## İlginç Bilgiler
 
 - Sarıkız Tepesi, 140 hektarlık bir alanı kaplıyor
-- Tepenin yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdate
+- Tepenin yüksekliği, yüksek bir konumda
 - Tepenin etrafında, çeşitli akarsular ve dereler yer alıyor
 - Sarıkız Tepesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapıyor
 - Tepenin etrafında, çeşitli yürüyüş yolları ve patikalar yer alıyor

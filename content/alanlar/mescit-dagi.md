@@ -43,7 +43,7 @@ Doğunun gizli köşelerinden biri olan Mescit Dağı, 40.3704°K ve 41.1874°D 
 
 Jeolojik açıdan bakıldığında, Mescit Dağı'nın fiziksel yapısı hakkında detaylı bilgi olmasa da, coğrafi konumu itibariyle çevresindeki dağlarla benzerlik gösterdiği söylenebilir. Bu dağların çoğu, Türkiye'nin Doğu Anadolu Bölgesi'nin karakteristik dağlık yapısına uygun olarak oluşmuşlardır. Yükseklik bakımından, Mescit Dağı'nın Eiffel Kulesi'nin birkaç katı yükseklikte olduğu düşünülürse, bu dağların büyüklüğü daha iyi anlaşılabilir.
 
-Mevsimsel açıdan, Mescit Dağı ve çevresinin iklimi, karasal iklimin karakteristik özellikleri gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise serin ve yağışlı bir hava hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliği üzerinde önemli bir etkiye sahiptir.
+Mevsimsel açıdan, Mescit Dağı ve çevresinin iklimi, karasal iklimin karakteristik özellikleri gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise serin ve yağışlı bir hava hakimdir. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliği üzerinde önemli bir etkiye sahiptir.
 
 Çevresel açıdan, Mescit Dağı, Erzurum'un doğal güzelliklerine katkıda bulunan önemli bir bileşendir. Dağın eteklerinde ve çevresinde, çeşitli su kaynakları ve ekosistemler bulunur. Bu su kaynakları, bölgenin tarımı ve hayvancılığı için büyük önem taşır. Ayrıca, Mescit Dağı, bölgedeki diğer dağlar ve doğal alanlarla bağlantılı olarak, bir bütün olarak düşünülmesi gereken bir ekosistemin parçasıdır.
 

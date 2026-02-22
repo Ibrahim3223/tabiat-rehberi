@@ -44,7 +44,7 @@ Iğdır'ın coğrafi çeşitliliğiçinde yer alan Tekaltıdağı Tepe, 39.7381�
 
 Doğal güzelliği ve coğrafi konumuyla dikkat çeken Tekaltıdağı Tepe, çevresindeki dağlık arazilerle birlikte bir bütünü teşkil ediyor. Ancak, fiziksel veri eksikliği nedeniyle tam olarak boyutları ve şekli hakkında net bilgi vermek zor. Buna rağmen, tepe ve çevresindeki dağların yüksekliklerinin Eiffel Kulesi'nin birkaç katı yükseklikte olduğu söylenebilir. Bu yükseklik, bölgenin coğrafi yapısını ve iklimini etkileyen önemli bir faktör.
 
-Mevsimsel özellikler bakımından, Tekaltıdağı Tepe ve çevresi, karasal iklimin etkilerini gösteriyor. Kışlar soğu ve kar yağışlı, yazlar ise sıca ve kurak geçiyor. Bu mevsimsel değişimler, tepe ve çevresindeki bitki örtüsünü ve fauna çeşitliliğini etkiliyor. Hava durumu, bölgenin coğrafi yapısı ve yüksekliği nedeniyle değişkenlik gösterebiliyor.
+Mevsimsel özellikler bakımından, Tekaltıdağı Tepe ve çevresi, karasal iklimin etkilerini gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu mevsimsel değişimler, tepe ve çevresindeki bitki örtüsünü ve fauna çeşitliliğini etkiliyor. Hava durumu, bölgenin coğrafi yapısı ve yüksekliği nedeniyle değişkenlik gösterebiliyor.
 
 Çevresel açıdan, Tekaltıdağı Tepe, Iğdır Nehri ve diğer su kaynaklarına yakınlığıyla dikkat çekiyor. Bu su kaynakları, bölgenin ekosistemini destekleyen önemli faktörler. Ayrıca, tepe ve çevresindeki dağlık alanlar, bölgenin biyolojik çeşitliliğini koruma altına alan önemli ekosistem bağlantıları teşkil ediyor. Monaco'nun yarısı kadar büyük bir alana yayılan Iğdır Ovası, bu tepe ve çevresindeki dağlarla birlikte bir bütünü oluşturuyor.
 

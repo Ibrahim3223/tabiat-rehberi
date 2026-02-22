@@ -42,7 +42,7 @@ Doğal güzelliklerin zengin olduğu Amasya ili, coğrafi çeşitlilik açısın
 
 Jeolojik açıdan bakıldığında, Sarıtaş Dağı'nın fiziksel yapısı hakkındalı bilgiler bulunmamaktadır. Ancak, dağların genellikle karmaşık jeolojik yapıları olduğu düşünülürse, Sarıtaş Dağı'nın da benzer bir yapıya sahip olabileceği söylenebilir. Bu dağ, Amasya'nın genel coğrafi yapısına uygun olarak, bir şehir bloğu büyüklüğünde bir alanı kaplayabilir. Bu boyut, Taksim Meydanı'nın birkaç katı büyüklüğüne eşdeğerdir.
 
-İklim açısından, Amasya ili Karadeniz Bölgesi'nin iç kesimlerinde yer almaktadır. Bu nedenle, Sarıtaş Dağı'nın iklimi de Karadeniz ikliminin özelliklerini taşır. Bölge, yazları serin ve yağışlı, kışları ise soğu ve karlı geçer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler.
+İklim açısından, Amasya ili Karadeniz Bölgesi'nin iç kesimlerinde yer almaktadır. Bu nedenle, Sarıtaş Dağı'nın iklimi de Karadeniz ikliminin özelliklerini taşır. Bölge, yazları serin ve yağışlı, kışları ise soğuk ve karlı geçer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler.
 
 Bölgenin çevresel ilişkileri, komşu alanlar ve su kaynakları açısından önemlidir. Sarıtaş Dağı, Yeşilırmak Nehri'nin yakınlarında yer alır ve bu nehrin su kaynakları, bölgenin ekosistemini etkiler. Ayrıca, dağlık alanlar genellikle su kaynaklarının oluşumunda önemli bir role sahiptir. Bu nedenle, Sarıtaş Dağı'nın çevresel ilişkileri, bölgenin su kaynakları ve ekosistemi açısından önemlidir.
 

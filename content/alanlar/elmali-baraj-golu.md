@@ -37,7 +37,7 @@ Türkiye'de doğal alanlar, tarih boyunca insanların yaşamlarında merkezi bir
 
 Doğal bir güzelliğe sahip olan Elmalı Baraj Gölü, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Gölün fiziksel yapısı, çevresindeki arazinin jeolojik özelliklerine bağlı olarak şekillenmiştir. Ancak, detaylı fiziksel verilerin olmaması, gölün tam olarak boyutlarını ve şeklini belirlemeyi zorlaştırmaktadır.
 
-Mevsimsel özellikler açısından, Elmalı Baraj Gölü, İstanbul'un genel iklim karakterini paylaşmaktadır. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Gölün su seviyesi, mevsimsel yağışlara bağlı olarak değişebilir ve bu durum, su kaynaklarının yönetimini etkileyebilir.
+Mevsimsel özellikler açısından, Elmalı Baraj Gölü, İstanbul'un genel iklim karakterini paylaşmaktadır. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Gölün su seviyesi, mevsimsel yağışlara bağlı olarak değişebilir ve bu durum, su kaynaklarının yönetimini etkileyebilir.
 
 Çevresel açıdan, Elmalı Baraj Gölü, komşu alanlarla ve su kaynaklarıyla önemli bağlantılar içermektedir. Göl, çevresindeki ekosistemin bir parçası olarak, yerel flora ve fauna için önemli bir yaşam alanı sunmaktadır. Ayrıca, gölün su kaynakları, şehrin su ihtiyacını karşılamak için kullanılmaktadır. Bu nedenle, gölün çevresel ilişkileri, şehrin su yönetimini etkileyen önemli bir faktördür.
 

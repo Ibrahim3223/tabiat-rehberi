@@ -30,7 +30,7 @@ Bardnala Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-Bardnala Şelalesi, Karadeniz Bölgesi'nin coğrafi yapısı içerisinde, dağların ve ormanların arasında yer alır. Bu bölge, 140 hektarlık bir yeşil alana sahiptir ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Şelalenin yüksekliği, deniz seviyesinden yaklaşık yüksek bir konumdatedir. Bardnala Şelalesi, Karadeniz Bölgesi'nin iklim koşullarına uygun olarak, yıl boyunca ziyaretçilerini ağırlar. Bölgenin coğrafi yapısı, çeşitli bitki türleri ve zengin faunayı destekler. Şelalenin çevresinde, yüksek dağlar ve derin vadiler bulunur ve bu bölge, trekking ve doğa yürüyüşü için ideal bir yerdir.
+Bardnala Şelalesi, Karadeniz Bölgesi'nin coğrafi yapısı içerisinde, dağların ve ormanların arasında yer alır. Bu bölge, 140 hektarlık bir yeşil alana sahiptir ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Şelalenin yüksekliği, yüksek bir konumdadir. Bardnala Şelalesi, Karadeniz Bölgesi'nin iklim koşullarına uygun olarak, yıl boyunca ziyaretçilerini ağırlar. Bölgenin coğrafi yapısı, çeşitli bitki türleri ve zengin faunayı destekler. Şelalenin çevresinde, yüksek dağlar ve derin vadiler bulunur ve bu bölge, trekking ve doğa yürüyüşü için ideal bir yerdir.
 
 ## Flora ve Fauna
 

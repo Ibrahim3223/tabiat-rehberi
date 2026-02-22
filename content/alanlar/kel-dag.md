@@ -45,7 +45,7 @@ Yozgat'ın dağlık kesimlerinde, 39.0803°K ve 35.1872°D koordinatlarında yer
 
 Doğal güzellikleri ve jeolojik yapısı ile dikkat çeken Kel Dağ, yaklaşık 1200 hektarlık bir alanı kaplamaktadır. Bu alan, İstanbul'un Adalar ilçesi büyüklüğüne yakın bir ölçekte düşünüldüğünde, Kel Dağ'ın büyüklüğü daha iyi anlaşılabilir. Jeolojik açıdan incelendiğinde, Kel Dağ'ın yapısı kayaçlar ve topraklardan oluşmaktadır. Ancak, daha fiziksel verileri bulunmaması nedeniyle, Kel Dağ'ın tam olarak boyutları ve şekli hakkında net bir bilgi verme mümkün değildir.
 
-Mevsimsel değişikliklere göre iklim karakteri değişen Kel Dağ, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve kar yağışlı bir hava durumuna sahiptir. Bu mevsimsel özellikler, bölgenin flora ve fauna yapısını etkilemektedir. Kel Dağ'ın iklim karakteri, çevresindeki diğer dağlık alanlar ile benzerlik göstermektedir.
+Mevsimsel değişikliklere göre iklim karakteri değişen Kel Dağ, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve kar yağışlı bir hava durumuna sahiptir. Bu mevsimsel özellikler, bölgenin flora ve fauna yapısını etkilemektedir. Kel Dağ'ın iklim karakteri, çevresindeki diğer dağlık alanlar ile benzerlik göstermektedir.
 
 Kel Dağ, çevresindeki diğer coğrafi oluşumlar ile birlikte bir ekosistem oluşturmaktadır. Yakınındaki su kaynakları ve diğer dağlar ile bağlantılı olan Kel Dağ, bölgenin doğal dengesini korumakta önemli bir role sahiptir. Ayrıca, Kel Dağ'ın bulunduğu bölgede çeşitli bitki ve hayvan türleri yaşamaktadır. Bu nedenle, Kel Dağ, çevresindeki diğer alanlar ile birlikte bir bütün olarak düşünülerek korunması gereken bir doğal alan olarak görülmelidir.
 

@@ -42,7 +42,7 @@ Doğal güzellikleri ve stratejik konumuyla, İzmir ve çevresi, tarihin çeşit
 
 Doğal güzellikleri ile dikkat çeken Hekim Adası, yaklaşık bir şehir bloğu büyüklüğünde bir alana sahiptir. Ada, genel olarak düz bir yapıya sahip olmakla birlikte, bazı noktalarda hafif eğimler görülüyor. Jeolojik olarak incelendiğinde, ada chủ olarak kireçtaşı ve volkanik kayaçlardan oluşuyor. Bu yapı, ada üzerinde çeşitli bitki türlerinin yetişmesine olanak tanıyor.
 
-İklim açısından bakıldığında, Hekim Adası, Ege Bölgesi'nin karakteristik Akdeniz ikliminin etkilerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürüyor. Ada, özellikle bahar ve yaz aylarında, sıcaklığın 25-30 derece arasında değiştiği bir döneme sahne oluyor. Bu mevsimsel özellikler, ada üzerinde çeşitli flora ve fauna türlerinin gelişimine katkıda bulunuyor.
+İklim açısından bakıldığında, Hekim Adası, Ege Bölgesi'nin karakteristik Akdeniz ikliminin etkilerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürüyor. Ada, özellikle bahar ve yaz aylarında, sıcaklığın 25-30 derece arasında değiştiği bir döneme sahne oluyor. Bu mevsimsel özellikler, ada üzerinde çeşitli flora ve fauna türlerinin gelişimine katkıda bulunuyor.
 
 Ada, etrafındaki su kaynakları ve ekosistem bağlantıları açısından da önemli bir role sahip. Hekim Adası, Ege Denizi'nin bir parçası olan Karaburun Körfezi'nin içinde yer alıyor. Bu körfez, çeşitli su ürünleri ve deniz canlılarına ev sahipliği yapıyor. Ada, ayrıca komşu kara parçaları ile de bağlantılı olarak, bölgedeki ekosistem dengesinin korunmasına katkıda bulunuyor. Bu nedenle, Hekim Adası, sadece bir ada olarak değil, bölgenin doğal dengesinin bir parçası olarak da görülmelidir.
 

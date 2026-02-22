@@ -42,7 +42,7 @@ Ankara'nın kalbinde yer alan Küçükçal Tepesi, 39.4375°K, 32.5494°D koordi
 
 Doğal güzelliği ile dikkat çeken Küçükçal Tepesi, Ankara'nın coğrafi yapısının önemli bir parçasını oluşturuyor. Tepenin fiziksel yapısı, Ankara'nın genel coğrafyasına benzer şekilde, farklı jeolojik oluşumlarla şekillenmiş. Bu oluşumlar, bölgenin jeolojik geçmişini anlatıyor. Ancak, mevcut verilerle, tepenin boyutları veya şekli hakkında net bir bilgi verilemiyor.
 
-Mevsimsel değişikliklerle birlikte, Küçükçal Tepesi de farklı hava koşullarına maruz kalıyor. Ankara'nın karasal iklimi, bu bölgede de kendini gösteriyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürüyor. Bu mevsimsel özellikler, tepenin doğal güzelliğini ve biyolojik çeşitliliğini etkiliyor.
+Mevsimsel değişikliklerle birlikte, Küçükçal Tepesi de farklı hava koşullarına maruz kalıyor. Ankara'nın karasal iklimi, bu bölgede de kendini gösteriyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürüyor. Bu mevsimsel özellikler, tepenin doğal güzelliğini ve biyolojik çeşitliliğini etkiliyor.
 
 Çevresel açıdan, Küçükçal Tepesi, Ankara'nın ekosistemine önemli bir katkı sağlıyor. Tepenin yakınında bulunan su kaynakları ve diğer doğal alanlar, bölgenin biyolojik çeşitliliğini zenginleştirmeye yardımcı oluyor. Ayrıca, bu alanlar, şehrin hava kalitesini iyileştirme ve doğal dengeyi korumak açısından da önemli bir rol oynuyor.
 

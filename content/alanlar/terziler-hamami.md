@@ -38,7 +38,7 @@ Terziler Hamamı'nın tarihi geçmişi, Tire'nin tarihi ile iç içedir. Tire, E
 
 ## Coğrafya
 
-Terziler Hamamı, İzmir'in Tire ilçesinde, Ege Bölgesi'nin batı kıyısında yer alır. Plaj, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu alan, geniş ve uzun bir kumsala sahiptir ve denizin suyu, genellikle sakin ve berraktır. Plajın çevresi, yeşilliklerle dolu ve çeşitli ağaçlar, çalılar ve bitkilerle kaplıdır. Terziler Hamamı, deniz seviyesinde yer alır ve etrafı, tepelerle ve dağlarla çevrilidir. Bu coğrafi konum, plajı, diğer bölgelerden ayırır ve bir atmosfer yaratır. Plajın iklimi, Akdeniz iklimi özellikleri taşır ve yaz aylarında sıca ve güneşli, kış aylarında ise ılık ve yağmurludur. Bu iklim, plajı, yıl boyunca ziyaret edilebilecek bir yer haline getirir.
+Terziler Hamamı, İzmir'in Tire ilçesinde, Ege Bölgesi'nin batı kıyısında yer alır. Plaj, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu alan, geniş ve uzun bir kumsala sahiptir ve denizin suyu, genellikle sakin ve berraktır. Plajın çevresi, yeşilliklerle dolu ve çeşitli ağaçlar, çalılar ve bitkilerle kaplıdır. Terziler Hamamı, deniz seviyesinde yer alır ve etrafı, tepelerle ve dağlarla çevrilidir. Bu coğrafi konum, plajı, diğer bölgelerden ayırır ve bir atmosfer yaratır. Plajın iklimi, Akdeniz iklimi özellikleri taşır ve yaz aylarında sıcak ve güneşli, kış aylarında ise ılık ve yağmurludur. Bu iklim, plajı, yıl boyunca ziyaret edilebilecek bir yer haline getirir.
 
 ## Flora ve Fauna
 

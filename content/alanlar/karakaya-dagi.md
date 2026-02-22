@@ -45,7 +45,7 @@ Doğu Anadolu Bölgesi'nin kalbinde yer alan Karakaya Dağı, Erzincan ilinin s�
 
 Jeolojik açıdan incelendiğinde, Karakaya Dağı'nın yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel jeolojik özellikleri dikkate alındığında, dağlık bir arazide yer aldığı söylenebilir. Yüksekliği Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu dağ, bölgenin coğrafi yapısını etkileyen önemli bir faktördür. Karakaya Dağı'nın boyutları, Monaco'nun yarısı kadar bir alanı kaplayacak büyüklüktedir, ancak tam olarak bilinmemektedir.
 
-Mevsimsel özellikler açısından incelendiğinde, Karakaya Dağı'nın bulunduğu bölge, karasal iklimin etkilerini taşır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu mevsimsel değişimler, bölgenin ekosistemini şekillendiren önemli bir faktördür.
+Mevsimsel özellikler açısından incelendiğinde, Karakaya Dağı'nın bulunduğu bölge, karasal iklimin etkilerini taşır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu mevsimsel değişimler, bölgenin ekosistemini şekillendiren önemli bir faktördür.
 
 Çevresel açıdan bakıldığında, Karakaya Dağı, bölgenin su kaynakları ve ekosistem bağlantıları için önemli bir rolesahiptir. Yaklaşık olarak Taksim Meydanı'nın 10 katı büyüklüğünde bir alanı kapsayan Karakaya Dağı, bölgenin flora ve fauna çeşitliliğini destekleyen önemli bir coğrafi unsur olarak karşımıza çıkar.
 

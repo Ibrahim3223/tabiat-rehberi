@@ -45,7 +45,7 @@ Güneşin batışının renkli tonlarıyla aydınlanan bir manzaraya sahip olan 
 
 Doğal güzelliği ile ön plana çıkan Kara Adası, fiziksel yapısı hakkında detaylı bilgi bulunmasa da, koordinatlarından yola çıkarak çevresiyle olan ilişkisini değerlendirme mümkün. Ada, bir şehir bloğu büyüklüğünde bir alan kaplıyor ve bu özelliği, onu diğer adalardan ayıran bir unsura dönüşüyor. Jeolojik olarak bakıldığında, ada çevresindeki su kaynakları ve ekosistem bağlantıları, kara ve deniz arasındaki etkileşimi gösteriyor.
 
-Mevsimsel değişimlerin etkisi altında kalan Kara Adası, iklim karakteri açısından ilgi çekici bir profile sahip. Kış aylarında soğu ve yağışlı bir hava, yaz aylarında ise sıca ve nemli bir hava hakim oluyor. Bu mevsimsel özellikler, adanın flora ve fauna çeşitliliğini etkileyerek, doğanın döngüsünü şekillendiriyor.
+Mevsimsel değişimlerin etkisi altında kalan Kara Adası, iklim karakteri açısından ilgi çekici bir profile sahip. Kış aylarında soğuk ve yağışlı bir hava, yaz aylarında ise sıcak ve nemli bir hava hakim oluyor. Bu mevsimsel özellikler, adanın flora ve fauna çeşitliliğini etkileyerek, doğanın döngüsünü şekillendiriyor.
 
 Ada çevresindeki su kaynakları ve ekosistem bağlantıları, Kara Adası'nın çevresel ilişkilerini şekillendiren önemli faktörler olarak dikkat çekiyor. Komşu alanlar, adanın coğrafyasını etkileyen ve ona özgü bir karakter kazandıran unsurlar arasında yer alıyor. Monaco'nun küçük bir adasından daha büyük olmayan bu ada, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alan kaplıyor ve bu özelliği, onu çevresindeki diğer adalardan ayıran bir unsura dönüşüyor.
 

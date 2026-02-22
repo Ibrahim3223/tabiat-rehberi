@@ -38,7 +38,7 @@ Nigar Hatun Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu 
 
 ## Coğrafya
 
-Nigar Hatun Türbesi, Antalya'nın Muratpaşa ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Türbenin bulunduğu bölge, çeşitli bitki türleri ve ağaçlarla çevrili ve ziyaretçilere doğal bir ortam sunuyor. Çevre, zengin bir fauna çeşitliliğine sahip ve farklı mevsimlerde ziyaret edildiğinde, ziyaretçilere farklı deneyimler sunuyor. Nigar Hatun Türbesi'nin bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve ziyaretçilere geniş bir açık alan sunuyor. Türbenin etrafı, çeşitli yürüyüş yolları ve piknik alanları ile ziyaretçilerin keyifli vakit geçirmesine olanak tanıyor. Akdeniz ikliminin hüküm sürdüğü bu bölgede, yaz ayları sıca ve kurak, kış ayları ise ılık ve yağışlı geçiyor.
+Nigar Hatun Türbesi, Antalya'nın Muratpaşa ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Türbenin bulunduğu bölge, çeşitli bitki türleri ve ağaçlarla çevrili ve ziyaretçilere doğal bir ortam sunuyor. Çevre, zengin bir fauna çeşitliliğine sahip ve farklı mevsimlerde ziyaret edildiğinde, ziyaretçilere farklı deneyimler sunuyor. Nigar Hatun Türbesi'nin bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve ziyaretçilere geniş bir açık alan sunuyor. Türbenin etrafı, çeşitli yürüyüş yolları ve piknik alanları ile ziyaretçilerin keyifli vakit geçirmesine olanak tanıyor. Akdeniz ikliminin hüküm sürdüğü bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlı geçiyor.
 
 ## Flora ve Fauna
 

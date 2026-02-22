@@ -36,7 +36,7 @@ wikidata_id: "Q31385496"
 
 ## Coğrafya
 
-Şahmeran Tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Tepe, bölgenin karakteristik coğrafi yapısını yansıtıyor ve ziyaretçilere geniş bir manzara sunuyor. Şahmeran Tepe'nin coğrafi konumu, bölgenin iklimini de şekillendiriyor. Bölge, genellikle sıca ve kurak bir iklim karakteristiğine sahip olsa da, tepe ve çevresinin yüksekliği, iklimi hafifletiyor. Şahmeran Tepe, aynı zamanda bölgenin su kaynaklarına da ev sahipliği yapıyor ve çevresindeki vadiler, bölgenin tarım faaliyetlerine katkıda bulunuyor. Tepe ve çevresinin coğrafi özellikleri, bölgenin flora ve faunasına da katkıda bulunuyor ve çeşitli bitki türleri ile hayvanları barındırıyor. 200 futbol sahası büyüklüğündeki bu alan, coğrafi olarak zengin bir yapıya sahip ve ziyaretçilere geniş bir açık alan sunuyor.
+Şahmeran Tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Tepe, bölgenin karakteristik coğrafi yapısını yansıtıyor ve ziyaretçilere geniş bir manzara sunuyor. Şahmeran Tepe'nin coğrafi konumu, bölgenin iklimini de şekillendiriyor. Bölge, genellikle sıcak ve kurak bir iklim karakteristiğine sahip olsa da, tepe ve çevresinin yüksekliği, iklimi hafifletiyor. Şahmeran Tepe, aynı zamanda bölgenin su kaynaklarına da ev sahipliği yapıyor ve çevresindeki vadiler, bölgenin tarım faaliyetlerine katkıda bulunuyor. Tepe ve çevresinin coğrafi özellikleri, bölgenin flora ve faunasına da katkıda bulunuyor ve çeşitli bitki türleri ile hayvanları barındırıyor. 200 futbol sahası büyüklüğündeki bu alan, coğrafi olarak zengin bir yapıya sahip ve ziyaretçilere geniş bir açık alan sunuyor.
 
 ## Flora ve Fauna
 

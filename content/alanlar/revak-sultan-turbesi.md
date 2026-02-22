@@ -38,7 +38,7 @@ Revak Sultan Türbesi'nin tarihi geçmişi, Osmanlı Dönemi'ne kadar uzanıyor.
 
 ## Coğrafya
 
-Revak Sultan Türbesi, Manisa'nın Şehzadeler ilçesinde, Ege Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu bölge, geniş ormanlık alanları, doğal güzellikleri ve zengin fauna ile dikkat çekiyor. Türbe, bir plaj olarak da hizmet verdiğiçin, ziyaretçiler hem tarihi bir yapıyı gezebiliyor hem de denize girme imkanına sahip oluyorlar. Ege Bölgesi'nin iklimi, typically Akdeniz iklimi özellikleri gösteriyor; yani yazlar sıca ve kurak, kışlar ılık ve yağışlı geçiyor. Bu iklim, bölgenin flora ve faunasının zenginleşmesine katkıda bulunmuş ve Revak Sultan Türbesi'nin çevresinde de çeşitli bitki türleri ve hayvanlar bulunmasını sağlamıştır. Türbenin coğrafi konumu, aynı zamanda bölgenin önemli turistik noktalarına da yakınlık sağlanmasını mümkün kılıyor.
+Revak Sultan Türbesi, Manisa'nın Şehzadeler ilçesinde, Ege Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu bölge, geniş ormanlık alanları, doğal güzellikleri ve zengin fauna ile dikkat çekiyor. Türbe, bir plaj olarak da hizmet verdiğiçin, ziyaretçiler hem tarihi bir yapıyı gezebiliyor hem de denize girme imkanına sahip oluyorlar. Ege Bölgesi'nin iklimi, typically Akdeniz iklimi özellikleri gösteriyor; yani yazlar sıcak ve kurak, kışlar ılık ve yağışlı geçiyor. Bu iklim, bölgenin flora ve faunasının zenginleşmesine katkıda bulunmuş ve Revak Sultan Türbesi'nin çevresinde de çeşitli bitki türleri ve hayvanlar bulunmasını sağlamıştır. Türbenin coğrafi konumu, aynı zamanda bölgenin önemli turistik noktalarına da yakınlık sağlanmasını mümkün kılıyor.
 
 ## Flora ve Fauna
 

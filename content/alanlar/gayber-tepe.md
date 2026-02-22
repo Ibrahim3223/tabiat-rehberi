@@ -42,7 +42,7 @@ Diyarbakır'ın coğrafi çeşitliliğiçinde yer alan Gayber Tepe, 38.0381°K v
 
 Fiziksel yapısı hakkında detaylı bilgiler olmasa da, Gayber Tepe'nin coğrafi özellikleri bölgeye özgü özellikler taşır. Jeolojik açıdan bakıldığında, Gayber Tepe'nin çevresindeki topraklar ve kayalar, bölgenin jeolojik geçmişini yansıtır. Örneğin, Eiffel Kulesi'nin 2 katı yükseklikte olan bazı tepe noktaları, bölgenin coğrafi çeşitliliğini gösterir. Bu yükseklik, Gayber Tepe'nin çevresindeki manzarayı şekillendiren önemli bir faktördür.
 
-Mevsimsel değişiklikler, Gayber Tepe'nin iklim karakterini belirler. Bölge, Diyarbakır'ın genel iklim koşullarını taşır; yazlar sıca ve kurak, kışlar ise soğu ve yağışlı geçer. Hava durumu, mevsime göre değişir; ilkbahar ve sonbahar aylarında daha ılıman bir iklim hüküm sürer. Bu mevsimsel özellikler, Gayber Tepe'nin doğal güzelliklerini ve coğrafi çeşitliliğini etkiler.
+Mevsimsel değişiklikler, Gayber Tepe'nin iklim karakterini belirler. Bölge, Diyarbakır'ın genel iklim koşullarını taşır; yazlar sıcak ve kurak, kışlar ise soğuk ve yağışlı geçer. Hava durumu, mevsime göre değişir; ilkbahar ve sonbahar aylarında daha ılıman bir iklim hüküm sürer. Bu mevsimsel özellikler, Gayber Tepe'nin doğal güzelliklerini ve coğrafi çeşitliliğini etkiler.
 
 Bölgenin çevresel ilişkileri, komşu alanlar ve su kaynakları ile bağlantılıdır. Gayber Tepe, Diyarbakır'ın su kaynaklarına yakın bir konumda yer alır ve bölgenin ekosistem bağlantılarını etkiler. Monaco'nun yaklaşık 1/5'i büyüklüğünde bir alanı kaplayan Gayber Tepe, bölgenin doğal dengesini koruma açısından önemli bir role sahiptir. Bu nedenle, Gayber Tepe'nin coğrafi konumu ve çevresel ilişkileri, bölgenin doğal güzelliklerini korumak için önemlidir.
 

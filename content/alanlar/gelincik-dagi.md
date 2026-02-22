@@ -45,7 +45,7 @@ Doğal alanlar gibi Gelincik Dağı, Türkiye'nin tarihsel öneminde önemli bir
 
 Doğal bir güzellik olan Gelincik Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Bu büyüklük, Taksim Meydanı'nın birkaç katı büyüklüğüne eşittir. Jeolojik açıdan bakıldığında, Gelincik Dağı'nın yapısı bölgenin genel jeolojik yapısına benzerlik göstermektedir. Ancak, detaylı fiziksel veri bulunmaması nedeniyle, dağın yüksekliği ve diğer fiziksel özellikleri hakkında net bilgi bulunmamaktadır.
 
-Mevsimsel değişikliklere bağlı olarak, Gelincik Dağı'nın iklimi değişkenlik göstermektedir. Yaz aylarında sıca ve kuru, kış aylarında ise soğu ve yağışlı bir iklim hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna yapısını etkilemektedir. Gelincik Dağı, bölgenin iklim karakterini şekillendiren önemli bir faktördür.
+Mevsimsel değişikliklere bağlı olarak, Gelincik Dağı'nın iklimi değişkenlik göstermektedir. Yaz aylarında sıcak ve kuru, kış aylarında ise soğuk ve yağışlı bir iklim hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna yapısını etkilemektedir. Gelincik Dağı, bölgenin iklim karakterini şekillendiren önemli bir faktördür.
 
 Bölgenin ekosistemine bakıldığında, Gelincik Dağı'nın önemli bir yer tuttuğu görülmektedir. Dağın çevresinde yer alan su kaynakları, bölgenin canlı yaşamını desteklemektedir. Ayrıca, Gelincik Dağı, komşu alanlar ile birlikte bir bütün olarak çalışarak, bölgenin doğal dengesini korumaktadır. Monaco'nun yarısı kadar büyük bir alana sahip olan Gelincik Dağı, bölgenin doğal güzelliklerini koruma altına almak için önemli bir rol oynamaktadır.
 

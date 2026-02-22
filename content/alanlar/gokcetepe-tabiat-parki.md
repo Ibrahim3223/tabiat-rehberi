@@ -31,7 +31,7 @@ Gökçetepe Tabiat Parkı'nın tarihi geçmişi, yüzyılların ötesine uzanıy
 
 ## Coğrafya
 
-Gökçetepe Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgede bulunuyor. Parkın coğrafyası, geniş otlaklar ve ormanlık alanlardan oluşuyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor; kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, parkın flora ve faunasının çeşitliliğine katkıda bulunmuş ve bu bölgeyi biyolojik çeşitlilik açısından zengin bir alana dönüştürmüştür. Parkın coğrafi konumu, ziyaretçilere bölgenin flora ve faunasını keşfetme fırsatı sunarken, aynı zamanda geniş bir ufuk açısı sunuyor. Gökçetepe Tabiat Parkı, coğrafi güzellikleri ve biyolojik çeşitliliği ile ziyaretçilerini bekliyor.
+Gökçetepe Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgede bulunuyor. Parkın coğrafyası, geniş otlaklar ve ormanlık alanlardan oluşuyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor; kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, parkın flora ve faunasının çeşitliliğine katkıda bulunmuş ve bu bölgeyi biyolojik çeşitlilik açısından zengin bir alana dönüştürmüştür. Parkın coğrafi konumu, ziyaretçilere bölgenin flora ve faunasını keşfetme fırsatı sunarken, aynı zamanda geniş bir ufuk açısı sunuyor. Gökçetepe Tabiat Parkı, coğrafi güzellikleri ve biyolojik çeşitliliği ile ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 

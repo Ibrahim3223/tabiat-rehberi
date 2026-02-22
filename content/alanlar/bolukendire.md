@@ -46,7 +46,7 @@ Güney Ege'de yer alan Santorin ilçesinin bir parçası olan Bolukendire, 36.62
 
 Doğal güzelliği ile dikkat çeken Bolukendire, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Ada, volkanik kökenli bir yapıya sahiptir ve jeolojik olarak Santorin'in diğer adalarıyla benzerlik göstermektedir. Ancak, detaylı fiziksel verileri bulunmaması nedeniyle ada hakkındaki bilgiler sınırlıdır.
 
-Mevsimsel özelliklere bakıldığında, Bolukendire'nin iklimi Akdeniz ikliminin karakteristik özelliklerini taşımaktadır. Yaz aylarında sıca ve kuru, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Ada, Ege Denizi'nin etkileri nedeniyle, çevredeki adalardan biraz daha serin bir iklim yapısına sahiptir.
+Mevsimsel özelliklere bakıldığında, Bolukendire'nin iklimi Akdeniz ikliminin karakteristik özelliklerini taşımaktadır. Yaz aylarında sıcak ve kuru, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Ada, Ege Denizi'nin etkileri nedeniyle, çevredeki adalardan biraz daha serin bir iklim yapısına sahiptir.
 
 Çevresel açıdan bakıldığında, Bolukendire'nin komşu adalar ve su kaynaklarıyla önemli bir ilişkisi bulunmaktadır. Ada, Ege Denizi'nin zengin ekosistemine ev sahipliği yapmaktadır ve çevredeki sularda çeşitli balık türleri ve diğer deniz canlılarına rastlanmaktadır. Ayrıca, ada çevresinde yer alan diğer adalar ve kayalar, Bolukendire'nin doğal güzelliğini ve biyolojik çeşitliliğini zenginleştirmektedir.
 

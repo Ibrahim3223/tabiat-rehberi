@@ -44,7 +44,7 @@ Tarihin izlerini taşıyan bu bölge, aynı zamanda Türkiye'nin kültürel mira
 
 Jeolojik açıdan bakıldığında, Urlu Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, genel olarak ülkemizdeki dağların özelliklerini taşıdığı söylenebilir. Dağın yüksekliği ve genişliği hakkında somut veriler olmasa da, Çorum'un genel coğrafyası dikkate alındığında, Urlu Dağı'nın bir şehir bloğu büyüklüğünde bir alanı kapladığı söylenebilir. Bu büyüklük, Taksim Meydanı'nın birkaç katı kadar bir alanı kapsayarak, ziyaretçilere geniş bir alan sunmaktadır.
 
-Mevsimsel olarak Urlu Dağı, karasal iklimin etkilerini taşımaktadır. Kış aylarında karla kaplanan dağ, yaz aylarında ise yeşilin tüm tonlarını sunmaktadır. Hava durumu, mevsimlere göre değişkenlik göstermektedir. Kışın soğu ve karlı, yazın ise sıca ve kurak bir hava hakimdir. Bu iklim özellikleri, Urlu Dağı'nı yıl boyunca farklı güzellikleriyle ziyaretçilere sunmaktadır.
+Mevsimsel olarak Urlu Dağı, karasal iklimin etkilerini taşımaktadır. Kış aylarında karla kaplanan dağ, yaz aylarında ise yeşilin tüm tonlarını sunmaktadır. Hava durumu, mevsimlere göre değişkenlik göstermektedir. Kışın soğuk ve karlı, yazın ise sıcak ve kurak bir hava hakimdir. Bu iklim özellikleri, Urlu Dağı'nı yıl boyunca farklı güzellikleriyle ziyaretçilere sunmaktadır.
 
 Urlu Dağı, çevresindeki diğer doğal güzelliklerle birlikte bir bütünü oluşturmaktadır. Dağın eteklerinde yer alan köyler ve su kaynakları, ekosistem bagi olarak önemli bir role sahiptir. Monaco'nun yarısı kadar bir alanı kaplayan Çorum'un genel coğrafyası içerisinde, Urlu Dağı, önemli bir yer tutmaktadır. Bu dağ, çevresindeki diğer alanlarla birlikte, bir bütün olarak düşünüldüğünde, doğal güzelliklerin ve ekosistemlerin korunmasına büyük önem taşımaktadır.
 

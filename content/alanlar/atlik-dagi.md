@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Atlık Dağı, Kahramanmaraş
 
 Jeolojik açıdan incelendiğinde, Atlık Dağı'nın yapısı hakkında detaylı bilgi bulunmasa da, genel olarak Güneydoğu Anadolu Bölgesi'nin diğer dağları gibi karmaşık bir jeolojik yapıya sahiptir. Bu bölgede yer alan dağlar, genellikle birkaç olimpik havuz kadar küçük alanlara yayılmış ve farklı jeolojik oluşumları içerir. Atlık Dağı da bu bölgenin diğer dağlarına benzer bir yapıya sahiptir, ancak fiziksel boyutları hakkında net bir veri bulunmamaktadır.
 
-Mevsimsel açıdan bakıldığında, Atlık Dağı'nın iklimi Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölgede yaz ayları sıca ve kuru, kış ayları ise soğu ve yağışlı geçer. Atlık Dağı, bu mevsimsel değişimlere uygun bir şekilde yeşillenir ve kurur, böylece bölgenin doğal döngüsüne uyum sağlar.
+Mevsimsel açıdan bakıldığında, Atlık Dağı'nın iklimi Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölgede yaz ayları sıcak ve kuru, kış ayları ise soğuk ve yağışlı geçer. Atlık Dağı, bu mevsimsel değişimlere uygun bir şekilde yeşillenir ve kurur, böylece bölgenin doğal döngüsüne uyum sağlar.
 
 Doğal kaynaklar açısından, Atlık Dağı'nın çevresi genellikle verimli ovalar ve akarsularla çevrilidir. Bu su kaynakları, bölgenin ekosistemine önemli katkılar sağlar ve Atlık Dağı'nın eteklerinde yer alan tarlalar ve ormanlar, bu su kaynaklarından faydalanır. Atlık Dağı, Monaco'nun yarısı kadar büyük bir alanı kaplamasa da, bölgenin doğal dengesine önemli bir katkıda bulunur ve çevresindeki ekosistemi destekler.
 

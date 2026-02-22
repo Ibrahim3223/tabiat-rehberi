@@ -46,7 +46,7 @@ Kent Tarihi Parkı, İzmir'in kalbinde, 38.4175°K ve 27.1278°D koordinatların
 
 Doğal güzelliği ve zengin bitki çeşitliliği ile dikkat çeken Kent Tarihi Parkı, İzmir'in coğrafi yapısına uyum sağlıyor. Parkın boyutları, birkaç olimpik havuz kadar bir alanı kaplıyor, bu da ziyaretçilere geniş ve ferah bir alan sunuyor. Jeolojik olarak bakıldığında, parkın zemini ve bitki örtüsü, İzmir'in karakteristik coğrafi özelliklerini yansıtıyor.
 
-İzmir'in Akdeniz ikliminin etkisi altında olan Kent Tarihi Parkı, mevsimsel olarak değişen hava koşullarına uyum sağlıyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir iklim hüküm sürüyor. Bu mevsimsel özellikler, parkın bitki örtüsünü ve ekosistemini şekillendiriyor. Parkın iklim karakteri, ziyaretçilere yılın her döneminde farklı bir güzellik sunuyor.
+İzmir'in Akdeniz ikliminin etkisi altında olan Kent Tarihi Parkı, mevsimsel olarak değişen hava koşullarına uyum sağlıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir iklim hüküm sürüyor. Bu mevsimsel özellikler, parkın bitki örtüsünü ve ekosistemini şekillendiriyor. Parkın iklim karakteri, ziyaretçilere yılın her döneminde farklı bir güzellik sunuyor.
 
 Kent Tarihi Parkı, çevresindeki diğer yeşil alanlar ve su kaynakları ile bağlantılı olarak çalışıyor. Parkın yakınında bulunan su kaynakları, parkın ekosistemini destekleyerek, bitki ve hayvan çeşitliliğini artırıyor. Bu çevresel bağlantılar, parkın doğal dengesini koruyor ve ziyaretçilere zengin bir ekosistem sunuyor.
 

@@ -53,7 +53,7 @@ Ayvaini Mağarası, Uludağ Milli Parkı'nın yakınında yer alıyor ve bu nede
 
 Ayvaini Mağarası'nın giriş kısmında step bitki örtüsünün hakimiyeti dikkat çekiyor. İlkbahar aylarında, bozkırın renkli çiçekleri mağaranın etrafını bir halı gibi kaplıyor. Kuraklığa adapte etmiş bu bitkiler, yaz aylarında yeşil yapraklarını korurken, sonbaharda da sarı ve kırmızı tonlarla renkleniyor.
 
-Mağaranın içinde ve çevresinde, çeşitli yaban hayvanlarına rastlama mümkün. Memeliler arasında, mağaranın karanlıköşelerinde yaşayan küçük kemirgenler ve yırtıcılar gibi türler bulunuyor. Kuşlar ise, mağaranın girişinde ve çevresinde yuvalanıyor, özellikle göç mevsimlerinde bu alan bir uğrak noktası haline geliyor. Sürüngenler de, mağaranın sıca ve kuru bölgelerinde ediyor.
+Mağaranın içinde ve çevresinde, çeşitli yaban hayvanlarına rastlama mümkün. Memeliler arasında, mağaranın karanlıköşelerinde yaşayan küçük kemirgenler ve yırtıcılar gibi türler bulunuyor. Kuşlar ise, mağaranın girişinde ve çevresinde yuvalanıyor, özellikle göç mevsimlerinde bu alan bir uğrak noktası haline geliyor. Sürüngenler de, mağaranın sıcak ve kuru bölgelerinde ediyor.
 
 Ayvaini Mağarası, bu ekosistemin korunması açısından önemli bir rol oynuyor. Mağaranın özel iklimi, birçok canlı için bir sığınak teşkil ediyor. Bu nedenle, mağaranın korunması ve bu alanda yaşayan türlerin bảo tồn edilmesi büyük önem taşıyor.
 

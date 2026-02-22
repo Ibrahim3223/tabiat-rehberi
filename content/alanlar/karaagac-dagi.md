@@ -54,7 +54,7 @@ Karaağaç Dağı, Antalya'nın kıyı ekosisteminin bir parçası olarak maki b
 
 Bitki örtüsünde, kuraklığa dayanıklı türlerin hakimiyeti dikkat çeker. İlkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle kaplanır. Kış aylarında ise yaprak döken bitkiler, dağın beyaz bir örtüye bürünmesine neden olur. 
 
-Dağın yükseklik zonlarında, alpin flora çeşitliliği göze çarpar. Yükseklik arttıkça, bitkilerin boyu ve yapısı değişir. Dağ hayvanları, bu bitkilerle beslenerek yaşamını sürdürür. Memeliler, dağların kaya dik yamaçlarında yaşamayı tercih ederken, kuşlar göç yolları üzerinde konaklarlar. Sürüngenler ise, sıca ve kurak bölgelerde daha çok görülür. 
+Dağın yükseklik zonlarında, alpin flora çeşitliliği göze çarpar. Yükseklik arttıkça, bitkilerin boyu ve yapısı değişir. Dağ hayvanları, bu bitkilerle beslenerek yaşamını sürdürür. Memeliler, dağların kaya dik yamaçlarında yaşamayı tercih ederken, kuşlar göç yolları üzerinde konaklarlar. Sürüngenler ise, sıcak ve kurak bölgelerde daha çok görülür. 
 
 Karaağaç Dağı, ekolojik açıdan önemli bir bölge olarak kabul edilir. Bu dağ, birçok canlı türünün yaşam alanı olup, aynı zamanda göçmen kuşların konakladığı önemli bir noktadır. Koruma altına alınması, bu doğal zenginliğin gelecek nesiller için korunması açısından büyük önem taşır.
 

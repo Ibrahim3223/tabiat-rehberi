@@ -31,7 +31,7 @@ Bafa Gölü Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca farklı med
 
 ## Coğrafya
 
-Bafa Gölü Tabiat Parkı, coğrafi konumu itibariyle, Ege Bölgesi'nin önemli doğal güzelliklerinden biridir. Park, Bafa Gölü'nün güneyinde yer alır ve gölün çevresi, doğa yürüyüşleri ve çeşitli açık hava etkinlikleri için ideal bir ortam sunar. Göllerin ve ormanların bir arada bulunduğu bu bölge, zengin bir flora ve faunaya ev sahipliği yapar. Parkın iklimi, genel olarak Akdeniz ikliminin karakteristik özelliklerini taşır; yaz ayları sıca ve kurak, kış ayları ise ılıman ve yağışlı geçer. Bu iklim, bölgenin flora ve faunasının çeşitliliğini destekler ve ziyaretçilere yılın her döneminde farklı deneyimler sunar.
+Bafa Gölü Tabiat Parkı, coğrafi konumu itibariyle, Ege Bölgesi'nin önemli doğal güzelliklerinden biridir. Park, Bafa Gölü'nün güneyinde yer alır ve gölün çevresi, doğa yürüyüşleri ve çeşitli açık hava etkinlikleri için ideal bir ortam sunar. Göllerin ve ormanların bir arada bulunduğu bu bölge, zengin bir flora ve faunaya ev sahipliği yapar. Parkın iklimi, genel olarak Akdeniz ikliminin karakteristik özelliklerini taşır; yaz ayları sıcak ve kurak, kış ayları ise ılıman ve yağışlı geçer. Bu iklim, bölgenin flora ve faunasının çeşitliliğini destekler ve ziyaretçilere yılın her döneminde farklı deneyimler sunar.
 
 ## Flora ve Fauna
 

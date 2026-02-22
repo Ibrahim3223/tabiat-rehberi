@@ -45,7 +45,7 @@ Coğrafi konumu itibariyle, Karga Dağı 36.9133°K ve 33.2458°D koordinatları
 
 Jeolojik açıdan bakıldığında, Karga Dağı'nın fiziksel yapısı hakkında cụretilen bilgiler sınırlı. Ancak, dağlık bir bölgede yer alması, bu bölgenin coğrafi çeşitliliğini etkileyen faktörlerden biri olduğunu gösteriyor. Monaco'nun yarısı kadar bir alanı kaplamayan bu dağ, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanın üzerinde yükseliyor. Bu karşılaştırma, Karga Dağı'nın boyutlarını daha iyi anlamamızı sağlıyor.
 
-İklim açısından, Karga Dağı'nın bulunduğu bölgenin mevsimsel özelliklerine bakıldığında, Akdeniz ikliminin hakim olduğu görülüyor. Bu iklim, bölgede yazları sıca ve kurak, kışları ılıman ve yağışlı bir hava durumunu beraberinde getiriyor. Eiffel Kulesi'nin birkaç katı yükseklikte olan bu dağ, bölgenin hava durumunu etkileyen faktörlerden biri.
+İklim açısından, Karga Dağı'nın bulunduğu bölgenin mevsimsel özelliklerine bakıldığında, Akdeniz ikliminin hakim olduğu görülüyor. Bu iklim, bölgede yazları sıcak ve kurak, kışları ılıman ve yağışlı bir hava durumunu beraberinde getiriyor. Eiffel Kulesi'nin birkaç katı yükseklikte olan bu dağ, bölgenin hava durumunu etkileyen faktörlerden biri.
 
 Çevresel açıdan, Karga Dağı'nın bulunduğu bölgenin su kaynakları ve ekosistem bağlantıları önemli. Bu dağ, bölgedeki diğer coğrafi oluşumlarla birlikte, su kaynaklarının oluşumunu ve ekosistemlerin dengesini etkiliyor. İstanbul'un Adalar ilçesi büyüklüğünde bir bölgede yer alan Karga Dağı, bölgenin coğrafi çeşitliliğini ve doğal güzelliklerini korumanın önemini vurguluyor.
 

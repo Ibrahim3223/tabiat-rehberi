@@ -42,7 +42,7 @@ Doğal güzellikleri ile dikkat çeken Hacıbey Dağı, Sinop ilinin coğrafi ya
 
 Jeolojik açıdan incelendiğinde, Hacıbey Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, genel olarak Karadeniz Bölgesi'nin dağlık yapısına benzerlik gösterir. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte bir noktadır, ancak tam yükseklik bilgisi olmadan net bir karşılaştırma yapma mümkün değildir. Dağın boyutları ve şekli, bölgenin coğrafi yapısını etkileyen önemli faktörlerdir, ancak bu konuda daha fazla bilgiye ihtiyaç duyulur.
 
-İklim açısından Hacıbey Dağı, Karadeniz Bölgesi'nin karakteristik nemli ve ılıman iklimini paylaşır. Bölge, yaz aylarında serin ve yağışlı, kış aylarında ise soğu ve karlı bir hava durumu gösterir. Bu mevsimsel özellikler, Hacıbey Dağı'nın flora ve fauna yapısını etkiler ve bölgenin ekolojik dengesini korur.
+İklim açısından Hacıbey Dağı, Karadeniz Bölgesi'nin karakteristik nemli ve ılıman iklimini paylaşır. Bölge, yaz aylarında serin ve yağışlı, kış aylarında ise soğuk ve karlı bir hava durumu gösterir. Bu mevsimsel özellikler, Hacıbey Dağı'nın flora ve fauna yapısını etkiler ve bölgenin ekolojik dengesini korur.
 
 Çevresel açıdan bakıldığında, Hacıbey Dağı, komşu alanlar ve su kaynakları ile önemli bir ekosistem bağlantısı oluşturur. Dağın eteklerinde yer alan köyler ve kasabalar, bölgenin tarım ve hayvancılık faaliyetlerini destekler. Ayrıca, Hacıbey Dağı'nın yakınında bulunan akarsular ve göller, bölgenin su kaynaklarını zenginleştirir ve ekosistemin dengesini korur. Bu şekilde, Hacıbey Dağı, Sinop'un coğrafi yapısında önemli bir role sahip olur.
 

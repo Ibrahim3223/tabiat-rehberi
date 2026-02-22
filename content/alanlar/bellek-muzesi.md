@@ -37,7 +37,7 @@ Bellek Müzesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bölge, 
 
 ## Coğrafya
 
-Bellek Müzesi, İç Anadolu Bölgesi'nin coğrafi özellikleri ile çevrili bir bölgede yer alır. Bu bölge, genellikle step iklimi ile karakterizedir. Yaz aylarında sıca ve kurak, kış aylarında soğu ve karlı bir hava hüküm sürer. Müze, Ankara'nın merkezi bir konumunda yer aldığı için ulaşımı oldukça kolaydır. Ziyaretçiler, toplu taşıma araçları veya özel araçları ile kolayca ulaşabilirler. Müzenin etrafı, doğal güzelliklerle dolu bir yeşil alana sahiptir. Ziyaretçiler, burada doğa yürüyüşleri yapabilir, piknik alanlarında yemek yiyebilir veya simply doğayı keşfedebilirler. Bellek Müzesi'nin coğrafi konumu, ziyaretçilere geniş bir faaliyet yelpazesi sunar.
+Bellek Müzesi, İç Anadolu Bölgesi'nin coğrafi özellikleri ile çevrili bir bölgede yer alır. Bu bölge, genellikle step iklimi ile karakterizedir. Yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı bir hava hüküm sürer. Müze, Ankara'nın merkezi bir konumunda yer aldığı için ulaşımı oldukça kolaydır. Ziyaretçiler, toplu taşıma araçları veya özel araçları ile kolayca ulaşabilirler. Müzenin etrafı, doğal güzelliklerle dolu bir yeşil alana sahiptir. Ziyaretçiler, burada doğa yürüyüşleri yapabilir, piknik alanlarında yemek yiyebilir veya simply doğayı keşfedebilirler. Bellek Müzesi'nin coğrafi konumu, ziyaretçilere geniş bir faaliyet yelpazesi sunar.
 
 ## Flora ve Fauna
 

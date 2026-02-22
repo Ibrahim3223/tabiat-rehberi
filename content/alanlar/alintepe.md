@@ -44,7 +44,7 @@ Doğunun en uzak köşesinde, Hakkari ilinin dağlık arazisinde yer alan Alınt
 
 Jeolojik açıdan bakıldığında, Alıntepe'nin boyutları hakkında detaylı bilgi bulunmamasına rağmen, çevresindeki dağlarla birlikte bir bütün olarak düşünüldüğünde, Monaco'nun yarısı kadar bir alanı kaplayabileceği söylenebilir. Dağın şekli ve jeolojik yapısı, bölgenin tarih öncesi dönemlerden beri oluşan tektonik hareketler sonucu şekillenmiştir. Bu oluşum, bölgenin coğrafi yapısını etkileyen önemli faktörlerden biri olarak görülmektedir.
 
-Bölgenin iklimi, mevsimsel olarak büyük farklılıklar göstermektedir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Alıntepe'nin yüksekliği, Eiffel Kulesi'nin 2 katı yükseklikte olan bir nokta olarak düşünülürse, burada hava koşullarının nasıl değişebileceği hakkında bir fikir oluşabilir. Bu yükseklik, bölgenin iklim karakterini etkileyen önemli bir faktördür.
+Bölgenin iklimi, mevsimsel olarak büyük farklılıklar göstermektedir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Alıntepe'nin yüksekliği, Eiffel Kulesi'nin 2 katı yükseklikte olan bir nokta olarak düşünülürse, burada hava koşullarının nasıl değişebileceği hakkında bir fikir oluşabilir. Bu yükseklik, bölgenin iklim karakterini etkileyen önemli bir faktördür.
 
 Çevresel açıdan bakıldığında, Alıntepe, komşu alanlar ve su kaynakları ile önemli bir bağlantısı vardır. Bölgenin ekosistem bağlantıları, Alıntepe'nin bir parçası olduğu daha büyük bir coğrafi yapı içerisinde düşünülmelidir. Taksim Meydanı'nın 10 katı büyüklüğünde bir alan olarak düşünülebilecek bu bölgenin, çevresindeki diğer dağlar ve vadiler ile birlikte bir bütün olarak değerlendirilmesi gerekmektedir.
 

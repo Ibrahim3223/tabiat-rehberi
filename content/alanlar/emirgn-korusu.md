@@ -44,7 +44,7 @@ wikidata_id: "Q5185642"
 
 Doğal güzelliği ile dikkat çeken Emirgân Korusu, coğrafi olarak Boğaziçi'nin en güzel noktalarından biri. Koordinatlarına bakıldığında, korunun denize yakınlığı dikkat çekiyor. Deniz seviyesinden sadece birkaç metre yükseklikte olan koru, bir olimpik havuz kadar alana yayılmış gibi görünüyor. Jeolojik olarak, koru çevresi kireç taşı ve kil gibi farklı türde kayalardan oluşuyor. Bu çeşitlilik, korunun zengin bitki örtüsünü destekliyor.
 
-Mevsimsel olarak, Emirgân Korusu'nun iklim karakteri İstanbul'un genel iklimi ile benzerlik gösteriyor. Kış aylarında ılıman, yaz aylarında ise sıca ve nemli bir hava hakim. Koru, İstanbul'un yıllık ortalama yağış miktarının önemli bir bölümünü alıyor. Bu mevsimsel özellikler, korunun bitki örtüsünün çeşitliliğini ve güzelliğini artırıyor.
+Mevsimsel olarak, Emirgân Korusu'nun iklim karakteri İstanbul'un genel iklimi ile benzerlik gösteriyor. Kış aylarında ılıman, yaz aylarında ise sıcak ve nemli bir hava hakim. Koru, İstanbul'un yıllık ortalama yağış miktarının önemli bir bölümünü alıyor. Bu mevsimsel özellikler, korunun bitki örtüsünün çeşitliliğini ve güzelliğini artırıyor.
 
 Emirgân Korusu, çevresindeki diğer doğal alanlarla bağlantılı bir ekosistem binnen oluşuyor. Boğaziçi'nin diğer koruları ve parkları ile birlikte, bir doğal yaşam ağı oluşturuyor. Ayrıca, koru yakınındaki su kaynakları ve akarsular, korunun su ihtiyacını karşılıyor ve bitki örtüsünün gelişimini destekliyor. Bu bağlantılar, korunun doğal dengesini koruyor ve ziyaretçilere güzel bir doğal ortam sunuyor.
 

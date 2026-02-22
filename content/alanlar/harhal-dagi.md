@@ -43,7 +43,7 @@ Doğunun gizli köşelerinden biri olan Harhal Dağı, 39.4558°K ve 40.9317°D 
 
 Jeolojik açıdan bakıldığında, Harhal Dağı'nın fiziksel yapısı hakkında detaylı bilgi olmasa da, koordinatlarından hareketle, bölgenin genel jeolojik özellikleri hakkında fikir edinebiliriz. Bu bölgede genellikle kayaçların ve toprakların farklı türleri görülür. Dağın boyutları ve şekli, bölgenin jeolojik geçmişini yansıtabilir. Monaco'nun yarısı kadar bir alanı kaplayan bu dağ, coğrafi olarak önemli bir nokta olarak göze çarpar.
 
-Mevsimsel değişimlerin etkisi altında kalan Harhal Dağı, iklim karakteri açısından  bir örnek sunar. Bölge, yazın sıca ve kurak, kışın soğu ve kar yağışlı olan bir iklim tipine sahiptir. Bu mevsimsel özellikler, dağın ekosistemini ve bitki örtüsünü şekillendirir. Etrafındaki dağlarla birlikte, bu bölge 85 katlı bir gökdelen kadar yükseklikte olan bir coğrafi yapıya sahip olabilir.
+Mevsimsel değişimlerin etkisi altında kalan Harhal Dağı, iklim karakteri açısından  bir örnek sunar. Bölge, yazın sıcak ve kurak, kışın soğuk ve kar yağışlı olan bir iklim tipine sahiptir. Bu mevsimsel özellikler, dağın ekosistemini ve bitki örtüsünü şekillendirir. Etrafındaki dağlarla birlikte, bu bölge 85 katlı bir gökdelen kadar yükseklikte olan bir coğrafi yapıya sahip olabilir.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları, Harhal Dağı'nın çevresel ilişkilerini şekillendirir. Dağın yakınında, bölgenin hidrolojik dengesini sağlayan su kaynakları bulunabilir. Bu su kaynakları, bölgenin ekosistemini ve canlı çeşitliliğini destekler. Çevresel açıdan önemli olan bu bağlantılar, Harhal Dağı'nın doğu bölgesinin doğal zenginliğini koruma altına almaya yardımcı olur.
 

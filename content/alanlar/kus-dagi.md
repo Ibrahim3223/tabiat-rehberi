@@ -45,7 +45,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden Van'da yer alan Kuş Dağı, coğr
 
 Jeolojik açıdan bakıldığında, Kuş Dağı'nın detaylı fiziksel verileri olmasa da, bölgenin genel jeolojik yapısı dikkate alındığında, volkanik faaliyetlerin etkilerini taşıdığı söylenebilir. Bu dağlık alan, Van Gölü'nün ve çevresinin oluşumunda önemli bir rol oynamıştır. Boyutları hakkında net bir veri olmasa da, Kuş Dağı bölgenin önemli doğal unsurlarından biridir.
 
-İklim açısından, Kuş Dağı Doğu Anadolu Bölgesi'nin karasal ikliminin etkilerini taşır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumuna sahiptir. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkiler ve ziyaretçilere her mevsim farklı bir güzellik sunar.
+İklim açısından, Kuş Dağı Doğu Anadolu Bölgesi'nin karasal ikliminin etkilerini taşır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumuna sahiptir. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkiler ve ziyaretçilere her mevsim farklı bir güzellik sunar.
 
 Çevresel açıdan, Kuş Dağı Van Gölü ile birlikte bir ekosistem oluşturur. Bölgenin su kaynakları ve ekosistem bağlantıları, Kuş Dağı'nın doğal güzelliğini koruma altına almak için önemlidir. Bu dağlık alan, bölgenin flora ve fauna çeşitliliğini destekler ve Van Gölü'nün su döngüsüne katkıda bulunur.
 

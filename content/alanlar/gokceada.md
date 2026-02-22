@@ -46,7 +46,7 @@ Gökçeada, Çanakkale'nin kuzeybatısında, Ege Denizi'nde yer alan bir ada. 40
 
 Doğal güzelliği ile dikkat çeken Gökçeada, yaklaşık olarak Beşiktaş ilçesi büyüklüğünde bir alana sahiptir. Bu büyüklük, Taksim Meydanı'nın birkaç katı büyüklüğüne eşittir. Ada, genel olarak dağlık bir araziye sahiptir ve yüksek noktaları Eiffel Kulesi'nin yaklaşık 3 katı yükseklikte yer alır. Jeolojik olarak, Gökçeada'nın yapısı genellikle granit ve şist gibi kayaçlardan oluşur. Bu yapının resultado olarak, ada üzerinde çeşitli jeolojik oluşumlar ve mağaralar bulunur.
 
-İklim açısından, Gökçeada Akdeniz ikliminin karakteristik özelliklerini taşır. Kış aylarında ılıman, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Ada, yıl boyunca ortalama 600 milimetre civarında yağış alır. Bu durum, Gökçeada'nın flora ve fauna çeşitliliğini destekler.
+İklim açısından, Gökçeada Akdeniz ikliminin karakteristik özelliklerini taşır. Kış aylarında ılıman, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Ada, yıl boyunca ortalama 600 milimetre civarında yağış alır. Bu durum, Gökçeada'nın flora ve fauna çeşitliliğini destekler.
 
 Çevresel açıdan, Gökçeada Ege Denizi'ne sınırı olan bir ada olarak, su kaynakları açısından oldukça önemlidir. Ada üzerinde çeşitli su kaynakları bulunur ve bu kaynaklar, adanın ekosistemini destekler. Ayrıca, Gökçeada'nın yakın çevresinde yer alan diğer adalar ve anakara, adanın doğal ve kültürel zenginliğini etkiler. Bu nedenle, Gökçeada'nın çevresel ilişkileri, adanın korunması ve geliştirilmesi açısından önemli bir rol oynar.
 

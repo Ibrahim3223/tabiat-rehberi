@@ -30,7 +30,7 @@ Ankara-Ilgaz-Yenice Saricam Tohum Mesceresi'nin tarihi geçmişi, yüzyıllar bo
 
 ## Coğrafya
 
-Ankara-Ilgaz-Yenice Saricam Tohum Mesceresi, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Bu bölge, Ankara ilinin sınırları içerisinde yer almaktadır. İklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal iklimdir. Yaz ayları sıca ve kurak, kış ayları soğu ve karlı geçer. Bu iklim koşulları, burada yer alan bitki ve hayvan türlerinin çeşitliliğini etkilemektedir. Saricam Tohum Mesceresi, aynı zamanda çevresindeki diğer doğal güzelliklerle de uyum içerisindedir. Burada, çeşitli bitki türleri ve hayvanlar, bölgeye özgü ekosistemi oluşturmaktadırlar. Bu bölge, doğal güzelliği ve biyolojik çeşitliliği ile önemli bir turizm noktası olarak bilinir.
+Ankara-Ilgaz-Yenice Saricam Tohum Mesceresi, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Bu bölge, Ankara ilinin sınırları içerisinde yer almaktadır. İklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal iklimdir. Yaz ayları sıcak ve kurak, kış ayları soğuk ve karlı geçer. Bu iklim koşulları, burada yer alan bitki ve hayvan türlerinin çeşitliliğini etkilemektedir. Saricam Tohum Mesceresi, aynı zamanda çevresindeki diğer doğal güzelliklerle de uyum içerisindedir. Burada, çeşitli bitki türleri ve hayvanlar, bölgeye özgü ekosistemi oluşturmaktadırlar. Bu bölge, doğal güzelliği ve biyolojik çeşitliliği ile önemli bir turizm noktası olarak bilinir.
 
 ## Flora ve Fauna
 

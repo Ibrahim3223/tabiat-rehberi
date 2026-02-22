@@ -38,7 +38,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi güzelliklerini keşfederken, Diyarbak
 
 Jeolojik açıdan bakıldığında, Dorşin dağı bölgenin karmaşık jeolojik yapısını yansıtmaktadır. Ancak, detaylı fiziksel veriler bulunmamasına rağmen, bu dağların bölgenin coğrafi çeşitliliğine katkıda bulunduğunu söyleyebiliriz. Tıpkı bir şehir bloğu büyüklüğünde olan küçük alanlar gibi, Dorşin dağı da kendi içinde bir mikroekosistem oluşturmaktadır.
 
-İklimsel olarak, Dorşin dağı Güneydoğu Anadolu Bölgesi'nin karakteristik iklimini paylaşmaktadır. Bu bölge, yaz aylarında sıcaklık ve kuraklık ile kış aylarında soğu ve yağışlı hava koşullarıyla tanımlanır. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı tepe noktaları, bölgenin iklimsel çeşitliliğini etkileyen önemli faktörlerdir.
+İklimsel olarak, Dorşin dağı Güneydoğu Anadolu Bölgesi'nin karakteristik iklimini paylaşmaktadır. Bu bölge, yaz aylarında sıcaklık ve kuraklık ile kış aylarında soğuk ve yağışlı hava koşullarıyla tanımlanır. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı tepe noktaları, bölgenin iklimsel çeşitliliğini etkileyen önemli faktörlerdir.
 
 Çevresel açıdan, Dorşin dağı bölgenin su kaynakları ve ekosistem bağlantıları için önemlidir. Monaco'nun yarısı kadar büyük olan bazı komşu dağlarla birlikte, bu bölge önemli bir su toplama alanı oluşturmaktadır. Ayrıca, bölgenin flora ve fauna çeşitliliği de bu dağların varlığıyla korunmaktadır. Bu nedenle, Dorşin dağı ve çevresi, bölgenin doğal zenginliklerini korumak için önemli bir coğrafi alandır.
 

@@ -54,7 +54,7 @@ Kırık Dağı, Türkiye'nin step bitki örtüsü ve bozkır ekosistemine ev sah
 
 Bitki Örtüsü olarak, dağın eteklerinde step bitkileri hakimdir. İlkbaharda, dağ yamaçlarında çeşitli çiçekler açar ve renkli bir manzara oluşur. Sonbaharda, kuraklık nedeniyle bazı bitkiler kurur, ancak dağın yüksek kesimlerinde bazı bitkiler yıl boyunca yeşil kalır.
 
-Yaban Hayatı olarak, dağda çeşitli memeliler, kuşlar ve sürüngenler yaşar. Dağ keçileri, yaban keçileri ve tilkiler gibi memeliler, dağın kayalık alanlarında yaşar. Kuşlar olarak, kartallar, şahinler ve doğan gibi yırtıcı kuşlar, dağda yuva yapar. Sürüngenler olarak, yılanlar ve kertenkeleler, dağın sıca ve kuru alanlarında yaşar.
+Yaban Hayatı olarak, dağda çeşitli memeliler, kuşlar ve sürüngenler yaşar. Dağ keçileri, yaban keçileri ve tilkiler gibi memeliler, dağın kayalık alanlarında yaşar. Kuşlar olarak, kartallar, şahinler ve doğan gibi yırtıcı kuşlar, dağda yuva yapar. Sürüngenler olarak, yılanlar ve kertenkeleler, dağın sıcak ve kuru alanlarında yaşar.
 
 Ekolojik Değer olarak, Kırık Dağı, bölgedeki ekosistemin dengesini sağlayan önemli bir alandır. Dağ, çeşitli canlı türleri için yaşam alanı sağlar ve su döngüsünü düzenler. Ancak, dağda yaşayan bazı türler, habitat kaybı ve avcılık nedeniyle tehdit altındadır. Bu nedenle, Kırık Dağı'nın korunması ve bảo tồn edilmesi önemlidir.
 

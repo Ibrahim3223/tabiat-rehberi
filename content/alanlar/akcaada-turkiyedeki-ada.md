@@ -44,7 +44,7 @@ Marmara Denizi'nin sakin sularında, Balıkesir'in kıyı şeridinin hemen açı
 
 Doğal güzelliği ile ön plana çıkan Akçaada, bir şehir bloğu büyüklüğünde bir alana yayılmaktadır. Ada, Marmara Denizi'nin zengin su kaynaklarına sahiptir ve çevresindeki su kaynakları ile önemli bir ekosistem oluşturur. Jeolojik olarak bakıldığında, ada ve çevresi Marmara Bölgesi'nin karakteristik özelliklerini taşır.
 
-İklim açısından, Akçaada Marmara Bölgesi'nin ılıman ikliminin etkisinde kalır. Mevsimsel olarak, ada yaz aylarında sıca ve nemli, kış aylarında ise ılık ve yağışlı bir hava durumuna sahiptir. Bu iklim koşulları, adanın doğal güzelliğini ve biyolojik çeşitliliğini destekler.
+İklim açısından, Akçaada Marmara Bölgesi'nin ılıman ikliminin etkisinde kalır. Mevsimsel olarak, ada yaz aylarında sıcak ve nemli, kış aylarında ise ılık ve yağışlı bir hava durumuna sahiptir. Bu iklim koşulları, adanın doğal güzelliğini ve biyolojik çeşitliliğini destekler.
 
 Çevresel açıdan, Akçaada Marmara Denizi'nin ekosistemine önemli bir katkı sağlar. Ada, su kaynakları ve deniz canlılarıyla zengin bir bağlantıyı temsil eder. Ayrıca, komşu alanlar ve su kaynakları ile birlikte, adanın doğal dengesi korunmaya çalışılır. Bu şekilde, Akçaada ve çevresi, doğal güzelliği ve biyolojik çeşitliliği ile önemli bir coğrafi bölge olarak dikkat çeker.
 

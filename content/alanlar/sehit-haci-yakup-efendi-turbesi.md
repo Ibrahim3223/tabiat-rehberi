@@ -37,7 +37,7 @@ wikidata_id: "Q131391754"
 
 ## Coğrafya
 
-Şehit Hacı Yakup Efendi Türbesi, Osmangazi, Bursa'da yer almaktadır ve Marmara Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle ılıman bir iklime sahip olup, yazları sıca ve kışları serin geçer. Türbenin bulunduğu alan, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu alan, ziyaretçilere geniş bir açık alan sunar ve aynı zamanda birçok bitki türüne ev sahipliği yapar. Şehit Hacı Yakup Efendi Türbesi'nin coğrafi konumu, ziyaretçilerin rahatça ulaşabileceği bir yerdir ve çevresinde birçok tarihi ve doğal güzellik bulunur.
+Şehit Hacı Yakup Efendi Türbesi, Osmangazi, Bursa'da yer almaktadır ve Marmara Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle ılıman bir iklime sahip olup, yazları sıcak ve kışları serin geçer. Türbenin bulunduğu alan, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu alan, ziyaretçilere geniş bir açık alan sunar ve aynı zamanda birçok bitki türüne ev sahipliği yapar. Şehit Hacı Yakup Efendi Türbesi'nin coğrafi konumu, ziyaretçilerin rahatça ulaşabileceği bir yerdir ve çevresinde birçok tarihi ve doğal güzellik bulunur.
 
 ## Flora ve Fauna
 

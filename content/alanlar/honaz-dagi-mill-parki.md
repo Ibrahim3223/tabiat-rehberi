@@ -37,7 +37,7 @@ Honaz Dağı Millî Parkı, 1995 yılında millî park olarak ilan edildi. Bu b�
 
 ## Coğrafya
 
-Honaz Dağı Millî Parkı, Ege Bölgesi'nin güneydoğusunda, Denizli ilinin merkezine 20 kilometre uzaklıkta bulunuyor. 2571 metre yüksekliğiyle Ege Bölgesi'nin en yüksek zirvesi olan Honaz Dağı, 1200 hektarlık bir alanı kapsıyor. Bu dağ, Türkiye'nin en önemli dağ sıralarından biri olan Batı Toros Dağları'nın bir parçası. Honaz Dağı'nın eteklerinde, Büyük Menderes Nehri'nin kollarından biri olan Honaz Çayı akıyor. Milli parkın iklimi, Akdeniz ikliminin karakteristik özellikleri gösteriyor; yazlar sıca ve kurak, kışlar ise ılık ve yağışlı.
+Honaz Dağı Millî Parkı, Ege Bölgesi'nin güneydoğusunda, Denizli ilinin merkezine 20 kilometre uzaklıkta bulunuyor. 2571 metre yüksekliğiyle Ege Bölgesi'nin en yüksek zirvesi olan Honaz Dağı, 1200 hektarlık bir alanı kapsıyor. Bu dağ, Türkiye'nin en önemli dağ sıralarından biri olan Batı Toros Dağları'nın bir parçası. Honaz Dağı'nın eteklerinde, Büyük Menderes Nehri'nin kollarından biri olan Honaz Çayı akıyor. Milli parkın iklimi, Akdeniz ikliminin karakteristik özellikleri gösteriyor; yazlar sıcak ve kurak, kışlar ise ılık ve yağışlı.
 
 ## Flora ve Fauna
 

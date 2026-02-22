@@ -38,7 +38,7 @@ Kütahya'nın merkezinde yer alan Şeyh Salih Efendi Türbesi, hem tarihi hem de
 
 ## Coğrafya
 
-Şeyh Salih Efendi Türbesi, Kütahya'nın coğrafi olarak önemli bir noktada yer alır. Türbe, şehrin merkezinde bulunan bir tepe üzerinde kurulmuştur ve etraftaki yeşil alanlar ile çevrilidir. Bu tepe, yaklaşık yüksek bir konumdate ve şehrin birçok noktasından görülebilecek bir konumdadır. Türbenin etrafında bulunan yeşil alanlar, ziyaretçilere dinlenme ve doğayı seyretmek için ideal bir ortam sunar. Ayrıca, türbenin yakınında bulunan diğer tarihi ve kültürel noktalar, ziyaretçilerin Kütahya'nın zengin tarihini ve kültürünü keşfetmelerine olanak tanır. Şeyh Salih Efendi Türbesi, Kütahya'nın coğrafi güzelliklerinin birleştiği özel bir noktadır ve ziyaretçilerini şehrin tarihi ve doğal güzellikleriyle büyüler.
+Şeyh Salih Efendi Türbesi, Kütahya'nın coğrafi olarak önemli bir noktada yer alır. Türbe, şehrin merkezinde bulunan bir tepe üzerinde kurulmuştur ve etraftaki yeşil alanlar ile çevrilidir. Bu tepe, yüksek bir konumda ve şehrin birçok noktasından görülebilecek bir konumdadır. Türbenin etrafında bulunan yeşil alanlar, ziyaretçilere dinlenme ve doğayı seyretmek için ideal bir ortam sunar. Ayrıca, türbenin yakınında bulunan diğer tarihi ve kültürel noktalar, ziyaretçilerin Kütahya'nın zengin tarihini ve kültürünü keşfetmelerine olanak tanır. Şeyh Salih Efendi Türbesi, Kütahya'nın coğrafi güzelliklerinin birleştiği özel bir noktadır ve ziyaretçilerini şehrin tarihi ve doğal güzellikleriyle büyüler.
 
 ## Flora ve Fauna
 

@@ -43,7 +43,7 @@ Muğla'nın doğal güzelliklerini keşfetmek isteyenler için, Küçük Dağ bi
 
 Doğal bir oluşum olan Küçük Dağ, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgenin jeolojik yapısını etkilemektedir. Ancak,Detailed fiziksel veri bulunmamasına rağmen, bu bölgenin Muğla'nın toplam yüzölçümünün küçük bir kısmını kapladığı söylenebilir. Örneğin, Monaco'nun yarısı kadar bir alanda yer alan bu dağ, bölgenin coğrafi çeşitliliğine katkıda bulunmaktadır.
 
-İklim açısından bakıldığında, Küçük Dağ ve çevresinin Akdeniz ikliminin karakteristik özelliklerini taşıdığı görülmektedir. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
+İklim açısından bakıldığında, Küçük Dağ ve çevresinin Akdeniz ikliminin karakteristik özelliklerini taşıdığı görülmektedir. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
 
 Çevresel açıdan bakıldığında, Küçük Dağ'ın komşu alanlar ve su kaynaklarıyla önemli bir ilişkisi bulunmaktadır. Bölge, Marmaris ve Muğla gibi önemli yerleşim merkezlerine yakın bir konumda yer almaktadır. Ayrıca, bölgenin ekosistem bağlantıları da önemli bir Role sahiptir. Örneğin, bölgedeki su kaynakları, yakın çevresindeki diğer ekosistemlerin canlılığını sürdürmesine katkıda bulunmaktadır.
 
@@ -51,7 +51,7 @@ Doğal bir oluşum olan Küçük Dağ, çevresindeki diğer coğrafi oluşumlarl
 
 Küçük Dağ, Muğla'nın zeytinlikler ve çam ormanlarıyla çevrili bir dağ ekosistemi sunar. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle kaplanır. Yükseklik zonlarına göre değişen bitki örtüsü, alpin flora örneklerini barındırır. Çam ağaçlarının gölgesinde, various otsu bitkiler ve yer zeytinlik alanlar bulunur.
 
-Bu dağ ekosisteminde, çeşitli yaban hayvanları yaşamını sürdürür. Memeliler, çam ormanlarının sunduğu korunan alanlarda yaşarken, kuşlar göç yolları üzerinde önemli bir durak olarak Küçük Dağ'ı kullanır. Sürüngenler ise, sıca ve kurak bölgelerde aktif olarak görülür. 
+Bu dağ ekosisteminde, çeşitli yaban hayvanları yaşamını sürdürür. Memeliler, çam ormanlarının sunduğu korunan alanlarda yaşarken, kuşlar göç yolları üzerinde önemli bir durak olarak Küçük Dağ'ı kullanır. Sürüngenler ise, sıcak ve kurak bölgelerde aktif olarak görülür. 
 
 Küçük Dağ'ın ekolojik değeri, çeşitlilik gösteren flora ve faunasından gelir. Bu dağ ekosisteminin korunması, bölgenin doğal dengesinin korunmasına katkı sağlar.
 

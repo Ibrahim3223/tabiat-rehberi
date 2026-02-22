@@ -42,7 +42,7 @@ Doğu Anadolu Bölgesi'nin kalbinde yer alan Kormaç Dağı, Sivas ilinin merkez
 
 Jeolojik açıdan incelendiğinde, Kormaç Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, bölgenin genel jeolojik özellikleri dikkate alındığında, dağların genellikle volkanik kayaçlardan oluştuğu söylenebilir. Bu dağ, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Yüksekliği ise Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olabilir, ancak bu bilgi doğrulanmamıştır.
 
-Mevsimsel olarak, Kormaç Dağı ve çevresinin iklim karakteri, Doğu Anadolu Bölgesi'nin genel iklim koşullarını yansıtmaktadır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir iklim hakimdir. Bu mevsimsel değişiklikler, bölgenin flora ve fauna açısından zengin bir çeşitlilik göstermesine neden olmaktadır.
+Mevsimsel olarak, Kormaç Dağı ve çevresinin iklim karakteri, Doğu Anadolu Bölgesi'nin genel iklim koşullarını yansıtmaktadır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hakimdir. Bu mevsimsel değişiklikler, bölgenin flora ve fauna açısından zengin bir çeşitlilik göstermesine neden olmaktadır.
 
 Bölgenin hidroloji ve ekosistem açısından incelenmesi, Kormaç Dağı'nın çevresindeki su kaynakları ve diğer coğrafi unsurlarla olan bağlantısını ortaya koymaktadır. Dağın eteklerinde ve yakın çevresinde yer alan akarsular ve göller, bölgenin su döngüsünü düzenlemektedir. Ayrıca, Kormaç Dağı'nın komşu alanlar ile olan ilişkisi, bölgenin ekolojik dengesini korumak açısından önemlidir.
 

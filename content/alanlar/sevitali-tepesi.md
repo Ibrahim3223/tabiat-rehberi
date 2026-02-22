@@ -36,7 +36,7 @@ Sevitali Tepesi, yüzyıllar boyunca insanların yaşadığı ve ziyaret ettiği
 
 ## Coğrafya
 
-Sevitali Tepesi, Hatay'ın coğrafi güzelliklerinin bir parçası olarak görünür. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir panorama sunar. Akdeniz Bölgesi'nin karakteristik iklimi, Sevitali Tepesi'nde de görülür. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir iklim hüküm sürer. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar bulunur. Bu bitkiler, tepenin doğal güzelliğini artırır ve ziyaretçilere doğanın zenginliğini gösterir. Sevitali Tepesi, çevreye uyum sağlayan bir yapıya sahiptir ve doğal güzelliği, ziyaretçilere keyifli bir gezi deneyimi sunar.
+Sevitali Tepesi, Hatay'ın coğrafi güzelliklerinin bir parçası olarak görünür. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir panorama sunar. Akdeniz Bölgesi'nin karakteristik iklimi, Sevitali Tepesi'nde de görülür. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir iklim hüküm sürer. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar bulunur. Bu bitkiler, tepenin doğal güzelliğini artırır ve ziyaretçilere doğanın zenginliğini gösterir. Sevitali Tepesi, çevreye uyum sağlayan bir yapıya sahiptir ve doğal güzelliği, ziyaretçilere keyifli bir gezi deneyimi sunar.
 
 ## Flora ve Fauna
 

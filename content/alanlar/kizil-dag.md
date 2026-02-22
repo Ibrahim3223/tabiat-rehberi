@@ -43,7 +43,7 @@ Güneydoğu Akdeniz Bölgesi'nde yer alan Hatay, coğrafi olarak önemli bir kon
 
 Doğal güzellikleri ve jeolojik yapısı ile dikkat çeken Kızıl Dağ, geniş bir alanı kaplıyor. Bir şehir bloğu büyüklüğünde düşünülenden daha büyük olan bu dağ, çevresindeki coğrafi oluşumlar ile birlikte önemli bir ekosistem oluşturuyor. Ancak, fiziksel verilerin eksikliği nedeniyle dağın boyutları ve şekli hakkında net bir bilgi bulunmuyor.
 
-Mevsimsel olarak değişen hava koşulları, bu bölgenin iklim karakterini şekillendiriyor. Yaz aylarında sıca ve kuru, kış aylarında ise serin ve yağışlı olan hava durumu, bölgenin doğal dengesini etkiliyor. Eiffel Kulesi'nin 2 katı yükseklikte düşünülebilecek bu dağ, çevresindeki coğrafi oluşumlar ile birlikte önemli bir hava dolaşımı yaratıyor.
+Mevsimsel olarak değişen hava koşulları, bu bölgenin iklim karakterini şekillendiriyor. Yaz aylarında sıcak ve kuru, kış aylarında ise serin ve yağışlı olan hava durumu, bölgenin doğal dengesini etkiliyor. Eiffel Kulesi'nin 2 katı yükseklikte düşünülebilecek bu dağ, çevresindeki coğrafi oluşumlar ile birlikte önemli bir hava dolaşımı yaratıyor.
 
 Çevresindeki su kaynakları ve ekosistem bağlantıları ile birlikte, Kızıl Dağ, bölgenin doğal dengesini koruyor. Monaco'nun yarısı kadar büyük olmayan bu dağ, çevresindeki coğrafi oluşumlar ile birlikte önemli bir doğal güzellik oluşturuyor. Taksim Meydanı'nın 10 katı büyüklüğünde düşünülebilecek bu dağ, bölgenin önemli doğal oluşumlarından biri.
 
@@ -51,7 +51,7 @@ Mevsimsel olarak değişen hava koşulları, bu bölgenin iklim karakterini şek
 
 Kızıl Dağ, Hatay'da yer alan bir dağ ekosistemi olup, maki bitki örtüsüne ve kuraklığa dayanıklı türlere ev sahipliği yapar. Bu bölgede, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çeker. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Sonbaharda ise, göçmen kuşlar dağların üzerinden geçer, bu bölgeyi önemli bir göç güzergahı haline getirir.
 
-Dağın yüksek kesimlerinde, alpin flora hakimdir. Bu bölgede, kuraklığa dayanıklı bitkiler ve maki türleri yaygındır. Yaban hayatı da zengin çeşitlilik gösterir. Dağ keçileri, tilkiler ve diğer memeliler, dağların kayalık ve ormanlık alanlarında yaşar. Kuşlar, özellikle göç mevsiminde, dağların üzerinde ve yakınında görülür. Sürüngenler de, dağların sıca ve kurak alanlarında yaşamlarını sürdürür.
+Dağın yüksek kesimlerinde, alpin flora hakimdir. Bu bölgede, kuraklığa dayanıklı bitkiler ve maki türleri yaygındır. Yaban hayatı da zengin çeşitlilik gösterir. Dağ keçileri, tilkiler ve diğer memeliler, dağların kayalık ve ormanlık alanlarında yaşar. Kuşlar, özellikle göç mevsiminde, dağların üzerinde ve yakınında görülür. Sürüngenler de, dağların sıcak ve kurak alanlarında yaşamlarını sürdürür.
 
 Kızıl Dağ, ekolojik değerleri bakımından önemli bir bölgedir. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve ekolojik dengesini korumak için büyük önem taşır.
 

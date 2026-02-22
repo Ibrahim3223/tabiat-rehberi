@@ -45,7 +45,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin çeşitliliğine bir ör
 
 Fiziksel olarak Andıklık Tepe'nin boyutları hakkında detaylı bilgi olmasa da, bu dağların genel olarak bölgedeki diğer dağlarla benzerlik gösterdiği söylenebilir. Bir şehir bloğu büyüklüğünde olan bu alan, coğrafi olarak önemli bir konumda bulunuyor. Andıklık Tepe'nin jeolojik yapısı, bölgenin genel jeolojik özelliklerini yansıtıyor. Ancak, dahalı fiziksel verilere ihtiyaç duyuluyor.
 
-Mevsimsel olarak Andıklık Tepe, bölgenin iklim karakterine uygun olarak değişen hava koşullarına sahip. Kış aylarında soğu ve kar yağışlı, yaz aylarında sıca ve kurak bir iklim hakim. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Hava durumu, bölgenin coğrafi konumu ve yüksekliğine göre değişkenlik gösteriyor.
+Mevsimsel olarak Andıklık Tepe, bölgenin iklim karakterine uygun olarak değişen hava koşullarına sahip. Kış aylarında soğuk ve kar yağışlı, yaz aylarında sıcak ve kurak bir iklim hakim. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Hava durumu, bölgenin coğrafi konumu ve yüksekliğine göre değişkenlik gösteriyor.
 
 Doğal kaynaklar bakımından Andıklık Tepe, çevresindeki diğer coğrafi oluşumlarla birlikte bir ekosistem oluşturuyor. Bölgenin su kaynakları, Andıklık Tepe'nin eteklerinde yer alan akarsular ve göllerle bağlantılı. Bu su kaynakları, bölgenin flora ve fauna çeşitliliğini destekleyen önemli bir bileşen. Andıklık Tepe, Monaco'nun yarısı kadar büyük bir alanı kaplayan bir dağ olarak, bölgenin doğal dengesini koruma açısından önemli bir role sahip.
 

@@ -44,7 +44,7 @@ Genel bir bakışla, Kaşık Adası, Marmara Denizi'nin kuzeydoğu kıyılarınd
 
 Doğal güzellikleri ile dikkat çeken Kaşık Adası, bir şehir bloğu büyüklüğünde bir alana sahiptir. Ada, genel olarak düz bir yapıya sahiptir ve yükseklik farklılıkları yoktur. Jeolojik olarak, ada principalmente kayaçlardan oluşur ve bu durum, adanın coğrafi yapısını etkiler. Ada, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplar ve bu özelliği ile İstanbul'un küçük ama önemli doğal alanlarından biri olarak dikkat çeker.
 
-Mevsimsel olarak, Kaşık Adası, İstanbul'un genel iklim karakterini paylaşır. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve nemli bir hava hakimdir. Ada, Marmara Denizi'nin etkileri altında kalır ve bu durum, adanın iklimini şekillendirir. Eiffel Kulesi'nin birkaç katı yükseklikte olmayan ada, rüzgarlı günlerde denizden gelen esintilerin etkisi altında kalabilir.
+Mevsimsel olarak, Kaşık Adası, İstanbul'un genel iklim karakterini paylaşır. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve nemli bir hava hakimdir. Ada, Marmara Denizi'nin etkileri altında kalır ve bu durum, adanın iklimini şekillendirir. Eiffel Kulesi'nin birkaç katı yükseklikte olmayan ada, rüzgarlı günlerde denizden gelen esintilerin etkisi altında kalabilir.
 
 Ada, çevresindeki su kaynakları ve ekosistem bağlantıları ile dikkat çeker. Marmara Denizi'ne kıyısı olan ada, su kaynakları açısından zengin bir bölge olarak görülür. Monaco'nun küçük bir bölümü büyüklüğünde olan ada, İstanbul'un Adalar ilçesi ile benzer bir coğrafi yapıya sahiptir. Bu bölge, doğal güzellikleri ve sakin atmosferi ile ziyaretçilerini cezbeder.
 

@@ -37,7 +37,7 @@ Doğal güzellikleri ile tanınan Muğla'nın gizli cennetlerinden biri olan Kad
 
 Jeolojik açıdan bakıldığında, Kadırga Burnu'nun coğrafyası, Akdeniz Bölgesi'nin tipik özelliklerini taşır. Dağlık bir arazinin denize doğru uzantısı olan bu burun, bir şehir bloğu büyüklüğünde bir alan kaplar. Bu küçük ama zengin coğrafya, çeşitli bitki türlerini ve hayvanları barındırır. Deniz seviyesinden yaklaşık 100 metre yükseklikte yer alan bazı noktalarda, Ege Denizi'nin muhteşem manzaraları sunar.
 
-İklimsel olarak, Kadırga Burnu, Akdeniz ikliminin karakteristik özelliklerini gösterir. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakimdir. Bu mevsimsel değişimler, buradaki flora ve fauna için ideal koşullar sağlar. Ilıman iklimi, yıl boyunca ziyaretçilerin burayı keşfetmeleri için uygun bir ortam oluşturur.
+İklimsel olarak, Kadırga Burnu, Akdeniz ikliminin karakteristik özelliklerini gösterir. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hakimdir. Bu mevsimsel değişimler, buradaki flora ve fauna için ideal koşullar sağlar. Ilıman iklimi, yıl boyunca ziyaretçilerin burayı keşfetmeleri için uygun bir ortam oluşturur.
 
 Çevresel açıdan bakıldığında, Kadırga Burnu, doğal bir koridor olarak işlev görür. Ege Denizi'ne açılan bir kapı gibi, burası birçok deniz canlısının yuvalanma ve beslenme alanıdır. Ayrıca, yakındaki ormanlık alanlar ile bağlantılı olan bu bölge, çeşitli kuş türleri için önemli bir uğrak noktasıdır. Monaco'nun küçük bir bölümü büyüklüğünde olan bu alan, çevresindeki ekosistemi destekleyen önemli bir doğal kaynak olarak kabul edilir.
 

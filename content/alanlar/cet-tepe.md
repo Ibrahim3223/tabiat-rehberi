@@ -38,7 +38,7 @@ Mersin'in Erdemli ilçesinde yer alan Çet Tepe, doğal güzellikleri ve tarihi 
 
 ## Coğrafya
 
-Çet Tepe, Mersin'in Erdemli ilçesinde yer alıyor ve Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölgenin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşuyor. Çet Tepe, 140 hektarlık alanı ile önemli bir doğal alan olarak kabul ediliyor. Bölgenin iklimi, Akdeniz ikliminin karakteristik özellikleri taşıyor; yazları sıca ve kurak, kışları ılıman ve yağışlı passing. Çet Tepe'nin coğrafi konumu, ziyaretçilere zengin bir flora ve fauna sunuyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar, ziyaretçilere benzersiz bir deneyim sunuyor.
+Çet Tepe, Mersin'in Erdemli ilçesinde yer alıyor ve Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölgenin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşuyor. Çet Tepe, 140 hektarlık alanı ile önemli bir doğal alan olarak kabul ediliyor. Bölgenin iklimi, Akdeniz ikliminin karakteristik özellikleri taşıyor; yazları sıcak ve kurak, kışları ılıman ve yağışlı passing. Çet Tepe'nin coğrafi konumu, ziyaretçilere zengin bir flora ve fauna sunuyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

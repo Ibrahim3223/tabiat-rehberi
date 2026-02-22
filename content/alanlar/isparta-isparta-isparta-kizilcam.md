@@ -31,7 +31,7 @@ Kizilcam milli parkının tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu
 
 ## Coğrafya
 
-Kizilcam milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, çeşitli arazi şekillerine sahip. Parkın toprakları, genel olarak ormanlık alanlar, çayırlar ve göllerle kaplı. Bu coğrafi çeşitlilik, birçok farklı bitki ve hayvan türünün yaşamasına olanak tanıyor. Parkın iklimi, karasal iklim özellikleri gösteriyor; kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu mevsimsel değişimler, Kizilcam'ın flora ve fauna çeşitliliğini etkiliyor ve her mevsim, ziyaretçilere farklı bir güzellik sunuyor. Milli parkın konumu, aynı zamanda birçok farklı yaban hayvanının yaşam alanı olarak hizmet ediyor.
+Kizilcam milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, çeşitli arazi şekillerine sahip. Parkın toprakları, genel olarak ormanlık alanlar, çayırlar ve göllerle kaplı. Bu coğrafi çeşitlilik, birçok farklı bitki ve hayvan türünün yaşamasına olanak tanıyor. Parkın iklimi, karasal iklim özellikleri gösteriyor; kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu mevsimsel değişimler, Kizilcam'ın flora ve fauna çeşitliliğini etkiliyor ve her mevsim, ziyaretçilere farklı bir güzellik sunuyor. Milli parkın konumu, aynı zamanda birçok farklı yaban hayvanının yaşam alanı olarak hizmet ediyor.
 
 ## Flora ve Fauna
 

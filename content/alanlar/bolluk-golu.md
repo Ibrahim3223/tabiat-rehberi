@@ -41,7 +41,7 @@ Gökyüzünden bakıldığında, Konya'nın coğrafi dokusunda önemli bir yer t
 
 Doğal yapısını incelediğimizde, Bolluk Gölü'nün fiziksel özellikleri, coğrafi bir zenginlik olarak ortaya çıkar. Ancak, detaylı fiziksel verilerin sınırlı olması nedeniyle, gölü bir şehir bloğu büyüklüğünde hayal etme mümkündür. Bu karşılaştırma, gölü mental olarak canlandırabileğimiz bir ölçeğe indirger ve göle yaklaştıkça, suyun ve çevrenin uyumunu daha iyi anlamamızı sağlar.
 
-Mevsimsel değişikliklere baktığımızda, Bolluk Gölü'nün iklim karakteri, Konya'nın genel iklim yapısına benzerlik gösterir. Konya'nın kura ve soğuk kış aylarından, sıca ve kurak yaz aylarına kadar uzanan iklimsel çeşitlilik, gölü ve çevresini etkiler. Bu mevsimsel özellikler, göle ve çevresindeki ekosisteme yaşam veren unsurlardır ve bölgenin biyolojik çeşitliliğini destekler.
+Mevsimsel değişikliklere baktığımızda, Bolluk Gölü'nün iklim karakteri, Konya'nın genel iklim yapısına benzerlik gösterir. Konya'nın kura ve soğuk kış aylarından, sıcak ve kurak yaz aylarına kadar uzanan iklimsel çeşitlilik, gölü ve çevresini etkiler. Bu mevsimsel özellikler, göle ve çevresindeki ekosisteme yaşam veren unsurlardır ve bölgenin biyolojik çeşitliliğini destekler.
 
 Çevresel ilişkiler açısından, Bolluk Gölü, Konya'nın su kaynakları ve ekosistem bağlantıları içerisinde önemli bir role sahiptir. Göle komşu olan tarım arazileri ve doğal yaşam alanları, gölden beslenir ve göle geri besler. Bu karşılıklı etkileşim, bölgenin doğal dengesini korur ve gölü, Konya'nın coğrafi yapısı içinde ayrılmaz bir parça haline getirir.
 

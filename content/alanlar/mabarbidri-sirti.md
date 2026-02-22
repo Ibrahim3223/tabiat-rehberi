@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin doğa harikalarından biri olan Mabarbıdrı S�
 
 Doğal güzelliği ile dikkat çeken Mabarbıdrı Sırtı, coğrafi olarak çeşitlilik gösteren bir bölge. Maalesef, detaylı fiziksel veriler bulunmuyor, ancak bu dağ, bölgenin jeolojik yapısını şekillendiren önemli bir parça. Mabarbıdrı Sırtı, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor. Bu büyüklük, bölgenin coğrafi çeşitliliğini vurguluyor.
 
-Mevsimsel özelliklere bakıldığında, Mabarbıdrı Sırtı'nın iklim karakteri, Güneydoğu Anadolu Bölgesi'nin genel iklim yapısına benzerlik gösteriyor. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklim hüküm sürüyor. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Eiffel Kulesi'nin birkaç katı yükseklikte olan Mabarbıdrı Sırtı, bölgenin iklim karakterini şekillendiren önemli bir faktör.
+Mevsimsel özelliklere bakıldığında, Mabarbıdrı Sırtı'nın iklim karakteri, Güneydoğu Anadolu Bölgesi'nin genel iklim yapısına benzerlik gösteriyor. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklim hüküm sürüyor. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Eiffel Kulesi'nin birkaç katı yükseklikte olan Mabarbıdrı Sırtı, bölgenin iklim karakterini şekillendiren önemli bir faktör.
 
 Bölgenin su kaynaklarına bakıldığında, Mabarbıdrı Sırtı, çevredeki ekosistem bağlantılarını sağlayan önemli bir unsur. Monaco'nun yarısı kadar büyük bir alanı kaplayan bu dağ, bölgenin hidrolojik dengesini koruyor. Çevresindeki komşu alanlarla birlikte, Mabarbıdrı Sırtı, bölgenin doğal dengesini korumak için önemli bir rol üstleniyor.
 

@@ -37,7 +37,7 @@ Değirmenboğazı Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca şeki
 
 ## Coğrafya
 
-Değirmenboğazı Tabiat Parkı, Marmara Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Parkın coğrafyası, doğal güzellikleri ve çeşitli bitki türleri ile dikkat çeker. Bu bölge, iklimsel olarak ılıman bir bölge olup, yazları sıca ve nemli, kışları ise soğu ve yağışlı geçer. Parkın coğrafi yapısı, ziyaretçilerin doğayı keşfetmesine olanak tanır. Parkın etrafında, çeşitli su kaynakları ve toprak çeşitliliği bulunur. Bu coğrafi çeşitlilik, çeşitli yaban hayvanlarının yaşam alanı oluşturur.
+Değirmenboğazı Tabiat Parkı, Marmara Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Parkın coğrafyası, doğal güzellikleri ve çeşitli bitki türleri ile dikkat çeker. Bu bölge, iklimsel olarak ılıman bir bölge olup, yazları sıcak ve nemli, kışları ise soğuk ve yağışlı geçer. Parkın coğrafi yapısı, ziyaretçilerin doğayı keşfetmesine olanak tanır. Parkın etrafında, çeşitli su kaynakları ve toprak çeşitliliği bulunur. Bu coğrafi çeşitlilik, çeşitli yaban hayvanlarının yaşam alanı oluşturur.
 
 ## Flora ve Fauna
 

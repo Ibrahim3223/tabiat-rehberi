@@ -38,7 +38,7 @@ Ebu İshak Türbesi, tarihi geçmişi ile önemli bir kültürel miras olarak ka
 
 ## Coğrafya
 
-Ebu İshak Türbesi, Konya'nın Karatay ilçesinde yer almaktadır. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır ve ziyaretçilere geniş bir rafik alan sunar. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir arazi üzerine kuruludur ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Coğrafi olarak, Ebu İshak Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, karasal iklim özellikleri gösterir. Kış ayları soğu ve kar yağışlı, yaz ayları ise sıcak ve kurudur. Bu coğrafi özellikler, Ebu İshak Türbesi'nin çevresinde, ziyaretçilere doğa güzellikleri sunar.
+Ebu İshak Türbesi, Konya'nın Karatay ilçesinde yer almaktadır. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır ve ziyaretçilere geniş bir rafik alan sunar. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir arazi üzerine kuruludur ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Coğrafi olarak, Ebu İshak Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, karasal iklim özellikleri gösterir. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurudur. Bu coğrafi özellikler, Ebu İshak Türbesi'nin çevresinde, ziyaretçilere doğa güzellikleri sunar.
 
 ## Flora ve Fauna
 

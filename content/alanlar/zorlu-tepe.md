@@ -36,7 +36,7 @@ Zorlu Tepe'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu tepe, tari
 
 ## Coğrafya
 
-Zorlu Tepe, Akdeniz Bölgesi'nde bulunan Hatay ilinin sınırları içerisinde yer alıyor. Bu tepe, bölgenin coğrafi yapısını şekillendiren önemli bir nokta. Zorlu Tepe'nin etrafı, yaklaşık 140 hektarlık bir yeşil alan ile çevrili ve bu alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Bu tepe, aynı zamanda bölgede yaşayan insanların yaşantısını etkileyen iklim koşullarını da belirlemekte önemli bir rol oynuyor. Zorlu Tepe'nin iklimi, typically Akdeniz iklimi özellikleri gösteriyor. Bu tepe, yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir iklim đang yaşıyor. Zorlu Tepe'nin coğrafi konumu, bu bölgede yaşayan insanların yaşantısını ve ekonomisini de etkiliyor. Bu tepe, bölgenin tarım ve hayvancılık faaliyetleri için önemli bir merkez olarak kabul ediliyor.
+Zorlu Tepe, Akdeniz Bölgesi'nde bulunan Hatay ilinin sınırları içerisinde yer alıyor. Bu tepe, bölgenin coğrafi yapısını şekillendiren önemli bir nokta. Zorlu Tepe'nin etrafı, yaklaşık 140 hektarlık bir yeşil alan ile çevrili ve bu alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Bu tepe, aynı zamanda bölgede yaşayan insanların yaşantısını etkileyen iklim koşullarını da belirlemekte önemli bir rol oynuyor. Zorlu Tepe'nin iklimi, typically Akdeniz iklimi özellikleri gösteriyor. Bu tepe, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir iklim đang yaşıyor. Zorlu Tepe'nin coğrafi konumu, bu bölgede yaşayan insanların yaşantısını ve ekonomisini de etkiliyor. Bu tepe, bölgenin tarım ve hayvancılık faaliyetleri için önemli bir merkez olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

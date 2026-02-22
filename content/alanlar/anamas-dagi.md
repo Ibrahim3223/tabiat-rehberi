@@ -45,7 +45,7 @@ Güneybatı Anadolu'nun kalbinde, Isparta ilinin sınırları içinde yer alan A
 
 Doğal güzellikleri ve jeolojik yapısıyla dikkat çeken Anamas Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Ancak, bu dağın boyutları hakkında net bir veri bulunmaması, tam olarak büyüklüğünü belirlememizi zorlaştırmaktadır. Anamas Dağı, bölgenin jeolojik yapısı itibariyle metamorfi ve sedimentatif kayaçlardan oluşmaktadır.
 
-Mevsimsel özelliklere bakıldığında, Anamas Dağı ve çevresinin iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Bu durum, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
+Mevsimsel özelliklere bakıldığında, Anamas Dağı ve çevresinin iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu durum, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
 
 Çevresel açıdan bakıldığında, Anamas Dağı, Eğirdir Gölü ve Akdağlar ile birlikte bir ekosistem oluşturmaktadır. Bu dağ, bölgenin su kaynakları açısından da önemlidir. Anamas Dağı'nın eteklerinde ve civarında oluşan su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılamaktadır. Bu nedenle, Anamas Dağı, bölgenin ekolojik dengesi için önemli bir rol oynamaktadır.
 

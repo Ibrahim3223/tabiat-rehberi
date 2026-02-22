@@ -37,7 +37,7 @@ Kemal-i Ümmi Mescidi ve Türbesi, yüzyıllar boyunca bölgenin dini ve kültü
 
 ## Coğrafya
 
-Kemal-i Ümmi Mescidi ve Türbesi, Niğde'nin merkezinde yer alan bir tepe üzerinde bulunmaktadır. Bu tepe, yaklaşık yüksek bir konumdate yer almakta ve çevredeki diğer tepelerle birlikte bir bütün oluşturmaktadır. Mescidin ve türbenin etrafında yer alan tarihi evler ve sokaklar, dar ve dik yollarla birbirlerine bağlanmaktadır. Bu bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi yapısını yansıtmaktadır. Bölgede yer alan diğer tarihi yapılar ve anıtlar, Kemal-i Ümmi Mescidi ve Türbesi'ne yakın mesafede bulunmakta ve ziyaretçilere geniş bir kültürel zenginlik sunmaktadır. Mescidin ve türbenin bulunduğu tepe, aynı zamanda bölgenin panoramik manzarasını sunmaktadır. Ziyaretçiler, bu tepeden Niğde'nin merkezini ve çevredeki diğer tepeleri görebilmektedir.
+Kemal-i Ümmi Mescidi ve Türbesi, Niğde'nin merkezinde yer alan bir tepe üzerinde bulunmaktadır. Bu tepe, yüksek bir konumda yer almakta ve çevredeki diğer tepelerle birlikte bir bütün oluşturmaktadır. Mescidin ve türbenin etrafında yer alan tarihi evler ve sokaklar, dar ve dik yollarla birbirlerine bağlanmaktadır. Bu bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi yapısını yansıtmaktadır. Bölgede yer alan diğer tarihi yapılar ve anıtlar, Kemal-i Ümmi Mescidi ve Türbesi'ne yakın mesafede bulunmakta ve ziyaretçilere geniş bir kültürel zenginlik sunmaktadır. Mescidin ve türbenin bulunduğu tepe, aynı zamanda bölgenin panoramik manzarasını sunmaktadır. Ziyaretçiler, bu tepeden Niğde'nin merkezini ve çevredeki diğer tepeleri görebilmektedir.
 
 ## Flora ve Fauna
 

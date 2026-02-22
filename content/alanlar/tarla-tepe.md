@@ -42,7 +42,7 @@ Diyarbakır'ın coğrafi zenginliklerinden biri olan Tarla Tepe, 37.9394°K, 40.
 
 Jeolojik açıdan bakıldığında, Tarla Tepe'nin kesin boyutları bilinmese de, bölgenin genel coğrafi yapısı hakkında fikir sahibi olunabiliyor. Bu dağ, bölgenin diğer coğrafi oluşumları gibi, jeolojik geçmişinin bir ürünü olarak ortaya çıkmış. Ancak, Tarla Tepe'nin yüksekliği ve şekli hakkında detaylı bilgi bulunmuyor.
 
-Mevsimsel değişikliklere bakıldığında, Tarla Tepe'nin iklimi Diyarbakır'ın genel iklim karakterini yansıtıyor. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir hava koşullarına sahip. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor.
+Mevsimsel değişikliklere bakıldığında, Tarla Tepe'nin iklimi Diyarbakır'ın genel iklim karakterini yansıtıyor. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir hava koşullarına sahip. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiliyor.
 
 Çevresel açıdan bakıldığında, Tarla Tepe, Diyarbakır'ın diğer coğrafi oluşumları ile bir bütün olarak değerlendiriliyor. Bu dağ, bölgenin su kaynakları, ekosistemi ve diğer doğal alanları ile bağlantılı bir şekilde yer alıyor. Tarla Tepe'nin komşu alanlar ile olan ilişkisi, bölgenin ekolojik dengesini koruma açısından önemli bir rol oynuyor.
 

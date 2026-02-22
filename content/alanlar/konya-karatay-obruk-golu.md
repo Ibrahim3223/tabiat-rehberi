@@ -31,7 +31,7 @@ Konya Karatay Obruğu'nun tarihi geçmişi, yüzyıllar boyunca çeşitli medeni
 
 ## Coğrafya
 
-Konya Karatay Obruğu, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici bölgelerinden biri. Obruğun etrafında bulunan tepeler, manzaraya farklı bir güzellik katarken, gölün sakin suları, ziyaretçilere huzur veren bir atmosfer sunuyor. Bölge, çeşitli bitki türleri ve zengin fauna ile kaplı olup, doğa severlerin ilgisini çekiyor. Konya Karatay Obruğu'nun iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıda. Yaz ayları sıca ve kurak, kış ayları ise soğu ve karlı geçmekte. Bu nedenle, ziyaretçilerin bölgeyi ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar ayları.
+Konya Karatay Obruğu, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici bölgelerinden biri. Obruğun etrafında bulunan tepeler, manzaraya farklı bir güzellik katarken, gölün sakin suları, ziyaretçilere huzur veren bir atmosfer sunuyor. Bölge, çeşitli bitki türleri ve zengin fauna ile kaplı olup, doğa severlerin ilgisini çekiyor. Konya Karatay Obruğu'nun iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıda. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve karlı geçmekte. Bu nedenle, ziyaretçilerin bölgeyi ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar ayları.
 
 ## Flora ve Fauna
 

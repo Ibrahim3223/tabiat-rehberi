@@ -46,7 +46,7 @@ Dumanlı Dağı gibi doğal alanlar, bölgenin ekonomi ve kültürel yaşamını
 
 Doğal güzelliklerin bir araya geldiği bu bölge, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Dumanlı Dağı'nın fiziksel yapısı, coğrafyanın şekillenmesinde önemli bir rol oynuyor. Jeolojik açıdan incelendiğinde, bu dağların oluşumunda volkanik faaliyetlerin etkili olduğu görülüyor. Ancak, daha detaylı fiziksel veriler bulunmuyor.
 
-Yaz aylarında sıca ve kurak, kış aylarında soğu ve karlı olan iklim karakteri, Dumanlı Dağı'nın mevsimsel özelliklerini belirliyor. Bu dağ, Eiffel Kulesi'nin 2 katı yükseklikte değil, ancak çevredeki diğer dağlarla birlikte bir yükseklik bandını oluşturuyor. Hava durumu, bölgenin coğrafi konumuna bağlı olarak değişkenlik gösteriyor.
+Yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı olan iklim karakteri, Dumanlı Dağı'nın mevsimsel özelliklerini belirliyor. Bu dağ, Eiffel Kulesi'nin 2 katı yükseklikte değil, ancak çevredeki diğer dağlarla birlikte bir yükseklik bandını oluşturuyor. Hava durumu, bölgenin coğrafi konumuna bağlı olarak değişkenlik gösteriyor.
 
 Dumanlı Dağı, çevresindeki ovalar ve düzlüklerle bağlantılı bir ekosistem içerisinde yer alıyor. Ankara'nın kuzeydoğusundaki bu dağ, komşu illerle birlikte bir su kaynakları ağı oluşturuyor. Monaco'nun yarısı kadar büyük olmayan bu bölge, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplıyor. Çevresel ilişkiler, Dumanlı Dağı'nın doğal güzelliklerini ve coğrafi önemini vurguluyor.
 

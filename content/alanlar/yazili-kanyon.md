@@ -44,7 +44,7 @@ Güneydeki dağlık arazinin ortasında yer alan Yazılı Kanyon, Isparta ilinin
 
 Jeolojik açıdan incelendiğinde, Yazılı Kanyon'un oluşumu oldukça ilginç bir proceso sonucu meydana geliyor. Ne yazık ki, detaylı fiziksel veriler bulunmuyor, ancak kanyonun genel yapısı ve çevresindeki coğrafya, bir şehir bloğu büyüklüğünde bir alanı kapladığı söylenebilir. Bu büyüklük, ziyaretçilerin rahatlıkla keşfedebileceği bir alan sunuyor ve kanyonun güzelliğini daha da vurguluyor.
 
-İklim açısından bakıldığında, Yazılı Kanyon'un bulunduğu bölge Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel değişimler, kanyonun florası ve faunası üzerinde önemli bir etkiye sahip ve ziyaretçilerin farklı mevsimlerde farklı güzelliklerle karşılaşmasına neden oluyor.
+İklim açısından bakıldığında, Yazılı Kanyon'un bulunduğu bölge Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel değişimler, kanyonun florası ve faunası üzerinde önemli bir etkiye sahip ve ziyaretçilerin farklı mevsimlerde farklı güzelliklerle karşılaşmasına neden oluyor.
 
 Doğal bir oluşum olarak, Yazılı Kanyon'un çevresindeki ekosistemle güçlü bir bağı bulunuyor. Komşu alanlardaki su kaynakları ve bitki örtüsü, kanyonun kendi ekosistemini oluşturuyor ve ziyaretçilere benzersiz bir doğal ortam sunuyor. Monaco'nun yarısı kadar büyük olmayan bu alan, Taksim Meydanı'nın birkaç katı büyüklüğünde bir bölgeyi kaplıyor ve ziyaretçilere kendi küçük dünyasını sunuyor.
 

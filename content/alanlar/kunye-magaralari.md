@@ -42,7 +42,7 @@ Doğal güzelliklerin bir araya geldiği bir bölge olan Kayseri'de, Künye Mağ
 
 Jeolojik açıdan incelendiğinde, Künye Mağaraları'nın büyüklüğü bir şehir bloğu büyüklüğünde olduğu söylenebilir. Bu alanda yer alan mağaraların oluşumu, milyonlarca yıl önce gerçekleşmiş ve jeolojik süreçler sonucunda şekillenmiştir. Mağaraların içinde bulunan oluşumlar, kayaların erimesi ve suyun etkisiyle oluşmuş olup, ziyaretçilere büyüleyici bir manzara sunmaktadır.
 
-Mevsimsel olarak incelendiğinde, Künye Mağaraları'nın iklim karakteri oldukça değişkenlik göstermektedir. Kış aylarında soğu ve kar yağışlı bir hava hakimken, yaz aylarında sıca ve kurak bir iklim hüküm sürmektedir. Bu mevsimsel farklılıklar, mağaraların içinde bulunan oluşumların şekillenmesinde önemli bir rol oynamaktadır. Ziyaretçilerin, bu mağaraları ziyaret etmeleri için en uygun zaman, ilkbahar ve sonbahar aylarıdır.
+Mevsimsel olarak incelendiğinde, Künye Mağaraları'nın iklim karakteri oldukça değişkenlik göstermektedir. Kış aylarında soğuk ve kar yağışlı bir hava hakimken, yaz aylarında sıcak ve kurak bir iklim hüküm sürmektedir. Bu mevsimsel farklılıklar, mağaraların içinde bulunan oluşumların şekillenmesinde önemli bir rol oynamaktadır. Ziyaretçilerin, bu mağaraları ziyaret etmeleri için en uygun zaman, ilkbahar ve sonbahar aylarıdır.
 
 Çevresel açıdan bakıldığında, Künye Mağaraları jeoparkı, komşu alanlarla bağlantılı bir ekosistem içerisinde yer almaktadır. Bu bölgede, çeşitli su kaynakları ve canlı türleri bulunmaktadır. Mağaraların etrafında yer alan bitkiler ve hayvanlar, bu ekosistemin bir parçası olarak görev yapmaktadır. Ziyaretçilerin, bu doğal güzellikleri korumak için duyarlı olmaları ve çevreye saygılı davranmaları gerekmektedir.
 

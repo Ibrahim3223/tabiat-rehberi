@@ -42,7 +42,7 @@ Mersin'in dağlık bölgelerinde yer alan Gökçetaşdağı Tepe, 36.7264°K, 33
 
 Doğal güzelliği ile dikkat çeken Gökçetaşdağı Tepe, coğrafi olarak Mersin'in güneydoğu kesiminde yer almaktadır. Bu tepe, yaklaşık olarak Beşiktaş ilçesi kadar bir alanı kaplamaktadır. Ancak, fiziksel yapısı hakkında detaylı bilgiler bulunmamasına rağmen, tepe ve çevresinin jeolojik oluşumu, Mersin'in genel coğrafi yapısına benzerlik göstermektedir.
 
-İklim açısından bakıldığında, Gökçetaşdağı Tepe ve çevresinin, Akdeniz ikliminin karakteristik özelliklerini taşıdığı görülmektedir. Bu bölgede, yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürmektedir. Bu mevsimsel değişiklikler, tepe ve çevresindeki bitki örtüsünü ve ekosistemi etkilemektedir.
+İklim açısından bakıldığında, Gökçetaşdağı Tepe ve çevresinin, Akdeniz ikliminin karakteristik özelliklerini taşıdığı görülmektedir. Bu bölgede, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava hüküm sürmektedir. Bu mevsimsel değişiklikler, tepe ve çevresindeki bitki örtüsünü ve ekosistemi etkilemektedir.
 
 Çevresel açıdan bakıldığında, Gökçetaşdağı Tepe, Mersin'in diğer doğal alanları ile birlikte bir bütünü oluşturmaktadır. Bu tepe, komşu dağlar ve vadiler ile bağlantılı olarak, bir ekosistem çerçevesinde yer almaktadır. Ayrıca, tepe ve çevresinde yer alan su kaynakları, bölgenin doğal zenginliğini artırmaktadır. Bu su kaynakları, Monaco'nun yarısı kadar bir alanı kaplayan Mersin'in diğer doğal alanları ile birlikte, bölgenin su havzasını oluşturmaktadır.
 

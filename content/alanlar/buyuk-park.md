@@ -44,7 +44,7 @@ Güneşin İzmir'i ısıttığı bir gün, Büyük Park'ın sakin atmosferi ziya
 
 Doğal güzelliği ile dikkat çeken Büyük Park, İzmir'in coğrafyasının önemli bir parçasını oluşturur. Ancak, fiziksel yapı hakkında detaylı veri bulunmamasına rağmen, parkın konumuna bakıldığında, Ege Bölgesi'nin karakteristik coğrafyası içinde yer aldığı anlaşılır. Bu bölge, genellikle dağlık ve engebeli arazilerle çevrili olup, Büyük Park'ın bulunduğu alan da bu coğrafyanın bir parçası olarak düşünülebilir.
 
-İklim açısından bakıldığında, Büyük Park'ın bulunduğu İzmir, Akdeniz ikliminin hakim olduğu bir bölgedir. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava karakteri gösterir. Bu mevsimsel özellikler, parkın flora ve fauna çeşitliliğini etkiler ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar.
+İklim açısından bakıldığında, Büyük Park'ın bulunduğu İzmir, Akdeniz ikliminin hakim olduğu bir bölgedir. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava karakteri gösterir. Bu mevsimsel özellikler, parkın flora ve fauna çeşitliliğini etkiler ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar.
 
 Çevresel açıdan, Büyük Park'ın bulunduğu bölge, önemli su kaynaklarına ve ekosistem bağlantılarına sahiptir. İzmir Körfezi'ne yakın olan park, denizel ekosistemlerin çeşitliliğini korur ve bu bölgede yaşayan canlılara yaşam alanı sağlar. Ayrıca, parkın komşu alanları da doğal güzelliği ile dikkat çeker ve ziyaretçilere geniş bir yeşil alan sunar.
 

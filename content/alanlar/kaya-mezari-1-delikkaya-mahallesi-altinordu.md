@@ -37,7 +37,7 @@ Kaya Mezarı 1'in tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bö
 
 ## Coğrafya
 
-Kaya Mezarı 1, Ordu'nun Altınordu ilçesinde, Delikkaya Mahallesi'nde yer alır. Bu bölge, Karadeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Karadeniz Bölgesi, Türkiye'nin kuzeyinde yer alan ve Karadeniz kıyı şeridi boyunca uzanan bir bölgedir. Kaya Mezarı 1, bu bölgenin önemli bir kısmını oluşturan Ordu ilinde bulunur. Bölge, coğrafi olarak dağlık ve engebeli bir yapıya sahiptir. Kaya Mezarı 1'in bulunduğu Delikkaya Mahallesi, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır. Bu bölgede, Karadeniz iklimi hakimdir. Kışlar ılıman, yazlar ise serin ve yağışlı geçer. Kaya Mezarı 1, coğrafi konumu itibariyle, ziyaretçilerine doğal güzellikler sunar. Plajın yakınında, çeşitli bitki türleri ve zengin fauna bulunur. Bölgenin coğrafi yapısı, turizmi destekler ve ziyaretçilere geniş olanaklar sunar.
+Kaya Mezarı 1, Ordu'nun Altınordu ilçesinde, Delikkaya Mahallesi'nde yer alır. Bu bölge, Karadeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Karadeniz Bölgesi, Türkiye'nin kuzeyinde yer alan ve Karadeniz kıyı şeridi boyunca uzanan bir bölgedir. Kaya Mezarı 1, bu bölgenin önemli bir kısmını oluşturan Ordu ilinde bulunur. Bölge, coğrafi olarak dağlık ve engebeli bir yapıya sahiptir. Kaya Mezarı 1'in bulunduğu Delikkaya Mahallesi, yüksek bir konumda yer alır. Bu bölgede, Karadeniz iklimi hakimdir. Kışlar ılıman, yazlar ise serin ve yağışlı geçer. Kaya Mezarı 1, coğrafi konumu itibariyle, ziyaretçilerine doğal güzellikler sunar. Plajın yakınında, çeşitli bitki türleri ve zengin fauna bulunur. Bölgenin coğrafi yapısı, turizmi destekler ve ziyaretçilere geniş olanaklar sunar.
 
 ## Flora ve Fauna
 

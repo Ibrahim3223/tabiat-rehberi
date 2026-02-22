@@ -37,7 +37,7 @@ Elaea adası, Ege Denizi'nin sularında yer alan bir ada olarak, Türkiye'nin ba
 
 Ada hakkında fiziksel veriler sınırlı olsa da, coğrafi olarak bakıldığında, Elaea adası bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu küçük ama önemli ada, Ege Denizi'nin coğrafi yapısını etkileyen bir konumda yer alıyor. Ada, Ege Denizi'nin sığ sularında yer alıyor ve etrafındaki su kaynakları, ada ekosistemini destekleyen önemli bir faktör.
 
-İklim karakteri bakımından, Elaea adası Akdeniz ikliminin özellikleri sergiliyor. Ada, yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumuna sahip. Bu mevsimsel özellikler, adanın flora ve fauna yapısını şekillendiriyor. Ada, Ege Denizi'nin coğrafi yapısı nedeniyle, rüzgarlı ve dalgalı bir denizle çevrili.
+İklim karakteri bakımından, Elaea adası Akdeniz ikliminin özellikleri sergiliyor. Ada, yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumuna sahip. Bu mevsimsel özellikler, adanın flora ve fauna yapısını şekillendiriyor. Ada, Ege Denizi'nin coğrafi yapısı nedeniyle, rüzgarlı ve dalgalı bir denizle çevrili.
 
 Ada, çevresel ilişkiler bakımından, Ege Denizi'nin diğer adaları ve kıyı şeridiyle bağlantılı. Ada, su kaynakları ve ekosistem bağlantıları açısından, Ege Denizi'nin önemli bir parçası olarak kabul ediliyor. Ada, çevresindeki su kaynaklarından yararlanarak, kendi ekosistemini desteklemektedir. Bu bağlamda, Elaea adası, Ege Denizi'nin doğal dengesini koruma açısından önemli bir rol oynuyor.
 

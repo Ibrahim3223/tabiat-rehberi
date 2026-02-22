@@ -38,7 +38,7 @@ Kurşunlu Şelalesi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmı
 
 ## Coğrafya
 
-Kurşunlu Şelalesi, Akdeniz Bölgesi'nde, Aksu, Antalya'da yer alıyor. Bu bölge, Akdeniz ikliminin karakteristik özellikleri olan sıca ve kurak yazlar, ılık ve yağışlı kışlar ile tanımlanıyor. Şelalenin çevresi, zengin bir flora ve fauna ile kaplı. Çevredeki dağlar, şelaleye kaynak sularını sağlıyor ve bu su, şelalenin yüksek bir konumdaten düşmesine neden oluyor. Şelalenin etrafı, çeşitli ağaç türleri ve bitkilerle dolu. Bu doğal alan, birçok canlıya ev sahipliği yapıyor ve ekolojik dengenin korunması için önemli.
+Kurşunlu Şelalesi, Akdeniz Bölgesi'nde, Aksu, Antalya'da yer alıyor. Bu bölge, Akdeniz ikliminin karakteristik özellikleri olan sıcak ve kurak yazlar, ılık ve yağışlı kışlar ile tanımlanıyor. Şelalenin çevresi, zengin bir flora ve fauna ile kaplı. Çevredeki dağlar, şelaleye kaynak sularını sağlıyor ve bu su, şelalenin yüksek bir konumdaten düşmesine neden oluyor. Şelalenin etrafı, çeşitli ağaç türleri ve bitkilerle dolu. Bu doğal alan, birçok canlıya ev sahipliği yapıyor ve ekolojik dengenin korunması için önemli.
 
 ## Flora ve Fauna
 

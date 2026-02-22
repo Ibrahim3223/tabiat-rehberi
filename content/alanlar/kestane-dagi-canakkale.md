@@ -42,7 +42,7 @@ Doğal alanlar, Türkiye'nin kültürel ve ekonomik dokusunda önemli bir yer tu
 
 Doğal güzellikleri ve coğrafi özellikleri ile dikkat çeken Kestane Dağı, Çanakkale'nin jeolojik yapısını yansıtan bir bölgedir. Dağın jeolojik özellikleri, bölgenin tarihini ve coğrafyasını şekillendiren faktörlerin bir sonucu olarak ortaya çıkmıştır. Kestane Dağı, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplar ve bu özelliği ile bölgenin en dikkat çekici doğal güzelliklerinden biri haline gelir.
 
-Mevsimsel özelliklere bakıldığında, Kestane Dağı'nın iklimi Çanakkale'nin genel iklimine benzerlik gösterir. Bölge, Akdeniz ikliminin etkisi altında olup, yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, Kestane Dağı'nın flora ve fauna çeşitliliğini etkiler ve bölgenin ekosistemini şekillendirir.
+Mevsimsel özelliklere bakıldığında, Kestane Dağı'nın iklimi Çanakkale'nin genel iklimine benzerlik gösterir. Bölge, Akdeniz ikliminin etkisi altında olup, yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, Kestane Dağı'nın flora ve fauna çeşitliliğini etkiler ve bölgenin ekosistemini şekillendirir.
 
 Kestane Dağı, çevresindeki doğal güzelliklerle birlikte bir bütün olarak değerlendirildiğinde, bölgenin ekosistemini destekleyen önemli bir bileşen haline gelir. Dağın yakınında bulunan su kaynakları ve yeşil alanlar, bölgenin canlı çeşitliliğini destekler ve Kestane Dağı'nın doğal güzelliklerini tamamlayan önemli unsurlar olarak ortaya çıkar. Bu şekilde, Kestane Dağı Çanakkale'nin doğal ve tarihi zenginliklerinin birleştiği önemli bir nokta olarak dikkat çeker.
 

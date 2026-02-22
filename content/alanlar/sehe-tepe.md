@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Şehe Tepe, 37.7206°K, 41.29
 
 Doğal güzellikleri ve coğrafi özellikleriyle dikkat çeken Şehe Tepe, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Bu tepe, bölgedeki diğer tepelerle birlikte bir tepe grubunu oluşturmaktadır. Jeolojik açıdan incelendiğinde, Şehe Tepe ve çevresinin kayaç yapısı ve toprak örtüsü, bölgenin genel jeolojik karakterini yansıtmaktadır.
 
-İklim açısından bakıldığında, Şehe Tepe ve çevresi, Güneydoğu Anadolu Bölgesi'nin karakteristik iklimini paylaşmaktadır. Yaz aylarında sıcaklık ve kuraklık hüküm sürerken, kış aylarında soğu ve yağışlı bir hava hakimdir. Bu mevsimsel farklılıklar, bölgenin flora ve fauna açısından zengin bir çeşitlilik göstermesine neden olmaktadır.
+İklim açısından bakıldığında, Şehe Tepe ve çevresi, Güneydoğu Anadolu Bölgesi'nin karakteristik iklimini paylaşmaktadır. Yaz aylarında sıcaklık ve kuraklık hüküm sürerken, kış aylarında soğuk ve yağışlı bir hava hakimdir. Bu mevsimsel farklılıklar, bölgenin flora ve fauna açısından zengin bir çeşitlilik göstermesine neden olmaktadır.
 
 Çevresel açıdan incelendiğinde, Şehe Tepe'nin komşu alanlarla ve su kaynaklarıyla önemli bir ilişkisi bulunmaktadır. Bölgedeki akarsular ve dereler, tepe ve çevresinin ekosistemine önemli katkılar sağlamaktadır. Ayrıca, Şehe Tepe, bölgedeki diğer doğal alanlarla birlikte bir bütünü oluşturarak, bölgenin biyolojik çeşitliliğini korumada önemli bir role sahiptir.
 

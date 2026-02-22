@@ -37,7 +37,7 @@ Akpınar Tepe'nin tarihi geçmişi,İstanbul'un tarihi ile iç içe geçmiş dur
 
 ## Coğrafya
 
-Akpınar Tepe, coğrafi olarak Marmara Bölgesi'nin karakteristik özelliklerini taşıyor. Tepe, deniz seviyesinden yüksek bir konumda yer alıyor ve etrafındaki manzaralar, Marmara Denizi'ne ve çevresindeki dağlara kadar uzanıyor. İklim olarak, tepe ve çevresindeki bölge, karasal iklimin özellikleri gösteriyor. Yaz ayları sıca ve kurak, kış ayları ise soğu ve yağışlı geçiyor. Bu coğrafi konum, tepeyi yılın her dönemi ziyaret etmeye uygun bir hale getiriyor. Ziyaretçiler, tepeye tırmanırken, çeşitli bitki türleri ve hayvanlarla karşılaşabiliyor ve doğanın güzelliğini deneyimleyebiliyor.
+Akpınar Tepe, coğrafi olarak Marmara Bölgesi'nin karakteristik özelliklerini taşıyor. Tepe, deniz seviyesinden yüksek bir konumda yer alıyor ve etrafındaki manzaralar, Marmara Denizi'ne ve çevresindeki dağlara kadar uzanıyor. İklim olarak, tepe ve çevresindeki bölge, karasal iklimin özellikleri gösteriyor. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçiyor. Bu coğrafi konum, tepeyi yılın her dönemi ziyaret etmeye uygun bir hale getiriyor. Ziyaretçiler, tepeye tırmanırken, çeşitli bitki türleri ve hayvanlarla karşılaşabiliyor ve doğanın güzelliğini deneyimleyebiliyor.
 
 ## Flora ve Fauna
 

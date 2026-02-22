@@ -38,7 +38,7 @@ Caca Bey Türbesi, tarihsel olarak önemli bir geçmişe sahiptir. Tarihi kaynak
 
 ## Coğrafya
 
-Caca Bey Türbesi, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Kırşehir ilinininde bulunan bu türbe, geniş bir ova içerisinde yer alır ve etrafı dağlarla çevrilidir. İklim olarak İç Anadolu Bölgesi'nin karakteristik özellikleri gösterir ve karasal iklimin etkilerini taşır. Yaz ayları sıca ve kurak, kış ayları ise soğu ve karlı geçer. Caca Bey Türbesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Doğal güzelliği ve tarihi önemi ile birlikte, bu bölge ziyaretçilerine geniş bir açık alan ve temiz hava sunar.
+Caca Bey Türbesi, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Kırşehir ilinininde bulunan bu türbe, geniş bir ova içerisinde yer alır ve etrafı dağlarla çevrilidir. İklim olarak İç Anadolu Bölgesi'nin karakteristik özellikleri gösterir ve karasal iklimin etkilerini taşır. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve karlı geçer. Caca Bey Türbesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Doğal güzelliği ve tarihi önemi ile birlikte, bu bölge ziyaretçilerine geniş bir açık alan ve temiz hava sunar.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Kütahya'nın kalbinde yer alan Tavşan Dağı, 38.9833°K, 29.7400°D koordinat
 
 Doğal güzelliği ile dikkat çeken Tavşan Dağı, boyutları hakkında kesin bilgiler olmasa da, bir şehir bloğu büyüklüğünde bir alan kaplıyor gibi görünüyor. Jeolojik yapısı hakkında da detaylı bilgiler bulunmuyor, ancak bu bölgenin genel coğrafyası, dağların ve tepe gibi oluşumların hakim olduğu bir yapıya sahip. Bu dağ, Kütahya'nın coğrafyasının bir parçası olarak, bölgenin doğal güzelliklerini koruma altına alıyor.
 
-Mevsimsel değişimler, Tavşan Dağı'nın iklim karakterini şekillendiriyor. Kış aylarında soğu ve kar yağışlı bir hava, yaz aylarında ise sıca ve kurak bir iklim hakim oluyor. Bu mevsimsel özellikler, dağın çevresindeki bitki örtüsünü ve hayvan yaşamını etkiliyor. Tavşan Dağı, bu iklim koşullarına adapte olmuş bir ekosisteme ev sahipliği yapıyor.
+Mevsimsel değişimler, Tavşan Dağı'nın iklim karakterini şekillendiriyor. Kış aylarında soğuk ve kar yağışlı bir hava, yaz aylarında ise sıcak ve kurak bir iklim hakim oluyor. Bu mevsimsel özellikler, dağın çevresindeki bitki örtüsünü ve hayvan yaşamını etkiliyor. Tavşan Dağı, bu iklim koşullarına adapte olmuş bir ekosisteme ev sahipliği yapıyor.
 
 Tavşan Dağı, komşu alanlar ve su kaynakları ile bağlantılı bir ekosistem içinde yer alıyor. Bu dağ, etrafındaki ovalar ve vadiler ile bir bütün olarak, bölgenin su döngüsünü ve bitki örtüsünü etkiliyor. Tavşan Dağı'nın çevresindeki ekosistem, bölgenin doğal güzelliğini koruma altına almaya yardımcı oluyor. Bu dağ, Kütahya'nın coğrafyasının önemli bir parçası olarak, bölgenin doğal ve kültürel zenginliklerini koruma altına alıyor.
 

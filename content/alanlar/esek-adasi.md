@@ -45,7 +45,7 @@ Adanın tarihsel önemi, sadece doğal güzelliği ile değil, aynı zamanda bö
 
 Doğal güzelliği ile dikkat çeken Eşek Adası, yaklaşık birkaç olimpik havuz kadar bir alanı kaplıyor. Ada, genel olarak düz bir yapıya sahip ve yükseklik bakımından da oldukça alçak. Etrafındaki deniz seviyesine göre çok yüksek olmayan bu ada, Eiffel Kulesi'nin 1/10'u kadar bir yükseklikte bulunuyor. Ada'nın jeolojik yapısı, genel olarak kireç taşı ve kumdan oluşuyor. Bu yapı, ada'nın deniz suyu ile olan etkileşimini de belirliyor.
 
-Mevsimler değişırken, Eşek Adası'nın iklim karakteri değişiyor. Yaz aylarında sıca ve kurak bir hava hakimken, kış aylarında ılıman ve yağışlı bir hava alıyor. Ada, Ege Bölgesi'nin genel iklim şartlarına benzer bir yapıya sahip. Bu durum, adanın flora ve fauna çeşitliliğini de belirliyor. Ada'nın iklimi, bitki örtüsünün gelişimini ve hayvanların yaşamını direkt olarak etkiliyor.
+Mevsimler değişırken, Eşek Adası'nın iklim karakteri değişiyor. Yaz aylarında sıcak ve kurak bir hava hakimken, kış aylarında ılıman ve yağışlı bir hava alıyor. Ada, Ege Bölgesi'nin genel iklim şartlarına benzer bir yapıya sahip. Bu durum, adanın flora ve fauna çeşitliliğini de belirliyor. Ada'nın iklimi, bitki örtüsünün gelişimini ve hayvanların yaşamını direkt olarak etkiliyor.
 
 Ada'nın çevresinde, Ege Denizi'nin sakin suları uzanıyor. Eşek Adası, bu su kaynaklarının bir parçası olarak, çevresindeki ekosistemi de etkiliyor. Ada, Karaburun Yarımadası'nın bir parçası gibi çalışıyor ve buradaki su kaynakları ile bağlantılı. Bu bağlantı, ada'nın çevresel ilişkilerini ve doğal dengesini belirliyor. Ada, Monaco'nun çok küçük bir bölümü kadar bir alanı kaplıyor ve bu küçük alan, büyük bir ekosistem için önemli bir rol oynuyor.
 

@@ -43,7 +43,7 @@ Diyarbakır'ın coğrafyasında önemli bir nokta olan Aslan Tepe, 38.3681°K ve
 
 Jeolojik yapı itibariyle Aslan Tepe'nin detaylı fiziksel verisi olmasa da, genel olarak bölgenin coğrafi yapısını göz önünde bulundurursak, bu dağın boyutlarının bir şehir bloğu büyüklüğünde olduğunu varsayabiliriz. Şehrin diğer yüksekliklerine nazaran, Aslan Tepe'nin yüksekliği Eiffel Kulesi'nin yaklaşık 1/5'i kadar yükseklikte gibi görünüyor. Ancak, coğrafi olarak bu bölgede yer alan diğer dağlarla karşılaştırıldığında, Aslan Tepe'nin daha küçük bir alan kapladığı anlaşılabilir.
 
-Mevsimsel olarak, Aslan Tepe'nin bulunduğu Diyarbakır bölgesi, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklim karakteri sergiliyor. Bu mevsimsel değişiklikler, bölgenin flora ve fauna'sını önemli ölçüde etkiliyor. Aslan Tepe'nin iklimi, bölgenin genel iklim koşullarına paralel olarak değişiyor gibi görünüyor.
+Mevsimsel olarak, Aslan Tepe'nin bulunduğu Diyarbakır bölgesi, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklim karakteri sergiliyor. Bu mevsimsel değişiklikler, bölgenin flora ve fauna'sını önemli ölçüde etkiliyor. Aslan Tepe'nin iklimi, bölgenin genel iklim koşullarına paralel olarak değişiyor gibi görünüyor.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları açısından, Aslan Tepe'nin komşu alanlarındaki su kaynakları ve nehirler, bölgenin ekosistemini önemli ölçüde etkiliyor. Aslan Tepe'nin bulunduğu bölgede, Dicle Nehri gibi önemli su kaynakları yer alıyor ve bu nehir, bölgenin su ihtiyacını karşılıyor. Ayrıca, Aslan Tepe'nin bulunduğu bölgedeki diğer dağlar ve düzlük alanlar, bölgenin ekosistemini zenginleştiren önemli unsurlar olarak görülüyor.
 

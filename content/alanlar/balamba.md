@@ -31,7 +31,7 @@ Balamba'nın tarihi geçmişi, yüzyılların sâu izlerini taşıyor. Bu bölge
 
 ## Coğrafya
 
-Balamba, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, çeşitli bitki türleri ve zengin fauna ile dolu. Coğrafi konumu itibariyle, bu bölge, çevresindeki dağlarla çevrili ve iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun. Bahar aylarında, flora çeşitliliğiyle renklenen bu bölge, yaz aylarında sıca ve kurak bir iklimi yaşıyor. Kış aylarında ise, soğu ve kar yağışlı bir hava hakim. Bu coğrafi çeşitlilik, ziyaretçilere, her mevsim farklı bir güzellik sunuyor. Balamba, coğrafi güzelliği ve zengin doğası ile, ziyaretçilerini büyülüyor.
+Balamba, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, çeşitli bitki türleri ve zengin fauna ile dolu. Coğrafi konumu itibariyle, bu bölge, çevresindeki dağlarla çevrili ve iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun. Bahar aylarında, flora çeşitliliğiyle renklenen bu bölge, yaz aylarında sıcak ve kurak bir iklimi yaşıyor. Kış aylarında ise, soğuk ve kar yağışlı bir hava hakim. Bu coğrafi çeşitlilik, ziyaretçilere, her mevsim farklı bir güzellik sunuyor. Balamba, coğrafi güzelliği ve zengin doğası ile, ziyaretçilerini büyülüyor.
 
 ## Flora ve Fauna
 

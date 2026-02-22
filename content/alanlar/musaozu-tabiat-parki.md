@@ -37,7 +37,7 @@ Musaözü Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca bölgenin do�
 
 ## Coğrafya
 
-Musaözü Tabiat Parkı, Eskişehir ilinin İç Anadolu Bölgesi'nde yer alır. Parkın coğrafi konumu, çeşitli bitki türleri ve hayvanların yaşadığı zengin bir ekosistemi destekler. Parkın topoğrafyası, genellikle düz ve hafif eğimli arazilerden oluşur. İklim, karasal iklim özellikleri gösterir ve yaz ayları sıca ve kurak, kış ayları soğu ve kar yağışlı geçer. Parkın çevresi, genellikle ormanlık alanlar ve tarım arazileriyle çevrilidir. Musaözü Tabiat Parkı, Eskişehir'in doğal güzelliğinin önemli bir parçasıdır ve bölgenin coğrafi çeşitliliği, ziyaretçilere benzersiz bir deneyim sunar.
+Musaözü Tabiat Parkı, Eskişehir ilinin İç Anadolu Bölgesi'nde yer alır. Parkın coğrafi konumu, çeşitli bitki türleri ve hayvanların yaşadığı zengin bir ekosistemi destekler. Parkın topoğrafyası, genellikle düz ve hafif eğimli arazilerden oluşur. İklim, karasal iklim özellikleri gösterir ve yaz ayları sıcak ve kurak, kış ayları soğuk ve kar yağışlı geçer. Parkın çevresi, genellikle ormanlık alanlar ve tarım arazileriyle çevrilidir. Musaözü Tabiat Parkı, Eskişehir'in doğal güzelliğinin önemli bir parçasıdır ve bölgenin coğrafi çeşitliliği, ziyaretçilere benzersiz bir deneyim sunar.
 
 ## Flora ve Fauna
 

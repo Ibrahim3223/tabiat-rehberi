@@ -38,7 +38,7 @@ Osman Dede Türbesi'nin tarihi geçmişi oldukça zengindir. Bu tarihi mekan, y�
 
 ## Coğrafya
 
-Osman Dede Türbesi, Fatih ilçesinde, İstanbul'un merkezinde yer alır. Bu mekan, 140 hektarlık bir alanı kaplar ve ziyaretçilere geniş bir yeşil alan sunar. Coğrafi konumu itibariyle, Osman Dede Türbesi, İstanbul'un önemli ulaşım noktalarına yakındır. Mekan, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır ve ziyaretçilere İstanbul'un panoramik manzarasını sunar. Osman Dede Türbesi'nin coğrafi konumu, ziyaretçilere doğal güzellikleri ve tarihi mekanları bir arada keşfetme fırsatı sunar. Mekan, çeşitli bitki türleri ve zengin fauna ile çevrilidir ve ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunar.
+Osman Dede Türbesi, Fatih ilçesinde, İstanbul'un merkezinde yer alır. Bu mekan, 140 hektarlık bir alanı kaplar ve ziyaretçilere geniş bir yeşil alan sunar. Coğrafi konumu itibariyle, Osman Dede Türbesi, İstanbul'un önemli ulaşım noktalarına yakındır. Mekan, yüksek bir konumda yer alır ve ziyaretçilere İstanbul'un panoramik manzarasını sunar. Osman Dede Türbesi'nin coğrafi konumu, ziyaretçilere doğal güzellikleri ve tarihi mekanları bir arada keşfetme fırsatı sunar. Mekan, çeşitli bitki türleri ve zengin fauna ile çevrilidir ve ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

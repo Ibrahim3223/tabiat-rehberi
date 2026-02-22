@@ -36,7 +36,7 @@ Kaplan Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin y
 
 ## Coğrafya
 
-Kaplan Tepe, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biridir. Bu tepe, Adıyaman ilinin güneydoğusunda yer alır ve çevresi, çeşitli bitki türleri ile kaplıdır. İklimi, bölgenin genel iklimine uygun olarak yazları sıca ve kurak, kışları soğu ve yağışlıdır. Kaplan Tepe'nin coğrafi yapısı, ziyaretçilere, doğanın güzelliğini keşfetme fırsatı sunar. Tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu genişlik, ziyaretçilere, çeşitli flora ve faunayı gözlemleme fırsatı verir. Çevre, zengin bir ekosisteme sahiptir ve bu, Kaplan Tepe'yi, doğa severler için önemli bir destinasyon haline getirir. Kaplan Tepe, ziyaretçilere, hem doğal güzellikleri hem de tarihi eserleri bir arada sunar ve bu nedenle, bu bölge, hem yerli hem de yabancı turistlerin ilgisini çekmektedir.
+Kaplan Tepe, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biridir. Bu tepe, Adıyaman ilinin güneydoğusunda yer alır ve çevresi, çeşitli bitki türleri ile kaplıdır. İklimi, bölgenin genel iklimine uygun olarak yazları sıcak ve kurak, kışları soğuk ve yağışlıdır. Kaplan Tepe'nin coğrafi yapısı, ziyaretçilere, doğanın güzelliğini keşfetme fırsatı sunar. Tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu genişlik, ziyaretçilere, çeşitli flora ve faunayı gözlemleme fırsatı verir. Çevre, zengin bir ekosisteme sahiptir ve bu, Kaplan Tepe'yi, doğa severler için önemli bir destinasyon haline getirir. Kaplan Tepe, ziyaretçilere, hem doğal güzellikleri hem de tarihi eserleri bir arada sunar ve bu nedenle, bu bölge, hem yerli hem de yabancı turistlerin ilgisini çekmektedir.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31560123"
 
 # Yazyurdu Tepesi
 
-Erzurum'un doğusunda yer alan Yazyurdu Tepesi, yaklaşık yüksek bir konumdate ve 140 hektarlık bir alanı kapsar. Bu büyük alan, yaklaşık 200 futbol sahası büyüklüğündedir. Yazyurdu Tepesi, Erzurum'un önemli doğal güzelliklerinden biridir ve doğa severler için ideal bir gezi noktasıdır. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Yazyurdu Tepesi, aynı zamanda tarihsel açıdan önemli bir bölgedir ve yüzyıllar boyunca çeşitli uygarlıkların yerleşim alanı olmuştur.
+Erzurum'un doğusunda yer alan Yazyurdu Tepesi, yüksek bir konumda ve 140 hektarlık bir alanı kapsar. Bu büyük alan, yaklaşık 200 futbol sahası büyüklüğündedir. Yazyurdu Tepesi, Erzurum'un önemli doğal güzelliklerinden biridir ve doğa severler için ideal bir gezi noktasıdır. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Yazyurdu Tepesi, aynı zamanda tarihsel açıdan önemli bir bölgedir ve yüzyıllar boyunca çeşitli uygarlıkların yerleşim alanı olmuştur.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Yazyurdu Tepesi, yüzyıllar boyunca çeşitli uygarlıkların yerleşim alanı 
 
 ## Coğrafya
 
-Yazyurdu Tepesi, Erzurum'un doğusunda yer alır ve yaklaşık yüksek bir konumdate bulunur. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölgede, doğu Anadolu bölgesinin karakteristik coğrafi özellikleri görülür. Yazyurdu Tepesi, coğrafi açıdan önemli bir bölgedir ve burada bulunan doğal güzellikler, turizm açısından büyük öneme sahiptir. Tepenin yüksekliği ve coğrafi konumu, bu bölgenin iklimini etkiler ve burada, soğu ve karasal bir iklim hüküm sürer. Yazyurdu Tepesi, aynı zamanda, çevresindeki diğer coğrafi oluşumlarla da bağlantılıdır ve bu bölgenin coğrafyası, doğu Anadolu bölgesinin genel coğrafyasını yansıtır. Tepenin etrafında, çeşitli akarsular ve göller bulunur ve bu su kaynakları, bölgenin ekolojisini destekler.
+Yazyurdu Tepesi, Erzurum'un doğusunda yer alır ve yüksek bir konumda bulunur. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölgede, doğu Anadolu bölgesinin karakteristik coğrafi özellikleri görülür. Yazyurdu Tepesi, coğrafi açıdan önemli bir bölgedir ve burada bulunan doğal güzellikler, turizm açısından büyük öneme sahiptir. Tepenin yüksekliği ve coğrafi konumu, bu bölgenin iklimini etkiler ve burada, soğu ve karasal bir iklim hüküm sürer. Yazyurdu Tepesi, aynı zamanda, çevresindeki diğer coğrafi oluşumlarla da bağlantılıdır ve bu bölgenin coğrafyası, doğu Anadolu bölgesinin genel coğrafyasını yansıtır. Tepenin etrafında, çeşitli akarsular ve göller bulunur ve bu su kaynakları, bölgenin ekolojisini destekler.
 
 ## Flora ve Fauna
 
@@ -44,11 +44,11 @@ Yazyurdu Tepesi, flora ve fauna açısından zengin bir bölgedir. Tepenin etraf
 
 ## Ziyaret Bilgileri
 
-Yazyurdu Tepesi, doğa severler için ideal bir gezi noktasıdır. Erzurum'un doğusunda yer alan bu tepe, yaklaşık yüksek bir konumdate ve 140 hektarlık bir alanı kapsar. Yazyurdu Tepesi'ne gitmek için, Erzurum'a ulaşmak gerekir ve buradan, çeşitli ulaşım araçlarıyla tepeye gitme mümkündür. Yazyurdu Tepesi, aynı zamanda, tarihsel açıdan önemli bir bölgedir ve burada bulunan tarihi eserler, bölgenin zengin kültürel mirasını yansıtır. Yazyurdu Tepesi'ni ziyaret etmek için, en iyi mevsim ilkbahar ve yaz aylarıdır ve bu dönemde, tepe ve çevresindeki doğal güzellikler, en güzel hallerini sunar.
+Yazyurdu Tepesi, doğa severler için ideal bir gezi noktasıdır. Erzurum'un doğusunda yer alan bu tepe, yüksek bir konumda ve 140 hektarlık bir alanı kapsar. Yazyurdu Tepesi'ne gitmek için, Erzurum'a ulaşmak gerekir ve buradan, çeşitli ulaşım araçlarıyla tepeye gitme mümkündür. Yazyurdu Tepesi, aynı zamanda, tarihsel açıdan önemli bir bölgedir ve burada bulunan tarihi eserler, bölgenin zengin kültürel mirasını yansıtır. Yazyurdu Tepesi'ni ziyaret etmek için, en iyi mevsim ilkbahar ve yaz aylarıdır ve bu dönemde, tepe ve çevresindeki doğal güzellikler, en güzel hallerini sunar.
 
 ## İlginç Bilgiler
 
-- Yazyurdu Tepesi, yaklaşık yüksek bir konumdate ve 140 hektarlık bir alanı kapsar.
+- Yazyurdu Tepesi, yüksek bir konumda ve 140 hektarlık bir alanı kapsar.
 - Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur.
 - Yazyurdu Tepesi, tarihsel açıdan önemli bir bölgedir ve burada bulunan tarihi eserler, bölgenin zengin kültürel mirasını yansıtır.
 - Yazyurdu Tepesi, doğa severler için ideal bir gezi noktasıdır.

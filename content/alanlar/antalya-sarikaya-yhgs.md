@@ -30,7 +30,7 @@ Antalya Sarıkaya YHGS'nin tarihi geçmişi, yüzyıllar boyunca şekillenmişti
 
 ## Coğrafya
 
-Antalya Sarıkaya YHGS, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Bu bölgenin coğrafi yapısı, dağlar, ormanlar ve otlaklardan oluşmaktadır. İklimi, karasal iklim özellikleri taşımaktadır. Yaz ayları sıca ve kuru, kış ayları soğu ve karlı geçmektedir. Bu bölgenin coğrafi konumu, flora ve fauna çeşitliliğini etkilemektedir. Doğal güzellikleri, yürüyüş parkurları ve zengin fauna çeşitliliğiyle ziyaretçilerini bekliyor. Ayrıca, bu bölgeye yapılan ziyaretler, hem doğayı korumaya hem de yerel ekonomiye katkıda bulunmaya yardımcı olmaktadır. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü doğal güzellikleri barındırmaktadır.
+Antalya Sarıkaya YHGS, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Bu bölgenin coğrafi yapısı, dağlar, ormanlar ve otlaklardan oluşmaktadır. İklimi, karasal iklim özellikleri taşımaktadır. Yaz ayları sıcak ve kuru, kış ayları soğuk ve karlı geçmektedir. Bu bölgenin coğrafi konumu, flora ve fauna çeşitliliğini etkilemektedir. Doğal güzellikleri, yürüyüş parkurları ve zengin fauna çeşitliliğiyle ziyaretçilerini bekliyor. Ayrıca, bu bölgeye yapılan ziyaretler, hem doğayı korumaya hem de yerel ekonomiye katkıda bulunmaya yardımcı olmaktadır. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü doğal güzellikleri barındırmaktadır.
 
 ## Flora ve Fauna
 

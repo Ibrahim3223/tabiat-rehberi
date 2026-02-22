@@ -44,7 +44,7 @@ Güneybatı Anadolu'nun coğrafi zenginliklerini keşfetmek isteyenler için, K�
 
 Jeolojik açıdan incelendiğinde, Kürdlü Dağı'nın yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel coğrafi özellikleri dikkate alındığında, dağların ve tepelerin hakim olduğu bir coğrafyada yer aldığı anlaşılıyor. Monaco'nun yaklaşık yarısı büyüklüğünde bir alanı kaplayan Kürdlü Dağı, coğrafi olarak önemli bir konumda bulunuyor. Yükseklik açısından, dağların Eiffel Kulesi'nin 2 katı yükseklikte olduğu düşünülürse, Kürdlü Dağı'nın da benzer bir yükseklikte olduğu söylenebilir.
 
-Mevsimsel özelliklere bakıldığında, Kürdlü Dağı'nın iklimi Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir hava hakim. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Hava durumu, özellikle yağış miktarı ve sıcaklık değişimleri, Kürdlü Dağı'nın ekosistemini şekillendiriyor.
+Mevsimsel özelliklere bakıldığında, Kürdlü Dağı'nın iklimi Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava hakim. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Hava durumu, özellikle yağış miktarı ve sıcaklık değişimleri, Kürdlü Dağı'nın ekosistemini şekillendiriyor.
 
 Doğal çevre açısından, Kürdlü Dağı'nın komşu alanlar ve su kaynaklarıyla olan bağlantısı önemlidir. Bölge, su kaynakları açısından zengin bir coğrafyada yer alıyor. Kürdlü Dağı, çevresindeki diğer dağlarla birlikte, bölgenin hidrolojik dengesini koruyor. Ekosistem bağlantıları, bölgenin biyolojik çeşitliliğini desteklerken, aynı zamanda yerel ekosistemin sürdürülebilirliğini de sağlıyor.
 

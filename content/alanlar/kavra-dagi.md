@@ -48,7 +48,7 @@ Doğal güzellikleri ile dikkat çeken Kavra Dağı, yaklaşık olarak Taksim Me
 
 ## Flora ve Fauna
 
-Kavra Dağı, Mersin'in maki bitki örtüsüne ev sahipliği yapan bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır. Kuraklığa dayanıklı türler, yaz aylarında sıca ve kuru koşullara rağmen hayatta kalmayı başarır.
+Kavra Dağı, Mersin'in maki bitki örtüsüne ev sahipliği yapan bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır. Kuraklığa dayanıklı türler, yaz aylarında sıcak ve kuru koşullara rağmen hayatta kalmayı başarır.
 
 Dağın yükseklik zonlarında, alpin flora hüküm sürer. Bu bölgede, yerli bitkiler ve endemik türler bulunur. Kış aylarında, dağ yaban hayatı zenginleşir. Memeliler, kuşlar ve sürüngenler, bu dağ ekosisteminin bir parçası haline gelir. Göçmen kuşlar, sonbaharın gelmesiyle birlikte Kavra Dağı'nı ziyaret eder.
 

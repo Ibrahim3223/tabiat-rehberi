@@ -44,7 +44,7 @@ Doğrudan coğrafi bir nokta olarak ele aldığımızda, Aktaş Gölü 41.2147°
 
 Jeolojik açıdan bakıldığında, Aktaş Gölü'nün fiziksel yapısı hakkında detaylı bilgi olmasa da, gölün bulunduğu coğrafya genel olarak dağlık ve volkanik bir yapıya sahip. Bu bölgede, volkanik faaliyetlerin geçmişte aktif olduğu biliniyor. Gölün boyutları hakkında kesin bir veri olmasa da, benzer coğrafyalardaki göller genellikle birkaç olimpik havuz kadar bir alanı kaplıyor.
 
-Mevsimsel olarak, Aktaş Gölü ve çevresinin iklim karakteri oldukça değişken. Kış aylarında bölgenin soğu ve karlı olması, gölün donma riskini artırıyor. İlkbahar ve yaz aylarında ise, sıcaklık artışıyla birlikte gölün suyu ấmıyor ve bu, çevresindeki bitki örtüsünün yenilenmesine katkı sağlıyor. Bu mevsimsel değişimler, gölün ekosisteminin dinamikliğini koruyor.
+Mevsimsel olarak, Aktaş Gölü ve çevresinin iklim karakteri oldukça değişken. Kış aylarında bölgenin soğuk ve karlı olması, gölün donma riskini artırıyor. İlkbahar ve yaz aylarında ise, sıcaklık artışıyla birlikte gölün suyu ấmıyor ve bu, çevresindeki bitki örtüsünün yenilenmesine katkı sağlıyor. Bu mevsimsel değişimler, gölün ekosisteminin dinamikliğini koruyor.
 
 Çevresel açıdan, Aktaş Gölü'nün komşu alanlar ve su kaynaklarıyla bağlantılı bir ekosistem içerisinde yer aldığı söylenebilir. Gölün su seviyesi, bölgedeki yağış miktarı ve yeraltı su kaynaklarından etkileniyor. Bu nedenle, gölün çevresindeki sulak alanlar ve bitki örtüsü, su döngüsünün önemli bir parçasını oluşturuyor. Monaco'nun yarısı kadar bir alanı kaplayan büyük göllerle karşılaştırıldığında, Aktaş Gölü'nün boyutları daha küçük olsa da, yerel ekosistem için önemli bir su kaynağı ve habitat işlevi görüyor.
 
@@ -52,7 +52,7 @@ Mevsimsel olarak, Aktaş Gölü ve çevresinin iklim karakteri oldukça değişk
 
 Aktaş Gölü, Ardahan'ın step bitki örtüsüne özgü bir göldür. Bu bölge, bozkırın kuraklığına adapte olmuş türlerle çevrilidir. İlkbaharla birlikte, gölün etrafı renkli çiçeklerle donanır ve sulak alan bitkilerisu yüzeyini kaplar. Sonbaharda ise, göç eden su kuşları gölü ziyaret eder ve gölün canlı çeşitliliği artar.
 
-Gölün yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Su kuşları, gölün suyunda ve çevresindeki bitkilerde yaşar. Memeliler ise, gölün etrafındaki bozkırda bulunur ve suya přístup için göle gelir. Sürüngenler, gölün sıca ve kurak bölgelerinde yaşar.
+Gölün yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Su kuşları, gölün suyunda ve çevresindeki bitkilerde yaşar. Memeliler ise, gölün etrafındaki bozkırda bulunur ve suya přístup için göle gelir. Sürüngenler, gölün sıcak ve kurak bölgelerinde yaşar.
 
 Aktaş Gölü, ekolojik açıdan önemli bir alandır. Göç eden su kuşları için kritik bir durak noktasıdır ve sulak alan bitkileri, gölün su kalitesini korur. Ancak, gölün koruma durumu, insan faaliyetleri ve iklim değişikliği tehdidi altındadır. Bu nedenle, gölün ekolojik değerini korumak için çaba sarf edilmelidir.
 

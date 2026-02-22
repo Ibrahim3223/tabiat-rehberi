@@ -36,7 +36,7 @@ Alizahonunağıl Tepesi, tarihi geçmişiyle dikkat çekiyor. Bu tepe, yüzyıll
 
 ## Coğrafya
 
-Alizahonunağıl Tepesi, Konya'nın merkezinde yer alan bir tepe. Bu tepe, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Tepenin etrafında, geniş ve yeşil alanlar bulunmakta. Bu alanlar, çeşitli bitki türleri ve zengin fauna ile dolu. Tepenin iklimi, İç Anadolu Bölgesi'nin iklimine benzer. Yaz aylarında sıca ve kurak, kış aylarında soğu ve karlı. Tepenin etrafında, çeşitli su kaynakları bulunmakta. Bu su kaynakları, tepeye ziyaret edenlerin su ihtiyaçlarını karşılayabiliyor.
+Alizahonunağıl Tepesi, Konya'nın merkezinde yer alan bir tepe. Bu tepe, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Tepenin etrafında, geniş ve yeşil alanlar bulunmakta. Bu alanlar, çeşitli bitki türleri ve zengin fauna ile dolu. Tepenin iklimi, İç Anadolu Bölgesi'nin iklimine benzer. Yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı. Tepenin etrafında, çeşitli su kaynakları bulunmakta. Bu su kaynakları, tepeye ziyaret edenlerin su ihtiyaçlarını karşılayabiliyor.
 
 ## Flora ve Fauna
 

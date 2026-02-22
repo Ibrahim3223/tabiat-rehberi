@@ -30,7 +30,7 @@ Mersin-Tarsus Kadincik Vadisi'nin tarihi geçmişi, yüzyıllar boyunca şekille
 
 ## Coğrafya
 
-Mersin-Tarsus Kadincik Vadisi, Mersin ilinin Tarsus ilçesinde yer alır. Vadide, çeşitli bitki türleri ve zengin fauna bulunur. Vadi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğündedir. Vadideki iklim, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz ayları sıca ve kurak, kış ayları ise ılık ve yağışlıdır. Vadi, ziyaretçilerine doğal güzellikleri ve zengin kültürel mirasıyla birlikte, eşsiz bir deneyim sunar. Mersin-Tarsus Kadincik Vadisi, ziyaretçilerini doğanın içinde bir maceraya davet eder.
+Mersin-Tarsus Kadincik Vadisi, Mersin ilinin Tarsus ilçesinde yer alır. Vadide, çeşitli bitki türleri ve zengin fauna bulunur. Vadi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğündedir. Vadideki iklim, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlıdır. Vadi, ziyaretçilerine doğal güzellikleri ve zengin kültürel mirasıyla birlikte, eşsiz bir deneyim sunar. Mersin-Tarsus Kadincik Vadisi, ziyaretçilerini doğanın içinde bir maceraya davet eder.
 
 ## Flora ve Fauna
 

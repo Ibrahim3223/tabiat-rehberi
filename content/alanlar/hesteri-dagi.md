@@ -44,7 +44,7 @@ Güneydoğu Anadolu'nun dağlık coğrafyasında yer alan Heşteri Dağı, Bitli
 
 Doğal güzellikleri ile dikkat çeken Heşteri Dağı, jeolojik açıdan zengin bir yapıya sahiptir. Ancak fiziksel veri eksikliği nedeniyle dağın boyutları ve şekli hakkında net bilgiler bulunmamaktadır. Bu durum, dağın gizemli ve keşfedilmeyi bekleyen bir alan olarak algılanmasına neden olur. Monaco'nun yarısı kadar büyük bir alanı kaplayan Heşteri Dağı, bölgenin coğrafi çeşitliliğine önemli bir katkı sağlar.
 
-Mevsimsel değişikliklere bağlı olarak iklim karakteri değişen Heşteri Dağı, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve karlı bir hava durumuna sahiptir. Eiffel Kulesi'nin 2 katı yükseklikte olan dağ zirvesi, bölgenin en yüksek noktalarından biridir. Bu yükseklik, dağın quanhava koşullarını etkileyerek, bölgede farklı mikro iklimlerin oluşmasına olur.
+Mevsimsel değişikliklere bağlı olarak iklim karakteri değişen Heşteri Dağı, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı bir hava durumuna sahiptir. Eiffel Kulesi'nin 2 katı yükseklikte olan dağ zirvesi, bölgenin en yüksek noktalarından biridir. Bu yükseklik, dağın quanhava koşullarını etkileyerek, bölgede farklı mikro iklimlerin oluşmasına olur.
 
 Bölgenin ekosistem bağlantıları açısından önemli bir role sahip olan Heşteri Dağı, komşu alanlar ve su kaynakları ile bağlantılıdır. İstanbul'un Adalar ilçesi büyüklüğünde olan Bitlis ilinin sınırları içinde yer alan Heşteri Dağı, bölgenin doğal güzelliklerini koruma ve geliştirmek için önemli bir potansiyele sahiptir. Bu nedenle, Heşteri Dağı ve çevresinin korunmasına yönelik çalışmalar, bölgenin ekolojik dengesini korumak için büyük önem taşır.
 

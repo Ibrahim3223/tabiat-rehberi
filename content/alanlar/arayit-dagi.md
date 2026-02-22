@@ -44,7 +44,7 @@ Arayit Dağı, 39.3649°K ve 31.7165°D koordinatlarında yer alan bir coğrafi 
 
 Doğal güzelliği ve coğrafi konumuna bakıldığında, Arayit Dağı yaklaşık olarak Beşiktaş ilçesi büyüklüğünde bir alanı kaplamaktadır. Bu boyutlar, dağların ve tepelerin oluşturduğu bir coğrafi yapıyı işaret etmektedir. Jeolojik açıdan incelendiğinde, Arayit Dağı'nın oluşumu ve yapısı, bölgenin genel jeolojik özelliklerini yansıtmaktadır.
 
-İklim açısından bakıldığında, Arayit Dağı ve çevresinin mevsimsel özellikleri, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak değişmektedir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir iklim hüküm sürmektedir. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkilemekte ve yerel ekosistemin şekillenmesinde önemli bir rol oynamaktadır.
+İklim açısından bakıldığında, Arayit Dağı ve çevresinin mevsimsel özellikleri, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak değişmektedir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürmektedir. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkilemekte ve yerel ekosistemin şekillenmesinde önemli bir rol oynamaktadır.
 
 Çevresel açıdan, Arayit Dağı ve çevresindeki diğer dağlar, bölgenin su kaynaklarının oluşumunda önemli bir rol oynamaktadır. Dağların eteklerinde ve yakınında yer alan su kaynakları, yerel ekosistemin sürdürülmesinde hayati bir önem taşımaktadır. Ayrıca, bu dağlar ve çevresindeki alanlar, çeşitli bitki ve hayvan türleri için önemli bir yaşam alanı oluşturmaktadır.
 

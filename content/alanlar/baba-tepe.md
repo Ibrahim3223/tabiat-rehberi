@@ -43,7 +43,7 @@ Türkiye'nin doğal alanları, yüzyıllar boyunca insanların yaşamlarını s�
 
 Fiziksel yapısını incelediğimizde, Baba Tepe'nin yüksekliği, Eiffel Kulesi'nin 2 katı yükseklikte bir noktaya ulaşır. Bu yükseklik, bölgenin jeolojik yapısını etkileyen önemli faktörlerden biridir. Dağın şekli, çevresindeki diğer dağlarla birlikte, bir zincir oluşturur ve bu zincir, bölgenin coğrafi yapısını belirler.
 
-Mevsimsel olarak, Baba Tepe, karasal iklimin hakim olduğu bir bölgede yer alır. Kışları soğu ve karlı, yazları ise serin ve yağışlı bir hava durumu hakimdir. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini etkiler. Örneğin, bölgede bulunan bitki türleri, bu mevsimsel değişimlere adapte olmuşlardır.
+Mevsimsel olarak, Baba Tepe, karasal iklimin hakim olduğu bir bölgede yer alır. Kışları soğuk ve karlı, yazları ise serin ve yağışlı bir hava durumu hakimdir. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini etkiler. Örneğin, bölgede bulunan bitki türleri, bu mevsimsel değişimlere adapte olmuşlardır.
 
 Son olarak, çevresel ilişkiler açısından, Baba Tepe, bölgenin su kaynaklarını etkileyen önemli bir faktördür. Dağ, çevresindeki vadilere su sağlar ve bu su kaynakları, bölgenin ekosistemini besler. Ayrıca, Baba Tepe, komşu alanlarla birlikte, bir bütün olan bir ekosistemin parçasıdır ve bu ekosistemin korunması, bölgenin doğal dengesini korumanın anahtarıdır.
 

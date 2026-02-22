@@ -36,7 +36,7 @@ Fuglu Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin et
 
 ## Coğrafya
 
-Fuglu Tepe, Çanakkale'nin coğrafi yapısında önemli bir yere sahip. Tepenin yüksekliği, şehrin ve çevresinin panoramik manzarasını sunuyor. Etrafında, çeşitli bitki türleri ve zengin fauna bulunan tepe, doğa severler için bir cennet. Tepenin iklimi, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor. Yağışlar, genellikle ilkbahar ve sonbahar aylarında görülürken, yaz ayları sıca ve kurak geçiyor. Fuglu Tepe, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor. Tepenin coğrafi konumu, ziyaretçilerin şehri ve çevreyi keşfetmesine yardımcı oluyor.
+Fuglu Tepe, Çanakkale'nin coğrafi yapısında önemli bir yere sahip. Tepenin yüksekliği, şehrin ve çevresinin panoramik manzarasını sunuyor. Etrafında, çeşitli bitki türleri ve zengin fauna bulunan tepe, doğa severler için bir cennet. Tepenin iklimi, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor. Yağışlar, genellikle ilkbahar ve sonbahar aylarında görülürken, yaz ayları sıcak ve kurak geçiyor. Fuglu Tepe, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor. Tepenin coğrafi konumu, ziyaretçilerin şehri ve çevreyi keşfetmesine yardımcı oluyor.
 
 ## Flora ve Fauna
 

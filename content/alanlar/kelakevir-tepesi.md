@@ -36,7 +36,7 @@ Kelakevir Tepesi'nin tarihi geçmişi, bölgeye yerleşen ilk insanların yaşam
 
 ## Coğrafya
 
-Kelakevir Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, genel olarak dağlık ve engebeli bir yapıya sahip. Tepenin etrafında kurulan ovalar ve vadiler, bölgeyi önemli bir tarım merkezi haline getiriyor. Tepenin yüksekliği, 1000 metreyi aşmıyor. Bu yükseklik, tepeyi bölgenin diğer tepelerinden ayırıyor. Kelakevir Tepesi'nin etrafında, çeşitli akarsular ve nehirler bulunuyor. Bu su kaynakları, bölgeye yaşam veren önemli bir unsur. Tepenin iklimi, bölgenin genel iklimine uygun. Kışları soğu ve yağışlı, yazları sıca ve kurak olan bir iklim hüküm sürüyor. Bu iklim, bölgede yaşayan insanların yaşamını etkileyen önemli bir faktör. Kelakevir Tepesi, bölgenin coğrafi özelliklerini taşıyan önemli bir doğal güzellik.
+Kelakevir Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, genel olarak dağlık ve engebeli bir yapıya sahip. Tepenin etrafında kurulan ovalar ve vadiler, bölgeyi önemli bir tarım merkezi haline getiriyor. Tepenin yüksekliği, 1000 metreyi aşmıyor. Bu yükseklik, tepeyi bölgenin diğer tepelerinden ayırıyor. Kelakevir Tepesi'nin etrafında, çeşitli akarsular ve nehirler bulunuyor. Bu su kaynakları, bölgeye yaşam veren önemli bir unsur. Tepenin iklimi, bölgenin genel iklimine uygun. Kışları soğuk ve yağışlı, yazları sıcak ve kurak olan bir iklim hüküm sürüyor. Bu iklim, bölgede yaşayan insanların yaşamını etkileyen önemli bir faktör. Kelakevir Tepesi, bölgenin coğrafi özelliklerini taşıyan önemli bir doğal güzellik.
 
 ## Flora ve Fauna
 

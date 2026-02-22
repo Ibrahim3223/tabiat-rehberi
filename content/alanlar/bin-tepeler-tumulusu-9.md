@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 9'un tarihi geçmişi, binlerce yıl öncesine dayanıy
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 9, Ege Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Salihli, Manisa'da bulunan bu bölge, doğal güzellikleri ve tarihi önemi ile dikkat çekiyor. Coğrafi olarak, bu bölge, geniş ovalar ve dağlarla çevrili. Bu da, ziyaretçilere çeşitli coğrafi oluşumları keşfetme fırsatı sunuyor. Bin Tepeler Tümülüsü 9'un coğrafyası, aynı zamanda çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Bu bölge, Ege Bölgesi'nin iklimine uygun olarak, Akdeniz ikliminin özelliklerini taşıyor. Yaz ayları sıca ve kurak, kış ayları ise ılıman ve yağışlı. Bu coğrafi ve iklimsel özellikler, Bin Tepeler Tümülüsü 9'u ziyaret etmek için ideal bir ortam sunuyor.
+Bin Tepeler Tümülüsü 9, Ege Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Salihli, Manisa'da bulunan bu bölge, doğal güzellikleri ve tarihi önemi ile dikkat çekiyor. Coğrafi olarak, bu bölge, geniş ovalar ve dağlarla çevrili. Bu da, ziyaretçilere çeşitli coğrafi oluşumları keşfetme fırsatı sunuyor. Bin Tepeler Tümülüsü 9'un coğrafyası, aynı zamanda çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Bu bölge, Ege Bölgesi'nin iklimine uygun olarak, Akdeniz ikliminin özelliklerini taşıyor. Yaz ayları sıcak ve kurak, kış ayları ise ılıman ve yağışlı. Bu coğrafi ve iklimsel özellikler, Bin Tepeler Tümülüsü 9'u ziyaret etmek için ideal bir ortam sunuyor.
 
 ## Flora ve Fauna
 

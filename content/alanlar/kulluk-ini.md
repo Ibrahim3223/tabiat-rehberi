@@ -44,7 +44,7 @@ Mersin'in doğal güzelliklerini keşfetmek isteyenler için Küllük İni, öne
 
 Doğal bir anıttan farksız olan Küllük İni, jeolojik olarak oldukça zengin bir yapıya sahip. Maalesef, detaylı fiziksel veri bulunmaması, bu alanın tam olarak boyutlarını ve şeklini belirlememizi engelliyor. Ancak, Mersin'in genel coğrafyasını düşündüğümüzde, bu bölgenin Taksim Meydanı'nın birkaç katı büyüklüğünde olduğunu söyleyebiliriz.
 
-Mersin'in iklim karakteri, Küllük İni'nin güzelliğini daha da artırıyor. Bu bölgede, Akdeniz ikliminin tüm özellikleri görülüyor. Yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava hakim. Bu mevsimsel özellikler, Küllük İni'nin flora ve faunasını şekillendiriyor ve bu alanı, doğa severler için bir cennete dönüştürüyor.
+Mersin'in iklim karakteri, Küllük İni'nin güzelliğini daha da artırıyor. Bu bölgede, Akdeniz ikliminin tüm özellikleri görülüyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava hakim. Bu mevsimsel özellikler, Küllük İni'nin flora ve faunasını şekillendiriyor ve bu alanı, doğa severler için bir cennete dönüştürüyor.
 
 Küllük İni, Mersin'in doğal güzelliklerine katkıda bulunan önemli bir ekosistem olarak dikkat çekiyor. Çevresindeki diğer doğal alanlarla bağlantılı olan bu jeopark, bölgenin su kaynaklarını ve ekosistem dengesini koruyor. Monaco'nun küçük bir bölümü büyüklüğünde olan bu alan, Mersin'in doğal mirasını zenginleştiren önemli bir parça olarak görülüyor.
 

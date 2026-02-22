@@ -46,7 +46,7 @@ Ankara'nın kalbinde yer alan Kurtluçal Tepesi, 39.9533°K, 32.2639°D koordina
 
 Doğal güzelliği ile dikkat çeken bu tepe, Ankara'nın coğrafyasında önemli bir yer tutuyor. Ancak, fiziksel verileri sınırlı olduğu için tam olarak boyutları veya şekli hakkında net bir bilgi veremiyoruz. Buna rağmen, Ankara'nın genel coğrafyası düşünüldüğünde, Kurtluçal Tepesi'nin de şehrin diğer tepeleri gibi volkanik kökenli olduğu söylenebilir. Bu volkanik yapı, Ankara'nın jeolojisini şekillendiren önemli bir faktör.
 
-Mevsimler değişırken, Kurtluçal Tepesi de bu değişimden nasibini alıyor. Ankara'nın karasal iklimi, bu tepede de kendini gösteriyor. Kış aylarında sometimes kar yağışı görülebiliyor, yaz aylarında ise sıca ve kurak bir hava hakim oluyor. Bu mevsimsel değişimler, Kurtluçal Tepesi'nin doğal güzelliğini her mevsim farklı bir şekilde ortaya koyuyor.
+Mevsimler değişırken, Kurtluçal Tepesi de bu değişimden nasibini alıyor. Ankara'nın karasal iklimi, bu tepede de kendini gösteriyor. Kış aylarında sometimes kar yağışı görülebiliyor, yaz aylarında ise sıcak ve kurak bir hava hakim oluyor. Bu mevsimsel değişimler, Kurtluçal Tepesi'nin doğal güzelliğini her mevsim farklı bir şekilde ortaya koyuyor.
 
 Çevresel açıdan bakıldığında, Kurtluçal Tepesi, Ankara'nın diğer doğal alanları ile bağlantı içinde bulunuyor. Şehirdeki su kaynaklarına yakın bir konumda olması, bu tepenin ekosistem için önemli bir rol oynadığını gösteriyor. Ankara'nın yeşil alanlarının bir parçası olan Kurtluçal Tepesi, şehrin doğal dengesini koruma konusunda önemli bir görev üstleniyor.
 

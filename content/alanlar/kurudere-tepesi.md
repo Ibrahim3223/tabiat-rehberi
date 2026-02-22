@@ -36,7 +36,7 @@ Kurudere Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetler
 
 ## Coğrafya
 
-Kurudere Tepesi, İç Anadolu Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Tepenin yüksekliği, deniz seviyesinden yaklaşık 1500 metre yukarıdadır ve buradan, tüm Niğde ilini görme mümkündür. Tepenin eteklerinde yer alan köyler, genellikle tarımın yapıldığı yerlerdir ve burada, çeşitli sebze ve meyveler yetiştirilir. Tepenin iklimi, karasal iklimdir ve burada, kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurudur. Kurudere Tepesi, aynı zamanda bir su kaynağıdır ve burada, çeşitli nehirler ve akarsular bulunur. Tepenin coğrafyası, doğa severlerin ve macera arayanların gözdesidir ve burada, trekking, kamp ve diğer outdoor etkinlikler yapılabilmektedir.
+Kurudere Tepesi, İç Anadolu Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Tepenin yüksekliği, deniz seviyesinden yaklaşık 1500 metre yukarıdadır ve buradan, tüm Niğde ilini görme mümkündür. Tepenin eteklerinde yer alan köyler, genellikle tarımın yapıldığı yerlerdir ve burada, çeşitli sebze ve meyveler yetiştirilir. Tepenin iklimi, karasal iklimdir ve burada, kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Kurudere Tepesi, aynı zamanda bir su kaynağıdır ve burada, çeşitli nehirler ve akarsular bulunur. Tepenin coğrafyası, doğa severlerin ve macera arayanların gözdesidir ve burada, trekking, kamp ve diğer outdoor etkinlikler yapılabilmektedir.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ Kurudere Tepesi, doğa severlerin cennetidir. Burada, çeşitli bitki türleri b
 
 ## Ziyaret Bilgileri
 
-Kurudere Tepesi'ni ziyaret etmek, doğa severlerin ve macera arayanların gözdesidir. Tepenin yüksekliği, deniz seviyesinden yaklaşık 1500 metre yukarıdadır ve buradan, tüm Niğde ilini görme mümkündür. Tepenin eteklerinde yer alan köyler, genellikle tarımın yapıldığı yerlerdir ve burada, çeşitli sebze ve meyveler yetiştirilir. Tepenin iklimi, karasal iklimdir ve burada, kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurudur. Kurudere Tepesi'ni ziyaret etmek için, en iyi mevsim, ilkbahar ve sonbahar aylarıdır. Bu aylarda, hava sıcaklığı, ziyaretçilerin tepenin güzelliğini görmesine uygun olur.
+Kurudere Tepesi'ni ziyaret etmek, doğa severlerin ve macera arayanların gözdesidir. Tepenin yüksekliği, deniz seviyesinden yaklaşık 1500 metre yukarıdadır ve buradan, tüm Niğde ilini görme mümkündür. Tepenin eteklerinde yer alan köyler, genellikle tarımın yapıldığı yerlerdir ve burada, çeşitli sebze ve meyveler yetiştirilir. Tepenin iklimi, karasal iklimdir ve burada, kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Kurudere Tepesi'ni ziyaret etmek için, en iyi mevsim, ilkbahar ve sonbahar aylarıdır. Bu aylarda, hava sıcaklığı, ziyaretçilerin tepenin güzelliğini görmesine uygun olur.
 
 ## İlginç Bilgiler
 

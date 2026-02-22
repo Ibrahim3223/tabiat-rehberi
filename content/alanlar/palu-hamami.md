@@ -37,7 +37,7 @@ Palu Hamamı'nın tarihi geçmişi hakkında kesin bilgiler bulunmamaktadır. An
 
 ## Coğrafya
 
-Palu Hamamı, Doğu Anadolu Bölgesi'nin Elazığ ilinin Palu ilçesinde bulunmaktadır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Palu Hamamı, bölgenin coğrafi yapısı itibariyle dağlık ve engebeli bir araziye sahiptir. Burada, çeşitli bitki türleri ve yaban hayatı yaşamaktadır. Palu Hamamı, bölgenin iklimi itibariyle karasal iklim özellikleri göstermektedir. Bu bölgede, yazları sıca ve khô, kışları soğu ve karlı geçmektedir. Palu Hamamı, bölgenin coğrafi konumu itibariyle ulaşımın kolay olduğu bir yer değildir. Ancak, bu bölgenin doğal güzellikleri ve tarihi zenginlikleri, ziyaretçilerin ilgisini çekmektedir. Palu Hamamı, doğa severlerin ve macera arayışında olanların ziyaret edebileceği bir yer olarak bilinmektedir.
+Palu Hamamı, Doğu Anadolu Bölgesi'nin Elazığ ilinin Palu ilçesinde bulunmaktadır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Palu Hamamı, bölgenin coğrafi yapısı itibariyle dağlık ve engebeli bir araziye sahiptir. Burada, çeşitli bitki türleri ve yaban hayatı yaşamaktadır. Palu Hamamı, bölgenin iklimi itibariyle karasal iklim özellikleri göstermektedir. Bu bölgede, yazları sıcak ve kuru, kışları soğuk ve karlı geçmektedir. Palu Hamamı, bölgenin coğrafi konumu itibariyle ulaşımın kolay olduğu bir yer değildir. Ancak, bu bölgenin doğal güzellikleri ve tarihi zenginlikleri, ziyaretçilerin ilgisini çekmektedir. Palu Hamamı, doğa severlerin ve macera arayışında olanların ziyaret edebileceği bir yer olarak bilinmektedir.
 
 ## Flora ve Fauna
 

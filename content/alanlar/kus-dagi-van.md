@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin güzide şehri Van'ın eteklerine kurulmuş olan Kuş
 
 Fiziksel yapısı itibarıyla Kuş Dağı, bölgenin jeolojik geçmişini yansıtan bir yapıya sahiptir. Dağın oluşumu, bölgenin tektonik aktiviteleri neticesinde şekillenmiştir. Bu aktiviteleri göz önüne aldığımızda, Kuş Dağı'nın bir şehir bloğu büyüklüğünde bir alana yayıldığını söyleyebiliriz. Bu boyut, dağın çevresindeki coğrafi oluşumlarla birlikte değerlendirildiğinde, bölgenin jeolojik çeşitliliğini vurgular.
 
-İklim karakteri bakımından Kuş Dağı, Van'ın genel iklim özelliklerini taşır. Bölge, karasal iklimin hakim olduğu bir bölgedir ve mevsimsel olarak önemli değişiklikler gösterir. Kış aylarında soğu ve kar yağışlı bir hava, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu mevsimsel özellikler, dağın ekosistemini şekillendiren önemli faktörlerdir.
+İklim karakteri bakımından Kuş Dağı, Van'ın genel iklim özelliklerini taşır. Bölge, karasal iklimin hakim olduğu bir bölgedir ve mevsimsel olarak önemli değişiklikler gösterir. Kış aylarında soğuk ve kar yağışlı bir hava, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu mevsimsel özellikler, dağın ekosistemini şekillendiren önemli faktörlerdir.
 
 Çevresel ilişkiler bakımından Kuş Dağı, Van Gölü ve çevresindeki diğer coğrafi oluşumlarla birlikte bir bütünü oluşturur. Dağın eteklerinde yer alan su kaynakları, bölgenin ekosistemini destekleyen önemli bir rol oynar. Ayrıca, Kuş Dağı'nın komşu alanlarla olan ilişkisi, bölgenin biyolojik çeşitliliğini koruma altına almak açısından önemlidir. Bu ilişkiler, dağın çevresindeki diğer coğrafi oluşumlarla birlikte değerlendirildiğinde, bölgenin doğal dengesini korumanın önemi vurgulanır.
 

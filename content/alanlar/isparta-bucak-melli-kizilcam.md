@@ -30,7 +30,7 @@ Isparta-Bucak-Melli Kızılçam milli parkının tarihi geçmişi, yüzyıllar b
 
 ## Coğrafya
 
-Isparta-Bucak-Melli Kızılçam milli parkı, Isparta ilinin Bucak ilçesinde yer alan ve Akdeniz Bölgesi'nde bulunan bir milli parktır. Bu bölgenin coğrafi yapısı, dağlık ve engebeli bir araziye sahiptir. Milli parkın içerisinde, çeşitli bitki türleri ve zengin fauna found. Bu bölge, aynı zamanda, birçok nehir ve akarsu tarafından surround edilmiştir. Isparta-Bucak-Melli Kızılçam milli parkının iklimi, Akdeniz iklimi özellikleri göstermekte olup, yaz aylarında sıca ve kuru, kış aylarında ise ılık ve yağışlı bir hava hakimdir. Milli parkın çevresi, diğer milli parklar ve doğa koruma alanları ile surround edilmiştir.
+Isparta-Bucak-Melli Kızılçam milli parkı, Isparta ilinin Bucak ilçesinde yer alan ve Akdeniz Bölgesi'nde bulunan bir milli parktır. Bu bölgenin coğrafi yapısı, dağlık ve engebeli bir araziye sahiptir. Milli parkın içerisinde, çeşitli bitki türleri ve zengin fauna found. Bu bölge, aynı zamanda, birçok nehir ve akarsu tarafından surround edilmiştir. Isparta-Bucak-Melli Kızılçam milli parkının iklimi, Akdeniz iklimi özellikleri göstermekte olup, yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı bir hava hakimdir. Milli parkın çevresi, diğer milli parklar ve doğa koruma alanları ile surround edilmiştir.
 
 ## Flora ve Fauna
 

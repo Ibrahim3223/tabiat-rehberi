@@ -42,7 +42,7 @@ Doğu Anadolu Bölgesi'nin kalbinde yer alan Kavcınasar Dağı, 40.0667°K ve 4
 
 Jeolojik açıdan incelendiğinde, Kavcınasar Dağı'nın oluşumu hakkında detaylı bilgi bulunmasa da, bölgenin genel jeolojik yapısı dikkate alındığında, dağların volkanik kökenli olduğu söylenebilir. Dağın boyutları hakkında kesin bir veri olmasa da, genel olarak büyük bir şehir parkı büyüklüğünde olduğu düşünülebilir. Bu büyüklük, bölgenin coğrafi çeşitliliğini göstermektedir.
 
-Mevsimsel olarak incelendiğinde, Kavcınasar Dağı'nın iklimi karasal iklim özellikleri taşımaktadır. Kış aylarında dağların zirvesi karla kaplanırken, yaz aylarında ise bölgede sıca ve kuru bir hava hakim olmaktadır. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olabilir, bu dağın bölgedeki diğer coğrafi oluşumlar arasında önemli bir yer tuttuğunu göstermektedir.
+Mevsimsel olarak incelendiğinde, Kavcınasar Dağı'nın iklimi karasal iklim özellikleri taşımaktadır. Kış aylarında dağların zirvesi karla kaplanırken, yaz aylarında ise bölgede sıcak ve kuru bir hava hakim olmaktadır. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olabilir, bu dağın bölgedeki diğer coğrafi oluşumlar arasında önemli bir yer tuttuğunu göstermektedir.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları açısından da önemli bir role sahip olan Kavcınasar Dağı, komşu alanlarla birlikte bir bütün olarak değerlendirilmelidir. Dağın eteklerinde bulunan sulak alanlar, bölgenin ekolojik dengesini korumak için önemlidir. Ayrıca, dağların yakınındaki diğer coğrafi oluşumlar, bölgenin coğrafi çeşitliliğini ve güzelliğini artırmaktadır.
 

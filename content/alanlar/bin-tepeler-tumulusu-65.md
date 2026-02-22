@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 65'in tarihi geçmişi, Ege Bölgesi'nin antik dönemle
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 65, Ege Bölgesi'nin coğrafi güzelliğini yansıtan bir mekan olarak Ahmetli'de yer alıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor ve ziyaretçilere geniş bir gezi alanı sunuyor. Coğrafi olarak, tümülüs ve çevresindeki alanlar, Ege Bölgesi'nin tipik coğrafi özelliklerini taşıyor. Bölge, genellikle sıca ve kurak yazlar ile ılık ve yağışlı kışlar yaşayan Akdeniz ikliminin etkisindedir. Bin Tepeler Tümülüsü 65'in coğrafi konumu, ziyaretçilere Ege Bölgesi'nin doğal güzelliğini keşfetme fırsatı sunuyor.
+Bin Tepeler Tümülüsü 65, Ege Bölgesi'nin coğrafi güzelliğini yansıtan bir mekan olarak Ahmetli'de yer alıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor ve ziyaretçilere geniş bir gezi alanı sunuyor. Coğrafi olarak, tümülüs ve çevresindeki alanlar, Ege Bölgesi'nin tipik coğrafi özelliklerini taşıyor. Bölge, genellikle sıcak ve kurak yazlar ile ılık ve yağışlı kışlar yaşayan Akdeniz ikliminin etkisindedir. Bin Tepeler Tümülüsü 65'in coğrafi konumu, ziyaretçilere Ege Bölgesi'nin doğal güzelliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

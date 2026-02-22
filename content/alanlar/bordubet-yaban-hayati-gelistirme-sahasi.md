@@ -31,7 +31,7 @@ Bördübet Yaban Hayatı Geliştirme Sahası'nın tarihi geçmişi, yaban hayat�
 
 ## Coğrafya
 
-Bördübet Yaban Hayatı Geliştirme Sahası, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Bu saha, genel olarak ova ve dağlık arazilerden oluşur. Sahada, çeşitli bitki türleri ve hayvanlar bulunur. İklim, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Yazlar sıca ve kurak, kışlar ise soğu ve karlı geçer. Bu iklim koşulları, sahanın flora ve faunasını şekillendirmiştir. Saha, çevre dostu bir anlayışla yönetilmekte ve doğa ile uyumlu bir şekilde korunmaktadır.
+Bördübet Yaban Hayatı Geliştirme Sahası, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Bu saha, genel olarak ova ve dağlık arazilerden oluşur. Sahada, çeşitli bitki türleri ve hayvanlar bulunur. İklim, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Yazlar sıcak ve kurak, kışlar ise soğuk ve karlı geçer. Bu iklim koşulları, sahanın flora ve faunasını şekillendirmiştir. Saha, çevre dostu bir anlayışla yönetilmekte ve doğa ile uyumlu bir şekilde korunmaktadır.
 
 ## Flora ve Fauna
 

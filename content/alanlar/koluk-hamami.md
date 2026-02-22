@@ -37,7 +37,7 @@ Kölük Hamamı'nın tarihi geçmişi, yüzyıllar öncesine kadar uzanır. Bu b
 
 ## Coğrafya
 
-Kölük Hamamı, coğrafi olarak Kayseri'nin Melikgazi ilçesinde yer alır. Bu bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Kölük Hamamı'nın coğrafyası, doğal güzellikleri ile dikkat çeker. Bölge, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Kölük Hamamı'nın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine benzer. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve kar yağışlı geçer. Kölük Hamamı, coğrafi konumu itibariyle, hem doğal güzellikleri hem de tarihi önemi ile dikkat çeken bir destinasyondur.
+Kölük Hamamı, coğrafi olarak Kayseri'nin Melikgazi ilçesinde yer alır. Bu bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Kölük Hamamı'nın coğrafyası, doğal güzellikleri ile dikkat çeker. Bölge, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Kölük Hamamı'nın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine benzer. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve kar yağışlı geçer. Kölük Hamamı, coğrafi konumu itibariyle, hem doğal güzellikleri hem de tarihi önemi ile dikkat çeken bir destinasyondur.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Yılandede Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetl
 
 ## Coğrafya
 
-Yılandede Tepesi, Konya'nın coğrafi yapısında önemli bir yer tutar. Tepenin yüksekliği, ziyaretçilere şehrin ve çevrenin geniş bir panoramasını sunar. Yılandede Tepesi, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır; step ve otlak alanlarla çevrilidir. Bu bölge, genellikle yaz aylarında sıca ve kurak, kış aylarında ise soğu ve karlı bir iklime sahiptir. Yılandede Tepesi'nin coğrafi konumu, ziyaretçilere dört mevsim boyunca farklı güzellikler sunar. İlkbahar ve sonbahar aylarında, tepe etrafındaki bitkiler ve çiçekler renkli bir manzara oluştururken, kış aylarında karla kaplanan tepe, bir kış masalı gibi görünür.
+Yılandede Tepesi, Konya'nın coğrafi yapısında önemli bir yer tutar. Tepenin yüksekliği, ziyaretçilere şehrin ve çevrenin geniş bir panoramasını sunar. Yılandede Tepesi, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır; step ve otlak alanlarla çevrilidir. Bu bölge, genellikle yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı bir iklime sahiptir. Yılandede Tepesi'nin coğrafi konumu, ziyaretçilere dört mevsim boyunca farklı güzellikler sunar. İlkbahar ve sonbahar aylarında, tepe etrafındaki bitkiler ve çiçekler renkli bir manzara oluştururken, kış aylarında karla kaplanan tepe, bir kış masalı gibi görünür.
 
 ## Flora ve Fauna
 

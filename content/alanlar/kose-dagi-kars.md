@@ -44,7 +44,7 @@ Kars ilinin coğrafi yapısı içinde yer alan Köse Dağı, 40.0167° kuzey enl
 
 Doğal güzellikleri ve coğrafi özellikleri ile dikkat çeken Köse Dağı, yaklaşık olarak Taksim Meydanı'nın 100 katı büyüklüğünde bir alanı kaplıyor. Ancak, fiziksel yapısına ilişkin detaylı veriler bulunmuyor. Bu dağ, Kars ilinin genel coğrafi yapısına uygun olarak, volkani ve sedimentatif kayaçlardan oluşuyor.
 
-Mevsimsel özellikler açısından bakıldığında, Köse Dağı'nın iklimi, Kars ilinin genel iklimine benzerlik gösteriyor. Bu bölgede, soğu ve karasal bir iklim hakim. Kış ayları oldukça soğu ve karlı geçerken, yaz ayları serin ve yağışlı oluyor. Köse Dağı, Eiffel Kulesi'nin 5 katı yükseklikte bir noktada yer alıyor.
+Mevsimsel özellikler açısından bakıldığında, Köse Dağı'nın iklimi, Kars ilinin genel iklimine benzerlik gösteriyor. Bu bölgede, soğu ve karasal bir iklim hakim. Kış ayları oldukça soğuk ve karlı geçerken, yaz ayları serin ve yağışlı oluyor. Köse Dağı, Eiffel Kulesi'nin 5 katı yükseklikte bir noktada yer alıyor.
 
 Köse Dağı, çevresindeki diğer coğrafi oluşumlarla birlikte, bir ekosistem oluşturuyor. Bu bölgede, çeşitli su kaynakları ve akarsular bulunuyor. Dağın eteklerinde ve yakınında, farklı bitki türleri ve hayvan popülasyonları yaşayabiliyor. Monaco'nun yaklaşık yarısı kadar büyüklüğünde bir alanı kaplayan Köse Dağı, çevresindeki diğer coğrafi oluşumlarla birlikte, bir bütün olarak değerlendirilmeli.
 

@@ -37,7 +37,7 @@ Kaya Mezarı 8'in tarihi geçmişi, bölgenin tarihi ile iç içe geçmiş durum
 
 ## Coğrafya
 
-Kaya Mezarı 8, coğrafi olarak Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Gürgentepe'nin Tikenlice Mahallesi'nde yer alan bu plaj, deniz seviyesinden yaklaşık yüksek bir konumdate bulunuyor. Plajın çevresi, yeşilliklerle çevrili ve bu durum, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Kaya Mezarı 8'in coğrafyası, genel olarak Karadeniz'in nemli ve ılıman ikliminin etkilerini gösteriyor. Bölge, yaz aylarında serin ve nemli, kış aylarında ise ılıman bir iklim sunuyor. Bu coğrafi konum, Kaya Mezarı 8'i yıl boyunca ziyaret edilebilir bir destinasyon haline getiriyor.
+Kaya Mezarı 8, coğrafi olarak Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Gürgentepe'nin Tikenlice Mahallesi'nde yer alan bu plaj, yüksek bir konumda bulunuyor. Plajın çevresi, yeşilliklerle çevrili ve bu durum, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Kaya Mezarı 8'in coğrafyası, genel olarak Karadeniz'in nemli ve ılıman ikliminin etkilerini gösteriyor. Bölge, yaz aylarında serin ve nemli, kış aylarında ise ılıman bir iklim sunuyor. Bu coğrafi konum, Kaya Mezarı 8'i yıl boyunca ziyaret edilebilir bir destinasyon haline getiriyor.
 
 ## Flora ve Fauna
 

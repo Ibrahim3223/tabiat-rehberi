@@ -31,7 +31,7 @@ Uludere milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu
 
 ## Coğrafya
 
-Uludere milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biri. 140 hektarlık alanı, çam ormanları, ağaçlık alanlar ve çeşitli bitki türleriyle kaplı. Parkın coğrafyası, ziyaretçilere hem yürüyüş yapmak hem de doğayı keşfetmek için geniş olanaklar sunuyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor; kışları soğu ve karlı, yazları ise sıcak ve kurak passing. Bu iklim koşulları, parkın flora ve faunasının çeşitliliğini etkiliyor. Ziyaretçiler, mevsimsel değişimlere göre farklı deneyimler yaşayabiliyor. Parkın etrafı, dağlar ve tepelerle çevrili; bu coğrafi özellik, parkın doğal güzelliğini daha da artırıyor.
+Uludere milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biri. 140 hektarlık alanı, çam ormanları, ağaçlık alanlar ve çeşitli bitki türleriyle kaplı. Parkın coğrafyası, ziyaretçilere hem yürüyüş yapmak hem de doğayı keşfetmek için geniş olanaklar sunuyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor; kışları soğuk ve karlı, yazları ise sıcak ve kurak passing. Bu iklim koşulları, parkın flora ve faunasının çeşitliliğini etkiliyor. Ziyaretçiler, mevsimsel değişimlere göre farklı deneyimler yaşayabiliyor. Parkın etrafı, dağlar ve tepelerle çevrili; bu coğrafi özellik, parkın doğal güzelliğini daha da artırıyor.
 
 ## Flora ve Fauna
 

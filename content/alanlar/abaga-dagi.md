@@ -44,7 +44,7 @@ Doğunun güzide şehri Van'ın dağlık bölgesinde yer alan Abağa Dağı, 39.
 
 Abağa Dağı'nın fiziksel yapısı hakkında detaylı bilgiler olmasa da, genel olarak bölgenin jeolojik yapısı hakkında bilgi sahibi olma mümkün. Van Gölü'nün etrafındaki dağlar genellikle volkanik kökenlidir ve Abağa Dağı da bu bölgenin bir parçasıdır. Dağın yüksekliği ve şekli hakkında kesin bilgiler olmasa da, bölgenin genel topografyası, Eiffel Kulesi'nin birkaç katı yükseklikte dağların yer aldığı bir coğrafyayı andırır.
 
-İklim açısından bakıldığında, Abağa Dağı'nın bulunduğu bölge, karasal iklim özellikleri gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürer. Bu mevsimsel değişimler, bölgenin flora ve fauna açısından zengin bir çeşitlilik göstermesine neden olur.
+İklim açısından bakıldığında, Abağa Dağı'nın bulunduğu bölge, karasal iklim özellikleri gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürer. Bu mevsimsel değişimler, bölgenin flora ve fauna açısından zengin bir çeşitlilik göstermesine neden olur.
 
 Bölgenin çevresel ilişkileri açısından, Abağa Dağı, Van Gölü'nün su kaynaklarına ve ekosistemine önemli bir katkı sağlar. Dağın eteklerinde ve çevresinde yer alan vadiler ve ova alanları, bölgenin tarım ve hayvancılık faaliyetleri için önemli bir kaynak teşkil eder. Ayrıca, Abağa Dağı, komşu alanlar ve su kaynakları arasında bir bağlantı noktası olarak da görev yapar, bu da bölgenin ekolojik dengesi açısından önemlidir.
 

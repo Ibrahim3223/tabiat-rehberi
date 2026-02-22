@@ -44,7 +44,7 @@ Gözlerimizi Çanakkale Boğazı'na çevirdiğimizde, 40.0527°K, 26.1664°D koo
 
 Doğal güzelliklerinin yanı sıra, Tekke Burnu'nun fiziksel yapısı da dikkat çekici. Bölgenin tam olarak boyutları bilinmese de, yaklaşık olarak bir şehir bloğu büyüklüğünde olan bu alan, ziyaretçilere küçük ama şirin bir cennet sunuyor. Jeolojik açıdan, bölgenin coğrafyası Gelibolu Yarımadası'nın genel yapısına uygun olarak, genellikle kireç taşı ve kil gibi tortul kayalardan oluşuyor.
 
-İklim açısından, Tekke Burnu'nun konumu Çanakkale'nin genel iklim karakterini yansıtıyor. Bölge, Akdeniz ikliminin etkilerini gösteriyor ve yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu sergiliyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliği üzerinde önemli bir etkiye sahip.
+İklim açısından, Tekke Burnu'nun konumu Çanakkale'nin genel iklim karakterini yansıtıyor. Bölge, Akdeniz ikliminin etkilerini gösteriyor ve yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu sergiliyor. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliği üzerinde önemli bir etkiye sahip.
 
 Çevresel açıdan, Tekke Burnu'nun komşu alanlar ve su kaynaklarıyla olan bağlantıları önemli. Çanakkale Boğazı'nın yakınında yer alması, bölgenin deniz ekosistemiyle olan ilişkisini güçlendiriyor. Ayrıca, bölgenin yakınlarında bulunan Gelibolu Yarımadası'nın diğer doğal alanları, buranın daha geniş bir ekosistem içerisinde yer aldığını gösteriyor. Bu bağlantılar, Tekke Burnu'nun biyolojik çeşitliliğini zenginleştirmekte ve doğa severler için çekici bir destinasyon haline getirmektedir.
 

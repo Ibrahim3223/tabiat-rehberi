@@ -37,7 +37,7 @@ Bağırganlı Plajı'nın tarihi geçmişi hakkında net bilgiler bulunmuyor. An
 
 ## Coğrafya
 
-Bağırganlı Plajı, Marmara Bölgesi'nin Kocaeli ilinde yer alıyor. Plaj, yaklaşık 140 hektarlık bir alanı kapsıyor ve geniş bir kumsala sahip. Kumsalın etrafında ise yeşilin çeşitli tonlarını görebileceğiniz ormanlık alanlar yer alıyor. Bu ormanlık alanlar, plaja gelen ziyaretçilere gölge ve serinlik sağlıyor. Plajın denizi ise genellikle sakin ve berrak olan bir yapıya sahip. Bağırganlı Plajı, coğrafi konumu itibariyle çeşitli iklim koşullarına maruz kalıyor. Kış aylarında soğu ve yağışlı bir hava hakimken, yaz aylarında sıca ve güneşli bir iklim görülüyor. Bu nedenle plaj, genellikle yaz aylarında ziyaret ediliyor. Bağırganlı Plajı'nın coğrafi konumu ve doğal güzelliği, burayı önemli bir turizm merkezi haline getiriyor.
+Bağırganlı Plajı, Marmara Bölgesi'nin Kocaeli ilinde yer alıyor. Plaj, yaklaşık 140 hektarlık bir alanı kapsıyor ve geniş bir kumsala sahip. Kumsalın etrafında ise yeşilin çeşitli tonlarını görebileceğiniz ormanlık alanlar yer alıyor. Bu ormanlık alanlar, plaja gelen ziyaretçilere gölge ve serinlik sağlıyor. Plajın denizi ise genellikle sakin ve berrak olan bir yapıya sahip. Bağırganlı Plajı, coğrafi konumu itibariyle çeşitli iklim koşullarına maruz kalıyor. Kış aylarında soğuk ve yağışlı bir hava hakimken, yaz aylarında sıcak ve güneşli bir iklim görülüyor. Bu nedenle plaj, genellikle yaz aylarında ziyaret ediliyor. Bağırganlı Plajı'nın coğrafi konumu ve doğal güzelliği, burayı önemli bir turizm merkezi haline getiriyor.
 
 ## Flora ve Fauna
 

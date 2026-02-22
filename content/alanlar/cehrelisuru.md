@@ -44,7 +44,7 @@ Güney Türkiye'nin en güzel köşelerinden biri olan Çehrelisuru Dağı, Hata
 
 Doğal güzelliği ile dikkat çeken Çehrelisuru Dağı, yaklaşık 1200 hektarlık bir alanı kapsıyor. Bu, Monaco'nun yarısı kadar bir alanı kaplayan bir bölge olarak düşünülebilir. Dağın fiziksel yapısı, bölgenin jeolojik özelliklerini yansıtıyor. Ancak, detaylı fiziksel veriler bulunmamasına rağmen, Çehrelisuru Dağı'nın coğrafyası, bölgenin iklim ve bitki örtüsünü şekillendiren önemli bir etken.
 
-İklim açısından bakıldığında, Çehrelisuru Dağı'nın bulunduğu bölge, Akdeniz ikliminin karakteristik özelliklerine sahip. Yaz aylarında sıca ve kurak, kış aylarında ise ılık ve yağışlı bir hava hakim. Bu mevsimsel özellikler, dağın ekosistemini ve bitki örtüsünü şekillendiriyor. Eiffel Kulesi'nin 10 katı yükseklikte olan bir noktanın, bölgenin yükseklik farklılıklarını anlamak için bir réféans noktası olarak düşünülebilir.
+İklim açısından bakıldığında, Çehrelisuru Dağı'nın bulunduğu bölge, Akdeniz ikliminin karakteristik özelliklerine sahip. Yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava hakim. Bu mevsimsel özellikler, dağın ekosistemini ve bitki örtüsünü şekillendiriyor. Eiffel Kulesi'nin 10 katı yükseklikte olan bir noktanın, bölgenin yükseklik farklılıklarını anlamak için bir réféans noktası olarak düşünülebilir.
 
 Çevresel açıdan, Çehrelisuru Dağı, bölgenin su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahip. Dağın yakınındaki nehirler ve akarsular, bölgenin sulak alanlarını besliyor ve yerel ekosistemi desteklıyor. İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kapsayan bu bölge, doğal güzelliği ve çevresel önemiyle dikkat çekiyor.
 

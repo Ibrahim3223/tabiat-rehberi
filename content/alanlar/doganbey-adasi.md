@@ -44,7 +44,7 @@ Gökyüzünden bakıldığında, Ege Denizi'nin mavisi içinde küçük bir nokt
 
 Jeolojik açıdan bakıldığında, ada hakkında detaylı fiziksel veri bulunmuyor, ancak koordinatlarından hareketle, Ege Denizi'nin jeolojik yapısına bakma mümkün. Bu bölge, genel olarak volkani ve sedimentatif kayaçlardan oluşuyor. Ada, Tuzla ve Karaburun yarımadaları arasındaki bölgede yer alıyor ve bu bölge, Ege Denizi'nin karmaşık jeolojik yapısını yansıtıyor.
 
-Mevsimsel olarak, Doğanbey Adası, Ege Denizi ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir hava durumu hakim. Bu iklim, ada etrafındaki su kaynaklarını ve ekosistemi etkiliyor. Ada, Ege Denizi'nin zengin biyolojik çeşitliliğine katkıda bulunuyor ve su kaynakları, komşu alanlar ve ekosistem bağlantıları ile bir bütün olarak değerlendiriliyor.
+Mevsimsel olarak, Doğanbey Adası, Ege Denizi ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava durumu hakim. Bu iklim, ada etrafındaki su kaynaklarını ve ekosistemi etkiliyor. Ada, Ege Denizi'nin zengin biyolojik çeşitliliğine katkıda bulunuyor ve su kaynakları, komşu alanlar ve ekosistem bağlantıları ile bir bütün olarak değerlendiriliyor.
 
 Doğal bir liman gibi görünen ada, çevresindeki su kaynakları ile birlikte, bir ekosistem olarak düşünülmesi gereken bir bölge. Yaklaşık olarak Monaco'nun küçük bir bölümü kadar bir alanı kaplayan ada, Tuzla ve Karaburun yarımadaları arasındaki su yolunda önemli bir konumda yer alıyor. Bu konumu, ada ve çevresinin ekolojik dengesini koruma açısından önemli bir rol oynuyor.
 

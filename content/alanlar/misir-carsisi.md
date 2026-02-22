@@ -38,7 +38,7 @@ Mısır Çarşısı'nın tarihi geçmişi, yüzyıllar boyunca ticaret ve kült�
 
 ## Coğrafya
 
-Mısır Çarşısı, İstanbul'un Fatih ilçesinde yer alır. Çarşı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Çarşının coğrafi konumu, Marmara Bölgesi'nin merkezi bölümündedir. Çarşı, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır. Mısır Çarşısı'nın etrafında, tarihi binalar ve camiler bulunur. Çarşı, İstanbul'un other önemli turizm merkezlerinden biridir. Çarşının coğrafi konumu, ziyaretçilerin kolayca ulaşabileceği bir yerdir. Çarşı, İstanbul'un kalbinde yer alır ve birçok önemli yere yakındır.
+Mısır Çarşısı, İstanbul'un Fatih ilçesinde yer alır. Çarşı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Çarşının coğrafi konumu, Marmara Bölgesi'nin merkezi bölümündedir. Çarşı, yüksek bir konumda yer alır. Mısır Çarşısı'nın etrafında, tarihi binalar ve camiler bulunur. Çarşı, İstanbul'un other önemli turizm merkezlerinden biridir. Çarşının coğrafi konumu, ziyaretçilerin kolayca ulaşabileceği bir yerdir. Çarşı, İstanbul'un kalbinde yer alır ve birçok önemli yere yakındır.
 
 ## Flora ve Fauna
 

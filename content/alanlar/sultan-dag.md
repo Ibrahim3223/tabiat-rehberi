@@ -45,7 +45,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Sultan Dağ, 38.3865°K ve 41
 
 Doğal güzelliği ve coğrafi yapısı ile dikkat çeken Sultan Dağ, yaklaşık olarak Beşiktaş ilçesi büyüklüğünde bir alanı kaplamaktadır. Bu büyüklük, Taksim Meydanı'nın yaklaşık 10 katı büyüklüğüne eşittir. Sultan Dağ'ın fiziksel yapısı, bölgenin jeolojisini etkileyen önemli faktörlerden biridir. Bölgenin jeolojik yapısı, Sultan Dağ'ın oluşumunu ve şekillenmesini etkilemiştir.
 
-Sultan Dağ'ın iklim karakteri, bölgenin coğrafi konumuna bağlı olarak şekillenmektedir. Güneydoğu Anadolu Bölgesi'nin karakteristik iklimine sahip olan Sultan Dağ, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklim geçirir. Bu mevsimsel özellikler, Sultan Dağ'ın doğal güzelliğini ve biyolojik çeşitliliğini etkilemektedir.
+Sultan Dağ'ın iklim karakteri, bölgenin coğrafi konumuna bağlı olarak şekillenmektedir. Güneydoğu Anadolu Bölgesi'nin karakteristik iklimine sahip olan Sultan Dağ, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklim geçirir. Bu mevsimsel özellikler, Sultan Dağ'ın doğal güzelliğini ve biyolojik çeşitliliğini etkilemektedir.
 
 Bölgenin ekosistem bağlantıları ve su kaynakları, Sultan Dağ'ın çevresel ilişkilerini şekillendirmektedir. Sultan Dağ, bölgenin önemli su kaynaklarından biri olan Dicle Nehri'ne yakın konumda bulunmaktadır. Bu yakınlık, Sultan Dağ'ın çevresel ilişkilerini ve ekosistem bağlantılarını etkilemektedir. Sultan Dağ, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini korumak için önemli bir role sahiptir.
 

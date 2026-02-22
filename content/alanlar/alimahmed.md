@@ -54,7 +54,7 @@ Alimahmed Dağı, yüksek dağ ekolojisinin tüm ihtişamını sergiler. 1200 he
 
 Bitki örtüsünü oluşturan hakim türler, yükseklik zonlarına göre değişir. Alpin otlaklar ve çayırlar, dağlık alanın karakterini belirler. Özel bitkiler, dağların zorlu koşullarına adapte olmuştur. 
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle dolu bir çeşitlilik sunar. Memeliler, dağların kaya aziğini mesken tutar, kuşlar ise gökyüzünde süzülür. Sürüngenler, dağların sıca ve kuru bölgelerinde yaşar. Ekolojik değer, bu dağlık alanın neden önemli olduğu ve koruma durumunu vurgular. Alimahmed Dağı, yüksek dağ ekosisteminin bir parçası olarak, bu ekosistemin korunması için büyük önem taşır.
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle dolu bir çeşitlilik sunar. Memeliler, dağların kaya aziğini mesken tutar, kuşlar ise gökyüzünde süzülür. Sürüngenler, dağların sıcak ve kuru bölgelerinde yaşar. Ekolojik değer, bu dağlık alanın neden önemli olduğu ve koruma durumunu vurgular. Alimahmed Dağı, yüksek dağ ekosisteminin bir parçası olarak, bu ekosistemin korunması için büyük önem taşır.
 
 ## Ziyaret Bilgileri
 

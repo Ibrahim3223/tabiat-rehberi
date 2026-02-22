@@ -30,7 +30,7 @@ Adana-Feke-Mansurlu Sedir 1 milli parkının tarihi geçmişi, bölgenin coğraf
 
 ## Coğrafya
 
-Adana-Feke-Mansurlu Sedir 1 milli parkı, Akdeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölgede bulunmaktadır. Parkın coğrafyası, sedir ağaçlarının hakim olduğu ormanlık alanlar, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bu doğal alan, ziyaretçilere geniş yürüyüş yolları, piknik alanları ve observation noktaları sunmaktadır. Milli parkın iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır; yaz ayları sıca ve kurak, kış ayları ılıman ve yağışlı geçer. Bu coğrafi ve iklimsel özellikler, ziyaretçilere yılın her döneminde keyifli bir deneyim sunar.
+Adana-Feke-Mansurlu Sedir 1 milli parkı, Akdeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölgede bulunmaktadır. Parkın coğrafyası, sedir ağaçlarının hakim olduğu ormanlık alanlar, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bu doğal alan, ziyaretçilere geniş yürüyüş yolları, piknik alanları ve observation noktaları sunmaktadır. Milli parkın iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır; yaz ayları sıcak ve kurak, kış ayları ılıman ve yağışlı geçer. Bu coğrafi ve iklimsel özellikler, ziyaretçilere yılın her döneminde keyifli bir deneyim sunar.
 
 ## Flora ve Fauna
 

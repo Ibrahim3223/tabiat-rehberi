@@ -36,7 +36,7 @@ Herbelaş Tepesi'nin tarihi geçmişi, Mardin'in genel tarihini yansıtıyor. Bu
 
 ## Coğrafya
 
-Herbelaş Tepesi, Mardin'in coğrafi yapısını yansıtan bir bölge. Tepenin yüksekliği ve etrafındaki arazi yapısı, çeşitli bitki türlerinin yetişmesine olanak tanıyor. Bu bölgede, özellikle bahar ve yaz aylarında, çeşitli bitkiler ve çiçekler görülüyor. Tepenin etrafında, Mardin'in genel iklim özellikleri görülüyor. Kış ayları soğu ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Herbelaş Tepesi, Mardin'in coğrafi güzelliklerini keşfetmek isteyenler için ideal bir nokta.
+Herbelaş Tepesi, Mardin'in coğrafi yapısını yansıtan bir bölge. Tepenin yüksekliği ve etrafındaki arazi yapısı, çeşitli bitki türlerinin yetişmesine olanak tanıyor. Bu bölgede, özellikle bahar ve yaz aylarında, çeşitli bitkiler ve çiçekler görülüyor. Tepenin etrafında, Mardin'in genel iklim özellikleri görülüyor. Kış ayları soğuk ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Herbelaş Tepesi, Mardin'in coğrafi güzelliklerini keşfetmek isteyenler için ideal bir nokta.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Mersin'in güneşli sahillerine nazaran daha iç kesimlerde yer alan Manit Dağ�
 
 Doğal güzelliklerin yanısıra, Manit Dağı'nın fiziksel yapısı da dikkat çekicidir. Dağın şekli ve boyutları, bölgenin jeolojik tarihini yansıtmaktadır. Monaco'nun yarısı kadar büyük olan bu dağ, bölgenin coğrafi yapısını şekillendirmiş ve bir zamanlar aktif olan volkanik faaliyetlerin izlerini taşımaktadır. Eiffel Kulesi'nin 2 katı yükseklikte olan bu dağ, manzarasıyla ziyaretçilerini büyülemektedir.
 
-Mevsimsel değişikliklere bağlı olarak, Manit Dağı'nın iklim karakteri değişkenlik göstermektedir. Yaz aylarında sıca ve kuru bir hava hakimken, kış aylarında soğukkanlı ve yağışlı bir hava görülür. Bu mevsimsel özellikler, bölgenin flora ve faunasını etkileyerek, ekosistemin dengesini sağlar. İstanbul'un Adalar ilçesi büyüklüğünde olan bu bölge, ziyaretçilerine her mevsim farklı bir güzellik sunar.
+Mevsimsel değişikliklere bağlı olarak, Manit Dağı'nın iklim karakteri değişkenlik göstermektedir. Yaz aylarında sıcak ve kuru bir hava hakimken, kış aylarında soğukkanlı ve yağışlı bir hava görülür. Bu mevsimsel özellikler, bölgenin flora ve faunasını etkileyerek, ekosistemin dengesini sağlar. İstanbul'un Adalar ilçesi büyüklüğünde olan bu bölge, ziyaretçilerine her mevsim farklı bir güzellik sunar.
 
 Son olarak, Manit Dağı'nın çevresel ilişkileri de önemlidir. Dağın komşu alanları, su kaynakları ve ekosistem bağlantıları, bölgenin doğal dengesini korur. Beşiktaş ilçesi kadar büyük olan bu dağ, bölgenin su kaynaklarını korur ve ekosistemin devamını sağlar. Taksim Meydanı'nın 10 katı büyüklüğünde olan bu bölge, ziyaretçilerine doğanın güzelliklerini sunar.
 
@@ -52,7 +52,7 @@ Son olarak, Manit Dağı'nın çevresel ilişkileri de önemlidir. Dağın komş
 
 Manit Dağı, Mersin'in doğal güzelliklerini barındıran bir dağ ekosistemi. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, maki bitki örtüsü çiçeklerle donanır. Kuraklığa dayanıklı türler, bu bölgenin karakteristik özellikleridir.
 
-Yaban hayatı, dağların yükseklik zonlarına bağlı olarak çeşitlilik gösterir. Memeliler ve kuşlar, bu dağların önemli sakinleridir. Kış aylarında, göçmen kuşlar bu bölgeyi ziyaret eder. Sürüngenler de, bu dağların sıca ve kurak bölgelerinde yaşar.
+Yaban hayatı, dağların yükseklik zonlarına bağlı olarak çeşitlilik gösterir. Memeliler ve kuşlar, bu dağların önemli sakinleridir. Kış aylarında, göçmen kuşlar bu bölgeyi ziyaret eder. Sürüngenler de, bu dağların sıcak ve kurak bölgelerinde yaşar.
 
 Manit Dağı, ekolojik değer bakımından önemli bir bölgedir. Bu dağ ekosisteminin korunması, bölgenin doğal dengesini sürdürmek için önemlidir. Kıyı ekosistemiyle olan bağlantısı, bu bölgenin değerini artırır. Doğal yaşam alanlarının korunması, gelecek nesiller için önemli bir sorumluluktur.
 

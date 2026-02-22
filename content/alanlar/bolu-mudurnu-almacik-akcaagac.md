@@ -30,7 +30,7 @@ Bolu Mudurnu Almacik-Akcaagac milli parkının tarihi geçmişi oldukça eskidir
 
 ## Coğrafya
 
-Bolu Mudurnu Almacik-Akcaagac milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bölge, dağlık ve engebeli bir arazi yapısına sahip. Milli parkın etrafı, yüksek dağlar ve derin vadiler ile çevrilidir. Bu coğrafi yapı, bölgenin iklimini de etkiliyor. Kışları soğu ve kar yağışlı, yazları ise sıcak ve kurak geçiyor. Milli parkın içi, zengin bitki türleri ile dolu. Burada, çeşitli ağaçlar, çalılar ve otlar yetişiyor. Ayrıca, bölge fauna açısından da zengin. Burada, çeşitli hayvanlar yaşamaktadır. Milli parkın coğrafi konumu, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
+Bolu Mudurnu Almacik-Akcaagac milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bölge, dağlık ve engebeli bir arazi yapısına sahip. Milli parkın etrafı, yüksek dağlar ve derin vadiler ile çevrilidir. Bu coğrafi yapı, bölgenin iklimini de etkiliyor. Kışları soğuk ve kar yağışlı, yazları ise sıcak ve kurak geçiyor. Milli parkın içi, zengin bitki türleri ile dolu. Burada, çeşitli ağaçlar, çalılar ve otlar yetişiyor. Ayrıca, bölge fauna açısından da zengin. Burada, çeşitli hayvanlar yaşamaktadır. Milli parkın coğrafi konumu, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

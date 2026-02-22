@@ -36,7 +36,7 @@ Kayatuzu Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetler
 
 ## Coğrafya
 
-Kayatuzu Tepesi, Çorum'un Karadeniz Bölgesi'nde yer alan bir tepe olarak, coğrafi olarak zengin bir yapıya sahiptir. Tepenin yüksekliği ve eteklerinde yer alan vadiler, ziyaretçilere büyüleyici bir manzara sunmaktadır. Bölge, çeşitli bitki türleri ve fauna ile kaplı olup, ekolojik dengesi açısından önemli bir yere sahiptir. Kayatuzu Tepesi'nin iklimi, Karadeniz Bölgesi'nin ılıman iklimine uygun olarak, yazları serin ve yağışlı, kışları ise soğu ve kar yağışlı geçmektedir. Tepenin çevresinde yer alan akarsular ve göller, bölgenin su kaynaklarını zenginleştirmektedir.
+Kayatuzu Tepesi, Çorum'un Karadeniz Bölgesi'nde yer alan bir tepe olarak, coğrafi olarak zengin bir yapıya sahiptir. Tepenin yüksekliği ve eteklerinde yer alan vadiler, ziyaretçilere büyüleyici bir manzara sunmaktadır. Bölge, çeşitli bitki türleri ve fauna ile kaplı olup, ekolojik dengesi açısından önemli bir yere sahiptir. Kayatuzu Tepesi'nin iklimi, Karadeniz Bölgesi'nin ılıman iklimine uygun olarak, yazları serin ve yağışlı, kışları ise soğuk ve kar yağışlı geçmektedir. Tepenin çevresinde yer alan akarsular ve göller, bölgenin su kaynaklarını zenginleştirmektedir.
 
 ## Flora ve Fauna
 

@@ -30,7 +30,7 @@ Mugla-Kemer-Akcay Kızılçam1'in tarihi geçmişi, yüzyıllar boyunca şekille
 
 ## Coğrafya
 
-Mugla-Kemer-Akcay Kızılçam1, Muğla'nın coğrafi olarak zajímav bir bölgesinde yer alıyor. Ege Bölgesi'nin doğal güzelliklerini barındıran bu alan, geniş ormanlık araziler ve yeşil alanlarla çevrili. İklimi, Ege Bölgesi'nin karakteristik özelliği olan Akdeniz iklimi. Yaz ayları sıca ve kuru, kış ayları ılık ve yağışlı geçiyor. Bu iklim, bölgenin florası ve faunası için al koşullar sağlıyor. Coğrafi yapısı, ziyaretçilere geniş yürüyüş yolları ve doğal güzellikleri keşfetme imkanı sunuyor. 140 hektarlık alan, ziyaretçilerin doğayı keşfetmeleri için yeterli bir büyüklüğe sahip. Bu genişlik, ziyaretçilerin doğa ile iç içe olabilecekleri bir ortam sunuyor.
+Mugla-Kemer-Akcay Kızılçam1, Muğla'nın coğrafi olarak zajímav bir bölgesinde yer alıyor. Ege Bölgesi'nin doğal güzelliklerini barındıran bu alan, geniş ormanlık araziler ve yeşil alanlarla çevrili. İklimi, Ege Bölgesi'nin karakteristik özelliği olan Akdeniz iklimi. Yaz ayları sıcak ve kuru, kış ayları ılık ve yağışlı geçiyor. Bu iklim, bölgenin florası ve faunası için al koşullar sağlıyor. Coğrafi yapısı, ziyaretçilere geniş yürüyüş yolları ve doğal güzellikleri keşfetme imkanı sunuyor. 140 hektarlık alan, ziyaretçilerin doğayı keşfetmeleri için yeterli bir büyüklüğe sahip. Bu genişlik, ziyaretçilerin doğa ile iç içe olabilecekleri bir ortam sunuyor.
 
 ## Flora ve Fauna
 

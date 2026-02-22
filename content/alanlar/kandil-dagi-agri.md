@@ -44,7 +44,7 @@ Doğunun güzide illerinden biri olan Ağrı, coğrafi zenginlikleri ile dikkat 
 
 Coğrafi olarak bakıldığında, Kandil Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, koordinatlarından hareketle, dağlık bir bölgede yer aldığı anlaşılır. Bir şehir bloğu büyüklüğünde olan bu alan, çevresindeki diğer dağlarla birlikte birWhole dağlık sistemi oluşturur. Bu sistem, bölgenin jeolojisini şekillendiren önemli bir faktördür.
 
-İklim açısından bakıldığında, Kandil Dağı ve çevresinin mevsimsel özelliklerini anlamak önemlidir. Bu bölgede hava durumu, mevsimlere göre değişkenlik gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir iklim hakimdir. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini etkiler.
+İklim açısından bakıldığında, Kandil Dağı ve çevresinin mevsimsel özelliklerini anlamak önemlidir. Bu bölgede hava durumu, mevsimlere göre değişkenlik gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hakimdir. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini etkiler.
 
 Çevresel açıdan bakıldığında, Kandil Dağı ve çevresinin su kaynakları ve ekosistem bağlantıları önemlidir. Bölge, Murat Nehri gibi önemli su kaynaklarına yakın bir konumda yer alır. Bu su kaynakları, bölgenin ekosistemini destekler ve canlı çeşitliliğini korur. Ayrıca, Kandil Dağı'nın komşu alanları, benzer coğrafi özelliklere sahip diğer dağlık bölgelerdir. Bu bölgeler, birlikte bir büyük ekosistem oluşturur ve bölgenin coğrafi zenginliğini korur.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31390578"
 
 # İyidost Tepesi
 
-İyidost Tepesi, Nevşehir ilinin sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir alan olarak düşünülebilir. İyidost Tepesi, çevresi ile birlikte yaklaşık yüksek bir konumdate yer alıyor. Bu yükseklik, ziyaretçilere bölgenin güzel manzarasını seyretme imkanı sunuyor. İyidost Tepesi, doğa severler için önemli bir destinasyon.
+İyidost Tepesi, Nevşehir ilinin sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir alan olarak düşünülebilir. İyidost Tepesi, çevresi ile birlikte yüksek bir konumda yer alıyor. Bu yükseklik, ziyaretçilere bölgenin güzel manzarasını seyretme imkanı sunuyor. İyidost Tepesi, doğa severler için önemli bir destinasyon.
 
 ## Tarihçe
 

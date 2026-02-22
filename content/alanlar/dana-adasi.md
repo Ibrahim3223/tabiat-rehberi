@@ -43,7 +43,7 @@ Mersin'in güneşli kıyılarında, Akdeniz'in suları içinde yer alan Dana Ada
 
 Ada hakkında fiziksel veriler sınırlı olsa da, koordinatlarından hareketle, Dana Adası'nın Mersin'in diğer turistik noktalarına yakınlığını değerlendirebiliriz. Örneğin, Tarsus ve Silifke gibi tarihi ve doğal güzellikleri barındıran bölgelere yakın bir konumda yer alıyor. Bu yakınlık, ziyaretçilerin hem tarihin izlerini takip edebilmesine hem de doğanın güzelliğini keşfedebilmesine olanak tanıyor.
 
-Dana Adası'nın iklim karakteri, Akdeniz ikliminin tipik özelliklerini taşıyor. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir hava durumu hakim. Bu iklim, ada ve çevresinin florası ve faunası için uygun koşullar sunuyor. Ada çevresindeki su kaynakları ve komşu adalar, bölgenin biyolojik çeşitliliğini destekleyen önemli ekosistem parçaları.
+Dana Adası'nın iklim karakteri, Akdeniz ikliminin tipik özelliklerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava durumu hakim. Bu iklim, ada ve çevresinin florası ve faunası için uygun koşullar sunuyor. Ada çevresindeki su kaynakları ve komşu adalar, bölgenin biyolojik çeşitliliğini destekleyen önemli ekosistem parçaları.
 
 Ada ve çevresinin jeolojik yapısı, bölgenin coğrafi özelliklerini şekillendiren önemli bir faktör. Deniz seviyesinin altındaki ve üstündeki kaya oluşumları, ada ve komşu alanların fiziksel yapısını belirliyor. Bu oluşumlar, aynı zamanda bölgenin iklimine ve doğal kaynaklarına da etki ediyor. Örneğin, ada etrafındaki su kaynakları, bölgenin su dengesini ve ekosistemini etkileyen önemli bir faktör.
 

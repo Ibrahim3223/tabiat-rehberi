@@ -30,7 +30,7 @@ Ebeçamlığı'nın tarihi geçmişi, yüzyıllar boyunca süregelmiştir. Bu b�
 
 ## Coğrafya
 
-Ebeçamlığı, İç Anadolu Bölgesi'nin coğrafi özellikleri ile dikkat çekiyor. Burada, geniş ve yeşil alanlar, çeşitli bitki türleri ve zengin fauna encontruyor. Ebeçamlığı'nın coğrafi yapısı, aynı zamanda burada yaşayan insanların yaşam şeklini de etkiliyor. Bu bölge, genellikle kura ve soğuk geçen kışlarla birlikte, sıca ve kurak geçen yazlarla karakterize ediliyor. Ebeçamlığı'nın coğrafi konumu, aynı zamanda burada yaşayan insanların tarım ve hayvancılıkla uğraşmalarını sağlıyor. Ebeçamlığı'nın coğrafyası, ziyaretçilerini doğanın güzellikleriyle baş başa bırakıyor. Burada, çeşitli bitki ve hayvan türlerini gözlemleyerek, doğanın güzelliklerini keşfedebilirsiniz.
+Ebeçamlığı, İç Anadolu Bölgesi'nin coğrafi özellikleri ile dikkat çekiyor. Burada, geniş ve yeşil alanlar, çeşitli bitki türleri ve zengin fauna encontruyor. Ebeçamlığı'nın coğrafi yapısı, aynı zamanda burada yaşayan insanların yaşam şeklini de etkiliyor. Bu bölge, genellikle kura ve soğuk geçen kışlarla birlikte, sıcak ve kurak geçen yazlarla karakterize ediliyor. Ebeçamlığı'nın coğrafi konumu, aynı zamanda burada yaşayan insanların tarım ve hayvancılıkla uğraşmalarını sağlıyor. Ebeçamlığı'nın coğrafyası, ziyaretçilerini doğanın güzellikleriyle baş başa bırakıyor. Burada, çeşitli bitki ve hayvan türlerini gözlemleyerek, doğanın güzelliklerini keşfedebilirsiniz.
 
 ## Flora ve Fauna
 

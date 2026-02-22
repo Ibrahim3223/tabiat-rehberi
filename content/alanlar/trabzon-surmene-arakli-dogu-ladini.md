@@ -30,7 +30,7 @@ Trabzon-Surmene-Arakli Dogu Ladini milli parkının tarihi geçmişi, yüzyılla
 
 ## Coğrafya
 
-Trabzon-Surmene-Arakli Dogu Ladini milli parkı, Karadeniz Bölgesi'nin kuzeydoğu kısmında yer almaktadır. Milli park, 140 hektarlık yeşil alanıyla birlikte, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Bu milli park, deniz seviyesinden yaklaşık yüksek bir konumdate yer almaktadır. Milli parkın etrafında yer alan dağlar ve tepeler, ziyaretçilere güzel manzaralar sunmaktadır. Milli parkın iklimi, Karadeniz Bölgesi'nin tipik iklimine benzer şekilde, ılımandır. Milli parkın içinde yer alan çeşitli bitki türleri, bu bölgenin ikliminin ılıman olduğunu göstermektedir. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli doğa aktivitelerine katılma fırsatı sunmaktadır. Milli parkın etrafında yer alan köyler ve kasabalar, ziyaretçilere geleneksel Türk kültürünü deneyimleme fırsatı sunmaktadır.
+Trabzon-Surmene-Arakli Dogu Ladini milli parkı, Karadeniz Bölgesi'nin kuzeydoğu kısmında yer almaktadır. Milli park, 140 hektarlık yeşil alanıyla birlikte, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Bu milli park, yüksek bir konumda yer almaktadır. Milli parkın etrafında yer alan dağlar ve tepeler, ziyaretçilere güzel manzaralar sunmaktadır. Milli parkın iklimi, Karadeniz Bölgesi'nin tipik iklimine benzer şekilde, ılımandır. Milli parkın içinde yer alan çeşitli bitki türleri, bu bölgenin ikliminin ılıman olduğunu göstermektedir. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli doğa aktivitelerine katılma fırsatı sunmaktadır. Milli parkın etrafında yer alan köyler ve kasabalar, ziyaretçilere geleneksel Türk kültürünü deneyimleme fırsatı sunmaktadır.
 
 ## Flora ve Fauna
 

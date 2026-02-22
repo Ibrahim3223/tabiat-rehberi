@@ -44,7 +44,7 @@ Güney kıyılarımızın güzelliğine güzelliğini katan Antalya, coğrafi ç
 
 Doğal güzellikleri ile ön plana çıkan bu bölge, coğrafi olarak ilginç bir yapıya sahiptir. Özdemir Tepe'nin fiziksel yapısı, Antalya'nın genel coğrafyası ile benzerlik gösterir. Monaco'nun yaklaşık yarısı kadar bir alanı kaplayan Antalya, Özdemir Tepe gibi tepe ve dağların arasında yer alan vadi ve ovaları ile dikkat çeker. Ancak Özdemir Tepe'nin kendi fiziksel boyutları hakkında detaylı bilgi bulunmamaktadır.
 
-İklim açısından bakıldığında, Özdemir Tepe ve çevresinin Akdeniz ikliminin karakteristik özellikleri görülür. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir hava hüküm sürer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte yer alan bazı tepe ve dağlar, bölgenin iklimini şekillendiren önemli faktörlerdir.
+İklim açısından bakıldığında, Özdemir Tepe ve çevresinin Akdeniz ikliminin karakteristik özellikleri görülür. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava hüküm sürer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte yer alan bazı tepe ve dağlar, bölgenin iklimini şekillendiren önemli faktörlerdir.
 
 Çevresel açıdan bakıldığında, Özdemir Tepe, Antalya'nın diğer doğal güzellikleri ile bağlantılıdır. Komşu alanlar, su kaynakları ve ekosistem bağlantıları, bu bölgenin önemini vurgular. İstanbul'un Adalar ilçesi büyüklüğünde bir alanı kaplayan Antalya, doğal güzellikleri ve coğrafi çeşitliliği ile ziyaretçilerini çekmeyi başarır. Özdemir Tepe, bu güzelliğin önemli bir parçasını oluşturur ve ziyaretçilerini bekler.
 

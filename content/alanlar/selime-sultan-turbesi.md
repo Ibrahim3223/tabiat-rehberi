@@ -38,7 +38,7 @@ Selime Sultan Türbesi'nin tarihi geçmişi, Osmanlı dönemine kadar uzanmaktad
 
 ## Coğrafya
 
-Selime Sultan Türbesi, Güzelyurt ilçesi sınırları içerisinde, İç Anadolu Bölgesi'nin coğrafi olarak en güzel noktalarından birinde yer alıyor. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, doğal güzellikleri ile ziyaretçilerini cezbediyor. Türbe ve plaj alanı, together bir bütün olarak düşünüldüğünde, ziyaretçilere hem tarihi bir mekan hem de güzel bir doğa alanı sunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal iklim özellikleri gösteriyor. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi özellikler, Selime Sultan Türbesi ve çevresinin, ziyaretçilere dört mevsim boyunca farklı güzellikler sunmasını sağlıyor.
+Selime Sultan Türbesi, Güzelyurt ilçesi sınırları içerisinde, İç Anadolu Bölgesi'nin coğrafi olarak en güzel noktalarından birinde yer alıyor. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, doğal güzellikleri ile ziyaretçilerini cezbediyor. Türbe ve plaj alanı, together bir bütün olarak düşünüldüğünde, ziyaretçilere hem tarihi bir mekan hem de güzel bir doğa alanı sunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi özellikler, Selime Sultan Türbesi ve çevresinin, ziyaretçilere dört mevsim boyunca farklı güzellikler sunmasını sağlıyor.
 
 ## Flora ve Fauna
 

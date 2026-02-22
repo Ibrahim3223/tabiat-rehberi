@@ -37,7 +37,7 @@ Patara Merkez Hamamı, tarihin sâu sayfalarında gizli bir hazine gibi duruyor.
 
 ## Coğrafya
 
-Patara Merkez Hamamı, Kaş ilçesinin güneyinde, Akdeniz kıyılarında yer alıyor. Bu kompleks, geniş kumsalları, tarihi yapıları ve doğa güzellikleri ile ziyaretçilerini cezbediyor. Yaklaşık 200 futbol sahası büyüklüğünde bir alan kaplayan Patara Merkez Hamamı, ziyaretçilerine geniş bir alan sunuyor. İklimi, tipik Akdeniz iklimi özellikleri gösteriyor; sıca ve kurak yazlar, ılık ve yağışlı kışlar. Bu coğrafi konum, ziyaretçilere çeşitli doğa aktivitelerini deneyimleme fırsatı sunuyor.
+Patara Merkez Hamamı, Kaş ilçesinin güneyinde, Akdeniz kıyılarında yer alıyor. Bu kompleks, geniş kumsalları, tarihi yapıları ve doğa güzellikleri ile ziyaretçilerini cezbediyor. Yaklaşık 200 futbol sahası büyüklüğünde bir alan kaplayan Patara Merkez Hamamı, ziyaretçilerine geniş bir alan sunuyor. İklimi, tipik Akdeniz iklimi özellikleri gösteriyor; sıcak ve kurak yazlar, ılık ve yağışlı kışlar. Bu coğrafi konum, ziyaretçilere çeşitli doğa aktivitelerini deneyimleme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

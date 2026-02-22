@@ -58,7 +58,7 @@ Yaban hayatı açısından zengin olan Emre Gölü, çeşitli memeli ve kuş tü
 
 ## Ziyaret Bilgileri
 
-Emre Gölü, Afyonkarahisar'da bulunan bir doğa cenneti. Sabah erken gitmenizi öneririm, hem kalabalıktan kurtulursunuz hem de güneşin doğuşunu izleyebilirsiniz. Gölü ziyaret etmek için en iyi mevsim ilkbahar ve yaz aylarıdır, çünkü hava daha sıca ve güneşli olur. Yanınıza mutlaka su ve atıştırmalık alın çünkü gölün etrafında çok fazla tesis bulunmuyor. En güzel manzara noktası, gölün kuzey kıyısında bulunan tepedir, buradan tüm gölü izleyebilirsiniz. Tekne turu, balıkçılık, kuş gözlemi, pikni ve kamp gibi aktiviteleri deneyimleyebilirsiniz.
+Emre Gölü, Afyonkarahisar'da bulunan bir doğa cenneti. Sabah erken gitmenizi öneririm, hem kalabalıktan kurtulursunuz hem de güneşin doğuşunu izleyebilirsiniz. Gölü ziyaret etmek için en iyi mevsim ilkbahar ve yaz aylarıdır, çünkü hava daha sıcak ve güneşli olur. Yanınıza mutlaka su ve atıştırmalık alın çünkü gölün etrafında çok fazla tesis bulunmuyor. En güzel manzara noktası, gölün kuzey kıyısında bulunan tepedir, buradan tüm gölü izleyebilirsiniz. Tekne turu, balıkçılık, kuş gözlemi, pikni ve kamp gibi aktiviteleri deneyimleyebilirsiniz.
 
 ## İlginç Bilgiler
 

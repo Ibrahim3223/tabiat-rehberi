@@ -30,7 +30,7 @@ Bursa-Mustafakemalpaşa-Karacabey Kızılçam 2 milli parkının tarihi geçmiş
 
 ## Coğrafya
 
-Bursa-Mustafakemalpaşa-Karacabey Kızılçam 2 milli parkı, Marmara Bölgesi'nin coğrafi olarak en önemli noktalarından birinde bulunmaktadır. Milli parkın coğrafi yapısı, dağlık ve engebeli arazilerden oluşmaktadır. Bu coğrafi yapı, milli parkın iklimini ve bitki örtüsünü etkilemektedir. Milli parkın iklimi, karasal iklim karakteri taşımakta olup, kışları soğu ve yazları sıcak geçmektedir. Bu iklim şartları, milli parkın bitki örtüsünü ve faunasını etkilemekte olup, ziyaretçilere yılın her mevsiminde farklı bir deneyim sunmaktadır. Milli parkın çevresi, diğer doğal alanlarla bağlantılı olup, bu bağlantı, bölgenin ekolojik dengesini korumaktadır.
+Bursa-Mustafakemalpaşa-Karacabey Kızılçam 2 milli parkı, Marmara Bölgesi'nin coğrafi olarak en önemli noktalarından birinde bulunmaktadır. Milli parkın coğrafi yapısı, dağlık ve engebeli arazilerden oluşmaktadır. Bu coğrafi yapı, milli parkın iklimini ve bitki örtüsünü etkilemektedir. Milli parkın iklimi, karasal iklim karakteri taşımakta olup, kışları soğuk ve yazları sıcak geçmektedir. Bu iklim şartları, milli parkın bitki örtüsünü ve faunasını etkilemekte olup, ziyaretçilere yılın her mevsiminde farklı bir deneyim sunmaktadır. Milli parkın çevresi, diğer doğal alanlarla bağlantılı olup, bu bağlantı, bölgenin ekolojik dengesini korumaktadır.
 
 ## Flora ve Fauna
 

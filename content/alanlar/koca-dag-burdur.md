@@ -43,7 +43,7 @@ Güneybatı Anadolu'nun kalbinde, Burdur'un dağlık coğrafyasında yer alan Ko
 
 Doğal güzelliği ve jeolojik yapısıyla dikkat çeken Koca Dağ, Burdur'un jeolojik haritasında önemli bir yer tutar. Ancak, detalı fiziksel verileri bulunmamasına rağmen, bölgenin genel coğrafi yapısını inceleyerek, Koca Dağ'ın yüksekliğinin Eiffel Kulesi'nin yaklaşık 2/3'ü kadar olabileceğini varsayabiliriz. Bu da, dağlık bölgenin önemli bir yükseklikte olduğunu gösterir.
 
-Mevsimsel değişimler, Koca Dağ'ın iklim karakterini şekillendirir. Kış mevsiminde, bölgenin soğu ve kar yağışlı olması, yaz mevsiminde ise sıca ve kurak bir hava hüküm sürer. Bu iklimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler. Koca Dağ'ın çevresindeki bitki örtüsü, mevsimsel değişimlere göre değişir ve bu da bölgenin ekolojik dengesini sağlar.
+Mevsimsel değişimler, Koca Dağ'ın iklim karakterini şekillendirir. Kış mevsiminde, bölgenin soğuk ve kar yağışlı olması, yaz mevsiminde ise sıcak ve kurak bir hava hüküm sürer. Bu iklimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler. Koca Dağ'ın çevresindeki bitki örtüsü, mevsimsel değişimlere göre değişir ve bu da bölgenin ekolojik dengesini sağlar.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları, Koca Dağ'ın çevresel ilişkilerini belirler. Burdur Gölü'nün kuzeyinde yer alan Koca Dağ, gölün su dengesini etkileyen önemli bir faktördür. Ayrıca, dağlık bölgenin flora ve fauna çeşitliliği, bölgenin ekolojik önemini vurgular. Monaco'nun yarısı kadar büyük olmayan bu bölge, önemli bir ekosistem olarak kabul edilir ve koruma altına alınmıştır.
 

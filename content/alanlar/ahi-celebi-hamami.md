@@ -37,7 +37,7 @@ Ahi Çelebi Hamamı'nın tarihi geçmişi, Edirne'nin tarihi ile iç içe geçmi
 
 ## Coğrafya
 
-Ahi Çelebi Hamamı, Edirne'nin merkezinde yer alır. Bu hamam, Marmara Bölgesi'nin coğrafi özelliklerine sahiptir. Ahi Çelebi Hamamı'nın çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu hamam, Edirne'nin önemli turizm merkezlerinden biridir. Ahi Çelebi Hamamı, yaklaşık 140 hektarlık bir alanda kurulmuştur. Bu alan, Edirne'nin tarihi dokusunu koruma altına almak için önemli bir role sahiptir. Ahi Çelebi Hamamı'nın iklimi, Marmara Bölgesi'nin iklimine benzer. Bu hamam, yaz aylarında sıca ve kurak, kış aylarında ise serin ve yağışlı bir iklimi sahiptir.
+Ahi Çelebi Hamamı, Edirne'nin merkezinde yer alır. Bu hamam, Marmara Bölgesi'nin coğrafi özelliklerine sahiptir. Ahi Çelebi Hamamı'nın çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu hamam, Edirne'nin önemli turizm merkezlerinden biridir. Ahi Çelebi Hamamı, yaklaşık 140 hektarlık bir alanda kurulmuştur. Bu alan, Edirne'nin tarihi dokusunu koruma altına almak için önemli bir role sahiptir. Ahi Çelebi Hamamı'nın iklimi, Marmara Bölgesi'nin iklimine benzer. Bu hamam, yaz aylarında sıcak ve kurak, kış aylarında ise serin ve yağışlı bir iklimi sahiptir.
 
 ## Flora ve Fauna
 

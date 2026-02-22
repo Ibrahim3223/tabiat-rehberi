@@ -44,7 +44,7 @@ Koç Dağı, Van ilinin kuzeydoğu kesiminde, 38.0122° kuzey enlemi ve 44.2739�
 
 Doğal güzellikleri ve coğrafi özellikleri ile dikkat çeken Koç Dağı, yaklaşık 1200 hektarlık bir alanı kaplamaktadır. Bu büyüklük, Taksim Meydanı'nın yaklaşık 200 katı büyüklüğüne karşılık gelmektedir. Dağın fiziksel yapısı, volkani ve sedimenteer kayaçlardan oluşmakta olup, bölgenin jeolojisi Paleozoyi ve Mezozoyik dönemlere kadar uzanmaktadır. Koç Dağı'nın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olup, bu özelliği ile bölgenin en önemli coğrafi oluşumlarından birini oluşturmaktadır.
 
-Bölgenin iklim karakteri, karasal iklim özellikleri göstermektedir. Yaz aylarında sıca ve kurak, kış aylarında soğu ve karlı olan hava durumu, Koç Dağı'nın ekosistemini şekillendirmektedir. Dağın etrafındaki komşu alanlar, genellikle tarım arazileri ve ormanlık alanlardan oluşmaktadır. Van Gölü'ne yakın konumu, bölgenin su kaynakları açısından zengin olmasını sağlamaktadır. Bu nedenle, Koç Dağı ve çevresindeki ekosistem, bölge için önemli bir doğal kayna ve yaşam alanı oluşturmaktadır.
+Bölgenin iklim karakteri, karasal iklim özellikleri göstermektedir. Yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı olan hava durumu, Koç Dağı'nın ekosistemini şekillendirmektedir. Dağın etrafındaki komşu alanlar, genellikle tarım arazileri ve ormanlık alanlardan oluşmaktadır. Van Gölü'ne yakın konumu, bölgenin su kaynakları açısından zengin olmasını sağlamaktadır. Bu nedenle, Koç Dağı ve çevresindeki ekosistem, bölge için önemli bir doğal kayna ve yaşam alanı oluşturmaktadır.
 
 ## Flora ve Fauna
 

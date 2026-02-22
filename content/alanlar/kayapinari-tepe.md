@@ -36,7 +36,7 @@ Kayapınarı Tepe'nin tarihi geçmişi, Van ilinin tarihine paralel olarak şeki
 
 ## Coğrafya
 
-Kayapınarı Tepe, Van ilinin coğrafi zenginliklerini yansıtan bir bölge. Doğu Anadolu Bölgesi'nin karakteristik coğrafi yapısına sahip olan bu tepe, aynı zamanda Van Gölü'nün güzelliğini de gözler önüne sermekte. Tepe, 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Ayrıca, tepeye çıkan ziyaretçiler, Van ilinin ve Van Gölü'nün muhteşem manzarasını da seyredebilmekte. İklim, bölgeye özgü karasal iklim özellikleri göstermekte. Kışlar soğu ve kar yağışlı, yazlar ise sıcak ve kurak geçmekte.
+Kayapınarı Tepe, Van ilinin coğrafi zenginliklerini yansıtan bir bölge. Doğu Anadolu Bölgesi'nin karakteristik coğrafi yapısına sahip olan bu tepe, aynı zamanda Van Gölü'nün güzelliğini de gözler önüne sermekte. Tepe, 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Ayrıca, tepeye çıkan ziyaretçiler, Van ilinin ve Van Gölü'nün muhteşem manzarasını da seyredebilmekte. İklim, bölgeye özgü karasal iklim özellikleri göstermekte. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçmekte.
 
 ## Flora ve Fauna
 

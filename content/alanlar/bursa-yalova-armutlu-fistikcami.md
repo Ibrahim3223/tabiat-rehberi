@@ -30,7 +30,7 @@ Bursa-Yalova-Armutlu-Fıstıkcamı'nın tarihi geçmişi, yüzyıllar öncesine 
 
 ## Coğrafya
 
-Bursa-Yalova-Armutlu-Fıstıkcamı, Marmara Bölgesi'nin coğrafi yapısı içinde önemli bir yere sahiptir. Bu bölge, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır. Coğrafi konumu itibariyle, Akdeniz iklimi ve Karadeniz iklimi arasında bir geçiş bölgesinde bulunur. Bu durum, bölgenin flora ve fauna çeşitliliğini arttırır. Ormanlık alanlar, dağlar ve vadiler, bu bölgenin coğrafi yapısını oluşturur. Bursa-Yalova-Armutlu-Fıstıkcamı, coğrafi güzellikleri ile ziyaretçilerini etkiliyor.
+Bursa-Yalova-Armutlu-Fıstıkcamı, Marmara Bölgesi'nin coğrafi yapısı içinde önemli bir yere sahiptir. Bu bölge, yüksek bir konumda yer alır. Coğrafi konumu itibariyle, Akdeniz iklimi ve Karadeniz iklimi arasında bir geçiş bölgesinde bulunur. Bu durum, bölgenin flora ve fauna çeşitliliğini arttırır. Ormanlık alanlar, dağlar ve vadiler, bu bölgenin coğrafi yapısını oluşturur. Bursa-Yalova-Armutlu-Fıstıkcamı, coğrafi güzellikleri ile ziyaretçilerini etkiliyor.
 
 ## Flora ve Fauna
 

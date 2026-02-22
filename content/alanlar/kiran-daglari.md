@@ -42,7 +42,7 @@ Güneybatı Anadolu'nun en güzel köşelerinden biri olan İzmir'in dağlık b�
 
 Doğal güzelliği ve coğrafi yapısı ile dikkat çeken Kıran Dağları, yükse ve alçak alanların birleştiği bir bölge olarak tanımlanabilir. Dağların yüksekliklerine bakıldığında, Eiffel Kulesi'nin 2 katı yükseklikte zirveler görülebilir. Bu dağlık alan, Taksim Meydanı'nın 5 katı büyüklüğünde bir alanı kaplar ve bu yönüyle İzmir'in önemli bir doğal alanı olarak dikkat çeker.
 
-Mevsimsel değişikliklere göre iklim karakteri değişen Kıran Dağları, yaz aylarında sıca ve kurak, kış aylarında ise ılıman bir iklim gösterir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve birçok farklı türün yaşamalarına olanak sağlar. Hava durumu ise, genel olarak İzmir'in iklimine benzerlik gösterir ve bölgenin iklim karakterini belirler.
+Mevsimsel değişikliklere göre iklim karakteri değişen Kıran Dağları, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman bir iklim gösterir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve birçok farklı türün yaşamalarına olanak sağlar. Hava durumu ise, genel olarak İzmir'in iklimine benzerlik gösterir ve bölgenin iklim karakterini belirler.
 
 Çevresel olarak bakıldığında, Kıran Dağları, komşu alanlar ve su kaynakları ile bağlantılı bir ekosistem oluşturur. Yakınlardaki su kaynakları, bölgenin flora ve fauna çeşitliliğini destekler ve doğal dengenin korunmasına katkı sağlar. Bu dağlık alan, aynı zamanda İzmir'in doğal güzelliklerini korumak için önemli bir role sahiptir ve ekosistem bağlantıları ile bölgenin doğal dengesini korur.
 

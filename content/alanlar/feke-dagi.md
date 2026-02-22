@@ -45,7 +45,7 @@ Güneydoğu Anadolu Bölgesi'nin kuzeybatı ucunda yer alan Kayseri ilinin Feke 
 
 Jeolojik açıdan bakıldığında, Feke Dağı'nın oluşumu milyon yıllar önce gerçekleşmiştir. Ancak, bu dağ hakkında detaylı fiziksel veri bulunmaması, onun gizemini korur. Feke Dağı, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplar ve bu yönüyle bölgenin önemli coğrafi oluşumlarından biridir. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 1.5 katı yükseklikte olabilir, ancak kesin yükseklik bilgisi olmadan bu sadece bir tahmindir.
 
-Mevsimsel değişikliklere bakıldığında, Feke Dağı ve çevresinin iklimi, karasal iklim karakteri gösterir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hüküm sürer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve Feke Dağı'nın ekosistemini şekillendirir.
+Mevsimsel değişikliklere bakıldığında, Feke Dağı ve çevresinin iklimi, karasal iklim karakteri gösterir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hüküm sürer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve Feke Dağı'nın ekosistemini şekillendirir.
 
 Çevresel açıdan, Feke Dağı, komşu alanlar ve su kaynakları ile önemli bir ilişkiye sahiptir. Dağın eteklerinde ve çevresinde yer alan köyler, tarımsal faaliyetler ve su kaynakları, bölgenin ekosistem bağlantılarını oluşturur. Feke Dağı, Monaco'nun yaklaşık onda biri büyüklüğünde bir alanı kaplar ve bu yönüyle bölgenin önemli bir parçasıdır. Dağın çevresindeki su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılar ve Feke Dağı'nın çevresel ilişkileri, bölgenin doğal dengesini korur.
 

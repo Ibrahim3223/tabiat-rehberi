@@ -36,7 +36,7 @@ Tori Tepesi'nin tarihi geçmişi hakkındalı bilgiler bulunmamaktadır. Ancak, 
 
 ## Coğrafya
 
-Tori Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısı içerisinde önemli bir yer tutar. Bölgenin jeolojik özellikleri, tepenin oluşumunu etkileyen önemli faktörlerdir. Tepenin yüksekliği ve çevresindeki manzara, ziyaretçilerini cezbeden önemli unsurlardır. Tori Tepesi, yaklaşık 140 hektarlık alanı kaplayan bir tepe olarak dikkat çeker ve yaklaşık 200 futbol sahası büyüklüğünde olan bir alan olarak değerlendirilebilir. Tepenin coğrafi yapısı, bölgenin iklim koşullarını da etkiler. Bölgenin iklimi, genellikle sıca ve kurak geçer ve bu, tepenin flora ve faunasını etkileyen önemli bir faktördür. Tori Tepesi, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgenin önemli bir doğal güzelliği olarak kabul edilir.
+Tori Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısı içerisinde önemli bir yer tutar. Bölgenin jeolojik özellikleri, tepenin oluşumunu etkileyen önemli faktörlerdir. Tepenin yüksekliği ve çevresindeki manzara, ziyaretçilerini cezbeden önemli unsurlardır. Tori Tepesi, yaklaşık 140 hektarlık alanı kaplayan bir tepe olarak dikkat çeker ve yaklaşık 200 futbol sahası büyüklüğünde olan bir alan olarak değerlendirilebilir. Tepenin coğrafi yapısı, bölgenin iklim koşullarını da etkiler. Bölgenin iklimi, genellikle sıcak ve kurak geçer ve bu, tepenin flora ve faunasını etkileyen önemli bir faktördür. Tori Tepesi, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgenin önemli bir doğal güzelliği olarak kabul edilir.
 
 ## Flora ve Fauna
 

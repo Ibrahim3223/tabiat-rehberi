@@ -30,7 +30,7 @@ Dipsiz Lagünü Sulak Alanı'nın tarihi geçmişi, yüzyıllar boyunca şekille
 
 ## Coğrafya
 
-Dipsiz Lagünü Sulak Alanı, İç Anadolu Bölgesi'nde yer alıyor. Bu sulak alan, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Dipsiz Lagünü Sulak Alanı, çevresindeki doğal güzelliği ile dikkat çekiyor. Bu alan, doğu-batı yönünde uzanan bir vadide yer alıyor. Dipsiz Lagünü Sulak Alanı'nın iklimi, karasal iklim özellikleri gösteriyor. Bu sulak alan, yazları sıca ve kurak, kışları soğu ve karlı bir iklimi experiencing. Dipsiz Lagünü Sulak Alanı, flora ve faunayı barındıran bir alan olarak tanımlanıyor. Bu sulak alan, çeşitlilik gösteren flora ve faunayı barındırıyor. Dipsiz Lagünü Sulak Alanı, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor.
+Dipsiz Lagünü Sulak Alanı, İç Anadolu Bölgesi'nde yer alıyor. Bu sulak alan, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Dipsiz Lagünü Sulak Alanı, çevresindeki doğal güzelliği ile dikkat çekiyor. Bu alan, doğu-batı yönünde uzanan bir vadide yer alıyor. Dipsiz Lagünü Sulak Alanı'nın iklimi, karasal iklim özellikleri gösteriyor. Bu sulak alan, yazları sıcak ve kurak, kışları soğuk ve karlı bir iklimi experiencing. Dipsiz Lagünü Sulak Alanı, flora ve faunayı barındıran bir alan olarak tanımlanıyor. Bu sulak alan, çeşitlilik gösteren flora ve faunayı barındırıyor. Dipsiz Lagünü Sulak Alanı, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor.
 
 ## Flora ve Fauna
 

@@ -41,7 +41,7 @@ Antalya Aquarium, Antalya'nın merkezinde yer alıyor ve Akdeniz'in kıyısında
 
 ## Flora ve Fauna
 
-Antalya Aquarium, zengin bir flora ve fauna çeşitliliğine sahip. Bu bölge, çeşitli bitki türleri ve hayvanlarla dolu. Antalya Aquarium'un florası, Akdeniz ikliminin característicasını taşıyor ve ziyaretçilerine güzel manzaralar sunuyor. Bu bölgenin faunası, çeşitli deniz canlıları ve kuş türleriyle dolu. Antalya Aquarium, aynı zamanda çeşitli mevsimsel değişimlere de ev sahipliği yapıyor. Bu bölge, ilkbahar ve yaz aylarında sıca ve güneşli bir iklimle ziyaretçilerini karşılarken, sonbahar ve kış aylarında daha serin bir hava sunuyor.
+Antalya Aquarium, zengin bir flora ve fauna çeşitliliğine sahip. Bu bölge, çeşitli bitki türleri ve hayvanlarla dolu. Antalya Aquarium'un florası, Akdeniz ikliminin característicasını taşıyor ve ziyaretçilerine güzel manzaralar sunuyor. Bu bölgenin faunası, çeşitli deniz canlıları ve kuş türleriyle dolu. Antalya Aquarium, aynı zamanda çeşitli mevsimsel değişimlere de ev sahipliği yapıyor. Bu bölge, ilkbahar ve yaz aylarında sıcak ve güneşli bir iklimle ziyaretçilerini karşılarken, sonbahar ve kış aylarında daha serin bir hava sunuyor.
 
 ## Ziyaret Bilgileri
 

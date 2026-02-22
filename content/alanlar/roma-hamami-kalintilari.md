@@ -38,7 +38,7 @@ Roma Hamamı Kalıntıları, tarihi geçmişiyle dikkat çekmekte ve ziyaretçil
 
 ## Coğrafya
 
-Roma Hamamı Kalıntıları, İzmir'in Urla ilçesinde yer almakta ve Ege Bölgesi'nin coğrafi yapısını yansıtmaktadır. Bu bölge, genellikle sıca ve kurak bir iklime sahip olup, yaz aylarında yüksek sıcaklık değerlerine ulaşabilmektedir. Roma Hamamı Kalıntıları, denize yakın bir konumda yer almakta ve bu nedenle, ziyaretçiler için serin ve ferah bir atmosfer sunmaktadır. Coğrafi olarak, Roma Hamamı Kalıntıları, çeşitli bitki türleri ve fauna ile çevrili olup, ziyaretçiler için doğal bir ortam sunmaktadır. Bu coğrafi yapı, Roma Hamamı Kalıntıları'nın güzelliğini ve çekiciliğini artırmaktadır.
+Roma Hamamı Kalıntıları, İzmir'in Urla ilçesinde yer almakta ve Ege Bölgesi'nin coğrafi yapısını yansıtmaktadır. Bu bölge, genellikle sıcak ve kurak bir iklime sahip olup, yaz aylarında yüksek sıcaklık değerlerine ulaşabilmektedir. Roma Hamamı Kalıntıları, denize yakın bir konumda yer almakta ve bu nedenle, ziyaretçiler için serin ve ferah bir atmosfer sunmaktadır. Coğrafi olarak, Roma Hamamı Kalıntıları, çeşitli bitki türleri ve fauna ile çevrili olup, ziyaretçiler için doğal bir ortam sunmaktadır. Bu coğrafi yapı, Roma Hamamı Kalıntıları'nın güzelliğini ve çekiciliğini artırmaktadır.
 
 ## Flora ve Fauna
 
@@ -53,5 +53,5 @@ Roma Hamamı Kalıntıları, ziyaretçiler için kolay ulaşılabilir bir konumd
 - Roma Hamamı Kalıntıları, Ege Bölgesi'nin en önemli tarihi mekanlarından biridir.
 - Bu tarihi mekan, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşımaktadır.
 - Roma Hamamı Kalıntıları, Urla'nın tarihi ve kültürel zenginliğine önemli katkılar sağlamaktadır.
-- Bu bölge, genellikle sıca ve kurak bir iklime sahip olup, yaz aylarında yüksek sıcaklık değerlerine ulaşabilmektedir.
+- Bu bölge, genellikle sıcak ve kurak bir iklime sahip olup, yaz aylarında yüksek sıcaklık değerlerine ulaşabilmektedir.
 - Roma Hamamı Kalıntıları, denize yakın bir konumda yer almakta ve bu nedenle, ziyaretçiler için serin ve ferah bir atmosfer sunmaktadır.

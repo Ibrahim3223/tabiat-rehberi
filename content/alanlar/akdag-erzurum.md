@@ -45,7 +45,7 @@ Doğu Anadolu Bölgesi'nin doğal güzelliklerine ev sahipliği yapan Erzurum'un
 
 Jeolojik açıdan bakıldığında, Akdağ'ın fiziksel yapısı hakkında detaylı bilgi olmasa da, bu bölgenin coğrafyası genellikle volkani ve sedimentli kayaçlardan oluşuyor. Dağın yüksekliği ve şekli, bölgenin jeolojik geçmişini yansıtıyor. Örneğin, Eiffel Kulesi'nin yaklaşık 5 katı yükseklikte olan bazı zirveler, bu bölgenin coğrafi çeşitliliğini gösteriyor.
 
-İklim açısından, Akdağ'ın bulunduğu bölge karasal iklim özellikleri gösteriyor. Kışlar soğu ve kar yağışlı, yazlar ise serin ve yağışlı geçiyor. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Örneğin, yaz aylarında sıcaklık 20 derecenin üzerine çıkarken, kış aylarında -20 derecelere kadar düşebiliyor.
+İklim açısından, Akdağ'ın bulunduğu bölge karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise serin ve yağışlı geçiyor. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Örneğin, yaz aylarında sıcaklık 20 derecenin üzerine çıkarken, kış aylarında -20 derecelere kadar düşebiliyor.
 
 Çevresel açıdan, Akdağ'ın bulunduğu bölge, çeşitli su kaynakları ve ekosistemlerle bağlantılı. Dağın eteklerinde ve yakınında, birkaç küçük akarsu ve göl bulunuyor. Bu su kaynakları, bölgenin ekosistemini destekleyen önemli bir bileşen. Örneğin, Monaco'nun yarısı kadar büyük olan bu bölgenin doğal güzellikleri, turizm ve doğa severler için önemli bir çekim merkezi oluşturuyor.
 

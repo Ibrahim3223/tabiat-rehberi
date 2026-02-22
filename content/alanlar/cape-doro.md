@@ -45,7 +45,7 @@ Gözlerimizi Ege Denizi'ne doğru çevirerek, 40.2401°K ve 25.9454°D koordinat
 
 Doğal bir havza gibi görünen Cape Doro, jeolojik olarak ilginç bir yapıya sahiptir. Ancak, detaylı fiziksel veri bulunmaması nedeniyle, bu bölgenin tam olarak nasıl bir jeolojik yapıya sahip olduğu hakkında net bir bilgi veremeyiz. Buna rağmen, Cape Doro'nun bir bütün olarak düşünüldüğünde, Monaco'nun küçük bir bölümü kadar bir alanı kapladığı söylenebilir.
 
-İklim açısından bakıldığında, Cape Doro'nun bulunduğu bölge, Akdeniz ikliminin karakteristik özelliklerini taşır. Mevsimsel olarak, sıca ve kuru yazlar ile ılık ve yağışlı kışlar arasında bir değişim gözlenir. Bu iklim, bölgenin flora ve fauna çeşitliliğini etkiler ve Cape Doro, bu özel koşullar altında gelişen ekosistemin önemli bir parçası haline gelir.
+İklim açısından bakıldığında, Cape Doro'nun bulunduğu bölge, Akdeniz ikliminin karakteristik özelliklerini taşır. Mevsimsel olarak, sıcak ve kuru yazlar ile ılık ve yağışlı kışlar arasında bir değişim gözlenir. Bu iklim, bölgenin flora ve fauna çeşitliliğini etkiler ve Cape Doro, bu özel koşullar altında gelişen ekosistemin önemli bir parçası haline gelir.
 
 Cape Doro'nun çevresel ilişkileri, komşu alanlar ve su kaynakları ile ilgilidir. Bu bölge, Ege Denizi'ne yakınlığı nedeniyle, su kaynakları açısından zengin bir konumdadır. Ayrıca, Cape Doro'nun ekosistem bağlantıları, bölgedeki diğer doğal alanlar ile etkileşimi sağlar ve bu, bölgenin biyolojik çeşitliliğini koruma açısından önemlidir.
 

@@ -30,7 +30,7 @@ Mersin-Anamur-Sariyayla Kızılçam milli parkının tarihi geçmişi, yüzyıll
 
 ## Coğrafya
 
-Mersin-Anamur-Sariyayla Kızılçam milli parkı, coğrafi konumu itibariyle çok zengin bir bölgedir. Milli park, Mersin'in Anamur ilçesinde yer alıyor ve Sariyayla mevkii ile çevrili. Bu bölgenin coğrafi yapısı, ziyaretçilere çeşitli doğal güzellikler sunuyor. Milli parkın iklimi, Akdeniz iklimi özellikleri gösteriyor. Yaz ayları sıca ve kurak, kış ayları ılık ve yağışlı geçiyor. Bu iklim özellikleri, milli parkın flora ve faunasını etkiliyor. Milli parkın flora ve faunası, ziyaretçilere çeşitli doğal güzellikler sunuyor. Kızılçam ağaçlarının hakim olduğu ormanlar, ziyaretçilere huzur verici bir atmosfer sunuyor.
+Mersin-Anamur-Sariyayla Kızılçam milli parkı, coğrafi konumu itibariyle çok zengin bir bölgedir. Milli park, Mersin'in Anamur ilçesinde yer alıyor ve Sariyayla mevkii ile çevrili. Bu bölgenin coğrafi yapısı, ziyaretçilere çeşitli doğal güzellikler sunuyor. Milli parkın iklimi, Akdeniz iklimi özellikleri gösteriyor. Yaz ayları sıcak ve kurak, kış ayları ılık ve yağışlı geçiyor. Bu iklim özellikleri, milli parkın flora ve faunasını etkiliyor. Milli parkın flora ve faunası, ziyaretçilere çeşitli doğal güzellikler sunuyor. Kızılçam ağaçlarının hakim olduğu ormanlar, ziyaretçilere huzur verici bir atmosfer sunuyor.
 
 ## Flora ve Fauna
 

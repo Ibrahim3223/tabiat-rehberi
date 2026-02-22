@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin en güzel köşelerinden biri olan Kilis'te yer
 
 Doğal güzellikleri ve coğrafi yapısı ile Haçlar Tepe, bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu küçük ama önemli alan, Kilis'in çevresindeki geniş ovalardan sonra yükselen bir tepe olarak dikkati çekiyor. Jeolojik açıdan bakıldığında, tepe ve çevresindeki arazi, Amanos Dağları'nın oluşumuna benzer bir şekilde, kireçtaşı ve şist gibi kayalardan oluşuyor.
 
-İklim karakteri açısından, Haçlar Tepe ve çevresindeki bölge, Akdeniz ikliminin etkisi altında bulunuyor. Bu bölgede yazlar sıca ve kurak, kışlar ise ılıman ve yağışlı geçiyor. Yıllık yağış miktarı yaklaşık 600-800 mm arasında değişiyor. Bu mevsimsel özellikler, tepe ve çevresindeki arazinin bitki örtüsünü ve ekosistemini şekillendiriyor.
+İklim karakteri açısından, Haçlar Tepe ve çevresindeki bölge, Akdeniz ikliminin etkisi altında bulunuyor. Bu bölgede yazlar sıcak ve kurak, kışlar ise ılıman ve yağışlı geçiyor. Yıllık yağış miktarı yaklaşık 600-800 mm arasında değişiyor. Bu mevsimsel özellikler, tepe ve çevresindeki arazinin bitki örtüsünü ve ekosistemini şekillendiriyor.
 
 Çevresel ilişkiler açısından, Haçlar Tepe, Amanos Dağları'nın bir parçası olarak, bölgenin ekosistemine önemli katkılar sağlıyor. Tepe, Kilis Nehri'nin bir kolu olan Göktepe Çayı'na yakın bir konumda bulunuyor. Bu su kaynağı, tepe ve çevresindeki arazinin sulanması için önemli bir rol oynuyor. Ayrıca, tepe ve çevresindeki arazi, bölgenin flora ve fauna çeşitliliği açısından da önemli bir konumda bulunuyor.
 

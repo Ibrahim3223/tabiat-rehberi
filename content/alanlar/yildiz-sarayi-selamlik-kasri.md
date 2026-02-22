@@ -37,7 +37,7 @@ Yıldız Sarayı Selamlık Kasrı, Osmanlı İmparatorluğu döneminde inşa edi
 
 ## Coğrafya
 
-Yıldız Sarayı Selamlık Kasrı, Marmara Bölgesi'nde, İstanbul'un Beşiktaş ilçesinde yer alır. Bu bölge, İstanbul Boğazı'nın Avrupa yakasında, Boğaz'ın kuzeyinde bulunmaktadır. Yıldız Sarayı, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Bu alan, İstanbul'un şehir merkezine yakın olup, aynı zamanda doğal güzellikleri de barındıran bir bölge olarak bilinir. Yıldız Sarayı Selamlık Kasrı, İstanbul'un önemli bir turizm merkezi olarak ziyaretçilerini çekmektedir. Kasır, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır ve çevresi ormanlık alanlarla kaplıdır. Bu nedenle, Yıldız Sarayı Selamlık Kasrı, hem tarihi hem de doğal güzellikleri bir arada sunan bir mekan olarak ziyaretçilerini bekliyor.
+Yıldız Sarayı Selamlık Kasrı, Marmara Bölgesi'nde, İstanbul'un Beşiktaş ilçesinde yer alır. Bu bölge, İstanbul Boğazı'nın Avrupa yakasında, Boğaz'ın kuzeyinde bulunmaktadır. Yıldız Sarayı, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Bu alan, İstanbul'un şehir merkezine yakın olup, aynı zamanda doğal güzellikleri de barındıran bir bölge olarak bilinir. Yıldız Sarayı Selamlık Kasrı, İstanbul'un önemli bir turizm merkezi olarak ziyaretçilerini çekmektedir. Kasır, yüksek bir konumda yer alır ve çevresi ormanlık alanlarla kaplıdır. Bu nedenle, Yıldız Sarayı Selamlık Kasrı, hem tarihi hem de doğal güzellikleri bir arada sunan bir mekan olarak ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ Yıldız Sarayı Selamlık Kasrı, yıl boyunca ziyaretçilerini ağırlamaktad�
 - Yıldız Sarayı Selamlık Kasrı, Osmanlı İmparatorluğu'nun son döneminde inşa edilen son büyük saraydır.
 - Yıldız Sarayı, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur.
 - Yıldız Sarayı Selamlık Kasrı, İstanbul'un önemli bir turizm merkezi olarak ziyaretçilerini çekmektedir.
-- Yıldız Sarayı, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır ve çevresi ormanlık alanlarla kaplıdır.
+- Yıldız Sarayı, yüksek bir konumda yer alır ve çevresi ormanlık alanlarla kaplıdır.
 - Yıldız Sarayı Selamlık Kasrı, doğa severler için bir cennet olarak ziyaretçilerini bekliyor.

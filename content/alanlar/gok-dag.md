@@ -45,7 +45,7 @@ Doğunun gizli hazinelerinden biri olan Gök Dağ, Van ilinin dağlık coğrafya
 
 Jeolojik açıdan bakıldığında, Gök Dağ'ın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel jeolojik özellikleri dikkate alındığında, bu dağların volkanik kökenli olduğu söylenebilir. Tuf ve kayaçlardan oluşan dağların yükseklikleri, Eiffel Kulesi'nin birkaç katı yükseklikte gibi görünse de, tam rakam bilinmemektedir. Ancak, bölgenin coğrafi yapısı, Gök Dağ'ın bir tepe veya dağ olarak sınıflandırılabileceğini göstermektedir.
 
-Mevsimsel olarak, Gök Dağ çevredeki bölgenin iklimi, karasal iklim özellikleri taşır. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bu iklim özellikleri, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Gök Dağ'ın yüksekliği ve coğrafi konumu, bölgedeki hava koşullarını etkileyen önemli faktörlerden biridir.
+Mevsimsel olarak, Gök Dağ çevredeki bölgenin iklimi, karasal iklim özellikleri taşır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu iklim özellikleri, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Gök Dağ'ın yüksekliği ve coğrafi konumu, bölgedeki hava koşullarını etkileyen önemli faktörlerden biridir.
 
 Çevresel açıdan, Gök Dağ Van Gölü ve çevredeki dağlarla birlikte, bir ekosistem olarak işlev görmektedir. Bu bölgede, çeşitli bitki ve hayvan türleri yaşamaktadır. Gök Dağ, Monaco'nun küçük bir bölümü kadar bir alanı kaplasa da, çevresindeki doğal güzelliklerle birlikte, önemli bir ekolojik bölge olarak değerlendirilebilir.
 

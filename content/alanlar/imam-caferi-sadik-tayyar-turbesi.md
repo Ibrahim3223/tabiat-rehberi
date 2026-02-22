@@ -37,7 +37,7 @@ wikidata_id: "Q131391538"
 
 ## Coğrafya
 
-İmam Caferi Sadık Tayyar Türbesi, İzmir'in Konak ilçesinde, Ege Bölgesi'nin kalbinde bulunuyor. Türbe, 140 hektarlık bir alan üzerinde kurulmuş ve çevresi yeşilliklerle kaplı. Deniz manzarası sunan bu mekan, ziyaretçilerine huzurlu bir ortam sunuyor. İklim olarak, Ege Bölgesi'nin ılıman iklimine sahip olan bu bölge, yaz aylarında sıca ve kurak, kış aylarında ılık ve yağışlı bir hava koşuluna sahip. Çevresinde bulunan dağlar ve ovalar, İmam Caferi Sadık Tayyar Türbesi'ni doğal bir güzelliğe sahip bir mekan haline getiriyor. Türbenin bulunduğu Konak ilçesi, İzmir'in en önemli turizm merkezlerinden biri olarak biliniyor ve birçok tarihi ve doğal güzelliğe ev sahipliği yapıyor.
+İmam Caferi Sadık Tayyar Türbesi, İzmir'in Konak ilçesinde, Ege Bölgesi'nin kalbinde bulunuyor. Türbe, 140 hektarlık bir alan üzerinde kurulmuş ve çevresi yeşilliklerle kaplı. Deniz manzarası sunan bu mekan, ziyaretçilerine huzurlu bir ortam sunuyor. İklim olarak, Ege Bölgesi'nin ılıman iklimine sahip olan bu bölge, yaz aylarında sıcak ve kurak, kış aylarında ılık ve yağışlı bir hava koşuluna sahip. Çevresinde bulunan dağlar ve ovalar, İmam Caferi Sadık Tayyar Türbesi'ni doğal bir güzelliğe sahip bir mekan haline getiriyor. Türbenin bulunduğu Konak ilçesi, İzmir'in en önemli turizm merkezlerinden biri olarak biliniyor ve birçok tarihi ve doğal güzelliğe ev sahipliği yapıyor.
 
 ## Flora ve Fauna
 

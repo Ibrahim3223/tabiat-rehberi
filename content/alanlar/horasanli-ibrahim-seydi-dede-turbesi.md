@@ -37,7 +37,7 @@ Horasanlı İbrahim Seydi Dede Türbesi, yüzyıllar boyunca önemli bir dini me
 
 ## Coğrafya
 
-Horasanlı İbrahim Seydi Dede Türbesi, Manisa'nın Şehzadeler ilçesinde bulunuyor. Bu bölgede, Ege Bölgesi'nin karakteristik coğrafi özellikleri görülüyor. Türbenin bulunduğu alan, yeşilli ve doğal güzelliklerle çevrili. Bölgenin iklimi, tipik Akdeniz iklimi özellikleri taşıyor; yazları sıca ve kurak, kışları ılıman ve yağışlı passing. Bu iklim, bölgenin flora ve faunasını etkileyerek, zengin bir doğal çeşitlilik oluşmasını sağlıyor. Türbenin yakınında, ziyaretçilerin dinlenebileceği ve doğayı keşfedebileceği alanlar mevcut. Horasanlı İbrahim Seydi Dede Türbesi, doğal güzelliği ve coğrafi konumu ile dikkat çekiyor. Bu coğrafi özellikler, ziyaretçilere hem dinlenme hem de keşif fırsatları sunuyor.
+Horasanlı İbrahim Seydi Dede Türbesi, Manisa'nın Şehzadeler ilçesinde bulunuyor. Bu bölgede, Ege Bölgesi'nin karakteristik coğrafi özellikleri görülüyor. Türbenin bulunduğu alan, yeşilli ve doğal güzelliklerle çevrili. Bölgenin iklimi, tipik Akdeniz iklimi özellikleri taşıyor; yazları sıcak ve kurak, kışları ılıman ve yağışlı passing. Bu iklim, bölgenin flora ve faunasını etkileyerek, zengin bir doğal çeşitlilik oluşmasını sağlıyor. Türbenin yakınında, ziyaretçilerin dinlenebileceği ve doğayı keşfedebileceği alanlar mevcut. Horasanlı İbrahim Seydi Dede Türbesi, doğal güzelliği ve coğrafi konumu ile dikkat çekiyor. Bu coğrafi özellikler, ziyaretçilere hem dinlenme hem de keşif fırsatları sunuyor.
 
 ## Flora ve Fauna
 

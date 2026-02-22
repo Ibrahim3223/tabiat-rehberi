@@ -42,7 +42,7 @@ Mersin'in doğal güzellikleri arasında yer alan Kaşkapı Dağı, 36.8558°K, 
 
 Doğal bir oluşum olan Kaşkapı Dağı, Mersin'in dağlık yapısının bir parçasını oluşturur. Ancak, ayrıntılı fiziksel veriler bulunmamasına rağmen, bu dağların genel olarak Akdeniz Bölgesi'nin coğrafyasına uygun bir yapıda olduğu söylenebilir. Bu bölge, genellikle dağlık ve engebeli arazilerle karakterizedir.
 
-İklim açısından bakıldığında, Kaşkapı Dağı'nın bulunduğu bölge, tipik Akdeniz ikliminin özelliklerini taşır. Yaz aylarında sıca ve kuru, kış aylarında ise ılık ve yağışlı bir hava hüküm sürer. Bu mevsimsel değişimler, bölgenin flora ve fauna açısından zengin bir çeşitliliğe sahip olmasını sağlar.
+İklim açısından bakıldığında, Kaşkapı Dağı'nın bulunduğu bölge, tipik Akdeniz ikliminin özelliklerini taşır. Yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı bir hava hüküm sürer. Bu mevsimsel değişimler, bölgenin flora ve fauna açısından zengin bir çeşitliliğe sahip olmasını sağlar.
 
 Ekosistem bağlantıları açısından, Kaşkapı Dağı ve çevresi, Mersin'in doğal yaşamının önemli bir parçasını oluşturur. Bu bölge, çeşitli bitki ve hayvan türleri için bir yaşam alanı sunar ve su kaynaklarının korunması açısından da önemlidir. Ancak, dahalı bilgiler için, bölgenin coğrafyası ve ekosistemi hakkında daha fazla araştırma yapılması gerekmektedir.
 

@@ -44,7 +44,7 @@ Doğunun gizli köşelerinden biri olan Erhacı Gölü, 39.9000°K enlem ve 44.1
 
 Jeolojik açıdan bakıldığında, Erhacı Gölü'nün coğrafyası oldukça ilginç. Gölün büyüklüğü, birkaç olimpik havuz kadar bir alanı kaplıyor. Bu küçük ama şirin göl, çevresi ile birlikte bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Gölün fiziksel yapısı, çevredeki coğrafi oluşumlarla birlikte, bir bütün olarak değerlendirildiğinde, oldukça zengin bir doğal mirasa sahip olduğu görülüyor.
 
-Mevsimsel olarak, Erhacı Gölü'nün iklimi, bölgenin genel iklim karakterine uygun olarak değişkenlik gösteriyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava hakim. Bu iklim karakteri, göle ve çevresine özgü bir ekosistem oluşmasına neden oluyor. Hava durumunun değişkenliği, göle ve çevresindeki canlılara, adaptasyon yeteneği kazandırıyor.
+Mevsimsel olarak, Erhacı Gölü'nün iklimi, bölgenin genel iklim karakterine uygun olarak değişkenlik gösteriyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakim. Bu iklim karakteri, göle ve çevresine özgü bir ekosistem oluşmasına neden oluyor. Hava durumunun değişkenliği, göle ve çevresindeki canlılara, adaptasyon yeteneği kazandırıyor.
 
 Çevresel açıdan bakıldığında, Erhacı Gölü, komşu alanlarla birlikte bir bütün olarak değerlendiriliyor. Göl, su kaynakları ve ekosistem bağlantıları ile önemli bir role sahip. Çevresindeki doğal güzellikler, gölle birlikte bir bütün olarak düşünüldüğünde, Monaco'nun yarısı kadar bir alanı kaplayan bir doğal cennet ortaya çıkıyor. Bu bölge, doğa severler ve macera arayanlar için, Eiffel Kulesi'nin birkaç katı yükseklikte dağlarla çevrili, kendine özgü bir destinasyon sunuyor.
 

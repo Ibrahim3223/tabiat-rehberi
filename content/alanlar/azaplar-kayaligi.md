@@ -43,7 +43,7 @@ Güneşin battığı saatlerde, İzmir'in kıyı şeridini süsleyen Azaplar Kay
 
 Jeolojik açıdan bakıldığında, Azaplar Kayalığı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, genel olarak Ege Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, genellikle volkani ve sediment kayaçlardan oluşuyor. Azaplar Kayalığı'nın boyutları, Taksim Meydanı'nın birkaç katı büyüklüğünde olabilir, ancak tam olarak bilinmemesi, bu ada hakkında gizemli bir hava yaratıyor.
 
-Mevsimsel olarak, Azaplar Kayalığı'nın iklimi, Ege Bölgesi'nin ılıman ikliminin etkilerini gösteriyor. Kış aylarında ılık, yaz aylarında ise sıca ve güneşli bir hava hakim. Bu iklim, ada etrafındaki su kaynaklarını ve ekosistemi etkiliyor. Azaplar Kayalığı, Ege Denizi'nin sularına doğru uzanıyor ve bu su kaynaklarıyla bağlantılı bir ekosisteme sahip.
+Mevsimsel olarak, Azaplar Kayalığı'nın iklimi, Ege Bölgesi'nin ılıman ikliminin etkilerini gösteriyor. Kış aylarında ılık, yaz aylarında ise sıcak ve güneşli bir hava hakim. Bu iklim, ada etrafındaki su kaynaklarını ve ekosistemi etkiliyor. Azaplar Kayalığı, Ege Denizi'nin sularına doğru uzanıyor ve bu su kaynaklarıyla bağlantılı bir ekosisteme sahip.
 
 Doğal güzelliği ve coğrafi konumuyla, Azaplar Kayalığı, Monaco'nun küçük bir bölümü kadar bir alanı kaplıyor. Çevresel açıdan, komşu alanlar ve su kaynakları, bu ada için önemli bir rol oynuyor. Azaplar Kayalığı, İzmir'in kıyı şeridi boyunca uzanan diğer adalar ve kayalıklarla birlikte, bir bütün olarak düşünülüyor ve bu bölge, zengin bir deniz ekosistemine ev sahipliği yapıyor.
 

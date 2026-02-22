@@ -36,7 +36,7 @@ Sinidağı Tepesi, tarihi geçmişi ile dikkat çekiyor. Yüzyıllar boyunca, bu
 
 ## Coğrafya
 
-Sinidağı Tepesi, Şırnak ilinin coğrafi yapısı ile uyumlu bir şekilde, dağlık bir arazi üzerine kurulmuş. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sunuyor ve etraftaki dağları, ovaları ve nehirleri seyretme imkanı tanıyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğanın güzelliğini sunuyor. İklim, bölgenin coğrafi yapısına uygun olarak, yazları sıca ve khô, kışları soğu ve yağışlı geçiyor. Bu durum, ziyaretçilere, her mevsim farklı bir deneyim sunuyor.
+Sinidağı Tepesi, Şırnak ilinin coğrafi yapısı ile uyumlu bir şekilde, dağlık bir arazi üzerine kurulmuş. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sunuyor ve etraftaki dağları, ovaları ve nehirleri seyretme imkanı tanıyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğanın güzelliğini sunuyor. İklim, bölgenin coğrafi yapısına uygun olarak, yazları sıcak ve kuru, kışları soğuk ve yağışlı geçiyor. Bu durum, ziyaretçilere, her mevsim farklı bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ Halikarnas Mozolesi, M.Ö. 4. yüzyılda, Büyük İskender'in ölümünden sonr
 
 ## Coğrafya
 
-Halikarnas Mozolesi, Muğla'nın merkezinde, Ege Bölgesi'nin güneşli ve sıcak ikliminin hakim olduğu bir bölgede yer alıyor. Mozolenin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplı ve bu doğal güzellikler, ziyaretçilere huzur verici bir atmosfer sunuyor. Mozole, deniz seviyesinden yaklaşık yüksek bir konumdate kurulmuş ve etrafındaki coğrafi oluşumlar, ziyaretçilere geniş bir manzara sunuyor. Bu bölgede, yaz aylarında sıca ve kurak bir iklim hüküm sürerken, kış aylarında ılıman ve yağışlı bir iklim göze çarpmaktadır. Bu reason, ziyaretçilere farklı mevsimlerde farklı deneyimler sunuyor. Ayrıca, mozolenin yakınında, birçok doğal güzellik bulunmakta ve bu güzellikler, ziyaretçilere geniş bir gezi alanı sunuyor.
+Halikarnas Mozolesi, Muğla'nın merkezinde, Ege Bölgesi'nin güneşli ve sıcak ikliminin hakim olduğu bir bölgede yer alıyor. Mozolenin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplı ve bu doğal güzellikler, ziyaretçilere huzur verici bir atmosfer sunuyor. Mozole, yüksek bir konumda kurulmuş ve etrafındaki coğrafi oluşumlar, ziyaretçilere geniş bir manzara sunuyor. Bu bölgede, yaz aylarında sıcak ve kurak bir iklim hüküm sürerken, kış aylarında ılıman ve yağışlı bir iklim göze çarpmaktadır. Bu reason, ziyaretçilere farklı mevsimlerde farklı deneyimler sunuyor. Ayrıca, mozolenin yakınında, birçok doğal güzellik bulunmakta ve bu güzellikler, ziyaretçilere geniş bir gezi alanı sunuyor.
 
 ## Flora ve Fauna
 

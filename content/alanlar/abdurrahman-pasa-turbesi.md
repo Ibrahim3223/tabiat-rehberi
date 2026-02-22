@@ -38,7 +38,7 @@ Abdurrahman Paşa Türbesi, tarihi geçmişi ile dikkat çekiyor. Bu mekan, yüz
 
 ## Coğrafya
 
-Abdurrahman Paşa Türbesi, İstanbul'un Eyüpsultan ilçesinde, Marmara Bölgesi'nin kalbinde yer alıyor. Bu bölge, coğrafi olarak önemli bir konumda bulunuyor. Abdurrahman Paşa Türbesi, Haliç'in kıyısında, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor. Burada, Haliç'in güzel manzarasını izlerken, aynı zamanda tarihi mekanların arasında dolaşabilirsiniz. Abdurrahman Paşa Türbesi'nin etrafı, tarihi binalar ve yeşil alanlar ile çevrili. Bu bölge, doğal güzellikleri ve tarihi mekanları ile dikkat çekiyor. İstanbul'un coğrafi konumu, Abdurrahman Paşa Türbesi gibi tarihi mekanların oluşmasına ve gelişmesine büyük ölçüde etki etmiş. Burada, coğrafi güzellikler ve tarihi mekanlar bir arada bulunuyor.
+Abdurrahman Paşa Türbesi, İstanbul'un Eyüpsultan ilçesinde, Marmara Bölgesi'nin kalbinde yer alıyor. Bu bölge, coğrafi olarak önemli bir konumda bulunuyor. Abdurrahman Paşa Türbesi, Haliç'in kıyısında, yüksek bir konumda yer alıyor. Burada, Haliç'in güzel manzarasını izlerken, aynı zamanda tarihi mekanların arasında dolaşabilirsiniz. Abdurrahman Paşa Türbesi'nin etrafı, tarihi binalar ve yeşil alanlar ile çevrili. Bu bölge, doğal güzellikleri ve tarihi mekanları ile dikkat çekiyor. İstanbul'un coğrafi konumu, Abdurrahman Paşa Türbesi gibi tarihi mekanların oluşmasına ve gelişmesine büyük ölçüde etki etmiş. Burada, coğrafi güzellikler ve tarihi mekanlar bir arada bulunuyor.
 
 ## Flora ve Fauna
 

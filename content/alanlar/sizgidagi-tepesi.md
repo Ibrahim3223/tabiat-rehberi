@@ -36,7 +36,7 @@ Sızgıdağı Tepesi, tarihi geçmişiyle dikkat çeker. Yüzyıllar boyunca, bu
 
 ## Coğrafya
 
-Sızgıdağı Tepesi, coğrafi olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Tepenin etrafı, çeşitli bitki türleriyle kaplıdır ve bu, zengin bir flora çeşitliliğini gösterir. Tepenin yüksekliği, ziyaretçilere, geniş bir alanı kapsayan manzaralar sunar. Sızgıdağı Tepesi, aynı zamanda, iklim açısından, İç Anadolu Bölgesi'nin genel özelliklerini gösterir. Yaz ayları, genellikle sıca ve kuru geçer, जबकi kış ayları, soğu ve karlıdır. Bu iklim koşulları, tepeye çıkan ziyaretçiler için, çeşitli mevsimsel deneyimler sunar.
+Sızgıdağı Tepesi, coğrafi olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Tepenin etrafı, çeşitli bitki türleriyle kaplıdır ve bu, zengin bir flora çeşitliliğini gösterir. Tepenin yüksekliği, ziyaretçilere, geniş bir alanı kapsayan manzaralar sunar. Sızgıdağı Tepesi, aynı zamanda, iklim açısından, İç Anadolu Bölgesi'nin genel özelliklerini gösterir. Yaz ayları, genellikle sıcak ve kuru geçer, जबकi kış ayları, soğuk ve karlıdır. Bu iklim koşulları, tepeye çıkan ziyaretçiler için, çeşitli mevsimsel deneyimler sunar.
 
 ## Flora ve Fauna
 

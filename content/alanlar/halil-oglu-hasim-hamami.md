@@ -37,7 +37,7 @@ Halil Oğlu Haşim Hamamı, tarihi geçmişi ile dikkat çeker. Yüzyıllar boyu
 
 ## Coğrafya
 
-Halil Oğlu Haşim Hamamı, Gölmarmara'nın merkezinde, Ege Bölgesi'nde yer alır. Bu plaj, deniz kıyısında bulunmakta ve geniş bir kumsal alanı sunar. Plajın etrafı, çeşitli bitki türleri ile çevrilidir ve ziyaretçilere, deniz ve doğanın birleştiği bir ortam sağlar. İklimi, tipik Ege Bölgesi iklimi olarak tanımlanabilir, yani yazları sıca ve kurak, kışları ise ılıman ve yağışlı geçer. Bu coğrafi konum, ziyaretçilere, yılın her dönemi, farklı deneyimler sunar. Gölmarmara'nın merkezi konumunda bulunması, ziyaretçilerin, bölgenin diğer turistik noktalarına kolayca ulaşmasını sağlar.
+Halil Oğlu Haşim Hamamı, Gölmarmara'nın merkezinde, Ege Bölgesi'nde yer alır. Bu plaj, deniz kıyısında bulunmakta ve geniş bir kumsal alanı sunar. Plajın etrafı, çeşitli bitki türleri ile çevrilidir ve ziyaretçilere, deniz ve doğanın birleştiği bir ortam sağlar. İklimi, tipik Ege Bölgesi iklimi olarak tanımlanabilir, yani yazları sıcak ve kurak, kışları ise ılıman ve yağışlı geçer. Bu coğrafi konum, ziyaretçilere, yılın her dönemi, farklı deneyimler sunar. Gölmarmara'nın merkezi konumunda bulunması, ziyaretçilerin, bölgenin diğer turistik noktalarına kolayca ulaşmasını sağlar.
 
 ## Flora ve Fauna
 

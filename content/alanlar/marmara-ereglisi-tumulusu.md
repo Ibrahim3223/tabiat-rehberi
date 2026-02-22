@@ -37,7 +37,7 @@ Marmara Ereğlisi Tümülüsü, tarihsel olarak önemli bir bölgede bulunmaktad
 
 ## Coğrafya
 
-Marmara Ereğlisi Tümülüsü, Marmara Bölgesi'nin kuzeybatısında, Tekirdağ iline bağlı Marmaraereğlisi'nde bulunmaktadır. Bu bölge, Marmara Denizi'nin kıyısında yer almaktadır. Marmara Ereğlisi Tümülüsü, deniz seviyesinden yaklaşık yüksek bir konumdate bulunmaktadır. Bölge, genel olarak düz bir arazi yapısına sahiptir, ancak tümülüs ve çevresindeki tepelik alanlar, coğrafyanın çeşitliliğini göstermektedir. İklim, karasal ve Akdeniz iklimi arasında bir geçiş bölgesinde yer almaktadır. Bu nedenle, bölgede yağışlar genellikle kış aylarında yoğunlaşmaktadır. Marmara Ereğlisi Tümülüsü, doğal güzellikleri ve tarihi yapıları ile önemli bir turizm merkezidir. Bölge, geniş plajları, tarihi tümülüsü ve çevresindeki doğal güzellikleriyle ziyaretçilere çeşitli olanaklar sunmaktadır.
+Marmara Ereğlisi Tümülüsü, Marmara Bölgesi'nin kuzeybatısında, Tekirdağ iline bağlı Marmaraereğlisi'nde bulunmaktadır. Bu bölge, Marmara Denizi'nin kıyısında yer almaktadır. Marmara Ereğlisi Tümülüsü, yüksek bir konumda bulunmaktadır. Bölge, genel olarak düz bir arazi yapısına sahiptir, ancak tümülüs ve çevresindeki tepelik alanlar, coğrafyanın çeşitliliğini göstermektedir. İklim, karasal ve Akdeniz iklimi arasında bir geçiş bölgesinde yer almaktadır. Bu nedenle, bölgede yağışlar genellikle kış aylarında yoğunlaşmaktadır. Marmara Ereğlisi Tümülüsü, doğal güzellikleri ve tarihi yapıları ile önemli bir turizm merkezidir. Bölge, geniş plajları, tarihi tümülüsü ve çevresindeki doğal güzellikleriyle ziyaretçilere çeşitli olanaklar sunmaktadır.
 
 ## Flora ve Fauna
 

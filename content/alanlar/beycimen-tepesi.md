@@ -36,7 +36,7 @@ Beyçimen Tepesi'nin tarihi geçmişi, Erzurum'un genel tarihi ile paralel olara
 
 ## Coğrafya
 
-Beyçimen Tepesi, Erzurum'un dağlık bölgelerinde yer alır ve coğrafi olarak zengin bir çeşitlilik gösterir. Bu tepe, yaklaşık yüksek bir konumdate yer alır ve çevresi dağlar ve ormanlarla çevrilidir. Bölge, çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosisteme sahiptir. İklim, genellikle karasal ve soğuk olarak tanımlanır, özellikle kış aylarında sert koşullar hüküm sürer. Yaz aylarında ise, hava genellikle serin ve yağmurlu olur. Bu coğrafi özellikler, Beyçimen Tepesi'ni doğa severler ve macera arayışında olanlar için çekici kılar. Tepe ve çevresindeki dağlar, trekking ve dağcılık için ideal rotalardır. Ayrıca, bu bölge, çeşitli kuş türleri ve diğer yaban hayvanlarının yaşam alanı olarak da önemlidir.
+Beyçimen Tepesi, Erzurum'un dağlık bölgelerinde yer alır ve coğrafi olarak zengin bir çeşitlilik gösterir. Bu tepe, yüksek bir konumda yer alır ve çevresi dağlar ve ormanlarla çevrilidir. Bölge, çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosisteme sahiptir. İklim, genellikle karasal ve soğuk olarak tanımlanır, özellikle kış aylarında sert koşullar hüküm sürer. Yaz aylarında ise, hava genellikle serin ve yağmurlu olur. Bu coğrafi özellikler, Beyçimen Tepesi'ni doğa severler ve macera arayışında olanlar için çekici kılar. Tepe ve çevresindeki dağlar, trekking ve dağcılık için ideal rotalardır. Ayrıca, bu bölge, çeşitli kuş türleri ve diğer yaban hayvanlarının yaşam alanı olarak da önemlidir.
 
 ## Flora ve Fauna
 

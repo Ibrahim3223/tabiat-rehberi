@@ -37,7 +37,7 @@ Hacıbaba Dağı'nın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetl
 
 ## Coğrafya
 
-Hacıbaba Dağı, Konya'nın coğrafi yapısını gösteren önemli bir nokta olarak kabul ediliyor. Dağın yüksekliği ve genişliği, çevredeki diğer tepelerden farklılığını gösteriyor. Bu dağ, Konya'nın İç Anadolu Bölgesi'nde yer alması nedeniyle, karasal iklimin etkilerini gösteriyor. Kışları soğu ve kar yağışlı, yazları sıca ve kurak geçen bir iklime sahip olan Hacıbaba Dağı, ziyaretçilerine dört mevsim farklı deneyimler sunuyor. Dağın eteklerinde yer alan ovalar ve vadiler, bu bölgenin coğrafi zenginliğini gösteriyor. Hacıbaba Dağı, Konya'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olarak kabul ediliyor.
+Hacıbaba Dağı, Konya'nın coğrafi yapısını gösteren önemli bir nokta olarak kabul ediliyor. Dağın yüksekliği ve genişliği, çevredeki diğer tepelerden farklılığını gösteriyor. Bu dağ, Konya'nın İç Anadolu Bölgesi'nde yer alması nedeniyle, karasal iklimin etkilerini gösteriyor. Kışları soğuk ve kar yağışlı, yazları sıcak ve kurak geçen bir iklime sahip olan Hacıbaba Dağı, ziyaretçilerine dört mevsim farklı deneyimler sunuyor. Dağın eteklerinde yer alan ovalar ve vadiler, bu bölgenin coğrafi zenginliğini gösteriyor. Hacıbaba Dağı, Konya'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

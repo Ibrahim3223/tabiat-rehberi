@@ -36,7 +36,7 @@ Teketaşı Tepesi'nin tarihi geçmişi hakkında kesin bilgiler bulunmamaktadır
 
 ## Coğrafya
 
-Teketaşı Tepesi, Muğla'nın dağlık bölgesinde yer alan bir tepe olarak bilinir. Bölge, Ege Bölgesi'nin coğrafi özelliklerini taşır. Tepenin etrafı, çeşitli bitki türleri ve ağaçlarla kaplıdır. Bölgenin iklimi, Ege Bölgesi'nin genel iklimine benzer şekilde, yazları sıca ve khô, kışları ılıman ve yağışlıdır. Tepenin yüksekliği, ziyaretçilere Muğla'nın panoramik manzarasını izleme fırsatı sunar. Ayrıca, tepeye çıkan yol boyunca, çeşitli hayvanlarla karşılaşma mümkün. Bölgenin coğrafi özellikleri, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
+Teketaşı Tepesi, Muğla'nın dağlık bölgesinde yer alan bir tepe olarak bilinir. Bölge, Ege Bölgesi'nin coğrafi özelliklerini taşır. Tepenin etrafı, çeşitli bitki türleri ve ağaçlarla kaplıdır. Bölgenin iklimi, Ege Bölgesi'nin genel iklimine benzer şekilde, yazları sıcak ve kuru, kışları ılıman ve yağışlıdır. Tepenin yüksekliği, ziyaretçilere Muğla'nın panoramik manzarasını izleme fırsatı sunar. Ayrıca, tepeye çıkan yol boyunca, çeşitli hayvanlarla karşılaşma mümkün. Bölgenin coğrafi özellikleri, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

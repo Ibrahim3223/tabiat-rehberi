@@ -40,11 +40,11 @@ Küllüce İni, Mersin'in doğal güzelliklerinin bir parçası olarak, bölgeni
 
 ## Coğrafya
 
-Jeolojik bir hazine olan Küllüce İni, Mersin'in güler yüzlü coğrafyasında 36.4150°K, 33.0753°D koordinatlarında yer alıyor. Bu bölge, Akdeniz'in sıca ve nemli havasının etkilerini taşıyan bir coğrafyada bulunuyor. Yaklaşık olarak bir şehir bloğu büyüklüğünde olan Küllüce İni, etrafındaki dağların eteklerinde gizli bir cennet gibi duruyor.
+Jeolojik bir hazine olan Küllüce İni, Mersin'in güler yüzlü coğrafyasında 36.4150°K, 33.0753°D koordinatlarında yer alıyor. Bu bölge, Akdeniz'in sıcak ve nemli havasının etkilerini taşıyan bir coğrafyada bulunuyor. Yaklaşık olarak bir şehir bloğu büyüklüğünde olan Küllüce İni, etrafındaki dağların eteklerinde gizli bir cennet gibi duruyor.
 
 Doğal bir anfi tiyatro gibi görünen Küllüce İni, jeolojik açıdan oldukça ilginç bir yapıya sahip. Ancak, detaylı fiziksel veriler bulunmaması nedeniyle, bu alanın tam olarak ne kadar büyük olduğu veya hangi jeolojik oluşumları içerdiği tam olarak bilinmiyor. Buna rağmen, Mersin'in genel jeolojik yapısına bakıldığında, bu bölgenin de benzer özellikler taşıdığı söylenebilir. Örneğin, bölgenin etrafındaki dağların yüksekliği Eiffel Kulesi'nin birkaç katı kadar olabilir, ancak Küllüce İni'nin kendi yüksekliği hakkında net bir bilgi bulunmuyor.
 
-Mersin'in iklim karakterine bakıldığında, Küllüce İni'nin de benzer hava koşullarına sahip olduğu söylenebilir. Akdeniz ikliminin hakim olduğu bu bölgede, yaz ayları sıca ve kurak, kış ayları ise ılık ve yağışlı geçer. Hava sıcaklığının yıl boyunca 10-25 derece arasında değiştiği bu bölgede, nem oranı da oldukça yüksektir. Bu iklim koşulları, bölgenin flora ve fauna açısından zengin olmasını sağlar.
+Mersin'in iklim karakterine bakıldığında, Küllüce İni'nin de benzer hava koşullarına sahip olduğu söylenebilir. Akdeniz ikliminin hakim olduğu bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlı geçer. Hava sıcaklığının yıl boyunca 10-25 derece arasında değiştiği bu bölgede, nem oranı da oldukça yüksektir. Bu iklim koşulları, bölgenin flora ve fauna açısından zengin olmasını sağlar.
 
 Çevresel açıdan bakıldığında, Küllüce İni, Mersin'in doğal güzellikleriyle dolu bir bölgede yer alıyor. Yaklaşık olarak Monaco'nun onda biri kadar büyüklüğünde olan bu bölge, etrafındaki dağların eteklerinde bulunan diğer doğal güzelliklerle bağlantılıdır. Bölgenin su kaynakları ve ekosistem bağlantıları da oldukça önemlidir. Örneğin, yakınlarında bulunan nehirler ve akarsular, bölgenin flora ve fauna açısından zengin olmasını sağlar.
 

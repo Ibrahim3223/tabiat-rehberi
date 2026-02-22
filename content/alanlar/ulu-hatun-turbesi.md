@@ -37,7 +37,7 @@ Ulu Hatun Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. T
 
 ## Coğrafya
 
-Ulu Hatun Türbesi, Kocasinan, Kayseri'de yer alıyor. Türbe, İç Anadolu Bölgesi'nin coğrafi özellikleri ile çevrili. İç Anadolu Bölgesi, genellikle step ve ova gibi coğrafi özelliklere sahip. Ulu Hatun Türbesi, bu coğrafi özellikler içinde, tarihi ve kültürel bir mekan olarak dikkat çekiyor. Türbenin etrafı, çeşitli bitki türleri ile çevrili. Bu bitki türleri, mevsimsel değişimlere göre farklılıklar gösteriyor. Ulu Hatun Türbesi'nin iklimi, İç Anadolu Bölgesi'nin iklimine benzer. Kışlar soğuk, yazlar sıca ve kurak passing. Ulu Hatun Türbesi, coğrafi konumu ile dikkat çekiyor.
+Ulu Hatun Türbesi, Kocasinan, Kayseri'de yer alıyor. Türbe, İç Anadolu Bölgesi'nin coğrafi özellikleri ile çevrili. İç Anadolu Bölgesi, genellikle step ve ova gibi coğrafi özelliklere sahip. Ulu Hatun Türbesi, bu coğrafi özellikler içinde, tarihi ve kültürel bir mekan olarak dikkat çekiyor. Türbenin etrafı, çeşitli bitki türleri ile çevrili. Bu bitki türleri, mevsimsel değişimlere göre farklılıklar gösteriyor. Ulu Hatun Türbesi'nin iklimi, İç Anadolu Bölgesi'nin iklimine benzer. Kışlar soğuk, yazlar sıcak ve kurak passing. Ulu Hatun Türbesi, coğrafi konumu ile dikkat çekiyor.
 
 ## Flora ve Fauna
 

@@ -31,7 +31,7 @@ Erenler Çamı Milli Parkı'nın tarihi geçmişi, yüzyıllar öncesine dayanı
 
 ## Coğrafya
 
-Erenler Çamı Milli Parkı, İç Anadolu Bölgesi'nde yer alıyor ve coğrafi konumu itibariyle önemli bir doğal güzellik sunuyor. Park, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, geniş çam ormanları, yeşil vadiler ve yüksek dağlar ile çevrilidir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve karasal bir iklim özellikleri gösteriyor. Kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor. Parkın coğrafi yapısı, ziyaretçilere çeşitli aktiviteler sunacak şekilde tasarlanmış durumda. Burada, trekking, kampçılık, doğa yürüyüşleri ve photo safari gibi aktiviteler yapabilirsiniz. Ayrıca, parkın yüksek noktalarından, çevreyi panoramik olarak seyretmek de mümkün. Erenler Çamı Milli Parkı, coğrafi güzelliği, tarihi geçmişi ve biyolojik çeşitliliği ile ziyaretçilere zengin bir doğa deneyimi sunuyor.
+Erenler Çamı Milli Parkı, İç Anadolu Bölgesi'nde yer alıyor ve coğrafi konumu itibariyle önemli bir doğal güzellik sunuyor. Park, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, geniş çam ormanları, yeşil vadiler ve yüksek dağlar ile çevrilidir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve karasal bir iklim özellikleri gösteriyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Parkın coğrafi yapısı, ziyaretçilere çeşitli aktiviteler sunacak şekilde tasarlanmış durumda. Burada, trekking, kampçılık, doğa yürüyüşleri ve photo safari gibi aktiviteler yapabilirsiniz. Ayrıca, parkın yüksek noktalarından, çevreyi panoramik olarak seyretmek de mümkün. Erenler Çamı Milli Parkı, coğrafi güzelliği, tarihi geçmişi ve biyolojik çeşitliliği ile ziyaretçilere zengin bir doğa deneyimi sunuyor.
 
 ## Flora ve Fauna
 

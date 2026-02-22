@@ -45,7 +45,7 @@ Yalınayak Dede Türbesi'nin flora ve fauna açısından zengin bir yapıya sahi
 
 ## Ziyaret Bilgileri
 
-Yalınayak Dede Türbesi'ni ziyaret etmek, yılın her dönemi mümkündür. Ancak, en iyi ziyaret dönemi, ilkbahar ve yaz aylarıdır. Bu dönemde, hava daha sıca ve güneşli olduğu için, plajın keyfini çıkarmak dahadir. Yalınayak Dede Türbesi'ne ulaşım, hem deniz hem de kara yoluyla mümkündür. Bu bölge, İzmir şehir merkezine uzun bir mesafe uzaklıktadır ve ulaşım için çeşitli seçenekler bulunmaktadır. Yalınayak Dede Türbesi, ziyaretçilerin ilgisini çeken bir destinasyon olarak dikkat çekmektedir.
+Yalınayak Dede Türbesi'ni ziyaret etmek, yılın her dönemi mümkündür. Ancak, en iyi ziyaret dönemi, ilkbahar ve yaz aylarıdır. Bu dönemde, hava daha sıcak ve güneşli olduğu için, plajın keyfini çıkarmak dahadir. Yalınayak Dede Türbesi'ne ulaşım, hem deniz hem de kara yoluyla mümkündür. Bu bölge, İzmir şehir merkezine uzun bir mesafe uzaklıktadır ve ulaşım için çeşitli seçenekler bulunmaktadır. Yalınayak Dede Türbesi, ziyaretçilerin ilgisini çeken bir destinasyon olarak dikkat çekmektedir.
 
 ## İlginç Bilgiler
 

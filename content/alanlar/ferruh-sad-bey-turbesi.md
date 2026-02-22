@@ -37,7 +37,7 @@ Ferruh Şad Bey Türbesi'nin tarihi geçmişi, Doğu Anadolu Bölgesi'nin kült�
 
 ## Coğrafya
 
-Ferruh Şad Bey Türbesi, Tunceli'nin Çemişgezek ilçesinde yer alır. Doğu Anadolu Bölgesi'nin coğrafi yapısı, türbenin bulunduğu konumu özel kılar. Bölge, dağlık ve engebeli bir araziye sahiptir. Türbenin bulunduğu yer, ziyaretçilere hem tarihi hem de doğal güzellikleri sunar. Coğrafi konumu, türbenin etrafını dağlar ve ormanlar çevreler. İklim, karasal iklim özelliklerini taşır. Kış ayları soğu ve karlı, yaz ayları ise sıcak ve kurudur. Bölgenin coğrafi yapısı, flora ve faunayı da etkiler. Çeşitli bitki türleri ve zengin fauna, bölgenin doğal güzelliklerini oluşturur. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeyi kapsar. Türbenin bulunduğu yer, ziyaretçilere geniş bir bakış açısı sunar.
+Ferruh Şad Bey Türbesi, Tunceli'nin Çemişgezek ilçesinde yer alır. Doğu Anadolu Bölgesi'nin coğrafi yapısı, türbenin bulunduğu konumu özel kılar. Bölge, dağlık ve engebeli bir araziye sahiptir. Türbenin bulunduğu yer, ziyaretçilere hem tarihi hem de doğal güzellikleri sunar. Coğrafi konumu, türbenin etrafını dağlar ve ormanlar çevreler. İklim, karasal iklim özelliklerini taşır. Kış ayları soğuk ve karlı, yaz ayları ise sıcak ve kurudur. Bölgenin coğrafi yapısı, flora ve faunayı da etkiler. Çeşitli bitki türleri ve zengin fauna, bölgenin doğal güzelliklerini oluşturur. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeyi kapsar. Türbenin bulunduğu yer, ziyaretçilere geniş bir bakış açısı sunar.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ Mecidiye Kasrı Hamamı, tarihi geçmişi ile dikkat çekmektedir. Bu alan, yüz
 
 ## Coğrafya
 
-Mecidiye Kasrı Hamamı, coğrafi konumu itibariyle oldukça dikkat çekicidir. Marmara Bölgesi'nde, Beykoz ilçesinde yer alan bu alan, deniz seviyesinden yaklaşık yüksek bir konumdate bulunmaktadır. Bölge, karasal iklimin hakim olduğu bir alanda yer almaktadır. Kış ayları soğu ve yağışlı, yaz ayları ise sıcak ve kurudur. Bu iklim, bölgenin flora ve faunasını önemli ölçüde etkilemektedir. Mecidiye Kasrı Hamamı'nın coğrafi konumu, ziyaretçilere çeşitli doğal güzellikleri keşfetme fırsatı sunmaktadır. Bölge, zengin flora ve faunaya sahip olup, ziyaretçiler burada çeşitli bitki ve hayvan türleri ile karşılaşabilirler.
+Mecidiye Kasrı Hamamı, coğrafi konumu itibariyle oldukça dikkat çekicidir. Marmara Bölgesi'nde, Beykoz ilçesinde yer alan bu alan, yüksek bir konumda bulunmaktadır. Bölge, karasal iklimin hakim olduğu bir alanda yer almaktadır. Kış ayları soğuk ve yağışlı, yaz ayları ise sıcak ve kurudur. Bu iklim, bölgenin flora ve faunasını önemli ölçüde etkilemektedir. Mecidiye Kasrı Hamamı'nın coğrafi konumu, ziyaretçilere çeşitli doğal güzellikleri keşfetme fırsatı sunmaktadır. Bölge, zengin flora ve faunaya sahip olup, ziyaretçiler burada çeşitli bitki ve hayvan türleri ile karşılaşabilirler.
 
 ## Flora ve Fauna
 

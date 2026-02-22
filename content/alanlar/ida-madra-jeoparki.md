@@ -31,7 +31,7 @@ wikidata_id: "Q113238751"
 
 ## Coğrafya
 
-İda Madra Jeoparkı, Marmara Bölgesi'nin Balıkesir ilinde yer alır. Bu bölge, coğrafi olarak çeşitli dağlar, ovalar ve nehirler ile çevrilidir. İda Madra Jeoparkı, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır ve bu yükseklik, ziyaretçilere geniş bir manzara sunar. Bu jeopark, aynı zamanda iklim olarak ılıman bir bölgede yer alır ve burada, yazın sıcakk, kışın soğukk bir iklim hüküm sürer. İda Madra Jeoparkı'nın coğrafi konumu, ziyaretçilere eşsiz bir doğa deneyimi sunar.
+İda Madra Jeoparkı, Marmara Bölgesi'nin Balıkesir ilinde yer alır. Bu bölge, coğrafi olarak çeşitli dağlar, ovalar ve nehirler ile çevrilidir. İda Madra Jeoparkı, yüksek bir konumda yer alır ve bu yükseklik, ziyaretçilere geniş bir manzara sunar. Bu jeopark, aynı zamanda iklim olarak ılıman bir bölgede yer alır ve burada, yazın sıcakk, kışın soğukk bir iklim hüküm sürer. İda Madra Jeoparkı'nın coğrafi konumu, ziyaretçilere eşsiz bir doğa deneyimi sunar.
 
 ## Flora ve Fauna
 

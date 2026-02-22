@@ -42,7 +42,7 @@ Van'ın dağlık coğrafyasında yer alan Mengene Dağı, 38.2300°K enlem ve 43
 
 Mengene Dağı'nın fiziksel yapısı, Van'ın genel coğrafyası ile benzerlik gösterir. Ancak, detaylı fiziksel veri bulunmamasına rağmen, dağın koordinatları ve bölgesel coğrafya, Mengene Dağı'nın bir şehir bloğu büyüklüğünde veya birkaç olimpik havuz kadar bir alanı kaplayabileceğini düşündürür. Bu boyutlar, Mengene Dağı'nın çevresi ile uyumlu bir şekilde entegre olduğunu ve bölgenin doğal dengesine katkıda bulunduğunu gösterir.
 
-İklim karakteri açısından, Mengene Dağı Van'ın genel iklim koşullarını paylaşır. Bölge, karasal iklimin hüküm sürdüğü bir alan olarak bilinir ve mevsimsel değişiklikler oldukça belirgindir. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak bir hava durumu hakimdir. Mengene Dağı da, bu iklim koşullarına uyum sağlayan bir yapıya sahiptir ve bölgenin ekosistemini destekler.
+İklim karakteri açısından, Mengene Dağı Van'ın genel iklim koşullarını paylaşır. Bölge, karasal iklimin hüküm sürdüğü bir alan olarak bilinir ve mevsimsel değişiklikler oldukça belirgindir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Mengene Dağı da, bu iklim koşullarına uyum sağlayan bir yapıya sahiptir ve bölgenin ekosistemini destekler.
 
 Doğal bir koridor olarak işlev gören Mengene Dağı, çevresindeki su kaynakları ve ekosistem bağlantıları ile önemli bir rol oynar. Van Gölü'ne yakın konumu, dağın bölgenin hidrolojik dengesine katkıda bulunduğunu gösterir. Aynı zamanda, Mengene Dağı'nın komşu alanlar ile olan ilişkisi, bölgenin biyolojik çeşitliliğini destekler ve Van'ın doğal güzelliğinin korunmasına yardımcı olur.
 

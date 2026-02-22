@@ -36,7 +36,7 @@ Kukula Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bö
 
 ## Coğrafya
 
-Kukula Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, yüksek bir plato üzerinde bulunur ve çevresindeki ovalarla çevrilidir. Tepenin yüksekliği, bölgenin iklimini etkiler. Kukula Tepesi, karasal iklimin karakteristik özelliklerini gösterir. Bu bölge, yazları sıca ve kurak, kışları soğu ve kar yağışlı geçer. Kukula Tepesi'nin coğrafi konumu, flora ve faunasını etkiler. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, doğa severler ve gezginler için bir cennettir. Kukula Tepesi, ziyaretçilerini etkileyen bir manzaraya sahiptir. Tepenin çevresi, doğal güzelliği ile dikkat çeker.
+Kukula Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, yüksek bir plato üzerinde bulunur ve çevresindeki ovalarla çevrilidir. Tepenin yüksekliği, bölgenin iklimini etkiler. Kukula Tepesi, karasal iklimin karakteristik özelliklerini gösterir. Bu bölge, yazları sıcak ve kurak, kışları soğuk ve kar yağışlı geçer. Kukula Tepesi'nin coğrafi konumu, flora ve faunasını etkiler. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, doğa severler ve gezginler için bir cennettir. Kukula Tepesi, ziyaretçilerini etkileyen bir manzaraya sahiptir. Tepenin çevresi, doğal güzelliği ile dikkat çeker.
 
 ## Flora ve Fauna
 

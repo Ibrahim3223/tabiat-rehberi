@@ -44,7 +44,7 @@ Doğu Anadolu Bölgesi'nin güneydoğusunda yer alan Korekem Dağı, Siirt ilini
 
 Jeolojik açıdan incelendiğinde, Korekem Dağı'nın coğrafi yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel jeolojik özellikleri dikkate alındığında, dağların ve tepelerin hakim olduğu bir coğrafyada yer aldığı söylenebilir. Bu bölgede, genellikle kireçtaşı ve diğer sedimentler gibi farklı jeolojik oluşumlar göze çarpar. Korekem Dağı'nın boyutları hakkında net bir veri olmasa da, bölgenin coğrafi yapısı, Monaco'nun yaklaşık yarısı kadar bir alanı kaplayacak büyüklükte bir alanı kapsayabileceği düşünülüyor.
 
-Mevsimsel açıdan bakıldığında, Korekem Dağı'nın iklimi, Doğu Anadolu Bölgesi'nin genel iklim karakterini yansıtıyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıca ve kurak geçen bir iklimi vardır. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkileyerek, farklı türlerin yaşam alanı oluşturmasını sağlıyor.
+Mevsimsel açıdan bakıldığında, Korekem Dağı'nın iklimi, Doğu Anadolu Bölgesi'nin genel iklim karakterini yansıtıyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak geçen bir iklimi vardır. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkileyerek, farklı türlerin yaşam alanı oluşturmasını sağlıyor.
 
 Çevresel açıdan bakıldığında, Korekem Dağı, komşu alanlar ve su kaynakları ile bağlantılı bir ekosistemi destekler. Dağın eteklerinde ve yakın çevresinde, çeşitli su kaynakları ve akarsular bulunur. Bu su kaynakları, bölgenin ekosistemini besleyerek, farklı canlı türlerinin yaşamını sürdürmesini sağlar. Örneğin, bir şehir bloğu büyüklüğünde bir alana yayılan bu su kaynakları, bölgenin flora ve fauna çeşitliliğine önemli bir katkı sağlar.
 

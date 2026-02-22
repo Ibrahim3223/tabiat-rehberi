@@ -37,7 +37,7 @@ Elvan Çelebi Zaviyesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. B
 
 ## Coğrafya
 
-Elvan Çelebi Zaviyesi, Çorum'un Mecitözü ilçesinde, Karadeniz Bölgesi'nin coğrafi güzellikleri arasında yer alıyor. Bu bölge, zengin ormanlarıyla, dağlık arazileriyle ve deniz kıyısı ile oldukça çeşitli bir coğrafyaya sahip. Zaviye, deniz seviyesinden belirli bir yükseklikte bulunuyor ve çevresinde ormanlık alanlar, nehirler ve diğer doğal güzellikler yer alıyor. Bölgenin iklimi, Karadeniz ikliminin karakteristik özellikleri taşır; yani yazları serin ve yağışlı, kışları ise soğu ve kar yağışlı. Bu coğrafi konum, hem zaviyenin doğal güzelliğini artırıyor hem de ziyaretçilere çeşitli aktivite seçenekleri sunuyor. Doğa yürüyüşleri, piknik yapmak, deniz kenarında zaman geçirmek gibi birçok aktivite, Elvan Çelebi Zaviyesi ve çevresinde yapabileceğiniz şeylerden sadece birkaçı.
+Elvan Çelebi Zaviyesi, Çorum'un Mecitözü ilçesinde, Karadeniz Bölgesi'nin coğrafi güzellikleri arasında yer alıyor. Bu bölge, zengin ormanlarıyla, dağlık arazileriyle ve deniz kıyısı ile oldukça çeşitli bir coğrafyaya sahip. Zaviye, deniz seviyesinden belirli bir yükseklikte bulunuyor ve çevresinde ormanlık alanlar, nehirler ve diğer doğal güzellikler yer alıyor. Bölgenin iklimi, Karadeniz ikliminin karakteristik özellikleri taşır; yani yazları serin ve yağışlı, kışları ise soğuk ve kar yağışlı. Bu coğrafi konum, hem zaviyenin doğal güzelliğini artırıyor hem de ziyaretçilere çeşitli aktivite seçenekleri sunuyor. Doğa yürüyüşleri, piknik yapmak, deniz kenarında zaman geçirmek gibi birçok aktivite, Elvan Çelebi Zaviyesi ve çevresinde yapabileceğiniz şeylerden sadece birkaçı.
 
 ## Flora ve Fauna
 

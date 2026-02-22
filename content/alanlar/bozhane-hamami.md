@@ -37,7 +37,7 @@ Bozhane Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Bozhane Hamamı, Karadeniz Bölgesi'nin en güzel noktalarından biri olan Karadeniz Ereğli'de yer alıyor. Bu mekan, 140 hektarlık geniş yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası olarak ziyaretçilerini ağırlıyor. Bozhane Hamamı'nın coğrafi konumu, Karadeniz Bölgesi'nin en güzel noktalarından biri olarak dikkat çekiyor. Bu bölge, Karadeniz Ereğli'nin merkezine yakın bir konumda yer alıyor ve ulaşımı kolaydır. Bozhane Hamamı'nın iklimi, Karadeniz Bölgesi'nin tipik iklimi olarak bilinir. Bu bölgede, yaz ayları serin ve yağışlı, kış ayları ise soğu ve yağışlı geçer. Bozhane Hamamı, yılın her döneminde ziyaret edilebilir, ancak en güzel zamanları ilkbahar ve yaz aylarıdır. Bu mekanın coğrafi güzelliği, ziyaretçilerini doğayla iç içe bir deneyime davet ediyor.
+Bozhane Hamamı, Karadeniz Bölgesi'nin en güzel noktalarından biri olan Karadeniz Ereğli'de yer alıyor. Bu mekan, 140 hektarlık geniş yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası olarak ziyaretçilerini ağırlıyor. Bozhane Hamamı'nın coğrafi konumu, Karadeniz Bölgesi'nin en güzel noktalarından biri olarak dikkat çekiyor. Bu bölge, Karadeniz Ereğli'nin merkezine yakın bir konumda yer alıyor ve ulaşımı kolaydır. Bozhane Hamamı'nın iklimi, Karadeniz Bölgesi'nin tipik iklimi olarak bilinir. Bu bölgede, yaz ayları serin ve yağışlı, kış ayları ise soğuk ve yağışlı geçer. Bozhane Hamamı, yılın her döneminde ziyaret edilebilir, ancak en güzel zamanları ilkbahar ve yaz aylarıdır. Bu mekanın coğrafi güzelliği, ziyaretçilerini doğayla iç içe bir deneyime davet ediyor.
 
 ## Flora ve Fauna
 

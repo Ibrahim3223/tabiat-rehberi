@@ -37,7 +37,7 @@ Kara Davut Türbesi'nin tarihi geçmişi, yüzyıllar boyunca oluşan bir hikaye
 
 ## Coğrafya
 
-Kara Davut Türbesi, Beypazarı ilçesinde, Ankara'nın merkezine uzun bir mesafe uzaklıkta yer alıyor. İç Anadolu Bölgesi'nin coğrafyası, kara ikliminin hakim olduğu bir bölge. Bu bölgede, yazlar sıca ve kurak, kışlar ise soğu ve karlı geçiyor. Kara Davut Türbesi'nin bulunduğu alan, geniş bir yeşil alan ve plajıyla birlikte, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Coğrafi olarak, Ankara'nın merkezi ve diğer ilçelerine yakın mesafede yer alıyor. Çevre, tarihi ve doğal güzellikleriyle dolu bir bölge.
+Kara Davut Türbesi, Beypazarı ilçesinde, Ankara'nın merkezine uzun bir mesafe uzaklıkta yer alıyor. İç Anadolu Bölgesi'nin coğrafyası, kara ikliminin hakim olduğu bir bölge. Bu bölgede, yazlar sıcak ve kurak, kışlar ise soğuk ve karlı geçiyor. Kara Davut Türbesi'nin bulunduğu alan, geniş bir yeşil alan ve plajıyla birlikte, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Coğrafi olarak, Ankara'nın merkezi ve diğer ilçelerine yakın mesafede yer alıyor. Çevre, tarihi ve doğal güzellikleriyle dolu bir bölge.
 
 ## Flora ve Fauna
 

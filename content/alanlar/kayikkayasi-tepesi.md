@@ -36,7 +36,7 @@ Kayıkkayası Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniy
 
 ## Coğrafya
 
-Kayıkkayası Tepesi, İç Anadolu Bölgesi'nin coğrafi özellikleri ile örtüşen bir yapıya sahiptir. Bu bölge, geral olarak step ve ova gibi coğrafi oluşumların hakim olduğu bir alandır. Kayıkkayası Tepesi, bu coğrafi yapı içinde yer alan bir tepe olarak, etrafındaki ovaları ve step alanlarını panoramik olarak görmeye olanak tanır. Tepenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, karasal iklim özellikleri gösterir. Bu bölge, yazları sıca ve kurak, kışları soğu ve karlı geçer. Kayıkkayası Tepesi'nin coğrafi konumu ve iklimi, bu alanda yaşayan bitki ve hayvan türlerini etkiler ve çeşitli ekosistemlerin oluşmasına neden olur.
+Kayıkkayası Tepesi, İç Anadolu Bölgesi'nin coğrafi özellikleri ile örtüşen bir yapıya sahiptir. Bu bölge, geral olarak step ve ova gibi coğrafi oluşumların hakim olduğu bir alandır. Kayıkkayası Tepesi, bu coğrafi yapı içinde yer alan bir tepe olarak, etrafındaki ovaları ve step alanlarını panoramik olarak görmeye olanak tanır. Tepenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, karasal iklim özellikleri gösterir. Bu bölge, yazları sıcak ve kurak, kışları soğuk ve karlı geçer. Kayıkkayası Tepesi'nin coğrafi konumu ve iklimi, bu alanda yaşayan bitki ve hayvan türlerini etkiler ve çeşitli ekosistemlerin oluşmasına neden olur.
 
 ## Flora ve Fauna
 

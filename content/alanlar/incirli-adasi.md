@@ -46,7 +46,7 @@ Marmara Denizi'nin sularında, Tuzla'nın kıyılarına yakın bir mesafede, İn
 
 Doğal yapısı itibariyle, İncirli Adası küçük bir alan olarak dikkat çeker. Bir şehir bloğu büyüklüğünde olan bu ada, çevresindeki diğer küçük adalar ile birlikte Marmara Denizi'nin zengin coğrafyasını oluşturur. Ada'nın fiziksel yapısı, kayalık bir zemin üzerine kuruludur ve çevresindeki suyun derinliği ile birlikte, deniz canlıları için önemli bir yaşam alanı sağlar.
 
-İklim açısından bakıldığında, İncirli Adası, Marmara Bölgesi'nin karakteristik mevsimsel özelliklerini taşır. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve nemli bir hava hakimdir. Bu mevsimsel değişimler, ada'nın ekosistemini etkileyen önemli faktörlerdir. Ada'nın küçük boyutu, hava koşullarının snel değişmesine neden olur ve bu durum, ada'nın doğal dengesini etkiler.
+İklim açısından bakıldığında, İncirli Adası, Marmara Bölgesi'nin karakteristik mevsimsel özelliklerini taşır. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve nemli bir hava hakimdir. Bu mevsimsel değişimler, ada'nın ekosistemini etkileyen önemli faktörlerdir. Ada'nın küçük boyutu, hava koşullarının snel değişmesine neden olur ve bu durum, ada'nın doğal dengesini etkiler.
 
 Ada'nın çevresel ilişkileri, komşu alanlar ve su kaynakları ile şekillenir. İncirli Adası, Tuzla'nın kıyılarına yakın bir mesafede yer alır ve bu nedenle, bölgenin ekosistemine önemli katkılar sağlar. Ada'nın su kaynakları, Marmara Denizi'nin suları ile bağlantılıdır ve bu nedenle, deniz canlıları için önemli bir yaşam alanı oluşturur. Bu bağlantılı ekosistem, ada'nın doğal güzelliğini ve biyolojik çeşitliliğini sağlar.
 

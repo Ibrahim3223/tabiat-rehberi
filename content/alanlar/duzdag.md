@@ -46,7 +46,7 @@ Gözlerimizi doğu yönüne çevirdiğimizde, Düzdağ'ın konumunu belirlemek i
 
 Boyutları hakkında net bir bilgi olmasa da, Düzdağ'ın coğrafi yapısı, bölgenin genel jeolojisini yansıtıyor. Bu bölgede, genellikle kalker ve şist gibi kayalar encontruluyor. Düzdağ'ın fiziksel yapısını tam olarak tarif etmek zor olsa da, genel olarak bu tür alanların genellikle dalgalı ve engebeli bir araziye sahip olduğu biliniyor. Bir şehir bloğu büyüklüğünde olan bazı bölümler, yerel flora ve fauna için önemli habitatlar oluşturuyor.
 
-Mevsimler değiştiğinde, Düzdağ'ın iklim karakteri değişiyor. Kış aylarında, bölgenin yüksek rakımı nedeniyle soğu ve kar yağışlı bir hava hakim oluyor. Buna karşılık, yaz aylarında sıcaklık artıyor ve bölgede genellikle kurak bir iklim hüküm sürüyor. Bu mevsimsel değişiklikler, yerel ekosistemin adaptasyonunu sağlıyor ve bölgenin biyolojik çeşitliliğini zenginleştiriyor.
+Mevsimler değiştiğinde, Düzdağ'ın iklim karakteri değişiyor. Kış aylarında, bölgenin yüksek rakımı nedeniyle soğuk ve kar yağışlı bir hava hakim oluyor. Buna karşılık, yaz aylarında sıcaklık artıyor ve bölgede genellikle kurak bir iklim hüküm sürüyor. Bu mevsimsel değişiklikler, yerel ekosistemin adaptasyonunu sağlıyor ve bölgenin biyolojik çeşitliliğini zenginleştiriyor.
 
 Düzdağ, çevresindeki diğer coğrafi oluşumlarla etkileşim içinde bulunuyor. Yakındaki su kaynakları, bölgenin ekosistemini besliyor ve yerel yaşamın sürekliliğini sağlıyor. Ayrıca, Düzdağ'ın komşu alanlarla olan ilişkisi, bölgenin jeoloji ve biyolojik özelliklerinin şekillenmesinde önemli bir rol oynuyor. Monaco'nun yarısı kadar büyük olan bazı komşu bölgelerle karşılaştırıldığında, Düzdağ'ın kendi özel karakteri ve önemi ortaya çıkıyor.
 

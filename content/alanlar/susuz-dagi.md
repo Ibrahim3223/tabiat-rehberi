@@ -44,7 +44,7 @@ Susuz Dağı ve çevresindeki doğal güzellikler, insan yerleşimlerinin yanı 
 
 Doğal yapısı itibariyle, Susuz Dağı'nın fiziksel özellikleri hakkında detaylı bilgiler bulunmasa da, coğrafi konumu ve çevresindeki dağlar ile birlikte bir bütün olarak ele alınabilir. Bu bölgede, jeolojik oluşumlar ve yer şekilleri, bölgeyi Monaco'nun yarısı kadar büyük bir alan olarak tanımlayabilir. Ancak, Susuz Dağı'nın kendi büyüklüğü hakkında net bir veri olmasa da, bölgenin genel coğrafyası, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplar.
 
-Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklim karakterine sahip olan Susuz Dağı, mevsimsel olarak değişen hava koşullarına sahiptir. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı zirveler, bölgenin yükseklik farklılıklarını göstermektedir. Bu yükseklik farklılıkları, bölgenin iklimini etkileyen önemli faktörlerden biridir.
+Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklim karakterine sahip olan Susuz Dağı, mevsimsel olarak değişen hava koşullarına sahiptir. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı zirveler, bölgenin yükseklik farklılıklarını göstermektedir. Bu yükseklik farklılıkları, bölgenin iklimini etkileyen önemli faktörlerden biridir.
 
 Bölgenin çevresel ilişkileri, komşu alanlar ve su kaynakları ile ilgilidir. Susuz Dağı, çevresindeki diğer dağlar ve ovalar ile birlikte bir ekosistem oluşturur. İstanbul'un Adalar ilçesi büyüklüğünde bir bölgeyi kaplayan bu ekosistem, verschill doğal kaynakları ve canlıları barındırır. Bu nedenle, Susuz Dağı ve çevresinin korunması, bölgenin doğal dengesinin korunması için önemlidir.
 

@@ -30,7 +30,7 @@ Bolu-Mengen-Daren Karacam 2 milli parkının tarihi geçmişi, yüzyıllar boyun
 
 ## Coğrafya
 
-Bolu-Mengen-Daren Karacam 2 milli parkı, Karadeniz Bölgesi'nin karakteristik coğrafyasına sahiptir. Park, dağlar, ormanlar ve nehirler ile çevrilidir. Coğrafyası itibariyle, ziyaretçilere çeşitli doğa aktivitelerini sunar. Parkın iklimi, Karadeniz Bölgesi'nin ılıman iklimine sahiptir. Kışları soğu ve yağışlı, yazları ise serin ve yağışlı passedir. Bu coğrafya, çeşitli bitki ve hayvan türlerinin yaşam alanı olarak hizmet eder. Parkın coğrafyası, ziyaretçilerin doğayı keşfetmesine ve güzelliğini deneyimlemesine olanak tanır. 140 hektarlık bu alan, ziyaretçilerin doğa ile iç içe olmasını sağlar.
+Bolu-Mengen-Daren Karacam 2 milli parkı, Karadeniz Bölgesi'nin karakteristik coğrafyasına sahiptir. Park, dağlar, ormanlar ve nehirler ile çevrilidir. Coğrafyası itibariyle, ziyaretçilere çeşitli doğa aktivitelerini sunar. Parkın iklimi, Karadeniz Bölgesi'nin ılıman iklimine sahiptir. Kışları soğuk ve yağışlı, yazları ise serin ve yağışlı pasiftir. Bu coğrafya, çeşitli bitki ve hayvan türlerinin yaşam alanı olarak hizmet eder. Parkın coğrafyası, ziyaretçilerin doğayı keşfetmesine ve güzelliğini deneyimlemesine olanak tanır. 140 hektarlık bu alan, ziyaretçilerin doğa ile iç içe olmasını sağlar.
 
 ## Flora ve Fauna
 

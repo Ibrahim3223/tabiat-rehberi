@@ -38,7 +38,7 @@ wikidata_id: "Q131390937"
 
 ## Coğrafya
 
-Şeyh Osman Türbesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinin Baykan ilçesinde yer almaktadır. Bu bölge, coğrafi olarak dağlık ve engebeli bir yapıya sahiptir. Şeyh Osman Türbesi, çevresi ile birlikte yaklaşık 140 hektarlık bir yeşil alanı kapsar. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır. İklim, genel olarak sıca ve kurudur. Yaz aylarında sıcaklık yüksek, kış aylarında ise soğu ve yağışlıdır. Şeyh Osman Türbesi, çevresindeki dağlar ve vadiler ile birlikte önemli bir coğrafi oluşumu temsil etmektedir. Bu bölge, doğal güzelliği ve tarihi değerleri ile birlikte önemli bir turizm destinasyonudur.
+Şeyh Osman Türbesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinin Baykan ilçesinde yer almaktadır. Bu bölge, coğrafi olarak dağlık ve engebeli bir yapıya sahiptir. Şeyh Osman Türbesi, çevresi ile birlikte yaklaşık 140 hektarlık bir yeşil alanı kapsar. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır. İklim, genel olarak sıcak ve kurudur. Yaz aylarında sıcaklık yüksek, kış aylarında ise soğuk ve yağışlıdır. Şeyh Osman Türbesi, çevresindeki dağlar ve vadiler ile birlikte önemli bir coğrafi oluşumu temsil etmektedir. Bu bölge, doğal güzelliği ve tarihi değerleri ile birlikte önemli bir turizm destinasyonudur.
 
 ## Flora ve Fauna
 

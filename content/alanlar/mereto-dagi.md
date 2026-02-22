@@ -45,7 +45,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi çeşitliliği, Mereto Dağı gibi bir
 
 Doğal güzelliği ve jeolojik yapısıyla dikkat çeken Mereto Dağı, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplar. Bu küçük ama önemli alan, bölgenin coğrafi çeşitliliğini gösterir. Dağın şekli ve boyutları, etrafındaki dağlarla benzerlik gösterir ve bölgenin genel jeolojik yapısına uygun olarak oluşmuştur. Ancak, detaylı fiziksel veriler bulunmaması nedeniyle, dağın yüksekliği ve diğer özellikleri tam olarak bilinmemektedir.
 
-Mevsimsel özelliklere bakıldığında, Mereto Dağı'nın bulunduğu bölge, güneydoğu Anadolu'nun karakteristik iklimini taşır. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve karlı bir hava hüküm sürer. Bu iklim karakteri, dağın flora ve fauna oluşumunu etkiler ve bölgenin ekosistemini şekillendirmeye yardımcı olur.
+Mevsimsel özelliklere bakıldığında, Mereto Dağı'nın bulunduğu bölge, güneydoğu Anadolu'nun karakteristik iklimini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı bir hava hüküm sürer. Bu iklim karakteri, dağın flora ve fauna oluşumunu etkiler ve bölgenin ekosistemini şekillendirmeye yardımcı olur.
 
 Çevresel açıdan, Mereto Dağı, Batman Çayı vadisi ve çevresindeki dağlarla birlikte, bölgenin su kaynaklarını ve ekosistemini etkiler. Dağın yamaçları, vadideki su kaynaklarını besler ve bölgenin flora ve fauna çeşitliliğini destekler. Ayrıca, dağın etrafındaki dağlarla birlikte, bölgenin coğrafi yapısını şekillendiren önemli bir unsur olarak görülür ve bölgenin doğal güzelliğini korur.
 

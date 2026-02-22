@@ -37,7 +37,7 @@ Naletleme Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetle
 
 ## Coğrafya
 
-Naletleme Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, çeşitli bitki türleri ve hayvanlarla dolu bir bölge olarak dikkat çeker. Tepenin etrafında, geniş otlaklar ve ormanlık alanlar bulunur. Naletleme Tepesi, bölgenin iklimine uygun olarak, yaz aylarında sıca ve kurak, kış aylarında ise serin ve yağışlı bir hava durumu gösterir. Tepenin yüksekliği, ziyaretçilere geniş bir manzara sunar ve bölgenin coğrafi yapılarınılemek için ideal bir nokta olarak düşünülebilir. Naletleme Tepesi'nin coğrafi konumu, aynı zamanda bölgede yaşayan halkın yaşantısını etkileyen önemli bir faktör olarak görülür.
+Naletleme Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, çeşitli bitki türleri ve hayvanlarla dolu bir bölge olarak dikkat çeker. Tepenin etrafında, geniş otlaklar ve ormanlık alanlar bulunur. Naletleme Tepesi, bölgenin iklimine uygun olarak, yaz aylarında sıcak ve kurak, kış aylarında ise serin ve yağışlı bir hava durumu gösterir. Tepenin yüksekliği, ziyaretçilere geniş bir manzara sunar ve bölgenin coğrafi yapılarınılemek için ideal bir nokta olarak düşünülebilir. Naletleme Tepesi'nin coğrafi konumu, aynı zamanda bölgede yaşayan halkın yaşantısını etkileyen önemli bir faktör olarak görülür.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Doğal güzellikleri ile dikkat çeken Sıraca Dağı, Mersin'in coğrafi yapıs
 
 Jeolojik açıdan incelendiğinde, Sıraca Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, dağın coğrafi konumu ve çevresi ile ilgili bazı bilgiler elde edilebilir. Örneğin, dağın bulunduğu bölge, Türkiye'nin en uzun kıyı şeridine sahip olduğu Akdeniz Bölgesi'nde yer alır. Bu bölgenin coğrafi özellikleri, dağların ve ovaların bir arada bulunduğu bir yapıya sahiptir.
 
-Mevsimsel açıdan bakıldığında, Sıraca Dağı'nın iklim karakteri Akdeniz ikliminin özelliklerini taşır. Bu iklim, yazları sıca ve kurak, kışları ise ılık ve yağışlı bir hava durumuyla karakterizedir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve dağın ekosistemini şekillendirir.
+Mevsimsel açıdan bakıldığında, Sıraca Dağı'nın iklim karakteri Akdeniz ikliminin özelliklerini taşır. Bu iklim, yazları sıcak ve kurak, kışları ise ılık ve yağışlı bir hava durumuyla karakterizedir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve dağın ekosistemini şekillendirir.
 
 Çevresel açıdan incelendiğinde, Sıraca Dağı'nın komşu alanlar ve su kaynakları ile önemli bir ilişkisi bulunur. Dağ, çevresindeki ovalar ve vadiler ile bir bütün olarak düşünülür ve bu bölgelerin ekosistem bağlantıları önemlidir. Örneğin, dağdan kaynaklanan su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılar ve çevredeki canlıların yaşamını destekler.
 

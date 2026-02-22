@@ -44,7 +44,7 @@ Diyarbakır'ın coğrafi zenginliklerinden biri olan Zivar Dağı, 38.2558°K, 3
 
 Jeolojik açıdan bakıldığında, Zivar Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, bu dağların Diyarbakır'ın çevresindeki diğer dağlarla benzerlik gösterdiği biliniyor. Bu dağlar, genellikle bir şehir bloğu büyüklüğünde olan küçük alanlardan oluşuyor. Zivar Dağı'nın yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadar yükseklikte olduğu söylenebilir, ancak bu konuda daha kesin veriler bulunmuyor.
 
-Mevsimsel özelliklerine bakıldığında, Zivar Dağı ve çevresinin iklimi, Diyarbakır'ın genel iklim karakterini yansıtıyor. Bu bölge, yazları sıca ve kurak, kışları ise soğu ve yağışlı bir iklime sahip. Zivar Dağı'nın bulunduğu bölgede, yıllık yağış miktarı 400-600 mm arasında değişiyor. Bu durum, bölgenin tarım ve hayvancılık faaliyetleri için önemli bir faktör oluyor.
+Mevsimsel özelliklerine bakıldığında, Zivar Dağı ve çevresinin iklimi, Diyarbakır'ın genel iklim karakterini yansıtıyor. Bu bölge, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı bir iklime sahip. Zivar Dağı'nın bulunduğu bölgede, yıllık yağış miktarı 400-600 mm arasında değişiyor. Bu durum, bölgenin tarım ve hayvancılık faaliyetleri için önemli bir faktör oluyor.
 
 Ekosistem bağlantıları açısından, Zivar Dağı ve çevresindeki diğer dağlar, bölgenin su kaynaklarını şekillendiren önemli bir rol oynuyor. Bu dağlar, bölgenin su havzalarını besleyen akarsuların kaynağını oluşturuyor. Zivar Dağı'nın bulunduğu bölgede, Dicle Nehri gibi önemli su kaynakları bulunuyor. Bu nehir, bölgenin tarım ve sulama faaliyetleri için hayati önem taşıyor. Zivar Dağı, Monaco'nun yarısı kadar büyüklüğünde bir alanı kaplıyor ve bu bölgede, çeşitli bitki ve hayvan türleri yaşayabiliyor.
 

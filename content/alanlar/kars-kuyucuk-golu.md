@@ -30,7 +30,7 @@ Kars-Kuyucuk Golu'nun tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bölg
 
 ## Coğrafya
 
-Kars-Kuyucuk Golu, Kars ilinin merkezine uzun bir mesafe uzaklıktadır. Bu bölge, Doğu Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Kars-Kuyucuk Golu'nun coğrafyası, dağlık ve engebeli bir yapıya sahiptir. Burada, çeşitli bitki türleri ve hayvanlar bulunur. Bölgenin iklimi, karasal iklim özelliklerini taşır. Kışlar soğu ve karlı, yazlar ise sıcak ve kurudur. Kars-Kuyucuk Golu, çevresindeki dağlar ve ovalarla birlikte, bir coğrafi çeşitlilik gösterir. Bu bölge, doğa severler ve macera tutkunları için ideal bir destinasyondur. Ziyaretçiler, burada doğanın güzelliklerini keşfedebilir ve çeşitli faaliyetler yapabilir.
+Kars-Kuyucuk Golu, Kars ilinin merkezine uzun bir mesafe uzaklıktadır. Bu bölge, Doğu Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Kars-Kuyucuk Golu'nun coğrafyası, dağlık ve engebeli bir yapıya sahiptir. Burada, çeşitli bitki türleri ve hayvanlar bulunur. Bölgenin iklimi, karasal iklim özelliklerini taşır. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Kars-Kuyucuk Golu, çevresindeki dağlar ve ovalarla birlikte, bir coğrafi çeşitlilik gösterir. Bu bölge, doğa severler ve macera tutkunları için ideal bir destinasyondur. Ziyaretçiler, burada doğanın güzelliklerini keşfedebilir ve çeşitli faaliyetler yapabilir.
 
 ## Flora ve Fauna
 

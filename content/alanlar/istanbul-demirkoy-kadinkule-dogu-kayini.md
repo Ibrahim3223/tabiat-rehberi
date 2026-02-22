@@ -26,7 +26,7 @@ wikidata_id: "Q108227792"
 
 ## Tarihçe
 
-Istanbul-Demirkoy-Kadinkule Dogu Kayini milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bölge, uzun yıllar boyunca tarım ve hayvancılık faaliyetlerine ev sahipliği yapmış, daha sonra ise doğal güzelliği nedeniyle milli park olarak ilan edilmiştir. Bu quá trình, bölgenin doğal kaynaklarının korunmasına ve gelecek nesiller için bo tn edilmesine katkıda bulunmuştur. Parkın tarihi geçmişi, ziyaretçilerin bölgenin önemini ve değerini daha iyi anlamalarına yardımcı olur. Ayrıca, parkın oluşumunda etkili olan coğrafi ve ekolojik faktörler, ziyaretçilerin bölgenin güzelliğini ve çeşitliliğini daha iyi değerlendirmelerine olanak tanır.
+Istanbul-Demirkoy-Kadinkule Dogu Kayini milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bölge, uzun yıllar boyunca tarım ve hayvancılık faaliyetlerine ev sahipliği yapmış, daha sonra ise doğal güzelliği nedeniyle milli park olarak ilan edilmiştir. Bu quá trình, bölgenin doğal kaynaklarının korunmasına ve gelecek nesiller için korunmasıne katkıda bulunmuştur. Parkın tarihi geçmişi, ziyaretçilerin bölgenin önemini ve değerini daha iyi anlamalarına yardımcı olur. Ayrıca, parkın oluşumunda etkili olan coğrafi ve ekolojik faktörler, ziyaretçilerin bölgenin güzelliğini ve çeşitliliğini daha iyi değerlendirmelerine olanak tanır.
 
 ## Coğrafya
 

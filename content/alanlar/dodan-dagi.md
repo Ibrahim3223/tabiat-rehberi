@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin gizli cevherlerinden biri olan Dodan Dağı, 38
 
 Doğal güzelliklerin bir araya geldiği bu bölge, özellikle jeolojik açıdan ilgi çekici. Dodan Dağı'nın fiziksel yapısı, bölgenin tarihçesi ve coğrafi konumuyla yakından ilgili. Tıpkı Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplayan bu dağ, çevresi ile birlikte bir bütün olarak düşünülüyor. Ancak, fiziksel veriler sınırlı olduğundan, tam boyutları ve şekli hakkında net bir fikir vermek zor.
 
-İklim açısından bakıldığında, Dodan Dağı ve çevresinin mevsimsel özellikleri dikkat çekiyor. Bölgenin karakteristik yarı kurak iklimi, yaz aylarında yüksek sıcaklık ve kuraklık, kış aylarında ise soğu ve yağışlı hava koşullarıyla belirginleşiyor. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu dağ, bölgenin hava durumunu etkileyen önemli faktörlerden biri.
+İklim açısından bakıldığında, Dodan Dağı ve çevresinin mevsimsel özellikleri dikkat çekiyor. Bölgenin karakteristik yarı kurak iklimi, yaz aylarında yüksek sıcaklık ve kuraklık, kış aylarında ise soğuk ve yağışlı hava koşullarıyla belirginleşiyor. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu dağ, bölgenin hava durumunu etkileyen önemli faktörlerden biri.
 
 Bölgenin ekosistem bağlantıları açısından, Dodan Dağı önemli bir rol oynuyor. Çevresindeki su kaynakları ve komşu alanlar, bu dağ ile yakından bağlantılı. Monaco'nun yarısı kadar büyük bir alanı kaplayan Siirt ilinin sınırları içerisinde yer alan Dodan Dağı, bölgenin doğal dengesini koruması açısından önemli bir konumda bulunuyor. Bu nedenle, çevreye duyarlı bir şekilde koruma ve kullanma efforts gösterilmesi gerekiyor.
 
@@ -54,7 +54,7 @@ Dodan Dağı, yarı kurak iklimin hüküm sürdüğü bir bölgede yer alır ve 
 
 İlkbaharda, dağ yamaçları rengarenk çiçeklerle kaplanır. step ve ova bitkilerinin yanı sıra, alpin flora da bu mevsimde ortaya çıkar. Sonbaharda ise, göç eden kuşlar dağların üzerinde uçarken, dağ hayvanları ise daha yüksek rakımlara çıkarak soğuğa karşı korunmaya çalışırlar.
 
-Dodan Dağı, memeliler, kuşlar ve sürüngenler için önemli bir yaşam alanıdır. Dağ keçileri ve yaban keçileri gibi memeliler, dağların kayalık ve dik yamaçlarında yaşarken, kartallar ve şahinler gibi kuşlar dağların üzerinde uçarak avlanırlar. Sürüngenler ise, dağların sıca ve kuru bölgelerinde yaşarlar. Bu ekosistem, canlıların birbirine bağımlı olduğu bir ilişki ağıdır. Örneğin, dağ keçileri otları yiyerek step ekolojisini şekillendirirken, kartallar da bu keçileri avlayarak population dengesini sağlar. Dodan Dağı, bu nedenle önemli bir ekolojik değer taşıyor ve koruma altına alınması gerekiyor.
+Dodan Dağı, memeliler, kuşlar ve sürüngenler için önemli bir yaşam alanıdır. Dağ keçileri ve yaban keçileri gibi memeliler, dağların kayalık ve dik yamaçlarında yaşarken, kartallar ve şahinler gibi kuşlar dağların üzerinde uçarak avlanırlar. Sürüngenler ise, dağların sıcak ve kuru bölgelerinde yaşarlar. Bu ekosistem, canlıların birbirine bağımlı olduğu bir ilişki ağıdır. Örneğin, dağ keçileri otları yiyerek step ekolojisini şekillendirirken, kartallar da bu keçileri avlayarak population dengesini sağlar. Dodan Dağı, bu nedenle önemli bir ekolojik değer taşıyor ve koruma altına alınması gerekiyor.
 
 ## Ziyaret Bilgileri
 

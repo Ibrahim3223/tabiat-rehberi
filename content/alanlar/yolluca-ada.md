@@ -43,7 +43,7 @@ Gökyüzünden bakıldığında, Ege Denizi'nin mavi suları içinde bir nokta g
 
 Doğal güzelliği ve coğrafi konumuyla dikkat çeken Yolluca Ada, küçük bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Ada'nın fiziksel yapısı hakkında detaylı bilgi olmasa da, Ege Denizi'nin diğer adalarına benzer şekilde, đá ve kayalık bir yapıya sahip olduğu söylenebilir. Yolluca Ada, Ege Denizi'nin diğer adaları gibi, jeolojik olarak yaşlı bir bölgeye ait ve bu bölgenin karakteristik özelliklerini taşıyor.
 
-Mevsimsel özelliklere bakıldığında, Yolluca Ada, Akdeniz ikliminin karakteristik özelliklerine sahip. Yaz aylarında sıca ve kuru, kış aylarında ise ılık ve yağışlı bir hava hüküm sürüyor. Ada, Ege Denizi'nin diğer bölgelerine benzer şekilde, yıl boyunca ılıman bir iklim karakteri gösteriyor. Hava durumu, genellikle güneşli ve açık olsa da, kış aylarında yağışlar görülüyor.
+Mevsimsel özelliklere bakıldığında, Yolluca Ada, Akdeniz ikliminin karakteristik özelliklerine sahip. Yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı bir hava hüküm sürüyor. Ada, Ege Denizi'nin diğer bölgelerine benzer şekilde, yıl boyunca ılıman bir iklim karakteri gösteriyor. Hava durumu, genellikle güneşli ve açık olsa da, kış aylarında yağışlar görülüyor.
 
 Ada'nın çevresel ilişkilerine bakıldığında, Yolluca Ada, Ege Denizi'nin ekosistemine bağlı bir şekilde, su kaynakları ve diğer adalar ile bağlantılı bir konumda yer alıyor. Ada, İzmir'in kıyı şeridinin bir parçası olarak, bölgenin doğal güzelliklerini ve biyolojik çeşitliliğini koruma altına alıyor. Yolluca Ada, Ege Denizi'nin diğer adaları gibi, doğal bir habitat olarak, çeşitli bitki ve hayvan türleri için yaşam alanı sunuyor.
 

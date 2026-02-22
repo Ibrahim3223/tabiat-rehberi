@@ -28,7 +28,7 @@ wikidata_id: "Q97211185"
 
 # Beyazgöz Şelalesi
 
-Beyazgöz Şelalesi, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzellik. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Şelalenin suyu, kaynağından itibaren yaklaşık yüksek bir konumdaten dökülerek, çevreye serinli ve huzur saçıyor. Bu şelale, bölgenin en önemli turizm noktalarından biri olarak dikkat çekiyor.
+Beyazgöz Şelalesi, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzellik. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Şelalenin suyu, kaynağından itibaren yüksek bir konumdan dökülerek, çevreye serinli ve huzur saçıyor. Bu şelale, bölgenin en önemli turizm noktalarından biri olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -48,7 +48,7 @@ Beyazgöz Şelalesi'ni ziyaret etmek, doğa severler için bir macera. Şelaleye
 
 ## İlginç Bilgiler
 
-- Beyazgöz Şelalesi, yaklaşık yüksek bir konumdate yer alıyor
+- Beyazgöz Şelalesi, yüksek bir konumda yer alıyor
 - Şelale, 140 hektarlık bir alanı kaplıyor
 - Şelale çevresinde, yaklaşık 50 farklı bitki türü tespit edilmiştir
 - Şelale, birçok hayvan türüne ev sahipliği yapıyor

@@ -30,7 +30,7 @@ Kale Bolu Fındığı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmişti
 
 ## Coğrafya
 
-Kale Bolu Fındığı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölgenin coğrafyası, genellikle step ve ormanlardan oluşur. Milli park, 140 hektarlık bir yeşil alana sahiptir ve yaklaşık 200 futbol sahası büyüklüğündedir. Burada, çeşitli bitkiler ve ağaçlar bulunur. İklim, karasal iklim özellikleri gösterir ve mevsimsel değişimler belirgindir. Kışlar soğu ve karlı, yazlar ise sıcak ve kuru geçer. Çevre, doğayla iç içe geçer ve ziyaretçilere doğanın güzelliğini sunar.
+Kale Bolu Fındığı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölgenin coğrafyası, genellikle step ve ormanlardan oluşur. Milli park, 140 hektarlık bir yeşil alana sahiptir ve yaklaşık 200 futbol sahası büyüklüğündedir. Burada, çeşitli bitkiler ve ağaçlar bulunur. İklim, karasal iklim özellikleri gösterir ve mevsimsel değişimler belirgindir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuru geçer. Çevre, doğayla iç içe geçer ve ziyaretçilere doğanın güzelliğini sunar.
 
 ## Flora ve Fauna
 

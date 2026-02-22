@@ -38,7 +38,7 @@ Hacı Hasan Efendi Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenm
 
 ## Coğrafya
 
-Hacı Hasan Efendi Türbesi, Karadeniz Bölgesi'nin güzide ilçesi Alucra'da yer alıyor. Bu bölge, Yeşilırmak Nehri'nin kıyısında kurulmuş ve dağların eteklerinde yer alıyor. Türbenin etrafındaki bölge, ormanlık alanlar ve yeşil vadilerle çevrili. Bu bölgenin iklimi, Karadeniz iklimi özellikleri gösteriyor ve yazları serin, kışları ılıman geçiyor. Hacı Hasan Efendi Türbesi, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor ve bu bölgeden Karadeniz'in güzel manzaralarını izleme mümkün. Türbenin etrafındaki bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu bölge, yaban hayatı açısından zengin ve çeşitli türleri barındırıyor.
+Hacı Hasan Efendi Türbesi, Karadeniz Bölgesi'nin güzide ilçesi Alucra'da yer alıyor. Bu bölge, Yeşilırmak Nehri'nin kıyısında kurulmuş ve dağların eteklerinde yer alıyor. Türbenin etrafındaki bölge, ormanlık alanlar ve yeşil vadilerle çevrili. Bu bölgenin iklimi, Karadeniz iklimi özellikleri gösteriyor ve yazları serin, kışları ılıman geçiyor. Hacı Hasan Efendi Türbesi, yüksek bir konumda yer alıyor ve bu bölgeden Karadeniz'in güzel manzaralarını izleme mümkün. Türbenin etrafındaki bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu bölge, yaban hayatı açısından zengin ve çeşitli türleri barındırıyor.
 
 ## Flora ve Fauna
 

@@ -53,7 +53,7 @@ Ada'nın çevresel ilişkileri, komşu alanlar ve su kaynakları ile şekillenir
 
 Garip Adası, İzmir'in kıyılarında yer alan bir ada ekosistemi olarak, zeytinlikler ve çam ormanları ile çevrili bir Akdeniz iklimine sahiptir. 
 
-Bitki Örtüsü olarak, ada ilkbahar aylarında renkli çiçeklerle donanırken, yaz aylarında sıca ve kurak bir hava hakimdir. Kıyı şeridinde, tuzlu toprakları seven bitkiler bulunur. 
+Bitki Örtüsü olarak, ada ilkbahar aylarında renkli çiçeklerle donanırken, yaz aylarında sıcak ve kurak bir hava hakimdir. Kıyı şeridinde, tuzlu toprakları seven bitkiler bulunur. 
 
 Yaban Hayatı açısından, ada özellikle deniz kuşları için bir üreme ve göç noktalarından biridir. Sonbahar aylarında, göçmen kuşlar adayı ziyaret ederken, memeliler ve sürüngenler de adanın ekosisteminin bir parçasıdır.
 

@@ -37,7 +37,7 @@ Som Tepesi'nin tarihi geçmişi, bölgenin kültürel zenginliğini yansıtıyor
 
 ## Coğrafya
 
-Som Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, dağlık bir araziye sahip ve Som Tepesi de bu dağların bir parçası. Tepenin etrafı, çeşitli bitki türleriyle dolu ve iklim, bölgenin genel iklimine uygun olarak genellikle sıca ve khô. Çevre, birçok doğal güzelliğe ev sahipliği yapıyor veSom Tepesi, bu güzelliklerin merkezinde yer alıyor. Bölgenin coğrafi yapısı, ziyaretçilere birçok aktivite imkanı sunuyor; trekking, kampçılık ve doğa yürüyüşleri harika bir deneyim. Som Tepesi, doğal güzelliklerinin yanı sıra, coğrafi konumuyla da dikkat çekiyor.
+Som Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, dağlık bir araziye sahip ve Som Tepesi de bu dağların bir parçası. Tepenin etrafı, çeşitli bitki türleriyle dolu ve iklim, bölgenin genel iklimine uygun olarak genellikle sıcak ve kuru. Çevre, birçok doğal güzelliğe ev sahipliği yapıyor veSom Tepesi, bu güzelliklerin merkezinde yer alıyor. Bölgenin coğrafi yapısı, ziyaretçilere birçok aktivite imkanı sunuyor; trekking, kampçılık ve doğa yürüyüşleri harika bir deneyim. Som Tepesi, doğal güzelliklerinin yanı sıra, coğrafi konumuyla da dikkat çekiyor.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Kavaklık Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetle
 
 ## Coğrafya
 
-Kavaklık Tepesi, Doğu Anadolu Bölgesi'nin coğrafi güzelliklerinin en önemli temsilcilerinden biri olarak karşımıza çıkıyor. Tepenin etrafında yer alan 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölgede çeşitli bitki türleri ve zengin fauna bulunmakta. Kavaklık Tepesi, Kars şehrinin merkezine uzun bir mesafe uzaklıkta yer alıyor ve bu sayede ziyaretçilere şehrin gürültüsünden uzaklaşarak doğayla iç içe bir deneyim sunuyor. Tepenin yüksekliği, deniz seviyesinden yaklaşık 2000 metre yukarıda ve bu nedenle bölgede iklim, genellikle soğu ve karlı olarak görülüyor. Kavaklık Tepesi'nin coğrafi konumu, aynı zamanda bölgede yer alan diğer doğal güzelliklere de yakınlık sağlıyor ve bu sayede ziyaretçiler, bölgede yer alan diğer önemli noktaları da keşfetme fırsatı bulabiliyor.
+Kavaklık Tepesi, Doğu Anadolu Bölgesi'nin coğrafi güzelliklerinin en önemli temsilcilerinden biri olarak karşımıza çıkıyor. Tepenin etrafında yer alan 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölgede çeşitli bitki türleri ve zengin fauna bulunmakta. Kavaklık Tepesi, Kars şehrinin merkezine uzun bir mesafe uzaklıkta yer alıyor ve bu sayede ziyaretçilere şehrin gürültüsünden uzaklaşarak doğayla iç içe bir deneyim sunuyor. Tepenin yüksekliği, deniz seviyesinden yaklaşık 2000 metre yukarıda ve bu nedenle bölgede iklim, genellikle soğuk ve karlı olarak görülüyor. Kavaklık Tepesi'nin coğrafi konumu, aynı zamanda bölgede yer alan diğer doğal güzelliklere de yakınlık sağlıyor ve bu sayede ziyaretçiler, bölgede yer alan diğer önemli noktaları da keşfetme fırsatı bulabiliyor.
 
 ## Flora ve Fauna
 

@@ -31,7 +31,7 @@ Aras Karasu Taşkın Ovası Sulak Alanı'nın tarihi geçmişi, yüzyıllar boyu
 
 ## Coğrafya
 
-Aras Karasu Taşkın Ovası Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı ile şekillenmiştir. Bu bölgenin coğrafyası, dağlar, ovalar ve akarsular ile karakterizedir. Aras Karasu Nehri, sulak alanın oluşmasında önemli bir role sahiptir. Nehrin taşkınları, sulak alanın yapısını şekillendirmiştir. Bu bölgenin iklimi, karasal iklim özellikleri göstermektedir. Kışlar soğu ve yağışlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, sulak alanın doğal yapısını etkilemektedir. Sulak alan, aynı zamanda bölgenin su kaynaklarını da etkilemektedir.
+Aras Karasu Taşkın Ovası Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı ile şekillenmiştir. Bu bölgenin coğrafyası, dağlar, ovalar ve akarsular ile karakterizedir. Aras Karasu Nehri, sulak alanın oluşmasında önemli bir role sahiptir. Nehrin taşkınları, sulak alanın yapısını şekillendirmiştir. Bu bölgenin iklimi, karasal iklim özellikleri göstermektedir. Kışlar soğuk ve yağışlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, sulak alanın doğal yapısını etkilemektedir. Sulak alan, aynı zamanda bölgenin su kaynaklarını da etkilemektedir.
 
 ## Flora ve Fauna
 

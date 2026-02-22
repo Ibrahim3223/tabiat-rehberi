@@ -29,7 +29,7 @@ wikidata_id: "Q1337971"
 
 # Tortum Şelalesi
 
-Tortum Şelalesi, Erzurum'un Tortum ilçesinde yer alan ve yaklaşık yüksek bir konumdaten dökülen bir şelaledir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu alanın büyük bir kısmı ormanlık araziden oluşmaktadır. Şelalenin etrafı, çeşitli ağaç türleriyle kaplıdır ve ziyaretçilere doğayla iç içe bir deneyim sunar. Şelale, yıl boyunca ziyaretçilerini ağırlamaktadır ve özellikle ilkbahar ve yaz aylarında daha çok ziyaretçi almaktadır.
+Tortum Şelalesi, Erzurum'un Tortum ilçesinde yer alan ve yüksek bir konumdan dökülen bir şelaledir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu alanın büyük bir kısmı ormanlık araziden oluşmaktadır. Şelalenin etrafı, çeşitli ağaç türleriyle kaplıdır ve ziyaretçilere doğayla iç içe bir deneyim sunar. Şelale, yıl boyunca ziyaretçilerini ağırlamaktadır ve özellikle ilkbahar ve yaz aylarında daha çok ziyaretçi almaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Tortum Şelalesi, yüzyıllar boyunca bölgede yaşayan insanların hayatında �
 
 ## Coğrafya
 
-Tortum Şelalesi, Doğu Anadolu Bölgesi'nin coğrafi özellikleri göz önüne alındığında, oldukça önemli bir doğal güzelliktir. Şelale,  Tortum ilçesinin merkezinde yer almaktadır ve etrafı ormanlık arazilerle çevrilidir. Şelalenin yüksekliği yaklaşık 48 metre olup, şelalenin etrafındaki arazi, çeşitli bitkiler ve ağaçlarla kaplıdır. Şelale, yıl boyunca akan bir su kaynağına sahiptir ve suyun debisi mevsimlere göre değişmektedir. İlkbahar ve yaz aylarında suyun debisi daha yüksek iken, sonbahar ve kış aylarında debi daha düşüktür. Şelalenin etrafındaki iklim, karasal iklim özelliklerine sahiptir ve yaz ayları sıca ve kurak, kış ayları soğu ve karlı geçmektedir.
+Tortum Şelalesi, Doğu Anadolu Bölgesi'nin coğrafi özellikleri göz önüne alındığında, oldukça önemli bir doğal güzelliktir. Şelale,  Tortum ilçesinin merkezinde yer almaktadır ve etrafı ormanlık arazilerle çevrilidir. Şelalenin yüksekliği yaklaşık 48 metre olup, şelalenin etrafındaki arazi, çeşitli bitkiler ve ağaçlarla kaplıdır. Şelale, yıl boyunca akan bir su kaynağına sahiptir ve suyun debisi mevsimlere göre değişmektedir. İlkbahar ve yaz aylarında suyun debisi daha yüksek iken, sonbahar ve kış aylarında debi daha düşüktür. Şelalenin etrafındaki iklim, karasal iklim özelliklerine sahiptir ve yaz ayları sıcak ve kurak, kış ayları soğuk ve karlı geçmektedir.
 
 ## Flora ve Fauna
 

@@ -42,7 +42,7 @@ Doğunun gizli köşelerinden biri olan Burun Dağı, 38.0162° kuzey enlemi ve 
 
 Jeolojik açıdan bakıldığında, Burun Dağı'nın fiziksel yapısı hakkında spesifik bilgiler olmasa da, genel olarak bölgenin dağlık ve engebeli bir coğrafyaya sahip olduğu biliniyor. Bu dağlık alan, Monaco'nun yarısı kadar bir alanı kaplıyor ve bölgenin doğal güzelliğini ortaya koyuyor. Yükseklik açısından, Eiffel Kulesi'nin birkaç katı yükseklikte olan Burun Dağı, bölgenin en dikkat çekici noktalarından biri.
 
-Mevsimsel olarak, Burun Dağı'nın iklimi, bölgenin genel iklim koşullarına benzer. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve yağışlı bir iklim hakim. Bu mevsimsel değişimler, bölgenin flora ve fauna için önemli bir çeşitlilik yaratıyor.
+Mevsimsel olarak, Burun Dağı'nın iklimi, bölgenin genel iklim koşullarına benzer. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklim hakim. Bu mevsimsel değişimler, bölgenin flora ve fauna için önemli bir çeşitlilik yaratıyor.
 
 Çevresel açıdan, Burun Dağı, bölgenin su kaynakları ve ekosistem bağlantıları açısından önemli bir role sahip. Burun Dağı'nın eteklerinde yer alan su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılıyor. Ayrıca, dağlık alan, bölgenin doğal yaşamı için önemli bir habitat oluşturuyor ve bölgenin biyolojik çeşitliliğini koruyor.
 

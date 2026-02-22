@@ -36,7 +36,7 @@ Koyungediği Tepesi'nin tarihi geçmişi oldukça zengin. Yüzyıllar boyunca bu
 
 ## Coğrafya
 
-Koyungediği Tepesi, Akdeniz Bölgesi'nin coğrafi olarak en önemli noktalarından biri. Bu tepe, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunması, burayı bir doğa harikası haline getiriyor. Koyungediği Tepesi'nin coğrafi yapısı, ziyaretçilere unutulmaz bir deneyim sunuyor. Tepenin zirvesinden, Akdeniz Bölgesi'nin panoramik manzarasını izleme mümkün. Ayrıca, bu bölge, zengin maden kaynaklarına sahip.
+Koyungediği Tepesi, Akdeniz Bölgesi'nin coğrafi olarak en önemli noktalarından biri. Bu tepe, yüksek bir konumda yer alıyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunması, burayı bir doğa harikası haline getiriyor. Koyungediği Tepesi'nin coğrafi yapısı, ziyaretçilere unutulmaz bir deneyim sunuyor. Tepenin zirvesinden, Akdeniz Bölgesi'nin panoramik manzarasını izleme mümkün. Ayrıca, bu bölge, zengin maden kaynaklarına sahip.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ Koyungediği Tepesi, flora ve fauna açısından oldukça zengin bir bölge. Tep
 
 ## Ziyaret Bilgileri
 
-Koyungediği Tepesi'ni ziyaret etmek, doğa severler için bir hayal harika bir deneyim. Bu tepe, yaklaşık yüksek bir konumdate yer alıyor. Ziyaretçiler, tepenin zirvesine yürüyere veya araçla çıkabilir. Tepenin etrafında, çeşitli yürüyüş parkurları bulunmakta. Koyungediği Tepesi'ni ziyaret etmek için, en iyi zaman bahar ve yaz ayları. Bu mevsimlerde, hava sıcaklığı ve doğa koşulları, ziyaretçilere konforlu bir deneyim sunuyor.
+Koyungediği Tepesi'ni ziyaret etmek, doğa severler için bir hayal harika bir deneyim. Bu tepe, yüksek bir konumda yer alıyor. Ziyaretçiler, tepenin zirvesine yürüyere veya araçla çıkabilir. Tepenin etrafında, çeşitli yürüyüş parkurları bulunmakta. Koyungediği Tepesi'ni ziyaret etmek için, en iyi zaman bahar ve yaz ayları. Bu mevsimlerde, hava sıcaklığı ve doğa koşulları, ziyaretçilere konforlu bir deneyim sunuyor.
 
 ## İlginç Bilgiler
 

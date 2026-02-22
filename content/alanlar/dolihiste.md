@@ -44,7 +44,7 @@ Güney kıyılarımızın güzelliği, Antalya'nın sahillerinde yoğunlaşmış
 
 Jeolojik açıdan bakıldığında, Dolihiste adasının fiziksel yapısı hakkında detaylı bilgiler bulunmuyor. Ancak, bulunduğu bölgenin coğrafyası, genellikle kalkerli arazilerden oluşuyor. Bu da, adanın şeklinin ve boyutlarının zaman içinde deniz ve rüzgarın etkileri ile değişmiş olabileceğini düşündürüyor. Taksim Meydanı'nın birkaç katı büyüklüğünde olan bu ada, küçük olmasına rağmen bir çok güzelliği barındırıyor.
 
-Mevsimsel olarak bakıldığında, Akdeniz ikliminin hüküm sürdüğü bu bölgede, yazlar sıca ve kurak, kışlar ise ılık ve yağışlı geçiyor. Eiffel Kulesi'nin yüksekliğine ulaşan dağların ı, adanın iklimini daha da özel kılıyor. Bu özel iklim, adayı bir çok bitki ve hayvan türünün yaşam alanı haline getiriyor.
+Mevsimsel olarak bakıldığında, Akdeniz ikliminin hüküm sürdüğü bu bölgede, yazlar sıcak ve kurak, kışlar ise ılık ve yağışlı geçiyor. Eiffel Kulesi'nin yüksekliğine ulaşan dağların ı, adanın iklimini daha da özel kılıyor. Bu özel iklim, adayı bir çok bitki ve hayvan türünün yaşam alanı haline getiriyor.
 
 Doğal güzellikleri ile dikkat çeken bu ada, çevresindeki su kaynakları ve ekosistem bağlantıları ile de önemli. Monaco'nun yarısı kadar büyük olmayan bu ada, çevresindeki diğer adalar ve su kaynakları ile birlikte büyük bir ekosistemi oluşturuyor. İstanbul'un Adalar ilçesi büyüklüğünde olmayan bu ada, küçük olmasına rağmen büyük bir güzelliği ve önemi taşıyor.
 

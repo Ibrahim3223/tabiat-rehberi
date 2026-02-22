@@ -36,7 +36,7 @@ Kalkada Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu tepe,
 
 ## Coğrafya
 
-Kalkada Tepesi, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve çevresi zengin flora ile çevrili. Kalkada Tepesi, aynı zamanda yaban hayatı açısından önemli bir bölge. Burada, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Kalkada Tepesi, iklim açısından İç Anadolu Bölgesi'nin genel característicasını paylaşıyor. Bu tepe, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve kar yağışlı bir iklimi experiencia ediyor. Kalkada Tepesi, çevresi ile birlikte bir bütün olarak düşünüldüğünde, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini gösteriyor.
+Kalkada Tepesi, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve çevresi zengin flora ile çevrili. Kalkada Tepesi, aynı zamanda yaban hayatı açısından önemli bir bölge. Burada, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Kalkada Tepesi, iklim açısından İç Anadolu Bölgesi'nin genel característicasını paylaşıyor. Bu tepe, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve kar yağışlı bir iklimi experiencia ediyor. Kalkada Tepesi, çevresi ile birlikte bir bütün olarak düşünüldüğünde, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini gösteriyor.
 
 ## Flora ve Fauna
 

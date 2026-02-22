@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin coğrafi güzelliği, Şırnak ilinin dağlık 
 
 Doğal güzelliği ve coğrafi konumuyla dikkat çeken Garskagrehindo Tepe, çevresindeki dağlarla birlikte bir bütün oluşturur. Bu dağlık alan, Monaco'nun yarısı kadar bir alanı kaplayan Şırnak ilinin coğrafi çeşitliliğini gösterir. Ancak, Garskagrehindo Tepe'nin kendi boyutları, birkaç olimpik havuz kadar bir alanı kapsar. Bu küçük ama önemli bir noktadır ve bölgenin jeolojik yapısını anlamak için önemlidir.
 
-Mevsimsel değişikliklere göre iklim karakteri değişen bu bölgede, hava durumu genellikle sıca ve kurudur. Yaz aylarında sıcaklık 35 dereceye kadar çıkarken, kış aylarında 0 dereceye kadar düşer. Bu mevsimsel özellikler, bölgenin ekosistemini ve doğal yaşamını etkiler. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı zirveler, bu bölgenin yüksekliklerini gösterir.
+Mevsimsel değişikliklere göre iklim karakteri değişen bu bölgede, hava durumu genellikle sıcak ve kurudur. Yaz aylarında sıcaklık 35 dereceye kadar çıkarken, kış aylarında 0 dereceye kadar düşer. Bu mevsimsel özellikler, bölgenin ekosistemini ve doğal yaşamını etkiler. Eiffel Kulesi'nin 2 katı yükseklikte olan bazı zirveler, bu bölgenin yüksekliklerini gösterir.
 
 Bölgenin su kaynakları ve ekosistem bağlantıları da önemlidir. Garskagrehindo Tepe, çevresindeki dağlarla birlikte bir su toplama alanı oluşturur. Bu su kaynakları, bölgenin tarım ve hayvancılık faaliyetlerini destekler. Ayrıca, bu alanlar, çeşitli bitki ve hayvan türleri için bir yaşam alanı sağlar. İstanbul'un Adalar ilçesi büyüklüğünde olan Şırnak ilinin bu bölümü, doğal güzelliği ve coğrafi çeşitliliğiyle dikkat çeker.
 

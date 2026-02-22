@@ -30,7 +30,7 @@ Kutahya-Altintas Karacam milli parkının tarihi geçmişi, yüzyıllar boyunca 
 
 ## Coğrafya
 
-Kutahya-Altintas Karacam milli parkı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. 140 hektarlık arazisi, çeşitli bitki türleriyle kaplı ve yaban hayatı açısından zengin. Parkın coğrafyası, ziyaretçilere hem dağlık alanları hem de ova bölgelerini keşfetme fırsatı sunuyor. İklim, İç Anadolu Bölgesi'nin tipik karasal iklimini yansıtıyor; kışlar soğu ve karlı, yazlar ise sıcak ve kurak geçiyor. Çevre, doğal güzellikleriyle ziyaretçileri büyülüyor ve doğayla iç içe bir deneyim sunuyor. Milli parkın coğrafi konumu, ziyaretçilerin bölgeyi keşfetmeleri için ideal bir ortam sağlıyor.
+Kutahya-Altintas Karacam milli parkı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. 140 hektarlık arazisi, çeşitli bitki türleriyle kaplı ve yaban hayatı açısından zengin. Parkın coğrafyası, ziyaretçilere hem dağlık alanları hem de ova bölgelerini keşfetme fırsatı sunuyor. İklim, İç Anadolu Bölgesi'nin tipik karasal iklimini yansıtıyor; kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Çevre, doğal güzellikleriyle ziyaretçileri büyülüyor ve doğayla iç içe bir deneyim sunuyor. Milli parkın coğrafi konumu, ziyaretçilerin bölgeyi keşfetmeleri için ideal bir ortam sağlıyor.
 
 ## Flora ve Fauna
 

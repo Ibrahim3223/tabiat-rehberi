@@ -44,7 +44,7 @@ Diyarbakır'ın doğusunda yer alan Hamitali Tepe, 37.9619°K, 40.7725°D koordi
 
 Jeolojik açıdan bakıldığında, Hamitali Tepe'nin oluşumu hakkında detaylı bilgi bulunmasa da, bölgenin genel jeolojik yapısı kireçtaşı ve kumtaşı katmanlarından oluşmaktadır. Tepe, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplar ve şekli itibariyle bir üçgeni andırır. Yüksekliği hakkında kesin bir bilgi olmasa da, bölgenin genel yüksekliklerine bakıldığında, Eiffel Kulesi'nin yaklaşık 1/5'i kadar bir yükseklikte olduğu söylenebilir.
 
-Mevsimler boyunca Hamitali Tepe'nin iklimi, Diyarbakır'ın genel iklim karakterine benzerlik gösterir. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıca ve kurak bir hava hakimdir. Bölge, yıllık ortalama 400 mm yağış alır ve bu yağışlar genellikle ilkbahar ve kış aylarında görülür. Hava koşulları, tepe ve çevresindeki bitki örtüsünü ve ekosistemi doğrudan etkiler.
+Mevsimler boyunca Hamitali Tepe'nin iklimi, Diyarbakır'ın genel iklim karakterine benzerlik gösterir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bölge, yıllık ortalama 400 mm yağış alır ve bu yağışlar genellikle ilkbahar ve kış aylarında görülür. Hava koşulları, tepe ve çevresindeki bitki örtüsünü ve ekosistemi doğrudan etkiler.
 
 Çevresel açıdan bakıldığında, Hamitali Tepe, Diyarbakır'ın sulak alanlarına ve ovalarına yakındır. Bölge, Dicle Nehri'nin bir kolu olan Lice Çayı'na yaklaşık 10 kilometre uzaklıktadır. Bu su kaynakları, tepe ve çevresindeki ekosistemin canlılığını sağlar ve bölgenin flora ve faunasını besler. Hamitali Tepe, Monaco'nun yaklaşık 1/20'si kadar bir alanı kaplayan bir bölge olarak, bölgenin coğrafi ve ekolojik dengesini korumak için önemli bir rol oynar.
 

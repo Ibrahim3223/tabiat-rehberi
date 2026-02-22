@@ -36,11 +36,11 @@ Tahtakili Tepesi, yüzyıllar boyunca önemli bir yerleşim ve ticaret merkezi o
 
 ## Coğrafya
 
-Tahtakili Tepesi, Şanlıurfa'nın merkezi ile çevresi arasında yer alan bir coğrafi oluşumdur. Bu tepe, bölgenin coğrafi yapısını şekillendiren önemli bir unsurdur. Tepenin etrafında, çeşitli bitki türleri ve fauna bulunur. Bölgenin iklimi, genellikle sıca ve kuru bir karakterdedir. Bu coğrafi yapı, ziyaretçilere farklı bir ortam sunar. Tahtakili Tepesi, Şanlıurfa'nın coğrafi güzelliklerini keşfetmek için ideal bir noktadır. Tepenin yüksekliği, çevreyi panoramik olarak seyretmek için ziyaretçilere olanak sağlar.
+Tahtakili Tepesi, Şanlıurfa'nın merkezi ile çevresi arasında yer alan bir coğrafi oluşumdur. Bu tepe, bölgenin coğrafi yapısını şekillendiren önemli bir unsurdur. Tepenin etrafında, çeşitli bitki türleri ve fauna bulunur. Bölgenin iklimi, genellikle sıcak ve kuru bir karakterdedir. Bu coğrafi yapı, ziyaretçilere farklı bir ortam sunar. Tahtakili Tepesi, Şanlıurfa'nın coğrafi güzelliklerini keşfetmek için ideal bir noktadır. Tepenin yüksekliği, çevreyi panoramik olarak seyretmek için ziyaretçilere olanak sağlar.
 
 ## Flora ve Fauna
 
-Tahtakili Tepesi, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir. Bölgenin mevsimsel değişimleri, bitki örtüsünü ve canlıları etkiler. Bahar aylarında, tepe ve çevresinde çiçekler açar ve çevreyi renklendirir. Kış aylarında ise, bölgenin iklimi soğu ve yağışlı olabilir. Bu mevsimsel değişimler, fauna için de önemli bir faktördür. Tahtakili Tepesi, doğa severler için bir cennet olarak kabul edilebilir. Burada, çeşitli bitki türleri ve hayvanlar, ziyaretçilere doğanın güzelliklerini sunar.
+Tahtakili Tepesi, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir. Bölgenin mevsimsel değişimleri, bitki örtüsünü ve canlıları etkiler. Bahar aylarında, tepe ve çevresinde çiçekler açar ve çevreyi renklendirir. Kış aylarında ise, bölgenin iklimi soğuk ve yağışlı olabilir. Bu mevsimsel değişimler, fauna için de önemli bir faktördür. Tahtakili Tepesi, doğa severler için bir cennet olarak kabul edilebilir. Burada, çeşitli bitki türleri ve hayvanlar, ziyaretçilere doğanın güzelliklerini sunar.
 
 ## Ziyaret Bilgileri
 
@@ -50,6 +50,6 @@ Tahtakili Tepesi'ni ziyaret etmek, Şanlıurfa'nın tarihi ve doğal güzellikle
 
 - Tahtakili Tepesi, Şanlıurfa'nın merkezi ile çevresi arasında yer alır
 - Tepenin etrafında, çeşitli bitki türleri ve fauna bulunur
-- Bölgenin iklimi, genellikle sıca ve kuru bir karakterdedir
+- Bölgenin iklimi, genellikle sıcak ve kuru bir karakterdedir
 - Tahtakili Tepesi, Şanlıurfa'nın coğrafi güzelliklerini keşfetmek için ideal bir noktadır
 - Tepenin yüksekliği, çevreyi panoramik olarak seyretmek için ziyaretçilere olanak sağlar

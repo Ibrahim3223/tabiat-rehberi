@@ -36,7 +36,7 @@ wikidata_id: "Q34829792"
 
 ## Coğrafya
 
-Ördekburnu Tepesi, Gaziantep'in güneydoğusunda yer alan bir tepe olup, şehrin coğrafi yapısına önemli bir katkı sağlar. Tepenin yüksekliği, şehrin diğer bölgelerine göre daha yüksektir ve bu nedenle, buradan şehrin panoramik manzarasını izleme mümkündür. Ördekburnu Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olup, bu geniş alan birçok farklı bitki türüne ve zengin faunaya ev sahipliği yapar. Tepenin etrafında, çeşitli ağaçlar, çalılar ve otlar bulunur ve bu bitkiler, mevsimsel değişimlere göre farklı renkler ve görünümler sunar. Ördekburnu Tepesi'nin iklimi, Gaziantep'in genel iklimine benzer ve genellikle sıca ve kurudur. Ancak, tepenin yüksekliği nedeniyle,sometimes daha serin bir hava olabilir. Tepenin coğrafi konumu, birçok farklı yol ile ulaşım olanakları sunar ve bu nedenle, buraya ulaşmak nispeten kolaydır.
+Ördekburnu Tepesi, Gaziantep'in güneydoğusunda yer alan bir tepe olup, şehrin coğrafi yapısına önemli bir katkı sağlar. Tepenin yüksekliği, şehrin diğer bölgelerine göre daha yüksektir ve bu nedenle, buradan şehrin panoramik manzarasını izleme mümkündür. Ördekburnu Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olup, bu geniş alan birçok farklı bitki türüne ve zengin faunaya ev sahipliği yapar. Tepenin etrafında, çeşitli ağaçlar, çalılar ve otlar bulunur ve bu bitkiler, mevsimsel değişimlere göre farklı renkler ve görünümler sunar. Ördekburnu Tepesi'nin iklimi, Gaziantep'in genel iklimine benzer ve genellikle sıcak ve kurudur. Ancak, tepenin yüksekliği nedeniyle,sometimes daha serin bir hava olabilir. Tepenin coğrafi konumu, birçok farklı yol ile ulaşım olanakları sunar ve bu nedenle, buraya ulaşmak nispeten kolaydır.
 
 ## Flora ve Fauna
 

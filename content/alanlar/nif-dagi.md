@@ -45,7 +45,7 @@ Gökyüzünü kesen Nif Dağı, İzmir'in coğrafi dokusuna önemli bir katkıda
 
 Jeolojik açıdan bakıldığında, Nif Dağı'nın fiziksel yapısı oldukça ilginçtir. Dağın boyutları, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu alan, Taksim Meydanı'nın birkaç katı büyüklüğünde bir bölgeyi kapsıyor. Ancak, Nif Dağı'nın yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadar bir yükseklikte, yani yaklaşık 200-250 metre civarında bir yükseklikte yer alıyor.
 
-Mevsimsel açıdan bakıldığında, Nif Dağı'nın iklim karakteri Akdeniz ikliminin özelliklerini taşıyor. Kış aylarında ılıman, yaz aylarında ise sıca ve kurak bir hava durumu hakim. Bu mevsimsel özellikler, Nif Dağı'nın flora ve fauna çeşitliliğini etkiliyor. Dağın eteklerinde ve zirvesinde, farklı mevsimlerde farklı bitki türleri ve hayvanlar bulunabiliyor.
+Mevsimsel açıdan bakıldığında, Nif Dağı'nın iklim karakteri Akdeniz ikliminin özelliklerini taşıyor. Kış aylarında ılıman, yaz aylarında ise sıcak ve kurak bir hava durumu hakim. Bu mevsimsel özellikler, Nif Dağı'nın flora ve fauna çeşitliliğini etkiliyor. Dağın eteklerinde ve zirvesinde, farklı mevsimlerde farklı bitki türleri ve hayvanlar bulunabiliyor.
 
 Çevresel açıdan bakıldığında, Nif Dağı, komşu alanlar ve su kaynakları ile önemli bir bağlantıya sahip. Dağın eteklerinde, çeşitli tarım alanları ve ormanlık bölgeler yer alıyor. Ayrıca, Nif Dağı, yakın çevresindeki su kaynaklarına önemli bir katkıda bulunuyor. Bu su kaynakları, bölgenin ekosistemini destekleyen önemli bir bileşen olarak dikkat çekiyor.
 

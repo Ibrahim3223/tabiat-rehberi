@@ -30,7 +30,7 @@ Antalya-Finike-Aykiricay Sedir 1 milli parkının tarihi geçmişi, yüzyıllar 
 
 ## Coğrafya
 
-Antalya-Finike-Aykiricay Sedir 1 milli parkı, coğrafi olarak oldukça özel bir konumda yer alıyor. Akdeniz Bölgesi'nin güneyinde, Finike ilçesi sınırları içinde bulunan bu park, Aykiricay Nehri'nin vadisini çevreliyor. Parkın coğrafyası, dağlık ve engebeli arazilerle karakterize ediliyor ve bu da çeşitli ekosistemlerin oluşmasına imkan tanıyor. İklim, Akdeniz ikliminin karakteristik özelliklerini taşıyor; yazlar sıca ve kurak, kışlar ılıman ve yağışlı geçiyor. Bu coğrafi çeşitlilik, flora ve fauna için ideal koşulları sağlıyor ve ziyaretçilere zengin bir doğa deneyimi sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere doğanın farklı yönlerini keşfetme şansı veriyor.
+Antalya-Finike-Aykiricay Sedir 1 milli parkı, coğrafi olarak oldukça özel bir konumda yer alıyor. Akdeniz Bölgesi'nin güneyinde, Finike ilçesi sınırları içinde bulunan bu park, Aykiricay Nehri'nin vadisini çevreliyor. Parkın coğrafyası, dağlık ve engebeli arazilerle karakterize ediliyor ve bu da çeşitli ekosistemlerin oluşmasına imkan tanıyor. İklim, Akdeniz ikliminin karakteristik özelliklerini taşıyor; yazlar sıcak ve kurak, kışlar ılıman ve yağışlı geçiyor. Bu coğrafi çeşitlilik, flora ve fauna için ideal koşulları sağlıyor ve ziyaretçilere zengin bir doğa deneyimi sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere doğanın farklı yönlerini keşfetme şansı veriyor.
 
 ## Flora ve Fauna
 

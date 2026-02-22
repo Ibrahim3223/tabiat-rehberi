@@ -45,7 +45,7 @@ Doğunun gizli köşelerinden biri olan Top Tepe, Mardin'in coğrafi güzelliği
 
 Top Tepe'nin fiziksel yapısı, bölgenin jeolojik geçmişini yansıtıyor. Dağın çevresindeki coğrafi oluşumlar, bölgeyi bir şehir bloğu büyüklüğünde alanlara ayırıyor. Bu küçük ama önemli coğrafi oluşumlar, Mardin'in genel yapısını etkiliyor ve bölgenin jeolojik çeşitliliğini gösteriyor. Top Tepe'nin yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadar bir yükseklikte yer alıyor, bu da bölgenin genel olarak alçak bir coğrafi yapıya sahip olduğunu gösteriyor.
 
-Mardin'in iklim karakteri, Top Tepe'nin coğrafi yapısını şekillendiren önemli bir faktör. Bölge, yazları sıca ve kurak, kışları soğu ve yağışlı bir iklim karakterine sahip. Bu mevsimsel özellikler, Top Tepe'nin çevresindeki bitki örtüsünü ve fauna çeşitliliğini etkiliyor. Bölgenin hava durumu, genellikle güneydoğu Anadolu'nun genel iklim karakterine benzerlik gösteriyor.
+Mardin'in iklim karakteri, Top Tepe'nin coğrafi yapısını şekillendiren önemli bir faktör. Bölge, yazları sıcak ve kurak, kışları soğuk ve yağışlı bir iklim karakterine sahip. Bu mevsimsel özellikler, Top Tepe'nin çevresindeki bitki örtüsünü ve fauna çeşitliliğini etkiliyor. Bölgenin hava durumu, genellikle güneydoğu Anadolu'nun genel iklim karakterine benzerlik gösteriyor.
 
 Bölgenin çevresel ilişkileri, Top Tepe'nin coğrafi önemini vurguluyor. Dağın yakınında, çeşitli su kaynakları ve ekosistem bağlantıları yer alıyor. Top Tepe, bölgenin hidrolojik döngüsünü etkileyen önemli bir unsur ve bölgedeki diğer coğrafi oluşumlarla birlikte, Mardin'in doğal dengesini koruyor. Bu doğal denge, bölgenin biyolojik çeşitliliğini zenginleştiren önemli bir faktör ve Top Tepe, bu çeşitliliği korumak için önemli bir rol oynuyor.
 

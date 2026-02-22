@@ -45,7 +45,7 @@ Doğunun gizli köşelerinden biri olan Chia-İ-Shirin Dağı, 37.0122°K, 43.92
 
 Jeolojik açıdan bakıldığında, Chia-İ-Shirin Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmuyor. Ancak, bu dağların çoğu gibi, muhtemelen volkani ve sedimentatif kayaçlardan oluşuyor. Bu dağların yüksekliği, Eiffel Kulesi'nin yüksekliğine benzer, ancak bu dağların büyüklüğü, Monaco'nun yarısı kadar bir alanı kaplıyor.
 
-İklim açısından, Chia-İ-Shirin Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir bölgede yer alıyor. Yaz aylarında sıca ve kurak, kış aylarında ise soğu ve karlı olan bu iklim, dağların doğal güzelliğini etkiliyor. Bu bölgede, mevsimsel değişiklikler oldukça belirgin ve bu, ekosistemi ảnhlandırıyor.
+İklim açısından, Chia-İ-Shirin Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir bölgede yer alıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı olan bu iklim, dağların doğal güzelliğini etkiliyor. Bu bölgede, mevsimsel değişiklikler oldukça belirgin ve bu, ekosistemi ảnhlandırıyor.
 
 Çevresel açıdan, Chia-İ-Shirin Dağı, komşu alanlarla ve su kaynaklarıyla bağlantılı bir bölgede yer alıyor. Bu dağların eteklerinde, çeşitli nehirler ve akarsular bulunmakta ve bu su kaynakları, bölgenin ekosistemini desteklemekte. Ayrıca, bu dağlar, çeşitli bitki ve hayvan türlerinin habitatı olarak da önemli bir rol oynamakta. Bu nedenle, Chia-İ-Shirin Dağı, doğal güzelliği ve çevresel önemi nedeniyle, önemli bir coğrafi bölge olarak kabul edilebilir.
 

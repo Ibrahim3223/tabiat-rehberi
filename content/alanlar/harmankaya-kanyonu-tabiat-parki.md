@@ -37,7 +37,7 @@ Harmankaya Kanyonu Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca şek
 
 ## Coğrafya
 
-Harmankaya Kanyonu Tabiat Parkı, Marmara Bölgesi'nin Bilecik ilinde yer alıyor. Parkın coğrafi yapısı, kanyonun derinliği ve çevredeki dağlarla birlikte zengin bir manzara sunuyor. Parkın toplam alanı 140 hektar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Parkın coğrafi konumu, ziyaretçilere geniş bir görüş açısı sağlıyor ve çevredeki bitki ve hayvan türlerinilemek için ideal bir yer sunuyor. Parkın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişkenlik gösteriyor. Kış aylarında soğu ve yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hakim. Parkın coğrafi yapısı ve iklimi, ziyaretçilere yılın her döneminde farklı deneyimler sunuyor. Çevredeki dağlar ve kanyon, parkın güzelliğini artırıyor ve ziyaretçilere unutulmaz bir gezi deneyimi sunuyor.
+Harmankaya Kanyonu Tabiat Parkı, Marmara Bölgesi'nin Bilecik ilinde yer alıyor. Parkın coğrafi yapısı, kanyonun derinliği ve çevredeki dağlarla birlikte zengin bir manzara sunuyor. Parkın toplam alanı 140 hektar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Parkın coğrafi konumu, ziyaretçilere geniş bir görüş açısı sağlıyor ve çevredeki bitki ve hayvan türlerinilemek için ideal bir yer sunuyor. Parkın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişkenlik gösteriyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hakim. Parkın coğrafi yapısı ve iklimi, ziyaretçilere yılın her döneminde farklı deneyimler sunuyor. Çevredeki dağlar ve kanyon, parkın güzelliğini artırıyor ve ziyaretçilere unutulmaz bir gezi deneyimi sunuyor.
 
 ## Flora ve Fauna
 

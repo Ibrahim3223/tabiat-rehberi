@@ -42,7 +42,7 @@ Demirci Dağı, Manisa'nın coğrafi haritasında önemli bir yere sahiptir. 39.
 
 Jeolojik açıdan bakıldığında, Demirci Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, bölgenin genel coğrafyası dikkate alındığında, dağlık bir araziye sahip olduğu söylenebilir. Bu bölgenin boyutları, Monaco'nun küçük bir bölümü kadar olabilir, ancak tam boyutu hakkında net bir bilgi bulunmuyor.
 
-İklim açısından Demirci Dağı, Manisa'nın genel iklim karakterini yansıtır. Bölge, Akdeniz ikliminin etkisinde kalır ve yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu görülür. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler.
+İklim açısından Demirci Dağı, Manisa'nın genel iklim karakterini yansıtır. Bölge, Akdeniz ikliminin etkisinde kalır ve yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu görülür. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler.
 
 Demirci Dağı, çevresindeki coğrafi oluşumlarla da önemli bir ilişkiye sahiptir. Bölge, komşu dağlarla birlikte bir ekosistem ağı oluşturur ve su kaynaklarının oluşumunda önemli bir role sahiptir. Taksim Meydanı'nın birkaç katı büyüklüğünde olan bu dağ, çevredeki doğal yaşamın dengesini korur ve bölgenin ekolojik zenginliğini sağlar.
 

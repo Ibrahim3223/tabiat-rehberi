@@ -44,7 +44,7 @@ Güneydoğu Anadolu'nun kalbinde yer alan Şanlıurfa ilinin bir parçası olan 
 
 Doğal bir oluşum olarak Aktaş Tepe, bölgenin jeolojik yapısını yansıtıyor. Ancak, detalı fiziksel veri bulunmaması nedeniyle, tepe hakkında net bir boyut veya şekil bilgisi verilemiyor. Buna karşın, tepeyi çevreleyen coğrafya, bölgenin tarihi ve kültürel önemini vurguluyor. Şanlıurfa'nın geniş ovasına hakim olan tepe, bölgenin stratejik bir noktası olarak görünüyor.
 
-Mevsimsel değişiklikler, Aktaş Tepe'nin iklim karakterini şekillendiriyor. Güneydoğu Anadolu'nun genel iklim koşullarına uygun olarak, tepe de sıca ve kurak yazlarla birlikte soğu ve yağışlı kışları yaşıyor. Bu mevsimsel özellikler, tepe ve çevresinin flora ve fauna çeşitliliğini etkiliyor. Bölgenin iklimi, tepeye özgü bitkilerin ve hayvanların yaşamını belirleyen önemli bir faktör.
+Mevsimsel değişiklikler, Aktaş Tepe'nin iklim karakterini şekillendiriyor. Güneydoğu Anadolu'nun genel iklim koşullarına uygun olarak, tepe de sıcak ve kurak yazlarla birlikte soğuk ve yağışlı kışları yaşıyor. Bu mevsimsel özellikler, tepe ve çevresinin flora ve fauna çeşitliliğini etkiliyor. Bölgenin iklimi, tepeye özgü bitkilerin ve hayvanların yaşamını belirleyen önemli bir faktör.
 
 Bölgenin hidrolojik yapısını etkileyen su kaynakları, Aktaş Tepe'nin çevresel ilişkilerini de şekillendiriyor. Tepe, yakın çevresindeki su kaynakları ve ekosistem bağlantıları ile bir bütün olarak düşünülüyor. Şanlıurfa'nın sulak alanları ve tarım arazileri, tepe ile birlikte bölgenin doğal dengesini koruyor. Bu doğal denge, bölgenin ekolojik zenginliğini koruyarak, Aktaş Tepe'nin bir parçası olduğu daha geniş ekosistemi desteklemeye devam ediyor.
 

@@ -43,7 +43,7 @@ Doğu Anadolu Bölgesi'nin güzide illerinden Van'da yer alan Muradiye Dağı, 3
 
 Jeolojik açıdan bakıldığında, Muradiye Dağı'nın oluşumu ve yapısı hakkında cụ thể bilgiler bulunmasa da, genel olarak Doğu Anadolu Bölgesi'nin volkani ve dağlık yapısına uygun olarak düşünülebilir. Bu bölgedeki dağlar, genellikle yükse ve engebeli arazilerle karakterize ediliyor. Muradiye Dağı da bu coğrafi özelliklere uygun olarak, bölgenin diğer dağları ile benzerlik gösteriyor.
 
-İklim açısından Muradiye Dağı, Van'ın karasal ikliminin etkilerini taşıyor. Bölge, yaz aylarında sıca ve kurak, kış aylarında ise soğu ve kar yağışlı passes. Bu mevsimsel değişiklikler, Muradiye Dağı'nın ekosistemini ve bitki örtüsünü şekillendiriyor. Dağın yüksek kesimlerinde, karların erimesi ve yağmurun etkisiyle formedilen akarsular, bölgenin su kaynaklarını besliyor.
+İklim açısından Muradiye Dağı, Van'ın karasal ikliminin etkilerini taşıyor. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve kar yağışlı passes. Bu mevsimsel değişiklikler, Muradiye Dağı'nın ekosistemini ve bitki örtüsünü şekillendiriyor. Dağın yüksek kesimlerinde, karların erimesi ve yağmurun etkisiyle formedilen akarsular, bölgenin su kaynaklarını besliyor.
 
 Çevresel açıdan bakıldığında, Muradiye Dağı, Van Gölü'nün kuzeydoğusunda yer alıyor ve bu önemli su kaynağına yakın mesafede bulunuyor. Dağın eteklerinde ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşadığından, ekosistem bağlantıları oldukça önemli. Muradiye Dağı, Van'ın doğal güzelliklerini koruma altına alma ve bölgenin ekolojik dengesini korumak açısından kritik bir role sahip.
 

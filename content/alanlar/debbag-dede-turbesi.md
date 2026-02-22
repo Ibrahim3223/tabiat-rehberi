@@ -37,7 +37,7 @@ Debbağ Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
 
 ## Coğrafya
 
-Debbağ Dede Türbesi, Karadeniz Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Türbe, Göynük ilçesinin merkezine uzun bir mesafe uzaklıktadır. Bu bölge, yeşillik alanları ve ormanlarla çevrilidir. Debbağ Dede Türbesi, 140 hektarlık yeşil alanının yanı sıra, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bölgenin iklimi, Karadeniz ikliminin característicasını taşır ve yağışlı bir bölgedir. Türbe, deniz seviyesinden yaklaşık yüksek bir konumdate yer alır. Debbağ Dede Türbesi'nin coğrafi konumu, ziyaretçiler için önemli bir çekim noktasıdır. Türbe, doğal güzellikleri ve tarihi değerleriyle bir araya geldiğinde, ziyaretçilere özel bir deneyim sunar.
+Debbağ Dede Türbesi, Karadeniz Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Türbe, Göynük ilçesinin merkezine uzun bir mesafe uzaklıktadır. Bu bölge, yeşillik alanları ve ormanlarla çevrilidir. Debbağ Dede Türbesi, 140 hektarlık yeşil alanının yanı sıra, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bölgenin iklimi, Karadeniz ikliminin característicasını taşır ve yağışlı bir bölgedir. Türbe, yüksek bir konumda yer alır. Debbağ Dede Türbesi'nin coğrafi konumu, ziyaretçiler için önemli bir çekim noktasıdır. Türbe, doğal güzellikleri ve tarihi değerleriyle bir araya geldiğinde, ziyaretçilere özel bir deneyim sunar.
 
 ## Flora ve Fauna
 

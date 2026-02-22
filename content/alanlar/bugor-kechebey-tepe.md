@@ -36,11 +36,11 @@ Bugor Kechebey-tepe'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu b
 
 ## Coğrafya
 
-Bugor Kechebey-tepe, Hatay'ın coğrafi yapısına uygun olarak, dağlık ve engebeli bir bölge. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve doğu-batı doğrultusunda uzanan bir sırtla birlikte, çevreye hakim bir konumda bulunuyor. Tepe, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor ve bu yükseklik, ziyaretçilere geniş bir manzara sunuyor. Bu bölge, iklim olarak Akdeniz ikliminin etkisinde ve yazları sıcak, kışları ılıman geçiyor. Yağışlar, genellikle kış ve ilkbahar aylarında görülüyor. Bu tepe, çevreye hakim bir konumda ve geniş bir manzara sunuyor. Ziyaretçiler, bu bölgeyi keşfederek hem doğal güzellikleri hem de tarihi kalıntıları görebiliyorlar.
+Bugor Kechebey-tepe, Hatay'ın coğrafi yapısına uygun olarak, dağlık ve engebeli bir bölge. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve doğu-batı doğrultusunda uzanan bir sırtla birlikte, çevreye hakim bir konumda bulunuyor. Tepe, yüksek bir konumda yer alıyor ve bu yükseklik, ziyaretçilere geniş bir manzara sunuyor. Bu bölge, iklim olarak Akdeniz ikliminin etkisinde ve yazları sıcak, kışları ılıman geçiyor. Yağışlar, genellikle kış ve ilkbahar aylarında görülüyor. Bu tepe, çevreye hakim bir konumda ve geniş bir manzara sunuyor. Ziyaretçiler, bu bölgeyi keşfederek hem doğal güzellikleri hem de tarihi kalıntıları görebiliyorlar.
 
 ## Flora ve Fauna
 
-Bugor Kechebey-tepe, çeşitli bitki türleri ve zengin fauna ile birlikte, doğa severlerin ilgisini çekiyor. Bu bölge, mevsimsel değişimlere göre farklı bitki türlerine ev sahipliği yapıyor. Kış aylarında, bölgeye özgü bitkiler, ziyaretçilere renkli bir manzara sunuyor. Yaz aylarında, bölge, sıca ve kurak bir iklimin etkisi altında kalıyor. Bu tepe, yaban hayatı açısından da zengin bir bölge. Çeşitli hayvan türleri, bu bölgede yaşamlarını sürdürüyor. Ziyaretçiler, bu bölgeyi keşfederek hem doğal güzellikleri hem de tarihi kalıntıları görebiliyorlar.
+Bugor Kechebey-tepe, çeşitli bitki türleri ve zengin fauna ile birlikte, doğa severlerin ilgisini çekiyor. Bu bölge, mevsimsel değişimlere göre farklı bitki türlerine ev sahipliği yapıyor. Kış aylarında, bölgeye özgü bitkiler, ziyaretçilere renkli bir manzara sunuyor. Yaz aylarında, bölge, sıcak ve kurak bir iklimin etkisi altında kalıyor. Bu tepe, yaban hayatı açısından da zengin bir bölge. Çeşitli hayvan türleri, bu bölgede yaşamlarını sürdürüyor. Ziyaretçiler, bu bölgeyi keşfederek hem doğal güzellikleri hem de tarihi kalıntıları görebiliyorlar.
 
 ## Ziyaret Bilgileri
 
@@ -49,7 +49,7 @@ Bugor Kechebey-tepe'yi ziyaret etmek, doğa severler ve tarih meraklıları içi
 ## İlginç Bilgiler
 
 - Bugor Kechebey-tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
-- Bu tepe, deniz seviyesinden yaklaşık yüksek bir konumdate yer alıyor.
+- Bu tepe, yüksek bir konumda yer alıyor.
 - Bu bölge, iklim olarak Akdeniz ikliminin etkisinde ve yazları sıcak, kışları ılıman geçiyor.
 - Ziyaretçiler, bu bölgeyi keşfederek hem doğal güzellikleri hem de tarihi kalıntıları görebiliyorlar.
 - Bu tepe, yaban hayatı açısından da zengin bir bölge.

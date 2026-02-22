@@ -44,7 +44,7 @@ Mersin'in doğusunda, Akdeniz'in turquoise sularına yakın bir konumda yer alan
 
 Doğal bir anıt olan Salucin Mağarası, jeolojik açıdan zengin bir yapıya sahiptir. Mağaranın oluşumu, milyonlarca yıl önce Toros Dağları'nın oluşumuna paralel olarak gerçekleşmiştir. Bu oluşum, bölgenin jeolojik tarihini anlamak için önemli bir ipucu sunmaktadır. Mağaranın boyutları hakkında detaylı bilgi olmasa da, bu tür jeolojik oluşumlar genellikle birkaç olimpik havuz kadar geniş alanları kaplayabilmektedir.
 
-İklim açısından bakıldığında, Salucin Mağarası ve çevresi, Akdeniz ikliminin karakteristik özelliklerini taşır. Bölge, yaz aylarında sıca ve kuru, kış aylarında ise ılık ve yağışlı bir hava durumuna sahiptir. Bu mevsimsel özellikler, mağaranın içinde ve dışında yaşayan ekosistemi etkilemektedir. Mağara, çevredeki dağların gölgesinde yer aldığı için, dışarıdaki sıcaklık değişimlerinden kısmen izole edilmektedir.
+İklim açısından bakıldığında, Salucin Mağarası ve çevresi, Akdeniz ikliminin karakteristik özelliklerini taşır. Bölge, yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı bir hava durumuna sahiptir. Bu mevsimsel özellikler, mağaranın içinde ve dışında yaşayan ekosistemi etkilemektedir. Mağara, çevredeki dağların gölgesinde yer aldığı için, dışarıdaki sıcaklık değişimlerinden kısmen izole edilmektedir.
 
 Salucin Mağarası, Toros Dağları'nın bir parçası olarak, bölgenin ekosistem bağlantılarını oluşturmaktadır. Mağaranın yakınında, çeşitli su kaynakları ve bitki örtüsü bulunmaktadır. Bu su kaynakları, bölgenin fauna ve florasını desteklemektedir. Mağara ve çevresi, Monaco'nun yarısı kadar bir alanı kaplayabilen geniş bir doğal alanın parçası olarak, bölgenin biyolojik çeşitliliğini korumak için önemli bir rol oynamaktadır.
 

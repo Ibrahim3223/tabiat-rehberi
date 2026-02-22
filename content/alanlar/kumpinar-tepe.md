@@ -44,7 +44,7 @@ Gökyüzüne uzanan Kumpınar Tepe, Manisa'nın dağlık bölgelerinde yer alıy
 
 Coğrafi olarak bakıldığında, Kumpınar Tepe'nin çevresinde dağlık bir arazi uzanıyor. Bu dağlık bölge, yaklaşık olarak 20 km çapında bir alanı kapsıyor. Bu alan, Taksim Meydanı'nın 10 katı büyüklüğünde bir bölgeyi kapsıyor. Kumpınar Tepe'nin yüksekliği, Eiffel Kulesi'nin 2 katı yükseklikte, yaklaşık 300 metre. Bu yükseklik, tepeye tırmananların bölgeyi panoramik olarak görmesine olanak sağlıyor.
 
-Mevsimsel olarak bakıldığında, Kumpınar Tepe'nin iklimi, Ege Bölgesi'nin genel iklimine benzer. Yaz aylarında sıca ve kuru, kış aylarında ise ılık ve yağışlı bir iklim hüküm sürüyor. Bu iklim, bölgenin florası ve faunası için ideal koşulları sağlıyor. Bölgede bulunan bitki türleri, mevsimsel değişikliklere uyum sağlayabilen türlerden oluşuyor.
+Mevsimsel olarak bakıldığında, Kumpınar Tepe'nin iklimi, Ege Bölgesi'nin genel iklimine benzer. Yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı bir iklim hüküm sürüyor. Bu iklim, bölgenin florası ve faunası için ideal koşulları sağlıyor. Bölgede bulunan bitki türleri, mevsimsel değişikliklere uyum sağlayabilen türlerden oluşuyor.
 
 Doğal kaynaklar açısından, Kumpınar Tepe'nin çevresinde beberapa su kaynağı bulunuyor. Bu su kaynakları, bölgenin ekosistemini destekleyen önemli faktörler. Ayrıca, tepe ve çevresindeki araziler, bölgenin önemli bir bölümünü oluşturan ormanlık alanlarla kaplı. Bu ormanlar, bölgenin fauna çeşitliliğini destekleyen önemli bir unsur. Kumpınar Tepe, bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon.
 

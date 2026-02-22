@@ -42,7 +42,7 @@ Doğunun gizli cevherlerinden biri olan Akndaşt, Van'ın merkezi ile yaklaşık
 
 Jeolojik açıdan bakıldığında, Akndaşt'ın fiziksel yapısı oldukça ilginç. Maalesef, bu alana dair detaylı fiziksel veriler mevcut değil, ancak bu bölgenin yer aldığı Van Gölü havzası, yaklaşık 3.700 kilometrekarelik bir alanı kapsıyor. Bu, Monaco'nun yarısından biraz daha büyük bir alanı temsil ediyor. Bu genişlik, Akndaşt'ın kendi başına küçük bir dünya gibi hissedilmesine yol açıyor.
 
-İklim açısından, Akndaşt Van'ın genel iklim karakterini paylaşıyor. Bu bölgede, yazlar sıca ve kurak, kışlar ise soğu ve kar yağışlı geçiyor. Van Gölü'nün etkisini de hesaba katarak, bu bölgenin iklimi, gölün su seviyesini ve çevresindeki bitki örtüsünü etkiliyor. Mevsimsel değişimler, bu bölgenin güzelliğini ve canlılığını artıran önemli bir faktör.
+İklim açısından, Akndaşt Van'ın genel iklim karakterini paylaşıyor. Bu bölgede, yazlar sıcak ve kurak, kışlar ise soğuk ve kar yağışlı geçiyor. Van Gölü'nün etkisini de hesaba katarak, bu bölgenin iklimi, gölün su seviyesini ve çevresindeki bitki örtüsünü etkiliyor. Mevsimsel değişimler, bu bölgenin güzelliğini ve canlılığını artıran önemli bir faktör.
 
 Çevresel açıdan, Akndaşt'ın komşu alanları ve su kaynakları, bölge ekosisteminin önemli bileşenleri. Van Gölü, bu bölgenin su kaynakları açısından en önemli bileşeni. Gölün suyu, bölgedeki tarım ve hayvancılık için hayati önem taşıyor. Ayrıca, gölün etrafındaki dağlar, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. Bu doğal denge, Akndaşt'ın güzelliğini ve canlılığını korumanın anahtarı.
 

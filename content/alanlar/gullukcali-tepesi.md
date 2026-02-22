@@ -36,7 +36,7 @@ Güllükçalı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. T
 
 ## Coğrafya
 
-Güllükçalı Tepesi, Ankara'nın coğrafi yapısını yansıtan bir tepe. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve yaban hayatı açısından zengin. Tepenin yüksekliği, Ankara'nın genel coğrafi yapısına uygun olarak değişiyor. Tepenin bulunduğu bölgede, çeşitli iklim koşulları hüküm sürüyor. Kış aylarında soğu ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hakim. Güllükçalı Tepesi, Ankara'nın coğrafi çeşitliliğini yansıtan bir bölge. Tepenin etrafında, çeşitli su kaynakları ve akarsular bulunuyor. Bu su kaynakları, tepenin coğrafi yapısını şekillendiren önemli faktörler arasında.
+Güllükçalı Tepesi, Ankara'nın coğrafi yapısını yansıtan bir tepe. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve yaban hayatı açısından zengin. Tepenin yüksekliği, Ankara'nın genel coğrafi yapısına uygun olarak değişiyor. Tepenin bulunduğu bölgede, çeşitli iklim koşulları hüküm sürüyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hakim. Güllükçalı Tepesi, Ankara'nın coğrafi çeşitliliğini yansıtan bir bölge. Tepenin etrafında, çeşitli su kaynakları ve akarsular bulunuyor. Bu su kaynakları, tepenin coğrafi yapısını şekillendiren önemli faktörler arasında.
 
 ## Flora ve Fauna
 

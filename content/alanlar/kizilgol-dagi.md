@@ -45,7 +45,7 @@ Doğunun gizli köşelerinden biri olan Kızılgöl Dağı, 38.3597°K, 36.1574�
 
 Jeolojik açıdan bakıldığında, Kızılgöl Dağı'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, genel olarak bu bölgenin dağlık ve engebeli bir araziye sahip olduğu biliniyor. Koordinatları dikkate alındığında, bu dağın yaklaşık olarak Taksim Meydanı'nın 10 katı büyüklüğünde bir alanı kapladığı söylenebilir. Bu büyüklük, Kızılgöl Dağı'nın önemli bir coğrafi oluşum olduğunu gösteriyor.
 
-Mevsimsel değişimlerin etkisi altında olan Kızılgöl Dağı, iklim açısından oldukça çeşitli bir yapıya sahip. Kış aylarında karla kaplı olan dağ, yaz aylarında ise yeşilin farklı tonlarına bürünüyor. Hava durumu, mevsimlere göre değişkenlik gösteriyor; yazın sıca ve kurak, kışın ise soğu ve karlı geçiyor. Bu iklim karakteri, dağın flora ve fauna çeşitliliğini etkiliyor.
+Mevsimsel değişimlerin etkisi altında olan Kızılgöl Dağı, iklim açısından oldukça çeşitli bir yapıya sahip. Kış aylarında karla kaplı olan dağ, yaz aylarında ise yeşilin farklı tonlarına bürünüyor. Hava durumu, mevsimlere göre değişkenlik gösteriyor; yazın sıcak ve kurak, kışın ise soğuk ve karlı geçiyor. Bu iklim karakteri, dağın flora ve fauna çeşitliliğini etkiliyor.
 
 Çevresel açıdan bakıldığında, Kızılgöl Dağı, komşu alanlarla ve su kaynaklarıyla bağlantılı bir ekosistemin parçası. Bu dağ, bölgedeki diğer dağlarla birlikte, bir su toplama havzası oluşturuyor ve yakın çevredeki nehirlerin beslenmesine katkıda bulunuyor. Monaco'nun yarısı kadar bir alanı kaplayan bu dağlık bölge, çevresindeki ekosistemi destekleyen önemli bir doğal kaynak olarak görülüyor.
 

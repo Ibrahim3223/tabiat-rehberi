@@ -43,7 +43,7 @@ Kartüz Dağı, Akdeniz Bölgesi'nin güneyinde, 37.5383° kuzey enlemi ve 31.34
 
 Doğal güzelliği ile dikkat çeken Kartüz Dağı, coğrafi olarak çeşitlilik gösteren bir bölgede bulunmaktadır. Dağın boyutları hakkında ayrıntılı bilgi olmasa da, çevresindeki coğrafi oluşumlar ile karşılaştırıldığında, büyük bir alan kapladığı söylenebilir. Örneğin, Monaco'nun yarısı kadar büyük bir alanı kaplayan bu dağ, etrafındaki diğer coğrafi oluşumlar ile birlikte, geniş bir doğal alan oluşturmaktadır.
 
-İklim açısından bakıldığında, Kartüz Dağı'nın bulunduğu bölge, Akdeniz ikliminin karakteristik özelliklerini taşımaktadır. Yaz aylarında sıca ve kurak, kış aylarında ılıman ve yağışlı bir iklim hüküm sürmektedir. Bu mevsimsel özellikler, dağın flora ve fauna açısından zengin bir çeşitlilik göstermesine neden olmaktadır. Örneğin, dağın eteklerinde, zeytin ağaçları ve kestane ağaçları gibi çeşitli bitki türleri bulunmaktadır.
+İklim açısından bakıldığında, Kartüz Dağı'nın bulunduğu bölge, Akdeniz ikliminin karakteristik özelliklerini taşımaktadır. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir iklim hüküm sürmektedir. Bu mevsimsel özellikler, dağın flora ve fauna açısından zengin bir çeşitlilik göstermesine neden olmaktadır. Örneğin, dağın eteklerinde, zeytin ağaçları ve kestane ağaçları gibi çeşitli bitki türleri bulunmaktadır.
 
 Çevresel açıdan, Kartüz Dağı, komşu alanlar ve su kaynakları ile souvisli bir ekosistem oluşturmaktadır. Dağın yakınında, önemli su kaynakları bulunmaktadır. Örneğin, Manavgat Nehri, Kartüz Dağı'nın yakınından geçmektedir. Bu nehir, bölgenin sulama ve içme suyu ihtiyacını karşılamaktadır. Ayrıca, dağın etrafındaki ormanlar, bölgenin ekolojik dengesini korumaktadır.
 

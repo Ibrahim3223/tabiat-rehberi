@@ -38,7 +38,7 @@ Olympos Liman Anıt Mezarları'nın tarihi geçmişi, antik dönemlere kadar uza
 
 ## Coğrafya
 
-Olympos Liman Anıt Mezarları, coğrafi olarak Akdeniz Bölgesi'nin güzelliklerini taşıyor. Kumluca ilçesinde bulunan bu destinasyon, Toros Dağları'nın eteklerinde ve Akdeniz'in kıyısında yer alıyor. Bölge, doğal güzelliği ile dikkat çekiyor ve ziyaretçilere geniş bir sahili, ormanlık alanları ve dağ manzaralarını sunuyor. Olympos Liman Anıt Mezarları, 140 hektarlık bir alanı kaplıyor ve bu geniş alan, çeşitli coğrafi özellikler sunuyor. Bölgenin iklimi, Akdeniz ikliminin özellikleri taşıyor ve genellikle sıca ve kurak yazlar, ılıman ve yağışlı kışlar görülüyor. Bu coğrafi konum, ziyaretçilere zengin bir doğa deneyimi sunuyor.
+Olympos Liman Anıt Mezarları, coğrafi olarak Akdeniz Bölgesi'nin güzelliklerini taşıyor. Kumluca ilçesinde bulunan bu destinasyon, Toros Dağları'nın eteklerinde ve Akdeniz'in kıyısında yer alıyor. Bölge, doğal güzelliği ile dikkat çekiyor ve ziyaretçilere geniş bir sahili, ormanlık alanları ve dağ manzaralarını sunuyor. Olympos Liman Anıt Mezarları, 140 hektarlık bir alanı kaplıyor ve bu geniş alan, çeşitli coğrafi özellikler sunuyor. Bölgenin iklimi, Akdeniz ikliminin özellikleri taşıyor ve genellikle sıcak ve kurak yazlar, ılıman ve yağışlı kışlar görülüyor. Bu coğrafi konum, ziyaretçilere zengin bir doğa deneyimi sunuyor.
 
 ## Flora ve Fauna
 

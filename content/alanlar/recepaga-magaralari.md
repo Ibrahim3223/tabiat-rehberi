@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin kalbinde, Batman şehrinin yakınında yer alan
 
 Doğal bir anıt olarak kabul edilen Recepağa Mağaraları, jeolojik açıdan oldukça önemli bir oluşum. Mağaraların boyutları hakkında detaylı veri olmasa da, bu doğal harikalar, bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Jeolojik yapı itibarıyla, mağaralar kalker kayaların erozyon sonucu oluşmuş ve binlerce yıl boyunca şekillenmiştir. Bu oluşum, bölgenin jeolojik tarihini ve doğal güzelliklerini gözler önüne seriyor.
 
-İklim açısından bakıldığında, Recepağa Mağaraları ve çevresindeki bölge, karasal iklimin etkilerini gösteriyor. Bölge, yaz aylarında sıca ve kuru, kış aylarında ise soğu ve yağışlı bir hava durumuna sahip. Bu mevsimsel değişimler, mağaraların şekillenmesinde ve bölgenin ekosisteminde önemli bir rol oynuyor.
+İklim açısından bakıldığında, Recepağa Mağaraları ve çevresindeki bölge, karasal iklimin etkilerini gösteriyor. Bölge, yaz aylarında sıcak ve kuru, kış aylarında ise soğuk ve yağışlı bir hava durumuna sahip. Bu mevsimsel değişimler, mağaraların şekillenmesinde ve bölgenin ekosisteminde önemli bir rol oynuyor.
 
 Çevresel açıdan, Recepağa Mağaraları, Batman Çayı'nın yakınında yer alıyor. Bu su kaynağı, bölgenin ekosistemini destekleyen önemli bir faktör. Mağaraların yakınında bulunan diğer doğal oluşumlar ve su kaynakları, bölgenin biyolojik çeşitliliğini zenginleştiren önemli unsurlar. Bu doğal güzellikler, Recepağa Mağaraları çevresinde bir ekosistem ağı oluşturuyor ve ziyaretçilere benzersiz bir deneyim sunuyor.
 

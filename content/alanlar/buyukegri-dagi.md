@@ -42,7 +42,7 @@ Mersin'in dağlık bölgesinde yer alan Büyükeğri Dağı, 36.7606°K, 33.5443
 
 Doğal güzelliği ile dikkat çeken bu bölge, coğrafi olarak bir şehir bloğu büyüklüğünde bir alanı kaplar. Koordinatları considering, Büyükeğri Dağı'nın yüksekliği ve şekli hakkında net bir veri bulunmasa da, genel olarak Toros Dağları'nın diğer kısımlarıyla benzerlik gösterdiği söylenebilir. Jeolojik yapı itibariyle, bu dağların çoğu kalker ve şist gibi kayaçlardan oluşur.
 
-İklim açısından bakıldığında, Büyükeğri Dağı ve çevresindeki bölge, Akdeniz ikliminin etkilerini taşır. Yaz aylarında sıca ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler.
+İklim açısından bakıldığında, Büyükeğri Dağı ve çevresindeki bölge, Akdeniz ikliminin etkilerini taşır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler.
 
 Çevresel açıdan, Büyükeğri Dağı, komşu dağlarla birlikte bir ekosistem ağını oluşturur. Su kaynakları açısından, bölgede çeşitli akarsular ve dereler bulunur. Bu su kaynakları, bölgenin ekolojik dengesini korur ve canlı yaşamına katkıda bulunur. Monaco'nun yarısı kadar büyük bir alana spread edilen bu dağlık bölge, Taksim Meydanı'nın birkaç katı büyüklüğünde bir alanı kaplar ve doğal güzelliği ile dikkat çeker.
 
